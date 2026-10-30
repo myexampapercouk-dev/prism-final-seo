@@ -53,3 +53,9 @@
 @media (max-width: 800px) { .pws .pws-grid.list .pws-card .pws-more { grid-column: 2; } }
 .pws-article { min-width: 0; overflow-wrap: break-word; }
 .pws-article table { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* Floating WhatsApp button */
+.wa-float { position: fixed; right: 20px; bottom: 20px; z-index: 60; display: flex; align-items: center; gap: 8px; padding: 12px 18px 12px 14px; border-radius: 999px; background: #25D366; color: #fff; font-family: "Montserrat", sans-serif; font-weight: 600; font-size: 15px; text-decoration: none; box-shadow: 0 12px 30px -8px rgba(37, 211, 102, .6); transition: transform .25s; }
+.wa-float:hover { transform: translateY(-3px); color: #fff; }
+.wa-float svg { width: 24px; height: 24px; fill: #fff; }
+@media (max-width: 480px) { .wa-float { right: 14px; bottom: 14px; padding: 12px; } .wa-float span { display: none; } }
