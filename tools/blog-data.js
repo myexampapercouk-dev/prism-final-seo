@@ -4039,4 +4039,645 @@ module.exports = [
 <p>If you want to understand which audit your site needs and what it should cover, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will talk through your site, your goals and sensible next steps.</p>
 `,
   },
+  {
+    slug: 'ecommerce-cro-uk',
+    seoTitle: 'Ecommerce CRO UK: Conversion Rate Optimisation Guide',
+    title: 'Ecommerce CRO UK: Conversion Rate Optimisation for Checkout, Product Pages and Testing',
+    description: 'Ecommerce CRO in the UK means fixing checkout, product pages and site speed, then testing changes. See priorities, a testing approach and a full checklist.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Ecommerce conversion rate optimisation (CRO) for UK stores means finding where shoppers drop out and fixing it: usually the checkout, product pages, delivery information and site speed. The best order is research first, then fixes that remove friction, then testing once you have enough traffic to measure the difference.</p>
+<p>CRO matters because it multiplies everything else. Every visitor from SEO, Google Shopping or Meta ads lands on the same pages, so a better-converting store makes each channel cheaper. This guide covers the UK specifics, where to start and how to test sensibly.</p>
+
+<h2>Why ecommerce CRO UK work starts with the basics</h2>
+<p>UK shoppers have clear expectations: delivery costs shown early, familiar carriers, easy returns, card and wallet payments, and often buy now pay later options. Stores that hide any of these lose people at the point of purchase. Before clever experiments, check that the basics are in place and working on mobile, where most browsing happens.</p>
+<p>It also helps to agree what success means before any changes go live. For most stores the goal is more revenue per visitor rather than a higher conversion rate at any cost, because discounting heavily can lift conversion while cutting profit. Set a baseline for the main funnel steps, note any promotions or seasonal peaks in the period, and record every change with its date. That simple log makes it far easier to tell later which fixes actually made a difference and which coincided with something else.</p>
+
+<h2>Where to start: research before changes</h2>
+<p>Guessing is the most expensive form of CRO. Collect evidence first.</p>
+<ul>
+<li><strong>Funnel analysis in GA4.</strong> Compare product view to add to basket, basket to checkout, and checkout to purchase. The biggest drop is usually the first place to look.</li>
+<li><strong>Device and browser splits.</strong> A checkout that converts on desktop but not on a particular mobile browser often hides a bug.</li>
+<li><strong>Session recordings and heatmaps.</strong> Watch where people hesitate, rage-click or abandon. Set these tools up with UK GDPR and PECR consent in mind.</li>
+<li><strong>On-site surveys and exit polls.</strong> Ask shoppers what nearly stopped them buying.</li>
+<li><strong>Customer service questions.</strong> Repeated questions about sizing, delivery or returns point to missing page content.</li>
+</ul>
+
+<h2>Checkout optimisation</h2>
+<p>The checkout is where intent is highest, so friction here is costly.</p>
+<ul>
+<li>Allow guest checkout. Forced account creation is a common reason for abandonment.</li>
+<li>Show delivery costs and options before the final step. Surprise costs drive drop-off.</li>
+<li>Offer the payment methods UK shoppers expect: cards, Apple Pay, Google Pay, PayPal, and Klarna or Clearpay where they suit your price points and you are comfortable with the terms.</li>
+<li>Use postcode lookup for addresses to speed up entry and reduce errors.</li>
+<li>Keep fields to a minimum and use the right mobile keyboards.</li>
+<li>Show trust signals near the pay button: secure payment, returns policy, delivery times.</li>
+<li>Make error messages specific and keep entered data when validation fails.</li>
+</ul>
+<p>Platform matters here. Shopify's checkout is standardised and fast; WooCommerce offers more flexibility but needs more care. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> covers the trade-offs.</p>
+
+<h2>Product page optimisation</h2>
+<p>Product pages do the selling. Most improvements come from answering questions before the shopper has to ask.</p>
+<ul>
+<li><strong>Images and video.</strong> Several angles, scale, in-use shots and zoom. Video for products where movement or texture matters.</li>
+<li><strong>Clear price and stock.</strong> Price, offers and availability visible without scrolling.</li>
+<li><strong>Delivery and returns.</strong> State delivery cost, carrier (Royal Mail, Evri, DPD) and estimated dates near the add to basket button.</li>
+<li><strong>Sizing and specifications.</strong> Size guides, dimensions, materials and care instructions.</li>
+<li><strong>Reviews.</strong> Genuine customer reviews with photos, including the critical ones.</li>
+<li><strong>Sticky add to basket on mobile.</strong> Keep the main action in reach as people scroll.</li>
+</ul>
+<p>Good product pages help organic search too. Our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO guide</a> and <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> explain how the same content supports rankings.</p>
+
+<h2>Site-wide factors</h2>
+<table>
+<thead><tr><th>Area</th><th>What to check</th><th>Typical fix</th></tr></thead>
+<tbody>
+<tr><td>Speed</td><td>Core Web Vitals on mobile product and collection pages</td><td>Compress images, remove unused apps and scripts</td></tr>
+<tr><td>Navigation</td><td>Can shoppers reach key categories in two taps?</td><td>Simplify menus, add clear category names</td></tr>
+<tr><td>Search</td><td>Does site search handle typos and synonyms?</td><td>Improve search settings or use a better search app</td></tr>
+<tr><td>Collection pages</td><td>Filters, sorting and product cards</td><td>Add useful filters, show price and ratings on cards</td></tr>
+<tr><td>Basket</td><td>Totals, delivery threshold and next step</td><td>Show free delivery progress and a clear checkout button</td></tr>
+<tr><td>Trust</td><td>Contact details, returns policy, company information</td><td>Make policies easy to find; add a UK contact route</td></tr>
+</tbody>
+</table>
+
+<h2>Testing: when and how</h2>
+<p>A/B testing compares two versions of a page with real traffic. It is powerful but needs enough conversions to produce a reliable answer. Many smaller UK stores do not have that volume, and running underpowered tests produces false winners.</p>
+<h3>If you have high traffic</h3>
+<ol>
+<li>Write a hypothesis based on research: changing X will improve Y because Z.</li>
+<li>Calculate the sample size needed before starting.</li>
+<li>Run the test for full weeks to cover weekday and weekend behaviour.</li>
+<li>Do not stop early because one version looks ahead.</li>
+<li>Record results, including losers, so you build knowledge over time.</li>
+</ol>
+<h3>If you have modest traffic</h3>
+<p>Make evidence-based fixes to obvious friction, then compare conversion rates before and after over a sensible period, adjusting for seasonality and promotions. Focus on bigger changes rather than small tweaks, since small effects are impossible to detect at low volume.</p>
+
+<h2>Prioritising CRO ideas</h2>
+<p>Research usually produces more ideas than you can act on. A simple scoring method keeps the work focused. Rate each idea from one to five on three questions, then work from the highest total down.</p>
+<table>
+<thead><tr><th>Question</th><th>High score when</th><th>Low score when</th></tr></thead>
+<tbody>
+<tr><td>Impact</td><td>It affects a high-traffic page or the checkout</td><td>It affects a rarely visited page</td></tr>
+<tr><td>Evidence</td><td>Analytics, recordings and surveys all point to it</td><td>It is a hunch or a competitor copy</td></tr>
+<tr><td>Ease</td><td>A settings change or small template edit</td><td>A rebuild or a new platform integration</td></tr>
+</tbody>
+</table>
+<p>Quick wins with strong evidence, such as showing delivery costs earlier or fixing a broken mobile form, should go first. Bigger projects, such as a redesign of the product template, can follow once the obvious friction has gone.</p>
+<h3>Measuring the right things</h3>
+<p>Overall conversion rate can mislead, because it moves with traffic mix. A burst of cheap social traffic lowers it even if the site improved. Track step-by-step rates (product view to basket, basket to checkout, checkout to purchase), average order value and revenue per visitor, split by device and channel. Revenue per visitor is often the most honest single measure, since it captures both conversion rate and order value.</p>
+<h3>Avoiding common CRO mistakes</h3>
+<ul>
+<li>Copying a competitor's design without knowing whether it works for them.</li>
+<li>Adding pop-ups, countdown timers and urgency messages that erode trust, or that would not stand up under the CAP Code and consumer protection rules.</li>
+<li>Installing apps for every idea until the site slows down.</li>
+<li>Declaring a test winner after a few days.</li>
+</ul>
+
+<h2>CRO and paid traffic</h2>
+<p>Paid campaigns expose conversion problems quickly because every click has a cost. If your Google Shopping or Meta ads bring visitors who do not buy, landing page work often helps more than further ad changes. Our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> explain the ad side, and our <a href="/services/paid-media/">paid media service</a> sets up tracking before spend scales.</p>
+
+<h2>Ecommerce CRO checklist</h2>
+<ul>
+<li>GA4 funnel set up with add to basket, begin checkout and purchase events.</li>
+<li>Biggest drop-off step identified by device.</li>
+<li>Guest checkout available.</li>
+<li>Delivery costs shown before checkout.</li>
+<li>UK payment options and wallets offered.</li>
+<li>Postcode lookup on address fields.</li>
+<li>Product pages show delivery, returns, sizing and reviews.</li>
+<li>Mobile Core Web Vitals passing on key templates.</li>
+<li>Site search tested with common misspellings.</li>
+<li>Returns policy and contact details easy to find.</li>
+<li>Tests planned only where traffic supports them.</li>
+</ul>
+
+<p>Many CRO fixes are development tasks. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team builds and improves Shopify and WooCommerce stores; new ecommerce sites typically cost £1,500 to £3,500, as set out on our <a href="/pricing/">pricing page</a>. For how CRO fits with SEO and ads, see our <a href="/sectors/ecommerce/">ecommerce sector page</a>. If you want to talk through where your store loses shoppers, <a href="/contact/">book a free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is ecommerce CRO UK?</h3>
+<p>Ecommerce CRO in the UK is the process of increasing the share of store visitors who buy, by researching where they drop out and improving checkout, product pages, delivery information and speed for UK shoppers.</p>
+<h3>What is a good ecommerce conversion rate?</h3>
+<p>It varies widely by sector, price point, device and traffic source, so benchmarks can mislead. Compare your own rate over time and by channel, and focus on improving the weakest step in your funnel.</p>
+<h3>Where should I start with conversion rate optimisation?</h3>
+<p>Start with the checkout and product pages, using GA4 funnel data to find the biggest drop-off. Fix obvious friction such as hidden delivery costs or forced account creation first.</p>
+<h3>Do I need A/B testing for CRO?</h3>
+<p>Not always. A/B testing needs enough conversions to be reliable. Smaller stores often get more from research-led fixes measured before and after.</p>
+<h3>Does site speed affect conversions?</h3>
+<p>Yes. Slow pages, especially on mobile, frustrate shoppers and can reduce sales. Compressing images and removing unused apps are common quick improvements.</p>
+<h3>Should I offer Klarna or Clearpay?</h3>
+<p>Buy now pay later options are familiar to many UK shoppers and can help at some price points. Weigh the fees and the regulatory context, and check the provider's rules before adding them.</p>
+`,
+  },
+  {
+    slug: 'google-shopping-agency-uk',
+    seoTitle: 'Google Shopping Agency UK: What to Expect When Hiring',
+    title: 'Google Shopping Agency UK: Feed Management, Merchant Center and Campaign Structure',
+    description: 'A Google Shopping agency in the UK manages your product feed, Merchant Center and campaigns. See what good work includes, how to compare and what to ask.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Google Shopping agency in the UK manages the three things that decide Shopping results: your product feed, your Merchant Center account and the campaigns that bid on your products. When you hire one, the most useful question is how they improve the feed, because Google uses feed data rather than keywords to decide when your products appear.</p>
+<p>This article is for store owners deciding whether to hire help and how to judge the options. If you want the basics of how Shopping ads work first, read our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide for UK retailers</a>, then come back here for the hiring side.</p>
+
+<h2>What a Google Shopping agency UK should actually do</h2>
+<p>Shopping is a narrower discipline than general PPC. The work splits into feed management, Merchant Center management and campaign management, with tracking underneath all three.</p>
+<table>
+<thead><tr><th>Area</th><th>What good work looks like</th><th>Warning sign</th></tr></thead>
+<tbody>
+<tr><td>Product feed</td><td>Titles rewritten for search terms, full attributes, custom labels for margin and stock</td><td>Feed left exactly as the platform exports it</td></tr>
+<tr><td>Merchant Center</td><td>Errors and warnings fixed weekly, policies and shipping kept accurate</td><td>Disapproved products nobody mentions</td></tr>
+<tr><td>Campaigns</td><td>Structure based on margin, best sellers and search intent</td><td>One campaign for every product with one target</td></tr>
+<tr><td>Tracking</td><td>Purchase values passed accurately, checked against store sales</td><td>Conversions that do not match your orders</td></tr>
+<tr><td>Reporting</td><td>Product-level and category-level performance, by margin</td><td>Only a headline ROAS figure</td></tr>
+</tbody>
+</table>
+
+<h2>Feed management: where the gains usually are</h2>
+<p>Your feed is the product data Google reads: title, description, price, availability, images, brand, GTIN, product type and more. Small feed improvements often outperform bid changes because they decide which searches you are eligible for.</p>
+<h3>Titles</h3>
+<p>Platform exports often use short, branded titles such as a product name with no context. Shoppers search with attributes: brand, product type, material, colour, size, gender. A good agency restructures titles so the most searched words appear first, within Google's guidelines, and tests the change rather than assuming.</p>
+<h3>Attributes and identifiers</h3>
+<p>GTINs, brand, condition, colour, size, material and Google product category all help matching. Missing identifiers limit reach. For own-brand products without GTINs, the feed must declare that correctly.</p>
+<h3>Custom labels</h3>
+<p>Custom labels let campaigns group products by things Google does not know: margin band, best seller, seasonal, clearance, new arrival. These labels are what make a profitable structure possible.</p>
+<h3>Feed tools and rules</h3>
+<p>Many stores use a feed app or supplemental feeds in Merchant Center to apply rules without editing the store. Shopify and WooCommerce both have options; our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> touches on how each handles product data. Ask the agency who owns the rules and whether you can see them.</p>
+
+<h2>Merchant Center management</h2>
+<p>Merchant Center is where products get approved or rejected. It needs ongoing attention, not a single setup.</p>
+<ul>
+<li><strong>Diagnostics.</strong> Errors (price mismatch, missing images, unavailable landing pages) remove products from ads. Warnings quietly limit performance.</li>
+<li><strong>Policies.</strong> Misrepresentation suspensions are often triggered by missing contact details, unclear returns or checkout problems. Your site needs clear UK delivery and returns information.</li>
+<li><strong>Shipping and returns.</strong> Delivery costs and times set in Merchant Center should match your Royal Mail, Evri or DPD options on the site.</li>
+<li><strong>Free listings.</strong> Products can also appear in free listings, which is extra reach from the same feed.</li>
+<li><strong>Promotions and reviews.</strong> Merchant promotions and product ratings can improve click-through where eligible.</li>
+</ul>
+<p>Site issues behind disapprovals often sit on the website rather than in the ads. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team handles those fixes when they are in scope.</p>
+
+<h2>Campaign structure that reflects your margins</h2>
+<p>Google's default is to push stores into Performance Max, which can work well but hides detail. A thoughtful agency chooses structure based on catalogue size, margins and data volume. Our separate Performance Max guide goes deeper on that campaign type.</p>
+<p>Common structures include:</p>
+<ul>
+<li><strong>Margin-based split.</strong> High, medium and low margin products in separate campaigns with different targets.</li>
+<li><strong>Hero products.</strong> Best sellers isolated so they get guaranteed budget.</li>
+<li><strong>Brand vs generic.</strong> Searches containing your brand separated from generic searches, so brand demand does not inflate results.</li>
+<li><strong>Zombie products.</strong> Products with no impressions grouped and tested on their own to find whether any deserve budget.</li>
+</ul>
+<p>Negative keywords, search term reviews and device or location adjustments still matter where the campaign type allows them.</p>
+
+<h2>How to compare Google Shopping agencies</h2>
+<p>Ask every agency the same questions so the answers are comparable.</p>
+<ol>
+<li>How will you improve our feed in the first month, and who maintains it after?</li>
+<li>What do you do when products are disapproved?</li>
+<li>How will you structure campaigns for our margins and catalogue size?</li>
+<li>Will you report by product, category and margin, not just total ROAS?</li>
+<li>Do we keep ownership of Merchant Center, Google Ads and any feed tools?</li>
+<li>What is included in the monthly fee, and is ad spend billed directly to us?</li>
+</ol>
+<p>On costs, our article on <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a> explains typical fee models. Our own retainers start at £350, £750 and £1,500 a month, with ads management listed on the Scale tier; the <a href="/pricing/">pricing page</a> sets out what each includes, and ad spend is always separate.</p>
+
+<h2>When you might not need a specialist</h2>
+<p>A store with a small catalogue, low spend and a clean feed can often run Shopping well in-house. Hiring help makes more sense when:</p>
+<ul>
+<li>You have hundreds or thousands of products and frequent stock changes.</li>
+<li>Merchant Center keeps flagging errors or suspensions.</li>
+<li>Spend has grown but profit has not.</li>
+<li>You are moving platforms or redesigning, which can break the feed and tracking. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">redesign without losing rankings</a> covers the organic side of that risk.</li>
+</ul>
+<p>Shopping also works best alongside organic product visibility; an <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency</a> can improve the same product pages your ads send traffic to.</p>
+
+<h2>What the first 90 days should look like</h2>
+<p>A clear onboarding plan is one of the best ways to tell a capable agency from a vague one. Ask for it in writing before you sign. A sensible sequence looks like this.</p>
+<h3>Weeks 1 to 2: audit and access</h3>
+<p>The agency should get access to Google Ads, Merchant Center, GA4 and your store, then review conversion tracking, feed quality, Merchant Center diagnostics and existing campaign performance by product. You should receive a written list of findings ranked by likely impact, not a generic template.</p>
+<h3>Weeks 3 to 6: fix the foundations</h3>
+<p>Tracking problems come first, because bidding depends on accurate purchase values. Feed work follows: title restructuring for priority categories, missing attributes, custom labels for margin and best sellers, and fixes for disapproved products. Shipping and returns settings in Merchant Center should be checked against what the site actually offers.</p>
+<h3>Weeks 7 to 12: restructure and learn</h3>
+<p>Once data is trustworthy, campaigns can be restructured around margin bands, hero products and brand versus generic demand. Expect some volatility while automated bidding relearns. Changes should be made gradually, with notes on what changed and why, so results can be read properly.</p>
+<p>By the end of the first quarter you should understand which products and categories make money through Shopping, which do not, and what the plan is for each. That understanding is worth more than any single headline number.</p>
+
+<h2>Questions to ask yourself before hiring</h2>
+<p>Agencies can only work with what the business gives them. Before you hire, be clear on your gross margins by category, which products you want to push, your stock position for the next season, and how much you can spend while campaigns learn. Knowing your margin is especially important, because a return on ad spend that looks healthy can still lose money on low-margin lines.</p>
+
+<h2>Google Shopping hiring checklist</h2>
+<ul>
+<li>Agency explains a specific feed improvement plan.</li>
+<li>Merchant Center diagnostics reviewed during the pitch or audit.</li>
+<li>Structure proposed around margin and best sellers.</li>
+<li>Conversion tracking checked against real orders.</li>
+<li>Reporting at product and category level.</li>
+<li>You own every account and feed tool.</li>
+<li>Fee scope written down; ad spend billed directly.</li>
+<li>No guaranteed ROAS or sales promises.</li>
+</ul>
+
+<p>For a wider view of how Shopping fits with SEO and social, see our <a href="/sectors/ecommerce/">ecommerce sector page</a> and our <a href="/services/paid-media/">paid media service</a>. If you would like us to look over your feed and Merchant Center, <a href="/contact/">book a free discovery call</a> and we will talk through what we see.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Google Shopping agency UK do?</h3>
+<p>It manages your product feed, keeps Merchant Center healthy and runs the Shopping or Performance Max campaigns that show your products. Good agencies also check tracking against your actual sales and report by product and margin.</p>
+<h3>Is feed management really that important?</h3>
+<p>Yes. Shopping ads do not use keywords in the way search ads do. Google matches searches to your feed data, so titles, attributes and identifiers decide which searches you can appear for.</p>
+<h3>Why are my products disapproved in Merchant Center?</h3>
+<p>Common causes are price or stock mismatches, missing identifiers, image problems, unavailable landing pages and policy issues such as unclear returns or contact details. The Diagnostics tab lists each issue.</p>
+<h3>Should I use Performance Max or Standard Shopping?</h3>
+<p>It depends on your data volume and how much control you need. Performance Max suits accounts with enough conversions and good assets; Standard Shopping gives more visibility of search terms and bids. Many stores test both.</p>
+<h3>How long until Google Shopping improvements show?</h3>
+<p>Feed fixes can affect impressions within days or weeks, but stable results usually take three to six months as campaigns learn and structure is refined.</p>
+<h3>Is ad spend included in an agency fee?</h3>
+<p>It should not be. Ad spend is paid to Google directly, usually on your own card, and the agency fee covers management. Always confirm this in writing.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-agency-uk',
+    seoTitle: 'Meta Ads Agency UK: Facebook and Instagram Ads Guide',
+    title: 'Meta Ads Agency UK: When Facebook and Instagram Ads Work, Setup, Creative Testing and Costs',
+    description: 'A Meta ads agency in the UK plans and tests Facebook and Instagram campaigns. See when Meta works, the setup, creative testing and costs to compare.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Meta ads agency in the UK plans, builds and manages your Facebook and Instagram advertising: audiences, creative, tracking, budgets and testing. Meta works best for businesses with a visual product or a clear, impulse-friendly offer, because people are scrolling rather than searching, so the ad has to create the demand.</p>
+<p>This guide explains when Meta is the right channel, how a sound account is set up, how creative testing should run, and what to compare when you look at costs. If you are weighing Meta against Google, our guides to a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> and <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> cover the search side.</p>
+
+<h2>When Meta ads work (and when they do not)</h2>
+<p>Search ads catch people who already know what they want. Meta ads interrupt people who were not looking. That difference decides whether the channel suits you.</p>
+<p>Meta tends to work well when:</p>
+<ul>
+<li>The product looks good in a photo or a short video: fashion, homeware, beauty, food and drink, gifts, fitness.</li>
+<li>The price point allows an impulse or near-impulse purchase, or there is an easy first step such as a sample, a quiz or a booking.</li>
+<li>You have a story to tell: a founder angle, a sustainable material, a problem the product solves in a way people can see.</li>
+<li>You want to build an audience you can retarget later through search, email and shopping ads.</li>
+</ul>
+<p>Meta is harder when buyers need to research at length, when the market is tiny and highly specific, or when the offer is something nobody browses for, such as an emergency service. In those cases search usually earns its place first, and Meta becomes a supporting retargeting channel.</p>
+
+<table>
+<thead><tr><th>Business type</th><th>Meta fit</th><th>Typical role</th></tr></thead>
+<tbody>
+<tr><td>Ecommerce with visual products</td><td>Strong</td><td>Prospecting and retargeting, often a main sales channel</td></tr>
+<tr><td>Local services (salons, gyms, clinics)</td><td>Good</td><td>Local offers, bookings and lead forms</td></tr>
+<tr><td>Hospitality and events</td><td>Good</td><td>Seasonal campaigns, direct bookings and ticket sales</td></tr>
+<tr><td>B2B with long sales cycles</td><td>Mixed</td><td>Retargeting and content promotion; LinkedIn often leads</td></tr>
+<tr><td>Emergency or low-interest services</td><td>Weak</td><td>Retargeting only; search does the heavy lifting</td></tr>
+</tbody>
+</table>
+
+<h2>How a Meta ads account should be set up</h2>
+<p>Most underperforming Meta accounts fail before a single ad runs. The algorithm optimises towards the events you send it, so the setup decides the ceiling.</p>
+<h3>Tracking and data</h3>
+<p>The Meta pixel on its own misses a share of conversions because of browser restrictions and cookie consent choices. A proper setup adds the Conversions API, which sends events from your server or platform, and deduplicates them so a purchase is not counted twice. Shopify and WooCommerce both have integrations for this. Events should be verified in Events Manager, the domain should be verified, and your cookie banner should respect UK GDPR and PECR consent choices.</p>
+<h3>Account structure</h3>
+<p>Meta now rewards simpler structures than it did a few years ago. Fewer campaigns with more budget each let the algorithm exit the learning phase faster. A common starting shape is one prospecting campaign, one retargeting campaign and, for stores with a catalogue, an Advantage+ shopping or catalogue campaign fed by your product feed.</p>
+<h3>Catalogue and feed</h3>
+<p>For ecommerce, the product catalogue in Commerce Manager powers dynamic ads that show people the exact products they viewed. Titles, images, prices and stock need to match the website. The same feed discipline that drives <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> applies here.</p>
+<h3>Audiences</h3>
+<p>Broad targeting with strong creative often beats narrow interest stacks now, because the algorithm finds buyers from the conversion signal. Custom audiences (site visitors, customer lists, video viewers) and lookalikes still matter for retargeting and for steering early learning.</p>
+
+<h2>Creative testing: the work that moves results</h2>
+<p>On Meta, creative is the targeting. The image or video decides who stops scrolling, and the algorithm learns from who engages. That makes a disciplined testing process the single most important thing an agency brings.</p>
+<p>A sensible testing approach looks like this:</p>
+<ol>
+<li><strong>Test concepts, not tweaks.</strong> Compare genuinely different angles first: problem and solution, social proof, product demo, founder story, offer-led. Button colour tests come much later, if at all.</li>
+<li><strong>Mix formats.</strong> Short vertical video for Reels and Stories, square images for feed, carousels for ranges. Placements behave differently.</li>
+<li><strong>Give tests enough budget and time.</strong> A test needs enough conversions to read. Spreading a small budget across twenty ads tells you nothing.</li>
+<li><strong>Watch leading signals.</strong> Thumb-stop rate, hook rate on video, click-through rate and cost per add to basket show early whether a concept is worth scaling.</li>
+<li><strong>Refresh before fatigue.</strong> Rising frequency and falling click-through rate are the signs that an ad has worn out. Plan a steady supply of new creative rather than a single shoot.</li>
+</ol>
+<p>Your brand foundations make this easier. Clear positioning, a consistent tone and a recognisable look give every new ad a head start; our <a href="/services/brand-strategy/">brand strategy</a> work covers that groundwork.</p>
+
+<h2>Meta ads costs to compare</h2>
+<p>There are two separate costs: what you pay Meta for media, and what you pay an agency or freelancer to manage it. Ad spend always goes directly to the platform and should never be bundled invisibly into a fee.</p>
+<table>
+<thead><tr><th>Cost element</th><th>What it covers</th><th>Questions to ask</th></tr></thead>
+<tbody>
+<tr><td>Ad spend</td><td>Paid to Meta for impressions and clicks</td><td>Is it billed to your own card in your own ad account?</td></tr>
+<tr><td>Management fee</td><td>Strategy, build, optimisation, reporting</td><td>Flat fee or percentage of spend? What is included each month?</td></tr>
+<tr><td>Creative production</td><td>Images, video edits, copy variations</td><td>How many new creatives a month? Who shoots the footage?</td></tr>
+<tr><td>Setup</td><td>Pixel, Conversions API, catalogue, audiences</td><td>Is it a one-off cost or included? Who owns the assets?</td></tr>
+<tr><td>Landing pages</td><td>Product and offer pages that convert the click</td><td>Is website work in scope or quoted separately?</td></tr>
+</tbody>
+</table>
+<p>For context, our own retainers start at £350, £750 and £1,500 a month, and ads management is listed on the Scale retainer; see <a href="/pricing/">our pricing page</a> for what each tier includes. Ad spend is always separate. The wider market varies a lot, and our article on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency in the UK</a> covers how to compare like with like.</p>
+
+<h2>What a good Meta ads agency in the UK should do</h2>
+<p>Whoever you hire, the work should be visible and the account should be yours.</p>
+<ul>
+<li>Run ads in your own Business Manager and ad account, with you as an admin.</li>
+<li>Audit or set up tracking before scaling spend, and explain what the numbers do and do not show.</li>
+<li>Share a creative testing plan with hypotheses, not just a list of ads.</li>
+<li>Report on business outcomes (revenue, cost per acquisition, new customers), not only reach and clicks.</li>
+<li>Work alongside search and email, because Meta rarely works in isolation.</li>
+<li>Follow the CAP Code and Meta's own policies, especially for health, finance and alcohol, where claims need care.</li>
+</ul>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers Meta alongside Google Ads and Shopping, with tracking set up before spend scales.</p>
+
+<h2>Common Meta ads mistakes</h2>
+<ul>
+<li><strong>Judging too early.</strong> Turning off ads after two days, before the learning phase completes.</li>
+<li><strong>Too many ad sets.</strong> Splitting a modest budget so thin that nothing gathers enough data.</li>
+<li><strong>Weak landing pages.</strong> Paying for clicks that land on a slow page with an unclear offer. Conversion work often lifts Meta results faster than ad changes; our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work covers the page side.</li>
+<li><strong>Trusting in-platform numbers blindly.</strong> Meta's attribution is generous. Cross-check with GA4 and your actual sales.</li>
+<li><strong>One creative, forever.</strong> Running the same three ads for months until frequency climbs and results fade.</li>
+</ul>
+
+<h2>Meta ads checklist</h2>
+<ul>
+<li>Business Manager, ad account and pixel owned by you.</li>
+<li>Conversions API live, events deduplicated, domain verified.</li>
+<li>Cookie consent set up in line with UK GDPR and PECR.</li>
+<li>Catalogue connected and matching the website (ecommerce).</li>
+<li>Simple structure: prospecting, retargeting, catalogue.</li>
+<li>Creative testing plan with at least three distinct concepts.</li>
+<li>Fast, clear landing pages with matching offers.</li>
+<li>Reporting tied to revenue or qualified leads, checked against GA4.</li>
+<li>Monthly creative refresh scheduled.</li>
+</ul>
+
+<p>For ecommerce brands, Meta usually sits beside Google Shopping and SEO; our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how the channels fit together. If you want a second opinion on your Meta account or a plan for launching one, <a href="/contact/">book a free discovery call</a> and we will talk through your products, tracking and budget.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Meta ads agency UK actually do?</h3>
+<p>A Meta ads agency in the UK sets up tracking, structures campaigns, produces or briefs creative, runs tests, manages budgets and reports results for Facebook and Instagram advertising. A good one works in your own ad account so you keep the data.</p>
+<h3>How much should I spend on Facebook and Instagram ads?</h3>
+<p>Enough to let several creatives gather conversions each week. That depends on your cost per sale and margin, so start with a test budget you can afford to learn from, then scale what works. Ad spend is paid to Meta separately from any management fee.</p>
+<h3>Are Meta ads better than Google Ads?</h3>
+<p>Neither is better in general. Google captures existing demand from people searching; Meta creates demand among people scrolling. Many ecommerce brands use both, with Meta for discovery and retargeting and Google for high-intent searches.</p>
+<h3>How long do Meta ads take to work?</h3>
+<p>Each new campaign has a learning phase, and creative testing takes several weeks to produce clear winners. Paid results typically take three to six months to settle into a reliable pattern, although early signals appear sooner.</p>
+<h3>Do I need the Conversions API?</h3>
+<p>For most businesses, yes. The pixel alone misses conversions because of browser restrictions and consent choices. The Conversions API sends events server-side, which gives Meta better data to optimise with.</p>
+<h3>Can I run Meta ads myself?</h3>
+<p>Yes, many small businesses do. The hard parts are tracking, a steady supply of creative and reading the data honestly. Hiring help makes sense when spend grows or when testing stalls.</p>
+`,
+  },
+  {
+    slug: 'performance-max-guide-uk',
+    seoTitle: 'Performance Max Guide UK: How PMax Works for Ecommerce',
+    title: 'Performance Max Guide for UK Ecommerce: How It Works, Asset Groups, Feeds and Pitfalls',
+    description: 'Performance Max uses one campaign to show ads across Google using your feed, assets and goals. See how it works for UK stores, asset groups and pitfalls.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Performance Max (PMax) is a Google Ads campaign type that uses one budget to show your ads across Search, Shopping, YouTube, Display, Discover, Gmail and Maps, with Google's automation choosing where, when and to whom. For UK ecommerce stores it has largely replaced Smart Shopping, and it works well when you feed it accurate conversion values, a strong product feed and good creative.</p>
+<p>This Performance Max guide for UK ecommerce explains how the campaign type works, how to build asset groups, why the feed matters so much, and the pitfalls that catch most stores. For the wider picture of Shopping ads, see our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a>.</p>
+
+<h2>How Performance Max works</h2>
+<p>You give Google a goal (usually conversion value at a target return on ad spend), a budget, a product feed from Merchant Center, creative assets and optional audience signals. Google then decides which channels, placements, searches and users to bid on in real time.</p>
+<p>The trade-off is control for reach. You see less detail than in Standard Shopping or Search, and you cannot set keyword bids. Google has added more controls over time, such as brand exclusions, negative keywords at campaign level, search term insights and channel reporting, but PMax is still an automated campaign at heart.</p>
+<table>
+<thead><tr><th>Input</th><th>What it does</th><th>What happens if it is weak</th></tr></thead>
+<tbody>
+<tr><td>Conversion tracking</td><td>Tells Google what a sale is worth</td><td>Bidding optimises towards the wrong thing</td></tr>
+<tr><td>Product feed</td><td>Decides Shopping eligibility and matching</td><td>Products miss relevant searches</td></tr>
+<tr><td>Asset groups</td><td>Headlines, images, videos, descriptions</td><td>Poor ads on YouTube, Display and Discover</td></tr>
+<tr><td>Audience signals</td><td>Hints about who to find first</td><td>Slower learning and wasted early spend</td></tr>
+<tr><td>Budget and target</td><td>Sets volume and efficiency limits</td><td>Campaign starves or overspends</td></tr>
+</tbody>
+</table>
+
+<h2>Asset groups explained</h2>
+<p>An asset group is a bundle of creative, listing groups (which products to show) and audience signals. One campaign can hold several asset groups. Think of each one as a theme.</p>
+<h3>How to split them</h3>
+<ul>
+<li><strong>By product category.</strong> Dresses, coats and accessories each get their own imagery and headlines.</li>
+<li><strong>By margin or price band.</strong> Premium products with premium messaging, entry products with value messaging.</li>
+<li><strong>By audience.</strong> Gifting versus self-purchase, trade versus consumer, where the message genuinely differs.</li>
+</ul>
+<p>Avoid one asset group with every product and generic copy. Google will still run it, but your YouTube and Display ads will say little about any specific product.</p>
+<h3>What each group needs</h3>
+<ul>
+<li>Up to 15 headlines and 5 long headlines, with product benefits, delivery and returns messages written for UK shoppers.</li>
+<li>Landscape, square and portrait images, ideally lifestyle shots as well as packshots.</li>
+<li>At least one video. If you do not supply one, Google may generate one from your images, which rarely looks good.</li>
+<li>Descriptions that cover offer, proof and practical details such as free delivery thresholds or Klarna and Clearpay options where you offer them.</li>
+<li>Final URL expansion settings chosen deliberately, so traffic is not sent to pages you would rather avoid.</li>
+</ul>
+<h3>Audience signals</h3>
+<p>Signals are starting hints, not targeting. Customer lists, site visitors and custom segments based on search terms help Google find the right people sooner. They matter most for new campaigns.</p>
+
+<h2>The product feed is the foundation</h2>
+<p>For retail PMax, most spend still flows through Shopping placements, so the feed decides a large part of performance. Titles should lead with the words people search, attributes should be complete, and GTINs should be present where products have them.</p>
+<p>Custom labels let you split listing groups by margin, best seller status or season, which is how you stop low-margin products eating the budget. Merchant Center needs regular checks for disapprovals and policy issues. If you are thinking about outside help with this work, our <a href="/blog/ppc-management-cost-uk/">PPC management cost guide</a> explains fee models, and our article on <a href="/blog/google-shopping-agency-uk/">hiring a Google Shopping agency</a> covers what good feed management looks like.</p>
+
+<h2>Common Performance Max pitfalls</h2>
+<table>
+<thead><tr><th>Pitfall</th><th>Symptom</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Brand traffic inflating results</td><td>High ROAS but new customer sales flat</td><td>Apply brand exclusions and run a separate brand search campaign</td></tr>
+<tr><td>Inaccurate conversion values</td><td>Reported revenue does not match orders</td><td>Fix purchase tracking and remove duplicate or soft conversions from goals</td></tr>
+<tr><td>Everything in one group</td><td>A few products take all spend</td><td>Split asset groups and listing groups by category or margin</td></tr>
+<tr><td>Too little data</td><td>Campaign never stabilises</td><td>Consolidate campaigns and loosen targets until conversion volume builds</td></tr>
+<tr><td>Weak or auto-generated video</td><td>Poor engagement off Shopping placements</td><td>Supply short, product-led videos per asset group</td></tr>
+<tr><td>Frequent large changes</td><td>Performance swings after each edit</td><td>Change targets gradually and allow learning time</td></tr>
+</tbody>
+</table>
+<p>Two more are worth calling out. First, PMax reporting is generous to itself, so cross-check against GA4 and your store's own sales data. Second, it can drift into Display placements that look cheap but convert poorly, so check channel reports regularly.</p>
+
+<h2>Performance Max vs Standard Shopping</h2>
+<p>Performance Max usually wins on reach and on stores with plenty of conversion data. Standard Shopping still has a role when you need search term control, when data is thin, or when testing new products. Many UK stores run PMax as the main campaign with a Standard Shopping or Search campaign alongside for specific goals. A good <a href="/blog/google-ads-agency-uk/">Google Ads agency</a> should explain which mix suits your account rather than defaulting to one.</p>
+
+<h2>How to read Performance Max results honestly</h2>
+<p>Because PMax blends channels, its headline numbers need context. A few habits make reporting more trustworthy.</p>
+<ul>
+<li><strong>Compare with your own sales.</strong> Check reported conversion value against orders in Shopify or WooCommerce for the same period. Large gaps point to tracking or attribution issues.</li>
+<li><strong>Look at new versus returning customers.</strong> If you can, enable new customer acquisition reporting or goals. A campaign that mostly reaches existing customers may be taking credit for sales that would have happened anyway.</li>
+<li><strong>Use channel performance reporting.</strong> See how much spend goes to Shopping, Search, YouTube and Display, and whether each channel earns its share.</li>
+<li><strong>Review product-level performance.</strong> Identify products that take spend without selling and products that sell but get little budget, then adjust listing groups or labels.</li>
+<li><strong>Allow for seasonality.</strong> UK retail has sharp peaks around Black Friday, Christmas and the January sales. Seasonality adjustments can help when you expect a short, predictable change in conversion rate.</li>
+</ul>
+<h3>When to scale budget</h3>
+<p>Scale when the campaign meets its target consistently and is limited by budget, not when one good week appears. Increase budgets in steps rather than doubling overnight, and watch whether efficiency holds. If returns fall sharply as spend rises, the campaign may have exhausted its best audiences, which is a signal to improve creative, the feed or the site rather than push harder.</p>
+<h3>When to pause or restructure</h3>
+<p>If a campaign has had several weeks of stable settings, accurate tracking and a sensible target yet still loses money, look at margins, pricing and landing pages before blaming the campaign type. PMax cannot make an uncompetitive offer profitable.</p>
+
+<h2>Performance Max setup checklist</h2>
+<ul>
+<li>Purchase conversion tracked with accurate values, deduplicated and checked against orders.</li>
+<li>Consent mode configured for UK GDPR and PECR.</li>
+<li>Merchant Center clean, with no major disapprovals.</li>
+<li>Feed titles, attributes and custom labels optimised.</li>
+<li>Asset groups split by theme, each with full creative and a video.</li>
+<li>Audience signals added from customer lists and site visitors.</li>
+<li>Brand exclusions set, with brand search handled separately.</li>
+<li>Final URL expansion reviewed and unwanted pages excluded.</li>
+<li>Realistic target ROAS based on margin, not hope.</li>
+<li>Channel and search term insights reviewed monthly.</li>
+</ul>
+
+<h2>Where PMax fits in your marketing</h2>
+<p>Performance Max captures demand; it does not fix a weak site. Slow product pages, unclear delivery costs and a clunky checkout waste every click. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team and our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO guide</a> cover the site side, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> shows how paid and organic work together.</p>
+<p>Our <a href="/services/paid-media/">paid media service</a> includes Google Ads and Shopping with tracking set up before spend scales. Retainers start at £350, £750 and £1,500 a month, with ads management listed on the Scale tier; see <a href="/pricing/">pricing</a> for details, and note ad spend is separate. If you want a second view on your Performance Max setup, <a href="/contact/">book a free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is Performance Max in Google Ads?</h3>
+<p>Performance Max is a goal-based Google Ads campaign that uses one budget and automated bidding to show ads across Search, Shopping, YouTube, Display, Discover, Gmail and Maps from a single campaign.</p>
+<h3>Is Performance Max good for UK ecommerce?</h3>
+<p>It can be, when conversion tracking is accurate, the product feed is strong and there is enough conversion volume for the automation to learn. With weak inputs it tends to spend on easy wins such as brand searches.</p>
+<h3>How many asset groups should I have?</h3>
+<p>Enough to give each product theme relevant creative, but not so many that data is spread thin. For many stores that means a handful of groups by category or margin band.</p>
+<h3>Can I add negative keywords to Performance Max?</h3>
+<p>Google now supports campaign-level negative keywords and brand exclusions in Performance Max. Account-level negatives also apply. Check the current options in your account, as Google updates them.</p>
+<h3>How long does Performance Max take to learn?</h3>
+<p>Expect an initial learning period of a few weeks, and avoid big changes during it. Stable paid results typically take three to six months to establish.</p>
+<h3>Do I still need Standard Shopping?</h3>
+<p>Not always, but it remains useful for testing, for low-data accounts and when you need search term control. Many stores run both for different purposes.</p>
+`,
+  },
+  {
+    slug: 'ppc-audit-checklist',
+    seoTitle: 'PPC Audit Checklist: Google Ads Audit Steps and Fixes',
+    title: 'PPC Audit Checklist: A Google Ads Audit with a Symptom-to-Fix Table',
+    description: 'A PPC audit checklist reviews tracking, structure, keywords, bids, ads, landing pages and Shopping feeds. Use this Google Ads audit and symptom-fix table.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A PPC audit checklist is a structured review of a Google Ads account covering conversion tracking, account structure, keywords and search terms, bidding, ads, landing pages and, for retailers, the Shopping feed. Start with tracking, because if conversions are counted wrongly every other decision in the account is built on bad data.</p>
+<p>This checklist is written for UK business owners and in-house marketers who want to check an account themselves or hold an agency to account. It complements our guides to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> and choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a>.</p>
+
+<h2>Before you start the audit</h2>
+<ul>
+<li>Get admin or at least standard access to Google Ads, GA4, Google Tag Manager and Merchant Center.</li>
+<li>Pick a review window: the last 90 days is usually enough, with a year-on-year comparison for seasonal businesses.</li>
+<li>Gather your real numbers: orders, revenue, leads and margins from your store or CRM, so you can compare them with what Ads reports.</li>
+<li>Write down the business goal: profitable sales, qualified leads, bookings. Audit against that, not against click-through rate.</li>
+</ul>
+
+<h2>PPC audit checklist: the eight areas</h2>
+<h3>1. Conversion tracking</h3>
+<ul>
+<li>Primary conversion actions match real business outcomes (purchases, qualified leads), not page views or button clicks.</li>
+<li>Purchase values are passed dynamically and match order totals.</li>
+<li>No duplicate counting from both a GA4 import and a Google Ads tag.</li>
+<li>Enhanced conversions and consent mode are configured in line with UK GDPR and PECR.</li>
+<li>Phone calls and form submissions are tracked if they matter to you.</li>
+</ul>
+<h3>2. Account structure</h3>
+<ul>
+<li>Campaigns are split by meaningful goals (brand, generic, competitor, Shopping), not by habit.</li>
+<li>Budgets reflect priority, and the best campaigns are not limited by budget while weak ones spend freely.</li>
+<li>Location targeting is set to people in, not people interested in, your target areas.</li>
+<li>Ad schedules and devices are reviewed against conversion data.</li>
+</ul>
+<h3>3. Keywords and search terms</h3>
+<ul>
+<li>The search terms report is reviewed and irrelevant queries are added as negatives.</li>
+<li>Broad match is only used where smart bidding has enough conversion data to steer it.</li>
+<li>Brand and generic terms are not mixed in the same campaign.</li>
+<li>Negative keyword lists are shared across campaigns where sensible.</li>
+</ul>
+<h3>4. Bidding</h3>
+<ul>
+<li>The bid strategy suits the data volume: manual or maximise clicks for very new accounts, target CPA or target ROAS once conversions are steady.</li>
+<li>Targets reflect margins rather than arbitrary numbers.</li>
+<li>Campaigns are not in constant learning because of frequent changes.</li>
+</ul>
+<h3>5. Ads and assets</h3>
+<ul>
+<li>Each ad group has a responsive search ad with strong, varied headlines.</li>
+<li>Sitelinks, callouts, structured snippets, images and call assets are in use.</li>
+<li>Copy includes UK-relevant details: delivery, returns, pricing in £, locations served.</li>
+<li>Claims follow the CAP Code and Google's policies.</li>
+</ul>
+<h3>6. Landing pages</h3>
+<ul>
+<li>Each ad points to the most relevant page, not the home page.</li>
+<li>Pages load quickly on mobile and pass Core Web Vitals.</li>
+<li>The offer, price and next step are clear above the fold.</li>
+<li>Forms and checkouts work and are short.</li>
+</ul>
+<h3>7. Shopping and Performance Max (retailers)</h3>
+<ul>
+<li>Merchant Center has no unresolved disapprovals or policy warnings.</li>
+<li>Feed titles and attributes are optimised; custom labels group products by margin or best seller status.</li>
+<li>Brand exclusions are applied so brand searches do not inflate Performance Max results.</li>
+<li>Asset groups are split by theme with full creative. Our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> covers the basics.</li>
+</ul>
+<h3>8. Reporting and ownership</h3>
+<ul>
+<li>You own the Google Ads account and are an admin, and the billing is in your name.</li>
+<li>Reports show cost, conversions, value and cost per result tied to your goals.</li>
+<li>There is a change history showing regular, purposeful work.</li>
+</ul>
+
+<h2>Symptom-to-fix table</h2>
+<p>Most audits find the same handful of problems. Use the symptom you see to find the likely cause before you change anything.</p>
+<table>
+<thead><tr><th>Symptom</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Ads report more sales than the store</td><td>Duplicate tags or soft conversions set as primary</td><td>Audit conversion actions; keep one primary purchase action</td></tr>
+<tr><td>High spend, few conversions</td><td>Broad queries, weak negatives, wrong locations</td><td>Review search terms, add negatives, tighten location settings</td></tr>
+<tr><td>Good click-through, poor conversion rate</td><td>Landing page mismatch, slow pages, weak offer</td><td>Match ad to page, speed up, clarify price and next step</td></tr>
+<tr><td>Low impression share on best campaigns</td><td>Budget limited or low ad rank</td><td>Move budget from weak campaigns; improve ads and relevance</td></tr>
+<tr><td>Cost per click rising steadily</td><td>Competition or poor quality score</td><td>Improve relevance, test new ads, review match types</td></tr>
+<tr><td>Performance Max ROAS high, sales flat</td><td>Brand traffic counted as new demand</td><td>Add brand exclusions; run brand search separately</td></tr>
+<tr><td>Products not showing in Shopping</td><td>Merchant Center disapprovals or thin feed</td><td>Fix diagnostics; improve titles and attributes</td></tr>
+<tr><td>Results swing week to week</td><td>Frequent large changes keep bidding in learning</td><td>Change targets gradually; leave time between edits</td></tr>
+<tr><td>Leads arrive but do not buy</td><td>Optimising for form fills, not qualified leads</td><td>Import offline conversions or qualify leads in the form</td></tr>
+</tbody>
+</table>
+
+<h2>How to prioritise audit findings</h2>
+<p>An audit can easily produce fifty findings. Fixing them in the wrong order wastes time and can make results worse, so sort them before acting.</p>
+<ol>
+<li><strong>Data integrity.</strong> Anything that makes the numbers wrong comes first: broken tags, duplicate conversions, missing purchase values, consent mode gaps. Until these are fixed, you cannot judge anything else.</li>
+<li><strong>Money leaks.</strong> Spend that clearly cannot convert: irrelevant search terms, the wrong locations, disapproved products still sitting in budgets, campaigns pointing at broken pages.</li>
+<li><strong>Structural issues.</strong> Brand mixed with generic, Performance Max cannibalising brand search, budgets spread across too many campaigns.</li>
+<li><strong>Growth opportunities.</strong> Better ads and assets, new keyword themes, feed improvements, landing page tests.</li>
+</ol>
+<p>Give each finding an owner, an estimated effort and a date. Re-check the account a month later to confirm the changes stuck and had the expected effect.</p>
+<h3>Questions to ask after an audit</h3>
+<ul>
+<li>Which three changes will make the biggest difference, and why?</li>
+<li>What evidence supports each finding?</li>
+<li>What could go wrong when we make the change, and how will we spot it?</li>
+<li>How will we measure whether the fix worked?</li>
+</ul>
+<p>Be wary of audits that recommend rebuilding everything at once. Large simultaneous changes reset learning across the account and make it impossible to know what helped. Steady, documented improvements usually beat a dramatic restructure.</p>
+
+<h2>How often to audit</h2>
+<p>A light monthly check covers search terms, budget pacing, disapprovals and conversion counts. A full audit using the whole checklist makes sense quarterly, before increasing budget, before changing agency, or after a website relaunch. Site changes are a common cause of broken tracking; our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> explains the organic side of the same risk.</p>
+
+<h2>DIY audit or agency audit?</h2>
+<p>You can complete most of this checklist yourself with access and a few hours. An outside audit adds value when the account is large, when tracking is tangled across Tag Manager, GA4 and platform integrations, or when you suspect an incumbent agency is not acting in your interest. Ask any auditor for written findings, prioritised fixes and evidence, not a sales pitch.</p>
+<p>If the audit points to site issues (speed, product pages, checkout), our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work can address them. If it points to broader channel planning, our <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">guide to choosing an agency</a> helps you compare options fairly.</p>
+
+<h2>Quick audit checklist</h2>
+<ul>
+<li>Primary conversions are real business outcomes with accurate values.</li>
+<li>Reported conversions roughly match store or CRM data.</li>
+<li>Search terms reviewed and negatives up to date.</li>
+<li>Location set to presence, not interest.</li>
+<li>Bid strategy suits conversion volume.</li>
+<li>Ads have full assets and UK-specific copy.</li>
+<li>Landing pages match the ad and load fast on mobile.</li>
+<li>Merchant Center clean and feed optimised (retail).</li>
+<li>Brand exclusions in Performance Max.</li>
+<li>You own the account and billing.</li>
+</ul>
+
+<p>Our <a href="/services/paid-media/">paid media service</a> starts with tracking and account checks before spend scales. Retainers start at £350, £750 and £1,500 a month, with ads management listed on the Scale tier; see <a href="/pricing/">pricing</a>, and remember ad spend is separate. For retailers, our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how Shopping and SEO combine. If you would like a second pair of eyes on your account, <a href="/contact/">book a free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a PPC audit checklist include?</h3>
+<p>A PPC audit checklist should cover conversion tracking, account structure, keywords and search terms, bidding, ads and assets, landing pages, Shopping feeds where relevant, and reporting and account ownership.</p>
+<h3>How long does a Google Ads audit take?</h3>
+<p>A small account can be reviewed in a few hours. Large accounts with many campaigns, Shopping feeds and complex tracking take longer, especially if tracking needs untangling.</p>
+<h3>What is the most common problem found in a PPC audit?</h3>
+<p>Inaccurate conversion tracking is one of the most frequent issues, for example duplicate counting or non-sale actions set as primary conversions. It distorts bidding and reporting across the whole account.</p>
+<h3>How often should I audit my Google Ads account?</h3>
+<p>Do a light check monthly and a full audit quarterly, plus before budget increases, agency changes or website relaunches.</p>
+<h3>Can I audit my own Google Ads account?</h3>
+<p>Yes. With admin access to Google Ads, GA4 and Merchant Center you can work through this checklist yourself. Outside help is useful for large or complex accounts.</p>
+<h3>Should I switch agency after a bad audit?</h3>
+<p>Not automatically. Share the findings and ask for a fix plan with dates. If basics such as tracking and account ownership are wrong and do not get fixed, it may be time to compare options.</p>
+`,
+  },
 ];
