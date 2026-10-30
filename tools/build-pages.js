@@ -24,7 +24,7 @@ const SITE = {
 // ==== PLACEHOLDER: Google Analytics 4 ====
 // Paste the GA4 Measurement ID (looks like G-XXXXXXXXXX) between the quotes, then rebuild.
 // Left empty on purpose: no tracking code is output until the owner adds their own ID.
-const GA4_ID = '';
+const GA4_ID = 'G-EJGC6KKC23';
 // ==== PLACEHOLDER: Google Search Console HTML-tag verification (optional) ====
 // Only needed if you verify with the HTML tag method instead of DNS. Paste the content="..." value.
 const GSC_VERIFY = '';
