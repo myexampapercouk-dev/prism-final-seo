@@ -11900,4 +11900,525 @@ module.exports = [
 <p>Google Ads can bring calls within days of launch. Local SEO and reviews typically build over three to six months.</p>
 `,
   },
+  {
+    slug: 'architect-marketing-uk',
+    seoTitle: 'Architect Marketing UK: Win Better Projects Online',
+    title: 'Architect Marketing UK: How Practices Win Better Projects Online',
+    description: 'Architect marketing UK guide for small and mid-sized practices: SEO, portfolio websites, project case studies, LinkedIn, PR and winning the right clients.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/digital-pr-content/', '/sectors/b2b/'],
+    body: `
+<p>Architect marketing in the UK is about getting the right projects, not just more enquiries. A small or mid-sized practice usually has a clear idea of the work it wants: residential extensions, new-build homes, heritage projects, commercial fit-outs, education buildings or something more specialist. Good marketing makes that focus obvious, shows the work clearly and helps the right clients find you when they start planning.</p>
+<p>This guide is for principals and marketing leads at architecture practices. It covers positioning, websites, SEO, case studies, PR, LinkedIn and paid channels, with notes on measuring what matters.</p>
+
+<h2>Why architect marketing is different</h2>
+<p>Architecture is a considered, high-value service with a long decision cycle. Homeowners may research for months before contacting a practice, often comparing portfolios and fee approaches. Commercial and public sector clients may involve committees, frameworks and formal tenders. In both cases, trust and evidence of relevant work matter more than slogans.</p>
+<p>Practices also face a common trap: a website that looks beautiful but says very little. Large images without context, project pages with no description, and vague statements about design philosophy make it hard for clients and search engines to understand what you actually do. The best architect marketing combines strong visuals with clear, specific words.</p>
+<p>Professional bodies may have guidance on how architects describe their services and qualifications. The title architect is protected in the UK and may only be used by those on the statutory register, so check current requirements before describing team members or services, and take advice if unsure.</p>
+
+<h2>Positioning: be clear about the work you want</h2>
+<p>Before changing channels, decide what you want to be known for. A practice that says it does everything struggles to stand out. Consider:</p>
+<ul>
+<li><strong>Project types.</strong> Which sectors and scales do you want more of?</li>
+<li><strong>Locations.</strong> Where do you want to work, and where can you realistically deliver?</li>
+<li><strong>Client types.</strong> Homeowners, developers, schools, businesses or public bodies?</li>
+<li><strong>Strengths.</strong> Specialisms such as sustainability, conservation, planning-sensitive sites or complex briefs.</li>
+</ul>
+<p>Your homepage, service pages and case studies should reflect those choices. Our <a href="/blog/brand-strategy-agency-uk/">brand strategy guide</a> explains how to sharpen positioning, and our <a href="/services/brand-strategy/">brand strategy service</a> can help.</p>
+
+<h2>A portfolio website that explains, not just shows</h2>
+<p>Your website is your main sales tool. Clients want to see work similar to their project and understand how you would approach it. A strong architecture website usually includes:</p>
+<ul>
+<li>Clear service pages for each project type, such as house extensions, new homes or commercial projects.</li>
+<li>Project pages with written context: the brief, the constraints, the approach and the outcome, alongside photography.</li>
+<li>Filtering by project type or sector so visitors find relevant work quickly.</li>
+<li>An explanation of how you work, from first conversation through design stages to completion, described in your own terms.</li>
+<li>A clear contact route with a short form asking about project type, location and timescale.</li>
+<li>Fast loading despite large images, with photography compressed and sized properly.</li>
+</ul>
+<p>Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains how to keep image-heavy sites fast, and we build sites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>SEO for architects</h2>
+<p>People search for architects in predictable ways: a project type plus a place, such as an extension architect in a town, or broader questions about planning, costs and design. SEO helps your practice appear for those searches.</p>
+<ul>
+<li><strong>Service and location pages.</strong> Target the project types and areas you want, with genuine local detail where you have worked.</li>
+<li><strong>Project pages with words.</strong> Descriptive text on each project helps them rank for relevant searches.</li>
+<li><strong>Helpful guides.</strong> Content explaining planning, permitted development or how design stages work can attract early-stage clients. Keep any regulatory explanations general and hedged, and point readers to official sources or professional advice.</li>
+<li><strong>Google Business Profile.</strong> A complete, accurate profile helps local searches and reviews.</li>
+</ul>
+<p>Our <a href="/blog/professional-services-seo-uk/">professional services SEO guide</a> covers SEO for service firms more broadly, and our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find the searches that matter.</p>
+
+<h2>Architect marketing UK channels compared</h2>
+<p>Different channels suit different clients and stages. This table summarises where each one usually fits.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>SEO and content</td><td>Homeowners and businesses researching projects</td><td>Service pages, project write-ups, speed</td></tr>
+<tr><td>Google Business Profile</td><td>Local searches for architects</td><td>Reviews, photos, accurate details</td></tr>
+<tr><td>LinkedIn</td><td>Commercial clients, developers and partners</td><td>Consistent posting, project insights</td></tr>
+<tr><td>Digital PR</td><td>Credibility and links from relevant publications</td><td>Newsworthy projects, client permission</td></tr>
+<tr><td>Instagram and Pinterest</td><td>Visual discovery, especially residential</td><td>Quality imagery, links to project pages</td></tr>
+<tr><td>Google Ads</td><td>High-intent local searches for specific services</td><td>Tight targeting, enquiry quality</td></tr>
+</tbody>
+</table>
+
+<h2>Case studies and credibility</h2>
+<p>Case studies are where interest becomes confidence. A good case study explains the client's situation, the challenges, the decisions you made and the result. Include the people involved, with their permission, and be accurate about your role, especially where other consultants or contractors contributed.</p>
+<p>Testimonials should be genuine and approved by the client. Avoid claiming awards, accreditations or results you cannot evidence. If a project has received recognition, describe it accurately.</p>
+
+<h2>Digital PR and LinkedIn</h2>
+<p>Completed projects, new approaches and expert commentary can all make good stories for design, property and local publications. Coverage builds credibility and can produce valuable links. Our <a href="/blog/digital-pr-link-building-uk/">digital PR and link building guide</a> explains how this works, and we offer it through our <a href="/services/digital-pr-content/">digital PR and content service</a>.</p>
+<p>For commercial work, LinkedIn is often where relationships form. Principals and senior team members sharing project insights, lessons and work in progress can keep the practice visible with developers, clients and collaborators. For paid options, our <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads guide</a> explains when they are worth testing.</p>
+
+<h2>Paid search for architects</h2>
+<p>Google Ads can work for residential services with clear demand, such as extensions or loft conversions in a defined area. Keep campaigns focused on the project types you want, use negative keywords to filter out jobs and courses, and send traffic to relevant service pages. Track enquiries by project type and quality, not just volume. We manage campaigns through our <a href="/services/paid-media/">paid media service</a>; ad spend is paid separately from any management fee.</p>
+
+<h2>Common mistakes to avoid</h2>
+<p>Many practices hold themselves back with a few recurring issues. Watch out for these:</p>
+<ul>
+<li><strong>Image-only project pages.</strong> Beautiful photography with no words gives search engines and clients little to work with.</li>
+<li><strong>Too many priorities.</strong> Trying to appeal to every sector at once dilutes the message and the budget.</li>
+<li><strong>Outdated work.</strong> A portfolio that has not been updated for years can suggest the practice is less active than it is.</li>
+<li><strong>No follow-up process.</strong> Enquiries that wait days for a reply often go elsewhere, especially for residential clients comparing several practices.</li>
+<li><strong>Vague calls to action.</strong> Tell visitors exactly what to do next, such as booking an initial conversation, and what information to have ready.</li>
+<li><strong>Ignoring mobile.</strong> Many homeowners browse portfolios on a phone, so test galleries and forms on small screens.</li>
+</ul>
+<p>Fixing these basics often delivers more than adding a new channel, and it makes every other marketing activity work harder.</p>
+
+<h2>Measuring what works</h2>
+<p>Track enquiries by source and project type, the proportion that become proposals and appointments, and which channels bring the work you actually want. Because projects take time to convert, review trends over a quarter or longer. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track enquiries properly.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help architecture practices with positioning, portfolio websites, SEO and PR. We start by understanding the projects you want more of, then focus on the channels most likely to bring them. See our <a href="/sectors/b2b/">B2B sector page</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best marketing for an architecture practice?</h3>
+<p>For most practices, a clear positioning, a well-organised portfolio website with written project context, and SEO for the project types and locations you want form the foundation. PR and LinkedIn build credibility, especially for commercial work.</p>
+<h3>Do architects need SEO?</h3>
+<p>If you want enquiries from people researching projects online, SEO helps. Homeowners often search for project types plus a location, and descriptive service and project pages give you a chance to appear.</p>
+<h3>How should architects write case studies?</h3>
+<p>Explain the brief, the constraints, your approach and the outcome, alongside photography. Be accurate about your role and get client approval before publishing.</p>
+<h3>Is Instagram useful for architects?</h3>
+<p>It can be, particularly for residential work and visual discovery. Link posts back to detailed project pages on your website so interest can turn into enquiries.</p>
+<h3>Can architects use Google Ads?</h3>
+<p>Yes, especially for residential services with clear local demand. Keep targeting tight and judge results on enquiry quality as well as volume.</p>
+<h3>How long does architect marketing take to work?</h3>
+<p>SEO and PR usually take several months to build. Because architecture projects have long decision cycles, review results over a quarter or longer.</p>
+`,
+  },
+  {
+    slug: 'multi-location-seo-uk',
+    seoTitle: 'Multi-Location SEO UK: Rank Every Branch Locally',
+    title: 'Multi-Location SEO UK: How to Rank Every Branch in Local Search',
+    description: 'Multi-location SEO UK guide for businesses with several branches: location pages, Google Business Profiles, reviews, site structure and reporting by branch.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/blog/local-seo-uk-guide/', '/pricing/'],
+    body: `
+<p>Multi-location SEO in the UK is the work of helping every branch, clinic, shop or office appear in local search for the people nearby. A business with one location can focus on one map listing and one set of local searches. A business with five, twenty or fifty locations has to do that for each one, while keeping the brand, website and data consistent across all of them.</p>
+<p>This guide is for marketing leads and owners of businesses with several physical locations, such as clinics, gyms, estate agency branches, retailers, restaurants or service businesses with regional offices. It explains what to set up, how to structure the website and how to measure progress branch by branch.</p>
+
+<h2>Why multi-location SEO is different</h2>
+<p>The basics of local SEO are the same for one location or many: relevance, proximity and prominence. What changes is scale and consistency. With many branches, small mistakes multiply. A wrong phone number on one profile, a closed branch still showing as open or ten near-identical location pages can quietly cost visibility and trust.</p>
+<p>There is also an internal challenge. Branch managers may have their own ideas about listings, reviews and social media, while head office controls the website. Without clear ownership, profiles drift out of date and duplicates appear. Good multi-location SEO is as much about process and governance as it is about rankings.</p>
+<p>If you are new to local search, start with our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>, which covers the fundamentals this article builds on.</p>
+
+<h2>Google Business Profile for every branch</h2>
+<p>Each physical location that serves customers face to face should usually have its own Google Business Profile. Managing them well is often the single biggest lever in multi-location SEO.</p>
+<ul>
+<li><strong>One profile per real location.</strong> Avoid duplicates and do not create profiles for places where you do not have a staffed presence; that can breach Google's guidelines and risk suspension.</li>
+<li><strong>Consistent naming.</strong> Use your real business name. Adding keywords or locations that are not part of the actual name can cause problems.</li>
+<li><strong>Accurate categories and hours.</strong> Set the right primary category for each branch and keep hours current, including bank holidays and temporary closures.</li>
+<li><strong>Branch-specific photos and details.</strong> Show the actual premises, parking, accessibility and services available at that branch.</li>
+<li><strong>Link to the right page.</strong> Point each profile's website link to that branch's location page rather than the homepage.</li>
+</ul>
+<p>Google offers ways to manage many profiles together, which makes bulk updates and access control easier. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers profile optimisation in more depth.</p>
+
+<h2>Location pages that deserve to rank</h2>
+<p>Location pages are where many multi-location sites go wrong. Copying one template and swapping the town name creates thin, near-duplicate pages that rarely perform well. A useful location page gives someone in that area a reason to choose that branch.</p>
+<p>Good location pages usually include:</p>
+<ul>
+<li>The branch name, full address, phone number and opening hours, matching the Google Business Profile.</li>
+<li>An embedded map and clear directions, parking and public transport information.</li>
+<li>The services actually offered at that branch, which may differ from others.</li>
+<li>Information about the team at that branch, where staff are happy to be featured.</li>
+<li>Genuine local detail, such as nearby landmarks, areas served or branch-specific events.</li>
+<li>Reviews or testimonials from that branch, used only with permission.</li>
+<li>A clear call to action, such as booking or calling that branch directly.</li>
+</ul>
+<p>Adding LocalBusiness structured data to each page helps search engines read the details. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how.</p>
+
+<h2>Site structure for many locations</h2>
+<p>A clear, logical structure helps both people and search engines. A common approach is a locations hub page that lists every branch, often grouped by region, with each branch on its own page beneath it. Larger businesses sometimes add regional pages between the hub and the branches.</p>
+<table>
+<thead><tr><th>Approach</th><th>When it suits</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>Single locations hub with branch pages</td><td>Most businesses with a modest number of branches</td><td>Easy navigation, internal links to every branch</td></tr>
+<tr><td>Region pages, then branch pages</td><td>Larger networks spread across the UK</td><td>Region pages need real content, not just lists</td></tr>
+<tr><td>Branch pages plus service-in-location pages</td><td>Branches offering distinct services worth targeting separately</td><td>Risk of thin or duplicate pages if overdone</td></tr>
+<tr><td>Separate websites per branch</td><td>Rarely recommended</td><td>Splits authority and multiplies maintenance</td></tr>
+</tbody>
+</table>
+<p>Whatever you choose, make sure every location page is linked internally, included in your XML sitemap and reachable within a few clicks of the homepage. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers crawlability and indexing checks that matter at scale.</p>
+
+<h2>Consistent business details across the web</h2>
+<p>Your name, address and phone number appear in many places: your website, Google Business Profile, Apple Maps, Bing Places, social profiles and directories. Inconsistencies across these, especially after a move or a phone system change, can confuse customers and weaken trust signals.</p>
+<p>Keep a single master list of every branch's details and treat it as the source of truth. When a branch moves, changes hours or closes, update the master list first, then the website and every listing. For closed branches, mark the profile as permanently closed rather than leaving it live or deleting it without care, and redirect the old location page to the most relevant alternative.</p>
+
+<h2>Reviews at scale</h2>
+<p>Reviews influence local rankings and, more importantly, whether people choose a branch. With many locations, review performance often varies widely. Practical steps include:</p>
+<ul>
+<li>Give each branch a short review link and a simple, consistent way to ask customers.</li>
+<li>Set clear rules about who replies and how quickly, with a tone guide for responses.</li>
+<li>Escalate negative reviews that mention serious issues to the right person.</li>
+<li>Never offer incentives for reviews or filter who is asked based on expected sentiment.</li>
+</ul>
+<p>UK rules on fake and incentivised reviews have tightened in recent years, so check current guidance and take advice if unsure.</p>
+
+<h2>Local links and content</h2>
+<p>Each branch can earn its own local signals. Sponsoring a local club, supporting a community event, joining a local business network or featuring in local news can produce relevant links and mentions for that branch's page. Branch-level content, such as a guide to an area or local event coverage, can help too if it is genuinely useful.</p>
+<p>Our <a href="/blog/digital-pr-link-building-uk/">digital PR and link building guide</a> explains how to earn links without risky shortcuts.</p>
+
+<h2>Paid search alongside local SEO</h2>
+<p>Local SEO takes time, and new branches often start with little visibility. Location-targeted Google Ads can support a new opening or a branch in a competitive area while organic visibility builds. Keep campaigns organised by branch so you can see cost per enquiry for each one. We manage these campaigns through our <a href="/services/paid-media/">paid media service</a>, and ad spend is paid separately from any management fee.</p>
+
+<h2>Reporting by branch</h2>
+<p>An overall traffic number can hide a lot. One strong branch may mask several weak ones. Report on each location separately where you can:</p>
+<ul>
+<li>Google Business Profile views, calls, direction requests and website clicks per branch.</li>
+<li>Organic visits and conversions to each location page.</li>
+<li>Review count and average rating per branch.</li>
+<li>Local ranking checks for priority searches in each area.</li>
+</ul>
+<p>Our <a href="/blog/seo-reporting-uk/">SEO reporting guide</a> covers how to build reports that lead to decisions, and our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains conversion tracking.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help businesses with several locations plan location pages, tidy up Google Business Profiles, fix technical issues and report by branch. We start with an audit of your current listings and pages, then prioritise the fixes most likely to make a difference. Learn more about our <a href="/services/seo-geo/">SEO and GEO service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is multi-location SEO?</h3>
+<p>Multi-location SEO is local SEO for businesses with more than one physical location. It covers Google Business Profiles for each branch, location pages, consistent business details, reviews and reporting by branch.</p>
+<h3>Do I need a separate page for each location?</h3>
+<p>Usually yes. A dedicated page for each branch with its own details, services and local information gives search engines and customers a clear destination. Each Google Business Profile can then link to its matching page.</p>
+<h3>Should each branch have its own website?</h3>
+<p>Generally no. One website with a clear locations section is easier to maintain and keeps authority in one place. Separate sites usually mean more work and weaker overall visibility.</p>
+<h3>How do I avoid duplicate content on location pages?</h3>
+<p>Write each page with genuine local detail: branch-specific services, team, directions, parking, local reviews and nearby areas served. Shared information such as company policies can be summarised and linked rather than repeated in full.</p>
+<h3>What should I do when a branch closes?</h3>
+<p>Mark the Google Business Profile as permanently closed, update other listings, and redirect the location page to the nearest relevant branch or the locations hub so visitors and links are not lost.</p>
+<h3>How long does multi-location SEO take?</h3>
+<p>Fixing profiles and data can have an effect relatively quickly, while location page rankings and local authority typically take several months to build. Progress often varies by branch and competition.</p>
+`,
+  },
+  {
+    slug: 'nursery-marketing-uk',
+    seoTitle: 'Nursery Marketing UK: How to Fill Childcare Places',
+    title: 'Nursery Marketing UK: How Independent Nurseries Fill Childcare Places',
+    description: 'Nursery marketing UK guide for independent nurseries and preschools: local SEO, Google Business Profile, websites, paid social, show-rounds and enquiries.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/sectors/education/', '/pricing/'],
+    body: `
+<p>Nursery marketing in the UK is about earning parents' trust and making it easy for them to visit. Families usually look for childcare close to home or work, often months before a place is needed, and they compare settings carefully. An independent nursery or preschool that is easy to find, shows its environment honestly and responds warmly to enquiries is well placed to fill places.</p>
+<p>This guide is for owners and managers of independent nurseries, preschools and childcare settings. It covers local search, websites, paid social, enquiries, content and measurement, with notes on privacy and claims.</p>
+
+<h2>Why nursery marketing is different</h2>
+<p>Choosing childcare is one of the most important decisions parents make. They want to know their child will be safe, happy and well cared for. They read inspection reports, ask friends, check reviews and almost always visit before committing. Marketing has to reassure as much as it attracts.</p>
+<p>Demand is also highly local and often timed around parental leave, school terms and changes to funded childcare entitlements. Many parents start looking well before they need a place, so your marketing should be visible continuously, not only when places are free.</p>
+<p>Childcare settings in England are inspected by Ofsted, and equivalent bodies operate in Scotland, Wales and Northern Ireland. How you describe inspection outcomes, funded hours and your provision should be accurate and current. Requirements and funding rules can change, so check official guidance and take advice before publishing claims. Final sign-off should sit with the setting.</p>
+
+<h2>Start with local search and Google Business Profile</h2>
+<p>When parents search for a nursery near them, the map results are often the first thing they see. Get your Google Business Profile right:</p>
+<ul>
+<li><strong>Correct category.</strong> Choose the primary category that best fits, such as nursery school or child care agency, and keep it accurate.</li>
+<li><strong>Accurate hours.</strong> Show opening hours and note closures, such as bank holidays.</li>
+<li><strong>Thoughtful photos.</strong> Show rooms, outdoor space and facilities. Avoid identifiable children unless you have clear, written parental consent for that specific use.</li>
+<li><strong>Reviews.</strong> Ask parents for honest reviews and reply politely, without sharing details about any child.</li>
+<li><strong>Posts.</strong> Promote open days, new rooms or availability updates.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers setup in detail, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how local rankings work.</p>
+
+<h2>A website that reassures parents</h2>
+<p>Your website should answer the questions parents ask before they book a visit. A strong nursery website usually includes:</p>
+<ul>
+<li>A clear headline saying where you are, which ages you care for and your opening hours.</li>
+<li>Information about your approach to learning and care, explained in plain language.</li>
+<li>Room or age group pages, so parents can see what a typical day looks like.</li>
+<li>Staff introductions, where team members are happy to be featured.</li>
+<li>Clear information on fees, sessions and funded hours, kept up to date.</li>
+<li>A link to your latest inspection report, described accurately.</li>
+<li>Food, safeguarding and settling-in information.</li>
+<li>An easy way to book a show-round or join a waiting list.</li>
+</ul>
+<p>Make the site fast and easy to use on a phone, since many parents browse during short breaks. Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains what a rebuild involves, and we build sites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>Nursery marketing UK channels compared</h2>
+<p>Each channel does a different job. This table summarises where each one usually fits for an independent setting.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Parents searching for a nursery nearby</td><td>Reviews, photos, hours, consent</td></tr>
+<tr><td>Local SEO</td><td>Searches such as nursery in a town or area</td><td>Clear pages, local detail, speed</td></tr>
+<tr><td>Meta ads</td><td>Reaching local parents with open days or availability</td><td>Accurate claims, cost per show-round</td></tr>
+<tr><td>Google Ads</td><td>High-intent searches when places need filling</td><td>Tight location targeting</td></tr>
+<tr><td>Social media</td><td>Showing daily life and community</td><td>Parental consent, privacy</td></tr>
+<tr><td>Email</td><td>Following up enquiries and waiting lists</td><td>UK GDPR and PECR consent</td></tr>
+</tbody>
+</table>
+
+<h2>Paid social and search</h2>
+<p>Meta ads can reach parents within a defined radius, which suits promoting open days or new availability. Use imagery of your rooms and outdoor space rather than identifiable children unless you have specific consent, and keep any claims accurate. Send traffic to a focused page with a simple show-round booking form. Our <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads guide</a> explains setup and tracking.</p>
+<p>Google Ads can catch parents actively searching, especially when you have places to fill. Keep campaigns tight with sensible location targeting and negative keywords to filter out jobs and training searches. We manage campaigns through our <a href="/services/paid-media/">paid media service</a>, and ad spend is paid separately from any management fee.</p>
+
+<h2>Turning enquiries into visits and registrations</h2>
+<p>Most parents will visit before deciding, so the show-round is your most important conversion step.</p>
+<ol>
+<li><strong>Respond quickly.</strong> Acknowledge enquiries promptly and offer visit times.</li>
+<li><strong>Make booking simple.</strong> An online booking option reduces back-and-forth.</li>
+<li><strong>Prepare for visits.</strong> Make sure someone is available to show parents round and answer questions.</li>
+<li><strong>Follow up.</strong> Send a friendly message after the visit with next steps and information.</li>
+<li><strong>Record the source.</strong> Ask how parents heard about you so you know which channels work.</li>
+</ol>
+
+<h2>Content, social media and privacy</h2>
+<p>Social media can show the warmth and daily life of your setting: activities, seasonal events, food, outdoor play and staff. It can also create privacy risks. Only post images of children with clear, written parental consent for that specific use, avoid sharing names or identifying details, and respect parents who decline. Keep data protection obligations under UK GDPR in mind.</p>
+<p>Helpful content, such as guides to settling in, what to pack or how funded hours work, can attract searches and reassure parents. Keep funding and regulatory information general, link to official sources and review it regularly. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> covers how to plan this.</p>
+
+<h2>Waiting lists and retention</h2>
+<p>Marketing does not stop once a child starts. Happy families are your strongest source of referrals, and a well-managed waiting list smooths out occupancy through the year. Practical steps include:</p>
+<ul>
+<li>Keep waiting list families informed with occasional, useful updates rather than silence.</li>
+<li>Send a welcome sequence to new families explaining settling in, daily routines and how to contact staff.</li>
+<li>Hold events such as stay-and-play sessions or seasonal celebrations that families can share with friends.</li>
+<li>Ask for feedback regularly and act on it, so small issues do not become reasons to leave.</li>
+<li>Plan ahead for children moving on to school, so you know which places will become available and when.</li>
+</ul>
+<p>Only send marketing messages to families who have agreed to receive them, and make opting out easy. Operational messages about a child's care are different from marketing, so check current guidance on how UK GDPR and PECR apply to each.</p>
+<p>Word of mouth matters enormously in childcare. Parents talk at the school gate, in local groups and online, so every positive experience supports your marketing.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a few key numbers each month: enquiries by source, show-rounds booked and attended, registrations, occupancy by room and cost per registration for paid channels. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track form submissions and calls. SEO usually takes several months to build, so judge it over a term or more.</p>
+<p>If you also run a school or wider education provision, our <a href="/blog/school-marketing-uk/">school marketing guide</a> may be useful.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help independent nurseries and childcare settings with local SEO, websites, Google Business Profile and paid social. We focus on practical improvements and leave regulatory and safeguarding sign-off with your team. See our <a href="/sectors/education/">education sector page</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best marketing for a nursery?</h3>
+<p>For most independent nurseries, a strong Google Business Profile, local SEO and a reassuring website with easy show-round booking form the foundation. Paid social can help promote open days and availability.</p>
+<h3>Can I use photos of children in nursery marketing?</h3>
+<p>Only with clear, written parental consent for that specific use, and with care to avoid identifying details. Many settings use photos of rooms, resources and outdoor space instead.</p>
+<h3>Should a nursery publish its fees?</h3>
+<p>Many parents appreciate clear information on fees, sessions and funded hours. How much you publish is your decision, but transparency can reduce unsuitable enquiries.</p>
+<h3>How should I mention my inspection result?</h3>
+<p>Describe it accurately and link to the official report. Check current guidance on how inspection outcomes can be presented, and update your website when a new report is published.</p>
+<h3>Are Facebook ads worth it for nurseries?</h3>
+<p>They can work well for reaching local parents, especially for open days. Track cost per show-round and registration, not just clicks.</p>
+<h3>How long does nursery SEO take?</h3>
+<p>Improvements to your Google Business Profile can help relatively quickly, while broader SEO usually takes several months to build.</p>
+`,
+  },
+  {
+    slug: 'vet-practice-marketing-uk',
+    seoTitle: 'Vet Practice Marketing UK: Attract Local Pet Owners',
+    title: 'Vet Practice Marketing UK: How Independent Practices Attract Local Pet Owners',
+    description: 'Vet practice marketing UK guide for independent practices: local SEO, Google Business Profile, websites, paid ads, health plans and responsible claims.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/sectors/healthcare/', '/pricing/'],
+    body: `
+<p>Vet practice marketing in the UK is mostly about being the trusted, easy choice for pet owners nearby. People usually pick a vet close to home, often when they get a new pet, move house or face an urgent problem. An independent practice that is visible in local search, has a reassuring website and makes booking simple is well placed to win those moments, even alongside larger groups.</p>
+<p>This guide is for owners and practice managers of independent veterinary practices. It covers local search, websites, paid advertising, content, retention and measurement, with notes on handling claims responsibly.</p>
+
+<h2>Why vet marketing is different</h2>
+<p>Choosing a vet is an emotional decision. Owners are trusting you with an animal they love, and they often arrive worried. They want reassurance about clinical care, kindness, cost transparency and what happens out of hours. Marketing that feels pushy or overpromises can undermine that trust.</p>
+<p>The profession also has its own expectations. The Royal College of Veterinary Surgeons publishes a code of professional conduct and supporting guidance that touches on advertising and how practices describe themselves and their services. General UK advertising rules such as the CAP Code also apply. Requirements can change, so check current guidance and take appropriate advice before publishing claims. Final sign-off on clinical and regulatory wording should always sit with the practice.</p>
+<p>Many practices compete with corporate groups that have bigger budgets. Independents can stand out through continuity of care, a personal approach, specialist interests, or the feel of a local, community-rooted practice.</p>
+
+<h2>Start with local search and Google Business Profile</h2>
+<p>When someone searches for a vet near them, map results and your Google Business Profile are often the first thing they see. Make it count:</p>
+<ul>
+<li><strong>Accurate categories.</strong> Choose the primary category that best fits, such as veterinarian, and add relevant secondary categories where accurate.</li>
+<li><strong>Clear hours.</strong> Show consulting hours, and explain your out-of-hours arrangements on your website.</li>
+<li><strong>Real photos.</strong> Show the reception, consulting rooms, parking and team, where staff are happy to appear.</li>
+<li><strong>Reviews.</strong> Ask clients for honest reviews and reply to every one politely and without sharing details of any animal's care.</li>
+<li><strong>Posts.</strong> Promote seasonal reminders, new services or practice news.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers setup in detail, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how local rankings work. If you have several branches, our <a href="/blog/local-seo-agency-uk/">local SEO agency guide</a> discusses support options.</p>
+
+<h2>A website that reassures and converts</h2>
+<p>Your website is often the second step after Google. It should answer the questions a worried or new client has and make the next step obvious. A strong vet website usually includes:</p>
+<ul>
+<li>A clear headline saying where you are and which animals you treat.</li>
+<li>Prominent phone number, booking option and out-of-hours information.</li>
+<li>Pages for core services, such as vaccinations, neutering, dentistry, diagnostics or exotic pets, so each can rank for its own searches.</li>
+<li>Team pages introducing vets and nurses, if they are happy to be featured.</li>
+<li>Practical information on registering, parking, accessibility and what to bring.</li>
+<li>Transparent information on fees or health plans where you choose to share it.</li>
+<li>Fast loading on mobile, because many clients will be searching on a phone.</li>
+</ul>
+<p>If your current site is dated or slow, our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains what a rebuild involves. We build websites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>Vet practice marketing UK channels compared</h2>
+<p>Different channels suit different goals. This table summarises where each one usually fits for an independent practice.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>People searching for a vet nearby</td><td>Reviews, hours, photos, categories</td></tr>
+<tr><td>Local SEO and content</td><td>Searches such as vet in a town or a specific service</td><td>Service pages, helpful guides, page speed</td></tr>
+<tr><td>Google Ads</td><td>High-intent local searches, new practice launches</td><td>Tight location targeting, negative keywords</td></tr>
+<tr><td>Meta ads</td><td>Promoting registration offers or health plans to local owners</td><td>Accurate claims, cost per registration</td></tr>
+<tr><td>Social media</td><td>Showing personality and community</td><td>Consent for client pets and staff</td></tr>
+<tr><td>Email and SMS</td><td>Reminders and retention</td><td>UK GDPR and PECR consent</td></tr>
+</tbody>
+</table>
+
+<h2>Paid advertising for vets</h2>
+<p>Google Ads can help new practices or branches become visible quickly, and catch people searching for a vet in a specific area. Keep campaigns tight: a sensible radius, specific keywords and negative keywords to avoid irrelevant clicks such as jobs or courses. Send each ad to the most relevant page.</p>
+<p>Meta ads can promote registration or health plans to pet owners in your area. Keep the offer clear and the claims accurate, and send traffic to a focused landing page. Our <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business guide</a> explains setup, and we manage campaigns through our <a href="/services/paid-media/">paid media service</a>. Ad spend is paid separately from any management fee.</p>
+<p>Be cautious when advertising medicines. UK rules restrict how prescription-only veterinary medicines can be advertised to the public, so check current guidance before mentioning specific products.</p>
+
+<h2>Content that builds trust</h2>
+<p>Helpful content shows expertise and can attract searches from pet owners. Useful ideas include:</p>
+<ul>
+<li>Seasonal guides, such as pet safety around fireworks, heat or festive foods.</li>
+<li>What to expect at a first visit, vaccination or neutering appointment.</li>
+<li>Guides for new puppy, kitten or rabbit owners.</li>
+<li>Explanations of common procedures in plain language.</li>
+</ul>
+<p>Keep content accurate and reviewed by a vet before publishing, and avoid giving advice that should come from an examination. Social media posts featuring client pets should only go out with clear permission. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> covers how to plan this kind of content.</p>
+
+<h2>Retention and health plans</h2>
+<p>Keeping existing clients is often more valuable than finding new ones. Reminder systems for vaccinations and check-ups, clear communication after appointments and a welcome sequence for new registrations all help. If you offer a health plan, explain clearly what is included and how it works, and keep any savings claims accurate.</p>
+<p>Make sure reminder and marketing messages follow UK GDPR and PECR. Service reminders and marketing messages can be treated differently, so check current guidance on consent and make it easy to opt out of marketing.</p>
+
+<h2>Common mistakes to avoid</h2>
+<p>A few recurring issues hold many practice websites and campaigns back:</p>
+<ul>
+<li><strong>Hidden emergency information.</strong> Out-of-hours arrangements buried in a footer frustrate worried owners. Put them where people look first.</li>
+<li><strong>Outdated details.</strong> Old opening hours, former staff or discontinued services on the website or Google profile undermine trust.</li>
+<li><strong>Generic service pages.</strong> Copy that could describe any practice gives searchers little reason to choose you. Explain how you handle each service.</li>
+<li><strong>Slow replies to reviews.</strong> Unanswered reviews, especially critical ones, can look like indifference.</li>
+<li><strong>No tracking.</strong> Without call and form tracking it is hard to know which channels bring new registrations.</li>
+</ul>
+<p>Fixing these basics often delivers more than adding a new channel.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a small set of numbers each month: new registrations by source, calls and booking requests, Google Business Profile actions, cost per new registration for paid channels and client retention. Google Analytics 4 can track form submissions and phone clicks if set up properly; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how. SEO typically takes several months to build, so judge it over a quarter or more.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help independent practices with local SEO, websites, Google Business Profile and paid advertising. We focus on practical improvements and leave clinical and regulatory sign-off with your team. See our <a href="/sectors/healthcare/">healthcare sector page</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best marketing for a vet practice?</h3>
+<p>For most independent practices, a strong Google Business Profile, local SEO and a clear website with easy booking form the foundation. Paid search can help new practices or branches become visible sooner, and reminders support retention.</p>
+<h3>Are there rules on how vets can advertise?</h3>
+<p>Yes. The RCVS code of professional conduct and its supporting guidance, general UK advertising rules and rules on advertising veterinary medicines can all be relevant. Check current guidance and take advice where needed.</p>
+<h3>Should a vet practice publish prices?</h3>
+<p>Many owners value transparency on fees, and some guidance encourages practices to be clear about costs. How much you publish is a decision for the practice, but explaining common fees or what affects cost can build trust.</p>
+<h3>How do I get more reviews for my vet practice?</h3>
+<p>Ask clients after a positive visit and share a short link by email or text. Reply to every review without disclosing details about any animal's care, and never offer incentives for reviews.</p>
+<h3>Is social media worth it for vets?</h3>
+<p>It can help show personality and community, and share useful seasonal advice. Only post client pets with permission and keep any health information general.</p>
+<h3>How long does vet SEO take?</h3>
+<p>Local improvements such as a better Google Business Profile can help fairly quickly, while broader SEO usually takes several months to build.</p>
+`,
+  },
+  {
+    slug: 'wedding-business-marketing-uk',
+    seoTitle: 'Wedding Business Marketing UK: Win More Bookings',
+    title: 'Wedding Business Marketing UK: How Venues and Suppliers Win More Bookings',
+    description: 'Wedding business marketing UK guide for venues, photographers and suppliers: SEO, Google Business Profile, paid social, enquiries and long sales cycles.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/sectors/hospitality/'],
+    body: `
+<p>Wedding business marketing in the UK is about being found and remembered during a long planning journey. Couples often start researching venues and suppliers many months before the day, compare several options, share links with family and come back again and again before they book. Whether you run a venue, shoot weddings, make cakes, arrange flowers or hire out a band, your marketing has to show up early, look the part and make enquiring easy.</p>
+<p>This guide is for owners of independent wedding venues and wedding suppliers who want a practical plan. It covers search, Google Business Profile, your website, paid social, enquiry handling and measurement, with honest notes on what to expect.</p>
+
+<h2>Why wedding marketing is different</h2>
+<p>A wedding is a high-value, once-in-a-lifetime purchase, and that changes buyer behaviour. Couples are cautious. They want to see real work, read honest reviews, understand what is included and feel they can trust you with an important day. Many also have a partner, parents or friends involved in the decision, which means your content gets shared and judged by several people.</p>
+<p>The sales cycle is long and seasonal. Engagements often cluster around the festive period and Valentine's Day, and many couples begin serious research in the first months of the year. Venues tend to be booked first, with suppliers following once the date and location are fixed. Your marketing calendar should reflect where your service sits in that sequence.</p>
+<p>Finally, demand is local or regional for most suppliers. A photographer may travel across a county or further, but a florist or caterer usually serves a defined area. Being clear about where you work helps both search engines and couples.</p>
+
+<h2>Start with search: the questions couples ask</h2>
+<p>Couples search in predictable ways: a type of venue plus a place, such as barn wedding venues in a county; a supplier plus a town; and practical questions about capacity, budgets, styles and timings. Good wedding SEO maps your pages to those searches.</p>
+<ul>
+<li><strong>Service and location pages.</strong> One clear page per core service, and location pages only where you genuinely serve that area with useful local detail.</li>
+<li><strong>Venue detail pages.</strong> For venues, separate pages for ceremonies, receptions, accommodation, catering options and seasonal packages help each rank for its own searches.</li>
+<li><strong>Helpful guides.</strong> Planning content such as timelines, questions to ask a supplier or how to choose a style can attract couples early and build trust.</li>
+<li><strong>Real wedding write-ups.</strong> Galleries and stories from real weddings, published only with the couple's permission, show your work and often attract searches for that venue or style.</li>
+</ul>
+<p>Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find and prioritise these searches, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers how map and local rankings work.</p>
+
+<h2>Google Business Profile and reviews</h2>
+<p>For venues and locally based suppliers, Google Business Profile can be a major source of enquiries. Choose accurate categories, add plenty of real photos, keep your opening and viewing hours current and use posts to promote open days or new packages. If you work from home or travel to clients, set a service area rather than showing a home address.</p>
+<p>Reviews matter enormously in this sector. Ask couples for an honest review after the wedding, once they have had time to settle back in, and make it easy with a short link. Reply to every review politely. Never offer discounts or gifts in exchange for reviews. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers setup and optimisation in detail.</p>
+
+<h2>Build a website that turns browsers into enquiries</h2>
+<p>A wedding website has two jobs: inspire and reassure. The inspiration comes from strong imagery and a clear sense of style. The reassurance comes from practical detail that many sites leave out. A site that converts usually includes:</p>
+<ul>
+<li>A clear statement of what you offer, who it suits and where you work.</li>
+<li>Portfolio or gallery pages that load quickly on mobile, with images compressed properly.</li>
+<li>Package information or a clear indication of what is included, so couples can judge fit before enquiring.</li>
+<li>A simple enquiry form asking for the date, location and guest numbers, plus a way to check availability.</li>
+<li>Honest information on booking terms, deposits and what happens next.</li>
+<li>Pages for each service or space, so they can each rank and be shared.</li>
+</ul>
+<p>Heavy galleries are a common cause of slow wedding websites. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains how to keep images looking good without dragging down load times. We design and build sites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>Wedding business marketing UK channels compared</h2>
+<p>Each channel plays a different role across the planning journey. This table summarises where each one usually fits.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>SEO and content</td><td>Couples researching venues, suppliers and planning questions</td><td>Service pages, real weddings, page speed</td></tr>
+<tr><td>Google Business Profile</td><td>Local searches and venue discovery</td><td>Reviews, photos, categories, service areas</td></tr>
+<tr><td>Instagram and Pinterest</td><td>Inspiration and style discovery</td><td>Consistent visuals, links to the right pages</td></tr>
+<tr><td>Meta ads</td><td>Reaching engaged couples in your area at peak times</td><td>Cost per enquiry, enquiry quality</td></tr>
+<tr><td>Google Ads</td><td>High-intent searches for venues and suppliers</td><td>Location targeting, negative keywords</td></tr>
+<tr><td>Email</td><td>Nurturing enquiries and open day invitations</td><td>UK GDPR and PECR consent</td></tr>
+</tbody>
+</table>
+
+<h2>Paid social and search ads</h2>
+<p>Paid social can put your venue or work in front of couples in your area during the busy planning months. Video tours, real wedding highlights and open day promotions tend to suit the format. Send traffic to a focused page, such as an open day booking page or a package overview, rather than your homepage.</p>
+<p>Search ads catch couples who are actively comparing. Keep campaigns tight with sensible location targeting, specific keywords and negative keywords to filter out irrelevant searches such as jobs or DIY. Track enquiries and viewings, not just clicks. Our <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads guide</a> and <a href="/blog/google-ads-for-small-business-uk/">Google Ads guide</a> explain setup and tracking, and we manage campaigns through our <a href="/services/paid-media/">paid media service</a>. Ad spend is paid separately from any management fee.</p>
+
+<h2>Handle enquiries like they decide the booking</h2>
+<p>In wedding marketing, what happens after the enquiry often matters more than the enquiry itself. Couples usually contact several businesses at once. The first helpful, personal reply has an advantage.</p>
+<ol>
+<li><strong>Reply quickly.</strong> Set up an automatic acknowledgement and follow with a personal response as soon as you can.</li>
+<li><strong>Answer the real question.</strong> Confirm availability, give clear package information and suggest a next step such as a call or viewing.</li>
+<li><strong>Follow up politely.</strong> Many couples are busy and need a gentle reminder.</li>
+<li><strong>Record the source.</strong> Ask how they found you, so you know which channels bring bookings rather than just enquiries.</li>
+</ol>
+<p>A simple CRM or even a well-kept spreadsheet can help you track each enquiry from first contact to booking.</p>
+
+<h2>Content, partnerships and social proof</h2>
+<p>Wedding suppliers often work together, and that can be a marketing strength. Featuring real weddings that credit the venue and other suppliers, with everyone's permission, creates content that is useful to couples and naturally shared. Writing honest guides about a venue you know well can help a photographer or florist appear in searches for that venue.</p>
+<p>Be careful with claims. Do not describe yourself as award-winning, the best or the most popular unless you can back it up, and keep testimonials genuine and consented. Advertising rules such as the CAP Code apply to marketing claims, so check wording carefully. For broader content planning, our <a href="/blog/content-strategy-uk/">content strategy guide</a> is a good starting point.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a handful of meaningful numbers each month: enquiries by source, viewings or calls booked, bookings confirmed, average booking value and cost per booking for paid channels. Because the sales cycle is long, look at trends over a season rather than a single month. Google Analytics 4 can track form submissions and calls if set up properly; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how. SEO typically takes several months to build, while paid channels can produce enquiries sooner.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help wedding venues and suppliers with SEO, websites, Google Business Profile and paid social. We start by understanding your services, area and booking calendar, then focus on the channels most likely to bring the right enquiries. See our <a href="/pricing/">pricing page</a> for plans, or <a href="/contact/">get in touch</a> to talk through your business.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best marketing for a wedding business in the UK?</h3>
+<p>For most venues and suppliers, a strong website with real work, solid SEO for service and location searches, and a well-managed Google Business Profile form the foundation. Paid social and search ads can add reach during peak planning months.</p>
+<h3>When should wedding businesses advertise?</h3>
+<p>Many couples get engaged around the festive season and start planning early in the year, so that period is often busy. Venues are usually booked before suppliers, so suppliers may see demand slightly later. Review your own enquiry data to confirm your peaks.</p>
+<h3>Is Instagram enough for a wedding supplier?</h3>
+<p>Instagram is useful for inspiration and style, but relying on one platform is risky. A website you control, ranking in search, gives couples a place to compare and enquire, and is not affected by changes to a single app.</p>
+<h3>How do I get more reviews from couples?</h3>
+<p>Ask after the wedding, once couples have had time to settle, and send a short, direct link. Reply to every review and never offer incentives in return for reviews.</p>
+<h3>Should I publish prices on my wedding website?</h3>
+<p>It depends on your business. Many couples appreciate guide prices or starting packages because it helps them judge fit before enquiring. If your work is highly bespoke, explaining what affects price can still help.</p>
+<h3>How long does wedding SEO take?</h3>
+<p>SEO usually takes several months to show meaningful results and builds over time. Because couples plan far ahead, starting early helps you appear when they begin researching.</p>
+`,
+  },
 ];
