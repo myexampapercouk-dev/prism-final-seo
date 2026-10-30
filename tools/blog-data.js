@@ -6376,4 +6376,531 @@ module.exports = [
 <p>If you are considering YouTube for your business, <a href="/contact/">book a free discovery call</a> and we will talk through which formats suit your goal, what video you need and how to measure it.</p>
 `,
   },
+  {
+    slug: 'b2b-seo-uk',
+    seoTitle: 'B2B SEO UK: Strategy for Long Sales Cycles',
+    title: 'B2B SEO in the UK: A Strategy for Long Sales Cycles',
+    description: 'B2B SEO in the UK means targeting low-volume, high-intent searches with service, comparison and pricing pages, then nurturing buyers over long cycles.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>B2B SEO in the UK works best when you start at the bottom of the funnel: service pages, use-case pages, comparison pages and honest pricing content that match what buyers search when they are close to talking to a supplier. Then you support those pages with guides that help committees research, and you measure success by qualified enquiries and pipeline rather than traffic.</p>
+<p>This is different from consumer SEO, where volume often wins. In B2B, a search with twenty monthly searches can be worth more than one with twenty thousand, if the people typing it sign five-figure contracts. Our broader <a href="/blog/b2b-marketing-agency-uk/">guide to B2B marketing agencies in the UK</a> covers the wider channel mix; this article focuses purely on organic search.</p>
+
+<h2>What makes B2B SEO different</h2>
+<p>Business buyers rarely buy on the first visit. Several people are usually involved: the person who finds you, a manager who signs off budget, perhaps procurement, IT or legal. Each of them may search for different things at different times, and the process can take weeks or months.</p>
+<table>
+<thead><tr><th>Factor</th><th>Consumer SEO</th><th>B2B SEO</th></tr></thead>
+<tbody>
+<tr><td>Search volume</td><td>Often high</td><td>Often low but valuable</td></tr>
+<tr><td>Decision makers</td><td>Usually one person</td><td>Several stakeholders</td></tr>
+<tr><td>Sales cycle</td><td>Minutes to days</td><td>Weeks to months</td></tr>
+<tr><td>Conversion goal</td><td>Purchase</td><td>Demo, call, quote or download</td></tr>
+<tr><td>Key content</td><td>Product and category pages</td><td>Service, use case, comparison and pricing pages</td></tr>
+<tr><td>Success measure</td><td>Revenue in analytics</td><td>Pipeline and closed deals in the CRM</td></tr>
+</tbody>
+</table>
+<p>That has a practical consequence: keyword research tools often show zero volume for perfectly good B2B terms. Use them as a guide, then add terms from sales calls, proposals, support tickets and Search Console queries.</p>
+
+<h2>A B2B SEO strategy for UK companies: bottom of funnel first</h2>
+<p>Most B2B sites publish blog posts first and service pages last. Reverse that. Pages that capture buying intent tend to produce enquiries sooner, and they give later content somewhere useful to link.</p>
+<h3>Service and solution pages</h3>
+<p>One page per service, written for the buyer rather than about you. Explain the problem, who it is for, how you deliver it, what it typically involves, what it costs or what drives cost, and what happens after someone gets in touch. Avoid lumping five services onto one page.</p>
+<h3>Industry and use-case pages</h3>
+<p>Buyers often search with their sector attached: "payroll software for construction firms", "IT support for law firms in Manchester". If you genuinely serve those sectors, a dedicated page with relevant detail can match that intent far better than a generic service page.</p>
+<h3>Comparison and alternative pages</h3>
+<p>Searches such as "X vs Y", "X alternatives" or "in-house vs outsourced" come from people actively weighing options. Write fair, factual comparisons. Stick to publicly verifiable information about competitors, avoid disparaging claims, and remember the CAP Code covers comparative advertising in marketing communications. Our post on <a href="/blog/seo-agency-vs-freelancer-uk/">SEO agency vs freelancer</a> is an example of the format.</p>
+<h3>Pricing and cost content</h3>
+<p>"How much does X cost" is one of the most common buyer searches and one of the most avoided by B2B companies. Even if you quote case by case, you can explain the factors, typical ranges in the market and what changes the price. Buyers who have seen a range before calling are usually better qualified.</p>
+
+<h2>Supporting content for the research phase</h2>
+<p>Once your money pages exist, build guides that help buyers understand the problem and build a business case. Good B2B guides often include:</p>
+<ul>
+<li>Checklists and templates that someone can share with colleagues.</li>
+<li>Explanations of UK regulations or standards that affect the purchase.</li>
+<li>Buyer guides: what to ask suppliers, red flags, contract terms.</li>
+<li>Glossaries for technical sectors where newer staff search definitions.</li>
+</ul>
+<p>Each guide should link to the relevant service or comparison page with natural anchor text. That is how informational content passes value and readers towards a conversation. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> goes deeper on planning this.</p>
+
+<h2>Technical foundations still matter</h2>
+<p>B2B sites are often built on ageing CMS platforms, carry years of thin news posts, or hide useful content in PDFs. A crawl usually turns up duplicate pages, slow templates and orphaned service pages. Work through our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> before you invest heavily in content, and if a rebuild is planned, protect existing rankings with the steps in our redesign without losing rankings guide.</p>
+
+<h2>Authority: links and mentions for B2B</h2>
+<p>Links still matter, and B2B companies have good sources available: trade associations, industry publications, event and conference pages, supplier and partner directories, and original research that journalists can cite. Digital PR built around genuine sector data can earn coverage in trade press as well as national titles. Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains the approach.</p>
+<p>AI search is also changing how buyers shortlist suppliers. Clear, factual pages that state who you serve, where and how are easier for AI tools to summarise and cite. Our explainer on generative engine optimisation covers this.</p>
+
+<h2>Writing for several decision makers</h2>
+<p>A finance director, an operations manager and an IT lead will read the same service page looking for different things. The finance director wants cost, contract length and risk. The operations manager wants to know how the service fits day-to-day work. The IT lead wants security, integrations and data handling. Good B2B pages answer all three, often in clearly labelled sections, so each reader can find their part quickly and forward the page to colleagues.</p>
+<p>Plain English helps here. Jargon that impresses insiders can confuse the people who sign off budgets, and it makes pages harder for search engines and AI tools to summarise accurately. State who you work with, where in the UK you operate, what the service includes and what it does not. Clear, factual statements like these are also more likely to be quoted when buyers ask AI assistants for supplier shortlists.</p>
+<h3>Proof without invented numbers</h3>
+<p>B2B buyers want evidence, but it must be real. Use accreditations you actually hold, named case studies only with client permission, and specific descriptions of your process. Vague or inflated claims damage trust with procurement teams, who often check them.</p>
+
+<h2>Converting and measuring B2B search traffic</h2>
+<p>A visitor from search may not be ready to book a call. Offer more than one next step: a short enquiry form, a callback request, a downloadable guide or a pricing breakdown. Keep forms short; you can qualify later.</p>
+<p>Then connect the dots. Track form submissions as conversions in GA4, pass the source into your CRM, and review which pages and queries produce enquiries that turn into proposals and deals. Without that link, B2B SEO is judged on traffic, which is the least useful measure. As a rule of thumb, expect three to six months before results start to show, and longer in competitive sectors.</p>
+
+<h2>B2B SEO checklist</h2>
+<ul>
+<li>List every service and create one focused page for each.</li>
+<li>Add industry or use-case pages only where you have real experience.</li>
+<li>Collect buyer language from sales calls, proposals and Search Console.</li>
+<li>Publish fair comparison and alternative pages.</li>
+<li>Explain pricing factors, even if you quote individually.</li>
+<li>Build research guides that link to service pages.</li>
+<li>Fix technical issues: duplicates, speed, orphaned pages, PDF-only content.</li>
+<li>Earn links from trade bodies, publications and original research.</li>
+<li>Track enquiries in GA4 and pass source data into the CRM.</li>
+<li>Review pipeline by landing page every quarter.</li>
+</ul>
+
+<h2>Working with an agency on B2B SEO</h2>
+<p>If you want support, look for an agency that asks about deal sizes and sales process before talking about keywords. Our <a href="/sectors/b2b/">B2B marketing page</a> explains how we approach the sector, and our <a href="/services/seo-geo/">SEO and GEO services</a> cover the technical, content and authority work. Retainers start at £350 a month, rising to £750 and £1,500; see the <a href="/pricing/">pricing page</a> for what each includes.</p>
+
+<h2>FAQs</h2>
+<h3>What is B2B SEO in the UK?</h3>
+<p>It is search engine optimisation for companies that sell to other businesses. It focuses on high-intent, often low-volume searches, content for several decision makers and measuring success by pipeline rather than traffic.</p>
+<h3>How long does B2B SEO take to work?</h3>
+<p>Results typically start to show in three to six months, and longer for competitive terms. Because sales cycles are long, the effect on closed revenue may lag further behind rankings.</p>
+<h3>Are low-volume keywords worth targeting in B2B?</h3>
+<p>Often yes. A term with a handful of monthly searches can be valuable if the buyers behind it are ready to talk and your deals are large. Judge keywords by intent and deal value.</p>
+<h3>Should B2B companies publish pricing online?</h3>
+<p>It depends on your model, but explaining pricing factors and typical ranges helps buyers and often filters out poor-fit enquiries. Even a "what affects the cost" page captures valuable searches.</p>
+<h3>Is it risky to write competitor comparison pages?</h3>
+<p>It can be done responsibly. Stick to accurate, verifiable facts, avoid denigrating competitors and keep information up to date. If in doubt, ask for legal advice before publishing.</p>
+<h3>Should B2B SEO be combined with LinkedIn ads?</h3>
+<p>They complement each other well. LinkedIn targets by job title and company, while search captures active demand. Our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B lead generation</a> explains how to run them together.</p>
+<p>If you want to talk through where your B2B site should start, <a href="/contact/">book a free discovery call</a> and we will look at your pages and sales process together.</p>
+`,
+  },
+  {
+    slug: 'charity-marketing-uk',
+    seoTitle: 'Charity Digital Marketing UK: A Practical Guide',
+    title: 'Digital Marketing for UK Charities: A Practical Guide',
+    description: 'Charity digital marketing in the UK: use Google Ad Grants well, build clear fundraising pages, grow search visibility and keep fundraising compliant.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Charity digital marketing in the UK works best when you focus on a few things done well: a search-friendly website with clear donation, volunteer and service pages, Google Ad Grants used properly if you are eligible, email that respects consent, and tracking that shows which activity raises money or reaches beneficiaries. Small teams get further by doing three channels well than by spreading thin across ten.</p>
+<p>This guide is general and practical. It is not legal or regulatory advice; decisions on fundraising compliance rest with your trustees and any advisers you work with.</p>
+
+<h2>Start with goals, not channels</h2>
+<p>Charities usually juggle several goals at once: donations, regular giving, event sign-ups, volunteers, service users finding help, and campaigning. Each needs different pages and different measures. Write them down and rank them before choosing tactics, because a donation campaign and a helpline awareness campaign should be run quite differently.</p>
+<table>
+<thead><tr><th>Goal</th><th>Best-fit channels</th><th>What to measure</th></tr></thead>
+<tbody>
+<tr><td>One-off donations</td><td>Search ads, email, social around appeals</td><td>Donations, average gift</td></tr>
+<tr><td>Regular giving</td><td>Email nurture, search, retargeting</td><td>New direct debits, retention</td></tr>
+<tr><td>Volunteers</td><td>Local SEO, Ad Grants, social</td><td>Applications completed</td></tr>
+<tr><td>People seeking help</td><td>SEO, Ad Grants, Google Business Profile</td><td>Calls, referrals, page visits</td></tr>
+<tr><td>Events and challenges</td><td>Social, email, search</td><td>Registrations, money raised</td></tr>
+</tbody>
+</table>
+
+<h2>Google Ad Grants: the basics</h2>
+<p>Google Ad Grants is a programme that gives eligible non-profits free search advertising credit on Google. In the UK, organisations typically apply through Google for Nonprofits, and eligibility, monthly limits and rules are set by Google and can change, so always check the current programme terms before planning around it.</p>
+<p>Grant accounts come with conditions that ordinary Google Ads accounts do not have. Historically these have included a maximum bid cap (unless you use certain automated bidding strategies), a minimum click-through rate, rules on single-word and very generic keywords, and requirements for meaningful conversion tracking. Accounts that fall out of compliance can be suspended.</p>
+<h3>Making a grant account work</h3>
+<ul>
+<li><strong>Structure around real intent:</strong> separate campaigns for services, volunteering, donations and information content.</li>
+<li><strong>Track meaningful conversions:</strong> donations, volunteer applications, sign-ups and calls, not just page views.</li>
+<li><strong>Prune poor keywords:</strong> remove terms with very low click-through rates that drag the account down.</li>
+<li><strong>Use helpful content:</strong> grant ads often perform well when they point to genuine advice pages that answer a question.</li>
+<li><strong>Review monthly:</strong> check compliance and performance regularly, not once a year.</li>
+</ul>
+<p>Many charities also run a separate paid Google Ads account alongside the grant, for example to compete on high-value donation terms where the grant bid limits make it hard to appear. Paid budgets are separate from any management fee. Our guide to Google Ads agencies in the UK explains how paid accounts are typically managed.</p>
+
+<h2>Fundraising pages that convert</h2>
+<p>Most charity traffic now arrives on a phone, often from social media or email. A donation page that is slow or confusing loses people who have already decided to give.</p>
+<ul>
+<li>Lead with one clear ask and one image that tells the story.</li>
+<li>Explain what different amounts can help fund, but keep examples accurate and approved.</li>
+<li>Offer one-off and monthly options, with the monthly choice explained simply.</li>
+<li>Include a Gift Aid declaration where eligible, following HMRC wording requirements.</li>
+<li>Offer familiar payment methods such as card, Apple Pay, Google Pay and PayPal if your platform supports them.</li>
+<li>Keep the form short and say clearly how data will be used.</li>
+</ul>
+<p>Our guides to <a href="/blog/landing-page-design-uk/">landing page design</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a> cover the technical side. If your current site makes this hard, a rebuild may be worth it; small websites typically cost £1,000 to £2,000, as explained in our website design cost guide.</p>
+
+<h2>SEO for charities</h2>
+<p>Search is often the main way people in need find a charity. Someone searching "debt advice Birmingham" or "carers support group near me" is looking for help right now. Clear service pages, a well-maintained Google Business Profile for each location, and plain-English advice content can serve them well and build trust with donors at the same time.</p>
+<p>Charities also tend to earn links naturally: local news, councils, partner organisations, universities and funders. Make sure those links point to useful pages, and fix technical issues so the site can be crawled easily. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and SEO for small businesses article both apply closely to small charities.</p>
+
+<h2>Email, consent and the Fundraising Regulator</h2>
+<p>Email is often the most cost-effective way to keep supporters engaged, but charities should be careful with consent. In general terms:</p>
+<ul>
+<li>PECR usually requires consent to send marketing emails, including fundraising appeals, to individuals. The soft opt-in for existing customers was historically limited to commercial sales; recent legislation has extended a version of it to charities, so check current ICO guidance before relying on it.</li>
+<li>UK GDPR applies to how you collect, store and use supporter data. The ICO publishes guidance aimed at charities.</li>
+<li>The Code of Fundraising Practice, overseen by the Fundraising Regulator in England, Wales and Northern Ireland, sets standards for fundraising, including treating donors fairly and respecting their wishes. Scotland has its own Scottish Fundraising Adjudication Panel.</li>
+<li>The Fundraising Preference Service lets people stop contact from specific charities, and you should act on requests you receive.</li>
+</ul>
+<p>Take advice from a specialist if you are unsure. It is far easier to set up sign-up forms correctly than to rebuild a list later.</p>
+
+<h2>Social media and content</h2>
+<p>Social channels work well for storytelling, events and community fundraising, but organic reach on many platforms is limited. Focus on one or two platforms where your supporters already are, post consistently, and use stories with consent from the people featured. Safeguarding comes first: avoid identifying vulnerable people without proper permission.</p>
+<p>Longer-form content such as impact reports, guides and campaign pages can be repurposed into email and social posts. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> explains how to plan this efficiently.</p>
+
+<h2>Volunteer recruitment online</h2>
+<p>Volunteer searches are often local and specific: "volunteer at a food bank in Leeds" or "befriending volunteer near me". A dedicated page for each role, with location, time commitment, any checks required and a short application form, tends to perform far better than a single general volunteering page. These pages also suit Ad Grants campaigns, because the intent is clear and the conversion is easy to track.</p>
+<p>Tell applicants what happens next and how long it usually takes. Slow follow-up is one of the most common reasons volunteers drop out.</p>
+
+<h2>Measuring what matters</h2>
+<p>Set up GA4 with events for donations, volunteer applications, sign-ups and key calls, and connect your donation platform where possible so you can see which channels raise money. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics. Report to trustees on outcomes, not vanity metrics.</p>
+
+<p>Share a short monthly dashboard with staff and trustees showing donations, volunteer applications and service enquiries by channel. Even simple reporting helps small teams decide where to spend limited time.</p>
+
+<h2>Charity digital marketing checklist</h2>
+<ul>
+<li>Agree and rank goals: donations, regular giving, volunteers, services.</li>
+<li>Check eligibility and current terms for Google Ad Grants.</li>
+<li>Track meaningful conversions in GA4 and the grant account.</li>
+<li>Make donation pages fast, mobile-friendly and short.</li>
+<li>Include Gift Aid wording where relevant.</li>
+<li>Review consent wording against current ICO guidance.</li>
+<li>Check fundraising activity against the Code of Fundraising Practice.</li>
+<li>Claim and maintain Google Business Profiles for each location.</li>
+<li>Publish clear service and advice pages for people seeking help.</li>
+<li>Report outcomes to trustees quarterly.</li>
+</ul>
+
+<h2>Getting support</h2>
+<p>We do not run a dedicated charity sector page, but our <a href="/services/seo-geo/">SEO and GEO services</a> and <a href="/services/paid-media/">paid media services</a> cover the same core work: search visibility, ad accounts and tracking. Retainers start at £350 a month; see our <a href="/pricing/">pricing page</a> for what each plan includes.</p>
+
+<h2>FAQs</h2>
+<h3>What does charity digital marketing in the UK involve?</h3>
+<p>It covers your website, search visibility, Google Ad Grants or paid ads, email, social media and tracking, all aimed at raising funds, recruiting volunteers and helping people find your services, within UK data and fundraising rules.</p>
+<h3>Is Google Ad Grants really free?</h3>
+<p>The advertising credit is free for eligible charities, but the account needs time and skill to manage and must meet Google's ongoing rules. Check the current programme terms for limits and requirements.</p>
+<h3>Can charities email supporters without consent?</h3>
+<p>Generally you need consent for marketing emails, including appeals. Rules have recently changed to extend a form of soft opt-in to charities, so check current ICO guidance or take advice before relying on it.</p>
+<h3>Who regulates charity fundraising in the UK?</h3>
+<p>The Fundraising Regulator oversees the Code of Fundraising Practice in England, Wales and Northern Ireland, while Scotland has its own arrangements. The Charity Commission and the ICO also have relevant roles.</p>
+<h3>What should a charity donation page include?</h3>
+<p>One clear ask, one-off and monthly options, a Gift Aid declaration where eligible, familiar payment methods, a short form and clear information on how data will be used.</p>
+<h3>How can a small charity improve its Google ranking?</h3>
+<p>Create clear pages for each service and location, maintain a Google Business Profile, publish helpful advice content and ask partners and local organisations to link to relevant pages.</p>
+<p>If you would like to talk through your charity's website, search or ad account, <a href="/contact/">book a free discovery call</a> and we will help you work out where to start.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-email-marketing-uk',
+    seoTitle: 'Ecommerce Email Marketing UK: Flows, Segments, Consent',
+    title: 'Ecommerce Email Marketing for UK Online Shops',
+    description: 'Ecommerce email marketing for UK shops: build welcome, basket and post-purchase flows first, segment by behaviour, and collect consent that fits PECR.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/sectors/ecommerce/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Ecommerce email marketing for UK online shops works best when you build a small set of automated flows first (welcome, abandoned basket, browse abandonment, post-purchase and win-back) and then add regular campaigns to segmented lists. Collect consent in a way that fits PECR and UK GDPR, measure revenue per recipient rather than open rates, and email is usually one of the cheapest channels a shop can run.</p>
+<p>This guide is for owners of Shopify, WooCommerce and similar stores who want a practical plan. It sits alongside our wider guide to <a href="/blog/ecommerce-marketing-agency-uk/">ecommerce marketing in the UK</a>, which covers how email fits with search, paid social and shopping ads.</p>
+
+<h2>Why email matters for UK online shops</h2>
+<p>Paid traffic keeps getting more expensive, and every click you buy from Google or Meta is rented. An email list is an audience you own. Once someone has subscribed or bought, you can bring them back for the cost of the platform rather than paying for another click. That makes email the natural partner to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and paid social: ads find the first customer, email earns the second and third orders.</p>
+<p>Email also smooths seasonality. UK shops lean heavily on Black Friday, Christmas and January sales, and a healthy list lets you announce launches and offers without relying entirely on ad budgets at the most expensive time of year.</p>
+
+<h2>The five flows to build first</h2>
+<p>Flows are automated sequences triggered by what a customer does. They run every day without you pressing send, which is why they tend to deliver a large share of email revenue for most stores.</p>
+<table>
+<thead><tr><th>Flow</th><th>Trigger</th><th>Typical emails</th><th>Main goal</th></tr></thead>
+<tbody>
+<tr><td>Welcome series</td><td>New subscriber</td><td>3 to 5 over two weeks</td><td>Introduce the brand and secure a first order</td></tr>
+<tr><td>Abandoned basket</td><td>Item added, no checkout</td><td>2 to 3 over 48 hours</td><td>Recover the sale</td></tr>
+<tr><td>Browse abandonment</td><td>Product viewed, nothing added</td><td>1 to 2</td><td>Prompt a return visit</td></tr>
+<tr><td>Post-purchase</td><td>Order placed or delivered</td><td>2 to 4</td><td>Reassure, ask for a review, cross-sell</td></tr>
+<tr><td>Win-back</td><td>No order for a set period</td><td>2 to 3</td><td>Re-engage lapsed customers</td></tr>
+</tbody>
+</table>
+<h3>Welcome series</h3>
+<p>Open with what makes the shop different: who you are, how products are made or chosen, delivery and returns in plain terms. If you use a sign-up incentive, deliver it in the first email and remind people before it expires. Later emails can feature best sellers and real customer reviews collected through your review platform.</p>
+<h3>Abandoned basket</h3>
+<p>Send the first reminder within a few hours with the product image, price and a link straight back to the basket. Answer common objections in the second: delivery costs and times with Royal Mail, Evri or DPD, returns, and payment options such as Klarna or Clearpay if you offer them. Hold back discounts until the final email, or not at all, so you are not training customers to abandon on purpose.</p>
+<h3>Post-purchase</h3>
+<p>Confirm what happens next, share care or setup tips, then ask for a review once the item has arrived. A well-timed cross-sell for a related product works far better here than a generic newsletter.</p>
+
+<h2>Segmentation that makes campaigns worth opening</h2>
+<p>Sending every campaign to the whole list is the fastest way to lower engagement and damage deliverability. Start with a few simple segments:</p>
+<ul>
+<li><strong>Engaged subscribers:</strong> opened or clicked in the last 60 to 90 days. Send most campaigns here.</li>
+<li><strong>Customers versus non-customers:</strong> people who have bought need different messages from browsers.</li>
+<li><strong>Repeat and high-value customers:</strong> early access to launches and sales, not just discounts.</li>
+<li><strong>Category interest:</strong> based on what people bought or viewed, so a dog owner is not sent cat food.</li>
+<li><strong>Lapsed:</strong> no opens or orders for a long period; give them a win-back flow, then suppress if they stay silent.</li>
+</ul>
+<p>Apple Mail privacy features inflate open rates, so treat opens as a rough guide. Clicks, orders and revenue per recipient are more reliable signals.</p>
+
+<h2>Consent, PECR and UK GDPR (general guidance)</h2>
+<p>This is general information, not legal advice. UK email marketing is mainly governed by the Privacy and Electronic Communications Regulations (PECR) alongside UK GDPR, and the Information Commissioner's Office (ICO) publishes guidance on both. The points below reflect how many UK shops approach it, but your own situation should be checked against current ICO guidance or with a legal adviser, particularly as the rules have been updated by recent legislation.</p>
+<ul>
+<li><strong>Consent for marketing:</strong> generally, you need clear opt-in consent to send marketing emails to individuals. Pre-ticked boxes are not valid consent.</li>
+<li><strong>The soft opt-in:</strong> PECR allows marketing to existing customers about similar products if you collected their details during a sale, gave them a chance to opt out at the time, and offer an opt-out in every message. Many shops rely on this for customers who did not tick a box.</li>
+<li><strong>Clear sign-up wording:</strong> tell people what they are signing up for and how often you are likely to email.</li>
+<li><strong>Easy unsubscribe:</strong> every marketing email needs a simple way to opt out, and you should act on it promptly.</li>
+<li><strong>Records:</strong> keep a record of when and how each person subscribed.</li>
+</ul>
+<p>Transactional emails such as order confirmations and dispatch notices are treated differently from marketing, but loading them with promotions can blur that line. If in doubt, keep them focused on the order.</p>
+
+<h2>Choosing a platform and connecting it to your shop</h2>
+<p>Most UK shops use a dedicated email platform that integrates with Shopify or WooCommerce so that product views, baskets and orders flow in automatically. What matters more than the brand is the integration: real-time events, product feeds for dynamic content, and clean customer data. If you are still choosing a shop platform, our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce in the UK</a> covers how each handles apps and integrations.</p>
+<p>Set up domain authentication (SPF, DKIM and DMARC) before you send at volume. Major mailbox providers now expect it from bulk senders, and without it more of your emails may land in spam.</p>
+<p>Make sure email traffic is tagged and recorded properly in Google Analytics too, so you can compare it fairly with other channels. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to get ecommerce tracking right.</p>
+
+<h2>Campaigns: what to send between flows</h2>
+<p>Once flows are running, plan a simple campaign calendar around the UK retail year: January sales, Valentine's Day, Mother's Day, Easter, summer, back to school, Black Friday and Christmas, with last order dates for Christmas delivery clearly stated. Mix in non-sales content too: new arrivals, how-to guides, behind-the-scenes stories and customer favourites.</p>
+<p>One or two campaigns a week to engaged subscribers is a sensible starting point for many shops. Watch unsubscribe and spam complaint rates; if they climb, reduce frequency or tighten segments.</p>
+
+<h2>Email and your website work together</h2>
+<p>An email can only convert if the page it lands on does. Slow product pages, unclear delivery information or a clunky mobile checkout will waste good emails. Our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce CRO in the UK</a> covers the on-site fixes that make every channel work harder, including email.</p>
+
+<h2>Ecommerce email marketing checklist</h2>
+<ul>
+<li>Authenticate your sending domain with SPF, DKIM and DMARC.</li>
+<li>Review sign-up forms: clear wording, no pre-ticked boxes, consent recorded.</li>
+<li>Check checkout opt-out wording if you rely on the soft opt-in.</li>
+<li>Build welcome, abandoned basket, browse abandonment, post-purchase and win-back flows.</li>
+<li>Create engaged, customer, high-value and lapsed segments.</li>
+<li>Plan a campaign calendar around UK retail dates and delivery cut-offs.</li>
+<li>Track revenue per recipient, clicks and unsubscribes, not just opens.</li>
+<li>Suppress long-term unengaged contacts to protect deliverability.</li>
+<li>Review flows every quarter and test one change at a time.</li>
+</ul>
+
+<h2>How we can help</h2>
+<p>Email works best as part of a joined-up plan for your store. Our <a href="/sectors/ecommerce/">ecommerce marketing</a> work covers search, paid media and the site itself, and our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team builds shops from £1,500 to £3,500. Monthly retainers start at £350, and you can see what each plan includes on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is ecommerce email marketing for UK online shops?</h3>
+<p>It is the use of automated flows and planned campaigns to turn subscribers into customers and customers into repeat buyers, sent in a way that meets UK consent rules under PECR and UK GDPR.</p>
+<h3>Which email flow should I build first?</h3>
+<p>Most shops start with the welcome series and abandoned basket flow, because they catch people at the moment of highest interest. Post-purchase and win-back flows follow.</p>
+<h3>Can I email customers who did not tick a marketing box?</h3>
+<p>Possibly, under the PECR soft opt-in, if you collected their details during a sale, offered an opt-out at the time and include one in every email, and you are marketing similar products. Check current ICO guidance or take legal advice for your situation.</p>
+<h3>How often should a UK shop send email campaigns?</h3>
+<p>One or two a week to engaged subscribers suits many shops, with more around key dates such as Black Friday. Watch unsubscribes and complaints and adjust frequency to match.</p>
+<h3>Should every abandoned basket email include a discount?</h3>
+<p>No. Lead with a reminder and answers to common concerns such as delivery and returns. Discounts used every time can teach customers to abandon baskets deliberately.</p>
+<h3>How do I measure whether email is working?</h3>
+<p>Look at revenue per recipient, click rate, conversion rate and unsubscribe rate, and check email revenue in GA4 alongside your email platform reports so you are not relying on one source.</p>
+<p>If you want a plan for flows, segments and the shop behind them, <a href="/contact/">book a free discovery call</a> and we will talk through where to start.</p>
+`,
+  },
+  {
+    slug: 'google-business-profile-uk',
+    seoTitle: 'Google Business Profile Optimisation UK: Full Guide',
+    title: 'Google Business Profile Optimisation for UK Businesses',
+    description: 'Google Business Profile optimisation for UK firms: pick the right categories, post weekly, add real photos, earn and answer reviews, keep details accurate.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/hospitality/'],
+    body: `
+<p>Google Business Profile optimisation for UK businesses comes down to six things: verify the listing, choose the most specific primary category, complete every field, add genuine photos, earn and reply to reviews, and keep posting and updating. Do those consistently and your profile gives Google clear, trusted signals for the local pack and Maps, which is where most nearby customers decide who to call.</p>
+<p>This guide goes deeper on the profile itself. If you want the wider picture, including local landing pages, citations and links, read our <a href="/blog/local-seo-uk-guide/">local SEO guide for UK businesses</a> first, then come back here to work through the profile field by field.</p>
+
+<h2>Why the profile matters more than most website pages</h2>
+<p>For searches such as "plumber near me" or "Italian restaurant Leeds", the map results usually sit above the standard organic listings. They read the star rating, glance at photos, check the opening hours and tap to call or get directions. That makes the profile a shop window in its own right, not just a supporting asset for your site.</p>
+<p>Google has said publicly that local ranking is driven mainly by relevance, distance and prominence. You cannot change where a searcher is standing, but you can influence relevance (categories, services, description) and prominence (reviews, links, mentions and the strength of your website). The rest of this guide is about those two levers.</p>
+
+<h2>Setting up and verifying your profile properly</h2>
+<p>Start at the Google Business Profile manager and search for your business name first, because a listing may already exist from a customer suggestion or a previous owner. Claim that listing rather than creating a duplicate. Duplicates split reviews and confuse Google about which version is correct.</p>
+<p>Verification methods vary by business and change over time. Google may offer a video recording, a phone or text code, email or a postcard. Follow whatever it offers and avoid editing key details while verification is pending, as changes can restart the process.</p>
+<h3>Storefront or service-area business</h3>
+<p>If customers visit you, show your address. If you travel to customers, such as electricians, mobile groomers or cleaners, set up as a service-area business, hide the address and list the towns or postcode districts you cover. Google guidelines say you should not list an address customers cannot visit, and virtual offices are a common cause of suspended listings.</p>
+<h3>Business name rules</h3>
+<p>Use your real-world trading name, as it appears on signage and paperwork. Adding keywords or towns to the name ("Smith Plumbing Manchester Emergency Plumber") breaks the guidelines and can lead to suspension once a competitor reports it.</p>
+
+<h2>Choosing categories, services and attributes</h2>
+<p>Your primary category tells Google what you are. Pick the most specific option available: "Wedding photographer" beats a generic "Photographer" if weddings are your main work. You can add secondary categories for genuine extra services, but each one should reflect something you really offer, not a keyword you hope to rank for.</p>
+<table>
+<thead><tr><th>Field</th><th>What to do</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>Primary category</td><td>Most specific match for your main service</td><td>Choosing a broad parent category</td></tr>
+<tr><td>Secondary categories</td><td>Only real, additional services</td><td>Adding ten loosely related categories</td></tr>
+<tr><td>Services and products</td><td>List each with a short plain description and price where sensible</td><td>Leaving the section empty</td></tr>
+<tr><td>Attributes</td><td>Tick accessibility, payment and amenity options that apply</td><td>Ignoring them, so filters exclude you</td></tr>
+<tr><td>Description</td><td>750 characters on what you do, where and for whom</td><td>Keyword lists or links</td></tr>
+<tr><td>Opening hours</td><td>Regular hours plus special hours for bank holidays</td><td>Showing open on Christmas Day</td></tr>
+</tbody>
+</table>
+
+<h2>Photos and videos that actually help</h2>
+<p>Real photos build trust far more than stock images. Upload a clear logo, a cover image, the outside of your premises (so people recognise it when they arrive), the inside, your team at work without names attached, and examples of your products or finished jobs. Restaurants and hotels should add menu items, rooms and the view from the table; trades should show before-and-after work.</p>
+<p>Add a few new images each month rather than fifty at once. Fresh uploads keep the listing current, and customers can also add their own photos, so check those regularly and report anything offensive or irrelevant.</p>
+
+<h2>Google Posts: what to publish each week</h2>
+<p>Posts appear on your profile and sometimes in search results. They expire from prominent view after a while, so a weekly rhythm works well. Useful post types for UK businesses include:</p>
+<ul>
+<li><strong>Offers:</strong> seasonal deals, such as a January boiler service price or a Mother's Day set menu.</li>
+<li><strong>Updates:</strong> new services, recent projects, changes to hours over bank holidays.</li>
+<li><strong>Events:</strong> open days, tastings, workshops or school-holiday activities.</li>
+<li><strong>Products:</strong> featured items with a link to the relevant page on your site.</li>
+</ul>
+<p>Every post should have a good photo and a clear button that leads to a relevant page, not just your homepage. Tag those links with UTM parameters so you can see the traffic in Google Analytics; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to make sure that data is recorded correctly.</p>
+
+<h2>Reviews: earning them and replying well</h2>
+<p>Review count, rating and recency all influence how customers judge you, and they are widely believed to affect prominence too. The fix is not a tactic but a process: ask every happy customer, at the right moment, with a direct link.</p>
+<ul>
+<li>Create your short review link from the profile dashboard and add it to receipts, follow-up emails and a QR code at the till.</li>
+<li>Ask when the customer is most satisfied: after a job is signed off, after a meal, after delivery arrives.</li>
+<li>Never offer discounts or gifts for reviews and never filter so only happy customers are asked. That breaks Google policy, and the Competition and Markets Authority has taken a firm line on fake and incentivised reviews in the UK.</li>
+<li>Reply to every review within a few days. Thank positive reviewers by mentioning what they bought or had done. For negative reviews, stay calm, acknowledge the issue, and move the detail offline.</li>
+</ul>
+
+<h2>Questions, messages and bookings</h2>
+<p>Features on the profile change regularly, and Google has removed and reshaped tools such as chat and Q&amp;A over the years. Where a questions section is shown, seed it with genuine common questions (parking, accessibility, whether you take card payments) and answer them yourself so the first answer is accurate. Monitor it, because anyone can post an answer.</p>
+
+<h2>Keep the profile consistent with your website</h2>
+<p>Google cross-checks your profile against your website and other listings. The name, address and phone number should match exactly across your site footer, contact page, Apple Business Connect, Bing Places, Yell, Facebook and any industry directories. Add LocalBusiness structured data to your site so the details are machine readable. If you have several branches, give each its own location page and link each profile to its page.</p>
+<p>A slow or confusing website also undermines the profile, because people who tap through and bounce do not convert. Our guides on <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> and <a href="/blog/landing-page-design-uk/">landing page design</a> cover the pages your profile points to.</p>
+
+<h2>Google Business Profile optimisation checklist</h2>
+<ul>
+<li>Claim and verify the listing; remove or merge duplicates.</li>
+<li>Use your real trading name with no added keywords.</li>
+<li>Set the most specific primary category and only genuine secondary ones.</li>
+<li>Fill in services, products, attributes and a 750-character description.</li>
+<li>Add regular and bank holiday hours, phone, website and booking links.</li>
+<li>Upload real photos monthly: exterior, interior, work, products.</li>
+<li>Publish one Google Post a week with a tracked link.</li>
+<li>Send a review link to every customer and reply to every review.</li>
+<li>Check the profile weekly for suggested edits from the public.</li>
+<li>Match name, address and phone across your site and main directories.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Most small businesses can run their own profile with an hour a week. Help becomes worthwhile when you have several locations, you have been suspended, or you rank well on Maps but your website does not convert. That is where profile work joins up with wider <a href="/services/seo-geo/">SEO and GEO services</a>. Our retainers start at £350 a month, and you can compare what each plan covers on our <a href="/pricing/">pricing page</a>. For a broader view of small business search, see our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses in the UK</a>, and hospitality owners may find our <a href="/sectors/hospitality/">hospitality marketing page</a> useful.</p>
+
+<h2>FAQs</h2>
+<h3>What is Google Business Profile optimisation for UK businesses?</h3>
+<p>It is the process of completing and maintaining your free Google listing so it appears in the map pack and Maps for relevant local searches. It covers categories, services, photos, posts, reviews and keeping your details consistent everywhere.</p>
+<h3>How long does it take to see results from a better profile?</h3>
+<p>Simple fixes such as the right primary category can make a difference within weeks, but reviews and prominence build over months. As with most SEO work, plan on three to six months before judging the overall trend.</p>
+<h3>Can I rank in a town where I have no address?</h3>
+<p>It is hard. Distance is a strong factor, so a service-area business usually ranks best near its verified location. Location pages on your website and links from local organisations can help you appear for searches that name other towns.</p>
+<h3>Should I add keywords to my business name?</h3>
+<p>No. It breaks Google guidelines and can lead to suspension if reported. Use your real trading name and put relevance into your categories, services and description instead.</p>
+<h3>How do I get rid of a fake or unfair review?</h3>
+<p>You can flag a review that breaks Google policy, for example spam, conflicts of interest or offensive content. Google decides whether to remove it. Reviews that are simply negative usually stay, so a calm public reply is your best response.</p>
+<h3>Do Google Posts help rankings?</h3>
+<p>Their direct ranking effect is debated. Their value is in showing customers that you are active, promoting offers and sending tracked traffic to the right page, which is reason enough to keep posting weekly.</p>
+<p>If you would like a second pair of eyes on your listing and the website behind it, <a href="/contact/">book a free discovery call</a> and we will talk through what to fix first.</p>
+`,
+  },
+  {
+    slug: 'saas-ppc-uk',
+    seoTitle: 'SaaS PPC UK: Google and LinkedIn Ads for Software',
+    title: 'PPC for SaaS Companies: A UK Guide to Trials, Demos and Competitor Terms',
+    description: 'PPC for SaaS companies in the UK: match campaigns to trial or demo funnels, bid on competitor terms with care and use LinkedIn to reach buyers by role.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/sectors/saas/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>PPC for SaaS companies in the UK works when every campaign is tied to a specific funnel step, either a free trial or a demo request, and when the ad platforms are optimised towards qualified pipeline rather than raw sign-ups. In practice that means Google Search for high-intent and competitor terms, LinkedIn for reaching named roles and accounts, and a tight feedback loop from your CRM.</p>
+<p>This guide covers the paid side. For organic search, see our <a href="/blog/saas-seo-agency-uk/">SaaS SEO agency guide</a>, and for a general view of costs, our article on <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a>.</p>
+
+<h2>Trial or demo: choose the funnel before the campaign</h2>
+<p>Product-led SaaS with a self-serve free trial or freemium plan behaves very differently from sales-led SaaS where a demo comes first. Your keywords, landing pages, bids and conversion goals should follow that choice.</p>
+<table>
+<thead><tr><th>Factor</th><th>Free trial or freemium</th><th>Demo-led</th></tr></thead>
+<tbody>
+<tr><td>Typical buyer</td><td>Individual or small team</td><td>Department or company</td></tr>
+<tr><td>Primary conversion</td><td>Sign-up, then activation</td><td>Demo booked, then attended</td></tr>
+<tr><td>Landing page</td><td>Short, product-focused, fast sign-up</td><td>Problem-focused, proof, short form</td></tr>
+<tr><td>Best signal to optimise</td><td>Activated or paying users</td><td>Sales-qualified opportunities</td></tr>
+<tr><td>Main channel</td><td>Google Search, sometimes Meta</td><td>Google Search plus LinkedIn</td></tr>
+</tbody>
+</table>
+<p>Many companies run both: a trial for smaller customers and a demo route for larger ones. If so, split campaigns and pages so the platforms do not blend two very different conversion types into one.</p>
+
+<h2>Why sign-ups alone mislead the algorithm</h2>
+<p>Smart bidding learns from whatever you call a conversion. If that is every trial sign-up, the algorithm will happily find cheap sign-ups from students, competitors and people who never log in again. The fix is to send deeper signals back:</p>
+<ul>
+<li>Track trial activation (for example, connecting an integration or inviting a colleague) as a separate conversion.</li>
+<li>Import qualified lead, opportunity and closed-won stages from your CRM using offline conversion imports.</li>
+<li>Assign values so a demo from a large company is worth more than a single-seat trial.</li>
+<li>Use enhanced conversions where appropriate, with a privacy notice and consent setup that fit UK GDPR.</li>
+</ul>
+<p>Getting tracking right is the foundation. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers events and conversions, and our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> lists the tracking checks worth running before you scale spend.</p>
+
+<h2>Google Ads structure for SaaS</h2>
+<h3>Category and problem terms</h3>
+<p>Searches like "project management software", "HR software UK" or "automate invoice reminders" show clear intent but are often expensive and competitive. Group them tightly and send each to a page that speaks to that use case, not a generic homepage.</p>
+<h3>Brand terms</h3>
+<p>Bid on your own name. It is usually cheap, protects you from competitors appearing above you and lets you control the message. Keep it in a separate campaign so it does not flatter the performance of non-brand activity.</p>
+<h3>Competitor and alternative terms</h3>
+<p>People searching "X alternative" or "X vs Y" are often unhappy with a current tool or comparing options, which makes them valuable. A few rules:</p>
+<ul>
+<li>Google generally allows bidding on competitor names as keywords, but using trade marks in ad text can be restricted if the owner files a complaint.</li>
+<li>Keep claims factual and verifiable; comparative advertising is covered by the CAP Code and ASA rulings.</li>
+<li>Send traffic to an honest comparison page that explains when your tool is and is not the right fit.</li>
+<li>Expect lower click-through rates and Quality Scores, and judge these campaigns on pipeline, not cost per click.</li>
+</ul>
+<h3>Performance Max and Display</h3>
+<p>Broad automated campaign types can work for SaaS once conversion data is solid, but they can also spend on low-quality placements. Our Performance Max guide explains when it is worth testing.</p>
+
+<h2>LinkedIn vs Google for SaaS</h2>
+<p>The two platforms do different jobs. Google captures people already searching for a solution. LinkedIn finds people who match your ideal customer profile by job title, seniority, industry and company size, whether or not they are searching today.</p>
+<table>
+<thead><tr><th>Question</th><th>Google Ads</th><th>LinkedIn Ads</th></tr></thead>
+<tbody>
+<tr><td>Demand type</td><td>Existing intent</td><td>Creating and shaping demand</td></tr>
+<tr><td>Targeting</td><td>Keywords and audiences</td><td>Job title, function, company, seniority</td></tr>
+<tr><td>Typical cost per click</td><td>Varies widely by term</td><td>Usually higher</td></tr>
+<tr><td>Best offers</td><td>Trial, demo, pricing</td><td>Guides, webinars, demos for warm audiences</td></tr>
+<tr><td>Account-based marketing</td><td>Limited</td><td>Strong, with company list uploads</td></tr>
+</tbody>
+</table>
+<p>A common pattern is to use Google for bottom-funnel demand and LinkedIn to warm up target accounts with useful content, then retarget engaged people with a demo offer. Our article on <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B lead generation</a> goes deeper on formats and lead forms.</p>
+
+<h2>Landing pages that convert SaaS clicks</h2>
+<p>A SaaS landing page should match the ad message, state the outcome in one line, show the product, address the main objection (price, setup time, security, integrations) and make the next step obvious. For demo pages, keep forms short and say what happens next. For trial pages, remove anything that slows sign-up. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> has a full checklist, and for UK buyers, mentioning UK data hosting or UK GDPR alignment, where true, can remove friction.</p>
+
+<h2>Retargeting and nurturing paid traffic</h2>
+<p>Most SaaS visitors do not convert on their first click, particularly on demo-led products. Retargeting lets you stay in front of people who visited pricing, comparison or feature pages. Keep audiences specific: someone who read the pricing page is warmer than someone who skimmed a blog post, and they should see a different message.</p>
+<ul>
+<li><strong>Pricing page visitors:</strong> a demo or trial offer with a short answer to the main cost objection.</li>
+<li><strong>Trial users who did not activate:</strong> setup help, a short video or an onboarding call, often better sent by email than by ads.</li>
+<li><strong>Comparison page readers:</strong> a clear summary of why customers switch, with fair and accurate claims.</li>
+<li><strong>Existing customers:</strong> exclude them from acquisition campaigns, or show them upgrade and add-on messages instead.</li>
+</ul>
+<p>Retargeting relies on cookies and tracking, so make sure your cookie banner and privacy notice reflect what you use, in line with PECR and UK GDPR. Consent mode settings in Google and similar controls on LinkedIn help respect visitors who decline.</p>
+
+<h2>Budgets and expectations</h2>
+<p>Ad spend is paid separately from management fees and depends on your market. Competitive software categories can carry high click costs, so starting with a narrow set of high-intent terms and building out is usually more efficient than going broad on day one. Allow time for learning: with long B2B sales cycles, it may take a few months before CRM data shows which campaigns create real revenue.</p>
+
+<p>Review search term reports weekly in the early months. SaaS keywords attract a surprising amount of irrelevant traffic, such as people looking for jobs at a competitor, login pages, free templates or support for a tool they already use. Adding these as negative keywords early protects budget for the searches that lead to trials and demos.</p>
+
+<h2>SaaS PPC checklist</h2>
+<ul>
+<li>Decide whether each campaign drives trials or demos.</li>
+<li>Track activation and CRM stages, not just sign-ups.</li>
+<li>Import offline conversions and assign values by deal size.</li>
+<li>Separate brand, non-brand and competitor campaigns.</li>
+<li>Build honest comparison pages for competitor traffic.</li>
+<li>Check trade mark use in ad text against platform policy.</li>
+<li>Match each ad group to a focused landing page.</li>
+<li>Use LinkedIn for target roles and accounts, then retarget.</li>
+<li>Add negative keywords for jobs, free, login and support searches.</li>
+<li>Review pipeline by campaign monthly, not just cost per lead.</li>
+</ul>
+
+<h2>How we help SaaS companies</h2>
+<p>Our <a href="/sectors/saas/">SaaS marketing</a> work joins paid search, LinkedIn and organic content around one funnel, and our <a href="/services/paid-media/">paid media services</a> cover setup, tracking and ongoing management. Retainers start at £350 a month with ad spend paid separately; the <a href="/pricing/">pricing page</a> sets out what each plan includes.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best PPC approach for SaaS companies?</h3>
+<p>Tie each campaign to a single funnel step, trial or demo, and optimise towards qualified pipeline using CRM data. Combine Google Search for existing demand with LinkedIn for targeting specific roles and accounts.</p>
+<h3>Is it legal to bid on competitor names in the UK?</h3>
+<p>Bidding on competitor names as keywords is generally permitted by Google, but trade mark use in ad text can be restricted, and comparative claims must be fair and accurate under advertising rules. Take legal advice if unsure.</p>
+<h3>Should SaaS companies use LinkedIn or Google Ads?</h3>
+<p>Usually both. Google captures people searching now; LinkedIn reaches decision makers by job title and company. The right split depends on your deal size and how well known your category is.</p>
+<h3>Why are my trial sign-ups cheap but revenue low?</h3>
+<p>The algorithm is probably optimising for any sign-up. Track activation and import CRM stages so bidding learns which clicks become paying customers.</p>
+<h3>How much should a SaaS company spend on PPC?</h3>
+<p>It depends on click costs in your category and your customer value. Start with a focused budget on high-intent terms, measure pipeline, and scale what works. Management fees are separate from ad spend.</p>
+<h3>How long before SaaS PPC shows results?</h3>
+<p>Clicks and sign-ups appear quickly, but with longer sales cycles it often takes a few months to see which campaigns generate revenue. Paid results typically settle within three to six months.</p>
+<p>If you want a second opinion on your trial or demo campaigns, <a href="/contact/">book a free discovery call</a> and we will talk through your funnel and tracking.</p>
+`,
+  },
 ];
