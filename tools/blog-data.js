@@ -5226,4 +5226,558 @@ module.exports = [
 <p>Google Business Profile changes can help within weeks, while wider SEO typically takes 3 to 6 months to show meaningful results.</p>
 `,
   },
+  {
+    slug: 'ga4-setup-uk',
+    seoTitle: 'GA4 Setup UK: Key Events, Consent Mode and a Checklist',
+    title: 'GA4 Setup for UK Businesses: Key Events, Consent Mode and Privacy',
+    description: 'A sound GA4 setup in the UK tracks the key events that matter, respects consent under UK GDPR and PECR, and links to Ads and Search Console.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/paid-media/', '/services/seo-geo/'],
+    body: `
+<p>A good GA4 setup for a UK business tracks a short list of key events that reflect real outcomes, such as form submissions, calls and purchases, and respects visitor consent under UK GDPR and PECR. Getting the basics right at the start saves months of unreliable data and wasted ad spend.</p>
+<p>Google Analytics 4 is free and powerful, but its default setup does not know what matters to your business. This guide covers account structure, key events, consent mode, the UK privacy context, linking to other Google tools and a checklist you can work through. It is practical guidance rather than legal advice, so check privacy decisions with your own adviser.</p>
+
+<h2>GA4 setup in the UK: the basics</h2>
+<p>A GA4 property collects data through a data stream, usually one web stream for your site. You add the Google tag directly or through Google Tag Manager. Tag Manager is more flexible if you plan to track several events or run ads on multiple platforms.</p>
+<ol>
+<li><strong>Create the account and property:</strong> use a business-owned Google account, not one belonging to a freelancer or former employee.</li>
+<li><strong>Set the time zone and currency:</strong> United Kingdom time and pounds sterling, so reports match your books.</li>
+<li><strong>Add a web data stream:</strong> keep enhanced measurement on for scrolls, outbound clicks and file downloads, then review what you need.</li>
+<li><strong>Install the tag:</strong> via Tag Manager or your platform's built-in integration, such as Shopify or a WordPress plugin.</li>
+<li><strong>Set data retention:</strong> the default is short, so extend it to the longest standard option if it suits your privacy policy.</li>
+<li><strong>Filter internal traffic:</strong> define your office IP addresses so staff visits do not distort data.</li>
+<li><strong>Grant access carefully:</strong> give agencies their own user access rather than sharing logins.</li>
+</ol>
+
+<h2>Key events: track what matters</h2>
+<p>GA4 calls the actions you care most about key events. Keep the list short and tied to business value. Too many key events make reports noisy and confuse ad bidding.</p>
+<table>
+<thead><tr><th>Business type</th><th>Suggested key events</th><th>Supporting events</th></tr></thead>
+<tbody>
+<tr><td>Service business</td><td>Enquiry form submitted, call button tapped</td><td>Contact page view, email link click</td></tr>
+<tr><td>Ecommerce</td><td>Purchase</td><td>Add to cart, begin checkout, view item</td></tr>
+<tr><td>Booking business (hotels, clinics, restaurants)</td><td>Booking completed</td><td>Booking widget opened, availability checked</td></tr>
+<tr><td>B2B or SaaS</td><td>Demo request, trial sign-up</td><td>Pricing page view, guide download</td></tr>
+</tbody>
+</table>
+<p>Track form submissions on a genuine success signal, such as a thank-you page or a confirmed submission event, rather than a button click that fires even when validation fails. For ecommerce, use the recommended ecommerce events with values and currency so revenue reports are accurate. Our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce CRO</a> shows how that data feeds conversion work.</p>
+
+<h2>Consent, UK GDPR and PECR</h2>
+<p>In the UK, the use of cookies and similar technologies is governed by the Privacy and Electronic Communications Regulations (PECR), alongside UK GDPR for personal data. The ICO's guidance generally treats analytics and advertising cookies as non-essential, which means you usually need consent before setting them. Rules and guidance do change, so check the latest ICO position and take advice for your own circumstances.</p>
+<p>In practice that typically means:</p>
+<ul>
+<li>A consent banner that lets visitors accept or reject non-essential cookies as easily as each other.</li>
+<li>No analytics or advertising cookies set before consent is given.</li>
+<li>A clear cookie policy and privacy policy explaining what you use and why.</li>
+<li>A way for visitors to change their mind later.</li>
+</ul>
+<h3>Google consent mode</h3>
+<p>Consent mode lets Google tags adjust their behaviour based on the visitor's choice. In basic mode, tags do not load until consent is given. In advanced mode, tags load but send limited signals without cookies when consent is refused, which Google can use for modelling. Which mode is appropriate depends on your legal position and risk appetite, so treat it as a decision for you and your adviser. Many consent management platforms support consent mode, so check your banner tool integrates properly and test that tags respect each choice.</p>
+
+<h2>Linking GA4 to Google Ads and Search Console</h2>
+<p>GA4 is most useful when connected to the tools around it.</p>
+<ul>
+<li><strong>Google Ads:</strong> link the accounts so you can import key events and audiences. Make sure you are not counting the same conversion twice from both a GA4 import and a separate Ads tag.</li>
+<li><strong>Search Console:</strong> link it to see organic queries and landing pages alongside behaviour data.</li>
+<li><strong>Merchant Center:</strong> for ecommerce, connected data helps when running Shopping and Performance Max campaigns.</li>
+</ul>
+<p>If you run paid campaigns, accurate key events are what the bidding algorithms optimise towards. Our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> includes a tracking review, and our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/performance-max-guide-uk/">Performance Max</a> explain why clean data matters for automated campaigns.</p>
+
+<h2>Common GA4 setup mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>Effect</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Property owned by an agency or freelancer</td><td>You lose data if the relationship ends</td><td>Business-owned account, others added as users</td></tr>
+<tr><td>Too many key events</td><td>Noisy reports, confused ad bidding</td><td>Keep only outcome events as key events</td></tr>
+<tr><td>Form tracking on button click</td><td>Inflated leads, including failed submissions</td><td>Track on confirmed success</td></tr>
+<tr><td>Tags firing before consent</td><td>Privacy compliance risk</td><td>Configure consent banner and consent mode, then test</td></tr>
+<tr><td>Duplicate tags</td><td>Double-counted page views and events</td><td>Install once, through one method</td></tr>
+<tr><td>Short data retention</td><td>Limited history for exploration reports</td><td>Extend retention in settings</td></tr>
+</tbody>
+</table>
+
+<h2>Tracking calls and offline leads</h2>
+<p>Many UK service businesses win most of their work by phone or face to face, which GA4 cannot see on its own. Track taps on click-to-call links as an event, so you at least know which pages and channels prompt calls. If calls matter a lot, call tracking with dynamic numbers can attribute calls to channels, though it adds cost and needs to be set up with privacy in mind.</p>
+<p>For leads that turn into sales offline, such as quotes accepted weeks later, consider recording the lead source in your CRM and comparing it with GA4 data. Larger advertisers can import offline conversions into Google Ads so bidding learns which leads actually become customers. Even a simple spreadsheet that records where each sale came from helps you judge whether a channel is worth the spend.</p>
+<h3>UTM parameters for campaigns</h3>
+<p>Tag links in emails, social posts and non-Google ads with UTM parameters so GA4 can attribute visits correctly. Agree a simple naming convention, for example lowercase source, medium and campaign names, and stick to it. Inconsistent tagging splits the same campaign across several rows and makes reports much harder to read and compare over time.</p>
+<h2>Reporting that helps decisions</h2>
+<p>Default GA4 reports can feel overwhelming. Focus on a handful of questions: which channels bring key events, which landing pages convert, how mobile compares with desktop, and how organic search is trending. A simple monthly review, with notes on what changed and why, is more useful than a complex dashboard nobody opens. Pair GA4 with Search Console for SEO, and our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers how analytics fits into wider site health.</p>
+
+<h2>GA4 setup checklist</h2>
+<ul>
+<li>Business-owned Google account and GA4 property.</li>
+<li>UK time zone and GBP currency set.</li>
+<li>Single tag installation, via Tag Manager or platform integration.</li>
+<li>Internal traffic filtered.</li>
+<li>Data retention extended.</li>
+<li>Key events defined for real outcomes only.</li>
+<li>Ecommerce events with values, if you sell online.</li>
+<li>Consent banner live and consent mode configured and tested.</li>
+<li>Cookie and privacy policies up to date.</li>
+<li>Google Ads and Search Console linked, with no duplicate conversions.</li>
+<li>Test every event in DebugView before relying on reports.</li>
+</ul>
+<p>Analytics setup supports both our <a href="/services/paid-media/">paid media service</a> and our <a href="/services/seo-geo/">SEO and GEO service</a>, and you can compare retainers on the <a href="/pricing/">pricing page</a>. Book a <a href="/contact/">free discovery call</a> and we will talk through what you need to track and how to set it up properly.</p>
+
+<h2>FAQs</h2>
+<h3>What does a GA4 setup in the UK involve?</h3>
+<p>It usually covers creating a business-owned property, installing the tag once, defining key events, configuring consent with a banner and consent mode, filtering internal traffic and linking Google Ads and Search Console.</p>
+<h3>Do I need a cookie banner for Google Analytics in the UK?</h3>
+<p>Under PECR and ICO guidance, analytics cookies are generally treated as non-essential, so consent is usually needed before they are set. Check current ICO guidance and take advice for your situation.</p>
+<h3>What is the difference between basic and advanced consent mode?</h3>
+<p>Basic mode blocks Google tags until consent is given. Advanced mode loads tags but sends limited cookieless signals when consent is refused. Which suits you is a decision for you and your adviser.</p>
+<h3>What are key events in GA4?</h3>
+<p>Key events are the actions you mark as most important, such as purchases, enquiries or bookings. They replaced the older conversions label in GA4 reporting.</p>
+<h3>Should I use Google Tag Manager with GA4?</h3>
+<p>Tag Manager is helpful if you track several events or run ads on multiple platforms, because changes can be made without editing site code. Simple sites can use a platform integration instead.</p>
+<h3>Why does GA4 show different numbers from Google Ads?</h3>
+<p>The tools use different attribution, timing and consent handling, so figures rarely match exactly. Large gaps usually point to duplicate tags, missing consent configuration or different conversion definitions.</p>
+`,
+  },
+  {
+    slug: 'landing-page-design-uk',
+    seoTitle: 'Landing Page Design UK: Structure, Checklist and Testing',
+    title: 'Landing Page Design for Paid Ads and Lead Generation: Structure, Checklist and Testing',
+    description: 'Good landing page design in the UK matches the ad, states one offer, proves it and asks for one action. See the structure, a checklist and testing tips.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Good landing page design for paid ads and lead generation comes down to one page, one offer and one action, matching the message of the ad that sent the visitor. In the UK, that also means a fast mobile page, honest claims and a form or button that is easy to complete on a phone.</p>
+<p>Many businesses send paid traffic to their home page and wonder why campaigns struggle. A dedicated landing page removes distractions and answers the exact question the searcher had. This guide covers the structure of a high-performing landing page, a checklist to review yours, and a simple approach to testing.</p>
+
+<h2>Landing page design in the UK: what makes a page convert</h2>
+<p>A landing page has a narrower job than a normal web page. It needs to confirm the visitor is in the right place, explain why your offer is worth their time, deal with doubts, and make the next step obvious. The principles below apply whether traffic comes from Google Ads, Meta or LinkedIn.</p>
+<ul>
+<li><strong>Message match:</strong> the headline echoes the ad or keyword that earned the click.</li>
+<li><strong>One goal:</strong> a single call to action, such as book a call, get a quote or buy now.</li>
+<li><strong>Clarity over cleverness:</strong> plain language that says what you do, for whom and where.</li>
+<li><strong>Proof:</strong> genuine reviews, accreditations you actually hold, or clear examples of the product.</li>
+<li><strong>Speed:</strong> a page that loads quickly on mobile data.</li>
+</ul>
+<p>For campaign setup, see our guides to <a href="/blog/google-ads-agency-uk/">choosing a Google Ads agency</a>, Meta ads agencies and <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B lead generation</a>.</p>
+
+<h2>The structure of a high-converting landing page</h2>
+<p>Most effective lead generation pages follow a similar order. You do not need every section, but each one should earn its place.</p>
+<table>
+<thead><tr><th>Section</th><th>Purpose</th><th>Tips</th></tr></thead>
+<tbody>
+<tr><td>Headline and subheading</td><td>Confirm relevance in seconds</td><td>Use the searcher's language and include location if relevant</td></tr>
+<tr><td>Primary call to action</td><td>Make the next step obvious</td><td>Visible without scrolling on mobile, specific wording such as Get my quote</td></tr>
+<tr><td>Key benefits</td><td>Explain why it matters to them</td><td>Three to five short points, outcomes rather than features</td></tr>
+<tr><td>Proof</td><td>Build trust</td><td>Only genuine reviews and credentials you hold; never invent them</td></tr>
+<tr><td>How it works</td><td>Reduce uncertainty</td><td>Three simple steps from enquiry to result</td></tr>
+<tr><td>Objections and FAQs</td><td>Answer doubts before they stop a lead</td><td>Price guidance, timelines, coverage area, cancellation</td></tr>
+<tr><td>Form or final call to action</td><td>Capture the lead</td><td>As few fields as you genuinely need</td></tr>
+</tbody>
+</table>
+
+<h2>Forms that people actually complete</h2>
+<p>The form is where most landing pages lose leads. Every extra field adds friction, so ask only for what you need to follow up. For many service businesses that is name, email or phone, and a short message. If you need qualification, a second step after the first submission often works better than one long form.</p>
+<p>Make the form work well on mobile: large tap targets, the right keyboard for phone and email fields, clear error messages, and a visible privacy note explaining how you will use the data. Under UK GDPR you need a lawful basis for processing, and marketing consent should be separate and not pre-ticked. Check the details with your own adviser, as this is general information rather than legal advice.</p>
+
+<h2>Paid search vs paid social landing pages</h2>
+<p>Intent differs by channel, and your page should reflect that.</p>
+<ul>
+<li><strong>Google Ads search:</strong> visitors are actively looking. Lead with the answer, price guidance and a fast route to enquire.</li>
+<li><strong>Meta and other social:</strong> visitors were interrupted. Lead with the problem, use visuals, and give more context before the ask.</li>
+<li><strong>LinkedIn B2B:</strong> visitors are often researching for a team. Offer something useful, such as a guide or consultation, and expect a longer path.</li>
+</ul>
+<p>For ecommerce, a product or collection page often acts as the landing page. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers how to improve those pages, and our Performance Max guide explains how Google picks landing pages automatically.</p>
+
+<h2>Speed and technical basics</h2>
+<p>A beautiful page that loads slowly wastes ad spend. Compress images, avoid heavy sliders and video autoplay, limit scripts and keep the page lightweight. Make sure conversion tracking fires correctly on form submission or the thank-you page, so your ad platforms can optimise towards real leads. Accurate tracking starts with a clean analytics setup, which our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> also covers.</p>
+
+<h2>Writing landing page copy</h2>
+<p>Copy does more work than design on most landing pages. Start with the problem the visitor has, in their words, then show how your offer solves it. Keep sentences short and specific. Instead of claiming to be the best in the area, explain what you do, how quickly, and what happens after someone enquires. Specific details such as service areas, typical timelines and what is included tend to build more trust than adjectives.</p>
+<p>Be careful with claims. UK advertising is covered by the CAP Code, which expects claims to be honest and capable of substantiation, and regulated sectors such as finance and health have extra rules. If you mention prices, make sure they are accurate and any conditions are clear. For financial or healthcare businesses, approval of wording should rest with your own compliance team; our guides to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing</a> and <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a> cover the context.</p>
+<h3>Calls to action that work</h3>
+<p>Generic buttons such as Submit or Learn more give visitors little reason to act. Use wording that describes what they will get, for example Get my free quote, Check availability or Book a call. Repeat the main call to action after key sections on longer pages, so visitors never have to scroll back up to act. If you offer phone calls, make the number tappable on mobile and track taps as an event.</p>
+<h3>Design details that help</h3>
+<p>Use plenty of white space, a clear visual hierarchy and one accent colour reserved for calls to action. Keep images relevant: a real photo of your team at work or your product in use usually beats generic stock imagery. Make sure text is readable on small screens and that the page meets basic accessibility standards, including colour contrast and labelled form fields.</p>
+<h2>How to test landing pages</h2>
+<p>Testing helps you improve conversion rate over time, but only if you test sensibly.</p>
+<ol>
+<li><strong>Start with a hypothesis:</strong> for example, a shorter form will increase enquiries without lowering lead quality.</li>
+<li><strong>Change one meaningful thing:</strong> headline, offer, form length or proof. Button colour tests rarely matter on small budgets.</li>
+<li><strong>Get enough data:</strong> small accounts may need weeks to see a reliable difference. Avoid calling winners after a handful of leads.</li>
+<li><strong>Judge on outcomes:</strong> measure qualified leads or sales, not just form fills or clicks.</li>
+<li><strong>Record results:</strong> keep a simple log of what you tested and what you learned.</li>
+</ol>
+<p>If traffic is low, sequential testing, running one version for a period and then the next, is more realistic than split testing, though seasonality can muddy results.</p>
+
+<h2>Landing page checklist</h2>
+<ul>
+<li>Headline matches the ad or keyword.</li>
+<li>One clear offer and one call to action.</li>
+<li>Call to action visible on mobile without scrolling.</li>
+<li>Benefits written as outcomes for the visitor.</li>
+<li>Only genuine proof, such as real reviews or credentials you hold.</li>
+<li>Answers to the main objections: price guidance, timeline, coverage.</li>
+<li>Short form with a clear privacy note.</li>
+<li>Fast load on mobile data.</li>
+<li>Conversion tracking tested and firing correctly.</li>
+<li>Navigation and exit links kept to a minimum.</li>
+</ul>
+
+<h2>Building landing pages with us</h2>
+<p>Landing pages sit between your ads and your website. We build them as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a> and use them within our <a href="/services/paid-media/">paid media service</a>. Monthly retainers start at £350, £750 and £1,500 a month, with ad spend paid separately; see the <a href="/pricing/">pricing page</a> for what each includes. Book a <a href="/contact/">free discovery call</a> and we will review your current ads and landing pages and suggest where to start.</p>
+
+<h2>FAQs</h2>
+<h3>What is good landing page design in the UK?</h3>
+<p>A good landing page matches the ad that sent the visitor, makes one clear offer, shows genuine proof, answers common objections and asks for one action. It must load quickly and work well on mobile.</p>
+<h3>Should I send ads to my home page or a landing page?</h3>
+<p>A dedicated landing page usually performs better because it focuses on one offer and removes distractions. The home page has to serve many audiences at once.</p>
+<h3>How many form fields should a landing page have?</h3>
+<p>As few as you need to follow up properly. For many service businesses that is name, a contact method and a short message. Use a second step if you need more detail.</p>
+<h3>How long should a landing page be?</h3>
+<p>Long enough to answer the visitor's questions. High-intent search traffic often needs less, while colder social traffic or higher-value offers may need more context.</p>
+<h3>How do I test a landing page with low traffic?</h3>
+<p>Test bigger changes, such as offer or form length, and consider running versions one after another rather than splitting traffic. Judge on qualified leads over several weeks.</p>
+<h3>Do landing pages need a privacy notice?</h3>
+<p>If you collect personal data you should explain how it will be used and link to your privacy policy. Marketing consent should be separate and not pre-ticked. Check specifics with your own adviser.</p>
+`,
+  },
+  {
+    slug: 'website-redesign-cost-uk',
+    seoTitle: 'Website Redesign Cost UK: Prices, Phases and SEO Risk',
+    title: 'Website Redesign Cost in the UK: What Drives It, SEO Risk and Phases',
+    description: 'A website redesign in the UK often costs £1,000 to £3,500 for small and ecommerce sites. See what drives cost, the phases and how to protect SEO.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>A website redesign in the UK typically costs around £1,000 to £2,000 for a small business site and £1,500 to £3,500 for an ecommerce store, depending on page count, content and integrations. The hidden cost is SEO risk: a redesign without proper redirects and checks can lose rankings that took years to build.</p>
+<p>This guide breaks down what drives website redesign cost, how a redesign is usually phased, where the SEO risk sits, and how to set a realistic budget. If your main worry is protecting search traffic, read it alongside our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a>, which covers the migration steps in detail.</p>
+
+<h2>Website redesign cost UK: typical ranges</h2>
+<p>Prices vary widely across the market, but these are the ranges we work to for small and mid-sized UK businesses.</p>
+<table>
+<thead><tr><th>Type of redesign</th><th>Typical price</th><th>Typical timeline</th></tr></thead>
+<tbody>
+<tr><td>Small business website (brochure or service site)</td><td>£1,000 to £2,000</td><td>3 to 5 weeks</td></tr>
+<tr><td>Ecommerce website (Shopify or WooCommerce)</td><td>£1,500 to £3,500</td><td>5 to 12 weeks</td></tr>
+</tbody>
+</table>
+<p>Hosting, domains, premium themes, apps and plugin licences are usually separate. For a deeper look at new-build pricing, see our guides to <a href="/blog/website-design-cost-small-business-uk/">website design cost for small businesses</a> and <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost in the UK</a>.</p>
+
+<h2>What drives the cost of a redesign</h2>
+<p>A redesign is not always cheaper than a new build. Sometimes it is more complex, because you have existing content, URLs, integrations and rankings to protect. The main cost drivers are:</p>
+<ul>
+<li><strong>Number of page templates:</strong> a site with a home page, service page, blog and contact template costs less than one with ten distinct layouts.</li>
+<li><strong>Content:</strong> rewriting, restructuring or moving hundreds of pages takes time. Reusing good content is cheaper.</li>
+<li><strong>Platform change:</strong> moving from one CMS to another, for example WordPress to Shopify, means data migration and new templates.</li>
+<li><strong>Integrations:</strong> booking systems, CRMs, payment gateways, stock feeds and email tools all add build and testing time.</li>
+<li><strong>Ecommerce data:</strong> products, variants, customers and order history need careful mapping.</li>
+<li><strong>SEO migration:</strong> redirect mapping, metadata transfer and post-launch monitoring.</li>
+<li><strong>Feedback rounds:</strong> clear decisions keep cost and timeline under control.</li>
+</ul>
+
+<h2>Redesign or refresh?</h2>
+<p>Not every site needs a full redesign. If the structure works and rankings are healthy, a refresh of design, speed and key pages may deliver most of the benefit for less money and less risk.</p>
+<table>
+<thead><tr><th>Option</th><th>When it fits</th><th>SEO risk</th></tr></thead>
+<tbody>
+<tr><td>Refresh (same platform, same URLs)</td><td>Dated look, slow pages, weak calls to action</td><td>Low, if URLs and content stay in place</td></tr>
+<tr><td>Redesign (same platform, new structure)</td><td>Confusing navigation, outgrown templates</td><td>Medium, redirects needed for changed URLs</td></tr>
+<tr><td>Replatform and redesign</td><td>Platform limits growth, costly to maintain</td><td>Higher, full migration plan essential</td></tr>
+</tbody>
+</table>
+
+<h2>The phases of a website redesign</h2>
+<p>A well-run redesign usually follows these phases. Knowing them helps you understand where the budget goes.</p>
+<ol>
+<li><strong>Audit and discovery:</strong> review analytics, rankings, top pages, backlinks and conversion paths. Decide what to keep, merge or remove.</li>
+<li><strong>Structure and planning:</strong> new sitemap, URL plan and redirect map.</li>
+<li><strong>Design:</strong> key page layouts and components, reviewed on mobile first.</li>
+<li><strong>Build:</strong> templates, content entry, integrations and forms.</li>
+<li><strong>Pre-launch checks:</strong> redirects tested, metadata in place, analytics and consent working, speed checked.</li>
+<li><strong>Launch:</strong> go live at a quiet time, submit the sitemap and monitor.</li>
+<li><strong>Post-launch monitoring:</strong> watch Search Console for errors, 404s and ranking changes over the following weeks.</li>
+</ol>
+<p>Discovery is the step people most want to skip, and the one that most often saves money. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what to review before the build starts.</p>
+
+<h2>Where the SEO risk sits</h2>
+<p>Most lost rankings after a redesign come from a small set of avoidable mistakes:</p>
+<ul>
+<li>Changed URLs with no 301 redirects, so old links and rankings point to 404 pages.</li>
+<li>Removed content that was ranking or earning links.</li>
+<li>Lost titles, meta descriptions and headings.</li>
+<li>Staging sites left blocked from indexing after launch.</li>
+<li>Slower templates that hurt Core Web Vitals.</li>
+<li>Broken internal links and a missing sitemap.</li>
+</ul>
+<p>Each of these is cheap to prevent and expensive to fix after the fact. Speed in particular deserves attention, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical fixes like this alongside ongoing search work. If your site is an online shop, product and category URLs carry most of the risk, and our guide to <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO</a> covers what to protect.</p>
+
+<h2>Hidden costs to plan for</h2>
+<p>Quotes often focus on design and build, but several costs sit around the edges of a redesign. Planning for them up front avoids awkward conversations later.</p>
+<ul>
+<li><strong>Content creation:</strong> new copy, photography or product descriptions may need a writer or photographer if your team cannot supply them.</li>
+<li><strong>Licences:</strong> premium themes, apps, plugins, fonts and stock images may carry one-off or annual fees.</li>
+<li><strong>Hosting and domains:</strong> a better hosting plan may be part of the reason for redesigning, and it is an ongoing cost.</li>
+<li><strong>Internal time:</strong> someone in your business needs to gather content, give feedback and approve pages. Delays here are the most common reason projects overrun.</li>
+<li><strong>Training:</strong> your team needs to know how to edit the new site safely.</li>
+<li><strong>Post-launch fixes:</strong> small issues always surface once real visitors arrive, so allow time for a round of tweaks.</li>
+<li><strong>Legal and privacy:</strong> cookie banners, privacy policies and accessibility checks may need updating, especially if you add new tracking or forms.</li>
+</ul>
+<h2>How to compare redesign quotes</h2>
+<p>Two quotes for the same site can differ widely because they cover different work. When comparing, check whether each includes discovery, the number of page templates, content entry, redirect mapping, analytics and consent setup, speed testing, training and a period of post-launch support. A cheaper quote that leaves out migration may cost more in the long run if rankings drop. Ask each agency how they will measure success after launch and what happens if search traffic falls. Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers wider questions about contracts and reporting.</p>
+<p>Platform choice also affects long-term cost. Hosted platforms bundle hosting and security but charge for apps, while self-hosted sites give more control but need maintenance. For online shops, the choice between a hosted platform and a self-hosted one is worth making carefully before the redesign begins, because switching again later means another migration. Whichever you choose, plan who will handle updates, backups and security once the new site is live, and include that ongoing care in your annual budget rather than treating launch as the finish line.</p>
+<h2>How to set a realistic redesign budget</h2>
+<p>Start with what the site must do: generate enquiries, take bookings or sell products. Then list the templates, integrations and content work needed. Add a line for SEO migration and a small contingency for content or feedback delays. Keep ongoing costs such as hosting, maintenance and marketing in a separate budget so the launch is not the end of investment.</p>
+<p>After launch, many businesses move into ongoing SEO or paid media to make the new site work harder. Our monthly retainers start at £350, £750 and £1,500 a month, and you can see what each includes on the <a href="/pricing/">pricing page</a>. Ad spend, if any, is paid separately.</p>
+
+<h2>Website redesign checklist</h2>
+<ul>
+<li>Benchmark traffic, rankings, conversions and top landing pages before you start.</li>
+<li>Export every current URL and map each one to its new home.</li>
+<li>Keep or improve content on pages that rank or earn links.</li>
+<li>Transfer titles, meta descriptions and headings.</li>
+<li>Test 301 redirects on staging before launch.</li>
+<li>Check mobile layout, page speed and forms.</li>
+<li>Set up analytics, key events and consent before go-live.</li>
+<li>Remove staging noindex rules at launch and submit the sitemap.</li>
+<li>Monitor Search Console and fix 404s in the first few weeks.</li>
+</ul>
+<p>If you are planning a redesign, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, migration, design and build. Book a <a href="/contact/">free discovery call</a> and we will help you scope the work, estimate cost and protect your rankings.</p>
+
+<h2>FAQs</h2>
+<h3>What is the typical website redesign cost in the UK?</h3>
+<p>A small business website redesign typically costs around £1,000 to £2,000, and an ecommerce redesign around £1,500 to £3,500. Larger sites, platform changes and complex integrations can cost more.</p>
+<h3>How long does a website redesign take?</h3>
+<p>A small website usually takes 3 to 5 weeks and an ecommerce site 5 to 12 weeks, depending on content, integrations and how quickly feedback is given.</p>
+<h3>Will a redesign hurt my Google rankings?</h3>
+<p>It can if URLs change without redirects or ranking content is removed. With a redirect map, metadata transfer and post-launch monitoring, most of that risk can be managed.</p>
+<h3>Is a redesign cheaper than a new website?</h3>
+<p>Not always. Existing content, URLs and integrations need to be migrated and protected, which can make a redesign as involved as a new build.</p>
+<h3>Should I redesign or just refresh my website?</h3>
+<p>If the structure works and rankings are healthy, a refresh of design, speed and key pages may be enough. A full redesign suits sites with outgrown navigation, templates or platforms.</p>
+<h3>What costs are not included in a redesign quote?</h3>
+<p>Hosting, domains, premium themes, apps and plugin licences are often separate, as is ongoing marketing. Ask for a clear list of what is and is not included.</p>
+`,
+  },
+  {
+    slug: 'website-speed-optimisation-uk',
+    seoTitle: 'Website Speed Optimisation UK: Core Web Vitals Fixes',
+    title: 'Website Speed Optimisation for UK Businesses: Core Web Vitals and Practical Fixes',
+    description: 'Website speed optimisation in the UK starts with Core Web Vitals: LCP, INP and CLS. See the common causes, a symptom to fix table and a checklist.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Website speed optimisation means making your pages load and respond quickly, measured mainly by Google's Core Web Vitals: Largest Contentful Paint, Interaction to Next Paint and Cumulative Layout Shift. For most UK small business sites, the biggest wins come from compressing images, cutting unnecessary scripts and plugins, and using decent hosting with caching.</p>
+<p>Speed matters because people leave slow pages, especially on mobile data, and because page experience is one of many signals search engines consider. This guide explains Core Web Vitals in plain English, shows how to measure them, and gives a symptom to fix table you can work through with your developer.</p>
+
+<h2>Website speed optimisation for UK businesses: why it matters</h2>
+<p>A slow site costs you in three ways. Visitors bounce before the page appears. Those who stay find forms and buttons sluggish, so fewer enquiries or orders complete. And paid traffic becomes more expensive, because you are paying for clicks that never see your offer. If you run Google Ads or Meta campaigns, a fast landing page is one of the cheapest ways to improve return; our <a href="/services/paid-media/">paid media service</a> treats landing page speed as part of campaign work.</p>
+<p>Speed also supports SEO. It is not a magic ranking lever, and great content on a slow page can still rank, but a fast, stable page removes friction and helps search engines crawl your site efficiently. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> puts speed in context alongside indexing, structure and internal links.</p>
+
+<h2>Core Web Vitals explained</h2>
+<p>Google groups page experience into three Core Web Vitals. Each has a threshold that Google describes as good, measured at the 75th percentile of real visits.</p>
+<table>
+<thead><tr><th>Metric</th><th>What it measures</th><th>Good threshold</th></tr></thead>
+<tbody>
+<tr><td>Largest Contentful Paint (LCP)</td><td>How quickly the main content, often a hero image or heading, appears</td><td>2.5 seconds or less</td></tr>
+<tr><td>Interaction to Next Paint (INP)</td><td>How quickly the page responds when someone taps or clicks</td><td>200 milliseconds or less</td></tr>
+<tr><td>Cumulative Layout Shift (CLS)</td><td>How much the layout jumps around as it loads</td><td>0.1 or less</td></tr>
+</tbody>
+</table>
+<p>Thresholds can change, so check Google's current guidance when you review your own scores.</p>
+
+<h2>How to measure your site speed</h2>
+<p>Use two kinds of data. Field data comes from real Chrome users and shows how your site performs in practice. Lab data comes from a simulated test and helps you diagnose specific problems.</p>
+<ul>
+<li><strong>Google Search Console:</strong> the Core Web Vitals report groups URLs by status using field data.</li>
+<li><strong>PageSpeed Insights:</strong> shows field data where available and a lab test with specific recommendations.</li>
+<li><strong>Browser developer tools:</strong> the performance and network panels show what loads, in what order and how large it is.</li>
+</ul>
+<p>Always test on mobile first. Many UK visitors browse on phones over variable connections, and mobile scores are usually the weaker ones.</p>
+
+<h2>Symptom to fix: a practical table</h2>
+<p>Most speed problems fall into a handful of patterns. Find your symptom, then work through the likely fixes.</p>
+<table>
+<thead><tr><th>Symptom</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Hero image takes ages to appear (poor LCP)</td><td>Large, uncompressed image or slow server</td><td>Resize and compress, serve WebP or AVIF, preload the hero image, improve hosting or caching</td></tr>
+<tr><td>Blank page for a second or two</td><td>Render-blocking CSS and JavaScript</td><td>Defer non-critical scripts, inline critical CSS, remove unused code</td></tr>
+<tr><td>Buttons and menus feel sluggish (poor INP)</td><td>Heavy JavaScript, too many third-party tags</td><td>Remove unused tags and plugins, delay chat widgets and trackers, break up long tasks</td></tr>
+<tr><td>Layout jumps as it loads (poor CLS)</td><td>Images without dimensions, late-loading banners and fonts</td><td>Set width and height on media, reserve space for banners, use font-display settings</td></tr>
+<tr><td>Slow on every page, even simple ones</td><td>Cheap shared hosting, no caching</td><td>Move to better hosting, enable page and object caching, use a CDN</td></tr>
+<tr><td>Product or category pages very slow</td><td>Too many apps or plugins, large image grids</td><td>Audit apps, lazy-load below-the-fold images, paginate or limit grids</td></tr>
+<tr><td>Fonts flash or load late</td><td>Several font families and weights from third parties</td><td>Limit font files, self-host where possible, preload the main font</td></tr>
+</tbody>
+</table>
+
+<h2>Platform-specific notes</h2>
+<p><strong>WordPress:</strong> plugin bloat and heavy page builders are the usual culprits. A lightweight theme, a short plugin list and proper caching go a long way. Our guide to <a href="/blog/website-design-cost-small-business-uk/">website design cost for small businesses</a> explains how build choices affect price.</p>
+<p><strong>Shopify:</strong> hosting is handled for you, so the main levers are theme choice, app count and image sizes. Every app can add scripts to every page. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers related technical issues.</p>
+<p><strong>WooCommerce:</strong> combines WordPress plugin risk with ecommerce load, so hosting quality matters more. See our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> for build advice.</p>
+
+<h2>Third-party scripts: the hidden cost</h2>
+<p>Many UK sites carry tags that nobody remembers adding: old analytics snippets, abandoned chat widgets, heatmap tools from a past project, social pixels for campaigns that ended years ago, and review or booking widgets that load on every page. Each one may fetch its own scripts, fonts and images, and several run code on the main thread just as visitors try to tap a button. That is a common reason for a poor INP score even when images are well optimised.</p>
+<p>Start with an inventory. List every tag in your tag manager, theme files and installed apps or plugins, note who owns it and what it is for, and remove anything without a clear current purpose. For the tags you keep, load them only on the pages that need them, delay non-essential ones until after the page has loaded or until the visitor interacts, and make sure they respect cookie consent. A tidy tag setup is also easier to audit for privacy, which matters under UK GDPR and PECR. Repeat the inventory every few months, because tags tend to creep back in as new campaigns and tools are added.</p>
+<h3>Images and media in practice</h3>
+<p>Images are the most common cause of slow LCP. Upload images at the size they will display rather than straight from a camera or stock site, use modern formats where your platform supports them, and lazy-load images below the fold while keeping the main hero image eager. Avoid autoplay video in the first screen on mobile; a static poster image with a play button is usually faster and kinder to visitors on limited data plans.</p>
+<h2>Prioritising fixes</h2>
+<p>Speed work can spiral if you chase every warning in a report. A better approach:</p>
+<ol>
+<li>Identify the templates that matter most, such as home, key service pages, product and category pages, and paid landing pages.</li>
+<li>Check field data for those templates in Search Console.</li>
+<li>Fix the biggest bottleneck on each, usually images or scripts.</li>
+<li>Retest in the lab, then wait for field data to update over the following weeks.</li>
+<li>Add speed checks to your regular maintenance so new plugins, apps or tags do not undo the work.</li>
+</ol>
+<p>Ongoing care matters because sites slow down gradually as content, tags and plugins pile up. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> explains how to keep on top of it. For online shops, speed is closely tied to conversion, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers the wider picture.</p>
+
+<h2>When speed means a rebuild</h2>
+<p>Sometimes the theme or platform is the problem, and patching it costs more than replacing it. If a site is built on a heavy, outdated theme with dozens of plugins, a lean rebuild may be the better investment. A small website typically costs around £1,000 to £2,000 and takes 3 to 5 weeks, and an ecommerce build around £1,500 to £3,500 over 5 to 12 weeks. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> for how we approach builds.</p>
+
+<h2>Website speed checklist</h2>
+<ul>
+<li>Check Core Web Vitals in Search Console and PageSpeed Insights on mobile.</li>
+<li>Compress and resize images, and use modern formats.</li>
+<li>Set width and height on images and embeds.</li>
+<li>Remove unused plugins, apps and tracking tags.</li>
+<li>Defer or delay non-critical JavaScript.</li>
+<li>Limit font families and weights.</li>
+<li>Enable caching and use a CDN where appropriate.</li>
+<li>Review hosting if every page is slow.</li>
+<li>Retest after each change and monitor monthly.</li>
+</ul>
+<p>Speed is part of the technical SEO work in our <a href="/services/seo-geo/">SEO and GEO service</a>. Book a <a href="/contact/">free discovery call</a> and we will look at where your site is slowing down and what to fix first.</p>
+
+<h2>FAQs</h2>
+<h3>What is website speed optimisation?</h3>
+<p>It is the process of making pages load, respond and settle quickly, usually measured with Core Web Vitals. Common fixes include image compression, script reduction, caching and better hosting.</p>
+<h3>How much does website speed optimisation cost in the UK?</h3>
+<p>It depends on the cause. Some fixes are quick configuration changes, while a heavy theme may justify a rebuild. A small website rebuild typically costs around £1,000 to £2,000.</p>
+<h3>Does site speed affect Google rankings?</h3>
+<p>Page experience, including Core Web Vitals, is one of many signals Google considers. It is rarely the deciding factor alone, but a fast site helps visitors and supports SEO.</p>
+<h3>What is a good Core Web Vitals score?</h3>
+<p>Google describes LCP of 2.5 seconds or less, INP of 200 milliseconds or less and CLS of 0.1 or less as good, measured on real visits. Check current guidance as thresholds can change.</p>
+<h3>Why is my WordPress site so slow?</h3>
+<p>Common reasons are too many plugins, a heavy page builder, large images and cheap hosting without caching. Removing unused plugins and compressing images often helps quickly.</p>
+<h3>How long until speed improvements show in Search Console?</h3>
+<p>Lab tests show changes immediately, but field data in Search Console is based on real visits over a rolling period, so it can take several weeks to update.</p>
+`,
+  },
+  {
+    slug: 'wordpress-agency-uk',
+    seoTitle: 'WordPress Agency UK: Builds, Plugins, Security and Costs',
+    title: 'Choosing a WordPress Agency in the UK: Builds, Plugins, Security and Costs',
+    description: 'A good WordPress agency in the UK builds lean, secure, fast sites with few plugins. Here is what to ask, what it costs and the red flags to avoid.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>The right WordPress agency in the UK builds you a lean, secure site on a maintained theme, with as few plugins as possible, and hands you full ownership of the code, domain and hosting. For most small businesses that means a budget of roughly £1,000 to £2,000 for a brochure site and £1,500 to £3,500 for a WooCommerce store, delivered in a few weeks rather than months.</p>
+<p>WordPress powers a huge share of the web, which is both its strength and its weakness. Almost anyone can install it, so the gap between a careful agency and a careless one is wide. This guide explains what a good WordPress build looks like, how to judge an agency on plugins and security, what drives cost, and the questions worth asking before you commit.</p>
+
+<h2>What a WordPress agency in the UK should actually do</h2>
+<p>A WordPress agency should do more than install a theme and add your logo. The job covers planning the site structure, designing pages around what your customers need to know, building them so they load quickly, setting up the basics of technical SEO, and making sure the site can be updated safely after launch. If you are unsure how WordPress compares with hosted platforms, our guide to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce in the UK</a> covers the trade-offs for online shops.</p>
+<p>In practice, a sensible WordPress project includes:</p>
+<ul>
+<li><strong>Discovery:</strong> goals, audience, services, and the pages you need to rank and convert.</li>
+<li><strong>Information architecture:</strong> a clear menu and URL structure that search engines and people can follow.</li>
+<li><strong>Design:</strong> page layouts built around calls to action, not decoration.</li>
+<li><strong>Build:</strong> a maintained theme or block-based build, a short list of trusted plugins, and clean templates.</li>
+<li><strong>Content and SEO setup:</strong> titles, meta descriptions, headings, redirects and an XML sitemap.</li>
+<li><strong>Launch and handover:</strong> testing on mobile, analytics, backups and a short guide to editing the site.</li>
+</ul>
+
+<h2>Builds: theme, page builder or block editor</h2>
+<p>There are three common ways to build a WordPress site, and each suits a different situation.</p>
+<table>
+<thead><tr><th>Build approach</th><th>Best for</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Block editor (Gutenberg) with a lightweight theme</td><td>Most small business and service sites that want speed and easy editing</td><td>Needs a thoughtful setup of reusable patterns so editors stay on brand</td></tr>
+<tr><td>Page builder (drag and drop)</td><td>Teams that want lots of visual control without code</td><td>Heavier pages, more scripts, and lock-in to the builder if you switch later</td></tr>
+<tr><td>Custom theme</td><td>Sites with unusual layouts or integrations</td><td>Higher cost and a dependency on whoever wrote the code</td></tr>
+<tr><td>WooCommerce on any of the above</td><td>Online shops that want to own their platform</td><td>Extra plugins for payments, shipping and tax, so updates matter more</td></tr>
+</tbody>
+</table>
+<p>For most UK small businesses a lightweight theme with the block editor is the sensible default. It keeps pages fast, avoids builder lock-in and makes day-to-day edits simple. If you plan to sell online, our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> goes deeper on store builds.</p>
+
+<h2>Plugins: fewer is better</h2>
+<p>Plugins are where most WordPress problems start. Each plugin adds code, can slow pages down, and needs updating. Abandoned plugins are a common route for attackers. A careful agency will justify every plugin it installs and prefer one well-maintained tool over three overlapping ones.</p>
+<p>A reasonable core plugin set for a brochure site might include an SEO plugin, a forms plugin, a caching or performance tool, a backup tool and a security tool. Anything beyond that should have a clear reason. Ask the agency for the full plugin list before launch and check that each one is actively maintained and compatible with your version of WordPress.</p>
+
+<h2>Security and maintenance</h2>
+<p>WordPress is secure when it is kept up to date and configured sensibly. Most incidents come from out-of-date plugins, weak passwords, shared admin logins and cheap hosting with no isolation. A good agency will set up:</p>
+<ul>
+<li>Individual user accounts with the right roles, and two-factor authentication for admins.</li>
+<li>Automatic or scheduled updates for core, themes and plugins, with testing.</li>
+<li>Daily off-site backups and a tested restore process.</li>
+<li>An SSL certificate and secure hosting with server-level firewalling.</li>
+<li>Limits on login attempts and removal of unused plugins and themes.</li>
+</ul>
+<p>Security is not a one-off launch task. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance in the UK</a> explains what ongoing care involves and why it matters for both security and rankings.</p>
+
+<h2>Speed and SEO on WordPress</h2>
+<p>WordPress can be very fast or painfully slow depending on how it is built. Image sizes, theme weight, plugin count and hosting quality all play a part. Fast pages help visitors, help conversion and support search performance through Core Web Vitals. Ask how the agency handles image compression, caching and script loading.</p>
+<p>On the SEO side, the build should include clean URLs, sensible headings, structured data where relevant, an XML sitemap and correct indexing settings. If you are replacing an older site, redirects are essential. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> walks through the migration steps, and the <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is useful once the site is live.</p>
+
+<h2>How much does a WordPress agency cost in the UK?</h2>
+<p>Costs depend mostly on page count, design complexity, integrations and whether you need ecommerce. As a guide, a small WordPress website typically sits around £1,000 to £2,000, and a WooCommerce store around £1,500 to £3,500. A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks, depending on content readiness and feedback speed.</p>
+<table>
+<thead><tr><th>Project</th><th>Typical price</th><th>Typical timeline</th></tr></thead>
+<tbody>
+<tr><td>Small WordPress website</td><td>£1,000 to £2,000</td><td>3 to 5 weeks</td></tr>
+<tr><td>WooCommerce store</td><td>£1,500 to £3,500</td><td>5 to 12 weeks</td></tr>
+</tbody>
+</table>
+<p>Ongoing hosting, domains and premium plugin licences are separate costs, so ask the agency to list them clearly. For a broader view of what drives price, see our guide to <a href="/blog/website-design-cost-small-business-uk/">website design cost for small businesses in the UK</a>, and you can compare our packages on the <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Questions to ask before you hire</h2>
+<p>A few direct questions will tell you a lot about an agency. Use these in any first call:</p>
+<ol>
+<li>Will I own the site, the theme licence, the domain and the hosting account?</li>
+<li>Which plugins will you install, and why each one?</li>
+<li>How do you handle updates, backups and security after launch?</li>
+<li>How will you protect my current rankings if this replaces an existing site?</li>
+<li>How fast will the pages load on mobile, and how do you test it?</li>
+<li>What training or documentation do I get for editing content?</li>
+<li>What is included in the price, and what costs extra?</li>
+</ol>
+<p>For a broader framework, our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers contracts, reporting and red flags in more detail.</p>
+
+<h2>Red flags</h2>
+<ul>
+<li>The agency keeps the hosting or admin login in its own name and will not transfer it.</li>
+<li>A long plugin list with no explanation, or nulled premium plugins.</li>
+<li>No mention of redirects when replacing an existing site.</li>
+<li>No plan for updates, backups or security after launch.</li>
+<li>Guaranteed rankings or traffic numbers.</li>
+</ul>
+
+<h2>WordPress agency checklist</h2>
+<ul>
+<li>Clear scope, page list and price in writing.</li>
+<li>You own the domain, hosting, theme licence and admin account.</li>
+<li>Lightweight theme or block-based build, with a justified plugin list.</li>
+<li>Two-factor authentication, roles, backups and an update plan.</li>
+<li>Mobile testing and a speed check before launch.</li>
+<li>Titles, meta descriptions, sitemap and redirects set up.</li>
+<li>Analytics installed with consent handled properly.</li>
+<li>Handover guide so your team can edit pages safely.</li>
+</ul>
+<p>If you want a WordPress site built properly, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design, build and launch. Book a <a href="/contact/">free discovery call</a> and we will talk through your goals, timeline and budget, with no obligation.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a WordPress agency in the UK?</h3>
+<p>Look for an agency that explains its plugin choices, keeps you as the owner of the site and hosting, has a clear plan for security and updates, and can protect your rankings during a migration. Ask for a written scope and price before you start.</p>
+<h3>How much does a WordPress website cost in the UK?</h3>
+<p>A small WordPress website typically costs around £1,000 to £2,000, and a WooCommerce store around £1,500 to £3,500. Hosting, domains and premium plugin licences are usually separate.</p>
+<h3>How long does a WordPress build take?</h3>
+<p>A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks. The biggest factor is often how quickly content and feedback are ready.</p>
+<h3>Is WordPress secure enough for a business website?</h3>
+<p>Yes, when it is kept updated, uses few well-maintained plugins, has strong logins with two-factor authentication and is backed up regularly. Most problems come from neglect rather than WordPress itself.</p>
+<h3>Should I use a page builder on WordPress?</h3>
+<p>A page builder gives visual control but often adds weight and lock-in. For most small business sites, a lightweight theme with the block editor is faster and easier to maintain.</p>
+<h3>Can a WordPress agency also help with SEO?</h3>
+<p>A good one will set up the technical basics at build stage, such as clean URLs, headings, sitemaps and redirects. Ongoing SEO is a separate piece of work that builds on that foundation.</p>
+`,
+  },
 ];
