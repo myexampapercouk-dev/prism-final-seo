@@ -3,7 +3,7 @@
 // Inputs:
 //   tools/core/*.html      section HTML for the core pages (home, about-us, services, sectors, contact, 404) + header/footer
 //   tools/pages-data.js    service, sector and pricing pages
-//   tools/blog-data.js     blog posts (one file per post in tools/posts/)
+//   tools/blog-data.js     blog posts; tools/blog-summaries.js their key takeaways
 // Outputs: index.html, <slug>/index.html, 404.html, blog/, sitemap.xml, robots.txt, llms.txt, blog/feed.xml, site.webmanifest
 const fs = require('fs');
 const path = require('path');
@@ -28,7 +28,8 @@ const GA4_ID = '';
 const GSC_VERIFY = '';
 
 const PAGES = require('./pages-data');
-const POSTS = require('./blog-data');
+const SUMMARIES = require('./blog-summaries');
+const POSTS = require('./blog-data').map(p => ({ ...p, takeaways: SUMMARIES[p.slug] || [] })).sort((a, b) => (b.date + b.slug).localeCompare(a.date + a.slug));
 const lastmod = (() => { try { return require('./lastmod.json'); } catch (e) { return {}; } })();
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');

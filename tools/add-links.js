@@ -1,27 +1,35 @@
-// Helper: insert contextual internal links into existing posts (tools/posts/<slug>.js).
-// Each entry: [post slug, text that exists exactly once in that post's body, HTML to insert BEFORE it].
-// Safe to re-run: skips an insert if the post already links to the target URL.
-// Usage: add entries to LINKS, then  node tools/add-links.js && node tools/build-pages.js && node tools/check-site.js
+// One-off helper: insert contextual links into existing blog posts (tools/blog-data.js).
+// Each entry: [source post slug, anchor text that exists exactly once in that post's body, HTML to insert BEFORE the anchor]
+// Safe to re-run: skips an insert if the target link already exists in that post.
 const fs = require('fs');
 const path = require('path');
-const DIR = path.join(__dirname, 'posts');
+const FILE = path.join(__dirname, 'blog-data.js');
 
 const LINKS = [
-  // ['shopify-vs-woocommerce-uk', '<h2>Switching later</h2>', '<p>Planning ads too? See <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads for UK retailers</a>.</p>\n\n'],
+  // ['post-slug', '<h2>Exact heading in that post</h2>', '<p>Related: <a href="/services/seo-geo/">SEO and GEO services</a>.</p>\n\n'],
 ];
 
-let added = 0;
-for (const [slug, anchor, html] of LINKS) {
-  const file = path.join(DIR, slug + '.js');
-  if (!fs.existsSync(file)) { console.log(`skip ${slug}: no such post`); continue; }
-  let src = fs.readFileSync(file, 'utf8');
-  const href = (html.match(/href="([^"]+)"/) || [])[1];
-  if (href && src.includes(`href="${href}"`)) { console.log(`skip ${slug}: already links ${href}`); continue; }
-  const n = src.split(anchor).length - 1;
-  if (n !== 1) { console.log(`skip ${slug}: anchor found ${n} times`); continue; }
-  src = src.replace(anchor, html + anchor);
-  fs.writeFileSync(file, src);
+let src = fs.readFileSync(FILE, 'utf8');
+let added = 0, skipped = 0;
+const missing = [];
+for (let [slug, anchor, insert] of LINKS) {
+  const start = src.indexOf(`slug: '${slug}',`);
+  if (start < 0) throw new Error(`Post not found: ${slug}`);
+  const bodyStart = src.indexOf('body: `', start);
+  const bodyEnd = src.indexOf('`,\n  },', bodyStart);
+  let body = src.slice(bodyStart, bodyEnd);
+  const target = (insert.match(/href="(\/[^"]+)"/) || [])[1];
+  if (target && body.includes(`href="${target}"`)) { skipped++; continue; }
+  let count = body.split(anchor).length - 1;
+  // Fallback for rewritten posts whose heading is gone: put the link just before the FAQs.
+  if (count === 0 && body.split('<h2>FAQs</h2>').length === 2) { anchor = '<h2>FAQs</h2>'; count = 1; }
+  // A rewritten post may no longer have the heading; report it instead of failing.
+  if (count === 0) { missing.push(`${slug} -> ${target}`); continue; }
+  if (count !== 1) throw new Error(`Anchor found ${count} times in ${slug}: ${anchor}`);
+  body = body.replace(anchor, insert + anchor);
+  src = src.slice(0, bodyStart) + body + src.slice(bodyEnd);
   added++;
-  console.log(`linked ${slug} -> ${href}`);
 }
-console.log(`${added} links added`);
+fs.writeFileSync(FILE, src);
+console.log(`contextual links added: ${added}, already present: ${skipped}`);
+if (missing.length) console.log('anchor heading gone (link not added):\n  ' + missing.join('\n  '));
