@@ -7467,4 +7467,573 @@ module.exports = [
 <p>Track enquiries and bookings as analytics events, record the source of each enrolment, and calculate cost per enrolment by course. That shows which courses and channels deserve more budget.</p>
 `,
   },
+  {
+    slug: 'conversion-rate-optimisation-agency-uk',
+    seoTitle: 'Conversion Rate Optimisation Agency UK: A Buyer’s Guide',
+    title: 'Conversion Rate Optimisation Agency UK: What a CRO Agency Does and How to Choose One',
+    description: 'A conversion rate optimisation agency finds why visitors do not buy or enquire, then fixes and tests pages. What UK CRO agencies do, costs and how to choose.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>A conversion rate optimisation agency helps you turn more of your existing website visitors into customers or enquiries. It does this by researching where and why people drop out, fixing the problems it finds and, where traffic allows, testing changes to prove what works.</p>
+<p>CRO is often the cheapest way to grow, because it improves the return on every channel at once. This guide explains what a CRO agency does for UK businesses, the process to expect, what it costs and how to choose one. If you run an online store, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout and product page specifics in more depth.</p>
+
+<h2>What a conversion rate optimisation agency UK businesses hire actually does</h2>
+<p>CRO is a process rather than a single task. Most agency work falls into four stages.</p>
+<ol>
+<li><strong>Measurement.</strong> Making sure analytics and conversion tracking are accurate, so changes can be judged fairly.</li>
+<li><strong>Research.</strong> Finding where visitors drop out and why, using data, recordings, surveys and usability reviews.</li>
+<li><strong>Prioritisation.</strong> Ranking ideas by likely impact, confidence and effort.</li>
+<li><strong>Implementation and testing.</strong> Making changes, A/B testing where traffic allows, and measuring results.</li>
+</ol>
+<p>The best agencies spend more time on research than on testing. A test built on a guess is a slow way to learn. A test built on clear evidence is far more likely to win.</p>
+
+<h2>The research toolkit</h2>
+<p>CRO research combines numbers, which show where problems are, with qualitative insight, which shows why.</p>
+<table>
+<thead><tr><th>Method</th><th>What it tells you</th><th>Watch-out</th></tr></thead>
+<tbody>
+<tr><td>GA4 funnel analysis</td><td>Which steps lose the most visitors</td><td>Only as good as the tracking setup</td></tr>
+<tr><td>Device and browser splits</td><td>Bugs or layout problems on particular devices</td><td>Small segments can be noisy</td></tr>
+<tr><td>Session recordings</td><td>Where people hesitate, scroll past or give up</td><td>Needs consent under UK GDPR and PECR</td></tr>
+<tr><td>Heatmaps</td><td>What gets attention and clicks</td><td>Easy to over-interpret</td></tr>
+<tr><td>On-site surveys</td><td>What nearly stopped people converting</td><td>Keep them short</td></tr>
+<tr><td>Usability testing</td><td>How real people use the site for a task</td><td>Small samples, use for insight not proof</td></tr>
+<tr><td>Sales and support questions</td><td>Objections and missing information</td><td>Needs input from your team</td></tr>
+</tbody>
+</table>
+
+<h2>Common conversion problems an agency looks for</h2>
+<p>Many CRO wins come from removing friction rather than clever ideas. Typical issues include:</p>
+<ul>
+<li><strong>Unclear value.</strong> Visitors cannot tell quickly what you offer, who it is for and why they should choose you.</li>
+<li><strong>Slow pages.</strong> Especially on mobile. Our <a href="/blog/website-speed-optimisation-uk/">site speed guide</a> covers the main fixes.</li>
+<li><strong>Hidden costs.</strong> Delivery charges, VAT treatment or fees that appear late.</li>
+<li><strong>Long or confusing forms.</strong> Asking for information you do not need yet.</li>
+<li><strong>Weak trust signals.</strong> Missing contact details, unclear returns or cancellation policies, or no information about who is behind the business.</li>
+<li><strong>Mismatched landing pages.</strong> Ads that promise one thing and land on a page about something else.</li>
+<li><strong>Mobile layout problems.</strong> Buttons hidden below the fold, pop-ups that are hard to close, menus that are hard to use.</li>
+</ul>
+<p>For lead generation sites, landing pages are often the biggest lever. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> sets out what a strong page includes.</p>
+
+<h2>A/B testing: when it makes sense</h2>
+<p>A/B testing shows two versions of a page to different visitors and compares results. It is powerful, but it needs enough conversions to give a reliable answer. On a site with modest traffic, a test might need months to reach a trustworthy result, or never reach one.</p>
+<p>A good CRO agency will be honest about this. For smaller UK sites, the better approach is often to make research-led improvements, record the date of each change and compare performance before and after, while watching for seasonality and promotions. Larger sites can run structured testing programmes alongside this.</p>
+<p>Be cautious of agencies that report every test as a large win, stop tests early or test many variations on low traffic. These habits produce results that do not hold up.</p>
+
+<h2>What a typical CRO engagement looks like</h2>
+<p>Most CRO work follows a predictable rhythm, although the detail depends on the site and the agency.</p>
+<ul>
+<li><strong>Weeks one to four: audit and research.</strong> Tracking checks, funnel analysis, a usability review of key pages on mobile and desktop, and a first round of recordings or surveys where consent allows. The output should be a prioritised list of problems with the evidence behind each one.</li>
+<li><strong>Months two and three: fixes.</strong> Clear problems, such as broken form fields, slow templates or missing delivery information, are fixed rather than tested. Each change is logged with its date.</li>
+<li><strong>Ongoing: testing and iteration.</strong> Where traffic supports it, larger ideas such as new page layouts or different offers are A/B tested. Where it does not, changes are measured before and after.</li>
+</ul>
+<p>You should also expect the agency to ask for input from your team. Sales staff, customer service and anyone who answers the phone often know exactly which questions and objections stop people buying. That knowledge is some of the most valuable CRO research available, and it costs nothing to collect.</p>
+<p>Finally, agree how decisions will be made. Someone on your side needs authority to approve changes quickly, or the programme will stall while ideas wait for sign-off.</p>
+
+<h2>Tracking and consent come first</h2>
+<p>CRO depends on accurate data. Before any changes, an agency should check that conversions fire correctly, GA4 events are configured, and consent is handled properly under UK GDPR and PECR. Tools such as recordings and heatmaps usually need consent. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the basics.</p>
+
+<h2>How CRO works with paid media and SEO</h2>
+<p>CRO multiplies the value of every visitor. If paid ads bring traffic at a set cost per click, a higher conversion rate lowers the cost per sale or lead directly. That is why CRO works well alongside <a href="/services/paid-media/">paid media</a> management and <a href="/services/seo-geo/">SEO</a>.</p>
+<p>There can be tension between CRO and SEO. Removing text to make a page simpler may help conversions but hurt rankings. A joined-up agency weighs both, often by restructuring content rather than deleting it.</p>
+
+<h2>How much does a CRO agency cost?</h2>
+<p>CRO is priced in several ways: one-off audits, monthly retainers or project fees for specific redesigns. Testing tools and research software may be extra.</p>
+<p>At Prism Works Studio, ongoing work runs on our monthly retainers: Launch at £350 per month, Growth at £750 per month and Scale at £1,500 per month. Where research shows a page or site needs rebuilding, a small website typically costs £1,000-£2,000 and an e-commerce site £1,500-£3,500. Details are on our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website development service</a> covers rebuilds.</p>
+
+<h2>How to choose a conversion rate optimisation agency</h2>
+<ol>
+<li><strong>Ask about their research process.</strong> They should describe how they find problems before suggesting solutions.</li>
+<li><strong>Ask how they decide whether to A/B test.</strong> Good answers mention traffic, conversion volume and test length.</li>
+<li><strong>Check how they handle tracking and consent.</strong> They should audit your tracking first.</li>
+<li><strong>Ask what they measure.</strong> Revenue per visitor, qualified leads or profit, not just conversion rate.</li>
+<li><strong>Ask who builds the changes.</strong> Some agencies only recommend; others implement. Know which you are buying.</li>
+<li><strong>Review an example report.</strong> It should explain what was changed, why, and what happened.</li>
+</ol>
+<p>Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> has more general questions to ask.</p>
+
+<h2>Is a CRO agency right for you?</h2>
+<p>CRO tends to pay off when you already have steady traffic but conversions feel low, when paid media costs are rising, or when you are planning a redesign and want evidence to guide it. If traffic is very low, building visibility first may be the better priority. If you would like a view on where your site loses visitors, <a href="/contact/">book a free discovery call</a> with Prism Works Studio.</p>
+
+<h2>FAQs</h2>
+<h3>What does a conversion rate optimisation agency UK firms hire do?</h3>
+<p>It researches why website visitors do not buy or enquire, fixes the problems it finds and, where traffic allows, A/B tests changes, with the aim of increasing sales or leads from existing traffic.</p>
+<h3>What is a good conversion rate?</h3>
+<p>It varies widely by sector, offer, device and traffic source, so general benchmarks can mislead. Track your own rate over time and by channel, and focus on the weakest step in your funnel.</p>
+<h3>Do I need lots of traffic for CRO?</h3>
+<p>You need traffic for reliable A/B testing, but not for CRO itself. Smaller sites can still gain from research-led fixes measured before and after.</p>
+<h3>How long does CRO take to show results?</h3>
+<p>Fixes to clear problems can show results quickly. Testing programmes take longer, as each test needs enough data to reach a reliable answer.</p>
+<h3>Will CRO changes hurt my SEO?</h3>
+<p>They can if content that pages rank for is removed. A joined-up approach restructures content to be clearer rather than deleting it.</p>
+<h3>Is CRO the same as web design?</h3>
+<p>No. Web design creates the site; CRO uses evidence to improve how well it converts. The two work well together, especially before and after a redesign.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-ppc-agency-uk',
+    seoTitle: 'Ecommerce PPC Agency UK: What They Do and How to Choose',
+    title: 'Ecommerce PPC Agency UK: What to Expect, What It Costs and How to Choose One',
+    description: 'An ecommerce PPC agency runs Google Shopping, Performance Max, search and social ads for online stores. See what they do, costs and how to choose one in the UK.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>An ecommerce PPC agency manages paid advertising for online stores: Google Shopping, Performance Max, search ads, and often Meta, TikTok and YouTube campaigns, with the aim of selling products profitably. The best ones start from your product feed, margins and stock, then build campaigns and tracking around them.</p>
+<p>This guide explains what an ecommerce PPC agency does for UK retailers, how it differs from general pay-per-click management, what it costs and the questions to ask before you hire one.</p>
+
+<h2>What an ecommerce PPC agency UK retailers hire actually does</h2>
+<p>Paid search for a store is different from paid search for a service business. Instead of a few landing pages and a lead form, you have hundreds or thousands of products, changing prices, stock levels and seasonal peaks. Most of the work falls into five areas.</p>
+<ul>
+<li><strong>Product feed management.</strong> Titles, descriptions, categories, identifiers, images and attributes in Google Merchant Center. The feed largely decides which searches your Shopping ads appear for.</li>
+<li><strong>Campaign structure.</strong> Splitting products by margin, price, best sellers or category so budget goes where it earns the most.</li>
+<li><strong>Bidding and budgets.</strong> Setting targets that reflect your margins and adjusting for seasonality, promotions and stock.</li>
+<li><strong>Tracking and measurement.</strong> Accurate conversion tracking, consent mode, GA4 and ideally profit or margin data.</li>
+<li><strong>Creative and landing pages.</strong> Ad copy, images and video for Performance Max and social, plus feedback on product and category pages.</li>
+</ul>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers each of these for online stores.</p>
+
+<h2>The main ecommerce PPC channels</h2>
+<table>
+<thead><tr><th>Channel</th><th>What it is best for</th><th>Main watch-out</th></tr></thead>
+<tbody>
+<tr><td>Google Shopping (Standard)</td><td>Control over product groups and search terms</td><td>Needs a well-optimised feed</td></tr>
+<tr><td>Performance Max</td><td>Reach across Google surfaces with automated bidding</td><td>Less visibility and can lean on brand traffic</td></tr>
+<tr><td>Search ads</td><td>Brand protection, category and high-intent terms</td><td>Costs rise quickly on broad terms</td></tr>
+<tr><td>Meta ads</td><td>Discovery, retargeting and new customer acquisition</td><td>Creative fatigue and attribution gaps</td></tr>
+<tr><td>TikTok and YouTube ads</td><td>Video-led discovery for visual products</td><td>Need a steady supply of video creative</td></tr>
+<tr><td>Microsoft Advertising</td><td>Extra search reach, often at lower cost</td><td>Smaller volume than Google</td></tr>
+</tbody>
+</table>
+<p>Not every store needs every channel. A new store with a modest budget is usually better served by doing Shopping and brand search well before spreading spend thinly. Our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/performance-max-guide-uk/">Performance Max</a> cover these channels in more depth.</p>
+
+<h2>Profit, not just ROAS</h2>
+<p>Return on ad spend (ROAS) is the most common ecommerce PPC target, but it can mislead. A 500% ROAS on a product with a 20% margin may lose money once delivery, payment fees and returns are included. A lower ROAS on a high-margin product can be very profitable.</p>
+<p>A good ecommerce PPC agency will ask about your margins, average order value, returns rate and the value of repeat customers. With that information they can set targets that reflect profit, split products into sensible groups and stop spending on items that sell but never make money. If you can share cost of goods data, even approximately, the campaigns can be steered far more accurately.</p>
+<p>It is also worth separating new customers from returning ones. Brand searches and retargeting often report strong ROAS because those shoppers would have bought anyway. An honest agency will show you how much of the revenue is genuinely new.</p>
+
+<h2>Feed quality: the hidden lever</h2>
+<p>For Shopping and Performance Max, the product feed does much of the job that keywords do in search ads. Small improvements can make a large difference to which searches you appear for.</p>
+<ul>
+<li>Put the most important details at the start of product titles: brand, product type, key attribute such as size, colour or material.</li>
+<li>Use accurate Google product categories and your own product types.</li>
+<li>Include GTINs where products have them.</li>
+<li>Use clean, high-quality images that meet Merchant Center rules.</li>
+<li>Keep price, availability and delivery information in sync with the site.</li>
+<li>Fix disapprovals and warnings quickly, especially before peak periods.</li>
+</ul>
+<p>If an agency does not mention the feed in its first conversation with you, treat that as a warning sign. Our <a href="/blog/google-shopping-agency-uk/">Google Shopping agency guide</a> explains feed work in more detail.</p>
+
+<h2>Tracking and measurement for UK stores</h2>
+<p>Paid media decisions are only as good as the data behind them. Under UK GDPR and PECR, consent affects what you can track, so consent mode and a properly configured cookie banner matter. The agency should check:</p>
+<ul>
+<li>Purchase conversions fire once, with the correct value and currency.</li>
+<li>GA4 ecommerce events are set up and match platform data reasonably closely.</li>
+<li>Enhanced conversions and server-side options are considered where appropriate.</li>
+<li>Returns and cancellations are accounted for in reporting where possible.</li>
+</ul>
+<p>Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the basics that every store should have in place before scaling spend.</p>
+
+<h2>How much does an ecommerce PPC agency cost?</h2>
+<p>There are two costs: the ad spend you pay to the platforms, and the management fee you pay the agency. Ad spend is paid separately and is set by you. Management fees vary by agency model: fixed monthly retainers, a percentage of spend, or a mix.</p>
+<p>At Prism Works Studio our retainers are Launch at £350 per month, Growth at £750 per month and Scale at £1,500 per month, with ad spend paid separately. Full details are on our <a href="/pricing/">pricing page</a>, and our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a> compares common fee models.</p>
+<p>Paid results typically take 3-6 months to settle, as campaigns gather data and bidding stabilises. Expect early weeks to focus on tracking, feed fixes and structure rather than dramatic changes in sales.</p>
+
+<h2>Planning for UK seasonal peaks</h2>
+<p>Ecommerce PPC is shaped by the retail calendar. Black Friday and Cyber Monday, Christmas, January sales, Mother's Day, Father's Day, Easter, summer holidays and back to school all change demand, costs per click and competition. A good agency plans for these weeks ahead rather than reacting on the day.</p>
+<ul>
+<li><strong>Stock and promotions.</strong> Share promotion dates and stock plans early so campaigns, feeds and ad copy are ready.</li>
+<li><strong>Merchant promotions and sale prices.</strong> Set these up in Merchant Center in good time, as they can take a while to be approved.</li>
+<li><strong>Bidding adjustments.</strong> Automated bidding can be slow to react to short sales, so seasonality settings and budget changes need planning.</li>
+<li><strong>Delivery cut-offs.</strong> Update ads and feed delivery details as last order dates for Royal Mail, Evri, DPD and other carriers approach.</li>
+<li><strong>After the peak.</strong> Scale budgets back sensibly and review what worked for next year.</li>
+</ul>
+<p>Product launches and new ranges need similar planning. New products have no sales history, so they often need their own campaign or budget for a period while they gather data.</p>
+
+<h2>How to choose an ecommerce PPC agency</h2>
+<p>Use these questions to compare agencies.</p>
+<ol>
+<li><strong>Who owns the ad accounts and Merchant Center?</strong> You should. Agencies should be given access, not hold your accounts.</li>
+<li><strong>How do you measure success?</strong> Look for answers that mention profit, margin and new customers, not only ROAS.</li>
+<li><strong>What happens in the first 90 days?</strong> A clear plan for tracking, feed and structure is a good sign.</li>
+<li><strong>Which platforms do you recommend for us, and why?</strong> Be wary of anyone who recommends every channel regardless of budget.</li>
+<li><strong>What do reports include?</strong> Ask for an example and check it covers revenue, cost, profit and actions taken.</li>
+<li><strong>What is the notice period?</strong> Read our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> before signing.</li>
+</ol>
+<p>Our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> is also a useful way to judge an agency's first review of your account.</p>
+
+<h2>How PPC fits with the rest of your store's marketing</h2>
+<p>Paid ads bring traffic, but your site still has to convert it. Slow product pages, unclear delivery costs or a clumsy checkout make every click more expensive. Conversion work, SEO and email marketing all improve the return on paid media. Our <a href="/sectors/ecommerce/">ecommerce marketing</a> page explains how we join these up for online retailers.</p>
+
+<h2>FAQs</h2>
+<h3>What does an ecommerce PPC agency UK stores use actually do?</h3>
+<p>It manages paid advertising for online stores, including product feeds, Google Shopping, Performance Max, search and social campaigns, tracking and reporting, with the aim of selling products profitably.</p>
+<h3>Is Performance Max better than standard Shopping?</h3>
+<p>It depends. Performance Max can reach more people with less manual work, but gives less control and visibility. Many stores use both, with standard Shopping for products that need tighter control.</p>
+<h3>What budget do I need for ecommerce PPC?</h3>
+<p>There is no fixed minimum, but the budget needs to be enough for campaigns to gather data. Start focused on best sellers and brand search, then expand as results allow.</p>
+<h3>Is ad spend included in agency fees?</h3>
+<p>Usually not. At Prism Works Studio ad spend is paid separately to the platforms, and our management retainers are listed on our pricing page.</p>
+<h3>How long does ecommerce PPC take to work?</h3>
+<p>Some sales usually come quickly, but campaigns typically take 3-6 months to settle as bidding learns and feed and structure improvements take effect.</p>
+<h3>Should I run Meta ads as well as Google?</h3>
+<p>Often yes, once Google Shopping and brand search are working. Meta is good for discovery and retargeting, especially for visual products, but needs regular fresh creative.</p>
+`,
+  },
+  {
+    slug: 'hotel-seo-uk',
+    seoTitle: 'Hotel SEO UK: How to Rank Your Hotel and Win Direct Bookings',
+    title: 'Hotel SEO UK: How Independent Hotels Rank in Google and Win More Direct Bookings',
+    description: 'Hotel SEO in the UK means ranking for local stay searches, a strong Google Business Profile and fast room pages. See the priorities, checklist and costs.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/hospitality/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Hotel SEO in the UK is the work of getting your hotel found in Google when guests search for somewhere to stay in your area, then turning that visit into a direct booking. In practice it means a well-managed Google Business Profile, room and location pages that match real searches, a fast site and a booking engine that does not lose people on mobile.</p>
+<p>For independent hotels, guesthouses, B&amp;Bs and small groups, organic search is one of the few channels that can bring bookings without a commission on every stay. This guide covers what matters most, how to prioritise and how it fits with your wider marketing. If you want the bigger picture on bookings, read our guide to <a href="/blog/hotel-direct-bookings-uk/">increasing hotel direct bookings in the UK</a>.</p>
+
+<h2>Why hotel SEO UK work matters</h2>
+<p>Most hotel journeys start with a search. Guests type a town, a landmark, an event or an occasion into Google and compare what they see: the map pack, online travel agents, metasearch listings and a handful of hotel websites. Online travel agents dominate many broad terms such as "hotels in" a major city, and competing head-on for those can be slow and expensive.</p>
+<p>For most UK hotels the opportunity is in specific searches. Think "dog friendly hotel near the Peak District", "boutique hotel with parking in Bath", "wedding venue with rooms in Cheshire" or "hotel near the NEC". These searches show clear intent, have less competition and often come from guests who are ready to book. Good hotel SEO captures them with pages that answer the question directly.</p>
+<p>Organic visibility also supports every other channel. Guests who first see you on a booking site often search your name before booking, and a strong, trustworthy site with clear rates and policies helps convince them to book direct.</p>
+
+<h2>The foundations: local search and your Google Business Profile</h2>
+<p>For a hotel, local search is not optional. The map results and your hotel's knowledge panel are often the first thing a guest sees. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> goes into detail, but the essentials are:</p>
+<ul>
+<li><strong>Correct category and details.</strong> Choose the most accurate primary category, and make sure your name, address and phone number match your website and listings exactly.</li>
+<li><strong>Amenities and attributes.</strong> Fill in parking, pet policy, accessibility, Wi-Fi, breakfast and other features guests filter by.</li>
+<li><strong>Photos that sell the stay.</strong> Rooms, bathrooms, breakfast, the building, the view and the surrounding area. Keep them fresh.</li>
+<li><strong>Review management.</strong> Respond to reviews politely and promptly. Never offer incentives for reviews, and never post or buy fake ones.</li>
+<li><strong>Booking links.</strong> Check which booking links appear and make sure your direct option is set up where the platform allows.</li>
+</ul>
+<p>Consistency across the wider web matters too. Tourist board listings, local directories and event venue pages should all carry the same details. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers citations and local signals in more depth.</p>
+
+<h2>Keyword research for hotels</h2>
+<p>Hotel keyword research is about mapping the reasons people visit your area. Group searches by intent and build a page, or a section of a page, for each group.</p>
+<table>
+<thead><tr><th>Search type</th><th>Example phrasing</th><th>Best page to target it</th></tr></thead>
+<tbody>
+<tr><td>Location</td><td>hotel in [town], hotel near [landmark]</td><td>Homepage and location or "getting here" page</td></tr>
+<tr><td>Occasion</td><td>romantic break, family weekend, spa break</td><td>Offer or package pages</td></tr>
+<tr><td>Room type</td><td>family room, accessible room, suite</td><td>Individual room pages</td></tr>
+<tr><td>Feature</td><td>dog friendly, parking, sea view, EV charging</td><td>Feature pages or detailed amenity sections</td></tr>
+<tr><td>Event or venue</td><td>hotel near [stadium, arena, university]</td><td>Event and venue guide pages</td></tr>
+<tr><td>Business</td><td>meeting rooms, corporate rates, conference venue</td><td>Meetings and events pages</td></tr>
+<tr><td>Weddings</td><td>wedding venue with accommodation</td><td>Weddings page with clear capacity details</td></tr>
+</tbody>
+</table>
+<p>Avoid thin pages for each variation: one strong page about dog-friendly stays beats ten near-identical ones.</p>
+
+<h2>On-page SEO for room and location pages</h2>
+<p>Many hotel websites are built on templates where every room page says almost the same thing. Search engines and guests both need more detail.</p>
+<ul>
+<li><strong>Unique room descriptions.</strong> Bed sizes, occupancy, floor area if you know it, view, bathroom type, accessibility features and what is included.</li>
+<li><strong>Clear titles and headings.</strong> Use the room type and location naturally, for example "Family Room with Garden View".</li>
+<li><strong>Real photos with descriptive alt text.</strong> Describe what is shown rather than stuffing keywords.</li>
+<li><strong>Policies in plain English.</strong> Check-in and check-out times, cancellation terms, deposits, children and pets.</li>
+<li><strong>Local context.</strong> Distances to stations, attractions and venues, with walking or driving times you have checked.</li>
+<li><strong>Structured data.</strong> Hotel and LocalBusiness schema with accurate details helps search engines understand the property. Only mark up information that appears on the page.</li>
+</ul>
+<p>Content that answers questions guests ask your reception team is often the most useful. If people keep asking about parking, early check-in or whether the bar serves food, put the answers on the site.</p>
+
+<h2>Technical SEO and the booking engine</h2>
+<p>Hotel websites often rely on third-party booking engines, widgets and heavy image galleries. These can slow pages down and create technical issues.</p>
+<ul>
+<li><strong>Speed on mobile.</strong> Compress images, lazy-load galleries and remove scripts you no longer use. Our <a href="/blog/website-speed-optimisation-uk/">site speed guide</a> explains the main fixes.</li>
+<li><strong>Booking engine domains.</strong> If bookings happen on a separate domain, make sure analytics tracks the full journey so you can see which pages lead to bookings.</li>
+<li><strong>Duplicate content.</strong> Booking engines sometimes create many URL variations for dates and rooms. Make sure these are not competing with your main pages in search.</li>
+<li><strong>Indexing basics.</strong> A clean sitemap, sensible internal links and no important pages blocked by mistake.</li>
+</ul>
+<p>A periodic <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> catches problems such as broken links after a seasonal offer ends or images that have crept back up in size.</p>
+
+<h2>Content that earns visibility</h2>
+<p>Beyond room pages, the hotels that do well in search tend to publish genuinely helpful local content. Ideas include:</p>
+<ul>
+<li>Guides to things to do nearby, written from first-hand knowledge.</li>
+<li>Pages for regular local events, such as festivals, race days, graduations or concerts, updated each year.</li>
+<li>Walking routes, dog walks or cycle routes starting from the hotel.</li>
+<li>Food and drink pages if you have a restaurant or bar, with menus kept up to date.</li>
+<li>Seasonal pages for Christmas, New Year or summer breaks that you refresh rather than replace.</li>
+</ul>
+<p>This content also helps with AI search. Tools such as Google's AI Overviews and chat assistants tend to draw on clear, factual pages. Our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> explains how to make content easier to cite.</p>
+<p>Local links matter as well. Partnerships with nearby venues, attractions, event organisers and tourism bodies can earn relevant mentions. A considered <a href="/blog/digital-pr-link-building-uk/">digital PR approach</a> works better than buying links, which carries real risk.</p>
+
+<h2>How hotel SEO fits with paid and booking channels</h2>
+<p>SEO rarely works alone for hotels. Most properties balance organic search, online travel agents, metasearch and paid search. A sensible approach is to use SEO to build steady direct demand, paid search to protect your brand name and fill gaps in quieter periods, and booking sites for reach where you need it.</p>
+<p>Track bookings by source so you can see the real cost of each. Commission, ad spend and agency fees are all costs of acquisition, and comparing them helps you decide where to invest. Our <a href="/sectors/hospitality/">hospitality marketing</a> page explains our approach.</p>
+
+<h2>How long does hotel SEO take?</h2>
+<p>SEO results typically take 3-6 months to build, and longer in competitive destinations. Quick wins such as fixing your Google Business Profile, improving page titles and resolving technical errors can help sooner. Seasonal content should be published well ahead of the season so it has time to be indexed and ranked.</p>
+
+<h2>What does hotel SEO cost?</h2>
+<p>Costs depend on the size of the property, the competition in your area and how much content and technical work is needed. Our monthly retainers are Launch at £350 per month, Growth at £750 per month and Scale at £1,500 per month, as shown on our <a href="/pricing/">pricing page</a>. If your website needs rebuilding first, a small website typically costs £1,000-£2,000 and takes 3-5 weeks.</p>
+<p>When comparing agencies, ask what work is included each month, how they report on bookings rather than just rankings, and how they handle the booking engine. Our <a href="/services/seo-geo/">SEO and GEO service</a> page sets out what we cover.</p>
+
+<h2>Hotel SEO checklist</h2>
+<ol>
+<li>Claim and complete your Google Business Profile, including amenities and photos.</li>
+<li>Make your name, address and phone number consistent everywhere.</li>
+<li>Map searches by location, occasion, room type, feature and event.</li>
+<li>Write unique, detailed room pages with real photos.</li>
+<li>Publish clear policies and local travel information.</li>
+<li>Add accurate hotel schema.</li>
+<li>Speed up mobile pages and check the booking engine journey.</li>
+<li>Set up GA4 to track bookings by source.</li>
+<li>Publish helpful local and seasonal content ahead of demand.</li>
+<li>Build relevant local links through genuine partnerships.</li>
+</ol>
+<p>If you would like a second opinion on your hotel's search visibility, <a href="/contact/">get in touch with Prism Works Studio</a> for a free discovery call.</p>
+
+<h2>FAQs</h2>
+<h3>What is hotel SEO UK?</h3>
+<p>Hotel SEO in the UK is the process of improving a hotel's visibility in Google and other search engines for searches about staying in its area, so that more guests find the hotel and book directly.</p>
+<h3>Can a small hotel outrank booking sites?</h3>
+<p>Often not for broad terms like "hotels in" a major city. But small hotels can rank well for specific searches about features, occasions, events and nearby places, and they usually rank first for their own name.</p>
+<h3>How important is the Google Business Profile for hotels?</h3>
+<p>Very important. It controls how you appear in the map results and knowledge panel, which many guests see before your website. Keep details, photos and amenities accurate and respond to reviews.</p>
+<h3>Does my booking engine affect SEO?</h3>
+<p>It can. Slow widgets, separate domains and many URL variations can affect speed, tracking and indexing. Check that the booking journey is fast on mobile and tracked properly in analytics.</p>
+<h3>Should hotels write blog content?</h3>
+<p>Yes, if it is genuinely useful. Local guides, event pages and seasonal content written from real knowledge help guests and can rank for searches booking sites do not target.</p>
+<h3>How long before hotel SEO brings bookings?</h3>
+<p>SEO results typically take 3-6 months. Fixing your profile and technical issues can help sooner, and seasonal pages should go live well before the season starts.</p>
+`,
+  },
+  {
+    slug: 'local-seo-agency-uk',
+    seoTitle: 'Local SEO Agency UK: What They Do, Costs and How to Choose',
+    title: 'Local SEO Agency UK: What a Local SEO Agency Does and How to Choose the Right One',
+    description: 'A local SEO agency helps UK businesses rank in Google Maps and local search via Google Business Profile, location pages and reviews. Costs and how to choose.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/hospitality/'],
+    body: `
+<p>A local SEO agency helps businesses appear when people nearby search for what they offer, in Google Maps, the local map pack and normal search results. The work centres on your Google Business Profile, location and service pages, consistent business details, reviews and local links.</p>
+<p>For UK businesses that serve a town, city or region, local search is often the most valuable channel there is, because searchers are close by and ready to act. This guide explains what a local SEO agency does, how the work differs for single and multi-location businesses, what it costs and how to choose one. For a do-it-yourself overview, see our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+
+<h2>What a local SEO agency UK businesses hire actually does</h2>
+<p>Local SEO combines several areas of work. A capable agency covers all of them and explains which matter most for your business.</p>
+<ul>
+<li><strong>Google Business Profile management.</strong> Categories, services, products, opening hours, photos, posts, questions and review responses. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers this in detail.</li>
+<li><strong>Location and service pages.</strong> Pages that clearly explain what you do and where, with genuinely local information.</li>
+<li><strong>Citations and consistency.</strong> Making sure your name, address and phone number match across directories, industry sites and social profiles.</li>
+<li><strong>Reviews.</strong> A process for asking customers for honest reviews and responding to them, within Google's rules.</li>
+<li><strong>Local links and mentions.</strong> Relevant coverage from local news, partners, associations and community organisations.</li>
+<li><strong>Technical basics.</strong> Mobile speed, LocalBusiness schema, crawlability and click-to-call tracking.</li>
+</ul>
+
+<h2>How local rankings work</h2>
+<p>Google describes local results as being based mainly on three factors: relevance, distance and prominence. In practical terms:</p>
+<table>
+<thead><tr><th>Factor</th><th>What it means</th><th>What an agency can influence</th></tr></thead>
+<tbody>
+<tr><td>Relevance</td><td>How well your business matches the search</td><td>Categories, services, website content</td></tr>
+<tr><td>Distance</td><td>How close you are to the searcher or the place searched</td><td>Little, beyond accurate address and service areas</td></tr>
+<tr><td>Prominence</td><td>How well known and trusted your business is</td><td>Reviews, links, mentions, overall SEO strength</td></tr>
+</tbody>
+</table>
+<p>Because distance is largely fixed, an honest agency will explain that you are unlikely to appear in the map pack for searchers far from your location. Your website can still rank in normal results for wider areas with strong, relevant pages.</p>
+
+<h2>Single-location vs multi-location businesses</h2>
+<p>A single shop, clinic or office needs a fully optimised profile, a strong homepage and service pages, and a steady flow of reviews. The work is focused and often quicker to show progress.</p>
+<p>Multi-location businesses, such as restaurant groups, dental practices or estate agents with several branches, need more structure:</p>
+<ul>
+<li>A separate Google Business Profile for each genuine location.</li>
+<li>A dedicated page for each branch with its own address, hours, team information where you choose to share it, photos and local details.</li>
+<li>Clear internal links from a locations page to each branch.</li>
+<li>Consistent processes for reviews and updates across all branches.</li>
+</ul>
+<p>Service-area businesses, such as trades, cleaners or mobile services, often hide their address and list the areas they cover. They need location pages that offer real value for each area, not copies of the same page with the town name swapped. Thin, duplicated location pages can do more harm than good. A useful test: would a local customer learn something from this page that they could not learn from any other page on your site?</p>
+
+<h2>Reviews: what an agency should and should not do</h2>
+<p>Reviews influence both rankings and whether people choose you. A good agency helps you build a simple, consistent way to ask every happy customer for feedback, such as a link in a follow-up email or a QR code at the till.</p>
+<p>It should never write fake reviews, buy reviews, offer incentives for positive ones or filter customers so only happy ones are asked. These breach platform policies and UK consumer protection law, and the Competition and Markets Authority takes fake reviews seriously. Responding politely to negative reviews is part of the job too.</p>
+
+<h2>What the first three months usually look like</h2>
+<p>Local SEO work tends to follow a similar pattern at the start, which helps you judge whether an agency is on track.</p>
+<ul>
+<li><strong>Month one: audit and fixes.</strong> A review of your Google Business Profile, website, existing citations and competitors in the map pack. Incorrect categories, missing services, wrong opening hours and inconsistent addresses are corrected first, because they are quick and can matter a lot.</li>
+<li><strong>Month two: content.</strong> Service and location pages are improved or created, with genuinely local detail such as areas covered, parking, nearby landmarks and answers to common questions.</li>
+<li><strong>Month three onwards: prominence.</strong> A steady review process, regular profile updates, local partnerships and relevant links build trust over time.</li>
+</ul>
+<p>Throughout, tracking should be in place for calls from your profile, website enquiries, direction requests and bookings. Without it, you can only judge progress by rankings, which move around and vary by where the searcher is standing. Map rankings checked from a single location can be misleading, so ask how the agency measures visibility across your area.</p>
+<p>Your involvement matters too. Photos of your premises and team, quick answers to questions about services and prompt approval of new pages all speed things up.</p>
+
+<h2>Sector-specific local SEO</h2>
+<p>Local search looks different in each sector. A few examples:</p>
+<ul>
+<li><strong>Restaurants, pubs and hotels</strong> rely heavily on photos, menus, booking links and reviews. See our <a href="/sectors/hospitality/">hospitality marketing</a> page and our <a href="/blog/restaurant-marketing-uk/">restaurant marketing guide</a>.</li>
+<li><strong>Dental and healthcare practices</strong> need accurate treatment information and careful wording. Our <a href="/blog/dental-marketing-uk/">dental marketing guide</a> covers this, and any claims should be approved by the practice and its compliance advisers.</li>
+<li><strong>Professional services</strong> such as financial advisers need clear service and location pages and trust signals. See our <a href="/blog/financial-adviser-seo-uk/">financial adviser SEO guide</a>.</li>
+</ul>
+
+<h2>How much does a local SEO agency cost?</h2>
+<p>Costs depend on the number of locations, how competitive your area is and how much content, technical and link work is needed. A single-location business in a smaller town typically needs less than a multi-branch business in a large city.</p>
+<p>At Prism Works Studio our monthly retainers are Launch at £350 per month, Growth at £750 per month and Scale at £1,500 per month, as shown on our <a href="/pricing/">pricing page</a>. For a wider view of the market, see our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>. SEO results typically take 3-6 months, though fixing an incomplete Google Business Profile can help sooner.</p>
+
+<h2>How to choose a local SEO agency</h2>
+<ol>
+<li><strong>Ownership.</strong> You should own your Google Business Profile and website. The agency should be added as a manager, not the owner.</li>
+<li><strong>Reporting.</strong> Ask how they track calls, direction requests, enquiries and bookings, not just map positions.</li>
+<li><strong>Location pages.</strong> Ask how they would write pages for your areas without duplicating content.</li>
+<li><strong>Reviews.</strong> Check their approach complies with Google's policies and UK law.</li>
+<li><strong>Links.</strong> Ask where local links will come from. Avoid anyone selling bulk directory submissions or paid link packages.</li>
+<li><strong>Contract terms.</strong> Check notice periods and what happens to work and access if you leave. Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> explains what to look for.</li>
+</ol>
+<p>Our comparison of <a href="/blog/seo-agency-vs-freelancer-uk/">SEO agencies and freelancers</a> may also help if you are weighing up different types of support.</p>
+
+<h2>Local SEO and AI search</h2>
+<p>People increasingly ask AI assistants and Google's AI Overviews for local recommendations. These tools draw on business profiles, reviews and clear website content. Accurate details, well-structured service pages and genuine reviews help here too. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers both traditional and AI search visibility.</p>
+<p>If you would like a view on your local search visibility, <a href="/contact/">get in touch with Prism Works Studio</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What does a local SEO agency UK businesses use actually do?</h3>
+<p>It improves how a business appears in Google Maps and local search by managing its Google Business Profile, building location and service pages, keeping business details consistent, supporting reviews and earning local links.</p>
+<h3>How long does local SEO take?</h3>
+<p>SEO results typically take 3-6 months. Completing and correcting a Google Business Profile can help sooner, especially if it was previously incomplete.</p>
+<h3>Can a local SEO agency get me into the map pack?</h3>
+<p>No agency can guarantee it. Distance to the searcher plays a big part. An agency can improve relevance and prominence, which raises your chances for searches near your location.</p>
+<h3>Do I need a separate page for every town I serve?</h3>
+<p>Only where you can make each page genuinely useful. Near-identical pages with the town name swapped add little value and can weaken your site.</p>
+<h3>Is it allowed to ask customers for Google reviews?</h3>
+<p>Yes, you can ask customers for honest reviews. You must not offer incentives, ask only happy customers, or post fake reviews.</p>
+<h3>Should I hire a local SEO agency or do it myself?</h3>
+<p>Many small businesses can handle the basics themselves using a guide. An agency makes sense when you have several locations, a competitive area or limited time.</p>
+`,
+  },
+  {
+    slug: 'seo-migration-checklist',
+    seoTitle: 'SEO Migration Checklist: Move a Site Without Losing Rankings',
+    title: 'SEO Migration Checklist: How to Move, Rebuild or Replatform a Website Without Losing Rankings',
+    description: 'An SEO migration checklist covers crawling the old site, mapping redirects, testing staging and monitoring after launch. Use our step-by-step UK guide.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>An SEO migration checklist is a step-by-step plan for moving a website to a new domain, platform, design or URL structure without losing search traffic. The core steps are: benchmark the old site, crawl every URL, map 301 redirects, test the new site on staging, launch carefully and monitor for several weeks.</p>
+<p>Migrations are one of the riskiest moments in a website's life. Done well, rankings usually settle within weeks. Done badly, a site can lose much of its organic traffic. This checklist is written for UK businesses replatforming, redesigning or rebranding, and pairs with our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a>.</p>
+
+<h2>Types of website migration</h2>
+<p>Not every migration carries the same risk. Knowing which type you are doing helps you plan.</p>
+<table>
+<thead><tr><th>Migration type</th><th>Example</th><th>Risk level</th></tr></thead>
+<tbody>
+<tr><td>Design refresh, same URLs</td><td>New theme, same pages and addresses</td><td>Lower</td></tr>
+<tr><td>URL structure change</td><td>Moving products into new category paths</td><td>Medium</td></tr>
+<tr><td>Platform change</td><td>WooCommerce to Shopify, or Wix to WordPress</td><td>Medium to high</td></tr>
+<tr><td>Protocol or subdomain change</td><td>HTTP to HTTPS, www to non-www</td><td>Lower if redirects are correct</td></tr>
+<tr><td>Domain change</td><td>Rebrand to a new domain name</td><td>High</td></tr>
+<tr><td>Combined changes</td><td>New domain, platform and structure at once</td><td>Highest</td></tr>
+</tbody>
+</table>
+<p>Where possible, avoid changing everything at once. If you must, plan more time for testing and monitoring.</p>
+
+<h2>Phase 1: Planning and benchmarking</h2>
+<ol>
+<li><strong>Agree the scope.</strong> List exactly what is changing: domain, platform, URLs, content, design, navigation.</li>
+<li><strong>Pick a sensible launch date.</strong> Avoid your peak season. For many retailers that means steering clear of November and December.</li>
+<li><strong>Record baseline performance.</strong> Export organic sessions, conversions and revenue by landing page from GA4, and clicks and impressions by page and query from Google Search Console.</li>
+<li><strong>Record rankings.</strong> Note positions for your most important search terms.</li>
+<li><strong>Identify priority pages.</strong> The pages that bring the most organic traffic, conversions and backlinks need the most care.</li>
+<li><strong>Keep access.</strong> Make sure you have admin access to the domain, DNS, Search Console, GA4 and the old platform until well after launch.</li>
+</ol>
+
+<h2>Phase 2: Crawl and inventory the old site</h2>
+<ol>
+<li>Crawl the full site with an SEO crawler and export every URL with its status code, title, meta description, H1 and canonical.</li>
+<li>Add URLs from your XML sitemaps, Search Console, GA4 landing pages and backlink reports. Crawlers miss orphaned pages that still get traffic or links.</li>
+<li>Include images, PDFs and other files that receive traffic or links.</li>
+<li>Note existing redirects so you do not create redirect chains.</li>
+<li>Save a copy of key page content in case anything is lost during the rebuild.</li>
+</ol>
+
+<h2>Phase 3: Build the redirect map</h2>
+<p>The redirect map is the heart of any SEO migration checklist. It lists every old URL and the new URL it should permanently redirect to with a 301.</p>
+<ul>
+<li><strong>Map one-to-one wherever possible.</strong> Each old page should go to the most relevant new page, not to the homepage.</li>
+<li><strong>Handle removed pages carefully.</strong> If a product or service is gone, redirect to the closest category or alternative. If there is no relevant equivalent, a 410 or 404 can be more honest than an irrelevant redirect.</li>
+<li><strong>Avoid chains and loops.</strong> Update older redirects so they point straight to the final URL.</li>
+<li><strong>Preserve parameters where needed.</strong> Check filtered or tracked URLs that matter.</li>
+<li><strong>Cover every variation.</strong> HTTP and HTTPS, www and non-www, trailing slashes and uppercase versions.</li>
+</ul>
+<p>For ecommerce sites, platform defaults matter. Shopify, for example, uses fixed URL patterns for products and collections, so URLs almost always change when moving to it. Our guides to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> and <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration</a> cover platform-specific points.</p>
+
+<h2>Phase 4: Build and test on staging</h2>
+<ol>
+<li><strong>Block staging from search engines.</strong> Use password protection rather than relying only on robots.txt.</li>
+<li><strong>Migrate content fully.</strong> Titles, meta descriptions, headings, body content, image alt text and structured data should carry over or improve.</li>
+<li><strong>Check internal links.</strong> Navigation, footers and in-content links should point to new URLs directly, not through redirects.</li>
+<li><strong>Set canonicals correctly.</strong> Each page should reference its own new URL unless there is a reason not to.</li>
+<li><strong>Test speed and mobile layout.</strong> A new design should not be slower than the old one. Our <a href="/blog/website-speed-optimisation-uk/">site speed guide</a> lists common fixes.</li>
+<li><strong>Test the redirect map.</strong> Run the old URL list against staging where possible and check every redirect lands on a 200 page.</li>
+<li><strong>Set up tracking.</strong> GA4, conversion tags, consent mode and any ad platform pixels should be ready and tested before launch. See our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>.</li>
+<li><strong>Prepare the new XML sitemap and robots.txt.</strong> Make sure the live robots.txt does not carry over a staging block.</li>
+</ol>
+
+<h2>Phase 5: Launch day</h2>
+<ol>
+<li>Launch at a quiet time early in the week, with developers available.</li>
+<li>Remove staging password protection and any noindex tags.</li>
+<li>Switch on redirects and test a sample of priority URLs immediately.</li>
+<li>Check robots.txt, canonicals and the XML sitemap on the live site.</li>
+<li>Submit the new sitemap in Google Search Console and Bing Webmaster Tools.</li>
+<li>For domain changes, use the Change of Address tool in Search Console.</li>
+<li>Confirm conversions and purchases are recording in GA4 and ad platforms.</li>
+<li>Update your Google Business Profile, social profiles and key directory listings if URLs or the domain changed.</li>
+</ol>
+
+<h2>Phase 6: Monitoring after launch</h2>
+<p>Most migration problems show up in the first few weeks. Monitor daily at first, then weekly for at least eight weeks.</p>
+<ul>
+<li>Recrawl the old URL list and fix any that return errors or redirect to the wrong place.</li>
+<li>Watch Search Console for spikes in 404s, indexing issues and coverage changes.</li>
+<li>Compare organic clicks, sessions and conversions by page against your baseline.</li>
+<li>Check rankings for priority terms.</li>
+<li>Ask sites that link to you most often to update their links where practical.</li>
+<li>Keep redirects in place long term, ideally permanently.</li>
+</ul>
+<p>Some movement in rankings is normal. A temporary dip that recovers is common. A sharp, sustained drop usually points to missing redirects, blocked pages or lost content, which our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> can help you track down.</p>
+
+<h2>Who should be involved</h2>
+<p>A migration touches several teams, and problems usually happen in the gaps between them. Agree owners for each area before work starts.</p>
+<ul>
+<li><strong>Project owner.</strong> Signs off scope, launch date and any content changes.</li>
+<li><strong>SEO lead.</strong> Owns the crawl, benchmarks, redirect map, staging checks and post-launch monitoring.</li>
+<li><strong>Developers.</strong> Build the new site, implement redirects and fix issues found in testing and after launch.</li>
+<li><strong>Content owners.</strong> Make sure important copy, product information and images move across intact.</li>
+<li><strong>Analytics and paid media.</strong> Confirm tracking, update ad final URLs and product feeds, and check conversions after launch.</li>
+</ul>
+<p>Paid campaigns are easy to forget. If ad destination URLs or Merchant Center feeds still point to old addresses, ads may be disapproved or send traffic through redirects. Update them as part of launch day, and check email templates, social profiles and printed QR codes too.</p>
+<p>Write the checklist into a shared document with a named owner and a status for every task. On launch day, work through it in order and do not skip steps because time is short.</p>
+
+<h2>Common migration mistakes</h2>
+<ul>
+<li>Redirecting everything to the homepage.</li>
+<li>Launching with the staging noindex or robots.txt block still in place.</li>
+<li>Cutting content during a redesign, removing text that pages ranked for.</li>
+<li>Forgetting images, PDFs and blog posts in the redirect map.</li>
+<li>Losing tracking, so you cannot tell whether traffic has dropped.</li>
+<li>Letting the old domain expire after a rebrand.</li>
+</ul>
+
+<h2>Getting help with a migration</h2>
+<p>A migration combines development and SEO, so the two teams need to work together from the start. At Prism Works Studio we handle both through our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> and <a href="/services/seo-geo/">SEO</a> services. A small website typically takes 3-5 weeks to build and an ecommerce site 5-12 weeks. Prices are on our <a href="/pricing/">pricing page</a>, and you can <a href="/contact/">contact us</a> to talk through your plans.</p>
+
+<h2>FAQs</h2>
+<h3>What is an SEO migration checklist?</h3>
+<p>It is a step-by-step list of tasks for moving or rebuilding a website while protecting search rankings, covering benchmarking, crawling, redirect mapping, staging tests, launch checks and monitoring.</p>
+<h3>Will I lose rankings when I migrate my website?</h3>
+<p>Some short-term movement is common, but a well-planned migration with complete redirects and preserved content usually settles. Large or lasting drops normally come from mistakes that can be found and fixed.</p>
+<h3>How long does it take to recover after a migration?</h3>
+<p>It varies with the size of the site and type of change. Smaller changes can settle within weeks; domain changes and large restructures can take longer. Monitor for at least eight weeks.</p>
+<h3>Should I use 301 or 302 redirects?</h3>
+<p>Use 301 permanent redirects for pages that have moved for good. A 302 signals a temporary move and is not the right choice for a migration.</p>
+<h3>How long should I keep redirects in place?</h3>
+<p>Ideally permanently. Old links, bookmarks and references can keep sending visitors for years, and removing redirects risks losing that value.</p>
+<h3>When is the best time to migrate a website?</h3>
+<p>During a quieter trading period, early in the week, with developers available to fix problems. Avoid peak seasons and major sales events.</p>
+`,
+  },
 ];
