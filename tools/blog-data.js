@@ -284,7 +284,7 @@ module.exports = [
 <p>This is the clearest difference. Shopify handles hosting, security and platform updates for you. With WooCommerce, someone has to keep WordPress core, the theme and every plugin updated, monitor security and take backups. That is very manageable with a maintenance plan, but it should be budgeted for. A neglected WooCommerce store is slower and more vulnerable.</p>
 
 <h2>Growth and flexibility</h2>
-<p>Shopify scales well for high order volumes and offers Shopify Plus for larger merchants who need more automation and checkout customisation. WooCommerce can scale too, but performance depends on hosting and development quality. For unusual requirements, such as complex product configurators, B2B pricing rules or deep integration with other WordPress features, WooCommerce usually offers more freedom.</p>
+<p>Shopify scales well for high order volumes and offers Shopify Plus for larger merchants who need more automation and checkout customisation. WooCommerce can scale too, but performance depends on hosting and development quality. For unusual requirements, such as complex product configurators, <a href="/sectors/b2b/">B2B</a> pricing rules or deep integration with other WordPress features, WooCommerce usually offers more freedom.</p>
 
 <h2>Day-to-day running: what your team will notice</h2>
 <p>Platform choice also affects how your team works every day. In Shopify, adding products, processing orders, issuing refunds and creating discount codes all happen in one tidy admin that is designed for non-technical users, and there is a good mobile app for managing orders on the move. Staff accounts with different permissions are straightforward.</p>
@@ -346,7 +346,7 @@ module.exports = [
 <p>This guide explains how LinkedIn Ads work, which formats and targeting options to use, how to budget and how to judge whether your campaigns are worth it.</p>
 
 <h2>Why LinkedIn works for B2B</h2>
-<p>On most ad platforms, you target people by interests and behaviour, then hope they are decision-makers. On LinkedIn, people describe their own jobs. That means you can reach, for example, finance directors at UK manufacturing companies with 50 to 500 employees, or HR managers in the education sector, without guessing.</p>
+<p>On most ad platforms, you target people by interests and behaviour, then hope they are decision-makers. On LinkedIn, people describe their own jobs. That means you can reach, for example, finance directors at UK manufacturing companies with 50 to 500 employees, or HR managers in the <a href="/sectors/education/">education sector</a>, without guessing.</p>
 <p>The trade-off is cost. Clicks on LinkedIn are typically more expensive than on Meta or many Google searches, so campaigns need a clear audience, a strong offer and a sales process ready to follow up quickly. For context on where LinkedIn fits among other channels, see our <a href="/services/paid-media/">paid media service</a>.</p>
 
 <h2>LinkedIn targeting options</h2>
@@ -1424,7 +1424,7 @@ module.exports = [
 <p>Fees vary by model and scope. Our own retainers are £350, £750 or £1,500 a month, with ad spend paid separately to Google. The full breakdown is on our <a href="/pricing/">pricing page</a>. Whatever you pay, make sure the fee is proportionate to your spend; if the budget is small, start narrow and grow once you can see what converts.</p>
 
 <h2>Sector fit matters</h2>
-<p>An agency that understands your market will ramp up faster. B2B lead generation, for example, involves longer sales cycles and offline conversions that need importing back into Google Ads; see our <a href="/sectors/b2b/">B2B marketing page</a> and our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B</a>. Regulated sectors such as financial advice or healthcare have advertising restrictions to respect, and any final approval of ad copy rests with your own compliance team.</p>
+<p>An agency that understands your market will ramp up faster. B2B lead generation, for example, involves longer sales cycles and offline conversions that need importing back into Google Ads; see our <a href="/sectors/b2b/">B2B marketing page</a> and our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B</a>. Regulated sectors such as <a href="/sectors/financial-advisers/">financial advice</a> or <a href="/sectors/healthcare/">healthcare</a> have advertising restrictions to respect, and any final approval of ad copy rests with your own compliance team.</p>
 
 <h2>How to compare proposals side by side</h2>
 <p>Once you have two or three proposals, put them into a simple comparison rather than relying on which sales call felt best. Give every agency the same brief, including your monthly budget, target cost per lead or sale, the products or services that matter most and any seasonality. Then compare the answers on the same lines.</p>
@@ -1852,7 +1852,7 @@ module.exports = [
 <p>From there, group keywords by intent rather than volume:</p>
 <ol>
 <li><strong>Decision terms</strong>: comparisons, alternatives, pricing and reviews. Small search volumes, but these visitors are closest to buying, so they usually come first.</li>
-<li><strong>Solution terms</strong>: software for a specific job, role or industry, such as scheduling software for clinics. These map to use case and feature pages.</li>
+<li><strong>Solution terms</strong>: software for a specific job, role or industry, such as scheduling software for <a href="/sectors/healthcare/">clinics</a>. These map to use case and feature pages.</li>
 <li><strong>Problem terms</strong>: how-to questions your product helps solve. These suit product-led guides and templates.</li>
 <li><strong>Integration terms</strong>: searches combining your category with tools buyers already use.</li>
 </ol>
@@ -1922,7 +1922,7 @@ module.exports = [
 <p>You do not need a huge budget to get started. This guide sets out what to do first, what SEO typically costs, what you can do yourself and when it is worth paying an agency.</p>
 
 <h2>SEO for small business UK: why it is worth the effort</h2>
-<p>Search is often where buying starts. Someone needing an accountant, a dog groomer, a kitchen fitter or a wedding venue will usually search, compare a few results and contact one or two. If you are not visible, they never see you. Unlike paid ads, organic rankings keep working when you stop spending, which suits small businesses with tight cash flow, once the groundwork is done.</p>
+<p>Search is often where buying starts. Someone needing an accountant, a dog groomer, a kitchen fitter or a wedding <a href="/sectors/hospitality/">venue</a> will usually search, compare a few results and contact one or two. If you are not visible, they never see you. Unlike paid ads, organic rankings keep working when you stop spending, which suits small businesses with tight cash flow, once the groundwork is done.</p>
 <p>SEO is also increasingly about AI search. Tools such as Google's AI Overviews and ChatGPT draw on websites that explain things clearly. The same habits that help you rank, such as plain answers, specific service pages and consistent business details, help you get mentioned there too. Our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> explains more.</p>
 
 <h2>The priorities, in order</h2>
@@ -2317,7 +2317,7 @@ module.exports = [
 <li><strong>Launch and handover.</strong> Going live, submitting the sitemap to Google Search Console and showing you how to edit the site.</li>
 </ol>
 <p>The stage that most often extends the timeline is content. If text and images are ready before the build starts, a small site can comfortably fit our typical 3 to 5 week window. If content is still being written during the build, allow longer.</p>
-<p>It is also worth deciding early whether you need any regulated wording. Businesses in sectors such as healthcare or financial advice have rules about what they can claim on their website, and final sign-off of that wording rests with your own compliance team or adviser rather than the web designer.</p>
+<p>It is also worth deciding early whether you need any regulated wording. Businesses in sectors such as <a href="/sectors/healthcare/">healthcare</a> or <a href="/sectors/financial-advisers/">financial advice</a> have rules about what they can claim on their website, and final sign-off of that wording rests with your own compliance team or adviser rather than the web designer.</p>
 <p>Finally, think about accessibility. Clear headings, readable contrast, descriptive link text and forms that work with a keyboard help every visitor and are increasingly expected by customers and public sector buyers alike. Building them in from the start costs far less than retrofitting them later.</p>
 
 <h2>Checklist: comparing website design quotes</h2>
@@ -2657,7 +2657,7 @@ module.exports = [
 <li><strong>No internal links.</strong> Content that never points readers to services or pricing leaves enquiries on the table.</li>
 <li><strong>Publish and forget.</strong> Without promotion and regular refreshes, even good content fades.</li>
 <li><strong>Measuring the wrong things.</strong> Likes and page views feel good but do not pay the bills on their own.</li>
-<li><strong>Inconsistent voice.</strong> Content that sounds different on every page undermines trust. A clear tone of voice guide helps.</li>
+<li><strong>Inconsistent voice.</strong> Content that sounds different on every page undermines trust. A clear <a href="/services/brand-strategy/">tone of voice</a> guide helps.</li>
 </ul>
 <h2>Working well with a content agency</h2>
 <p>The best results come when businesses share their expertise freely. Agencies write faster and more accurately when they can interview the people who talk to customers every day, see common questions from sales or support, and get quick feedback on drafts. Agree a simple approval process, with one person responsible for sign-off, so content does not stall waiting for comments. Set a regular review meeting, monthly or quarterly, to look at what has been published, what it has achieved and what should come next.</p>
@@ -2924,7 +2924,7 @@ module.exports = [
 <p>Many clients still prefer an adviser they can meet. A complete Google Business Profile with accurate categories, address, hours and photos, plus consistent business details across directories, helps you show up in map results. Reviews can help too, but firms should check how their compliance team wants review requests and responses handled. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the fundamentals.</p>
 
 <h3>Service and niche pages</h3>
-<p>One general "services" page rarely ranks for anything specific. Separate pages for retirement planning, pensions, investments, protection, inheritance tax planning or advice for business owners give Google and readers a clear match for each search. Firms that serve a niche, such as medical professionals, farmers or business owners selling up, can rank well by building content around that audience.</p>
+<p>One general "services" page rarely ranks for anything specific. Separate pages for retirement planning, pensions, investments, protection, inheritance tax planning or advice for business owners give Google and readers a clear match for each search. Firms that serve a niche, such as <a href="/sectors/healthcare/">medical</a> professionals, farmers or business owners selling up, can rank well by building content around that audience.</p>
 
 <h2>Compliance and financial adviser SEO</h2>
 <p>Website content and blog posts can count as financial promotions, so they typically need to be fair, clear and not misleading, and in many cases approved before publication. Rules and their interpretation change, and requirements differ between firms and permissions. Prism Works Studio provides marketing and SEO support only; responsibility for compliance, and final sign-off on every page, article and ad, rests with the firm and its compliance team or provider.</p>
@@ -3138,7 +3138,7 @@ module.exports = [
 <p>Not every store needs an agency. If you sell a handful of products and are comfortable with a standard theme, you may be fine on your own for a while. An agency usually earns its fee when one or more of these is true:</p>
 <ul>
 <li>You are moving from another platform and cannot afford to lose search rankings or order history.</li>
-<li>You have a large or complex range with many variants, bundles or B2B pricing.</li>
+<li>You have a large or complex range with many variants, bundles or <a href="/sectors/b2b/">B2B</a> pricing.</li>
 <li>Your current store gets visitors but few sales, and you are not sure why.</li>
 <li>You want the store to look and feel like your brand rather than a template.</li>
 <li>You simply do not have the time to learn Shopify properly while running the business.</li>
@@ -3627,7 +3627,7 @@ module.exports = [
 <p>A dedicated GEO focus makes more sense when:</p>
 <ul>
 <li>Your SEO foundations are already solid and you rank well for core terms.</li>
-<li>Your buyers research heavily through AI assistants, which is common in B2B, SaaS and considered consumer purchases.</li>
+<li>Your buyers research heavily through AI assistants, which is common in <a href="/sectors/b2b/">B2B</a>, <a href="/sectors/saas/">SaaS</a> and considered consumer purchases.</li>
 <li>Competitors are being recommended in AI answers for prompts where you are absent.</li>
 <li>You operate in a sector where trust and reputation strongly influence recommendations.</li>
 </ul>
@@ -3787,7 +3787,7 @@ module.exports = [
 </ol>
 
 <h2>Link building for different types of business</h2>
-<p>The right approach depends on your market. Ecommerce stores often benefit from links to category pages and gift or trend stories, covered in our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a>. Local service firms gain more from regional press, community partnerships and citations, as explained in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>. B2B and SaaS firms usually earn the most relevant links through expert commentary, research and trade media.</p>
+<p>The right approach depends on your market. Ecommerce stores often benefit from links to category pages and gift or trend stories, covered in our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a>. Local service firms gain more from regional press, community partnerships and citations, as explained in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>. <a href="/sectors/b2b/">B2B</a> and <a href="/sectors/saas/">SaaS</a> firms usually earn the most relevant links through expert commentary, research and trade media.</p>
 <p>Whatever the sector, link building should sit inside a joined-up plan. Our <a href="/services/digital-pr-content/">digital PR and content service</a> and <a href="/services/seo-geo/">SEO and GEO service</a> are designed to work together so that earned authority supports pages built to convert.</p>
 <p>Timing matters too. Even strong links take time to influence rankings; SEO results typically show over three to six months. Budgeting for a short burst and stopping before results appear is a common reason link building "doesn't work".</p>
 
@@ -3857,7 +3857,7 @@ module.exports = [
 <li>You want SEO connected to paid media, website development or digital PR.</li>
 <li>You lack internal time to manage several specialists.</li>
 <li>You want continuity of service through holidays and staff changes.</li>
-<li>You operate in a competitive market, such as ecommerce, finance or SaaS, where several disciplines need to move together.</li>
+<li>You operate in a competitive market, such as ecommerce, finance or <a href="/sectors/saas/">SaaS</a>, where several disciplines need to move together.</li>
 </ul>
 <p>Our <a href="/services/seo-geo/">SEO and GEO service</a> is built for this kind of joined-up programme, and it connects with our <a href="/services/digital-pr-content/">digital PR and content work</a> when authority building is part of the plan.</p>
 
@@ -4828,7 +4828,7 @@ module.exports = [
 
 <h2>Retainer vs project pricing</h2>
 <p>A retainer makes sense when the work compounds over time. Search engine optimisation, content and paid media all improve through steady iteration: publishing, testing, measuring and adjusting each month. SEO and paid campaigns typically take 3 to 6 months to show meaningful results, so a retainer gives the work room to build. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> goes deeper on the search side.</p>
-<p>A project makes sense when the output is a finished thing. A website, a brand identity or a technical audit has a scope you can define up front, so a fixed fee with agreed deliverables and revision rounds is normally fairer to both sides. A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks, depending on scope.</p>
+<p>A project makes sense when the output is a finished thing. A website, a <a href="/services/brand-strategy/">brand identity</a> or a technical audit has a scope you can define up front, so a fixed fee with agreed deliverables and revision rounds is normally fairer to both sides. A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks, depending on scope.</p>
 <p>Many businesses use both: a one-off project to fix the foundations, then a retainer to grow from them. If your site is slow, hard to update or not converting, it is usually worth fixing that before paying for traffic.</p>
 
 <h2>What drives the price of a marketing agency</h2>
@@ -5053,7 +5053,7 @@ module.exports = [
 
 <h2>Channels by stage</h2>
 <h3>Pre-launch and early traction</h3>
-<p>Your aim is learning, quickly. Paid search can be a fast way to test whether people are actively looking for what you offer, because you see search terms and conversion data within days. Paid social suits products that need to be shown rather than searched for. Keep tests small, set a clear success threshold before you start, and switch off what does not work. Founder-led content on LinkedIn often works well for B2B startups at this stage.</p>
+<p>Your aim is learning, quickly. Paid search can be a fast way to test whether people are actively looking for what you offer, because you see search terms and conversion data within days. Paid social suits products that need to be shown rather than searched for. Keep tests small, set a clear success threshold before you start, and switch off what does not work. Founder-led content on LinkedIn often works well for <a href="/sectors/b2b/">B2B</a> startups at this stage.</p>
 <h3>Product-market fit</h3>
 <p>Once you know who buys and why, start building channels that compound. SEO and content take time, typically 3 to 6 months for meaningful results, but they lower acquisition costs over the long run. B2B and software companies should read our guide to <a href="/blog/saas-seo-agency-uk/">SaaS SEO</a> and see how we approach <a href="/sectors/saas/">SaaS marketing</a>.</p>
 <h3>Scaling</h3>
@@ -5392,7 +5392,7 @@ module.exports = [
 
 <h2>Writing landing page copy</h2>
 <p>Copy does more work than design on most landing pages. Start with the problem the visitor has, in their words, then show how your offer solves it. Keep sentences short and specific. Instead of claiming to be the best in the area, explain what you do, how quickly, and what happens after someone enquires. Specific details such as service areas, typical timelines and what is included tend to build more trust than adjectives.</p>
-<p>Be careful with claims. UK advertising is covered by the CAP Code, which expects claims to be honest and capable of substantiation, and regulated sectors such as finance and health have extra rules. If you mention prices, make sure they are accurate and any conditions are clear. For financial or healthcare businesses, approval of wording should rest with your own compliance team; our guides to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing</a> and <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a> cover the context.</p>
+<p>Be careful with claims. UK advertising is covered by the CAP Code, which expects claims to be honest and capable of substantiation, and regulated sectors such as finance and health have extra rules. If you mention prices, make sure they are accurate and any conditions are clear. For financial or <a href="/sectors/healthcare/">healthcare</a> businesses, approval of wording should rest with your own compliance team; our guides to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing</a> and <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a> cover the context.</p>
 <h3>Calls to action that work</h3>
 <p>Generic buttons such as Submit or Learn more give visitors little reason to act. Use wording that describes what they will get, for example Get my free quote, Check availability or Book a call. Repeat the main call to action after key sections on longer pages, so visitors never have to scroll back up to act. If you offer phone calls, make the number tappable on mobile and track taps as an event.</p>
 <h3>Design details that help</h3>
@@ -6265,7 +6265,7 @@ module.exports = [
 <p>YouTube sits between social feeds and search. People go there to learn, compare and be entertained, often with the sound on and for longer than on other platforms. That gives advertisers time to explain something, which is hard on a fast-scrolling feed.</p>
 <p>It tends to suit:</p>
 <ul>
-<li><strong>Products that need explaining.</strong> Software, home improvement, education courses, considered ecommerce purchases and services with a process.</li>
+<li><strong>Products that need explaining.</strong> Software, home improvement, <a href="/sectors/education/">education</a> courses, considered ecommerce purchases and services with a process.</li>
 <li><strong>Brands building trust.</strong> Demonstrations, customer stories you are allowed to share, and behind-the-scenes content help people feel confident before they buy.</li>
 <li><strong>Retargeting.</strong> Showing a video to people who visited your site but did not convert.</li>
 <li><strong>Reach at a sensible cost.</strong> Short formats can put a brand in front of many people in a region or interest group.</li>
@@ -6526,7 +6526,7 @@ module.exports = [
 
 <h2>SEO for charities</h2>
 <p>Search is often the main way people in need find a charity. Someone searching "debt advice Birmingham" or "carers support group near me" is looking for help right now. Clear service pages, a well-maintained Google Business Profile for each location, and plain-English advice content can serve them well and build trust with donors at the same time.</p>
-<p>Charities also tend to earn links naturally: local news, councils, partner organisations, universities and funders. Make sure those links point to useful pages, and fix technical issues so the site can be crawled easily. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and SEO for small businesses article both apply closely to small charities.</p>
+<p>Charities also tend to earn links naturally: local news, councils, partner organisations, <a href="/sectors/education/">universities</a> and funders. Make sure those links point to useful pages, and fix technical issues so the site can be crawled easily. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and SEO for small businesses article both apply closely to small charities.</p>
 
 <h2>Email, consent and the Fundraising Regulator</h2>
 <p>Email is often the most cost-effective way to keep supporters engaged, but charities should be careful with consent. In general terms:</p>
