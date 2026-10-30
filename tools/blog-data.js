@@ -8533,4 +8533,570 @@ module.exports = [
 <p>Keep it as a completed-scheme case study or redirect it to a relevant page, rather than deleting it, so any search value it built is kept.</p>
 `,
   },
+  {
+    slug: 'digital-marketing-agency-leeds',
+    seoTitle: 'Digital Marketing Agency Leeds: How to Choose Well',
+    title: 'Choosing a Digital Marketing Agency in Leeds: A Guide for Yorkshire Businesses',
+    description: 'Choosing a digital marketing agency in Leeds? Decide which channels you need first, then check strategy, reporting and fit. Costs, red flags and remote options.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>The right digital marketing agency for a Leeds business is one that starts with your goals and budget, recommends only the channels that fit, and reports on leads and sales across all of them. Whether that agency sits in Leeds matters much less than whether it can join up SEO, paid media, content and your website into one plan.</p>
+<p>Prism Works Studio is a UK agency that works remotely with businesses anywhere in the UK, including Leeds and the rest of Yorkshire. We do not have a Leeds office. This guide is written to help you choose the right partner, whoever that turns out to be.</p>
+
+<h2>The Leeds business landscape</h2>
+<p>Leeds has one of the most varied economies of any UK city outside London. It is a major centre for financial and professional services, legal firms, healthcare and health tech, digital and software businesses, and a large retail and hospitality scene. Around it, West Yorkshire towns such as Bradford, Wakefield, Huddersfield and Harrogate add manufacturing, logistics, family businesses and tourism.</p>
+<p>That variety means "digital marketing" means different things to different Leeds firms:</p>
+<table>
+<thead><tr><th>Business type</th><th>Common goal</th><th>Channels that often fit</th></tr></thead>
+<tbody>
+<tr><td>Professional and financial services</td><td>Qualified enquiries</td><td>SEO, LinkedIn Ads, content, Google Ads for high-intent searches</td></tr>
+<tr><td>Digital, SaaS and tech firms</td><td>Demos and trials</td><td>SEO, paid search, LinkedIn, landing pages</td></tr>
+<tr><td>Retail and ecommerce</td><td>Online sales</td><td>Google Shopping, Meta Ads, SEO, email</td></tr>
+<tr><td>Hospitality and leisure</td><td>Bookings and footfall</td><td>Local SEO, Google Business Profile, social ads</td></tr>
+<tr><td>Healthcare and clinics</td><td>Appointments</td><td>Local SEO, Google Ads, carefully worded content</td></tr>
+</tbody>
+</table>
+<p>For regulated sectors such as finance and health, any agency should give general guidance only and leave approval of claims to your compliance team. Our guide to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing for financial advisers</a> shows the kind of care that is needed.</p>
+
+<h2>Start with the channels, not the agency</h2>
+<p>The most common mistake is approaching agencies before deciding what you need. One agency pitches SEO, another pitches social ads, a third pitches a new website, and you end up comparing three different things.</p>
+<p>Before you call anyone, answer these:</p>
+<ul>
+<li><strong>What is the goal?</strong> Enquiries, sales, bookings, applications?</li>
+<li><strong>How quickly do you need results?</strong> Paid media can generate leads within weeks; SEO typically takes three to six months to build.</li>
+<li><strong>Is your website ready?</strong> Sending paid traffic to a slow or unclear site wastes budget. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers the basics.</li>
+<li><strong>What is your budget?</strong> Include both agency fees and ad spend, which is paid separately.</li>
+</ul>
+<p>Once you have rough answers, you can ask agencies to respond to the same brief.</p>
+
+<h2>What to check when choosing a digital marketing agency in Leeds</h2>
+<h3>A joined-up strategy</h3>
+<p>Ask how the agency decides between channels and how they work together. A good answer explains, for example, that paid search will cover key terms while SEO builds, and that both will point to pages designed to convert.</p>
+<h3>Channel depth</h3>
+<p>"Full service" can mean shallow in everything. Ask who runs your paid campaigns, who handles SEO and who writes content. Ask to see how they would structure a Google Ads account or what a typical SEO month includes. Our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> is a useful way to test their knowledge.</p>
+<h3>Tracking and reporting</h3>
+<p>If tracking is broken, nothing else can be judged. Ask how they will set up conversions, whether they will check your analytics, and what a monthly report looks like. You want leads, cost per lead and sales, not just clicks and impressions.</p>
+<h3>Ownership and access</h3>
+<p>Your ad accounts, analytics and website should be in your name, with the agency given access. Never let an agency own accounts you are paying for.</p>
+<h3>Contract terms</h3>
+<p>Check minimum terms, notice periods and what happens to content when you leave. Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> covers the clauses to look for.</p>
+
+<h2>Red flags</h2>
+<ul>
+<li>Recommending every channel regardless of budget.</li>
+<li>Guaranteed results, rankings or a fixed number of leads.</li>
+<li>Ad accounts set up in the agency's name.</li>
+<li>Reports full of impressions and reach, with no link to enquiries.</li>
+<li>No clear answer about who actually does the work.</li>
+</ul>
+
+<h2>Remote versus local for Leeds businesses</h2>
+<p>Leeds has a strong local agency scene, and some businesses value being able to drop into an office. For others, a remote UK agency offers the same capability with a wider choice of specialists.</p>
+<table>
+<thead><tr><th>Factor</th><th>Leeds-based agency</th><th>Remote UK agency</th></tr></thead>
+<tbody>
+<tr><td>In-person meetings</td><td>Easy to arrange</td><td>Video calls as standard</td></tr>
+<tr><td>Ad platforms and tools</td><td>Same everywhere</td><td>Same everywhere</td></tr>
+<tr><td>Local audience targeting</td><td>Set in the ad platform</td><td>Set in the ad platform</td></tr>
+<tr><td>Knowledge of Yorkshire market</td><td>May be built in</td><td>Built from data, research and your input</td></tr>
+<tr><td>Communication quality</td><td>Depends on process</td><td>Depends on process</td></tr>
+</tbody>
+</table>
+<p>Targeting people in Leeds and West Yorkshire is done inside Google, Meta and LinkedIn, and it works the same whoever sets it up. What matters is that the agency understands your customers, which mostly comes from you. Remote relationships work best with one named contact, a fixed monthly call, shared dashboards and quick replies.</p>
+
+<h2>What a digital marketing agency in Leeds costs</h2>
+<p>Costs depend on channels, scope and ad spend. Our guide to <a href="/blog/digital-marketing-agency-cost-uk/">digital marketing agency costs in the UK</a> explains the common pricing models.</p>
+<p>Prism Works Studio publishes its retainers on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid separately. A small website starts at £1,000 to £2,000 if your site needs replacing first.</p>
+
+<h2>How Prism Works Studio works with Leeds businesses</h2>
+<p>We work remotely with businesses across the UK, covering the services listed on our <a href="/services/">services page</a>, including SEO and GEO, <a href="/services/paid-media/">paid media</a> across Google, Meta, LinkedIn, TikTok and YouTube, content, websites and brand strategy. A typical start looks like this:</p>
+<ol>
+<li>Review your goals, budget, website and tracking.</li>
+<li>Recommend the smallest set of channels that fits your goal.</li>
+<li>Fix tracking and key pages before scaling spend.</li>
+<li>Launch, test and refine, reporting monthly in plain English.</li>
+</ol>
+<p>We do not claim Leeds clients or local results. We would rather explain clearly what we would do for you and let you judge.</p>
+
+<h2>Writing a brief Leeds agencies can respond to</h2>
+<p>A short written brief makes proposals far easier to compare. It does not need to be long; one or two pages is plenty. Include:</p>
+<ul>
+<li><strong>About you:</strong> what you sell, who buys it and roughly where your customers are, whether that is Leeds, Yorkshire or the whole UK.</li>
+<li><strong>Your goal:</strong> for example, more enquiries for a particular service, more online sales, or more bookings in quieter months.</li>
+<li><strong>What you have tried:</strong> past campaigns, agencies or freelancers, and what did and did not work.</li>
+<li><strong>Your assets:</strong> website platform, analytics access, ad accounts, email list and any brand guidelines.</li>
+<li><strong>Budget:</strong> a range for agency fees and a separate range for ad spend.</li>
+<li><strong>Timescale:</strong> when you want to start and when you will judge progress.</li>
+</ul>
+<p>Send the same brief to every agency on your shortlist and ask each to respond with a plan, not just a price. The quality of the questions they ask back is often the best signal of all. An agency that wants to understand your margins, your best customers and your sales process is far more likely to spend your budget well than one that sends a standard package by return.</p>
+<p>Finally, and most importantly, agree how you will review progress. A short check-in after the first month, focused on tracking and early signals, and a fuller review at three months, is a sensible rhythm for most businesses. Write down what "good" looks like at each review, such as a target cost per enquiry or a number of qualified leads, so both sides judge progress against the same yardstick rather than impressions.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a digital marketing agency in Leeds?</h3>
+<p>Decide your goal, budget and likely channels first, then ask shortlisted agencies to respond to the same brief. Compare their strategy, tracking, reporting and contract terms rather than their portfolios alone.</p>
+<h3>Do I need a Leeds-based digital marketing agency?</h3>
+<p>No. Targeting Leeds and Yorkshire audiences is done inside the ad platforms and search engines, so a remote UK agency can do it equally well. Choose local if in-person meetings genuinely matter to you.</p>
+<h3>Does Prism Works Studio have a Leeds office?</h3>
+<p>No. Prism Works Studio is a UK agency working remotely with businesses anywhere in the UK, including Leeds and West Yorkshire.</p>
+<h3>Which digital marketing channel should a Leeds business start with?</h3>
+<p>It depends on your goal and timescale. Paid search can bring enquiries quickly, while SEO builds over three to six months. Many businesses start with one paid channel and SEO together.</p>
+<h3>Is ad spend included in agency fees?</h3>
+<p>At Prism Works Studio, no. Ad spend is paid separately, directly to the platforms, so you can always see exactly what was spent.</p>
+<h3>How much does a digital marketing agency in Leeds cost?</h3>
+<p>Fees vary by scope. Prism Works Studio's retainers are £350, £750 or £1,500 a month, with ad spend on top.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-agency-bristol',
+    seoTitle: 'Ecommerce Agency Bristol: Choosing the Right Partner',
+    title: 'Choosing an Ecommerce Agency in Bristol: A Guide for Independent and Growing Brands',
+    description: 'Choosing an ecommerce agency in Bristol? Check platform skills, product data and post-launch support. A guide to costs, timelines, red flags and remote options.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>The right ecommerce agency for a Bristol business is one that builds a fast, clear online store on the right platform, sets up products, checkout and delivery properly, and helps you grow sales after launch through SEO, Google Shopping and social ads. Location matters far less than platform skill, process and honest support, so this guide focuses on what to check.</p>
+<p>Prism Works Studio is a UK agency that works remotely with businesses anywhere in the UK, including Bristol and the South West. We do not have a Bristol office. This guide is meant to help you choose well, whichever agency you go with.</p>
+
+<h2>Bristol's ecommerce scene</h2>
+<p>Bristol has a strong independent streak. The city and its surroundings are home to many small and growing brands in food and drink, coffee, fashion and outdoor clothing, homeware, beauty, and sustainable or ethically made products. A lot of them started as market stalls, studios or local shops and now sell online across the UK.</p>
+<p>That creates a particular set of ecommerce needs:</p>
+<ul>
+<li><strong>Brand story matters.</strong> Values, sourcing and craft are often part of why customers buy. The store needs room for that story without slowing down the path to checkout.</li>
+<li><strong>Sales are national.</strong> Your customers may be anywhere in the UK, so delivery options, returns and marketing all need to work nationally.</li>
+<li><strong>Bricks and clicks.</strong> Some brands also run a shop, café or stall, which means stock and orders may need to sync across channels.</li>
+<li><strong>Small teams.</strong> Founders are often handling product, operations and marketing at once, so the store has to be easy to run.</li>
+</ul>
+<table>
+<thead><tr><th>Type of Bristol brand</th><th>Typical ecommerce priority</th><th>What to ask an agency</th></tr></thead>
+<tbody>
+<tr><td>Food, drink and coffee</td><td>Subscriptions, delivery rules, perishable stock</td><td>How will you handle subscriptions and courier options?</td></tr>
+<tr><td>Fashion and outdoor clothing</td><td>Size variants, returns, imagery</td><td>How will you manage variants and reduce returns?</td></tr>
+<tr><td>Homeware and gifts</td><td>Seasonal peaks, gift options, bundles</td><td>How do you prepare a store for Christmas trading?</td></tr>
+<tr><td>Beauty and wellbeing</td><td>Ingredient information, compliant claims, repeat purchase</td><td>How will you present product information clearly?</td></tr>
+<tr><td>Shop plus online store</td><td>Stock sync, click and collect</td><td>Can stock and orders stay in sync across channels?</td></tr>
+</tbody>
+</table>
+
+<h2>What to check when choosing an ecommerce agency in Bristol</h2>
+<h3>Platform recommendation</h3>
+<p>Ask which platform they recommend and why. For most small and growing brands, the choice is between Shopify and WooCommerce. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify versus WooCommerce comparison</a> sets out the trade-offs. An agency that only ever recommends one platform may be suiting itself rather than you. If you are already larger and outgrowing your setup, ask about <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration</a>.</p>
+<h3>Product data and structure</h3>
+<p>Products, variants, collections and filters are the backbone of the store. Ask how the agency will structure categories, import products and set up the data that Google Shopping needs. Poor product data causes problems for years.</p>
+<h3>Checkout, payments and delivery</h3>
+<p>Ask how they will set up payment options such as card, wallet payments and buy-now-pay-later services like Klarna or Clearpay, and how delivery rates and couriers such as Royal Mail, Evri or DPD will be handled. Also check VAT settings and how your returns policy will be presented.</p>
+<h3>SEO from day one</h3>
+<p>A new store should be built with search in mind: clear category pages, clean URLs, product descriptions you have written yourself and proper redirects if you are moving from an old site. Our <a href="/blog/ecommerce-seo-agency-uk/">guide to ecommerce SEO</a> explains what this involves.</p>
+<h3>Speed and mobile experience</h3>
+<p>Most shoppers will see your store on a phone. Ask how the agency keeps pages fast, especially with large lifestyle images and apps added over time.</p>
+<h3>Support after launch</h3>
+<p>Launch is the start, not the end. Ask what support is included, how quickly they respond to problems, and whether they can help with growth through ads, SEO and conversion improvements. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers the improvements that often follow launch.</p>
+
+<h2>Red flags</h2>
+<ul>
+<li>A quote with no discovery or questions about your products and operations.</li>
+<li>No plan for redirects when replacing an existing store.</li>
+<li>Agency-owned accounts, domains or themes you cannot take with you.</li>
+<li>Heavy reliance on paid apps without explaining the ongoing costs.</li>
+<li>Promises of specific sales figures after launch.</li>
+</ul>
+
+<h2>Remote versus local: building a Bristol store with a remote agency</h2>
+<p>It is natural to want an agency close by, especially when your brand is rooted in a place. But ecommerce work happens online: design, build, product setup, testing and marketing. What matters is how well the agency understands your brand and your customers.</p>
+<table>
+<thead><tr><th>Stage</th><th>How it works remotely</th></tr></thead>
+<tbody>
+<tr><td>Discovery</td><td>Video calls, a questionnaire, and a look at your current store, social channels and best-selling products</td></tr>
+<tr><td>Design</td><td>Shared designs to review and comment on</td></tr>
+<tr><td>Build</td><td>A private staging store you can click through before launch</td></tr>
+<tr><td>Content and photography</td><td>You supply product photos and copy, or the agency advises on what is needed</td></tr>
+<tr><td>Launch and support</td><td>Agreed launch checklist, then email and call support</td></tr>
+</tbody>
+</table>
+<p>The things that make a brand feel local, like your story, photography and tone of voice, come from you. A good agency's job is to give them a strong, fast home and help more people find them. A Bristol-based agency may be easier to meet in person, and that is a fair preference, but it is not a guarantee of a better store.</p>
+
+<h2>Costs and timelines</h2>
+<p>Ecommerce costs depend on platform, number of products, design complexity and integrations. Our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs in the UK</a> covers the details.</p>
+<p>At Prism Works Studio, an ecommerce site typically costs £1,500 to £3,500, as shown on our <a href="/pricing/">pricing page</a>, and takes five to twelve weeks depending on scope. Ongoing growth retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with any ad spend paid separately.</p>
+
+<h2>How Prism Works Studio works with Bristol brands</h2>
+<p>Through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, we build and improve online stores for businesses across the UK, working remotely. A typical project includes:</p>
+<ol>
+<li>Discovery: products, customers, operations, delivery and current platform.</li>
+<li>Platform choice and site structure, including categories and filters.</li>
+<li>Design and build on a staging site you can review.</li>
+<li>Product setup, payments, delivery, VAT and analytics.</li>
+<li>SEO foundations and redirects if replacing an old store.</li>
+<li>Launch, then optional growth support through SEO, Google Shopping and social ads.</li>
+</ol>
+<p>Our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains more about how we work with online retailers. We do not claim Bristol clients or local results; we would rather show you how we would approach your store.</p>
+
+<h2>Growing sales after launch</h2>
+<p>For many independent brands, the hardest part is not building the store but getting steady traffic to it. Once the store is live, the usual growth channels are:</p>
+<ul>
+<li><strong>SEO:</strong> category and product pages that rank for what shoppers search, plus helpful guides such as gift ideas or care advice. Results typically build over three to six months.</li>
+<li><strong>Google Shopping:</strong> product ads that show your images and prices in search results. Clean product data is essential, and our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> explains how it works.</li>
+<li><strong>Social ads:</strong> Meta, TikTok and YouTube ads suit visual, story-led products and help introduce new customers to the brand.</li>
+<li><strong>Email:</strong> welcome messages, abandoned basket reminders and product launches to turn first-time buyers into repeat customers.</li>
+</ul>
+<p>Start with one or two channels that match your products and budget rather than trying everything at once. A food or coffee brand with repeat purchase potential may get most from email and subscriptions; a fashion brand with strong imagery may lean on Shopping and social ads. Whatever you choose, make sure tracking is working before you spend, so every pound can be measured.</p>
+<p>Plan ahead for seasonal peaks too. Christmas, Black Friday and Mother's Day can make up a big share of the year's sales for gift and homeware brands, so stock, delivery cut-off dates and campaigns should be ready weeks in advance.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an ecommerce agency in Bristol?</h3>
+<p>Look for an agency that asks about your products and operations before quoting, explains its platform recommendation, plans for SEO and redirects, and offers clear support after launch. Compare written proposals side by side.</p>
+<h3>Do I need a Bristol-based ecommerce agency?</h3>
+<p>No. Store design, build and marketing are done online, so a remote UK agency can deliver the same work using video calls and a staging site. Choose local if in-person meetings are important to you.</p>
+<h3>Does Prism Works Studio have a Bristol office?</h3>
+<p>No. We are a UK agency working remotely with businesses anywhere in the UK, including Bristol.</p>
+<h3>Should a small Bristol brand use Shopify or WooCommerce?</h3>
+<p>Many small brands find Shopify simpler to run, while WooCommerce offers more control for those already on WordPress. The right choice depends on your products, team and budget.</p>
+<h3>How long does it take to build an online store?</h3>
+<p>At Prism Works Studio, ecommerce projects typically take five to twelve weeks depending on product numbers, design and integrations.</p>
+<h3>How much does an ecommerce agency in Bristol cost?</h3>
+<p>Costs vary by scope. Prism Works Studio's ecommerce sites typically cost £1,500 to £3,500, with optional monthly growth retainers from £350.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-birmingham',
+    seoTitle: 'SEO Agency Birmingham: A Buyer\'s Guide for Local Firms',
+    title: 'SEO Agency Birmingham: A Buyer\'s Guide for West Midlands Businesses',
+    description: 'Looking for an SEO agency in Birmingham? See what to check for B2B, trade and service firms, how to compare proposals, typical costs and whether remote works.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>The best SEO agency for a Birmingham business is one that understands who your buyers are, often other businesses across the UK, and builds pages that answer the specific searches those buyers make, then reports on enquiries rather than rankings. Being based in Birmingham is not a substitute for that, so this guide focuses on how to judge agencies on substance.</p>
+<p>Prism Works Studio is a UK agency that works remotely with businesses anywhere in the UK, including Birmingham and the wider West Midlands. We do not have a Birmingham office, and we have written this guide to help you choose well whoever you hire.</p>
+
+<h2>The Birmingham and West Midlands business mix</h2>
+<p>Birmingham sits at the heart of a region with a long industrial history and a broad modern economy. Alongside the city centre's professional and financial services firms, the wider West Midlands has a large number of manufacturers, engineering firms, distributors, trade suppliers and family-run businesses, many of which sell across the UK and abroad.</p>
+<p>That shapes SEO in a few important ways:</p>
+<ul>
+<li><strong>B2B searches are often technical.</strong> A buyer might search for a specific process, material, standard or part rather than a broad service. Those searches can be low in volume but high in value.</li>
+<li><strong>Location is sometimes irrelevant.</strong> A precision engineering firm in the Black Country may want buyers from anywhere in the UK, not just Birmingham.</li>
+<li><strong>Local still matters for many.</strong> Trades, clinics, solicitors, restaurants and retailers need visibility in Birmingham's neighbourhoods and surrounding towns such as Solihull, Sutton Coldfield, Wolverhampton and Walsall.</li>
+</ul>
+<table>
+<thead><tr><th>Business type</th><th>Who searches</th><th>Pages that usually matter most</th></tr></thead>
+<tbody>
+<tr><td>Manufacturing and engineering</td><td>Procurement teams, engineers, buyers UK-wide</td><td>Capability pages, process and material pages, case-style explainers, contact and quote pages</td></tr>
+<tr><td>Distributors and trade suppliers</td><td>Trade buyers, installers</td><td>Product and category pages, stock and delivery information</td></tr>
+<tr><td>Professional services</td><td>Businesses and individuals in the region</td><td>Service pages, expertise content, local listings</td></tr>
+<tr><td>Local services and trades</td><td>Homeowners and businesses nearby</td><td>Google Business Profile, area pages, reviews</td></tr>
+<tr><td>Hospitality and retail</td><td>Residents and visitors</td><td>Map results, menus, events, booking and opening hours</td></tr>
+</tbody>
+</table>
+<p>If most of your buyers are businesses, our guide to <a href="/blog/b2b-seo-uk/">B2B SEO in the UK</a> and our <a href="/sectors/b2b/">B2B sector page</a> explain how we approach long sales cycles.</p>
+
+<h2>What to check before hiring an SEO agency in Birmingham</h2>
+<h3>Do they understand technical buyers?</h3>
+<p>For manufacturers and specialist suppliers, good SEO content reads like it was written by someone who understands the product. Ask the agency how they would gather technical detail from your team, and how they make sure pages are accurate. The best results usually come from short interviews with your engineers or sales team, turned into clear pages.</p>
+<h3>Will they audit before they quote?</h3>
+<p>Older industrial websites often have hidden problems: outdated platforms, duplicate pages, PDFs instead of web pages and slow load times. A proper audit should find these first. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what to expect.</p>
+<h3>Can they plan a redesign without losing rankings?</h3>
+<p>Many West Midlands firms are due a website refresh. If a redesign is coming, your SEO agency needs to be involved early. Read our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> before you start.</p>
+<h3>How will they measure success?</h3>
+<p>For a B2B firm, one good enquiry can be worth more than a thousand visits. Ask how the agency will track quote requests, calls and emails, and how it will connect them to organic search. Proper <a href="/blog/ga4-setup-uk/">GA4 setup</a> is usually part of this.</p>
+<h3>What are they not telling you?</h3>
+<p>Ask directly: what will not work for us? An agency willing to tell you that a broad keyword is out of reach, or that a section of your site needs rewriting, is usually more trustworthy than one that agrees with everything.</p>
+
+<h2>How to compare SEO proposals</h2>
+<p>Proposals are hard to compare when every agency uses different words. Ask each shortlisted agency to answer the same questions in writing:</p>
+<ol>
+<li>What are the three biggest problems on our site today?</li>
+<li>Which searches or topics would you target first, and why?</li>
+<li>What will you deliver each month, in specific terms?</li>
+<li>How will you report on enquiries and sales?</li>
+<li>What is the minimum term and notice period?</li>
+<li>Who owns the content, data and accounts?</li>
+</ol>
+<p>Then put the answers side by side. The differences usually become obvious. For more on this, see our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a>.</p>
+
+<h2>Remote or local: does it matter for Birmingham SEO?</h2>
+<p>For many Birmingham firms, especially those selling nationally, the location of the agency makes very little difference to the outcome. SEO work is done online, and the same tools and data are available everywhere.</p>
+<table>
+<thead><tr><th>Question</th><th>What really decides it</th></tr></thead>
+<tbody>
+<tr><td>Will they understand our products?</td><td>Their process for learning from your team, not their address</td></tr>
+<tr><td>Will they know our local area?</td><td>Research, search data and your own knowledge of your patch</td></tr>
+<tr><td>Will communication be easy?</td><td>A fixed monthly call, shared reporting and quick replies</td></tr>
+<tr><td>Will we see them in person?</td><td>Easier with a local agency; remote agencies mostly use video calls</td></tr>
+<tr><td>Will the SEO work be better?</td><td>The skill of the team, wherever they are</td></tr>
+</tbody>
+</table>
+<p>Some teams, particularly in traditional industries, prefer meeting in person, and that is a perfectly reasonable preference. If it matters to you, include it in your shortlist criteria. If it does not, widening your search beyond Birmingham gives you more choice.</p>
+<p>A practical tip for remote working with technical firms: record a short video walkthrough of your products or processes, or let the agency sit in on a call with your sales team. It saves weeks of back and forth.</p>
+
+<h2>Costs for SEO in Birmingham</h2>
+<p>SEO fees vary with how much content, technical work and link earning is needed. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> covers the usual models in more detail.</p>
+<p>Prism Works Studio's retainers are published on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Any ad spend is separate. SEO results typically take three to six months.</p>
+
+<h2>How Prism Works Studio approaches it</h2>
+<p>Through our <a href="/services/seo-geo/">SEO and GEO service</a>, we work remotely with businesses across the UK. For a Birmingham or West Midlands firm, our process usually looks like this:</p>
+<ul>
+<li>Audit the site, competitors and any local listings.</li>
+<li>Agree whether your focus is local, national or both.</li>
+<li>Fix technical issues and restructure key service or product pages.</li>
+<li>Build specific pages for the processes, products and services buyers search for.</li>
+<li>Structure content so it can be understood and cited in AI answers as well as Google.</li>
+<li>Report monthly, in plain English, on enquiries and progress.</li>
+</ul>
+<p>We will not claim Birmingham clients or Birmingham results we do not have. We would rather show you exactly how we would approach your site.</p>
+
+<h2>Common SEO problems on West Midlands business websites</h2>
+<p>When businesses in traditional industries ask for SEO help, the same issues tend to come up, wherever they are based. It is worth checking your own site for these before you speak to any agency:</p>
+<ul>
+<li><strong>One page for everything.</strong> A single "services" page listing ten capabilities cannot rank for any of them. Each main service or process usually needs its own page.</li>
+<li><strong>Key information locked in PDFs.</strong> Brochures and specification sheets are useful downloads, but search engines and AI tools understand web pages far better.</li>
+<li><strong>Vague wording.</strong> Phrases like "quality solutions" tell buyers nothing. Specific materials, tolerances, sectors served and lead times are what technical buyers look for.</li>
+<li><strong>No clear next step.</strong> Many sites hide the quote form or phone number. Every key page should make it easy to get in touch.</li>
+<li><strong>Old or missing tracking.</strong> Without working analytics, you cannot tell which pages bring enquiries.</li>
+</ul>
+<p>None of these need a big budget to fix, and fixing them often makes every later piece of SEO work more effective.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in Birmingham?</h3>
+<p>Ask each agency the same questions about what they would fix, what they would target and how they would report, then compare the answers side by side. Favour agencies that audit before quoting and are honest about what will not work.</p>
+<h3>Is a Birmingham-based SEO agency better than a remote one?</h3>
+<p>Not automatically. Location helps with in-person meetings, but the quality of SEO depends on the team's skill and process. Many Birmingham firms sell nationally, which makes location even less relevant.</p>
+<h3>Does Prism Works Studio have a Birmingham office?</h3>
+<p>No. We are a UK agency working remotely with businesses anywhere in the UK, including Birmingham and the West Midlands.</p>
+<h3>Does SEO work for manufacturers and engineering firms?</h3>
+<p>Yes, often very well. Technical buyers search for specific processes, materials and capabilities, and clear, accurate pages on those topics can attract high-value enquiries even with modest search volumes.</p>
+<h3>How long does SEO take to work?</h3>
+<p>Results typically build over three to six months. Competitive national searches can take longer.</p>
+<h3>How much does an SEO agency in Birmingham cost?</h3>
+<p>Prices vary. Prism Works Studio's retainers are £350, £750 or £1,500 a month depending on scope, with any ad spend paid separately.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-london',
+    seoTitle: 'SEO Agency London: How to Choose the Right One',
+    title: 'Choosing an SEO Agency in London: A Practical Guide for London Businesses',
+    description: 'Choosing an SEO agency in London? Judge them on strategy, reporting and fit with your market, not postcode. What to check, what it costs and how remote works.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>The right SEO agency for a London business is one that understands how crowded London search results are, picks battles you can actually win, and reports on enquiries and revenue rather than vanity rankings. Where the agency sits matters far less than how it works, so this guide focuses on what to check before you sign anything.</p>
+<p>Prism Works Studio is a UK agency that works remotely with businesses across the country, including London. We do not have a London office and we are not going to pretend otherwise. What we can offer is a clear view of what good SEO looks like for a London business, and the questions that separate a strong agency from an expensive one.</p>
+
+<h2>Why SEO in London is different</h2>
+<p>London is not one market. It is dozens of overlapping ones. A dentist in Islington competes with clinics in Camden and King's Cross, not with one in Croydon. A B2B software firm in Shoreditch competes nationally, and often internationally, regardless of its address. A restaurant in Soho is fighting for searches made by people who may be standing on the same street.</p>
+<p>That mix creates three things you will not find to the same degree elsewhere in the UK:</p>
+<ul>
+<li><strong>Very dense local competition.</strong> For many service searches, the map results in central London are packed with businesses within a few hundred metres of each other. Small differences in your <a href="/blog/google-business-profile-uk/">Google Business Profile</a>, reviews and location pages matter a great deal.</li>
+<li><strong>Well-funded national competitors.</strong> Many national brands and head offices sit in London, which means they also target London searches with large content and link budgets.</li>
+<li><strong>Neighbourhood-level intent.</strong> People search for "accountant Clapham" or "physio near Canary Wharf", not just "London". Borough and neighbourhood phrasing can be more valuable than the city head term.</li>
+</ul>
+<p>A good agency will not promise you page one for "London" plus your service in a few weeks. It will show you where the realistic openings are.</p>
+
+<h2>The London business mix and what it means for SEO</h2>
+<p>Different kinds of London business need very different SEO plans. Before you speak to any agency, work out which of these describes you best.</p>
+<table>
+<thead><tr><th>Type of London business</th><th>Main SEO focus</th><th>What to ask an agency</th></tr></thead>
+<tbody>
+<tr><td>Professional services (law, accountancy, consultancy)</td><td>Service pages, expertise content, local map results by area</td><td>How will you show experience and trust on the page?</td></tr>
+<tr><td>B2B and tech firms</td><td>National or international topics, comparison and use-case pages</td><td>How do you measure pipeline, not just traffic?</td></tr>
+<tr><td>Hospitality, retail and venues</td><td>Map pack, reviews, menus, events and booking pages</td><td>How will you improve direct bookings and calls?</td></tr>
+<tr><td>Clinics and health practices</td><td>Local pages, treatment pages, careful compliant wording</td><td>How do you handle claims that need clinical sign-off?</td></tr>
+<tr><td>Ecommerce brands</td><td>Category pages, product data, technical SEO</td><td>How do you handle filters, duplicates and stock changes?</td></tr>
+</tbody>
+</table>
+<p>If you are a B2B firm, our guide to <a href="/blog/b2b-seo-uk/">B2B SEO in the UK</a> goes deeper on long sales cycles. If you depend on walk-ins or map results, start with our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+
+<h2>What to check when choosing an SEO agency in London</h2>
+<p>There is no shortage of agencies that will happily take a London retainer. These are the checks that matter.</p>
+<h3>1. Do they start with an audit and a plan?</h3>
+<p>A proper agency looks at your site before quoting. That means technical health, content gaps, the competitors actually ranking for your searches, and your local listings. If someone quotes a fixed package without looking at your site, they are selling a product, not a strategy. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what a reasonable first review covers.</p>
+<h3>2. Can they explain where you can win?</h3>
+<p>In London, the honest answer is often "not the city head term, at least not yet". A good agency will point you towards neighbourhood searches, specific services and question-style searches where you have a real chance, then build from there.</p>
+<h3>3. What do they report on?</h3>
+<p>Rankings alone are not a result. Ask to see a sample report. It should cover organic enquiries, calls, form fills or sales, alongside visibility. If they cannot connect SEO to leads, you will struggle to judge whether the fee is worth it.</p>
+<h3>4. Who actually does the work?</h3>
+<p>Ask who writes the content, who handles technical fixes and who you speak to each month. You want direct access to the people doing the work, not a chain of account managers.</p>
+<h3>5. Do they cover AI search?</h3>
+<p>More London buyers now research through AI answers as well as Google. Ask whether the agency thinks about <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>, meaning content that is structured and clear enough to be cited by AI tools.</p>
+<h3>6. What are the contract terms?</h3>
+<p>Watch for long lock-ins, unclear deliverables and ownership of content or accounts. Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> lists the clauses worth reading twice.</p>
+
+<h2>Red flags to watch for</h2>
+<ul>
+<li>Guaranteed rankings or guaranteed first-page results.</li>
+<li>Large numbers of cheap links with no explanation of where they come from.</li>
+<li>Reports that only show rankings for terms nobody searches.</li>
+<li>Refusing to tell you what has changed on your site each month.</li>
+<li>Pushing you into a long contract before any work has been done.</li>
+</ul>
+
+<h2>Remote versus local: do you need an agency in London?</h2>
+<p>Many London businesses assume they need an agency with a London address. In practice, almost all SEO work happens on screens: auditing, writing, fixing pages, building links and reading data. Being in the same city does not make any of that better.</p>
+<table>
+<thead><tr><th>Factor</th><th>London-based agency</th><th>Remote UK agency</th></tr></thead>
+<tbody>
+<tr><td>Face-to-face meetings</td><td>Easier to arrange</td><td>Usually video calls</td></tr>
+<tr><td>Local knowledge</td><td>May know areas well</td><td>Built through research and your input</td></tr>
+<tr><td>Overheads reflected in fees</td><td>Often higher, given central London costs</td><td>Often lower</td></tr>
+<tr><td>Quality of SEO work</td><td>Depends on the team</td><td>Depends on the team</td></tr>
+<tr><td>Speed of communication</td><td>Depends on process</td><td>Depends on process</td></tr>
+</tbody>
+</table>
+<p>What makes remote work well is structure: an agreed monthly plan, a shared report, a fixed call and quick replies by email. Local knowledge matters for neighbourhood targeting, but a good agency will get that from research, search data and from you. You know your customers and your patch better than any agency will.</p>
+<p>That said, if in-person meetings genuinely matter to your team, it is fair to make that a requirement. Just be clear that you are paying for convenience, not for better rankings.</p>
+<p>If you are still weighing up the type of help you need, it is worth comparing an SEO agency with a freelancer before you decide.</p>
+
+<h2>What does an SEO agency in London cost?</h2>
+<p>London agency fees vary widely, and higher fees do not always mean better work. What matters is what is included and whether it fits the size of the opportunity. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> breaks down the common pricing models.</p>
+<p>For reference, Prism Works Studio publishes its retainers openly on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Any ad spend is paid separately. SEO results typically take three to six months to build, and that applies in London as much as anywhere.</p>
+
+<h2>How we approach SEO for London businesses</h2>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> follows the same principles for every client, adjusted for the market:</p>
+<ol>
+<li><strong>Audit:</strong> technical health, content, competitors and local listings.</li>
+<li><strong>Focus:</strong> choose the services, areas and topics where you can realistically compete.</li>
+<li><strong>Fix:</strong> technical issues and weak pages first, because they often hold everything else back.</li>
+<li><strong>Build:</strong> service and area pages, helpful guides and content structured for AI answers.</li>
+<li><strong>Earn authority:</strong> relevant mentions and links rather than bulk link buying.</li>
+<li><strong>Report:</strong> monthly, in plain English, tied to enquiries and sales.</li>
+</ol>
+<p>We work remotely, using video calls, shared documents and a regular reporting rhythm. That suits busy London teams who would rather not travel to a meeting to hear about a report they could read in five minutes.</p>
+
+<h2>Preparing before you speak to agencies</h2>
+<p>You will get better proposals if you have a few things ready:</p>
+<ul>
+<li>Your main services and the areas of London you most want to win.</li>
+<li>Your best customers and how they usually find you today.</li>
+<li>Access to Google Search Console and analytics, or a note that they are not set up.</li>
+<li>A rough monthly budget and how long you can commit before judging results.</li>
+<li>Any past SEO work, especially links bought or content outsourced.</li>
+</ul>
+<p>For a wider view of the selection process, read our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in London?</h3>
+<p>Look for an agency that audits your site before quoting, explains where you can realistically rank, reports on enquiries and sales, and gives you direct access to the people doing the work. Location matters far less than process and honesty.</p>
+<h3>Do I need an SEO agency based in London?</h3>
+<p>Not necessarily. SEO work is done online, so a remote UK agency can do the same work. If in-person meetings are important to you, factor that in, but it does not change the quality of the SEO itself.</p>
+<h3>Does Prism Works Studio have a London office?</h3>
+<p>No. Prism Works Studio is a UK agency that works remotely with businesses anywhere in the UK, including London, using video calls, shared reports and a regular monthly rhythm.</p>
+<h3>How long does SEO take for a London business?</h3>
+<p>SEO results typically take three to six months to build. Highly competitive London searches can take longer, which is why it often makes sense to target neighbourhood and specific service searches first.</p>
+<h3>Should I target "London" or specific areas?</h3>
+<p>Usually both, but specific areas and services often give quicker, more relevant wins. People frequently search by borough, neighbourhood or landmark, and those searches face fewer competitors than the city-wide term.</p>
+<h3>How much does an SEO agency in London cost?</h3>
+<p>Fees vary widely. Prism Works Studio's retainers start at £350 a month for Launch, with Growth at £750 and Scale at £1,500 a month. Compare what each agency includes rather than the headline price.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-manchester',
+    seoTitle: 'SEO Agency Manchester: What to Check Before You Hire',
+    title: 'Choosing an SEO Agency in Manchester: What to Check Before You Hire',
+    description: 'Hiring an SEO agency in Manchester? Check how they handle Greater Manchester towns, national reach and reporting, plus costs and remote options.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A good SEO agency for a Manchester business is one that can win searches across Greater Manchester's towns while also competing nationally where your market demands it, and that reports on leads and sales rather than rankings alone. The agency's postcode is far less important than its process, so this guide covers what to check and how remote working compares.</p>
+<p>Prism Works Studio is a UK agency that works remotely with businesses anywhere in the UK, Manchester included. We do not have a Manchester office. This guide is here to help you choose well, whichever agency you pick.</p>
+
+<h2>What makes SEO in Manchester distinctive</h2>
+<p>Manchester is the centre of a city region made up of ten boroughs, each with its own towns and high streets. Someone in Bolton, Wigan or Oldham often searches with their own town's name, not "Manchester". That has a big effect on how you plan local SEO.</p>
+<p>At the same time, Manchester has a large and growing base of businesses that sell well beyond the region: online retailers, fashion and lifestyle brands, digital and tech firms, and professional services that serve clients nationally. For them, the city is where they are based, not where their customers are.</p>
+<p>So a Manchester SEO plan usually has to answer two questions:</p>
+<ul>
+<li><strong>Local:</strong> which towns and areas do we need to be visible in, and how do we earn map and local results there?</li>
+<li><strong>National:</strong> which searches across the UK are we competing for, and what content and authority do we need?</li>
+</ul>
+<p>An agency that only talks about one of these may be missing half of your opportunity.</p>
+
+<h2>The Manchester business mix</h2>
+<table>
+<thead><tr><th>Type of business</th><th>Typical search reach</th><th>SEO priorities</th></tr></thead>
+<tbody>
+<tr><td>Online retailers and DTC brands</td><td>National</td><td>Category pages, product data, technical SEO, site speed</td></tr>
+<tr><td>Digital, media and tech firms</td><td>National or wider</td><td>Service, use-case and comparison pages, thought-leadership content</td></tr>
+<tr><td>Trades and home services</td><td>Several Greater Manchester towns</td><td>Google Business Profile, area pages, reviews</td></tr>
+<tr><td>Hospitality and leisure</td><td>City centre and neighbourhoods</td><td>Map results, menus, events and direct booking pages</td></tr>
+<tr><td>Professional services</td><td>Regional and national</td><td>Expertise content, trust signals, service pages</td></tr>
+</tbody>
+</table>
+<p>If you sell online, our <a href="/blog/ecommerce-seo-agency-uk/">guide to ecommerce SEO agencies</a> goes into category structure and product pages in detail, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> sets out how we work with online retailers.</p>
+
+<h2>What to check when hiring an SEO agency in Manchester</h2>
+<h3>Can they handle multi-town targeting properly?</h3>
+<p>Many Greater Manchester businesses serve several towns. The lazy approach is to copy one page twenty times and swap the town name. Search engines treat that as thin content. Ask the agency how it would build genuinely useful area pages: real information about the service in that area, relevant examples you can stand behind, and clear contact details. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to do this well.</p>
+<h3>Do they understand your reach?</h3>
+<p>If you sell nationally, an agency obsessed with "Manchester" keywords may be pointing you at the wrong target. Ask them to show which searches they would prioritise and why.</p>
+<h3>How do they handle technical SEO?</h3>
+<p>Fast-growing Manchester brands often have sites that were built quickly, with apps, plugins and redesigns layered on top. A good agency will check crawlability, indexing, speed and site structure before writing a single blog post. See our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> for one common area to review.</p>
+<h3>What does a monthly report look like?</h3>
+<p>Ask for a sample. You want to see organic enquiries, sales or calls, alongside visibility and the work completed that month. A list of ranking positions on its own tells you very little.</p>
+<h3>How do they earn links and mentions?</h3>
+<p>Ask where links will come from. Relevant industry sites, genuine local organisations and digital PR are worth far more than bulk links. Our <a href="/blog/digital-pr-link-building-uk/">digital PR and link building guide</a> explains the difference.</p>
+<h3>Do they think about AI search?</h3>
+<p>Buyers increasingly ask AI tools for recommendations and answers. Ask whether the agency structures content so that it can be cited, which is the basis of <a href="/blog/geo-agency-uk/">generative engine optimisation</a>.</p>
+
+<h2>Questions to ask in a first call</h2>
+<ol>
+<li>What would you fix first on our site, and why?</li>
+<li>Which three searches do you think we can realistically win in the next six months?</li>
+<li>Who will do the writing, the technical work and the reporting?</li>
+<li>How will you prove that SEO is producing enquiries or sales?</li>
+<li>What happens to the content and accounts if we stop working together?</li>
+<li>What is the notice period?</li>
+</ol>
+<p>If the answers are vague, or the agency promises guaranteed rankings, keep looking.</p>
+
+<h2>Remote versus local: does a Manchester agency matter?</h2>
+<p>There is a natural pull towards hiring locally, and for some businesses it is the right choice. But it helps to separate what location actually changes from what it does not.</p>
+<table>
+<thead><tr><th>Consideration</th><th>Manchester-based agency</th><th>Remote UK agency</th></tr></thead>
+<tbody>
+<tr><td>Meeting in person</td><td>Straightforward</td><td>Mostly video calls</td></tr>
+<tr><td>Knowledge of local towns</td><td>May be built in</td><td>Built from search data, research and your input</td></tr>
+<tr><td>National SEO capability</td><td>Depends on the team</td><td>Depends on the team</td></tr>
+<tr><td>Working hours and responsiveness</td><td>Depends on process</td><td>Depends on process</td></tr>
+<tr><td>Access to tools and data</td><td>Same tools either way</td><td>Same tools either way</td></tr>
+</tbody>
+</table>
+<p>For a Manchester business selling nationally, location barely matters: your competitors could be anywhere. For a trade or clinic serving a handful of towns, local knowledge helps, but most of it comes from you. You know which towns bring the best jobs, which areas you do not cover and what customers ask about. A good remote agency will get that from you early and turn it into a plan.</p>
+<p>Remote works best when there is a fixed monthly call, a shared task list, a clear report and quick replies. If those are in place, the distance is rarely noticed.</p>
+
+<h2>How much does an SEO agency in Manchester cost?</h2>
+<p>Fees vary with scope, competition and how much content and technical work is needed. Read our <a href="/blog/how-much-does-seo-cost-uk/">UK SEO cost guide</a> for the common models.</p>
+<p>Prism Works Studio's retainers are listed on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend, where relevant, is paid separately. SEO results typically take three to six months to show, so be wary of any plan that promises much faster.</p>
+
+<h2>How Prism Works Studio works with Manchester businesses</h2>
+<p>We work remotely with businesses across the UK through our <a href="/services/seo-geo/">SEO and GEO service</a>. For a Manchester business, that usually means:</p>
+<ul>
+<li>An audit covering technical health, content, competitors and local listings.</li>
+<li>A clear split between local targets across your towns and national targets.</li>
+<li>Technical fixes first, then service, area and category pages, then supporting guides.</li>
+<li>Content written to be clear enough for both Google and AI answers.</li>
+<li>A monthly report in plain English, focused on enquiries and sales.</li>
+</ul>
+<p>We do not claim to have Manchester clients or Manchester results. We can explain how we would approach your site, and you can judge whether that approach makes sense.</p>
+
+<h2>Before you sign</h2>
+<p>Gather access to Search Console and analytics, a list of your services and the towns you serve, and a realistic budget. Agree what success looks like at three and six months, and get the deliverables written down. That way you can hold any agency, local or remote, to account.</p>
+<p>It also helps to be completely honest, from the very first call, about your own capacity. SEO goes faster when someone on your side can answer questions, approve pages and supply details such as photos, service information and the towns you actually cover. If nobody has time for that, say so early, and choose a plan where the agency does more of the writing and preparation for you. A realistic, modest plan that gets delivered every single month beats an ambitious one that stalls waiting for approvals.</p>
+
+<h2>FAQs</h2>
+<h3>How do I find a good SEO agency in Manchester?</h3>
+<p>Shortlist agencies that audit before quoting, can explain both local and national targeting, show sample reports tied to enquiries, and offer reasonable contract terms. Then compare their plans for your site, not their sales pitches.</p>
+<h3>Do I need an SEO agency in Manchester, or can it be remote?</h3>
+<p>Remote works well for most SEO, because the work is done online. If in-person meetings matter to you, that is a fair requirement, but it does not change the quality of the work.</p>
+<h3>Does Prism Works Studio have a Manchester office?</h3>
+<p>No. We are a UK agency working remotely with businesses anywhere in the UK, including Greater Manchester.</p>
+<h3>Should I target Manchester or individual towns?</h3>
+<p>Often both. Many people search using their own town, such as Stockport or Bolton, so useful area pages for the towns you really serve can win searches the city term would not.</p>
+<h3>How long does SEO take in Manchester?</h3>
+<p>Typically three to six months for results to build, sometimes longer for competitive national searches.</p>
+<h3>What does an SEO agency in Manchester cost?</h3>
+<p>It varies. Prism Works Studio's retainers are £350, £750 or £1,500 a month depending on scope. Compare deliverables rather than headline prices.</p>
+`,
+  },
 ];
