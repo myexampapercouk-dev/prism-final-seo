@@ -3478,4 +3478,565 @@ module.exports = [
 <p>It can be very secure when hosted well, kept updated and built with a short list of reputable plugins. Most problems come from neglected updates.</p>
 `,
   },
+  {
+    slug: 'digital-pr-agency-uk',
+    seoTitle: 'Digital PR Agency UK: Tactics, Scope and Results',
+    title: 'Choosing a Digital PR Agency in the UK: Tactics, Scope and How Results Are Judged',
+    description: 'A good digital PR agency in the UK earns relevant coverage and links through stories journalists want. Here is what\'s included and how to judge results.',
+    date: '2026-10-30',
+    category: 'Digital PR',
+    related: ['/services/digital-pr-content/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>A digital PR agency in the UK creates stories, data and expert commentary that journalists and publishers want to cover, then earns links and brand mentions from that coverage. The right agency is the one whose tactics are transparent, whose coverage is relevant to your customers and whose reporting ties results back to search visibility and enquiries.</p>
+<p>Digital PR sits between traditional press relations and SEO. It still relies on pitching journalists, but the goal is measurable: authoritative links, branded search, and mentions that help both Google and AI assistants understand who you are. This guide explains the tactics, what a typical scope includes, how to judge results and the red flags to watch for before you sign anything.</p>
+
+<h2>What a digital PR agency actually does</h2>
+<p>At its core, a digital PR agency turns your expertise into something a newsroom can use. That might be an original survey, an analysis of public data, a reactive comment on a breaking story, or a visual asset a publisher can embed. Each piece is pitched to journalists who cover your sector, and the resulting articles link back to a relevant page on your site.</p>
+<p>The link is only part of the value. Coverage in trusted UK publications puts your name in front of potential customers, supports brand searches and creates the kind of third-party mentions that generative search tools draw on when they recommend businesses. We cover how those mentions feed AI answers in our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+<p>If you want the broader background on how PR-led links compare with other link acquisition methods, our earlier post on <a href="/blog/digital-pr-link-building-uk/">digital PR and link building in the UK</a> covers the fundamentals.</p>
+
+<h2>Common digital PR tactics</h2>
+<p>Most agencies use a blend of proactive and reactive work. Proactive campaigns take longer to build but can earn a cluster of coverage; reactive work is quicker and keeps a steady drip of mentions going between campaigns.</p>
+<table>
+<thead><tr><th>Tactic</th><th>How it works</th><th>Best for</th><th>Typical lead time</th></tr></thead>
+<tbody>
+<tr><td>Data-led campaigns</td><td>Original survey or analysis of public data (ONS, Land Registry, Companies House) turned into a news angle</td><td>National and trade coverage, high-authority links</td><td>4-8 weeks</td></tr>
+<tr><td>Reactive PR</td><td>Expert comment sent quickly in response to news or journalist requests</td><td>Steady mentions, expert positioning</td><td>Hours to days</td></tr>
+<tr><td>Expert commentary and thought leadership</td><td>Bylined articles or quotes from your specialists in trade titles</td><td>B2B, professional services, regulated sectors</td><td>2-4 weeks</td></tr>
+<tr><td>Creative and visual assets</td><td>Maps, tools, calculators or interactive pieces publishers embed</td><td>Broad consumer reach</td><td>6-10 weeks</td></tr>
+<tr><td>Regional and local PR</td><td>Localised data or stories for regional titles</td><td>Multi-location businesses, local SEO</td><td>2-6 weeks</td></tr>
+<tr><td>Link reclamation</td><td>Asking sites that mention you without a link to add one</td><td>Quick wins from existing coverage</td><td>Ongoing</td></tr>
+</tbody>
+</table>
+<p>For businesses with branches or service areas, regional angles pair well with the work in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>, because local press links and citations reinforce each other.</p>
+
+<h2>What should be included in a digital PR service</h2>
+<p>Scopes vary, but a serious digital PR service should cover the whole journey from idea to report. When you compare proposals, check that each of these stages is spelled out rather than implied.</p>
+<ul>
+<li><strong>Research and ideation:</strong> brainstorming angles that fit your brand, your audience and the current news agenda, with a clear rationale for why a journalist would care.</li>
+<li><strong>Asset creation:</strong> survey design, data analysis, copywriting and any landing page or visual needed to host the story on your site.</li>
+<li><strong>Media list building:</strong> relevant journalists and publications by sector and region, not a bulk list of every outlet.</li>
+<li><strong>Outreach and follow-up:</strong> personalised pitches, embargo handling and responses to journalist questions.</li>
+<li><strong>Coverage tracking:</strong> monitoring for linked and unlinked mentions, followed by reclamation where appropriate.</li>
+<li><strong>Reporting:</strong> what was earned, where, and how it connects to rankings, referral traffic and enquiries.</li>
+</ul>
+<p>Digital PR works best when it supports a wider plan. Coverage pointing at thin pages achieves little, so most agencies will also look at the content and technical health of the pages receiving links. Our <a href="/services/digital-pr-content/">digital PR and content service</a> is built around that joined-up approach, and it connects directly with our <a href="/services/seo-geo/">SEO and GEO work</a>.</p>
+
+<h2>How results are judged</h2>
+<p>Digital PR is easy to report badly. A huge "potential reach" number or a list of syndicated copies on low-quality sites can look impressive while doing very little. Better agencies report on measures that tie to commercial outcomes.</p>
+<table>
+<thead><tr><th>Metric</th><th>Why it matters</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Relevant referring domains</td><td>New, unique sites linking to you that your customers actually read</td><td>Counting syndicated duplicates as separate wins</td></tr>
+<tr><td>Coverage quality</td><td>Editorial placements in trusted national, regional or trade titles</td><td>Paid advertorials presented as earned coverage</td></tr>
+<tr><td>Brand mentions</td><td>Unlinked mentions still build recognition and AI visibility</td><td>Ignoring them entirely in reports</td></tr>
+<tr><td>Target page rankings</td><td>Shows whether links are lifting the pages that sell</td><td>Links all pointing at the homepage</td></tr>
+<tr><td>Referral traffic and branded search</td><td>Evidence that real people noticed the story</td><td>Expecting large spikes from every piece</td></tr>
+<tr><td>Enquiries and revenue</td><td>The commercial outcome that justifies the budget</td><td>Claiming direct attribution without evidence</td></tr>
+</tbody>
+</table>
+<p>Be realistic about timing. Campaigns can land within weeks, but the SEO impact of new links typically shows over three to six months, alongside other on-site work. A single campaign that fails to earn coverage is not unusual; an agency should explain why and what it will change next time.</p>
+
+<h2>Red flags when hiring a digital PR agency</h2>
+<ul>
+<li><strong>Guaranteed link numbers:</strong> editorial coverage cannot be guaranteed. A promise of a fixed number of links per month often means paid or low-quality placements.</li>
+<li><strong>No named publications in reporting:</strong> you should see every piece of coverage and the URL it sits on.</li>
+<li><strong>Pay-for-placement networks:</strong> sponsored posts sold as PR breach Google's spam policies if the links are not qualified, and can put your site at risk.</li>
+<li><strong>Irrelevant coverage:</strong> a link from a site with no connection to your sector rarely helps rankings or customers.</li>
+<li><strong>Opaque process:</strong> if you cannot see the pitch, the media list or the asset before it goes out, you cannot protect your brand.</li>
+</ul>
+<p>Many of these points apply to any agency relationship. Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> has a wider set of questions worth asking.</p>
+
+<h2>Digital PR agency checklist</h2>
+<p>Use this checklist when comparing UK digital PR agencies:</p>
+<ol>
+<li>Can they explain, in plain English, how their campaigns earn coverage without paying for it?</li>
+<li>Do they research your sector and existing coverage before proposing ideas?</li>
+<li>Will they share campaign concepts and pitches for approval before outreach?</li>
+<li>Do they build media lists by relevance rather than volume?</li>
+<li>Will they link coverage to specific pages that need authority, not just the homepage?</li>
+<li>Do they track unlinked mentions and attempt reclamation?</li>
+<li>Does reporting include every coverage URL, referring domains and target page rankings?</li>
+<li>Have they explained how they handle regulated topics, with sign-off resting with your compliance team where relevant?</li>
+<li>Are the scope, deliverables and notice period written down?</li>
+<li>Do they connect PR activity to your wider SEO and content plan?</li>
+</ol>
+
+<h2>How digital PR fits with SEO and content</h2>
+<p>Links amplify pages that already deserve to rank. If a site has crawl problems, slow templates or thin category pages, earned authority leaks away. That is why it is worth running a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> before investing heavily in outreach, and why content and PR plans should be built together. A good content marketing plan explains how linkable assets and helpful service pages support each other.</p>
+<p>Budget is the other practical question. Some businesses run digital PR as a standalone project; others fold it into a wider monthly retainer. You can see our published retainer tiers of £350, £750 and £1,500 a month on the <a href="/pricing/">pricing page</a>, along with what each includes, and our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> puts those numbers in context.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a digital PR agency in the UK?</h3>
+<p>Look for transparent tactics, examples of relevant editorial coverage, clear reporting on referring domains and target pages, and no guarantees of fixed link numbers. Ask to see how a campaign moves from idea to outreach and how they report what was earned.</p>
+<h3>What is the difference between digital PR and traditional PR?</h3>
+<p>Traditional PR focuses on reputation and media profile, often measured by coverage volume. Digital PR uses similar journalist relationships but aims for online coverage with links and mentions that improve search visibility, referral traffic and AI visibility.</p>
+<h3>How long does digital PR take to work?</h3>
+<p>A campaign can earn coverage within weeks of launch, but the SEO effect of new links usually builds over three to six months. Results depend on the strength of the story, the state of your site and how competitive your market is.</p>
+<h3>Can a digital PR agency guarantee links?</h3>
+<p>No reputable agency can guarantee editorial links, because journalists decide what they publish. Fixed link guarantees often point to paid placements or networks, which carry risk under Google's spam policies.</p>
+<h3>Is digital PR worth it for small businesses?</h3>
+<p>It can be, particularly with regional or trade angles and reactive commentary, which need less budget than national data campaigns. Small businesses usually see more benefit once their core pages and technical setup are solid.</p>
+<h3>Does digital PR help with AI search?</h3>
+<p>Yes, indirectly. Coverage and mentions on trusted sites help AI assistants recognise your brand and expertise, which can influence whether you are cited in AI answers. It works best alongside clear, well-structured content on your own site.</p>
+<p>If you are weighing up a digital PR agency and want a straight answer on whether it suits your business right now, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will talk through your goals, your current coverage and the options that make sense.</p>
+`,
+  },
+  {
+    slug: 'geo-agency-uk',
+    seoTitle: 'GEO Agency UK: Hiring for AI Search Visibility',
+    title: 'GEO Agency UK: What an AI Search Optimisation Agency Does and How to Hire One',
+    description: 'A GEO agency in the UK helps your brand get cited in AI answers from ChatGPT, Gemini and Google AI Overviews. Here is what it does and how to choose one.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/digital-pr-content/', '/pricing/'],
+    body: `
+<p>A GEO agency in the UK helps your business get mentioned, cited and recommended in AI-generated answers from tools such as ChatGPT, Gemini, Perplexity and Google AI Overviews. It does this by building on strong SEO foundations, then shaping your content, structured data and third-party reputation so AI systems can confidently use you as a source.</p>
+<p>If you want the definition and theory first, start with our explainer on <a href="/blog/what-is-generative-engine-optimisation/">what generative engine optimisation is</a>. This guide takes the practical, hiring angle: what a GEO agency actually delivers, how it differs from a standard SEO agency, what to ask before you sign, and how to judge whether the work is paying off.</p>
+
+<h2>What a GEO agency does</h2>
+<p>Generative engine optimisation sits on top of search engine optimisation. AI assistants still rely heavily on content they can crawl, understand and trust, so the work starts with the same basics: a technically healthy site and pages that answer real questions well. A GEO agency then adds a layer focused on how AI tools select, summarise and cite sources.</p>
+<p>Typical GEO services include:</p>
+<ul>
+<li><strong>AI visibility audit:</strong> checking which prompts in your market mention you, which mention competitors and which cite no one useful.</li>
+<li><strong>Answer-first content:</strong> restructuring key pages so the direct answer appears early, supported by clear headings, tables and FAQs.</li>
+<li><strong>Entity and brand consistency:</strong> making sure your business name, services, locations and descriptions match across your site, Google Business Profile, directories and social profiles.</li>
+<li><strong>Structured data:</strong> schema markup that clarifies your organisation, services, articles and FAQs.</li>
+<li><strong>Third-party mentions:</strong> digital PR, reviews and expert commentary that give AI tools independent evidence about you.</li>
+<li><strong>Crawler access:</strong> reviewing robots.txt and site settings so legitimate AI crawlers can reach the content you want used.</li>
+<li><strong>Tracking and reporting:</strong> monitoring citations and mentions across AI tools alongside traditional rankings and traffic.</li>
+</ul>
+
+<h2>How GEO differs from SEO</h2>
+<p>The two disciplines overlap heavily, which is why many agencies offer them together. The differences are mainly in the goal and how success is measured.</p>
+<table>
+<thead><tr><th>Area</th><th>Traditional SEO</th><th>GEO (AI search optimisation)</th></tr></thead>
+<tbody>
+<tr><td>Main goal</td><td>Rank pages in search results and win clicks</td><td>Be cited, mentioned or recommended in AI answers</td></tr>
+<tr><td>Content focus</td><td>Topical coverage, keyword targeting, internal links</td><td>Direct answers, clear facts, quotable passages, comparisons</td></tr>
+<tr><td>Authority signals</td><td>Backlinks and on-site expertise</td><td>Brand mentions, reviews, consistent entity data and backlinks</td></tr>
+<tr><td>Technical work</td><td>Crawlability, speed, indexation, schema</td><td>The same, plus AI crawler access and structured facts</td></tr>
+<tr><td>Measurement</td><td>Rankings, organic traffic, conversions</td><td>Citation share, brand mentions in AI answers, referral traffic from AI tools</td></tr>
+<tr><td>Speed of change</td><td>Usually three to six months</td><td>Varies; AI answers can shift quickly and inconsistently</td></tr>
+</tbody>
+</table>
+<p>In practice, a GEO agency that ignores SEO is building on sand. Many AI tools retrieve live web results before answering, so pages that do not rank or cannot be crawled are less likely to be cited. That is why our <a href="/services/seo-geo/">SEO and GEO service</a> treats them as one programme.</p>
+
+<h2>Do you need a GEO agency or an SEO agency?</h2>
+<p>For most UK businesses, the honest answer is that you need an SEO agency that understands GEO, rather than a separate specialist. Splitting the work between two suppliers often creates duplicated audits and conflicting content changes.</p>
+<p>A dedicated GEO focus makes more sense when:</p>
+<ul>
+<li>Your SEO foundations are already solid and you rank well for core terms.</li>
+<li>Your buyers research heavily through AI assistants, which is common in B2B, SaaS and considered consumer purchases.</li>
+<li>Competitors are being recommended in AI answers for prompts where you are absent.</li>
+<li>You operate in a sector where trust and reputation strongly influence recommendations.</li>
+</ul>
+<p>If your site still has basic issues, fix those first. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a good place to start, and our guide on <a href="/blog/seo-for-small-business-uk/">SEO for small businesses in the UK</a> covers the essentials.</p>
+
+<h2>What GEO work looks like in the first few months</h2>
+<p>A sensible GEO programme usually starts with a baseline. The agency agrees a list of prompts your customers are likely to use, such as "best accountant for small businesses in Leeds" or "which ecommerce platform suits a UK fashion brand", and records which brands and sources AI tools mention today. That gives you a starting point that is specific to your market rather than a generic score.</p>
+<p>The next phase is usually on your own site. Priority pages are rewritten so the answer comes first, facts such as prices, locations and service areas are stated clearly, and FAQs reflect the questions people genuinely ask. Structured data is added or corrected, and inconsistencies in your business details across directories and profiles are tidied up.</p>
+<p>Alongside this, authority work begins: expert commentary, digital PR and review generation that give AI tools independent sources to draw on. Over the following months, the agency re-runs the prompt set, compares results and adjusts priorities. Expect progress to be uneven; some prompts move quickly while others take longer or depend on sources outside your control.</p>
+
+<h2>How to choose a GEO agency in the UK</h2>
+<p>Because GEO is new, there is a lot of confident marketing and not much shared standard. Use these questions to separate substance from buzzwords.</p>
+<table>
+<thead><tr><th>Question to ask</th><th>Good answer</th><th>Warning sign</th></tr></thead>
+<tbody>
+<tr><td>How do you measure AI visibility?</td><td>A defined set of prompts tracked over time across several AI tools</td><td>Vague talk of "AI rankings" with no method</td></tr>
+<tr><td>How does GEO connect to our SEO?</td><td>One plan covering technical, content and authority work</td><td>GEO sold as a replacement for SEO</td></tr>
+<tr><td>What will change on our site?</td><td>Specific page rewrites, schema, FAQs and entity fixes</td><td>Only "AI-optimised" content at volume</td></tr>
+<tr><td>How do you build authority?</td><td>Digital PR, reviews, expert commentary</td><td>Bulk directory or link packages</td></tr>
+<tr><td>Can you guarantee citations?</td><td>No; AI answers vary and are not controlled by any agency</td><td>Yes, with fixed targets</td></tr>
+</tbody>
+</table>
+<p>For broader hiring advice, our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers contracts, reporting and notice periods.</p>
+
+<h2>GEO agency checklist</h2>
+<p>Before you hire, make sure the proposal covers each of these:</p>
+<ol>
+<li>A baseline audit of AI mentions and citations for prompts that matter to your customers.</li>
+<li>A technical review covering crawlability, indexation and AI crawler access.</li>
+<li>Rewrites of priority pages with answer-first introductions, tables and FAQs.</li>
+<li>Structured data for your organisation, services and key content.</li>
+<li>A plan to make your business details consistent across the web.</li>
+<li>Authority building through digital PR, reviews and expert commentary.</li>
+<li>Regular reporting that combines AI citations, rankings, traffic and enquiries.</li>
+<li>Clear scope, deliverables and notice period in writing.</li>
+<li>For regulated sectors, a process where final approval rests with your compliance team.</li>
+</ol>
+
+<h2>How results are measured</h2>
+<p>GEO reporting is less mature than SEO reporting, so expect a mix of evidence rather than a single number. Useful measures include the share of tracked prompts where you are mentioned or cited, the sources AI tools cite instead of you, referral traffic from AI platforms in GA4, branded search trends and, ultimately, enquiries.</p>
+<p>Be cautious with week-to-week comparisons. The same prompt can produce different answers on different days, so trends over several months tell you more than snapshots. Authority work, such as <a href="/services/digital-pr-content/">digital PR and content</a>, tends to support AI visibility over time because it creates independent evidence about your business.</p>
+<p>Different sectors also need different approaches. A SaaS company will care about comparison and "best tool for" prompts, as covered in our <a href="/blog/saas-seo-agency-uk/">SaaS SEO agency guide</a>, while a local service business will focus on recommendations for its towns and services.</p>
+
+<h2>What GEO costs</h2>
+<p>Most agencies fold GEO into an SEO retainer rather than pricing it separately, because the work overlaps so much. Our published retainers are £350, £750 and £1,500 a month; see the <a href="/pricing/">pricing page</a> for what each tier includes. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> explains what drives budgets more generally.</p>
+
+<h2>FAQs</h2>
+<h3>What does a GEO agency in the UK do?</h3>
+<p>It helps your business appear in AI-generated answers by improving content structure, structured data, brand consistency and third-party mentions, on top of strong SEO foundations. It also tracks how often AI tools cite or recommend you.</p>
+<h3>Is GEO different from SEO?</h3>
+<p>GEO builds on SEO rather than replacing it. SEO aims to rank pages in search results; GEO aims to have your brand cited in AI answers. Much of the underlying work, such as technical health and quality content, is shared.</p>
+<h3>Can a GEO agency guarantee my business appears in ChatGPT?</h3>
+<p>No. AI tools decide what to cite, and their answers vary between sessions. A good agency improves your chances and tracks progress but will not guarantee placement.</p>
+<h3>Do I need a separate GEO agency if I already have an SEO agency?</h3>
+<p>Usually not. Ask your current agency how it approaches AI search. Splitting the work often leads to duplicated effort and conflicting changes.</p>
+<h3>How long does GEO take to show results?</h3>
+<p>Some changes, such as clearer answers on key pages, can be picked up relatively quickly, but building the authority AI tools rely on typically takes several months, similar to SEO.</p>
+<h3>Which businesses benefit most from GEO?</h3>
+<p>Businesses whose customers research with AI assistants before buying, such as B2B services, SaaS, professional services and considered consumer purchases, tend to see the most value.</p>
+<p>If you want to know where your business currently stands in AI answers and what would improve it, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will talk through your market, your current visibility and practical next steps.</p>
+`,
+  },
+  {
+    slug: 'link-building-cost-uk',
+    seoTitle: 'Link Building Cost UK: Pricing Models and Red Flags',
+    title: 'Link Building Cost in the UK: Pricing Models, Safe Tactics and Red Flags',
+    description: 'Link building costs in the UK depend on the tactic, not just link count. See common pricing models, safe versus risky methods and the red flags to avoid.',
+    date: '2026-10-30',
+    category: 'Digital PR',
+    related: ['/services/digital-pr-content/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Link building cost in the UK varies widely because you are really paying for a method: earned links through digital PR and content cost more per link than bought placements, but carry far less risk. Rather than asking "how much per link?", ask how the links will be earned, which pages they will support and how you will see every result.</p>
+<p>This guide explains the main pricing models used by UK agencies and freelancers, the difference between safe and risky tactics, and the warning signs that a cheap package will cost you more in the long run. Where we mention budgets, we focus on how pricing is structured rather than promising a single "going rate", because honest quotes depend on your market and your site.</p>
+
+<h2>Why link building cost varies so much</h2>
+<p>Two quotes for "link building" can describe completely different services. One might involve researching a story, analysing data, pitching journalists and reporting on editorial coverage. The other might involve buying posts on sites that exist mainly to sell links. Both produce links; only one is likely to build lasting authority.</p>
+<p>The main cost drivers are:</p>
+<ul>
+<li><strong>Method:</strong> digital PR, content-led outreach, resource pages, partnerships or paid placements.</li>
+<li><strong>Relevance:</strong> links from sites your customers read are harder to earn than links from general sites.</li>
+<li><strong>Competition:</strong> sectors such as finance, legal and ecommerce need stronger authority to move rankings.</li>
+<li><strong>Asset creation:</strong> data studies, guides and tools take time to produce before any outreach begins.</li>
+<li><strong>Reporting and quality control:</strong> vetting sites and tracking results is real work that cheap providers skip.</li>
+</ul>
+
+<h2>Link building pricing models in the UK</h2>
+<p>Most providers use one of five structures. Each suits different goals, and each has its own risks.</p>
+<table>
+<thead><tr><th>Pricing model</th><th>How it works</th><th>Pros</th><th>Cons</th></tr></thead>
+<tbody>
+<tr><td>Monthly retainer</td><td>A fixed monthly fee covering outreach, content and reporting</td><td>Steady activity, joined up with wider SEO</td><td>Output varies month to month</td></tr>
+<tr><td>Campaign or project fee</td><td>A one-off price for a specific digital PR or content campaign</td><td>Clear scope, easier to budget</td><td>Coverage is not guaranteed</td></tr>
+<tr><td>Per-link pricing</td><td>A price for each live link, often tiered by site metrics</td><td>Simple to understand</td><td>Encourages volume over quality; often paid placements</td></tr>
+<tr><td>Performance-based</td><td>Pay only when a link goes live</td><td>Feels low risk</td><td>Incentivises easy, low-value placements</td></tr>
+<tr><td>Hourly or day rate</td><td>Time-based billing, common with freelancers</td><td>Flexible, good for audits or strategy</td><td>Harder to predict total cost</td></tr>
+</tbody>
+</table>
+<p>For many UK businesses, link building works best inside a wider SEO budget rather than as a separate line item, because links only help pages that are technically sound and genuinely useful. Our published retainers start at £350 a month, with £750 and £1,500 tiers, and you can see what each includes on the <a href="/pricing/">pricing page</a>. For a broader view of what UK businesses spend on search, read <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>.</p>
+
+<h2>Safe vs risky link building tactics</h2>
+<p>Google's spam policies treat links intended to manipulate rankings as a violation, whether they are bought, exchanged at scale or placed on networks built for the purpose. The safest links are those a site would give you anyway because the content, story or relationship deserves it.</p>
+<table>
+<thead><tr><th>Tactic</th><th>Risk level</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Digital PR and data stories</td><td>Low</td><td>Editorial links from journalists; strong authority and brand value</td></tr>
+<tr><td>Expert commentary</td><td>Low</td><td>Quotes in trade and national media, often with links</td></tr>
+<tr><td>Linkable content and tools</td><td>Low</td><td>Guides, calculators and research others cite naturally</td></tr>
+<tr><td>Supplier, partner and association links</td><td>Low</td><td>Real business relationships; check they are relevant</td></tr>
+<tr><td>Unlinked mention reclamation</td><td>Low</td><td>Asking for a link where you are already mentioned</td></tr>
+<tr><td>Guest posting at scale</td><td>Medium to high</td><td>Fine occasionally on relevant sites; risky as a volume tactic</td></tr>
+<tr><td>Sponsored posts without rel="sponsored"</td><td>High</td><td>Paid links must be qualified; unqualified ones breach policy</td></tr>
+<tr><td>Private blog networks (PBNs)</td><td>High</td><td>Sites built to sell links; can trigger manual actions</td></tr>
+<tr><td>Link exchanges and directory spam</td><td>High</td><td>Little value and clear manipulation signals</td></tr>
+</tbody>
+</table>
+<p>We explain the earned approach in more depth in <a href="/blog/digital-pr-link-building-uk/">digital PR and link building in the UK</a>, including how campaigns are planned and reported.</p>
+<p>A useful way to think about risk is to ask what would happen if the tactic were described in full to a Google reviewer. Earned editorial coverage, genuine partnerships and useful resources are easy to explain. Networks of sites with no real audience, links swapped in bulk or paid posts dressed up as editorial are not. If a provider is reluctant to explain exactly where links come from, treat that as your answer.</p>
+<p>It is also worth checking your existing profile. If a previous supplier used risky tactics, a backlink review can show whether there are patterns worth addressing before new work begins. In most cases, the right response is to stop the risky activity and build genuine authority, rather than paying for aggressive clean-up packages.</p>
+
+<h2>What does a link building budget actually buy?</h2>
+<p>A credible link building engagement usually includes more than outreach. Expect some or all of the following:</p>
+<ul>
+<li>A backlink audit comparing your profile with competitors and identifying gaps.</li>
+<li>A target page plan: which service, category or guide pages need authority most.</li>
+<li>Asset creation, such as data studies, expert guides or regional angles.</li>
+<li>Prospecting and media list building focused on relevance.</li>
+<li>Personalised outreach and follow-up.</li>
+<li>Monthly reporting with every live URL, the linking domain and the page linked to.</li>
+</ul>
+<p>Links pointing at weak pages are wasted effort, so a provider should also flag on-site issues. Running through a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> before you spend on links is one of the simplest ways to protect your budget.</p>
+
+<h2>Red flags in link building quotes</h2>
+<ul>
+<li><strong>Price per link with no explanation of method:</strong> usually means placements are being bought.</li>
+<li><strong>Guaranteed numbers each month:</strong> editorial links cannot be guaranteed.</li>
+<li><strong>Metric-only selling:</strong> promises based on a third-party authority score alone ignore relevance and real traffic.</li>
+<li><strong>No live URL list:</strong> you should see every link and be able to check it.</li>
+<li><strong>"Private" or "exclusive" network of sites:</strong> a common description of a PBN.</li>
+<li><strong>Anchor text stuffed with exact keywords:</strong> unnatural patterns are an obvious spam signal.</li>
+<li><strong>Links to the homepage only:</strong> suggests no thought about which pages need to rank.</li>
+<li><strong>Pressure to sign a long contract quickly:</strong> legitimate providers explain their approach and let you decide.</li>
+</ul>
+
+<h2>Link building cost UK checklist</h2>
+<p>Before you sign any link building agreement, check that you can answer yes to each point:</p>
+<ol>
+<li>I understand exactly how the links will be earned.</li>
+<li>The provider has explained why each target page needs authority.</li>
+<li>Paid or sponsored placements, if any, will be correctly qualified.</li>
+<li>I will receive every live URL, linking domain and anchor text.</li>
+<li>The plan prioritises relevant UK or sector sites over generic ones.</li>
+<li>Reporting connects links to rankings, traffic and enquiries, not just counts.</li>
+<li>Technical and content issues on target pages have been reviewed.</li>
+<li>The scope, deliverables and notice period are written down.</li>
+<li>There are no guarantees of link volume or rankings.</li>
+<li>The approach fits my sector's rules, with regulated content signed off by my compliance team.</li>
+</ol>
+
+<h2>Link building for different types of business</h2>
+<p>The right approach depends on your market. Ecommerce stores often benefit from links to category pages and gift or trend stories, covered in our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a>. Local service firms gain more from regional press, community partnerships and citations, as explained in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>. B2B and SaaS firms usually earn the most relevant links through expert commentary, research and trade media.</p>
+<p>Whatever the sector, link building should sit inside a joined-up plan. Our <a href="/services/digital-pr-content/">digital PR and content service</a> and <a href="/services/seo-geo/">SEO and GEO service</a> are designed to work together so that earned authority supports pages built to convert.</p>
+<p>Timing matters too. Even strong links take time to influence rankings; SEO results typically show over three to six months. Budgeting for a short burst and stopping before results appear is a common reason link building "doesn't work".</p>
+
+<h2>FAQs</h2>
+<h3>What is the typical link building cost in the UK?</h3>
+<p>It depends on the method. Earned links through digital PR and content cost more per link than bought placements because they involve research, asset creation and outreach, but they carry far less risk. Compare tactics and reporting before comparing prices.</p>
+<h3>Is it safe to buy backlinks?</h3>
+<p>Buying links intended to pass ranking value breaches Google's spam policies unless they are qualified with rel="sponsored" or rel="nofollow". Unqualified paid links can lead to lost rankings or a manual action.</p>
+<h3>Why are some link building packages so cheap?</h3>
+<p>Very cheap packages usually rely on low-quality sites, private blog networks or bulk guest posts. These links are quick to place but often carry little value and real risk.</p>
+<h3>How many backlinks do I need?</h3>
+<p>There is no fixed number. What matters is the relevance and quality of linking sites compared with competitors ranking for the same terms. A backlink gap analysis gives a more useful answer than a target count.</p>
+<h3>Should link building be part of my SEO retainer?</h3>
+<p>Often it makes sense, because links work best alongside technical fixes and strong content. Check exactly what a retainer includes before assuming outreach is covered.</p>
+<h3>How long until link building affects rankings?</h3>
+<p>New links can take weeks to be discovered and several months to show a ranking effect. Most UK businesses should plan for three to six months before judging results.</p>
+<p>If you want a straight view on whether link building is the right next step for your site, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will look at your current profile, your competitors and the safest way forward.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-vs-freelancer-uk',
+    seoTitle: 'SEO Agency vs Freelancer UK: Cost, Risk and Scope',
+    title: 'SEO Agency vs Freelancer vs In-House: Which Is Right for Your UK Business?',
+    description: 'SEO agency vs freelancer in the UK comes down to scope, risk and budget. Compare agencies, freelancers and in-house hires to find the right fit for you.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/services/digital-pr-content/'],
+    body: `
+<p>Choosing between an SEO agency and a freelancer in the UK comes down to scope, risk and budget: freelancers suit focused, well-defined work, agencies suit broader programmes that need several specialist skills, and in-house teams suit large sites with sustained, daily SEO needs. The best choice is the one that covers the skills your site actually needs without paying for capacity you will not use.</p>
+<p>This guide compares the three options side by side, looks at cost and continuity risk, and gives you a checklist for deciding. It is written for UK business owners and marketing leads weighing up their first serious SEO investment or reviewing an existing arrangement.</p>
+
+<h2>The three options at a glance</h2>
+<table>
+<thead><tr><th>Factor</th><th>SEO freelancer</th><th>SEO agency</th><th>In-house SEO</th></tr></thead>
+<tbody>
+<tr><td>Typical skill coverage</td><td>Deep in one or two areas</td><td>Technical, content, digital PR, analytics, often paid media</td><td>Depends on hire; often one generalist at first</td></tr>
+<tr><td>Cost structure</td><td>Day rate, project fee or small retainer</td><td>Monthly retainer or project fee</td><td>Salary, employer costs, tools, training</td></tr>
+<tr><td>Continuity risk</td><td>Higher: one person, holidays, illness</td><td>Lower: team cover and documented processes</td><td>Medium: notice periods and turnover</td></tr>
+<tr><td>Business knowledge</td><td>Builds over time</td><td>Builds over time; varies by account manager</td><td>Highest; part of the business daily</td></tr>
+<tr><td>Speed to start</td><td>Fast</td><td>Fast to moderate</td><td>Slow: recruitment and onboarding</td></tr>
+<tr><td>Management time for you</td><td>Moderate</td><td>Lower</td><td>Higher: line management and direction</td></tr>
+<tr><td>Best fit</td><td>Defined projects, small sites, specialist gaps</td><td>SMEs wanting a joined-up programme</td><td>Large or fast-moving sites with daily needs</td></tr>
+</tbody>
+</table>
+
+<h2>SEO agency vs freelancer: the key differences</h2>
+<p>The biggest difference is breadth. A good freelancer may be excellent at technical SEO or content strategy, but modern SEO also involves digital PR, analytics setup, structured data, development support and, increasingly, visibility in AI search. An agency spreads those skills across a team; a freelancer either covers them personally or subcontracts.</p>
+<p>The second difference is continuity. With one person, a holiday or illness pauses the work. Agencies have more cover, though you should still ask who will actually work on your account and how often that changes.</p>
+<p>The third is accountability and process. Agencies tend to have documented processes, contracts and reporting templates. Freelancers can be more flexible and often give you direct access to the person doing the work, which many businesses value.</p>
+<p>Neither is automatically better. A specialist freelancer can outperform a large agency where the agency assigns junior staff, and a small, focused agency can offer the personal attention of a freelancer with more depth behind it.</p>
+
+<p>It also helps to be honest about what you want from the relationship. Some businesses want a strategic partner who challenges priorities and joins up channels. Others want a reliable pair of hands to execute an agreed plan. A freelancer is often ideal for the second; an agency is usually better placed for the first, particularly where SEO needs to work with paid search, website changes and content production at the same time.</p>
+<p>Finally, consider how much of the work will need development support. Many SEO recommendations, from template fixes to structured data and site speed improvements, depend on someone being able to change the site. If neither you nor your provider can make those changes, recommendations stall. Ask every option how fixes will actually be implemented, who does it and how long it typically takes.</p>
+
+<h2>When a freelancer makes sense</h2>
+<ul>
+<li>You need a specific, well-defined piece of work, such as a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> or a migration review.</li>
+<li>Your site is small and your local market is not highly competitive.</li>
+<li>You have someone internally who can implement changes and manage priorities.</li>
+<li>You want to fill a specialist gap alongside an existing team.</li>
+<li>Your budget is limited and you prefer to pay for discrete projects.</li>
+</ul>
+
+<h2>When an agency makes sense</h2>
+<ul>
+<li>You need technical, content and authority work joined up in one plan.</li>
+<li>You want SEO connected to paid media, website development or digital PR.</li>
+<li>You lack internal time to manage several specialists.</li>
+<li>You want continuity of service through holidays and staff changes.</li>
+<li>You operate in a competitive market, such as ecommerce, finance or SaaS, where several disciplines need to move together.</li>
+</ul>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> is built for this kind of joined-up programme, and it connects with our <a href="/services/digital-pr-content/">digital PR and content work</a> when authority building is part of the plan.</p>
+
+<h2>When in-house SEO makes sense</h2>
+<p>An in-house hire works best for large sites with frequent changes, such as big ecommerce catalogues, publishers or marketplaces, where SEO decisions come up daily and need to be built into product and development workflows. An in-house specialist understands the business deeply and can influence decisions early.</p>
+<p>The trade-offs are cost and coverage. One hire rarely covers every skill, so many businesses with in-house SEO still use an agency or freelancer for digital PR, technical projects or specialist audits. Recruitment also takes time, and when the person leaves, knowledge can leave with them unless processes are documented.</p>
+
+<h2>Comparing cost fairly</h2>
+<p>Comparing a monthly agency retainer with a freelancer's day rate or an in-house salary is not like for like. Include the hidden costs on each side.</p>
+<table>
+<thead><tr><th>Cost to consider</th><th>Freelancer</th><th>Agency</th><th>In-house</th></tr></thead>
+<tbody>
+<tr><td>Direct fee or salary</td><td>Day rate or project fee</td><td>Retainer or project fee</td><td>Salary plus employer National Insurance and pension</td></tr>
+<tr><td>Tools and software</td><td>Often included</td><td>Usually included</td><td>Paid by you</td></tr>
+<tr><td>Cover for absence</td><td>Usually none</td><td>Included</td><td>Work pauses or others cover</td></tr>
+<tr><td>Management time</td><td>Moderate</td><td>Lower</td><td>Higher</td></tr>
+<tr><td>Recruitment and training</td><td>None</td><td>None</td><td>Significant</td></tr>
+<tr><td>Development support</td><td>Often extra</td><td>Sometimes included or quoted</td><td>Depends on internal team</td></tr>
+</tbody>
+</table>
+<p>For reference, our published retainers are £350, £750 and £1,500 a month, and the <a href="/pricing/">pricing page</a> sets out what each covers. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> explains the wider market, and our <a href="/blog/seo-for-small-business-uk/">small business SEO guide</a> covers what to prioritise on a modest budget.</p>
+
+<h2>Questions to ask in a first meeting</h2>
+<p>Whichever route you lean towards, a first conversation should tell you a lot. Ask who will do the work day to day, how they would approach your first three months, which of your pages they would prioritise and why, and how they report progress. Ask how they handle disagreement about priorities, and what they need from you to succeed. Good providers will ask you plenty of questions in return about your margins, your best customers and your capacity to handle more enquiries, because SEO only matters if it brings the right business.</p>
+<p>For a business running an online shop, it is also worth asking about platform experience. Shopify, WooCommerce and custom builds each have their own quirks, and someone who already knows them will move faster.</p>
+
+<h2>Risks to watch with any option</h2>
+<ul>
+<li><strong>Account ownership:</strong> Google Search Console, GA4, Google Business Profile and your domain should always be owned by you, with access granted to the provider.</li>
+<li><strong>Guarantees:</strong> no freelancer, agency or employee can guarantee rankings. Treat promises of first-page positions with suspicion.</li>
+<li><strong>Risky link building:</strong> cheap link packages can harm your site. Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains safer approaches.</li>
+<li><strong>Long lock-ins:</strong> check notice periods and what happens to work in progress if you leave.</li>
+<li><strong>Vague reporting:</strong> rankings alone are not enough; reports should connect to traffic, enquiries and revenue.</li>
+</ul>
+
+<h2>Decision checklist</h2>
+<p>Work through these questions to decide which route fits:</p>
+<ol>
+<li>Is the work a defined project or an ongoing programme?</li>
+<li>How many disciplines does it need: technical, content, links, analytics, development?</li>
+<li>Who internally will implement changes and manage the provider?</li>
+<li>How competitive is your market and how large is your site?</li>
+<li>What would a two-week pause in the work cost you?</li>
+<li>Do you own all your accounts and data?</li>
+<li>Have you compared total cost, including management time and tools?</li>
+<li>Are the scope, deliverables, reporting and notice period written down?</li>
+<li>Is SEO likely to need joining up with paid media or website work in the next year?</li>
+</ol>
+<p>For more questions to ask any provider, see our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I choose an SEO agency vs freelancer in the UK?</h3>
+<p>Choose a freelancer for focused, well-defined work or a specialist gap, and an agency when you need several disciplines joined up with less management from you. Your scope, budget and internal capacity should drive the decision.</p>
+<h3>Are SEO freelancers cheaper than agencies?</h3>
+<p>Often the headline rate is lower, but compare total cost: cover for absence, tools, management time and any subcontracted work. For broad programmes, the difference may be smaller than it first appears.</p>
+<h3>When should a business hire an in-house SEO?</h3>
+<p>When SEO decisions come up daily, typically on large ecommerce, publishing or marketplace sites, and the business can support recruitment, tools and line management.</p>
+<h3>Can I combine in-house SEO with an agency?</h3>
+<p>Yes. Many businesses keep a generalist in-house and use an agency or freelancer for specialist areas such as digital PR, technical audits or migrations.</p>
+<h3>How long before SEO shows results?</h3>
+<p>Whichever option you choose, SEO results typically show over three to six months, depending on your starting point, competition and how quickly changes are implemented.</p>
+<h3>What should be in an SEO contract?</h3>
+<p>Scope, deliverables, reporting frequency, account ownership, notice period and what happens to work and data when the arrangement ends.</p>
+<p>If you are weighing up your options and want an honest view on which route suits your business, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will talk through your site, your goals and your budget.</p>
+`,
+  },
+  {
+    slug: 'seo-audit-cost-uk',
+    seoTitle: 'SEO Audit Cost UK: What\'s Included and What\'s Next',
+    title: 'SEO Audit Cost in the UK: What\'s Included, Types of Audit and What to Do Next',
+    description: 'SEO audit cost in the UK depends on site size, depth and audit type. See what\'s included, how audits differ and what to do with the findings afterwards.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>SEO audit cost in the UK depends mainly on the size of your site, how complex the platform is and how deep the review goes: a quick automated scan costs little, while a full, expert-reviewed audit of a large ecommerce site takes significantly more time. What matters most is not the price but whether the audit gives you a prioritised, practical action plan you can actually implement.</p>
+<p>This guide explains what an SEO audit should include, the different types of audit, what affects the price and what to do once you have the findings. If you want to run through the technical checks yourself first, use our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a>.</p>
+
+<h2>What affects SEO audit cost in the UK</h2>
+<p>Agencies and freelancers price audits differently, but the same factors drive the effort involved.</p>
+<ul>
+<li><strong>Site size:</strong> a ten-page brochure site and a ten-thousand-product store need very different levels of crawling and analysis.</li>
+<li><strong>Platform:</strong> Shopify, WooCommerce, WordPress and custom builds each have their own common issues.</li>
+<li><strong>Scope:</strong> technical-only audits cost less than full audits covering content, links, local SEO and AI visibility.</li>
+<li><strong>Depth of manual review:</strong> automated tools find symptoms; experienced reviewers find causes and decide priorities.</li>
+<li><strong>Data access:</strong> audits using Google Search Console, GA4 and server logs are more accurate but take longer.</li>
+<li><strong>Deliverables:</strong> a spreadsheet of issues differs from a prioritised roadmap with developer-ready tickets and a walkthrough call.</li>
+</ul>
+
+<h2>Types of SEO audit</h2>
+<table>
+<thead><tr><th>Audit type</th><th>What it covers</th><th>Best for</th><th>Relative effort</th></tr></thead>
+<tbody>
+<tr><td>Automated scan</td><td>Tool-generated list of crawl errors, missing tags and speed warnings</td><td>Quick health check</td><td>Low</td></tr>
+<tr><td>Technical audit</td><td>Crawling, indexation, site speed, Core Web Vitals, redirects, canonicals, schema</td><td>Sites with traffic drops or platform issues</td><td>Medium</td></tr>
+<tr><td>Content audit</td><td>Thin, duplicate or outdated pages, search intent, cannibalisation, internal linking</td><td>Sites with lots of pages or blog content</td><td>Medium</td></tr>
+<tr><td>Backlink audit</td><td>Link profile quality, toxic patterns, gaps against competitors</td><td>Sites with past link building or a ranking drop</td><td>Medium</td></tr>
+<tr><td>Local SEO audit</td><td>Google Business Profile, citations, reviews, location pages</td><td>Local service businesses and multi-location firms</td><td>Low to medium</td></tr>
+<tr><td>Ecommerce audit</td><td>Faceted navigation, category and product pages, structured data, feeds</td><td>Online stores</td><td>Medium to high</td></tr>
+<tr><td>Migration audit</td><td>Redirect mapping, pre and post-launch checks</td><td>Redesigns and platform moves</td><td>Medium to high</td></tr>
+<tr><td>Full SEO and GEO audit</td><td>All of the above plus AI search readiness and competitor analysis</td><td>Businesses planning a sustained SEO programme</td><td>High</td></tr>
+</tbody>
+</table>
+<p>If you are planning a redesign, a migration audit is the one not to skip; our guide on <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> explains why.</p>
+
+<h2>What a good SEO audit should include</h2>
+<p>Whatever the type, a useful audit should cover the areas that actually limit your visibility and present them in a way you can act on.</p>
+<h3>Technical health</h3>
+<p>Crawlability, indexation, robots.txt, XML sitemaps, canonical tags, redirects, HTTPS, mobile usability, page speed and Core Web Vitals, structured data and JavaScript rendering.</p>
+<h3>Content and search intent</h3>
+<p>Whether key pages match what searchers want, duplicate or thin content, keyword cannibalisation, title tags and meta descriptions, headings and internal linking.</p>
+<h3>Authority and reputation</h3>
+<p>The quality and relevance of your backlinks compared with competitors, unlinked brand mentions and review profiles.</p>
+<h3>AI search readiness</h3>
+<p>Whether your content gives clear, quotable answers, your business details are consistent across the web and AI crawlers can access your pages. Our explainer on <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> covers this in more depth.</p>
+<h3>Prioritised recommendations</h3>
+<p>Every issue ranked by likely impact and effort, with clear owners. A list of 400 warnings with no priorities is not an audit; it is a tool export.</p>
+
+<h2>How audit findings should be presented</h2>
+<p>The format of an audit matters almost as much as its content. The most useful audits open with a short summary for decision makers: the three to five issues most likely to be holding the site back, what fixing them involves and roughly how much effort each takes. Detailed findings then follow for whoever will implement them.</p>
+<p>Each issue should explain what the problem is, which URLs or templates are affected, why it matters for search and what the fix looks like. Where a developer is needed, the recommendation should be specific enough to turn into a ticket without another meeting. Examples help: a sample of affected URLs and screenshots from Search Console make it far easier to agree priorities.</p>
+<p>Finally, a good audit separates genuine problems from noise. Tools often report hundreds of low-priority warnings that make little difference to rankings. An experienced reviewer will say plainly which ones can be ignored, so your team spends its time on changes that matter.</p>
+
+<h2>When to commission an audit</h2>
+<p>Common triggers include an unexplained drop in organic traffic, a planned redesign or platform move, a change of agency, a new market or product line, or simply not having had a proper review in over a year. An audit is also a sensible first step before signing up to any ongoing SEO programme, because it shows where the effort should go.</p>
+
+<h2>Is a cheap SEO audit worth it?</h2>
+<p>A low-cost automated report can be a useful starting point, but it has limits. Tools flag every missing alt attribute with the same urgency as a noindex tag on your best category page. They cannot tell whether a page is cannibalising another, whether your faceted navigation is wasting crawl budget, or whether a redirect chain is costing you rankings.</p>
+<p>Watch for these red flags:</p>
+<ul>
+<li>A "free audit" that is really a sales document with generic findings.</li>
+<li>No access requested to Google Search Console or GA4.</li>
+<li>No prioritisation or explanation of business impact.</li>
+<li>Scare tactics about "toxic links" with a disavow package bundled in.</li>
+<li>Guarantees of ranking improvements once fixes are made.</li>
+</ul>
+
+<h2>SEO audit checklist: questions to ask before you commission one</h2>
+<ol>
+<li>Which audit type does my site actually need right now?</li>
+<li>Will the auditor use Search Console, GA4 and, where relevant, server logs?</li>
+<li>Is manual expert review included, or is it a tool output?</li>
+<li>Will issues be prioritised by impact and effort?</li>
+<li>Are recommendations specific enough for a developer to action?</li>
+<li>Is there a walkthrough call to explain the findings?</li>
+<li>Does it cover AI search readiness as well as traditional SEO?</li>
+<li>Who will implement the fixes, and has that been budgeted?</li>
+<li>Will the audit include a re-check after fixes are made?</li>
+</ol>
+
+<h2>What to do after an SEO audit</h2>
+<p>The audit is only the diagnosis. Its value comes from what happens next.</p>
+<ol>
+<li><strong>Fix critical blockers first:</strong> anything stopping important pages being crawled or indexed.</li>
+<li><strong>Tackle quick wins:</strong> title tags, internal links and redirects that are low effort and high impact.</li>
+<li><strong>Plan larger changes:</strong> template fixes, site speed work and content consolidation, scheduled with your developer.</li>
+<li><strong>Improve key content:</strong> strengthen the pages closest to converting, such as service and category pages.</li>
+<li><strong>Build authority:</strong> once the site is sound, earn links and mentions through digital PR and content.</li>
+<li><strong>Measure and re-audit:</strong> track progress in Search Console and re-check after major changes.</li>
+</ol>
+<p>Some fixes need development time. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> can handle platform changes, and an ongoing <a href="/services/seo-geo/">SEO and GEO programme</a> turns the audit into a monthly plan. Our published retainers are £350, £750 and £1,500 a month; the <a href="/pricing/">pricing page</a> shows what each includes. SEO results typically show over three to six months once changes are live.</p>
+
+<h2>Audits for different types of site</h2>
+<p>Online stores should check our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a> for platform-specific issues such as faceted navigation, duplicate product variants and out-of-stock handling. Local service firms will get more from a local audit, covered in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>. For wider budgeting, our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> puts audit spend in context.</p>
+
+<h2>FAQs</h2>
+<h3>What is the typical SEO audit cost in the UK?</h3>
+<p>It varies with site size, platform and depth. An automated scan costs little, while a full manual audit of a large ecommerce site takes considerably more time. Ask for a clear scope and deliverables before comparing quotes.</p>
+<h3>How long does an SEO audit take?</h3>
+<p>A small site audit can take a few days, while large or complex sites may take several weeks, especially when log files and detailed content analysis are included.</p>
+<h3>How often should I get an SEO audit?</h3>
+<p>A full audit once a year suits most businesses, with lighter checks after major site changes, migrations or unexplained traffic drops.</p>
+<h3>Can I do an SEO audit myself?</h3>
+<p>Yes, for the basics. Our technical SEO audit checklist and free tools such as Google Search Console will catch many common issues, though prioritising complex problems benefits from experience.</p>
+<h3>What is the difference between a technical audit and a full SEO audit?</h3>
+<p>A technical audit covers crawling, indexation, speed and site structure. A full audit adds content, backlinks, local or ecommerce factors, competitors and AI search readiness.</p>
+<h3>Do I need an audit before starting SEO?</h3>
+<p>It is strongly recommended. Without one, you risk spending on content or links while technical issues hold your site back.</p>
+<p>If you want to understand which audit your site needs and what it should cover, <a href="/contact/">book a free discovery call</a> with Prism Works Studio and we will talk through your site, your goals and sensible next steps.</p>
+`,
+  },
 ];
