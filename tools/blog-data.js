@@ -10725,4 +10725,624 @@ module.exports = [
 <p>Yes. We hand over sites so you can update text, images and blog posts yourself, and we show you how at launch.</p>
 `,
   },
+  {
+    slug: 'blog-writing-service-uk',
+    seoTitle: 'Blog Writing Service UK: What to Expect and Costs',
+    title: 'Blog Writing Service UK: What You Get, How Pricing Works and How to Choose',
+    description: 'A blog writing service researches, writes and optimises posts that rank and bring enquiries. See what UK services include, how pricing works and what to ask.',
+    date: '2026-10-30',
+    category: 'Digital PR',
+    related: ['/services/digital-pr-content/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>A blog writing service researches, writes and optimises blog posts for your business so they rank in search and turn readers into enquiries. The best UK blog writing services start with what your customers search for, write in your brand's voice and link every post to a clear next step, rather than simply supplying words on a page.</p>
+<p>Many businesses know they should blog but never find the time. Others publish regularly and see little come of it. This guide explains what a blog writing service should include, how pricing usually works, how to brief writers and how to tell whether the posts are paying their way.</p>
+
+<h2>What does a blog writing service UK businesses use include?</h2>
+<p>Services vary a lot. At one end you get a writer and a word count. At the other you get a full content programme. The useful middle ground usually covers:</p>
+<ul>
+<li><strong>Topic research:</strong> finding questions your customers search for, with a focus on UK phrasing.</li>
+<li><strong>Planning:</strong> deciding which posts to write first and how they link to your service pages.</li>
+<li><strong>Writing:</strong> clear, accurate posts in your tone of voice.</li>
+<li><strong>Editing:</strong> checking facts, grammar, readability and UK spelling.</li>
+<li><strong>On-page SEO:</strong> titles, meta descriptions, headings, internal links and FAQs.</li>
+<li><strong>Publishing support:</strong> uploading, formatting and adding images where agreed.</li>
+<li><strong>Refreshing:</strong> updating older posts that have slipped in search.</li>
+<li><strong>Reporting:</strong> tracking rankings, traffic and enquiries from posts.</li>
+</ul>
+<p>If a service only offers writing, you will need to handle research, optimisation and measurement yourself. That is fine if you have the skills in-house, but many small businesses do not.</p>
+
+<h2>Blog writing service pricing models</h2>
+<p>There is no standard UK price for a blog post, because length, research depth and expertise all vary. These are the common ways services charge.</p>
+<table>
+<thead><tr><th>Model</th><th>How it works</th><th>Suits</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Per post</td><td>A price for each article, often by length</td><td>Testing a writer or filling a gap</td><td>No strategy or optimisation included</td></tr>
+<tr><td>Per word</td><td>A rate multiplied by word count</td><td>Simple, predictable writing jobs</td><td>Encourages length over usefulness</td></tr>
+<tr><td>Monthly retainer</td><td>A fixed fee for an agreed programme</td><td>Ongoing content and SEO</td><td>Vague scope with no defined outputs</td></tr>
+<tr><td>Bundled with SEO</td><td>Posts as part of a wider search package</td><td>Businesses wanting rankings and enquiries</td><td>Unclear split between writing and other work</td></tr>
+</tbody>
+</table>
+<p>Whatever the model, ask exactly what each fee includes. Two quotes can look similar but cover very different amounts of work. At Prism Works Studio, blog writing sits within our <a href="/services/digital-pr-content/">digital PR and content service</a>, and our <a href="/pricing/">pricing page</a> shows our monthly retainers of £350, £750 and £1,500.</p>
+
+<h2>Why blog posts fail to bring in business</h2>
+<p>Most underperforming blogs have the same problems.</p>
+<ul>
+<li><strong>Topics nobody searches for.</strong> Posts about company news rarely attract new customers.</li>
+<li><strong>No search intent match.</strong> The post answers a different question from the one in the title.</li>
+<li><strong>Thin content.</strong> Short posts that repeat what everyone else says give readers no reason to stay.</li>
+<li><strong>No internal links.</strong> Readers have nowhere to go next, and search engines cannot see how pages relate.</li>
+<li><strong>No call to action.</strong> Posts end without a clear path to a service or contact page.</li>
+<li><strong>Never updated.</strong> Prices, rules and tools change, and stale posts lose trust and rankings.</li>
+</ul>
+<p>A good blog writing service fixes these by starting with research. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find topics with real demand.</p>
+
+<h2>How to brief a blog writing service</h2>
+<p>Even the best writer needs a clear brief. The more context you share, the less editing you will do later. A useful brief covers:</p>
+<ol>
+<li><strong>The target query.</strong> The exact phrase you want the post to rank for.</li>
+<li><strong>The reader.</strong> Who they are and what they already know.</li>
+<li><strong>The goal.</strong> What you want readers to do after reading.</li>
+<li><strong>Key points.</strong> Your expertise, process and views that make the post yours.</li>
+<li><strong>Facts to use.</strong> Prices, timelines and details that are accurate for your business.</li>
+<li><strong>Facts to avoid.</strong> Claims you cannot support or topics you do not cover.</li>
+<li><strong>Links.</strong> Which service, sector or pricing pages to link to.</li>
+<li><strong>Tone.</strong> Your tone of voice guide, or examples of writing you like.</li>
+</ol>
+<p>If you do not yet have a tone of voice guide, our <a href="/services/brand-strategy/">brand strategy service</a> can help you define one.</p>
+
+<h2>Writing posts that rank and get cited</h2>
+<p>Search results and AI answers both reward content that is clear, accurate and easy to quote. Well-written blog posts usually share these features:</p>
+<ul>
+<li>The answer appears in the first two sentences.</li>
+<li>The title, one heading and one FAQ use the searcher's exact phrasing.</li>
+<li>Sections are short with descriptive headings.</li>
+<li>Comparisons use tables; steps use numbered lists.</li>
+<li>Each post links to related posts and at least one service page.</li>
+<li>The post ends with question-style FAQs.</li>
+</ul>
+<p>Content also needs a sound technical base. Slow pages and broken links hold good writing back. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers that side, and our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews SEO</a> explains how content is picked up in AI answers.</p>
+
+<h2>AI-written posts: helpful or harmful?</h2>
+<p>AI tools can speed up research, outlines and first drafts. Used carelessly, they produce generic posts full of vague claims and occasional errors. Used well, with human research, editing and fact-checking, they can help a small team publish more consistently.</p>
+<p>The test is the same either way: is the post accurate, useful and specific to your business? Ask any blog writing service how they use AI, how they check facts and who reviews the final draft. Whoever writes it, a person should check every post before it goes live.</p>
+
+<h2>Questions to ask before hiring a blog writing service</h2>
+<ul>
+<li>How do you choose topics, and can you show the research behind them?</li>
+<li>Who writes the posts, and who edits them?</li>
+<li>Do you write in UK English and understand UK context?</li>
+<li>Is on-page SEO included, or is it extra?</li>
+<li>Will posts link to our service and pricing pages?</li>
+<li>How do you handle regulated topics such as finance or health?</li>
+<li>What will you report on, and how often?</li>
+<li>Who owns the content once it is published?</li>
+</ul>
+<p>For a broader checklist, see our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a>.</p>
+
+<h2>Measuring blog performance</h2>
+<p>Judge your blog on business outcomes, not word count. Track enquiries from blog visitors in GA4, rankings for target queries and how often readers click through to service pages. Search-led content typically takes 3 to 6 months to show clear results, so review monthly but decide quarterly. Our <a href="/blog/seo-reporting-uk/">SEO reporting guide</a> explains what a useful report should contain.</p>
+<p>If a post is not performing after a reasonable period, do not delete it straight away. Check whether it matches search intent, whether it is thorough enough and whether it links to the right pages. Often a refresh is enough.</p>
+
+<h2>Regulated sectors</h2>
+<p>If you work in finance, health or another regulated area, blog posts need extra care. A writer can provide general information, but approval should always rest with your compliance team. Build review time into your publishing schedule so posts are not rushed out.</p>
+
+<h2>Next steps</h2>
+<p>If you want a blog that brings in enquiries rather than filling space, start with a short list of questions your customers ask and a clear goal for each post. When you are ready for help, explore our <a href="/services/digital-pr-content/">digital PR and content service</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>Refreshing older blog posts</h2>
+<p>A blog writing service should not only add new posts. Older posts that once ranked well often slip as competitors publish newer content or as details go out of date. Refreshing them is usually quicker than writing from scratch and can bring results sooner.</p>
+<p>A useful refresh checks that the post still answers the query in its first two sentences, updates any prices, rules or examples that have changed, adds missing questions people now ask, improves headings and internal links, and tidies the title and meta description. Mark posts for review at least once a year, and sooner for topics that change often, such as costs or UK regulations.</p>
+<p>Refreshing also stops your blog competing with itself. If two posts target the same query, merging them into one stronger page is often better than keeping both.</p>
+
+<h2>FAQs</h2>
+<h3>What does a blog writing service UK businesses hire include?</h3>
+<p>Usually topic research, writing, editing and on-page SEO. Fuller services add planning, publishing support, refreshing older posts and reporting.</p>
+<h3>How much does a blog writing service cost?</h3>
+<p>It varies by length, research and expertise. Common models are per post, per word or a monthly retainer. Our published retainers are £350, £750 and £1,500 a month.</p>
+<h3>How long should a blog post be?</h3>
+<p>Long enough to answer the question fully. Many useful guides run to well over 1,000 words, but length should follow the topic, not a target.</p>
+<h3>How often should a business publish blog posts?</h3>
+<p>Choose a pace you can sustain. Steady publishing and regular updates to older posts usually beat short bursts of activity.</p>
+<h3>Can AI write my blog posts?</h3>
+<p>AI can help with research and drafts, but posts should be fact-checked and edited by a person so they are accurate and specific to your business.</p>
+<h3>How long before blog posts bring in enquiries?</h3>
+<p>Search-led posts typically show clearer results within 3 to 6 months, depending on competition and how well the site is set up.</p>
+`,
+  },
+  {
+    slug: 'brand-identity-design-uk',
+    seoTitle: 'Brand Identity Design UK: What It Includes and Costs',
+    title: 'Brand Identity Design UK: What It Includes, How It Works and What to Budget',
+    description: 'Brand identity design creates the logo, colours, type and visual rules that make a business recognisable. See what it includes and how UK firms should plan it.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/brand-strategy/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Brand identity design is the creation of the visual system that makes your business recognisable: your logo, colour palette, typography, imagery style and the rules for using them. For UK businesses, a good brand identity is built on clear strategy, works across website, social, ads and print, and is documented so everyone applies it consistently.</p>
+<p>A logo on its own is not a brand identity. Many small businesses commission a logo, then find their website, social posts and sales documents still look disjointed. This guide explains what brand identity design includes, how the process usually works, what to budget for and how to make sure the result actually gets used.</p>
+
+<h2>What is brand identity design?</h2>
+<p>Your brand is how people think and feel about your business. Your brand identity is the set of visual and verbal tools you use to shape that. Brand identity design focuses on the visual side, although the best work is closely tied to messaging and tone of voice.</p>
+<p>A complete visual identity usually includes:</p>
+<ul>
+<li><strong>Logo:</strong> the main mark plus variations for different spaces, such as a stacked version and an icon.</li>
+<li><strong>Colour palette:</strong> primary and secondary colours with exact values for screen and print.</li>
+<li><strong>Typography:</strong> typefaces for headings and body text, chosen for readability on screen.</li>
+<li><strong>Imagery style:</strong> guidance on photography, illustration and icons.</li>
+<li><strong>Layout principles:</strong> spacing, grids and how elements sit together.</li>
+<li><strong>Brand guidelines:</strong> a document showing how to apply everything correctly.</li>
+</ul>
+
+<h2>Brand identity design UK businesses need: the components</h2>
+<p>The table below shows the main components, what each does and where problems usually appear.</p>
+<table>
+<thead><tr><th>Component</th><th>What it does</th><th>Common problem</th></tr></thead>
+<tbody>
+<tr><td>Logo and variations</td><td>Identifies the business at a glance</td><td>Only one version, which does not fit small spaces</td></tr>
+<tr><td>Colour palette</td><td>Creates recognition and mood</td><td>Colours fail accessibility contrast on screen</td></tr>
+<tr><td>Typography</td><td>Sets tone and readability</td><td>Fonts that look good in print but poor on mobile</td></tr>
+<tr><td>Imagery style</td><td>Keeps photos and graphics consistent</td><td>Random stock images that feel generic</td></tr>
+<tr><td>Tone of voice</td><td>Makes writing sound like one business</td><td>Every channel sounds different</td></tr>
+<tr><td>Guidelines</td><td>Helps others apply the brand correctly</td><td>No guidelines, so the brand drifts over time</td></tr>
+</tbody>
+</table>
+
+<h2>Why strategy comes before design</h2>
+<p>Design choices should answer strategic questions. Who are your customers? What do they value? How are you different from alternatives? What should people feel when they see your business? Without answers, design becomes a matter of personal taste, which is hard to judge and easy to change your mind about.</p>
+<p>That is why brand identity design usually follows positioning work. Our <a href="/services/brand-strategy/">brand strategy service</a> covers positioning, messaging and identity together, and our guide to <a href="/blog/brand-strategy-agency-uk/">choosing a brand strategy agency</a> explains what that work involves.</p>
+
+<h2>How the brand identity design process usually works</h2>
+<p>Every studio has its own approach, but most brand identity projects follow a similar path.</p>
+<ol>
+<li><strong>Discovery:</strong> understanding the business, customers, competitors and goals.</li>
+<li><strong>Positioning:</strong> agreeing what the brand stands for and how it should come across.</li>
+<li><strong>Creative direction:</strong> exploring visual directions before committing to details.</li>
+<li><strong>Design development:</strong> refining the chosen direction into a logo, palette, type and imagery style.</li>
+<li><strong>Testing in context:</strong> seeing the identity on a website, social posts, ads and print items.</li>
+<li><strong>Guidelines:</strong> documenting how to use the identity.</li>
+<li><strong>Rollout:</strong> applying it across your channels.</li>
+</ol>
+<p>Testing in context matters. A logo can look strong on a presentation board and weak as a tiny social avatar or a browser tab icon.</p>
+
+<h2>Designing for digital first</h2>
+<p>For most UK businesses, customers meet the brand online first: in search results, on a website, in a social feed or in an ad. A modern identity should be designed with that in mind.</p>
+<ul>
+<li><strong>Accessibility:</strong> text and background colours need enough contrast to be readable, including for people with visual impairments.</li>
+<li><strong>Small sizes:</strong> the logo needs a simplified version that works as a favicon or app icon.</li>
+<li><strong>Web fonts:</strong> typefaces should load quickly and be licensed for web use.</li>
+<li><strong>Flexible layouts:</strong> the identity should work on mobile screens as well as desktop.</li>
+<li><strong>Ad formats:</strong> colours and type should stand out in paid social and display placements.</li>
+</ul>
+<p>Heavy custom fonts and large image files can slow a website down, which affects both user experience and search. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers this.</p>
+
+<h2>Brand identity and your website</h2>
+<p>Your website is usually the most important place your identity lives. If you are refreshing your brand, it often makes sense to plan the website at the same time, so the new identity is built in rather than bolted on. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> can apply a new identity across your site.</p>
+<p>If you are changing the look of an established site, take care with search rankings. Changing URLs, content or structure during a rebrand can cause traffic losses. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> explains how to protect them.</p>
+
+<h2>What does brand identity design cost?</h2>
+<p>Costs vary widely depending on scope. A simple logo refresh is a very different job from a full identity with guidelines and rollout across many channels. When comparing quotes, check:</p>
+<ul>
+<li>Whether strategy and positioning are included or assumed.</li>
+<li>How many creative directions you will see.</li>
+<li>Which logo variations and file formats you will receive.</li>
+<li>Whether brand guidelines are included.</li>
+<li>Whether rollout to your website, social and print is included.</li>
+<li>Who owns the final artwork and font licences.</li>
+</ul>
+<p>Our <a href="/pricing/">pricing page</a> shows our published retainers and website project ranges, with branding projects quoted to scope. If you are planning a wider change, our <a href="/blog/rebranding-guide-uk/">rebranding guide</a> covers budgeting and planning.</p>
+
+<h2>Common brand identity mistakes</h2>
+<ul>
+<li><strong>Designing by committee.</strong> Too many opinions dilute a clear idea.</li>
+<li><strong>Following trends.</strong> A trendy look can date quickly.</li>
+<li><strong>Copying competitors.</strong> If you look like everyone else, nobody remembers you.</li>
+<li><strong>Skipping guidelines.</strong> Without rules, the brand drifts within months.</li>
+<li><strong>Ignoring legal checks.</strong> Before committing, check the name and logo are not too close to existing marks. A trade mark search, ideally with help from a trade mark adviser, is a sensible first step.</li>
+<li><strong>Forgetting rollout.</strong> A new identity only works if it replaces the old one everywhere.</li>
+</ul>
+
+<h2>Making the identity stick</h2>
+<p>The real test of brand identity design is consistency over time. Share the guidelines with everyone who creates materials, including staff, freelancers and suppliers. Build templates for common items such as social posts, proposals and email signatures. Review your channels every few months and fix anything that has drifted. When new needs appear, such as a new product line or a new social platform, extend the guidelines rather than improvising, so the identity stays coherent as the business grows.</p>
+
+<h2>Briefing a brand identity designer</h2>
+<p>A clear brief saves time and money, and makes feedback easier because everyone is judging the work against the same goals. Before you start, write down the following.</p>
+<ul>
+<li><strong>Background:</strong> what the business does, who it serves and why the identity is being created or changed now.</li>
+<li><strong>Audiences:</strong> the main types of customer and what they care about.</li>
+<li><strong>Positioning:</strong> how you want to be seen and how you differ from alternatives.</li>
+<li><strong>Personality:</strong> three or four words that describe the brand's character.</li>
+<li><strong>What to keep:</strong> any existing elements with real recognition, such as a colour customers associate with you.</li>
+<li><strong>Where it will be used:</strong> website, social, ads, signage, packaging, vehicles, print.</li>
+<li><strong>Constraints:</strong> budget, timing, sector rules and anything that must or must not appear.</li>
+<li><strong>Decision makers:</strong> who gives feedback and who signs off.</li>
+</ul>
+<p>When reviewing designs, judge them against the brief rather than personal taste. Ask whether the direction will appeal to your customers, whether it sets you apart and whether it will work at every size and on every channel you listed. Feedback such as "make it pop" is hard to act on; feedback such as "this feels too formal for our younger customers" gives the designer something clear to work with.</p>
+<p>Keep the number of people giving feedback small. One or two decision makers, with input gathered from others beforehand, usually leads to a stronger and more coherent result than a large group voting on options.</p>
+
+<h2>FAQs</h2>
+<h3>What is brand identity design UK businesses should invest in?</h3>
+<p>A visual system covering logo variations, colours, typography, imagery style and guidelines, built on clear positioning and designed to work online first.</p>
+<h3>What is the difference between a logo and a brand identity?</h3>
+<p>A logo is one element. A brand identity is the full system of visual tools and rules that make every touchpoint look and feel consistent.</p>
+<h3>How long does brand identity design take?</h3>
+<p>It depends on scope, the number of creative rounds and how quickly feedback is given. Rollout across a website adds time; a new website typically takes 3 to 5 weeks.</p>
+<h3>How much does brand identity design cost?</h3>
+<p>It varies by scope. Compare what each quote includes, such as strategy, guidelines and rollout, rather than headline prices. Branding projects are quoted to scope.</p>
+<h3>Do I need brand guidelines?</h3>
+<p>Yes, if more than one person creates materials for your business. Guidelines keep the brand consistent as it is used by staff and suppliers.</p>
+<h3>Should I redesign my website when I rebrand?</h3>
+<p>Often it makes sense, as the website is where most customers meet your brand. Plan carefully to protect existing search rankings.</p>
+`,
+  },
+  {
+    slug: 'content-strategy-uk',
+    seoTitle: 'Content Strategy UK: How to Plan Content That Converts',
+    title: 'Content Strategy UK: A Practical Guide to Planning Content That Brings in Customers',
+    description: 'A content strategy sets who you write for, what you publish and how you measure it. Here is how UK businesses can build one that leads to enquiries.',
+    date: '2026-10-30',
+    category: 'Digital PR',
+    related: ['/services/digital-pr-content/', '/services/brand-strategy/', '/pricing/'],
+    body: `
+<p>A content strategy is a plan that decides who your content is for, what you will publish, where it will appear and how you will know it is working. For UK businesses, a good content strategy connects real customer questions and search demand to commercial goals, so blog posts, guides and pages bring in enquiries rather than just traffic.</p>
+<p>Plenty of businesses publish content without one. They write when someone has time, pick topics that feel interesting internally and hope something sticks. The result is usually a blog full of posts that nobody finds. This guide explains how to build a content strategy that is simple enough to follow and specific enough to measure.</p>
+
+<h2>What is a content strategy?</h2>
+<p>A content strategy is not a list of blog titles. It is the thinking that sits behind the list. It answers five questions:</p>
+<ol>
+<li><strong>Who are we creating content for?</strong> The specific people who buy from you, and what they need to know at each stage.</li>
+<li><strong>What do we want content to achieve?</strong> Enquiries, sales, sign-ups, trust or visibility in search and AI answers.</li>
+<li><strong>What will we publish?</strong> The topics, formats and pages that serve those people and goals.</li>
+<li><strong>How will it reach people?</strong> Search, email, social, digital PR and sales conversations.</li>
+<li><strong>How will we measure it?</strong> The numbers you will review and how often.</li>
+</ol>
+<p>If you can answer those clearly on one or two pages, you have the core of a strategy. Everything else is planning and execution.</p>
+
+<h2>Content strategy UK businesses can actually follow</h2>
+<p>The biggest risk with a content strategy is making it too ambitious. A plan to publish three articles a week falls apart in month two. A plan to publish two strong pieces a month and update one older page usually survives. Build the strategy around the time and budget you really have.</p>
+<h3>Step 1: Define your audiences</h3>
+<p>Write down the two or three types of customer that matter most. For each, note what problem brings them to you, what they worry about before buying and what words they use to describe it. Sales calls, enquiry emails and customer reviews are the best sources. UK customers often search with local phrasing, so capture the exact words they use, such as "near me", "cost UK" or "for small business".</p>
+<h3>Step 2: Set goals you can measure</h3>
+<p>Pick one main goal per piece of content. A comparison guide might aim for enquiries. A how-to article might aim for email sign-ups. A sector page might aim for calls. Tie each goal to something you can track in GA4, such as a form submission or a click to call. Our guide to <a href="/blog/ga4-setup-uk/">setting up GA4 in the UK</a> covers the basics.</p>
+<h3>Step 3: Research demand</h3>
+<p>Use keyword research to find the questions people search for and how often. Look beyond high-volume head terms to longer UK-specific queries, which are usually easier to rank for and closer to a buying decision. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> walks through the process.</p>
+<h3>Step 4: Audit what you already have</h3>
+<p>List your existing pages and posts. Mark each one as keep, update, merge or remove. Older posts that sit just off page one are often the fastest wins, because a refresh can lift them without starting from scratch.</p>
+<h3>Step 5: Build topic clusters</h3>
+<p>Group topics around a main page, such as a service page, with supporting articles that answer related questions and link back to it. This helps search engines understand what you are an authority on, and helps readers move from a question to a decision.</p>
+<h3>Step 6: Plan the calendar</h3>
+<p>Turn the clusters into an editorial calendar with owners, deadlines and a review date for each piece. Keep it in one shared place so it does not live in someone's head.</p>
+
+<h2>Content types and what they are good for</h2>
+<p>Different formats do different jobs. A balanced strategy mixes them rather than relying on one.</p>
+<table>
+<thead><tr><th>Content type</th><th>Main job</th><th>Best stage</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>How-to guide</td><td>Build trust and attract search traffic</td><td>Early research</td><td>How to choose a supplier</td></tr>
+<tr><td>Cost or pricing guide</td><td>Answer the money question honestly</td><td>Comparison</td><td>What a service costs in the UK</td></tr>
+<tr><td>Comparison article</td><td>Help people choose between options</td><td>Comparison</td><td>Option A vs option B</td></tr>
+<tr><td>Service or sector page</td><td>Convert interest into enquiries</td><td>Decision</td><td>A page for one type of customer</td></tr>
+<tr><td>FAQ content</td><td>Remove final doubts</td><td>Decision</td><td>Questions people ask before buying</td></tr>
+<tr><td>Digital PR content</td><td>Earn links and coverage</td><td>Awareness</td><td>Expert commentary or data-led stories</td></tr>
+<tr><td>Email content</td><td>Keep in touch with past visitors</td><td>All stages</td><td>A monthly round-up of useful advice</td></tr>
+</tbody>
+</table>
+
+<h2>How content strategy fits with brand and SEO</h2>
+<p>Content strategy sits between your brand and your search work. Your brand decides how you sound and what you stand for. Your SEO decides which questions you can realistically win in search. Content strategy turns both into a publishing plan.</p>
+<p>If your positioning is unclear, content tends to drift. Every writer interprets the business differently and the tone changes from post to post. That is why we often recommend sorting out positioning and voice first through <a href="/services/brand-strategy/">brand strategy</a>. A clear tone of voice guide also makes it much easier to brief writers.</p>
+<p>On the search side, content needs a sound technical base to rank. Slow pages, broken internal links and missing structured data all hold content back. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers that side, including how content shows up in AI-generated answers.</p>
+
+<h2>Writing for search and AI answers</h2>
+<p>Search engines and AI tools increasingly pull short, direct answers from pages. Content that is easy to quote tends to be cited more often. A few habits help:</p>
+<ul>
+<li>Answer the main question in the first two sentences.</li>
+<li>Use the searcher's own phrasing in the title, one heading and one FAQ.</li>
+<li>Break long explanations into short sections with clear headings.</li>
+<li>Use tables for comparisons and lists for steps.</li>
+<li>Add question-style FAQs at the end of the page.</li>
+<li>Keep facts accurate and up to date, and avoid vague claims you cannot back up.</li>
+</ul>
+<p>We cover this in more depth in our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+
+<h2>Measuring whether your content strategy works</h2>
+<p>Traffic is easy to report but it is not the goal. Measure content against the outcome you set in step 2. Useful measures include:</p>
+<ul>
+<li><strong>Enquiries or sales from content pages</strong>, tracked in GA4.</li>
+<li><strong>Rankings for target queries</strong>, especially movement into the top ten.</li>
+<li><strong>Assisted conversions</strong>, where someone read a guide before enquiring later.</li>
+<li><strong>Engagement</strong>, such as time on page and clicks to service pages.</li>
+<li><strong>Links and mentions earned</strong> from digital PR content.</li>
+</ul>
+<p>Search-led content typically takes 3 to 6 months to show clear results, so review monthly but judge quarterly. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> explains what a useful report should include.</p>
+
+<h2>Common content strategy mistakes</h2>
+<ul>
+<li><strong>Writing for yourself, not customers.</strong> Topics that excite the team are not always what buyers search for.</li>
+<li><strong>Chasing volume.</strong> Ten thin posts usually do less than two thorough ones.</li>
+<li><strong>No commercial link.</strong> Every article should give readers a natural next step towards a service or contact page.</li>
+<li><strong>Never updating.</strong> Content goes stale. Prices, rules and tools change, especially in regulated UK sectors.</li>
+<li><strong>Duplicating topics.</strong> Two posts targeting the same query compete with each other.</li>
+<li><strong>No owner.</strong> Without someone responsible, the calendar quietly stops.</li>
+</ul>
+
+<h2>Doing it in-house or with an agency</h2>
+<p>Many small UK businesses write some content themselves, because they know their customers best. Where they often need help is research, planning, editing and making sure content is built to rank. A mixed approach works well: your team supplies expertise and examples, and an agency handles strategy, structure, optimisation and reporting.</p>
+<p>If you are weighing up options, our guide to <a href="/blog/content-marketing-agency-uk/">choosing a content marketing agency</a> covers what to look for. Our <a href="/services/digital-pr-content/">digital PR and content service</a> includes content planning, writing and promotion, and our <a href="/pricing/">pricing page</a> lists our monthly retainers.</p>
+
+<h2>A simple one-page content strategy template</h2>
+<p>If you want to start today, write these headings on one page and fill them in:</p>
+<ol>
+<li>Audiences: who they are and what they need.</li>
+<li>Goals: one primary goal and how you will track it.</li>
+<li>Priority topics: the five to ten questions you most want to own.</li>
+<li>Existing content: what to keep, update, merge or remove.</li>
+<li>Formats: which content types you will use and why.</li>
+<li>Calendar: what gets published each month and who owns it.</li>
+<li>Promotion: where each piece will be shared.</li>
+<li>Measurement: what you review monthly and quarterly.</li>
+</ol>
+<p>Review the page every quarter. Drop what is not working and do more of what is.</p>
+
+<h2>FAQs</h2>
+<h3>What is a content strategy UK businesses should have?</h3>
+<p>A short written plan covering audiences, goals, priority topics, formats, a publishing calendar, promotion and measurement. It should be realistic for the time and budget you have.</p>
+<h3>How long does a content strategy take to work?</h3>
+<p>Search-led content typically shows clearer results within 3 to 6 months. Refreshing pages that already rank can bring earlier gains.</p>
+<h3>How often should a small business publish content?</h3>
+<p>Consistency matters more than volume. A steady pace you can keep, with regular updates to older pages, usually beats a burst of posts followed by silence.</p>
+<h3>What is the difference between content strategy and content marketing?</h3>
+<p>Content strategy is the plan: who, what, why and how you measure it. Content marketing is carrying out that plan by creating and promoting the content.</p>
+<h3>Do I need a brand strategy before a content strategy?</h3>
+<p>It helps. Clear positioning and tone of voice make content more consistent and easier to brief, but you can start with a simple content plan and refine as you go.</p>
+<h3>How much does content strategy cost?</h3>
+<p>It depends on scope. Content planning is often part of a monthly retainer; our published retainers are £350, £750 and £1,500 a month.</p>
+`,
+  },
+  {
+    slug: 'pr-for-small-business-uk',
+    seoTitle: 'PR for Small Business UK: A Practical Guide',
+    title: 'PR for Small Business UK: How to Get Coverage, Links and Trust on a Small Budget',
+    description: 'PR for small business means earning coverage and links that build trust and search visibility. Here is how UK small firms can do it on a realistic budget.',
+    date: '2026-10-30',
+    category: 'Digital PR',
+    related: ['/services/digital-pr-content/', '/services/brand-strategy/', '/pricing/'],
+    body: `
+<p>PR for a small business means earning coverage, mentions and links from publications, websites and communities your customers already trust. For UK small businesses, the most effective PR is usually focused and local or niche: a clear story, a short list of relevant outlets and useful expert input, rather than an expensive national campaign.</p>
+<p>Many small business owners assume PR is only for big brands with big budgets. In practice, small firms often have an advantage. They have real founders with real opinions, local roots and specialist knowledge that journalists and editors need. This guide explains how PR works for small businesses, what it can realistically achieve and how to get started.</p>
+
+<h2>What is PR for small business UK owners should care about?</h2>
+<p>Public relations is the work of shaping how people see your business through third parties rather than paid adverts. For a small business, that usually means:</p>
+<ul>
+<li><strong>Press coverage</strong> in local, trade or national media.</li>
+<li><strong>Expert commentary</strong> quoted in articles about your field.</li>
+<li><strong>Online mentions and links</strong> from relevant websites, known as digital PR.</li>
+<li><strong>Community presence</strong> through local events, awards entries, sponsorships and partnerships.</li>
+<li><strong>Reputation management</strong>, such as handling reviews and responding to issues.</li>
+</ul>
+<p>The aim is trust. When someone sees your business mentioned by a source they already respect, they are more likely to believe what you say about yourself.</p>
+
+<h2>Traditional PR vs digital PR</h2>
+<p>Traditional PR focuses on print, broadcast and reputation. Digital PR focuses on online coverage, especially coverage that links back to your website. Both have a place, but digital PR is often a better fit for small businesses because its results are easier to measure and it supports search visibility.</p>
+<table>
+<thead><tr><th>Aspect</th><th>Traditional PR</th><th>Digital PR</th></tr></thead>
+<tbody>
+<tr><td>Main outlets</td><td>Newspapers, magazines, radio, TV</td><td>News sites, blogs, trade sites, online magazines</td></tr>
+<tr><td>Main benefit</td><td>Awareness and reputation</td><td>Awareness, links and search visibility</td></tr>
+<tr><td>Measurement</td><td>Reach and sentiment, harder to track</td><td>Links, referral traffic, rankings and enquiries</td></tr>
+<tr><td>SEO impact</td><td>Limited unless coverage is online with a link</td><td>Direct, through links and brand mentions</td></tr>
+<tr><td>Good fit for</td><td>Local launches, events, reputation work</td><td>Businesses that want long-term search growth</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains the search side in more depth.</p>
+
+<h2>Why PR matters for search and AI visibility</h2>
+<p>Search engines treat links and mentions from trusted sites as signals that your business is credible. AI tools that generate answers also draw on sources that are widely cited. A small business with a few strong, relevant links and mentions can often outrank a larger competitor with a weak profile.</p>
+<p>That does not mean any link will do. Links from irrelevant or low-quality sites can be useless or even harmful. PR-earned links from real publications are much safer than bought links. If you want to understand what link building usually involves, see our guide to <a href="/blog/link-building-cost-uk/">link building costs in the UK</a>.</p>
+
+<h2>How to do PR for a small business</h2>
+<h3>1. Get your story straight</h3>
+<p>Before contacting anyone, know what you stand for. What makes your business different? Who do you serve? What do you know that others do not? If this is hard to answer, it may be worth working on positioning first through <a href="/services/brand-strategy/">brand strategy</a>. Journalists respond to clear, confident stories.</p>
+<h3>2. Build a realistic media list</h3>
+<p>List publications your customers actually read: local news sites, trade magazines, industry blogs, community newsletters and relevant podcasts. A list of twenty well-chosen outlets is more useful than hundreds of random contacts. Note the journalists or editors who cover your topic.</p>
+<h3>3. Offer something useful</h3>
+<p>Journalists need stories, data, expert views and timely angles. Good small business PR ideas include:</p>
+<ul>
+<li>Expert comment on news in your sector.</li>
+<li>Practical tips tied to the season or a change in UK rules.</li>
+<li>Original data from a survey or your own anonymised insight, presented honestly.</li>
+<li>Local stories, such as a new opening, a community project or a milestone.</li>
+<li>Guides and resources that other sites want to reference.</li>
+</ul>
+<h3>4. Pitch briefly and personally</h3>
+<p>Keep pitches short. Say what the story is, why it matters to that publication's readers and what you can offer, such as a quote, data or an interview. Avoid sending the same generic press release to everyone.</p>
+<h3>5. Respond to journalist requests</h3>
+<p>Journalists often ask for expert sources on social media and through request services. Responding quickly with a clear, quotable answer is one of the simplest ways for a small business to earn coverage.</p>
+<h3>6. Make your website ready</h3>
+<p>Coverage sends people to your site. Make sure your key pages explain what you do clearly, load quickly and give visitors an obvious next step. Linkable content, such as useful guides, makes it easier for writers to reference you.</p>
+<h3>7. Track results</h3>
+<p>Keep a simple log of coverage, links earned, referral traffic and enquiries. Use GA4 to see which coverage sends visitors who go on to contact you.</p>
+
+<h2>PR on a small budget</h2>
+<p>Small businesses rarely need a big retainer to start. Low-cost options include:</p>
+<ul>
+<li>Building relationships with two or three local or trade journalists.</li>
+<li>Writing useful guest articles for relevant industry sites.</li>
+<li>Entering genuine local business awards where relevant.</li>
+<li>Partnering with complementary local businesses on events or content.</li>
+<li>Keeping your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> active, since local reputation and PR work well together.</li>
+</ul>
+<p>When you want more consistent results, an agency can help with ideas, outreach and measurement. Our <a href="/services/digital-pr-content/">digital PR and content service</a> covers PR planning, content and outreach, and our <a href="/pricing/">pricing page</a> shows our monthly retainers.</p>
+
+<h2>Common small business PR mistakes</h2>
+<ul>
+<li><strong>Sending news that is not news.</strong> A new website or hire is rarely a story on its own.</li>
+<li><strong>Mass emailing journalists.</strong> Generic pitches are ignored and can damage relationships.</li>
+<li><strong>Exaggerating claims.</strong> Overstated results or invented statistics can backfire and may breach advertising rules.</li>
+<li><strong>Buying links and calling it PR.</strong> Paid links carry risk and offer little real trust.</li>
+<li><strong>Giving up too soon.</strong> PR builds over time; one pitch rarely changes much.</li>
+<li><strong>Ignoring the follow-through.</strong> Coverage is wasted if your site does not convert the visitors it sends.</li>
+</ul>
+
+<h2>PR for regulated sectors</h2>
+<p>If you are in financial services, healthcare or another regulated area, PR needs extra care. Commentary should be general information and not personal advice, and approval should rest with your compliance team before anything is published. Our guide to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing</a> covers some of the considerations for financial firms.</p>
+
+<h2>How long does PR take to work?</h2>
+<p>Some coverage can land within weeks, especially reactive comment. The search benefits of digital PR usually build more slowly, alongside wider SEO work, and typically show clearer results within 3 to 6 months. Treat PR as an ongoing activity rather than a one-off campaign.</p>
+
+<h2>Turning coverage into business</h2>
+<p>Coverage is only the start. To get full value from every mention, plan what happens after it lands.</p>
+<ul>
+<li><strong>Share it:</strong> post coverage on your social channels and include it in customer emails.</li>
+<li><strong>Use it on your website:</strong> a simple "as featured in" line or a press page can build trust, as long as every mention is real and accurate.</li>
+<li><strong>Ask for a link:</strong> if an online article mentions you without linking, a polite request to the writer sometimes adds one.</li>
+<li><strong>Repurpose it:</strong> turn expert comments into blog posts, social content or FAQs on your site.</li>
+<li><strong>Follow up:</strong> thank the journalist and offer to help with future stories. Relationships matter more than any single article.</li>
+</ul>
+<p>It also helps to connect PR with your wider content plan. Topics that earn coverage often make strong guides on your own site, and those guides can then attract further links over time. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> explains how the two support each other.</p>
+
+<h2>Preparing for the unexpected</h2>
+<p>PR is not only about good news. Small businesses can face negative reviews, social media complaints or a mistake that attracts attention. Prepare a simple plan: who responds, how quickly, and what tone to use. Respond calmly and factually, acknowledge genuine problems and move detailed conversations to private channels. A measured response often protects reputation better than silence or defensiveness.</p>
+
+<h2>FAQs</h2>
+<h3>What is PR for small business UK firms can realistically do?</h3>
+<p>Expert commentary, local and trade coverage, useful guides that earn links, community activity and responding to journalist requests. All can be done on a modest budget.</p>
+<h3>Is PR worth it for a small business?</h3>
+<p>It can be, especially digital PR, because it builds trust and links that support search visibility. Results depend on having a clear story and being consistent.</p>
+<h3>How much does PR cost for a small business?</h3>
+<p>It ranges from your own time to an agency retainer. Our published monthly retainers are £350, £750 and £1,500.</p>
+<h3>What is the difference between PR and digital PR?</h3>
+<p>Traditional PR focuses on print, broadcast and reputation. Digital PR focuses on online coverage and links that also help search rankings.</p>
+<h3>Do I need a press release?</h3>
+<p>Not always. A short, personal pitch with a clear angle often works better than a formal press release, especially for small businesses.</p>
+<h3>Can PR help my Google rankings?</h3>
+<p>Yes. Links and mentions from relevant, trusted sites are signals search engines and AI tools use to judge credibility.</p>
+`,
+  },
+  {
+    slug: 'tone-of-voice-guide-uk',
+    seoTitle: 'Tone of Voice Guide UK: How to Write One for Your Brand',
+    title: 'Tone of Voice Guide UK: How to Define and Write Your Brand\'s Voice',
+    description: 'A tone of voice guide sets how your business sounds in writing. Learn what to include, how to create one and how UK businesses keep it consistent.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/brand-strategy/', '/services/digital-pr-content/', '/pricing/'],
+    body: `
+<p>A tone of voice guide is a short document that explains how your business sounds in writing, with clear traits, do and don't examples and guidance for different situations. For UK businesses, a good tone of voice guide makes websites, emails, social posts and ads sound like one confident brand, whoever writes them.</p>
+<p>Most businesses have a voice whether they planned it or not. The problem is that it changes depending on who is writing. The website sounds formal, social posts sound chatty and sales emails sound like someone else entirely. This guide explains what a tone of voice guide should include, how to create one and how to make sure people actually use it.</p>
+
+<h2>Voice vs tone: what is the difference?</h2>
+<p>The two words are often used together, but they mean slightly different things.</p>
+<ul>
+<li><strong>Voice</strong> is your brand's personality in writing. It stays consistent. If your voice is plain-speaking and warm, it should be plain-speaking and warm everywhere.</li>
+<li><strong>Tone</strong> is how that voice adapts to the moment. You would not use the same tone in a celebratory social post as in a reply to a customer complaint, but both should still sound like you.</li>
+</ul>
+<p>A good guide defines the voice and then shows how the tone shifts across situations.</p>
+
+<h2>Why a tone of voice guide UK businesses can use matters</h2>
+<p>A clear voice does several practical jobs:</p>
+<ul>
+<li><strong>Recognition:</strong> people start to recognise your writing, just as they recognise your logo.</li>
+<li><strong>Trust:</strong> consistency signals a well-run business.</li>
+<li><strong>Speed:</strong> writers spend less time guessing and editors spend less time rewriting.</li>
+<li><strong>Better briefs:</strong> agencies and freelancers can match your style from the start.</li>
+<li><strong>Differentiation:</strong> in crowded markets, how you say things can set you apart as much as what you say.</li>
+</ul>
+<p>UK audiences also tend to respond well to plain English and are often wary of overblown claims. A voice that is clear and honest usually works harder than one full of superlatives.</p>
+
+<h2>What to include in a tone of voice guide</h2>
+<p>Keep the guide short enough that people will read it. Most effective guides fit on a few pages and cover the following.</p>
+<table>
+<thead><tr><th>Section</th><th>What it covers</th><th>Why it helps</th></tr></thead>
+<tbody>
+<tr><td>Who we are writing for</td><td>A short description of your main audiences</td><td>Keeps writing focused on readers, not the business</td></tr>
+<tr><td>Voice traits</td><td>Three or four words that describe your voice</td><td>Gives writers a simple test for every sentence</td></tr>
+<tr><td>This, not that</td><td>For each trait, what it is and what it is not</td><td>Stops traits being misread, such as friendly becoming flippant</td></tr>
+<tr><td>Examples</td><td>Before and after rewrites</td><td>Shows the voice in practice, not just in theory</td></tr>
+<tr><td>Tone by situation</td><td>How tone shifts for sales, support, social and complaints</td><td>Helps writers adapt without losing the voice</td></tr>
+<tr><td>Style rules</td><td>Spelling, grammar, numbers, dates and capitalisation</td><td>Removes small inconsistencies</td></tr>
+<tr><td>Word list</td><td>Words to use and words to avoid</td><td>Keeps terminology consistent</td></tr>
+</tbody>
+</table>
+
+<h2>How to create your tone of voice guide</h2>
+<h3>1. Start with positioning</h3>
+<p>Your voice should reflect who you serve and how you want to be seen. If you are unclear on positioning, the voice will be too. Our <a href="/services/brand-strategy/">brand strategy service</a> covers positioning, messaging and voice together, and our guide to <a href="/blog/brand-strategy-agency-uk/">brand strategy agencies</a> explains how those pieces fit.</p>
+<h3>2. Gather what you already write</h3>
+<p>Collect examples from your website, emails, proposals, social posts and ads. Mark the pieces that feel most like you and the ones that feel wrong. Patterns usually appear quickly.</p>
+<h3>3. Listen to customers</h3>
+<p>Read reviews, enquiry emails and notes from sales calls. Note the words customers use to describe their problems and your business. Using their language makes writing feel familiar and helps with search, because people search in their own words.</p>
+<h3>4. Choose three or four voice traits</h3>
+<p>Pick a small number of traits, such as clear, practical, warm and confident. More than four becomes hard to remember. Avoid traits every business claims, such as professional, unless you can say exactly what it means for you.</p>
+<h3>5. Define each trait with this, not that</h3>
+<p>For each trait, explain what it means and what it does not. For example, "confident, not arrogant" or "friendly, not over-familiar". This is the part of the guide writers use most.</p>
+<h3>6. Write before and after examples</h3>
+<p>Take real sentences from your materials and rewrite them in the new voice. Examples teach far better than descriptions.</p>
+<h3>7. Show tone by situation</h3>
+<p>Add short guidance for the main situations your business writes in: website pages, sales emails, customer support, complaint responses, social posts and ads.</p>
+<h3>8. Add style rules</h3>
+<p>Settle the small things: UK spelling, how you write prices and dates, whether you use the Oxford comma, how you refer to your business and capitalisation in headings.</p>
+
+<h2>Example: one trait in practice</h2>
+<p>Here is how a single trait might be described in a guide.</p>
+<blockquote><p><strong>Clear, not clever.</strong> We say what we mean in plain English. We use short sentences and everyday words. We explain technical terms the first time we use them. We do not use jargon to sound impressive, and we do not hide the answer behind a clever line.</p></blockquote>
+<p>A before and after might look like this:</p>
+<ul>
+<li><strong>Before:</strong> "We leverage best-in-class solutions to drive synergistic growth outcomes."</li>
+<li><strong>After:</strong> "We help you get more enquiries from your website."</li>
+</ul>
+
+<h2>Tone of voice across channels</h2>
+<p>Your voice should be recognisable everywhere, but each channel has its own demands.</p>
+<ul>
+<li><strong>Website:</strong> clear, answer-first and easy to scan. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers structure.</li>
+<li><strong>Blog and guides:</strong> helpful and thorough. See our guide to <a href="/blog/content-marketing-agency-uk/">content marketing</a> for planning.</li>
+<li><strong>Ads:</strong> short and direct, within advertising rules. In the UK, ads must follow the CAP Code, so avoid claims you cannot support.</li>
+<li><strong>Email:</strong> personal and relevant. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> has more detail.</li>
+<li><strong>Social:</strong> more relaxed, but still recognisably you.</li>
+<li><strong>Customer support:</strong> calm, helpful and human, especially when something has gone wrong.</li>
+</ul>
+
+<h2>Regulated sectors</h2>
+<p>If you work in finance, healthcare or law, your voice still matters, but it sits alongside compliance rules. A guide can set the style, but approval of customer-facing content should rest with your compliance team. Build those checks into your process rather than treating them as an afterthought.</p>
+
+<h2>Making the guide stick</h2>
+<p>Many tone of voice guides are written once and forgotten. To make yours useful:</p>
+<ul>
+<li>Share it with everyone who writes for the business, including agencies and freelancers.</li>
+<li>Keep it short and easy to find.</li>
+<li>Include it in every content brief.</li>
+<li>Review a sample of content every few months and update the guide when you spot gaps.</li>
+<li>Collect good examples as they appear and add them.</li>
+</ul>
+<p>When you need help applying your voice to content, our <a href="/services/digital-pr-content/">digital PR and content service</a> can write in it, and our <a href="/pricing/">pricing page</a> shows our monthly retainers.</p>
+
+<h2>Common tone of voice mistakes</h2>
+<ul>
+<li><strong>Choosing traits nobody can disagree with.</strong> Words such as professional, innovative or passionate rarely help writers, because every business claims them.</li>
+<li><strong>No examples.</strong> A list of adjectives without before and after rewrites leaves too much to interpretation.</li>
+<li><strong>Forcing personality.</strong> Jokes and slang in every sentence can feel forced and irritate customers, especially when something has gone wrong.</li>
+<li><strong>Ignoring the reader.</strong> The guide should reflect how your customers talk and what they need, not just how the leadership team likes to sound.</li>
+<li><strong>Making it too long.</strong> A guide nobody reads does not change anything.</li>
+<li><strong>Never updating it.</strong> As the business grows or changes direction, the voice may need to evolve too.</li>
+</ul>
+
+<h2>Using your voice with AI writing tools</h2>
+<p>Many UK businesses now use AI tools to help draft emails, posts and web copy. Without guidance, these tools tend to produce generic text that sounds like everyone else. A tone of voice guide gives you something concrete to work with: you can include your voice traits, this-not-that definitions and before and after examples in your prompts, then edit the output against the guide.</p>
+<p>Whatever tools you use, a person should still review the final text. Check that it sounds like you, that every claim is accurate and that it follows advertising rules where relevant.</p>
+
+<h2>FAQs</h2>
+<h3>What is a tone of voice guide UK businesses should have?</h3>
+<p>A short, practical document describing how your business sounds, with voice traits, this-not-that definitions, examples, tone by situation and basic style rules.</p>
+<h3>How long should a tone of voice guide be?</h3>
+<p>Short enough that people will read it. A few pages with clear examples is usually more useful than a long document nobody opens.</p>
+<h3>What is the difference between tone of voice and brand voice?</h3>
+<p>Brand voice is your consistent personality in writing. Tone is how that voice adapts to different situations, such as sales or support.</p>
+<h3>How many voice traits should a brand have?</h3>
+<p>Three or four is usually enough. More becomes hard to remember and apply.</p>
+<h3>Does tone of voice affect SEO?</h3>
+<p>Indirectly. Clear writing in your customers' own words helps readers and matches how people search, which supports engagement and relevance.</p>
+<h3>Who should write the tone of voice guide?</h3>
+<p>Someone who understands your positioning and customers, often with input from leadership and front-line staff. An agency can facilitate and write it.</p>
+`,
+  },
 ];
