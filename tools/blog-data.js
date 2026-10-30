@@ -8036,4 +8036,501 @@ module.exports = [
 <p>During a quieter trading period, early in the week, with developers available to fix problems. Avoid peak seasons and major sales events.</p>
 `,
   },
+  {
+    slug: 'accountant-marketing-uk',
+    seoTitle: 'Accountant Marketing UK: How to Win More Clients',
+    title: 'Accountant Marketing in the UK: How Practices Win Better Clients Online',
+    description: 'Accountant marketing in the UK works best with niche-focused service pages, local SEO and helpful tax content, backed by clear pricing and fast follow-up.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/sectors/financial-advisers/', '/services/seo-geo/'],
+    body: `
+<p>Accountant marketing in the UK works best when a practice picks the clients it wants, builds a clear page for each service and client type, and supports that with local SEO, practical tax and finance content, and quick, organised follow-up on enquiries. Firms that try to appeal to everyone with a generic "accounts, tax and payroll" page usually find it hard to stand out.</p>
+<p>This guide covers how small businesses and individuals choose an accountant, which channels tend to work, how to structure your website, and how to plan marketing around the accounting calendar. It is general marketing information. Prism Works Studio is not an accountancy firm and is not regulated; anything your professional body or regulator requires of your marketing is for your practice to confirm.</p>
+
+<h2>How clients choose an accountant</h2>
+<p>Most people look for an accountant at a trigger point: starting a business, registering for VAT, receiving a letter from HMRC, taking on staff, growing past the point of doing it themselves, or falling out with their current firm. They want to know three things quickly: do you work with businesses like mine, what will it roughly cost, and will you be easy to deal with?</p>
+<table>
+<thead><tr><th>Client type</th><th>Common trigger</th><th>What they look for</th></tr></thead>
+<tbody>
+<tr><td>Sole trader or landlord</td><td>Self Assessment deadline, Making Tax Digital changes</td><td>Clear fixed-fee packages, simple onboarding</td></tr>
+<tr><td>New limited company</td><td>Incorporation, first year-end</td><td>Help with Companies House, payroll and VAT setup</td></tr>
+<tr><td>Growing SME</td><td>Outgrowing bookkeeping, needing management accounts</td><td>Sector experience, software skills, advisory support</td></tr>
+<tr><td>Specialist sector (for example, contractors, medics, ecommerce)</td><td>Sector-specific tax questions</td><td>Evidence you understand their world</td></tr>
+</tbody>
+</table>
+<p>Specialist positioning is powerful in accountancy. A page aimed at "accountants for ecommerce sellers" or "accountants for dentists" speaks directly to a smaller group, but that group is far more likely to get in touch.</p>
+
+<h2>Accountant marketing UK: channels that tend to work</h2>
+<h3>Service and niche pages</h3>
+<p>Build a dedicated page for each core service (annual accounts, Self Assessment, VAT returns, payroll, bookkeeping, management accounts, tax planning) and for each client niche you want to grow. Each page should explain what is included, who it suits, how the process works and how pricing is structured, if you choose to publish it. Our <a href="/services/seo-geo/">SEO service</a> covers this kind of page planning, and our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses</a> explains the basics.</p>
+
+<h3>Local SEO</h3>
+<p>Plenty of clients still prefer a local accountant, even if most work happens online. Searches like "accountant in Bristol" or "small business accountant near me" depend heavily on your Google Business Profile, consistent business details and real location pages. See our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a>.</p>
+
+<h3>Helpful content</h3>
+<p>Accountants have a natural content advantage: clients have endless questions. Practical answers to questions such as "what expenses can a sole trader claim", "when do I need to register for VAT" or "how does Making Tax Digital affect landlords" attract the people who are about to need help. The key is to keep content accurate and up to date, because tax thresholds and deadlines change, and to link each article to the service page it relates to. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> covers planning.</p>
+
+<h3>Paid search</h3>
+<p>Google Ads can fill gaps in the calendar or support a new niche, especially for terms like "Self Assessment accountant" in the weeks before the January deadline. Keep campaigns focused on services you can take on at a profit, and filter out searches for jobs, courses and free tools. Our <a href="/services/paid-media/">paid media service</a> and <a href="/blog/ppc-management-cost-uk/">PPC management cost guide</a> give more detail.</p>
+
+<h3>Referrals and partnerships</h3>
+<p>Referrals from clients, solicitors, mortgage brokers, financial advisers and banks remain a major source for many practices. Marketing can support them: a strong website makes referred prospects more confident, and shared content with partner firms keeps you front of mind. If you work closely with advisers, our <a href="/sectors/financial-advisers/">financial adviser marketing</a> page and <a href="/blog/mortgage-broker-marketing-uk/">mortgage broker marketing guide</a> show how those sectors approach things.</p>
+
+<h2>Planning around the accounting calendar</h2>
+<p>Demand for accountancy services is seasonal. Planning around it helps you capture enquiries when people are looking and avoid paying for clicks you cannot service.</p>
+<table>
+<thead><tr><th>Period</th><th>What clients are thinking about</th><th>Marketing focus</th></tr></thead>
+<tbody>
+<tr><td>April to June</td><td>New tax year, early Self Assessment filers</td><td>Content on new thresholds, early-bird filing messages</td></tr>
+<tr><td>July to September</td><td>Payments on account, quieter period</td><td>Website improvements, niche content, SEO groundwork</td></tr>
+<tr><td>October to January</td><td>Self Assessment deadline pressure</td><td>Paid search, deadline reminders, clear capacity messaging</td></tr>
+<tr><td>Company year ends (varies)</td><td>Annual accounts and corporation tax</td><td>Email reminders to clients, prospect nurturing</td></tr>
+</tbody>
+</table>
+<p>Many practices fill their capacity before January and then stop advertising. That is sensible; there is no point paying for leads you have to turn away. A waiting list or "book for next year" option can capture interest for later.</p>
+
+<h2>Website essentials for an accountancy practice</h2>
+<ul>
+<li><strong>Clear positioning on the home page</strong>: who you help and where, in a sentence.</li>
+<li><strong>Service and niche pages</strong>, each with a specific call to action.</li>
+<li><strong>Pricing guidance</strong>, whether fixed packages or "from" prices, if your practice is comfortable publishing them. Clients often filter by this.</li>
+<li><strong>Software you support</strong> (such as Xero, QuickBooks or FreeAgent), which many small businesses search for.</li>
+<li><strong>Team pages</strong> with qualifications and professional memberships stated accurately.</li>
+<li><strong>A simple enquiry or booking form</strong> that asks just enough to qualify the lead.</li>
+<li><strong>Fast loading and mobile-friendly design.</strong> See our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a>.</li>
+</ul>
+<p>If your site needs rebuilding, our <a href="/services/website-ecommerce-development/">website development service</a> covers small business sites, and our <a href="/blog/website-design-cost-small-business-uk/">website design cost guide</a> explains budgets.</p>
+
+<h2>Professional rules and accuracy</h2>
+<p>Accountancy bodies such as ICAEW, ACCA and others have their own rules on how members describe themselves, use designatory letters and promote their services, and anti-money laundering supervision applies to most practices. Advertising generally is also covered by the CAP Code. We cannot advise on what applies to your firm, so our process includes a review step where you check claims about qualifications, memberships, fees and outcomes before anything is published. Tax content should also be reviewed by a qualified member of your team, because inaccurate guidance can mislead readers and damage trust.</p>
+
+<h2>Business clients and longer sales cycles</h2>
+<p>If you focus on growing SMEs, outsourced finance director services or specialist advisory work, your marketing will look more like B2B professional services: fewer, larger clients, longer decisions and more weight on reputation and expertise. LinkedIn, webinars, sector content and case examples (only those clients have agreed to) tend to matter more here. Our <a href="/sectors/b2b/">B2B marketing</a> page and <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explain how we approach this kind of work.</p>
+
+<h2>Following up enquiries</h2>
+<p>Marketing only works if enquiries are handled well. Simple steps make a large difference: replying the same working day, using a short discovery call to qualify fit, sending a clear proposal or engagement letter quickly, and following up politely if you hear nothing. A basic CRM or even a well-kept shared inbox stops leads going cold, particularly in busy season.</p>
+
+<p>It also helps to look after existing clients as a marketing channel. A short, regular email with deadline reminders and relevant changes keeps clients informed and makes them more likely to recommend you, provided you have their permission to send it.</p>
+
+<h2>Cost and timescales</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 and Scale at £1,500 a month, with ad spend paid separately. A small practice website typically costs £1,000 to £2,000 and takes three to five weeks. SEO usually takes three to six months to show a clear trend. See our <a href="/pricing/">pricing page</a> for what each plan includes.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective accountant marketing in the UK?</h3>
+<p>For most practices, a combination of niche-focused service pages, local SEO with a complete Google Business Profile, useful tax content and referrals works best. Paid search is a useful addition in busy seasons or when launching a new niche.</p>
+<h3>Should accountants specialise in a niche?</h3>
+<p>It often helps. A clear niche makes your marketing more specific, your content more relevant and your referrals easier to explain. You can still serve general clients while leading with one or two specialisms.</p>
+<h3>Should I publish my accountancy fees online?</h3>
+<p>Many clients look for pricing before getting in touch, so "from" prices or package outlines can increase enquiries and filter out poor fits. Whether to publish is a decision for your practice.</p>
+<h3>Is Google Ads worth it for accountants?</h3>
+<p>It can be, particularly before the Self Assessment deadline or for specialist services. Keep keywords focused, use negatives to filter out job and course searches, and pause campaigns once you are at capacity.</p>
+<h3>How long does SEO take for an accountancy firm?</h3>
+<p>Usually three to six months to see a clear trend, depending on your location, competition and how much useful content your site already has.</p>
+<h3>Can Prism Works Studio write tax content for us?</h3>
+<p>We can plan, draft and optimise content, but a qualified member of your team should check every technical point before publication. We are not accountants or tax advisers.</p>
+`,
+  },
+  {
+    slug: 'estate-agent-marketing-uk',
+    seoTitle: 'Estate Agent Marketing UK: Win More Instructions',
+    title: 'Estate Agent Marketing in the UK: How to Win More Vendor and Landlord Instructions',
+    description: 'Estate agent marketing in the UK should focus on winning instructions: local SEO, valuation landing pages, useful area content and well-targeted social ads.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Estate agent marketing in the UK should focus mainly on winning instructions from vendors and landlords, because the property portals already deliver most buyer and tenant interest. The agents who grow tend to combine strong local SEO, valuation-focused landing pages, genuinely useful area content and targeted social advertising, all backed by a quick, professional response to every valuation request.</p>
+<p>This guide explains where instructions come from, how to structure your website, which paid channels work, and what to keep in mind about property advertising rules. It is general marketing information. Prism Works Studio is a marketing agency, not a property professional or a regulated business, and checking listings and ads against the rules that apply to your agency is the agency's responsibility.</p>
+
+<h2>Where estate agent instructions come from</h2>
+<p>Most agencies win instructions from a mix of sources. Understanding which are growing and which you control helps decide where to spend time and budget.</p>
+<table>
+<thead><tr><th>Source</th><th>Who controls it</th><th>Strengths</th><th>Limits</th></tr></thead>
+<tbody>
+<tr><td>Property portals</td><td>The portal</td><td>Buyer and tenant reach, brand visibility</td><td>Costly; vendor leads not always exclusive</td></tr>
+<tr><td>Board and window presence</td><td>You</td><td>Local awareness</td><td>Limited to your existing stock and high street</td></tr>
+<tr><td>Past clients and referrals</td><td>You</td><td>High trust, low cost</td><td>Hard to scale quickly</td></tr>
+<tr><td>Local SEO and website</td><td>You</td><td>Direct valuation requests, compounding over time</td><td>Typically 3 to 6 months to build</td></tr>
+<tr><td>Social and search ads</td><td>You, paid per click or impression</td><td>Fast, can target homeowners by area</td><td>Needs good creative and landing pages</td></tr>
+</tbody>
+</table>
+<p>The aim is not to replace portals but to reduce dependence on them for vendor and landlord leads, which are the lifeblood of the business.</p>
+
+<h2>Estate agent marketing UK: building your own lead sources</h2>
+<h3>Local SEO</h3>
+<p>Homeowners search for "estate agents in [town]", "letting agents near me" and "house valuation [area]". To rank, you need a complete Google Business Profile for each branch, consistent details across directories, and branch or area pages that say something specific about each location. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> cover the essentials, and our <a href="/services/seo-geo/">SEO service</a> explains how we handle it for multi-branch businesses.</p>
+
+<h3>Valuation landing pages</h3>
+<p>The valuation request is the most valuable action on an agent's website. Give it a dedicated page (or one per area) that explains what happens during a valuation, how long it takes, what the owner needs to prepare and what happens next. Keep the form short. Online "instant valuation" tools can capture interest, but be clear that any figure is an estimate and that a proper appraisal follows. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers the principles.</p>
+
+<h3>Area guides and market content</h3>
+<p>Well-written area guides (schools, transport, amenities, types of property, what the market is like) help with both buyer trust and SEO. Monthly or quarterly local market commentary, based on figures you can source and cite, gives vendors a reason to visit and positions your team as the local experts. Avoid invented figures; if you quote statistics, use ones you can verify and date them.</p>
+
+<h3>Landlord and lettings content</h3>
+<p>Landlords face a steady stream of rule changes, from safety certificates to deposit protection and energy efficiency standards. Clear, dated guides on these topics, reviewed by your lettings team, attract landlords looking for help and support your lettings management service. Present these as general information and encourage landlords to take advice where appropriate.</p>
+
+<h2>Paid advertising for estate agents</h2>
+<h3>Social ads</h3>
+<p>Meta (Facebook and Instagram) ads can reach homeowners in specific postcodes with messages about valuations, recent sales in their area or your marketing approach. Video tours and "just sold" content often perform well as awareness, with a valuation offer as the follow-up. Housing ads on Meta fall under a special ad category with targeting restrictions, so campaigns need to be set up accordingly. Our <a href="/blog/meta-ads-agency-uk/">Meta Ads guide</a> explains more, and TikTok can work for agencies with good video content; see our <a href="/blog/tiktok-ads-agency-uk/">TikTok Ads guide</a>.</p>
+
+<h3>Search ads</h3>
+<p>Google Ads on terms like "estate agent [town]" and "sell my house [town]" can produce valuation requests quickly, though competition varies a lot by area. Bid on your own brand name if competitors do, filter out irrelevant searches with negatives, and send traffic to the valuation page rather than the home page. Our <a href="/services/paid-media/">paid media service</a> covers set-up and management.</p>
+
+<h2>Website essentials for estate and letting agents</h2>
+<ul>
+<li><strong>Property search that works well on mobile</strong>, with fast-loading images and accurate, up-to-date listings.</li>
+<li><strong>Clear routes for each audience</strong>: sellers, buyers, landlords and tenants.</li>
+<li><strong>Valuation calls to action</strong> on every relevant page, not just the home page.</li>
+<li><strong>Branch pages</strong> with real details, opening hours and local team information approved by the agency.</li>
+<li><strong>Fees pages</strong>, particularly for lettings, where fee information has specific display requirements.</li>
+<li><strong>Redress scheme and client money protection details</strong> displayed where required.</li>
+</ul>
+<p>If your website is slow or hard to update, our <a href="/services/website-ecommerce-development/">website development service</a> can help, and our <a href="/blog/website-redesign-cost-uk/">website redesign cost guide</a> explains budgets.</p>
+
+<h2>Property advertising rules: a general overview</h2>
+<p>Property listings and ads in the UK are subject to consumer protection law and the CAP Code, which broadly require that information is accurate and that material facts a buyer or tenant needs are not left out. Guidance from trading standards bodies sets out the kinds of information expected in listings, and lettings ads carry additional requirements around fees. Rules can change, and how they apply depends on the property and the agency.</p>
+<p>We cannot advise on legal requirements, but we build practical safeguards into our work:</p>
+<ul>
+<li>Ad and landing page copy is reviewed by your team before launch.</li>
+<li>We avoid claims such as "best agent in town" or "we sell faster" unless your agency confirms they are accurate and can be substantiated.</li>
+<li>Any client feedback used is genuine and approved by the agency.</li>
+<li>Templates leave space for material information and required disclosures.</li>
+</ul>
+
+<h2>Measuring estate agent marketing</h2>
+<p>Track valuation requests, phone calls and email enquiries by source, then follow them through to instructions and completions. GA4 and call tracking cover the first part; your CRM covers the rest. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track form submissions and calls properly. A monthly review of how many valuations turned into instructions, by source, usually tells you where to put next quarter's budget.</p>
+
+<h2>Email, social content and staying in touch</h2>
+<p>Most homeowners are not ready to sell when they first come across your agency. Someone who requests an online valuation estimate may not move for a year or more. A simple email programme keeps you in front of them without being pushy: a short monthly update on local market activity, new instructions and sales in their area (described accurately), and practical guides on preparing a home for sale. Past buyers are also future vendors, so keeping in touch after completion is worth the effort, provided you have a lawful basis for contacting them under UK GDPR and PECR.</p>
+<p>Organic social media works in a similar way. Short videos of new listings, behind-the-scenes content from the branch, and local community involvement all build familiarity. Consistency matters more than polish: a steady rhythm of useful, local posts usually beats occasional bursts of activity. Paid ads can then amplify the posts that people respond to most.</p>
+<p>For multi-branch agencies, a shared content calendar with room for each branch to add local stories keeps the brand consistent while letting each office sound like part of its community.</p>
+
+<h2>Cost and timescales</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 and Scale at £1,500 a month, with ad spend paid separately to the platform. Local SEO and content usually take three to six months to show a clear trend, while paid social and search can produce valuation requests within weeks. See our <a href="/pricing/">pricing page</a> for details of each plan.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best estate agent marketing in the UK?</h3>
+<p>Combine local SEO and a strong Google Business Profile with valuation landing pages, area content and targeted social ads to homeowners. Use portals for buyer reach, but build your own channels to win vendor and landlord instructions directly.</p>
+<h3>Do estate agents still need their own website if they use portals?</h3>
+<p>Yes. Portals bring buyers and tenants, but your website is where vendors and landlords check your credibility and request valuations. It is also the only channel you fully control.</p>
+<h3>Do Facebook ads work for estate agents?</h3>
+<p>They can work well for valuation leads and brand awareness in specific areas. Housing ads have targeting restrictions on Meta, so campaigns need to be set up within those limits.</p>
+<h3>How can letting agents attract more landlords?</h3>
+<p>Publish clear, dated guides on landlord obligations, show your management service and fees transparently, rank locally for lettings searches and follow up enquiries quickly.</p>
+<h3>Can Prism Works Studio check our listings for compliance?</h3>
+<p>No. We are a marketing agency and cannot give legal or regulatory advice. We build a review step into our work so your team can confirm listings and ads meet the rules that apply to you.</p>
+<h3>How long does SEO take for an estate agent?</h3>
+<p>Usually three to six months to see a clear trend, depending on local competition and the state of your current site and Google Business Profile.</p>
+`,
+  },
+  {
+    slug: 'law-firm-marketing-uk',
+    seoTitle: 'Law Firm Marketing UK: SEO, Ads and Content Guide',
+    title: 'Law Firm Marketing in the UK: SEO, Paid Search and Content That Wins Enquiries',
+    description: 'Law firm marketing in the UK works best through practice-area SEO, local search and focused paid ads, with the firm signing off every claim before it goes live.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Law firm marketing in the UK works best when each practice area has its own clear, helpful page, local search is set up properly, and paid search is used carefully for urgent, high-intent queries. Because solicitors and other legal providers are subject to professional rules on how they promote their services, the firm itself should review and sign off every claim before it is published.</p>
+<p>This guide covers how people find a lawyer, how to structure a law firm website for search, where paid ads fit, and how to handle content and compliance. It is general marketing information, not legal or regulatory advice. Prism Works Studio is a marketing agency, not a regulated legal business, so final approval of anything you publish always rests with your firm.</p>
+
+<h2>How people look for a solicitor</h2>
+<p>Legal searches fall into two broad groups. Consumers with a personal problem (a divorce, a house purchase, a will, an injury claim, a dispute with an employer) usually search urgently and locally. Businesses looking for commercial, employment or property advice often research for longer, compare several firms and rely on recommendations as well as search.</p>
+<table>
+<thead><tr><th>Client type</th><th>Typical search</th><th>What they need to see</th><th>Best channels</th></tr></thead>
+<tbody>
+<tr><td>Private client, urgent</td><td>"family solicitor near me", "employment lawyer Leeds"</td><td>Clear services, location, how to get in touch quickly</td><td>Local SEO, paid search, Google Business Profile</td></tr>
+<tr><td>Private client, planned</td><td>"how much does a will cost UK", "conveyancing process"</td><td>Plain-English guides, price information where you publish it</td><td>Content SEO, email follow-up</td></tr>
+<tr><td>Business client</td><td>"commercial lease solicitor", "shareholder agreement lawyer"</td><td>Sector experience, team expertise, thought leadership</td><td>SEO, LinkedIn, digital PR, referrals</td></tr>
+<tr><td>Referrer or introducer</td><td>Usually your firm name</td><td>A credible, up-to-date site</td><td>Brand search, reputation</td></tr>
+</tbody>
+</table>
+<p>Most firms serve several of these groups at once, so the website needs to work for both the anxious individual on a phone at 10pm and the finance director comparing three firms over a fortnight.</p>
+
+<h2>Law firm marketing UK: the core channels</h2>
+<h3>Practice-area SEO</h3>
+<p>The single most useful thing most firms can do is give every practice area its own page, and where it makes sense, its own sub-pages. A single "Our services" page listing ten areas of law will rarely rank for any of them. A dedicated page for divorce, another for children arrangements, another for financial settlements, each answering the real questions clients ask, gives search engines and people something specific to work with.</p>
+<p>Good practice-area pages usually include:</p>
+<ul>
+<li>A plain-English summary of what the service covers and who it is for.</li>
+<li>The steps involved and roughly how long each stage tends to take, in general terms.</li>
+<li>How fees work, where your firm chooses to publish them, and what is and is not included.</li>
+<li>Who in the firm handles this work, described accurately and only with details the firm has approved.</li>
+<li>A clear next step: call, form or booking, with realistic response times.</li>
+</ul>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers this structure, along with the technical work that sits underneath it. If you are starting from scratch, the <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a sensible first pass over an existing site.</p>
+
+<h3>Local search</h3>
+<p>Many legal searches include a town or "near me". A complete Google Business Profile for each genuine office, consistent name, address and phone details across directories, and location pages that say something useful about each office all help. Avoid creating thin pages for towns where you have no presence; they tend to underperform and can read as misleading. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> go into the detail.</p>
+
+<h3>Paid search</h3>
+<p>Google Ads can produce enquiries quickly for urgent legal needs, but legal keywords are often competitive and clicks can be expensive. The firms that make paid search work tend to keep campaigns narrow: specific practice areas, specific locations, strong negative keyword lists (to filter out searches for free advice, jobs and training) and landing pages built for the service being advertised. Our <a href="/blog/google-ads-agency-uk/">guide to choosing a Google Ads agency</a> explains what good management looks like, and <a href="/services/paid-media/">our paid media service</a> covers how we run campaigns.</p>
+
+<h3>Content and thought leadership</h3>
+<p>Commercial clients in particular want evidence that a firm understands their sector. Short, practical articles on changes that affect clients, written or reviewed by your lawyers, build trust and give you something to share on LinkedIn and in newsletters. See our notes on <a href="/blog/content-marketing-agency-uk/">content marketing</a> for how to plan this without it becoming a burden on fee earners.</p>
+
+<h2>Structuring a law firm website for search and enquiries</h2>
+<p>A clear structure helps both visitors and search engines. A typical layout for a mid-sized high-street or regional firm looks like this:</p>
+<ol>
+<li><strong>Home page</strong> that makes clear who you help, where, and how to get in touch.</li>
+<li><strong>Two hubs</strong>: one for individuals, one for businesses, so each audience finds its route quickly.</li>
+<li><strong>Practice-area pages</strong> under each hub, with sub-pages for the most searched services.</li>
+<li><strong>Office or location pages</strong> for each genuine office.</li>
+<li><strong>People pages</strong> for fee earners, with qualifications and experience the firm has verified.</li>
+<li><strong>Guides and insights</strong> that answer common questions and link back to the relevant service page.</li>
+<li><strong>Fees and regulatory information</strong> pages, kept current by the firm.</li>
+</ol>
+<p>Speed and mobile usability matter more than many firms expect, because a large share of urgent legal searches happen on phones. If your site is slow or awkward, our <a href="/services/website-ecommerce-development/">website development service</a> can rebuild it, and our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> explains how to protect existing search visibility during the move.</p>
+
+<h2>Compliance and sign-off: a general overview</h2>
+<p>Solicitors in England and Wales are regulated by the Solicitors Regulation Authority, and other legal professionals and other parts of the UK have their own regulators and rules. Those rules generally cover things like how firms describe their services, publishing certain price and service information for some practice areas, how regulatory status is displayed, and restrictions on unsolicited approaches to members of the public. Advertising more broadly also falls under the CAP Code.</p>
+<p>We are not able to advise on what those rules require for your firm, and the detail changes over time. What we do is build a review step into every piece of work so that the right person at your firm can check it. In practice that usually means:</p>
+<ul>
+<li>Agreeing who at the firm approves web copy, ads and social posts before anything goes live.</li>
+<li>Avoiding superlatives and outcome claims unless the firm has confirmed they are accurate and permitted.</li>
+<li>Keeping any client feedback the firm chooses to use genuine, attributable and approved by the firm.</li>
+<li>Leaving space on pages and templates for regulatory information the firm needs to display.</li>
+<li>Recording what was approved and when, so changes can be traced.</li>
+</ul>
+<p>If your firm also offers financial services, the approach in our <a href="/sectors/financial-advisers/">financial services marketing</a> page and our article on <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-aware marketing</a> will also be relevant.</p>
+
+<h2>Marketing to business clients</h2>
+<p>Commercial practices often behave more like B2B professional services than consumer brands. Decisions involve several people, take longer, and depend heavily on reputation. Useful tactics include:</p>
+<ul>
+<li>Sector pages (for example, technology, property, manufacturing) that show how your practice areas apply to that industry.</li>
+<li>LinkedIn activity by partners and associates, supported by firm content. Our <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn Ads guide</a> covers paid options.</li>
+<li>Events and webinars on practical topics, with recordings reused on the site.</li>
+<li>Digital PR around legal commentary on news, which can earn links and mentions. See <a href="/blog/digital-pr-link-building-uk/">digital PR for link building</a>.</li>
+</ul>
+<p>Our <a href="/sectors/b2b/">B2B marketing</a> page explains how we approach longer, relationship-led sales cycles like these.</p>
+
+<h2>Measuring what works</h2>
+<p>Legal enquiries often arrive by phone, so tracking only form submissions misses much of the picture. Basic measurement for a law firm should include call tracking or at least clear phone-click tracking, form tracking in GA4, and a simple way for reception or intake staff to record how each new client heard about the firm. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side.</p>
+<p>It is also worth separating enquiry volume from enquiry quality. A campaign that brings fifty calls about free advice is less valuable than one that brings ten from people ready to instruct. Reviewing enquiry quality with the intake team each month usually tells you more than any dashboard.</p>
+
+<h2>What it costs and how long it takes</h2>
+<p>Our published retainers start at £350 a month (Launch), with Growth at £750 and Scale at £1,500 a month. Ad spend is paid separately, directly to the platform. A small website rebuild typically costs £1,000 to £2,000 and takes three to five weeks. SEO and paid search usually take three to six months to show a clear trend, though paid search can produce enquiries sooner. Full details are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best way to approach law firm marketing in the UK?</h3>
+<p>Start with a clear page for each practice area, a properly set-up Google Business Profile for each office, and accurate tracking of calls and forms. Add paid search for urgent services once your landing pages are ready, and build content for areas where clients research before instructing.</p>
+<h3>Do law firms need SEO?</h3>
+<p>Most do, because a large share of people looking for a solicitor start with a search. SEO builds visibility you do not pay for per click, but it usually takes three to six months to show a clear trend.</p>
+<h3>Is Google Ads worth it for solicitors?</h3>
+<p>It can be for urgent, high-value services, provided keywords are tightly chosen, negatives filter out free-advice searches and enquiries are answered quickly. Broad campaigns on generic legal terms tend to waste budget.</p>
+<h3>Can Prism Works Studio tell us what the SRA rules require?</h3>
+<p>No. We are a marketing agency, not a regulated legal business, and cannot give regulatory advice. We build a review step into our work so your firm can check and approve everything against the rules that apply to you.</p>
+<h3>Should law firms publish prices online?</h3>
+<p>Some practice areas have price transparency requirements and many clients look for fee information. Whether and how you publish prices is a decision for your firm, and we can help present the information clearly once you have approved it.</p>
+<h3>How long does it take to see results?</h3>
+<p>Paid search can bring enquiries within weeks of launch. SEO and content usually take three to six months to show a clear trend, depending on competition in your area and practice areas.</p>
+`,
+  },
+  {
+    slug: 'professional-services-seo-uk',
+    seoTitle: 'Professional Services SEO UK: A Practical Guide',
+    title: 'Professional Services SEO in the UK: How Firms Rank for the Work They Want',
+    description: 'Professional services SEO in the UK means service and sector pages, expert content, local signals and trust, so firms rank for the specific work they want.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/b2b/', '/sectors/financial-advisers/'],
+    body: `
+<p>Professional services SEO in the UK is about ranking for the specific work a firm wants more of, not just its name. That means a clear page for each service and client sector, expert content that answers real client questions, solid local signals for each office, and strong trust signals on every page. For accountants, solicitors, consultants, surveyors, architects, financial advisers and similar firms, it is one of the few channels that keeps producing enquiries without paying for every click.</p>
+<p>This guide covers how professional services clients search, how to structure a site, what content works, technical basics, and how to handle regulated professions. It is general information. Prism Works Studio is a marketing agency and is not regulated by any professional body; claims about your firm should always be checked and approved by your firm.</p>
+
+<h2>How professional services clients search</h2>
+<p>Searches in professional services usually fall into a few patterns. Recognising them helps you decide which pages to build first.</p>
+<table>
+<thead><tr><th>Search pattern</th><th>Example</th><th>Page that should answer it</th></tr></thead>
+<tbody>
+<tr><td>Service plus location</td><td>"employment solicitor Manchester", "chartered surveyor Bath"</td><td>Service page with location detail, or a location page</td></tr>
+<tr><td>Service plus client type</td><td>"accountant for contractors", "architect for barn conversions"</td><td>Sector or niche page</td></tr>
+<tr><td>Problem or question</td><td>"do I need a party wall surveyor", "what is an R&amp;D tax credit claim"</td><td>Guide or article linked to the service page</td></tr>
+<tr><td>Cost research</td><td>"how much does a structural survey cost"</td><td>Cost guide or fees page</td></tr>
+<tr><td>Brand and people</td><td>Firm name, partner names</td><td>Home page, team pages</td></tr>
+</tbody>
+</table>
+<p>Most firms only rank for their brand name. The growth opportunity lies in the first four rows.</p>
+
+<h2>Professional services SEO UK: site structure</h2>
+<p>A clear structure lets search engines understand what you do and lets clients find it quickly. A typical structure looks like this:</p>
+<ol>
+<li><strong>Service hubs</strong> for each main practice area, linking to more specific sub-services.</li>
+<li><strong>Sector pages</strong> for the industries or client types you serve, showing how your services apply to them.</li>
+<li><strong>Location pages</strong> for each genuine office, with real details.</li>
+<li><strong>Team pages</strong> with accurate qualifications, memberships and areas of expertise.</li>
+<li><strong>Insights or guides</strong> answering common questions, each linking to the relevant service.</li>
+<li><strong>Fees and process pages</strong>, where the firm chooses to publish them.</li>
+</ol>
+<p>Internal links tie this together: guides link to services, services link to relevant sectors and team members, and sector pages link back to services. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers this planning, and our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> goes deeper on longer sales cycles.</p>
+
+<h2>Content that works for professional firms</h2>
+<p>Professional services content works when it is specific, accurate and written (or at least reviewed) by people who do the work. Useful formats include:</p>
+<ul>
+<li><strong>Question-led guides</strong> that answer the exact things clients ask in first meetings.</li>
+<li><strong>Process explainers</strong> that set expectations about steps and timescales in general terms.</li>
+<li><strong>Cost guides</strong> that explain what affects fees, with prices only where the firm is happy to publish them.</li>
+<li><strong>Change updates</strong> on new rules, thresholds or deadlines that affect clients, dated and kept current.</li>
+<li><strong>Sector commentary</strong> showing how your expertise applies to a specific industry.</li>
+</ul>
+<p>Quality matters more than volume. Ten excellent, maintained guides on the topics that lead to work will usually do more than fifty thin articles. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> explains how to plan this without taking too much fee-earner time.</p>
+
+<h2>Expertise and trust signals</h2>
+<p>Search engines and clients both look for evidence that a firm knows what it is talking about. For professional services, practical trust signals include:</p>
+<ul>
+<li>Named authors or reviewers on guides, with accurate credentials.</li>
+<li>Clear regulatory or membership information where it applies, displayed as your regulator or body requires.</li>
+<li>Complete contact details, office addresses and company information.</li>
+<li>Genuine client feedback, used only with permission and in line with any rules on testimonials in your profession.</li>
+<li>Mentions and links from respected industry publications, associations and local organisations. Our <a href="/blog/digital-pr-link-building-uk/">digital PR guide</a> covers how to earn them.</li>
+</ul>
+<p>These same signals also help with AI search, where tools increasingly summarise answers and cite sources. Our article on <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> explains how to make content clear and quotable for AI tools.</p>
+
+<h2>Local SEO for professional firms</h2>
+<p>Many professional services searches have local intent. Each real office should have a complete Google Business Profile with the right primary category, accurate hours and a link to the relevant location or service page. Consistent name, address and phone details across directories and professional listings help, and so do location pages with genuine detail about the team and services at that office. See our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a>.</p>
+
+<h2>Technical basics</h2>
+<p>Professional services sites are often older and built on content management systems that have been patched many times. Common issues include slow pages, duplicate service pages, broken links after reorganisations, missing page titles and poor mobile layouts. A <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> is a sensible first step, and our <a href="/blog/seo-audit-cost-uk/">SEO audit cost guide</a> explains what to expect. If a rebuild is needed, our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> covers redirects and migration.</p>
+
+<h2>SEO in regulated professions</h2>
+<p>Many professional firms are regulated: solicitors, accountants, financial advisers, surveyors and others each have their own rules on how they promote services, and advertising in general falls under the CAP Code. SEO copy is marketing, so the same care applies. In general terms, that means:</p>
+<ul>
+<li>Avoiding superlatives and outcome promises unless the firm confirms they are accurate and permitted.</li>
+<li>Keeping technical guidance accurate, dated and reviewed by a qualified person at the firm.</li>
+<li>Displaying any required regulatory information correctly.</li>
+<li>Having a named approver at the firm for every page before publication.</li>
+</ul>
+<p>We do not give regulatory advice; we build the review step in so your firm can sign off. For financial firms specifically, see our <a href="/sectors/financial-advisers/">financial adviser marketing</a> page and <a href="/blog/financial-adviser-seo-uk/">financial adviser SEO guide</a>. For firms selling mainly to businesses, our <a href="/sectors/b2b/">B2B marketing</a> page explains our approach.</p>
+
+<h2>Where to start: a 90-day plan</h2>
+<p>Firms often know SEO matters but are unsure where to begin. A practical first three months might look like this:</p>
+<ol>
+<li><strong>Weeks 1 to 3:</strong> run a technical audit, set up or check GA4 and Search Console, and agree which services, sectors and locations matter most commercially.</li>
+<li><strong>Weeks 4 to 6:</strong> fix the most serious technical issues, tidy Google Business Profiles and rewrite the top three or four service pages so they clearly answer what clients search for.</li>
+<li><strong>Weeks 7 to 10:</strong> publish the first set of question-led guides, each linked to its service page, and add accurate team and credential information.</li>
+<li><strong>Weeks 11 to 13:</strong> review early data, start outreach for relevant links and mentions, and plan the next quarter based on what is gaining traction.</li>
+</ol>
+<p>This sequence puts the pages most likely to bring work first, rather than spreading effort thinly across the whole site. It also gives partners or directors an early, concrete view of progress, which helps keep internal reviewers engaged with the approval process.</p>
+
+<h2>Measuring professional services SEO</h2>
+<p>Rankings and traffic are useful indicators, but the real measure is enquiries for the work you want. Track form submissions and phone clicks in GA4, ask new clients how they found you, and review which pages lead to good enquiries. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side. SEO usually takes three to six months to show a clear trend, and longer in very competitive markets.</p>
+
+<h2>Cost</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 and Scale at £1,500 a month. The right level depends on how many services and locations you want to grow and how much content needs creating. See our <a href="/pricing/">pricing page</a> and our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is professional services SEO in the UK?</h3>
+<p>It is the work of making a professional firm, such as a law firm, accountancy practice or consultancy, visible in search for the specific services, sectors and locations it wants to grow, through site structure, expert content, local signals and trust.</p>
+<h3>How long does SEO take for a professional services firm?</h3>
+<p>Usually three to six months to show a clear trend. Highly competitive services in large cities can take longer.</p>
+<h3>Do professional firms need a blog?</h3>
+<p>They need useful, accurate guides that answer client questions and link to services. Whether you call it a blog, insights or a knowledge hub matters less than quality and upkeep.</p>
+<h3>Should each office have its own page?</h3>
+<p>Yes, if it is a genuine office with real staff or services. Avoid creating pages for towns where you have no presence, as these tend to underperform and can mislead.</p>
+<h3>Can SEO copy break professional conduct rules?</h3>
+<p>It can if it overstates outcomes or misdescribes services. Have a named person at your firm approve every page before it is published.</p>
+<h3>Does Prism Works Studio work with regulated firms?</h3>
+<p>We provide marketing and SEO services and build a review step into our work so your firm can approve everything. We are not regulated and do not give legal, financial or regulatory advice.</p>
+`,
+  },
+  {
+    slug: 'property-developer-marketing-uk',
+    seoTitle: 'Property Developer Marketing UK: Sell Off-Plan Faster',
+    title: 'Property Developer Marketing in the UK: Websites, Ads and Off-Plan Sales',
+    description: 'Property developer marketing in the UK means a dedicated development website, early registration of interest, targeted ads and accurate, approved materials.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Property developer marketing in the UK works best when it starts early: a dedicated development website, a register of interest built before launch, targeted social and search advertising, and accurate, developer-approved sales materials that carry buyers from first click to reservation. The marketing plan should follow the build programme, with different messages for pre-launch, launch, build and final plots.</p>
+<p>This guide covers how to plan development marketing, what a good development website needs, how to use paid media at each stage, and what to keep in mind about property advertising rules. It is general marketing information. Prism Works Studio is a marketing agency and is not regulated; legal and compliance sign-off of sales materials rests with the developer and its advisers.</p>
+
+<h2>Who property developers are marketing to</h2>
+<p>Development audiences vary a lot depending on the scheme. A block of city-centre apartments, a rural scheme of family homes and a build-to-rent development need different approaches.</p>
+<table>
+<thead><tr><th>Audience</th><th>What they care about</th><th>Useful channels</th></tr></thead>
+<tbody>
+<tr><td>First-time buyers</td><td>Affordability, schemes available, location and transport</td><td>Social ads, search, portals, clear guides</td></tr>
+<tr><td>Families and movers</td><td>Space, schools, specification, part-exchange options</td><td>Search, portals, local SEO, show home events</td></tr>
+<tr><td>Downsizers</td><td>Low maintenance, accessibility, community</td><td>Search, local press, email, events</td></tr>
+<tr><td>Investors</td><td>Location, rental demand, management options</td><td>Search, LinkedIn, email, agent networks</td></tr>
+<tr><td>Agents and partners</td><td>Information to sell the scheme</td><td>Sales packs, partner pages</td></tr>
+</tbody>
+</table>
+<p>Knowing your likely buyer mix early shapes everything from the site copy to the ad creative and the budget split between channels.</p>
+
+<h2>Property developer marketing UK: planning by stage</h2>
+<h3>Pre-launch</h3>
+<p>The months before launch are the best time to build demand. A simple holding page with a strong image, a short description and a "register your interest" form can go live as soon as planning and branding allow. Social ads targeting the right areas and audiences feed that list. By launch day you want a warm database of people who have asked to hear first.</p>
+
+<h3>Launch</h3>
+<p>The full development site goes live with plots, floor plans, specifications and pricing (when the developer is ready to release it). Registered contacts get early access or an invitation to a launch event. Search ads on the development name, the location and relevant property terms help capture people researching the area.</p>
+
+<h3>Build and sales</h3>
+<p>Regular updates (construction progress, photography of finished show homes, local area features) keep interest alive. Retargeting ads reach people who visited but have not booked an appointment. Email nurtures registrants who are not ready yet.</p>
+
+<h3>Final plots</h3>
+<p>The last homes often need a more focused push, with specific plot-level messaging and tighter targeting. Clear, accurate information about what is left and when it will be ready helps buyers decide.</p>
+
+<h2>What a development website needs</h2>
+<p>Many developers use a dedicated site or microsite for each scheme, alongside a corporate site. Either way, each development page or site should include:</p>
+<ul>
+<li><strong>Strong visuals</strong>: CGIs clearly labelled as illustrative, photography as it becomes available, and video.</li>
+<li><strong>Plot availability</strong> with house types, floor plans and status, kept up to date.</li>
+<li><strong>Specification</strong>, approved by the developer, with notes where items may vary.</li>
+<li><strong>Location information</strong>: transport, schools, amenities and maps.</li>
+<li><strong>Buying information</strong>: reservation process, any schemes the developer offers, and contact details for the sales team.</li>
+<li><strong>Register of interest and appointment booking</strong>, with clear privacy information under UK GDPR.</li>
+<li><strong>Fast loading</strong>, despite heavy imagery. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains how.</li>
+</ul>
+<p>Our <a href="/services/website-ecommerce-development/">website development service</a> covers sites like these. Small websites typically cost £1,000 to £2,000 and take three to five weeks; more complex builds are quoted individually. For a corporate brand refresh alongside a new scheme, see our <a href="/services/brand-strategy/">brand strategy service</a> and our <a href="/blog/rebranding-guide-uk/">rebranding guide</a>.</p>
+
+<h2>Paid media for developments</h2>
+<p>Paid advertising is usually the fastest way to build a register of interest and drive appointments.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best use</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Meta (Facebook, Instagram)</td><td>Pre-launch registrations, retargeting, event promotion</td><td>Housing ads fall under a special ad category with targeting limits</td></tr>
+<tr><td>Google Search</td><td>Capturing people searching for new homes in the area or the scheme name</td><td>Brand terms often convert best</td></tr>
+<tr><td>YouTube</td><td>Video tours and area films</td><td>Useful for awareness and retargeting; see our <a href="/blog/youtube-ads-agency-uk/">YouTube Ads guide</a></td></tr>
+<tr><td>LinkedIn</td><td>Investor-focused schemes, commercial developments</td><td>Higher cost per click, precise professional targeting</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers campaign planning, creative testing and reporting, and the <a href="/blog/meta-ads-agency-uk/">Meta Ads guide</a> explains how housing ad restrictions affect targeting. Ad spend is always paid separately to the platform.</p>
+
+<h2>SEO for property developers</h2>
+<p>Developments have a limited life, which makes SEO different from most businesses. The corporate site benefits from long-term SEO: pages for each location you build in, a clear history of completed schemes and content about buying new homes. Individual development pages benefit most from strong on-page basics (the development name, location and house types), a Google Business Profile for the sales office or show home, and links from local sources. When a development sells out, redirect or keep the page as a completed-scheme case study rather than deleting it, so you keep any search value it built. Our <a href="/services/seo-geo/">SEO service</a> and <a href="/blog/local-seo-uk-guide/">local SEO guide</a> cover the detail.</p>
+
+<h2>Property advertising rules: a general overview</h2>
+<p>Advertising new homes is covered by consumer protection law and the CAP Code, which broadly require that materials are accurate and do not mislead, and that significant information is not left out. CGIs, specifications, distances, timescales and any incentives should all be accurate and properly qualified. Many developers also follow an industry consumer code for new homes, which sets expectations about sales information.</p>
+<p>We cannot advise on legal requirements. Our process includes a review stage so that the developer, and its legal advisers where needed, approve all copy, imagery captions, specifications and offers before publication. We avoid claims about investment returns, price growth or rental yields unless the developer has supplied and approved them, and any figures that touch on financial outcomes should be checked carefully by the developer's own advisers.</p>
+
+<h2>Working with agents and the sales team</h2>
+<p>Many developers sell through a mix of an in-house sales team and one or more local estate agents. Marketing works best when everyone is using the same information. A shared sales pack (approved plot details, specification, floor plans, location information and current incentives) avoids conflicting messages. Leads from the website and ads should reach the right person quickly, ideally within the same working day, with the source recorded so you can see which channels lead to reservations.</p>
+<p>Portal listings remain important for new homes, and they should match the development website exactly. If an incentive ends or a plot is reserved, update every channel at the same time. Out-of-date information frustrates buyers and can create compliance problems.</p>
+<p>Show home and launch events also benefit from digital support: an event page, booking form, reminder emails and follow-up after the visit. Small details, such as sending the brochure and floor plans the same day, often make the difference between a visit and a reservation.</p>
+
+<h2>Measuring development marketing</h2>
+<p>Useful measures include registrations of interest by source, appointment bookings, show home visits, reservations and the cost of each. Tracking registrations in GA4 and passing source information into the sales team's CRM lets you see which channels lead to reservations, not just clicks. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the tracking side.</p>
+
+<h2>Cost and timescales</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 and Scale at £1,500 a month, with ad spend paid separately. Paid campaigns can build a register of interest within weeks; SEO generally takes three to six months to show a clear trend. See our <a href="/pricing/">pricing page</a> for plan details.</p>
+
+<h2>FAQs</h2>
+<h3>How should property developer marketing in the UK be planned?</h3>
+<p>Plan it around the build programme: build a register of interest before launch, launch with a full development site and targeted ads, keep interest going during the build, then focus on final plots. Make sure every stage has approved, accurate materials.</p>
+<h3>When should a developer start marketing a new scheme?</h3>
+<p>As early as the developer is comfortable, usually once branding and basic details are confirmed. A holding page and register of interest can start building demand months before launch.</p>
+<h3>Does each development need its own website?</h3>
+<p>Not always. A dedicated page on the corporate site can work well, but a separate microsite can give a larger scheme more space and a distinct brand. The choice depends on the scheme size and budget.</p>
+<h3>Can Facebook ads be used to market new homes?</h3>
+<p>Yes, and they are often effective for registrations of interest. Housing ads are a special ad category on Meta, which limits some targeting options, so campaigns must be set up within those rules.</p>
+<h3>Who approves CGIs and specifications in ads?</h3>
+<p>The developer, with its legal advisers where needed. Prism Works Studio prepares and places materials, but sign-off on accuracy and compliance rests with the developer.</p>
+<h3>What happens to the development page after it sells out?</h3>
+<p>Keep it as a completed-scheme case study or redirect it to a relevant page, rather than deleting it, so any search value it built is kept.</p>
+`,
+  },
 ];
