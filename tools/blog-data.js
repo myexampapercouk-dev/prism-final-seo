@@ -4680,4 +4680,550 @@ module.exports = [
 <p>Not automatically. Share the findings and ask for a fix plan with dates. If basics such as tracking and account ownership are wrong and do not get fixed, it may be time to compare options.</p>
 `,
   },
+  {
+    slug: 'dental-marketing-uk',
+    seoTitle: 'Dental Marketing UK: Local SEO and Private Patients',
+    title: 'Dental Marketing in the UK: Local SEO, Private Treatments and the Rules',
+    description: 'Dental marketing in the UK starts with local SEO and Google Business Profile, then clear private treatment pages that respect GDC and CAP Code rules.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/healthcare/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Dental marketing in the UK works best when it starts locally: a strong Google Business Profile, a fast website and local SEO that puts your practice in front of people searching nearby. From there, clear pages for private treatments such as implants, aligners and whitening help patients compare options, provided every claim stays within GDC guidance and advertising rules.</p>
+<p>This guide is written for practice owners and managers. It covers the channels that matter, how to market private treatments responsibly and what to check before publishing. For a wider view across clinics and health businesses, see our <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing agency guide</a>; here we focus specifically on dental practices.</p>
+
+<h2>Dental marketing in the UK: where to start</h2>
+<p>Most patients choose a dentist close to home or work, and most start with a search on their phone. That makes local visibility the foundation. Before spending on ads, make sure the basics are right:</p>
+<ul>
+<li><strong>Google Business Profile</strong> complete, with correct categories, opening hours, photos, accessibility details and booking link.</li>
+<li><strong>Consistent name, address and phone number</strong> across your website and directories.</li>
+<li><strong>A mobile-friendly website</strong> that loads quickly and makes booking or calling easy.</li>
+<li><strong>Clear information on NHS and private availability</strong>, so patients know what to expect.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> walks through each of these in more detail.</p>
+
+<h2>Local SEO for dental practices</h2>
+<p>Local SEO helps your practice appear in the map results and the organic listings for searches like "dentist near me" or "emergency dentist" plus your town. The main levers are relevance, proximity and prominence.</p>
+<h3>Relevance</h3>
+<p>Your website should have a page for each core service and each location you serve. A practice with two sites should have a page for each, with unique content, directions, parking and transport details rather than duplicated text.</p>
+<h3>Prominence</h3>
+<p>Reviews, local links and mentions all build prominence. Ask patients for reviews in a consistent, compliant way, and respond to every review politely and without disclosing any clinical or personal information. Local partnerships, community involvement and mentions in local press can also help, as covered in our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a>.</p>
+<h3>Technical health</h3>
+<p>A slow or poorly structured site holds everything back. If your site has grown messy over the years, our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a useful starting point.</p>
+
+<h2>Marketing private dental treatments</h2>
+<p>Private treatments are where marketing makes the most commercial difference, and where care is most needed. Patients considering implants, clear aligners, veneers or whitening tend to research thoroughly, compare practices and read reviews before booking a consultation.</p>
+<p>Give each treatment its own page that answers the questions patients actually ask:</p>
+<ul>
+<li>What the treatment involves and who it may suit.</li>
+<li>The consultation process and typical number of appointments.</li>
+<li>Fees or "from" prices, and any finance options, explained clearly.</li>
+<li>Risks, alternatives and aftercare, stated plainly.</li>
+<li>Who carries out the treatment, with accurate titles and registration details.</li>
+</ul>
+<p>This kind of honest, detailed content tends to perform well in search and in AI-generated answers, because it directly answers the questions people ask. Our <a href="/services/seo-geo/">SEO and GEO service</a> is built around that approach.</p>
+
+<h2>Dental advertising rules: GDC, ASA and CAP Code</h2>
+<p>Dental marketing in the UK sits under several sets of guidance. The following is general information only, not legal or regulatory advice; responsibility for approving claims rests with the practice and its compliance advisers.</p>
+<table>
+<thead><tr><th>Source</th><th>What it broadly covers</th><th>Practical implication</th></tr></thead>
+<tbody>
+<tr><td>General Dental Council (GDC)</td><td>Professional standards, including honest and accurate advertising</td><td>Use correct titles; avoid misleading claims about skills or outcomes</td></tr>
+<tr><td>CAP Code (enforced by the ASA)</td><td>Non-broadcast advertising, including websites and social media</td><td>Claims need evidence; avoid exaggeration and misleading pricing</td></tr>
+<tr><td>Prescription-only medicines rules</td><td>Restrictions on advertising certain medicines to the public</td><td>Take particular care with how some cosmetic treatments are described</td></tr>
+<tr><td>UK GDPR and PECR</td><td>Patient data, consent and electronic marketing</td><td>Get proper consent for marketing emails and texts; protect patient data</td></tr>
+</tbody>
+</table>
+<p>In practice, that means being careful with words like "specialist" (which has a specific meaning in dentistry), avoiding guarantees of results, making sure "from" prices are genuinely available, and using before-and-after images only with consent and without implying every patient will see the same result. Check the current guidance from each body before publishing, as it can change.</p>
+
+<h2>Paid search and social for dentists</h2>
+<p>Paid search can be effective for high-intent searches such as "emergency dentist" or treatment-specific terms in your area. Keep campaigns tightly targeted by location, send each ad to the matching treatment page, and track bookings and calls rather than clicks. Our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> explains how fees and ad spend work; spend is always paid separately to the platform.</p>
+<p>Paid social can support awareness for cosmetic treatments, but the same advertising rules apply, and platform policies on health-related ads add another layer. Keep the message factual and the call to action simple, such as booking a consultation.</p>
+
+<h2>Retaining and recalling existing patients</h2>
+<p>New patients matter, but a practice's existing list is often its most valuable asset. Recall reminders, hygiene appointment prompts and clear information about treatment options help patients stay with the practice and make informed choices. Make sure reminders are sent with the right consent and through channels patients have agreed to, and keep marketing messages separate from essential clinical communications.</p>
+<p>A simple, well-organised website helps here too. Patients returning to check opening hours, emergency arrangements or fees should find them in seconds. Pages answering common questions, such as what to do in a dental emergency out of hours or how payment plans work, reduce calls to reception and build trust. Review these pages at least once a year so fees and arrangements stay accurate.</p>
+<h2>Choosing a dental marketing partner</h2>
+<p>When comparing agencies, ask how they handle regulated claims, who owns the accounts and website, and how they report on bookings rather than clicks. An agency that understands healthcare will be cautious with wording and will expect your team to sign off clinical content. Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> has a fuller list of questions.</p>
+<h2>Measuring what works</h2>
+<p>Practices often know how many new patients they register but not where they came from. Set up tracking for online bookings, form submissions and calls from the website and Google Business Profile. Ask new patients how they found you at reception, and record it consistently. Over a few months this shows which channels bring patients worth the investment.</p>
+<table>
+<thead><tr><th>Channel</th><th>What to track</th><th>Typical timescale</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Calls, direction requests, website clicks</td><td>Weeks to months</td></tr>
+<tr><td>Local SEO</td><td>Organic enquiries and bookings</td><td>Typically 3 to 6 months</td></tr>
+<tr><td>Paid search</td><td>Bookings, calls and cost per enquiry</td><td>Data within days; optimisation over weeks</td></tr>
+<tr><td>Email to existing patients</td><td>Recall bookings and treatment enquiries</td><td>Ongoing</td></tr>
+</tbody>
+</table>
+
+<h2>Dental marketing checklist</h2>
+<ul>
+<li>Google Business Profile is complete, accurate and regularly updated.</li>
+<li>Name, address and phone number match everywhere.</li>
+<li>Each core service and private treatment has its own factual page.</li>
+<li>Fees, finance and NHS or private availability are explained clearly.</li>
+<li>Clinician titles and registration details are accurate.</li>
+<li>Claims, images and offers have been checked against current GDC guidance and the CAP Code.</li>
+<li>Marketing consent for email and text is recorded properly.</li>
+<li>Bookings and calls are tracked by source.</li>
+<li>Reviews are requested consistently and answered without sharing patient information.</li>
+</ul>
+
+<h2>How we help dental practices</h2>
+<p>We work with healthcare businesses on local SEO, content, websites and paid media, with compliance kept in mind throughout. You can read more on our <a href="/sectors/healthcare/">healthcare sector page</a>. Our retainers start at £350, £750 and £1,500 a month, with the details of each level on our <a href="/pricing/">pricing page</a>. The Launch level is designed for small local businesses and includes basic local SEO. Final sign-off on regulated claims always stays with your practice.</p>
+
+<p>If you would like to talk through how your practice appears in local search today, book a free discovery call through our <a href="/contact/">contact page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best dental marketing in the UK for a single practice?</h3>
+<p>For most single practices, a complete Google Business Profile, local SEO and clear treatment pages come first. Paid search can then add targeted enquiries for high-value treatments.</p>
+<h3>How do dentists get more private patients?</h3>
+<p>Detailed, honest treatment pages, strong reviews, local search visibility and targeted paid search all help. Patients researching private care want clear information on process, fees and aftercare.</p>
+<h3>Can dentists advertise prices online?</h3>
+<p>Generally yes, but prices must not mislead. "From" prices should be genuinely available, and any finance terms should be clear. Check current CAP Code guidance before publishing.</p>
+<h3>Can a dental practice use before-and-after photos?</h3>
+<p>Often, with patient consent and care not to imply every patient will get the same result. Check the latest GDC and ASA guidance, and have your compliance adviser review them.</p>
+<h3>How long does dental SEO take?</h3>
+<p>SEO typically shows meaningful results within 3 to 6 months. Google Business Profile improvements and technical fixes can sometimes help sooner.</p>
+<h3>Who approves dental marketing claims?</h3>
+<p>The practice does. An agency can flag risks, but final approval of claims and wording rests with the practice and its compliance advisers.</p>
+`,
+  },
+  {
+    slug: 'digital-marketing-agency-cost-uk',
+    seoTitle: 'Digital Marketing Agency Cost UK: 2026 Price Guide',
+    title: 'How Much Does a Digital Marketing Agency Cost in the UK?',
+    description: 'A UK digital marketing agency typically costs a few hundred to several thousand pounds a month. See retainer vs project pricing and what to compare.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/pricing/', '/services/', '/services/seo-geo/'],
+    body: `
+<p>A digital marketing agency in the UK typically costs anywhere from a few hundred pounds a month for a focused local package to several thousand pounds a month for multi-channel work, with one-off projects such as websites priced separately. The right figure depends on what you need done, how competitive your market is and whether you are paying for ongoing work or a defined project.</p>
+<p>This guide explains how UK agencies price their work, what pushes a quote up or down, and how to compare proposals so you are judging like for like. If you are still deciding whether you need an agency at all, start with our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a>, then come back here once you are ready to talk money.</p>
+
+<h2>How much does a digital marketing agency cost in the UK?</h2>
+<p>There is no single market rate, because "digital marketing" covers very different jobs. A local trade business needing basic search visibility and a few posts a month is buying something quite different from an online retailer running paid search, paid social, content and conversion work together. Broadly, UK pricing falls into three shapes:</p>
+<ul>
+<li><strong>Monthly retainers</strong> for continuous work such as SEO, content, paid media management and reporting.</li>
+<li><strong>Fixed-price projects</strong> for work with a clear start and end, such as a website build, a brand project or an audit.</li>
+<li><strong>Day rates or hourly rates</strong> for consultancy, training or ad hoc support.</li>
+</ul>
+<p>Advertising spend is a separate cost in almost every case. The fee pays the agency for strategy, set-up and management; the media budget goes to Google, Meta, LinkedIn or another platform.</p>
+
+<h3>Our own starting prices</h3>
+<p>To give you a real reference point, these are the published starting prices at Prism Works Studio. Ongoing work runs on a monthly retainer, and builds are quoted as separate projects.</p>
+<table>
+<thead><tr><th>Option</th><th>Starting price</th><th>Typically suits</th></tr></thead>
+<tbody>
+<tr><td>Launch retainer</td><td>From £350 a month</td><td>Small local businesses: 4 posts a month, basic local SEO, monthly report</td></tr>
+<tr><td>Growth retainer</td><td>From £750 a month</td><td>Established SMEs: 8 posts a month, SEO, tracking set-up, regular review</td></tr>
+<tr><td>Scale retainer</td><td>From £1,500 a month</td><td>Growing businesses: 12 posts a month, SEO, ads management, reporting</td></tr>
+<tr><td>Small business website</td><td>£1,000 to £2,000</td><td>Brochure and lead generation sites</td></tr>
+<tr><td>Ecommerce website</td><td>£1,500 to £3,500</td><td>Online shops on Shopify or WooCommerce</td></tr>
+<tr><td>Advertising spend</td><td>Paid separately</td><td>Paid directly by you to the ad platform</td></tr>
+</tbody>
+</table>
+<p>The full breakdown of what each level includes is on our <a href="/pricing/">pricing page</a>. Other agencies will price differently, which is exactly why the comparison section below matters.</p>
+
+<h2>Retainer vs project pricing</h2>
+<p>A retainer makes sense when the work compounds over time. Search engine optimisation, content and paid media all improve through steady iteration: publishing, testing, measuring and adjusting each month. SEO and paid campaigns typically take 3 to 6 months to show meaningful results, so a retainer gives the work room to build. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> goes deeper on the search side.</p>
+<p>A project makes sense when the output is a finished thing. A website, a brand identity or a technical audit has a scope you can define up front, so a fixed fee with agreed deliverables and revision rounds is normally fairer to both sides. A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks, depending on scope.</p>
+<p>Many businesses use both: a one-off project to fix the foundations, then a retainer to grow from them. If your site is slow, hard to update or not converting, it is usually worth fixing that before paying for traffic.</p>
+
+<h2>What drives the price of a marketing agency</h2>
+<p>When two quotes for "digital marketing" differ by thousands of pounds, the gap almost always comes down to these factors.</p>
+<h3>Scope and number of channels</h3>
+<p>One channel done properly costs less than four channels done at once. Each channel needs set-up, tracking, creative or content, and ongoing optimisation. Adding paid social on top of SEO is not just "more posts"; it is a separate discipline with its own testing cycle. Our <a href="/services/">services overview</a> shows how the channels fit together.</p>
+<h3>Competition in your market</h3>
+<p>Ranking a plumber in a market town is a different challenge from ranking a national online retailer. Competitive markets need more content, more technical work and often <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a>, all of which add time.</p>
+<h3>Seniority and time allocated</h3>
+<p>Ask how many hours a month your account receives and who does the work. A lower fee may simply mean less time. Neither is wrong, but you should know what you are buying.</p>
+<h3>Starting point</h3>
+<p>A business with clean analytics, a fast site and existing content needs less foundational work than one starting from scratch. Broken tracking, a poor site structure or a history of low-quality links all add cost early on.</p>
+<h3>Reporting and meetings</h3>
+<p>Weekly calls, custom dashboards and board-level reports take time to produce. Decide what level of reporting you actually need rather than paying for presentations nobody reads.</p>
+
+<h2>Typical cost by service</h2>
+<p>Because every agency structures its packages differently, it helps to think in terms of the work rather than the package name. The table below summarises how common services are usually charged in the UK.</p>
+<table>
+<thead><tr><th>Service</th><th>How it is usually charged</th><th>Further reading</th></tr></thead>
+<tbody>
+<tr><td>SEO and GEO</td><td>Monthly retainer</td><td><a href="/services/seo-geo/">SEO and GEO service</a></td></tr>
+<tr><td>Paid search and paid social</td><td>Monthly management fee plus separate ad spend</td><td><a href="/blog/ppc-management-cost-uk/">PPC management cost</a></td></tr>
+<tr><td>Content and digital PR</td><td>Retainer or per campaign</td><td>Content marketing guides on our blog</td></tr>
+<tr><td>Website or ecommerce build</td><td>Fixed project fee</td><td><a href="/blog/website-design-cost-small-business-uk/">Website design cost</a></td></tr>
+<tr><td>Audits</td><td>Fixed fee</td><td>Scoped per audit</td></tr>
+</tbody>
+</table>
+
+<h2>Hidden costs to watch for</h2>
+<p>The headline fee is rarely the whole story. Before signing, check whether any of the following sit outside the quote:</p>
+<ul>
+<li><strong>Ad spend</strong>, and whether any percentage is added on top of it.</li>
+<li><strong>Software and tools</strong> such as rank trackers, reporting platforms or plugins that you may be asked to pay for.</li>
+<li><strong>Set-up or onboarding fees</strong> in the first month.</li>
+<li><strong>Creative production</strong> such as photography, video or design for ads.</li>
+<li><strong>Development time</strong> for on-site changes that SEO or conversion work recommends.</li>
+<li><strong>Exit costs</strong>, including notice periods and any charge for handing over accounts or files.</li>
+</ul>
+<p>None of these are unusual. The problem is only when they come as a surprise. A good proposal lists them clearly.</p>
+
+<h2>How to compare agency quotes</h2>
+<p>Price only means something next to what it buys. Put every proposal into the same grid and compare the substance:</p>
+<ul>
+<li>What exactly is delivered each month, in numbers (posts, pages, campaigns, hours)?</li>
+<li>Which channels are included and which are extra?</li>
+<li>Who owns the ad accounts, analytics, website and content?</li>
+<li>How is success measured, and how often is it reported?</li>
+<li>What is the minimum term and notice period?</li>
+<li>Is ad spend paid directly by you to the platform?</li>
+</ul>
+<p>Our article on <a href="/blog/seo-agency-vs-freelancer-uk/">SEO agency vs freelancer</a> is also useful if you are weighing a smaller supplier against a studio.</p>
+
+<h2>Checklist before you sign</h2>
+<ul>
+<li>You have a written scope listing monthly deliverables.</li>
+<li>You know whether ad spend is inside or outside the fee.</li>
+<li>Ad, analytics and Search Console accounts are in your name, with the agency given access.</li>
+<li>Reporting format and frequency are agreed.</li>
+<li>Minimum term, notice period and exit process are clear.</li>
+<li>You understand what results are realistic in the first 3 to 6 months.</li>
+<li>Any extra costs such as tools, creative or development are listed.</li>
+<li>You have budget left to act on recommendations, not just receive them.</li>
+</ul>
+
+<h2>Is a cheap agency a false economy?</h2>
+<p>Not necessarily. A small business with modest goals can get good value from a tightly scoped, low-cost package, provided the scope is honest. The risk is a cheap retainer that promises everything and delivers very little, or tactics that cut corners and cause problems later. Equally, an expensive agency is not automatically better; you may be paying for overheads and account management layers rather than more work on your account.</p>
+<p>The best measure is clarity. If an agency can tell you exactly what will happen each month, why it matters and how you will know whether it is working, the price is much easier to judge.</p>
+
+<p>If you would like a straight answer on what your goals would cost, book a free discovery call through our <a href="/contact/">contact page</a>. We will talk through where you are now and which option, if any, fits.</p>
+
+<h2>FAQs</h2>
+<h3>How much does a digital marketing agency cost in the UK?</h3>
+<p>It ranges from a few hundred pounds a month for a focused local package to several thousand pounds a month for multi-channel work. Our retainers start from £350, £750 and £1,500 a month, with ad spend paid separately.</p>
+<h3>Is ad spend included in an agency fee?</h3>
+<p>Usually not. The agency fee pays for strategy and management, and the media budget is paid to the advertising platform. Always check how a proposal treats spend.</p>
+<h3>Should I choose a retainer or a project?</h3>
+<p>Choose a retainer for work that builds over time, such as SEO, content and paid media. Choose a fixed project for work with a defined end, such as a website or audit.</p>
+<h3>How long before I see results from an agency?</h3>
+<p>SEO and paid campaigns typically show meaningful results within 3 to 6 months. Technical fixes can help sooner, while competitive terms take longer.</p>
+<h3>Why do agency quotes vary so much?</h3>
+<p>Differences in scope, channels, time allocated, seniority, competition and starting point explain most of the gap. Compare deliverables rather than headline prices.</p>
+<h3>What should a marketing agency proposal include?</h3>
+<p>Monthly deliverables, channels, reporting, account ownership, minimum term, notice period and any extra costs such as tools, creative or development time.</p>
+`,
+  },
+  {
+    slug: 'marketing-agency-contract-uk',
+    seoTitle: 'Marketing Agency Contract UK: What to Check First',
+    title: 'Marketing Agency Contract (UK): What to Check Before You Sign',
+    description: 'Before signing a UK marketing agency contract, check the term, notice period, account ownership, reporting and IP. General guide, not legal advice.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/pricing/', '/services/', '/services/paid-media/'],
+    body: `
+<p>Before you sign a marketing agency contract in the UK, check five things: the minimum term and notice period, who owns the accounts and content, what is delivered and reported each month, how intellectual property transfers, and what happens when the relationship ends. Most disputes between businesses and agencies come from one of those areas being vague.</p>
+<p>This guide is general information to help you ask better questions. It is not legal advice, and contract law can turn on the exact wording, so have a qualified solicitor review any agreement before you sign. If you are still at the shortlisting stage, read our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> first.</p>
+
+<h2>What to check in a marketing agency contract (UK)</h2>
+<p>Agency agreements come in many forms: a short letter of engagement, standard terms and conditions plus a statement of work, or a full master services agreement. Whatever the format, the same areas matter. The table below summarises them.</p>
+<table>
+<thead><tr><th>Clause</th><th>What to look for</th><th>Questions to ask</th></tr></thead>
+<tbody>
+<tr><td>Term and renewal</td><td>Minimum period, automatic renewal</td><td>Does it roll over automatically, and on what terms?</td></tr>
+<tr><td>Notice period</td><td>How much notice either side must give</td><td>When does notice start, and is any fee due during it?</td></tr>
+<tr><td>Scope of work</td><td>Specific monthly deliverables</td><td>What counts as out of scope, and how is it charged?</td></tr>
+<tr><td>Fees and payment</td><td>Amounts, timing, late payment terms</td><td>Is ad spend separate, and are any extras listed?</td></tr>
+<tr><td>Account ownership</td><td>Ad, analytics, domain and hosting accounts</td><td>Are accounts in our name with agency access?</td></tr>
+<tr><td>Intellectual property</td><td>Who owns content, designs and code</td><td>When does ownership transfer to us?</td></tr>
+<tr><td>Reporting</td><td>Frequency, format, metrics</td><td>Which numbers will we see, and how often?</td></tr>
+<tr><td>Data protection</td><td>UK GDPR roles and responsibilities</td><td>Is there a data processing agreement where needed?</td></tr>
+<tr><td>Liability</td><td>Caps and exclusions</td><td>What is the agency responsible for if things go wrong?</td></tr>
+<tr><td>Exit and handover</td><td>Return of files, access and credentials</td><td>What will we receive, and is there a charge?</td></tr>
+</tbody>
+</table>
+
+<h2>Term, renewal and notice periods</h2>
+<p>These clauses decide how easily you can change direction. Look for a minimum term (for example, an initial period before notice can be given), whether the contract renews automatically, and how much notice is required to end it. Check when notice runs from: the date you send it, the end of the month, or the end of the current term.</p>
+<p>There is no single "standard" across the industry, so compare what each agency offers. For work like SEO, where results typically take 3 to 6 months, a reasonable initial period can be fair to both sides. What matters is that you understand it before you commit, and that the exit route is written down rather than assumed.</p>
+
+<h2>Ownership of accounts</h2>
+<p>This is the clause most likely to cause pain later. Your Google Ads, Meta Business, Google Analytics, Search Console, Google Business Profile, domain registration and hosting should ideally be held by your business, with the agency given user access. If an agency sets up accounts in its own name, you can lose campaign history, audience data and conversion tracking when you move on.</p>
+<p>For paid media in particular, account history has real value. Our guides to <a href="/blog/google-ads-agency-uk/">choosing a Google Ads agency</a> and the <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> explain why access and ownership matter. You can also see how we approach <a href="/services/paid-media/">paid media management</a>.</p>
+<p>Also check how ad spend is handled. Paying the platform directly from your own billing details keeps a clean record and avoids any question over who owns the account. Ask whether any fee is calculated as a percentage of spend.</p>
+
+<h2>Content, website and intellectual property</h2>
+<p>Under UK law, the creator of a work generally owns the copyright unless it is assigned in writing, so an agency may own what it produces unless the contract says otherwise. Look for a clause that assigns or licenses the work to you, and check whether that happens on creation, on payment or only at the end of the contract.</p>
+<p>Areas to cover include:</p>
+<ul>
+<li><strong>Written content</strong> such as blog posts, landing pages and ad copy.</li>
+<li><strong>Design files</strong> including logos, brand assets and source files, not just exports.</li>
+<li><strong>Website code and themes</strong>, plus any licensed plugins or templates that cannot be transferred.</li>
+<li><strong>Photography and stock</strong>, where licences may restrict use.</li>
+<li><strong>Agency tools and methods</strong>, which the agency will usually keep.</li>
+</ul>
+<p>If you are commissioning a site, our guides to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> and <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> cover the practical side of handovers.</p>
+
+<h2>Scope, deliverables and reporting</h2>
+<p>Vague scope is the root of most "what are we paying for?" conversations. A good contract or statement of work lists deliverables in plain numbers: posts per month, campaigns managed, pages optimised, meetings held. It should also say how changes to scope are agreed and priced.</p>
+<p>Reporting should be defined too. Agree the frequency, the format and which metrics matter to your business, such as leads, sales, revenue or cost per acquisition, rather than vanity numbers. Ask whether you will have direct access to the underlying data in your own analytics, not only a report.</p>
+<p>When comparing proposals, our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> shows how to line up deliverables against fees, and our <a href="/pricing/">pricing page</a> shows how we describe our own retainer levels.</p>
+
+<h2>Data protection and confidentiality</h2>
+<p>If the agency will handle personal data on your behalf, such as email lists, CRM records or form submissions, UK GDPR expects a written agreement setting out how that data is processed. Check that the contract covers security, sub-processors, and what happens to data when the work ends. Confidentiality clauses should protect your commercial information in both directions. The ICO publishes guidance on controller and processor contracts if you want to read further.</p>
+
+<h2>Liability, guarantees and performance claims</h2>
+<p>Be cautious of contracts or sales materials that guarantee rankings or specific results. No agency controls search engines or ad platforms, and reputable ones say so. Instead, look for commitments the agency can control: work delivered, response times, reporting and transparency. Check any limitation of liability clause with your solicitor so you understand where responsibility sits.</p>
+
+<h2>Questions to ask before signing</h2>
+<p>Ask the agency to walk you through any clause you do not understand, and to confirm in writing anything it says verbally about flexibility, ownership or exit arrangements.</p>
+<h2>Contract checklist</h2>
+<ul>
+<li>The minimum term, renewal and notice period are clear and acceptable.</li>
+<li>Monthly deliverables are listed in specific numbers.</li>
+<li>Out-of-scope work and how it is priced is explained.</li>
+<li>Ad spend is paid directly by you, and any percentage fee is stated.</li>
+<li>All ad, analytics, domain and hosting accounts are in your business's name.</li>
+<li>Content, design and code ownership transfer to you, and the timing is clear.</li>
+<li>Reporting frequency, format and metrics are agreed.</li>
+<li>A data processing agreement is in place where personal data is involved.</li>
+<li>The exit and handover process, including any charges, is written down.</li>
+<li>A qualified solicitor has reviewed the contract.</li>
+</ul>
+
+<h2>When the relationship ends</h2>
+<p>Even good partnerships end, and a business may simply outgrow a supplier or change strategy. A clean exit clause should list what you receive: admin access to all accounts, source files, website backups, content, reports and any outstanding work. It helps to agree a short handover period so a new supplier can pick up without losing momentum. Asking about this at the start is not pessimistic; it is how well-run agencies and clients avoid misunderstandings later. Keep your own record of every login and who holds admin rights, and review it each quarter so nothing depends on one person remembering a password. That simple habit protects you whichever agency you work with.</p>
+
+<p>If you would like to talk through what a working relationship with us would look like, including scope and reporting, book a free discovery call through our <a href="/contact/">contact page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should I check in a marketing agency contract in the UK?</h3>
+<p>Check the term and notice period, scope and fees, ownership of accounts and content, intellectual property, reporting, data protection and the exit process. Have a solicitor review it before signing.</p>
+<h3>Who owns the Google Ads account when I use an agency?</h3>
+<p>It depends on how the account was set up and what the contract says. Ideally the account is in your business's name, with the agency given access, so the history stays with you.</p>
+<h3>Do I own the content my agency writes?</h3>
+<p>Not automatically. Copyright generally stays with the creator unless the contract assigns it to you, so look for a clear clause on when ownership transfers.</p>
+<h3>What is a normal notice period for a marketing agency?</h3>
+<p>There is no single standard; terms vary between agencies and services. Compare offers and make sure the notice period and any minimum term are written down before you commit.</p>
+<h3>Can an agency guarantee results in the contract?</h3>
+<p>Be wary if it does. No agency controls search engines or ad platforms, so focus on commitments it can control, such as deliverables, reporting and transparency.</p>
+<h3>Do I need a lawyer to review an agency contract?</h3>
+<p>It is sensible. This guide is general information only, and a qualified solicitor can explain how the specific wording affects your business before you sign.</p>
+`,
+  },
+  {
+    slug: 'marketing-agency-for-startups-uk',
+    seoTitle: 'Marketing Agency for Startups UK: What to Do First',
+    title: 'Marketing Agency for Startups in the UK: Budgets, Channels and First Steps',
+    description: 'A UK startup should fix positioning, tracking and its website before paying for growth. Here is what to do first, sensible budgets and channels by stage.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/pricing/', '/services/brand-strategy/', '/sectors/saas/'],
+    body: `
+<p>The first thing a UK startup should do with a marketing agency is not "run ads": it is to sharpen positioning, build a clear website and set up tracking so every pound spent afterwards can be measured. Once those foundations are in place, choose one or two channels that fit your stage and budget, test them properly, and only then scale.</p>
+<p>Startups have less money, less time and more uncertainty than established firms, so the way you work with an agency should be different too. This guide covers what to do first, realistic budgets, which channels suit each stage, and how to avoid paying for activity before you are ready to benefit from it. If you are comparing suppliers in general, our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> covers the selection process in detail.</p>
+
+<h2>Do startups need a marketing agency?</h2>
+<p>Not always, and not for everything. Many founders handle early marketing themselves, and that is often right while you are still learning who buys and why. An agency becomes useful when you need skills you do not have in-house (technical SEO, paid media, web development), when founder time is better spent elsewhere, or when you need to move faster than a first hire allows.</p>
+<p>The best early relationships are narrow. Rather than a broad "do our marketing" brief, give an agency a defined problem: launch a website that converts, set up tracking properly, or test whether paid search can bring in customers at an acceptable cost.</p>
+
+<h2>What to do first: the startup marketing foundations</h2>
+<h3>1. Positioning and message</h3>
+<p>If you cannot say in one sentence who you help and why you are different, no channel will fix it. A short piece of positioning work, covering audience, problem, proposition and proof, saves money on every campaign afterwards. Our <a href="/services/brand-strategy/">brand strategy service</a> and the guide to <a href="/blog/brand-strategy-agency-uk/">working with a brand strategy agency</a> explain what that involves.</p>
+<h3>2. A website that does one job well</h3>
+<p>Early-stage sites do not need dozens of pages. They need a clear headline, a single primary action (book a demo, join a waitlist, buy), fast loading on mobile and enough proof to build trust. A small website typically costs £1,000 to £2,000 and takes 3 to 5 weeks with us; see our guide to <a href="/blog/website-design-cost-small-business-uk/">small business website costs</a>.</p>
+<h3>3. Tracking from day one</h3>
+<p>Set up analytics, conversion tracking and Search Console before launch, in accounts the company owns. Without this you cannot tell which channel brought which customer, and every later decision becomes guesswork. Under UK GDPR and PECR you will also need a proper cookie consent approach for non-essential tracking.</p>
+<h3>4. The basics of search</h3>
+<p>Even before investing in SEO, make sure your site is indexable, has sensible page titles and loads quickly. Our <a href="/blog/seo-for-small-business-uk/">SEO for small business guide</a> covers the essentials.</p>
+
+<h2>Startup marketing budgets in the UK</h2>
+<p>There is no correct percentage of revenue for a pre-revenue company, so think about budget in terms of experiments. Decide what you want to learn, how much it costs to learn it, and what result would justify spending more.</p>
+<table>
+<thead><tr><th>Stage</th><th>Main goal</th><th>Typical spend focus</th></tr></thead>
+<tbody>
+<tr><td>Pre-launch</td><td>Positioning, website, tracking</td><td>One-off project fees</td></tr>
+<tr><td>Early traction</td><td>Prove a channel can acquire customers</td><td>Small, controlled ad tests plus founder-led content</td></tr>
+<tr><td>Product-market fit</td><td>Build repeatable acquisition</td><td>Monthly retainer for SEO or paid media, with separate ad spend</td></tr>
+<tr><td>Scaling</td><td>Grow volume while protecting cost per customer</td><td>Multi-channel retainer, content, PR and conversion work</td></tr>
+</tbody>
+</table>
+<p>For reference, our retainers start at £350, £750 and £1,500 a month, and advertising spend is always paid separately, directly to the platform. The details of each level are on our <a href="/pricing/">pricing page</a>. Many startups are best served by a one-off website project first and a retainer later, rather than both at once.</p>
+
+<h2>Channels by stage</h2>
+<h3>Pre-launch and early traction</h3>
+<p>Your aim is learning, quickly. Paid search can be a fast way to test whether people are actively looking for what you offer, because you see search terms and conversion data within days. Paid social suits products that need to be shown rather than searched for. Keep tests small, set a clear success threshold before you start, and switch off what does not work. Founder-led content on LinkedIn often works well for B2B startups at this stage.</p>
+<h3>Product-market fit</h3>
+<p>Once you know who buys and why, start building channels that compound. SEO and content take time, typically 3 to 6 months for meaningful results, but they lower acquisition costs over the long run. B2B and software companies should read our guide to <a href="/blog/saas-seo-agency-uk/">SaaS SEO</a> and see how we approach <a href="/sectors/saas/">SaaS marketing</a>.</p>
+<h3>Scaling</h3>
+<p>With repeatable acquisition, you can add digital PR for authority, conversion rate optimisation to make each visitor worth more, and broader paid campaigns. This is where a larger retainer can make sense, as long as reporting ties activity to revenue.</p>
+<table>
+<thead><tr><th>Channel</th><th>Speed to learn</th><th>Long-term value</th><th>Best for</th></tr></thead>
+<tbody>
+<tr><td>Paid search</td><td>Fast</td><td>Stops when spend stops</td><td>Testing existing demand</td></tr>
+<tr><td>Paid social</td><td>Fast</td><td>Stops when spend stops</td><td>Visual or new-category products</td></tr>
+<tr><td>SEO and content</td><td>Slow</td><td>Compounds over time</td><td>Lowering acquisition cost</td></tr>
+<tr><td>Digital PR</td><td>Medium</td><td>Builds authority and links</td><td>Credibility and search strength</td></tr>
+<tr><td>Email</td><td>Medium</td><td>High, once a list exists</td><td>Nurturing and retention</td></tr>
+</tbody>
+</table>
+
+<h2>Common startup marketing mistakes</h2>
+<ul>
+<li><strong>Scaling ads before the website converts.</strong> More traffic to a weak page just costs more.</li>
+<li><strong>Spreading across every channel.</strong> Five half-funded channels teach you less than one well-run test.</li>
+<li><strong>Letting the agency own the accounts.</strong> Ad accounts, analytics and the domain should belong to the company.</li>
+<li><strong>Judging SEO in month one.</strong> Search work needs time; set milestones that reflect that.</li>
+<li><strong>No agreed definition of success.</strong> Decide on leads, sign-ups or sales targets before work starts.</li>
+</ul>
+
+<h2>Startup agency checklist</h2>
+<ul>
+<li>Positioning is written down in one or two sentences.</li>
+<li>The website has one clear primary action and loads quickly on mobile.</li>
+<li>Analytics, conversion tracking and Search Console are live and company-owned.</li>
+<li>The agency scope is narrow, written and measurable.</li>
+<li>Each test has a budget, a time limit and a success threshold.</li>
+<li>Ad spend is paid directly by the company to the platform.</li>
+<li>Reporting links activity to sign-ups, leads or revenue.</li>
+<li>There is a plan for what happens if a channel works, and if it does not.</li>
+</ul>
+
+<h2>How to brief an agency as a startup</h2>
+<p>A good brief saves weeks. Keep it to one or two pages and cover the essentials: what the product does, who the ideal customer is, what you have already tried and what happened, your budget for fees and for ad spend, and the single outcome you most want in the next three months. Include any constraints, such as a launch date, a funding milestone or a regulated product claim that needs careful wording.</p>
+<p>Share what you know about competitors and what customers say in their own words. Agencies can research a market, but they cannot invent the insight that comes from your first fifty sales conversations. The clearer the brief, the more of the agency's time goes on doing the work rather than working out what you need.</p>
+
+<h2>Working with an agency as a small team</h2>
+<p>Founders are busy, so agree a simple rhythm: a short monthly review, a shared document of priorities and one named decision-maker on your side. Give the agency access to customer conversations or sales notes where possible; the best marketing ideas usually come from what customers actually say. And be honest about runway. A good agency will shape the plan around the money you really have rather than the budget it would like you to have.</p>
+
+<p>If you are planning a launch or trying to work out which channel to test first, book a free discovery call through our <a href="/contact/">contact page</a>. We will help you decide what to do now and what can wait.</p>
+
+<h2>FAQs</h2>
+<h3>What should a marketing agency for startups in the UK do first?</h3>
+<p>Start with positioning, a focused website and working tracking. Those foundations make every later campaign measurable and stop money being wasted on traffic that cannot convert.</p>
+<h3>How much should a startup spend on marketing?</h3>
+<p>Think in experiments rather than percentages. Fund one or two tests with a clear success threshold, then increase spend only on channels that prove they can acquire customers.</p>
+<h3>Should a startup do SEO or paid ads first?</h3>
+<p>Paid ads usually teach you faster, while SEO builds value over 3 to 6 months and beyond. Many startups test demand with paid search and start SEO foundations alongside.</p>
+<h3>Can a startup afford an agency retainer?</h3>
+<p>Our retainers start from £350 a month, with ad spend separate. Some startups begin with a one-off website project and add a retainer once a channel is proven.</p>
+<h3>Who should own the ad and analytics accounts?</h3>
+<p>The company should. Give the agency access rather than letting it create accounts in its own name, so your data stays with you if suppliers change.</p>
+<h3>When should a startup hire in-house instead?</h3>
+<p>When marketing becomes a constant, central function with enough work for a full role. Many teams keep specialist work such as technical SEO or paid media with an agency even then.</p>
+`,
+  },
+  {
+    slug: 'restaurant-marketing-uk',
+    seoTitle: 'Restaurant Marketing UK: Bookings, Reviews and Local SEO',
+    title: 'Restaurant Marketing in the UK: Google, Bookings, Menus and Reviews',
+    description: 'Restaurant marketing in the UK starts with Google Business Profile, easy booking and a readable menu, then reviews, local SEO and social to fill tables.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/hospitality/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Restaurant marketing in the UK starts with being easy to find and easy to book: an accurate Google Business Profile, a fast mobile website with a readable menu, and a direct booking button. Once that is working, reviews, local SEO, email and social media keep tables full through quieter weeks.</p>
+<p>Diners decide quickly, often on a phone, sometimes from the pavement. This guide covers the channels that matter for independent restaurants, cafés and small groups, with a checklist at the end. For hotels and wider hospitality, see our <a href="/blog/hospitality-marketing-agency-uk/">hospitality marketing agency guide</a> and our article on <a href="/blog/hotel-direct-bookings-uk/">hotel direct bookings</a>.</p>
+
+<h2>Restaurant marketing in the UK: the essentials</h2>
+<p>A restaurant does not need dozens of channels. It needs a handful done consistently well. Here is how the main ones compare.</p>
+<table>
+<thead><tr><th>Channel</th><th>Main job</th><th>Effort</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Appear in maps, show hours, menu, photos and booking link</td><td>Low, but ongoing</td></tr>
+<tr><td>Website</td><td>Menu, bookings, private dining, events and gift vouchers</td><td>Project, then light upkeep</td></tr>
+<tr><td>Reviews</td><td>Build trust and local prominence</td><td>Ongoing</td></tr>
+<tr><td>Local SEO</td><td>Rank for cuisine and area searches</td><td>Ongoing</td></tr>
+<tr><td>Social media</td><td>Show the food, atmosphere and what is new</td><td>Ongoing</td></tr>
+<tr><td>Email</td><td>Bring regulars back for events and seasonal menus</td><td>Low once set up</td></tr>
+<tr><td>Paid social and search</td><td>Promote launches, events and quiet nights</td><td>Variable</td></tr>
+</tbody>
+</table>
+
+<h2>Google Business Profile for restaurants</h2>
+<p>For many diners, your Google Business Profile is your shop window. It appears in map results, on searches for your name and in "near me" searches. Keep it accurate and active:</p>
+<ul>
+<li>Choose the most specific primary category, such as "Italian restaurant" rather than just "restaurant".</li>
+<li>Keep opening hours current, including bank holidays and seasonal changes.</li>
+<li>Add a booking link that goes to your own booking page or system.</li>
+<li>Link to your menu and keep it up to date.</li>
+<li>Upload fresh photos of dishes, the dining room and the exterior so people recognise you.</li>
+<li>Fill in attributes such as outdoor seating, vegan options, accessibility and dog-friendly.</li>
+<li>Use posts to promote events, new menus and offers.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> covers the wider local ranking factors.</p>
+
+<h2>Making bookings easy</h2>
+<p>Every extra step loses diners. Put a clear "Book a table" button at the top of every page on mobile, and make sure it works in one or two taps. Whether you use a booking platform or take reservations by phone, the route should be obvious.</p>
+<p>Third-party platforms can bring discovery, but direct bookings give you the customer relationship and, with consent, the chance to market to them again. Where possible, link Google and social profiles to your own booking page. Track bookings by source so you know which channels are actually filling tables.</p>
+<p>Private dining, group bookings, events and gift vouchers deserve their own pages. These are often higher-value enquiries and people search for them specifically, for example "private dining room" plus your area.</p>
+
+<h2>Menus that help, not hinder</h2>
+<p>A menu uploaded only as a PDF or a photo is hard to read on a phone, cannot be read well by search engines and is often out of date. Publish the menu as text on a web page, with prices, and keep a downloadable version if you like. Benefits include:</p>
+<ul>
+<li><strong>Search visibility</strong> for dishes and cuisines people actually search for.</li>
+<li><strong>Accessibility</strong> for diners using screen readers or zooming in.</li>
+<li><strong>Clear allergen and dietary information</strong>, signposting diners to speak to staff about allergies, in line with UK food information rules.</li>
+<li><strong>Easier updates</strong> when dishes or prices change.</li>
+</ul>
+<p>If your website is hard to update, it may be time for a rebuild. A small website typically costs £1,000 to £2,000 with us and takes 3 to 5 weeks; see our guide to <a href="/blog/website-design-cost-small-business-uk/">small business website costs</a>.</p>
+
+<h2>Reviews and reputation</h2>
+<p>Reviews influence where people choose to eat and help your local ranking. Ask for reviews in a natural way, for example on the bill, a table card or a follow-up email for booked diners, and never offer incentives in exchange for positive reviews. UK consumer law and platform policies take fake or incentivised reviews seriously.</p>
+<p>Reply to reviews, good and bad. A short, specific thank you to positive reviews and a calm, helpful response to criticism shows future diners that you care. Take detailed complaints offline rather than debating them in public.</p>
+
+<h2>Local SEO and content for restaurants</h2>
+<p>Beyond your Google profile, your website can rank for searches like "best Sunday roast in" your town, "vegan restaurant near" a landmark, or "private dining" in your area. Useful pages include:</p>
+<ul>
+<li>A page for each location if you have more than one.</li>
+<li>Pages for private dining, events and set menus.</li>
+<li>Seasonal pages, such as Christmas parties, Mother's Day or summer terrace menus, published well in advance.</li>
+<li>An about page that tells the story of the food, the suppliers and the team's approach, without exaggerated claims.</li>
+</ul>
+<p>Mentions in local press and food guides also help. Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains how that works. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers both search engines and AI search answers.</p>
+
+<h2>Social media, email and paid ads</h2>
+<p>Social media works best for restaurants when it shows real food and real atmosphere: new dishes, behind-the-scenes prep, events and seasonal changes. Consistency matters more than polish.</p>
+<p>Email is underused by many restaurants. With proper consent under UK GDPR and PECR, a short monthly email about new menus, events and bookable dates can bring regulars back reliably.</p>
+<p>Paid social is useful for launches, events and filling quieter nights in a defined radius. Keep targeting local and the offer simple. Our guide to <a href="/blog/meta-ads-agency-uk/">Meta ads for UK businesses</a> explains the basics. Ad spend is always paid separately, directly to the platform.</p>
+
+<h2>Planning around the restaurant calendar</h2>
+<p>Restaurant demand follows a predictable rhythm, and marketing works best when it is planned around it. Christmas party bookings often start in late summer, Mother's Day and Valentine's Day fill weeks ahead, and summer terrace trade depends on the weather and the school holidays. Publish seasonal pages and Google posts early enough for people to find them while they are still deciding.</p>
+<p>Quiet periods are just as important. January, early-week evenings and the weeks after big holidays are when a targeted email, a set menu or a local paid social campaign can make the most difference. Keep a simple calendar of key dates, what you will promote and when it needs to go live, so marketing is not left until the week before.</p>
+<h2>Measuring restaurant marketing</h2>
+<p>Track the numbers that tie to covers: bookings by source, calls and direction requests from Google, email sign-ups and redemptions of any offer codes. Even a basic weekly note of bookings against what was promoted that week shows patterns over a few months, and helps you decide where to spend time and money next.</p>
+<h2>Restaurant marketing checklist</h2>
+<ul>
+<li>Google Business Profile complete, with correct category, hours, menu and booking link.</li>
+<li>Bank holiday and seasonal hours updated in advance.</li>
+<li>"Book a table" button visible on every mobile page.</li>
+<li>Menu published as text with prices and allergen signposting.</li>
+<li>Pages for private dining, events, gift vouchers and seasonal menus.</li>
+<li>Reviews requested consistently, without incentives, and answered.</li>
+<li>Bookings tracked by source.</li>
+<li>Email sign-up with recorded consent.</li>
+<li>Fresh photos added regularly to Google and social.</li>
+</ul>
+
+<h2>How we help restaurants</h2>
+<p>We help hospitality businesses with websites, local SEO, content and paid social. Read more on our <a href="/sectors/hospitality/">hospitality sector page</a>. Our retainers start at £350, £750 and £1,500 a month; the Launch level is designed for small local businesses and includes basic local SEO, and the full detail of each level is on our <a href="/pricing/">pricing page</a>.</p>
+
+<p>If you want to fill more tables directly, book a free discovery call through our <a href="/contact/">contact page</a> and we will look at how your restaurant shows up online today.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective restaurant marketing in the UK?</h3>
+<p>For most independents, an accurate Google Business Profile, easy direct booking, a readable online menu and steady reviews do the most work. Social media and email then keep regulars coming back.</p>
+<h3>Should my restaurant menu be a PDF?</h3>
+<p>Ideally publish it as text on a web page, with a PDF as an optional extra. Text menus are easier to read on phones, more accessible and visible to search engines.</p>
+<h3>How do I get more Google reviews for my restaurant?</h3>
+<p>Ask consistently, for example on the bill, a table card or a follow-up email. Never offer incentives for positive reviews, and reply to the reviews you receive.</p>
+<h3>Are booking platforms or direct bookings better?</h3>
+<p>Platforms can help with discovery, while direct bookings give you the customer relationship. Many restaurants use both but link Google and social profiles to their own booking page.</p>
+<h3>Is paid social worth it for a restaurant?</h3>
+<p>It can be for launches, events and quieter nights, targeted to a local radius. Keep the offer simple and track bookings. Ad spend is paid separately to the platform.</p>
+<h3>How long does restaurant SEO take?</h3>
+<p>Google Business Profile changes can help within weeks, while wider SEO typically takes 3 to 6 months to show meaningful results.</p>
+`,
+  },
 ];
