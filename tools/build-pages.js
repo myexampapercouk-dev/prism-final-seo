@@ -138,7 +138,7 @@ ${core('header')}
 ${body}
 </main>
 ${core('footer').replace('</ul></div></div><div class="pws-footer-bottom">', `${SITE.whatsapp ? `<li><span>WhatsApp</span><a href="${waHref()}" target="_blank" rel="noopener">Chat on WhatsApp</a></li>` : ''}</ul></div></div><div class="pws-footer-bottom">`)}
-${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="${waHref()}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Ask us</span></a>` : ''}
+${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="${waHref()}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>` : ''}
 <script src="/assets/js/site.js?v=${V.js}" defer></script>
 <script src="/assets/js/chat.js?v=${V.chat}" defer></script>
 </body>
