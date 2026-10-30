@@ -6903,4 +6903,568 @@ module.exports = [
 <p>If you want a second opinion on your trial or demo campaigns, <a href="/contact/">book a free discovery call</a> and we will talk through your funnel and tracking.</p>
 `,
   },
+  {
+    slug: 'mortgage-broker-marketing-uk',
+    seoTitle: 'Mortgage Broker Marketing UK: Lead Generation Guide',
+    title: 'Mortgage Broker Marketing in the UK: Lead Generation, SEO and Compliance Sign-Off',
+    description: 'Mortgage broker marketing in the UK rests on local SEO, useful content and focused paid search, with every promotion signed off by the firm before use.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/financial-advisers/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Mortgage broker marketing in the UK works best when you build your own lead sources: local SEO, helpful content for buyers and remortgagers, and focused paid search, supported by referrals from estate agents and past clients. Because your website, ads and social posts count as financial promotions, every piece should be approved by your firm or network before it goes live.</p>
+<p>This guide covers where mortgage leads come from, how to win them through search, how to handle paid campaigns, and how to build compliance sign-off into your process. It is general information, not regulatory advice. For how we work with regulated firms, see our <a href="/sectors/financial-advisers/">financial adviser and mortgage broker marketing</a>.</p>
+
+<h2>Where mortgage broker leads come from</h2>
+<p>Most brokers rely on a mix of sources. Some are cheap but slow to build; others are fast but expensive or of mixed quality.</p>
+<table>
+<thead><tr><th>Lead source</th><th>Speed</th><th>Cost pattern</th><th>Quality and control</th></tr></thead>
+<tbody>
+<tr><td>Referrals from clients</td><td>Slow to build</td><td>Low</td><td>High; depends on service and follow-up</td></tr>
+<tr><td>Estate agent and introducer partnerships</td><td>Medium</td><td>Varies by arrangement</td><td>Good, but you depend on the partner</td></tr>
+<tr><td>Local SEO and content</td><td>Slow, typically 3 to 6 months</td><td>Ongoing time or retainer</td><td>High; leads come to you directly</td></tr>
+<tr><td>Paid search</td><td>Fast</td><td>Ad spend per click, paid separately</td><td>Good on specific terms, weaker on broad ones</td></tr>
+<tr><td>Bought-in leads</td><td>Fast</td><td>Per lead</td><td>Mixed; often shared with other brokers</td></tr>
+</tbody>
+</table>
+<p>A healthy mix reduces dependence on any one source. Many brokers start with referrals and bought leads, then gradually shift towards channels they own, such as search.</p>
+
+<h2>Local SEO for mortgage brokers</h2>
+<p>People often search with a place in mind: "mortgage broker Reading", "mortgage adviser near me", "first-time buyer mortgage advice Glasgow". Ranking for these depends on local signals and a site that clearly explains what you do.</p>
+<ul>
+<li>Complete your Google Business Profile with the right category, service area, opening hours and a link to an enquiry page. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the settings.</li>
+<li>Create service pages for each main need: first-time buyers, remortgages, buy-to-let, home movers and self-employed applicants.</li>
+<li>Mention the areas you cover naturally, and add location pages only where you have genuine local detail to share.</li>
+<li>Collect reviews from clients, and respond professionally without discussing their circumstances.</li>
+<li>Keep regulatory disclosures and your firm details clear and consistent across the site.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/financial-adviser-seo-uk/">financial adviser SEO guide</a> go into more depth on ranking in regulated sectors.</p>
+
+<h2>Content that earns enquiries</h2>
+<p>Buyers and homeowners have lots of questions before they speak to a broker. Content that answers them well can rank, build trust and bring in enquiries over time.</p>
+<ul>
+<li>How the mortgage process works, step by step, for first-time buyers.</li>
+<li>What to do when a fixed rate is ending and the options for remortgaging.</li>
+<li>Mortgages for self-employed people and contractors, and what lenders usually ask for.</li>
+<li>Buy-to-let basics and what landlords should consider.</li>
+<li>What a broker does, how you are paid and what clients can expect.</li>
+</ul>
+<p>Keep content factual and balanced. Avoid promising approval, the "best rates" or savings you cannot evidence, and include any risk warnings your firm requires. Content of this kind is still a financial promotion, so the same sign-off process applies.</p>
+
+<h2>Paid search for mortgage leads</h2>
+<p>Google Ads can generate enquiries quickly, but mortgage keywords are competitive. Focus on specific, high-intent terms in your area rather than broad national phrases, and send each ad to a matching landing page rather than your homepage.</p>
+<p>Financial services ads are subject to Google's policies, which may require advertiser verification and additional disclosures. Check the current requirements before you launch. Ad spend is paid separately from any management fee. Our <a href="/services/paid-media/">paid media service</a> covers Google and social campaigns, and our <a href="/blog/landing-page-design-uk/">landing page guide</a> explains how to turn clicks into enquiries.</p>
+
+<h2>Compliance sign-off: build it into the process</h2>
+<p>Websites, ads, social posts, emails and even some videos from regulated firms are financial promotions. They must be fair, clear and not misleading, and they usually need approval under your firm's or network's procedures before publishing. Appointed representatives typically need their principal firm to approve promotions.</p>
+<p>The simplest way to avoid delays is to make sign-off part of your workflow rather than an afterthought.</p>
+<ul>
+<li>Agree who approves what, and how long approval normally takes.</li>
+<li>Prepare content in batches so it can be reviewed together.</li>
+<li>Keep a record of approved versions and when they were approved.</li>
+<li>Reuse approved wording for disclosures and risk warnings.</li>
+<li>Review evergreen pages periodically, especially when products or rules change.</li>
+</ul>
+<p>We draft and edit with these rules in mind, but we are not a regulated firm and cannot approve promotions. Final sign-off always rests with the broker firm or its network. Our guide to <a href="/blog/fca-compliant-marketing-financial-advisers/">marketing for financial advisers within the rules</a> covers this in more detail.</p>
+
+<h2>Working with estate agents and introducers</h2>
+<p>Introducer relationships remain one of the most valuable sources of mortgage business, and digital marketing can strengthen them rather than replace them. A clear website that explains how you work with buyers gives agents confidence to refer, and a simple referral page or form makes the handover easy. Some brokers create short guides for buyers that agents can share, such as a checklist of documents to gather before applying.</p>
+<p>Keep any referral arrangements transparent and in line with your firm's rules on disclosure, and make sure shared materials have been approved like any other promotion. Track referrals by source so you can see which partnerships bring cases that complete.</p>
+
+<h2>Social media for mortgage brokers</h2>
+<p>Social media works best as a trust builder rather than a direct lead source. Short explanations of the buying process, reminders for clients approaching the end of a fixed rate and local property market context can keep you front of mind with past clients and their friends. LinkedIn suits brokers who work with professionals, landlords or business owners, while Facebook and Instagram suit first-time buyer audiences.</p>
+<p>Every post is a potential financial promotion, so batch posts for approval, avoid rate claims that date quickly and include required warnings where needed. Consistency matters more than volume: a few approved, useful posts each month usually beat daily posting that is hard to keep compliant.</p>
+
+<h2>Tracking leads and conversions</h2>
+<p>Track enquiry forms, phone calls and booked appointments as conversions, and record the source of each case. Over time, compare cost per completed case by channel, not just cost per lead, because cheap leads that never complete are expensive in practice. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to set up conversion events and consent mode.</p>
+
+<h2>Budgeting for mortgage broker marketing</h2>
+<p>Our retainers run at £350, £750 or £1,500 a month depending on the plan, with ad spend paid separately. What each plan includes is on our <a href="/pricing/">pricing page</a>. If your website needs a refresh, a small site typically costs £1,000 to £2,000. Many brokers start with local SEO and service pages, then add paid search for remortgage and first-time buyer terms.</p>
+
+<h2>Mortgage broker marketing checklist</h2>
+<ul>
+<li>List your current lead sources and what each costs per completed case.</li>
+<li>Complete your Google Business Profile and keep firm details consistent.</li>
+<li>Create service pages for first-time buyers, remortgages, buy-to-let and other key needs.</li>
+<li>Plan helpful content around real client questions.</li>
+<li>Agree a sign-off process with your firm or network and keep approval records.</li>
+<li>Check advertising platform requirements for financial services.</li>
+<li>Run paid search on specific local terms with matching landing pages.</li>
+<li>Track enquiries, calls and appointments as conversions.</li>
+<li>Ask satisfied clients for reviews and referrals.</li>
+<li>Review results quarterly and shift budget towards channels you own.</li>
+</ul>
+<p>To see how we support IFAs, planners and brokers, visit our <a href="/sectors/financial-advisers/">financial services sector page</a>.</p>
+
+<p>If you would like help building your own lead sources, <a href="/contact/">book a free discovery call</a> and we will talk through where your marketing could do more.</p>
+
+<h2>FAQs</h2>
+<h3>What works best for mortgage broker marketing in the UK?</h3>
+<p>A mix of referrals, local SEO, helpful content and focused paid search usually works best. Building channels you own reduces reliance on bought-in leads, and every promotion should be signed off by your firm or network.</p>
+<h3>Are mortgage broker websites financial promotions?</h3>
+<p>Generally, yes. Websites, ads, social posts and emails from regulated firms are usually treated as financial promotions and need to be fair, clear and not misleading. Check your firm's procedures for approval.</p>
+<h3>Who approves our marketing?</h3>
+<p>Your firm, or your principal firm or network if you are an appointed representative. An agency can draft and edit content with the rules in mind, but cannot approve financial promotions.</p>
+<h3>Should mortgage brokers buy leads?</h3>
+<p>Bought leads can fill gaps, but quality varies and leads may be shared with other brokers. Most brokers benefit from building their own sources alongside them.</p>
+<h3>Can mortgage brokers run Google Ads?</h3>
+<p>Yes, within Google's financial services policies, which may include verification and disclosure requirements. Focus on specific local terms and track cost per completed case.</p>
+<h3>How long does SEO take for a mortgage broker?</h3>
+<p>SEO typically takes three to six months to show meaningful results, and longer for competitive city terms. Local and niche terms often move sooner.</p>
+`,
+  },
+  {
+    slug: 'private-clinic-marketing-uk',
+    seoTitle: 'Private Clinic Marketing UK: Local SEO and Bookings',
+    title: 'Private Clinic Marketing in the UK: Local SEO, Online Booking and the Rules',
+    description: 'Private clinic marketing in the UK starts with local SEO, clear treatment pages and easy online booking, within advertising rules your clinic signs off.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/healthcare/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Private clinic marketing in the UK works best when it starts with local SEO and easy online booking, because most patients search for a nearby clinic and want to book in a few taps. Physiotherapy practices, aesthetics clinics and private GP services that combine a strong Google Business Profile, clear treatment pages and a simple booking flow usually see steadier enquiries than those relying on social media alone.</p>
+<p>This guide covers how patients choose a clinic, local SEO, treatment pages, online booking, paid search and the advertising rules to keep in mind. It is general information, not legal or regulatory advice. For how we work with clinics, see our <a href="/sectors/healthcare/">healthcare marketing services</a>.</p>
+
+<h2>How patients choose a private clinic</h2>
+<p>Patients usually start with a search such as "physio near me", "private GP Bristol" or "skin clinic Leeds". They look at the map results, check reviews, open two or three websites and then book with whichever clinic feels trustworthy and convenient. Price, availability, location and who will treat them are the deciding factors.</p>
+<p>That makes your marketing a trust exercise. Patients want to know practitioners are properly qualified, that the clinic is registered where it needs to be, what a treatment involves and what it costs. Clinics that answer these questions plainly tend to convert more of their visitors.</p>
+
+<h2>Local SEO for private clinics</h2>
+<p>Local search is the main source of new patients for most clinics. The basics are well known but often neglected.</p>
+<ul>
+<li><strong>Google Business Profile:</strong> choose the most accurate primary category, add services, opening hours, photos of the clinic and a booking link. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers each setting.</li>
+<li><strong>Consistent details:</strong> keep your name, address and phone number identical across your website, directories and professional listings.</li>
+<li><strong>Reviews:</strong> ask patients for reviews in a way that respects confidentiality, and reply without discussing anyone's treatment.</li>
+<li><strong>Location pages:</strong> if you have more than one site, give each its own page with real local detail.</li>
+<li><strong>Local links:</strong> sports clubs, gyms, employers and community groups are natural partners for physio and private GP clinics.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> goes deeper. SEO results typically take three to six months, so start early and keep going.</p>
+
+<h2>Treatment and service pages</h2>
+<p>Each main treatment or service deserves its own page. A single "services" page listing everything rarely ranks and rarely converts.</p>
+<h3>What to include on each page</h3>
+<ul>
+<li>What the treatment or service is, in plain English.</li>
+<li>Who it may suit, and who it is not suitable for.</li>
+<li>What happens at the appointment, including any consultation first.</li>
+<li>Who carries it out and their relevant qualifications or registration.</li>
+<li>Fees, or a clear starting price, and what is included.</li>
+<li>Possible risks or side effects where relevant, stated factually.</li>
+<li>Questions patients commonly ask.</li>
+<li>A clear way to book or enquire.</li>
+</ul>
+<p>Avoid promising outcomes. Phrases such as "guaranteed results" or "pain-free" are risky in health marketing, and before-and-after images in aesthetics need particular care. Our broader guide to <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a> covers content standards in more depth.</p>
+
+<h2>Marketing by clinic type</h2>
+<p>The fundamentals are the same, but the emphasis differs by type of clinic.</p>
+<table>
+<thead><tr><th>Clinic type</th><th>Typical searches</th><th>Main focus</th><th>Points to watch</th></tr></thead>
+<tbody>
+<tr><td>Physiotherapy</td><td>"sports physio near me", "back pain physio"</td><td>Local SEO, condition pages, online booking</td><td>Claims about recovery times; insurer and referral information</td></tr>
+<tr><td>Aesthetics</td><td>"skin clinic", treatment names plus town</td><td>Treatment pages, consultations, social content</td><td>Rules on prescription-only medicines, before-and-after images, age restrictions</td></tr>
+<tr><td>Private GP</td><td>"private GP near me", "same day GP appointment"</td><td>Availability, pricing clarity, booking</td><td>Registration status, clinical claims, patient confidentiality</td></tr>
+<tr><td>Dental</td><td>"private dentist", treatment names</td><td>Local SEO, private treatment pages</td><td>See our <a href="/blog/dental-marketing-uk/">dental marketing guide</a></td></tr>
+</tbody>
+</table>
+
+<h2>Online booking and enquiry handling</h2>
+<p>Patients increasingly expect to book online. If they have to phone during working hours, many will choose a clinic that lets them book at 10pm.</p>
+<ul>
+<li>Put a booking button on every treatment page and in your Google Business Profile.</li>
+<li>Show real availability where your booking system allows it.</li>
+<li>Keep forms short, and only collect the information you need at that stage.</li>
+<li>Send automatic confirmations and reminders to reduce no-shows.</li>
+<li>Handle health information carefully under UK GDPR, and check your forms and booking tools with your data protection lead.</li>
+</ul>
+<p>Track bookings and enquiries as events so you know which channels bring patients. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how, including consent mode, which matters on health sites.</p>
+
+<h2>Paid search and social for clinics</h2>
+<p>Google Ads can bring in patients quickly for high-intent searches, but healthcare advertising has extra restrictions. Some treatments cannot be advertised at all, some need platform certification, and prescription-only medicines cannot be promoted to the public in the UK. Check what is permitted before building campaigns.</p>
+<p>Where advertising is allowed, focus on specific treatment and location terms, send each ad to the matching treatment page, and exclude searches for free or NHS services if you only offer private care. Ad spend is paid separately from management fees. Our <a href="/services/paid-media/">paid media service</a> covers Google and social campaigns.</p>
+
+<h2>The rules: keep claims checked</h2>
+<p>Health and aesthetics marketing in the UK is covered by the CAP Code, enforced by the Advertising Standards Authority, alongside rules from professional regulators and, for some services, registration requirements. The details depend on your services and professions, and they change.</p>
+<p>We write and review content with these rules in mind, but final sign-off on clinical claims, images and offers should always rest with the clinic and its own compliance or clinical advisers. This is general information, not legal advice.</p>
+
+<h2>Content beyond treatment pages</h2>
+<p>Once the core treatment pages are in place, helpful articles can bring in patients earlier in their research. A physiotherapy clinic might explain the difference between a sports massage and physiotherapy, or what to expect at a first assessment. An aesthetics clinic might explain how consultations work and why some treatments need a prescriber. A private GP service might explain what is and is not included in an appointment fee.</p>
+<p>These pieces work best when they answer one clear question, link to the relevant treatment page and are reviewed by a clinician for accuracy. They also help your clinic appear in AI search tools, which increasingly summarise health information for patients. Keep the tone calm and factual, avoid diagnosing readers and encourage people to seek appropriate advice for their own situation. Updating older articles when guidance or your services change is as important as publishing new ones, because outdated health information erodes trust quickly.</p>
+
+<h2>Budgeting for private clinic marketing</h2>
+<p>Our monthly retainers run at £350, £750 or £1,500 depending on the plan, with ad spend paid separately. What each plan covers is on our <a href="/pricing/">pricing page</a>. A clinic website rebuild typically falls in the £1,000 to £2,000 range for a small site. Many clinics begin with local SEO and treatment pages, then add paid search for their most profitable services.</p>
+
+<h2>Private clinic marketing checklist</h2>
+<ul>
+<li>Complete your Google Business Profile with categories, services, photos and a booking link.</li>
+<li>Keep name, address and phone details consistent everywhere.</li>
+<li>Create a dedicated page for each main treatment or service.</li>
+<li>Show practitioner qualifications and fees or starting prices clearly.</li>
+<li>Remove outcome guarantees and check before-and-after images.</li>
+<li>Offer online booking and automatic reminders.</li>
+<li>Review forms and booking tools for UK GDPR.</li>
+<li>Track bookings and enquiries in analytics.</li>
+<li>Check advertising restrictions before running paid campaigns.</li>
+<li>Have the clinic sign off all clinical claims before publishing.</li>
+</ul>
+<p>For more on how we support clinics, practices and health brands, visit our <a href="/sectors/healthcare/">healthcare sector page</a>.</p>
+
+<p>If you would like help with local SEO, treatment pages or booking for your clinic, <a href="/contact/">book a free discovery call</a> and we will talk through your priorities.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best approach to private clinic marketing in the UK?</h3>
+<p>Start with local SEO and a complete Google Business Profile, build clear treatment pages with fees and practitioner details, and make online booking easy. Add paid search once tracking is in place.</p>
+<h3>Can private clinics advertise on Google?</h3>
+<p>Often, yes, but some treatments are restricted or need certification, and prescription-only medicines cannot be advertised to the public in the UK. Check the rules for each service before building campaigns.</p>
+<h3>Can we use before-and-after photos?</h3>
+<p>They can be used in some cases but need care: they must be genuine, representative and not misleading. Your clinic and its compliance advisers should approve any images before use.</p>
+<h3>How should a clinic handle patient reviews?</h3>
+<p>Ask for reviews politely and reply professionally, but never confirm someone is a patient or discuss their treatment in a reply. Keep responses general and invite them to contact the clinic directly.</p>
+<h3>How long does local SEO take for a clinic?</h3>
+<p>Local SEO typically takes three to six months to show meaningful results. Profile improvements and reviews can help sooner, but steady effort matters most.</p>
+<h3>Who is responsible for compliance in clinic marketing?</h3>
+<p>The clinic is. We write with the CAP Code and platform policies in mind, but final approval of claims, images and offers rests with the clinic and its own compliance or clinical advisers.</p>
+`,
+  },
+  {
+    slug: 'rebranding-guide-uk',
+    seoTitle: 'How to Rebrand a Business UK Without Losing Customers',
+    title: 'How to Rebrand a UK Business Without Losing Customers or Rankings',
+    description: 'To rebrand a business without losing customers or rankings, set the strategy first, tell customers early and map 301 redirects before any domain change.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/brand-strategy/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>To rebrand a business without losing customers or rankings, start with a clear reason and brand strategy, tell existing customers early, and plan the technical side, especially 301 redirects, before you change your name, domain or website. Most of the damage from rebrands comes from rushing the launch and skipping the unglamorous steps, not from the new identity itself.</p>
+<p>This guide walks through the process, what changes when, how to protect SEO, and a checklist you can use. For help with the strategy itself, see our <a href="/services/brand-strategy/">brand strategy service</a>.</p>
+
+<h2>Why rebrand, and when not to</h2>
+<p>Good reasons to rebrand include a merger, a change in what you sell or who you sell to, a name that causes confusion or legal problems, expansion into new markets, or an identity that no longer reflects the quality of the business. Weaker reasons include boredom with the logo or a new competitor with a fresher look.</p>
+<p>Rebrands vary in scale. A refresh updates the visual identity while keeping the name. A full rebrand changes the name, positioning and often the domain. The bigger the change, the more planning it needs.</p>
+<table>
+<thead><tr><th>Type of change</th><th>What changes</th><th>Customer risk</th><th>SEO risk</th></tr></thead>
+<tbody>
+<tr><td>Visual refresh</td><td>Logo, colours, typography</td><td>Low</td><td>Low if URLs stay the same</td></tr>
+<tr><td>Repositioning</td><td>Messaging, audience, offer</td><td>Medium</td><td>Medium if content and pages change</td></tr>
+<tr><td>Name change, same domain</td><td>Name, identity, messaging</td><td>Medium to high</td><td>Medium; brand searches shift</td></tr>
+<tr><td>Name and domain change</td><td>Everything, including URLs</td><td>High</td><td>High without a full redirect plan</td></tr>
+</tbody>
+</table>
+
+<h2>How to rebrand a business, step by step</h2>
+<h3>1. Define the strategy</h3>
+<p>Before any design work, agree who you serve, what makes you different, what you want to be known for and how the brand should sound. A short brand strategy document keeps decisions consistent and stops the project turning into a matter of taste. Our guide to <a href="/blog/brand-strategy-agency-uk/">brand strategy agencies</a> explains what this stage usually involves.</p>
+<h3>2. Check the name</h3>
+<p>If you are changing the name, check availability at Companies House, search the UK trade mark register, and check domains and social handles. Take legal advice on trade marks if the name matters to the business. Remember that a change of company name needs to be registered and reflected on invoices, your website and other official documents.</p>
+<h3>3. Audit what you have</h3>
+<p>List every place the current brand appears: website, domain, email signatures, social profiles, Google Business Profile, directories, marketplace listings, packaging, vehicles, signage, contracts and invoices. This audit becomes your launch checklist.</p>
+<h3>4. Design the identity</h3>
+<p>Develop the logo, colours, typography, imagery style and tone of voice, guided by the strategy. Test them in real contexts such as the website header, a social post and an invoice, not just on a presentation slide.</p>
+<h3>5. Plan the website and SEO changes</h3>
+<p>Decide whether URLs, content or the domain will change. If they will, plan redirects and content updates in detail before launch. More on this below.</p>
+<h3>6. Tell customers and staff</h3>
+<p>Explain the change to staff first so they can answer questions. Then tell customers what is changing, why, and what stays the same, such as their account, contact details and service.</p>
+<h3>7. Launch and monitor</h3>
+<p>Launch in a planned window, avoiding your busiest season. Monitor search, enquiries and customer feedback closely for at least a few weeks.</p>
+
+<h2>Keeping customers through a rebrand</h2>
+<p>Customers rarely leave because of a new logo. They leave when they are confused, when they think the business has been sold or when they cannot find what they used to buy.</p>
+<ul>
+<li>Announce the change by email to existing customers before launch, in plain language.</li>
+<li>Use a "formerly known as" line on your website and profiles for several months.</li>
+<li>Keep phone numbers and key contact details the same where possible.</li>
+<li>Update packaging and invoices so customers recognise you when payments go out.</li>
+<li>Brief staff to answer questions consistently.</li>
+<li>Watch reviews and social comments for confusion and respond quickly.</li>
+</ul>
+
+<h2>Protecting your search rankings</h2>
+<p>SEO is where rebrands most often go wrong. If the domain or URLs change without proper redirects, years of rankings can drop overnight.</p>
+<h3>Redirects</h3>
+<p>Map every important old URL to its closest new equivalent and set permanent 301 redirects. Do not send everything to the new homepage. Keep the redirects in place long term, and keep the old domain registered. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers redirect mapping in detail.</p>
+<h3>Search Console and listings</h3>
+<ul>
+<li>If the domain changes, verify the new domain in Google Search Console and use the change of address tool.</li>
+<li>Submit the new sitemap.</li>
+<li>Update your Google Business Profile name only to match the real new name used on signage and documents.</li>
+<li>Update directories, social profiles and key backlinks where you can.</li>
+</ul>
+<h3>Brand searches</h3>
+<p>People will keep searching for the old name for a while. Mention it on your About page and in key places so search engines connect the two names. Consider running brand ads on both names for a short period.</p>
+<p>After launch, check for broken links, redirect chains and crawl errors. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is useful here, and our <a href="/services/seo-geo/">SEO service</a> can handle migration checks.</p>
+
+<h2>Common rebranding mistakes</h2>
+<ul>
+<li><strong>Starting with the logo.</strong> Without an agreed strategy, design rounds turn into debates about taste and the result rarely solves the real problem.</li>
+<li><strong>Changing everything at once without a plan.</strong> Name, domain, website, content and pricing all changing on the same day makes it hard to work out what caused any drop in enquiries.</li>
+<li><strong>Redirecting every old page to the homepage.</strong> This throws away the relevance built up by individual pages and frustrates visitors following old links.</li>
+<li><strong>Forgetting offline touchpoints.</strong> Vans, signage, uniforms, packaging and printed stationery often take longer to change than the website.</li>
+<li><strong>Launching in peak season.</strong> A busy period leaves no room to fix problems and makes any confusion more costly.</li>
+<li><strong>Not telling customers.</strong> A surprise new name on an invoice or bank statement can look like fraud or a takeover.</li>
+</ul>
+<p>Most of these are avoided simply by allowing enough time and working through the audit and checklist methodically.</p>
+
+<h2>What a rebrand costs</h2>
+<p>Costs depend on scale. A visual refresh is much smaller than a full name and domain change with a new website. With us, a new small website typically costs £1,000 to £2,000, and an ecommerce site £1,500 to £3,500. Ongoing marketing retainers run at £350, £750 or £1,500 a month, and what each includes is on our <a href="/pricing/">pricing page</a>. Brand strategy work is scoped to the project, so the best starting point is a conversation about what needs to change. You should also budget for signage, print, packaging and legal advice where relevant.</p>
+
+<h2>Rebranding checklist</h2>
+<ul>
+<li>Write down why you are rebranding and what success looks like.</li>
+<li>Agree a brand strategy before design starts.</li>
+<li>Check name availability, trade marks, domains and social handles.</li>
+<li>Audit every place the current brand appears.</li>
+<li>Create the identity and test it in real contexts.</li>
+<li>Map old URLs to new ones and plan 301 redirects.</li>
+<li>Brief staff, then tell customers before launch.</li>
+<li>Update Companies House, invoices, website, profiles and listings.</li>
+<li>Use Search Console's change of address tool if the domain changes.</li>
+<li>Monitor rankings, enquiries and feedback for several weeks after launch.</li>
+</ul>
+<p>To see how we approach positioning and identity work, visit our <a href="/services/brand-strategy/">brand strategy page</a>, and if a new website is part of the plan, our <a href="/services/website-ecommerce-development/">website development service</a>.</p>
+
+<p>If you are planning a rebrand and want to protect your customers and rankings, <a href="/contact/">book a free discovery call</a> and we will talk through your plan.</p>
+
+<h2>FAQs</h2>
+<h3>How do you rebrand a business without losing customers?</h3>
+<p>Explain the change early and clearly, keep contact details and service consistent, use a "formerly known as" line for a while, and brief staff so they can answer questions. Confusion, not the new look, is what loses customers.</p>
+<h3>Will a rebrand affect my Google rankings?</h3>
+<p>It can, especially if the domain or URLs change. Full 301 redirect mapping, Search Console's change of address tool and updated listings usually limit the impact. A visual refresh on the same URLs carries little SEO risk.</p>
+<h3>How long does a rebrand take?</h3>
+<p>A visual refresh can take a few weeks; a full rebrand with a new name and website often takes several months. A small website build typically takes 3 to 5 weeks once the brand is agreed.</p>
+<h3>Do I need to tell Companies House if I change my business name?</h3>
+<p>If you change the registered name of a limited company, yes. A trading name used alongside the registered name follows different rules, so check the current guidance or take advice.</p>
+<h3>Should I keep my old domain after a rebrand?</h3>
+<p>Yes. Keep it registered and keep redirects in place long term, so old links, bookmarks and emails still reach you.</p>
+<h3>Is it better to refresh or fully rebrand?</h3>
+<p>If the name and positioning still work, a refresh is lower risk and cheaper. A full rebrand makes sense when the name or positioning is genuinely holding the business back.</p>
+`,
+  },
+  {
+    slug: 'school-marketing-uk',
+    seoTitle: 'School Marketing UK: Admissions, Open Days and SEO',
+    title: 'School Marketing in the UK: A Digital Guide for Independent Schools and Colleges',
+    description: 'School marketing in the UK works best as an admissions funnel: local SEO, clear fees pages, open day campaigns and fast follow-up with interested families.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/education/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>School marketing in the UK works best when it is run as an admissions funnel: families find you through local search, compare you on your website, book an open day and then register. Independent schools and colleges that plan each of those steps, and measure how many families move from one to the next, usually get more value from a modest budget than those that spend on awareness alone.</p>
+<p>This guide covers how parents actually choose a school, what to put on your website, how to run open day campaigns, where SEO and paid search fit, and a checklist you can work through this term. For a wider view of the sector, see our <a href="/sectors/education/">education marketing services</a>.</p>
+
+<h2>How parents choose an independent school or college</h2>
+<p>Choosing a school is a long, considered decision, often made over one or two years. Parents tend to start with a shortlist built from word of mouth, local search and league-table style comparisons, then narrow it down through websites, visits and conversations with other families. Older students choosing a sixth form or college do much of this research themselves, mostly on their phones.</p>
+<p>That means your marketing has three jobs. First, be visible when families search for schools in your area. Second, give them enough honest information to put you on the shortlist. Third, make it easy to take the next step, which for most schools is booking an open day or a private visit.</p>
+
+<h2>The admissions funnel, stage by stage</h2>
+<p>Mapping the funnel helps you see where families drop out. The table below shows the typical stages, what families need at each one and what to measure.</p>
+<table>
+<thead><tr><th>Stage</th><th>What families need</th><th>Main channels</th><th>What to measure</th></tr></thead>
+<tbody>
+<tr><td>Discovery</td><td>To know you exist and roughly what you offer</td><td>Local SEO, Google Business Profile, paid search, social</td><td>Search impressions, website visitors</td></tr>
+<tr><td>Research</td><td>Fees, curriculum, results, pastoral care, transport</td><td>Website, prospectus, reviews</td><td>Prospectus downloads, time on key pages</td></tr>
+<tr><td>Visit</td><td>An easy way to book an open day or tour</td><td>Booking forms, email, phone</td><td>Open day bookings and attendance</td></tr>
+<tr><td>Decision</td><td>Reassurance and a clear next step</td><td>Follow-up emails, calls, taster days</td><td>Registrations and assessments booked</td></tr>
+<tr><td>Enrolment</td><td>A smooth administrative process</td><td>Admissions team, online forms</td><td>Accepted places and deposits</td></tr>
+</tbody>
+</table>
+<p>Most schools already track the end of the funnel well. The gap is usually at the top and middle: they cannot say which channels brought in the families who booked an open day. Setting up analytics properly fixes that, and our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the events worth tracking, such as prospectus downloads and booking form submissions.</p>
+
+<h2>Your website is your main admissions tool</h2>
+<p>Almost every family will look at your website before visiting. It does not need to be elaborate, but it does need to answer their questions quickly, work well on a phone and make the next step obvious.</p>
+<h3>Pages every school website needs</h3>
+<ul>
+<li><strong>Admissions:</strong> entry points, the process step by step, key dates and who to contact.</li>
+<li><strong>Fees:</strong> clear fee information or at least a clear route to it, plus bursaries and scholarships. Families who cannot find fees often leave.</li>
+<li><strong>Open days:</strong> upcoming dates with a short booking form, not a PDF.</li>
+<li><strong>Curriculum and results:</strong> what pupils study and how outcomes are reported, stated factually.</li>
+<li><strong>Pastoral care and wellbeing:</strong> often the deciding factor for parents.</li>
+<li><strong>Travel and transport:</strong> bus routes, catchment area and wraparound care.</li>
+</ul>
+<p>Speed and mobile usability matter here because many parents browse in short moments during the day. If your site is slow, our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the common fixes. If the site is due a rebuild, a small school website typically sits in the £1,000 to £2,000 range with us, and our <a href="/services/website-ecommerce-development/">website development service</a> explains what that covers.</p>
+
+<h2>Local SEO for schools</h2>
+<p>Most searches for schools include a place: "independent schools in Surrey", "prep school near Harrogate", "sixth form college Leeds". Ranking for these depends on local signals as much as on your website.</p>
+<ul>
+<li>Claim and complete your Google Business Profile with the right category, opening hours, photos and a link to your admissions page. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through it.</li>
+<li>Create pages that match how parents search, such as separate pages for prep, senior and sixth form entry.</li>
+<li>Mention the towns and villages you serve naturally, especially where you run transport.</li>
+<li>Earn local links and mentions through community events, partnerships and local press.</li>
+<li>Ask happy families for reviews, and reply to reviews politely and factually.</li>
+</ul>
+<p>Local SEO is slow but compounding. Results from SEO typically take three to six months to show, which suits schools well because admissions cycles run over a similar or longer timescale. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> goes into more detail.</p>
+
+<h2>Running open day campaigns</h2>
+<p>For most independent schools and colleges, the open day is the single most important conversion point. Families who visit are far more likely to register than those who only browse. That makes open days the natural focus for paid campaigns and email.</p>
+<h3>Before the open day</h3>
+<ul>
+<li>Publish the date at least six to eight weeks ahead on a dedicated page with a short booking form.</li>
+<li>Run local paid search on terms such as "school open day" plus your area, and consider social ads targeted at parents in your catchment.</li>
+<li>Email families who downloaded a prospectus or enquired in the last year.</li>
+<li>Send a confirmation email with parking, timings and what to expect, then a reminder two days before.</li>
+</ul>
+<h3>After the open day</h3>
+<ul>
+<li>Send a thank-you email within a day with links to admissions and fees.</li>
+<li>Offer a private visit or taster day for families who could not attend.</li>
+<li>Follow up by phone with families who showed strong interest.</li>
+</ul>
+<p>Paid campaigns for open days do not need a large budget, because the audience is local and the window is short. Ad spend is paid separately from any management fee. Our <a href="/services/paid-media/">paid media service</a> covers Google and social campaigns of this kind.</p>
+
+<h2>Content that helps families decide</h2>
+<p>Good school content answers real questions honestly. Useful topics include how to choose between day and boarding, what the 11+ or 13+ entry process involves, how bursaries work, and what a typical day looks like for a pupil. These pieces help with SEO and give your admissions team something useful to send to families.</p>
+<p>Keep claims factual. Avoid superlatives you cannot support, report exam results consistently and follow any rules from your inspection body or association about how results are presented. Advertising for schools also falls under the CAP Code, so the usual rules about not misleading people apply.</p>
+
+<h2>Budgeting for school marketing</h2>
+<p>Budgets vary widely by school size and how competitive the area is. A practical way to think about it is to split costs into ongoing work and one-off projects.</p>
+<table>
+<thead><tr><th>Item</th><th>Type</th><th>Indicative cost with Prism</th></tr></thead>
+<tbody>
+<tr><td>Monthly marketing retainer</td><td>Ongoing</td><td>£350, £750 or £1,500 a month depending on plan</td></tr>
+<tr><td>Small website build</td><td>One-off</td><td>£1,000 to £2,000</td></tr>
+<tr><td>Open day ad campaigns</td><td>Seasonal</td><td>Ad spend paid separately, set by you</td></tr>
+</tbody>
+</table>
+<p>What each retainer includes is set out on our <a href="/pricing/">pricing page</a>. Many schools start smaller, focusing on local SEO and open day campaigns, then expand once they can see which channels bring in visits.</p>
+
+<h2>School marketing checklist</h2>
+<ul>
+<li>Map your admissions funnel and agree what you will measure at each stage.</li>
+<li>Set up analytics events for prospectus downloads, enquiries and open day bookings.</li>
+<li>Check that fees, admissions dates and contact details are easy to find on mobile.</li>
+<li>Complete and update your Google Business Profile.</li>
+<li>Create separate pages for each entry point and key search term.</li>
+<li>Publish open day dates well ahead with a simple booking form.</li>
+<li>Plan confirmation, reminder and follow-up emails for every open day.</li>
+<li>Run a short local paid campaign before each open day.</li>
+<li>Collect and respond to reviews.</li>
+<li>Review results each term and move budget towards what produces visits.</li>
+</ul>
+<p>For more on choosing outside help, our guide to <a href="/blog/education-marketing-agency-uk/">education marketing agencies</a> covers what to ask and what to expect.</p>
+
+<p>If you would like a second pair of eyes on your admissions funnel, open day plans or website, <a href="/contact/">book a free discovery call</a> and we will talk through where your school could get more from its marketing.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best way to approach school marketing in the UK?</h3>
+<p>Treat it as an admissions funnel. Make sure families can find you in local search, give them clear information on fees and admissions, make open days easy to book, and follow up quickly. Measure each stage so you know where families drop out.</p>
+<h3>How far ahead should we promote an open day?</h3>
+<p>Publish the date six to eight weeks ahead where you can, start paid promotion three to four weeks before, and send reminders in the final week. Families planning around work and other schools need notice.</p>
+<h3>Should independent schools publish their fees online?</h3>
+<p>In most cases, yes. Families expect to see fees or a clear route to them, and many will not enquire without that information. Mention bursaries and scholarships alongside fees so the page does not put people off.</p>
+<h3>Is paid search worth it for schools?</h3>
+<p>It can be, especially around open days and entry deadlines when parents are actively searching. Campaigns are usually local and short, so budgets can be modest. Ad spend is paid separately from management fees.</p>
+<h3>How long does SEO take for a school website?</h3>
+<p>SEO typically takes three to six months to show meaningful movement, and longer in competitive areas. Because admissions cycles are long, starting early pays off for the next intake.</p>
+<h3>Do colleges and sixth forms need a different approach from prep schools?</h3>
+<p>The funnel is similar, but older students research more themselves, often on social media and mobile. Course pages, entry requirements and student-focused content matter more, while parent-focused content still supports the decision.</p>
+`,
+  },
+  {
+    slug: 'training-provider-marketing-uk',
+    seoTitle: 'Training Provider Marketing UK: Courses and Enrolments',
+    title: 'Marketing for UK Training Providers and Course Businesses: Course Pages, Paid Search and Enrolments',
+    description: 'Training provider marketing in the UK rests on course pages, paid search on high-intent terms and fast follow-up that turns enquiries into enrolments.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/education/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Training provider marketing in the UK comes down to three things: detailed course pages that rank and convert, paid search aimed at people already looking for a specific course, and fast follow-up that turns enquiries into enrolments. Whether you run professional qualifications, short courses, apprenticeships or online learning, the providers that grow steadily are usually the ones that get these basics right before spending on anything else.</p>
+<p>This guide explains how learners choose a course, how to structure course pages, where SEO and paid search fit, and how to track cost per enrolment. For the wider sector picture, see our <a href="/sectors/education/">education and training marketing services</a>.</p>
+
+<h2>How learners choose a course</h2>
+<p>People looking for training are usually trying to solve a specific problem: a qualification for a new role, a skill their employer needs, a licence to practise or a change of career. They search with clear intent, such as "level 3 award in education and training online", "first aid course Manchester" or "project management course for beginners".</p>
+<p>They then compare a handful of providers on price, dates, format, accreditation and reviews. Employers buying training for staff add their own questions about group bookings, invoicing and on-site delivery. Your marketing needs to meet both groups with precise, honest information.</p>
+
+<h2>Course pages are your most important asset</h2>
+<p>A course page has to rank in search, answer every reasonable question and make booking or enquiring easy. Thin pages with a paragraph and a "contact us" button lose learners to competitors who show the detail.</p>
+<h3>What a strong course page includes</h3>
+<ul>
+<li><strong>A clear title</strong> using the words learners search for, including level and format.</li>
+<li><strong>Price</strong> or a price range, plus any payment options or funding routes you genuinely offer.</li>
+<li><strong>Dates and format:</strong> online, classroom, blended, self-paced, and where.</li>
+<li><strong>Entry requirements</strong> and who the course suits.</li>
+<li><strong>What is covered</strong>, unit by unit, and how learners are assessed.</li>
+<li><strong>The qualification or certificate</strong> awarded and the awarding body, stated accurately.</li>
+<li><strong>Outcomes:</strong> what learners can do afterwards, without promising jobs or earnings.</li>
+<li><strong>FAQs</strong> drawn from real questions your team receives.</li>
+<li><strong>A booking form or enquiry form</strong> visible on mobile without scrolling far.</li>
+</ul>
+<p>Adding course structured data can help search engines understand your pages. If your site makes this hard, it may be time to rebuild; a small website typically costs £1,000 to £2,000 with us, and our <a href="/services/website-ecommerce-development/">website development service</a> covers course-led sites. If you sell courses directly online with checkout, the ecommerce range of £1,500 to £3,500 is more likely.</p>
+
+<h2>SEO for training providers</h2>
+<p>Course searches are specific, which is good news for smaller providers. You do not need to rank for "training courses"; you need to rank for the exact courses you run, in the formats and places you run them.</p>
+<ul>
+<li>Build one page per course, and separate location or format pages only where the content genuinely differs.</li>
+<li>Write supporting guides that answer questions such as "what can I do with a level 3 qualification" and link them to the course page.</li>
+<li>Keep dates and prices up to date; stale information hurts both rankings and trust.</li>
+<li>Earn links from industry bodies, partners and employers you train.</li>
+<li>Fix technical basics such as speed, duplicate pages and broken links. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a good starting point.</li>
+</ul>
+<p>SEO results typically take three to six months to build, so it pairs well with paid search, which can bring in enquiries sooner. Our <a href="/services/seo-geo/">SEO and GEO service</a> also covers how your courses appear in AI search tools, which learners increasingly use to compare options.</p>
+
+<h2>Paid search for course enrolments</h2>
+<p>Google Ads suits training providers because people search for courses by name. The key is to bid on specific terms rather than broad ones, and to send each ad to the matching course page rather than your homepage.</p>
+<table>
+<thead><tr><th>Keyword type</th><th>Example</th><th>Typical intent</th><th>How to handle it</th></tr></thead>
+<tbody>
+<tr><td>Specific course</td><td>"CSCS card course London"</td><td>High, ready to book</td><td>Priority; send to the course page</td></tr>
+<tr><td>Qualification level</td><td>"level 5 leadership qualification online"</td><td>High, comparing providers</td><td>Bid, with price and format in the ad</td></tr>
+<tr><td>Career change</td><td>"how to become a teaching assistant"</td><td>Medium, researching</td><td>Content and SEO first, test ads carefully</td></tr>
+<tr><td>Broad</td><td>"online courses"</td><td>Low, browsing</td><td>Usually exclude</td></tr>
+<tr><td>Free intent</td><td>"free first aid course"</td><td>Low for paid courses</td><td>Add as a negative unless you offer funded places</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately from management fees. Our <a href="/services/paid-media/">paid media service</a> runs Google Ads and social campaigns, and our <a href="/blog/landing-page-design-uk/">landing page design guide</a> explains how to turn more of that traffic into bookings.</p>
+
+<h2>Turning enquiries into enrolments</h2>
+<p>Many training providers lose enrolments after the enquiry, not before it. A learner who enquires about three courses will often book with whoever replies first and most helpfully.</p>
+<ul>
+<li>Reply to enquiries within working hours on the same day where possible.</li>
+<li>Use an automatic confirmation email with course details, dates and a booking link.</li>
+<li>Offer online booking for courses with fixed dates, so learners do not have to wait.</li>
+<li>Send a short email sequence to people who enquired but did not book.</li>
+<li>Remind booked learners before the start date to reduce no-shows.</li>
+</ul>
+
+<h2>Measuring cost per enrolment</h2>
+<p>Clicks and enquiries are useful, but the number that matters is cost per enrolment by course. To get it, track form submissions and bookings as events in analytics, connect ad platforms to those events, and record the source of each enrolment in your booking system or CRM. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the events worth tracking and consent mode.</p>
+<p>Once you can see cost per enrolment by course, you can move budget to the courses with the best margin and fill dates that are under-booked.</p>
+
+<h2>Selling to employers as well as individuals</h2>
+<p>Many training providers sell to two audiences at once: individuals paying for themselves and employers booking staff. They search differently and need different information. Individuals want price, dates and outcomes. Employers want group rates, in-house delivery options, invoicing terms, reporting on attendance and confidence that the course meets a compliance or skills need.</p>
+<p>A simple way to serve both is a dedicated page for employers that explains how group and on-site training works, with a separate enquiry form that asks for team size, location and preferred dates. For employer-focused campaigns, LinkedIn can work alongside search; our <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn Ads guide</a> covers when it is worth testing. Keep the individual booking path short and uncluttered so the two journeys do not get in each other's way.</p>
+
+<h2>Budgeting for training provider marketing</h2>
+<p>Our retainers run at £350, £750 or £1,500 a month depending on the plan, with ad spend paid separately. What each plan includes is listed on our <a href="/pricing/">pricing page</a>. Smaller providers often start with course page improvements and a focused Google Ads campaign on their best-selling courses, then add SEO content once tracking shows what works.</p>
+
+<h2>Training provider marketing checklist</h2>
+<ul>
+<li>Give every course its own page with price, dates, format, requirements and outcomes.</li>
+<li>Use the exact course names learners search for in titles and headings.</li>
+<li>Keep dates and prices current, and remove expired dates.</li>
+<li>Track enquiries and bookings as analytics events.</li>
+<li>Run paid search on specific course terms and exclude broad and free terms.</li>
+<li>Send each ad to the matching course page.</li>
+<li>Reply to enquiries the same working day and automate confirmations.</li>
+<li>Follow up with learners who enquired but did not book.</li>
+<li>Collect reviews after each course finishes.</li>
+<li>Review cost per enrolment by course every month.</li>
+</ul>
+<p>For more on how we approach the sector as a whole, from colleges to e-learning platforms, see our <a href="/sectors/education/">marketing for education and training providers</a>, or read our guide to <a href="/blog/education-marketing-agency-uk/">choosing an education marketing agency</a>.</p>
+
+<p>If you want help building course pages, setting up paid search or tracking enrolments properly, <a href="/contact/">book a free discovery call</a> and we will look at where your marketing could work harder.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best approach to training provider marketing in the UK?</h3>
+<p>Start with detailed course pages, run paid search on specific course terms, and follow up quickly with anyone who enquires. Track cost per enrolment by course so you know where to spend more.</p>
+<h3>Should every course have its own page?</h3>
+<p>Yes. Learners search for specific courses, and a dedicated page with price, dates and requirements is far more likely to rank and convert than a single page listing everything.</p>
+<h3>Is Google Ads worth it for short courses?</h3>
+<p>Often, because people search for courses by name when they are ready to book. Focus on specific terms, exclude free and broad searches, and track enrolments rather than clicks.</p>
+<h3>Can we advertise funding or free places?</h3>
+<p>Only if they genuinely apply to your courses and you can explain eligibility clearly. Misleading claims about funding can breach advertising rules and damage trust, so check wording carefully.</p>
+<h3>How long does SEO take for a training provider?</h3>
+<p>SEO typically takes three to six months to show meaningful results. Paid search can bring in enquiries sooner while SEO builds.</p>
+<h3>How do we measure marketing results for courses?</h3>
+<p>Track enquiries and bookings as analytics events, record the source of each enrolment, and calculate cost per enrolment by course. That shows which courses and channels deserve more budget.</p>
+`,
+  },
 ];
