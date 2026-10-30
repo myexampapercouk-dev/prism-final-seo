@@ -195,6 +195,7 @@ function cardHtml(post) {
   return `<a class="pws-card pws-post-card" href="/blog/${post.slug}/"><p class="pws-tags">${esc(post.category)} &middot; ${readMins(post)} min read</p><h3>${post.title}</h3><p>${esc(post.description)}</p><span class="pws-more">Read the guide &rarr;</span></a>`;
 }
 const byPath = Object.fromEntries(PAGES.map(p => [p.path, p]));
+const GUIDES = require('./pages-guides');
 
 for (const p of PAGES) {
   const parent = p.type === 'service' ? ['Services', '/services/'] : p.type === 'sector' ? ['Sectors', '/sectors/'] : null;
@@ -208,13 +209,16 @@ for (const p of PAGES) {
   if (relatedPages.length || relatedPosts.length) {
     body += `<section class="pws-section"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">Keep reading</span><h2 class="pws-h2">Related services, sectors and guides</h2></div><div class="pws-grid">${relatedPages.map(r => `<a class="pws-card" href="${r.path}"><p class="pws-tags">${r.type === 'service' ? 'Service' : r.type === 'sector' ? 'Sector' : 'Pricing'}</p><h3>${r.name}</h3><p>${esc(r.description)}</p></a>`).join('')}${relatedPosts.map(cardHtml).join('')}</div></div></section>\n`;
   }
-  if (p.faqs && p.faqs.length) body += faqHtml(p.faqs) + '\n';
+  const guide = GUIDES[p.path];
+  if (guide && guide.html) body += `<section class="pws-section"><div class="pws-wrap"><article class="pws-article pws-guide">${guide.html.trim()}</article></div></section>\n`;
+  const allFaqs = (p.faqs || []).concat((guide && guide.faqs) || []);
+  if (allFaqs.length) body += faqHtml(allFaqs) + '\n';
   body += CTA;
   const ld = [{ '@type': 'WebPage', '@id': SITE.url + p.path + '#webpage', url: SITE.url + p.path, name: p.seoTitle, description: p.description, isPartOf: { '@id': SITE.url + '/#website' }, inLanguage: 'en-GB' }, crumbsLd(trail)];
   if (p.type === 'service') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.name, serviceType: p.serviceType || p.name, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: { '@type': 'Country', name: 'United Kingdom' } });
   if (p.type === 'sector') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.serviceName, serviceType: 'Digital marketing', audience: { '@type': 'BusinessAudience', name: p.audience }, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: { '@type': 'Country', name: 'United Kingdom' } });
   if (p.type === 'pricing') ld.push({ '@type': 'OfferCatalog', name: 'Prism Works Studio monthly retainers', itemListElement: p.offers.map(([n, price, d]) => ({ '@type': 'Offer', name: n, description: d, price, priceCurrency: 'GBP', priceSpecification: { '@type': 'UnitPriceSpecification', price, priceCurrency: 'GBP', unitText: 'MONTH' }, seller: { '@id': SITE.url + '/#org' } })) });
-  if (p.faqs && p.faqs.length) ld.push(faqLd(p.faqs));
+  if (allFaqs.length) ld.push(faqLd(allFaqs));
   write(p.path.slice(1) + 'index.html', layout({ urlPath: p.path, title: p.seoTitle, description: p.description, body, ld, og: ogFor(p.path.replace(/^\/|\/$/g, '').replace(/\//g, '-')) }));
   add(p.path, p.updated, p.type === 'pricing' ? '0.8' : '0.9');
   (p.type === 'sector' ? llms.sectors : llms.services).push(`- [${plain(p.name)}](${SITE.url}${p.path}): ${p.description}`);
