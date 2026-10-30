@@ -40,7 +40,7 @@ const words = html => plain(html).split(/\s+/).filter(Boolean).length;
 const readMins = p => Math.max(1, Math.round(words(p.body) / 220));
 // Cache-busting: assets are cached for a year by .htaccess, so links carry a content hash.
 const ver = rel => require('crypto').createHash('md5').update(fs.readFileSync(path.join(ROOT, rel))).digest('hex').slice(0, 8);
-const V = { css: ver('assets/css/prism-works.css'), site: ver('assets/css/site.css'), js: ver('assets/js/site.js') };
+const V = { css: ver('assets/css/prism-works.css'), site: ver('assets/css/site.css'), js: ver('assets/js/site.js'), chat: ver('assets/js/chat.js') };
 const core = n => fs.readFileSync(path.join(CORE, n + '.html'), 'utf8').trim();
 const today = new Date().toISOString().slice(0, 10);
 const ogFor = p => (fs.existsSync(path.join(ROOT, 'assets', 'og', p + '.png')) ? `/assets/og/${p}.png` : '/assets/og-image.png');
@@ -138,8 +138,9 @@ ${core('header')}
 ${body}
 </main>
 ${core('footer').replace('</ul></div></div><div class="pws-footer-bottom">', `${SITE.whatsapp ? `<li><span>WhatsApp</span><a href="${waHref()}" target="_blank" rel="noopener">Chat on WhatsApp</a></li>` : ''}</ul></div></div><div class="pws-footer-bottom">`)}
-${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="noopener" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Chat now</span></a>` : ''}
+${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="${waHref()}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Ask us</span></a>` : ''}
 <script src="/assets/js/site.js?v=${V.js}" defer></script>
+<script src="/assets/js/chat.js?v=${V.chat}" defer></script>
 </body>
 </html>
 `;
@@ -196,6 +197,8 @@ function cardHtml(post) {
 }
 const byPath = Object.fromEntries(PAGES.map(p => [p.path, p]));
 const GUIDES = require('./pages-guides');
+const CHAT = [];
+const chatAdd = (faqs, u, t) => faqs.forEach(([q, a]) => CHAT.push({ q: plain(q), a: plain(a), u, t: plain(t) }));
 
 for (const p of PAGES) {
   const parent = p.type === 'service' ? ['Services', '/services/'] : p.type === 'sector' ? ['Sectors', '/sectors/'] : null;
@@ -213,6 +216,7 @@ for (const p of PAGES) {
   if (guide && guide.html) body += `<section class="pws-section"><div class="pws-wrap"><article class="pws-article pws-guide">${guide.html.trim()}</article></div></section>\n`;
   const allFaqs = (p.faqs || []).concat((guide && guide.faqs) || []);
   if (allFaqs.length) body += faqHtml(allFaqs) + '\n';
+  chatAdd(allFaqs, p.path, p.h1);
   body += CTA;
   const ld = [{ '@type': 'WebPage', '@id': SITE.url + p.path + '#webpage', url: SITE.url + p.path, name: p.seoTitle, description: p.description, isPartOf: { '@id': SITE.url + '/#website' }, inLanguage: 'en-GB' }, crumbsLd(trail)];
   if (p.type === 'service') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.name, serviceType: p.serviceType || p.name, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: { '@type': 'Country', name: 'United Kingdom' } });
@@ -236,6 +240,7 @@ for (const post of POSTS) {
   const urlPath = `/blog/${post.slug}/`;
   const trail = [['Home', '/'], ['Blog', '/blog/'], [plain(post.title), urlPath]];
   const faqs = faqsFromBody(post.body);
+  chatAdd(faqs, urlPath, post.title);
   const related = (post.related || []).map(u => byPath[u]).filter(Boolean);
   const more = POSTS.filter(x => x.slug !== post.slug && x.category === post.category).concat(POSTS.filter(x => x.slug !== post.slug && x.category !== post.category)).slice(0, 3);
   const body = `<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">${esc(post.category)}</span><h1>${post.title}</h1><p class="pws-lead">${esc(post.description)}</p><p class="pws-meta">By the ${SITE.name} team &middot; <time datetime="${post.updated || post.date}">${post.updated ? 'Updated ' + fmtDate(post.updated) : fmtDate(post.date)}</time> &middot; ${readMins(post)} min read</p></div></section>
@@ -265,6 +270,8 @@ ${CTA}`;
   const items = POSTS.slice(0, 20).map(p => `<item><title>${esc(plain(p.title))}</title><link>${SITE.url}/blog/${p.slug}/</link><guid>${SITE.url}/blog/${p.slug}/</guid><pubDate>${new Date(p.date + 'T09:00:00Z').toUTCString()}</pubDate><description>${esc(p.description)}</description></item>`).join('\n');
   write('blog/feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${SITE.name} blog</title><link>${SITE.url}/blog/</link><description>Guides for UK businesses on digital marketing and ecommerce.</description><language>en-gb</language>\n${items}\n</channel></rss>\n`);
 }
+
+write('assets/chat-index.json', JSON.stringify(CHAT));
 
 // ---------- sitemap, robots, llms, manifest ----------
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemap.map(s => `<url><loc>${s.loc}</loc><lastmod>${s.mod}</lastmod><priority>${s.priority}</priority></url>`).join('\n')}\n</urlset>\n`);

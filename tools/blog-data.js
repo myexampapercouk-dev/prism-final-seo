@@ -9590,4 +9590,533 @@ module.exports = [
 <p>Ideally, yes. Track whether your brand is cited for key questions and watch AI referral traffic. If you would like help setting up reporting that ties SEO to results, <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'facebook-ads-for-small-business-uk',
+    seoTitle: 'Facebook Ads for Small Business UK: A Starter Guide',
+    title: 'Facebook Ads for Small Business in the UK: A Practical Starter Guide',
+    description: 'Facebook ads for small business work best with one clear offer, a tight audience, simple creative and proper tracking. Here is how UK owners can start well.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Facebook ads for small business work best when you keep things simple: one clear offer, a sensible audience, honest and eye-catching creative, and tracking that tells you which ads lead to sales or enquiries. You do not need a large budget to start, but you do need patience, because the first few weeks are about learning rather than profit.</p>
+<p>Facebook ads are bought through Meta Ads Manager, which also covers Instagram. This guide is written for UK owners of small businesses, such as shops, trades, clinics, salons and local services, who want to try paid social without wasting money.</p>
+
+<h2>Are Facebook ads worth it for a small business?</h2>
+<p>For many small businesses, yes, but not for every one. Facebook and Instagram are good at putting an offer in front of people who were not actively searching for it. That makes them a strong fit for products with visual appeal, local services people use regularly, events, and offers with a clear hook.</p>
+<p>They are a weaker fit when people only look for you in an emergency, such as an emergency plumber, where search ads tend to work better. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small business</a> covers the organic side of being found when people search.</p>
+<table>
+<thead><tr><th>Usually a good fit</th><th>Often a harder fit</th></tr></thead>
+<tbody>
+<tr><td>Products that look good in a photo or video</td><td>Emergency or distress purchases</td></tr>
+<tr><td>Local services with repeat customers</td><td>Very niche B2B services</td></tr>
+<tr><td>Launches, events and seasonal offers</td><td>Offers with no clear reason to act now</td></tr>
+<tr><td>Brands with a story to tell</td><td>Heavily restricted categories</td></tr>
+</tbody>
+</table>
+
+<h2>Facebook ads for small business: a step-by-step setup</h2>
+<p>Here is the order we recommend for getting started without wasting budget.</p>
+<ol>
+<li><strong>Set up Business Manager.</strong> Create a Meta Business account so your page, ad account and pixel belong to the business, not a personal profile. This matters if staff or suppliers change.</li>
+<li><strong>Install tracking.</strong> Add the Meta pixel to your website, and ideally the Conversions API too, so Meta can see purchases, form fills or bookings. Make sure your cookie banner and privacy notice reflect this in line with UK GDPR and PECR.</li>
+<li><strong>Choose one goal.</strong> Pick the action that matters most, such as purchases, leads or booked appointments.</li>
+<li><strong>Pick one offer.</strong> Lead with a single product, service or promotion rather than a general "we do everything" message.</li>
+<li><strong>Define your audience.</strong> Start with location, plus broad interests or your own audiences such as website visitors.</li>
+<li><strong>Create a few ads.</strong> Two to four genuinely different creative ideas are enough to begin testing.</li>
+<li><strong>Set a budget you can hold.</strong> Choose a daily amount you can leave running for several weeks without panic.</li>
+<li><strong>Review weekly.</strong> Look at cost per result, not likes or clicks, and change one thing at a time.</li>
+</ol>
+
+<h2>Choosing your audience</h2>
+<p>Small businesses often make their audience too narrow. Stacking lots of interests and age bands can leave Meta with too few people to find buyers among. A better starting point is usually:</p>
+<ul>
+<li><strong>Location first.</strong> For local businesses, target the area you genuinely serve, and check the setting that controls whether you reach people living there or just interested in it.</li>
+<li><strong>Broad enough to learn.</strong> Let Meta's system find likely customers within a reasonably sized audience, then judge by results.</li>
+<li><strong>Your own audiences.</strong> People who have visited your website, engaged with your page or are on your customer list (where you have the right to use it) are often your most responsive group.</li>
+</ul>
+<p>Some categories, such as housing, employment, credit and certain health or financial products, have special rules and restricted targeting. If you are in a regulated sector, keep claims general and make sure your own compliance team approves the wording.</p>
+
+<h2>Creative that works on a small budget</h2>
+<p>You do not need a studio shoot. Many effective small business ads are filmed on a phone. What matters is clarity.</p>
+<ul>
+<li><strong>Hook in the first second or two.</strong> Show the product, the problem or the result straight away.</li>
+<li><strong>Use real people and places.</strong> Your shop, your van, your team at work (with their permission) feel more trustworthy than stock images.</li>
+<li><strong>Say who it is for.</strong> "For dog owners in Bristol" is clearer than a generic headline.</li>
+<li><strong>Make the next step obvious.</strong> Book, shop, call or claim, with one clear call to action.</li>
+<li><strong>Follow advertising rules.</strong> Ads must be honest and not misleading under the CAP Code, so avoid claims you cannot back up.</li>
+</ul>
+<p>Plan to refresh ads regularly. When the same people see the same ad too often, results usually fade.</p>
+
+<h2>How much to spend</h2>
+<p>There is no minimum that guarantees results, and no fixed price, because Meta's auction sets costs. The most useful approach is to decide what you can afford to pay for a customer, then set a budget that buys enough results each week to learn from. Our guide to <a href="/blog/marketing-agency-for-startups-uk/">marketing for startups</a> also covers how early-stage businesses prioritise limited budgets across channels.</p>
+<p>If you want help, Prism Works Studio's retainers are shown on our <a href="/pricing/">pricing page</a>, starting with Launch at £350 a month, with ad spend paid separately. For small accounts, that cost should be weighed honestly against the budget you plan to spend.</p>
+
+<h2>Common mistakes to avoid</h2>
+<table>
+<thead><tr><th>Mistake</th><th>Why it hurts</th><th>Better approach</th></tr></thead>
+<tbody>
+<tr><td>Only boosting posts</td><td>Limited control over goal and audience</td><td>Use Ads Manager with a clear objective</td></tr>
+<tr><td>No tracking</td><td>You cannot tell which ads make money</td><td>Install the pixel and test events first</td></tr>
+<tr><td>Changing things daily</td><td>Resets learning and muddies results</td><td>Change one thing, then wait</td></tr>
+<tr><td>Sending clicks to the home page</td><td>Visitors cannot find the offer</td><td>Use a focused landing page</td></tr>
+<tr><td>Judging on likes</td><td>Engagement is not revenue</td><td>Judge on cost per sale or lead</td></tr>
+</tbody>
+</table>
+<p>The page you send people to matters as much as the ad. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> explains how to build one that converts, and <a href="/blog/ga4-setup-uk/">GA4 setup</a> helps you check results in your own analytics.</p>
+
+<h2>When to bring in help</h2>
+<p>Running ads yourself is a good way to learn, but it takes time each week. Signs that it may be worth getting support include spend that is growing, results that have stalled, or not knowing whether the ads are profitable at all. Our <a href="/services/paid-media/">paid media service</a> covers Facebook and Instagram, alongside Google, TikTok and YouTube, and our guide to <a href="/blog/meta-ads-agency-uk/">choosing a Meta Ads agency</a> sets out what to look for. Results typically build over three to six months.</p>
+<p>If you already have campaigns running, a structured review is often the best first step. The principles in our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> apply to Meta accounts too: tracking, structure, audiences, creative and landing pages.</p>
+
+<h2>Measuring what matters</h2>
+<p>Facebook's reporting shows plenty of numbers, and it is easy to focus on the wrong ones. Reach, likes and link clicks show that people are seeing your ads, but they do not pay the bills. The measures that matter most for a small business are usually cost per lead or sale, how many of those leads turn into paying customers, and whether the money you put in comes back over time.</p>
+<p>Keep a simple weekly record: what you spent, how many results Meta reported, and how many real enquiries or orders arrived. Over a few weeks that record will tell you far more than any single day's figures. It also makes it easier to spot problems early, such as a tracking tag that has stopped firing after a website update, or an ad that has started to tire.</p>
+<p>Finally, ask new customers how they found you. Some people see an ad on their phone, then search for you later or visit in person, and that journey will not always show in the reports.</p>
+
+<h2>FAQs</h2>
+<h3>Are Facebook ads for small business worth it?</h3>
+<p>They can be, especially for visual products, local services and clear offers. They work best with tracking in place, a focused offer and a few weeks of testing. For urgent, search-led needs, search ads or SEO may be a better first channel.</p>
+<h3>How much should a small business spend on Facebook ads?</h3>
+<p>There is no set figure. Work out what you can afford to pay for a customer, then set a budget you can sustain for several weeks that is large enough to produce regular results to learn from.</p>
+<h3>Do Facebook ads also show on Instagram?</h3>
+<p>Yes. Campaigns created in Meta Ads Manager can run across Facebook, Instagram and other Meta placements. You can let Meta choose placements or select them yourself.</p>
+<h3>Should I boost posts or use Ads Manager?</h3>
+<p>Boosting is quick but limited. Ads Manager lets you choose objectives, audiences, placements and tests properly, which is usually better once you are spending money regularly.</p>
+<h3>How long do Facebook ads take to work?</h3>
+<p>You can get traffic quickly, but finding a profitable mix of audience, offer and creative usually takes several weeks of testing, with results typically building over three to six months.</p>
+<h3>Can I target people only in my town?</h3>
+<p>Yes. You can target by location, including a radius around an address. Check whether you are reaching people who live there or people who have simply shown interest in the area.</p>
+`,
+  },
+  {
+    slug: 'google-ads-cost-uk',
+    seoTitle: 'Google Ads Cost UK: What You Will Really Pay',
+    title: 'Google Ads Cost in the UK: What You Will Really Pay',
+    description: 'Google Ads cost in the UK has no fixed price: you set the budget, clicks vary by auction, and management fees are separate. Here is how to plan your spend.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Google Ads cost in the UK is not a fixed price: you set your own budget, you pay when someone clicks, and the cost of each click is decided by a live auction that changes with competition, quality and timing. On top of ad spend, most businesses also pay for management and for the landing pages and tracking that turn clicks into enquiries or sales.</p>
+<p>That answer is honest but not very useful on its own, so this guide breaks down where the money goes, what moves your costs up or down, and how to set a starting budget you can defend. Any figures here are illustrations of how the maths works, not benchmarks, because real click prices vary widely by sector, location and week.</p>
+
+<h2>How Google Ads pricing works</h2>
+<p>Google Ads runs an auction every time someone searches. Advertisers who want to appear for that search enter the auction, and Google weighs each bid alongside the quality and relevance of the ad and landing page. The result decides who shows, in what position, and roughly what they pay.</p>
+<p>A few points are worth knowing before you spend a penny:</p>
+<ul>
+<li><strong>You set the budget.</strong> You choose an average daily budget per campaign. Google can spend more than that on some days and less on others, but it balances out over the month.</li>
+<li><strong>You usually pay per click.</strong> On search campaigns you pay when someone clicks, not when the ad is shown. Some campaign types can be bought on other bases, such as views or impressions.</li>
+<li><strong>The highest bid does not always win.</strong> A relevant ad that leads to a useful page can beat a higher bid from a weaker advertiser.</li>
+<li><strong>There is no minimum contract with Google.</strong> You can pause or stop a campaign at any time.</li>
+</ul>
+
+<h2>Google Ads cost UK: the three parts of your spend</h2>
+<p>When people ask what Google Ads costs, they often mean only the click spend. In practice the total cost of running ads has three parts.</p>
+<table>
+<thead><tr><th>Cost</th><th>What it covers</th><th>Who sets it</th></tr></thead>
+<tbody>
+<tr><td>Ad spend</td><td>The clicks (or views) you buy in the auction</td><td>You, through budgets and bids</td></tr>
+<tr><td>Management</td><td>Strategy, setup, keyword work, ad copy, testing, reporting</td><td>You in-house, a freelancer or an agency</td></tr>
+<tr><td>Supporting work</td><td>Landing pages, conversion tracking, analytics, creative</td><td>Often one-off, sometimes ongoing</td></tr>
+</tbody>
+</table>
+<p>Ignoring the second and third rows is the most common reason a small test feels expensive. Clicks sent to a slow or vague page, with no tracking in place, are hard to learn from and harder to improve.</p>
+
+<h3>Ad spend</h3>
+<p>Your ad spend is simply what you choose to put into the auction. A local trade business might test with a few hundred pounds a month, while a national ecommerce brand might spend far more. There is no correct number, only a number that matches your goals and the size of the market you are bidding into.</p>
+
+<h3>Management</h3>
+<p>Management covers the thinking and the ongoing work. At Prism Works Studio our retainers are listed on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid separately and is not included in those figures. For a wider look at how agencies charge, see our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a>.</p>
+
+<h3>Supporting work</h3>
+<p>Good campaigns need a page that matches the search and a reliable way to count results. That usually means a focused landing page and proper conversion tracking. Our guides to <a href="/blog/landing-page-design-uk/">landing page design</a> and <a href="/blog/ga4-setup-uk/">setting up GA4</a> explain what good looks like.</p>
+
+<h2>What affects the cost per click</h2>
+<p>Cost per click (CPC) is the figure most people fixate on, and it is also the one that varies most. In some quiet niches a click might cost well under a pound; in crowded professional services or finance searches it can cost many times that. Treat any range you read online, including ours, as a rough guide that may not match your auction this month.</p>
+<p>The main things that push CPC up or down are:</p>
+<ul>
+<li><strong>Competition.</strong> The more advertisers bidding on the same search, the higher prices tend to go.</li>
+<li><strong>Customer value in your sector.</strong> Where one customer is worth thousands, advertisers can afford to pay more per click, and they do.</li>
+<li><strong>Quality and relevance.</strong> Ads that closely match the search, and pages that answer it, tend to earn better positions for less.</li>
+<li><strong>Location and timing.</strong> Targeting London at 9am on a weekday is a different auction from a small town on a Sunday evening.</li>
+<li><strong>Match types and keywords.</strong> Broad targeting finds more searches but can bring in less relevant, wasted clicks.</li>
+</ul>
+
+<h2>How to work out a starting budget</h2>
+<p>The most reliable way to set a budget is to work backwards from what a customer is worth, rather than starting with a round number. Here is a simple method using made-up numbers purely to show the arithmetic.</p>
+<ol>
+<li><strong>Know what a customer is worth.</strong> Say an average new customer brings in £600 of profit over time.</li>
+<li><strong>Decide what you can pay to win one.</strong> You might decide you are happy to spend up to £150 in ads to gain that customer.</li>
+<li><strong>Estimate your conversion rate.</strong> If you expect, say, one enquiry in every 25 clicks and one customer in every three enquiries, you need around 75 clicks per customer.</li>
+<li><strong>Find your break-even click price.</strong> £150 divided by 75 clicks is £2 per click. If the clicks in your market typically cost far more than that, you need a better page, a narrower target or a different channel.</li>
+<li><strong>Set a test budget.</strong> Give the campaign enough budget to gather meaningful data, usually over several weeks rather than a few days.</li>
+</ol>
+<p>Every number in that example is hypothetical. The point is the method: it turns an open question into a decision you can check against real results once the campaign is live.</p>
+
+<h2>Typical budget approaches by business type</h2>
+<p>Rather than quote figures that will not fit your auction, it is more useful to describe how different businesses tend to approach budget.</p>
+<table>
+<thead><tr><th>Business type</th><th>Common approach</th><th>Main watch-out</th></tr></thead>
+<tbody>
+<tr><td>Local service (trades, clinics, salons)</td><td>Tight location targeting, search campaigns on high-intent terms</td><td>Paying for clicks from outside your service area</td></tr>
+<tr><td>Professional services</td><td>Fewer, more expensive clicks focused on enquiry quality</td><td>Clicks from job seekers or people wanting free advice</td></tr>
+<tr><td>Ecommerce</td><td>Shopping and Performance Max alongside search</td><td>Spend drifting onto low-margin products</td></tr>
+<tr><td>B2B and SaaS</td><td>Search on problem and comparison terms, longer sales cycles</td><td>Judging success too early, before leads mature</td></tr>
+</tbody>
+</table>
+<p>If you sell online, our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> goes deeper on product feeds and Shopping costs, and our page on <a href="/blog/ecommerce-ppc-agency-uk/">ecommerce PPC</a> covers how retailers usually structure accounts.</p>
+
+<h2>How to keep Google Ads costs under control</h2>
+<p>Most wasted spend comes from a handful of avoidable problems. Before you increase any budget, check the following.</p>
+<ul>
+<li><strong>Negative keywords.</strong> Exclude searches that will never become customers, such as "free", "jobs" or competitor names you do not want to bid on.</li>
+<li><strong>Search terms report.</strong> Review the real searches that triggered your ads, not just the keywords you chose.</li>
+<li><strong>Location settings.</strong> Make sure you target people in your area, not only people interested in it.</li>
+<li><strong>Conversion tracking.</strong> Count calls, forms and sales properly so automated bidding has accurate signals.</li>
+<li><strong>Ad schedule.</strong> If you only answer the phone in office hours, consider whether evening clicks are worth paying for.</li>
+<li><strong>Landing page match.</strong> Send each group of searches to the most relevant page, not your home page.</li>
+</ul>
+<p>Our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> walks through these and more in order, and is a good starting point if you already have an account running.</p>
+
+<h2>Running it yourself vs using an agency</h2>
+<p>You can run Google Ads yourself, and for a very small local test that can be sensible. The interface makes it easy to start spending, though, and much harder to spend well. The cost of management is really the cost of time and judgement: choosing the right searches, writing ads, reading the data and making changes every week.</p>
+<p>If you would rather hand it over, our <a href="/services/paid-media/">paid media service</a> covers Google Ads strategy, setup and ongoing management, with results typically building over three to six months as the account learns and we refine it. You can also read our guide to <a href="/blog/google-ads-agency-uk/">choosing a Google Ads agency in the UK</a> for questions to ask any provider.</p>
+
+<h2>FAQs</h2>
+<h3>What is the Google Ads cost in the UK per month?</h3>
+<p>There is no set monthly cost. You choose your own budget, which can be small or large, and pay for clicks within it. If you use an agency, management is an extra cost. At Prism Works Studio our retainers start at £350 a month, with ad spend paid separately.</p>
+<h3>How much does a Google Ads click cost in the UK?</h3>
+<p>It varies widely. Clicks in quiet niches can be cheap, while competitive sectors such as legal, finance or insurance can be expensive. Prices change with competition, location, time and ad quality, so any range should be treated as a rough guide only.</p>
+<h3>Is there a minimum spend for Google Ads?</h3>
+<p>Google does not set a minimum contract, and you can pause campaigns at any time. In practice a budget that is too small may not gather enough data to learn what works, so it is worth planning a test that runs for several weeks.</p>
+<h3>Do I pay Google if nobody clicks my ad?</h3>
+<p>On standard search campaigns that use cost-per-click bidding, you pay when someone clicks, not when the ad is shown. Some other campaign types and bidding options charge on different bases, so check the settings for each campaign.</p>
+<h3>Is VAT charged on Google Ads in the UK?</h3>
+<p>Google's invoices for UK businesses can involve VAT depending on your account and registration details. The treatment depends on your circumstances, so check with your accountant rather than assuming a particular rate.</p>
+<h3>How long before Google Ads pays off?</h3>
+<p>Ads can bring traffic on day one, but a well-tuned account takes time. Most businesses should expect a learning period, with results typically building over three to six months as tracking, keywords, ads and pages are refined.</p>
+`,
+  },
+  {
+    slug: 'google-ads-for-small-business-uk',
+    seoTitle: 'Google Ads for Small Business UK: How to Start Well',
+    title: 'Google Ads for Small Business in the UK: How to Start Well',
+    description: 'Google Ads for small business works best with tight targeting, high-intent keywords, a focused landing page and proper tracking. Here is a UK starter plan.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Google Ads for small business works best when you start narrow: a handful of high-intent keywords, tight location targeting, a landing page that matches the search, and tracking that counts calls, forms and sales. Done that way, even a modest budget can bring in customers who are actively looking for what you offer.</p>
+<p>Done carelessly, the same budget can disappear on irrelevant clicks in days. This guide is for UK small business owners who want to set up Google Ads sensibly, whether they plan to run it themselves or hand it to someone else.</p>
+
+<h2>Why Google Ads suits many small businesses</h2>
+<p>Google search ads show to people who are searching right now. Someone typing "boiler repair Leeds" or "accountant for sole traders" has a need and is close to acting. That intent is what makes search ads valuable for small businesses: you are not persuading people to want something, you are helping them find you when they already do.</p>
+<p>Search ads also complement organic search. SEO builds visibility over months, while ads can put you at the top of results quickly. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small business</a> explains how the two work together.</p>
+
+<h2>Google Ads for small business: a starter plan</h2>
+<p>Here is the order we recommend for a first campaign.</p>
+<ol>
+<li><strong>Define one goal.</strong> Calls, quote requests, bookings or online sales. Pick the one that matters most.</li>
+<li><strong>Set up tracking first.</strong> Track calls from ads, form submissions and purchases. Without this, you cannot tell good spend from bad. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side.</li>
+<li><strong>Choose high-intent keywords.</strong> Focus on searches that show buying intent, such as the service plus a location, or phrases like "near me", "quote" or "price".</li>
+<li><strong>Set tight locations.</strong> Target only the areas you serve, and choose the setting that reaches people in those areas rather than people interested in them.</li>
+<li><strong>Write specific ads.</strong> Mention the service, the area and a reason to choose you that you can genuinely back up.</li>
+<li><strong>Send clicks to a matching page.</strong> A page about the exact service searched for, not your home page.</li>
+<li><strong>Start with a budget you can hold.</strong> Run it for several weeks so you gather enough data to judge.</li>
+<li><strong>Review weekly.</strong> Check the search terms, add negatives and pause what does not work.</li>
+</ol>
+
+<h2>Picking the right campaign type</h2>
+<p>Google offers several campaign types, and the default suggestions are not always right for a small business.</p>
+<table>
+<thead><tr><th>Campaign type</th><th>What it does</th><th>Small business fit</th></tr></thead>
+<tbody>
+<tr><td>Search</td><td>Text ads on Google search results</td><td>Usually the best starting point</td></tr>
+<tr><td>Performance Max</td><td>Automated ads across Google's networks</td><td>Can work, but needs good tracking and assets</td></tr>
+<tr><td>Shopping</td><td>Product listings with image and price</td><td>Strong for online shops with a product feed</td></tr>
+<tr><td>Display</td><td>Banner ads across websites and apps</td><td>Mainly useful for remarketing</td></tr>
+<tr><td>Video (YouTube)</td><td>Video ads on YouTube</td><td>Better once search is working</td></tr>
+</tbody>
+</table>
+<p>If you sell products online, our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> covers feeds and setup in detail.</p>
+
+<h2>Keywords and negative keywords</h2>
+<p>Keywords tell Google which searches you want to appear for. Match types control how closely a search must match. Broad match casts a wide net and relies on Google's automation; phrase and exact match give tighter control. For a small budget, tighter control usually wins at the start.</p>
+<p>Negative keywords are just as important. They stop your ads from showing on searches that will never become customers. Common examples include:</p>
+<ul>
+<li>"free", "DIY" or "how to", if you sell a paid service</li>
+<li>"jobs", "salary", "course" or "apprenticeship", if you are not recruiting</li>
+<li>Areas you do not serve</li>
+<li>Services you do not offer that sound similar to ones you do</li>
+</ul>
+<p>The search terms report shows the real searches behind your clicks. Reviewing it weekly is one of the simplest ways to cut waste.</p>
+
+<h2>What will it cost?</h2>
+<p>Google Ads has no fixed price. You set a daily budget and pay when people click, with click prices set by a live auction that varies by sector, location, time and ad quality. Some local niches have modest click prices; competitive sectors such as legal or finance can be expensive. Treat any figure you read as a rough guide only.</p>
+<p>If you would like support, Prism Works Studio's retainers are listed on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. Our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> explains other common pricing models in the market.</p>
+
+<h2>Landing pages: where small budgets are won or lost</h2>
+<p>A click only has value if the page it lands on turns the visitor into an enquiry or sale. For a small business, a good landing page usually has:</p>
+<ul>
+<li>A headline that matches the search, such as the service and area</li>
+<li>A clear phone number and short form above the fold on mobile</li>
+<li>Reasons to trust you that are true, such as years trading, accreditations you genuinely hold or genuine reviews</li>
+<li>Fast loading on a phone</li>
+<li>One clear next step</li>
+</ul>
+<p>Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> goes into detail, and <a href="/blog/conversion-rate-optimisation-agency-uk/">conversion rate optimisation</a> explains how to keep improving pages over time.</p>
+
+<h2>Common small business mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>What happens</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Accepting every automated suggestion</td><td>Broader targeting and higher spend</td><td>Review each recommendation before applying</td></tr>
+<tr><td>Including Display in a search campaign</td><td>Budget leaks onto low-intent placements</td><td>Keep search campaigns search only</td></tr>
+<tr><td>No call tracking</td><td>Phone leads go uncounted</td><td>Track calls from ads and from the site</td></tr>
+<tr><td>Too many keywords too soon</td><td>Budget spread thin</td><td>Start with a short, focused list</td></tr>
+<tr><td>Judging after a few days</td><td>Decisions based on too little data</td><td>Give tests several weeks</td></tr>
+</tbody>
+</table>
+<p>If you already run Google Ads and suspect waste, our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> is a good place to start.</p>
+
+<h2>DIY or agency?</h2>
+<p>Running a small account yourself is possible, particularly if you can commit an hour or two each week and are comfortable with data. The trade-off is time and the learning curve. If you would rather hand it over, our <a href="/services/paid-media/">paid media service</a> covers setup, management and reporting, with results typically building over three to six months. Our guide to <a href="/blog/google-ads-agency-uk/">choosing a Google Ads agency</a> lists questions worth asking any provider.</p>
+
+<h2>Measuring results week by week</h2>
+<p>Google Ads reports a lot of metrics, but a small business only needs to watch a few closely. The most useful are cost per conversion, the number of genuine enquiries or sales, and the quality of those leads. A campaign that produces fewer leads at a slightly higher cost can still be the better one if those leads turn into paying customers more often.</p>
+<p>Keep a simple record each week: spend, conversions reported by Google, and real enquiries or orders received. Compare the two. If Google reports far more conversions than you actually receive, your tracking may be counting the wrong actions, such as page views or duplicate form submissions. If you receive more than Google reports, calls or offline sales may not be tracked yet.</p>
+<p>It is also worth asking new customers how they found you. Some people click an ad, leave, and call later from a different device, so not every result shows neatly in the platform.</p>
+<h2>Planning for seasonality</h2>
+<p>Many small businesses have busy and quiet periods. A garden landscaper may be busiest in spring, a heating engineer in autumn, and a gift shop before Christmas. Plan budgets around those patterns rather than spending the same amount every month. Raising budgets a little ahead of your peak, and trimming them in quieter months, usually makes better use of a limited budget than a flat spend all year. Review last year's enquiries to see when demand really starts to rise.</p>
+
+<h2>FAQs</h2>
+<h3>Is Google Ads for small business worth it?</h3>
+<p>Often, yes, particularly for local services and businesses whose customers search when they need something. It works best with tight targeting, tracking and a matching landing page, and with realistic expectations about the time it takes to refine.</p>
+<h3>How much should a small business spend on Google Ads?</h3>
+<p>There is no set amount. Work out what you can afford to pay for a customer, check roughly what clicks cost in your area, and set a budget you can hold for several weeks so you gather useful data.</p>
+<h3>Can I run Google Ads myself?</h3>
+<p>Yes. Many small businesses do. The key habits are tracking conversions, reviewing search terms weekly, adding negative keywords and resisting automated suggestions that broaden targeting without clear benefit.</p>
+<h3>Should I use Performance Max as a small business?</h3>
+<p>It can work, but it relies heavily on good conversion tracking and quality assets. Many small service businesses find a well-built search campaign is a clearer starting point.</p>
+<h3>Do Google Ads help my SEO?</h3>
+<p>Not directly. Paying for ads does not improve organic rankings. However, ads data can show which searches convert, which can inform your SEO and content plans.</p>
+<h3>How quickly will I get leads from Google Ads?</h3>
+<p>Ads can show as soon as they are approved, so enquiries can start quickly. Building a consistently profitable account usually takes longer, with results typically improving over three to six months.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-cost-uk',
+    seoTitle: 'Meta Ads Cost UK: Facebook and Instagram Budgets',
+    title: 'Meta Ads Cost in the UK: Planning Facebook and Instagram Budgets',
+    description: 'Meta Ads cost in the UK depends on your budget, audience and creative. There is no set price; you pay per auction, plus any management. Here is how to plan it.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Meta Ads cost in the UK has no fixed price: you set a daily or lifetime budget, and Meta's auction decides what you pay for each impression, click or result based on your audience, your creative and how many other advertisers want the same people. Alongside that ad spend, most businesses also budget for management and for producing the images and videos the ads need.</p>
+<p>Meta covers Facebook, Instagram, Messenger and the Audience Network, all bought through the same Ads Manager. This guide explains how the pricing works, what drives costs up or down, and how to plan a sensible first budget. Where we mention numbers, they are illustrations of the method, not benchmarks, because real costs on Meta move around a great deal.</p>
+
+<h2>How Meta Ads pricing works</h2>
+<p>Every time there is space for an ad in someone's feed, Stories or Reels, Meta runs an auction. It considers three things: what advertisers are willing to pay, how likely the person is to take the action the advertiser wants, and how relevant and good the ad is. The winner is the ad Meta thinks offers the most value to both the advertiser and the person seeing it.</p>
+<p>In practice that means:</p>
+<ul>
+<li><strong>You choose a budget,</strong> either daily or across a set period, and Meta spends it to find the results you asked for.</li>
+<li><strong>You choose an objective,</strong> such as awareness, traffic, leads or sales. Meta then optimises delivery towards that goal.</li>
+<li><strong>You are usually charged by impressions,</strong> though some objectives allow other charging options. Either way, the useful number is what each result costs you.</li>
+<li><strong>Costs change constantly.</strong> The same audience can cost noticeably more in the run-up to Christmas, when many retailers compete for attention.</li>
+</ul>
+
+<h2>Meta Ads cost UK: where the money goes</h2>
+<p>Thinking only about ad spend gives an incomplete picture. Most campaigns involve three kinds of cost.</p>
+<table>
+<thead><tr><th>Cost</th><th>What it covers</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Ad spend</td><td>The impressions and results bought in Meta's auction</td><td>You control it through budgets</td></tr>
+<tr><td>Management</td><td>Strategy, audiences, campaign build, testing and reporting</td><td>In-house time, a freelancer or an agency</td></tr>
+<tr><td>Creative</td><td>Images, short videos, copy and regular refreshes</td><td>Often the most underestimated cost</td></tr>
+</tbody>
+</table>
+<p>At Prism Works Studio, management sits within our monthly retainers, shown on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid separately. For a broader comparison of how agencies charge, our guide to <a href="/blog/digital-marketing-agency-cost-uk/">digital marketing agency costs</a> is a useful read.</p>
+
+<h2>What affects the cost of Meta Ads</h2>
+<p>Several factors push your costs up or down. Some are within your control and some are not.</p>
+<h3>Audience</h3>
+<p>Narrow, heavily competed audiences tend to cost more to reach. Broad audiences give Meta's system more room to find people likely to act, which can help, but only when your tracking and creative give it good signals. Your own audiences, such as website visitors and customer lists used in line with UK GDPR, are often among the most efficient to reach.</p>
+<h3>Creative</h3>
+<p>On Meta, creative does much of the targeting work. An ad that stops the scroll and speaks clearly to the right person tends to earn cheaper delivery than a dull or confusing one. Ads also wear out: as the same people see them repeatedly, results often decline, which is why regular refreshes matter.</p>
+<h3>Objective and optimisation</h3>
+<p>Asking Meta for sales or leads usually costs more per impression than asking for reach, because Meta is finding people more likely to act. That is often worth it. What matters is the cost per result, not the cost per thousand impressions.</p>
+<h3>Season and competition</h3>
+<p>Costs commonly rise around Black Friday, Christmas and other busy retail periods. Planning launches and offers with this in mind can make a meaningful difference to efficiency.</p>
+<h3>Tracking quality</h3>
+<p>If the Meta pixel and Conversions API are not set up properly, Meta has less information about who buys or enquires, and optimisation suffers. Getting tracking right is one of the cheapest ways to make every pound go further. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side, which helps you check what Meta reports against your own data.</p>
+
+<h2>How to set a first Meta Ads budget</h2>
+<p>A good starting budget is one big enough to learn from and small enough that you are comfortable if the first round of tests does not work. The method below uses hypothetical numbers to show the logic.</p>
+<ol>
+<li><strong>Work out what a sale or lead is worth.</strong> For example, if an average order brings £40 profit, you might accept paying up to £20 in ads per order while you test.</li>
+<li><strong>Decide how many results you need to learn.</strong> Meta's delivery tends to settle better when an ad set gets a steady stream of results each week.</li>
+<li><strong>Multiply it out.</strong> If you want, say, 25 orders a week at up to £20 each, that implies up to £500 a week in spend. If that is too much, test a cheaper action first, or narrow to one product.</li>
+<li><strong>Allow time.</strong> Give tests several weeks, and avoid changing everything at once, so you can see what made the difference.</li>
+</ol>
+<p>None of those numbers are predictions. They simply show how to tie budget to what a customer is worth.</p>
+
+<h2>Meta vs Google: how costs compare</h2>
+<p>Meta and Google charge in different ways because they work differently. Google search captures people who are already looking; Meta puts your offer in front of people who were not searching but match who you want to reach.</p>
+<table>
+<thead><tr><th>Factor</th><th>Meta Ads</th><th>Google search ads</th></tr></thead>
+<tbody>
+<tr><td>Intent</td><td>Creates demand, interrupts a scroll</td><td>Captures existing demand</td></tr>
+<tr><td>Usual charge</td><td>Mostly impressions</td><td>Mostly clicks</td></tr>
+<tr><td>Biggest lever</td><td>Creative and offer</td><td>Keywords, bids and landing pages</td></tr>
+<tr><td>Good for</td><td>Visual products, new launches, retargeting</td><td>Urgent needs and high-intent searches</td></tr>
+</tbody>
+</table>
+<p>Many businesses use both. If you are weighing up other social channels too, our guides to <a href="/blog/tiktok-ads-agency-uk/">TikTok Ads</a> and <a href="/blog/youtube-ads-agency-uk/">YouTube Ads</a> explain where they fit.</p>
+
+<h2>Ways to lower your cost per result</h2>
+<ul>
+<li><strong>Test several creative angles,</strong> not just several colours of the same image. Different messages reach different motivations.</li>
+<li><strong>Use video and native formats</strong> designed for Stories and Reels, rather than cropping a landscape advert.</li>
+<li><strong>Fix the landing page.</strong> A slow or confusing page wastes the click you paid for. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers the essentials, and <a href="/blog/conversion-rate-optimisation-agency-uk/">conversion rate optimisation</a> goes further.</li>
+<li><strong>Keep the account simple.</strong> Fewer, better-funded ad sets usually learn faster than many tiny ones.</li>
+<li><strong>Retarget thoughtfully.</strong> Show different messages to people who visited, added to basket or bought before.</li>
+<li><strong>Watch frequency.</strong> If the same people see an ad too often, refresh it.</li>
+</ul>
+
+<h2>Should you manage Meta Ads yourself?</h2>
+<p>Many small businesses start by boosting posts or running simple campaigns themselves, and that can be a reasonable way to learn. As spend grows, the work of testing creative, maintaining tracking and reading results becomes a job in its own right. Our <a href="/services/paid-media/">paid media service</a> covers Meta strategy, campaign management and reporting, and our guide to <a href="/blog/meta-ads-agency-uk/">choosing a Meta Ads agency</a> lists the questions to ask any provider. As with other paid channels, results typically build over three to six months as testing compounds.</p>
+
+<h2>How to judge whether Meta Ads are worth the cost</h2>
+<p>Cheap impressions or clicks mean little on their own. The useful question is whether the money you put in comes back as profit, either straight away or over a customer's lifetime. For an online shop, that means looking at return on ad spend alongside margin, not revenue alone. For a lead-generation business, it means following leads through to paying customers, because a low cost per lead is no help if the leads never buy.</p>
+<p>It also helps to compare Meta's own reporting with your analytics and sales records. Platforms can count conversions in different ways, and a sale may be influenced by several channels before it happens. Looking at the overall trend, such as total sales against total ad spend each month, gives a steadier view than any single dashboard.</p>
+
+<h2>FAQs</h2>
+<h3>What is the Meta Ads cost in the UK?</h3>
+<p>There is no fixed cost. You set your own budget, and Meta's auction decides the price of each impression or result. If you use an agency, management is separate. Prism Works Studio retainers start at £350 a month, with ad spend paid separately.</p>
+<h3>Is Instagram advertising cheaper than Facebook?</h3>
+<p>Not reliably. Both are bought through the same auction, and costs depend on audience, placement and creative. Many advertisers let Meta choose placements automatically and then review which ones deliver results at an acceptable cost.</p>
+<h3>Is boosting a post the same as running Meta Ads?</h3>
+<p>Boosting is a simplified form of advertising with fewer options. It can be handy for quick reach, but Ads Manager gives far more control over objectives, audiences, placements and testing, which usually matters once you are spending regularly.</p>
+<h3>How much should a small business spend on Meta Ads?</h3>
+<p>Start from what a customer is worth and how many results you need to learn, then set a budget you can sustain for several weeks. A budget too small to produce regular results makes it hard for Meta to optimise.</p>
+<h3>Why did my Meta Ads costs suddenly rise?</h3>
+<p>Common causes include seasonal competition, creative fatigue, changes to tracking, or edits that reset learning. Check frequency, recent changes and whether your conversion events are still recording correctly.</p>
+<h3>Do I need video for Meta Ads?</h3>
+<p>Not always, but short vertical video often suits Stories and Reels well. Simple, clear video filmed on a phone can work, as long as it gets the message across in the first few seconds.</p>
+`,
+  },
+  {
+    slug: 'remarketing-guide-uk',
+    seoTitle: 'Remarketing Guide UK: Win Back Website Visitors',
+    title: 'A Remarketing Guide for UK Businesses: Winning Back Website Visitors',
+    description: 'Remarketing shows ads to people who have already visited your site or engaged with you. This UK guide covers how it works, platforms, consent and setup.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Remarketing means showing ads to people who have already interacted with your business, such as website visitors, people who added something to their basket, or past customers, to bring them back to finish what they started. Because these people already know you, remarketing often converts more efficiently than advertising to strangers, as long as it is targeted sensibly and handled within UK privacy rules.</p>
+<p>You may also hear it called retargeting. The terms are used interchangeably in practice. This remarketing guide explains how it works, which platforms offer it, how to segment audiences, and what UK businesses need to know about consent.</p>
+
+<h2>How remarketing works</h2>
+<p>When someone visits your website, a tag such as the Google tag or Meta pixel can, with their consent, add them to an audience list. You can then show ads to that list on platforms such as Google, YouTube, Facebook, Instagram and TikTok. You can also upload customer lists, where you have the right to use the data, which the platforms match against their own users.</p>
+<p>Most visitors leave a site without buying or enquiring. Remarketing gives you a second chance to remind them, answer an objection or offer a reason to return.</p>
+
+<h2>Remarketing guide: the main platforms</h2>
+<table>
+<thead><tr><th>Platform</th><th>Where ads appear</th><th>Good for</th></tr></thead>
+<tbody>
+<tr><td>Google Ads</td><td>Search, Display network, YouTube, Gmail</td><td>Reaching visitors as they search again or browse</td></tr>
+<tr><td>Meta</td><td>Facebook, Instagram, Messenger</td><td>Visual reminders, product ads, offers</td></tr>
+<tr><td>TikTok</td><td>TikTok feed</td><td>Younger audiences, video-led brands</td></tr>
+<tr><td>YouTube</td><td>Before and during videos</td><td>Telling a fuller story with video</td></tr>
+<tr><td>LinkedIn</td><td>LinkedIn feed</td><td>B2B buyers with long decision cycles</td></tr>
+</tbody>
+</table>
+<p>Our guides to <a href="/blog/meta-ads-agency-uk/">Meta Ads</a>, <a href="/blog/tiktok-ads-agency-uk/">TikTok Ads</a> and <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn Ads for B2B lead generation</a> cover each platform in more depth.</p>
+
+<h3>Search remarketing</h3>
+<p>On Google, you can apply your audience lists to search campaigns. That lets you bid differently, or show different ads, when a past visitor searches again. It is a quiet but useful technique, especially in sectors where people compare several suppliers before deciding.</p>
+
+<h3>Dynamic remarketing</h3>
+<p>For online shops, dynamic remarketing shows people the specific products they viewed, pulled from your product feed. It is available on Google and Meta and is often one of the more efficient campaign types for ecommerce. Our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> explains product feeds, which dynamic remarketing relies on.</p>
+
+<h2>Segmenting your audiences</h2>
+<p>The biggest remarketing mistake is treating every past visitor the same. Someone who glanced at your blog is very different from someone who reached checkout. Segment by how close people came to acting.</p>
+<table>
+<thead><tr><th>Segment</th><th>Who it includes</th><th>Suggested message</th></tr></thead>
+<tbody>
+<tr><td>Basket or checkout abandoners</td><td>Started buying but did not finish</td><td>Reminder, delivery or returns reassurance</td></tr>
+<tr><td>Product or service viewers</td><td>Looked at specific pages</td><td>Benefits, proof you can back up, a reason to return</td></tr>
+<tr><td>General visitors</td><td>Visited but showed little intent</td><td>Brand story, helpful content</td></tr>
+<tr><td>Past customers</td><td>Bought before</td><td>Related products, repeat purchase, reviews</td></tr>
+<tr><td>Recent converters</td><td>Just bought or enquired</td><td>Often best excluded for a while</td></tr>
+</tbody>
+</table>
+<p>Membership duration matters too. A seven-day list of checkout abandoners is usually far warmer than a ninety-day list of all visitors, and deserves a different budget and message.</p>
+
+<h2>Frequency and avoiding the "following me around" problem</h2>
+<p>Remarketing can annoy people when the same ad appears constantly, or when someone keeps seeing a product they already bought. To keep it helpful:</p>
+<ul>
+<li><strong>Cap frequency</strong> where the platform allows, or watch it closely where it does not.</li>
+<li><strong>Exclude recent buyers</strong> from product reminders.</li>
+<li><strong>Rotate creative</strong> so the message changes over time.</li>
+<li><strong>Set sensible list durations</strong> that match how long your buying cycle really is.</li>
+<li><strong>Avoid sensitive targeting.</strong> Platforms restrict remarketing in sensitive categories such as health, and you should not imply you know something personal about the viewer.</li>
+</ul>
+
+<h2>Consent, cookies and UK privacy rules</h2>
+<p>Remarketing in the UK depends on cookies, pixels and sometimes personal data, so it sits under PECR and UK GDPR. In practical terms:</p>
+<ul>
+<li>Non-essential cookies, including advertising tags, generally need consent before they fire. Your cookie banner should offer a genuine choice.</li>
+<li>Your privacy notice should explain that you use advertising tags and remarketing.</li>
+<li>If you upload customer lists, make sure you have a lawful basis to use the data in this way.</li>
+<li>Google's Consent Mode can help your tags respect consent choices while still giving the platform modelled data.</li>
+</ul>
+<p>This is general information rather than legal advice. Check the ICO's guidance and, where needed, get advice for your specific setup. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> touches on consent configuration for analytics.</p>
+
+<h2>Setting up your first remarketing campaign</h2>
+<ol>
+<li><strong>Install tags properly,</strong> linked to your consent banner, and check they record visits and key actions.</li>
+<li><strong>Build audiences</strong> for your most valuable segments first, such as basket abandoners or service page visitors.</li>
+<li><strong>Wait for lists to fill.</strong> Platforms need a minimum audience size before ads can serve, so smaller sites may need time.</li>
+<li><strong>Write tailored ads</strong> for each segment, rather than reusing cold-audience creative.</li>
+<li><strong>Send people somewhere useful,</strong> such as the product they viewed or a focused <a href="/blog/landing-page-design-uk/">landing page</a>.</li>
+<li><strong>Measure incrementally.</strong> Remarketing can claim credit for sales that would have happened anyway, so compare against your overall results rather than trusting platform figures alone.</li>
+</ol>
+
+<h2>What remarketing costs</h2>
+<p>There is no fixed price. Remarketing audiences are usually small, so spend is often modest compared with prospecting campaigns, but costs depend on the platform, auction and how many people are on your lists. Treat any cost figure you see online as variable.</p>
+<p>At Prism Works Studio, remarketing is part of how we manage paid media rather than a separate product. Our retainers are shown on our <a href="/pricing/">pricing page</a>, from Launch at £350 a month, with ad spend paid separately. Our <a href="/services/paid-media/">paid media service</a> covers remarketing across Google, Meta, TikTok and YouTube, with results typically building over three to six months. If you already run remarketing, our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> includes audience checks.</p>
+
+<h2>Writing remarketing ads that work</h2>
+<p>Remarketing ads speak to people who already know something about you, so they should not simply repeat the message they saw first time. Think about why someone left without acting, then address that reason directly.</p>
+<ul>
+<li><strong>Uncertain about delivery or returns?</strong> Explain your delivery options, such as Royal Mail, Evri or DPD, and your returns policy clearly.</li>
+<li><strong>Worried about price?</strong> Show what is included, payment options such as Klarna or Clearpay if you offer them, or the value compared with alternatives.</li>
+<li><strong>Not sure you are trustworthy?</strong> Use genuine reviews, guarantees you actually offer, or details about how you work.</li>
+<li><strong>Simply got distracted?</strong> A short, friendly reminder with a direct link back is often enough.</li>
+</ul>
+<p>Avoid relying on discounts as the default answer. If every abandoner receives a code, some customers will learn to leave their basket on purpose. Use offers selectively and test whether they truly add sales or only reduce margin.</p>
+<h2>Remarketing for service businesses and B2B</h2>
+<p>Remarketing is not only for online shops. Service businesses and B2B companies often have longer decision cycles, where a prospect visits several times before getting in touch. In those cases, remarketing works well as a way to stay visible and helpful during the research period.</p>
+<p>Useful approaches include showing a practical guide to people who viewed a service page, sharing case-study style explanations of how you work (without invented results), or inviting people to book a call once they have visited your pricing page. Keep the tone helpful rather than pushy, and match list durations to how long your buyers usually take to decide.</p>
+<p>For businesses with lower traffic, combine website audiences with other sources such as video viewers or people who engaged with your social profiles. This helps lists reach the size platforms need, while still focusing on people who have shown some interest.</p>
+
+<h2>FAQs</h2>
+<h3>What is this remarketing guide for UK businesses about?</h3>
+<p>It explains how to show ads to people who already visited your website or engaged with you, which platforms offer remarketing, how to segment audiences, and how UK consent rules affect setup.</p>
+<h3>Is remarketing the same as retargeting?</h3>
+<p>In practice, yes. Google tends to say remarketing and many other platforms say retargeting, but both describe advertising to people who have previously interacted with your business.</p>
+<h3>Do I need cookie consent for remarketing in the UK?</h3>
+<p>Generally, yes. Advertising tags are non-essential, so under PECR you usually need consent before they set cookies. Your cookie banner and privacy notice should reflect this. Check ICO guidance for your situation.</p>
+<h3>How big does my audience need to be?</h3>
+<p>Each platform sets its own minimum list size before ads will serve, and these can change. Smaller sites may need longer list durations or broader segments to reach the threshold.</p>
+<h3>How long should people stay on a remarketing list?</h3>
+<p>Match it to your buying cycle. Quick purchases may suit lists of a week or two, while considered purchases, such as B2B services or furniture, may justify longer durations.</p>
+<h3>Can remarketing work for a small business?</h3>
+<p>Yes, if the site has enough traffic to build audiences. Small, well-segmented campaigns with tailored messages and frequency control are often a sensible addition once core search or social campaigns are running.</p>
+`,
+  },
 ];
