@@ -5780,4 +5780,600 @@ module.exports = [
 <p>A good one will set up the technical basics at build stage, such as clean URLs, headings, sitemaps and redirects. Ongoing SEO is a separate piece of work that builds on that foundation.</p>
 `,
   },
+  {
+    slug: 'ai-marketing-agency-uk',
+    seoTitle: 'AI Marketing Agency UK: What AI-Powered Really Means',
+    title: 'AI Marketing Agency UK: What an AI-Powered Agency Actually Does',
+    description: 'AI marketing agency UK guide: where AI genuinely helps in SEO, ads and content, where people still decide, and the questions to ask before you hire one.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>An AI marketing agency uses artificial intelligence tools to speed up research, analysis, content drafting, ad testing and reporting, while people still set strategy, check quality and make the final decisions. The useful question is not whether an agency uses AI, since most now do, but which tasks it uses AI for and how the output is checked.</p>
+<p>This guide explains where AI genuinely helps, where human judgement still matters, the risks to watch, and the questions to ask before you hire. It sits alongside our general guide to <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency</a>.</p>
+
+<h2>What an AI marketing agency UK businesses hire actually does</h2>
+<p>"AI-powered" can mean anything from a team that uses a chatbot occasionally to an agency that has built AI into every workflow. In practice, a well-run AI-assisted agency uses tools for the repetitive, data-heavy parts of marketing so that people have more time for thinking, creativity and client communication.</p>
+<p>Prism Works Studio uses AI-powered strategy and tools across our <a href="/services/seo-geo/">SEO and GEO</a>, <a href="/services/paid-media/">paid media</a> and content work. People set the direction, review what the tools produce and stay accountable for the results.</p>
+
+<h2>Where AI helps and where people decide</h2>
+<table>
+<thead><tr><th>Area</th><th>Where AI helps</th><th>Where people decide</th></tr></thead>
+<tbody>
+<tr><td>Keyword and audience research</td><td>Grouping thousands of terms, spotting patterns, summarising questions</td><td>Which topics matter commercially and in what order</td></tr>
+<tr><td>Content</td><td>Outlines, first drafts, summaries, variations</td><td>Accuracy, brand voice, expertise, final edit and sign-off</td></tr>
+<tr><td>Paid media</td><td>Bidding, ad copy variations, search term analysis, anomaly alerts</td><td>Budgets, goals, offers, which tests to run, when to stop</td></tr>
+<tr><td>Creative</td><td>Concepts, image variations, resizing, subtitles</td><td>Brand fit, claims, what goes live</td></tr>
+<tr><td>Technical SEO</td><td>Crawl analysis, pattern spotting, structured data drafts</td><td>Prioritising fixes, weighing risk, developer briefs</td></tr>
+<tr><td>Reporting</td><td>Pulling data, summarising trends, flagging changes</td><td>Interpreting why, recommending next steps</td></tr>
+<tr><td>Customer insight</td><td>Summarising reviews, surveys and support tickets</td><td>Deciding what the business should change</td></tr>
+</tbody>
+</table>
+
+<h3>AI in search: SEO and GEO</h3>
+<p>AI has changed search itself as well as the tools marketers use. Google AI Overviews, ChatGPT, Perplexity and similar tools now answer many questions directly and cite sources. Optimising to be cited in those answers is often called generative engine optimisation. Our guide to <a href="/blog/what-is-generative-engine-optimisation/">what generative engine optimisation is</a> and our <a href="/blog/geo-agency-uk/">GEO agency guide</a> explain the approach: clear, answer-first content, accurate facts, structured pages and a strong reputation across the web.</p>
+<p>Notably, AI-generated content published at scale without real expertise tends to work against you. Search engines look for helpful, original content, and AI answer tools favour sources that are specific and trustworthy.</p>
+
+<h3>AI in paid media</h3>
+<p>Google Ads and Meta already run on machine learning: automated bidding, broad match, <a href="/blog/performance-max-guide-uk/">Performance Max</a> and Advantage+ campaigns. An agency adds value by feeding those systems good data (accurate conversion tracking, values and audience signals), good creative and sensible guardrails, then checking where automation wastes money.</p>
+
+<h2>Risks to watch with AI marketing</h2>
+<ul>
+<li><strong>Inaccurate content.</strong> AI tools can produce confident but wrong statements. Every fact, price and claim needs checking.</li>
+<li><strong>Generic voice.</strong> Unedited AI copy sounds like everyone else. Brand voice needs a human editor.</li>
+<li><strong>Advertising rules.</strong> Claims in adverts must follow the CAP Code whoever writes them. Regulated sectors need compliance approval.</li>
+<li><strong>Data protection.</strong> Customer data put into AI tools must be handled in line with UK GDPR. Ask which tools see your data and where it is processed.</li>
+<li><strong>Over-automation.</strong> Fully automated campaigns can spend on poor placements or chase cheap conversions that do not turn into revenue.</li>
+<li><strong>Ownership.</strong> Check who owns content, creative and any custom tools built for you.</li>
+</ul>
+
+<h2>Questions to ask an AI marketing agency</h2>
+<ol>
+<li>Which tasks in our account will use AI, and which will not?</li>
+<li>Who checks AI-produced content and ads before they go live?</li>
+<li>Which tools do you use, and what happens to our data inside them?</li>
+<li>How do you keep our brand voice consistent?</li>
+<li>How do you make sure claims follow the CAP Code and any sector rules?</li>
+<li>What does AI save in time, and where does that time go instead?</li>
+<li>How will you report results, and which measures matter most?</li>
+<li>Who owns the content, creative and accounts if we part ways?</li>
+</ol>
+<p>Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> covers ownership and notice terms in more detail.</p>
+
+<h2>Does AI make marketing cheaper?</h2>
+<p>AI can reduce the time some tasks take, but it does not remove the need for strategy, checking and accountability. Be wary of offers that promise large volumes of content or campaigns for very low fees; volume is rarely the problem most businesses need solving.</p>
+<p>Prism Works Studio's monthly retainers are £350 (Launch), £750 (Growth) and £1,500 (Scale), with ad spend paid separately. The <a href="/pricing/">pricing page</a> explains what each plan includes. Our <a href="/blog/digital-marketing-agency-cost-uk/">digital marketing agency cost guide</a> helps you compare quotes across agencies, AI-powered or not.</p>
+
+<h2>AI marketing checklist</h2>
+<p>Use this to judge an agency, or your own team's use of AI:</p>
+<ul>
+<li>A clear list of which tasks use AI and which do not.</li>
+<li>A named review step before anything goes live.</li>
+<li>Fact checking for every statistic, price and claim.</li>
+<li>A brand voice guide used to edit AI drafts.</li>
+<li>Data protection checks on every tool that handles customer data.</li>
+<li>Accurate conversion tracking feeding ad platform automation.</li>
+<li>Guardrails on automated campaigns: exclusions, budgets, brand safety.</li>
+<li>Content built to be cited by AI search, with answer-first structure.</li>
+<li>Reporting that explains why results changed, not just what changed.</li>
+<li>Clear ownership of content, creative and accounts.</li>
+</ul>
+
+<h2>Is an AI-powered agency right for you?</h2>
+<p>Start by being clear about what you need. If your main problem is a lack of leads from search, the deciding factor is the quality of the SEO strategy, not the tools behind it. If paid campaigns are wasting money, look for strong tracking and account management first. AI is a way of doing the work faster and more consistently, not a substitute for knowing what work to do.</p>
+<p>For most UK businesses the answer is that AI should be part of how an agency works, not the reason to hire it. Choose the agency whose strategy, communication and reporting you trust, then check its use of AI is careful and transparent. A small business with a modest budget may benefit most, because AI can make research and reporting more efficient, leaving more of the fee for the work that moves results.</p>
+
+<h2>How AI fits into a typical month of work</h2>
+<p>To make "AI-powered" concrete, here is how AI tools typically fit into a month of SEO and paid media work at an agency that uses them carefully.</p>
+<p>At the start of the month, tools pull performance data from Search Console, GA4 and ad platforms and summarise what changed. A person reviews the summary, checks anything unusual and decides on priorities. During the month, AI helps group new keyword opportunities, draft outlines and first versions of content, generate ad copy variations for testing and flag wasted spend in search term reports. Each output is edited or approved by a person who knows the client's business before anything goes live.</p>
+<p>At the end of the month, AI helps assemble the report, but the explanation of why results moved and what to do next comes from the people running the account. The time saved on repetitive tasks goes into strategy, creative thinking and conversations with the client, which is where most of the value in an agency relationship sits.</p>
+
+<p>When an agency describes its process this way, you can see exactly where AI saves time and where a person is responsible. If an agency cannot explain its workflow at this level of detail, treat "AI-powered" as a marketing label rather than a description of how your account will be run, and ask more questions before signing anything.</p>
+
+<h2>FAQs</h2>
+<h3>What is an AI marketing agency UK businesses should consider?</h3>
+<p>An AI marketing agency in the UK uses AI tools for research, drafting, testing and reporting, with people setting strategy and checking quality. Look for transparency about which tasks use AI and how outputs are reviewed.</p>
+<h3>Is AI-written content bad for SEO?</h3>
+<p>Not in itself. Search engines reward helpful, accurate, original content. AI drafts that are fact-checked, edited for voice and add real expertise can work; mass-produced, unchecked content usually does not.</p>
+<h3>Can AI run my Google Ads on its own?</h3>
+<p>Google's own automation already handles bidding and targeting, but it depends on good tracking, creative and guardrails. People still need to set goals, budgets and check where money goes.</p>
+<h3>Is my data safe with an AI-powered agency?</h3>
+<p>Ask which tools see your data, where it is processed and how it is protected under UK GDPR. A good agency will answer clearly and limit what personal data goes into AI tools.</p>
+<h3>Does using AI make an agency cheaper?</h3>
+<p>Sometimes it frees time for more valuable work rather than lowering fees. Compare agencies on scope, expertise and reporting, not just on how much AI they use.</p>
+<h3>How does AI change search for my business?</h3>
+<p>AI answers in Google and tools like ChatGPT mean you need clear, factual, well-structured content that these systems can cite, alongside traditional SEO.</p>
+<p>If you want to see how AI-powered strategy could fit your marketing, <a href="/contact/">book a free discovery call</a> and we will talk through where AI helps, where it does not, and what to focus on first.</p>
+`,
+  },
+  {
+    slug: 'amazon-seo-agency-uk',
+    seoTitle: 'Amazon SEO Agency UK: Listings, Keywords and A+ Content',
+    title: 'Amazon SEO Agency UK: Marketplace Listing SEO for Amazon and eBay Sellers',
+    description: 'Amazon SEO agency UK guide: how marketplace listing SEO works on Amazon and eBay, from keywords and titles to images and A+ content, plus a checklist.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>An Amazon SEO agency improves how your product listings rank and convert in marketplace search, mainly on Amazon and eBay, by researching keywords, rewriting titles and bullets, filling backend fields, improving images and building A+ content. For UK sellers it matters because most shoppers search inside the marketplace and rarely scroll past the first page of results.</p>
+<p>This guide explains how marketplace search works, what to optimise on each listing, how Amazon and eBay differ, and what to look for in an agency. If you also sell on your own site, our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a> covers the Google side.</p>
+
+<h2>How Amazon SEO works</h2>
+<p>Amazon's search aims to show the products a shopper is most likely to buy. Two broad groups of signals matter:</p>
+<ul>
+<li><strong>Relevance.</strong> Whether your listing contains the words people search, in the title, bullets, description, backend search terms and attributes.</li>
+<li><strong>Performance.</strong> Whether people click and buy: click-through rate, conversion rate, sales history, reviews, price, stock and delivery speed.</li>
+</ul>
+<p>Relevance gets you considered. Performance decides how high you stay. That is why stuffing a title with keywords rarely works on its own: a listing that ranks but does not convert slips back down. eBay's search works on similar principles, with more weight on item specifics, listing quality and seller performance.</p>
+
+<h2>What to optimise on a marketplace listing</h2>
+<table>
+<thead><tr><th>Element</th><th>Role</th><th>Good practice</th></tr></thead>
+<tbody>
+<tr><td>Title</td><td>Strongest relevance signal and the first thing shoppers read</td><td>Brand, product type, key feature, size or quantity, within category limits</td></tr>
+<tr><td>Bullet points</td><td>Persuasion plus secondary keywords</td><td>Benefits first, one idea per bullet, plain UK English</td></tr>
+<tr><td>Backend search terms</td><td>Hidden keywords Amazon indexes</td><td>Synonyms, alternative spellings, no repetition or competitor brands</td></tr>
+<tr><td>Images</td><td>Main driver of clicks and conversions</td><td>Compliant white-background main image, lifestyle, scale, detail, infographics</td></tr>
+<tr><td>A+ content</td><td>Richer brand story and comparison below the fold</td><td>Comparison charts, use cases, brand story modules (brand registered sellers)</td></tr>
+<tr><td>Item specifics and attributes</td><td>Filters and relevance, especially on eBay</td><td>Fill every relevant field accurately</td></tr>
+<tr><td>Price, stock and delivery</td><td>Performance and Buy Box</td><td>Competitive pricing, steady stock, fast fulfilment</td></tr>
+<tr><td>Reviews</td><td>Trust and conversion</td><td>Use approved review programmes only; never incentivise reviews</td></tr>
+</tbody>
+</table>
+
+<h3>Keyword research for marketplaces</h3>
+<p>Marketplace keyword research starts with how shoppers describe the product, not how you describe it internally. Useful sources include the marketplace's own search suggestions, search term reports from your sponsored ads, competitor listings, customer questions and reviews, and Google keyword data. Group terms by meaning, choose a primary phrase for the title and spread supporting terms through bullets and backend fields.</p>
+<p>UK spelling and vocabulary matter: trainers not sneakers, colour not color, duvet not comforter. Many UK listings copied from US catalogues lose relevance because of this.</p>
+
+<h3>Images and A+ content</h3>
+<p>Images often decide whether a shopper clicks and buys. Follow the main image rules for your category, then use the remaining slots to answer questions: size against a familiar object, what is in the box, materials close up, the product in use, and a simple infographic of key benefits. On mobile, which is where many marketplace purchases happen, images do more selling than text.</p>
+<p>A+ content (available to brand registered sellers) adds modules below the listing. Use it to compare your range, explain features with images and tell a short brand story. It mainly helps conversion, which in turn supports ranking.</p>
+
+<h2>Amazon compared with eBay</h2>
+<table>
+<thead><tr><th>Area</th><th>Amazon</th><th>eBay</th></tr></thead>
+<tbody>
+<tr><td>Catalogue</td><td>Shared product pages; many sellers on one listing</td><td>Each seller has their own listing</td></tr>
+<tr><td>Key ranking focus</td><td>Relevance plus sales performance</td><td>Item specifics, listing quality, seller performance</td></tr>
+<tr><td>Rich content</td><td>A+ content for brand registered sellers</td><td>Description and images; fewer rich modules</td></tr>
+<tr><td>Ads</td><td>Sponsored Products, Brands and Display</td><td>Promoted Listings</td></tr>
+</tbody>
+</table>
+<p>Most sellers benefit from one shared keyword and product data foundation, adapted to each marketplace's rules.</p>
+
+<h2>Marketplace SEO and advertising work together</h2>
+<p>Sponsored ads can help a new listing gain early sales and give you search term data to improve the organic listing. In turn, a better listing lowers advertising cost because it converts more clicks. Treat the two as one plan. The same logic applies to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping</a>, where product data quality drives results.</p>
+
+<h2>What an Amazon SEO agency should do</h2>
+<p>Prism Works Studio offers marketplace listing SEO for Amazon, eBay and similar marketplaces as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. A sensible scope usually covers:</p>
+<ol>
+<li>An audit of current listings: relevance gaps, image quality, suppressed or incomplete fields.</li>
+<li>Keyword research grouped by product and intent.</li>
+<li>Rewritten titles, bullets and descriptions within marketplace rules.</li>
+<li>Backend search terms and attributes completed.</li>
+<li>An image brief and A+ content plan.</li>
+<li>Tracking of rank, sessions, conversion rate and sales per listing over time.</li>
+</ol>
+<p>Our monthly retainers are £350 (Launch), £750 (Growth) and £1,500 (Scale). The <a href="/pricing/">pricing page</a> shows what each plan includes, and we agree marketplace scope with you before work starts. SEO results typically build over three to six months.</p>
+
+<h2>Amazon and eBay listing checklist</h2>
+<ul>
+<li>Primary keyword chosen for each product and placed early in the title.</li>
+<li>Titles follow category length and style rules.</li>
+<li>Five clear bullet points, benefits first, in UK English.</li>
+<li>Backend search terms filled with synonyms and spellings, no repetition.</li>
+<li>Every relevant attribute and item specific completed.</li>
+<li>Main image meets the rules; at least six supporting images.</li>
+<li>A+ content built for best-selling products if brand registered.</li>
+<li>Prices, stock and delivery options reviewed against competitors.</li>
+<li>Reviews gathered only through approved methods.</li>
+<li>Sponsored ad search terms reviewed monthly for new keywords.</li>
+<li>Listing performance tracked per product, not just account-wide.</li>
+</ul>
+
+<h2>Keeping marketplace and website SEO joined up</h2>
+<p>Many UK sellers run their own store alongside marketplaces. Use the same keyword research and product data for both, but avoid copying marketplace descriptions word for word onto your site; write fuller pages that help Google understand each product. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/sectors/ecommerce/">ecommerce marketing</a> page explain how the website side fits. If you are weighing up platforms, see <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a>.</p>
+
+<h2>Common marketplace listing mistakes</h2>
+<p>Many UK listings underperform for the same handful of reasons:</p>
+<ul>
+<li><strong>Copying US catalogue content.</strong> American spellings, sizes and terms reduce relevance for UK shoppers and can look careless.</li>
+<li><strong>Keyword-stuffed titles.</strong> Long, repetitive titles may break category rules, look untrustworthy and get truncated on mobile, where only the first part of the title shows.</li>
+<li><strong>Empty attributes.</strong> Shoppers filter by size, colour, material and other fields. A product with blank attributes can disappear from filtered results entirely.</li>
+<li><strong>Weak secondary images.</strong> Many sellers upload a compliant main image and little else. Supporting images answer the questions that otherwise turn into returns or negative reviews.</li>
+<li><strong>Ignoring customer questions and reviews.</strong> These show the exact words buyers use and the doubts they have. Feed both back into bullets, images and A+ content.</li>
+<li><strong>Running out of stock.</strong> Stock-outs can damage sales history and ranking, and recovery can take time. Plan stock around peak periods such as Black Friday and Christmas.</li>
+<li><strong>Treating listing work as a one-off.</strong> Competitors change their listings, prices and advertising. Review best sellers at least quarterly.</li>
+</ul>
+
+<h2>Measuring marketplace listing performance</h2>
+<p>Track each product rather than only the account total, because account-wide numbers hide which listings need work. Useful measures include sessions or page views per listing, unit session percentage (the share of visits that become orders), search ranking for the primary keywords, Buy Box share where several sellers share a listing, sponsored advertising cost as a share of sales, and return rates with the reasons given. When a change is made to a listing, note the date so you can compare performance before and after. Change one major element at a time on important products so you can tell what made the difference.</p>
+
+<h2>FAQs</h2>
+<h3>What does an Amazon SEO agency UK do?</h3>
+<p>An Amazon SEO agency in the UK researches marketplace keywords, rewrites titles and bullets, fills backend search terms and attributes, briefs images and builds A+ content so listings rank and convert better on Amazon.co.uk.</p>
+<h3>Is Amazon SEO different from Google SEO?</h3>
+<p>Yes. Amazon focuses on purchase likelihood, so sales performance, price and reviews carry great weight. Google focuses on answering a search well across many types of page.</p>
+<h3>How long does Amazon SEO take to work?</h3>
+<p>Listing changes can be indexed quickly, but rankings depend on sales performance, which builds over weeks and months. Results typically build over three to six months.</p>
+<h3>Do I need brand registry for A+ content?</h3>
+<p>Yes, A+ content is available to brand owners enrolled in Amazon Brand Registry. Without it, focus on titles, bullets, images and backend terms.</p>
+<h3>Does eBay listing SEO matter as much as Amazon?</h3>
+<p>For many UK sellers eBay is a meaningful channel. Complete item specifics, clear titles and good images make a noticeable difference to visibility there.</p>
+<h3>Can I use the same listing copy on my website?</h3>
+<p>Use the same research, but write fuller, original product pages for your own site so they can rank in Google rather than duplicating marketplace copy.</p>
+<p>If you sell on Amazon, eBay or other marketplaces and want listings that work harder, <a href="/contact/">book a free discovery call</a> and we will look at where your listings can improve first.</p>
+`,
+  },
+  {
+    slug: 'shopify-plus-migration-uk',
+    seoTitle: 'Shopify Plus Migration UK: Move Without Losing SEO',
+    title: 'Shopify Plus Migration UK: How to Move Platforms Without Losing SEO',
+    description: 'Shopify Plus migration UK guide: how to move to Shopify or Shopify Plus without losing SEO, with redirect mapping, data transfer and a launch checklist.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Shopify Plus migration moves your store from another platform, or from standard Shopify, onto Shopify Plus, and it can be done without losing SEO if every old URL is mapped to a matching new one with 301 redirects and content, metadata and structured data carry across. Most ranking drops after a migration come from missed redirects, lost content or changed internal links rather than from Shopify itself.</p>
+<p>This guide covers when Shopify Plus makes sense, how to protect rankings, what data to move and a launch checklist. For the general principles of keeping rankings during any rebuild, see our guide to <a href="/blog/website-redesign-without-losing-rankings/">a website redesign without losing rankings</a>.</p>
+
+<h2>Shopify or Shopify Plus?</h2>
+<p>Shopify Plus is Shopify's higher tier for larger merchants. It adds features such as checkout customisation options, automation tools, more staff accounts, B2B features and expansion stores. Standard Shopify plans suit many UK stores perfectly well. Plus usually makes sense when order volume, complexity or international selling has outgrown the standard plans.</p>
+<table>
+<thead><tr><th>Consideration</th><th>Standard Shopify</th><th>Shopify Plus</th></tr></thead>
+<tbody>
+<tr><td>Typical fit</td><td>Small and growing stores</td><td>Higher volume or more complex stores</td></tr>
+<tr><td>Checkout customisation</td><td>Limited</td><td>More options through extensions</td></tr>
+<tr><td>Automation</td><td>Shopify Flow available on many plans</td><td>Broader automation and scripting options</td></tr>
+<tr><td>B2B and wholesale</td><td>Through apps</td><td>Built-in B2B features</td></tr>
+<tr><td>Multiple stores or regions</td><td>Markets on one store</td><td>Expansion stores available</td></tr>
+<tr><td>Platform cost</td><td>Lower monthly plans</td><td>Higher platform fee; check Shopify's current terms</td></tr>
+</tbody>
+</table>
+<p>The SEO process is the same either way, so this guide applies to moving to Shopify generally. Our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> may help if you are still choosing a platform.</p>
+
+<h2>Shopify Plus migration without losing SEO</h2>
+<p>The SEO work happens before, during and after launch. Skipping the before stage is the most common and most expensive mistake.</p>
+
+<h3>1. Inventory every URL</h3>
+<p>Crawl the current site and export every URL that matters: products, collections or categories, blog posts, landing pages, images and PDFs. Add URLs from Search Console, GA4 landing page reports and backlink tools, because a crawl misses orphan pages that still earn traffic or links.</p>
+
+<h3>2. Understand Shopify's URL structure</h3>
+<p>Shopify uses fixed patterns such as /products/, /collections/, /pages/ and /blogs/news/. You cannot keep most old URL paths exactly, so redirects are essential. Products also appear under collection paths, with canonical tags pointing to the main product URL; check your theme handles this cleanly.</p>
+
+<h3>3. Build a one-to-one redirect map</h3>
+<p>Map each old URL to its closest new equivalent with a 301 redirect. Avoid sending everything to the home page, which loses relevance. Discontinued products should go to the nearest category or replacement. Shopify's URL redirect tool accepts bulk imports, which makes large maps manageable.</p>
+
+<h3>4. Carry content and metadata across</h3>
+<p>Move page titles, meta descriptions, headings, product descriptions, category copy, image alt text and blog content. Rewriting everything at the same time as moving platforms makes it hard to diagnose ranking changes, so keep copy largely the same at launch and improve it afterwards.</p>
+
+<h3>5. Keep structured data and internal links</h3>
+<p>Check product schema (price, availability, reviews) outputs correctly in your new theme. Update menus, footer links and in-content links to point at new URLs directly rather than through redirects.</p>
+
+<h2>What data to migrate</h2>
+<table>
+<thead><tr><th>Data</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Products and variants</td><td>SKUs, options, prices, images, weights, metafields</td></tr>
+<tr><td>Collections</td><td>Rebuild rules or manual lists; keep descriptions</td></tr>
+<tr><td>Customers</td><td>Contact details and marketing consent; passwords cannot be carried over, so plan an account activation email</td></tr>
+<tr><td>Order history</td><td>Useful for customer service and reporting</td></tr>
+<tr><td>Reviews</td><td>Export and import through your review app to keep trust and schema</td></tr>
+<tr><td>Blog and pages</td><td>Content, authors, dates, images</td></tr>
+<tr><td>Gift cards and discounts</td><td>Recreate active codes and balances</td></tr>
+</tbody>
+</table>
+<p>Handle customer data in line with UK GDPR: only move what you need, keep consent records intact and use secure transfer methods.</p>
+
+<h2>Shopify migration checklist</h2>
+<h3>Before launch</h3>
+<ul>
+<li>Full URL inventory from crawl, Search Console, analytics and backlinks.</li>
+<li>Benchmark rankings, organic traffic and revenue by page.</li>
+<li>One-to-one 301 redirect map reviewed and imported.</li>
+<li>Titles, meta descriptions, copy and alt text migrated.</li>
+<li>Product schema and canonical tags checked on staging.</li>
+<li>Internal links updated to new URLs.</li>
+<li>Test orders placed with every payment method, including Klarna or Clearpay if used.</li>
+<li>Shipping rates for Royal Mail, Evri, DPD or your couriers checked.</li>
+<li>GA4, Google Ads, Meta and other tags installed with consent management.</li>
+<li>Site speed checked on mobile. See our <a href="/blog/website-speed-optimisation-uk/">site speed guide</a>.</li>
+</ul>
+<h3>Launch day</h3>
+<ul>
+<li>DNS switched at a quiet trading time.</li>
+<li>Redirects spot-checked from the top pages by traffic and links.</li>
+<li>New XML sitemap submitted in Search Console.</li>
+<li>Robots settings confirmed, with no leftover staging blocks.</li>
+</ul>
+<h3>After launch</h3>
+<ul>
+<li>Monitor Search Console coverage, crawl errors and 404s daily for the first weeks.</li>
+<li>Compare organic traffic and revenue with benchmarks.</li>
+<li>Fix redirect gaps as soon as they appear.</li>
+<li>Run a full <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> once the site has settled.</li>
+</ul>
+<p>Some movement in rankings during the first few weeks is normal while search engines process redirects. A sustained drop usually points to a specific fault that can be found and fixed.</p>
+
+<h2>Timelines and costs</h2>
+<p>Prism Works Studio handles Shopify and Shopify Plus migrations through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. Ecommerce builds typically take five to twelve weeks depending on catalogue size, integrations and design. Our ecommerce site projects are usually priced between £1,500 and £3,500; larger or more complex migrations are scoped and quoted individually. Shopify's own platform fees and any app costs are separate. See the <a href="/pricing/">pricing page</a>, and our <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost guide</a> for wider context.</p>
+<p>Ongoing SEO after launch can run on a monthly retainer, which our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains alongside paid media and conversion work.</p>
+
+<h2>Common migration mistakes</h2>
+<p>Most migration problems are predictable, which means they can be prevented:</p>
+<ul>
+<li><strong>Redirecting everything to the home page.</strong> This throws away the relevance of each old page. Map pages one to one wherever an equivalent exists.</li>
+<li><strong>Forgetting image and PDF URLs.</strong> Images that rank in Google Images, and documents that earn links, need redirects too.</li>
+<li><strong>Leaving staging blocks in place.</strong> A password-protected or noindexed site at launch can drop out of search quickly. Check robots settings on launch day.</li>
+<li><strong>Changing everything at once.</strong> New platform, new URLs, new design, new copy and new navigation in one go makes any drop very hard to diagnose.</li>
+<li><strong>Losing filtered and faceted pages.</strong> If the old site had valuable filtered category pages ranking for specific searches, plan equivalent collection pages on Shopify.</li>
+<li><strong>Launching at peak season.</strong> Avoid switching platforms just before Black Friday, Christmas or your busiest trading period.</li>
+<li><strong>Not testing tracking.</strong> Broken purchase tracking after launch makes it impossible to judge the migration or keep ad campaigns optimised.</li>
+</ul>
+
+<h2>Apps, themes and integrations</h2>
+<p>Shopify relies on apps for many features that other platforms build in, such as reviews, subscriptions, advanced filtering and some marketing tools. List every function the current site performs, then decide which ones Shopify handles natively, which need an app and which can be dropped. Too many apps can slow a store down and add scripts that affect site speed, so choose carefully.</p>
+<p>Check integrations early: accounting software such as Xero or QuickBooks, stock and warehouse systems, courier labels, email marketing platforms and any marketplace connections. Integrations often take longer to test than the storefront itself. Choose a theme that is fast, well supported and outputs clean structured data, and customise it rather than rebuilding everything from scratch unless you have a clear reason.</p>
+
+<p>Finally, agree who signs off each stage. A migration touches marketing, operations, customer service and finance, so a short sign-off list for products, payments, shipping, tracking and redirects avoids last-minute surprises. Keep the old platform available in read-only form for a few weeks after launch in case you need to check old settings, order details or content that was missed.</p>
+
+<h2>FAQs</h2>
+<h3>How do I do a Shopify Plus migration UK businesses can trust without losing SEO?</h3>
+<p>Inventory every URL, build a one-to-one 301 redirect map, carry content and metadata across unchanged, check structured data on staging, then monitor Search Console closely after launch.</p>
+<h3>Will I lose rankings when moving to Shopify?</h3>
+<p>Short-term movement is common, but well-planned migrations usually recover. Lasting drops tend to come from missed redirects, removed content or broken internal links.</p>
+<h3>Can I keep my existing URLs on Shopify?</h3>
+<p>Mostly not, because Shopify uses fixed paths such as /products/ and /collections/. That is why a complete redirect map is essential.</p>
+<h3>Can customer passwords be migrated?</h3>
+<p>No. Passwords cannot be transferred, so customers need to activate new accounts. A clear activation email at launch keeps friction low.</p>
+<h3>Do I need Shopify Plus or will standard Shopify do?</h3>
+<p>Many UK stores run well on standard Shopify. Plus suits higher volume, complex checkout needs, B2B or multiple regional stores. Check Shopify's current plan terms before deciding.</p>
+<h3>How long does a Shopify migration take?</h3>
+<p>Ecommerce projects typically take five to twelve weeks, depending on catalogue size, data complexity, integrations and design work.</p>
+<p>If you are planning a move to Shopify or Shopify Plus, <a href="/contact/">book a free discovery call</a> and we will talk through your current setup, the main SEO risks and a realistic migration plan.</p>
+`,
+  },
+  {
+    slug: 'tiktok-ads-agency-uk',
+    seoTitle: 'TikTok Ads Agency UK: When It Works and What It Costs',
+    title: 'TikTok Ads Agency UK: When TikTok Works, Creative, Tracking and Costs',
+    description: 'A TikTok ads agency UK guide: when TikTok suits your brand, what creative wins, how to track sales properly and which costs to compare before you hire.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A TikTok ads agency plans, produces and manages paid campaigns on TikTok so that short vertical videos turn into measurable sales or leads. For most UK businesses TikTok works when the product is visual, the price suits a quick decision and there is budget to test several creative ideas before judging the channel.</p>
+<p>This guide covers when TikTok is worth it, what good creative looks like, how to track it properly, what to compare when you look at costs, and the questions to ask any agency before you sign. If you already run Facebook and Instagram, our <a href="/blog/meta-ads-agency-uk/">Meta ads agency guide</a> is a useful companion, because many of the same principles apply.</p>
+
+<h2>When TikTok ads work for UK businesses</h2>
+<p>TikTok is an entertainment feed first. People are not searching for a product, so the advert has to earn attention in the first second and then make the offer obvious. That makes it a demand creation channel, closer to Meta than to Google Search, where people arrive with intent already formed.</p>
+<p>It tends to suit businesses with a few things in common:</p>
+<ul>
+<li><strong>A product you can show.</strong> Beauty, fashion, home, gadgets, food and drink, fitness and hobby products all demonstrate well on video.</li>
+<li><strong>A price that suits a quick decision.</strong> Lower and mid-priced items convert more readily from a scroll than considered purchases do.</li>
+<li><strong>A margin that can absorb testing.</strong> The first few weeks are about learning which hooks work, so a thin margin makes the channel hard to prove.</li>
+<li><strong>An audience that uses the app.</strong> TikTok skews younger, though UK usage across older age groups has grown steadily. Check your own customer data rather than assuming.</li>
+</ul>
+<p>It is usually a poorer fit for high-ticket B2B services, regulated financial products where every claim needs compliance sign-off, and businesses that cannot produce video regularly. For B2B lead generation, <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads</a> or search are normally a better starting point.</p>
+
+<h3>TikTok compared with other paid channels</h3>
+<table>
+<thead><tr><th>Channel</th><th>How people arrive</th><th>Best for</th><th>Main creative need</th></tr></thead>
+<tbody>
+<tr><td>TikTok Ads</td><td>Scrolling for entertainment</td><td>Visual products, new audiences, launches</td><td>Native, fast vertical video, refreshed often</td></tr>
+<tr><td>Meta (Facebook and Instagram)</td><td>Scrolling feeds and stories</td><td>Ecommerce, retargeting, local offers</td><td>Mix of video, static and carousel</td></tr>
+<tr><td>Google Search</td><td>Typing a need</td><td>Capturing existing demand</td><td>Relevant ad copy and landing pages</td></tr>
+<tr><td>Google Shopping</td><td>Searching for a product</td><td>Ecommerce with a clean feed</td><td>Product data and images</td></tr>
+<tr><td>YouTube</td><td>Watching longer content</td><td>Explaining, consideration, reach</td><td>Video with a clear opening hook</td></tr>
+</tbody>
+</table>
+<p>Most businesses do not choose one channel in isolation. TikTok often creates the first moment of interest, and search or Shopping then catches the person when they come back to buy. That is why TikTok works best as part of a wider paid media plan.</p>
+
+<h2>Creative: the part that decides results</h2>
+<p>On TikTok the creative does much of the work that targeting does elsewhere. The algorithm finds people who respond to a video, so a strong video with broad targeting usually beats a weak video with careful targeting.</p>
+<p>What tends to work:</p>
+<ul>
+<li><strong>A hook in the first second.</strong> A question, a bold claim you can back up, a surprising visual or the product in use straight away.</li>
+<li><strong>Native style.</strong> Videos that look like normal TikTok content, shot on a phone with captions and natural sound, often outperform polished brand films.</li>
+<li><strong>One message per video.</strong> Show the problem, the product solving it and the offer. Do not try to explain everything.</li>
+<li><strong>Several angles at once.</strong> Test different hooks, demonstrations, before and after, unboxing and creator-style reviews to see which angle the audience responds to.</li>
+<li><strong>Regular refreshes.</strong> Even a winning advert tires. Plan to add new variations every few weeks.</li>
+</ul>
+<p>Creator content (sometimes called UGC) is a common route, but any claims made by creators still need to follow the CAP Code, and paid partnerships must be clearly labelled as advertising. If you sell in a regulated area, approval rests with your own compliance team.</p>
+
+<h2>Tracking TikTok ads properly</h2>
+<p>TikTok reports conversions in its own dashboard, but platform numbers are rarely the full truth. Browser privacy controls, cookie consent choices and view-through attribution all affect what gets counted. A sensible setup includes:</p>
+<ul>
+<li><strong>TikTok Pixel</strong> on the site, firing the standard events (view content, add to cart, initiate checkout, purchase) with values.</li>
+<li><strong>Events API</strong> sending server-side conversions, which helps fill gaps that browser tracking misses.</li>
+<li><strong>A consent banner</strong> that respects UK GDPR and PECR, with tags firing only when permission is given.</li>
+<li><strong>GA4</strong> with UTM-tagged links, so you can compare TikTok traffic with other channels in one place. See our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>.</li>
+<li><strong>A blended view</strong> of total revenue against total ad spend, so you can see whether the business grows when TikTok spend rises.</li>
+</ul>
+<p>Expect TikTok to influence searches and direct visits that it never gets credit for. That is why judging the channel on overall sales, new customer numbers and branded search trends gives a fairer picture than the in-app return figure alone.</p>
+
+<h2>TikTok ads costs to compare</h2>
+<p>When you compare agencies, separate three costs, because they are often bundled in ways that make quotes hard to read:</p>
+<ol>
+<li><strong>Ad spend.</strong> Paid directly to TikTok. You set the budget, and it should sit in your own ad account.</li>
+<li><strong>Management.</strong> Strategy, campaign build, testing, reporting and optimisation.</li>
+<li><strong>Creative production.</strong> Scripting, filming, editing and creator fees. This can be a large share of the real cost.</li>
+</ol>
+<p>Prism Works Studio runs TikTok Ads within our <a href="/services/paid-media/">paid media service</a>. Our monthly retainers start at £350 (Launch), £750 (Growth) and £1,500 (Scale), with ad spend paid separately to the platform. The <a href="/pricing/">pricing page</a> sets out what each plan covers, and we agree the scope of creative and channels with you before any work starts. Our wider <a href="/blog/ppc-management-cost-uk/">PPC management cost guide</a> explains how to compare paid media quotes in general.</p>
+<p>Whoever you choose, ask how many new creative variations a month the fee covers, whether creator fees are extra, and who owns the videos afterwards.</p>
+
+<h2>TikTok ads agency checklist</h2>
+<p>Use this before you launch or hire:</p>
+<ul>
+<li>Your product is visual and suits a quick purchase decision.</li>
+<li>Your margin allows a testing period before the channel is judged.</li>
+<li>The ad account, pixel and business centre are owned by your business, not the agency.</li>
+<li>TikTok Pixel and Events API are installed and tested with purchase values.</li>
+<li>Consent management is in place and respects UK GDPR and PECR.</li>
+<li>GA4 and UTM tagging are set up so channels can be compared.</li>
+<li>You have at least five to ten creative variations ready for the first test.</li>
+<li>There is a plan for fresh creative every few weeks.</li>
+<li>Landing pages load quickly on mobile and match the advert. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers this.</li>
+<li>Success measures are agreed in advance, including blended revenue and new customer numbers.</li>
+<li>Claims in adverts and creator content follow the CAP Code.</li>
+</ul>
+
+<h2>Questions to ask a TikTok ads agency</h2>
+<ul>
+<li>How will you decide whether TikTok suits our product before we spend heavily?</li>
+<li>Who produces the creative, and how many variations do you test each month?</li>
+<li>How do you handle tracking, consent and the Events API?</li>
+<li>What will you report, and how do you separate platform numbers from blended results?</li>
+<li>Who owns the account, pixel and creative if we part ways?</li>
+<li>What is the notice period, and what happens to any testing work in progress?</li>
+</ul>
+<p>Our guide to <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency</a> has more general questions that apply here too. If you sell online, our <a href="/sectors/ecommerce/">ecommerce marketing</a> page shows how TikTok fits alongside search, Shopping and email.</p>
+
+<h2>How long before TikTok ads show results?</h2>
+<p>The first two to four weeks are usually a learning phase: testing hooks, finding audiences the algorithm responds to and fixing tracking gaps. Paid results typically settle over three to six months as winning creative is scaled and weaker ideas are dropped. A business that expects profit in the first week often switches off a channel that might have worked with more testing.</p>
+<p>A sensible approach is to set a fixed test budget, agree what counts as a promising signal (for example cost per add to cart or cost per new customer within a range), and review at a set date rather than reacting day to day.</p>
+
+<h2>FAQs</h2>
+<h3>What does a TikTok ads agency UK actually do?</h3>
+<p>A TikTok ads agency in the UK plans campaigns, sets up tracking, sources or produces creative, runs tests and reports on results. A good one will also tell you honestly if TikTok is the wrong channel for your product.</p>
+<h3>Is TikTok advertising worth it for small businesses?</h3>
+<p>It can be if your product is visual and you can produce video regularly. If you cannot create new content every few weeks, results tend to fade quickly, and search or Meta may be a better first step.</p>
+<h3>Do I need professional video for TikTok ads?</h3>
+<p>Not usually. Native, phone-shot content with captions often performs better than polished films. What matters most is a strong hook, a clear demonstration and a simple offer.</p>
+<h3>How much should I spend on TikTok ads?</h3>
+<p>There is no single right figure. Set a test budget your margin can absorb for several weeks, then scale what works. Ad spend is paid directly to TikTok and is separate from any agency fee.</p>
+<h3>Can TikTok ads work for B2B?</h3>
+<p>Occasionally, for brand awareness or recruitment, but most B2B lead generation works better on LinkedIn or Google Search, where you can reach people by job role or by what they are searching for.</p>
+<h3>How do I know if TikTok ads are driving sales?</h3>
+<p>Use the TikTok Pixel and Events API, tag links for GA4 and watch blended revenue, new customer numbers and branded search. Platform figures alone can overstate or understate the effect.</p>
+<p>If you are weighing up TikTok alongside your other channels, <a href="/contact/">book a free discovery call</a> and we will talk through whether it suits your product, what to test first and how to measure it properly.</p>
+`,
+  },
+  {
+    slug: 'youtube-ads-agency-uk',
+    seoTitle: 'YouTube Ads Agency UK: Formats, Targeting and Measuring',
+    title: 'YouTube Ads Agency UK: Formats, Targeting and How to Measure Results',
+    description: 'YouTube ads agency UK guide: which ad formats suit which goals, how targeting works, how to measure views into sales, and what to ask before you hire.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A YouTube ads agency plans, builds and manages video campaigns on YouTube through Google Ads, so your videos reach the right UK viewers and lead to measurable enquiries or sales. YouTube works well for businesses that need to explain a product, build trust before a purchase or reach new audiences at scale, provided the opening seconds of each video are strong.</p>
+<p>This guide explains the main YouTube ad formats, how targeting works, how to measure results honestly and what to ask an agency. Because YouTube runs inside Google Ads, our <a href="/blog/google-ads-agency-uk/">Google Ads agency guide</a> is useful background.</p>
+
+<h2>Why UK businesses use YouTube advertising</h2>
+<p>YouTube sits between social feeds and search. People go there to learn, compare and be entertained, often with the sound on and for longer than on other platforms. That gives advertisers time to explain something, which is hard on a fast-scrolling feed.</p>
+<p>It tends to suit:</p>
+<ul>
+<li><strong>Products that need explaining.</strong> Software, home improvement, education courses, considered ecommerce purchases and services with a process.</li>
+<li><strong>Brands building trust.</strong> Demonstrations, customer stories you are allowed to share, and behind-the-scenes content help people feel confident before they buy.</li>
+<li><strong>Retargeting.</strong> Showing a video to people who visited your site but did not convert.</li>
+<li><strong>Reach at a sensible cost.</strong> Short formats can put a brand in front of many people in a region or interest group.</li>
+</ul>
+<p>It is weaker for very low-budget accounts that cannot afford a test period, and for businesses with no video at all. A simple, clear video shot well is usually enough to start.</p>
+
+<h2>YouTube ad formats compared</h2>
+<table>
+<thead><tr><th>Format</th><th>What it is</th><th>Best for</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Skippable in-stream</td><td>Plays before or during videos; skippable after five seconds</td><td>Action and consideration</td><td>Weak openings get skipped</td></tr>
+<tr><td>Non-skippable in-stream</td><td>Short advert viewers must watch</td><td>Awareness with a fixed message</td><td>Can feel intrusive; keep it tight</td></tr>
+<tr><td>Bumper</td><td>Six-second non-skippable advert</td><td>Reach and reminders</td><td>Room for one idea only</td></tr>
+<tr><td>In-feed</td><td>Appears in search results and recommendations</td><td>Consideration and channel growth</td><td>Thumbnail and title matter most</td></tr>
+<tr><td>Shorts</td><td>Vertical video in the Shorts feed</td><td>Mobile reach and action</td><td>Needs native vertical creative</td></tr>
+<tr><td>Demand Gen and Performance Max</td><td>Google campaign types that include YouTube placements</td><td>Conversion-focused accounts</td><td>Less control over where video runs</td></tr>
+</tbody>
+</table>
+<p>Many accounts use YouTube inside <a href="/blog/performance-max-guide-uk/">Performance Max</a> without realising it. That can work, but a dedicated video campaign gives clearer control and reporting when video is a priority.</p>
+
+<h2>Targeting on YouTube</h2>
+<p>YouTube targeting runs through Google Ads, which gives it some of the strongest audience options of any video platform:</p>
+<ul>
+<li><strong>Custom segments</strong> built from search terms people have used on Google, or from types of websites they visit. This is useful for reaching people already researching your category.</li>
+<li><strong>Your data.</strong> Website visitors, customer lists (uploaded in line with UK GDPR) and people who have watched your videos.</li>
+<li><strong>In-market and life event audiences</strong> such as people moving house or researching a purchase type.</li>
+<li><strong>Topics and placements</strong> where you choose subject areas or specific channels.</li>
+<li><strong>Location, language and device</strong>, which matters for UK-only or regional businesses.</li>
+</ul>
+<p>As with most modern ad platforms, broader targeting with strong creative often outperforms very narrow targeting. Start with a few clear audiences, compare them, and let data guide where budget goes.</p>
+
+<h2>Creative that works on YouTube</h2>
+<p>Most results are decided in the first five seconds, because that is when a skippable advert can be skipped. Brief the opening first:</p>
+<ul>
+<li>Show the product, the problem or the person speaking straight away. No long logo intros.</li>
+<li>Say who the video is for, so the right people stay and others skip cheaply.</li>
+<li>Explain one idea clearly, with on-screen text for people watching without sound.</li>
+<li>Finish with a clear call to action and a matching landing page.</li>
+<li>Make versions in different lengths and aspect ratios: 15 to 30 seconds horizontal, plus vertical cuts for Shorts.</li>
+</ul>
+<p>Claims in video adverts must follow the CAP Code, and regulated sectors should have their compliance team approve scripts before production. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> covers how video can also serve organic channels.</p>
+
+<h2>Measuring YouTube ads</h2>
+<p>Views are not results. A sensible measurement setup includes:</p>
+<ul>
+<li><strong>Conversion tracking in Google Ads</strong> for enquiries and purchases, with values where possible.</li>
+<li><strong>GA4</strong> linked to Google Ads, so you can see what video viewers do on your site. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> walks through it.</li>
+<li><strong>View-through and engaged-view conversions</strong>, treated with care, because they show influence rather than direct clicks.</li>
+<li><strong>Branded search trends</strong>, since good video often lifts people searching for your name.</li>
+<li><strong>Blended revenue against total spend</strong>, to see whether the business grows as video spend rises.</li>
+<li><strong>Lift studies</strong> on larger budgets, which compare people who saw an advert with people who did not.</li>
+</ul>
+<p>Expect YouTube to look weaker on last-click reports than search. That does not mean it is not working; it means you need a fuller view of the journey.</p>
+
+<h2>YouTube advertising costs</h2>
+<p>Separate the costs when you compare quotes: ad spend paid to Google, campaign management, and video production. Production can be anything from a simple phone-shot demonstration to a full shoot.</p>
+<p>Prism Works Studio runs YouTube Ads within our <a href="/services/paid-media/">paid media service</a>, alongside search, Shopping and social. Monthly retainers are £350 (Launch), £750 (Growth) and £1,500 (Scale), with ad spend paid separately. See the <a href="/pricing/">pricing page</a> for what each plan includes; video production scope is agreed with you before work starts. The <a href="/blog/ppc-management-cost-uk/">PPC management cost guide</a> explains how to compare management fees.</p>
+
+<h2>YouTube ads checklist</h2>
+<ul>
+<li>A clear goal for each campaign: reach, consideration or conversions.</li>
+<li>The YouTube channel and Google Ads account are owned by your business.</li>
+<li>Google Ads and GA4 are linked and conversion tracking is tested.</li>
+<li>Consent management respects UK GDPR and PECR.</li>
+<li>At least two or three video variations with different openings.</li>
+<li>Horizontal and vertical versions ready for in-stream and Shorts.</li>
+<li>Captions or on-screen text for silent viewing.</li>
+<li>Audience lists built from site visitors and video viewers.</li>
+<li>A landing page that matches the video message and loads quickly on mobile.</li>
+<li>Agreed success measures beyond views, reviewed on a set date.</li>
+</ul>
+
+<h2>Questions to ask a YouTube ads agency</h2>
+<ul>
+<li>Which formats would you start with for our goal, and why?</li>
+<li>Who writes and produces the video, and how many versions do you test?</li>
+<li>How will you separate YouTube's effect from search and other channels?</li>
+<li>Will you run YouTube as its own campaign or inside Performance Max?</li>
+<li>Who owns the channel, videos and ad account?</li>
+</ul>
+<p>If you sell online, our <a href="/sectors/ecommerce/">ecommerce marketing</a> page shows how video fits with Shopping and search. For short-form social video, see our <a href="/blog/meta-ads-agency-uk/">Meta ads guide</a>.</p>
+
+<h2>Common YouTube advertising mistakes</h2>
+<p>Several mistakes come up again and again when UK businesses first try YouTube, and most are easy to avoid once you know them.</p>
+<ul>
+<li><strong>Running a TV-style advert unchanged.</strong> A slow build-up with the brand at the end works on television, where viewers cannot skip. On YouTube, the same advert is often skipped before the message lands.</li>
+<li><strong>Judging the channel on last-click sales after two weeks.</strong> Video influences people who buy later through search or by typing your address. Give campaigns time and look at the whole picture.</li>
+<li><strong>Letting adverts run on unsuitable content.</strong> Review where adverts appear, add content exclusions and exclude placements that do not fit your brand.</li>
+<li><strong>Using one video for every audience.</strong> A first-time viewer needs a different message from someone who visited your pricing page yesterday. Even two versions, one for new audiences and one for retargeting, make a difference.</li>
+<li><strong>Sending viewers to the home page.</strong> Link to a page that continues the story the video started, with the same offer and wording.</li>
+<li><strong>Ignoring frequency.</strong> Showing the same advert too often to the same people wastes budget and can annoy them. Set sensible frequency caps on awareness campaigns.</li>
+</ul>
+<p>Fixing these usually costs nothing but attention, and it often improves results more than raising the budget.</p>
+
+<h2>FAQs</h2>
+<h3>What does a YouTube ads agency UK do?</h3>
+<p>A YouTube ads agency in the UK chooses formats, builds audiences, briefs or produces video, sets up conversion tracking and manages budgets through Google Ads, then reports on results against agreed goals.</p>
+<h3>How much does YouTube advertising cost in the UK?</h3>
+<p>Ad spend is set by you and paid to Google, separate from management and production. Costs per view vary by audience, format and competition, so a test budget is the best way to learn your own numbers.</p>
+<h3>Do I need a professional video for YouTube ads?</h3>
+<p>No. A clear, well-lit video with a strong opening, captions and one message often works. Production quality matters less than relevance and the first five seconds.</p>
+<h3>Are YouTube Shorts ads worth running?</h3>
+<p>They can be for mobile audiences and products that demonstrate quickly. They need native vertical video rather than a cropped horizontal advert.</p>
+<h3>How long should a YouTube advert be?</h3>
+<p>For skippable adverts, 15 to 30 seconds is a common starting point, with the key message early. Bumpers are six seconds. Longer videos can work for retargeting people who already know you.</p>
+<h3>How do I measure if YouTube ads are working?</h3>
+<p>Track conversions in Google Ads and GA4, watch branded search and blended revenue, and treat view-through conversions as a signal of influence rather than direct sales.</p>
+<p>If you are considering YouTube for your business, <a href="/contact/">book a free discovery call</a> and we will talk through which formats suit your goal, what video you need and how to measure it.</p>
+`,
+  },
 ];
