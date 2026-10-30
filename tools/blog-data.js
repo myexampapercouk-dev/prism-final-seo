@@ -10121,7 +10121,7 @@ module.exports = [
   },
   {
     slug: 'ecommerce-seo-checklist',
-    seoTitle: 'Ecommerce SEO Checklist: Practical Checks for UK Online Stores',
+    seoTitle: 'Ecommerce SEO Checklist for UK Online Stores',
     title: 'Ecommerce SEO Checklist: A Step-by-Step Guide for UK Online Stores',
     description: 'Ecommerce SEO checklist for UK stores: technical, category, product, content, links and tracking checks to work through in order, on any platform.',
     date: '2026-10-30',
