@@ -10119,4 +10119,610 @@ module.exports = [
 <p>Yes, if the site has enough traffic to build audiences. Small, well-segmented campaigns with tailored messages and frequency control are often a sensible addition once core search or social campaigns are running.</p>
 `,
   },
+  {
+    slug: 'ecommerce-seo-checklist',
+    seoTitle: 'Ecommerce SEO Checklist: Practical Checks for UK Online Stores',
+    title: 'Ecommerce SEO Checklist: A Step-by-Step Guide for UK Online Stores',
+    description: 'Ecommerce SEO checklist for UK stores: technical, category, product, content, links and tracking checks to work through in order, on any platform.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/sectors/ecommerce/'],
+    body: `
+<p>An ecommerce SEO checklist is a structured list of the technical, on-page, content and tracking checks that help an online store rank in Google. Work through it in order: make sure search engines can crawl and index the right pages, then improve category and product pages, then build content, links and measurement on top.</p>
+<p>The checks below apply to Shopify, WooCommerce and most other platforms. Use it for a new store before launch or to audit an existing one. For a deeper technical pass, pair it with our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a>.</p>
+
+<h2>How to use this ecommerce SEO checklist</h2>
+<p>Do not try to fix everything at once. Start with anything that blocks indexing, because no amount of copywriting helps a page Google cannot see. Then prioritise pages with the most commercial value, usually your main categories and best-selling products. Keep a simple spreadsheet with each check, its status, the pages affected and who owns the fix.</p>
+<table>
+<thead><tr><th>Stage</th><th>Focus</th><th>Why it comes here</th></tr></thead>
+<tbody>
+<tr><td>1. Crawl and index</td><td>Robots, sitemaps, canonicals, status codes</td><td>Nothing ranks if it is not indexed correctly</td></tr>
+<tr><td>2. Site structure</td><td>Navigation, URLs, internal links, filters</td><td>Shapes how authority flows to key pages</td></tr>
+<tr><td>3. Category pages</td><td>Keywords, copy, titles</td><td>Usually the biggest commercial search demand</td></tr>
+<tr><td>4. Product pages</td><td>Unique copy, images, schema</td><td>Wins long-tail and branded product searches</td></tr>
+<tr><td>5. Speed and UX</td><td>Core Web Vitals, mobile</td><td>Affects rankings and conversion</td></tr>
+<tr><td>6. Content and links</td><td>Guides, digital PR</td><td>Builds topical authority and trust</td></tr>
+<tr><td>7. Tracking</td><td>Search Console, GA4</td><td>Shows what is working and what to fix next</td></tr>
+</tbody>
+</table>
+
+<h2>1. Crawling and indexing</h2>
+<ul>
+<li>The robots.txt file does not block categories, products, CSS or JavaScript.</li>
+<li>No important page carries a noindex tag by mistake, especially after a launch from a staging site.</li>
+<li>An XML sitemap lists categories, products and key pages, and is submitted in Google Search Console.</li>
+<li>Each page has a self-referencing canonical tag, and variant or filtered URLs canonicalise to the right parent.</li>
+<li>There is one version of the site: HTTPS only, with or without www, and the other versions redirect.</li>
+<li>Broken internal links and 404 errors are fixed or redirected to the closest relevant page.</li>
+<li>Redirect chains are kept short, ideally one hop.</li>
+<li>Search Console's page indexing report shows no unexpected spikes in excluded or duplicate pages.</li>
+</ul>
+
+<h2>2. Site structure and URLs</h2>
+<ul>
+<li>Main categories are reachable from the main navigation within a click or two of the home page.</li>
+<li>URLs are short, readable and use hyphens, for example /womens-walking-boots/.</li>
+<li>Breadcrumbs appear on category and product pages and reflect the real hierarchy.</li>
+<li>Faceted filters do not create thousands of indexable URLs; only valuable filter combinations get their own indexable page.</li>
+<li>Sorting and tracking parameters are not indexed.</li>
+<li>Pagination is crawlable with normal links, so deeper products can still be found.</li>
+<li>Out-of-stock products are handled deliberately: keep the page if the item returns, redirect if it is gone for good.</li>
+</ul>
+
+<h2>3. Category pages</h2>
+<p>Category pages often target the most valuable searches, such as "oak dining tables" or "men's running shoes". Check that:</p>
+<ul>
+<li>Each main category targets one clear keyword theme, without two categories competing for the same term. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to map them.</li>
+<li>The title tag includes the category keyword and a reason to click, within about 60 characters.</li>
+<li>The meta description summarises the range and, where true, UK delivery or returns information.</li>
+<li>The H1 is clear and matches the category.</li>
+<li>There is a short, helpful intro and, where useful, buying advice below the products.</li>
+<li>Related categories and guides are linked from the page.</li>
+</ul>
+
+<h2>4. Product pages</h2>
+<ul>
+<li>Every important product has a unique description, not just the manufacturer's text.</li>
+<li>Product titles reflect how people search: brand, product type and key attributes.</li>
+<li>Images are high quality, compressed, with descriptive file names and alt text.</li>
+<li>Price, stock status, delivery and returns information are visible near the buy button.</li>
+<li>Product structured data is present and accurate, including price in GBP and availability.</li>
+<li>Variants (size, colour) do not create separate thin pages unless each genuinely deserves one.</li>
+<li>Common questions are answered on the page, for example sizing, materials and care.</li>
+</ul>
+<p>Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains which structured data types are worth adding to product pages.</p>
+
+<h2>5. Speed, mobile and user experience</h2>
+<ul>
+<li>Core Web Vitals pass, or are improving, for mobile on key templates. See our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a>.</li>
+<li>Images are served at the right size in modern formats.</li>
+<li>Unused apps, plugins and scripts are removed.</li>
+<li>The site works well on mobile: readable text, tappable buttons and a simple checkout.</li>
+<li>Pop-ups do not block content on arrival, especially on mobile.</li>
+<li>Checkout friction is low, with guest checkout and familiar payment methods available.</li>
+</ul>
+<p>Speed and usability affect sales as much as rankings. Treat them as one piece of work.</p>
+
+<h2>6. Content and links</h2>
+<ul>
+<li>Buying guides and comparisons answer questions your category pages cannot, and link to relevant products.</li>
+<li>Content targets real search demand rather than a posting schedule.</li>
+<li>Old, thin or overlapping blog posts are merged, improved or removed.</li>
+<li>Your brand has a clear About page, contact details and policies, which help trust.</li>
+<li>You earn links through genuinely newsworthy or useful content rather than buying them. Our <a href="/blog/digital-pr-link-building-uk/">digital PR and link building guide</a> explains how.</li>
+<li>Content is structured so AI search features can quote it: clear answers, headings and lists.</li>
+</ul>
+
+<h2>7. Marketplaces and shopping feeds</h2>
+<ul>
+<li>If you sell on Amazon or eBay, listings use the same keyword research and product data as your site.</li>
+<li>Your product feed for Google Merchant Center is accurate, with titles and attributes that match the site.</li>
+<li>Free product listings in Google Shopping are enabled where eligible.</li>
+</ul>
+<p>We also offer marketplace listing SEO for Amazon and eBay sellers.</p>
+
+<h2>8. Tracking and reporting</h2>
+<ul>
+<li>Google Search Console is verified for the correct domain and the sitemap is submitted.</li>
+<li>GA4 ecommerce events record product views, add to basket and purchases.</li>
+<li>Organic revenue, not just traffic, is reported each month.</li>
+<li>You review pages with high impressions and low click-through rate and improve their titles.</li>
+<li>Major changes, such as launches or migrations, are logged so you can link them to ranking changes.</li>
+</ul>
+
+<h2>Common mistakes this checklist catches</h2>
+<p>When we audit online stores, the same problems come up again and again. Most are simple to fix once spotted:</p>
+<ul>
+<li><strong>Staging settings left on.</strong> A noindex tag or password protection that survived launch, quietly keeping pages out of Google.</li>
+<li><strong>Copied product descriptions.</strong> Manufacturer text used across the whole catalogue, giving Google no reason to rank the store.</li>
+<li><strong>Empty category pages.</strong> A title and a product grid, with no copy to explain what the range covers.</li>
+<li><strong>Filter bloat.</strong> Thousands of filtered URLs indexed, diluting the pages that matter.</li>
+<li><strong>Lost redirects.</strong> Old URLs from a previous platform returning 404 errors after a migration.</li>
+<li><strong>App and plugin build-up.</strong> Tools installed for a campaign and never removed, slowing every page.</li>
+<li><strong>Tracking gaps.</strong> No ecommerce events in GA4, so nobody knows which pages earn revenue.</li>
+</ul>
+<p>Fixing these rarely needs a rebuild. It needs someone to work through the list methodically and check the result in Search Console afterwards.</p>
+
+<h2>Prioritising the fixes</h2>
+<p>Once you have worked through the checklist, you will probably have more fixes than time. Sort them by impact and effort. Anything that blocks indexing comes first. Next come quick wins on high-value pages, such as rewriting titles on categories with plenty of impressions but few clicks. Larger projects, like rewriting hundreds of product descriptions or restructuring navigation, can be planned in phases. Record each change with a date so you can see its effect later.</p>
+
+<h2>Platform notes: Shopify and WooCommerce</h2>
+<p>The checks are the same on any platform, but the fixes differ. Shopify handles hosting and much of the technical setup, but has fixed URL patterns and can create duplicate product paths through collections. WooCommerce gives full control but depends heavily on hosting, theme and plugin choices. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the Shopify specifics.</p>
+
+<h2>Getting help with your ecommerce SEO</h2>
+<p>Prism Works Studio builds and optimises online stores for UK retailers. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers audits and ongoing optimisation, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> fixes technical issues at source. See how we work with retailers on our <a href="/sectors/ecommerce/">ecommerce sector page</a>, or check <a href="/pricing/">our pricing</a>. SEO results typically take 3 to 6 months to show clearly.</p>
+
+<h2>FAQs</h2>
+<h3>What should an ecommerce SEO checklist include?</h3>
+<p>It should cover crawling and indexing, site structure, category pages, product pages, speed and mobile experience, content and links, shopping feeds and tracking. Work through them in that order.</p>
+<h3>Which pages matter most for ecommerce SEO?</h3>
+<p>Category pages usually target the most valuable searches, followed by best-selling product pages. Prioritise them before blog content.</p>
+<h3>How often should I run an ecommerce SEO audit?</h3>
+<p>Run a full audit at least once or twice a year and after any major change, such as a redesign, platform move or large catalogue update. Check Search Console monthly for new issues.</p>
+<h3>Do out-of-stock products hurt SEO?</h3>
+<p>Not if handled well. Keep the page live with clear stock information if the item will return. If it is discontinued, redirect it to the closest alternative or category.</p>
+<h3>Is this checklist different for Shopify and WooCommerce?</h3>
+<p>The checks are the same; only the way you fix them changes. Shopify limits some technical settings, while WooCommerce gives more control but needs more maintenance.</p>
+<h3>How long does ecommerce SEO take to work?</h3>
+<p>Technical fixes can be picked up quickly, but meaningful ranking and revenue changes typically take 3 to 6 months, depending on competition and the starting point.</p>
+`,
+  },
+  {
+    slug: 'product-page-seo-uk',
+    seoTitle: 'Product Page SEO UK: How to Optimise Product Pages',
+    title: 'Product Page SEO UK: How to Make Product Pages Rank and Sell',
+    description: 'Product page SEO UK guide: titles, unique descriptions, images, structured data, variants and out-of-stock handling for pages that rank and convert.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Product page SEO is the work of making each product page on your store rank for the searches shoppers use when they are close to buying, such as a brand and model, a size or a specific feature. It comes down to a clear title, a unique description, good images, accurate structured data and a page that answers buyers' questions so they convert once they arrive.</p>
+<p>This guide walks through each element in turn, with UK-specific details such as GBP pricing, VAT and delivery information. For the wider picture of store optimisation, see our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a>.</p>
+
+<h2>Why product pages matter for SEO</h2>
+<p>Category pages tend to win broad searches like "leather sofas". Product pages win the specific ones: "three seater tan leather sofa", a model number, or a brand plus a feature. Each of these long-tail searches may be small on its own, but together they add up, and the people making them usually know what they want.</p>
+<p>Product pages are also where the sale happens. Every improvement that helps a page rank, such as clearer information, better images and fewer doubts, also tends to help it convert. That makes product page SEO one of the best-value tasks on an online store.</p>
+
+<h2>Product page SEO UK: the essential elements</h2>
+<table>
+<thead><tr><th>Element</th><th>What it does</th><th>Good practice</th></tr></thead>
+<tbody>
+<tr><td>Title tag</td><td>Main ranking and click signal in search results</td><td>Brand, product type and key attribute, around 60 characters</td></tr>
+<tr><td>H1 product name</td><td>Tells shoppers and Google what the page is</td><td>Clear and descriptive, not just a code</td></tr>
+<tr><td>Description</td><td>Relevance and persuasion</td><td>Unique, specific, benefit-led, scannable</td></tr>
+<tr><td>Images</td><td>Conversion and image search</td><td>Several angles, compressed, descriptive alt text</td></tr>
+<tr><td>Structured data</td><td>Price and availability in results</td><td>Product schema with GBP price and stock status</td></tr>
+<tr><td>URL</td><td>Readability and context</td><td>Short and descriptive, no unnecessary parameters</td></tr>
+<tr><td>Internal links</td><td>Authority and discovery</td><td>Breadcrumbs, related products, links from categories</td></tr>
+<tr><td>Trust information</td><td>Reduces doubt</td><td>Delivery, returns, warranty and contact details</td></tr>
+</tbody>
+</table>
+
+<h2>Writing product titles that match searches</h2>
+<p>Your product name on the page and your title tag do slightly different jobs. The on-page name should be clear to shoppers. The title tag should match how people search and give a reason to click.</p>
+<ul>
+<li>Lead with what people search for: brand, product type, then key attributes such as size, colour or material.</li>
+<li>Keep title tags to around 60 characters so they are not cut off.</li>
+<li>Avoid stuffing several variations of the same keyword.</li>
+<li>Where it is true and helpful, include a UK benefit such as free UK delivery.</li>
+</ul>
+<p>Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find the phrasing UK shoppers use.</p>
+
+<h2>Writing unique product descriptions</h2>
+<p>Copying the manufacturer's description is the most common product page mistake. Dozens of other retailers use the same text, so Google has no reason to prefer your page. Write your own, even if you start with your best sellers and work down.</p>
+<p>A good product description:</p>
+<ul>
+<li><strong>Opens with what it is and who it is for.</strong> One or two sentences a shopper can scan.</li>
+<li><strong>Explains benefits, not just features.</strong> "Machine washable at 30 degrees" matters more when you say why it helps.</li>
+<li><strong>Lists specifications clearly.</strong> Dimensions, materials, weight, compatibility, in a list or table.</li>
+<li><strong>Answers common questions.</strong> Sizing, fit, care, what is in the box, how long delivery takes.</li>
+<li><strong>Uses natural language.</strong> Include the terms people search for without forcing them.</li>
+</ul>
+<p>If you have thousands of products, focus first on the pages that already get impressions or sales, then on products with the most search demand. AI tools can help draft descriptions at scale, but every one should be checked by someone who knows the product, because inaccurate claims hurt trust and can create problems under UK consumer law.</p>
+
+<h2>Images and video</h2>
+<p>Shoppers cannot touch the product, so images do a lot of the selling. For SEO and conversion:</p>
+<ul>
+<li>Show several angles, scale and the product in use.</li>
+<li>Compress images and serve them in modern formats so pages stay fast. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains how.</li>
+<li>Use descriptive file names, such as tan-leather-three-seater-sofa.jpg, rather than camera defaults.</li>
+<li>Write alt text that describes the image for people using screen readers.</li>
+<li>Add short videos where they genuinely help, such as showing how something folds or fits.</li>
+</ul>
+
+<h2>Product structured data</h2>
+<p>Product schema tells Google the product name, price, currency, availability and other details in a format it can read reliably. It can help your products appear with price and stock information in search results and in Google's shopping features.</p>
+<ul>
+<li>Use GBP as the currency and keep prices in sync with the page, including any VAT display rules you follow.</li>
+<li>Show availability accurately: in stock, out of stock or pre-order.</li>
+<li>Include identifiers such as brand, SKU and GTIN where you have them.</li>
+<li>Make sure only one source outputs product schema, to avoid conflicting markup.</li>
+<li>Test with Google's Rich Results Test after changes.</li>
+</ul>
+<p>Only mark up information that is visible on the page and true. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> covers this in more depth.</p>
+
+<h2>Variants, duplicates and out-of-stock products</h2>
+<h3>Variants</h3>
+<p>If each colour or size has its own URL with almost identical content, you risk thin duplicate pages. Usually one product page with selectable variants is better. Give a variant its own page only when people search for it specifically and you can make the page genuinely different.</p>
+<h3>Duplicate paths</h3>
+<p>Some platforms make the same product reachable through several URLs, for example through different collections. Make sure canonical tags point to one main version and that internal links use it.</p>
+<h3>Out-of-stock products</h3>
+<p>If a product will return, keep the page live, show expected availability and suggest alternatives. If it is discontinued, redirect it to the closest replacement or its category, so you keep any links and rankings it earned.</p>
+
+<h2>Internal linking and trust signals</h2>
+<p>Product pages need links pointing to them. Make sure each product is linked from its category, appears in breadcrumbs and shows related or complementary products. Link from buying guides where relevant.</p>
+<p>Trust details also matter: clear delivery times and costs, returns information in line with UK consumer rights, secure payment options such as cards, PayPal, Klarna or Clearpay where you offer them, and an easy way to get in touch. These reduce hesitation and help pages convert. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers more ways to lift conversion.</p>
+
+<h2>A quick product page template</h2>
+<p>If you are rewriting many product pages, a consistent structure saves time and keeps quality even. A simple order that works for most products is:</p>
+<ol>
+<li>Product name as the H1, with brand and key attribute.</li>
+<li>Price, stock status and the add to basket button, visible without scrolling on mobile.</li>
+<li>A two or three sentence summary of what the product is and who it suits.</li>
+<li>Key benefits as a short bulleted list.</li>
+<li>A specification table with dimensions, materials and compatibility.</li>
+<li>Delivery, returns and warranty information.</li>
+<li>Answers to common questions about sizing, care or use.</li>
+<li>Related and complementary products.</li>
+</ol>
+<p>Adapt the template for your range. Fashion pages lean on sizing and fit; electrical goods lean on specifications and compatibility; gifts lean on occasions and personalisation.</p>
+
+<h2>Common product page mistakes</h2>
+<ul>
+<li>Product names that are only internal codes, which nobody searches for.</li>
+<li>The same title tag on every variant or every product in a range.</li>
+<li>Prices in structured data that do not match the page after a sale ends.</li>
+<li>Images so large they slow the page on mobile data.</li>
+<li>Delivery costs hidden until checkout, which loses buyers at the last step.</li>
+</ul>
+
+<h2>Measuring product page performance</h2>
+<p>Use Google Search Console to see which product pages earn impressions and clicks, and for which searches. Pages with plenty of impressions but few clicks usually need a better title. Pair this with GA4 ecommerce tracking, set up as in our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>, to see which pages turn visits into sales.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We build and optimise product pages for UK retailers on Shopify, WooCommerce and other platforms. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers templates, speed and structured data, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers keyword research and copy. Learn more on our <a href="/sectors/ecommerce/">ecommerce sector page</a> or see <a href="/pricing/">our pricing</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is product page SEO UK retailers should focus on first?</h3>
+<p>Start with unique descriptions and clear title tags on your best-selling and highest-demand products, then add accurate product structured data with GBP pricing and availability.</p>
+<h3>Can I use the manufacturer's product description?</h3>
+<p>You can, but it rarely ranks well because many other retailers use the same text. Writing your own descriptions gives Google a reason to prefer your page and usually converts better.</p>
+<h3>How long should a product description be?</h3>
+<p>Long enough to answer what buyers need to know. For simple products a short paragraph and a specification list may be enough; complex or expensive products usually need more detail.</p>
+<h3>Should each product variant have its own page?</h3>
+<p>Usually not. One page with selectable variants avoids thin duplicates. Give a variant its own page only when it has distinct search demand and genuinely different content.</p>
+<h3>What should I do with discontinued products?</h3>
+<p>Redirect the page to the closest replacement product or the relevant category, so you keep any links and rankings it earned.</p>
+<h3>Does product schema improve rankings?</h3>
+<p>Schema is not a direct ranking boost, but it helps Google understand your products and can make your listings show price and availability, which can improve click-through rate.</p>
+`,
+  },
+  {
+    slug: 'shopify-website-cost-uk',
+    seoTitle: 'Shopify Website Cost UK: What You Will Actually Pay',
+    title: 'Shopify Website Cost UK: Build, Theme, Apps and Running Costs Explained',
+    description: 'Shopify website cost UK: what drives the price of a build, which costs are one-off or monthly, and why themes, apps and plans are quoted separately.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Shopify website in the UK has two parts to its cost: the one-off build, which at Prism Works Studio typically falls between £1,500 and £3,500 for an ecommerce site, and ongoing running costs such as the Shopify plan, any paid theme, apps and payment fees. Those third-party costs vary with your choices and your sales, so we quote them separately rather than bundling them into one number.</p>
+<p>This guide explains what you are paying for, what pushes the price up or down, and how to budget without nasty surprises. For a platform-neutral view, see our <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost guide</a>.</p>
+
+<h2>Shopify website cost UK: the short answer</h2>
+<p>For most small and growing UK retailers, the realistic picture looks like this:</p>
+<table>
+<thead><tr><th>Cost</th><th>Type</th><th>How it is priced</th></tr></thead>
+<tbody>
+<tr><td>Design and build</td><td>One-off</td><td>Our ecommerce builds: £1,500 to £3,500, depending on scope</td></tr>
+<tr><td>Shopify plan</td><td>Monthly or annual</td><td>Paid to Shopify; varies by plan, quoted separately</td></tr>
+<tr><td>Theme</td><td>One-off (if paid)</td><td>Free or premium; varies, quoted separately</td></tr>
+<tr><td>Apps</td><td>Usually monthly</td><td>Varies by app and usage, quoted separately</td></tr>
+<tr><td>Payment processing</td><td>Per transaction</td><td>Set by the payment provider and your plan</td></tr>
+<tr><td>Domain</td><td>Annual</td><td>Small, varies by registrar</td></tr>
+<tr><td>Ongoing marketing</td><td>Monthly (optional)</td><td>Our retainers: £350, £750 or £1,500 a month</td></tr>
+</tbody>
+</table>
+<p>The build is the part you can pin down in a quote. The running costs depend on which plan and apps you need, and on how much you sell, so the honest answer is to plan for them as a separate, variable line in your budget.</p>
+
+<h2>What is included in a Shopify build</h2>
+<p>A Shopify build is more than installing a theme. A typical project covers:</p>
+<ul>
+<li><strong>Discovery and planning.</strong> Understanding your products, customers, delivery and returns, and what the store must do on day one.</li>
+<li><strong>Theme selection or design.</strong> Choosing a theme that fits your catalogue and customising it to your brand.</li>
+<li><strong>Store structure.</strong> Collections, navigation, filters and the page templates you need.</li>
+<li><strong>Product setup.</strong> Importing or entering products, variants, images and descriptions.</li>
+<li><strong>Payments, shipping and tax.</strong> UK delivery options with carriers such as Royal Mail, Evri or DPD, VAT settings and payment methods, including buy now pay later options like Klarna or Clearpay if they suit your audience.</li>
+<li><strong>Legal pages and compliance.</strong> Privacy, cookies and terms set up with UK GDPR and PECR in mind; final wording rests with you and your advisers.</li>
+<li><strong>SEO foundations.</strong> Titles, meta descriptions, clean URLs, redirects if you are moving platform, and analytics. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> explains why these matter.</li>
+<li><strong>Testing and launch.</strong> Checking the buying journey on mobile and desktop before going live.</li>
+</ul>
+
+<h2>What makes a Shopify website cost more</h2>
+<p>Two Shopify stores can look similar and cost very different amounts to build. The main drivers are:</p>
+<h3>Catalogue size and complexity</h3>
+<p>Ten simple products are quick to set up. Several hundred products with many variants, bundles or personalisation options take far longer, especially if the data needs cleaning first.</p>
+<h3>Design</h3>
+<p>Customising a well-chosen theme is efficient. Heavily bespoke layouts, custom sections and unusual interactions take more design and development time.</p>
+<h3>Integrations</h3>
+<p>Connecting stock systems, accounting software, ERP, marketplaces or fulfilment partners adds work. Each integration needs setting up and testing, and some need paid apps.</p>
+<h3>Migration</h3>
+<p>Moving from another platform means transferring products, customers and order history where possible, and redirecting every old URL so you keep your search rankings. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers that process.</p>
+<h3>Content</h3>
+<p>If you provide finished product copy and photography, the build is faster. If those need writing or improving, that is extra time well spent, because product content drives both rankings and sales.</p>
+
+<h2>Running costs: plans, themes and apps</h2>
+<p>Shopify is a hosted platform, so you pay a subscription rather than separate hosting. Shopify sets its own plan prices and changes them from time to time, so we always check current pricing with you and quote it separately from our work.</p>
+<p>Themes can be free or paid. A free theme is often a perfectly good starting point for a smaller store. A premium theme may save build time if it already does what you need.</p>
+<p>Apps are where running costs creep up. Reviews, subscriptions, upsells, wishlists, email and search tools often charge monthly, sometimes based on usage. Before adding any app we ask whether the feature is needed now, whether the theme already does it, and whether an app will slow the store down. A lean set of apps is cheaper and faster.</p>
+<p>Payment processing fees depend on your plan and payment provider. They scale with sales, so budget them as a percentage of revenue rather than a fixed sum.</p>
+
+<h2>Shopify vs other options on cost</h2>
+<p>Shopify suits most retailers who want a reliable, hosted store with low maintenance. WooCommerce can suit stores that need more control or already run on WordPress, but you take on hosting, updates and security. Neither is automatically cheaper; it depends on your catalogue and the features you need. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> and <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> set out the trade-offs.</p>
+<p>Larger, high-volume retailers sometimes outgrow standard Shopify plans. We also handle moves to Shopify Plus; see our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a> if that is on your horizon.</p>
+
+<h2>One-off costs vs ongoing costs</h2>
+<p>It helps to split your Shopify budget into two columns. The first column holds one-off costs: the design and build, any premium theme, initial product photography and copywriting, and data migration from an old platform. Once these are paid, they are done, although you may choose to invest again later for a redesign or new features.</p>
+<p>The second column holds ongoing costs: the Shopify plan, monthly app subscriptions, payment processing fees, your domain renewal, and any marketing or support you buy. These continue for as long as the store runs, and several of them grow as you sell more. Looking at both columns over the first year gives a far more accurate picture than comparing build quotes alone.</p>
+<p>When you compare quotes from different providers, check what each one includes. One quote may include product setup and SEO redirects; another may leave those for you to do. A lower build price is not a saving if you then have to pay for the missing pieces separately or lose search traffic after launch.</p>
+
+<h2>Questions to ask before you commit</h2>
+<ul>
+<li>Who owns the Shopify account, the theme licence and the domain? You should.</li>
+<li>Which apps are recommended, and what does each one do that the theme cannot?</li>
+<li>How will existing URLs be redirected if you are moving from another platform?</li>
+<li>What training or handover is included so you can manage products and orders yourself?</li>
+<li>What support is available after launch if something needs fixing?</li>
+</ul>
+
+<h2>How long a Shopify build takes</h2>
+<p>Our ecommerce builds typically take 5 to 12 weeks. A simple store with a ready catalogue sits at the shorter end. Large catalogues, integrations and migrations take longer. The biggest delays usually come from waiting for product data, images and decisions, so having those ready keeps both time and cost down.</p>
+
+<h2>How to keep your Shopify budget under control</h2>
+<ol>
+<li><strong>Write down must-haves and nice-to-haves.</strong> Launch with the essentials and add extras once the store is earning.</li>
+<li><strong>Prepare your product data.</strong> A clean spreadsheet of products, prices, variants and images saves hours.</li>
+<li><strong>Start with a good theme.</strong> Customise rather than rebuild from scratch unless you have a clear reason.</li>
+<li><strong>Be strict with apps.</strong> Every app has a running cost and can affect speed.</li>
+<li><strong>Plan for marketing.</strong> A store with no traffic earns nothing. Budget for SEO, paid ads or email from day one; our <a href="/blog/ecommerce-marketing-agency-uk/">ecommerce marketing guide</a> explains the options.</li>
+</ol>
+
+<h2>Getting a Shopify quote from Prism Works Studio</h2>
+<p>We build Shopify stores for UK retailers through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, with SEO and conversion built in. Ecommerce builds typically cost £1,500 to £3,500, and third-party costs such as the Shopify plan, any premium theme and apps are listed separately in your quote so you can see exactly where the money goes. See <a href="/pricing/">our pricing</a> or read more on our <a href="/sectors/ecommerce/">ecommerce sector page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the Shopify website cost UK businesses should budget for?</h3>
+<p>Budget for a one-off build, which at Prism Works Studio typically costs £1,500 to £3,500 for an ecommerce site, plus ongoing third-party costs for the Shopify plan, apps, any premium theme and payment fees. Those vary, so we quote them separately.</p>
+<h3>Can I build a Shopify store myself?</h3>
+<p>Yes, and many small sellers start that way. An agency adds value when you need a stronger design, a larger catalogue set up properly, integrations, migration from another platform or SEO foundations done right from the start.</p>
+<h3>Do I have to pay for a Shopify theme?</h3>
+<p>No. Free themes can work well for smaller stores. A paid theme can make sense if it already includes features you would otherwise build or add with apps.</p>
+<h3>Why are Shopify apps quoted separately?</h3>
+<p>Apps are charged by their developers, often monthly and sometimes based on usage. Prices vary and change, so we list the apps we recommend and let you see their costs separately from our build fee.</p>
+<h3>How long does it take to build a Shopify website?</h3>
+<p>Our ecommerce builds typically take 5 to 12 weeks, depending on catalogue size, design, integrations and how quickly product content is ready.</p>
+<h3>Is Shopify cheaper than WooCommerce?</h3>
+<p>Not automatically. Shopify bundles hosting into a subscription; WooCommerce needs separate hosting and more maintenance. The total depends on your catalogue, features and apps or plugins.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-seo-uk',
+    seoTitle: 'WooCommerce SEO UK: A Practical Guide for Store Owners',
+    title: 'WooCommerce SEO UK: How to Get Your WordPress Store Ranking',
+    description: 'WooCommerce SEO UK guide: fix permalinks, categories, product pages, speed, schema and duplicate content so your WordPress store ranks in Google.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>WooCommerce SEO is the work of making a WordPress-based online shop easy for Google to crawl, understand and rank: clean URLs, well-structured category and product pages, fast loading, accurate structured data and no duplicate content. Done well, it lets a UK store win searches for its products without paying for every click.</p>
+<p>This guide covers the settings, page types and technical issues that matter most, in the order we would tackle them. If you are still choosing a platform, read our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> first.</p>
+
+<h2>Why WooCommerce SEO is different</h2>
+<p>WooCommerce is a plugin that turns WordPress into a shop. That gives you a lot of freedom. You control the server, the theme, the URL structure and every line of template code. Hosted platforms limit some of those choices; WooCommerce does not.</p>
+<p>The flip side is responsibility. Nothing stops a theme from loading heavy scripts on every page, a filter plugin from creating thousands of thin URLs, or a cheap host from slowing the whole site down. Most WooCommerce SEO problems we see come from accumulated choices rather than one big mistake. A good audit, like the one in our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a>, usually finds several small issues that add up.</p>
+
+<h2>WooCommerce SEO UK: the core settings to get right</h2>
+<p>Before writing any content, check the foundations. These settings are quick to change on a new store and painful to change on an established one, because altering URLs later means redirects.</p>
+<table>
+<thead><tr><th>Setting</th><th>Where to find it</th><th>What we recommend</th></tr></thead>
+<tbody>
+<tr><td>Permalinks</td><td>Settings, Permalinks</td><td>Post name for pages and posts; a short product base such as /product/ or a shop base</td></tr>
+<tr><td>Product category base</td><td>Settings, Permalinks</td><td>Keep it short and consistent; avoid changing it once indexed</td></tr>
+<tr><td>Search engine visibility</td><td>Settings, Reading</td><td>Make sure the "discourage search engines" box is unticked after launch</td></tr>
+<tr><td>SEO plugin</td><td>Plugins</td><td>One reputable SEO plugin only, configured for titles, meta, sitemaps and canonical tags</td></tr>
+<tr><td>XML sitemap</td><td>SEO plugin settings</td><td>Include products, categories and key pages; exclude tags, attributes and thin archives</td></tr>
+<tr><td>Shop page</td><td>WooCommerce, Settings, Products</td><td>Treat it as a real landing page with copy, not an endless product grid</td></tr>
+</tbody>
+</table>
+<p>Running two SEO plugins at once is a common cause of duplicate meta tags and conflicting canonicals. Pick one and remove the other properly.</p>
+
+<h2>Category pages: your biggest opportunity</h2>
+<p>Most shoppers search for a type of product before a specific one: "women's waterproof walking boots" rather than an individual model. Those searches are best answered by category pages, which makes them the most valuable pages on most WooCommerce stores.</p>
+<p>Out of the box, WooCommerce category pages are often just a title and a grid. To give them a chance of ranking:</p>
+<ul>
+<li><strong>Map one main keyword to each category.</strong> Use our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> to find the phrasing UK shoppers actually use.</li>
+<li><strong>Add a short intro above the products.</strong> Two or three sentences that say what the range includes and who it is for.</li>
+<li><strong>Add useful copy below the grid.</strong> Buying advice, sizing notes, materials or delivery information. Write for the shopper, not for a word count.</li>
+<li><strong>Write a unique title tag and meta description.</strong> Include the category name, a reason to click and, where true, UK delivery or returns information.</li>
+<li><strong>Link to related categories and guides.</strong> This spreads authority and helps people browse.</li>
+</ul>
+
+<h2>Product pages that rank and convert</h2>
+<p>Product pages win long-tail searches: brand plus model, specific sizes, colours and materials. Many WooCommerce stores copy manufacturer descriptions word for word, which gives Google no reason to rank them over every other stockist.</p>
+<p>For each important product, write your own description, use a descriptive title that matches how people search, add clear images with meaningful file names and alt text, and answer the questions buyers ask before they buy. The short version is: unique, specific and helpful beats long and generic.</p>
+<p>Variable products need care. If every colour or size has its own indexable URL with near-identical content, you can create duplicates. In most cases one parent product URL with variations selected on the page is cleaner for SEO.</p>
+
+<h2>Filters, tags and duplicate content</h2>
+<p>Layered navigation is useful for shoppers and risky for SEO. Each combination of filters can create a new URL, and on a large catalogue that can mean tens of thousands of near-duplicate pages competing for crawl attention.</p>
+<ul>
+<li>Decide which filtered views deserve to rank (for example, a popular brand within a category) and give those a clean, indexable URL with unique copy.</li>
+<li>Keep the rest out of the index with canonical tags or noindex, and avoid linking to endless parameter combinations.</li>
+<li>Product tags are often created casually and end up as thin archive pages. Noindex them unless they serve a clear search purpose.</li>
+<li>Watch for sorting parameters such as order by price, which create duplicates of the same category.</li>
+</ul>
+<p>Duplicate content will not usually trigger a penalty, but it wastes crawl budget and splits signals across several URLs, which can hold back the page you actually want to rank.</p>
+
+<h2>Site speed and hosting</h2>
+<p>WooCommerce can be fast, but it needs help. Speed affects rankings through Core Web Vitals and affects sales directly, because slow product pages lose buyers. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains the metrics; on WooCommerce the usual causes of slowness are:</p>
+<ul>
+<li><strong>Hosting.</strong> Shared hosting that struggles under load. WooCommerce benefits from hosting built for dynamic WordPress sites, with server-side caching that excludes the basket and checkout.</li>
+<li><strong>Theme.</strong> Multipurpose themes and page builders that load large amounts of code on every page.</li>
+<li><strong>Plugins.</strong> Too many plugins, or plugins that load scripts site-wide when they are needed on one page.</li>
+<li><strong>Images.</strong> Large, uncompressed product photos. Use modern formats and correct sizes.</li>
+</ul>
+<p>Hosting, premium themes and paid plugins are third-party costs. They vary with the size of your store and the providers you choose, so we quote them separately from our own work. Fix the biggest causes first and measure again before moving on.</p>
+
+<h2>Structured data for WooCommerce</h2>
+<p>WooCommerce outputs basic product structured data, and most SEO plugins add more. Product schema can help Google show price and availability in search results. Check that:</p>
+<ul>
+<li>Price, currency (GBP) and stock status are correct and match the page.</li>
+<li>Only one plugin outputs product schema, so you do not get duplicate or conflicting markup.</li>
+<li>Breadcrumb and organisation schema are present and valid.</li>
+</ul>
+<p>Test pages with Google's Rich Results Test and fix warnings that matter. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains which types are worth adding.</p>
+
+<h2>Content beyond the shop</h2>
+<p>WordPress is a strong blogging platform, which is a real advantage for WooCommerce stores. Buying guides, comparisons and how-to articles can rank for questions your category pages cannot answer, then link shoppers on to the right products.</p>
+<p>Plan content around real questions from customers and search data, not around a posting schedule. A small number of genuinely useful guides, well linked to categories, usually does more than frequent thin posts. Our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agency guide</a> shows how content fits alongside technical and on-page work.</p>
+
+<h2>Measuring WooCommerce SEO</h2>
+<p>Set up Google Search Console and GA4 with ecommerce tracking so you can see which pages win impressions, clicks and revenue. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the ecommerce events. Track:</p>
+<ul>
+<li>Organic clicks and impressions by category and product page.</li>
+<li>Pages with high impressions and low click-through rate, which often need better titles.</li>
+<li>Organic revenue and conversion rate, not just traffic.</li>
+<li>Indexing reports in Search Console, to catch filter URLs or thin pages creeping in.</li>
+</ul>
+<p>SEO results typically take 3 to 6 months to show clearly, depending on competition and the state of the site when work starts.</p>
+
+<h2>How Prism Works Studio helps WooCommerce stores</h2>
+<p>We build and improve WooCommerce stores with SEO designed in from the start, and we fix existing stores that are underperforming. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers builds, rebuilds and technical fixes, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we work with online retailers. A new ecommerce site typically costs £1,500 to £3,500, and ongoing SEO retainers start at £350 a month; see <a href="/pricing/">our pricing</a> for details.</p>
+
+<h2>FAQs</h2>
+<h3>What is WooCommerce SEO UK?</h3>
+<p>It is the process of optimising a WooCommerce store so it ranks in Google for searches by UK shoppers. It covers technical settings, category and product pages, speed, structured data and content, with UK details such as GBP pricing and UK delivery information.</p>
+<h3>Is WooCommerce good for SEO?</h3>
+<p>Yes. WooCommerce gives you full control over URLs, templates and structured data, and WordPress is strong for content. The risk is that themes, plugins and filters can create speed and duplicate content problems if they are not managed.</p>
+<h3>Do I need an SEO plugin for WooCommerce?</h3>
+<p>In practice, yes. A reputable SEO plugin handles title tags, meta descriptions, sitemaps and canonical tags. Use one plugin only, as running two often causes conflicts.</p>
+<h3>Should I noindex product tags in WooCommerce?</h3>
+<p>Usually. Product tags tend to create thin archive pages that duplicate categories. Keep them indexed only if a tag page has a clear search purpose and unique content.</p>
+<h3>How long does WooCommerce SEO take to work?</h3>
+<p>Technical fixes can be picked up within weeks, but meaningful ranking and revenue changes typically take 3 to 6 months, depending on competition and how much work the site needs.</p>
+<h3>Can you move my WooCommerce store without losing rankings?</h3>
+<p>Yes, with careful planning. Redirect every old URL to its closest new equivalent, keep content and metadata, and monitor Search Console after launch.</p>
+`,
+  },
+  {
+    slug: 'wordpress-website-cost-uk',
+    seoTitle: 'WordPress Website Cost UK: Build and Running Costs',
+    title: 'WordPress Website Cost UK: What a Business Site Really Costs',
+    description: 'WordPress website cost UK: our small sites typically cost £1,000 to £2,000. See what drives the price and why hosting, themes and plugins are extra.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A WordPress website for a UK small business typically costs £1,000 to £2,000 to build with Prism Works Studio, and a WordPress shop using WooCommerce typically costs £1,500 to £3,500. On top of the build you will have running costs for hosting, your domain and any premium theme or paid plugins; those vary with your choices, so we quote them separately.</p>
+<p>This guide explains what goes into that price, what makes it rise, and what you need to budget after launch. If you are weighing up website costs more generally, our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> is a useful companion.</p>
+
+<h2>WordPress website cost UK at a glance</h2>
+<table>
+<thead><tr><th>Cost</th><th>Type</th><th>How it is priced</th></tr></thead>
+<tbody>
+<tr><td>Small business website build</td><td>One-off</td><td>Our price: £1,000 to £2,000</td></tr>
+<tr><td>WooCommerce shop build</td><td>One-off</td><td>Our price: £1,500 to £3,500</td></tr>
+<tr><td>Hosting</td><td>Monthly or annual</td><td>Varies by provider and site size, quoted separately</td></tr>
+<tr><td>Domain name</td><td>Annual</td><td>Varies by registrar</td></tr>
+<tr><td>Premium theme</td><td>One-off or annual licence</td><td>Optional; varies, quoted separately</td></tr>
+<tr><td>Paid plugins</td><td>Usually annual licence</td><td>Optional; varies, quoted separately</td></tr>
+<tr><td>Maintenance</td><td>Ongoing</td><td>Updates, backups and security; see below</td></tr>
+<tr><td>Marketing</td><td>Monthly (optional)</td><td>Our retainers: £350, £750 or £1,500 a month</td></tr>
+</tbody>
+</table>
+<p>WordPress itself is free software, which is why people sometimes assume a WordPress website is free. The cost lies in planning, design, building, content, hosting and keeping the site secure.</p>
+
+<h2>What you get for the build price</h2>
+<p>A typical small business WordPress website from us includes:</p>
+<ul>
+<li><strong>Planning.</strong> Agreeing the pages you need, who they are for and what you want visitors to do, such as call, book or enquire.</li>
+<li><strong>Design.</strong> A clean, mobile-first design in your brand, usually built on a lightweight theme rather than a heavy page builder.</li>
+<li><strong>Core pages.</strong> Typically home, about, services, contact and supporting pages, with a blog if you plan to publish.</li>
+<li><strong>Forms and tracking.</strong> Contact forms, GA4 and Search Console so you can see enquiries and traffic.</li>
+<li><strong>SEO foundations.</strong> Sensible URLs, title tags, meta descriptions, headings, an XML sitemap and fast loading.</li>
+<li><strong>UK compliance basics.</strong> Privacy and cookie notices set up with UK GDPR and PECR in mind; final wording rests with you and your advisers.</li>
+<li><strong>Launch and handover.</strong> Testing on mobile and desktop, then showing you how to edit pages yourself.</li>
+</ul>
+<p>Our builds typically take 3 to 5 weeks for a small website, depending on how quickly content and feedback arrive.</p>
+
+<h2>What makes a WordPress website cost more</h2>
+<h3>Number and type of pages</h3>
+<p>A five-page brochure site is quicker than a 30-page site with service pages for every location. Each unique template adds design and build time.</p>
+<h3>Custom functionality</h3>
+<p>Booking systems, member areas, calculators, directories and integrations with a CRM or accounting system all add work, and some need paid plugins.</p>
+<h3>Ecommerce</h3>
+<p>Adding WooCommerce turns a website into a shop, with products, payments, VAT, delivery and stock to configure. That is why shop builds sit in a higher price band. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> explains what a well-built store needs.</p>
+<h3>Content</h3>
+<p>If you provide finished copy and photos, the build moves faster. If we need to help shape the words, that takes more time, but it is often where the real value is, because content drives enquiries and rankings.</p>
+<h3>Redesigns and migrations</h3>
+<p>Rebuilding an existing site means mapping old URLs to new ones and keeping what already ranks. Our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> covers this. Redirects are planned before launch, not after, because lost rankings are much harder to win back than to protect in the first place.</p>
+
+<h2>Running costs after launch</h2>
+<p>A WordPress website is not finished at launch. Plan for these ongoing costs:</p>
+<h3>Hosting</h3>
+<p>Good hosting matters more on WordPress than on hosted platforms, because you are responsible for performance. Cheap shared hosting can make a site slow and unreliable. Prices vary widely by provider and by how much traffic and storage you need, so we recommend options and quote them separately.</p>
+<h3>Themes and plugins</h3>
+<p>Many sites run happily on a free theme and free plugins. Others benefit from premium licences for forms, SEO, backups or security. Licences are usually annual and their prices vary, so we list them separately and only recommend what you need.</p>
+<h3>Maintenance</h3>
+<p>WordPress, themes and plugins release updates regularly, often for security reasons. Someone needs to apply them, check nothing breaks and keep backups. You can do this yourself or have it handled for you; our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what is involved.</p>
+
+<h2>WordPress vs other platforms on cost</h2>
+<p>WordPress is a strong choice when you want ownership, flexibility and a good platform for content. Hosted website builders bundle hosting into a subscription and need less maintenance, but limit what you can change. For shops, Shopify offers a hosted alternative to WooCommerce; our <a href="/blog/shopify-agency-uk/">Shopify agency guide</a> explains how Shopify projects are scoped.</p>
+<p>There is no universally cheaper option. A WordPress website can cost less to run if it is lean and well hosted, or more if it relies on many paid plugins and needs frequent fixes.</p>
+
+<h2>Who owns what</h2>
+<p>Ownership is easy to overlook when comparing prices. With a WordPress website you should hold the domain registration, the hosting account and the admin login in your own name, with your provider given access rather than the other way round. That way you can change suppliers later without losing the site or its content.</p>
+<p>Premium theme and plugin licences are worth checking too. Some providers use their own developer licences, which can lapse if you move on. Ask for licences to be registered to your business, or at least for a clear note of which licences the site depends on and when they renew.</p>
+
+<h2>Planning a realistic first-year budget</h2>
+<p>A sensible first-year budget for a WordPress website has three parts. First, the one-off build at the price you have agreed. Second, the running costs for hosting, domain and any licences, which we list separately in our quotes. Third, the time or money you will spend on content and marketing, because a site that nobody finds will not pay for itself. It is also worth keeping a small contingency for changes you only discover you need once real visitors start using the site.</p>
+<p>Many small businesses spend most of their budget on the build and leave nothing for getting found. If your budget is tight, a simpler site with a few strong pages and some ongoing SEO usually performs better than an elaborate site with no promotion. Our <a href="/blog/seo-for-small-business-uk/">SEO for small business guide</a> explains where to start.</p>
+
+<h2>Cheap WordPress websites: what to watch for</h2>
+<p>Very low quotes often save money in ways that cost you later:</p>
+<ul>
+<li>A heavy multipurpose theme that makes the site slow.</li>
+<li>No redirects when replacing an old site, so rankings drop.</li>
+<li>No analytics or Search Console, so you cannot see what works.</li>
+<li>Plugins installed and never updated, creating security risks.</li>
+<li>Copy written without any thought for search or conversion.</li>
+</ul>
+<p>Ask any provider how they handle speed, SEO, updates and ownership of the site. You should own your domain, hosting account and content. Our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a> lists more questions to ask.</p>
+
+<h2>How to get the most from your budget</h2>
+<ol>
+<li>Be clear on the main job of the site: enquiries, bookings or sales.</li>
+<li>Prepare your content early, including photos and service descriptions.</li>
+<li>Start with the pages that matter most to customers and add more as your business grows.</li>
+<li>Choose hosting for reliability and speed, not just the lowest price.</li>
+<li>Budget for marketing so the site gets found once it is live.</li>
+</ol>
+
+<h2>Get a WordPress website quote</h2>
+<p>We design and build WordPress and WooCommerce websites for UK businesses through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. Small websites typically cost £1,000 to £2,000 and ecommerce sites £1,500 to £3,500, with hosting, themes and plugins quoted separately. Retailers can learn more on our <a href="/sectors/ecommerce/">ecommerce sector page</a>, and full details are on <a href="/pricing/">our pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the WordPress website cost UK small businesses can expect?</h3>
+<p>With Prism Works Studio, a small business WordPress website typically costs £1,000 to £2,000 to build, and a WooCommerce shop £1,500 to £3,500. Hosting, domain, premium themes and paid plugins are separate, variable costs.</p>
+<h3>Is WordPress free?</h3>
+<p>The WordPress software is free. You still pay for hosting, a domain, design and build, and any premium themes or plugins you choose.</p>
+<h3>How long does it take to build a WordPress website?</h3>
+<p>Our small website builds typically take 3 to 5 weeks. Ecommerce builds typically take 5 to 12 weeks, depending on catalogue size and integrations.</p>
+<h3>Why is hosting quoted separately?</h3>
+<p>Hosting is a third-party service and prices vary by provider, traffic and storage. Quoting it separately lets you see exactly what you pay for and keeps the account in your name.</p>
+<h3>Do WordPress websites need maintenance?</h3>
+<p>Yes. WordPress, themes and plugins need regular updates, and the site needs backups and security checks. Skipping maintenance is a common cause of hacked or broken sites.</p>
+<h3>Can I edit my WordPress website myself?</h3>
+<p>Yes. We hand over sites so you can update text, images and blog posts yourself, and we show you how at launch.</p>
+`,
+  },
 ];
