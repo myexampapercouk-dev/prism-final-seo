@@ -1,0 +1,42 @@
+# Prism Works Studio
+
+> Prism Works Studio is a UK digital marketing and ecommerce agency combining AI-powered strategy with creative execution: SEO and GEO, paid media, digital PR and content, website and ecommerce development (Shopify, WooCommerce, WordPress) and brand strategy. Contact: contact@prismworks.studio, +44 1902 937021.
+
+Monthly retainers start at £350 (Launch), £750 (Growth) and £1,500 (Scale) a month; advertising spend is paid separately. Website and ecommerce builds are quoted as separate projects.
+
+## Pages
+- [Home](https://prismworksstudio.co.uk/): UK digital marketing and ecommerce agency combining AI-powered strategy with creative execution: SEO, paid media, web design and branding.
+- [About us](https://prismworksstudio.co.uk/about-us/): A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.
+- [Services](https://prismworksstudio.co.uk/services/): SEO, GEO, paid media, digital PR, content marketing, brand strategy and website and ecommerce development on Shopify, WooCommerce and WordPress.
+- [Sectors](https://prismworksstudio.co.uk/sectors/): Digital marketing with deep sector knowledge: healthcare, hospitality, ecommerce, financial advisers, SaaS, B2B and education.
+- [Contact](https://prismworksstudio.co.uk/contact/): Book a free, no-obligation 30-minute discovery call with Prism Works Studio. Email contact@prismworks.studio or call +44 1902 937021.
+- [Pricing](https://prismworksstudio.co.uk/pricing/): Monthly retainers and one-off project starting prices.
+
+## Services
+- [SEO & GEO](https://prismworksstudio.co.uk/services/seo-geo/): SEO and generative engine optimisation for UK businesses: technical SEO, ecommerce SEO, content and visibility in Google AI Overviews and ChatGPT.
+- [Paid Media](https://prismworksstudio.co.uk/services/paid-media/): Google Ads, Google Shopping, Meta, TikTok, LinkedIn and YouTube ads managed for UK businesses, with conversion tracking set up before spend scales.
+- [Digital PR & Content](https://prismworksstudio.co.uk/services/digital-pr-content/): Digital PR and content marketing for UK brands: stories that earn coverage and quality backlinks, plus SEO-led articles and buying guides that rank.
+- [Website & Ecommerce Development](https://prismworksstudio.co.uk/services/website-ecommerce-development/): Fast, conversion-focused websites and online stores on Shopify, WooCommerce and WordPress for UK businesses, from new builds to redesigns and migrations.
+- [Brand Strategy](https://prismworksstudio.co.uk/services/brand-strategy/): Brand strategy for UK businesses: positioning, messaging and visual identity that give your website, ads and content one clear, consistent voice.
+
+## Sectors
+- [Health & Healthcare](https://prismworksstudio.co.uk/sectors/healthcare/): Digital marketing for UK private clinics, healthcare providers, wellness brands and health-tech: compliant, credible and conversion-focused.
+- [Hospitality](https://prismworksstudio.co.uk/sectors/hospitality/): Websites, SEO and paid media for UK hotels, restaurants, venues and hospitality groups that want more direct bookings and less reliance on OTAs.
+- [Ecommerce](https://prismworksstudio.co.uk/sectors/ecommerce/): Full-service ecommerce growth for UK online retailers: Shopify and WooCommerce builds, ecommerce SEO, Google Shopping, paid social and conversion optimisation.
+- [Financial Advisers](https://prismworksstudio.co.uk/sectors/financial-advisers/): Digital marketing for UK IFAs, wealth managers and mortgage brokers, planned around FCA financial promotion rules and Consumer Duty to win qualified leads.
+- [SaaS Companies](https://prismworksstudio.co.uk/sectors/saas/): Demand generation, SEO, content and paid media for UK B2B and B2C SaaS businesses focused on trial sign-ups, demos and MRR growth.
+- [B2B](https://prismworksstudio.co.uk/sectors/b2b/): Lead generation, LinkedIn marketing, SEO and account-based marketing for UK B2B companies that need qualified enquiries from business decision-makers.
+- [Education & Training](https://prismworksstudio.co.uk/sectors/education/): Digital marketing for UK training providers, e-learning platforms, universities and professional development organisations seeking course enrolments.
+
+## Guides
+- [What Is Generative Engine Optimisation (GEO)? A Guide for UK Businesses](https://prismworksstudio.co.uk/blog/what-is-generative-engine-optimisation/): Generative engine optimisation (GEO) explained: how ChatGPT, Google AI Overviews and Perplexity choose sources, and practical steps to get your business cited.
+- [How to Redesign or Migrate a Website Without Losing Your SEO Rankings](https://prismworksstudio.co.uk/blog/website-redesign-without-losing-rankings/): A step-by-step plan to redesign or migrate a website without losing SEO rankings: URL mapping, 301 redirects, content, testing and post-launch checks.
+- [Shopify vs WooCommerce for UK Businesses: Which Should You Choose?](https://prismworksstudio.co.uk/blog/shopify-vs-woocommerce-uk/): Shopify vs WooCommerce for UK online stores: costs, VAT, payments, shipping, SEO and maintenance compared, with a simple way to decide which suits you.
+- [LinkedIn Ads for B2B Lead Generation: A Practical Guide for UK Companies](https://prismworksstudio.co.uk/blog/linkedin-ads-b2b-lead-generation-uk/): How UK B2B companies use LinkedIn Ads for lead generation: targeting, ad formats, Lead Gen Forms, budgets, offers that convert and measuring cost per lead.
+- [How to Choose a Digital Marketing Agency in the UK: A Buyer’s Checklist](https://prismworksstudio.co.uk/blog/how-to-choose-a-digital-marketing-agency-uk/): How to choose a digital marketing agency in the UK: what to ask, how to check claims, contracts and pricing, red flags to avoid and a simple scoring checklist.
+- [How Much Does SEO Cost in the UK? A Plain-English Guide](https://prismworksstudio.co.uk/blog/how-much-does-seo-cost-uk/): How much SEO costs in the UK: monthly retainers, one-off audits and project pricing explained, what each level includes and how to judge an SEO quote.
+- [How UK Hotels and Restaurants Can Get More Direct Bookings](https://prismworksstudio.co.uk/blog/hotel-direct-bookings-uk/): Practical ways for UK hotels, B&Bs and restaurants to win more direct bookings and rely less on OTAs: website, booking engine, Google, ads and guest loyalty.
+- [Google Shopping Ads in the UK: A Practical Guide for Online Retailers](https://prismworksstudio.co.uk/blog/google-shopping-ads-guide-uk/): How Google Shopping ads work for UK retailers: Merchant Center feeds, Standard Shopping vs Performance Max, budgets, tracking and common mistakes to avoid.
+- [FCA-Compliant Digital Marketing for Financial Advisers: A Practical Guide](https://prismworksstudio.co.uk/blog/fca-compliant-marketing-financial-advisers/): Digital marketing for UK financial advisers within FCA rules: financial promotions, Consumer Duty, websites, SEO, social media and ads, explained simply.
+- [How Much Does an Ecommerce Website Cost in the UK?](https://prismworksstudio.co.uk/blog/ecommerce-website-cost-uk/): Ecommerce website costs in the UK explained: build prices, platform fees, apps, payments, hosting and maintenance, plus how to get an accurate quote.
+- [Digital PR for Link Building: How UK Businesses Earn Quality Backlinks](https://prismworksstudio.co.uk/blog/digital-pr-link-building-uk/): How digital PR earns quality backlinks for UK businesses: campaign types, finding stories, pitching journalists, measuring results and what to avoid.

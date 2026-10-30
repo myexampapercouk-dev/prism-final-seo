@@ -1,0 +1,8 @@
+{
+  "name": "prism-works-tools",
+  "private": true,
+  "description": "Local build helpers (not needed on Hostinger)",
+  "devDependencies": {
+    "sharp": "^0.35.4"
+  }
+}

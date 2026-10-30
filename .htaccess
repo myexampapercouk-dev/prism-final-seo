@@ -1,0 +1,44 @@
+# prismworksstudio.co.uk on Hostinger (Apache/LiteSpeed). Static site deployed from GitHub.
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddType application/manifest+json .webmanifest
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	# Force HTTPS and the bare domain
+	RewriteCond %{HTTPS} off [OR]
+	RewriteCond %{HTTP_HOST} ^www\. [NC]
+	RewriteRule ^ https://prismworksstudio.co.uk%{REQUEST_URI} [L,R=301]
+
+	# Old WordPress URLs -> static equivalents
+	RewriteRule ^page-not-found/?$ / [L,R=301]
+	RewriteRule ^pricing$ /pricing/ [L,R=301]
+	RewriteRule ^feed/?$ /blog/feed.xml [L,R=301]
+	RewriteRule ^(wp-admin|wp-login\.php|xmlrpc\.php)(/|$) - [R=404,L]
+
+	# The whole repo is deployed, so hide project files from the web
+	RewriteRule ^(\.git|node_modules|tools|docs|_source-plugin)(/|$) - [R=404,L]
+	RewriteRule ^(package\.json|package-lock\.json|README\.md|\.gitignore|\.gitattributes|\.htaccess)$ - [R=404,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+	Header always set X-Content-Type-Options "nosniff"
+	Header always set X-Frame-Options "SAMEORIGIN"
+	Header always set Referrer-Policy "strict-origin-when-cross-origin"
+	Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+	Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
+	# Pages must always be revalidated so new content shows straight away
+	<FilesMatch "\.(html?|xml|txt|webmanifest)$">
+		Header set Cache-Control "no-cache"
+	</FilesMatch>
+	# Static assets: cache for a year (rename or add ?v= when changing them)
+	<FilesMatch "\.(css|js|png|jpe?g|webp|svg|ico|woff2?)$">
+		Header set Cache-Control "public, max-age=31536000, immutable"
+	</FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE text/html text/css application/javascript text/xml application/xml text/plain image/svg+xml application/json
+</IfModule>

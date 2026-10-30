@@ -1,0 +1,15 @@
+{
+  "name": "Prism Works Studio",
+  "short_name": "Prism Works",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b0f",
+  "theme_color": "#080b0f",
+  "icons": [
+    {
+      "src": "/assets/img/site-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

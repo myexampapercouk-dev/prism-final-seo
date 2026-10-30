@@ -1,0 +1,7 @@
+docs/
+_source-plugin/
+node_modules/
+tools/node_modules/
+*.zip
+.DS_Store
+Thumbs.db
