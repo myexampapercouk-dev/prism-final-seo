@@ -18,7 +18,7 @@
 .pws .pws-aside { display: grid; gap: 20px; }
 .pws .pws-aside ul { margin: 10px 0 0; padding-left: 18px; }
 .pws .pws-aside li { margin: 6px 0; }
-.pws .pws-aside a { color: var(--lime); }
+.pws .pws-aside a:not(.pws-btn) { color: var(--lime); }
 .pws .pws-aside .pws-btn { margin-top: 14px; }
 .pws .pws-article { max-width: 760px; font-family: 'Lato', sans-serif; font-size: 18px; line-height: 1.8; color: rgba(255, 255, 255, 0.86); }
 .pws .pws-article h2 { margin: 52px 0 16px; font-family: 'Readex Pro', sans-serif; font-size: clamp(24px, 3vw, 32px); font-weight: 600; }
@@ -61,4 +61,5 @@
 @media (max-width: 480px) { .wa-float { right: 14px; bottom: 14px; padding: 12px; } .wa-float span { display: none; } }
 .pws .pws-btn-wa { background: #25D366; border-color: #25D366; color: #fff; }
 .pws .pws-btn-wa:hover { background: #1ebe5b; border-color: #1ebe5b; color: #fff; }
+.pws .pws-aside .pws-btn-wa, .pws .pws-aside .pws-btn-wa:hover { color: #fff; }
 .pws .pws-aside .pws-btn-wa { display: block; text-align: center; margin-top: 10px; }
