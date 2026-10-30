@@ -1243,4 +1243,1113 @@ module.exports = [
 <p>Yes. Local news, trade publications and expert commentary are accessible and effective for small businesses, and often more relevant than national coverage.</p>
 `,
   },
+  {
+    slug: 'ecommerce-seo-agency-uk',
+    seoTitle: 'Ecommerce SEO Agency UK: What You Get and What It Costs',
+    title: 'Choosing an Ecommerce SEO Agency in the UK: Services, Costs and Red Flags',
+    description: 'An ecommerce SEO agency in the UK grows organic sales from category and product pages. What is included, what it costs and how to choose the right one.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>An ecommerce SEO agency helps an online shop earn more sales from Google without paying for every click, by fixing technical problems, improving category and product pages and building the authority the site needs to outrank competitors. For most UK online shops, that work is sold as a monthly retainer, and results typically build over 3 to 6 months rather than weeks.</p>
+<p>This guide explains what an ecommerce SEO agency actually does, what should be included, what it costs in the UK and how to tell a capable agency from one that will send you a ranking report and little else.</p>
+
+<h2>What does an ecommerce SEO agency do?</h2>
+<p>Ecommerce SEO is different from SEO for a service business. A brochure site might have twenty pages; an online shop can have thousands of URLs created by products, variants, filters, sorting options and pagination. Most of the opportunity sits on category pages (for example "women's waterproof walking boots"), because those match how people search when they are ready to compare and buy. Product pages then capture more specific searches for brands, models and sizes.</p>
+<p>A specialist agency therefore spends its time on four things: making sure Google can crawl and index the right pages and ignore the wrong ones, matching category pages to real search demand, making product pages more useful than the manufacturer description every other retailer copies, and earning links and mentions that build trust. Increasingly, it also means making product and category information clear enough to be quoted by AI search tools, often called generative engine optimisation.</p>
+
+<h2>What is included in ecommerce SEO</h2>
+<p>Scope varies between agencies, but a sound ecommerce SEO service usually covers the areas below. If a proposal skips several of them, ask why.</p>
+<table>
+<thead><tr><th>Area</th><th>What it involves</th><th>Why it matters for a shop</th></tr></thead>
+<tbody>
+<tr><td>Technical SEO</td><td>Crawl audits, indexation control, canonical tags, redirects, site speed, structured data</td><td>Filters and variants can create thousands of duplicate URLs that waste crawl budget and split ranking signals</td></tr>
+<tr><td>Keyword and category research</td><td>Mapping search demand to existing categories and spotting gaps for new ones</td><td>Category pages usually drive the most non-brand organic revenue</td></tr>
+<tr><td>Category page optimisation</td><td>Titles, headings, helpful intro and buying-guide copy, internal links, FAQs</td><td>Thin category pages with only a product grid struggle to rank</td></tr>
+<tr><td>Product page optimisation</td><td>Unique descriptions, specifications, reviews, product schema, image alt text</td><td>Copied manufacturer text gives Google no reason to choose your page</td></tr>
+<tr><td>Content</td><td>Buying guides, comparisons and how-to articles that link to categories</td><td>Captures research-stage searches and feeds authority to money pages</td></tr>
+<tr><td>Digital PR and links</td><td>Earning coverage and links from relevant UK publications</td><td>Authority is often what separates page one from page two</td></tr>
+<tr><td>Reporting</td><td>Organic sessions, revenue, orders and rankings for priority categories</td><td>Shows whether the work is paying for itself</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> follows this structure, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we combine search with paid channels for online retailers.</p>
+
+<h3>Technical work is usually the first priority</h3>
+<p>On an online shop, technical problems compound quickly. A faceted navigation that lets Google crawl every colour, size and price combination can create more junk URLs than real pages. Out-of-stock and discontinued products handled badly create soft 404s and lost link equity. Slow, script-heavy themes hurt Core Web Vitals on mobile, where most UK shoppers browse. A good agency fixes these before writing a single blog post, because content cannot rank on a site Google struggles to crawl.</p>
+
+<h3>Category pages carry the commercial weight</h3>
+<p>Someone searching "oak dining table 6 seater" wants a choice of tables, not one product. That is why category pages are the backbone of ecommerce SEO. Improving them usually means a clear H1 that matches the search, a short helpful introduction, sensible filters, internal links to related categories and a few FAQs further down the page that answer delivery, sizing or care questions.</p>
+
+<h2>How much does an ecommerce SEO agency cost in the UK?</h2>
+<p>Ecommerce SEO in the UK is normally priced as a monthly retainer. The amount depends on catalogue size, competition and how much content and link building is needed. As a reference point, our <a href="/pricing/">published retainers</a> are:</p>
+<table>
+<thead><tr><th>Plan</th><th>Starting price</th><th>Typically suits</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>&pound;350 a month</td><td>Small shops with a focused range and limited competition</td></tr>
+<tr><td>Growth</td><td>&pound;750 a month</td><td>Established online retailers that need regular technical, category and content work</td></tr>
+<tr><td>Scale</td><td>&pound;1,500 a month</td><td>Growing brands that also want paid search or shopping ads managed alongside SEO</td></tr>
+</tbody>
+</table>
+<p>These are starting prices and the final quote depends on scope. Any ad spend is paid separately to Google or Meta. If your shop needs rebuilding before SEO can work properly, an ecommerce website build with us costs &pound;1,500 to &pound;3,500; our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs in the UK</a> explains what drives that price. For a wider view of how agencies price SEO, read <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>.</p>
+
+<h3>One-off audits versus retainers</h3>
+<p>If you have an in-house developer, a one-off technical audit can be a sensible first step: you get a prioritised list of fixes and implement them yourself. Most shops, though, benefit from ongoing work, because new products, seasonal ranges, platform updates and competitor activity keep changing the picture.</p>
+
+<h2>How to choose an ecommerce SEO agency</h2>
+<p>Plenty of agencies say they do ecommerce SEO. Fewer understand faceted navigation, product feeds and how organic search fits with Google Shopping. Use these questions to separate them.</p>
+<ul>
+<li><strong>Do they know your platform?</strong> Shopify, WooCommerce and Magento each have their own quirks with URLs, canonicals and apps. Our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce</a> covers some of the differences.</li>
+<li><strong>Do they talk about revenue?</strong> Rankings and traffic are useful, but the agency should agree to report organic orders and revenue from your analytics.</li>
+<li><strong>Can they explain their first 90 days?</strong> A credible plan starts with an audit and quick technical wins, then category priorities, then content and links.</li>
+<li><strong>Who owns the work?</strong> Content, accounts and analytics should belong to you, not the agency.</li>
+<li><strong>Are they honest about timelines?</strong> Anyone promising page one in a few weeks, or guaranteeing rankings, is a red flag.</li>
+<li><strong>Do they understand paid search?</strong> Organic and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> often target the same searches, so the two should be planned together.</li>
+</ul>
+<p>Our broader guide on how to choose a digital marketing agency in the UK covers contracts, notice periods and reporting in more detail.</p>
+
+<h2>Ecommerce SEO agency checklist</h2>
+<p>Before you sign, check that the proposal covers each of these:</p>
+<ul>
+<li>A technical audit covering crawl, indexation, duplicate URLs, redirects and site speed</li>
+<li>A keyword map tying search terms to specific category and product pages</li>
+<li>A plan for out-of-stock, discontinued and seasonal products</li>
+<li>Product and breadcrumb structured data, with a plan to test it</li>
+<li>Category page copy and internal linking improvements</li>
+<li>A content plan linked to commercial pages, not standalone blog posts</li>
+<li>A realistic approach to links, such as <a href="/blog/digital-pr-link-building-uk/">digital PR</a>, rather than bought links</li>
+<li>Reporting on organic revenue and orders, plus rankings for priority categories</li>
+<li>Clear contract terms, notice period and ownership of all assets</li>
+</ul>
+
+<h2>When an agency is worth it, and when it is not</h2>
+<p>An ecommerce SEO agency tends to make sense once you have a working shop, products people search for and the margin to wait several months for organic growth. If your site is very new, has a handful of products or sells something few people search for, you may get more from paid ads or social first, and add SEO once the basics are proven. Equally, if your platform makes basic fixes impossible, it can be cheaper to rebuild than to keep patching; our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service covers that route.</p>
+<p>Seasonality also matters. UK retail has clear peaks around Black Friday, Christmas and the January sales. Because SEO takes months to build, category pages for peak season need to be improved well before the season starts, not in the same month.</p>
+
+<p>If you want an honest view of where your shop stands and what to fix first, book a free discovery call through our <a href="/contact/">contact page</a>. We will look at your site and tell you plainly whether SEO is the right next step.</p>
+
+<h2>FAQs</h2>
+<h3>What does an ecommerce SEO agency UK businesses hire actually do?</h3>
+<p>It improves how an online shop ranks in Google, mainly by fixing technical issues, optimising category and product pages, creating supporting content and earning links. The aim is more organic orders and revenue, not just more traffic.</p>
+<h3>How long does ecommerce SEO take to work?</h3>
+<p>Results typically start to show within 3 to 6 months. Technical fixes can help sooner, but competitive categories and new sites usually take longer to build authority.</p>
+<h3>How much should I pay for ecommerce SEO?</h3>
+<p>Our retainers start at &pound;350, &pound;750 and &pound;1,500 a month depending on scope. Larger catalogues and more competitive markets need more work, so they usually sit at the higher end.</p>
+<h3>Should I focus on category pages or product pages?</h3>
+<p>Usually category pages first, because they match broader buying searches and tend to drive more revenue. Product pages matter for specific model and brand searches, and both need unique, helpful content.</p>
+<h3>Can an agency guarantee first-place rankings?</h3>
+<p>No. Nobody controls Google's rankings, so a guarantee is a warning sign. A good agency commits to the work, explains its reasoning and reports transparently on results.</p>
+<h3>Do I need SEO if I already run Google Shopping ads?</h3>
+<p>Often, yes. Shopping ads stop when the budget stops, while organic rankings keep working. Running both lets you cover more of the search results and reduce reliance on paid clicks over time.</p>
+`,
+  },
+  {
+    slug: 'google-ads-agency-uk',
+    seoTitle: 'Google Ads Agency UK: How to Choose the Right One',
+    title: 'How to Choose a Google Ads Agency in the UK: In-House vs Agency and Questions to Ask',
+    description: 'Choosing a Google Ads agency in the UK: when an agency beats in-house, what good management looks like, and the questions to ask before you hire anyone.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>To choose a Google Ads agency in the UK, look for one that asks about your margins and goals before talking about keywords, sets up reliable conversion tracking first, and lets you own your ad account. Then compare agencies on scope, transparency and fit, not on headline price or bold promises.</p>
+<p>This guide covers when an agency makes more sense than managing ads in-house, what good Google Ads management actually involves, the questions to ask on a sales call and the warning signs to avoid. For costs specifically, our <a href="/sectors/">sectors page</a> shows how we approach different markets.</p>
+
+<h2>Google Ads agency UK: in-house vs agency</h2>
+<p>The first decision is whether you need an agency at all. Some businesses do well running their own account; others waste months learning lessons a specialist would avoid. The table below summarises the trade-offs.</p>
+<table>
+<thead><tr><th>Factor</th><th>In-house</th><th>Agency</th><th>Freelancer</th></tr></thead>
+<tbody>
+<tr><td>Cost structure</td><td>Salary, training, tools and management time</td><td>Monthly fee or retainer, ad spend separate</td><td>Day rate or monthly fee</td></tr>
+<tr><td>Business knowledge</td><td>Deep, from day one</td><td>Built up during onboarding</td><td>Built up during onboarding</td></tr>
+<tr><td>Platform breadth</td><td>Depends on one person's skills</td><td>Usually covers search, Shopping, YouTube and Meta</td><td>Often specialised in one or two areas</td></tr>
+<tr><td>Cover for holidays and illness</td><td>Gaps unless you hire more than one person</td><td>Usually built in</td><td>Limited</td></tr>
+<tr><td>Best for</td><td>Large, steady budgets with ongoing complexity</td><td>Growing businesses wanting specialist help across channels</td><td>Smaller, well-defined accounts</td></tr>
+</tbody>
+</table>
+<p>A hybrid also works well: someone in-house who owns the commercial goals and an agency that handles the build, testing and reporting. Whatever you choose, keep ownership of the accounts with your business.</p>
+
+<h2>What good Google Ads management looks like</h2>
+<p>Before you compare agencies, it helps to know what competent work involves. Strong Google Ads management in the UK usually includes:</p>
+<ul>
+<li><strong>Tracking first.</strong> Conversions set up in Google Ads and GA4, tested, and configured with consent mode so they respect UK GDPR and PECR. Without this, automated bidding optimises towards the wrong thing.</li>
+<li><strong>Clear targets.</strong> A target cost per lead or return on ad spend based on what a customer is worth to you, not a vague aim of more clicks.</li>
+<li><strong>Sensible structure.</strong> Campaigns split by intent, product or location so budget goes where it earns most. Brand and non-brand terms kept separate.</li>
+<li><strong>Search term hygiene.</strong> Regular reviews of the real searches triggering your ads, with negative keywords added.</li>
+<li><strong>Testing.</strong> Ads, assets, bidding approaches and landing pages tested in a planned way.</li>
+<li><strong>Shopping and Performance Max for retailers.</strong> Product feeds that are accurate and well optimised. Our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> explains this in more detail.</li>
+<li><strong>Honest reporting.</strong> Spend, conversions and cost per conversion, with commentary on what changed and why.</li>
+</ul>
+<p>Our <a href="/services/paid-media/">paid media service</a> is built around these steps, and we often link it with landing page work from our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team when the page is the real bottleneck.</p>
+
+<h2>Questions to ask a Google Ads agency</h2>
+<p>A short call should tell you a lot. Use these questions and listen for specific, practical answers.</p>
+<h3>About the account</h3>
+<ul>
+<li>Who will own the Google Ads and GA4 accounts? (The answer should be you.)</li>
+<li>Is ad spend billed directly to us by Google?</li>
+<li>Will you audit our existing account before proposing changes?</li>
+</ul>
+<h3>About the people</h3>
+<ul>
+<li>Who will actually work on our account, and how experienced are they?</li>
+<li>How often will someone review search terms, bids and budgets?</li>
+<li>Who do we contact if something breaks?</li>
+</ul>
+<h3>About measurement</h3>
+<ul>
+<li>Which conversions will you track, and how will you test them?</li>
+<li>What target will you optimise towards, and how did you work it out?</li>
+<li>What does a monthly report include?</li>
+</ul>
+<h3>About the commercial terms</h3>
+<ul>
+<li>What is the fee model, and are there set-up fees or minimum terms?</li>
+<li>What is the notice period?</li>
+<li>What happens to our campaigns, data and assets if we leave?</li>
+</ul>
+<p>If an agency cannot answer these clearly, that is useful information. Our general guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> adds broader questions about culture and communication.</p>
+
+<h2>Red flags to watch for</h2>
+<ul>
+<li><strong>Guaranteed rankings or results.</strong> Google Ads is an auction; nobody controls competitors or prices.</li>
+<li><strong>Agency-owned accounts</strong> that you cannot take with you.</li>
+<li><strong>Media mark-ups</strong> hidden inside a single invoice.</li>
+<li><strong>Reporting without conversions</strong>, or reports full of impressions and click-through rates with no link to revenue or leads.</li>
+<li><strong>No questions about your business.</strong> If they never ask about margins, capacity or seasonality, their targets will be generic.</li>
+<li><strong>Everything on autopilot.</strong> Automated bidding is useful, but someone still needs to set the right goals and inputs.</li>
+</ul>
+
+<h2>How much does a Google Ads agency cost?</h2>
+<p>Fees vary by model and scope. Our own retainers are £350, £750 or £1,500 a month, with ad spend paid separately to Google. The full breakdown is on our <a href="/pricing/">pricing page</a>. Whatever you pay, make sure the fee is proportionate to your spend; if the budget is small, start narrow and grow once you can see what converts.</p>
+
+<h2>Sector fit matters</h2>
+<p>An agency that understands your market will ramp up faster. B2B lead generation, for example, involves longer sales cycles and offline conversions that need importing back into Google Ads; see our <a href="/sectors/b2b/">B2B marketing page</a> and our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B</a>. Regulated sectors such as financial advice or healthcare have advertising restrictions to respect, and any final approval of ad copy rests with your own compliance team.</p>
+
+<h2>How to compare proposals side by side</h2>
+<p>Once you have two or three proposals, put them into a simple comparison rather than relying on which sales call felt best. Give every agency the same brief, including your monthly budget, target cost per lead or sale, the products or services that matter most and any seasonality. Then compare the answers on the same lines.</p>
+<ul>
+<li><strong>Diagnosis.</strong> Did they spot specific issues in your current account or website, or is the proposal generic?</li>
+<li><strong>Priorities.</strong> What will they do in the first 30 days, and why in that order?</li>
+<li><strong>Scope.</strong> Which platforms, campaign types and tasks are included, and which cost extra?</li>
+<li><strong>Measurement.</strong> Which conversions count, and how will offline sales or phone calls be captured?</li>
+<li><strong>Terms.</strong> Fee, set-up costs, minimum term, notice period and account ownership.</li>
+</ul>
+<p>A proposal that is honest about uncertainty, explains trade-offs and recommends starting smaller where the data is thin is usually a better sign than one that promises a dramatic uplift. It is also reasonable to ask for a short trial period or an audit-only first stage, so you can judge how the agency communicates before committing to a longer arrangement.</p>
+<p>Finally, think about how paid search fits with organic search. Ads data shows which keywords and messages convert, and that insight can feed straight into content. If you are planning both, our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> helps you budget the two together.</p>
+
+<h2>Checklist: choosing a Google Ads agency</h2>
+<ul>
+<li>Decide whether you need in-house, agency, freelancer or a hybrid.</li>
+<li>Write down your goal, target cost per lead or sale, and monthly budget.</li>
+<li>Shortlist two or three agencies and give each the same brief.</li>
+<li>Confirm you will own every account and that spend is billed directly to you.</li>
+<li>Ask who works on the account and how often it is reviewed.</li>
+<li>Check that tracking is part of onboarding.</li>
+<li>Read the contract for minimum terms, notice and data handover.</li>
+<li>Agree a review point, typically after 3 to 6 months, to judge progress.</li>
+</ul>
+
+<h2>What to expect in the first months</h2>
+<p>A sensible onboarding usually starts with an audit, tracking fixes and a restructure where needed. Early weeks are about learning which searches and messages convert. Meaningful, stable results typically take 3 to 6 months, though some quick wins such as stopping wasted spend can appear sooner. Agree what success looks like at each stage so progress is easy to judge.</p>
+<p>If you are comparing Google Ads agencies or want a fresh view of your current account, book a free discovery call through our <a href="/contact/">contact page</a> and we will talk through your goals and options.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a Google Ads agency in the UK?</h3>
+<p>Look for an agency that asks about your margins and goals, sets up tracking first, lets you own your accounts, explains its fee model clearly and reports on conversions rather than just clicks.</p>
+<h3>Is it better to run Google Ads in-house or use an agency?</h3>
+<p>In-house suits large, steady accounts with enough work for a dedicated person. An agency suits businesses wanting specialist skills and cover without a permanent hire. A hybrid of the two is common.</p>
+<h3>Should a Google Ads agency own my ad account?</h3>
+<p>No. You should own the account and grant the agency access, so you keep your data and history if you change provider.</p>
+<h3>How long should I give a new Google Ads agency?</h3>
+<p>Allow around 3 to 6 months for testing and optimisation before judging long-term performance, while expecting clear progress updates along the way.</p>
+<h3>What should a Google Ads report include?</h3>
+<p>Spend, conversions, cost per conversion or return on ad spend, key changes made, what was learned and the plan for the next period.</p>
+<h3>Can a Google Ads agency guarantee results?</h3>
+<p>Not credibly. Ad auctions depend on competitors and market conditions. A good agency can explain its process and targets, but should not promise fixed outcomes.</p>
+`,
+  },
+  {
+    slug: 'healthcare-marketing-agency-uk',
+    seoTitle: 'Healthcare Marketing Agency UK: A Guide for Clinics',
+    title: 'Healthcare Marketing Agency UK: Digital Marketing for Private Clinics and Practices',
+    description: 'What a healthcare marketing agency in the UK should do for clinics: local SEO, compliant ads under ASA and CAP rules, CQC context and patient trust.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/healthcare/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>A healthcare marketing agency in the UK helps private clinics, dental practices, physiotherapists and other providers attract patients through local SEO, clear treatment pages and carefully worded advertising. Because health advertising is tightly regulated, the right agency builds checks against the ASA and CAP Code into every campaign, while final approval always rests with the clinic and its own compliance advisers.</p>
+<p>This guide covers what digital marketing for UK healthcare providers involves, the regulatory context to be aware of, which channels tend to work and how to choose an agency. It is general information, not legal advice; check specific questions with your professional body or a solicitor.</p>
+
+<h2>Healthcare marketing agency UK: what the work involves</h2>
+<p>Most private healthcare providers win patients locally. Someone searches for a treatment and a town, compares a few clinics, reads reviews and books. Good marketing makes each step of that journey clear and trustworthy. Typical work includes:</p>
+<ul>
+<li><strong>Local SEO</strong>: Google Business Profile, consistent name, address and phone details, location pages and reviews.</li>
+<li><strong>Treatment pages</strong>: plain-English explanations of what a treatment involves, who it may suit, risks, recovery and costs.</li>
+<li><strong>Paid search</strong>: ads for high-intent treatment searches, within platform healthcare policies.</li>
+<li><strong>Website experience</strong>: fast, accessible pages with simple booking or enquiry routes.</li>
+<li><strong>Measurement</strong>: tracking enquiries and bookings without collecting health data in analytics tools.</li>
+</ul>
+<p>You can see how we approach this on our <a href="/sectors/healthcare/">healthcare marketing page</a>.</p>
+
+<h2>The regulatory context for UK healthcare marketing</h2>
+<p>Several overlapping rules apply. The summary below is a starting point only; the detail depends on your services, and approval of any claim rests with your compliance team or legal adviser.</p>
+<table>
+<thead><tr><th>Area</th><th>What it covers</th><th>Practical implication</th></tr></thead>
+<tbody>
+<tr><td>ASA and the CAP Code</td><td>Non-broadcast advertising, including websites and social media where you make marketing claims</td><td>Claims must be truthful, evidenced and not misleading; health claims face particular scrutiny</td></tr>
+<tr><td>Prescription-only medicines</td><td>UK law restricts advertising prescription-only medicines to the public</td><td>Treatments involving them need especially careful wording; take specialist advice</td></tr>
+<tr><td>CQC registration</td><td>Providers of regulated activities in England register with the Care Quality Commission</td><td>Accurate references to registration and inspection ratings; never overstate them</td></tr>
+<tr><td>Professional regulators</td><td>Bodies such as the GMC, GDC and HCPC publish guidance on how registrants advertise</td><td>Clinicians should check their own regulator's advertising guidance</td></tr>
+<tr><td>UK GDPR and PECR</td><td>Personal and special category data, cookies and electronic marketing</td><td>Careful tracking set-up, consent for cookies and marketing emails</td></tr>
+<tr><td>Platform policies</td><td>Google and Meta healthcare advertising rules</td><td>Some treatments need certification or are restricted entirely</td></tr>
+</tbody>
+</table>
+<p>Scotland, Wales and Northern Ireland have their own healthcare regulators, so providers outside England should check which body applies to them.</p>
+
+<h3>Writing claims carefully</h3>
+<p>Common problems in health advertising include implying guaranteed outcomes, using before-and-after images without context, creating undue urgency around treatments and making claims that are not backed by evidence. A sensible approach is to describe what a treatment is, who may be suitable, what the process involves and any risks, and to encourage a consultation rather than promising results.</p>
+
+<h3>Reviews and testimonials</h3>
+<p>Patient reviews are powerful, but they must be genuine and should not be used to make claims you could not make directly. Never incentivise reviews in ways that breach platform rules, and be mindful of patient confidentiality when responding publicly.</p>
+
+<h2>Which channels work for clinics?</h2>
+<h3>Local SEO</h3>
+<p>For most clinics, local search is the foundation. A complete Google Business Profile, accurate categories, regular photos and steady genuine reviews help you appear in the map results. Pair it with location and treatment pages on your site. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers this, including how to be cited in AI answers, explained in our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+<h3>Paid search</h3>
+<p>Google Ads can capture people actively searching for a treatment. Healthcare is a restricted category, so some services need certification or cannot be advertised at all. Ads should send people to a relevant treatment page, not a generic homepage. Our <a href="/services/paid-media/">paid media service</a> handles campaigns within those policies.</p>
+<h3>Content and digital PR</h3>
+<p>Helpful, accurate content that answers patient questions builds trust and search visibility. Expert commentary in local or trade media can also earn links and mentions; see our <a href="/services/digital-pr-content/">digital PR and content service</a>.</p>
+<h3>Website</h3>
+<p>A clear, fast website with obvious booking routes turns visits into enquiries. If yours is dated, our <a href="/services/website-ecommerce-development/">website development service</a> can help, typically within 3 to 5 weeks for a small site.</p>
+
+<h2>What a good treatment page includes</h2>
+<p>Treatment pages are often the pages that rank, receive ad traffic and convert visitors into enquiries, so they deserve more care than a short paragraph and a booking button. A strong page usually covers:</p>
+<ul>
+<li><strong>What the treatment is</strong>, in plain English, with any technical terms explained.</li>
+<li><strong>Who it may suit</strong>, and who it may not, encouraging a consultation to confirm suitability.</li>
+<li><strong>What happens</strong> before, during and after, including how long appointments take.</li>
+<li><strong>Risks and side effects</strong>, stated honestly and in proportion.</li>
+<li><strong>Costs</strong>, or a clear explanation of how pricing is set, so patients are not surprised.</li>
+<li><strong>Who carries it out</strong>, described by role and professional registration where appropriate.</li>
+<li><strong>Answers to common questions</strong>, which also helps search engines and AI assistants understand the page.</li>
+</ul>
+<p>Clear authorship and review dates help too. Search engines look for signs of expertise and trust on health topics, and patients do the same. Noting that content has been reviewed by a suitably qualified clinician, and keeping it up to date, supports both. As always, the clinic's own clinical and compliance leads should approve the final wording.</p>
+<p>Multi-site groups should give each location its own page with accurate details, opening hours, directions and the treatments genuinely offered there, rather than duplicating one page with the town name swapped.</p>
+
+<h2>Tracking without capturing health data</h2>
+<p>Analytics and ad platforms should not receive information about a person's health. In practice that means avoiding treatment names in URLs that pass into tracking parameters with personal data, not sending form contents to analytics, and using consent mode so tags respect cookie choices. Track that an enquiry happened, not what it was about in a way that identifies a person. Confirm your set-up with your data protection lead.</p>
+
+<h2>Checklist: choosing a healthcare marketing agency</h2>
+<ul>
+<li>Do they ask about your regulator, CQC status and internal sign-off process?</li>
+<li>Will every claim go through your compliance review before it is published?</li>
+<li>Do they avoid promising rankings, patient numbers or clinical outcomes?</li>
+<li>Can they explain Google and Meta healthcare advertising restrictions?</li>
+<li>Is local SEO, including your Google Business Profile, part of the plan?</li>
+<li>How will they track enquiries without handling health data?</li>
+<li>Do you own all accounts, including Google Ads, GA4 and your profile?</li>
+<li>Are fees and minimum terms clear?</li>
+</ul>
+
+<h2>What does healthcare marketing cost?</h2>
+<p>Our monthly retainers are £350, £750 or £1,500, with ad spend paid separately. A single-location clinic focusing on local SEO may need less than a multi-site group running ads across several treatments. See our <a href="/pricing/">pricing page</a> for what each tier includes. Results from SEO and paid campaigns typically take 3 to 6 months to settle.</p>
+
+<h2>Common mistakes clinics make</h2>
+<ul>
+<li>Copying wording from competitors without checking it against the CAP Code.</li>
+<li>Thin treatment pages that do not explain risks, suitability or costs.</li>
+<li>Inconsistent clinic details across directories and maps.</li>
+<li>Sending all ad traffic to the homepage.</li>
+<li>Installing tracking that collects more data than necessary.</li>
+</ul>
+<p>Avoiding these alone often makes a noticeable difference to how easily patients find and trust a clinic.</p>
+<p>If you run a clinic or practice and want a careful, compliance-aware approach to growth, book a free discovery call through our <a href="/contact/">contact page</a> and we will talk through your services, locations and goals.</p>
+
+<h2>FAQs</h2>
+<h3>What does a healthcare marketing agency in the UK do?</h3>
+<p>It helps clinics and practices attract patients through local SEO, treatment pages, paid search, content and website improvements, while working within advertising rules and the clinic's own compliance process.</p>
+<h3>Do ASA rules apply to my clinic website?</h3>
+<p>The CAP Code applies to marketing claims on your own website and social media. How it applies to specific claims is a question for your compliance team or a solicitor.</p>
+<h3>Can I advertise treatments on Google Ads?</h3>
+<p>Many treatments can be advertised, but healthcare is a restricted category. Some services need certification and some, such as prescription-only medicines, face strict limits. Check Google's current policies.</p>
+<h3>Should I mention my CQC rating in marketing?</h3>
+<p>If you are registered, accurate references can build trust, but they must be current and not overstated. Check the CQC's guidance on displaying ratings.</p>
+<h3>How long does healthcare SEO take?</h3>
+<p>Results typically take 3 to 6 months, depending on competition, your current site and how much local work is needed.</p>
+<h3>Who approves the marketing content?</h3>
+<p>The clinic does. An agency can draft and advise, but final approval of claims rests with your clinical leads and compliance team.</p>
+`,
+  },
+  {
+    slug: 'local-seo-uk-guide',
+    seoTitle: 'Local SEO UK Guide: Rank in Google Maps and Local Search',
+    title: 'Local SEO for UK Businesses: Google Business Profile, Reviews and Location Pages',
+    description: 'Local SEO UK guide: set up Google Business Profile, build citations, earn reviews and create location pages that help you rank in Maps and local searches.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/hospitality/'],
+    body: `
+<p>Local SEO helps UK businesses appear when people nearby search for what they offer, both in the Google Maps results and in the ordinary listings below them. The core of it is a complete Google Business Profile, consistent business details across the web, a steady flow of genuine reviews and website pages that clearly cover the areas you serve.</p>
+<p>This guide explains each part, with a checklist and a table showing which local ranking factors you control and how to improve them.</p>
+
+<h2>Local SEO UK guide: how local rankings work</h2>
+<p>Google broadly describes local results as being based on three things: relevance (how well your listing matches the search), distance (how close you are to the searcher or the place named in the search) and prominence (how well known and trusted your business is). You cannot move your premises, but you can strongly influence relevance and prominence.</p>
+<p>That matters for searches such as "plumber near me", "Italian restaurant Leeds" or "accountant in Guildford". The map pack at the top of those results often attracts a large share of clicks and calls, so getting into it can make a real difference to a local business.</p>
+
+<h2>Google Business Profile: the foundation</h2>
+<p>Your Google Business Profile (formerly Google My Business) is the listing shown in Maps and the local pack. If you do only one thing for local SEO, make it this.</p>
+<h3>Setting it up properly</h3>
+<ul>
+<li><strong>Claim and verify</strong> the profile so you control it.</li>
+<li><strong>Use your real business name</strong>, as shown on your signage and website. Adding keywords or town names to the name can breach Google's guidelines and risk suspension.</li>
+<li><strong>Choose the most accurate primary category</strong>, then add relevant secondary ones.</li>
+<li><strong>Set your address or service area</strong>. Service-area businesses that visit customers, such as electricians, can hide their address and list the areas they cover.</li>
+<li><strong>Add opening hours</strong>, including bank holiday hours, and keep them up to date.</li>
+<li><strong>List services or products</strong> with short descriptions.</li>
+<li><strong>Upload real photos</strong> of your premises, team at work (without naming individuals if you prefer) and finished jobs.</li>
+<li><strong>Link to the most relevant page</strong> on your website, often a location or service page rather than the homepage.</li>
+</ul>
+<h3>Keeping it active</h3>
+<p>A profile that is updated regularly with posts, photos, offers and answers to questions sends useful signals and gives searchers more reasons to choose you. Check it monthly, because the public can suggest edits and details sometimes change without you noticing.</p>
+
+<h2>Citations and NAP consistency</h2>
+<p>A citation is any online mention of your business name, address and phone number (often called NAP). Directories such as Yell, Thomson Local, Yelp, Bing Places, Apple Business Connect, Facebook and trade associations all count. Industry-specific listings matter too: hospitality businesses benefit from accurate details on booking and review sites, while trades may use approved-trader schemes.</p>
+<p>Consistency is the key. If your phone number, address format or business name differ across the web, Google is less sure which details are correct. Audit the main listings, fix inconsistencies and close duplicates. You do not need hundreds of directories; a set of accurate, relevant ones is better.</p>
+
+<h2>Reviews: quantity, quality and replies</h2>
+<p>Reviews influence both rankings and whether people click. Build a simple habit of asking every satisfied customer for a Google review, ideally soon after the job or visit, with a direct link to make it easy.</p>
+<ul>
+<li>Reply to every review, positive or negative, politely and promptly.</li>
+<li>Never buy reviews, write your own or offer incentives in return for positive reviews. In the UK, fake and incentivised reviews may also raise consumer protection concerns, so take advice if you are unsure what is allowed.</li>
+<li>Do not gate reviews by only asking customers you expect to be happy; Google's policies discourage this.</li>
+<li>Handle negative reviews calmly and offer to resolve issues offline.</li>
+</ul>
+
+<h2>Location pages on your website</h2>
+<p>If you serve several towns or have several branches, location pages help you rank in each area. Done badly, they are one of the most common local SEO mistakes: dozens of identical pages with only the town name swapped. Google sees these as low quality.</p>
+<h3>What a good location page includes</h3>
+<ul>
+<li>The address, phone number and opening hours for that branch, or a clear description of the area you cover</li>
+<li>Services available in that location, with links to the main service pages</li>
+<li>Genuinely local detail: parking, nearby landmarks, areas covered, local projects described without naming clients</li>
+<li>Reviews or FAQs relevant to that area</li>
+<li>An embedded map and a clear call to action</li>
+</ul>
+<p>If you only operate from one place, you probably do not need location pages for every nearby town. Focus on strong service pages that mention your area naturally. If your site cannot support new pages easily, our <a href="/services/website-ecommerce-development/">website development service</a> can help, and our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers how to change sites safely.</p>
+
+<h2>Local ranking factors you control</h2>
+<table>
+<thead><tr><th>Factor</th><th>What good looks like</th><th>How to improve it</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile completeness</td><td>Every field filled, accurate categories, recent photos</td><td>Complete missing sections and review monthly</td></tr>
+<tr><td>Reviews</td><td>Steady flow of recent, genuine reviews with replies</td><td>Ask every happy customer; reply to all</td></tr>
+<tr><td>NAP consistency</td><td>Identical details across site and directories</td><td>Audit main listings, fix errors, remove duplicates</td></tr>
+<tr><td>Website relevance</td><td>Clear service and location pages</td><td>One page per service; useful location pages</td></tr>
+<tr><td>Local links and mentions</td><td>Links from local news, clubs, suppliers, trade bodies</td><td>Sponsor, partner and run <a href="/blog/digital-pr-link-building-uk/">local digital PR</a></td></tr>
+<tr><td>Technical health</td><td>Fast, mobile-friendly, indexed pages</td><td>Fix speed and indexing issues</td></tr>
+</tbody>
+</table>
+
+<h2>Measuring local SEO</h2>
+<p>Local SEO is easy to measure if you set it up from the start. Your Google Business Profile performance view shows how many people found you through search and Maps, and how many called, requested directions or clicked through to your website. Add tracking parameters to the website link in your profile so those visits are separated in your analytics. In Search Console, filter queries containing your town or "near me" to see how your local visibility changes over time.</p>
+<p>Ranking checks are useful too, but remember that local results change depending on where the searcher is standing. A business can appear first for someone on the high street and not at all for someone a few miles away. Grid-based rank tracking tools show this spread more honestly than a single ranking number. Above all, track the outcomes that matter: calls, bookings, enquiry forms and walk-ins, so you can judge whether the effort is paying for itself.</p>
+
+<h2>Local SEO checklist</h2>
+<ul>
+<li>Google Business Profile claimed, verified and fully completed</li>
+<li>Accurate primary and secondary categories</li>
+<li>Opening hours, including bank holidays, up to date</li>
+<li>Name, address and phone identical on your website and key directories</li>
+<li>LocalBusiness structured data on your website</li>
+<li>A routine for requesting reviews and replying to all of them</li>
+<li>Service pages that mention your area naturally</li>
+<li>Location pages only where each one is genuinely useful</li>
+<li>Local links from organisations you actually work with</li>
+<li>Calls and direction requests tracked so you can measure results</li>
+</ul>
+
+<h2>Local SEO by sector</h2>
+<p>Different businesses lean on different parts of local SEO. Restaurants, pubs and hotels depend heavily on photos, reviews and menus, which we cover on our <a href="/sectors/hospitality/">hospitality page</a> and in our guide to <a href="/blog/hotel-direct-bookings-uk/">increasing hotel direct bookings</a>. Clinics and practices need accurate service details and care around what they claim; our <a href="/sectors/healthcare/">healthcare page</a> explains our approach, and any regulated wording should be approved by your own compliance lead.</p>
+
+<h2>DIY or professional help?</h2>
+<p>Much of local SEO is manageable in-house, especially your profile and reviews. Help is most useful for citation clean-ups, location page strategy, technical fixes and links. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers all of these, and our Launch retainer from &pound;350 a month, shown on our <a href="/pricing/">pricing page</a>, is designed for small local businesses. Local SEO results typically build over 3 to 6 months.</p>
+
+<p>If you want to know why competitors appear in the map pack and you do not, book a free discovery call through our <a href="/contact/">contact page</a> and we will walk through the gaps with you.</p>
+
+<h2>FAQs</h2>
+<h3>What is covered in a local SEO UK guide?</h3>
+<p>The essentials are Google Business Profile, consistent citations, reviews, location and service pages, local links and technical health. Together these influence whether you appear in Maps and local results.</p>
+<h3>How long does local SEO take?</h3>
+<p>Profile fixes can help within weeks, but stronger local rankings typically build over 3 to 6 months, depending on competition and how established your business is.</p>
+<h3>Can I rank in a town where I have no office?</h3>
+<p>It is harder, because distance matters in the map pack. Service-area businesses can list areas they cover, and good location pages can help in ordinary results.</p>
+<h3>Should I add my town to my business name?</h3>
+<p>No, unless it is genuinely part of your registered trading name. Adding keywords to the name can breach Google's guidelines and risk your profile being suspended.</p>
+<h3>How many reviews do I need?</h3>
+<p>There is no fixed number. Aim for a steady flow of recent, genuine reviews and compare yourself with the businesses currently appearing in the map pack.</p>
+<h3>Do directory listings still matter?</h3>
+<p>Accurate listings on major and industry directories still help confirm your details. Focus on consistency and relevance rather than submitting to hundreds of low-quality sites.</p>
+`,
+  },
+  {
+    slug: 'ppc-management-cost-uk',
+    seoTitle: 'PPC Management Cost UK: Fees, Models and Red Flags',
+    title: 'PPC Management Cost in the UK: Fee Models, What Is Included and Red Flags',
+    description: 'PPC management cost in the UK explained: percentage of spend, flat fees and retainers, what a fee should cover, and the red flags to spot before you sign.',
+    date: '2026-10-30',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>PPC management cost in the UK usually comes down to one of three models: a percentage of your monthly ad spend, a flat monthly fee, or a retainer that bundles paid media with other work. Whatever the model, the management fee is separate from the money you pay Google, Microsoft or Meta for clicks, so always budget for both.</p>
+<p>This guide explains how each fee model works, what a fair fee should include, how to judge value rather than headline price, and the warning signs that tell you to keep looking. If you want the wider picture first, our guide to <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency in the UK</a> covers the general questions to ask.</p>
+
+<h2>PPC management cost in the UK: the three main fee models</h2>
+<p>Most UK agencies and freelancers use one of the models below, sometimes with a minimum fee or a set-up charge on top. None is automatically better; the right one depends on your spend, how stable it is and how much work sits around the ads.</p>
+<table>
+<thead><tr><th>Fee model</th><th>How it works</th><th>Suits</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Percentage of ad spend</td><td>The fee is a share of what you spend on media each month</td><td>Larger or fast-growing budgets where workload rises with spend</td><td>An incentive to raise spend rather than improve efficiency</td></tr>
+<tr><td>Flat monthly fee</td><td>A fixed amount regardless of spend, usually tied to a scope</td><td>Stable budgets and businesses that want predictable costs</td><td>Scope creep, or a fee that stays the same while effort quietly drops</td></tr>
+<tr><td>Retainer</td><td>A monthly package covering paid media plus related work such as SEO, content or reporting</td><td>Businesses that want one partner across channels</td><td>Unclear split of hours between channels</td></tr>
+<tr><td>Performance-based</td><td>Fees linked to leads, sales or revenue</td><td>Mature accounts with reliable tracking</td><td>Disputes over attribution and what counts as a result</td></tr>
+</tbody>
+</table>
+<p>At Prism Works Studio our published monthly retainers are £350, £750 and £1,500 a month, and ad spend is paid directly to the platforms on top. You can see what each tier covers on our <a href="/pricing/">pricing page</a>.</p>
+
+<h3>Percentage of spend</h3>
+<p>Percentage models are common because they scale naturally: a larger account normally needs more campaigns, more keywords and more testing. The weakness is the incentive. If the agency earns more when you spend more, ask how they decide when to cut budget on campaigns that are not paying back. A good answer will reference target cost per lead or return on ad spend, not just volume.</p>
+
+<h3>Flat fee</h3>
+<p>A flat fee is easy to plan around and removes the spend incentive. It works best when the scope is written down: number of campaigns or platforms, how often the account is reviewed, and what reporting you receive. Without that, a flat fee can drift towards minimal effort.</p>
+
+<h3>Retainer</h3>
+<p>A retainer makes sense when paid search is one part of a wider plan. Ads and organic search often share keyword research, landing pages and tracking, so combining them with one partner can save duplicated work. Our <a href="/services/paid-media/">paid media service</a> sits alongside <a href="/services/seo-geo/">SEO and GEO</a> for exactly this reason.</p>
+
+<h2>What should a PPC management fee include?</h2>
+<p>Two quotes at the same price can contain very different amounts of work. Before comparing numbers, compare scope. A competent PPC service should normally cover:</p>
+<ul>
+<li><strong>Conversion tracking.</strong> Google Ads and GA4 conversions set up and tested, ideally with consent mode configured for UK GDPR and PECR. Without reliable tracking, every other decision is guesswork.</li>
+<li><strong>Account structure.</strong> Campaigns grouped by intent, product line or location so budgets go where they earn the most.</li>
+<li><strong>Keyword and search term management.</strong> Regular reviews of the actual searches triggering your ads, with negatives added to stop wasted clicks.</li>
+<li><strong>Ad copy and asset testing.</strong> New headlines, descriptions and extensions tested against each other rather than left untouched for months.</li>
+<li><strong>Bid strategy and budget management.</strong> Choosing between manual and automated bidding and checking it is working towards your real goal.</li>
+<li><strong>Landing page feedback.</strong> Ads can only do so much if the page they send people to is slow or unclear.</li>
+<li><strong>Reporting you can understand.</strong> Cost, conversions, cost per conversion and what changed, in plain English.</li>
+</ul>
+<p>For online shops, add product feed management and Performance Max or Shopping campaigns. Our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> explains what that work involves.</p>
+
+<h2>How to judge whether a PPC fee is good value</h2>
+<p>The cheapest fee is rarely the cheapest outcome. A poorly managed account can waste far more in clicks than you save on management. Think about value in three parts.</p>
+<h3>1. Size of the fee relative to spend</h3>
+<p>If your monthly ad spend is small, a high management fee can absorb most of the budget. In that case it may be better to start with a narrow campaign, fix tracking and landing pages, and grow once you can see what converts. A smaller retainer tier or a project-based set-up can make sense here.</p>
+<h3>2. Hours and seniority</h3>
+<p>Ask who will actually work on the account and how often. A low fee with a monthly check-in will not catch a broken conversion tag or a competitor bidding on your brand name for weeks.</p>
+<h3>3. Time to results</h3>
+<p>Paid search can bring traffic on day one, but finding the profitable mix of keywords, ads and bids takes testing. Across paid and organic work, meaningful results typically take 3 to 6 months to settle. Be wary of anyone promising a fixed return before they have seen your data.</p>
+
+<h2>Hidden costs to budget for</h2>
+<p>The management fee and the ad spend are the obvious costs. Others are easy to miss:</p>
+<ul>
+<li><strong>Set-up or onboarding fees</strong> for audits, tracking and account rebuilds.</li>
+<li><strong>Landing page design or development</strong>, if your current pages do not convert. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service covers this when needed.</li>
+<li><strong>Creative</strong> for display, YouTube or social ads.</li>
+<li><strong>Software</strong> such as call tracking or feed tools, if used.</li>
+<li><strong>VAT</strong> on agency fees, which matters if you are not VAT-registered.</li>
+</ul>
+
+<h2>Red flags when hiring a PPC agency</h2>
+<p>Most UK agencies are honest, but these signs should make you pause:</p>
+<ul>
+<li><strong>They own the ad account.</strong> You should own your Google Ads account and grant the agency access. If you leave, the history and data stay with you.</li>
+<li><strong>Guaranteed results.</strong> No one controls auction prices or competitor behaviour, so promises of a fixed number of leads are not credible.</li>
+<li><strong>Undisclosed mark-ups on media.</strong> If the agency pays the platform and re-bills you, ask whether the invoice matches the platform spend exactly.</li>
+<li><strong>Long lock-in contracts</strong> with no performance review point.</li>
+<li><strong>Vague reporting</strong> that shows clicks and impressions but not conversions or cost per conversion.</li>
+<li><strong>No questions about your margins.</strong> An agency that does not ask what a customer is worth to you cannot set sensible targets.</li>
+</ul>
+
+<h2>Checklist: before you sign a PPC agreement</h2>
+<ul>
+<li>Is the fee model written down, including any minimums or set-up fees?</li>
+<li>Is ad spend billed directly by the platform to you?</li>
+<li>Do you own the Google Ads, Microsoft Ads and GA4 accounts?</li>
+<li>Is conversion tracking part of the scope, and will it be tested?</li>
+<li>How often will search terms, bids and ads be reviewed?</li>
+<li>What does the monthly report contain, and is there a review call?</li>
+<li>What is the notice period, and what happens to your data if you leave?</li>
+<li>Has the agency asked about your margins, average order value or lead value?</li>
+</ul>
+<p>If you sell to other businesses, it is also worth comparing search with LinkedIn; our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B lead generation</a> sets out when each channel fits. Businesses in specific industries can see how we approach their market on our <a href="/sectors/">sectors page</a>.</p>
+
+<h2>Is PPC worth it alongside SEO?</h2>
+<p>Paid search buys visibility immediately, while SEO builds it over time. Many businesses use both: ads to test which keywords convert, and organic content to win those terms without paying per click later. If you are weighing the two budgets, our article on <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> uses the same fee framework so you can compare like for like.</p>
+<p>If you would like a second opinion on a PPC quote or your current account, book a free discovery call through our <a href="/contact/">contact page</a> and we will talk through your goals, spend and options with no obligation.</p>
+
+<h2>FAQs</h2>
+<h3>What is the typical PPC management cost in the UK?</h3>
+<p>It depends on the fee model, spend and scope. Our own retainers are £350, £750 or £1,500 a month with ad spend paid separately, but other agencies charge a percentage of spend or a flat fee, so compare scope as well as price.</p>
+<h3>Is ad spend included in the management fee?</h3>
+<p>Usually not. Ad spend is paid to Google, Microsoft or Meta, ideally directly from your own card or invoice, and the management fee is paid to the agency on top.</p>
+<h3>Is a percentage of spend or a flat fee better?</h3>
+<p>Flat fees and retainers give predictable costs and remove the incentive to raise spend. Percentage models can suit large, growing budgets. The most important thing is a clear, written scope.</p>
+<h3>Should I own my Google Ads account?</h3>
+<p>Yes. Owning the account means you keep the history, data and conversion settings if you change agency. The agency should be granted access, not hold ownership.</p>
+<h3>How long before PPC shows results?</h3>
+<p>Ads can drive traffic immediately, but optimising for profitable leads or sales typically takes 3 to 6 months of testing and refinement.</p>
+<h3>Do I need to pay VAT on PPC management fees?</h3>
+<p>Agency fees from a VAT-registered UK business normally have VAT added, so ask whether a quote is shown with or without VAT. How ad platforms charge VAT can differ, so check your invoices and ask your accountant if you are unsure.</p>
+`,
+  },
+  {
+    slug: 'saas-seo-agency-uk',
+    seoTitle: 'SaaS SEO Agency UK: Strategy for Software Companies',
+    title: 'SaaS SEO Agency UK: Product-Led Content, Comparison Pages and Technical SEO',
+    description: 'What a SaaS SEO agency in the UK should do: product-led content, comparison and alternative pages, technical SEO for apps and docs, and how to measure it.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/sectors/saas/', '/services/seo-geo/', '/services/digital-pr-content/'],
+    body: `
+<p>A SaaS SEO agency in the UK helps software companies win sign-ups, trials and demo requests from search by creating product-led content, building comparison and alternative pages, and fixing the technical issues common to apps, documentation and marketing sites. The aim is not traffic for its own sake but visibility on the searches your buyers make while choosing a tool.</p>
+<p>This guide explains what effective SEO for SaaS looks like, which page types matter most, the technical considerations specific to software sites and how to choose an agency. For broader context on how AI assistants now pick sources, see our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+
+<h2>SaaS SEO agency UK: why SaaS SEO is different</h2>
+<p>SEO for software companies differs from local or ecommerce SEO in a few important ways:</p>
+<ul>
+<li><strong>Buyers research heavily.</strong> They compare tools, read reviews, check integrations and pricing before booking a demo.</li>
+<li><strong>Several people are involved.</strong> A user, a manager and a budget holder may all search different terms.</li>
+<li><strong>The product itself is content.</strong> Templates, free tools, documentation and help centres can all rank.</li>
+<li><strong>Conversion happens later.</strong> A visitor may read several articles before starting a trial, so attribution needs care.</li>
+</ul>
+<p>Our <a href="/sectors/saas/">SaaS marketing page</a> sets out how we approach these challenges, and our <a href="/sectors/b2b/">B2B page</a> covers the longer sales cycles many SaaS businesses share.</p>
+
+<h2>The page types that matter most</h2>
+<p>Different page types serve different stages of the buying journey. The table shows where each typically fits.</p>
+<table>
+<thead><tr><th>Page type</th><th>Example search</th><th>Buyer stage</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Problem-led guides</td><td>how to automate invoice reminders</td><td>Early</td><td>Builds awareness and topical authority</td></tr>
+<tr><td>Use case and feature pages</td><td>project tracking for agencies</td><td>Middle</td><td>Connects needs to your product</td></tr>
+<tr><td>Comparison pages</td><td>your product vs competitor</td><td>Late</td><td>Captures buyers actively choosing</td></tr>
+<tr><td>Alternative pages</td><td>competitor alternatives UK</td><td>Late</td><td>Reaches users unhappy with another tool</td></tr>
+<tr><td>Integration pages</td><td>tool that integrates with Xero</td><td>Middle to late</td><td>Answers a common deal-breaker question</td></tr>
+<tr><td>Templates and free tools</td><td>project plan template</td><td>Early to middle</td><td>Earns links and introduces the product</td></tr>
+<tr><td>Pricing page</td><td>your product pricing</td><td>Late</td><td>Often one of the most visited pages before sign-up</td></tr>
+</tbody>
+</table>
+
+<h3>Product-led content</h3>
+<p>Product-led content solves a real problem and shows, naturally, how your software helps. Instead of a generic article about productivity, it walks through a task step by step with screenshots of your product doing it. This content tends to convert better because readers see the value directly.</p>
+
+<h3>Comparison and alternative pages</h3>
+<p>These pages target people close to a decision. Keep them fair and factual: describe where a competitor may suit some buyers better and where your product stands out. Check competitor facts carefully, date them and keep them updated. Comparative advertising claims in the UK must be accurate and verifiable, so have claims checked by your own team, and by a solicitor if you are unsure.</p>
+
+<h3>Integration pages</h3>
+<p>Many UK buyers will rule out a tool if it does not connect with their accounting, CRM or communication software. A dedicated page for each meaningful integration, explaining what it does and how to set it up, answers that question and ranks for specific searches.</p>
+
+<h2>Building a SaaS keyword strategy</h2>
+<p>A useful SaaS keyword plan starts with your customers, not a keyword tool. Talk to your sales and support teams about the problems prospects describe, the tools they are switching from and the objections that stall deals. Those conversations reveal the language buyers actually use, which is often different from the feature names your product team prefers.</p>
+<p>From there, group keywords by intent rather than volume:</p>
+<ol>
+<li><strong>Decision terms</strong>: comparisons, alternatives, pricing and reviews. Small search volumes, but these visitors are closest to buying, so they usually come first.</li>
+<li><strong>Solution terms</strong>: software for a specific job, role or industry, such as scheduling software for clinics. These map to use case and feature pages.</li>
+<li><strong>Problem terms</strong>: how-to questions your product helps solve. These suit product-led guides and templates.</li>
+<li><strong>Integration terms</strong>: searches combining your category with tools buyers already use.</li>
+</ol>
+<p>UK-focused SaaS companies can also benefit from local context: references to VAT, Making Tax Digital, UK GDPR or UK payroll rules where they are genuinely relevant to the product. These details signal that a page was written for UK buyers and can help you compete with larger international tools whose content is written for the US market.</p>
+<p>Finally, map every keyword to one page. Several articles chasing the same term compete with each other, so it is better to have one strong, regularly updated page per topic, supported by internal links from related content.</p>
+<p>Paid search can speed up this learning. Running a small campaign on decision terms shows which phrases lead to trials before you invest months in content, which is one reason we often plan SEO and paid media together, sharing keyword data, landing pages and conversion tracking between both channels.</p>
+
+<h2>Technical SEO for SaaS sites</h2>
+<p>Software companies often run several properties at once: a marketing site, an app, documentation, a help centre and a blog, sometimes on different platforms or subdomains. Common technical issues include:</p>
+<ul>
+<li><strong>JavaScript rendering.</strong> Marketing sites built as single-page apps may not show content to search engines reliably. Server-side rendering or static generation usually helps.</li>
+<li><strong>App pages being indexed.</strong> Login screens and user dashboards should normally be kept out of search results.</li>
+<li><strong>Duplicate documentation.</strong> Versioned docs can create many near-identical pages; canonical tags help.</li>
+<li><strong>Subdomain sprawl.</strong> Splitting content across subdomains can dilute authority. Where practical, keep key content on the main domain.</li>
+<li><strong>Site speed.</strong> Heavy scripts for chat, analytics and testing tools can slow pages down.</li>
+<li><strong>Internal linking.</strong> Guides should link to relevant feature, use case and pricing pages.</li>
+</ul>
+<p>If you are migrating or rebuilding your marketing site, read our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> first.</p>
+
+<h2>Links, mentions and AI visibility</h2>
+<p>SaaS markets are competitive, and authority matters. Useful sources of links and mentions include original data, integration partner directories, expert commentary and genuinely useful free tools. Our <a href="/services/digital-pr-content/">digital PR and content service</a> covers this, and our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR link building in the UK</a> explains the approach. Being mentioned on trusted review sites and in comparison articles also helps AI assistants recommend your product.</p>
+
+<h2>Measuring SaaS SEO</h2>
+<p>Traffic is a weak measure on its own. Better metrics include organic sign-ups or trials, demo requests, assisted conversions, visibility for comparison and alternative terms, and revenue from organic-sourced accounts where your CRM can track it. Set up GA4 and your product analytics so organic visitors can be followed through to activation, while respecting UK GDPR and cookie consent. Results typically take 3 to 6 months to build.</p>
+
+<h2>Checklist: choosing a SaaS SEO agency</h2>
+<ul>
+<li>Do they ask about your ideal customer, pricing model and sales cycle?</li>
+<li>Will they prioritise comparison, alternative and integration pages?</li>
+<li>Can they handle JavaScript, docs and subdomain issues?</li>
+<li>Do they write product-led content, with product screenshots and real workflows?</li>
+<li>How will they measure sign-ups, trials and demos, not just traffic?</li>
+<li>Do they have a plan for links and mentions?</li>
+<li>Will they work with your product and engineering teams on releases?</li>
+<li>Are fees, scope and terms clear?</li>
+</ul>
+
+<h2>How much does SaaS SEO cost?</h2>
+<p>Our monthly retainers are £350, £750 or £1,500, depending on scope and the volume of content and technical work. Our <a href="/services/seo-geo/">SEO and GEO service</a> page explains what is included, and our article on <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> covers fee models in more detail.</p>
+<p>If you run a SaaS company and want search to bring in more qualified trials and demos, book a free discovery call through our <a href="/contact/">contact page</a> and we will talk through your product, market and goals.</p>
+
+<h2>FAQs</h2>
+<h3>What does a SaaS SEO agency in the UK do?</h3>
+<p>It plans and creates product-led content, comparison, alternative and integration pages, fixes technical SEO issues across marketing sites and docs, builds links and mentions, and measures impact on sign-ups and demos.</p>
+<h3>How long does SaaS SEO take to work?</h3>
+<p>Results typically take 3 to 6 months, depending on competition, your domain's authority and how much technical work is needed.</p>
+<h3>Should I create competitor comparison pages?</h3>
+<p>Usually yes, as they target buyers close to a decision. Keep them fair, accurate and dated, and have comparative claims checked by your own team.</p>
+<h3>Should my blog be on a subdomain or subfolder?</h3>
+<p>Many SEO practitioners prefer a subfolder so content builds authority for the main domain, but the right choice depends on your technical set-up.</p>
+<h3>Is content or technical SEO more important for SaaS?</h3>
+<p>Both matter. Technical issues can stop good content being found, while a technically perfect site without useful content will not attract buyers.</p>
+<h3>How do I measure SEO for a SaaS business?</h3>
+<p>Track organic sign-ups, trials, demo requests and assisted conversions, plus visibility for high-intent comparison and integration searches.</p>
+`,
+  },
+  {
+    slug: 'seo-for-small-business-uk',
+    seoTitle: 'SEO for Small Business UK: Priorities, Budget, DIY vs Agency',
+    title: 'SEO for Small Businesses in the UK: Where to Start and What to Spend',
+    description: 'SEO for small businesses in the UK: what to fix first, realistic budgets, what you can do yourself and when it makes sense to bring in an SEO agency.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>SEO for a small business in the UK means making sure the people searching for what you sell, in the places you serve, can find you on Google and choose you. For most small firms, the priorities are a fast, clear website, a complete Google Business Profile, a dedicated page for each service and a steady stream of reviews.</p>
+<p>You do not need a huge budget to get started. This guide sets out what to do first, what SEO typically costs, what you can do yourself and when it is worth paying an agency.</p>
+
+<h2>SEO for small business UK: why it is worth the effort</h2>
+<p>Search is often where buying starts. Someone needing an accountant, a dog groomer, a kitchen fitter or a wedding venue will usually search, compare a few results and contact one or two. If you are not visible, they never see you. Unlike paid ads, organic rankings keep working when you stop spending, which suits small businesses with tight cash flow, once the groundwork is done.</p>
+<p>SEO is also increasingly about AI search. Tools such as Google's AI Overviews and ChatGPT draw on websites that explain things clearly. The same habits that help you rank, such as plain answers, specific service pages and consistent business details, help you get mentioned there too. Our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> explains more.</p>
+
+<h2>The priorities, in order</h2>
+<p>Small businesses have limited time, so order matters. Work through these roughly in sequence.</p>
+<table>
+<thead><tr><th>Priority</th><th>What to do</th><th>Effort</th><th>DIY friendly?</th></tr></thead>
+<tbody>
+<tr><td>1. Tracking</td><td>Set up Google Search Console and analytics so you can see what is happening</td><td>Low</td><td>Yes</td></tr>
+<tr><td>2. Google Business Profile</td><td>Claim, verify and complete it; choose accurate categories; add photos</td><td>Low</td><td>Yes</td></tr>
+<tr><td>3. Website basics</td><td>Mobile-friendly, fast, secure, with clear contact details on every page</td><td>Medium</td><td>Partly</td></tr>
+<tr><td>4. Service pages</td><td>One page per main service, written around what customers search for</td><td>Medium</td><td>Yes, with guidance</td></tr>
+<tr><td>5. Reviews</td><td>Ask every happy customer for a Google review and reply to all of them</td><td>Low, ongoing</td><td>Yes</td></tr>
+<tr><td>6. Technical fixes</td><td>Broken links, redirects, indexing problems, page speed</td><td>Medium to high</td><td>Often needs help</td></tr>
+<tr><td>7. Content and links</td><td>Helpful guides and earning mentions from local or trade sites</td><td>High, ongoing</td><td>Partly</td></tr>
+</tbody>
+</table>
+<h3>Get your website right first</h3>
+<p>If your site is slow, hard to use on a phone or built on a platform you cannot edit, SEO work will struggle. A small business website does not need to be complicated, but it does need clear navigation, fast pages and room to add service and location pages. If yours needs replacing, a small website from us costs &pound;1,000 to &pound;2,000; see our <a href="/services/website-ecommerce-development/">website development service</a> for what that includes.</p>
+<h3>One page per service</h3>
+<p>A common mistake is listing every service on a single page. If you offer boiler servicing, bathroom fitting and emergency plumbing, each deserves its own page with its own title, a clear description, prices or a price guide where you can, FAQs and a call to action. That gives Google a specific page to rank for each search.</p>
+<h3>Local visibility</h3>
+<p>If you serve customers in a particular town or region, local SEO is likely your biggest opportunity. Your Google Business Profile, reviews and consistent name, address and phone details across directories all feed into the map results. Make sure your town or area appears naturally on your service pages too.</p>
+
+<h2>How much should a small business spend on SEO?</h2>
+<p>There is no fixed rule, but it helps to think in terms of what a new customer is worth. If one new client is worth several hundred pounds a year, even a modest monthly budget can pay back once rankings build. Our <a href="/pricing/">pricing page</a> sets out our starting retainers:</p>
+<ul>
+<li><strong>Launch, from &pound;350 a month:</strong> for small local businesses that need the basics done properly</li>
+<li><strong>Growth, from &pound;750 a month:</strong> for established SMEs wanting regular content and technical work</li>
+<li><strong>Scale, from &pound;1,500 a month:</strong> for growing businesses that also want paid ads managed, with ad spend paid separately</li>
+</ul>
+<p>For more detail on how agencies price their work, read our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>. Whatever you spend, give it time: SEO results typically take 3 to 6 months to show, and longer in very competitive markets.</p>
+
+<h2>DIY SEO versus hiring an agency</h2>
+<p>Many small business owners can handle a good share of SEO themselves. The question is whether the time is better spent elsewhere.</p>
+<table>
+<thead><tr><th></th><th>DIY</th><th>Agency</th></tr></thead>
+<tbody>
+<tr><td>Cost</td><td>Your time, plus tools if needed</td><td>Monthly retainer</td></tr>
+<tr><td>Best for</td><td>Google Business Profile, reviews, writing about your own services</td><td>Technical fixes, keyword planning, content strategy, link building</td></tr>
+<tr><td>Risks</td><td>Slow progress, missed technical issues, inconsistent effort</td><td>Paying for vague work if scope and reporting are unclear</td></tr>
+<tr><td>Speed</td><td>Depends on how much time you can commit</td><td>Usually faster, as work happens every month</td></tr>
+</tbody>
+</table>
+<p>A sensible middle path is to handle reviews and your Google Business Profile yourself while an agency covers technical work and content planning. If you do hire help, our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency in the UK</a> lists the questions to ask, and our <a href="/services/seo-geo/">SEO and GEO service</a> page explains how we work.</p>
+<h3>Warning signs when hiring</h3>
+<ul>
+<li>Guaranteed rankings or "page one in 30 days" promises</li>
+<li>Vague monthly reports with no list of work completed</li>
+<li>Bought links or large numbers of low-quality directory submissions</li>
+<li>Long lock-in contracts before any results are possible</li>
+<li>The agency owning your website, content or Google accounts</li>
+</ul>
+
+<h2>Small business SEO checklist</h2>
+<ul>
+<li>Google Search Console and analytics installed and checked monthly</li>
+<li>Google Business Profile verified, complete and updated with photos and posts</li>
+<li>Name, address and phone number identical across your site and directories</li>
+<li>Website loads quickly and works well on mobile</li>
+<li>A separate page for each main service, with FAQs and a clear call to action</li>
+<li>Unique title tags and meta descriptions on key pages</li>
+<li>A simple routine for requesting and replying to reviews</li>
+<li>Redirects in place for any old or moved pages</li>
+<li>Helpful content answering real customer questions, linked to service pages</li>
+<li>Links and mentions from local organisations, suppliers or trade bodies, which our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> covers</li>
+</ul>
+
+<h2>A realistic first 90 days</h2>
+<p>For a typical UK small business starting from scratch, the first three months might look like this. In month one, set up tracking, complete your Google Business Profile, fix obvious technical problems and decide which services and areas matter most. In month two, rewrite or create a page for each main service, tighten title tags and meta descriptions, and start asking every customer for a review. In month three, add a few helpful articles answering questions customers genuinely ask, and look for easy local links, such as suppliers, trade associations, sponsorships and local business groups.</p>
+<p>By the end of that period you should see more of your pages indexed and some movement in impressions in Search Console, even if enquiries have not yet grown much. That is normal. Enquiries usually follow once rankings settle, which is why SEO rewards consistency rather than short bursts of activity.</p>
+
+<h2>Common small business SEO mistakes</h2>
+<p>Changing website without planning redirects is one of the most costly. If you are redesigning, read our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> first. Other frequent problems include targeting very broad national terms you cannot realistically win, stuffing town names into pages, and stopping after a couple of months just before results begin to appear.</p>
+
+<p>If you would like a straightforward view of where your business stands and what to do first, book a free discovery call through our <a href="/contact/">contact page</a>. We will tell you honestly whether DIY, an agency or a mix makes most sense.</p>
+
+<h2>FAQs</h2>
+<h3>Is SEO for small business UK owners worth the money?</h3>
+<p>Usually, if customers search for what you sell. Once rankings build, they keep bringing enquiries without paying per click, though it typically takes 3 to 6 months to see results.</p>
+<h3>Can I do SEO for my small business myself?</h3>
+<p>Yes, much of it. Your Google Business Profile, reviews and service page copy are very DIY friendly. Technical fixes and link building are where outside help tends to pay off.</p>
+<h3>How much does SEO cost for a small business?</h3>
+<p>Our retainers start at &pound;350 a month for small local businesses, with Growth and Scale plans at &pound;750 and &pound;1,500 a month. The right level depends on competition and goals.</p>
+<h3>What should a small business do first for SEO?</h3>
+<p>Set up Search Console, complete your Google Business Profile and make sure your website is fast, mobile-friendly and has one clear page for each service.</p>
+<h3>Do I need a blog for SEO?</h3>
+<p>Not at first. Strong service pages and a good Google Business Profile matter more. A blog helps later if each article answers real customer questions and links to your services.</p>
+<h3>Is local SEO different from normal SEO?</h3>
+<p>It is a part of SEO focused on map results and searches with a location. It relies heavily on your Google Business Profile, reviews and consistent business details.</p>
+`,
+  },
+  {
+    slug: 'shopify-seo-uk',
+    seoTitle: 'Shopify SEO UK: A Practical Guide for Online Stores',
+    title: 'Shopify SEO for UK Stores: Collections, Duplicate URLs, Schema and Speed',
+    description: 'Shopify SEO for UK stores: how to optimise collections, fix duplicate product URLs, add schema, speed up your theme and avoid app bloat that slows sales.',
+    date: '2026-10-30',
+    category: 'Ecommerce',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Shopify SEO in the UK comes down to five things: well-optimised collection pages, clean product URLs, accurate structured data, a fast theme and a lean set of apps. Shopify handles a lot of the basics for you, but it also has quirks that quietly hold stores back if nobody fixes them.</p>
+<p>This guide walks through each area in plain English, with a table of common Shopify issues and a checklist you can work through yourself or hand to a developer.</p>
+
+<h2>Shopify SEO UK: what the platform does for you</h2>
+<p>Shopify is a solid starting point for search. It generates an XML sitemap automatically, adds canonical tags to most pages, gives you editable title tags and meta descriptions, uses HTTPS by default and lets you create URL redirects from the admin. For a small UK store, that removes many of the technical headaches that self-hosted platforms bring.</p>
+<p>What Shopify does not do is decide which pages deserve to rank, write useful copy, control how your theme links between pages or stop apps loading heavy scripts. Those decisions are where most Shopify stores win or lose organic traffic. If you are still choosing a platform, our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce for UK businesses</a> covers the trade-offs.</p>
+
+<h2>Optimise collections first</h2>
+<p>Collections are Shopify's category pages, and they usually match the searches with the most buying intent. Someone searching "linen bedding sets" wants a range to compare, which a collection page delivers and a single product page does not.</p>
+<h3>What a strong collection page includes</h3>
+<ul>
+<li>A title tag and H1 that use the phrase people actually search for, written naturally</li>
+<li>A short introduction above or near the product grid explaining the range, materials or who it suits</li>
+<li>Further helpful copy lower down: buying advice, sizing notes and a few FAQs on delivery or care</li>
+<li>Links to related collections and to relevant buying guides</li>
+<li>A meta description that sells the click, mentioning UK delivery or returns where relevant</li>
+</ul>
+<p>Avoid creating dozens of near-identical collections that target the same phrase. Two collections called "mens trainers" and "trainers for men" compete with each other. Pick one, make it excellent and redirect the other.</p>
+<h3>Tag-filtered collection pages</h3>
+<p>Shopify lets shoppers filter collections by tag, which can create URLs like /collections/dresses/red. Some themes let Google crawl and index every combination, producing large numbers of thin pages. Depending on your theme and filter setup, you may want to keep these out of the index or, where a filtered view has real search demand, turn it into a proper standalone collection with its own copy.</p>
+
+<h2>Fix duplicate product URLs</h2>
+<p>This is the best-known Shopify SEO issue. A product can be reached at /products/blue-linen-shirt and also at /collections/shirts/products/blue-linen-shirt. Shopify adds a canonical tag pointing to the /products/ version, which helps, but many themes still link internally to the collection-based path. That sends mixed signals and wastes crawl activity.</p>
+<p>The fix is usually a small theme edit so that product links in collection grids point directly to the /products/ URL. A developer can do this in an hour or two on most themes. It is worth checking after any theme change, because new themes sometimes reintroduce the problem.</p>
+<table>
+<thead><tr><th>Common Shopify issue</th><th>What it causes</th><th>Typical fix</th></tr></thead>
+<tbody>
+<tr><td>Theme links to /collections/.../products/ URLs</td><td>Duplicate URLs and diluted signals</td><td>Edit theme so product links use the canonical /products/ path</td></tr>
+<tr><td>Indexable tag and filter pages</td><td>Many thin, near-duplicate pages</td><td>Limit indexing, or build real collections where demand exists</td></tr>
+<tr><td>Duplicate default titles</td><td>Pages competing or looking generic in results</td><td>Write unique title tags for key collections and products</td></tr>
+<tr><td>Deleted products with no redirect</td><td>404 errors and lost links</td><td>Redirect to the closest product or collection</td></tr>
+<tr><td>Manufacturer descriptions copied verbatim</td><td>No reason for Google to prefer your page</td><td>Rewrite with your own detail, specs and UK-relevant information</td></tr>
+<tr><td>Too many apps loading scripts</td><td>Slow pages and weaker Core Web Vitals</td><td>Audit apps, remove unused ones and leftover code</td></tr>
+<tr><td>Missing or broken product schema</td><td>Fewer rich results such as price and availability</td><td>Check theme schema and fix errors in testing tools</td></tr>
+</tbody>
+</table>
+
+<h2>Structured data on Shopify</h2>
+<p>Structured data helps search engines understand your products: name, price in GBP, availability, brand and reviews. Many modern Shopify themes include basic product schema, but quality varies. Common problems include missing GTINs, prices that do not update for variants, review markup that does not match visible reviews and duplicate schema blocks when an app adds its own on top of the theme's.</p>
+<p>Test a handful of product pages with Google's Rich Results Test and check the enhancement reports in Search Console. Aim for one clean, accurate block of product schema per page, plus breadcrumb and organisation markup. Accurate data also helps AI search tools describe your products correctly, which we explain in our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>. If you run <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a>, keep schema and your Merchant Center feed consistent.</p>
+
+<h2>Speed and Core Web Vitals</h2>
+<p>Most UK shoppers browse on their phones, so mobile speed matters for both rankings and conversion. On Shopify, the biggest speed problems usually come from heavy themes, oversized images, autoplay video, third-party chat or review widgets and apps that inject scripts on every page.</p>
+<ul>
+<li>Use a well-built, lightweight theme and keep customisations tidy</li>
+<li>Compress images and use sensibly sized hero banners</li>
+<li>Avoid sliders and autoplay video above the fold unless they genuinely help sales</li>
+<li>Load chat, review and pop-up tools only where they are needed</li>
+<li>Check Core Web Vitals in Search Console, not just a single lab test</li>
+</ul>
+
+<h2>Apps: helpful, but audit them</h2>
+<p>The Shopify app store makes it easy to add features, and just as easy to slow a store down. Each app can add scripts, styles and sometimes extra pages or duplicate schema. When you uninstall an app, code it injected into the theme can be left behind. Review apps every few months: does each one earn its keep, and is anything left over from apps you no longer use? SEO apps can be useful for bulk editing titles, alt text and redirects, but they cannot replace good collection copy or a sound site structure.</p>
+
+<h2>Migrating to Shopify without losing rankings</h2>
+<p>Moving to Shopify from WooCommerce, Magento or another platform almost always changes URLs, because Shopify uses fixed /products/ and /collections/ paths. Without a full redirect map, you risk losing rankings you have built up over years. Map every old URL to its closest new equivalent, carry over titles and copy, and monitor Search Console closely for several weeks after launch. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> covers the process step by step.</p>
+
+<h2>Shopify SEO checklist</h2>
+<ul>
+<li>Key collections have unique titles, H1s, intro copy and FAQs</li>
+<li>Product links in the theme point to /products/ URLs</li>
+<li>Tag and filter URLs are controlled, not indexed by default</li>
+<li>Products have unique descriptions, not copied manufacturer text</li>
+<li>One accurate product schema block per page, tested without errors</li>
+<li>Images compressed and given descriptive alt text</li>
+<li>Unused apps removed and leftover code cleaned up</li>
+<li>Redirects set for deleted products and changed URLs</li>
+<li>Sitemap submitted and coverage checked in Search Console</li>
+<li>Organic revenue tracked in analytics, not just traffic</li>
+</ul>
+
+<h2>DIY or agency?</h2>
+<p>Many Shopify basics are manageable in-house: writing collection copy, adding alt text and setting redirects. Theme edits, schema fixes, migrations and competitive categories usually need specialist help. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical fixes and content, our <a href="/services/website-ecommerce-development/">ecommerce development</a> team handles theme and build work, and you can see starting prices on our <a href="/pricing/">pricing page</a>. Retainers start at &pound;350 a month, and SEO results typically take 3 to 6 months. Our <a href="/sectors/ecommerce/">ecommerce sector page</a> shows how we approach online retail more widely.</p>
+
+<p>If you would like a second pair of eyes on your Shopify store, book a free discovery call via our <a href="/contact/">contact page</a> and we will point out the fixes most likely to make a difference.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for SEO in the UK?</h3>
+<p>Yes. Shopify covers sitemaps, canonicals, HTTPS and editable titles out of the box. Stores still need good collection content, clean internal links and a fast theme to rank well.</p>
+<h3>What is the most important part of Shopify SEO UK stores should fix first?</h3>
+<p>Usually collection pages and duplicate product URLs. Collections match the strongest buying searches, and fixing theme links to /products/ URLs removes a common source of confused signals.</p>
+<h3>Can I change Shopify URL structure?</h3>
+<p>Not fully. Shopify uses fixed /products/, /collections/ and /pages/ paths. You can edit the handle after the prefix, but always add a redirect when you change one.</p>
+<h3>Do I need a Shopify SEO app?</h3>
+<p>Not necessarily. Some apps save time on bulk edits, but they add code and cannot replace good content or structure. Install only what you will use and review regularly.</p>
+<h3>How long does Shopify SEO take?</h3>
+<p>Technical fixes can show benefits within weeks, but meaningful growth in organic traffic and sales typically takes 3 to 6 months, depending on competition and the state of the store.</p>
+<h3>Will apps slow down my Shopify store?</h3>
+<p>They can. Many apps load scripts on every page, and some leave code behind after uninstalling. Regular app audits are one of the simplest ways to protect speed.</p>
+`,
+  },
+  {
+    slug: 'technical-seo-audit-checklist',
+    seoTitle: 'Technical SEO Audit Checklist: Crawl, Index, CWV, Redirects',
+    title: 'Technical SEO Audit Checklist: Crawling, Indexing, Core Web Vitals and Redirects',
+    description: 'A technical SEO audit checklist covering crawling, indexing, Core Web Vitals, redirects and structured data, with a symptom-to-fix table for common issues.',
+    date: '2026-10-30',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A technical SEO audit checks whether search engines can crawl, index and understand your website, and whether your pages load quickly and work well for visitors. The essentials are crawlability, indexation, Core Web Vitals, redirects, internal links and structured data, checked in that order because problems early in the chain block everything after them.</p>
+<p>Use this checklist to run your own audit or to judge an audit from an agency. It includes a symptom-to-fix table for the issues that come up most often on UK business and ecommerce sites.</p>
+
+<h2>Before you start: tools you need</h2>
+<p>You do not need expensive software for a useful audit. The essentials are:</p>
+<ul>
+<li><strong>Google Search Console</strong> for indexing reports, Core Web Vitals, sitemaps and manual actions</li>
+<li><strong>A site crawler</strong> to list every URL, status code, title, canonical and internal link</li>
+<li><strong>PageSpeed Insights</strong> for lab and real-user speed data</li>
+<li><strong>Google's Rich Results Test</strong> for structured data</li>
+<li><strong>Your analytics</strong> to see which pages drive enquiries and sales, so you can prioritise</li>
+</ul>
+
+<h2>Technical SEO audit checklist</h2>
+<h3>1. Crawling</h3>
+<ul>
+<li>Robots.txt does not block important sections, CSS or JavaScript</li>
+<li>XML sitemap exists, lists only indexable 200-status URLs and is submitted in Search Console</li>
+<li>Important pages are reachable within a few clicks from the homepage</li>
+<li>No large sections of crawlable junk URLs, such as endless filter or search combinations</li>
+<li>Server responds reliably, without frequent 5xx errors</li>
+<li>Key content is visible in the rendered HTML, not hidden behind scripts that fail to load</li>
+</ul>
+<h3>2. Indexing</h3>
+<ul>
+<li>Search Console page indexing report reviewed for excluded pages that should be indexed</li>
+<li>No accidental noindex tags on important pages, a common leftover after a site launch</li>
+<li>Canonical tags point to the correct, preferred version of each page</li>
+<li>One version of the site resolves: HTTPS, with www or non-www chosen and enforced</li>
+<li>Duplicate and thin pages consolidated, redirected or kept out of the index</li>
+<li>Soft 404s investigated, especially discontinued products on ecommerce sites</li>
+</ul>
+<h3>3. Core Web Vitals and page experience</h3>
+<ul>
+<li>Largest Contentful Paint, Interaction to Next Paint and Cumulative Layout Shift checked in Search Console field data</li>
+<li>Oversized images compressed and served in modern formats</li>
+<li>Third-party scripts (chat, reviews, tracking, pop-ups) audited and deferred where possible</li>
+<li>Layout shift from late-loading banners, fonts and cookie notices reduced</li>
+<li>Pages usable on mobile, with readable text and tappable buttons</li>
+</ul>
+<h3>4. Redirects and status codes</h3>
+<ul>
+<li>No redirect chains or loops; old URLs go straight to the final destination</li>
+<li>Permanent moves use 301 redirects rather than temporary ones</li>
+<li>Internal links updated to point at final URLs, not redirects</li>
+<li>Broken internal links (404s) fixed, and valuable deleted pages redirected to close equivalents</li>
+<li>Redirect map kept from any past migration and checked for gaps</li>
+</ul>
+<h3>5. Site structure and internal links</h3>
+<ul>
+<li>Clear hierarchy from homepage to categories or services to detail pages</li>
+<li>Money pages receive plenty of internal links with descriptive anchor text</li>
+<li>No orphan pages that nothing links to</li>
+<li>Breadcrumbs used where the site has depth</li>
+</ul>
+<h3>6. On-page technical elements</h3>
+<ul>
+<li>Unique title tags and meta descriptions on important pages</li>
+<li>One clear H1 per page</li>
+<li>Descriptive alt text on meaningful images</li>
+<li>Hreflang set correctly if you run separate sites or sections for other countries</li>
+</ul>
+<h3>7. Structured data</h3>
+<ul>
+<li>Organisation or LocalBusiness markup on the site</li>
+<li>Product, breadcrumb and review markup on ecommerce pages, matching visible content</li>
+<li>Article and FAQ markup where appropriate</li>
+<li>No errors in Search Console enhancement reports</li>
+</ul>
+
+<h2>Symptom to fix: common technical SEO issues</h2>
+<table>
+<thead><tr><th>Symptom</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>New pages not appearing in Google</td><td>Not in sitemap, poorly linked, or marked noindex</td><td>Add to sitemap, link from relevant pages, remove noindex, request indexing</td></tr>
+<tr><td>"Crawled, currently not indexed" on many pages</td><td>Thin or duplicate content, low perceived value</td><td>Improve or consolidate pages; keep low-value URLs out of the index</td></tr>
+<tr><td>Sudden traffic drop after a redesign</td><td>Missing redirects, changed URLs, lost content</td><td>Rebuild redirect map, restore key content, check for noindex</td></tr>
+<tr><td>Wrong URL ranking for a keyword</td><td>Duplicate pages or confused canonicals</td><td>Choose one page, update canonicals and internal links</td></tr>
+<tr><td>Poor Core Web Vitals on mobile</td><td>Heavy images, scripts or theme</td><td>Compress images, defer scripts, simplify templates</td></tr>
+<tr><td>Thousands of URLs crawled for a small site</td><td>Faceted filters, session IDs, parameters</td><td>Limit crawlable parameters, use canonicals, tidy navigation</td></tr>
+<tr><td>Rich results disappeared</td><td>Broken or mismatched structured data</td><td>Test markup, fix errors, match visible content</td></tr>
+<tr><td>Rankings split between www and non-www</td><td>Both versions resolving</td><td>301 redirect to one version, update canonicals and sitemap</td></tr>
+</tbody>
+</table>
+
+<h2>Reading Search Console during an audit</h2>
+<p>Search Console is where an audit becomes specific. The page indexing report groups URLs by reason: not found, excluded by noindex, alternate page with proper canonical, duplicate without user-selected canonical, crawled but not indexed and discovered but not indexed. Each reason points to a different fix. "Alternate page with proper canonical" is usually fine, because it means Google has understood your duplicates. "Duplicate without user-selected canonical" suggests you need clearer canonical tags. "Discovered, currently not indexed" on a large site can mean Google is not prioritising those pages, often because they are weakly linked or there are too many low-value URLs competing for attention.</p>
+<p>Use the URL Inspection tool on a few representative pages from each template: the homepage, a service or category page, a product or article page and a location page if you have them. It shows the canonical Google has chosen, whether the page is indexed, when it was last crawled and how the rendered page looks. If Google's chosen canonical differs from yours, that is a signal worth investigating before anything else.</p>
+<p>Also check the Core Web Vitals report, which groups URLs by template, the crawl stats report for spikes in server errors or slow responses, and the manual actions and security issues sections, which should be empty. Note the date of any sudden change and compare it with releases, plugin updates or content changes on your side.</p>
+
+<h2>How to prioritise what you find</h2>
+<p>A crawler will often report hundreds of warnings. Most do not matter much. Prioritise by asking two questions: does this issue affect pages that drive enquiries or sales, and does it stop Google crawling or indexing them? Blocking problems on money pages come first. Cosmetic warnings on low-value pages can wait.</p>
+<p>It also helps to group fixes by who does them. Content changes can often be made by your team; template, server and redirect changes usually need a developer. If your platform makes simple fixes difficult, it may be time to consider a rebuild; our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service covers that, with small websites from &pound;1,000 to &pound;2,000 and ecommerce sites from &pound;1,500 to &pound;3,500.</p>
+
+<h2>Ecommerce-specific checks</h2>
+<p>Online shops have extra technical risks: filter combinations, product variants, out-of-stock pages and duplicate product URLs. If you run Shopify, our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce</a> covers platform differences, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we combine SEO with paid search. Keep product structured data aligned with any <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping</a> feed so prices and availability match.</p>
+
+<h2>How often to audit</h2>
+<p>Run a full technical audit at least once a year, and always before and after a redesign or platform migration. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> covers the migration checks in detail. Between full audits, review Search Console monthly for new indexing or Core Web Vitals problems.</p>
+<p>Technical health also underpins visibility in AI search tools, which rely on pages they can crawl and parse easily; see our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+
+<h2>DIY or agency audit?</h2>
+<p>Many site owners can work through the checklist above with free tools. An agency adds value in interpreting the findings, prioritising them against revenue and getting fixes implemented. Our <a href="/services/seo-geo/">SEO and GEO service</a> includes technical audits and ongoing fixes, with retainers from &pound;350 a month on our <a href="/pricing/">pricing page</a>. For context on audit and retainer pricing generally, read <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>. After fixes, ranking improvements typically show within 3 to 6 months.</p>
+
+<p>If you would like a technical review of your site and a plain-English list of what to fix first, book a free discovery call through our <a href="/contact/">contact page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a technical SEO audit checklist include?</h3>
+<p>Crawling, indexing, Core Web Vitals, redirects and status codes, site structure, on-page technical elements and structured data, prioritised by their effect on your most valuable pages.</p>
+<h3>How long does a technical SEO audit take?</h3>
+<p>A small site can be reviewed in a day or two. Large ecommerce sites with many templates and filters take longer, especially if the findings need to be prioritised and specified for developers.</p>
+<h3>Can I do a technical SEO audit myself?</h3>
+<p>Yes, with Search Console, a crawler and PageSpeed Insights. The harder parts are interpreting findings, prioritising them and implementing template or server changes.</p>
+<h3>What is the most common technical SEO problem?</h3>
+<p>On many sites it is duplicate or low-value URLs being crawled and indexed, closely followed by missing redirects after a redesign and slow mobile pages.</p>
+<h3>Do Core Web Vitals really affect rankings?</h3>
+<p>They are one of many signals and rarely outweigh relevance and content quality. They matter more for conversions, because slow, jumpy pages lose visitors.</p>
+<h3>How often should I run a technical SEO audit?</h3>
+<p>At least once a year, before and after any migration, and whenever Search Console shows a sudden change in indexed pages or traffic.</p>
+`,
+  },
+  {
+    slug: 'website-design-cost-small-business-uk',
+    seoTitle: 'Website Design Cost for Small Business UK (Guide)',
+    title: 'Website Design Cost for Small Businesses in the UK: What Drives the Price and Hidden Costs',
+    description: 'Website design cost for UK small businesses: typical price ranges, what pushes the price up or down, the hidden running costs, and how to compare quotes.',
+    date: '2026-10-30',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/services/brand-strategy/'],
+    body: `
+<p>Website design cost for a UK small business depends mainly on how many pages you need, how custom the design is and what the site has to do. At Prism Works Studio, a small business website costs £1,000 to £2,000 and an ecommerce site £1,500 to £3,500, but the build is only part of the total cost of owning a website.</p>
+<p>This guide explains what drives the price, compares the main options, lists the hidden costs that catch people out and gives you a checklist for comparing quotes. If you sell online, our dedicated guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost in the UK</a> goes deeper into shops.</p>
+
+<h2>Website design cost for small businesses in the UK</h2>
+<p>Prices across the UK market vary widely because &quot;a website&quot; can mean anything from a template you fill in yourself to a fully custom build with integrations. The table compares the common routes.</p>
+<table>
+<thead><tr><th>Option</th><th>Typical cost</th><th>Good for</th><th>Trade-offs</th></tr></thead>
+<tbody>
+<tr><td>DIY website builder</td><td>Monthly subscription, plus your own time</td><td>Very early-stage businesses testing an idea</td><td>Your time, limited flexibility, design and SEO left to you</td></tr>
+<tr><td>Freelancer</td><td>Varies widely by experience</td><td>Simple brochure sites with a clear brief</td><td>Depends on one person for support and availability</td></tr>
+<tr><td>Small studio or agency (our pricing)</td><td>£1,000 to £2,000 for a small business site; £1,500 to £3,500 for ecommerce</td><td>Businesses wanting a professional, search-ready site and ongoing support</td><td>More structured process and sign-off stages</td></tr>
+<tr><td>Larger agency, fully custom</td><td>Typically higher, quoted per project</td><td>Complex sites, multiple integrations, large content volumes</td><td>Longer timelines and higher ongoing costs</td></tr>
+</tbody>
+</table>
+<p>Our timelines are typically 3 to 5 weeks for a small business website and 5 to 12 weeks for ecommerce, depending on content readiness and how quickly feedback comes back. Full details are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>What drives the price of a website?</h2>
+<h3>Number and type of pages</h3>
+<p>A five-page brochure site is very different from one with dozens of service and location pages. Each unique page layout needs designing and building; repeated templates are cheaper than one-off designs.</p>
+<h3>Design approach</h3>
+<p>Adapting a well-built theme is quicker than designing everything from scratch. If you do not yet have a logo, colours or tone of voice, brand work adds time; our <a href="/services/brand-strategy/">brand strategy service</a> covers that stage.</p>
+<h3>Content</h3>
+<p>Content is the most common cause of delays. Copywriting, photography and video can be supplied by you or produced for you. If you write it yourself, budget your own time realistically.</p>
+<h3>Functionality and integrations</h3>
+<p>Booking systems, CRM connections, payment, membership areas, multilingual content and calculators all add work. List what you need before asking for quotes, so every supplier prices the same thing.</p>
+<h3>SEO foundations</h3>
+<p>A site that is fast, mobile-friendly, properly structured and ready for search engines costs a little more to build but avoids expensive fixes later. If you are replacing an existing site, protecting current rankings is essential; see our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a>.</p>
+<h3>Ecommerce</h3>
+<p>Product catalogues, payment gateways, delivery rules for Royal Mail, Evri or DPD, VAT settings and options such as Klarna or Clearpay push an online shop above a brochure site. Our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce in the UK</a> helps you pick a platform.</p>
+
+<h2>Hidden costs of a small business website</h2>
+<p>The build quote is rarely the whole story. Budget for these ongoing or one-off costs:</p>
+<ul>
+<li><strong>Domain name</strong>, renewed annually.</li>
+<li><strong>Hosting</strong>, which ranges from basic shared plans to managed hosting with backups and security.</li>
+<li><strong>Platform subscriptions</strong> such as Shopify plans, premium themes or plugins.</li>
+<li><strong>Business email</strong> on your own domain.</li>
+<li><strong>Maintenance</strong>: updates, backups, security patches and small edits.</li>
+<li><strong>Legal pages and cookie consent</strong>: a privacy policy and a consent banner that reflect UK GDPR and PECR. Wording should be checked by you or a solicitor, not copied from another site.</li>
+<li><strong>Payment fees</strong> for online shops, charged per transaction.</li>
+<li><strong>Marketing</strong>: a new site does not bring visitors on its own. SEO, ads or content are usually needed to generate enquiries.</li>
+<li><strong>VAT</strong> on supplier invoices if you are not VAT-registered.</li>
+</ul>
+
+<h2>Cheap website vs good value website</h2>
+<p>The lowest quote can become the most expensive option if the site is slow, hard to edit, poorly built for search or locked to a supplier. Value comes from a site that loads quickly, explains what you do clearly, makes it easy to get in touch and can be updated without calling a developer every time. Ask every supplier the same practical questions:</p>
+<ul>
+<li>Will I own the domain, the hosting account and the website files?</li>
+<li>Can I edit text and images myself?</li>
+<li>What happens if I want to move the site to another provider?</li>
+<li>Is basic on-page SEO, such as titles, descriptions and redirects, included?</li>
+</ul>
+
+<h2>Typical website project stages</h2>
+<p>Understanding how a project runs helps you see where the money goes and where delays usually happen. Most small business website projects follow a similar path, whoever builds them.</p>
+<ol>
+<li><strong>Discovery.</strong> Agreeing goals, audience, pages, features and what success looks like. A good brief here prevents expensive changes later.</li>
+<li><strong>Structure and content plan.</strong> Mapping out the pages, deciding which search terms each page should target and listing the content needed.</li>
+<li><strong>Design.</strong> Producing layouts for key pages on desktop and mobile, with an agreed number of revision rounds.</li>
+<li><strong>Build.</strong> Developing the site, adding content, setting up forms, analytics and consent, and connecting any integrations.</li>
+<li><strong>Testing.</strong> Checking speed, mobile layouts, forms, links, redirects and basic accessibility across common browsers.</li>
+<li><strong>Launch and handover.</strong> Going live, submitting the sitemap to Google Search Console and showing you how to edit the site.</li>
+</ol>
+<p>The stage that most often extends the timeline is content. If text and images are ready before the build starts, a small site can comfortably fit our typical 3 to 5 week window. If content is still being written during the build, allow longer.</p>
+<p>It is also worth deciding early whether you need any regulated wording. Businesses in sectors such as healthcare or financial advice have rules about what they can claim on their website, and final sign-off of that wording rests with your own compliance team or adviser rather than the web designer.</p>
+<p>Finally, think about accessibility. Clear headings, readable contrast, descriptive link text and forms that work with a keyboard help every visitor and are increasingly expected by customers and public sector buyers alike. Building them in from the start costs far less than retrofitting them later.</p>
+
+<h2>Checklist: comparing website design quotes</h2>
+<ul>
+<li>Write a short brief: goals, number of pages, must-have features and examples you like.</li>
+<li>Decide who supplies copy and images.</li>
+<li>Ask each supplier to price the same scope.</li>
+<li>Check what is included: design rounds, mobile layouts, SEO set-up, analytics and training.</li>
+<li>Confirm ownership of domain, hosting and site files.</li>
+<li>Ask about the timeline and what you need to deliver, and when.</li>
+<li>List ongoing costs: hosting, licences, maintenance and support.</li>
+<li>Agree how changes after launch are charged.</li>
+</ul>
+
+<h2>Getting value after launch</h2>
+<p>A website is a tool for winning customers, so plan how people will find it. Local businesses benefit from a well-maintained Google Business Profile and location-focused pages; others may need content and search work through our <a href="/services/seo-geo/">SEO and GEO service</a>, or paid campaigns to bring traffic while organic visibility builds. Results from SEO typically take 3 to 6 months. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> page explains how we build sites that are ready for that next step.</p>
+<p>Not sure what to look for in a supplier? Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers the wider questions to ask.</p>
+<p>If you would like a clear quote for your small business website, book a free discovery call through our <a href="/contact/">contact page</a> and we will talk through your goals, pages and budget.</p>
+
+<h2>FAQs</h2>
+<h3>What is the website design cost for a small business in the UK?</h3>
+<p>It varies by scope and supplier. Our small business websites cost £1,000 to £2,000 and ecommerce sites £1,500 to £3,500, with hosting, domains and marketing budgeted separately.</p>
+<h3>How long does it take to build a small business website?</h3>
+<p>Our small business websites typically take 3 to 5 weeks and ecommerce sites 5 to 12 weeks, depending on content and feedback.</p>
+<h3>What ongoing costs should I expect?</h3>
+<p>Domain renewal, hosting, any platform or plugin subscriptions, business email, maintenance and payment fees for shops, plus marketing to bring visitors.</p>
+<h3>Should I use a website builder or hire a designer?</h3>
+<p>A builder can suit a very early-stage business on a tight budget. A designer or studio is usually better when you need a professional look, search-ready structure and support.</p>
+<h3>Will I own my website?</h3>
+<p>You should. Make sure the domain, hosting account and site files are in your name, or that the contract clearly transfers them to you.</p>
+<h3>Does a new website include SEO?</h3>
+<p>Good builds include technical and on-page foundations such as titles, structure and speed. Ongoing SEO, content and link building are usually a separate service.</p>
+`,
+  },
 ];

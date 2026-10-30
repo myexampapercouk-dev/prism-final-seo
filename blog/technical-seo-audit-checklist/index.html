@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Technical SEO Audit Checklist: Crawl, Index, CWV, Redirects</title>
+<meta name="description" content="A technical SEO audit checklist covering crawling, indexing, Core Web Vitals, redirects and structured data, with a symptom-to-fix table for common issues.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Technical SEO Audit Checklist: Crawl, Index, CWV, Redirects">
+<meta property="og:description" content="A technical SEO audit checklist covering crawling, indexing, Core Web Vitals, redirects and structured data, with a symptom-to-fix table for common issues.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-technical-seo-audit-checklist.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=0d13f988">
+<meta property="article:published_time" content="2026-10-30">
+<meta property="article:modified_time" content="2026-10-30">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/#article","headline":"Technical SEO Audit Checklist: Crawling, Indexing, Core Web Vitals and Redirects","description":"A technical SEO audit checklist covering crawling, indexing, Core Web Vitals, redirects and structured data, with a symptom-to-fix table for common issues.","datePublished":"2026-10-30","dateModified":"2026-10-30","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/","url":"https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/","image":"https://prismworksstudio.co.uk/assets/og/blog-technical-seo-audit-checklist.png","inLanguage":"en-GB","wordCount":1516,"articleSection":"SEO","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Technical SEO Audit Checklist: Crawling, Indexing, Core Web Vitals and Redirects","item":"https://prismworksstudio.co.uk/blog/technical-seo-audit-checklist/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should a technical SEO audit checklist include?","acceptedAnswer":{"@type":"Answer","text":"Crawling, indexing, Core Web Vitals, redirects and status codes, site structure, on-page technical elements and structured data, prioritised by their effect on your most valuable pages."}},{"@type":"Question","name":"How long does a technical SEO audit take?","acceptedAnswer":{"@type":"Answer","text":"A small site can be reviewed in a day or two. Large ecommerce sites with many templates and filters take longer, especially if the findings need to be prioritised and specified for developers."}},{"@type":"Question","name":"Can I do a technical SEO audit myself?","acceptedAnswer":{"@type":"Answer","text":"Yes, with Search Console, a crawler and PageSpeed Insights. The harder parts are interpreting findings, prioritising them and implementing template or server changes."}},{"@type":"Question","name":"What is the most common technical SEO problem?","acceptedAnswer":{"@type":"Answer","text":"On many sites it is duplicate or low-value URLs being crawled and indexed, closely followed by missing redirects after a redesign and slow mobile pages."}},{"@type":"Question","name":"Do Core Web Vitals really affect rankings?","acceptedAnswer":{"@type":"Answer","text":"They are one of many signals and rarely outweigh relevance and content quality. They matter more for conversions, because slow, jumpy pages lose visitors."}},{"@type":"Question","name":"How often should I run a technical SEO audit?","acceptedAnswer":{"@type":"Answer","text":"At least once a year, before and after any migration, and whenever Search Console shows a sudden change in indexed pages or traffic."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Technical SEO Audit Checklist: Crawling, Indexing, Core Web Vitals and Redirects</li></ol></nav><span class="pws-eyebrow">SEO</span><h1>Technical SEO Audit Checklist: Crawling, Indexing, Core Web Vitals and Redirects</h1><p class="pws-lead">A technical SEO audit checklist covering crawling, indexing, Core Web Vitals, redirects and structured data, with a symptom-to-fix table for common issues.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-10-30">30 October 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Audit in order: crawling, then indexing, then speed and page experience, then redirects and structured data; fixes higher up unlock everything below.</li><li>Google Search Console is the most important free tool for a technical audit, because it shows what Google actually sees.</li><li>Prioritise fixes by impact on revenue-driving pages rather than trying to clear every warning a crawler reports.</li></ul></div>
+<p>A technical SEO audit checks whether search engines can crawl, index and understand your website, and whether your pages load quickly and work well for visitors. The essentials are crawlability, indexation, Core Web Vitals, redirects, internal links and structured data, checked in that order because problems early in the chain block everything after them.</p>
+<p>Use this checklist to run your own audit or to judge an audit from an agency. It includes a symptom-to-fix table for the issues that come up most often on UK business and ecommerce sites.</p>
+
+<h2>Before you start: tools you need</h2>
+<p>You do not need expensive software for a useful audit. The essentials are:</p>
+<ul>
+<li><strong>Google Search Console</strong> for indexing reports, Core Web Vitals, sitemaps and manual actions</li>
+<li><strong>A site crawler</strong> to list every URL, status code, title, canonical and internal link</li>
+<li><strong>PageSpeed Insights</strong> for lab and real-user speed data</li>
+<li><strong>Google's Rich Results Test</strong> for structured data</li>
+<li><strong>Your analytics</strong> to see which pages drive enquiries and sales, so you can prioritise</li>
+</ul>
+
+<h2>Technical SEO audit checklist</h2>
+<h3>1. Crawling</h3>
+<ul>
+<li>Robots.txt does not block important sections, CSS or JavaScript</li>
+<li>XML sitemap exists, lists only indexable 200-status URLs and is submitted in Search Console</li>
+<li>Important pages are reachable within a few clicks from the homepage</li>
+<li>No large sections of crawlable junk URLs, such as endless filter or search combinations</li>
+<li>Server responds reliably, without frequent 5xx errors</li>
+<li>Key content is visible in the rendered HTML, not hidden behind scripts that fail to load</li>
+</ul>
+<h3>2. Indexing</h3>
+<ul>
+<li>Search Console page indexing report reviewed for excluded pages that should be indexed</li>
+<li>No accidental noindex tags on important pages, a common leftover after a site launch</li>
+<li>Canonical tags point to the correct, preferred version of each page</li>
+<li>One version of the site resolves: HTTPS, with www or non-www chosen and enforced</li>
+<li>Duplicate and thin pages consolidated, redirected or kept out of the index</li>
+<li>Soft 404s investigated, especially discontinued products on ecommerce sites</li>
+</ul>
+<h3>3. Core Web Vitals and page experience</h3>
+<ul>
+<li>Largest Contentful Paint, Interaction to Next Paint and Cumulative Layout Shift checked in Search Console field data</li>
+<li>Oversized images compressed and served in modern formats</li>
+<li>Third-party scripts (chat, reviews, tracking, pop-ups) audited and deferred where possible</li>
+<li>Layout shift from late-loading banners, fonts and cookie notices reduced</li>
+<li>Pages usable on mobile, with readable text and tappable buttons</li>
+</ul>
+<h3>4. Redirects and status codes</h3>
+<ul>
+<li>No redirect chains or loops; old URLs go straight to the final destination</li>
+<li>Permanent moves use 301 redirects rather than temporary ones</li>
+<li>Internal links updated to point at final URLs, not redirects</li>
+<li>Broken internal links (404s) fixed, and valuable deleted pages redirected to close equivalents</li>
+<li>Redirect map kept from any past migration and checked for gaps</li>
+</ul>
+<h3>5. Site structure and internal links</h3>
+<ul>
+<li>Clear hierarchy from homepage to categories or services to detail pages</li>
+<li>Money pages receive plenty of internal links with descriptive anchor text</li>
+<li>No orphan pages that nothing links to</li>
+<li>Breadcrumbs used where the site has depth</li>
+</ul>
+<h3>6. On-page technical elements</h3>
+<ul>
+<li>Unique title tags and meta descriptions on important pages</li>
+<li>One clear H1 per page</li>
+<li>Descriptive alt text on meaningful images</li>
+<li>Hreflang set correctly if you run separate sites or sections for other countries</li>
+</ul>
+<h3>7. Structured data</h3>
+<ul>
+<li>Organisation or LocalBusiness markup on the site</li>
+<li>Product, breadcrumb and review markup on ecommerce pages, matching visible content</li>
+<li>Article and FAQ markup where appropriate</li>
+<li>No errors in Search Console enhancement reports</li>
+</ul>
+
+<h2>Symptom to fix: common technical SEO issues</h2>
+<table>
+<thead><tr><th>Symptom</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>New pages not appearing in Google</td><td>Not in sitemap, poorly linked, or marked noindex</td><td>Add to sitemap, link from relevant pages, remove noindex, request indexing</td></tr>
+<tr><td>"Crawled, currently not indexed" on many pages</td><td>Thin or duplicate content, low perceived value</td><td>Improve or consolidate pages; keep low-value URLs out of the index</td></tr>
+<tr><td>Sudden traffic drop after a redesign</td><td>Missing redirects, changed URLs, lost content</td><td>Rebuild redirect map, restore key content, check for noindex</td></tr>
+<tr><td>Wrong URL ranking for a keyword</td><td>Duplicate pages or confused canonicals</td><td>Choose one page, update canonicals and internal links</td></tr>
+<tr><td>Poor Core Web Vitals on mobile</td><td>Heavy images, scripts or theme</td><td>Compress images, defer scripts, simplify templates</td></tr>
+<tr><td>Thousands of URLs crawled for a small site</td><td>Faceted filters, session IDs, parameters</td><td>Limit crawlable parameters, use canonicals, tidy navigation</td></tr>
+<tr><td>Rich results disappeared</td><td>Broken or mismatched structured data</td><td>Test markup, fix errors, match visible content</td></tr>
+<tr><td>Rankings split between www and non-www</td><td>Both versions resolving</td><td>301 redirect to one version, update canonicals and sitemap</td></tr>
+</tbody>
+</table>
+
+<h2>Reading Search Console during an audit</h2>
+<p>Search Console is where an audit becomes specific. The page indexing report groups URLs by reason: not found, excluded by noindex, alternate page with proper canonical, duplicate without user-selected canonical, crawled but not indexed and discovered but not indexed. Each reason points to a different fix. "Alternate page with proper canonical" is usually fine, because it means Google has understood your duplicates. "Duplicate without user-selected canonical" suggests you need clearer canonical tags. "Discovered, currently not indexed" on a large site can mean Google is not prioritising those pages, often because they are weakly linked or there are too many low-value URLs competing for attention.</p>
+<p>Use the URL Inspection tool on a few representative pages from each template: the homepage, a service or category page, a product or article page and a location page if you have them. It shows the canonical Google has chosen, whether the page is indexed, when it was last crawled and how the rendered page looks. If Google's chosen canonical differs from yours, that is a signal worth investigating before anything else.</p>
+<p>Also check the Core Web Vitals report, which groups URLs by template, the crawl stats report for spikes in server errors or slow responses, and the manual actions and security issues sections, which should be empty. Note the date of any sudden change and compare it with releases, plugin updates or content changes on your side.</p>
+
+<h2>How to prioritise what you find</h2>
+<p>A crawler will often report hundreds of warnings. Most do not matter much. Prioritise by asking two questions: does this issue affect pages that drive enquiries or sales, and does it stop Google crawling or indexing them? Blocking problems on money pages come first. Cosmetic warnings on low-value pages can wait.</p>
+<p>It also helps to group fixes by who does them. Content changes can often be made by your team; template, server and redirect changes usually need a developer. If your platform makes simple fixes difficult, it may be time to consider a rebuild; our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service covers that, with small websites from &pound;1,000 to &pound;2,000 and ecommerce sites from &pound;1,500 to &pound;3,500.</p>
+
+<h2>Ecommerce-specific checks</h2>
+<p>Online shops have extra technical risks: filter combinations, product variants, out-of-stock pages and duplicate product URLs. If you run Shopify, our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce</a> covers platform differences, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we combine SEO with paid search. Keep product structured data aligned with any <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping</a> feed so prices and availability match.</p>
+
+<h2>How often to audit</h2>
+<p>Run a full technical audit at least once a year, and always before and after a redesign or platform migration. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> covers the migration checks in detail. Between full audits, review Search Console monthly for new indexing or Core Web Vitals problems.</p>
+<p>Technical health also underpins visibility in AI search tools, which rely on pages they can crawl and parse easily; see our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a>.</p>
+
+<h2>DIY or agency audit?</h2>
+<p>Many site owners can work through the checklist above with free tools. An agency adds value in interpreting the findings, prioritising them against revenue and getting fixes implemented. Our <a href="/services/seo-geo/">SEO and GEO service</a> includes technical audits and ongoing fixes, with retainers from &pound;350 a month on our <a href="/pricing/">pricing page</a>. For context on audit and retainer pricing generally, read <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a>. After fixes, ranking improvements typically show within 3 to 6 months.</p>
+
+<p>If you would like a technical review of your site and a plain-English list of what to fix first, book a free discovery call through our <a href="/contact/">contact page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a technical SEO audit checklist include?</h3>
+<p>Crawling, indexing, Core Web Vitals, redirects and status codes, site structure, on-page technical elements and structured data, prioritised by their effect on your most valuable pages.</p>
+<h3>How long does a technical SEO audit take?</h3>
+<p>A small site can be reviewed in a day or two. Large ecommerce sites with many templates and filters take longer, especially if the findings need to be prioritised and specified for developers.</p>
+<h3>Can I do a technical SEO audit myself?</h3>
+<p>Yes, with Search Console, a crawler and PageSpeed Insights. The harder parts are interpreting findings, prioritising them and implementing template or server changes.</p>
+<h3>What is the most common technical SEO problem?</h3>
+<p>On many sites it is duplicate or low-value URLs being crawled and indexed, closely followed by missing redirects after a redesign and slow mobile pages.</p>
+<h3>Do Core Web Vitals really affect rankings?</h3>
+<p>They are one of many signals and rarely outweigh relevance and content quality. They matter more for conversions, because slow, jumpy pages lose visitors.</p>
+<h3>How often should I run a technical SEO audit?</h3>
+<p>At least once a year, before and after any migration, and whenever Search Console shows a sudden change in indexed pages or traffic.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Technical%20SEO%20Audit%20Checklist%3A%20Crawling%2C%20Indexing%2C%20Core%20Web%20Vitals%20and%20Redirects'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/what-is-generative-engine-optimisation/"><p class="pws-tags">SEO &middot; 7 min read</p><h3>What Is Generative Engine Optimisation (GEO)? A Guide for UK Businesses</h3><p>Generative engine optimisation (GEO) explained: how ChatGPT, Google AI Overviews and Perplexity choose sources, and practical steps to get your business cited.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-redesign-without-losing-rankings/"><p class="pws-tags">SEO &middot; 7 min read</p><h3>How to Redesign or Migrate a Website Without Losing Your SEO Rankings</h3><p>A step-by-step plan to redesign or migrate a website without losing SEO rankings: URL mapping, 301 redirects, content, testing and post-launch checks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/seo-for-small-business-uk/"><p class="pws-tags">SEO &middot; 7 min read</p><h3>SEO for Small Businesses in the UK: Where to Start and What to Spend</h3><p>SEO for small businesses in the UK: what to fix first, realistic budgets, what you can do yourself and when it makes sense to bring in an SEO agency.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Technical%20SEO%20Audit%20Checklist%3A%20Crawling%2C%20Indexing%2C%20Core%20Web%20Vitals%20and%20Redirects'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Chat now</span></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+</body>
+</html>
