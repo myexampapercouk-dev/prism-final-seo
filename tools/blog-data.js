@@ -11345,4 +11345,559 @@ module.exports = [
 <p>Someone who understands your positioning and customers, often with input from leadership and front-line staff. An agency can facilitate and write it.</p>
 `,
   },
+  {
+    slug: 'beauty-salon-marketing-uk',
+    seoTitle: 'Beauty Salon Marketing UK: Fill Your Booking Diary',
+    title: 'Beauty Salon Marketing UK: How to Fill Your Booking Diary',
+    description: 'Beauty salon marketing UK guide: local SEO, Google Business Profile, Instagram, paid ads and rebooking tactics that help salons fill appointments.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Beauty salon marketing in the UK works best when it makes your salon easy to find locally, easy to trust from photos and reviews, and easy to book in a few taps. For most salons, that means a strong Google Business Profile, a mobile-friendly website with online booking, consistent Instagram content and a rebooking routine that keeps loyal clients coming back.</p>
+<p>This guide is for owners of beauty salons, nail bars, lash and brow studios, aesthetics-adjacent beauty businesses and hair salons who want a practical plan rather than a long list of platforms to post on.</p>
+
+<h2>What makes salon marketing different</h2>
+<p>Beauty services are visual, personal and repeat. A client chooses based on the look of your work, how the salon feels, what others say about you and whether there is a slot that suits them. Once they trust you, they can return for years. That means marketing has two jobs: winning first appointments and protecting the relationship afterwards.</p>
+<p>Competition is usually local. A client wants a salon close to home or work, so you are often competing with a handful of businesses within a few miles, plus mobile therapists and home-based studios. Clear positioning helps: specialist treatments, a calm environment, late opening, a particular style or a strong reputation for one service.</p>
+
+<h2>Google Business Profile and local search come first</h2>
+<p>Searches like "nail salon near me" or "lash lift in [town]" lead straight to the map results. A strong profile includes:</p>
+<ul>
+<li>The most accurate primary category, such as beauty salon, nail salon or hair salon, plus relevant secondary ones.</li>
+<li>A full list of services with clear descriptions.</li>
+<li>Recent, well-lit photos of your work and the salon itself.</li>
+<li>A booking link that goes straight to your booking system.</li>
+<li>Regular reviews, with polite replies to all of them.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers each setting, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to rank in the map pack. If you would rather hand it over, our <a href="/services/seo-geo/">SEO service</a> includes local search work.</p>
+
+<h2>A website that books, not just informs</h2>
+<p>Many salons rely on social media alone, but a website gives you something you own, pages that can rank for each treatment and a place to show prices and policies clearly. A good salon website usually has:</p>
+<ul>
+<li>A page for each main treatment, with what it involves, how long it takes and aftercare notes.</li>
+<li>Prices or "from" prices, so clients are not surprised.</li>
+<li>Booking buttons on every page, linked to your booking system.</li>
+<li>Clear policies on deposits, cancellations and patch tests where relevant.</li>
+<li>Fast loading and simple navigation on mobile.</li>
+</ul>
+<p>Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains what is involved in a rebuild. A small website from us is typically £1,000 to £2,000 and takes three to five weeks.</p>
+
+<h2>Beauty salon marketing UK channels at a glance</h2>
+<table>
+<thead><tr><th>Channel</th><th>Role</th><th>Quick win</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Local discovery and trust</td><td>Add a booking link and fresh photos</td></tr>
+<tr><td>Website and SEO</td><td>Treatment searches and a home for prices</td><td>One page per main treatment</td></tr>
+<tr><td>Instagram and TikTok</td><td>Showing your work and personality</td><td>Short videos of treatments and results</td></tr>
+<tr><td>Meta ads</td><td>Filling quiet days and launching new treatments</td><td>Radius targeting with a clear offer</td></tr>
+<tr><td>Google Ads</td><td>People actively searching for a treatment</td><td>Tight local targeting on treatment terms</td></tr>
+<tr><td>Email and SMS</td><td>Rebooking and reminders</td><td>Rebooking prompts timed to each treatment</td></tr>
+</tbody>
+</table>
+
+<h2>Instagram and short video</h2>
+<p>Instagram remains a natural showcase for beauty work, and short video on Reels and TikTok can reach new local clients. Content that tends to work includes:</p>
+<ul>
+<li>Short process videos showing a treatment from start to finish.</li>
+<li>Close-up photos of finished work in good natural light.</li>
+<li>Explainers answering common questions, such as how long a lash lift lasts or how to look after gel nails.</li>
+<li>Glimpses of the salon atmosphere and your team, if they are happy to appear.</li>
+</ul>
+<p>Only post client photos with clear permission, and keep edited images honest. Filters that change how a result looks can mislead and may breach advertising rules. Put the booking link in your bio and make it one tap to a slot.</p>
+
+<h2>Paid ads to fill quiet days</h2>
+<p>Paid social is useful for filling midweek gaps, promoting a new treatment or building a list of local clients. Target a sensible radius, use real photos or video of your work and send people to a booking page rather than a general homepage. Track bookings, not just clicks.</p>
+<p>Google Ads can also work for higher-value treatments where people search with clear intent. Keep location targeting tight and use negative keywords to avoid training courses or product searches. Our <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads guide</a> and <a href="/blog/google-ads-for-small-business-uk/">Google Ads guide for small businesses</a> explain the setup. We run campaigns through our <a href="/services/paid-media/">paid media service</a>, with ad spend paid separately.</p>
+
+<h2>Rebooking, reminders and retention</h2>
+<p>The fastest way to a full diary is often your existing clients. Practical habits include:</p>
+<ul>
+<li>Offering to book the next appointment before the client leaves.</li>
+<li>Sending reminders timed to each treatment, such as infills or root touch-ups.</li>
+<li>A simple loyalty or referral offer that rewards regulars.</li>
+<li>A short follow-up message after a first visit asking how they found it and inviting a review.</li>
+</ul>
+<p>Email and SMS marketing must follow UK GDPR and PECR, so collect clear consent and make it easy to opt out. Appointment reminders are different from marketing messages, but it is still sensible to explain how you use contact details.</p>
+
+<h2>Compliance points to keep in mind</h2>
+<p>Some treatments carry specific rules, for example around patch testing, age restrictions or local licensing for certain procedures. Advertising claims about results should be honest and evidenced, in line with the CAP Code. This guide is general information only; the salon owner is responsible for checking the rules that apply to their treatments and signing off any claims. If you offer non-surgical aesthetic treatments, take extra care, as rules in this area have been changing.</p>
+
+<h2>Measuring progress</h2>
+<p>Track bookings by source where your booking system allows, new versus returning clients, rebooking rate, no-shows and revenue per available hour. Google Analytics 4 can track booking button clicks and completed bookings if set up properly; see our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>. SEO and paid results typically take three to six months to settle.</p>
+
+<h2>A simple monthly marketing routine</h2>
+<p>Salon owners are busy, so a routine you can keep up beats an ambitious plan you abandon. A realistic monthly rhythm might look like this:</p>
+<ol>
+<li><strong>Week one:</strong> check your diary for the coming month and identify quiet days or treatments with spare capacity.</li>
+<li><strong>Week two:</strong> plan and batch-create a few weeks of social content, focusing on the treatments you want to fill.</li>
+<li><strong>Week three:</strong> add new photos and a post to your Google Business Profile, and reply to any outstanding reviews.</li>
+<li><strong>Week four:</strong> review bookings by source, rebooking rate and ad results, then adjust next month's plan.</li>
+</ol>
+<p>Treat seasonal moments as planning anchors. Wedding season, school proms, Christmas parties and summer holidays all shift demand for particular treatments. Promote the right services a few weeks before demand peaks, not on the day.</p>
+
+<h2>Common salon marketing mistakes</h2>
+<ul>
+<li><strong>Relying only on Instagram.</strong> If your account has a problem or reach falls, enquiries can dry up. A website and Google profile give you more stable foundations.</li>
+<li><strong>Hiding prices.</strong> Clients who cannot see a rough price often move on to a salon that shows one.</li>
+<li><strong>Too many steps to book.</strong> Every extra click or message loses people. Link directly to a booking page.</li>
+<li><strong>Discounting by default.</strong> Constant discounts can attract bargain hunters who never rebook. Use offers for specific purposes, such as quiet slots or new treatments.</li>
+<li><strong>Ignoring reviews.</strong> Unanswered reviews, especially critical ones, can put off new clients.</li>
+</ul>
+<p>If you want ideas on keeping a consistent voice across all of this, our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> may help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help salons with local SEO, websites with booking, and paid social and search campaigns. Retainers are Launch (£350/m), Growth (£750/m) and Scale (£1,500/m). Full details are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best beauty salon marketing UK approach for a new salon?</h3>
+<p>Set up a complete Google Business Profile with a booking link, build a simple website with treatment pages, post your work consistently on Instagram and ask every happy client for a review. Add paid ads once booking and follow-up work smoothly.</p>
+<h3>Do salons need a website if they have Instagram?</h3>
+<p>A website is strongly recommended. You own it, it can rank in Google for treatment searches and it gives clients a clear place to see prices, policies and booking.</p>
+<h3>How do I get more salon bookings on quiet days?</h3>
+<p>Use targeted Meta ads or messages to existing clients promoting specific slots, and make rebooking part of every appointment so the diary fills further ahead.</p>
+<h3>How do I get more Google reviews for my salon?</h3>
+<p>Ask at the end of a good appointment and follow up with a short link. Do not offer incentives for reviews, and reply to every review politely.</p>
+<h3>Can I use before and after photos in salon ads?</h3>
+<p>Often yes, with the client's clear permission and without editing that misrepresents results. Advertising rules apply, so check claims and leave final sign-off with the salon.</p>
+<h3>How much does salon marketing cost?</h3>
+<p>Our retainers start at £350 per month, with ad spend paid separately. A small website is typically £1,000 to £2,000.</p>
+`,
+  },
+  {
+    slug: 'care-home-marketing-uk',
+    seoTitle: 'Care Home Marketing UK: A Practical Guide for Providers',
+    title: 'Care Home Marketing UK: A Practical Guide for Providers',
+    description: 'Care home marketing UK guide: local SEO, websites families trust, careful paid ads and enquiry handling, with general notes on CQC and advertising rules.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/healthcare/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Care home marketing in the UK is about helping families find your home, understand the care you provide and feel confident enough to visit. For most homes, that means strong local search visibility, a website with honest, detailed information, careful paid campaigns for specific vacancies and a warm, quick response to every enquiry.</p>
+<p>This guide is for owners and managers of independent residential, nursing and dementia care homes. It is general marketing guidance only, not regulatory or legal advice; responsibility for compliance and approval of all claims rests with the provider.</p>
+
+<h2>How families choose a care home</h2>
+<p>Choosing a care home is one of the most emotional decisions a family makes. It often happens under time pressure, for example after a hospital stay, and frequently involves several relatives. The person searching is often an adult son or daughter, sometimes living some distance away, looking for a home near a parent or near themselves.</p>
+<p>Families usually want to know:</p>
+<ul>
+<li>What types of care you provide, such as residential, nursing, dementia or respite.</li>
+<li>Where you are and what the surroundings are like.</li>
+<li>What daily life looks like: activities, food, visiting and rooms.</li>
+<li>Your latest inspection rating and report.</li>
+<li>How fees and funding work, in general terms.</li>
+<li>Whether there is a room available and how quickly someone could move in.</li>
+</ul>
+<p>Marketing that answers these questions clearly, without pressure, tends to work better than glossy slogans.</p>
+
+<h2>Local search and Google Business Profile</h2>
+<p>Many families start with searches like "care home near [town]" or "dementia care home [area]". Your Google Business Profile should have accurate categories, address, phone number and opening times for visits, plus real photos of rooms, communal areas and gardens. Reviews from families can help, but never pressure anyone to leave one, and respond to every review with care and discretion, without sharing personal or care details.</p>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> and local SEO guide explain how to improve map visibility. Local SEO is part of our <a href="/services/seo-geo/">SEO service</a>.</p>
+
+<h2>A website families can trust</h2>
+<p>Your website is often where a shortlist becomes a visit. A strong care home website usually includes:</p>
+<ul>
+<li>A clear page for each type of care you provide, written in plain English.</li>
+<li>Real photos of the home, with consent from anyone identifiable.</li>
+<li>Information on daily life, activities, meals and visiting arrangements.</li>
+<li>Your current inspection rating, with a link to the official report.</li>
+<li>A simple explanation of how fees and funding generally work, with an invitation to discuss individual circumstances.</li>
+<li>An easy way to arrange a visit or call, prominent on every page.</li>
+</ul>
+<p>Accessibility matters: use readable font sizes, good contrast and simple navigation, as some visitors will be older or reading on a phone. Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains what a rebuild involves, and we build sites through our website development service.</p>
+
+<h2>Care home marketing UK channels compared</h2>
+<table>
+<thead><tr><th>Channel</th><th>Role</th><th>Care point</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Local discovery and first impressions</td><td>Discreet replies to reviews</td></tr>
+<tr><td>Local SEO and website</td><td>Detailed, trusted information</td><td>Keep inspection references current</td></tr>
+<tr><td>Google Ads</td><td>Promoting specific vacancies or care types</td><td>Accurate, non-pressuring ad copy</td></tr>
+<tr><td>Meta ads</td><td>Reaching adult children in the area</td><td>Respectful tone and imagery</td></tr>
+<tr><td>Content</td><td>Answering family questions</td><td>General information, not advice</td></tr>
+<tr><td>Community and PR</td><td>Local reputation</td><td>Consent for residents' stories</td></tr>
+</tbody>
+</table>
+
+<h2>Paid ads for vacancies</h2>
+<p>Paid search can help when you have a specific room to fill or want to promote a care type such as respite. Target the area families search from, which may be wider than your town, and use specific search terms. Write ad copy that is accurate and calm; avoid urgency tactics or claims you cannot evidence. Meta ads can reach adult children in the area with information-led messages, such as an open day or a guide to choosing a home.</p>
+<p>Healthcare-related advertising can have additional platform policies, so check the rules that apply to your ads. Our <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business guide</a> explains setup. We manage campaigns through our <a href="/services/paid-media/">paid media service</a>, and ad spend is paid separately.</p>
+
+<h2>Content that helps families</h2>
+<p>Helpful articles can answer the questions families search for, such as the difference between residential and nursing care, what to look for on a visit or how to prepare for a move. Keep this content general and point people to official sources and their local authority for funding questions. Our content strategy guide explains how to plan topics around real questions.</p>
+
+<h2>Regulation and claims: general points</h2>
+<p>Care homes in England are registered with and inspected by the Care Quality Commission (CQC), with other regulators covering Scotland, Wales and Northern Ireland. As a general point, regulators may expect ratings to be displayed accurately, so marketing should reference ratings correctly and be updated when a new report is published. Advertising claims should be honest and evidenced in line with the CAP Code, and consumer law guidance on care home fees and terms may apply to how you present pricing information.</p>
+<p>This is general information only. Prism Works Studio is not a regulator or a legal adviser, and the provider is responsible for checking current requirements and signing off all marketing content. Our <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing guide</a> covers related points for other care and health businesses.</p>
+
+<h2>Handling enquiries well</h2>
+<p>Families often contact several homes at once. A quick, kind, informative reply makes a big difference. Make sure someone can answer calls during the day, reply to web forms promptly and offer a visit at a time that suits the family. Keep a simple log of enquiries, sources, visits and admissions so you know which marketing works. Handle any personal or health information in line with UK GDPR.</p>
+
+<h2>Open days, visits and the local community</h2>
+<p>A visit is usually the moment a family decides. Make visits easy to book and consistently good: a welcoming greeting, a calm tour, time to ask questions and a clear summary of next steps afterwards. Offer visits at different times, including evenings or weekends where possible, as many relatives work.</p>
+<p>Open days and community events can also help, such as coffee mornings, seasonal events or links with local schools and community groups. These build a local reputation over time and give you genuine news to share. Always protect residents' privacy and dignity, and only feature people who have given clear consent. Our <a href="/blog/pr-for-small-business-uk/">PR for small business guide</a> explains how to share local stories with newspapers and community outlets.</p>
+
+<h2>Common care home marketing mistakes</h2>
+<ul>
+<li><strong>Stock photos.</strong> Families want to see the real home. Generic images can reduce trust rather than build it.</li>
+<li><strong>Out-of-date information.</strong> An old inspection rating, old menus or out-of-date activity schedules suggest the website is not looked after.</li>
+<li><strong>Vague care descriptions.</strong> Saying you offer "all types of care" is less useful than explaining exactly what you provide and who you can support.</li>
+<li><strong>Slow responses.</strong> Families often contact several homes at once. A delayed reply can mean a lost visit.</li>
+<li><strong>Pressure tactics.</strong> Urgency claims about limited rooms can feel uncomfortable in such a sensitive decision. Be honest about availability instead.</li>
+</ul>
+
+<h2>Recruiting staff through the same channels</h2>
+<p>Many homes also need to attract carers and nurses. A careers page on your website, honest descriptions of the role and working environment and targeted local social ads can support recruitment alongside your resident-focused marketing. Keep the two audiences on separate pages so families and job seekers each find what they need quickly.</p>
+
+<h2>Measuring progress</h2>
+<p>Track enquiries by source, visits booked, admissions and occupancy over time. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track forms and calls from your website. SEO and paid results typically take three to six months to settle.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help care providers with local SEO, clear websites and careful paid campaigns, with our <a href="/sectors/healthcare/">healthcare sector</a> work as the closest fit. Retainers are Launch (£350/m), Growth (£750/m) and Scale (£1,500/m). See our <a href="/pricing/">pricing page</a> for details.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best care home marketing UK approach for an independent home?</h3>
+<p>Focus on local search, a detailed and honest website, prompt enquiry handling and careful paid ads for specific vacancies. Families value clear information and a warm response over slogans.</p>
+<h3>Should a care home show its CQC rating on its website?</h3>
+<p>As a general point, providers in England may be expected to display their rating accurately, including on their website. Check current CQC guidance and confirm requirements yourself.</p>
+<h3>Do Google Ads work for care homes?</h3>
+<p>They can help promote specific vacancies or care types to families searching locally. Keep copy accurate and calm, and check platform policies that apply to healthcare-related ads.</p>
+<h3>Can we share residents' stories in marketing?</h3>
+<p>Only with clear, informed consent from the resident or their legal representative, and with care for dignity and privacy. The provider should approve every story.</p>
+<h3>Who searches for care homes online?</h3>
+<p>Often adult children and other relatives, sometimes living away from the area, as well as social workers and hospital discharge teams.</p>
+<h3>How long does care home marketing take to work?</h3>
+<p>Paid ads can bring enquiries soon after launch. SEO and website improvements typically take three to six months to show clear results.</p>
+`,
+  },
+  {
+    slug: 'gym-marketing-uk',
+    seoTitle: 'Gym Marketing UK: How Small Gyms Win Local Members',
+    title: 'Gym Marketing UK: How Independent Gyms and Studios Win Local Members',
+    description: 'Gym marketing UK guide for independent gyms and studios: local SEO, Google Business Profile, paid social, offers and retention that bring in members.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Gym marketing in the UK is mostly about being the obvious choice within a short drive or walk of where people live and work. For an independent gym, boutique studio or personal training space, that means strong local search visibility, a clear trial offer, paid social aimed at your catchment and a joining process that turns interest into memberships quickly.</p>
+<p>This guide is for owners of small and independent fitness businesses who compete with budget chains and want a practical plan. It covers what to fix first, which channels suit which goals and how to measure progress without guesswork.</p>
+
+<h2>Why gym marketing is different</h2>
+<p>A gym sells a habit, not a one-off product. People rarely join on their first visit to your website. They compare locations, check opening hours, look at photos of the equipment, read reviews and often try a class or a day pass before committing. The decision is local, emotional and price-aware all at once.</p>
+<p>Independent gyms also face competition from budget chains with large national budgets. You will not outspend them, but you can out-position them: specialist coaching, smaller classes, a friendlier community, women-only sessions, strength and conditioning, rehabilitation-friendly training or a niche such as boxing or climbing. Your marketing should make that difference obvious in the first few seconds.</p>
+<p>Seasonality matters too. January and the run-up to summer usually bring more searches and sign-ups, while late autumn and the weeks before Christmas can be quieter. Plan campaigns and content around those peaks rather than spreading effort evenly through the year.</p>
+
+<h2>Start with local search and Google Business Profile</h2>
+<p>When someone searches for a gym near them, the map results and your Google Business Profile often matter more than your website. Get the basics right:</p>
+<ul>
+<li><strong>Correct categories.</strong> Choose the primary category that best describes you, such as gym, fitness centre or personal trainer, and add relevant secondary categories.</li>
+<li><strong>Accurate hours.</strong> Include staffed hours and any 24-hour access, and update them for bank holidays.</li>
+<li><strong>Real photos.</strong> Show the gym floor, classes, changing rooms and parking. People want to see what they are walking into.</li>
+<li><strong>Reviews.</strong> Ask happy members for honest reviews and reply to every review politely, including critical ones.</li>
+<li><strong>Posts and offers.</strong> Use posts to promote trial weeks, new classes and timetable changes.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through setup in detail, and the <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how map rankings work more broadly.</p>
+
+<h2>Build a website that sells trials, not just information</h2>
+<p>Many gym websites list facilities and prices but make it hard to take the next step. A website that converts usually has:</p>
+<ul>
+<li>A clear headline saying who the gym is for and where it is.</li>
+<li>One main call to action, such as booking a free trial session or a tour.</li>
+<li>Membership options laid out simply, with any joining fee or minimum term stated plainly.</li>
+<li>A class timetable that works well on mobile.</li>
+<li>Pages for each specialism, such as personal training, classes or strength coaching, so each can rank for its own searches.</li>
+<li>Fast loading on mobile, because most visitors will be on their phones.</li>
+</ul>
+<p>If your current site is slow or hard to update, our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains what a rebuild involves. We build small websites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>Gym marketing UK channels compared</h2>
+<p>Each channel does a different job. This table summarises where each one usually fits for an independent gym.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>People searching nearby right now</td><td>Reviews, photos, hours, categories</td></tr>
+<tr><td>Local SEO</td><td>Searches like "gym in [town]" or "personal trainer near me"</td><td>Location pages, service pages, links from local sites</td></tr>
+<tr><td>Meta ads (Facebook and Instagram)</td><td>Trial offers to a defined radius</td><td>Cost per trial booked, show-up rate</td></tr>
+<tr><td>Google Ads</td><td>High-intent searches for gyms and classes</td><td>Tight location targeting, negative keywords</td></tr>
+<tr><td>TikTok and short video</td><td>Showing personality and community</td><td>Consistency, honest content</td></tr>
+<tr><td>Email and SMS</td><td>Following up trials and keeping members</td><td>UK GDPR and PECR consent</td></tr>
+</tbody>
+</table>
+
+<h2>Paid social: the trial offer engine</h2>
+<p>Meta ads are often the fastest way for a gym to fill a trial pipeline. You can target a radius around the gym and show video or photo ads to people likely to be interested in fitness. The ad itself is only half the job. What happens after the click decides whether you get members.</p>
+<p>A simple, effective structure looks like this:</p>
+<ol>
+<li><strong>A clear offer.</strong> A free session, a low-cost trial week or a starter programme with a defined end date.</li>
+<li><strong>A focused landing page.</strong> One page, one offer, a short form or booking calendar. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers what to include.</li>
+<li><strong>Fast follow-up.</strong> Call or message new leads quickly while they are still motivated.</li>
+<li><strong>A good first visit.</strong> Make sure someone greets trial visitors and explains the next step.</li>
+</ol>
+<p>Track the whole journey, not just clicks: leads, booked trials, attended trials and memberships. Our <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small business guide</a> explains setup and tracking, and we manage campaigns through our <a href="/services/paid-media/">paid media service</a>.</p>
+
+<h2>Google Ads for gyms</h2>
+<p>Search ads catch people who are actively looking, for example someone who has just moved to the area or wants a specific class. Keep campaigns tight: target a sensible radius, bid on specific searches such as your town plus gym, personal trainer or a class type, and add negative keywords to avoid irrelevant clicks such as gym equipment shopping or jobs. Send each ad group to the most relevant page rather than the homepage.</p>
+<p>For realistic expectations on budgets and setup, see our <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business guide</a>. Ad spend is paid separately from any management fee.</p>
+
+<h2>Content and social media that builds trust</h2>
+<p>Fitness is personal. Many people feel nervous walking into a new gym, so content that lowers that barrier is valuable. Useful ideas include:</p>
+<ul>
+<li>Short videos explaining how a class works, who it suits and what to bring.</li>
+<li>Introductions to coaches and their specialisms, if they are happy to appear.</li>
+<li>Simple technique tips and beginner guides.</li>
+<li>Behind-the-scenes clips showing the atmosphere on a normal weekday.</li>
+<li>Member stories, only with clear written permission and without exaggerated claims.</li>
+</ul>
+<p>Be careful with health and body-image claims. Avoid promising specific weight loss or results, and keep any before-and-after content honest and consented. Advertising rules such as the CAP Code apply, so check claims carefully and leave final sign-off with the business owner.</p>
+
+<h2>Retention is part of gym marketing</h2>
+<p>Every member who leaves has to be replaced before you grow. Retention marketing is often cheaper than acquisition and is easy to overlook. Practical steps include:</p>
+<ul>
+<li>A welcome email or message sequence for new members explaining classes, booking and etiquette.</li>
+<li>Check-ins for members whose attendance has dropped.</li>
+<li>Challenges, events and community sessions that give people a reason to stay.</li>
+<li>Referral offers that reward existing members for bringing a friend.</li>
+</ul>
+<p>Make sure email and SMS marketing follows UK GDPR and PECR. Collect clear consent for marketing messages and make it easy to unsubscribe.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a small number of meaningful numbers each month: enquiries and trials by source, trial-to-member conversion, cost per new member for paid channels, cancellations and total active members. Google Analytics 4 can track form submissions and bookings if it is set up properly; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how. SEO and paid results typically take three to six months to settle, so judge trends over a quarter rather than a single week.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help independent gyms and studios with local SEO, websites, paid social and Google Ads. Our monthly retainers start at Launch (£350/m), with Growth (£750/m) and Scale (£1,500/m) for more channels or locations, and ad spend is paid separately. A small website is typically £1,000 to £2,000. See our <a href="/pricing/">pricing page</a> for what each plan includes.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best gym marketing UK strategy for a small gym?</h3>
+<p>For most small gyms, start with a strong Google Business Profile and local SEO, then add a clear trial offer promoted through Meta ads to people within your catchment. Follow up leads quickly and focus on retention so new members stay.</p>
+<h3>How much should a gym spend on marketing?</h3>
+<p>It depends on your membership price, capacity and goals. Start with a modest, testable ad budget, track cost per new member, and scale what works. Management fees and ad spend are separate costs.</p>
+<h3>Do free trials work for gyms?</h3>
+<p>Trials can work well because they lower the risk of trying somewhere new. They work best with a defined end date, a warm first visit and a clear next step to membership.</p>
+<h3>Is TikTok worth it for a gym?</h3>
+<p>It can be, especially for showing personality and community to younger audiences. It works best with consistent, honest short videos. Paid TikTok ads can support that once you know which content resonates.</p>
+<h3>How do I get more Google reviews for my gym?</h3>
+<p>Ask members directly at good moments, such as after a milestone or a great class, and make it easy with a short link. Never offer incentives for reviews and reply to every review.</p>
+<h3>How long does gym marketing take to work?</h3>
+<p>Paid social can generate trial leads within weeks once set up. SEO and the full picture of paid performance typically take three to six months to build.</p>
+`,
+  },
+  {
+    slug: 'recruitment-agency-marketing-uk',
+    seoTitle: 'Recruitment Agency Marketing UK: Win Clients and Candidates',
+    title: 'Recruitment Agency Marketing UK: How to Win Clients and Candidates',
+    description: 'Recruitment agency marketing UK guide: niche positioning, SEO for jobs and clients, LinkedIn, paid ads and content that bring in both clients and candidates.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Recruitment agency marketing in the UK has to win two audiences at once: employers who hire you and candidates who apply through you. The agencies that grow steadily usually pick a clear niche, build a website that ranks for both client and candidate searches, use LinkedIn consistently and support it with targeted paid campaigns and useful content.</p>
+<p>This guide is for owners of small and independent recruitment agencies, from start-ups to established specialist firms, who want a practical marketing plan rather than relying only on cold calls and job boards.</p>
+
+<h2>Two audiences, two journeys</h2>
+<p>Clients and candidates want different things. A hiring manager wants to know you understand their market, can find good people quickly and are easy to work with. A candidate wants relevant jobs, honest communication and someone who will represent them well. Mixing both messages on one page usually serves neither.</p>
+<p>Plan separate paths:</p>
+<ul>
+<li><strong>Client side:</strong> service pages for each sector or role type, how you work, terms in general terms, and a clear way to brief you.</li>
+<li><strong>Candidate side:</strong> searchable jobs, sector pages, CV upload and helpful career content.</li>
+</ul>
+
+<h2>Pick a niche you can own</h2>
+<p>Generalist recruiters compete with large networks and job boards on every search. A niche, such as construction, accountancy, IT contracting, education, hospitality or a regional focus, makes every channel more effective. It helps you rank for specific searches, write content people actually want and stand out on LinkedIn. Our brand strategy guide explains how to sharpen positioning, and our <a href="/services/brand-strategy/">brand strategy service</a> can help you define it.</p>
+
+<h2>SEO for recruitment agencies</h2>
+<p>Search can bring both audiences, but they search differently.</p>
+<ul>
+<li><strong>Client searches</strong> include terms like "construction recruitment agency Manchester" or "finance recruiters London". These need strong service pages per sector and location, with real detail about the roles you fill and how you work.</li>
+<li><strong>Candidate searches</strong> include job titles plus locations. Job pages can rank if they are well structured, unique and kept up to date. Expired jobs should be handled sensibly, not left as dead pages.</li>
+</ul>
+<p>Job posting structured data can help jobs appear in Google's job features if implemented correctly; our schema markup guide explains structured data. For a broader view of B2B search, see our B2B SEO guide. SEO work sits within our <a href="/services/seo-geo/">SEO service</a>.</p>
+
+<h2>Recruitment agency marketing UK channels compared</h2>
+<table>
+<thead><tr><th>Channel</th><th>Clients</th><th>Candidates</th></tr></thead>
+<tbody>
+<tr><td>SEO and website</td><td>Sector and location service pages</td><td>Job pages and career content</td></tr>
+<tr><td>LinkedIn (organic)</td><td>Market insight, hiring updates</td><td>Job posts, consultant visibility</td></tr>
+<tr><td>LinkedIn ads</td><td>Targeting decision-makers by role and industry</td><td>Hard-to-fill specialist roles</td></tr>
+<tr><td>Google Ads</td><td>High-intent client searches</td><td>Volume roles in specific areas</td></tr>
+<tr><td>Meta ads</td><td>Limited</td><td>Hourly, local and shift-based roles</td></tr>
+<tr><td>Email</td><td>Market updates and candidate spotlights</td><td>Job alerts</td></tr>
+</tbody>
+</table>
+
+<h2>LinkedIn: the core channel for most agencies</h2>
+<p>LinkedIn is where many clients and professional candidates spend time. Consistent, useful posting from both the company page and individual consultants builds recognition. Content that tends to work includes market commentary, salary and hiring trends you can genuinely evidence, practical advice for hiring managers and candidates, and live roles.</p>
+<p>LinkedIn ads can target decision-makers by job title, industry and company size, which suits client acquisition for specialist agencies. They tend to cost more per click than other platforms, so focus on a clear offer such as a market report or a hiring guide. Our <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads guide</a> covers setup and targeting.</p>
+
+<h2>Paid search and social for candidates</h2>
+<p>For volume roles such as warehouse, driving, care or hospitality, Meta ads and Google Ads can reach local candidates quickly. Keep application steps short and mobile-friendly, because many candidates apply from their phones. Make sure job ads comply with platform policies on employment advertising and avoid discriminatory targeting or wording. Equality law applies to job adverts, so wording should be checked and signed off by the agency.</p>
+<p>We run campaigns through our <a href="/services/paid-media/">paid media service</a>, and ad spend is paid separately.</p>
+
+<h2>Content that builds authority</h2>
+<p>Useful content helps you rank and gives consultants something worth sharing. Ideas include hiring guides for your sector, interview tips, salary benchmarking based on your own anonymised data (only if you can stand behind it), and explainers on topics like IR35 for contractors, kept general and pointing to official guidance. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> explains how to plan topics around real searches.</p>
+
+<h2>Website essentials</h2>
+<ul>
+<li>Fast, searchable job listings that work well on mobile.</li>
+<li>Separate client and candidate navigation.</li>
+<li>Clear calls to action: brief us, upload a CV, register for alerts.</li>
+<li>Consultant or team pages only if your team is happy to appear.</li>
+<li>A privacy notice explaining how candidate data is handled under UK GDPR.</li>
+</ul>
+<p>Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains rebuild costs. More complex job board integrations are quoted individually.</p>
+
+<h2>Working with clients after the first brief</h2>
+<p>Winning a new client is only the start. Repeat briefs from existing clients are often the most valuable business an agency has. Simple habits help: a short check-in after each placement, a quarterly conversation about upcoming hiring plans and a summary of how roles were filled. These are not complicated marketing tactics, but they turn one-off clients into long-term accounts and give you genuine insight for your content. Ask satisfied clients whether they would be happy to recommend you, and only share feedback publicly with their clear permission.</p>
+
+<h2>Data and compliance</h2>
+<p>Recruitment involves a lot of personal data. Candidate details, CVs and marketing lists must be handled in line with UK GDPR, and email marketing to individuals must follow PECR. Employment agency conduct rules may also apply to how you advertise roles. This is general information only; the agency is responsible for compliance and for signing off all marketing.</p>
+
+<h2>Email and job alerts</h2>
+<p>Email remains one of the most dependable channels for recruiters because you own the list. Candidate job alerts, filtered by sector and location, bring people back to your site whenever a relevant role appears. For clients, a short, regular update with market observations, available candidate profiles (anonymised and shared with permission) and hiring tips keeps you in mind between briefs.</p>
+<p>Keep emails short, relevant and easy to unsubscribe from. Segment by sector and role type so people only receive what matters to them. Consent rules differ between individual and corporate subscribers under PECR, so check how they apply to your lists.</p>
+
+<h2>Common recruitment marketing mistakes</h2>
+<ul>
+<li><strong>Trying to appeal to everyone.</strong> Generic messages get lost against large job boards and national agencies.</li>
+<li><strong>Duplicate job adverts.</strong> Posting the same advert in many places without unique detail can weaken your own job pages in search.</li>
+<li><strong>Leaving expired jobs live.</strong> Candidates applying for filled roles have a poor experience and may not return.</li>
+<li><strong>Long application forms.</strong> Asking for too much information up front loses candidates, especially on mobile.</li>
+<li><strong>Measuring vanity numbers.</strong> Followers, impressions and raw applications can grow while placements stay flat.</li>
+<li><strong>Inconsistent consultant activity.</strong> LinkedIn works best with steady posting, not short bursts.</li>
+</ul>
+
+<h2>Building a simple quarterly plan</h2>
+<p>A practical approach is to set a quarterly focus. For example, one quarter might concentrate on improving sector service pages and launching job alerts, while the next adds a LinkedIn ads campaign aimed at a specific type of hiring manager. Each quarter, review which sources produced client briefs and placements, keep what worked and drop what did not. This keeps marketing manageable alongside billing and client work, and builds results steadily rather than in short bursts.</p>
+<p>If you are unsure which channels to start with, our <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">guide to choosing a digital marketing agency</a> sets out sensible questions to ask any partner.</p>
+
+<h2>Measuring what works</h2>
+<p>Track client enquiries, new briefs, candidate applications, shortlists and placements by source. Applications alone can mislead if they are low quality. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track forms and applications. SEO and paid results typically take three to six months to settle.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help recruitment agencies with SEO, websites, LinkedIn and paid campaigns, drawing on our <a href="/sectors/b2b/">B2B sector</a> work. Retainers are Launch (£350/m), Growth (£750/m) and Scale (£1,500/m). See our <a href="/pricing/">pricing page</a> for details.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best recruitment agency marketing UK strategy for a small agency?</h3>
+<p>Pick a clear niche, build separate client and candidate pages, post consistently on LinkedIn and support it with SEO and targeted ads. Track placements by source, not just applications.</p>
+<h3>Is SEO worth it for recruitment agencies?</h3>
+<p>Yes, especially for niche agencies. Sector and location pages can attract clients, and well-structured job pages can attract candidates. Results typically build over three to six months.</p>
+<h3>Do LinkedIn ads work for recruiters?</h3>
+<p>They can reach decision-makers precisely, which suits client acquisition. Costs per click are often higher, so use a strong offer and track enquiries carefully.</p>
+<h3>How do recruitment agencies attract candidates online?</h3>
+<p>Through searchable job pages, job alerts, LinkedIn posts and, for volume roles, Meta and Google ads with short mobile applications.</p>
+<h3>Should a recruitment agency have separate pages for clients and candidates?</h3>
+<p>Yes. The two audiences want different things, so separate pages and calls to action usually perform better.</p>
+<h3>How much does recruitment marketing cost?</h3>
+<p>Our retainers start at £350 per month, with ad spend paid separately. A small website is typically £1,000 to £2,000, and complex integrations are quoted.</p>
+`,
+  },
+  {
+    slug: 'tradesman-marketing-uk',
+    seoTitle: 'Tradesman Marketing UK: Get More Local Jobs Online',
+    title: 'Tradesman Marketing UK: How to Get More Local Jobs Online',
+    description: 'Tradesman marketing UK guide for plumbers, electricians, builders and roofers: local SEO, Google Business Profile, Google Ads and reviews that win jobs.',
+    date: '2026-10-30',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Tradesman marketing in the UK is about being found first when someone in your area needs a job doing, and then looking trustworthy enough to call. For plumbers, electricians, builders, roofers, joiners, decorators and other trades, that usually means a complete Google Business Profile, a simple website with a page for each service and area, a steady flow of genuine reviews and, for urgent work, tightly targeted Google Ads.</p>
+<p>This guide is for sole traders and small trade businesses who want more of their own enquiries and less reliance on word of mouth alone or paid lead directories.</p>
+
+<h2>How customers find a tradesman today</h2>
+<p>Word of mouth still matters, but even recommended trades get checked online. A homeowner hears your name, searches for it and looks at your reviews, photos and website before calling. Others search directly: "emergency plumber near me", "electrician in [town]" or "loft conversion builder [county]". The businesses that appear in the map results with good reviews tend to get the calls.</p>
+<p>Jobs also fall into two groups. Urgent jobs, such as a burst pipe or a power fault, are decided in minutes, so being visible and answering the phone matters most. Planned jobs, such as extensions, kitchens or rewires, involve research and quotes over weeks, so trust and proof of work matter more.</p>
+
+<h2>Google Business Profile: the most important free tool</h2>
+<p>For most trades, your Google Business Profile is the single biggest source of local enquiries. Make sure it has:</p>
+<ul>
+<li>The most accurate primary category, such as plumber, electrician or roofing contractor.</li>
+<li>A service area that matches where you actually work. If you work from home, you can hide your address and show a service area instead.</li>
+<li>A list of the services you offer.</li>
+<li>Photos of real jobs, vans and finished work.</li>
+<li>A steady stream of genuine reviews, each with a reply.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers every setting, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to rank in the map pack.</p>
+
+<h2>A simple website that wins calls</h2>
+<p>A trade website does not need to be complicated. It needs to load quickly on a phone, show your phone number clearly and prove you do good work. Useful pages include:</p>
+<ul>
+<li>A homepage stating what you do, where you work and how to contact you.</li>
+<li>A page for each main service, such as boiler installation, rewiring or flat roofing.</li>
+<li>Pages for the main towns or areas you cover, each with genuinely useful local detail rather than copied text.</li>
+<li>A gallery of real projects with short descriptions.</li>
+<li>Details of relevant trade registrations or memberships you genuinely hold.</li>
+</ul>
+<p>Only list registrations you actually have, and keep them up to date. Where a scheme or registration is legally required for certain work, such as gas work, make sure your claims are accurate; that responsibility sits with the business. Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains rebuild costs, and we build sites through our <a href="/services/website-ecommerce-development/">website development service</a>.</p>
+
+<h2>Tradesman marketing UK channels compared</h2>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>Main risk</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Local searches for urgent and planned work</td><td>Wrong category or service area</td></tr>
+<tr><td>Local SEO and website</td><td>Steady enquiries for each service and area</td><td>Thin, copied area pages</td></tr>
+<tr><td>Google Ads</td><td>Urgent, high-intent jobs</td><td>Broad targeting wasting budget</td></tr>
+<tr><td>Facebook ads and groups</td><td>Planned projects and local awareness</td><td>Low-intent enquiries</td></tr>
+<tr><td>Reviews</td><td>Trust at the moment of choosing</td><td>Not asking consistently</td></tr>
+<tr><td>Lead directories</td><td>Filling gaps quickly</td><td>Shared leads and ongoing fees</td></tr>
+</tbody>
+</table>
+
+<h2>Google Ads for trades</h2>
+<p>Google Ads put you at the top of the results for searches you choose, which is useful for urgent work. To keep costs under control:</p>
+<ul>
+<li>Target only the areas you genuinely cover.</li>
+<li>Bid on specific, high-intent searches, such as "emergency electrician [town]".</li>
+<li>Add negative keywords to block jobs, training, DIY and parts searches.</li>
+<li>Schedule ads for the hours you can answer the phone.</li>
+<li>Use call tracking so you know which ads lead to real jobs.</li>
+</ul>
+<p>Our <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business guide</a> covers setup, and <a href="/blog/google-ads-cost-uk/">Google Ads cost UK</a> explains what drives spend. We manage campaigns through our <a href="/services/paid-media/">paid media service</a>, and ad spend is paid separately.</p>
+
+<h2>Reviews and proof of work</h2>
+<p>For trades, reviews are often the deciding factor. Build a habit of asking every satisfied customer, ideally by text with a direct link, soon after the job is finished. Reply to every review. If you get a negative one, respond calmly, explain what you did to put it right and move the conversation offline.</p>
+<p>Photos are proof too. Take before, during and after photos on every job (with the customer's permission where their property is identifiable) and use them on your profile, website and social media.</p>
+
+<h2>Answering enquiries fast</h2>
+<p>The best marketing is wasted if calls go unanswered. Many trades are on a job when the phone rings. Options include a call answering service, a clear voicemail promising a callback time, an enquiry form that sends a notification to your phone and a simple process for replying to messages the same day. Speed of response often decides who wins the job.</p>
+
+<h2>Social media for trades</h2>
+<p>Social media is not essential for every trade, but it can help with planned projects. Short videos of work in progress, finished projects and helpful tips can build local recognition. Local community groups can bring work too, but follow each group's rules on promotion.</p>
+
+<h2>Building a brand people remember</h2>
+<p>Many trades rely on vans, uniforms and word of mouth for recognition. A consistent name, logo and colour scheme across your van, website, quotes and social profiles helps people remember you and makes you look established. It does not need to be expensive. Our <a href="/blog/brand-identity-design-uk/">brand identity design guide</a> explains the basics.</p>
+<p>The way you quote matters too. A clear, well-presented written quote that explains what is included, what is not and when you can start often wins against a cheaper but vaguer one. Follow up quotes after a few days with a polite message; many customers simply forget to reply.</p>
+
+<h2>Common tradesman marketing mistakes</h2>
+<ul>
+<li><strong>Covering too wide an area.</strong> Advertising across a whole county when you only want work nearby wastes money and time on travel.</li>
+<li><strong>Copied area pages.</strong> Dozens of near-identical town pages rarely rank well. Fewer, genuinely useful pages work better.</li>
+<li><strong>No reviews strategy.</strong> Waiting for reviews to happen naturally means far fewer than you could have.</li>
+<li><strong>Missed calls.</strong> Paying for ads and then not answering the phone is one of the most common and costly problems.</li>
+<li><strong>Unclear services.</strong> If your website does not say clearly what you do and do not do, you will get unsuitable enquiries.</li>
+<li><strong>Relying on one source.</strong> Depending entirely on a single directory or platform leaves you exposed if it changes its rules or fees.</li>
+</ul>
+
+<h2>Planning for quiet and busy seasons</h2>
+<p>Many trades are seasonal. Heating engineers are busiest when the weather turns cold, roofers after storms, and landscapers in spring and summer. Use quiet periods to update your website, gather photos and reviews, and promote services that suit that time of year, such as boiler servicing before winter or exterior work before spring. Adjust ad budgets with demand rather than running the same spend all year.</p>
+
+<h2>Measuring what works</h2>
+<p>Keep it simple: count calls, forms and messages by source, track how many turn into quotes and jobs, and note the value of each job. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains tracking forms and calls on your website. SEO results typically build over three to six months, while ads can bring calls sooner.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We help trades with local SEO, simple websites and Google Ads. Our retainers are Launch (£350/m), Growth (£750/m) and Scale (£1,500/m), and a small website is typically £1,000 to £2,000. See the <a href="/pricing/">pricing page</a> for details.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best tradesman marketing UK strategy for a sole trader?</h3>
+<p>Start with a complete Google Business Profile, ask every happy customer for a review and build a simple website with service and area pages. Add Google Ads for urgent work if you can answer calls quickly.</p>
+<h3>Do tradesmen need a website?</h3>
+<p>A website is strongly recommended. It helps you rank for specific services and areas, shows proof of work and gives customers somewhere to check you out after a recommendation.</p>
+<h3>Are lead directories worth it for trades?</h3>
+<p>They can fill gaps, but leads may be shared and fees continue. Building your own profile, website and reviews gives you enquiries you do not have to pay for each time.</p>
+<h3>How much do Google Ads cost for a tradesman?</h3>
+<p>It depends on your trade, area and competition. Urgent trade searches can be competitive, so tight targeting and call tracking matter. Ad spend is separate from management fees.</p>
+<h3>How do I rank in the Google map pack as a tradesman?</h3>
+<p>Choose accurate categories, set a correct service area, keep adding genuine reviews and photos, and make sure your website supports the same services and areas.</p>
+<h3>How long does tradesman marketing take to work?</h3>
+<p>Google Ads can bring calls within days of launch. Local SEO and reviews typically build over three to six months.</p>
+`,
+  },
 ];
