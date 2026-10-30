@@ -55,11 +55,13 @@
 .pws-article table { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 
 /* Floating WhatsApp button */
-.wa-float { position: fixed; right: 20px; bottom: 20px; z-index: 60; display: flex; align-items: center; gap: 8px; padding: 12px 18px 12px 14px; border-radius: 999px; background: #25D366; color: #fff; font-family: "Montserrat", sans-serif; font-weight: 600; font-size: 15px; text-decoration: none; box-shadow: 0 12px 30px -8px rgba(37, 211, 102, .6); transition: transform .25s; }
-.wa-float:hover { transform: translateY(-3px); color: #fff; }
-.wa-float svg { width: 24px; height: 24px; fill: #fff; }
+.wa-float { position: fixed; right: 20px; bottom: 20px; z-index: 60; display: flex; align-items: center; gap: 8px; padding: 12px 18px 12px 14px; border-radius: 999px; background: var(--lime); color: #000; font-family: "Montserrat", sans-serif; font-weight: 600; font-size: 15px; text-decoration: none; box-shadow: 0 12px 30px -8px rgba(179, 255, 58, .45); transition: transform .25s; }
+.wa-float:hover { transform: translateY(-3px); color: #000; }
+.wa-float svg { width: 24px; height: 24px; fill: #000; }
 @media (max-width: 480px) { .wa-float { right: 14px; bottom: 14px; padding: 12px; } .wa-float span { display: none; } }
-.pws .pws-btn-wa { background: #25D366; border-color: #25D366; color: #fff; }
-.pws .pws-btn-wa:hover { background: #1ebe5b; border-color: #1ebe5b; color: #fff; }
-.pws .pws-aside .pws-btn-wa, .pws .pws-aside .pws-btn-wa:hover { color: #fff; }
+.pws .pws-btn-wa { background: transparent; border: 1px solid currentColor; color: inherit; }
+.pws .pws-btn-wa:hover { background: #000; border-color: #000; color: var(--lime); }
+.pws .pws-aside .pws-btn-wa { color: var(--lime); }
+.pws .pws-cta .pws-btn-wa { color: #000; border-color: rgba(0,0,0,.45); }
+.pws .pws-aside .pws-btn-wa:hover { background: var(--lime); border-color: var(--lime); color: #000; }
 .pws .pws-aside .pws-btn-wa { display: block; text-align: center; margin-top: 10px; }
