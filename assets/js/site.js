@@ -27,6 +27,15 @@
     targets.forEach(function (el) { el.classList.add('pws-reveal'); io.observe(el); });
   }
 
+  // GA4 contact events: phone, email and WhatsApp clicks.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a || typeof gtag !== 'function') return;
+    var h = a.getAttribute('href');
+    var ev = /^tel:/.test(h) ? 'contact_call' : /^mailto:/.test(h) ? 'contact_email' : h.indexOf('wa.me/') > -1 ? 'contact_whatsapp' : '';
+    if (ev) gtag('event', ev, { link_url: h.split('?')[0], page_path: location.pathname });
+  });
+
   // Contact form. If data-endpoint is set, POST the fields there; otherwise open the visitor's email app.
   var form = document.getElementById('pws-contact-form');
   if (!form) return;
@@ -37,6 +46,7 @@
     if (form.company_website.value) return; // bot trap
     if (!form.checkValidity()) { form.reportValidity(); return; }
     var data = new FormData(form);
+    data.append('page', location.pathname);
     var endpoint = form.getAttribute('data-endpoint');
     if (!endpoint) {
       var body = 'Name: ' + data.get('name') + '\nEmail: ' + data.get('email') + '\nPhone: ' + data.get('phone') + '\nService: ' + data.get('service') + '\n\n' + (data.get('message') || '');

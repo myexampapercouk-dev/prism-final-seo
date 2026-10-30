@@ -73,10 +73,13 @@ function crumbsHtml(trail) {
 function faqHtml(faqs, heading = 'Frequently asked questions') {
   return `<section class="pws-section alt"><div class="pws-wrap"><div class="pws-split"><div><div class="pws-head"><span class="pws-eyebrow">FAQ</span><h2 class="pws-h2">${heading}</h2></div></div><div class="pws-faqs">${faqs.map(([q, a]) => `<details class="pws-faq"><summary>${q}</summary><p>${a}</p></details>`).join('')}</div></div></div></section>`;
 }
-const CTA = `<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>`;
+const waHref = msg => `https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(msg || 'Hi, I saw your website and would like to talk about a project.')}`;
+const WA_BTN = msg => SITE.whatsapp ? `<a class="pws-btn pws-btn-wa" href="${waHref(msg)}" target="_blank" rel="noopener">WhatsApp us</a>` : '';
+const ctaHtml = msg => `<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a>${WA_BTN(msg)}<a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>`;
+const CTA = ctaHtml();
 
 const CONTACT_FORM = `<div class="pws-form" id="enquiry">
-<form id="pws-contact-form" class="pws-form-static" method="post" data-endpoint="" novalidate>
+<form id="pws-contact-form" class="pws-form-static" method="post" data-endpoint="/api/send-quote.php" novalidate>
 <!-- ==== PLACEHOLDER: form endpoint ====
      Contact Form 7 (PHP) does not run on a static site. Put the URL of the owner's form handler
      in data-endpoint above (for example a Formspree/Basin form URL, or a PHP mail script on this
@@ -89,7 +92,7 @@ const CONTACT_FORM = `<div class="pws-form" id="enquiry">
 <input type="text" name="company_website" class="pws-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
 <button type="submit" class="pws-btn pws-btn-primary">Submit</button>
 <p class="pws-status" role="status" aria-live="polite"></p>
-<p class="pws-note">Prefer email or phone? <a href="mailto:${SITE.email}">${SITE.email}</a> &middot; <a href="tel:${SITE.phoneHref}">${SITE.phone}</a></p>
+<p class="pws-note">Prefer email, phone or WhatsApp? <a href="mailto:${SITE.email}">${SITE.email}</a> &middot; <a href="tel:${SITE.phoneHref}">${SITE.phone}</a> &middot; <a href="${waHref()}" target="_blank" rel="noopener">WhatsApp us</a></p>
 </form></div>`;
 
 function layout({ urlPath, title, description, body, ld = [], og, type = 'website', robots, extraHead = '' }) {
@@ -134,8 +137,8 @@ ${core('header')}
 <main id="main">
 ${body}
 </main>
-${core('footer')}
-${SITE.whatsapp ? `<a class="wa-float" href="https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent('Hi, I saw your website and would like to talk about a project.')}" target="_blank" rel="noopener" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Chat now</span></a>` : ''}
+${core('footer').replace('</ul></div></div><div class="pws-footer-bottom">', `${SITE.whatsapp ? `<li><span>WhatsApp</span><a href="${waHref()}" target="_blank" rel="noopener">Chat on WhatsApp</a></li>` : ''}</ul></div></div><div class="pws-footer-bottom">`)}
+${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="noopener" aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.2 1.6 6L0 24l6.2-1.6c1.8 1 3.8 1.5 5.8 1.5 6.6 0 12-5.4 12-12S18.6 0 12 0zm5.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3z"/></svg><span>Chat now</span></a>` : ''}
 <script src="/assets/js/site.js?v=${V.js}" defer></script>
 </body>
 </html>
@@ -198,7 +201,7 @@ for (const p of PAGES) {
   const trail = [['Home', '/'], ...(parent ? [parent] : []), [p.name, p.path]];
   const relatedPosts = POSTS.filter(x => (x.related || []).includes(p.path)).slice(0, 3);
   const relatedPages = (p.related || []).map(u => byPath[u]).filter(Boolean);
-  let body = `<section class="pws-section pws-page-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">${p.eyebrow}</span><h1>${p.h1}</h1><p class="pws-lead">${p.lead}</p><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-ghost" href="/pricing/">See pricing</a></div></div></section>\n`;
+  let body = `<section class="pws-section pws-page-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">${p.eyebrow}</span><h1>${p.h1}</h1><p class="pws-lead">${p.lead}</p><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a>${WA_BTN()}<a class="pws-btn pws-btn-ghost" href="/pricing/">See pricing</a></div></div></section>\n`;
   p.sections.forEach((s, i) => {
     body += `<section class="pws-section${i % 2 ? ' alt' : ''}"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">${s.eyebrow || p.eyebrow}</span><h2 class="pws-h2">${s.h2}</h2>${s.lead ? `<p class="pws-lead">${s.lead}</p>` : ''}</div>${s.html || ''}</div></section>\n`;
   });
@@ -236,10 +239,10 @@ for (const post of POSTS) {
 <div class="pws-takeaways"><h2>Key takeaways</h2><ul>${post.takeaways.map(t => `<li>${t}</li>`).join('')}</ul></div>
 ${post.body.trim()}
 </article>
-<aside class="pws-aside">${related.length ? `<div class="pws-box"><h3>How we can help</h3><ul>${related.map(r => `<li><a href="${r.path}">${r.name}</a></li>`).join('')}</ul></div>` : ''}<div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a></div></aside>
+<aside class="pws-aside">${related.length ? `<div class="pws-box"><h3>How we can help</h3><ul>${related.map(r => `<li><a href="${r.path}">${r.name}</a></li>`).join('')}</ul></div>` : ''}<div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a>${WA_BTN(`Hi, I read your article '${plain(post.title)}' and need help`)}</div></aside>
 </div></section>
 <section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts">${more.map(cardHtml).join('')}</div></div></section>
-${CTA}`;
+${ctaHtml(`Hi, I read your article '${plain(post.title)}' and need help`)}`;
   const ld = [{ '@type': 'BlogPosting', '@id': SITE.url + urlPath + '#article', headline: plain(post.title).slice(0, 110), description: post.description, datePublished: post.date, dateModified: post.updated || post.date, mainEntityOfPage: SITE.url + urlPath, url: SITE.url + urlPath, image: SITE.url + ogFor('blog-' + post.slug), inLanguage: 'en-GB', wordCount: words(post.body), articleSection: post.category, author: { '@id': SITE.url + '/#org' }, publisher: { '@id': SITE.url + '/#org' } }, crumbsLd(trail)];
   if (faqs.length) ld.push(faqLd(faqs));
   write(`blog/${post.slug}/index.html`, layout({ urlPath, title: post.seoTitle || plain(post.title), description: post.description, body, ld, og: ogFor('blog-' + post.slug), type: 'article', extraHead: `<meta property="article:published_time" content="${post.date}">\n<meta property="article:modified_time" content="${post.updated || post.date}">` }));

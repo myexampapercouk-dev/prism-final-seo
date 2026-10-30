@@ -59,3 +59,6 @@
 .wa-float:hover { transform: translateY(-3px); color: #fff; }
 .wa-float svg { width: 24px; height: 24px; fill: #fff; }
 @media (max-width: 480px) { .wa-float { right: 14px; bottom: 14px; padding: 12px; } .wa-float span { display: none; } }
+.pws .pws-btn-wa { background: #25D366; border-color: #25D366; color: #fff; }
+.pws .pws-btn-wa:hover { background: #1ebe5b; border-color: #1ebe5b; color: #fff; }
+.pws .pws-aside .pws-btn-wa { display: block; text-align: center; margin-top: 10px; }
