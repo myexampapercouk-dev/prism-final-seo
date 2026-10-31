@@ -16847,4 +16847,628 @@ module.exports = [
 <p>Indirectly. Clear, accurate information about who you are supports trustworthy content and helps visitors who arrive from search.</p>
 `,
   },
+  {
+    slug: 'ecommerce-delivery-and-returns-pages',
+    seoTitle: 'Ecommerce Delivery and Returns Pages: A UK Guide',
+    title: 'Ecommerce Delivery and Returns Pages: How to Write Clear Shipping Information',
+    description: 'A UK guide to writing ecommerce delivery and returns pages: delivery options, costs, timescales, international shipping, returns steps and where to show them.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-website-design-uk/', '/blog/website-trust-signals/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Delivery and returns pages rarely get much design attention, yet they answer some of the most important questions a shopper has. How much will delivery cost? When will my order arrive? What happens if it does not fit or is not right? If those answers are hard to find or unclear, a hesitant shopper may simply leave and buy elsewhere.</p>
+<p>This guide explains how to plan and write clear delivery and returns information for a UK online shop, and where that information should appear across your site. It is practical guidance rather than legal advice; returns in particular are shaped by consumer law, so it is worth checking your wording against current guidance or with a legal adviser.</p>
+
+<h2>Why delivery and returns information matters</h2>
+<p>Unexpected costs and uncertainty are common reasons shoppers abandon a basket. If delivery costs only appear at the final step of checkout, or delivery times are vague, shoppers may lose confidence. Clear returns information helps too, particularly for first-time customers, clothing and footwear, and higher-value items, because it reduces the perceived risk of buying.</p>
+<p>Good information also helps after the sale. Customers who know what to expect are less likely to contact you asking where their order is, and returns are more straightforward when the process is explained clearly.</p>
+
+<h2>What to include on a delivery page</h2>
+<h3>Delivery options</h3>
+<p>List each option you offer, such as standard, express, named-day or click and collect. For each, explain what it means in plain language. Avoid internal or courier-specific terms that customers may not understand.</p>
+<h3>Costs</h3>
+<p>Show the cost of each option clearly. If you offer free delivery above a certain order value, state the threshold. If costs vary by weight, size or location, explain how, and consider a simple table. Shoppers should be able to work out what they will pay before they reach checkout.</p>
+<h3>Timescales</h3>
+<p>Explain how long each option usually takes, and be clear about what the timescale covers. For example, does "two to three working days" start from when the order is placed or when it is dispatched? State order cut-off times for same-day dispatch, and explain how weekends and bank holidays affect delivery.</p>
+<h3>Delivery areas</h3>
+<p>Be clear about where you deliver. Some areas of the UK, such as the Scottish Highlands and islands, Northern Ireland, the Isle of Man and the Channel Islands, may have different costs, timescales or restrictions depending on your couriers. If this applies, say so plainly rather than leaving shoppers to discover it at checkout.</p>
+<h3>International delivery</h3>
+<p>If you ship outside the UK, explain which countries you deliver to, costs and timescales. Mention that customers may need to pay import duties, taxes or handling fees in their country, and be clear about who is responsible for these. Rules for shipping to the EU and elsewhere have changed in recent years and can be complex, so check current requirements for the destinations you serve.</p>
+<h3>Tracking and what to expect</h3>
+<p>Explain whether orders are tracked and how customers will receive tracking information. Describe what happens if nobody is home, such as safe-place delivery, a neighbour or a collection point, depending on your couriers.</p>
+<h3>Problems with delivery</h3>
+<p>Tell customers what to do if an order is late, damaged or missing, and how to contact you. A simple, reassuring explanation reduces anxiety and helps you handle issues consistently.</p>
+
+<h2>What to include on a returns page</h2>
+<h3>Customers' rights and your policy</h3>
+<p>In the UK, consumers generally have legal rights when buying online, including a cancellation period for most distance purchases and rights when goods are faulty or not as described. There are exceptions, for example for some personalised or perishable items. Your returns page should not suggest customers have fewer rights than the law gives them. Many shops also offer a more generous policy, such as a longer returns window. Be clear about which parts are your own policy and keep the wording consistent with your terms of sale. Because the details matter, it is sensible to check current official guidance or take legal advice when writing this section.</p>
+<h3>How to return an item</h3>
+<p>Set out the steps clearly, ideally as a numbered list. For example: how to tell you about the return, whether a returns form or online portal is used, how to package the item and where to send it. The simpler the process, the fewer questions you will receive.</p>
+<h3>Return costs</h3>
+<p>Explain who pays for return postage in different situations, such as change-of-mind returns compared with faulty items. If you provide a returns label, explain how to get one.</p>
+<h3>Condition of returned items</h3>
+<p>Explain any reasonable expectations about the condition of returned goods, such as unworn items with tags, while staying consistent with consumer rights.</p>
+<h3>Refunds and exchanges</h3>
+<p>Explain how and when refunds are made, and whether exchanges are available. Be careful that any timescales you state are consistent with your legal obligations and that you can meet them.</p>
+<h3>Items that cannot be returned</h3>
+<p>If certain items are excluded from change-of-mind returns, list them clearly and explain why. Make sure any exclusions are permitted for that type of product.</p>
+
+<h2>Writing style for delivery and returns pages</h2>
+<p>These pages work best when they are calm, plain and easy to scan:</p>
+<ul>
+<li>Use headings for each topic so shoppers can jump to what they need.</li>
+<li>Put the most common answers first.</li>
+<li>Use tables for costs and timescales.</li>
+<li>Use numbered steps for processes.</li>
+<li>Write in your normal brand voice, but prioritise clarity.</li>
+<li>Avoid long blocks of legal text; link to full terms where needed.</li>
+</ul>
+<p>Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> has more on writing clearly for the web.</p>
+
+<h2>Where to show delivery and returns information</h2>
+<p>A dedicated page is important, but shoppers should not have to find it themselves. Show key points throughout the buying journey:</p>
+<ul>
+<li><strong>Header or announcement bar:</strong> a short message such as your free delivery threshold, if you offer one.</li>
+<li><strong>Product pages:</strong> a brief summary of delivery options and returns near the add-to-basket button, with a link to full details.</li>
+<li><strong>Basket:</strong> estimated delivery costs, and how far the shopper is from any free delivery threshold.</li>
+<li><strong>Checkout:</strong> clear delivery choices, costs and expected dates before payment.</li>
+<li><strong>Order confirmation and emails:</strong> what happens next, tracking information and how to return.</li>
+<li><strong>Footer:</strong> links to delivery and returns pages on every page.</li>
+</ul>
+<p>For the broader layout of a shop, see our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a>.</p>
+
+<h2>Keeping information consistent</h2>
+<p>Delivery and returns details often appear in several places: the dedicated pages, product pages, checkout, emails, terms of sale and FAQs. If they disagree, customers will notice. Keep one source of truth, update every location when something changes and review the pages regularly, especially before busy periods such as Christmas when cut-off dates and returns windows may change.</p>
+<p>Seasonal information, such as last order dates for Christmas delivery, is worth publishing in good time and removing promptly once it no longer applies.</p>
+
+<h2>Platform considerations</h2>
+<p>Platforms such as Shopify and WooCommerce let you configure delivery zones, rates and rules, and display them at checkout. The settings in your shop should match what your delivery page says. If you use apps or plugins for returns or delivery date estimates, check that they show accurate information and do not slow the site down. Our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers setting up a Shopify shop more generally.</p>
+
+<h2>Delivery and returns pages and search</h2>
+<p>Shoppers sometimes search for delivery and returns information directly, such as your brand name plus "returns". Clear, indexable pages help them find the answer. Structured data for shipping and returns can also give search engines more information about your policies; our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains structured data in general.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Hiding delivery costs until the final checkout step.</li>
+<li>Vague timescales with no explanation of what they cover.</li>
+<li>Not mentioning areas with different delivery costs or restrictions.</li>
+<li>Returns wording that understates customers' legal rights.</li>
+<li>Complicated return processes with unclear steps.</li>
+<li>Inconsistent information across pages and emails.</li>
+<li>Out-of-date seasonal cut-off dates.</li>
+</ul>
+
+<h2>A simple checklist</h2>
+<ul>
+<li>Every delivery option explained with cost and timescale.</li>
+<li>Free delivery threshold stated, if offered.</li>
+<li>Delivery areas and any exceptions explained.</li>
+<li>International delivery, duties and taxes covered, if relevant.</li>
+<li>Returns steps set out clearly.</li>
+<li>Return costs, refunds and exclusions explained.</li>
+<li>Wording checked against consumer rights and your terms.</li>
+<li>Key points shown on product, basket and checkout pages.</li>
+<li>A review schedule, especially before busy periods.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds online shops for UK businesses, working remotely across the UK. We can help plan where delivery and returns information appears, configure delivery settings on your platform and design clear policy pages, with scope agreed with you. Read our <a href="/blog/website-trust-signals/">website trust signals guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need separate delivery and returns pages?</h3>
+<p>Many shops use two pages so each is easy to find, while smaller shops sometimes combine them. Either works if the information is clear and easy to locate.</p>
+<h3>Should I offer free delivery?</h3>
+<p>It depends on your margins and products. A free delivery threshold is a common approach. Whatever you choose, state it clearly.</p>
+<h3>Can I refuse returns?</h3>
+<p>Customers generally have legal rights to cancel most online orders and to remedies for faulty goods, with some exceptions. Check current guidance before writing any restrictions.</p>
+<h3>Where should delivery costs appear?</h3>
+<p>Ideally before checkout: on product pages, in the basket and on a dedicated delivery page, so there are no surprises.</p>
+<h3>How often should I update these pages?</h3>
+<p>Whenever couriers, costs or policies change, and before seasonal peaks when cut-off dates and returns windows may differ.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-product-descriptions',
+    seoTitle: 'How to Write Ecommerce Product Descriptions That Sell',
+    title: 'How to Write Ecommerce Product Descriptions That Help Shoppers Buy',
+    description: 'A UK guide to writing ecommerce product descriptions: structure, benefits versus features, tone, specifications, scannable layouts and avoiding duplicate copy.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/product-page-seo-uk/', '/blog/website-copywriting-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>On an online shop, the product description does the job a knowledgeable shop assistant would do in person. The shopper cannot pick the item up, try it on or ask a question across the counter, so the words on the page have to fill the gap. Yet product descriptions are often an afterthought: a line copied from a supplier feed, a list of measurements, or a paragraph of vague praise that could apply to anything.</p>
+<p>This guide explains how to plan, structure and write ecommerce product descriptions that help shoppers decide. It focuses on the writing itself. For the search side, such as title tags, structured data and URL structure, see our <a href="/blog/product-page-seo-uk/">product page SEO guide</a>.</p>
+
+<h2>What a product description is for</h2>
+<p>A product description has a few overlapping jobs. It should help the right shopper recognise that this is the product they need, reassure them about the details that matter, and remove doubts that might stop them buying. It should also help the wrong shopper realise the product is not for them, which can reduce returns and disappointment.</p>
+<p>It is not there to impress with clever wording. Shoppers tend to scan rather than read, looking for specific facts such as size, material, compatibility or care instructions. Description copy that hides those facts inside long paragraphs makes the shopper work harder than they need to.</p>
+
+<h2>Start with the customer, not the product</h2>
+<p>Before writing, think about who buys this product and why. A walking boot might be bought by a weekend rambler, a serious hill walker or someone buying a gift. Each cares about different things. If you sell to one main group, write for them. If several groups buy the same item, make sure the description covers the questions each is likely to have.</p>
+<p>Useful sources of customer questions include:</p>
+<ul>
+<li>Questions customers send by email, phone or live chat before buying.</li>
+<li>Reasons given for returns, which often point to information that was missing or unclear.</li>
+<li>Reviews on your own site, which show the words customers use and what they valued.</li>
+<li>Searches made on your own site, which reveal the terms shoppers use. Our <a href="/blog/ecommerce-site-search/">ecommerce site search guide</a> explains how to use this data.</li>
+</ul>
+<p>Collecting these questions for each product type gives you a checklist of what every description in that category should answer.</p>
+
+<h2>Features and benefits</h2>
+<p>A feature is a fact about the product. A benefit is what that fact means for the customer. "Merino wool lining" is a feature. "Keeps feet warm without overheating on long walks" is the benefit. Shoppers usually need both: the benefit explains why they should care, and the feature gives them confidence the claim is grounded in something real.</p>
+<p>A simple approach is to take each important feature and ask "so what?" until you reach something the customer cares about. Keep benefits honest and specific. Avoid claiming outcomes you cannot stand behind, and be careful with words that have legal or regulatory meaning, such as "waterproof", "organic", "hypoallergenic" or health-related claims. If you are unsure whether a claim is allowed for your product category, it is worth checking the relevant guidance or taking advice before publishing.</p>
+
+<h2>A practical structure for product descriptions</h2>
+<p>There is no single correct template, but many shops find a consistent structure helps shoppers and makes writing quicker. A common pattern is:</p>
+<ol>
+<li><strong>An opening line or short paragraph</strong> that says what the product is and who it is for, with the main benefit.</li>
+<li><strong>Key benefits</strong> as a short list of three to five points, each tying a feature to an outcome.</li>
+<li><strong>Detail and context</strong> for shoppers who want more, such as how it is made, how it fits or how it compares with similar items you sell.</li>
+<li><strong>Specifications</strong> in a clear list or table: dimensions, weight, materials, compatibility, capacity and so on.</li>
+<li><strong>Care, use or setup information</strong> where relevant.</li>
+<li><strong>Practical information</strong> such as what is in the box, or a link to your delivery and returns information.</li>
+</ol>
+<p>The order can change depending on the product. For technical items, shoppers may want specifications near the top. For fashion or gifts, the look and feel may matter more. What matters is that the structure is predictable across your shop, so shoppers learn where to find things.</p>
+
+<h2>Make descriptions easy to scan</h2>
+<p>Most shoppers skim product pages, particularly on mobile. Some simple formatting habits help:</p>
+<ul>
+<li>Keep paragraphs short, ideally two or three sentences.</li>
+<li>Use bullet points for benefits and specifications.</li>
+<li>Use subheadings or tabs on longer descriptions, so shoppers can jump to what they need.</li>
+<li>Put the most important information first in each section.</li>
+<li>Bold sparingly, for genuinely key facts rather than whole sentences.</li>
+</ul>
+<p>Be careful with tabs and accordions. They keep the page tidy, but information hidden inside them is easy to miss. Essential details such as size or compatibility are often better kept visible. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers layout considerations for smaller screens.</p>
+
+<h2>Write in your brand's voice</h2>
+<p>Product descriptions are one of the places where your brand voice shows up most often, because there are so many of them. A playful brand can be playful here; a technical brand should be precise. The important thing is consistency, so that the shop feels like one business rather than a patchwork of supplier copy. If you have not defined your voice yet, our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> explains how.</p>
+<p>Whatever the voice, clarity comes first. Avoid filler phrases such as "high quality", "premium" or "the perfect choice" unless you explain what makes them true. Concrete details are more persuasive than adjectives: "double-stitched seams and a reinforced base" tells the shopper more than "built to last".</p>
+
+<h2>Use sensory and practical detail</h2>
+<p>Because shoppers cannot touch the product, words can help them imagine it. Describe texture, weight, sound, scent or how something feels to use where it is relevant. For clothing, explain fit and how the fabric behaves. For furniture, help the shopper picture the size in a real room. For food and drink, describe taste and serving suggestions.</p>
+<p>Words work best alongside good imagery. Descriptions can point out details that photographs might not make obvious, such as the weight of a fabric or the finish on a surface. Our <a href="/blog/ecommerce-product-photography/">ecommerce product photography guide</a> covers the visual side.</p>
+
+<h2>Specifications: accuracy matters most</h2>
+<p>Specifications are where errors cause the most trouble. A wrong measurement or missing compatibility note can lead to returns, complaints and lost trust. Some good habits:</p>
+<ul>
+<li>Use consistent units across the shop, and consider showing both metric and imperial where your customers expect it.</li>
+<li>State exactly what is and is not included.</li>
+<li>Be clear about variations, such as how sizes differ between colours or styles.</li>
+<li>Store specifications as structured product data where your platform allows, so they can be used for filters and comparisons as well as display.</li>
+<li>Review specifications whenever a supplier changes a product.</li>
+</ul>
+<p>Structured attributes also make category filters work properly, which our <a href="/blog/ecommerce-category-page-design/">ecommerce category page design guide</a> discusses.</p>
+
+<h2>Avoid duplicate and supplier copy</h2>
+<p>Many retailers receive product descriptions from manufacturers or wholesalers. Using them unchanged is quick, but the same text may appear on many other shops. That makes it harder for your product pages to stand out, both to shoppers and in search results, and the copy is rarely written with your customers in mind.</p>
+<p>Rewriting every description at once may not be realistic for a large catalogue. A practical approach is to prioritise: start with your best-selling products, products with high return rates and products in your most important categories. Supplier information is still useful as a source of facts; the aim is to present those facts in your own words, structured for your customers.</p>
+<p>Duplication within your own shop matters too. Products that differ only by colour or size often share near-identical descriptions. Where variants are genuinely the same product, presenting them as options on one page is often simpler than creating many near-duplicate pages.</p>
+
+<h2>Using AI tools for product descriptions</h2>
+<p>AI writing tools can help draft descriptions at scale, particularly for large catalogues. They can be useful for producing a first draft from structured product data, or for suggesting variations. However, they can also introduce errors, invent features or produce generic copy. Any AI-assisted description should be checked by someone who knows the product, especially specifications and claims. Treat the tool as a drafting aid rather than a replacement for product knowledge.</p>
+
+<h2>Descriptions and search</h2>
+<p>Well-written descriptions tend to support search visibility naturally, because they use the words customers use and answer the questions they ask. Include the terms shoppers actually search for where they fit naturally, but avoid stuffing keywords into the copy. Writing for people first usually produces better results than writing for search engines first. For keyword planning, see our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a>.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Copying supplier descriptions without adapting them.</li>
+<li>Listing features without explaining why they matter.</li>
+<li>Using vague praise instead of concrete detail.</li>
+<li>Hiding key facts such as size or compatibility.</li>
+<li>Writing long blocks of text that are hard to scan on mobile.</li>
+<li>Making claims that are not accurate or not permitted.</li>
+<li>Letting descriptions go out of date when products change.</li>
+</ul>
+
+<h2>A simple process for improving descriptions</h2>
+<p>If your shop has many products, improving descriptions can feel overwhelming. Breaking it down helps:</p>
+<ol>
+<li>Choose a priority group of products.</li>
+<li>Gather customer questions, return reasons and review language for that group.</li>
+<li>Agree a structure and checklist for the category.</li>
+<li>Write or rewrite descriptions, checking facts with whoever knows the products best.</li>
+<li>Review performance indicators you already track, such as conversion and returns, over time.</li>
+<li>Move on to the next group.</li>
+</ol>
+<p>This keeps the work manageable and lets you learn what works for your customers before applying it across the shop.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds online shops for UK businesses, working remotely across the UK. We can help plan product page layouts, set up structured product data and talk through how descriptions fit into your wider site, with scope agreed with you. Read our <a href="/blog/website-copywriting-uk/">website copywriting guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How long should a product description be?</h3>
+<p>Long enough to answer the questions a shopper is likely to have, and no longer. Simple products may need only a short paragraph and specifications; complex or expensive products usually need more.</p>
+<h3>Can I use the manufacturer's description?</h3>
+<p>You can use it as a source of facts, but rewriting it for your customers usually produces more useful and distinctive copy. Check any supplier terms that apply to their content.</p>
+<h3>Should every variant have its own description?</h3>
+<p>Not necessarily. If variants differ only by size or colour, one description with clear options is often simpler for shoppers.</p>
+<h3>Do product descriptions affect returns?</h3>
+<p>They can. Clear, accurate information about size, fit, materials and compatibility helps shoppers choose correctly, which may reduce avoidable returns.</p>
+<h3>Is it worth rewriting old descriptions?</h3>
+<p>Often, yes, particularly for best-selling products or items with frequent questions or returns. Start with a priority group rather than the whole catalogue.</p>
+`,
+  },
+  {
+    slug: 'website-colour-and-typography',
+    seoTitle: 'Website Colour and Typography for Small Businesses',
+    title: 'Website Colour and Typography: A Practical Guide for Small Businesses',
+    description: 'A UK guide to choosing website colours and fonts for a small business: building a palette, contrast, font pairing, readable type sizes and consistency.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/brand-identity-design-uk/', '/blog/website-accessibility-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Colour and typography shape how a website feels before a visitor reads a single sentence. They influence whether a site looks calm or energetic, traditional or modern, trustworthy or improvised. For a small business, getting them right does not require an expensive rebrand, but it does require some thought. A few deliberate choices, applied consistently, can make a site look far more polished.</p>
+<p>This guide explains how to choose website colours and fonts for a small business, how to keep them readable and accessible, and how to apply them consistently across your site.</p>
+
+<h2>Start from your brand</h2>
+<p>If your business already has a logo, brand colours or fonts, the website should build on them. Consistency between your website, signage, social media and printed materials helps people recognise you. If your brand is still loosely defined, it may be worth clarifying it before making website decisions. Our <a href="/blog/brand-identity-design-uk/">brand identity design guide</a> explains what a brand identity covers.</p>
+<p>Think about how you want visitors to feel and what your customers expect. A law firm, a children's party business and an independent coffee roaster will reasonably make very different choices. Look at the kinds of businesses your customers already trust, not to copy them, but to understand the expectations in your sector.</p>
+
+<h2>Choosing a colour palette</h2>
+<h3>Keep it small</h3>
+<p>Most effective websites use a limited palette. A common structure is:</p>
+<ul>
+<li><strong>A primary brand colour</strong> used for key elements such as the logo, headings or highlights.</li>
+<li><strong>An accent colour</strong> used sparingly for calls to action, such as buttons and links, so they stand out.</li>
+<li><strong>Neutrals</strong>, such as off-whites, greys and near-blacks, for backgrounds, text and borders.</li>
+<li><strong>Functional colours</strong> for messages such as errors, warnings and success states.</li>
+</ul>
+<p>Neutrals do most of the work on a typical page. Brand colours tend to be more effective when used with restraint, so they draw the eye to what matters.</p>
+<h3>Think about meaning, but do not overthink it</h3>
+<p>Colours carry associations, and these vary by culture and context. Rather than relying on general rules about what each colour means, consider what fits your brand and how your colours will work together. Your call-to-action colour should contrast with its surroundings so it is easy to spot.</p>
+<h3>Tints and shades</h3>
+<p>A palette is more flexible if each main colour has a few lighter and darker versions. Lighter tints work for backgrounds and highlighted sections; darker shades work for hover states and text on light backgrounds. Defining these in advance avoids improvised colours creeping in.</p>
+
+<h2>Contrast and accessibility</h2>
+<p>Colour choices must keep text readable. Low-contrast text, such as light grey on white or white on a pale brand colour, is hard for many people to read, particularly on mobile screens outdoors or for visitors with visual impairments.</p>
+<p>The Web Content Accessibility Guidelines (WCAG) set out minimum contrast ratios between text and its background. Free contrast-checking tools can tell you whether a colour combination passes. Check:</p>
+<ul>
+<li>Body text against its background.</li>
+<li>Text on buttons and coloured sections.</li>
+<li>Link colours against surrounding text and background.</li>
+<li>Text placed over images.</li>
+<li>Form field borders and placeholder text.</li>
+</ul>
+<p>Also avoid relying on colour alone to convey meaning. For example, form errors should include a text message, not just a red border. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers these principles in more depth.</p>
+
+<h2>Choosing fonts</h2>
+<h3>Limit the number of fonts</h3>
+<p>Most websites need no more than two typefaces: one for headings and one for body text. Some sites use a single family throughout, varying weight and size for hierarchy. More fonts tend to make a site feel cluttered and can slow it down.</p>
+<h3>Readability first</h3>
+<p>Body text needs to be comfortable to read at length. Look for fonts with clear letter shapes, generous spacing and distinct characters, so that letters such as a lowercase "l", uppercase "I" and the number "1" are easy to tell apart. Decorative or script fonts can work for a logo or occasional headline but are rarely suitable for paragraphs.</p>
+<h3>Serif and sans serif</h3>
+<p>Serif fonts have small strokes at the ends of letters and can feel traditional or editorial. Sans serif fonts lack these and often feel cleaner or more modern. Both can be highly readable on screens. Choose based on your brand's character and how the font performs at the sizes you need.</p>
+<h3>Pairing fonts</h3>
+<p>If you use two fonts, they should look different enough to create contrast but share a similar feel. A common approach is a distinctive font for headings with a neutral, highly readable font for body text. Test pairings with real content rather than sample text.</p>
+<h3>Licensing and performance</h3>
+<p>Check that you have the right licence to use a font on your website. Many good fonts are freely licensed for web use, while others require a paid licence. Each font file adds to page weight, so load only the weights and styles you actually use. Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> covers performance more broadly.</p>
+
+<h2>Type sizes and hierarchy</h2>
+<p>Typography is not just which font you use but how you use it. A clear hierarchy helps visitors scan the page and understand what matters.</p>
+<ul>
+<li><strong>Body text size:</strong> make it comfortably readable on all devices. Text that is too small is one of the most common readability problems.</li>
+<li><strong>Headings:</strong> use clear size and weight differences between heading levels so the structure is obvious.</li>
+<li><strong>Line length:</strong> very long lines are tiring to read. Limiting the width of text columns helps.</li>
+<li><strong>Line height:</strong> generous spacing between lines makes paragraphs easier to read.</li>
+<li><strong>Spacing:</strong> consistent space between headings, paragraphs and sections makes a page feel organised.</li>
+</ul>
+<p>Use a consistent scale of sizes rather than choosing sizes ad hoc. A small set of defined sizes for headings, body text and small print keeps the site coherent.</p>
+
+<h2>Colour and type on mobile</h2>
+<p>Choices that look good on a large monitor can behave differently on a phone. Headings may need to be smaller to avoid awkward line breaks, while body text must remain readable. Contrast matters even more when people use phones in bright light. Test your colours and fonts on real devices. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers designing for smaller screens.</p>
+
+<h2>Turning choices into a simple system</h2>
+<p>The best way to keep colour and typography consistent is to define them as a small system:</p>
+<ul>
+<li>A named list of colours with exact values, and notes on where each is used.</li>
+<li>Heading and body fonts with the weights used.</li>
+<li>A set of text sizes for each heading level, body text and small text.</li>
+<li>Button and link styles, including hover and focus states.</li>
+<li>Rules for backgrounds, such as which text colours work on which backgrounds.</li>
+</ul>
+<p>Most website platforms and themes let you set global colours and fonts. Setting them centrally, rather than styling each page individually, makes the site consistent and makes future changes much easier. This also helps anyone who adds content later stay within the system.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Using too many colours or fonts.</li>
+<li>Low-contrast text that is hard to read.</li>
+<li>Body text that is too small, especially on mobile.</li>
+<li>Decorative fonts used for paragraphs.</li>
+<li>Call-to-action buttons that blend into the page.</li>
+<li>Colours and fonts applied inconsistently from page to page.</li>
+<li>Loading many font weights that are never used.</li>
+<li>Website colours that do not match the rest of the brand.</li>
+</ul>
+
+<h2>When to refresh colours and typography</h2>
+<p>You may not need a full redesign to improve how a site looks. Refining contrast, tightening a palette, increasing body text size or replacing a hard-to-read font can make a noticeable difference. If your brand is changing more fundamentally, colour and type are usually part of a wider rebrand; our <a href="/blog/rebranding-guide-uk/">rebranding guide</a> covers that process. If you are planning larger changes to the site itself, our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> is worth reading.</p>
+
+<h2>A simple checklist</h2>
+<ul>
+<li>Colours and fonts based on your existing brand, where you have one.</li>
+<li>A small palette with primary, accent, neutral and functional colours.</li>
+<li>Contrast checked for text, buttons and links.</li>
+<li>No more than two typefaces, with only needed weights loaded.</li>
+<li>Font licences checked.</li>
+<li>Readable body text size, line length and line height.</li>
+<li>A consistent scale of heading sizes.</li>
+<li>Global colour and type settings in your platform.</li>
+<li>Testing on real mobile devices.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio provides brand strategy and website design for UK businesses, working remotely across the UK. We can help define a practical colour and typography system for your website and apply it consistently across your pages, with scope agreed with you. Read our <a href="/blog/website-homepage-design/">homepage design guide</a>, explore our <a href="/services/brand-strategy/">brand strategy service</a> and <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many colours should a website use?</h3>
+<p>Usually a small set: a primary colour, an accent, a few neutrals and functional colours for messages. Restraint tends to look more professional.</p>
+<h3>How many fonts should a website have?</h3>
+<p>Generally no more than two, one for headings and one for body text. A single family can work well too.</p>
+<h3>What is the best font for a business website?</h3>
+<p>There is no single best font. Choose one that suits your brand, is highly readable on screens and is licensed for web use.</p>
+<h3>How do I check colour contrast?</h3>
+<p>Use a contrast-checking tool to compare text and background colours against WCAG guidelines, and test on real devices.</p>
+<h3>Should my website colours match my logo?</h3>
+<p>Usually, yes. Building on your existing brand colours helps people recognise your business across different channels.</p>
+`,
+  },
+  {
+    slug: 'website-faq-page',
+    seoTitle: 'Website FAQ Page: How to Plan and Write One',
+    title: 'Website FAQ Page: How to Plan, Write and Structure Useful FAQs',
+    description: 'A UK guide to website FAQ pages: when you need one, finding real questions, writing clear answers, structuring the page, FAQ schema and keeping it up to date.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-copywriting-uk/', '/blog/schema-markup-guide-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>An FAQ page sounds simple: list the questions people ask and answer them. In practice, many FAQ pages are either neglected afterthoughts or dumping grounds for information that did not fit anywhere else. A well-planned FAQ page can save customers time, reduce repetitive enquiries and help visitors feel confident about getting in touch or buying.</p>
+<p>This guide explains when an FAQ page is worth having, how to find the right questions, how to write answers people can use, and how to structure and maintain the page over time.</p>
+
+<h2>Do you need an FAQ page?</h2>
+<p>Not every website needs a separate FAQ page. If your site is small and each page already answers the obvious questions, a standalone FAQ page may add little. An FAQ page tends to be most useful when:</p>
+<ul>
+<li>Customers regularly ask the same practical questions about delivery, booking, payment, eligibility or process.</li>
+<li>You offer several services or products and questions apply across them.</li>
+<li>Your service involves steps or terms that people often misunderstand.</li>
+<li>Your team spends noticeable time answering the same enquiries.</li>
+</ul>
+<p>A useful test is whether the FAQ page would genuinely help someone, or whether it exists only because other sites have one. If the answers would be better placed on your service, product or contact pages, put them there first.</p>
+
+<h2>Finding the real questions</h2>
+<p>The best FAQ pages are built from questions customers actually ask. Good sources include:</p>
+<ul>
+<li>Emails, phone calls and messages from prospective customers.</li>
+<li>Questions raised during sales conversations or consultations.</li>
+<li>Common reasons for complaints, cancellations or returns.</li>
+<li>Searches made on your own website.</li>
+<li>Search queries in Google Search Console that bring people to your site.</li>
+<li>Questions colleagues are asked repeatedly.</li>
+</ul>
+<p>Ask the people who deal with customers day to day. They usually know the top questions without needing to check. Write questions in the words customers use rather than internal jargon. If customers ask "how long does delivery take?", use that rather than "what are your fulfilment timescales?".</p>
+<p>Avoid inventing questions to promote yourself, such as "why are you the best choice?". Visitors recognise these as marketing, and they make the rest of the page feel less trustworthy.</p>
+
+<h2>Writing answers people can use</h2>
+<p>A good FAQ answer gets to the point. Start with the direct answer, then add any necessary detail. For example, if the question is "do you deliver to Northern Ireland?", begin with "yes" or "no" before explaining any conditions.</p>
+<p>Some principles for clear answers:</p>
+<ul>
+<li><strong>Answer first, explain second.</strong> Put the key fact in the first sentence.</li>
+<li><strong>Keep it short.</strong> Most answers should be a few sentences. If an answer needs several paragraphs, it may deserve its own page, with a short summary and a link in the FAQ.</li>
+<li><strong>Be specific.</strong> Where you can give a clear answer, do so. Vague answers create follow-up questions.</li>
+<li><strong>Link to detail.</strong> Point to the relevant service page, policy or guide for people who want more.</li>
+<li><strong>Use plain English.</strong> Avoid legal or technical language unless it is necessary, and explain it when it is.</li>
+<li><strong>Stay consistent.</strong> Answers must match what your terms, policies and other pages say.</li>
+</ul>
+<p>Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> covers writing clearly for the web more generally.</p>
+
+<h2>Be careful with legal and policy answers</h2>
+<p>FAQ pages often touch on refunds, cancellations, guarantees, data protection or regulated services. A friendly summary is helpful, but it should not contradict or oversimplify your formal terms. Where an answer relates to legal rights or obligations, keep it accurate, link to the full policy and avoid promises the business cannot keep. If you are unsure how to phrase something, it may be sensible to check with a legal adviser. A short summary plus a link to the authoritative document is usually safer than restating the whole policy.</p>
+
+<h2>Structuring the FAQ page</h2>
+<p>A list of fifty unsorted questions is hard to use. Grouping and ordering make a large difference.</p>
+<h3>Group questions by topic</h3>
+<p>Organise questions into clear sections, such as ordering, delivery, returns, accounts and payments for a shop, or services, process, costs and getting started for a service business. Use headings so visitors can jump to the relevant section.</p>
+<h3>Put the most common questions first</h3>
+<p>Within each group, order questions by how often they are asked or how important they are. You might also include a short "most asked" section at the top.</p>
+<h3>Consider navigation for longer pages</h3>
+<p>For longer FAQ pages, a short list of section links at the top helps visitors move around. On-page search or filtering can help when there are many questions.</p>
+<h3>Accordions: useful, with care</h3>
+<p>Expandable accordions keep long FAQ pages tidy by showing only the questions until a visitor clicks. They work well for scanning, but make sure they are accessible: they should work with a keyboard, announce their state to screen readers and not hide content from people who need it. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the principles.</p>
+
+<h2>FAQs on other pages</h2>
+<p>A central FAQ page is not the only place for questions. Short FAQ sections on service pages, product pages and landing pages can answer questions at the moment they arise, which may help visitors decide without leaving the page. Keep these focused on the topic of the page, and avoid repeating the whole central FAQ on every page.</p>
+<p>For service businesses, our <a href="/blog/service-page-design/">service page design guide</a> discusses how FAQs fit into a service page. For shops, practical questions about delivery and returns are often best answered close to the buy button, with a link to fuller information.</p>
+
+<h2>FAQ pages and search</h2>
+<p>FAQ content can help with search visibility because it answers specific questions in clear language. Search engines and AI assistants increasingly look for concise, well-structured answers, and a well-written FAQ can provide them. Our <a href="/blog/ai-overviews-seo-uk/">AI Overviews guide</a> covers how this kind of content is used.</p>
+<h3>FAQ schema</h3>
+<p>FAQPage structured data marks up questions and answers so search engines can understand them. Google has changed how and where it displays FAQ rich results over time, and for most sites they are no longer shown in the way they once were. Structured data can still help search engines interpret your content, but it is best treated as a technical nicety rather than a reason to create an FAQ page. Mark up only questions and answers that are visible on the page. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains structured data in more detail.</p>
+<h3>Avoid thin or duplicated FAQs</h3>
+<p>Copying the same FAQ block across many pages, or writing one-line answers that say nothing, adds little value. Each answer should help the reader.</p>
+
+<h2>Signposting the next step</h2>
+<p>Someone reading your FAQ page is often close to a decision. Make it easy to act: include a clear route to contact you if their question is not answered, and links to relevant services, products or booking pages. A simple line such as "Cannot find your answer? Get in touch" with a link to your contact page can help. Our <a href="/blog/website-contact-forms/">website contact forms guide</a> covers making that next step straightforward.</p>
+
+<h2>Keeping FAQs up to date</h2>
+<p>Out-of-date FAQs can cause real problems, such as wrong delivery times, old prices or discontinued services. Build a simple review habit:</p>
+<ul>
+<li>Review the page whenever policies, services or processes change.</li>
+<li>Set a regular reminder to check every answer for accuracy.</li>
+<li>Add new questions when the same enquiry starts appearing repeatedly.</li>
+<li>Remove questions that are no longer relevant.</li>
+<li>Assign someone to own the page, so it does not drift.</li>
+</ul>
+<p>If you track on-site searches or contact form topics, these can show whether the FAQ is answering what people need.</p>
+
+<h2>Common FAQ page mistakes</h2>
+<ul>
+<li>Inventing promotional questions that nobody asks.</li>
+<li>Long, unstructured lists with no grouping.</li>
+<li>Answers that contradict terms or other pages.</li>
+<li>Vague answers that create more questions.</li>
+<li>Hiding important information only in the FAQ instead of on key pages.</li>
+<li>Letting answers go out of date.</li>
+<li>Inaccessible accordions that do not work with a keyboard.</li>
+</ul>
+
+<h2>A simple FAQ page checklist</h2>
+<ul>
+<li>Questions gathered from real customer contact.</li>
+<li>Questions written in customers' words.</li>
+<li>Direct answers in the first sentence.</li>
+<li>Questions grouped by topic with clear headings.</li>
+<li>Links to fuller policies, services and guides.</li>
+<li>Accessible layout and accordions.</li>
+<li>Clear route to contact for unanswered questions.</li>
+<li>An owner and a review schedule.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. We can help plan where FAQs belong in your site structure, design accessible FAQ layouts and set up structured data where appropriate, with scope agreed with you. Read our <a href="/blog/small-business-website-checklist/">small business website checklist</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many questions should an FAQ page have?</h3>
+<p>As many as are genuinely useful. A small business might need only a handful; a larger shop may need more, grouped by topic. Quality matters more than quantity.</p>
+<h3>Should FAQs go on a separate page or on each page?</h3>
+<p>Often both. A central page covers general questions, while short, focused FAQ sections on key pages answer questions where they arise.</p>
+<h3>Does FAQ schema still help?</h3>
+<p>It can help search engines understand your content, but FAQ rich results are now shown far less widely. Use it for visible questions only, and do not rely on it for visibility.</p>
+<h3>Can an FAQ page reduce enquiries?</h3>
+<p>It may reduce repetitive questions if it answers what people genuinely ask, though some customers will always prefer to get in touch directly.</p>
+<h3>Who should write the FAQ answers?</h3>
+<p>Ideally someone who deals with customers, with a check from whoever owns the relevant policy or service, so answers are both clear and accurate.</p>
+`,
+  },
+  {
+    slug: 'website-footer-design',
+    seoTitle: 'Website Footer Design: What to Include and Why',
+    title: 'Website Footer Design: What to Include and How to Make It Useful',
+    description: 'A UK guide to website footer design: essential links, contact details, legal pages, newsletter sign-ups, ecommerce footers, mobile layout and accessibility.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/website-trust-signals/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The footer is easy to overlook. It sits at the bottom of every page, often designed last and updated rarely. Yet visitors use it more than you might expect. When someone cannot find contact details, delivery information or a privacy policy, the footer is where many of them scroll to look. A clear, well-organised footer quietly supports navigation, trust and practical tasks across the whole site.</p>
+<p>This guide explains what a website footer is for, what to include, how to organise it and how to make it work well on mobile and for every visitor.</p>
+
+<h2>What the footer is for</h2>
+<p>A footer has a few practical jobs:</p>
+<ul>
+<li><strong>Safety net navigation.</strong> It gives visitors a second chance to find pages they could not locate in the main menu.</li>
+<li><strong>Practical information.</strong> It holds details people look for at the end of a page, such as contact information, opening hours or delivery and returns links.</li>
+<li><strong>Legal and policy links.</strong> It provides a consistent home for privacy, cookie and terms pages.</li>
+<li><strong>Reassurance.</strong> Business details and clear policies help visitors feel they are dealing with a real, accountable business.</li>
+<li><strong>A final next step.</strong> For visitors who reach the end of a page, it can offer a route to contact, subscribe or explore further.</li>
+</ul>
+<p>The footer supports the main navigation rather than replacing it. Our <a href="/blog/website-navigation-structure/">website navigation guide</a> covers planning the main menu and site structure.</p>
+
+<h2>What to include in a footer</h2>
+<p>The right contents depend on your business and site, but most footers draw from the following.</p>
+<h3>Contact details</h3>
+<p>Include the main ways customers can reach you: an email address, phone number if you take calls, and a link to your contact page. If you have a physical location that customers visit, include the address and opening hours. If you work remotely, there is no need to invent an address; a clear contact route is what matters.</p>
+<h3>Business information</h3>
+<p>Many businesses show their legal business name and other identifying details in the footer. Depending on your business type, there may be information you are expected or required to show on your website, such as company registration details for limited companies or regulatory information for regulated firms. Requirements vary, so it is worth checking what applies to your business rather than relying on a general list.</p>
+<h3>Legal and policy pages</h3>
+<p>Common links include your privacy policy, cookie policy and website terms. Shops usually add terms of sale, delivery information and returns. Accessibility statements are also often linked from the footer. Keep these links consistent across every page so they are always easy to find.</p>
+<h3>Key navigation links</h3>
+<p>Choose the pages visitors most often need, such as main services or product categories, about, blog or resources, and help or FAQ pages. You do not need to link to everything. A footer listing every page on the site becomes a wall of links that is hard to scan.</p>
+<h3>Social media links</h3>
+<p>If you maintain active social media profiles, small icons linking to them are common. Only include profiles you actually keep up to date; a link to an abandoned account can do more harm than good.</p>
+<h3>Newsletter sign-up</h3>
+<p>A short email sign-up form works well in many footers, particularly for shops and content-led sites. Keep it simple: an email field, a clear description of what subscribers will receive and a link to your privacy policy. Make sure your sign-up process follows the rules that apply to email marketing consent; if you are unsure, check current guidance.</p>
+<h3>Copyright line</h3>
+<p>A copyright line with the business name and year is conventional. If you include a year, keep it current, as an old date can make a site look neglected.</p>
+
+<h2>Organising footer content</h2>
+<p>A good footer is easy to scan. Some principles:</p>
+<ul>
+<li><strong>Group links into a few columns or sections</strong>, each with a short, clear heading such as "Services", "Help" or "Company".</li>
+<li><strong>Keep labels short and familiar.</strong> Use the same names as your main navigation so visitors recognise them.</li>
+<li><strong>Prioritise.</strong> Put the most-used links in the most prominent positions.</li>
+<li><strong>Separate legal links</strong> into a smaller row at the very bottom, so they are available without competing with main links.</li>
+<li><strong>Use enough spacing and contrast</strong> so the footer is readable, not cramped.</li>
+</ul>
+<p>Footers are often designed in a darker or contrasting colour to separate them from the main content. That is fine, but make sure text still meets contrast guidelines.</p>
+
+<h2>Ecommerce footers</h2>
+<p>Online shops tend to have busier footers because customers look there for practical help. Useful elements include:</p>
+<ul>
+<li>Delivery information and delivery areas.</li>
+<li>Returns and refunds information.</li>
+<li>Order tracking or account links.</li>
+<li>Customer service contact details and hours.</li>
+<li>Size guides or care guides where relevant.</li>
+<li>Accepted payment methods, shown simply.</li>
+<li>Main product categories.</li>
+</ul>
+<p>Shoppers often check delivery and returns before buying, so making these easy to find from the footer can help reassure them. Our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> covers shop design more broadly, and our <a href="/blog/website-trust-signals/">website trust signals guide</a> explains other ways to build confidence.</p>
+
+<h2>Service business footers</h2>
+<p>For service businesses, the footer can reinforce how to get in touch and what you offer. Consider including a short summary of your services, links to each main service page, contact details and a simple call to action such as a link to book a call or request a quote. Keep it calm and useful rather than repeating a sales pitch.</p>
+
+<h2>Footer design on mobile</h2>
+<p>On mobile, a footer with four columns of links can turn into a very long scroll. Common approaches include:</p>
+<ul>
+<li>Stacking sections vertically with clear headings.</li>
+<li>Using collapsible sections so visitors can open only the group they need.</li>
+<li>Keeping contact details and key actions visible rather than collapsed.</li>
+<li>Making links large enough to tap comfortably, with enough spacing between them.</li>
+</ul>
+<p>Test the footer on real devices. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> has more on designing for smaller screens.</p>
+
+<h2>Accessibility</h2>
+<p>Footers should be as accessible as the rest of the site. Good practice includes:</p>
+<ul>
+<li>Using a proper footer landmark in the page code, so assistive technology can identify it.</li>
+<li>Giving link groups clear headings.</li>
+<li>Ensuring sufficient colour contrast, particularly on dark backgrounds.</li>
+<li>Making social icons understandable to screen readers with text labels.</li>
+<li>Ensuring collapsible sections work with a keyboard and announce their state.</li>
+</ul>
+<p>Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the principles in more depth.</p>
+
+<h2>Footers and SEO</h2>
+<p>Footer links help visitors and search engines discover important pages, but they are not a shortcut to rankings. Stuffing the footer with long lists of keyword-heavy links, such as dozens of location pages, can look spammy and is unlikely to help. Link to pages that are genuinely useful to visitors, and rely on good main navigation and contextual internal links within content for structure.</p>
+
+<h2>Footer mistakes to avoid</h2>
+<ul>
+<li>Listing every page on the site.</li>
+<li>Out-of-date copyright years, contact details or social links.</li>
+<li>Missing or hard-to-find privacy and policy pages.</li>
+<li>Low-contrast text that is hard to read.</li>
+<li>Very long footers on mobile with no structure.</li>
+<li>Keyword-stuffed link lists aimed at search engines.</li>
+<li>Broken links to pages that have moved.</li>
+</ul>
+
+<h2>A simple footer checklist</h2>
+<ul>
+<li>Clear contact details and a link to the contact page.</li>
+<li>Business information appropriate to your business type.</li>
+<li>Privacy, cookie and terms links, plus shop policies if relevant.</li>
+<li>A small set of key navigation links, grouped under headings.</li>
+<li>Optional newsletter sign-up and active social links.</li>
+<li>Readable contrast and spacing.</li>
+<li>A tidy mobile layout with tappable links.</li>
+<li>Accessible markup and keyboard-friendly interactions.</li>
+<li>A regular check for broken or outdated links.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online shops for UK businesses, working remotely across the UK. We can help plan footer content alongside your main navigation and design a layout that works across devices, with scope agreed with you. Read our <a href="/blog/website-homepage-design/">homepage design guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should every website footer include?</h3>
+<p>Most footers benefit from contact details, key navigation links and links to privacy and other policy pages. The rest depends on your business.</p>
+<h3>Do footer links help SEO?</h3>
+<p>They help search engines discover important pages, but they are not a ranking shortcut. Keep footer links useful to visitors rather than stuffed with keywords.</p>
+<h3>Should my address be in the footer?</h3>
+<p>If customers visit you, yes. If you work remotely, a clear contact route is enough. Check whether any business information is required for your business type.</p>
+<h3>Is a newsletter sign-up in the footer worthwhile?</h3>
+<p>It can be, particularly for shops and content sites. Keep it simple and make clear what subscribers will receive.</p>
+<h3>How often should I review my footer?</h3>
+<p>Whenever your services, policies or contact details change, and as part of a regular site check for broken or outdated links.</p>
+`,
+  },
 ];
