@@ -13602,4 +13602,529 @@ module.exports = [
 <p>Yes. WooCommerce can add ecommerce to an existing WordPress site. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> explains more.</p>
 `,
   },
+  {
+    slug: 'shopify-conversion-rate-optimisation',
+    seoTitle: 'Shopify Conversion Rate Optimisation: UK Guide',
+    title: 'Shopify Conversion Rate Optimisation: How to Turn More Visitors Into Customers',
+    description: 'Shopify conversion rate optimisation guide for UK stores: product pages, navigation, cart and checkout, trust, speed and testing to grow sales.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Shopify conversion rate optimisation is the process of making it easier for visitors to your store to find what they want and buy it. Rather than spending more on traffic, CRO improves what happens once people arrive: clearer product pages, simpler navigation, fewer surprises at checkout and more reasons to trust you. Small improvements across the journey can add up.</p>
+<p>This guide is for UK Shopify store owners and ecommerce teams. For platform-neutral advice, see our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a>.</p>
+
+<h2>Start with your data</h2>
+<p>Before changing anything, find out where shoppers drop off. Shopify's analytics show sessions, add-to-cart rate, checkout reached and conversion rate. Pair these with your analytics tool to look at behaviour by device, traffic source and landing page. Session recordings and heatmaps can reveal confusion, while customer service emails and reviews often tell you exactly what puts people off.</p>
+<p>Look at mobile separately. Most shoppers browse on phones, and problems there can be hidden in blended averages.</p>
+
+<h2>Improve navigation and search</h2>
+<ul>
+<li>Use menu labels that match how customers describe products.</li>
+<li>Keep collections focused and add useful filters, such as size, colour or price.</li>
+<li>Make search prominent and check it handles common misspellings and synonyms.</li>
+<li>Review searches that return no results and fix gaps.</li>
+</ul>
+
+<h2>Make product pages do the selling</h2>
+<p>The product page is where most buying decisions happen. Strong pages typically include:</p>
+<ul>
+<li>High-quality images and, where useful, video showing the product in use.</li>
+<li>Descriptions that answer real questions about fit, materials, dimensions or compatibility.</li>
+<li>Clear pricing, variant selection and stock information.</li>
+<li>Delivery costs, times and returns information near the add-to-cart button.</li>
+<li>Genuine customer reviews.</li>
+</ul>
+<p>Avoid fake urgency, such as countdown timers that reset, or invented stock warnings. They can damage trust and may breach consumer protection rules.</p>
+
+<h2>Reduce friction in the cart and checkout</h2>
+<p>Unexpected costs are a common reason for abandoned baskets, so show delivery costs early. Keep the cart simple, make discount code fields unobtrusive and offer the payment methods your customers expect, including digital wallets. Shopify's checkout is already well optimised, so focus on what leads up to it. Abandoned checkout emails can recover some lost sales; our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers this.</p>
+
+<h2>Build trust</h2>
+<p>New visitors need reasons to believe you are legitimate. Show clear contact details, an about page, easy-to-find returns and delivery policies and secure payment options. Display real reviews honestly, including less positive ones.</p>
+
+<h2>Do not forget speed</h2>
+<p>Slow pages lose shoppers before they see your products. Apps and scripts added for conversion can ironically slow the store down. Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> explains how to balance features and performance.</p>
+
+<h2>Test changes properly</h2>
+<p>Where you have enough traffic, A/B test meaningful changes such as product page layout, delivery messaging or navigation, using a testing tool that works with Shopify. With lower traffic, make careful changes one at a time and compare results over comparable periods. Measure revenue per visitor and conversion rate, not just clicks.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Copying another store's design without understanding your own customers.</li>
+<li>Installing many conversion apps that slow the site.</li>
+<li>Hiding delivery costs until checkout.</li>
+<li>Calling tests too early.</li>
+<li>Using pop-ups that block mobile shoppers immediately.</li>
+</ul>
+
+<h2>Homepage and landing pages</h2>
+<p>Your homepage should quickly tell visitors what you sell, who it is for and why they should buy from you. Lead with your main categories or best sellers rather than a slow rotating slider. Paid traffic usually lands deeper in the store, so make sure the landing page matches the advert: if an ad promotes a specific product or offer, send people straight to it.</p>
+<h2>Collection page improvements</h2>
+<p>Collection pages are where shoppers compare options. Help them by showing the information they use to decide, such as price, key variants, ratings and delivery promises, directly in the product grid. Sensible default sorting, clear filter labels and the ability to see more products without endless page loads all reduce effort. Check that out-of-stock products are handled sensibly rather than cluttering the top of the page.</p>
+<h2>Mobile-specific fixes</h2>
+<p>Mobile shoppers have less screen space and less patience. Make sure the add-to-cart button is easy to reach, images can be swiped and zoomed, and key details are not hidden behind several taps. Sticky add-to-cart bars can help on long product pages. Test forms and pop-ups on real phones, not only in desktop previews.</p>
+<h2>Average order value</h2>
+<p>CRO is not only about conversion rate. Increasing average order value can grow revenue too. Options include relevant product recommendations, bundles, free delivery thresholds and well-placed cross-sells in the cart. Keep recommendations genuinely useful; irrelevant upsells add clutter and can reduce trust.</p>
+<h2>Post-purchase and repeat customers</h2>
+<p>Returning customers often convert more readily than new visitors. A smooth post-purchase experience, with clear order updates, easy returns and helpful follow-up emails, encourages repeat orders. Make it easy for returning customers to reorder and find what they bought before.</p>
+<h2>Building a CRO routine</h2>
+<p>Treat CRO as an ongoing habit rather than a one-off project. Keep a list of ideas, prioritise them by likely impact and effort, make changes or run tests, and record what you learn. Over time this builds a clear picture of what your customers respond to, which is more valuable than any generic checklist.</p>
+
+<h2>Use customer feedback</h2>
+<p>Numbers tell you where people drop off; customers tell you why. Short post-purchase surveys, questions to customer service and product reviews often reveal missing information, confusing sizing or worries about delivery. Add the answers to product pages and FAQs. If several people ask the same question before buying, that question deserves a prominent answer on the page.</p>
+<h2>Prioritising what to fix</h2>
+<p>Most stores have more ideas than time. A simple way to prioritise is to consider three things for each idea: how many visitors it affects, how much difference it is likely to make and how much effort it takes. Fixes on high-traffic pages, such as top product pages and the cart, usually come first. Broken features, missing information and slow pages should be fixed before experimenting with design tweaks.</p>
+<h2>Shopify features that help</h2>
+<p>Shopify includes several features that support conversion without extra apps, such as accelerated checkout buttons, saved customer details for returning shoppers, product recommendations in many themes and abandoned checkout emails. Check what your theme and plan already offer before adding new tools.</p>
+<h2>Keeping changes honest</h2>
+<p>Good CRO makes buying easier, not more pressured. Accurate stock messages, real reviews and clear prices build lasting trust and repeat custom. Tactics that mislead shoppers might lift sales briefly but tend to cost more in returns, complaints and reputation.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with Shopify retailers across the UK on conversion improvements, <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, speed and <a href="/blog/shopify-seo-uk/">Shopify SEO</a>. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is a good conversion rate for a Shopify store?</h3>
+<p>It varies widely by sector, price point, traffic source and device. Your own trend over time is the most useful benchmark.</p>
+<h3>Where should I start with Shopify CRO?</h3>
+<p>Start with your analytics to find the biggest drop-off point, often product pages or the cart, and fix clear problems first.</p>
+<h3>Do I need apps for CRO?</h3>
+<p>Not necessarily. Many improvements come from better content, layout and information. Add apps only where they solve a clear problem.</p>
+<h3>Can I A/B test on Shopify?</h3>
+<p>Yes, using compatible testing tools, though you need enough traffic for reliable results.</p>
+<h3>Does CRO help SEO?</h3>
+<p>Indirectly. Clearer pages and faster load times help shoppers and can support search performance, but CRO and SEO are different disciplines.</p>
+<h3>How long should an A/B test run?</h3>
+<p>Long enough to reach a reliable result and cover normal weekly patterns, usually at least a couple of weeks. Avoid stopping a test as soon as one version looks ahead.</p>
+<h3>Do free delivery thresholds help conversion?</h3>
+<p>They can encourage larger orders and reduce surprise costs, but they must suit your margins. Show the threshold clearly and test its effect.</p>
+<h3>Should I add live chat to my Shopify store?</h3>
+<p>It can help with pre-sale questions, especially for complex or expensive products, but only if someone can respond promptly. Check its impact on speed too.</p>
+<h3>Are reviews important for conversion?</h3>
+<p>Genuine reviews help shoppers feel confident. Display them honestly, ask customers for feedback after purchase and never write or filter reviews misleadingly.</p>
+<h3>Is CRO worth it for a small Shopify store?</h3>
+<p>Yes. Even without enough traffic for formal testing, fixing clear problems such as missing delivery information or confusing navigation can help shoppers buy.</p>
+`,
+  },
+  {
+    slug: 'shopify-speed-optimisation',
+    seoTitle: 'Shopify Speed Optimisation: Make Your Store Faster',
+    title: 'Shopify Speed Optimisation: How to Make Your Store Load Faster',
+    description: 'Shopify speed optimisation guide for UK stores: apps, images, themes, scripts and Core Web Vitals, with practical fixes that help shoppers and SEO.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Shopify speed optimisation is the work of making your store load and respond faster for real shoppers. Shopify provides fast hosting and a global content delivery network, but what you add on top, such as your theme, apps, images and tracking scripts, decides how quickly pages actually feel. A faster store is easier to browse, especially on mobile, and supports both conversions and search performance.</p>
+<p>This guide is for UK store owners and ecommerce teams who suspect their Shopify site is slower than it should be. For general principles across all platforms, see our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a>.</p>
+
+<h2>How to measure Shopify speed properly</h2>
+<p>Start with data rather than guesswork. Useful sources include:</p>
+<ul>
+<li><strong>Shopify's online store speed report</strong> in your admin, which gives an overview over time.</li>
+<li><strong>Google Search Console's Core Web Vitals report</strong>, which shows real-user data grouped by page type.</li>
+<li><strong>PageSpeed Insights</strong> and similar lab tools, which help diagnose specific problems on individual pages.</li>
+</ul>
+<p>Test your homepage, a collection page, a product page and the cart, as each has different weight. Lab scores vary between runs, so look for patterns rather than chasing a single number. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains the metrics.</p>
+
+<h2>Audit your apps</h2>
+<p>Apps are one of the most common causes of slow Shopify stores. Many inject JavaScript and styles on every page, even when their feature is only used in one place. Removing an app from your admin does not always remove the code it added to your theme.</p>
+<ul>
+<li>List every installed app and what it does.</li>
+<li>Remove apps you no longer use, then check your theme files for leftover code.</li>
+<li>Look for apps that duplicate each other or a feature your theme already offers.</li>
+<li>Prefer apps built on theme app extensions, which tend to load more cleanly.</li>
+</ul>
+
+<h2>Optimise images and media</h2>
+<p>Product photography matters, but oversized files slow pages down. Upload images at sensible dimensions, compress them before upload and let Shopify serve modern formats and responsive sizes through your theme. Make sure images below the fold are lazy loaded, while your main hero or product image loads promptly. Autoplaying background videos and large sliders on the homepage are frequent culprits worth questioning.</p>
+
+<h2>Choose and maintain a lean theme</h2>
+<p>Modern Shopify themes are generally built with performance in mind, but older or heavily customised themes can carry years of unused code. If your theme is several versions behind, an update or move to a newer theme may help. When customising, avoid loading large libraries for small effects and keep custom sections efficient. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers how to customise without bloat.</p>
+
+<h2>Control third-party scripts</h2>
+<p>Tracking pixels, chat widgets, review widgets, pop-ups and heatmap tools all add weight. Each may be useful, but together they can delay how quickly a page becomes usable. Review what is installed, remove duplicates, load non-essential tools after the main content and use Shopify's customer events where it suits your tracking setup. Make sure consent settings still work after any changes.</p>
+
+<h2>Reduce layout shift and slow interactions</h2>
+<p>Pages that jump around as they load frustrate shoppers. Set dimensions for images and embeds, avoid injecting banners above content after load and keep fonts to a small number of weights. For slow interactions, look at heavy scripts running on filters, variant pickers and add-to-cart buttons.</p>
+
+<h2>Balance speed with conversion</h2>
+<p>Speed is a means to an end. Some apps and scripts earn their place by helping shoppers buy. Rather than removing everything, test the impact of changes on conversion rate as well as load time. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers that side.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Chasing a perfect lab score while ignoring real-user data.</li>
+<li>Uninstalling apps but leaving their code behind.</li>
+<li>Uploading huge, uncompressed product photos.</li>
+<li>Stacking several pop-ups and widgets on every page.</li>
+<li>Making theme edits on the live theme without a backup.</li>
+</ul>
+
+<h2>Collection and product page specifics</h2>
+<p>Collection pages often load many product images, swatches and quick-view features at once. Limit the number of products shown per page to something sensible, lazy load images beyond the first row and question whether features like quick view or hover image swaps are worth their cost. Filters should respond quickly; if filtering feels sluggish, look at which scripts run when a filter changes.</p>
+<p>Product pages tend to carry the most apps: reviews, upsells, size guides, wishlists, delivery estimators and more. Each may load its own script. Consider whether every widget needs to appear immediately or whether some can load after the main product information. Keep the product image, title, price, variant picker and add-to-cart button as the priority.</p>
+<h2>Fonts and icons</h2>
+<p>Custom fonts help a brand look distinctive, but each weight and style is another file to download. Stick to a small number of weights, use system fonts where they fit the brand and make sure text remains visible while fonts load. Replace large icon font libraries with lightweight inline icons where possible.</p>
+<h2>Keep speed work going</h2>
+<p>Speed is not a one-off fix. New apps, campaign banners, tracking tags and theme changes all add weight over time. Build a simple routine:</p>
+<ul>
+<li>Check the speed report and Core Web Vitals monthly.</li>
+<li>Review apps and scripts every few months and remove what you no longer use.</li>
+<li>Test the performance impact of any new app before rolling it out fully.</li>
+<li>Compress new images as part of your product upload process.</li>
+</ul>
+<p>A short checklist shared with everyone who edits the store prevents most regressions.</p>
+<h2>Speed and multi-market stores</h2>
+<p>If you sell into several markets, extra apps for currency, translation or geolocation can add weight. Shopify's built-in markets features may cover some of this without additional scripts. Test speed from the perspective of customers in each region you serve.</p>
+
+<h2>Where to start if you only have a day</h2>
+<p>If time is limited, focus on the changes most likely to make a difference:</p>
+<ol>
+<li>Remove apps you no longer use and clean out their leftover code.</li>
+<li>Compress and resize the largest images on your homepage and top product pages.</li>
+<li>Remove or defer non-essential widgets and tracking tags.</li>
+<li>Replace autoplaying homepage video or heavy sliders with a single, well-optimised image.</li>
+<li>Re-test the same pages and compare against your starting point.</li>
+</ol>
+<p>These steps rarely require deep code changes and can often be done by a confident store owner, with care and a theme backup.</p>
+<h2>When to bring in a developer</h2>
+<p>Some problems sit deeper in theme code: render-blocking scripts, inefficient Liquid loops, large custom JavaScript bundles or poorly built sections. If basic clean-up has not helped, a developer can profile your theme, find the specific bottlenecks and fix them without removing features your shoppers rely on. Ask for before-and-after measurements on the same pages so you can see what changed.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with Shopify retailers across the UK on performance audits, app clean-ups, theme improvements and Core Web Vitals fixes, alongside <a href="/blog/shopify-seo-uk/">Shopify SEO</a>. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Why is my Shopify store slow?</h3>
+<p>Common causes include too many apps, leftover app code, large images, heavy themes and third-party scripts such as tracking pixels and widgets.</p>
+<h3>Does Shopify speed affect SEO?</h3>
+<p>Page experience, including Core Web Vitals, is one of many factors Google considers. Speed also affects how shoppers behave, which matters regardless of rankings.</p>
+<h3>Is the Shopify speed score accurate?</h3>
+<p>It is a useful guide, but it is based on lab testing. Combine it with real-user data from Search Console for a fuller picture.</p>
+<h3>Will removing apps break my store?</h3>
+<p>It can if a feature relies on them. Check what each app does, back up your theme and test after removal.</p>
+<h3>Should I change theme to improve speed?</h3>
+<p>Sometimes. If your theme is outdated or heavily modified, a modern theme can help, but weigh it against redesign effort and SEO considerations.</p>
+<h3>How often should I check my store speed?</h3>
+<p>A monthly check of the speed report and Core Web Vitals is a sensible routine, plus a check whenever you install a new app or make significant theme changes.</p>
+<h3>Do pop-ups slow down Shopify?</h3>
+<p>They can. Pop-up apps load extra scripts and can cause layout shift. If you use one, keep it lightweight, delay it and check its impact on mobile.</p>
+<h3>Are large product images bad for speed?</h3>
+<p>Oversized files are. Upload images at sensible dimensions, compress them and let your theme serve responsive sizes, so shoppers get sharp images without unnecessary weight.</p>
+<h3>Can tracking scripts be loaded later?</h3>
+<p>Many non-essential tools can load after the main content. Check with whoever manages your analytics and advertising so conversion tracking still records accurately.</p>
+`,
+  },
+  {
+    slug: 'shopify-store-setup-uk',
+    seoTitle: 'Shopify Store Setup UK: Get Your Store Launch-Ready',
+    title: 'Shopify Store Setup UK: How to Set Up a Store That Is Ready to Sell',
+    description: 'Shopify store setup UK guide: settings, VAT, shipping, payments, products, theme, legal pages, SEO basics and pre-launch checks for UK retailers.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Shopify store setup in the UK involves more than picking a theme and adding products. To trade properly you need the right business, tax, shipping and payment settings, clear product information, legal policies UK shoppers expect and the basics of SEO and tracking in place. Getting these right before launch saves time and avoids problems later.</p>
+<p>This guide is for UK businesses launching a new Shopify store, whether starting out or moving from another platform. If you are still choosing a platform, read our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a>. For costs, see our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a>.</p>
+
+<h2>Core store settings</h2>
+<ul>
+<li><strong>Business details.</strong> Add your legal business name, address and contact email.</li>
+<li><strong>Currency and markets.</strong> Set GBP as your store currency and decide whether to sell internationally.</li>
+<li><strong>Staff accounts.</strong> Give team members their own logins with appropriate permissions.</li>
+<li><strong>Domain.</strong> Connect your own domain rather than relying on the default store address.</li>
+</ul>
+
+<h2>VAT and taxes</h2>
+<p>If you are VAT registered, configure Shopify's tax settings so prices and invoices reflect UK VAT correctly, and decide whether prices display inclusive of VAT, as UK consumers usually expect. Selling abroad brings extra considerations around duties and overseas tax. Tax rules are specific to your business, so check with an accountant. This guide is not tax advice.</p>
+
+<h2>Shipping and delivery</h2>
+<p>Set up shipping zones and rates that reflect how you actually deliver, whether flat rate, weight based or free over a threshold. Be clear about delivery times, couriers and any areas with different rates, such as the Scottish Highlands or Northern Ireland. Unclear or surprising delivery costs are a common reason shoppers abandon a basket.</p>
+
+<h2>Payments</h2>
+<p>Choose your payment provider and enable the methods your customers expect, such as cards and popular digital wallets. Check payout schedules and test the checkout fully. Our <a href="/pricing/">pricing page</a> covers how we work, and Shopify's own site explains its plans.</p>
+
+<h2>Products and collections</h2>
+<p>Good product data is the foundation of a good store. For each product, add a clear title, a helpful description written for your customer, quality images, accurate variants, SKUs and stock levels. Group products into collections that match how people shop. Writing unique descriptions rather than copying manufacturer text helps both shoppers and search engines.</p>
+
+<h2>Theme and design</h2>
+<p>Pick a theme that suits your catalogue size and brand, then customise it so key information is easy to find: navigation, search, delivery and returns details and contact options. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains your options.</p>
+
+<h2>Legal pages and policies</h2>
+<p>UK shoppers expect clear terms of service, a privacy policy, a returns and refunds policy and shipping information. Consumer rights, including cancellation rights for online purchases, apply to most sales to consumers. Make sure your cookie consent works properly. Take legal advice where you are unsure; this guide is not legal advice.</p>
+
+<h2>SEO basics from day one</h2>
+<ul>
+<li>Write unique page titles and meta descriptions for key pages.</li>
+<li>Use descriptive, readable URLs for products and collections.</li>
+<li>Add alt text to product images.</li>
+<li>Verify your store in Google Search Console and submit your sitemap.</li>
+<li>Create helpful collection descriptions and guide content.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> go further.</p>
+
+<h2>Analytics and tracking</h2>
+<p>Set up analytics and conversion tracking before launch so you can see where sales come from. Connect any advertising accounts you plan to use and check events fire on purchase. Make sure tracking respects cookie consent.</p>
+
+<h2>Pre-launch checklist</h2>
+<ul>
+<li>Place test orders with each payment and shipping option.</li>
+<li>Check order and shipping notification emails.</li>
+<li>Browse the store on mobile and desktop.</li>
+<li>Check speed on key pages, using our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a>.</li>
+<li>Proofread product pages and policies.</li>
+<li>Remove the store password when you are ready to go live.</li>
+</ul>
+
+<h2>Navigation and site structure</h2>
+<p>Plan your menus around how customers shop, not how your stock room is organised. A clear main menu with a manageable number of top-level categories, supported by collection pages and filters, makes browsing easier. Include links to delivery, returns, contact and FAQ pages in the footer so they are always easy to find. Make sure search is visible, especially on mobile.</p>
+<h2>Email notifications and customer accounts</h2>
+<p>Shopify sends customers order confirmations, shipping updates and other notifications. Customise these with your branding and check the wording reflects your actual delivery and returns process. Decide whether customers can check out as guests, create accounts or both. Guest checkout reduces friction for first-time buyers.</p>
+<h2>Apps: add only what you need</h2>
+<p>The Shopify App Store offers tools for reviews, email marketing, subscriptions, product options and much more. It is tempting to install many apps at launch, but each one adds complexity and can slow your store. Start with your theme's built-in features and add apps only to solve clear problems. Review costs and permissions before installing anything.</p>
+<h2>Marketing channels to plan for</h2>
+<p>A launched store still needs visitors. Think about which channels suit your products and budget:</p>
+<ul>
+<li><strong>Organic search</strong>, built through good product content, collection pages and guides.</li>
+<li><strong>Email marketing</strong>, starting with a sign-up form and welcome message.</li>
+<li><strong>Paid search and shopping ads</strong>, which can drive sales while organic visibility grows.</li>
+<li><strong>Social media</strong>, useful for products that show well visually.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-marketing-agency-uk/">ecommerce marketing guide</a> covers these channels in more detail.</p>
+<h2>After launch</h2>
+<p>Use your first weeks to watch how shoppers behave. Check which products get viewed but not bought, where visitors leave and which searches return no results. Fix obvious problems quickly and gather customer feedback. Keep your theme and apps updated and review your settings as your business grows.</p>
+
+<h2>Product photography and descriptions</h2>
+<p>Online shoppers cannot touch or try your products, so images and descriptions do the work a shop assistant would. Use consistent, well-lit photography on a clean background, with additional images showing scale, detail and the product in use. Keep image dimensions consistent so collection pages look tidy.</p>
+<p>Write descriptions that answer the questions customers actually ask: sizes, materials, dimensions, care instructions, compatibility and what is included. Short paragraphs and bullet points are easier to scan on a phone. If you sell many similar products, use metafields to show specifications in a consistent format.</p>
+<h2>Accessibility and trust</h2>
+<p>Make sure text is readable, buttons are clearly labelled and images have alt text. An accessible store is easier for everyone to use. Add trust signals that are genuine: real contact details, clear policies, secure payment options and, once you have them, honest customer reviews.</p>
+<h2>Common setup mistakes</h2>
+<ul>
+<li>Launching on the default store address instead of your own domain.</li>
+<li>Getting VAT display or tax settings wrong.</li>
+<li>Hiding delivery costs until checkout.</li>
+<li>Copying manufacturer descriptions word for word.</li>
+<li>Installing lots of apps before you know you need them.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with businesses across the UK on Shopify store setup, theme work, product data, SEO foundations and launch. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-agency-uk/">guide to choosing a Shopify agency</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I set up a Shopify store myself?</h3>
+<p>Yes, many businesses do. Support can help with design, product data, SEO and technical setup if you want a more polished launch.</p>
+<h3>Do I need to be VAT registered to sell on Shopify?</h3>
+<p>That depends on your business and turnover, not on Shopify. Check current HMRC rules or speak to an accountant.</p>
+<h3>What pages does a UK Shopify store need?</h3>
+<p>At minimum, product and collection pages, contact details, terms, privacy, returns and shipping information.</p>
+<h3>Should I connect my own domain?</h3>
+<p>Yes. A custom domain looks more trustworthy and supports your brand and SEO.</p>
+<h3>How do I get my new store found on Google?</h3>
+<p>Set up Search Console, submit your sitemap, write unique content and build visibility over time through SEO and, if suitable, paid ads.</p>
+<h3>How many apps should a new Shopify store have?</h3>
+<p>There is no right number. Start with your theme's built-in features and add apps only when they solve a clear problem, checking speed and cost each time.</p>
+<h3>Should I offer free delivery?</h3>
+<p>Many UK shoppers like it, but it must work for your margins. A free delivery threshold is a common middle ground. Whatever you choose, show it clearly.</p>
+<h3>Can I sell internationally from day one?</h3>
+<p>You can, but it adds complexity around shipping, duties, tax and returns. Many stores start with the UK and expand once operations are running smoothly.</p>
+<h3>Do I need a returns policy?</h3>
+<p>Yes. UK consumers have legal rights when buying online, and a clear returns policy explains how you handle them. Take advice if unsure of your obligations.</p>
+`,
+  },
+  {
+    slug: 'shopify-theme-customisation',
+    seoTitle: 'Shopify Theme Customisation: A Practical UK Guide',
+    title: 'Shopify Theme Customisation: Options, Limits and Best Practice',
+    description: 'Shopify theme customisation guide for UK stores: theme editor, sections, custom code and when a custom theme makes sense, without hurting speed or SEO.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Shopify theme customisation means adapting a store's theme so it fits your brand, products and customers. It ranges from simple changes in the theme editor, such as colours, fonts and section order, to custom-coded sections, templates and features. The right level depends on what your shoppers need and how much your team wants to manage itself.</p>
+<p>This guide is for UK retailers who want their Shopify store to look and work better without starting from scratch. It explains the options, where the limits are and how to customise safely.</p>
+
+<h2>Start with the theme editor</h2>
+<p>Modern Shopify themes use sections and blocks, which you can add, remove and reorder in the theme editor. You can usually change:</p>
+<ul>
+<li>Colours, typography and logo.</li>
+<li>Homepage and landing page layout using sections.</li>
+<li>Product page elements, such as descriptions, tabs and trust messages.</li>
+<li>Header, navigation and footer content.</li>
+<li>Templates for different product types or collections.</li>
+</ul>
+<p>Many stores can get a good result here alone. Before paying for custom work, check what your theme already supports.</p>
+
+<h2>When you need custom code</h2>
+<p>Custom development makes sense when the theme cannot do what your business needs. Examples include bespoke product configurators, size guides tied to product data, unusual collection layouts, custom bundles or integrating content from metafields and metaobjects. Shopify themes use Liquid, HTML, CSS and JavaScript, so changes should be made by someone comfortable with all of them.</p>
+<p>The best approach is to build custom sections and blocks that your team can then manage in the editor. That keeps day-to-day changes in your hands rather than needing a developer each time.</p>
+
+<h2>Customise an existing theme or build a custom one?</h2>
+<p>Customising a well-built existing theme is often quicker and keeps you closer to future theme updates. A fully custom theme gives complete control over design and code, which can suit brands with distinctive requirements, but it needs more investment and ongoing care. Our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> covers how these choices affect budget, and our <a href="/pricing/">pricing page</a> explains how we work.</p>
+
+<h2>Customise safely</h2>
+<ul>
+<li><strong>Duplicate first.</strong> Make changes on a copy of your theme, not the live one.</li>
+<li><strong>Keep backups.</strong> Download theme files before major edits.</li>
+<li><strong>Document changes.</strong> Note what was changed and why, so updates are easier.</li>
+<li><strong>Test on mobile.</strong> Most shoppers will see your store on a phone.</li>
+<li><strong>Check accessibility.</strong> Keep colour contrast, keyboard navigation and alt text in good shape.</li>
+</ul>
+
+<h2>Protect speed and SEO</h2>
+<p>Customisation can slow a store if it adds large scripts, many fonts or heavy media. Keep code lean and test performance before and after. Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> explains what to watch. On the SEO side, keep sensible heading structure, editable page titles and meta descriptions and clean URLs. See our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> for more.</p>
+
+<h2>Design with conversion in mind</h2>
+<p>A good-looking store is not automatically one that sells. Clear navigation, strong product imagery, honest delivery and returns information and an obvious add-to-cart button often matter more than visual flourishes. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers this in more depth.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Editing the live theme directly.</li>
+<li>Adding apps for features the theme already has.</li>
+<li>Hard-coding content that staff need to change regularly.</li>
+<li>Ignoring mobile layouts during design.</li>
+<li>Losing customisations when updating the theme because changes were not documented.</li>
+</ul>
+
+<h2>Using metafields and metaobjects</h2>
+<p>Metafields let you store extra information against products, collections and other resources, such as care instructions, ingredients, size charts or technical specifications. Metaobjects let you create structured content types, such as designer profiles or ingredient libraries, that can be reused across the store. Connected to your theme, these let you show rich, consistent information without hard-coding it into templates.</p>
+<p>This is often the most practical form of customisation for growing catalogues. Staff fill in structured fields in the admin, and the theme displays them in a consistent layout. It keeps product pages tidy and makes bulk updates far easier.</p>
+<h2>Templates for different product types</h2>
+<p>Not every product needs the same page. A store selling both furniture and small accessories may want different layouts: one with dimensions, delivery and assembly information prominent, another focused on imagery and quick purchase. Shopify lets you create alternative templates and assign them to products or collections. Combined with metafields, this gives each product type the information shoppers need.</p>
+<h2>Landing pages and campaigns</h2>
+<p>Seasonal campaigns, product launches and paid advertising often benefit from dedicated landing pages. A set of flexible custom sections, such as hero banners, product grids, feature blocks and FAQs, lets your marketing team build these in the theme editor without development time for each campaign. Keep landing pages consistent with the rest of the store so shoppers trust them.</p>
+<h2>Working with a developer</h2>
+<p>If you bring in outside help, agree how work will be handed over. Ask for custom sections to be editable in the theme editor, for code to be kept tidy and commented, and for a record of changes. Make sure you retain ownership and access to your theme files, and that development happens on an unpublished theme until you approve it.</p>
+<h2>Keeping the theme up to date</h2>
+<p>Theme developers release updates with fixes, new features and performance improvements. Heavily edited themes can be hard to update, because changes must be reapplied. Keeping customisations in separate sections and snippets, and documenting them, makes updates more manageable.</p>
+
+<h2>Accessibility as part of customisation</h2>
+<p>Customisations should keep your store usable for everyone. Check that custom sections use proper headings, that buttons and links have clear labels, that colour contrast is sufficient and that interactive features such as sliders, tabs and pop-ups work with a keyboard. Accessible stores are easier for all shoppers to use, and accessibility issues introduced during customisation are much easier to fix before launch than after.</p>
+<h2>Planning a customisation project</h2>
+<p>Before starting, write down what you want to change and why. Link each change to a customer need or business goal, such as answering a common pre-sale question, reducing returns or making campaign pages faster to build. Prioritise changes by likely value and effort. This keeps the project focused and helps avoid customisations that look impressive but add little.</p>
+<p>Gather examples of layouts you like, but focus on what they achieve rather than copying them. Share your brand guidelines, product data and any known pain points from customer service. The clearer the brief, the smoother the work.</p>
+<p>After launch, review how customised pages perform. Look at engagement, add-to-cart rate and speed, and refine where needed.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK retailers on Shopify theme customisation, custom sections, new store builds and migrations, including <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a>. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-agency-uk/">guide to choosing a Shopify agency</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I customise a Shopify theme without coding?</h3>
+<p>Yes. The theme editor lets you change colours, fonts, layout and content using sections and blocks. Code is needed for features the theme does not support.</p>
+<h3>Will customising my theme stop it updating?</h3>
+<p>Code edits can make updates harder, because they may need reapplying. Documenting changes and using custom sections helps.</p>
+<h3>Is a custom Shopify theme worth it?</h3>
+<p>It can be for brands with distinctive requirements, but many stores do well by customising a quality existing theme.</p>
+<h3>Can theme changes affect SEO?</h3>
+<p>Yes. Changes to headings, content, speed and URLs can all affect search performance, so check SEO before publishing.</p>
+<h3>How do I preview changes safely?</h3>
+<p>Work on a duplicate theme and use the preview option before publishing it.</p>
+<h3>What are Shopify sections and blocks?</h3>
+<p>Sections are building blocks of a page, such as a banner or product grid. Blocks are smaller elements inside a section. Together they let you build pages in the theme editor without code.</p>
+<h3>Can I use metafields without a developer?</h3>
+<p>You can create metafields in the admin and connect many of them to theme settings yourself. More complex displays may need custom code.</p>
+<h3>Should I use apps or custom code for new features?</h3>
+<p>It depends. Apps are quick to install but can add weight and ongoing cost. Custom code can be leaner but needs maintaining. Weigh both for each feature.</p>
+<h3>Can I change themes later?</h3>
+<p>Yes, but customisations are tied to a theme, so switching usually means rebuilding them. Plan carefully and check SEO and speed before publishing a new theme.</p>
+<h3>Who should make theme code changes?</h3>
+<p>Someone comfortable with Liquid, HTML, CSS and JavaScript, working on a duplicate theme with backups, so mistakes never reach live shoppers.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-to-shopify-migration',
+    seoTitle: 'WooCommerce to Shopify Migration: A UK Guide',
+    title: 'WooCommerce to Shopify Migration: How to Move Your Store Safely',
+    description: 'WooCommerce to Shopify migration guide for UK retailers: planning, moving products and customers, redirects, SEO protection, testing and launch.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A WooCommerce to Shopify migration moves your products, customers, orders, content and design from a WordPress-based store onto Shopify's hosted platform. Done carefully, it can give you a simpler store to run without losing the search visibility and customer data you have built up. Done in a rush, it can break links, lose rankings and frustrate returning customers.</p>
+<p>This guide is for UK store owners and ecommerce managers weighing up or planning a move. It covers why retailers switch, what moves across, how to protect SEO, and what to test before launch. If you are still deciding between the platforms, start with our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a>.</p>
+
+<h2>Why UK retailers move from WooCommerce to Shopify</h2>
+<p>WooCommerce is flexible, but that flexibility comes with responsibility. You manage hosting, security, WordPress updates, plugin compatibility and performance yourself, or pay someone to. For some teams that is fine. For others it becomes a steady drain on time.</p>
+<p>Common reasons for switching include:</p>
+<ul>
+<li><strong>Less maintenance.</strong> Shopify handles hosting, security patches and core updates.</li>
+<li><strong>Fewer plugin conflicts.</strong> Stores with many WordPress plugins can become fragile after updates.</li>
+<li><strong>A simpler admin.</strong> Many teams find day-to-day order and product management easier.</li>
+<li><strong>Growth plans.</strong> Retailers planning to sell across more channels often like Shopify's built-in sales channel options.</li>
+</ul>
+<p>Shopify is not automatically better for every business. Highly bespoke product logic, unusual checkout requirements or heavy content publishing can sometimes suit WooCommerce. Weigh the trade-offs honestly before committing.</p>
+
+<h2>Plan before you move anything</h2>
+<p>Good migrations start with an inventory of what you have. List your products and variants, categories, customer accounts, order history, blog posts, static pages, plugins and any custom functionality. For each plugin, note what it does and whether you still need that feature on Shopify, whether through a built-in setting, a theme feature or an app.</p>
+<p>Agree what success looks like. That usually means no loss of essential data, all important URLs redirected, payments and shipping working correctly and a site that is at least as fast and easy to use as the old one. Set a realistic launch window that avoids your busiest trading periods.</p>
+
+<h2>What moves across, and what needs rebuilding</h2>
+<p>Most structured data can be migrated using import tools, CSV files or migration apps:</p>
+<ul>
+<li>Products, variants, prices, stock levels, SKUs and images.</li>
+<li>Product categories, which usually become Shopify collections.</li>
+<li>Customer records, subject to your privacy obligations.</li>
+<li>Historical orders, if you need them for reporting or customer service.</li>
+<li>Blog posts and pages.</li>
+</ul>
+<p>Some things cannot simply be copied. Your theme design needs rebuilding or replacing, as WordPress themes do not run on Shopify. Customer passwords cannot be transferred, so customers will need to reactivate their accounts. Custom plugin features need a Shopify equivalent or a custom build. Check variant structures early, because Shopify handles product options differently from WooCommerce and complex products may need restructuring.</p>
+<p>For a fresh look as part of the move, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains your options.</p>
+
+<h2>Protect your SEO during the migration</h2>
+<p>URL structures change when you move to Shopify. Products typically sit under /products/, collections under /collections/ and blog posts under /blogs/. Without redirects, every old link from Google, other websites and customer bookmarks would lead to an error page.</p>
+<ol>
+<li><strong>Crawl your current site</strong> and export every indexable URL.</li>
+<li><strong>Map each old URL</strong> to the most relevant new URL, one to one wherever possible.</li>
+<li><strong>Set up 301 redirects</strong> in Shopify's URL redirect settings or through a bulk import.</li>
+<li><strong>Carry over metadata</strong>, including page titles, meta descriptions, image alt text and headings.</li>
+<li><strong>Keep your content</strong>. Do not drop category descriptions or blog posts that bring in traffic.</li>
+<li><strong>Submit your new sitemap</strong> in Google Search Console after launch and monitor coverage.</li>
+</ol>
+<p>Some ranking movement after any migration is normal, but careful redirects reduce the risk of lasting losses. Our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> and our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> go deeper.</p>
+
+<h2>Payments, tax, shipping and legal settings</h2>
+<p>Recreate your UK VAT settings, shipping zones and rates, and payment methods on Shopify, and check they match how you currently trade. If you sell internationally, review duties and tax settings carefully and take professional advice if unsure. Update your privacy policy, terms, returns policy and cookie consent to reflect the new platform and any new apps you install.</p>
+
+<h2>Test thoroughly before launch</h2>
+<p>Use a checklist and test as a real customer would:</p>
+<ul>
+<li>Place test orders with each payment method and shipping option.</li>
+<li>Check order confirmation and shipping emails.</li>
+<li>Test discount codes, gift cards and any subscriptions.</li>
+<li>Browse on mobile and desktop and check search and filters.</li>
+<li>Spot-check redirects from your URL map.</li>
+<li>Confirm analytics and conversion tracking fire correctly.</li>
+</ul>
+
+<h2>Launch day and the weeks after</h2>
+<p>Launch at a quiet time, connect your domain and keep the old store accessible privately for reference. Afterwards, monitor Search Console for errors, watch organic traffic and conversion rate, and fix broken redirects quickly. Let customers know about account reactivation with a clear email.</p>
+<p>If you are on a larger store and considering Shopify Plus, see our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a>. For budgeting, read our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a>.</p>
+
+<h2>Handling content and blog posts</h2>
+<p>Content is often an afterthought in ecommerce migrations, yet blog posts, buying guides and category descriptions can bring in a meaningful share of organic traffic. Shopify has a built-in blog, but its structure is simpler than WordPress. Categories and tags work differently, and some layouts or shortcodes used on WordPress will not carry across. Review each post, decide whether to keep, merge or retire it, and redirect retired posts to the most relevant remaining page rather than the homepage.</p>
+<p>Check internal links inside your content too. Links pointing at old WooCommerce URLs will still work through redirects, but updating them to the new URLs is cleaner and avoids unnecessary redirect hops.</p>
+<h2>Reviews, subscriptions and integrations</h2>
+<p>Product reviews stored in WooCommerce, or in a WordPress plugin, usually need exporting and importing into a Shopify reviews app. Check that review content, ratings and dates come across and that reviews stay attached to the right products. Subscriptions are more complex, because active payment agreements may not transfer automatically between providers. Plan subscriber communication carefully and check what your payment and subscription providers allow.</p>
+<p>List every external system connected to your store, such as accounting software, stock management, email marketing, couriers and marketplaces. Confirm each has a Shopify integration and plan when to switch it over, so orders and stock do not fall out of sync during launch week.</p>
+<h2>Communicating with customers</h2>
+<p>Most customers will barely notice a well-run migration, but regular buyers will notice that they need to reactivate their accounts. A short, friendly email explaining the new store, what has changed and how to set a new password reduces confusion and support queries. Brief your customer service team before launch so they can answer questions consistently.</p>
+
+<h2>Run old and new side by side</h2>
+<p>Until launch, keep trading on WooCommerce as normal. Plan a content freeze for products and prices shortly before go-live, then run a final data sync so recent orders, customers and stock levels are up to date on Shopify. Agree in advance who signs off each part of the checklist, so launch day decisions are quick and clear.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with retailers across the UK on Shopify builds and migrations, including data migration, theme work, redirect mapping and SEO protection. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-agency-uk/">guide to choosing a Shopify agency</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Will I lose my Google rankings moving from WooCommerce to Shopify?</h3>
+<p>Some short-term movement is common, but mapping every important URL with 301 redirects and keeping your content and metadata greatly reduces the risk of lasting losses.</p>
+<h3>Can I move customer passwords to Shopify?</h3>
+<p>No. Passwords are stored securely and cannot be transferred, so customers need to reactivate their accounts. A clear email after launch helps.</p>
+<h3>Can I keep my domain name?</h3>
+<p>Yes. You can connect your existing domain to Shopify at launch.</p>
+<h3>Do I need to move my order history?</h3>
+<p>Not always. Many retailers migrate it for customer service and reporting, but it is a decision based on how you use that data.</p>
+<h3>How long does a migration take?</h3>
+<p>It depends on the size of your catalogue, the amount of custom functionality and the design work involved. Simple stores move faster than complex ones.</p>
+`,
+  },
 ];
