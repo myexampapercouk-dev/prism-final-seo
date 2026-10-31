@@ -14127,4 +14127,479 @@ module.exports = [
 <p>It depends on the size of your catalogue, the amount of custom functionality and the design work involved. Simple stores move faster than complex ones.</p>
 `,
   },
+  {
+    slug: 'web-design-birmingham',
+    seoTitle: 'Web Design Birmingham: B2B and Manufacturer Websites',
+    title: 'Web Design Birmingham: Building Lead-Generating Websites for Manufacturers and B2B Firms',
+    description: 'Need a website for a Birmingham manufacturer or B2B firm? How to explain capabilities, build quote forms, structure product data and win enquiries from buyers.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>A good website for a Birmingham manufacturer or B2B firm works like a patient salesperson. It explains exactly what the business can make or supply, shows buyers it can meet their standards and makes requesting a quote simple. For many industrial firms in the West Midlands, the website has never been treated that way. It was built years ago as an online brochure and left alone.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency that works remotely with businesses across the UK, including Birmingham and the wider West Midlands. We do not have a Birmingham office. This guide is for owners, sales directors and marketing managers at manufacturers, engineering firms, distributors and other B2B companies who want a website that generates enquiries.</p>
+
+<h2>The West Midlands industrial context</h2>
+<p>Birmingham and the surrounding area, including the Black Country, Coventry, Solihull and Telford, have a long manufacturing and engineering tradition. Today the region includes precision engineering, automotive and aerospace supply chains, metalwork, plastics, packaging, distribution and many specialist suppliers. Plenty of these firms sell across the UK and abroad, and many rely heavily on repeat customers and word of mouth.</p>
+<p>That background shapes what a website needs to do. A procurement manager in another part of the country might never have heard of you. Your site may be the first and only chance to show you can do the job.</p>
+
+<h2>Who visits a B2B website, and what they want</h2>
+<table>
+<thead><tr><th>Visitor</th><th>What they are looking for</th><th>Pages that help</th></tr></thead>
+<tbody>
+<tr><td>Engineers and technical buyers</td><td>Processes, tolerances, materials, machinery, standards</td><td>Capability and process pages, technical downloads</td></tr>
+<tr><td>Procurement teams</td><td>Reliability, accreditations you genuinely hold, lead times, capacity</td><td>Quality and accreditation pages, about pages, contact routes</td></tr>
+<tr><td>Existing customers</td><td>Reordering, documents, contact details</td><td>Account or trade areas, downloads, clear contacts</td></tr>
+<tr><td>Job applicants</td><td>What it is like to work there</td><td>Careers pages with real roles</td></tr>
+</tbody>
+</table>
+<p>Designing for all four groups, while keeping the main focus on new enquiries, is the central challenge of a B2B site.</p>
+
+<h2>Capability pages: the heart of the site</h2>
+<p>Most B2B buyers search for something specific: a process, a material, a component type or a sector requirement. A single "Services" page listing everything you do rarely ranks for those searches or convinces a technical buyer. Separate pages for each main capability usually work much better. Each one can explain:</p>
+<ul>
+<li>What the process or service is and what it is suited to</li>
+<li>Materials, sizes, tolerances or volumes you can handle, where you are happy to share them</li>
+<li>Relevant equipment and quality checks</li>
+<li>Typical industries or applications</li>
+<li>A clear route to request a quote for that capability</li>
+</ul>
+<p>Sector pages, for example for automotive, food production or construction, help buyers see that you understand their world. Our <a href="/sectors/b2b/">B2B sector page</a> explains how we think about these audiences.</p>
+
+<h2>Designing a quote form that buyers will actually use</h2>
+<p>The quote form may be the most valuable part of a manufacturer's website. A poor one, with too many required fields or no way to attach drawings, loses enquiries silently. A good one:</p>
+<ul>
+<li>Asks only for what you need to respond, with optional fields for extra detail</li>
+<li>Lets buyers upload drawings, specifications or files in common formats</li>
+<li>Appears on every capability page, not just a contact page</li>
+<li>Sends enquiries to the right person quickly</li>
+<li>Records which page the enquiry came from, so you can see what is working</li>
+</ul>
+<p>Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers more on reducing friction in forms.</p>
+
+<h2>Distributors and product catalogues</h2>
+<p>Distributors and trade suppliers have a different problem: large catalogues. A well-organised product structure, with clear categories, filters and specification tables, helps trade buyers find parts quickly. Some firms benefit from trade account areas or online ordering for existing customers. If you are considering selling online, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> and <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost guide</a> are useful starting points, though complex trade pricing needs careful scoping.</p>
+
+<h2>Showing proof without overclaiming</h2>
+<p>B2B buyers look for evidence. Photos of your actual facility, machinery and finished work, accreditations you genuinely hold and case studies approved by customers all help. Do not invent figures or client names, and check that any customer logos or project details are cleared for public use. Real, modest proof is far more persuasive to an engineer than vague superlatives.</p>
+
+<h2>Mobile, speed and the factory floor</h2>
+<p>B2B sites are often designed on large office screens, but buyers and engineers increasingly browse on phones and tablets, including on site or on the move. Specification tables should scroll sensibly on small screens, downloads should be clearly labelled and pages should load quickly. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers the essentials.</p>
+
+<h2>Where SEO comes in</h2>
+<p>Separate capability and sector pages with clear titles give search engines exactly what they need to match your site to specific B2B searches. A clean structure, fast pages and careful redirects from any old URLs form the base. Ongoing search work is a separate job; our <a href="/blog/seo-agency-birmingham/">guide to choosing an SEO agency in Birmingham</a> covers that side in detail.</p>
+
+<h2>Connecting the website to sales</h2>
+<p>A B2B website should help your sales team, not just your marketing. Agree how enquiries are tracked, how quickly they are answered and how you will learn which ones became orders. Even a simple monthly check of enquiries against won work tells you which pages and capabilities are worth expanding. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track form submissions properly.</p>
+
+<h2>Content: getting knowledge out of the business</h2>
+<p>The hardest part of most manufacturer websites is not design but content. The detail buyers want often lives in the heads of engineers, estimators and production managers, not in a marketing folder. Short interviews with those people, turned into page drafts, are often the quickest way to capture it. Existing quotes, specification sheets and common customer questions are also rich sources.</p>
+<p>Plan who will review technical content for accuracy before it goes live. A mistake about a tolerance, material or standard does more damage with an engineer than a missing page. After launch, keep a simple routine for adding new capabilities, equipment and approved project examples, so the site grows with the business rather than freezing again.</p>
+
+<h2>Careers pages: an overlooked asset</h2>
+<p>Many West Midlands manufacturers find recruitment as pressing as winning orders. A careers section with real roles, photos of the workplace and an honest description of training and progression helps attract applicants and reassures buyers that the business is stable. It costs little to add during a build and is far harder to bolt on later.</p>
+
+<h2>Choosing a web partner for a B2B build</h2>
+<p>Look for a partner that asks about your buyers, your processes and your sales cycle before it talks about design. Ask how it would structure capability pages, how the quote form would work and how existing search visibility would be protected. Make sure you will own the domain, hosting and content. For cost context, see our <a href="/blog/website-design-cost-small-business-uk/">website design cost guide</a> and <a href="/pricing/">pricing page</a>.</p>
+<p>Working remotely suits most B2B projects. Many Birmingham manufacturers already deal with customers and suppliers all over the country, and site reviews, content interviews and approvals run well over video calls. You can read about our <a href="/services/website-ecommerce-development/">website development work</a>, or <a href="/contact/">get in touch</a> to talk about your current site.</p>
+
+<h2>FAQs</h2>
+<h3>What pages should a manufacturer's website have?</h3>
+<p>At minimum, a page for each main capability or process, sector pages for key industries, a quality or accreditation page, an about page with real photos and a quote form that is easy to find.</p>
+<h3>Should we publish technical details such as tolerances or capacity?</h3>
+<p>Where you are comfortable doing so, yes. Technical buyers look for this information, and it helps them shortlist you. Leave out anything commercially sensitive.</p>
+<h3>Can our website take file uploads with quote requests?</h3>
+<p>Yes, a well-built form can accept drawings and specifications in common formats, with sensible size limits and secure handling.</p>
+<h3>Is it worth selling online as a distributor?</h3>
+<p>It can be, especially for repeat orders from trade customers. Complex pricing, accounts and stock integrations need careful scoping before you commit.</p>
+<h3>Can Prism Works Studio build a B2B website for a Birmingham firm remotely?</h3>
+<p>Yes. We work with Birmingham and West Midlands businesses through video calls and shared documents. We do not have a Birmingham office.</p>
+<h3>How do we know if the new site is generating better leads?</h3>
+<p>Track form submissions and calls by page, then compare enquiries with won orders over time. That shows which parts of the site bring real business.</p>
+`,
+  },
+  {
+    slug: 'web-design-glasgow',
+    seoTitle: 'Web Design Glasgow: Tourism and Service Business Sites',
+    title: 'Web Design Glasgow: Websites for Tourism, Hospitality and Local Service Businesses',
+    description: 'Need a website for a Glasgow hotel, attraction, tour or local service business? How to design for visitors and locals, take bookings and build trust.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>Glasgow's websites have two very different audiences. Hotels, tours, attractions and venues are designing for people who may never have visited the city and want to plan a trip with confidence. Plumbers, cleaners, clinics, garages and other service businesses are designing for local people who need help quickly and want to know they can trust who they call. This guide looks at both, because the best websites for each share a common thread: they remove uncertainty.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency that works remotely with businesses across the UK, including Glasgow. We do not have a Glasgow office. We work with clients over video calls and shared documents, and this guide is written to help Glasgow businesses plan a better site whoever builds it.</p>
+
+<h2>Glasgow as a visitor destination</h2>
+<p>Glasgow attracts visitors for its architecture, museums and galleries, music and live events, shopping, football and as a gateway to the west of Scotland and the Highlands. Visitors arrive for city breaks, concerts, conferences and sporting events. Hotels, guest houses, tour operators, attractions, restaurants and event venues all compete for their attention online, usually before the visitor has arrived.</p>
+
+<h3>Think like a first-time visitor</h3>
+<p>Someone planning a trip from elsewhere in the UK or abroad does not know which neighbourhood is which, how far things are apart or how to get around. A good tourism website answers those questions without making them search elsewhere.</p>
+<table>
+<thead><tr><th>Visitor question</th><th>What the website should show</th></tr></thead>
+<tbody>
+<tr><td>Where exactly are you?</td><td>Address, a map link and how you relate to the city centre, the West End or the main stations</td></tr>
+<tr><td>How do I get there?</td><td>Public transport, parking and walking notes</td></tr>
+<tr><td>What is included and what does it cost?</td><td>Clear descriptions, rooms or ticket types and a link to live prices or availability</td></tr>
+<tr><td>Can I book now?</td><td>A visible booking button on every page, linked to your booking or ticketing system</td></tr>
+<tr><td>What if plans change?</td><td>Cancellation and refund terms in plain language</td></tr>
+</tbody>
+</table>
+
+<h3>Photography and accessibility</h3>
+<p>Visitors judge rooms, tours and venues by photos. Use real, current photography of your own spaces. Include accessibility information, such as step-free access, lifts or accessible rooms, because visitors who need it will often book elsewhere if they cannot find it. Clear headings and readable text also help people using translation tools or screen readers.</p>
+
+<h3>Events and seasonal content</h3>
+<p>Big concerts, festivals and sporting fixtures create busy periods. Venues and hotels can benefit from pages that explain what is on, but these must be kept up to date. A site your own team can edit quickly is essential. For more on hospitality marketing, see our <a href="/sectors/hospitality/">hospitality sector page</a>.</p>
+
+<h2>Glasgow's local service businesses</h2>
+<p>The other half of Glasgow's web design picture is local services: trades, cleaners, garages, clinics, salons, tutors, removals firms and many more, serving areas from the Southside and East End to Paisley, East Kilbride, Clydebank and beyond. Their customers usually search on a phone, compare a few options and call or message the one that looks most reliable.</p>
+
+<h3>What a service business website must make obvious</h3>
+<ul>
+<li><strong>What you do.</strong> A page for each main service, written in plain English.</li>
+<li><strong>Where you work.</strong> The areas you genuinely cover, stated clearly.</li>
+<li><strong>How to contact you.</strong> Tap-to-call buttons, a short form and, if you use it, a messaging option.</li>
+<li><strong>Why to trust you.</strong> Real reviews, photos of your own work and any accreditations or memberships you actually hold.</li>
+<li><strong>What happens next.</strong> A simple explanation of how quotes, bookings or call-outs work.</li>
+</ul>
+
+<h3>Area pages, done honestly</h3>
+<p>Some service businesses create a page for every town they serve. That can help if each page has genuinely useful, specific information. Thin pages that only swap the place name tend to add little and can look spammy. It is usually better to have fewer, stronger pages and a clear list of areas covered.</p>
+
+<h3>Website and Google Business Profile together</h3>
+<p>For local services, the Google Business Profile often brings as many enquiries as the website. Keep your name, address or service area, phone number and hours consistent between the two, and link the profile to the most relevant page. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> and <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explain how they work together.</p>
+
+<h2>Technical foundations for both</h2>
+<h3>Fast on mobile data</h3>
+<p>Visitors on the move and customers with an urgent problem both have little patience. Compress images, keep plugins to a minimum and test pages on real phones. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers the main fixes.</p>
+<h3>Choosing a platform</h3>
+<p>Most tourism and service sites run well on a lean WordPress build, which lets you edit pages and add content easily. If you sell vouchers, tours or products online, a store on Shopify or WooCommerce may sit alongside it; our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> explains the differences. Whatever you choose, make sure you own the domain, hosting and content.</p>
+<h3>SEO as part of the build</h3>
+<p>Clear page titles, one service or offer per page, accurate location details and fast loading give search engines a solid base to work from. If you are replacing an older site, plan redirects so you keep any visibility it has built up; our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains how.</p>
+
+<h2>Content that earns its place</h2>
+<p>Tourism businesses can help visitors and themselves by writing genuinely useful content: what to expect on a tour, how to plan a day around a visit, what is nearby or how to reach you from the airport or main stations. This kind of content answers real questions, gives people reasons to book and can be found by visitors researching their trip. Keep it accurate and update it when things change.</p>
+<p>Service businesses can do the same at a smaller scale. A short guide to what happens during a typical job, how to prepare, or signs that a problem needs a professional reassures customers and helps them choose you. Questions taken from real calls and messages are a good starting point.</p>
+
+<h2>Keeping prices and availability honest</h2>
+<p>Few things frustrate a visitor more than finding one price on a website and another at checkout, or booking a tour that turns out to be unavailable. Link to live availability where possible rather than typing dates and prices into pages by hand. If you show starting prices, make clear what they include. Service businesses that cannot give fixed prices can still explain how quotes work and what affects the cost, which reassures customers without overpromising.</p>
+
+<h2>Forms, calls and response times</h2>
+<p>For both groups, every enquiry route needs to work and be answered. Test forms regularly, make sure messages reach someone who will reply and state realistic response times where it helps. For service businesses especially, a missed enquiry often means a lost job, because the customer simply calls the next name on the list. Tracking which pages lead to calls and forms shows where to focus improvements; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to set this up.</p>
+<p>Visitors from abroad may prefer email or messaging to a phone call, so offering more than one route can help tourism businesses.</p>
+
+<h2>Choosing a web design partner</h2>
+<p>Ask potential partners how they would present your location to visitors, connect your booking system or make your phone number easy to tap. Ask how your team will update hours, events and prices, and what support is available after launch. For cost context, see our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> and our <a href="/pricing/">pricing page</a>.</p>
+<p>Prism Works Studio works with Glasgow businesses remotely. You can read about our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>, or <a href="/contact/">get in touch</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>What should a Glasgow hotel or guest house website include?</h3>
+<p>Real photos of rooms, clear location and transport information, accessibility details, cancellation terms and a booking button visible on every page.</p>
+<h3>Should tour operators take bookings directly on their website?</h3>
+<p>Often it helps, because direct bookings give you more control over the customer relationship. Use a reliable booking system and make availability easy to see.</p>
+<h3>Should a Glasgow trades business have a page for every area it covers?</h3>
+<p>Only if each page has genuinely useful, specific content. Otherwise, a clear list of areas covered on strong service pages usually works better.</p>
+<h3>How do reviews fit into a service business website?</h3>
+<p>Show genuine reviews near your contact buttons and service descriptions. Never write your own or offer incentives for reviews.</p>
+<h3>Can Prism Works Studio build a website for a Glasgow business remotely?</h3>
+<p>Yes. We work with Glasgow businesses through video calls and shared documents. We do not have a Glasgow office.</p>
+<h3>Does my website need accessibility information?</h3>
+<p>For tourism and hospitality businesses, it is strongly recommended. Visitors who need it often decide where to book based on whether they can find it.</p>
+`,
+  },
+  {
+    slug: 'web-design-liverpool',
+    seoTitle: 'Web Design Liverpool: Logistics and Creative Websites',
+    title: 'Web Design Liverpool: Websites for Maritime, Logistics and Creative Businesses',
+    description: 'Need a website for a Liverpool logistics, freight or creative business? How to explain services to B2B buyers, build fast portfolio sites and win enquiries.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>Liverpool's identity has always been tied to the sea and to creativity. The port and the businesses around it, from freight forwarders and hauliers to warehousing and marine services, sit alongside a strong creative community of designers, studios, production companies and digital businesses, many clustered around the Baltic Triangle. These two groups need very different websites, and this guide looks at each in turn.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency that works remotely with businesses across the UK, including Liverpool. We do not have a Liverpool office. We work with clients through video calls and shared documents, and we have written this guide to help Liverpool firms plan a site that works for their buyers.</p>
+
+<h2>Websites for logistics, freight and maritime firms</h2>
+<p>Logistics and maritime businesses on Merseyside, including the Wirral and the wider city region, typically sell to other businesses: importers, exporters, manufacturers, retailers and other logistics providers. Buyers are often comparing several suppliers on reliability, coverage and responsiveness. Many firms in this sector have websites that list services in a few lines and leave buyers to phone for everything else.</p>
+
+<h3>Explain services in the buyer's language</h3>
+<p>A shipper looking for help does not search for "solutions". They search for the specific service they need. Clear, separate pages make it easier for buyers to find you and judge whether you fit.</p>
+<table>
+<thead><tr><th>Service area</th><th>What buyers want to know</th></tr></thead>
+<tbody>
+<tr><td>Freight forwarding</td><td>Modes, routes or regions covered, customs support, how quoting works</td></tr>
+<tr><td>Haulage and distribution</td><td>Vehicle types, coverage, collection and delivery options</td></tr>
+<tr><td>Warehousing</td><td>Storage types, handling, stock management and location</td></tr>
+<tr><td>Marine and port services</td><td>Specific services offered, availability and how to arrange them</td></tr>
+</tbody>
+</table>
+<p>Only list services, routes and accreditations you genuinely provide or hold. Accuracy builds more trust than a long list of vague capabilities.</p>
+
+<h3>Quote and booking routes</h3>
+<p>Logistics buyers often want a quick indication of price and availability. A structured quote form that asks for origin, destination, cargo type, dimensions and timescales helps your team respond quickly and shows buyers you know what you are doing. Keep it as short as possible, with optional fields for detail. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers form design in more depth.</p>
+
+<h3>Customer areas and documents</h3>
+<p>Existing customers may need tracking links, documents, terms or account contacts. Making these easy to find reduces calls to your team and makes the site useful beyond winning new work. If you need tracking or portal features, make sure they are scoped carefully and integrate with the systems you already use.</p>
+
+<h3>Proof for B2B buyers</h3>
+<p>Photos of your own vehicles, warehouses and teams at work, genuine customer case studies cleared for publication and accreditations you hold all reassure buyers. Avoid stock images of generic container ships if they do not reflect your business. Our <a href="/sectors/b2b/">B2B sector page</a> explains more about how we approach business audiences.</p>
+
+<h2>Websites for Liverpool's creative businesses</h2>
+<p>Designers, illustrators, photographers, video producers, architects and digital studios across Liverpool depend on their websites to show their work. The challenge is a familiar one: the work needs to look stunning, but large images and video can make a portfolio site painfully slow.</p>
+
+<h3>Portfolio design that performs</h3>
+<ul>
+<li>Use modern image formats and responsive sizes so phones do not download desktop-sized files</li>
+<li>Load images and video as visitors scroll rather than all at once</li>
+<li>Host long videos on a dedicated video platform and embed them carefully</li>
+<li>Keep layouts simple so the work is the focus, not the effects</li>
+</ul>
+<p>Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers these techniques in more detail.</p>
+
+<h3>Explain the work, not just show it</h3>
+<p>A beautiful gallery rarely wins a brief on its own. Short project write-ups that explain the problem, your approach and the outcome, where you have permission to share it, help prospective clients understand how you think. Clear service pages and a simple enquiry form turn admiration into conversations.</p>
+
+<h3>Selling prints, products or courses</h3>
+<p>Some creative businesses sell prints, merchandise, presets or courses. A small online shop can sit alongside a portfolio, often on Shopify or WooCommerce. Our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> are useful if you are considering this.</p>
+
+<h2>Shared foundations</h2>
+<h3>A platform your team can run</h3>
+<p>Logistics firms need to update services and news without fuss; creatives need to add projects regularly. A lean WordPress build suits many of both, while custom builds make sense when there are portals or integrations involved. Make sure you own the domain, hosting and content, whichever route you take.</p>
+<h3>Search as part of a good build</h3>
+<p>Clear service and project pages with sensible titles, fast loading and tidy internal links give search engines a strong base. If you are replacing an older site, plan redirects so existing visibility is not lost; our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains how. For ongoing search help, see our <a href="/services/seo-geo/">SEO and GEO service</a>.</p>
+<h3>Measuring what matters</h3>
+<p>Track quote requests, enquiries and calls by page so you can see which services or projects attract the right clients. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how.</p>
+
+<h2>Content that keeps the site alive</h2>
+<p>Logistics websites often go untouched for years. Short, practical updates help buyers and show the business is active: changes to services, new routes or facilities, guidance on paperwork or customs changes, and notes about busy periods. Each update should be accurate and useful rather than written for the sake of it.</p>
+<p>For creative businesses, the portfolio is the content. Adding new projects regularly, with permission, keeps the site current and gives prospective clients fresh reasons to get in touch. Retiring older work that no longer reflects your style matters just as much. A simple routine, such as adding a project each time one is signed off, stops the site drifting out of date.</p>
+
+<h2>Working across the city region</h2>
+<p>Many Liverpool businesses serve customers across Merseyside, the North West and the wider UK. Be clear about where you operate and who you serve. A haulier covering the whole country and a studio working mainly with local clients need different messages. Clear location information, without stuffing place names into every paragraph, helps the right buyers recognise that you can help them.</p>
+
+<h2>Recruitment and reputation</h2>
+<p>Logistics firms often need drivers, warehouse staff and operations people, while creative studios compete for talented designers and producers. A careers page with real roles, honest information about the work and photos of your own people helps on both fronts. It also signals to customers that the business is established and investing in its team.</p>
+<p>For creative businesses in particular, an about page that explains your approach, values and the kind of clients you like working with helps the right people self-select. It is often one of the most visited pages on a studio site, so it deserves as much care as the portfolio.</p>
+
+<h2>Common pitfalls</h2>
+<ul>
+<li>Generic stock images that do not reflect your fleet, facilities or creative work</li>
+<li>Heavy video backgrounds that slow pages on mobile</li>
+<li>Quote forms that ask for too much information too early</li>
+<li>Contact details buried in the footer rather than visible on key pages</li>
+</ul>
+
+<h2>Choosing a partner</h2>
+<p>Ask potential partners how they would structure your services or portfolio, how fast the site will load with your images and how your team will update it. For cost context, see our <a href="/blog/website-design-cost-small-business-uk/">website design cost guide</a> and our <a href="/pricing/">pricing page</a>.</p>
+<p>Prism Works Studio works with Liverpool businesses remotely. You can read about our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>, or <a href="/contact/">get in touch</a> to talk about your site.</p>
+
+<h2>FAQs</h2>
+<h3>What should a freight forwarder's website include?</h3>
+<p>Separate pages for each service, clear information on the modes and regions you cover, customs support if offered and a structured quote form.</p>
+<h3>Should logistics firms add tracking or customer portals to their website?</h3>
+<p>It can be useful for existing customers, but it depends on your systems. Portal and tracking features need careful scoping so they integrate properly.</p>
+<h3>How can a creative portfolio site stay fast?</h3>
+<p>Use modern image formats, responsive sizes, lazy loading and embedded video from a dedicated platform. Simple layouts also help.</p>
+<h3>Should creatives write about each project?</h3>
+<p>Yes, where you have permission. Short write-ups explaining the brief, approach and outcome help prospective clients understand how you work.</p>
+<h3>Can Prism Works Studio build a website for a Liverpool business remotely?</h3>
+<p>Yes. We work with Liverpool businesses through video calls and shared documents. We do not have a Liverpool office.</p>
+<h3>Can a creative business sell products from its portfolio site?</h3>
+<p>Yes. A small online shop for prints, products or courses can sit alongside a portfolio, often on Shopify or WooCommerce.</p>
+`,
+  },
+  {
+    slug: 'web-design-london',
+    seoTitle: 'Web Design London: Redesigns for Professional Firms',
+    title: 'Web Design London: How Professional Firms Can Plan a Website Redesign',
+    description: 'Redesigning a London law, finance or consultancy firm\'s website? How to plan the brief, keep rankings, write for clients, pick a platform and compare quotes.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/financial-advisers/', '/pricing/'],
+    body: `
+<p>For most London professional firms, web design means redesign. The practice already has a site, it probably has some search visibility and a few pages that bring in enquiries, and it has started to look dated or no longer reflects how the firm works. The best redesign keeps what already earns its place, fixes what holds the firm back and gives prospective clients a clear reason to get in touch.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency. We work with London businesses remotely, over video calls and shared documents, and we do not have a London office. This guide is written for partners, practice managers and marketing leads at law firms, accountants, financial advisers, consultancies and similar firms who are planning a new site.</p>
+
+<h2>Why London firms redesign</h2>
+<p>From the City and Holborn to Mayfair, Canary Wharf and the suburbs, London has a dense concentration of professional services. A prospective client looking for a solicitor, accountant or adviser will usually compare several firms online before calling one. Common reasons firms decide their website needs work include:</p>
+<ul>
+<li>The site no longer matches the firm's services, sectors or people after mergers, new hires or changes in focus</li>
+<li>It looks poor on a phone, which is where many clients first check you out</li>
+<li>Updating pages needs a developer, so content has gone stale</li>
+<li>Enquiries arrive by phone and email with no way of knowing which pages produced them</li>
+<li>The brand has moved on but the website has not</li>
+</ul>
+
+<h2>Start with an audit, not a mood board</h2>
+<p>Before anyone designs anything, look hard at the current site. Which pages get visits from search? Which pages lead to enquiries? Which pages are thin, out of date or duplicated? An honest audit stops a redesign from throwing away pages that quietly bring in work.</p>
+<table>
+<thead><tr><th>What to check</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Pages that receive search traffic</td><td>These need to be kept, improved or redirected carefully</td></tr>
+<tr><td>Pages that produce enquiries</td><td>Their structure and wording may hold lessons for the new site</td></tr>
+<tr><td>Outdated or thin pages</td><td>Candidates to merge, rewrite or remove</td></tr>
+<tr><td>Inbound links from other sites</td><td>The URLs they point at need redirects if they change</td></tr>
+<tr><td>Tracking setup</td><td>You need a baseline to judge whether the new site performs better</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers the technical side, and our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to measure enquiries properly.</p>
+
+<h2>Writing for clients, not for the firm</h2>
+<p>Many professional websites talk about the firm: its history, its values, its awards. Clients care about their own problem. A good redesign rewrites key pages around the questions clients actually ask.</p>
+<ul>
+<li><strong>Service pages</strong> should explain who the service is for, what typically happens and how to start, in plain English.</li>
+<li><strong>Sector pages</strong> help a business client see that you understand their industry.</li>
+<li><strong>People pages</strong> matter in professional services. Clients want to see who they will deal with, with real photos and genuine experience.</li>
+<li><strong>Insight articles</strong> show expertise and answer early-stage questions, but only if they are kept current.</li>
+</ul>
+<p>Regulated firms should check every claim against their regulator's rules and any advertising codes before publishing. A web designer should flag wording that might need compliance sign-off rather than inventing marketing claims. Our <a href="/sectors/financial-advisers/">financial advisers page</a> touches on this for that sector.</p>
+
+<h2>Structure that matches how clients search</h2>
+<p>A London firm might serve individuals, businesses or both, across several practice areas. The site structure should make it easy to find the right route in two or three clicks. Separate pages for distinct services usually work better than one long page listing everything, both for visitors and for search engines. Clear internal links between related services, sectors and people help clients move around naturally.</p>
+<p>Location also needs thought. A firm with offices in the City and one outer borough may want a page for each; a firm serving clients nationwide may barely mention location at all. Match the structure to where you genuinely want work from.</p>
+
+<h2>Design that builds trust</h2>
+<p>Professional services design does not need to be dull, but it does need to feel credible. That usually means generous spacing, readable type, restrained colour, real photography rather than generic stock images and obvious contact routes on every page. Overly busy layouts, autoplay video and heavy animation tend to work against the calm, competent impression most firms want to give.</p>
+<p>Accessibility is part of this. Good contrast, sensible heading structure, descriptive links and forms that work with keyboards and screen readers make a site usable for more clients and reflect well on the firm.</p>
+
+<h2>Choosing a platform for a professional site</h2>
+<p>Most professional firms do not need an online shop, so the choice is usually between a well-built WordPress site and a custom build. WordPress suits firms that want to edit pages, publish articles and add people profiles without a developer, provided it is kept lean and updated. A custom build makes sense when the firm needs unusual functionality, such as client portals or complex integrations. Whichever you choose, make sure the firm owns the domain, hosting account and content.</p>
+<p>If you sell products online rather than services, our <a href="/blog/shopify-web-design-london/">Shopify web design guide for London brands</a> is the better place to start.</p>
+
+<h2>Speed, security and maintenance</h2>
+<p>Clients often check a firm on a phone between meetings. A fast, simple site makes a better impression than a heavy one. Keep images compressed, avoid piling on plugins and test on real devices. Security matters too, particularly for firms handling sensitive enquiries, so forms should be secure and software kept up to date. Our <a href="/blog/website-speed-optimisation-uk/">speed optimisation guide</a> and <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explain what ongoing care involves.</p>
+
+<h2>Where SEO fits</h2>
+<p>A well-structured redesign gives search engines clear pages, sensible titles and fast loading, and protects what the old site had built up. That is the foundation, not the full job. If search is a major source of new clients for your firm, our guide to <a href="/blog/seo-agency-london/">choosing an SEO agency in London</a> covers the ongoing work.</p>
+
+<h2>After launch</h2>
+<p>A new site is the start of a cycle, not the end. Check enquiries against the baseline from your audit, watch for any pages that lost search visits and fix redirects quickly. Keep people profiles, services and articles current, especially after hires, departures or changes in focus, so the site never drifts out of date again.</p>
+
+<h2>Questions to ask before you sign</h2>
+<ul>
+<li>Will you audit our current site before designing the new one?</li>
+<li>How will you handle redirects from our existing URLs?</li>
+<li>Who writes or edits the content, and how will compliance review fit into the timeline?</li>
+<li>Can our team update people profiles and articles ourselves?</li>
+<li>Will we own the domain, hosting, design and content?</li>
+<li>What support is available after launch?</li>
+</ul>
+<p>For broader context on costs, see our guides to <a href="/blog/website-redesign-cost-uk/">website redesign costs</a> and our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Working with a remote agency</h2>
+<p>Professional firms are used to working with clients and suppliers they rarely meet in person, and a redesign is no different. Content reviews, design feedback and approvals all work well over video calls and shared documents, and written records of decisions are often clearer than notes from a meeting room. If your partners strongly prefer in-person workshops, a London studio may suit you better. Otherwise, judge any agency on how well it understands your clients.</p>
+<p>You can read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>. If you are planning a redesign for a London firm, <a href="/contact/">get in touch</a> and we will start by looking at what your current site already does well.</p>
+
+<h2>FAQs</h2>
+<h3>Should a London law or accountancy firm redesign or start again?</h3>
+<p>Usually redesign. An existing site often has pages that bring in search visits and enquiries. Keeping or redirecting those while improving everything else is safer than starting from nothing.</p>
+<h3>How do we avoid losing search traffic during a redesign?</h3>
+<p>Audit current pages first, keep URLs where possible, set up redirects for any that change and check the new site carefully after launch. Some short-term movement can still happen.</p>
+<h3>Do people pages really matter?</h3>
+<p>In professional services, often yes. Clients want to know who they will work with, so real photos and clear experience help build trust.</p>
+<h3>How should compliance review fit into a website project?</h3>
+<p>Build it into the timeline from the start. Content for regulated services may need sign-off, and leaving it until the end is a common cause of delays.</p>
+<h3>Can Prism Works Studio redesign a London firm's website remotely?</h3>
+<p>Yes. We work with London businesses through video calls and shared documents. We do not have a London office.</p>
+<h3>Is WordPress suitable for a professional services firm?</h3>
+<p>It often is, especially if your team wants to publish articles and update profiles. It needs to be built cleanly and kept updated.</p>
+`,
+  },
+  {
+    slug: 'web-design-manchester',
+    seoTitle: 'Web Design Manchester: Startup and Hospitality Sites',
+    title: 'Web Design Manchester: Websites for Startups, Bars, Restaurants and Venues',
+    description: 'Launching a startup or running a Manchester bar, restaurant or venue? How to plan a fast, mobile-first website, handle bookings, launch lean and grow it.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>Manchester is full of new ventures. Founders are launching products from co-working spaces, and new bars, restaurants and venues open across the city centre and surrounding neighbourhoods. Both groups need websites, but not the same kind of website as an established corporate firm. Startups need something credible they can launch quickly and change often. Hospitality businesses need something that works perfectly on a phone at the moment someone is deciding where to go tonight.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency that works remotely with businesses across the UK, including Manchester. We do not have a Manchester office. This guide is for founders and hospitality owners in Greater Manchester planning a new site or replacing one that no longer fits.</p>
+
+<h2>Part one: websites for Manchester startups</h2>
+<p>Manchester has a lively startup and digital scene, with founders spread across areas such as the Northern Quarter, Ancoats, Salford Quays and the university corridor. Early-stage companies tend to share the same website problems: limited budget, a product that is still changing and a need to look credible to customers, partners and investors.</p>
+
+<h3>Launch lean, then learn</h3>
+<p>A common mistake is spending months on a large site before the business knows which message works. Often a better approach is a focused first version:</p>
+<ul>
+<li>A home page that explains the problem you solve and for whom, in one clear sentence</li>
+<li>A page for each main product or use case, not a dozen speculative pages</li>
+<li>A simple sign-up, waitlist, demo or contact route</li>
+<li>An about page that introduces the founders honestly</li>
+<li>Basic analytics so you can see what visitors do</li>
+</ul>
+<p>Once you see which pages and messages bring sign-ups, you can expand with confidence. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> is helpful for founders testing different offers.</p>
+
+<h3>Pick tools your team can run</h3>
+<p>Startups change fast. If every headline tweak needs a developer, the site will fall behind the business. A clean WordPress build, a well-configured Shopify store for product companies, or a carefully chosen site builder can all work, depending on what you sell and who maintains it. If you sell software, see our <a href="/sectors/saas/">SaaS sector page</a>. If you sell physical products, our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> gives useful context.</p>
+
+<h3>Credibility without inventing it</h3>
+<p>New companies are tempted to fill gaps with vague claims and stock photos. It works better to be honest about your stage. Real founder photos, a clear explanation of how the product works, transparent pricing where you can share it and genuine early feedback, with permission, build more trust than borrowed polish.</p>
+
+<h2>Part two: websites for Manchester bars, restaurants and venues</h2>
+<p>Manchester's food, drink and nightlife scene stretches from the city centre to neighbourhoods such as Ancoats, Chorlton, Didsbury and beyond, alongside music venues, event spaces and hotels. Most hospitality customers find you on their phone, often while already out or planning the evening with friends.</p>
+
+<h3>The four things visitors want immediately</h3>
+<table>
+<thead><tr><th>What they want</th><th>How the site should provide it</th></tr></thead>
+<tbody>
+<tr><td>Are you open?</td><td>Accurate opening hours near the top of the page, updated for holidays and events</td></tr>
+<tr><td>What do you serve?</td><td>A menu as a fast web page, not a large PDF that is hard to read on a phone</td></tr>
+<tr><td>Can I book?</td><td>A booking button visible on every page, linked to your booking system</td></tr>
+<tr><td>Where are you?</td><td>Address, map link and transport notes, easy to tap</td></tr>
+</tbody>
+</table>
+<p>Everything else, from your story to private hire pages, comes after these basics.</p>
+
+<h3>Events, private hire and gift vouchers</h3>
+<p>Venues often earn a lot from events and private bookings. Dedicated pages for private hire, group bookings and upcoming events, each with a clear enquiry route, make these easy to sell. If you offer gift vouchers or merchandise, a simple online shop can sit alongside the main site.</p>
+
+<h3>Keeping it current</h3>
+<p>Out-of-date menus and hours frustrate customers and lose trust. Choose a setup where your team can change menus, events and opening times in minutes. Your Google Business Profile matters as much as the website for local discovery, so keep both consistent. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> and <a href="/sectors/hospitality/">hospitality sector page</a> explain more.</p>
+
+<h2>What both groups have in common</h2>
+<h3>Mobile first, really</h3>
+<p>For startups and hospitality alike, many visitors arrive on a phone, often from social media. Design and test for small screens first. Large images should be compressed, text readable without zooming and buttons easy to tap. Our <a href="/blog/website-speed-optimisation-uk/">speed optimisation guide</a> covers the fixes that usually matter most.</p>
+<h3>Social traffic needs somewhere to land</h3>
+<p>Manchester startups and venues often rely on social channels to drive visits. Make sure the pages people land on match the post that sent them, whether that is a product launch, a new menu or an event. Sending everyone to the home page wastes interest.</p>
+<h3>Search basics built in</h3>
+<p>A fast site with clear page titles, one topic per page and accurate location details gives search engines a solid starting point. For hospitality, local search matters most; our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains it. If you want ongoing search help, see our <a href="/blog/seo-agency-manchester/">Manchester SEO agency guide</a>.</p>
+
+<h2>Growing the site over time</h2>
+<p>For a startup, the first site is a starting point. As the product settles, you might add comparison pages, help content, customer stories shared with permission, pricing pages and integrations pages. Each addition should answer a question real prospects ask. Keeping a running list of questions from sales calls and support emails is a simple way to decide what to build next.</p>
+<p>For hospitality businesses, growth often means more locations, more event types or an expanded offer such as takeaway, gift vouchers or retail. Planning the structure so it can take a second or third venue without a full rebuild saves money later. A page for each venue, with its own hours, menu and booking link, keeps things clear for customers.</p>
+<p>Whatever the business, review the site every few months. Check that hours, prices and team details are correct, that forms and booking links work and that pages still load quickly on a phone. Small, regular care beats an expensive rebuild every few years.</p>
+
+<h2>Accessibility and inclusion</h2>
+<p>Both startups and venues serve a wide audience. Good colour contrast, readable text sizes, descriptive link text and clear information about step-free access, accessible toilets or quiet times help more people use your site and visit you. These details are easy to build in from the start and make the site better for everyone.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Launching with placeholder text or broken links because the deadline arrived before the content</li>
+<li>Hiding the booking or sign-up button below large hero images</li>
+<li>Leaving menus, prices or claims that are no longer accurate</li>
+<li>Relying on one person who knows how to update the site</li>
+</ul>
+
+<h2>Choosing who builds it</h2>
+<p>Ask any potential partner how quickly a first version could go live, how your team will update it and what happens if you need to change direction. Make sure you will own your domain, hosting and content, and that the booking or sign-up tools you rely on are properly connected. For cost context, see our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> and our <a href="/pricing/">pricing page</a>.</p>
+<p>Working remotely suits most of these projects, especially for founders already used to working with distributed teams. Prism Works Studio works with Manchester businesses over video calls and shared documents. You can read about our <a href="/services/website-ecommerce-development/">website development work</a>, or <a href="/contact/">get in touch</a> to talk about your launch or venue.</p>
+
+<h2>FAQs</h2>
+<h3>Should a Manchester startup build a big website at launch?</h3>
+<p>Usually not. A focused first version that explains the product clearly and captures interest lets you learn what works before investing in more pages.</p>
+<h3>Should a restaurant menu be a PDF?</h3>
+<p>A web page menu is usually better. It loads faster on phones, is easier to read and is simpler to update than a large PDF.</p>
+<h3>How do I connect my booking system to my website?</h3>
+<p>Most booking systems offer a link or embeddable widget. A booking button on every page, leading straight to availability, is usually the most effective setup.</p>
+<h3>Do venues need separate pages for private hire and events?</h3>
+<p>It helps. Dedicated pages with their own enquiry forms make it easier for groups and event organisers to find what they need and get in touch.</p>
+<h3>Can Prism Works Studio build a site for a Manchester business remotely?</h3>
+<p>Yes. We work with Manchester businesses through video calls and shared documents. We do not have a Manchester office.</p>
+<h3>Can my team update the site after launch?</h3>
+<p>They should be able to. Any good build should let you change text, menus, events and images without needing a developer for every edit.</p>
+`,
+  },
 ];
