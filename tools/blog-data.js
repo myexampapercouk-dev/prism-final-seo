@@ -14602,4 +14602,581 @@ module.exports = [
 <p>They should be able to. Any good build should let you change text, menus, events and images without needing a developer for every edit.</p>
 `,
   },
+  {
+    slug: 'ecommerce-website-design-uk',
+    seoTitle: 'Ecommerce Website Design UK: Planning an Online Shop',
+    title: 'Ecommerce Website Design in the UK: How to Plan a Shop That Sells',
+    description: 'Planning an ecommerce website design for a UK brand? Navigation, product pages, basket and checkout, mobile shopping, UK delivery and returns, and platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>An online shop is judged differently from a brochure website. Visitors are not just reading; they are comparing, hesitating and deciding whether to hand over their card details. Good ecommerce design removes the reasons people leave before buying, from confusing menus to surprise delivery charges at checkout.</p>
+<p>Prism Works Studio is a UK ecommerce, web design and digital marketing agency working remotely with brands across the country. This guide covers the design decisions that shape how a shop performs. If budget is your first question, our <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost guide</a> covers that separately.</p>
+
+<h2>Start with how your customers shop</h2>
+<p>A shop selling a few hero products needs a very different structure from one with thousands of SKUs. Before thinking about layouts, answer a few questions:</p>
+<ul>
+<li>Do customers know exactly what they want, or do they browse?</li>
+<li>Do they shop by category, by occasion, by size, by brand or by problem?</li>
+<li>Are most visits on mobile?</li>
+<li>Do customers buy once, or come back regularly to reorder?</li>
+<li>Do you sell to trade customers as well as consumers?</li>
+</ul>
+<p>The answers shape navigation, filters, product page layout and even whether accounts and subscriptions are worth offering.</p>
+
+<h2>Navigation and collections</h2>
+<p>Menus should use the words shoppers use, not internal product codes or clever names. Keep top-level categories few and clear, and use collections to group products in ways that match how people think. For larger catalogues, filters for size, colour, price and key attributes matter enormously, and search needs to handle misspellings and synonyms well.</p>
+
+<h2>Product pages do the selling</h2>
+<p>Many shoppers land directly on a product page from search or ads, never seeing the home page. Each product page needs to answer the questions that stand between interest and purchase.</p>
+<table>
+<thead><tr><th>Element</th><th>What to get right</th></tr></thead>
+<tbody>
+<tr><td>Images</td><td>Several clear photos, including scale and detail, that load quickly</td></tr>
+<tr><td>Price and options</td><td>Obvious price, easy variant selection, clear stock status</td></tr>
+<tr><td>Description</td><td>Your own words covering what it is, who it suits and key specifications</td></tr>
+<tr><td>Delivery and returns</td><td>Summarised near the buy button, with a link to full details</td></tr>
+<tr><td>Reviews</td><td>Genuine customer reviews, shown honestly</td></tr>
+<tr><td>Add to basket</td><td>Visible without hunting, especially on mobile</td></tr>
+</tbody>
+</table>
+
+<h2>Basket and checkout</h2>
+<p>Checkout is where small annoyances cost real money. Common causes of abandoned baskets include unexpected delivery costs, forced account creation, long forms and limited payment options. Design choices that tend to help:</p>
+<ul>
+<li>Show delivery costs or thresholds early, not just at the final step</li>
+<li>Allow guest checkout</li>
+<li>Use UK postcode lookup to speed up address entry</li>
+<li>Offer payment methods your customers expect, such as cards and popular digital wallets</li>
+<li>Keep reassurance, such as returns information and secure payment, visible</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers testing and improving checkout over time.</p>
+
+<h2>Designing for mobile first</h2>
+<p>For many UK shops, most visits come from phones. That means thumb-friendly buttons, sticky add-to-basket bars, images that zoom easily, filters that work in a compact drawer and pages that load fast on mobile data. Design and review mobile layouts first, then expand to desktop, rather than squeezing a desktop design onto a small screen.</p>
+
+<h2>UK-specific details</h2>
+<ul>
+<li>Prices shown in pounds, including VAT where you sell to consumers</li>
+<li>Clear delivery options and cut-off times</li>
+<li>Returns information that reflects consumer rights for online purchases; check the current rules or take advice, as this is not legal advice</li>
+<li>Delivery information for Northern Ireland, Highlands and Islands, and international orders if you serve them</li>
+<li>UK spelling and terminology throughout</li>
+</ul>
+
+<h2>Brand, without getting in the way</h2>
+<p>A distinctive brand helps a shop stand out from marketplaces and lookalike competitors. Strong photography, a consistent tone and a clear story on the about page all build trust. The risk is design that prioritises looking impressive over being easy to shop: autoplay video, heavy animations and oversized hero banners that push products below the fold. The best ecommerce design feels branded and still gets out of the way.</p>
+
+<h2>Accessibility and speed</h2>
+<p>Interactive elements such as filters, galleries and basket drawers need to work with keyboards and screen readers. Clear focus styles, labelled form fields and sensible contrast help every shopper, not only disabled customers. Speed matters too, as heavy themes and too many apps slow pages down. See our <a href="/blog/website-speed-optimisation-uk/">speed optimisation guide</a>.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most UK brands choose between Shopify and WooCommerce, with custom builds for unusual requirements. Shopify suits brands that want a hosted, well-supported platform; WooCommerce suits businesses already on WordPress that want more control. Our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> and <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> explore the trade-offs.</p>
+
+<h2>Plan for SEO from the start</h2>
+<p>Category and product pages are often the pages that rank for buying searches. Give them unique copy, sensible URLs and clear headings, and plan redirects if you are replacing an existing shop. Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> covers the essentials.</p>
+
+<h2>Search and filtering on larger catalogues</h2>
+<p>Once a shop grows beyond a few dozen products, on-site search and filters become some of the most used features on the site. Shoppers who search often know what they want, so a search box that returns nothing for a slight misspelling, or that cannot match "trainers" to "sneakers", loses easy sales. Review what people type into your search, look for queries that return no results and decide whether to add synonyms, redirects to the right collection or new products.</p>
+<p>Filters need equal care. Only show filters that make sense for the collection being viewed, display how many products match each option and make it easy to clear choices. On mobile, a filter drawer that resets every time it closes is a common frustration worth testing for.</p>
+
+<h2>Trust signals that are honest</h2>
+<p>A shopper visiting an unfamiliar brand is asking whether it is safe to buy. Visible contact details, a real returns policy, clear company information and genuine reviews all help answer that. What does not help is invented urgency, fake stock counters or badges for awards and partnerships a business does not hold. These can damage trust when shoppers notice and may fall foul of consumer protection rules. Keep claims accurate and let the experience of shopping do the persuading.</p>
+
+<h2>Planning content beyond products</h2>
+<p>Ecommerce sites are often designed around the product grid, with content as an afterthought. Yet size guides, care instructions, buying guides and delivery pages answer the questions that otherwise turn into support emails or abandoned baskets. Plan where these will live in the navigation and how product pages will link to them. Buying guides can also earn search visits from shoppers who are still researching.</p>
+
+<h2>After launch: keep improving</h2>
+<p>An ecommerce design is never truly finished. Once the shop is live, watch where shoppers drop out, which products get views but few sales and what people search for without finding. Small, measured changes to product pages, navigation and checkout, tested one at a time, usually teach you more than a full redesign every few years.</p>
+
+<h2>Briefing a designer</h2>
+<p>A good ecommerce brief does not need to be long, but it should cover your products and catalogue size, your customers and how they shop, the platform you are considering, systems the shop must connect to, such as stock, accounting or fulfilment, and how you will measure success. Share examples of what you like and dislike, and explain why. The clearer the brief, the more useful the proposals you receive.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We design and build online shops as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>, and you can read more about who we work with on our <a href="/sectors/ecommerce/">ecommerce sector page</a>. What a project covers is agreed up front. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What matters most in ecommerce website design?</h3>
+<p>Usually product pages and checkout. They are where shoppers decide whether to buy, and small problems there can cost sales.</p>
+<h3>Should I design for mobile or desktop first?</h3>
+<p>For most consumer shops, mobile first, because that is where a large share of visits happen. Check your own analytics to confirm.</p>
+<h3>Is a custom theme better than an off-the-shelf one?</h3>
+<p>Not always. A well-chosen theme, carefully customised, suits many brands. Custom design makes more sense when you have specific requirements or a strong brand that a theme cannot express.</p>
+<h3>Do I need customer accounts?</h3>
+<p>Offer them if customers reorder often or you run subscriptions or loyalty schemes, but always allow guest checkout as well.</p>
+<h3>Can Prism Works Studio design an online shop remotely?</h3>
+<p>Yes. We work with UK brands through video calls and shared documents.</p>
+`,
+  },
+  {
+    slug: 'small-business-website-checklist',
+    seoTitle: 'Small Business Website Checklist: Before and After Launch',
+    title: 'Small Business Website Checklist: What to Sort Before, During and After Launch',
+    description: 'A practical small business website checklist for UK owners: domain and ownership, pages, legal basics, tracking, speed, security and what to do after launch.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-maintenance-uk/', '/pricing/'],
+    body: `
+<p>Launching a small business website involves more moving parts than most owners expect. Domains, emails, legal pages, forms, analytics and search listings all need attention, and the small things are often the ones that cause trouble later. This checklist is designed to be worked through, whether you are building the site yourself or with an agency.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency working remotely with businesses across the country. Use this as a starting point and adapt it to your business.</p>
+
+<h2>1. Ownership and accounts</h2>
+<ul>
+<li>Register the domain in the business's name, using an email address the business controls</li>
+<li>Keep logins for the domain, hosting and website platform somewhere secure and shared with at least one other trusted person</li>
+<li>Confirm in writing that you own the design, content and images once the project is paid for</li>
+<li>Set up business email on your own domain rather than a free webmail address</li>
+<li>Turn on two-factor authentication wherever it is offered</li>
+</ul>
+<p>Ownership problems are a common source of headaches for small businesses, usually when a previous supplier or former employee holds the only login.</p>
+
+<h2>2. Essential pages</h2>
+<table>
+<thead><tr><th>Page</th><th>What it needs to cover</th></tr></thead>
+<tbody>
+<tr><td>Home</td><td>What you do, who for, where, and the main next step</td></tr>
+<tr><td>Services or products</td><td>A clear page for each main offer rather than one long list</td></tr>
+<tr><td>About</td><td>Who runs the business and why customers can trust it</td></tr>
+<tr><td>Contact</td><td>Phone, email, form and, if relevant, address and opening hours</td></tr>
+<tr><td>Reviews or examples</td><td>Genuine feedback or work you have permission to show</td></tr>
+</tbody>
+</table>
+<p>Write each page around what the customer needs to know, with a clear headline and one obvious next step. Generic phrases such as "quality service at competitive prices" tell visitors nothing; specific details about what you do, where and for whom tell them a lot.</p>
+
+<h2>3. Legal and policy basics</h2>
+<p>Requirements vary by business, so treat this as a prompt to check rather than a definitive list, and take professional advice where you are unsure. This is not legal advice.</p>
+<ul>
+<li>A privacy policy explaining what personal data you collect and why</li>
+<li>A cookie notice and consent approach suitable for the cookies and tracking you use</li>
+<li>Company details where required, such as registered name, number and office for limited companies</li>
+<li>Terms of sale, delivery and returns information if you sell online</li>
+<li>Any wording your regulator or professional body requires</li>
+</ul>
+
+<h2>4. Design and usability</h2>
+<ul>
+<li>Test every page on a phone as well as a desktop</li>
+<li>Make phone numbers tappable and contact routes easy to find</li>
+<li>Use readable text sizes and strong colour contrast</li>
+<li>Give meaningful images descriptive alt text so screen reader users are not left out</li>
+<li>Check you can move through the site and complete forms using only a keyboard</li>
+<li>Remove placeholder text, demo content and lorem ipsum</li>
+</ul>
+
+<h2>5. Forms and enquiries</h2>
+<ul>
+<li>Submit every form yourself and confirm the message arrives in the right inbox</li>
+<li>Check the confirmation message tells people what happens next</li>
+<li>Add spam protection that does not make the form hard to use</li>
+<li>Ask only for the information you genuinely need</li>
+</ul>
+
+<h2>6. Search basics</h2>
+<ul>
+<li>Write a unique title and meta description for each important page</li>
+<li>Use one clear main heading per page</li>
+<li>Make sure the site is not blocking search engines, a surprisingly common leftover from development</li>
+<li>Submit a sitemap in Google Search Console</li>
+<li>Set up or claim your Google Business Profile if you serve customers locally</li>
+</ul>
+<p>Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses</a> goes further.</p>
+
+<h2>7. Tracking</h2>
+<ul>
+<li>Install analytics and check it is recording visits</li>
+<li>Track enquiries, calls or sales as conversions, not just page views</li>
+<li>Make sure tracking respects the consent choices visitors make</li>
+</ul>
+<p>Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> walks through this.</p>
+
+<h2>8. Speed and security</h2>
+<ul>
+<li>Compress images before uploading them</li>
+<li>Avoid installing plugins or apps you do not need</li>
+<li>Check the site loads over HTTPS with no security warnings</li>
+<li>Confirm backups are running and you know how to restore one</li>
+</ul>
+<p>See our <a href="/blog/website-speed-optimisation-uk/">speed optimisation guide</a> for more detail.</p>
+
+<h2>9. Replacing an old site</h2>
+<p>If the new site replaces an existing one, list the old URLs and redirect each to its closest new equivalent. Skipping this can lose search visibility the old site had built up. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers it properly.</p>
+
+<h2>10. After launch</h2>
+<ul>
+<li>Check Search Console for crawl errors in the first few weeks</li>
+<li>Keep software, themes and plugins updated</li>
+<li>Review your key pages every few months and keep them current</li>
+<li>Ask happy customers for reviews</li>
+<li>Look at which pages bring enquiries and improve the ones that do not</li>
+</ul>
+<p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers ongoing care.</p>
+
+<h2>Before you start: the planning checklist</h2>
+<p>Much of what goes wrong at launch is decided weeks earlier. Before any design work begins, it helps to have answers to a few planning questions written down:</p>
+<ul>
+<li>What is the single most important thing you want visitors to do: call, book, buy or fill in a form?</li>
+<li>Who are your main types of customer, and what do they need to know before choosing you?</li>
+<li>Which areas do you serve, and do you want work from further afield?</li>
+<li>Who will write the content, and when will it be ready?</li>
+<li>Who will update the site after launch, and how comfortable are they with technology?</li>
+<li>What photos do you have, and do you have the rights to use them?</li>
+<li>What is your realistic budget for the build and for ongoing running costs?</li>
+</ul>
+<p>Content is the item most likely to hold up a launch. Designers can build templates quickly, but pages cannot go live without words and images. Starting on copy early, even as rough notes, keeps a project moving.</p>
+
+<h2>Common small business website mistakes</h2>
+<ul>
+<li><strong>Trying to say everything on the home page.</strong> Route people to dedicated pages instead.</li>
+<li><strong>Hiding prices or next steps.</strong> If you cannot list prices, explain how pricing works and how to get a quote.</li>
+<li><strong>Using stock photos that look like stock photos.</strong> Real pictures of you, your premises or your work usually build more trust.</li>
+<li><strong>Letting the site go stale.</strong> An events page from two years ago or a departed staff member signals neglect.</li>
+<li><strong>Relying on a single person's login.</strong> If they leave or become unavailable, you can be locked out of your own site.</li>
+</ul>
+
+<h2>A quick content check for each page</h2>
+<p>Before any page goes live, ask: does the headline say what this page is about? Is there a clear next step? Are names, prices, opening hours and contact details correct? Would a customer who has never heard of you understand it? If a page fails any of these, fix it now; it rarely gets fixed after launch. It also helps to have someone outside the business read the key pages, because owners often miss gaps that are obvious to a newcomer.</p>
+
+<h2>Launch day itself</h2>
+<p>Pick a quiet time for launch rather than your busiest trading day, and have someone available to fix problems. Once the site is live, click through every page, submit each form again, check analytics is recording and search the site on a phone. Let existing customers know about the new site if it offers something useful to them, and update links on your social profiles, email signatures and directory listings.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We build and improve sites for UK businesses as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>. What each project includes is agreed at the start. For budgets, see our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> and <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many pages does a small business website need?</h3>
+<p>There is no fixed number. Many start with a home page, a page per main service, an about page and a contact page, then add more as they have genuinely useful things to say.</p>
+<h3>Who should own my domain name?</h3>
+<p>Your business. Register it in the business's name with an email address you control, even if a supplier manages it for you.</p>
+<h3>Do I need a privacy policy?</h3>
+<p>If your site collects personal data, such as through a contact form or analytics, you are likely to need one. Requirements depend on your circumstances, so take advice if unsure. This is not legal advice.</p>
+<h3>What is the most commonly missed launch task?</h3>
+<p>Testing forms and checking the site is not still blocking search engines are two frequent ones, along with forgetting redirects when replacing an old site.</p>
+<h3>Can I launch with a small site and grow it later?</h3>
+<p>Yes. A focused site done well is a sound starting point, and adding pages over time is normal.</p>
+`,
+  },
+  {
+    slug: 'website-accessibility-uk',
+    seoTitle: 'Website Accessibility UK: A Practical WCAG Guide',
+    title: 'Website Accessibility in the UK: A Practical Guide to WCAG for Businesses',
+    description: 'What website accessibility means for UK businesses, how WCAG works in plain English, the common problems to fix first and how to build it into a new site.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-maintenance-uk/', '/pricing/'],
+    body: `
+<p>An accessible website is one that people can use whether they see the screen clearly or not, use a mouse or a keyboard, hear audio or rely on captions, or read quickly or slowly. For a business, that is simply more people able to find what they need, buy or get in touch.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency working remotely with businesses across the country. This guide explains accessibility in practical terms for owners and marketing teams. It is general information, not legal advice.</p>
+
+<h2>Who accessibility helps</h2>
+<p>It is easy to picture accessibility as something for a small group of screen reader users. In practice it helps a much wider range of visitors:</p>
+<ul>
+<li>People with low vision or colour blindness who need good contrast and text that can be enlarged</li>
+<li>Blind visitors using screen readers that read the page aloud</li>
+<li>People who navigate by keyboard or switch devices rather than a mouse</li>
+<li>Deaf and hard of hearing visitors who need captions or transcripts for video</li>
+<li>People with dyslexia, cognitive differences or anxiety who benefit from clear layouts and plain language</li>
+<li>Anyone with a temporary injury, a cracked phone screen or bright sunlight on their display</li>
+</ul>
+
+<h2>What WCAG is</h2>
+<p>The Web Content Accessibility Guidelines, usually shortened to WCAG, are the standard most organisations use to judge whether a site is accessible. They are organised around four principles: content should be perceivable, operable, understandable and robust. Each guideline has success criteria graded at levels A, AA and AAA.</p>
+<table>
+<thead><tr><th>Level</th><th>What it means in practice</th></tr></thead>
+<tbody>
+<tr><td>A</td><td>The basics. Missing these can block some people entirely</td></tr>
+<tr><td>AA</td><td>The level most organisations aim for, covering contrast, focus visibility, consistent navigation and more</td></tr>
+<tr><td>AAA</td><td>The most demanding level, usually applied to specific content rather than a whole site</td></tr>
+</tbody>
+</table>
+<p>WCAG is updated from time to time, so check which version is current when you write a brief.</p>
+
+<h2>The legal picture, hedged</h2>
+<p>In the UK, the Equality Act 2010 places duties on service providers not to discriminate against disabled people, and this is widely understood to extend to websites and apps. Public sector bodies have separate, more specific accessibility regulations. How the law applies to a particular private business depends on its circumstances, so if you need certainty, speak to a qualified legal adviser. Nothing in this guide is legal advice.</p>
+<p>Whatever the legal position, accessibility is good practice and makes commercial sense, because a site more people can use is a site more people can buy from.</p>
+
+<h2>Common problems worth fixing first</h2>
+<p>Many sites share the same handful of issues. Fixing these often makes the biggest difference for the least effort:</p>
+<ul>
+<li><strong>Low colour contrast</strong>, such as pale grey text on white or text over busy images</li>
+<li><strong>Missing or unhelpful alt text</strong> on meaningful images, and alt text on purely decorative ones that should be skipped</li>
+<li><strong>Unlabelled form fields</strong> where placeholder text disappears as soon as someone types</li>
+<li><strong>Invisible keyboard focus</strong>, so keyboard users cannot see where they are on the page</li>
+<li><strong>Vague link text</strong> like "click here" or "read more" repeated many times</li>
+<li><strong>Skipped or misused headings</strong>, which make pages hard to navigate with a screen reader</li>
+<li><strong>Pop-ups and menus that trap focus</strong> or cannot be closed with a keyboard</li>
+<li><strong>Video without captions</strong> and audio without transcripts</li>
+</ul>
+
+<h2>How to check your own site</h2>
+<p>A sensible first pass does not need special training. Try these yourself:</p>
+<ol>
+<li>Put the mouse away and use only the Tab, Shift+Tab and Enter keys to move through your main pages and complete a form or checkout.</li>
+<li>Zoom the browser to 200% and see whether text overlaps or content disappears.</li>
+<li>Look at your images and ask whether the alt text would make sense if read aloud.</li>
+<li>Read your headings on their own and check they outline the page logically.</li>
+<li>Run an automated accessibility checker built into your browser's developer tools.</li>
+</ol>
+<p>Automated tools only catch part of the picture. They can tell you an image lacks alt text, but not whether the alt text is any good. A manual review, ideally including testing with assistive technology, gives a fuller view.</p>
+
+<h2>Building accessibility into a new site</h2>
+<p>Accessibility is far cheaper to include from the start than to retrofit. If you are planning a new build or redesign, put it in the brief:</p>
+<ul>
+<li>State the WCAG level you are aiming for</li>
+<li>Choose brand colours that pass contrast checks for text and buttons, or agree accessible variants</li>
+<li>Ask that templates use proper headings, labels and focus styles by default</li>
+<li>Make sure your team knows how to add alt text and structure content when they publish</li>
+<li>Agree how accessibility will be tested before launch</li>
+</ul>
+<p>Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers other things to protect during a rebuild.</p>
+
+<h2>Ecommerce has extra pressure points</h2>
+<p>Online shops have more interactive parts, and each one is a chance for something to break for keyboard or screen reader users. Product filters, size selectors, image galleries, basket drawers and checkout forms all deserve testing. Apps and plugins added later can introduce problems even on a theme that started out accessible, so check again after installing anything new. If conversion is a priority, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> shows how usability and sales are closely linked.</p>
+
+<h2>Accessibility and SEO overlap</h2>
+<p>Several accessibility basics also help search engines understand a page: descriptive headings, meaningful link text, text alternatives for images and a logical structure. Accessibility is not an SEO trick, but the two often pull in the same direction.</p>
+
+<h2>Writing accessible content</h2>
+<p>Much of accessibility sits with the people who publish content, not just the developers who build templates. A few habits make a real difference:</p>
+<ul>
+<li>Use headings in order to structure a page, rather than making text bold and large to look like a heading</li>
+<li>Write link text that makes sense out of context, such as "download the price list" instead of "click here"</li>
+<li>Keep sentences and paragraphs reasonably short, and explain jargon</li>
+<li>Avoid putting important information only in images of text, such as a promotional banner with the offer details baked in</li>
+<li>Do not rely on colour alone to convey meaning, for example marking required fields only in red</li>
+<li>Provide captions for video and transcripts for podcasts or audio</li>
+</ul>
+<p>PDFs deserve a mention. Menus, brochures and forms are often uploaded as PDFs that screen readers struggle with. Where possible, put the key information on a normal web page instead.</p>
+
+<h2>Writing an accessibility statement</h2>
+<p>An accessibility statement tells visitors what standard you are working towards, any known problems you have not yet fixed and how to contact you if they have difficulty using the site. It should be honest rather than promotional. Claiming full compliance when you have not tested for it can do more harm than good, so describe what you have actually checked.</p>
+
+<h2>Prioritising fixes on an existing site</h2>
+<p>If an audit produces a long list, start with issues that completely block people from key tasks, such as a checkout that cannot be completed with a keyboard or a contact form with no labels. Then move to problems on your most visited pages, and finally to lower-impact issues across the rest of the site. Fixing shared templates, such as headers, footers and product page layouts, often resolves the same problem across hundreds of pages at once.</p>
+
+<h2>Keeping it accessible</h2>
+<p>A site can launch in good shape and slowly drift as new pages, images and plugins are added. Include accessibility checks in routine updates and in your <a href="/blog/website-maintenance-uk/">website maintenance</a> plan, and publish an accessibility statement explaining your approach and how people can report problems.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We consider accessibility as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>, from design choices through to templates. What a project covers depends on the site and is agreed up front. See our <a href="/pricing/">pricing page</a> for how we price work, or <a href="/contact/">get in touch</a> to talk about your site.</p>
+
+<h2>FAQs</h2>
+<h3>Is website accessibility a legal requirement in the UK?</h3>
+<p>The Equality Act 2010 is generally understood to apply to websites, and public sector bodies have specific regulations. How it applies to your business depends on your circumstances. This is not legal advice, so speak to a legal adviser if you need a definitive answer.</p>
+<h3>What WCAG level should a business aim for?</h3>
+<p>Most organisations aim for level AA, which covers the most significant barriers without the demands of AAA across every page.</p>
+<h3>Can an accessibility overlay or widget make my site compliant?</h3>
+<p>Be cautious. A toolbar added on top of a site does not fix underlying problems in the code and content. Fixing the site itself is the more reliable approach.</p>
+<h3>Are automated accessibility checkers enough?</h3>
+<p>No. They are useful for catching some issues quickly, but many problems need a person to judge, such as whether alt text or link wording actually makes sense.</p>
+<h3>Does accessibility mean a plain-looking website?</h3>
+<p>Not at all. Accessible sites can be visually distinctive. It mainly means making considered choices about contrast, type, layout and interaction.</p>
+`,
+  },
+  {
+    slug: 'website-builder-vs-custom-website',
+    seoTitle: 'Website Builder vs Custom Website: Which Suits You?',
+    title: 'Website Builder vs Custom Website: How UK Businesses Can Choose',
+    description: 'Squarespace, Wix, Shopify, WordPress or a custom build? An honest comparison of control, cost of ownership, flexibility, SEO and growth for UK businesses.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-small-business-website/', '/pricing/'],
+    body: `
+<p>One of the first decisions in any website project is what to build it on. Hosted website builders promise a site in an afternoon; developers talk about flexibility and control. Both are right, for different businesses. The mistake is choosing on launch-day convenience alone, then discovering a year later that the platform cannot do what the business now needs.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency working remotely with businesses across the country. This comparison is general and our view; platforms change their features often, so check current details before deciding.</p>
+
+<h2>The main options</h2>
+<table>
+<thead><tr><th>Option</th><th>What it is</th><th>Typically suits</th></tr></thead>
+<tbody>
+<tr><td>Hosted builders such as Squarespace and Wix</td><td>All-in-one platforms where hosting, design tools and updates are handled for you</td><td>Simple brochure sites, portfolios, early-stage businesses</td></tr>
+<tr><td>Shopify</td><td>A hosted platform built specifically for selling online</td><td>Product businesses of most sizes</td></tr>
+<tr><td>WordPress (self-hosted)</td><td>Open-source software you install on hosting you choose</td><td>Content-heavy sites, service businesses wanting flexibility</td></tr>
+<tr><td>Custom build</td><td>A site developed specifically for your requirements</td><td>Unusual functionality, complex integrations, specific performance needs</td></tr>
+</tbody>
+</table>
+
+<h2>Where hosted builders shine</h2>
+<ul>
+<li><strong>Speed to launch.</strong> Templates and drag-and-drop editors make it possible to publish quickly.</li>
+<li><strong>Low maintenance.</strong> Security, hosting and software updates are the platform's job.</li>
+<li><strong>Predictable running costs.</strong> A subscription covers most of what you need.</li>
+<li><strong>Easy editing.</strong> Non-technical owners can usually change text and images themselves.</li>
+</ul>
+
+<h2>Where builders can hold you back</h2>
+<ul>
+<li>Design and functionality are limited to what the platform allows</li>
+<li>Moving to another platform later can mean rebuilding rather than exporting cleanly</li>
+<li>Some technical SEO settings and performance tweaks may be restricted</li>
+<li>Adding many third-party apps can raise costs and slow pages</li>
+<li>You are dependent on the platform's pricing and policy decisions</li>
+</ul>
+<p>If you are already feeling these limits, our <a href="/blog/wix-to-wordpress-migration/">Wix to WordPress migration guide</a> covers what moving involves.</p>
+
+<h2>Shopify: a builder with a specialism</h2>
+<p>Shopify sits between the two worlds. It is hosted and handles the technical basics, but it is built around selling, with mature checkout, inventory and app support. For product businesses it is often the sensible default. Content-heavy sites with only a few products, or service businesses with no shop at all, may find it less natural. Our <a href="/sectors/ecommerce/">ecommerce sector page</a> has more on how we approach online shops.</p>
+
+<h2>WordPress: flexibility with responsibility</h2>
+<p>Self-hosted WordPress gives you a huge choice of themes and plugins, full control over content and structure, and the ability to move hosts. The trade-off is responsibility: someone needs to keep the core software, theme and plugins updated, manage backups and choose decent hosting. Neglected WordPress sites become slow and vulnerable. Our guides to <a href="/blog/wordpress-small-business-website/">WordPress for small businesses</a> and <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> explain what good looks like.</p>
+
+<h2>Custom builds</h2>
+<p>A custom site makes sense when off-the-shelf tools genuinely cannot do the job: booking systems with unusual rules, client portals, deep integrations with internal systems or very specific performance requirements. It offers the most freedom but usually needs ongoing developer involvement for changes. Be wary of choosing custom just for the sake of it.</p>
+
+<h2>Think about total cost of ownership</h2>
+<p>The cheapest option at launch is not always the cheapest over three years. When comparing, consider:</p>
+<ul>
+<li>Subscription or hosting fees</li>
+<li>Paid themes, apps, plugins and their renewals</li>
+<li>Transaction or payment fees for online shops</li>
+<li>Time spent on maintenance, or the cost of paying someone</li>
+<li>The cost of rebuilding if you outgrow the platform</li>
+</ul>
+<p>For budgeting, see our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a>, <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> and <a href="/pricing/">pricing page</a>.</p>
+
+<h2>What about SEO?</h2>
+<p>All of the major platforms can support sites that rank well. Content quality, structure, speed and links usually matter more than the platform itself. That said, platforms differ in how much control they give over URLs, redirects, structured data and performance, which matters more as a site grows. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the kinds of things worth being able to control.</p>
+
+<h2>Questions to help you decide</h2>
+<ol>
+<li>Will you sell products online, now or soon?</li>
+<li>Who will update the site, and how technical are they?</li>
+<li>How much content do you plan to publish?</li>
+<li>Do you need integrations with booking, CRM or stock systems?</li>
+<li>Who will handle updates, security and backups?</li>
+<li>What happens if you want to move platform in a few years?</li>
+</ol>
+
+<h2>Three example scenarios</h2>
+<p>These are illustrations rather than real clients, to show how the questions above play out.</p>
+<p><strong>A sole trader electrician</strong> who needs a few pages explaining services, the areas covered and a contact form, and who wants to update it occasionally. A hosted builder or a lean WordPress site would both be reasonable. The deciding factor is often who will maintain it.</p>
+<p><strong>A homeware brand</strong> selling a growing range of products, with plans for wholesale customers and email marketing. Shopify is usually the natural fit here, because the shop is the business and the platform is built for it.</p>
+<p><strong>A consultancy</strong> publishing regular articles, case studies and team profiles, with enquiries routed into a CRM. Self-hosted WordPress often suits this kind of content-led site, provided someone looks after updates and hosting.</p>
+<p>A business with unusual requirements, such as a booking system with complex availability rules tied into internal software, might be the one where a custom build genuinely earns its cost.</p>
+
+<h2>Editing experience and day-to-day use</h2>
+<p>The person who will use the site most after launch is often not the person who chose the platform. Before committing, ask for a look at the editing screens. Can your team add a blog post, change an opening time or swap a photo without help? Hosted builders tend to make this simple but restrict what can be changed. WordPress can be set up to be very straightforward, but a cluttered installation with dozens of plugins can be confusing. Shopify's admin is built around products and orders, which suits shop staff but can feel less natural for content pages. A custom site's editing experience depends entirely on how it was built, so ask to see it.</p>
+
+<h2>Growth and integrations</h2>
+<p>Think about the systems your website may need to talk to as the business grows: email marketing, booking tools, accounting software, stock management, a CRM or a marketplace feed. Popular platforms usually offer ready-made connections for common tools, while unusual systems may need custom work. If a particular integration is essential, check it works on the platform you are considering before you build, not after.</p>
+
+<h2>Security and responsibility</h2>
+<p>On hosted platforms, the provider handles the underlying security and updates, although you remain responsible for strong passwords, staff access and any apps you add. On self-hosted WordPress or a custom build, responsibility for updates, backups and monitoring sits with you or whoever you pay to look after the site. Neither approach is automatically safer; what matters is that someone is clearly responsible. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what ongoing care involves.</p>
+
+<h2>Red flags when getting advice</h2>
+<p>Be cautious if a supplier recommends one platform for every client regardless of their needs, cannot explain the ongoing costs, or proposes a setup where they control your domain and you cannot access the admin area. Equally, be wary of anyone who dismisses all builders out of hand. Good advice starts with what your business needs and explains the trade-offs honestly.</p>
+
+<h2>Ownership, whatever you pick</h2>
+<p>Register your domain separately in the business's name, keep admin logins in your control and check how you would export content if you ever left. These steps protect you regardless of platform.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We build on WordPress and Shopify, and recommend based on what a business actually needs rather than a fixed preference. Learn more about our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Is a website builder good enough for a small business?</h3>
+<p>For many simple sites, yes. If you need a few pages, a contact form and easy editing, a hosted builder can be a sensible choice. Think about whether your needs are likely to grow.</p>
+<h3>Can I move from a website builder to WordPress or Shopify later?</h3>
+<p>Usually, but it often means rebuilding the design and moving content manually, plus setting up redirects to protect search visibility.</p>
+<h3>Which platform is best for SEO?</h3>
+<p>No single platform guarantees rankings. Content, structure and speed matter most, though some platforms give more technical control than others.</p>
+<h3>Is WordPress free?</h3>
+<p>The software is free, but you pay for hosting, and often for premium themes, plugins and maintenance.</p>
+<h3>When is a custom website worth it?</h3>
+<p>When your requirements genuinely cannot be met by existing platforms and plugins, and you are prepared for ongoing development support.</p>
+`,
+  },
+  {
+    slug: 'website-copywriting-uk',
+    seoTitle: 'Website Copywriting UK: Writing Pages That Get Enquiries',
+    title: 'Website Copywriting for UK Businesses: How to Write Pages People Act On',
+    description: 'How to write website copy that is clear, credible and easy to act on: home pages, service pages, product copy, calls to action and writing for search.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/seo-for-small-business-uk/', '/pricing/'],
+    body: `
+<p>Design gets most of the attention in a website project, but words do most of the persuading. A visitor decides within moments whether a page is for them, and they decide that by reading the headline, scanning the subheadings and looking for an answer to their question. If the copy is vague, the best design in the world will not rescue it.</p>
+<p>Prism Works Studio is a UK web design, ecommerce and digital marketing agency working remotely with businesses across the country. This guide is for owners and marketers who are writing their own website copy or briefing someone else to do it.</p>
+
+<h2>Write for one reader at a time</h2>
+<p>Before writing a word, describe the person most likely to land on the page. What have they just searched for? What are they worried about? What would make them pick up the phone or add something to the basket? Copy written for "everyone" tends to say very little to anyone.</p>
+<p>A useful test is to replace your company name with a competitor's. If the page still reads as true, it is too generic. Look for the details that are genuinely yours: the area you cover, the way you work, the type of customer you suit best.</p>
+
+<h2>Give every page one job</h2>
+<table>
+<thead><tr><th>Page</th><th>Its main job</th></tr></thead>
+<tbody>
+<tr><td>Home page</td><td>Confirm quickly what you do and who for, then route people to the right place</td></tr>
+<tr><td>Service page</td><td>Explain one service clearly enough that a suitable buyer gets in touch</td></tr>
+<tr><td>Product page</td><td>Answer the questions that stop someone buying</td></tr>
+<tr><td>About page</td><td>Show who is behind the business and why it can be trusted</td></tr>
+<tr><td>Contact page</td><td>Make getting in touch easy and set expectations about what happens next</td></tr>
+</tbody>
+</table>
+<p>When a page tries to do everything, it usually does nothing well. Split topics into their own pages and link between them.</p>
+
+<h2>Headlines that say something</h2>
+<p>"Welcome to our website" and "Excellence in everything we do" waste the most valuable space on the page. A good headline tells a visitor what you offer and, ideally, who it is for. Compare "Quality solutions for your business" with "Bookkeeping for sole traders and small limited companies". The second is less grand and far more useful.</p>
+<p>Subheadings matter almost as much, because many people scan a page by reading only those. Read your subheadings in isolation. If they tell the story of the page, you are on the right track.</p>
+
+<h2>Features, benefits and proof</h2>
+<p>Features describe what something is. Benefits describe what it means for the customer. Both have a place. "Same-day dispatch on orders before 2pm" is a feature; "Order this morning, have it by the weekend" turns it into something the reader can picture. Make sure any benefit you describe is genuinely true for your business.</p>
+<p>Proof is what makes a claim believable. That might be real reviews, case studies you have permission to share, qualifications, or simply a clear explanation of how you work. Never invent testimonials, figures or results. Readers are good at spotting hollow claims, and in regulated sectors it can create real problems.</p>
+
+<h2>Calls to action</h2>
+<p>Every page should make the next step obvious. Clear buttons such as "Book a consultation", "Request a quote" or "Add to basket" usually work better than vague ones like "Submit" or "Learn more". Tell people what happens after they click: who will reply, roughly when, and whether there is any obligation. Uncertainty at that moment puts people off.</p>
+
+<h2>Writing product copy for online shops</h2>
+<p>Manufacturer descriptions copied across many retailers give a shopper no reason to buy from you and give search engines no reason to rank your page. Write your own, covering:</p>
+<ul>
+<li>What the product is and who it suits</li>
+<li>Sizes, materials, dimensions and compatibility, in a scannable format</li>
+<li>Care, delivery and returns information close to the buy button</li>
+<li>Answers to the questions customers actually ask you</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers other ways product pages can work harder.</p>
+
+<h2>Copy and search</h2>
+<p>Search-friendly copy is mostly clear copy. Use the words your customers use, give each page a distinct topic, write a descriptive title and meta description, and answer questions directly. Stuffing in the same phrase over and over reads badly and does not help. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses</a> explains how pages and search fit together.</p>
+
+<h2>Tone of voice</h2>
+<p>Decide how you want to sound and stay consistent. A solicitor and a skate shop should not sound alike. Whatever the tone, plain English almost always wins: short sentences, everyday words, active verbs. Spell out anything a newcomer might not know, and cut jargon unless your audience genuinely uses it.</p>
+<p>UK businesses should also write for a UK reader. That means UK spelling, prices in pounds and references that make sense here.</p>
+
+<h2>Editing your draft</h2>
+<ul>
+<li>Cut the first paragraph and see if the page reads better without it. It often does.</li>
+<li>Remove words such as "very", "leading", "world-class" and "innovative" unless you can prove them.</li>
+<li>Read it aloud. Anything you stumble over needs rewriting.</li>
+<li>Check it on a phone, where long paragraphs look like walls of text.</li>
+<li>Ask someone outside the business what they think you do after reading it.</li>
+</ul>
+
+<h2>Answering objections before they are asked</h2>
+<p>Every buyer has doubts. Will it fit? How long will it take? What if I am not happy? Is this business too big or too small for me? Good copy anticipates those questions and answers them on the page, rather than leaving the visitor to email and ask, or more likely to leave. Look through your inbox and call notes for the questions customers ask most often, and make sure each one has a clear answer somewhere on the relevant page. An FAQ section can help, but the most important answers deserve a place in the main copy.</p>
+
+<h2>About pages that earn trust</h2>
+<p>The about page is often one of the most visited pages on a small business site, and one of the weakest. Rather than a history lesson or a list of values, tell visitors who runs the business, what experience they bring, how you work and what kind of customer you suit. Real photos help. If you are a small team, say so with confidence; many customers actively prefer dealing with the owner.</p>
+
+<h2>Microcopy matters</h2>
+<p>Small pieces of text, such as button labels, form hints, error messages and confirmation screens, shape how a site feels to use. An error message that says "Invalid input" is less helpful than one that says "Please enter a UK postcode, for example SW1A 1AA". A form that explains why you need a phone number is more likely to get one. These details are easy to overlook and quick to improve.</p>
+
+<h2>Plan copy before design</h2>
+<p>Many website projects design pages first and then try to squeeze words into the boxes. It usually works better the other way round: decide what each page needs to say, then design around it. If you are planning a new site, write or at least outline the key pages early. Our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a> covers how content affects a project.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>When we build sites as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development work</a>, we look at structure and wording alongside design. Exactly what is included is agreed per project, and you remain the expert on your business, so we work from information you provide rather than inventing claims. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How long should a service page be?</h3>
+<p>Long enough to answer the questions a serious buyer has, and no longer. For many services that means several sections covering who it is for, what is involved and how to start.</p>
+<h3>Should I write my own website copy?</h3>
+<p>You know your business best, so your input is essential either way. Some owners write a draft and have it edited; others brief a writer. What matters is that the final copy is clear and accurate.</p>
+<h3>Can I use AI tools to write website copy?</h3>
+<p>They can help with drafts, but check every fact and claim, add genuine detail about your business and edit for tone. Generic, unchecked text rarely persuades anyone.</p>
+<h3>How often should website copy be updated?</h3>
+<p>Whenever your services, prices, team or processes change, and review key pages periodically to make sure they still reflect how you work.</p>
+<h3>Does copy affect search rankings?</h3>
+<p>Yes. Search engines need text to understand what a page is about, and helpful, specific pages tend to perform better than thin or duplicated ones.</p>
+`,
+  },
 ];
