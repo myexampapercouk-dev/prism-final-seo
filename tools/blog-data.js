@@ -16233,4 +16233,618 @@ module.exports = [
 <p>Watch a few people try to complete common tasks, review site search terms, and look for pages with unexpectedly low traffic that should be popular.</p>
 `,
   },
+  {
+    slug: 'about-us-page-writing',
+    seoTitle: 'How to Write an About Us Page for Your Business',
+    title: 'How to Write an About Us Page That Builds Trust and Encourages Enquiries',
+    description: 'How to write an about us page for a UK business website: what to include, how to structure it, tone, photos and calls to action, plus common mistakes to avoid.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-copywriting-uk/', '/blog/tone-of-voice-guide-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The about page is often an afterthought on business websites: a few lines of history, a vague mission statement and a stock photo. Yet visitors who click "About" are usually weighing you up. They want to know who is behind the business, whether you understand their needs and whether you seem trustworthy. A well-written about page answers those questions and moves them closer to getting in touch.</p>
+<p>This guide explains what to include on an about us page, how to structure it and how to write it in a way that feels genuine.</p>
+
+<h2>What is an about page for?</h2>
+<p>An about page has three main jobs:</p>
+<ul>
+<li><strong>Build trust</strong> by showing there are real people and a real business behind the site.</li>
+<li><strong>Show fit</strong> by explaining who you help and how you work, so the right visitors recognise themselves.</li>
+<li><strong>Encourage action</strong> by guiding interested visitors to the next step.</li>
+</ul>
+<p>Keep these in mind and it becomes easier to decide what belongs on the page and what does not.</p>
+
+<h2>Write for the reader, not about yourself</h2>
+<p>It sounds contradictory, but the best about pages focus on the customer. Instead of opening with when the business was founded, open with who you help and the problem you solve. Then use your story, values and people as evidence for why you are well placed to help.</p>
+<p>A simple test: for each paragraph, ask "why would a customer care about this?" If there is no good answer, cut it or reframe it.</p>
+
+<h2>What to include</h2>
+<p>Not every section suits every business, but most about pages benefit from some of the following:</p>
+<ul>
+<li><strong>A clear opening statement</strong> summarising what you do, for whom and where.</li>
+<li><strong>Your story,</strong> briefly: why the business exists and what drives it. Keep it relevant.</li>
+<li><strong>How you work:</strong> your approach and what customers can expect, described honestly.</li>
+<li><strong>Who you work with:</strong> the types of customers or sectors you serve.</li>
+<li><strong>Your people,</strong> if appropriate: names, roles and real photos of the team, with their agreement.</li>
+<li><strong>Values</strong> expressed through specifics rather than buzzwords.</li>
+<li><strong>Proof:</strong> genuine reviews, credentials you hold or links to case studies, where you have them.</li>
+<li><strong>A call to action</strong> pointing to your services or contact page.</li>
+</ul>
+
+<h2>Be specific and honest</h2>
+<p>Phrases like "passionate about excellence" or "customer-focused solutions" appear on countless websites and tell the reader very little. Specifics are more convincing. Rather than saying you value communication, explain how you keep customers updated. Rather than claiming to be the best, describe what you actually do well.</p>
+<p>Avoid inflating your size or experience. If you are a small team or work remotely, say so plainly and explain how that suits customers. Never invent awards, team members, client names or results. Visitors increasingly check claims, and being found out can undo any trust the page has built.</p>
+
+<h2>Find the right tone</h2>
+<p>Your about page should sound like your business. A law firm might be measured and reassuring; a creative studio might be more relaxed. Whatever the tone, write in plain English, use "we" and "you" naturally and read it aloud to check it sounds human. If you have defined a tone of voice, apply it here. Our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> explains how.</p>
+
+<h2>Use real photos</h2>
+<p>Real photos of your team, premises or work are one of the quickest ways to make an about page feel genuine. They do not need to be elaborate, but they should be well lit and reasonably consistent. Generic stock images of people shaking hands rarely add anything. Add descriptive alt text and keep image files a sensible size so the page stays fast; our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains why that matters.</p>
+
+<h2>Structure the page for scanning</h2>
+<p>Many visitors skim. Help them by using clear headings, short paragraphs and a logical order. A common structure is:</p>
+<ol>
+<li>Headline and short summary of who you help.</li>
+<li>Your approach or what makes you different.</li>
+<li>Your story and values.</li>
+<li>Team, if relevant.</li>
+<li>Proof, such as reviews or credentials.</li>
+<li>Call to action.</li>
+</ol>
+<p>This is a starting point rather than a rule; adapt it to what your visitors most want to know.</p>
+
+<h2>Do not forget SEO</h2>
+<p>About pages are not usually major search landing pages, but they still matter. Give the page a descriptive title and meta description, mention what you do and the areas you serve naturally, and link to your key service pages. Clear, consistent information about your business also helps search engines and AI tools understand who you are. Our <a href="/blog/what-is-generative-engine-optimisation/">guide to generative engine optimisation</a> explains why consistency matters.</p>
+
+<h2>Writing your story without rambling</h2>
+<p>Every business has a story, but not every detail of it belongs on the website. A useful approach is to pick the parts that explain why you do things the way you do. Perhaps you started the business because you saw customers being poorly served, or because you wanted to specialise in a particular area. Those details help visitors understand your motivation and approach.</p>
+<p>Keep it short. A few sentences or a couple of short paragraphs is usually enough. Leave out long lists of dates, every previous job or internal milestones that matter more to you than to customers. If you have a longer history worth telling, consider a separate page and link to it.</p>
+
+<h2>Turning values into something meaningful</h2>
+<p>Many about pages list values such as honesty, quality and integrity. Few customers would expect a business to claim the opposite, so these words alone rarely persuade. To make values meaningful, connect each one to something concrete:</p>
+<ul>
+<li>If you value transparency, explain how you share pricing or progress with customers.</li>
+<li>If you value quality, describe the checks or standards you apply.</li>
+<li>If you value sustainability, explain the specific choices you make, and avoid vague environmental claims you cannot support.</li>
+</ul>
+<p>Two or three values explained well are usually more convincing than a long list of single words.</p>
+
+<h2>Featuring your team</h2>
+<p>Showing the people behind a business can make it feel more approachable, especially for service businesses where customers will deal with individuals directly. If you include a team section, consider:</p>
+<ul>
+<li>Getting each person's agreement before publishing their name, photo or biography.</li>
+<li>Keeping biographies short and relevant to how each person helps customers.</li>
+<li>Using photos taken in a consistent style, so the section looks cohesive.</li>
+<li>Updating the section promptly when people join or leave.</li>
+</ul>
+<p>Not every business needs a team section. A sole trader might write in the first person, while some organisations prefer to keep the focus on the business. Choose what feels honest and comfortable.</p>
+
+<h2>Linking the about page to the rest of your site</h2>
+<p>The about page should not be a dead end. Link from it to your main services, relevant examples of work and your contact page. Equally, link to the about page from places where visitors are likely to want reassurance, such as the footer and service pages. This helps visitors move naturally from "who are these people?" to "how can they help me?".</p>
+
+<h2>Reviewing and updating the page</h2>
+<p>An about page that describes services you no longer offer or people who have left can quietly undermine trust. Set a reminder to review it periodically, and whenever something significant changes in the business. Check that facts are accurate, photos are current and links still work.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Opening with company history no one asked for.</li>
+<li>Relying on generic buzzwords instead of specifics.</li>
+<li>Using stock photos instead of real ones.</li>
+<li>Exaggerating size, experience or credentials.</li>
+<li>Ending without a clear next step.</li>
+<li>Never updating the page as the business changes.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK businesses plan website content, including about pages, as part of website projects, working remotely across the UK, with scope agreed with you. Read our <a href="/blog/website-copywriting-uk/">website copywriting guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How long should an about us page be?</h3>
+<p>Long enough to answer the questions visitors have about who you are and how you work. For many small businesses, a few well-structured sections is plenty.</p>
+<h3>Should I include team photos on my about page?</h3>
+<p>Where appropriate, yes. Real photos help visitors connect with the people behind the business. Always get team members' agreement first.</p>
+<h3>Should an about page be written in first or third person?</h3>
+<p>Most businesses use "we" and "you", which feels direct and personal. Third person can feel distant, but suits some formal contexts.</p>
+<h3>What should I put on an about page if my business is new?</h3>
+<p>Focus on why you started, who you want to help, how you work and any relevant background. Honest enthusiasm is better than inflated claims.</p>
+<h3>Does an about page help SEO?</h3>
+<p>It plays a supporting role. It reinforces what your business does, links to key pages and helps establish clear information about who you are.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-site-search',
+    seoTitle: 'Ecommerce Site Search: Helping Shoppers Find Products',
+    title: 'Ecommerce Site Search: How to Help Shoppers Find the Right Products Faster',
+    description: 'A UK guide to ecommerce site search: search bar design, autocomplete, synonyms, filters, zero-results pages and using search data to improve your online shop.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-website-design-uk/', '/blog/ecommerce-category-page-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>For many online shops, the search bar is one of the most important features on the site. Shoppers who search usually have something specific in mind, which makes them valuable visitors. Yet site search is often left on default settings, returning irrelevant results, failing on simple misspellings or showing a blank "no results" page. Improving it can make the shop easier to use without changing anything else.</p>
+<p>This guide explains what good ecommerce site search looks like, how to improve relevance, how to handle zero-results searches and how to use search data to improve your shop.</p>
+
+<h2>Why site search matters</h2>
+<p>Navigation suits shoppers who want to browse. Search suits those who know what they want, or who do not want to work out how your categories are organised. If search fails, these shoppers may assume you do not stock the product and leave. For shops with large or varied catalogues, search can be the main route to products. Our <a href="/blog/website-navigation-structure/">website navigation guide</a> covers the browsing side.</p>
+
+<h2>Make the search bar easy to find and use</h2>
+<ul>
+<li>Place search where shoppers expect it, typically in the header.</li>
+<li>On larger catalogues, consider showing a visible search box rather than hiding it behind an icon.</li>
+<li>On mobile, make sure search is easy to reach and the box is large enough to tap and type into. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> has more on this.</li>
+<li>Use helpful placeholder text, such as an example of what can be searched.</li>
+</ul>
+
+<h2>Autocomplete and suggestions</h2>
+<p>Autocomplete suggests search terms, categories or products as the shopper types. Done well, it speeds up searching, corrects spelling before the search is submitted and helps shoppers discover the language your shop uses. Showing product images and prices in suggestions can let shoppers go straight to the right product. Keep suggestions relevant and quick; slow or cluttered autocomplete can be more frustrating than none.</p>
+
+<h2>Improve relevance</h2>
+<p>Relevance is about showing the products a shopper most likely wants first. Common improvements include:</p>
+<ul>
+<li><strong>Typo tolerance:</strong> returning sensible results for minor misspellings.</li>
+<li><strong>Synonyms:</strong> mapping terms customers use to those in your catalogue, such as "sofa" and "settee" or "trainers" and "sneakers".</li>
+<li><strong>Plurals and variations:</strong> treating "dress" and "dresses" the same way.</li>
+<li><strong>Attribute search:</strong> understanding queries that include colour, size, material or brand, such as "black leather boots".</li>
+<li><strong>Product codes:</strong> letting trade or repeat customers search by SKU or part number.</li>
+<li><strong>Merchandising rules:</strong> promoting in-stock or relevant products and demoting out-of-stock items where appropriate.</li>
+</ul>
+<p>How much of this is possible depends on your platform. Built-in search on Shopify, WooCommerce and other platforms varies in capability, and dedicated search apps or plugins can add more advanced features. The right choice depends on catalogue size, budget and how important search is to your customers.</p>
+
+<h2>Good product data makes search work</h2>
+<p>Search can only match what is in your product data. Clear product titles, accurate descriptions, consistent attributes and well-organised tags all improve results. If products are missing colours, sizes or materials as structured data, attribute searches and filters will struggle. Tidying product data often improves search, filtering and SEO at the same time. Our <a href="/blog/product-page-seo-uk/">product page SEO guide</a> covers writing product content.</p>
+
+<h2>Design the results page</h2>
+<p>A search results page should work much like a good category page:</p>
+<ul>
+<li>Show the search term clearly and the number of results.</li>
+<li>Offer relevant filters and sorting options.</li>
+<li>Display product images, names, prices and availability clearly.</li>
+<li>Show matching categories or content where helpful, such as size guides.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-category-page-design/">ecommerce category page design guide</a> covers filters and product grids in more detail.</p>
+
+<h2>Never leave a dead end</h2>
+<p>Zero-results pages are where many search journeys fail. Rather than a blank message, help the shopper continue:</p>
+<ul>
+<li>Suggest corrected spellings or related terms.</li>
+<li>Show popular products or categories.</li>
+<li>Offer a way to contact you if they cannot find what they need.</li>
+</ul>
+<p>Then review zero-results searches regularly. They often reveal missing synonyms, products you could stock or terms your catalogue does not use.</p>
+
+<h2>Use search data</h2>
+<p>What shoppers type into your search box is direct insight into what they want, in their own words. Review popular searches, searches with no results and searches followed by an exit. You can track site search in GA4; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics. Insights can feed into navigation, product ranges, content and keyword research for SEO.</p>
+
+<h2>Search on mobile</h2>
+<p>Mobile shoppers often rely on search more than desktop shoppers, because browsing deep menus on a small screen is fiddly. A few points matter particularly on mobile:</p>
+<ul>
+<li>Make the search icon or box clearly visible in the header, not tucked inside a menu.</li>
+<li>Open a full-width search field with the keyboard ready when search is tapped.</li>
+<li>Keep autocomplete suggestions large enough to tap accurately.</li>
+<li>Make filters easy to open, apply and clear on the results page.</li>
+<li>Remember recent searches where your platform supports it, so shoppers can return quickly.</li>
+</ul>
+<p>Test search on real phones, not just a resized desktop browser, as keyboard behaviour and tap targets can differ.</p>
+
+<h2>Search and SEO</h2>
+<p>Internal search results pages are generally best kept out of search engine indexes, as they can create large numbers of thin, near-duplicate pages. Platforms often handle this by default, but it is worth checking. Instead, use what you learn from search terms to improve indexable pages: if many shoppers search for a type of product you group under a broader category, a dedicated, well-written category page may serve them and search engines better. Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> covers related technical points.</p>
+
+<h2>Searching beyond products</h2>
+<p>Shoppers do not only search for products. They may also look for delivery information, returns, size guides, care instructions or your contact details. If search returns only products, these visitors may assume the information does not exist. Consider whether your search can include help pages, blog articles or guides, either mixed into results or shown in a separate section. This can reduce customer service queries and keep shoppers on the site.</p>
+
+<h2>Choosing a search solution</h2>
+<p>When deciding whether built-in search is enough or a dedicated search tool is worth considering, think about:</p>
+<ul>
+<li><strong>Catalogue size and complexity:</strong> a few dozen products may need little more than basic search; thousands of products with many variants usually benefit from more.</li>
+<li><strong>How customers search:</strong> by product name, by problem, by code or by attributes such as size and colour.</li>
+<li><strong>Merchandising needs:</strong> whether you want control over which products appear first for key terms.</li>
+<li><strong>Performance:</strong> search scripts can add weight, so check the effect on page speed.</li>
+<li><strong>Ongoing effort:</strong> synonym lists and rules need maintenance to stay useful.</li>
+<li><strong>Cost:</strong> many tools charge ongoing fees, sometimes based on catalogue size or search volume.</li>
+</ul>
+<p>Before switching, it is often worth fixing product data and testing what the existing search can already do with better configuration.</p>
+
+<h2>Testing and improving over time</h2>
+<p>Site search is not a set-and-forget feature. Products change, seasons change and customers use new terms. A simple routine might include reviewing top searches and zero-results searches monthly, adding synonyms for common mismatches, checking that new products appear for the expected terms and testing search after any theme or platform update. Small, regular adjustments tend to keep search useful.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Leaving search on default settings and never testing it.</li>
+<li>Hiding the search bar on mobile.</li>
+<li>Returning nothing for small misspellings.</li>
+<li>Showing a blank zero-results page.</li>
+<li>Ignoring search data.</li>
+<li>Expecting search to fix poor product data.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds online shops for UK businesses, working remotely across the UK. We can review how search works on your shop, talk through platform and app options and help improve product data and results pages, with scope agreed with you. Read our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does my online shop need advanced search?</h3>
+<p>Not always. Small catalogues may work well with built-in search. Larger or more complex catalogues often benefit from more advanced features such as typo tolerance and synonyms.</p>
+<h3>What is a zero-results search?</h3>
+<p>A search that returns no products. These are worth reviewing, as they often reveal missing synonyms, spelling issues or products customers want.</p>
+<h3>Can site search data help SEO?</h3>
+<p>Yes. The terms shoppers search for on your site can inform keyword research, category planning and content ideas.</p>
+<h3>Should out-of-stock products appear in search results?</h3>
+<p>It depends. Some shops show them lower down with clear availability; others hide them. Consider what is most helpful to your customers.</p>
+<h3>How do I test my site search?</h3>
+<p>Try common queries, misspellings, synonyms and attribute searches yourself, and review real search terms from your analytics.</p>
+`,
+  },
+  {
+    slug: 'service-page-design',
+    seoTitle: 'Service Page Design: Pages That Turn Visitors Into Leads',
+    title: 'Service Page Design: How to Structure Service Pages That Explain, Reassure and Convert',
+    description: 'How to design and structure service pages for a UK business website: headlines, content, proof, FAQs, calls to action and SEO so visitors become enquiries.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-copywriting-uk/', '/blog/landing-page-design-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>For most service businesses, service pages do the heavy lifting. They are often where visitors land from search, where they decide whether you can help and where they choose to get in touch or leave. Yet many websites list every service on one page, or give each service a few vague lines. A well-structured service page explains the offer clearly, answers common questions and makes the next step obvious.</p>
+<p>This guide explains how to plan, structure and design service pages that work for visitors and search engines.</p>
+
+<h2>One service, one page</h2>
+<p>Giving each main service its own page has two benefits. Visitors can find detailed information about exactly what they need, and search engines can understand and rank each page for the searches it is relevant to. A single page listing every service rarely does either well.</p>
+<p>That does not mean creating a page for every minor variation. Group closely related offerings where it makes sense, and keep a services overview page that links to each one. Our <a href="/blog/website-navigation-structure/">website navigation guide</a> explains how to organise this.</p>
+
+<h2>What a service page needs to answer</h2>
+<p>Visitors arriving on a service page usually have a handful of questions. A good page answers them in a sensible order:</p>
+<ol>
+<li><strong>What is it?</strong> A clear description of the service in plain English.</li>
+<li><strong>Who is it for?</strong> The types of customers or situations it suits.</li>
+<li><strong>What problem does it solve?</strong> The outcome the customer is looking for.</li>
+<li><strong>How does it work?</strong> What working with you involves, described honestly.</li>
+<li><strong>Why you?</strong> What makes your approach a good fit, supported by evidence.</li>
+<li><strong>What does it cost?</strong> Pricing, a pricing approach or a link to pricing information.</li>
+<li><strong>What next?</strong> A clear call to action.</li>
+</ol>
+
+<h2>Start with a clear headline and summary</h2>
+<p>The top of the page should confirm the visitor is in the right place. Use a headline that names the service plainly, followed by a short summary of who it helps and the outcome. Add a call to action near the top for visitors who are ready to act. Avoid clever wordplay that hides what you do.</p>
+
+<h2>Write content that informs and reassures</h2>
+<p>Write from the customer's perspective, in plain English. Explain what is involved without jargon, address common concerns and be honest about what the service does and does not include. Specifics build confidence: describing how you approach a project is more persuasive than claiming to be "results-driven". Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> covers writing techniques.</p>
+<p>Length should follow need. A simple service might be explained in a few short sections; a complex or high-value service may need more detail. Use headings, short paragraphs and lists so visitors can scan.</p>
+
+<h2>Show genuine proof</h2>
+<p>Evidence helps visitors believe what the page says. Relevant options include:</p>
+<ul>
+<li>Reviews or testimonials from real customers who used this service, with permission.</li>
+<li>Case studies or examples of relevant work, where you have the client's agreement.</li>
+<li>Credentials or accreditations you genuinely hold that relate to the service.</li>
+</ul>
+<p>Place proof near the points where visitors might hesitate. Never invent testimonials, results or credentials.</p>
+
+<h2>Include FAQs</h2>
+<p>An FAQ section answers remaining questions without cluttering the main content. Base it on questions customers actually ask, such as timescales, what you need from them, the areas you cover or how to get started. FAQs can also help search engines and AI tools understand the page. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains structured data options.</p>
+
+<h2>Make the next step obvious</h2>
+<p>Every service page should end with a clear call to action, and longer pages benefit from repeating it. Be specific about what happens: "Request a quote" or "Book a call" is clearer than "Submit". Explain what happens after someone gets in touch, and keep any form short. Our <a href="/blog/website-contact-forms/">website contact forms guide</a> covers form design.</p>
+
+<h2>Design considerations</h2>
+<ul>
+<li>Use a consistent template across service pages so visitors know where to find information.</li>
+<li>Give important content visual priority and keep the layout uncluttered.</li>
+<li>Use real images of your work or team where possible.</li>
+<li>Make sure pages work well on mobile, with tappable buttons and readable text.</li>
+<li>Keep pages fast by avoiding heavy sliders and oversized images.</li>
+</ul>
+
+<h2>SEO for service pages</h2>
+<p>Service pages are often your most important search landing pages. Research the terms customers use for each service, give each page a focused title and meta description, use descriptive headings and link between related services and supporting articles. If you serve specific locations, mention them naturally, and only create location pages with genuinely useful local content. Our <a href="/blog/professional-services-seo-uk/">professional services SEO guide</a> and <a href="/services/seo-geo/">SEO and GEO service</a> explain more.</p>
+
+<h2>Service pages versus landing pages</h2>
+<p>Service pages are permanent parts of your website, built to inform and rank. Landing pages are usually created for a specific campaign, such as paid ads, with a single focused goal. Both have a place. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> explains the differences.</p>
+
+<h2>A suggested service page structure</h2>
+<p>There is no single right layout, but the following order works for many service businesses and can be adapted:</p>
+<ol>
+<li><strong>Hero section:</strong> service name, a one or two sentence summary and a primary call to action.</li>
+<li><strong>The problem:</strong> a short section acknowledging the situation the customer is in.</li>
+<li><strong>The service:</strong> what you offer, what it covers and who it suits.</li>
+<li><strong>How it works:</strong> the stages of working together, described realistically.</li>
+<li><strong>Proof:</strong> relevant reviews, examples or credentials.</li>
+<li><strong>Pricing information:</strong> prices, a pricing approach or a link to a pricing page.</li>
+<li><strong>FAQs:</strong> answers to the questions customers commonly ask.</li>
+<li><strong>Final call to action:</strong> a clear invitation to get in touch, with reassurance about what happens next.</li>
+</ol>
+<p>Treat this as a framework. If your customers' biggest question is price, bring pricing information higher up. If trust is the main barrier, move proof closer to the top.</p>
+
+<h2>Explaining how you work without overpromising</h2>
+<p>Describing how a service works helps visitors picture working with you. Keep it accurate. Only describe stages you genuinely follow, avoid promising fixed timescales or outcomes you cannot guarantee and be clear where things vary from customer to customer. If the scope of a service depends on the customer's needs, say so. Honest descriptions reduce mismatched expectations later and help the right customers self-select.</p>
+
+<h2>Writing for different visitors</h2>
+<p>Service pages are read by different kinds of visitor. Some are researching and want detail. Others have already decided and want to act. Some are comparing providers. Good pages serve all of them by putting a call to action near the top for those ready to act, detailed content in the middle for researchers and clear differentiators and proof for comparers. Scannable headings let each type of visitor jump to what they need.</p>
+
+<h2>Supporting service pages with other content</h2>
+<p>Service pages work best as part of a wider set of content. Blog articles that answer common questions can link to the relevant service page, while the service page can link to those articles for readers who want more depth. This helps visitors and search engines understand how your content fits together. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> explains how to plan this.</p>
+
+<h2>Measuring how service pages perform</h2>
+<p>Once pages are live, check how they perform. Useful measures include how many visitors arrive on each page, where they come from, how many go on to enquire and where they leave. Set up conversion tracking for forms, calls and email clicks so you can see which pages generate enquiries. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the basics. Use what you learn to improve headlines, content and calls to action over time.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Listing every service on one page.</li>
+<li>Using vague headlines and jargon.</li>
+<li>Describing features without explaining outcomes.</li>
+<li>Offering no proof or using invented testimonials.</li>
+<li>Burying or omitting the call to action.</li>
+<li>Duplicating near-identical content across pages.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK service businesses, working remotely across the UK. We can help you plan service pages, structure content and design templates that make it easy for visitors to get in touch, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should each service have its own page?</h3>
+<p>Usually, yes, for each main service. It lets you explain the service properly and helps the page appear for relevant searches.</p>
+<h3>How long should a service page be?</h3>
+<p>Long enough to answer what visitors need to know. Simple services may need less; complex services usually need more detail.</p>
+<h3>Should I put prices on service pages?</h3>
+<p>It depends on your business. Showing prices or a pricing approach can help visitors, but some services need a quote. At least explain how pricing works.</p>
+<h3>What is the difference between a service page and a landing page?</h3>
+<p>Service pages are permanent pages built to inform and rank. Landing pages are often created for specific campaigns with a single goal.</p>
+<h3>Do service pages need FAQs?</h3>
+<p>They are not essential, but FAQs based on real customer questions can answer concerns and support search visibility.</p>
+`,
+  },
+  {
+    slug: 'website-image-optimisation',
+    seoTitle: 'Website Image Optimisation: Faster Pages, Better SEO',
+    title: 'Website Image Optimisation: How to Compress, Size and Describe Images for Speed and SEO',
+    description: 'A UK guide to website image optimisation: choosing formats, resizing, compression, lazy loading, alt text and file names for faster pages and search visibility.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-speed-optimisation-uk/', '/blog/core-web-vitals-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Images make websites more engaging, but they are also one of the most common reasons pages load slowly. A photo uploaded straight from a camera or phone can be far larger than it needs to be, and a page with several of them can feel sluggish, particularly on mobile connections. Optimising images is one of the most practical improvements most websites can make, and much of it can be done without specialist tools.</p>
+<p>This guide explains how to choose image formats, size and compress images, load them efficiently and describe them properly for accessibility and search.</p>
+
+<h2>Why image optimisation matters</h2>
+<ul>
+<li><strong>Speed:</strong> smaller image files mean pages load faster, which helps visitors stay.</li>
+<li><strong>Core Web Vitals:</strong> the largest element on many pages is an image, so it can directly affect Largest Contentful Paint. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains this metric.</li>
+<li><strong>Accessibility:</strong> alt text lets people using screen readers understand meaningful images.</li>
+<li><strong>Search visibility:</strong> well-described images can appear in image search and help search engines understand the page.</li>
+</ul>
+
+<h2>Choose the right format</h2>
+<p>Different formats suit different images:</p>
+<table>
+<thead><tr><th>Format</th><th>Typically suits</th></tr></thead>
+<tbody>
+<tr><td>JPEG</td><td>Photographs, where small losses in quality are not noticeable</td></tr>
+<tr><td>PNG</td><td>Graphics needing transparency or sharp edges, such as some logos and screenshots</td></tr>
+<tr><td>WebP</td><td>A modern format offering good compression for photos and graphics, widely supported by current browsers</td></tr>
+<tr><td>AVIF</td><td>A newer format that can compress further still; worth checking support on your platform</td></tr>
+<tr><td>SVG</td><td>Simple vector graphics such as icons and many logos, which scale without losing sharpness</td></tr>
+</tbody>
+</table>
+<p>Many platforms and content delivery networks can serve modern formats automatically. Check what your website platform does before converting files by hand.</p>
+
+<h2>Resize before you upload</h2>
+<p>A common problem is uploading an image several thousand pixels wide and displaying it in a space a fraction of that size. The browser still downloads the full file. Resize images to roughly the largest size they will actually be displayed at, allowing for high-resolution screens, before uploading.</p>
+<p>Responsive images go a step further by offering several sizes so each device downloads an appropriate one. Many platforms, including WordPress and Shopify, generate these automatically, but custom templates may need to be set up to use them properly.</p>
+
+<h2>Compress sensibly</h2>
+<p>Compression reduces file size. Lossy compression removes some detail and can shrink photos considerably with little visible difference; lossless compression keeps every detail but saves less. For most photographs, moderate lossy compression is a good balance. Check the result at normal viewing size, as over-compression can make images look blotchy, which undermines a professional impression, especially on product photos.</p>
+<p>Desktop tools, online services and platform plugins can all compress images. Whichever you use, keep your original high-quality files somewhere safe so you can re-export later.</p>
+
+<h2>Load images efficiently</h2>
+<ul>
+<li><strong>Lazy loading</strong> delays images further down the page until the visitor scrolls near them. Modern browsers support this natively.</li>
+<li><strong>Do not lazy load the main image</strong> at the top of the page, as this can delay it and hurt Largest Contentful Paint.</li>
+<li><strong>Set width and height</strong> attributes, or reserve space with CSS, so the layout does not jump as images load. This helps Cumulative Layout Shift.</li>
+<li><strong>Use a content delivery network</strong> where appropriate, so images are served from locations closer to visitors.</li>
+<li><strong>Be wary of large sliders and background videos,</strong> which can add significant weight for limited benefit.</li>
+</ul>
+
+<h2>Write useful alt text</h2>
+<p>Alt text describes an image for people who cannot see it and for search engines. Good alt text is concise and describes what matters about the image in context. For a product photo, that might be the product name, colour and angle. For decorative images that add no information, an empty alt attribute is usually appropriate so screen readers skip them.</p>
+<p>Avoid stuffing alt text with keywords; write for the person reading it. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers this in more depth.</p>
+
+<h2>Use descriptive file names</h2>
+<p>A file called <em>IMG_4821.jpg</em> tells search engines nothing. Rename files descriptively before uploading, using lowercase words separated by hyphens, such as <em>oak-dining-table-natural.jpg</em>. It is a small step, but it also keeps a media library organised.</p>
+
+<h2>Image optimisation for online shops</h2>
+<p>Ecommerce sites often have hundreds or thousands of images, so consistency matters. Agree standard dimensions, formats and naming conventions for product photography, and check that your platform generates responsive sizes. Zoom features may need larger files, so consider loading those only when requested. Our <a href="/blog/ecommerce-product-photography/">ecommerce product photography guide</a> covers capturing images, and our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a> covers platform-specific points.</p>
+
+<h2>Auditing existing images</h2>
+<p>To find problem images on an existing site, run key pages through a page speed testing tool, which will usually flag oversized or poorly compressed images. Prioritise templates used across many pages, such as product, category and blog templates, and your homepage, as fixes there have the widest effect.</p>
+
+<h2>Platform-specific considerations</h2>
+<p>How you optimise images depends partly on your website platform:</p>
+<ul>
+<li><strong>WordPress</strong> creates several sizes of each uploaded image and uses them for responsive images in many themes. Image optimisation plugins can compress uploads and convert to modern formats, but too many overlapping plugins can cause conflicts, so choose carefully. Our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers related performance points.</li>
+<li><strong>Shopify</strong> serves images through its own content delivery network and can deliver modern formats automatically, but themes still need to request appropriate sizes, and large uploads remain a common issue.</li>
+<li><strong>Website builders</strong> often handle compression automatically, with less control over the details. Uploading sensibly sized images still helps.</li>
+<li><strong>Custom builds</strong> give full control but require developers to set up responsive images, formats and lazy loading deliberately.</li>
+</ul>
+
+<h2>Building an image workflow</h2>
+<p>Optimising images once is useful; making it part of how content is published is better. A simple workflow might include:</p>
+<ol>
+<li>Keep original, high-quality files in a safe archive.</li>
+<li>Export a web version at an agreed maximum size for each type of image, such as blog headers, product photos or team photos.</li>
+<li>Compress the web version and check it looks right.</li>
+<li>Rename the file descriptively.</li>
+<li>Upload, then add alt text in the platform.</li>
+</ol>
+<p>Writing these steps down, with agreed dimensions, makes it easier for anyone updating the site to follow them. This is especially useful when several people add content, or when content is added infrequently and steps are easy to forget.</p>
+
+<h2>Image SEO beyond the basics</h2>
+<p>Alongside alt text and file names, a few other points help search engines understand your images:</p>
+<ul>
+<li>Place images near relevant text, so the context is clear.</li>
+<li>Use captions where they genuinely help readers.</li>
+<li>Make sure important images are not blocked from crawling.</li>
+<li>Consider including images in your XML sitemap if your platform supports it.</li>
+<li>Use original images where possible, as these can be more distinctive than widely used stock photos.</li>
+</ul>
+<p>Structured data for products can also include images, which may help them appear in shopping-related search features. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how this works.</p>
+
+<h2>Balancing quality and speed</h2>
+<p>Optimisation is a balance, not a race to the smallest possible file. A luxury brand or photographer may reasonably accept slightly larger files for higher visual quality, while an information-heavy site might prioritise speed. Test key pages on a typical mobile connection and judge whether images look good enough and load quickly enough for your visitors.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Uploading full-size camera images.</li>
+<li>Over-compressing product photos until they look poor.</li>
+<li>Lazy loading the hero image.</li>
+<li>Leaving alt text empty on meaningful images, or stuffing it with keywords.</li>
+<li>Using PNG for large photographs.</li>
+<li>Deleting original files after compressing them.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves websites and online shops for UK businesses, working remotely across the UK. We can review how images are handled on your site and recommend changes as part of a speed or website project, with scope agreed with you. Read our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a>, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What size should website images be?</h3>
+<p>There is no single answer. Aim to size images close to the largest dimensions they are displayed at, allowing for high-resolution screens, and let responsive images handle smaller devices.</p>
+<h3>Is WebP better than JPEG?</h3>
+<p>WebP often produces smaller files at similar quality and is widely supported. JPEG remains a reliable choice, and many platforms serve modern formats automatically.</p>
+<h3>Does image compression affect SEO?</h3>
+<p>Indirectly. Smaller images help pages load faster, which supports user experience and Core Web Vitals.</p>
+<h3>Should every image have alt text?</h3>
+<p>Meaningful images should. Purely decorative images can usually use an empty alt attribute so screen readers skip them.</p>
+<h3>What is lazy loading?</h3>
+<p>Lazy loading delays loading images until they are about to come into view, reducing the initial page weight. Avoid applying it to images visible as the page first loads.</p>
+`,
+  },
+  {
+    slug: 'website-trust-signals',
+    seoTitle: 'Website Trust Signals: Earning Visitor Confidence',
+    title: 'Website Trust Signals: How to Help Visitors Feel Confident Contacting or Buying From You',
+    description: 'A practical UK guide to website trust signals: contact details, reviews, policies, security, real photos and honest proof that help visitors feel confident.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-copywriting-uk/', '/pricing/'],
+    body: `
+<p>Before someone fills in a form or enters card details, they make a quick judgement: is this business real, and can I trust it? Most visitors will never tell you why they left, but missing or weak trust signals are a common reason people hesitate. Many of the most effective signals are simple, low-cost and entirely within your control.</p>
+<p>This guide explains what trust signals are, which ones matter most for UK service businesses and online shops, where to place them and what to avoid.</p>
+
+<h2>What are website trust signals?</h2>
+<p>Trust signals are any elements on a website that reassure visitors about who you are, how you work and what will happen if they get in touch or buy. Some are explicit, such as reviews or a returns policy. Others are implicit, such as a professional design, fast pages and accurate, up-to-date content. Together they reduce the perceived risk of taking the next step.</p>
+
+<h2>Show that you are a real business</h2>
+<p>The most basic question a visitor has is whether there is a genuine organisation behind the website. Help them answer it by including:</p>
+<ul>
+<li>A clear business name used consistently across the site.</li>
+<li>Contact details that are easy to find, such as an email address and phone number.</li>
+<li>Company information where it applies, such as a registered company name and number, often placed in the footer.</li>
+<li>An address if you have premises customers visit, or a clear explanation of how you work if you are remote.</li>
+<li>An about page that explains who you are honestly. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> covers writing this kind of content.</li>
+</ul>
+<p>Depending on your business type, UK law may require certain information to be shown on your website. Check what applies to you, and take advice if you are unsure.</p>
+
+<h2>Use genuine social proof</h2>
+<p>People are reassured when they can see that others have used you. Useful forms of social proof include:</p>
+<ul>
+<li><strong>Customer reviews,</strong> ideally from a recognised review platform or your Google Business Profile, so visitors can verify them.</li>
+<li><strong>Testimonials</strong> from real customers, used with their permission.</li>
+<li><strong>Case studies</strong> that describe real projects, with the client's agreement.</li>
+<li><strong>Client logos</strong> only where you have permission to display them.</li>
+</ul>
+<p>Never write testimonials yourself, edit reviews to change their meaning or selectively hide negative feedback. As well as damaging trust if discovered, fake or misleading reviews may fall foul of UK consumer protection law. A handful of honest reviews is worth more than a page of polished claims.</p>
+
+<h2>Display credentials you actually hold</h2>
+<p>Accreditations, memberships, regulatory registrations and qualifications can be strong signals, particularly in regulated sectors such as healthcare, finance or law. Only display the ones you genuinely hold, keep them current and, where possible, link to a page where visitors can verify them. Out-of-date or unverifiable badges can do more harm than good.</p>
+
+<h2>Be transparent about how things work</h2>
+<p>Uncertainty is a major cause of hesitation. Clear, accessible information reduces it:</p>
+<ul>
+<li>What happens after someone submits an enquiry, and roughly when they can expect to hear back.</li>
+<li>How pricing works, or where to find pricing information.</li>
+<li>For shops: delivery options, costs and timescales, returns and refunds, and accepted payment methods.</li>
+<li>Privacy information explaining how personal data is used.</li>
+<li>Terms and conditions where relevant.</li>
+</ul>
+<p>Make these easy to find rather than burying them. For ecommerce, showing delivery and returns information on product pages and in the basket, not just on a separate policy page, can help. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> looks at this in context.</p>
+
+<h2>Security and technical reassurance</h2>
+<p>Visitors notice when something feels technically off. Basic reassurance includes:</p>
+<ul>
+<li>HTTPS across the whole site, so browsers do not display security warnings.</li>
+<li>A reputable payment provider for online payments.</li>
+<li>No broken links, error pages or forms that fail silently.</li>
+<li>Fast, stable pages that work well on mobile.</li>
+</ul>
+<p>Be cautious with generic "secure" badges that do not relate to anything specific. Real signals, such as recognisable payment options at checkout, tend to be more meaningful. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers the performance side.</p>
+
+<h2>Design, content and consistency</h2>
+<p>Implicit signals matter as much as badges. A dated design, spelling mistakes, generic stock photos, a blog last updated years ago or a clearly out-of-date copyright year can all suggest a business that is not paying attention. Real photos of your team, premises or work, a consistent brand and accurate content all help. Our <a href="/blog/brand-identity-design-uk/">brand identity guide</a> explains how consistent branding supports credibility.</p>
+
+<h2>Where to place trust signals</h2>
+<p>Trust signals work best close to the moment of decision. Consider:</p>
+<ul>
+<li><strong>Homepage:</strong> a short summary of who you are, with a link to reviews or examples of work.</li>
+<li><strong>Service and product pages:</strong> relevant reviews, credentials and clear next steps.</li>
+<li><strong>Contact page and forms:</strong> reassurance about response times and how data will be used.</li>
+<li><strong>Basket and checkout:</strong> delivery, returns and payment information.</li>
+<li><strong>Footer:</strong> company details, policies and contact information on every page.</li>
+</ul>
+<p>Avoid cluttering pages with so many badges that they become noise. Choose the signals that answer the questions visitors are most likely to have at each point.</p>
+
+<h2>Trust signals for service businesses</h2>
+<p>For businesses selling services rather than products, the decision to get in touch often involves more uncertainty. The visitor cannot see or hold what they are buying, and may be committing to a relationship rather than a single transaction. Signals that tend to help include:</p>
+<ul>
+<li>A plain explanation of how a typical engagement works, from first contact onwards.</li>
+<li>Examples of relevant work, shared with permission, that show the kind of problems you handle.</li>
+<li>Clear information about who visitors will deal with, such as named contacts or team pages, where people are happy to be featured.</li>
+<li>Honest statements about what you do and do not offer, so visitors can tell quickly whether you are a fit.</li>
+<li>Transparent information about pricing, or at least how pricing is worked out.</li>
+</ul>
+<p>Answering the questions people usually ask on a first call, directly on the website, can make that first contact feel lower risk.</p>
+
+<h2>Trust signals for online shops</h2>
+<p>Shoppers buying from a business they have not used before often look for reassurance about money and delivery. Useful signals include:</p>
+<ul>
+<li>Delivery costs and timescales shown before checkout, so there are no surprises.</li>
+<li>A clear, fair returns policy that is easy to find and understand.</li>
+<li>Familiar payment options displayed at the basket and checkout.</li>
+<li>Product reviews collected from genuine buyers.</li>
+<li>Accurate stock information and honest product descriptions and photos.</li>
+<li>Visible customer service contact options for questions before and after purchase.</li>
+</ul>
+<p>Online sellers in the UK also have legal obligations around information given to consumers, cancellation rights and returns. These vary by situation, so it is sensible to check current guidance or take advice rather than relying on a template policy.</p>
+
+<h2>How to review your own site</h2>
+<p>It is hard to judge your own website objectively, because you already know and trust your business. A few practical ways to get a fresh view:</p>
+<ul>
+<li>Ask someone unfamiliar with your business to find your contact details, returns policy or pricing information and note anything that confused them.</li>
+<li>Read each key page and list the questions a cautious first-time visitor might have. Check whether the page answers them.</li>
+<li>Look at your enquiry and support emails for recurring questions that the website could answer.</li>
+<li>Check that every badge, review and credential on the site is current and accurate.</li>
+<li>Test forms and checkout on a phone to make sure nothing feels broken or uncertain.</li>
+</ul>
+<p>Small changes, such as moving delivery information higher up a product page or adding a line about response times beneath a form, are often quick to make.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Hiding contact details or offering only a form.</li>
+<li>Using invented or anonymous testimonials.</li>
+<li>Displaying badges for accreditations you no longer hold.</li>
+<li>Making exaggerated claims you cannot back up.</li>
+<li>Leaving policies vague or hard to find.</li>
+<li>Letting the site drift out of date.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. We can help you review how your site presents your business, plan where trust information should sit and make sure contact routes and policies are clear, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most important trust signal on a website?</h3>
+<p>It depends on the business, but clear contact details and genuine, verifiable reviews are among the most widely useful.</p>
+<h3>Do trust badges increase conversions?</h3>
+<p>Meaningful signals, such as recognised payment methods or real accreditations, can help reassure visitors. Generic badges with no clear meaning are less likely to.</p>
+<h3>Can I write testimonials on behalf of customers?</h3>
+<p>No. Testimonials should come from real customers in their own words, used with permission. Fake reviews can mislead consumers and may breach UK law.</p>
+<h3>Do I need to show my company number on my website?</h3>
+<p>Many UK companies are required to display certain details, such as their registered name and number. Requirements vary, so check what applies to your business.</p>
+<h3>Are trust signals important for SEO?</h3>
+<p>Indirectly. Clear, accurate information about who you are supports trustworthy content and helps visitors who arrive from search.</p>
+`,
+  },
 ];
