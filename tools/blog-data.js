@@ -13031,4 +13031,575 @@ module.exports = [
 <p>It depends on design, features, apps and data work. See our pricing page and our Shopify website cost guide for context.</p>
 `,
   },
+  {
+    slug: 'wix-to-wordpress-migration',
+    seoTitle: 'Wix to WordPress Migration: A UK Business Guide',
+    title: 'Wix to WordPress Migration: How to Move Your Website Without Losing Traffic',
+    description: 'Wix to WordPress migration guide for UK businesses: when to move, what transfers, redirects, SEO protection, content, forms and planning a smooth switchover.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-agency-uk/', '/pricing/'],
+    body: `
+<p>A Wix to WordPress migration is a common step for UK businesses that have outgrown a website builder. Wix is quick to start with, but some businesses eventually want more control over design, content structure, SEO, integrations or ecommerce. WordPress offers that flexibility, but moving across is not a simple copy and paste. Done carefully, a migration can give you a stronger platform without losing the visibility and enquiries your current site already earns.</p>
+<p>This guide explains when a move makes sense, what can and cannot be transferred, how to protect your search rankings and how to plan the switchover. It is aimed at business owners and marketing teams rather than developers, so it focuses on decisions and risks rather than code.</p>
+
+<h2>Why businesses move from Wix to WordPress</h2>
+<p>There is nothing wrong with Wix for many small sites. People usually start thinking about WordPress when they run into limits. Common reasons include:</p>
+<ul>
+<li><strong>More control.</strong> WordPress lets you shape templates, content types and site structure to suit your business rather than working within a builder's options.</li>
+<li><strong>Ownership.</strong> With self-hosted WordPress, you choose your hosting and can move it whenever you like.</li>
+<li><strong>Content and SEO depth.</strong> Businesses that publish a lot of content often want finer control over URLs, categories, structured data and technical settings.</li>
+<li><strong>Integrations.</strong> WordPress has a large ecosystem of plugins and can connect to many CRMs, booking tools and marketing platforms.</li>
+<li><strong>Ecommerce growth.</strong> Some shops want to move to WooCommerce for more flexibility. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce guide</a> may help if you are weighing up ecommerce platforms.</li>
+</ul>
+<p>Flexibility comes with responsibility. A WordPress site needs hosting, updates, backups and security care that Wix handles for you. Make sure you are comfortable with that, or have someone to help, before you commit. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what is involved.</p>
+
+<h2>Is migrating the right move for you?</h2>
+<p>Before starting, be clear about what problem you are solving. If your Wix site works well, brings in enquiries and you simply want a fresh look, a redesign within Wix might be enough. If you are repeatedly hitting limits, a move may be worthwhile. Questions to ask include:</p>
+<ul>
+<li>What can we not do on Wix that we need to do?</li>
+<li>Who will look after the WordPress site once it is live?</li>
+<li>How much traffic and how many enquiries does the current site generate, and from which pages?</li>
+<li>Is this a good time, or would a busy season make a switch risky?</li>
+</ul>
+<p>Our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> explains the factors that affect budget, so you can plan realistically.</p>
+
+<h2>What transfers and what does not</h2>
+<p>Wix does not offer a full export that WordPress can import directly. In practice, a migration usually involves rebuilding the design in WordPress and moving the content across. Here is how the main elements tend to work:</p>
+<ul>
+<li><strong>Blog posts.</strong> Wix blogs can often be exported through an RSS feed and imported into WordPress, although formatting, images and categories usually need checking and tidying.</li>
+<li><strong>Pages.</strong> Static pages generally need to be recreated. This is a good chance to improve the copy and structure rather than copying everything as it is.</li>
+<li><strong>Images and files.</strong> Media needs to be downloaded and re-uploaded, ideally with sensible file names and alt text.</li>
+<li><strong>Design.</strong> Wix templates cannot be moved to WordPress. The design is rebuilt, either from a theme or as a custom build.</li>
+<li><strong>Forms, bookings and apps.</strong> Wix apps do not transfer. Each one needs a WordPress equivalent or an external tool.</li>
+<li><strong>Products and customers.</strong> Store data may be exportable in spreadsheet form, but it needs mapping to the new platform's format and checking carefully.</li>
+</ul>
+<p>Make a full inventory of everything on your current site before you begin, so nothing is forgotten.</p>
+
+<h2>Protecting your SEO during migration</h2>
+<p>The biggest risk in any platform move is losing search visibility. Search engines have learned to trust your existing URLs. If those URLs disappear without a proper redirect, rankings and traffic can drop. Our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> covers the principles in depth. The key steps are below.</p>
+
+<h3>Crawl and record your current site</h3>
+<p>Before changing anything, make a list of every URL on your Wix site, along with its page title, meta description and main heading. Note which pages attract the most traffic and links, using your analytics and Google Search Console. These are the pages you most need to protect.</p>
+
+<h3>Map old URLs to new ones</h3>
+<p>Wix often uses URL patterns that differ from WordPress, particularly for blog posts and product pages. Create a redirect map that pairs each old URL with the most relevant new page. Avoid sending everything to the homepage, as that tends to lose the value of individual pages.</p>
+
+<h3>Set up 301 redirects</h3>
+<p>Permanent 301 redirects tell search engines and browsers that a page has moved. They should be in place the moment the new site goes live. Test a sample of old URLs straight after launch to make sure they land on the right pages.</p>
+
+<h3>Keep what works</h3>
+<p>Carry across titles, headings and content that already perform well, improving them where it helps but not discarding them unnecessarily. Keep internal links pointing to the correct new URLs rather than relying on redirects.</p>
+
+<h3>Technical checks</h3>
+<p>Make sure the new site is indexable, has an XML sitemap, uses HTTPS throughout and loads quickly on mobile. Remove any setting that blocks search engines once the site goes live, since staging sites are usually hidden. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a useful reference.</p>
+
+<h2>Planning the build</h2>
+<p>A migration is a good opportunity to improve your website, but scope creep can delay it. Agree the essentials first: the pages you need, the features that must work on day one and what can wait for later.</p>
+<p>Decide whether a well-built theme will meet your needs or whether a custom design is worth it. Keep plugins to the minimum you genuinely need, as each one adds maintenance. Choose reliable hosting suited to WordPress and make sure the hosting and domain accounts are in your business's name.</p>
+<p>Build the new site on a staging environment so you can review it properly before anyone else sees it. Check every page on mobile and desktop, test forms and bookings, and confirm that emails from the site actually arrive.</p>
+
+<h2>Domains and email</h2>
+<p>If you bought your domain through Wix, you can usually either transfer it to another registrar or point it at your new hosting while leaving it registered where it is. Either way, take care with DNS settings. If your business email uses the same domain, changing DNS records carelessly can interrupt email. Note your existing records before making changes, and plan the switch for a quieter time.</p>
+<p>Remember to cancel your Wix plan only after the new site is live, stable and fully checked, and after you have saved any data you need.</p>
+
+<h2>Launch day and the weeks after</h2>
+<p>On launch day, switch the domain, confirm redirects are working, submit the new sitemap in Search Console and check analytics and conversion tracking are recording correctly. Test the contact form and any checkout one more time on the live site.</p>
+<p>In the weeks after launch, keep an eye on:</p>
+<ul>
+<li>Crawl errors and pages reported as not found in Search Console.</li>
+<li>Traffic to your most important pages compared with before the move.</li>
+<li>Enquiries, bookings or sales.</li>
+<li>Page speed and mobile usability.</li>
+</ul>
+<p>Some fluctuation in rankings after a migration is normal while search engines process the changes. A sustained drop on particular pages is a sign to check redirects and content for those URLs.</p>
+
+<h2>Common Wix to WordPress migration mistakes</h2>
+<ul>
+<li>Launching without a complete redirect map.</li>
+<li>Redirecting all old pages to the homepage.</li>
+<li>Forgetting to remove the search engine block from the staging site.</li>
+<li>Breaking business email through careless DNS changes.</li>
+<li>Losing form, booking or tracking functionality that worked on Wix.</li>
+<li>Installing too many plugins and slowing the new site down.</li>
+<li>Cancelling the Wix plan before everything has been saved and checked.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress and WooCommerce websites for UK businesses and works remotely across the UK. We can help you decide whether a move makes sense, plan the content and redirects, rebuild the site on WordPress and check search performance after launch. The scope is agreed with you at the start. Find out more about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> and our <a href="/services/seo-geo/">SEO and GEO service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I export my Wix site directly to WordPress?</h3>
+<p>Not fully. Blog posts can often be moved using an RSS export, but pages, design, apps and forms generally need to be rebuilt in WordPress.</p>
+<h3>Will I lose my Google rankings if I move from Wix?</h3>
+<p>There is always some risk, but careful planning reduces it. Mapping and redirecting every old URL, keeping strong content and checking technical SEO are the most important steps.</p>
+<h3>Can I keep my domain name?</h3>
+<p>Yes. You can transfer the domain away from Wix or point it to your new hosting. Take care with DNS settings, especially if your email uses the same domain.</p>
+<h3>How long does a Wix to WordPress migration take?</h3>
+<p>It depends on the size of the site, the number of features and how much content needs rewriting. A small brochure site is simpler than a large blog or online shop.</p>
+<h3>Is WordPress harder to manage than Wix?</h3>
+<p>Day-to-day editing can be straightforward, but WordPress needs updates, backups and security care that Wix handles for you. Plan who will take responsibility for that.</p>
+<h3>Should I move my Wix store to WooCommerce?</h3>
+<p>It can make sense if you need more flexibility. Compare options first; our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> explains what to look for in support.</p>
+`,
+  },
+  {
+    slug: 'wordpress-hosting-uk',
+    seoTitle: 'WordPress Hosting UK: How to Choose for Your Business',
+    title: 'WordPress Hosting UK: How to Choose the Right Hosting for a Business Website',
+    description: 'WordPress hosting guide for UK businesses: shared vs managed vs cloud, speed, security, backups, support, data location and questions to ask before you choose.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-website-cost-uk/', '/pricing/'],
+    body: `
+<p>WordPress hosting is the foundation your website sits on. It affects how fast pages load, how well the site copes with busy periods, how secure it is and how easily problems can be fixed. For UK businesses, choosing hosting is often treated as an afterthought, picked on price alone. Yet a poor hosting choice can quietly cost you enquiries, sales and search visibility. This guide explains the main types of WordPress hosting, what to look for and the questions worth asking before you sign up.</p>
+<p>It is written for business owners and marketing teams who want to make a sensible decision without becoming server experts. We do not recommend specific providers here; instead we focus on the features and trade-offs that matter.</p>
+
+<h2>Why hosting matters for a WordPress site</h2>
+<p>WordPress is software that runs on a server. Every time someone visits a page, the server processes code, fetches content from a database and sends the result to the visitor's browser. The quality of that server, and how it is configured, has a direct effect on the experience your visitors get.</p>
+<ul>
+<li><strong>Speed.</strong> Slow servers make slow websites, and slow websites lose visitors. Speed also contributes to how search engines assess page experience.</li>
+<li><strong>Reliability.</strong> If the server goes down, your site goes down, along with enquiries and orders.</li>
+<li><strong>Security.</strong> Hosting controls server software, firewalls and isolation from other sites.</li>
+<li><strong>Recovery.</strong> Backups and support determine how quickly you can recover when something goes wrong.</li>
+</ul>
+<p>Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> and <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explain why performance matters for both users and search.</p>
+
+<h2>The main types of WordPress hosting</h2>
+
+<h3>Shared hosting</h3>
+<p>With shared hosting, your site sits on a server alongside many others, sharing its resources. It is usually the cheapest option and can be fine for small, low-traffic brochure sites. The downside is that busy neighbours can slow your site, resources are limited and much of the WordPress-specific care, such as updates and caching, may be left to you.</p>
+
+<h3>Managed WordPress hosting</h3>
+<p>Managed WordPress hosting is designed specifically for WordPress. Providers typically handle server optimisation, caching, automatic backups, security measures and core updates, and offer support staff who understand WordPress. It usually costs more than basic shared hosting, but it can save time and reduce risk. Exactly what is managed varies between providers, so read the details carefully.</p>
+
+<h3>VPS and cloud hosting</h3>
+<p>A virtual private server or cloud hosting plan gives your site dedicated resources and more control. It can handle higher traffic and more complex sites, and can often scale up when needed. It also usually needs more technical knowledge to configure and maintain, unless you choose a managed version or have someone to look after it.</p>
+
+<h3>Dedicated servers</h3>
+<p>A dedicated server is an entire machine for your site. It is generally only needed for very large or demanding sites, and comes with higher costs and more responsibility.</p>
+
+<h2>What to look for in WordPress hosting</h2>
+
+<h3>Performance features</h3>
+<p>Look for current versions of PHP, solid-state storage, server-level caching and the option to use a content delivery network. These help pages load quickly, particularly for visitors on mobile connections. If you run a WooCommerce shop, check that caching is configured so it does not interfere with baskets and checkout.</p>
+
+<h3>Security</h3>
+<p>Good hosts provide free SSL certificates, firewalls, malware scanning, isolation between accounts and prompt server patching. Some also offer login protection and automatic plugin updates.</p>
+
+<h3>Backups</h3>
+<p>Automatic backups are essential. Check how often they run, how long they are kept, where they are stored and how easy they are to restore. Backups stored only on the same server as the site offer limited protection. Being able to restore a backup yourself, without waiting for support, is useful.</p>
+
+<h3>Staging environments</h3>
+<p>A staging site is a private copy of your website where you can test updates, new plugins or design changes before they go live. It is a valuable feature, especially for shops and busy sites, because it reduces the chance of an update breaking something in front of customers.</p>
+
+<h3>Support</h3>
+<p>When something goes wrong, good support matters. Consider how you can reach the host, when support is available and whether the team understands WordPress. Read the provider's stated support terms rather than assuming.</p>
+
+<h3>Server location and data</h3>
+<p>If most of your visitors are in the UK, hosting on servers in or near the UK, or using a content delivery network, can help with speed. Data location also matters for data protection. Check where your site and backups are stored and what the provider says about UK GDPR. Take advice on your own obligations if needed.</p>
+
+<h3>Resource limits and scaling</h3>
+<p>Many plans limit storage, bandwidth, monthly visits or the number of sites. Check these limits against your current traffic and plans, and find out what happens if you exceed them. If you expect seasonal peaks or campaigns, ask how the plan copes with sudden demand.</p>
+
+<h2>Ownership and access</h2>
+<p>One of the most overlooked points is who owns the hosting account. It should be registered to your business, with login details you control, even if an agency or freelancer manages the site. The same applies to your domain name. If the hosting is held in someone else's name, moving or recovering your site later can be difficult.</p>
+<p>Keep a secure record of all logins, including hosting, domain registrar, DNS, WordPress and any content delivery network.</p>
+
+<h2>Hosting for WooCommerce shops</h2>
+<p>Online shops place more demands on hosting than brochure sites. Baskets, checkout, stock updates and customer accounts all involve dynamic processing that cannot simply be cached. Shops also handle orders and personal data, so reliability and security carry higher stakes.</p>
+<p>For WooCommerce, prioritise sufficient server resources, caching that respects shop pages, frequent backups that capture recent orders, staging for testing updates and support that understands ecommerce. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> and <a href="/blog/woocommerce-seo-uk/">WooCommerce SEO guide</a> cover more about running a shop on WordPress.</p>
+
+<h2>Thinking about cost</h2>
+<p>Hosting prices vary widely. Very cheap plans can look attractive, but slow pages, limited support and extra charges for backups or SSL can make them poor value. It is worth weighing the cost of hosting against the value of the enquiries and sales your site generates. Hosting is one part of the overall cost of running a website; our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> explains the bigger picture. For our own services, see our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Moving your WordPress site to new hosting</h2>
+<p>If your current host is slow or unreliable, moving is usually possible without changing your site's design or URLs. A typical move involves copying files and the database to the new server, testing the site there, then updating DNS to point your domain to the new host.</p>
+<p>Plan the move for a quieter period, take a full backup first and keep the old hosting active until the new setup is confirmed. Be careful with DNS records, particularly if business email runs through the same domain. After the move, check forms, checkout, SSL and analytics, and keep an eye on Search Console.</p>
+
+<h2>Questions to ask a hosting provider</h2>
+<ul>
+<li>Is the plan designed for WordPress, and what exactly do you manage?</li>
+<li>Which PHP versions do you support and how are server updates handled?</li>
+<li>How often are backups taken, where are they stored and how do I restore one?</li>
+<li>Is a staging environment included?</li>
+<li>Where are your servers located?</li>
+<li>What security measures are included?</li>
+<li>What are the resource limits and what happens if I exceed them?</li>
+<li>How do I contact support and when is it available?</li>
+<li>Can I easily move away if I need to?</li>
+</ul>
+
+<h2>Common hosting mistakes</h2>
+<ul>
+<li>Choosing purely on the lowest monthly price.</li>
+<li>Letting an agency or freelancer register hosting in their own name.</li>
+<li>Relying on backups stored on the same server.</li>
+<li>Ignoring PHP versions and server updates.</li>
+<li>Running a busy shop on hosting built for small brochure sites.</li>
+<li>Moving hosts without checking DNS and email settings.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress and WooCommerce websites for UK businesses, working remotely across the UK. We can help you think through hosting requirements as part of a new build or a review of your existing site, and make sure the setup suits how your business uses its website. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best WordPress hosting in the UK?</h3>
+<p>There is no single best option for everyone. The right choice depends on your traffic, whether you run a shop, how much technical work you want to handle and your budget. Compare performance, security, backups and support.</p>
+<h3>Is managed WordPress hosting worth it?</h3>
+<p>For many businesses it is, because it handles caching, backups and some security work for you. Check exactly what each provider manages, as it varies.</p>
+<h3>Does hosting affect SEO?</h3>
+<p>Indirectly, yes. Hosting affects speed, uptime and security, all of which influence user experience and how search engines can crawl your site.</p>
+<h3>Should my hosting be in the UK?</h3>
+<p>If most visitors are in the UK, nearby servers or a content delivery network can help with speed. Also consider where data and backups are stored for data protection purposes.</p>
+<h3>Can I change WordPress host without losing my site?</h3>
+<p>Yes. With a full backup, careful testing and correct DNS changes, a site can usually be moved without changing its design or URLs.</p>
+<h3>Who should own the hosting account?</h3>
+<p>Your business. Keep the account and domain in the business's name, with logins you control.</p>
+`,
+  },
+  {
+    slug: 'wordpress-page-builders-uk',
+    seoTitle: 'WordPress Page Builder vs Custom Theme: Which to Choose',
+    title: 'WordPress Page Builder vs Custom Theme: Choosing the Right Approach for Your Website',
+    description: 'WordPress page builder vs custom theme guide for UK businesses: block editor, builders and bespoke themes compared on speed, editing, cost, SEO and upkeep.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-agency-uk/', '/pricing/'],
+    body: `
+<p>When planning a WordPress website, one of the most important decisions is how it will be built. Broadly, there are three approaches: using a visual page builder, using a custom-built theme, or building with the native WordPress block editor. Each can produce a good website, but they differ in speed, flexibility, ease of editing and long-term maintenance. For UK businesses, the right choice depends less on technology and more on how your team will use the site.</p>
+<p>This guide explains the options in plain English, sets out the trade-offs and offers questions to help you decide. It is aimed at business owners and marketing teams planning a new site or a rebuild.</p>
+
+<h2>The three main approaches</h2>
+
+<h3>Page builders</h3>
+<p>Page builders are plugins or themes that let you design pages visually, usually with drag-and-drop controls. You can add sections, columns, images, buttons and other elements and see roughly how the page will look as you go. They are popular because they make layout changes possible without writing code.</p>
+
+<h3>Custom themes</h3>
+<p>A custom theme is built specifically for your website by a developer. Templates, layouts and components are designed around your content and brand, and editing is usually done through structured fields or pre-designed blocks rather than free-form design. The aim is a site that is consistent, efficient and tailored to your needs.</p>
+
+<h3>The block editor</h3>
+<p>WordPress includes its own block editor, which lets you build pages from blocks such as paragraphs, images, columns and buttons. Combined with a well-designed block theme or custom blocks, it can offer much of the flexibility of a page builder while staying closer to WordPress's core. Its capabilities have grown considerably over time.</p>
+
+<h2>Comparing the approaches</h2>
+
+<h3>Ease of editing</h3>
+<p>Page builders give editors a lot of freedom. You can rearrange pages, add new sections and experiment with layouts. This is useful for teams who want to create landing pages quickly. The flip side is that freedom can lead to inconsistency, with fonts, spacing and colours drifting over time as different people edit.</p>
+<p>Custom themes usually offer a more guided editing experience. Editors fill in structured content and choose from components that already match the brand. It can feel more restrictive, but it keeps the site consistent and reduces the chance of accidentally breaking a layout.</p>
+<p>The block editor can be set up in either direction: wide open or tightly controlled with locked patterns and custom blocks.</p>
+
+<h3>Speed and performance</h3>
+<p>Performance matters for visitors and for search. Some page builders add extra code, styles and scripts to every page, which can slow sites down if not managed carefully. Many have improved, and a skilled builder can produce reasonably fast pages, but it often takes more effort.</p>
+<p>Custom themes can be built to load only what is needed, which tends to make good performance easier to achieve. The block editor also generally produces leaner output than many builders. Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> and <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explain why this matters.</p>
+
+<h3>Design flexibility</h3>
+<p>Page builders allow almost any layout without development, which makes them appealing for marketing teams. Custom themes can achieve any design too, but new layouts usually need a developer to add them. The block editor offers patterns that can be reused and adapted.</p>
+
+<h3>SEO</h3>
+<p>None of these approaches is automatically good or bad for SEO. What matters is clean structure, sensible headings, fast loading, accessible markup and good content. Page builders can make it easy to misuse headings or bloat pages, while custom themes can enforce structure. Our <a href="/services/seo-geo/">SEO and GEO service</a> page explains how we think about search and AI visibility.</p>
+
+<h3>Maintenance and lock-in</h3>
+<p>Every approach needs maintenance. Page builders are additional software that must be updated and that can introduce compatibility issues. They can also create lock-in: if you stop using a builder, content built with it may not display properly without a rebuild.</p>
+<p>Custom themes depend on the quality of the original development and on someone able to maintain the code. Well-documented code, built to WordPress standards, makes future changes easier. The block editor, being part of WordPress itself, reduces dependence on third-party tools. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers ongoing care.</p>
+
+<h3>Cost</h3>
+<p>A page builder site using an existing template can be quicker to start, while a custom theme usually involves more upfront design and development. Over time, though, the balance can shift, depending on how often you need changes and how much effort performance work requires. Our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> covers what affects budgets, and our <a href="/pricing/">pricing page</a> explains how we work.</p>
+
+<h2>When a page builder might suit you</h2>
+<ul>
+<li>Your marketing team wants to create and change landing pages often without developer help.</li>
+<li>You are comfortable managing design consistency yourselves.</li>
+<li>You need to launch something relatively quickly.</li>
+<li>Performance is important but you are prepared to put effort into optimising it.</li>
+</ul>
+
+<h2>When a custom theme might suit you</h2>
+<ul>
+<li>Brand consistency and a polished, distinctive design are priorities.</li>
+<li>Speed and technical quality matter a great deal, for example for competitive search terms.</li>
+<li>Your site has complex content, such as multiple service areas, locations or resources.</li>
+<li>You want editors to update content safely without worrying about layout.</li>
+</ul>
+
+<h2>When the block editor might suit you</h2>
+<ul>
+<li>You want a balance between flexibility and performance.</li>
+<li>You prefer to stay close to core WordPress and reduce plugin dependence.</li>
+<li>You like the idea of reusable patterns that keep pages consistent.</li>
+</ul>
+<p>Many sites combine approaches. For example, a custom block theme might provide branded components that editors arrange freely within the block editor.</p>
+
+<h2>WooCommerce considerations</h2>
+<p>For online shops, product, category, basket and checkout pages are usually controlled by WooCommerce templates rather than built page by page. Page builders can help with marketing pages, but the core shop experience depends on the theme and on WooCommerce itself. Speed and reliability at checkout are especially important. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce guide</a> cover shop decisions in more depth.</p>
+
+<h2>Questions to ask before deciding</h2>
+<ul>
+<li>Who will edit the site, and how confident are they?</li>
+<li>How often will we need new page layouts?</li>
+<li>How important is speed for our goals?</li>
+<li>Who will maintain the site once it is live?</li>
+<li>What happens if we want to change approach in future?</li>
+<li>Does the plan keep the number of plugins sensible?</li>
+</ul>
+
+<h2>Switching approach on an existing site</h2>
+<p>If your current site is slow, hard to edit or tied to a builder you no longer want, rebuilding with a different approach is possible. Treat it like any rebuild: audit the content, keep URLs where possible, set up redirects where they change and test thoroughly before launch. Our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> explains how to protect search visibility, and our <a href="/blog/website-redesign-cost-uk/">website redesign cost guide</a> covers budgeting.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Choosing a builder or theme based on a demo without considering long-term editing.</li>
+<li>Stacking several builders or design plugins on one site.</li>
+<li>Ignoring performance until after launch.</li>
+<li>Giving every editor full design freedom with no brand guidelines.</li>
+<li>Commissioning custom code without documentation or a plan for support.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress and WooCommerce websites for UK businesses, working remotely across the UK. We can talk through how your team works, what the site needs to do and which build approach fits, then agree a scope with you. Learn more about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, read our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Are page builders bad for WordPress?</h3>
+<p>No, but they come with trade-offs. They make editing flexible, but can add extra code and maintenance. Used carefully, they can work well.</p>
+<h3>Is a custom WordPress theme faster?</h3>
+<p>It often can be, because it loads only what the site needs. Speed still depends on hosting, images, plugins and how well the theme is built.</p>
+<h3>Can I edit a custom theme myself?</h3>
+<p>Usually yes. Content is typically edited through structured fields or blocks. New layouts or features may need a developer.</p>
+<h3>Is the WordPress block editor good enough for a business site?</h3>
+<p>For many businesses, yes, especially when paired with a well-designed theme and reusable patterns.</p>
+<h3>Does the build approach affect SEO?</h3>
+<p>It can, through speed and page structure, but content quality and technical setup matter most. Any approach can work if done well.</p>
+<h3>Can I move away from a page builder later?</h3>
+<p>Yes, but content built with a builder often needs rebuilding. Plan redirects and testing as you would for any redesign.</p>
+`,
+  },
+  {
+    slug: 'wordpress-security-uk',
+    seoTitle: 'WordPress Security UK: Protect Your Business Website',
+    title: 'WordPress Security UK: A Practical Guide for Business Websites',
+    description: 'WordPress security guide for UK businesses: updates, hosting, logins, plugins, backups, forms and what to do if your WordPress website is ever compromised.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-agency-uk/', '/pricing/'],
+    body: `
+<p>WordPress security is mostly about good habits. WordPress itself is a mature, widely used platform with an active security team, but the websites built on it are only as safe as the way they are hosted, updated and managed. For UK businesses, a hacked website can mean lost enquiries, damaged trust, search engine warnings and, if personal data is involved, data protection obligations. The good news is that most common risks can be reduced with sensible, repeatable steps.</p>
+<p>This guide is written for business owners, marketing managers and anyone responsible for a WordPress or WooCommerce website. It explains where the real risks come from, the basics every site should have in place and what to do if something goes wrong. It is general guidance rather than a security audit of your own site.</p>
+
+<h2>Why WordPress sites get targeted</h2>
+<p>WordPress powers a very large share of the web, which makes it an attractive target. Most attacks are not personal. Automated bots scan huge numbers of sites looking for known weaknesses: an old plugin with a published vulnerability, a login page that accepts unlimited password guesses, or a server running outdated software. If your site has one of those weaknesses, it can be found and exploited without anyone ever looking at your business specifically.</p>
+<p>That is why small business sites are not safe simply because they are small. A compromised site can be used to send spam, host phishing pages, redirect visitors to unwanted sites or inject hidden links. Often the owner only finds out when a customer complains, a browser shows a warning or search traffic drops.</p>
+
+<h2>Where the real risks come from</h2>
+<p>When WordPress sites are compromised, the cause usually falls into a handful of categories:</p>
+<ul>
+<li><strong>Outdated plugins and themes.</strong> Extensions are the most common weak point. Vulnerabilities are found and fixed regularly, but a fix only protects you once it is installed.</li>
+<li><strong>Weak or reused passwords.</strong> Accounts with simple passwords, shared logins or passwords reused from other services are easy targets.</li>
+<li><strong>Abandoned or untrusted software.</strong> Plugins that are no longer maintained, or premium plugins downloaded from unofficial sources, can carry hidden problems.</li>
+<li><strong>Poor hosting.</strong> Cheap, overcrowded or badly configured hosting can expose sites to risks that have nothing to do with WordPress.</li>
+<li><strong>Too many people with too much access.</strong> Former staff, old agencies and freelancers who still have administrator accounts all widen the risk.</li>
+</ul>
+<p>Notice that WordPress core is rarely the problem on its own. The platform is regularly updated, and minor security releases are often applied automatically. The surrounding ecosystem is where most of the effort needs to go.</p>
+
+<h2>Keep everything up to date</h2>
+<p>Updates are the single most important habit. That means WordPress core, every plugin, your theme and the PHP version your server runs. Each update can include security fixes, and attackers often move quickly once a vulnerability is made public.</p>
+<p>Updating should still be done carefully. On a busy site, particularly an online shop, an update can occasionally conflict with another plugin or with custom code. Sensible practice is to take a backup first, test larger updates on a staging copy where possible, and check key pages and forms afterwards. If a plugin has not been updated by its developer for a long time, consider replacing it.</p>
+<p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers how ongoing care fits together, including updates, monitoring and content changes.</p>
+
+<h2>Choose plugins and themes carefully</h2>
+<p>Every plugin adds code to your site, and every piece of code is something that needs to be maintained. A lean site is usually a safer site. Before installing anything, ask whether you really need it and whether the same job could be done another way.</p>
+<p>When you do choose a plugin, look at when it was last updated, how widely it is used, whether it is compatible with your version of WordPress and whether the developer responds to support questions. Only download premium plugins and themes from the official developer. So-called nulled versions shared for free elsewhere are a well-known route for malware.</p>
+<p>Remove plugins and themes you are not using. A deactivated plugin can still contain vulnerable files, so deleting it is better than switching it off.</p>
+
+<h2>Lock down logins and user accounts</h2>
+<p>The WordPress login page is a constant target for automated password guessing. A few simple measures make a big difference:</p>
+<ul>
+<li>Use long, unique passwords for every account, ideally stored in a password manager.</li>
+<li>Turn on two-factor authentication for administrators and anyone who can publish or manage orders.</li>
+<li>Limit repeated failed login attempts so bots cannot guess endlessly.</li>
+<li>Avoid obvious usernames such as admin.</li>
+<li>Give each person their own account rather than sharing a single login.</li>
+</ul>
+<p>Review user accounts regularly. WordPress has different roles, such as administrator, editor, author and shop manager. Give people the lowest level of access they need to do their job, and remove accounts for anyone who no longer works on the site, including past agencies and freelancers.</p>
+
+<h2>Hosting matters more than you think</h2>
+<p>Your hosting provider controls much of the environment your site runs in: server software, PHP versions, firewalls, isolation from other sites and backup options. Good managed WordPress hosting can take care of a lot of the underlying security work. Very cheap shared hosting may leave more of it to you.</p>
+<p>When comparing hosts, look for current PHP versions, free SSL certificates, automatic backups stored separately from the server, malware scanning, a web application firewall and responsive support. Make sure your site runs entirely over HTTPS so data sent through forms and checkouts is encrypted.</p>
+<p>Also check who controls the hosting account and the domain. Both should be registered in your business's name, with login details you hold, not tied to an individual who might leave.</p>
+
+<h2>Backups: your safety net</h2>
+<p>No security setup is perfect, so backups are essential. A good backup lets you restore a working version of your site if something goes wrong, whether that is a hack, a failed update or a simple mistake.</p>
+<p>Backups should be automatic, include both the files and the database, and be stored somewhere other than the same server as the website. How often you back up depends on how often your site changes. A shop taking orders every day needs more frequent backups than a brochure site that changes once a month.</p>
+<p>Most importantly, test that backups can actually be restored. A backup that has never been tested is a hope rather than a plan.</p>
+
+<h2>Forms, data and UK GDPR</h2>
+<p>Many WordPress sites collect personal data through contact forms, newsletter sign-ups, bookings or checkout. Under UK data protection law, businesses must keep personal data secure and may need to report certain breaches. Practical steps include only collecting the data you need, not storing form submissions on the website longer than necessary, using spam protection on forms and making sure plugins that handle data are well maintained.</p>
+<p>If you take payments, use a reputable payment provider so card details are handled by them rather than stored on your site. This guide is not legal advice, so take professional advice on your own obligations.</p>
+
+<h2>Monitoring and early warning signs</h2>
+<p>The sooner a problem is spotted, the easier it is to fix. Signs that something may be wrong include unexpected redirects, strange new pages or users, spam links in your content, sudden slowdowns, warnings in browsers or in Google Search Console, and emails from your host about unusual activity.</p>
+<p>Uptime monitoring, security scanning and keeping an eye on Google Search Console can all help you catch issues early, often before customers notice anything.</p>
+
+<h2>What to do if your WordPress site is hacked</h2>
+<p>If you think your site has been compromised, stay calm and work methodically:</p>
+<ul>
+<li>Contact your hosting provider and whoever looks after your website.</li>
+<li>Change passwords for WordPress, hosting, FTP or SFTP, the database and any connected email accounts.</li>
+<li>Avoid making lots of changes before the issue is understood, as you may remove useful evidence.</li>
+<li>Clean the site properly or restore a known clean backup, then update everything that was out of date.</li>
+<li>Check for unfamiliar administrator accounts and remove them.</li>
+<li>If Google has flagged the site, request a review in Search Console once it is clean.</li>
+<li>Consider whether personal data may have been affected and whether you have reporting obligations.</li>
+</ul>
+<p>Restoring a backup without fixing the original weakness often leads to the same problem returning, so finding the cause matters.</p>
+
+<h2>Security and SEO</h2>
+<p>Security problems can quickly become search problems. Injected spam pages, malicious redirects and browser warnings can damage rankings and click-through rates, and cleaning up can take time. A secure, well-maintained site protects your search visibility as well as your customers. If your site has been affected, our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> explains how to check for lasting damage.</p>
+
+<h2>A simple WordPress security checklist</h2>
+<ul>
+<li>WordPress core, plugins, themes and PHP kept up to date.</li>
+<li>Unused plugins and themes deleted.</li>
+<li>Strong, unique passwords and two-factor authentication for key accounts.</li>
+<li>User accounts reviewed and old ones removed.</li>
+<li>Reputable hosting with HTTPS, firewall and malware scanning.</li>
+<li>Automatic off-site backups that have been tested.</li>
+<li>Hosting and domain owned by the business.</li>
+<li>A written plan for what to do if the site is compromised.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and supports WordPress and WooCommerce websites for UK businesses, working remotely across the UK. We can review how your site is set up, help reduce unnecessary plugins and talk through sensible options for ongoing care. The exact scope of any support is agreed with you. Read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is WordPress secure for a business website?</h3>
+<p>Yes, WordPress can be a secure choice when it is well hosted, kept up to date and managed sensibly. Most problems come from outdated plugins, weak passwords and poor hosting rather than the core software.</p>
+<h3>Do I need a security plugin?</h3>
+<p>A reputable security plugin can help with login protection, scanning and firewall rules, but it is not a substitute for updates, good hosting and backups. Some managed hosts provide similar protection at server level.</p>
+<h3>How often should I update WordPress plugins?</h3>
+<p>Check for updates regularly and apply security updates promptly. Take a backup first and test larger updates on a staging copy where possible, especially on ecommerce sites.</p>
+<h3>Can a hacked website affect my Google rankings?</h3>
+<p>It can. Spam pages, redirects and browser warnings can reduce traffic and trust. Cleaning the site and requesting a review in Search Console, where needed, is part of recovery.</p>
+<h3>Who should own my hosting and domain?</h3>
+<p>Your business should. Keep the accounts in the business's name and make sure you hold the login details, even if an agency or freelancer manages them day to day.</p>
+<h3>Is WooCommerce less secure than a normal WordPress site?</h3>
+<p>Not inherently, but an online shop handles orders and customer data, so the stakes are higher. Updates, backups and access control deserve extra care. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> covers shop support in more detail.</p>
+`,
+  },
+  {
+    slug: 'wordpress-small-business-website',
+    seoTitle: 'WordPress for Small Business: Planning Your Website',
+    title: 'WordPress for Small Business: How to Plan a Website That Brings in Enquiries',
+    description: 'WordPress for small business guide: planning pages, content, design, hosting, SEO, forms and ongoing care so your UK business website turns visitors into leads.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-website-cost-uk/', '/pricing/'],
+    body: `
+<p>WordPress is one of the most popular ways for small businesses to build a website, and for good reason. It is flexible, widely supported and can grow with your business, from a simple brochure site to a content-rich resource or an online shop. But the platform alone does not make a good website. What turns a WordPress site into a source of enquiries is clear planning: understanding your customers, structuring the right pages and making it easy for visitors to get in touch.</p>
+<p>This guide is for UK small business owners planning a new WordPress website or rethinking an existing one. It covers whether WordPress suits you, how to plan pages and content, what to consider in design, hosting and SEO, and how to keep the site in good shape after launch.</p>
+
+<h2>Is WordPress right for a small business?</h2>
+<p>WordPress suits many small businesses, but it is worth weighing the pros and cons honestly.</p>
+<p>On the plus side, it gives you control over design, content and structure. You can choose your own hosting and move it whenever you like. There is a huge ecosystem of themes and plugins, and plenty of developers and agencies who work with it. It handles blogs and resources well, and WooCommerce can add ecommerce if you need it.</p>
+<p>On the other side, WordPress needs looking after. Updates, backups and security are your responsibility, or the responsibility of whoever supports your site. If you want a very simple site and no involvement in upkeep, a hosted website builder might suit you better. If you want flexibility and room to grow, WordPress is often a strong choice.</p>
+
+<h2>Start with goals, not design</h2>
+<p>Before thinking about colours and layouts, be clear about what the website needs to achieve. For most small businesses, the answer is to generate enquiries, bookings or sales. Ask:</p>
+<ul>
+<li>Who are our customers and what problems do they need solved?</li>
+<li>What questions do they ask before buying?</li>
+<li>What action do we want visitors to take: call, fill in a form, book, buy?</li>
+<li>How will we know if the website is working?</li>
+</ul>
+<p>The answers shape everything that follows, from the pages you need to the wording on your buttons.</p>
+
+<h2>Plan the pages you need</h2>
+<p>Most small business websites need a core set of pages. Keep it focused and add more as you grow.</p>
+<ul>
+<li><strong>Homepage.</strong> Explain clearly what you do, who you help and where, with an obvious next step.</li>
+<li><strong>Service pages.</strong> Give each main service its own page so you can explain it properly and appear for relevant searches.</li>
+<li><strong>About page.</strong> Share your story, values and the people behind the business, honestly.</li>
+<li><strong>Contact page.</strong> Offer a simple form, phone number, email and, if relevant, address and map.</li>
+<li><strong>Case studies or examples.</strong> Show real work, with permission, if you have it.</li>
+<li><strong>Blog or resources.</strong> Answer common customer questions to build trust and search visibility.</li>
+<li><strong>Legal pages.</strong> Include a privacy notice and, where relevant, cookie information and terms.</li>
+</ul>
+<p>If you serve particular towns or regions, location pages can help, but only if each offers genuinely useful local information. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers this.</p>
+
+<h2>Write content that answers real questions</h2>
+<p>Content is what persuades visitors and helps search engines understand your site. Write in plain English, from the customer's point of view. Explain what you offer, who it is for, how the process works and what customers can expect. Avoid jargon and vague claims.</p>
+<p>Address common concerns directly: how to get a quote, how long things typically take, what areas you cover and how to get started. If you are unsure what to include, your sales calls and customer emails are a great source of questions to answer. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> offers more ideas.</p>
+
+<h2>Design for trust and clarity</h2>
+<p>Good design helps visitors find information quickly and feel confident contacting you. Priorities for small business sites include:</p>
+<ul>
+<li>A clear layout with obvious navigation.</li>
+<li>Prominent contact options on every page.</li>
+<li>Real photos of your team, premises or work where possible.</li>
+<li>Consistent branding that reflects your business.</li>
+<li>Readable text and sufficient colour contrast.</li>
+<li>A mobile-first approach, since many visitors will be on phones.</li>
+</ul>
+<p>Trust signals matter too. Genuine reviews, accreditations you actually hold, clear contact details and transparent information all help. Never invent testimonials or claim memberships you do not have.</p>
+<p>You will also need to decide how the site is built, whether with a theme, a page builder or a custom design. A good <a href="/blog/wordpress-agency-uk/">WordPress agency</a> can explain the trade-offs.</p>
+
+<h2>Choose sensible hosting</h2>
+<p>Hosting affects speed, reliability and security. For small businesses, the cheapest plan is not always the best value. Look for WordPress-friendly hosting with free SSL, automatic off-site backups, current PHP versions and helpful support. Make sure the hosting and domain are registered in your business's name.</p>
+
+<h2>Keep plugins under control</h2>
+<p>Plugins add features, but each one adds code to maintain and a potential point of failure. Small business sites often need only a handful: perhaps an SEO plugin, a forms plugin, a backup tool and security protection. Choose well-maintained plugins from reputable developers and remove anything you do not use.</p>
+
+<h2>Build in SEO from the start</h2>
+<p>Search visibility is easier to plan from the start than to retrofit. Basic steps include:</p>
+<ul>
+<li>Researching the words customers actually use to find services like yours.</li>
+<li>Giving each important page a clear focus, descriptive title and meta description.</li>
+<li>Using headings logically and writing helpful content.</li>
+<li>Keeping URLs short and readable.</li>
+<li>Making sure the site is fast and works well on mobile.</li>
+<li>Setting up Google Search Console and an XML sitemap.</li>
+<li>Creating and maintaining a Google Business Profile if you serve local customers.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> and <a href="/services/seo-geo/">SEO and GEO service</a> page explain more.</p>
+
+<h2>Make contacting you easy</h2>
+<p>The whole point of most small business websites is to generate contact. Make it effortless. Put phone numbers and contact buttons where people expect them, keep forms short, explain what happens after someone gets in touch and make sure form submissions actually reach you. Test forms regularly, as broken forms quietly lose leads.</p>
+<p>Set up analytics and conversion tracking so you can see which pages and channels lead to enquiries.</p>
+
+<h2>Accessibility and legal basics</h2>
+<p>An accessible website is easier for everyone to use. Use clear headings, descriptive link text, alt text for meaningful images, good colour contrast and forms that work with keyboards and screen readers. If you collect personal data, you will need a privacy notice and must handle data in line with UK data protection law. If you use non-essential cookies, consider how you obtain consent. This guide is not legal advice.</p>
+
+<h2>Plan for life after launch</h2>
+<p>A website is not finished when it goes live. WordPress needs regular updates to core, themes and plugins, along with backups and security monitoring. Content should be kept current, with new services, team changes and fresh articles added over time. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what ongoing care involves.</p>
+<p>Review performance regularly. Look at which pages attract visitors, where enquiries come from and where people drop off. Small improvements, such as a clearer call to action or a better service page, can make a real difference.</p>
+
+<h2>Budgeting for a WordPress website</h2>
+<p>Costs depend on the size of the site, design approach, content needs, functionality and ongoing support. Our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> and <a href="/blog/website-design-cost-small-business-uk/">small business website design cost guide</a> explain the factors involved. For how we work, see our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Starting with design before understanding customers and goals.</li>
+<li>Cramming all services onto one page.</li>
+<li>Hiding contact details or using long, complicated forms.</li>
+<li>Installing lots of plugins without a clear need.</li>
+<li>Letting someone else own the hosting or domain.</li>
+<li>Launching and then never updating the site.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress websites for UK small businesses, working remotely across the UK. We can help you plan pages and content, design and build the site, set up the SEO basics and talk through options for ongoing care, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, read our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is WordPress good for small business websites?</h3>
+<p>Yes, for many small businesses. It is flexible and widely supported, though it needs hosting, updates and security care.</p>
+<h3>How many pages does a small business website need?</h3>
+<p>There is no fixed number. Most need a homepage, a page for each main service, an about page and a contact page, plus legal pages. Add more as your business grows.</p>
+<h3>Can I update a WordPress website myself?</h3>
+<p>Usually, yes. Most content changes can be made in the WordPress editor once the site is set up well.</p>
+<h3>Do I need a blog on my business website?</h3>
+<p>Not necessarily, but helpful articles that answer customer questions can build trust and attract search traffic over time.</p>
+<h3>Should I use WordPress or a website builder?</h3>
+<p>It depends on how much control and flexibility you want and who will look after the site. Builders are simpler to maintain; WordPress offers more freedom.</p>
+<h3>Can I add a shop to my WordPress site later?</h3>
+<p>Yes. WooCommerce can add ecommerce to an existing WordPress site. Our <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> explains more.</p>
+`,
+  },
 ];
