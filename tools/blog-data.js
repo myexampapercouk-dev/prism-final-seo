@@ -21047,4 +21047,553 @@ module.exports = [
 <p>Wix's drag-and-drop editor feels easier for general page design. Shopify's admin is easier for managing products, stock and orders.</p>
 `,
   },
+  {
+    slug: 'bigcommerce-vs-shopify-uk',
+    seoTitle: 'BigCommerce vs Shopify UK: Which Platform Fits?',
+    title: 'BigCommerce vs Shopify for UK Online Stores',
+    description: 'BigCommerce vs Shopify for UK retailers: built-in features, apps, B2B selling, catalogue size, SEO, checkout, costs and how to decide between them.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-vs-woocommerce-uk/', '/pricing/'],
+    body: `
+<p>Shopify and BigCommerce are two of the best-known hosted ecommerce platforms. Both handle hosting, security and checkout for you, both can support small shops and large retailers, and both have enterprise tiers. For UK businesses choosing between them, the decision usually comes down to how each platform approaches features, how complex the catalogue is, whether you sell to trade customers as well as consumers, and which systems the store needs to connect to.</p>
+<p>This guide compares the two for UK retailers. Platform features and pricing change often, so treat it as a framework for your own evaluation and check current details with each platform.</p>
+
+<h2>What they have in common</h2>
+<p>Both are software-as-a-service platforms. You pay a monthly subscription, the platform hosts the store and keeps the software updated, and you manage products, orders and content through an admin dashboard. Both offer themes, app marketplaces, multi-currency selling, APIs for integrations and headless options for brands that want a custom front end. Either can support a professional UK store.</p>
+
+<h2>Philosophy: built-in features vs apps</h2>
+<p>The clearest difference is approach.</p>
+<ul>
+<li><strong>BigCommerce</strong> has historically included more functionality in the core platform, such as advanced product options, faceted search and some B2B features, so fewer third-party apps are needed for common requirements.</li>
+<li><strong>Shopify</strong> keeps its core focused and relies on a very large app ecosystem to extend it. Almost any feature is available somewhere, but stores can accumulate apps that each carry a cost and add code to the site.</li>
+</ul>
+<p>Neither approach is wrong. Built-in features can mean lower ongoing app costs and fewer moving parts. A large ecosystem means more choice and more specialist developers familiar with the platform.</p>
+
+<h2>Ease of use</h2>
+<p>Shopify is widely regarded as one of the easiest platforms for store owners to learn. Its admin is clean and the everyday tasks of adding products, processing orders and editing pages are straightforward.</p>
+<p>BigCommerce's admin offers more settings in the core platform, which can make it feel more involved at first but means more can be configured without apps. Teams with complex catalogues sometimes value that.</p>
+
+<h2>Catalogue and product options</h2>
+<p>For stores with complex products, such as many options, configurable items, custom fields or large SKU counts, check carefully how each platform models them. BigCommerce has long been noted for flexible product options. Shopify has expanded its variant limits and uses metafields and apps for more complex needs. Map your real catalogue onto each platform before deciding, including your most awkward products. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains the common structures.</p>
+
+<h2>B2B and trade selling</h2>
+<p>Many UK businesses sell to both consumers and trade customers. Both platforms offer B2B functionality, though what is included can depend on plan, particularly at the enterprise level. Features to check include customer-specific price lists, quotes, purchase orders, payment terms, account hierarchies and bulk ordering. If trade selling is central to your business, list the exact workflows you need and confirm how each platform handles them. Our <a href="/sectors/b2b/">B2B sector page</a> explains how we work with trade-focused businesses.</p>
+
+<h2>Themes and design</h2>
+<p>Shopify has a large theme store and a big community of designers and developers, so there is a wide choice of starting points and expertise. BigCommerce also offers free and paid themes, with a smaller selection. On both, a well-chosen theme can be customised substantially, and a bespoke build is possible. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> explains what that involves on Shopify.</p>
+
+<h2>Checkout and payments</h2>
+<p>Shopify's checkout is familiar to many shoppers, and Shopify Payments is available in the UK. Using a third-party payment provider instead may carry additional transaction fees, so check current terms. BigCommerce works with a range of payment providers and has historically not charged its own transaction fees on top of provider fees. Payment costs at scale can make a real difference, so model them against your expected order volumes.</p>
+<p>Checkout customisation depends on plan on both platforms, with more control at the enterprise tiers.</p>
+
+<h2>SEO</h2>
+<p>Both platforms cover the essentials: editable titles and descriptions, custom URLs, redirects, sitemaps and structured data via themes. Some differences exist in how URLs are structured and how much can be changed. Shopify, for example, uses fixed path prefixes such as /products/ and /collections/. In practice, content, site structure, speed and internal linking tend to matter more than the platform. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the essentials on Shopify.</p>
+
+<h2>Selling across channels</h2>
+<p>Both connect to Google's free listings and Shopping ads, social platforms and major marketplaces, with varying depth depending on the channel and any connectors used. If multichannel selling is important, check exactly which channels you need and how stock and orders sync. Our guide to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> explains the product feed side.</p>
+
+<h2>Integrations</h2>
+<p>Most growing retailers connect their store to other systems: accounting, inventory or ERP, warehouse and fulfilment, email marketing and customer service tools. Both platforms have APIs and integration marketplaces. Before choosing, list the systems you use or plan to use and confirm whether a reliable integration exists for each.</p>
+
+<h2>International selling</h2>
+<p>Many UK retailers sell into Europe, the US and beyond. Both platforms support multiple currencies and international storefronts, though the way they handle localised pricing, languages, domains and duties differs and can depend on plan. Shopify Markets brings country-specific pricing, currencies and domains together in one place. BigCommerce supports multi-storefront and multi-currency setups, with some features tied to higher plans. Selling abroad also involves customs, VAT treatment and delivery arrangements that sit outside the platform, and the rules can be complex, so take professional advice on tax. Our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally</a> covers the main points.</p>
+
+<h2>Support and the partner ecosystem</h2>
+<p>Both platforms offer their own support channels, with more dedicated help at the enterprise level. Beyond that, consider the wider ecosystem. Shopify has a very large pool of agencies, freelancers and app developers, which can make it easier to find help and to replace a supplier if needed. BigCommerce has a smaller but established partner community. Whichever you choose, check that you can get the kind of support you need, at the times you need it, before you commit.</p>
+<h2>Costs</h2>
+<p>Comparing costs means looking beyond the headline subscription. Include:</p>
+<ul>
+<li>The plan that actually covers your features and order volumes.</li>
+<li>Payment processing and any platform transaction fees.</li>
+<li>Apps or add-ons needed to match your requirements.</li>
+<li>Theme costs and design or development work.</li>
+<li>Ongoing support and maintenance.</li>
+</ul>
+<p>Plan tiers and limits differ between the platforms and change over time, so check current pricing directly. For a sense of project costs on Shopify, see our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> and our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>How to decide</h2>
+<h3>Shopify may suit you if:</h3>
+<ul>
+<li>Ease of use for a small team is a priority.</li>
+<li>You value a very wide choice of themes, apps and developers.</li>
+<li>Your catalogue is reasonably straightforward, or can be modelled with variants and metafields.</li>
+<li>You want a platform many partners and tools already support.</li>
+</ul>
+<h3>BigCommerce may suit you if:</h3>
+<ul>
+<li>You want more functionality built in and fewer apps to manage.</li>
+<li>Your catalogue has complex options or many custom fields.</li>
+<li>Trade or B2B selling is a significant part of your business.</li>
+<li>Payment flexibility without platform transaction fees matters to your margins.</li>
+</ul>
+<p>A practical approach is to take your five most complex requirements and test each one on both platforms, using free trials where available. If you are also considering open-source options, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> may help.</p>
+
+<h2>Switching later</h2>
+<p>Products, customers and orders can be migrated between platforms, but themes, apps and customisations do not transfer, and URL changes need careful redirects to protect search visibility. Choosing well at the start avoids an expensive move later. If you are already planning a move to Shopify's enterprise tier, our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a> covers the process.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds ecommerce stores for UK businesses, working remotely across the UK. We can help you set out your requirements, compare platforms against them and build the store. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> and our <a href="/sectors/ecommerce/">ecommerce sector page</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is BigCommerce better than Shopify?</h3>
+<p>Neither is better for everyone. BigCommerce includes more features as standard; Shopify offers a larger ecosystem and is often easier to learn. The right choice depends on your requirements.</p>
+<h3>Is BigCommerce available in the UK?</h3>
+<p>Yes, BigCommerce supports UK merchants, with pounds sterling and UK payment providers. Check current availability of specific features.</p>
+<h3>Which is better for B2B?</h3>
+<p>Both offer B2B features, often depending on plan. List your exact trade workflows and test them on each platform.</p>
+<h3>Does Shopify charge transaction fees?</h3>
+<p>Shopify may charge additional fees if you use a third-party payment provider instead of Shopify Payments. Check current terms for your plan.</p>
+<h3>Can I move from BigCommerce to Shopify?</h3>
+<p>Yes. Products, customers and orders can be migrated, but design and customisations need rebuilding and URLs need redirecting.</p>
+`,
+  },
+  {
+    slug: 'shopify-beauty-skincare-brand-uk',
+    seoTitle: 'Shopify for Beauty and Skincare Brands UK: A Guide',
+    title: 'Shopify for UK Beauty and Skincare Brands: Building a Store Customers Trust',
+    description: 'How UK beauty and skincare brands can sell well on Shopify: product pages, ingredients, shade selection, claims, subscriptions, bundles and regulation.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Beauty and skincare are categories where customers often research carefully before buying. They want to know what is in a product, whether it suits their skin, how to use it and what to realistically expect. They also buy repeatedly once they find something that works. A good online store supports both stages: helping a new customer choose with confidence and making it easy for a returning customer to reorder. Shopify is widely used by UK beauty brands, from small indie skincare labels to larger cosmetics businesses. This guide covers the decisions that shape a Shopify beauty store.</p>
+<p>It is written for founders and ecommerce managers at UK skincare, cosmetics, haircare, body care and fragrance brands. It is not aimed at salons; if you run a salon, our guide to <a href="/blog/beauty-salon-marketing-uk/">beauty salon marketing</a> is a better fit.</p>
+
+<h2>Structuring the catalogue</h2>
+<p>Beauty catalogues tend to include single products, sizes, shades, sets and refills. Plan how each is modelled before building:</p>
+<ul>
+<li><strong>Sizes</strong>, such as 30ml and 50ml, usually work well as variants.</li>
+<li><strong>Shades</strong> for foundations, lipsticks and similar can be variants with swatches, though a large shade range may need a dedicated shade selector.</li>
+<li><strong>Sets and bundles</strong> may be separate products or built using bundle functionality, depending on how stock needs to be tracked.</li>
+<li><strong>Refills</strong> can be variants or separate products linked from the main product page.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers the options in more detail.</p>
+
+<h2>Navigation that matches how people shop</h2>
+<p>Beauty shoppers browse by product type, but also by skin type, concern and routine step. Consider navigation and collections such as:</p>
+<ul>
+<li>Product type: cleansers, serums, moisturisers, SPF, make-up.</li>
+<li>Skin type or concern: dry skin, oily skin, sensitive skin, and so on, worded carefully (see the section on claims below).</li>
+<li>Routine step: cleanse, treat, moisturise, protect.</li>
+<li>Collections and ranges.</li>
+<li>Sets, gifts and travel sizes.</li>
+</ul>
+<p>Filters by skin type, concern, key ingredient and price help shoppers narrow choices, provided the product data behind them is consistent. Use metafields to store attributes like skin type and key ingredients so filters and product pages draw from the same source. Our guide to <a href="/blog/ecommerce-site-search/">ecommerce site search</a> covers making products easy to find.</p>
+
+<h2>Product pages for beauty</h2>
+<p>A strong beauty product page answers the questions a shopper would ask at a counter. Elements to consider:</p>
+<ul>
+<li><strong>Clear imagery</strong> of packaging, texture and, for make-up, swatches on a range of skin tones.</li>
+<li><strong>What it is and who it is for</strong>, in plain language.</li>
+<li><strong>Key ingredients</strong> and what they are included for, described accurately.</li>
+<li><strong>Full ingredients list</strong> in the standard format, easy to find.</li>
+<li><strong>How to use</strong>, including when in a routine and how much to apply.</li>
+<li><strong>Size, shelf life after opening and storage</strong>.</li>
+<li><strong>Warnings and patch test advice</strong> where relevant.</li>
+<li><strong>Reviews</strong>, ideally with skin type information. See our guide to <a href="/blog/ecommerce-product-reviews/">product reviews</a>.</li>
+</ul>
+<p>Tabs or accordions keep long information tidy without hiding it from search engines or shoppers. Our guide to <a href="/blog/ecommerce-product-descriptions/">product descriptions</a> covers structure and tone.</p>
+
+<h2>Shade selection</h2>
+<p>For make-up brands, choosing the right shade online is one of the biggest barriers to purchase. Helpful approaches include clear swatches on several skin tones, descriptions of undertones, comparison with other shades in your range and a simple shade-finding quiz. Keep imagery consistent and colour-accurate across shades, because inconsistent photography makes shades hard to compare. Interactive tools should be tested on mobile and kept light so they do not slow the page.</p>
+
+<h2>Claims and regulation</h2>
+<p>Cosmetic products sold in Great Britain are subject to specific rules, including product safety requirements, a responsible person, notification and labelling requirements, and rules on the claims you can make. Advertising claims, including on your website and social media, also fall under the UK advertising codes overseen by the ASA. In broad terms:</p>
+<ul>
+<li>Claims should be truthful, supported by evidence and not misleading.</li>
+<li>Cosmetics should not be presented as treating or curing medical conditions; that can move a product into medicines regulation.</li>
+<li>Environmental and "clean" or "natural" claims should be specific and supportable; the CMA has published guidance on green claims.</li>
+<li>Before and after images should not be exaggerated or digitally altered in a misleading way.</li>
+</ul>
+<p>The rules are detailed and differ in Northern Ireland, so check current guidance from the Office for Product Safety and Standards, the ASA and the CMA, or take professional advice. This is a general overview, not legal advice.</p>
+
+<h2>Routines, bundles and cross-selling</h2>
+<p>Skincare is often used as a routine, which makes it suited to bundles and complementary product suggestions. Options on Shopify include:</p>
+<ul>
+<li>Curated sets, such as a starter routine or travel kit.</li>
+<li>Build-your-own bundles with a discount.</li>
+<li>"Complete the routine" suggestions on product pages.</li>
+<li>Free samples or minis added at checkout, if your margins allow.</li>
+</ul>
+<p>Keep suggestions genuinely relevant. Recommending products that do not suit the customer's needs can undermine trust.</p>
+
+<h2>Subscriptions and replenishment</h2>
+<p>Products that run out on a predictable cycle, such as cleansers, moisturisers and SPF, can suit subscriptions or replenishment reminders. Shopify supports subscriptions through apps that use its subscription features. Plan the details carefully: delivery frequency options, how customers skip, change or cancel, and how discounts apply. Subscription terms must be clear, and UK rules on subscription contracts have been changing, so check current requirements. Our guide to <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions</a> covers this in more depth.</p>
+<p>A simpler alternative is a replenishment email timed to when a product is likely to run out, with consent handled properly under UK GDPR and PECR. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> explains the principles.</p>
+
+<h2>Delivery and returns</h2>
+<p>Beauty products raise specific delivery and returns questions. Liquids and aerosols may have courier restrictions, especially for international shipping. Glass packaging needs secure packing. On returns, many brands do not accept opened products for hygiene reasons, but UK consumer rules on cancellation and faulty goods still apply, and the position on sealed hygiene products is specific. State your policy clearly and check the current rules. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> explains what to include.</p>
+
+<h2>Packaging and brand experience</h2>
+<p>Beauty is a category where packaging and presentation often matter to customers. The unboxing experience, inserts explaining how to use products, and sustainable packaging choices can all reinforce the brand. Our guide to <a href="/blog/ecommerce-packaging-and-unboxing/">packaging and unboxing</a> covers the practical side, and our <a href="/services/brand-strategy/">brand strategy service</a> page explains how we approach brand work.</p>
+
+<h2>Theme and performance</h2>
+<p>Choose a theme that shows imagery well, supports swatches, tabs and metafields, and stays fast on mobile. Beauty stores often add apps for reviews, quizzes, subscriptions and loyalty, and each app can add code to the site. Review apps regularly and remove those you do not need. Our guides to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> and <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> go further.</p>
+
+<h2>Getting found and growing</h2>
+<p>Beauty is highly competitive in search and social. On the store, unique copy for products and collections, accurate structured data and clear information about ingredients and concerns help search visibility. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the basics. Many beauty brands grow through paid social, Google Shopping, creator content and loyalty schemes. Our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/ecommerce-loyalty-programmes/">loyalty programmes</a> may help, and our <a href="/services/paid-media/">paid media service</a> page explains how we approach advertising.</p>
+
+<h2>Shopify beauty store checklist</h2>
+<ul>
+<li>A clear structure for sizes, shades, sets and refills.</li>
+<li>Navigation by product type, skin type, concern and routine.</li>
+<li>Product pages with ingredients, usage and accurate imagery.</li>
+<li>Claims checked against current rules and guidance.</li>
+<li>Bundles and routines that make sense for customers.</li>
+<li>Subscription or replenishment options with clear terms.</li>
+<li>Delivery and returns policies suited to cosmetics.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands, working remotely across the UK. We can help beauty and skincare brands plan product structure, design product pages and set up the store for repeat purchases. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> and our <a href="/sectors/ecommerce/">ecommerce sector page</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for skincare brands?</h3>
+<p>Yes, Shopify handles variants, bundles, subscriptions via apps and rich product content well, which suits most skincare and beauty brands.</p>
+<h3>What should a skincare product page include?</h3>
+<p>Clear images, who the product is for, key and full ingredients, how to use it, size and shelf life, warnings and genuine reviews.</p>
+<h3>Can I sell skincare subscriptions on Shopify?</h3>
+<p>Yes, through subscription apps that use Shopify's subscription features. Make terms clear and check current UK rules on subscription contracts.</p>
+<h3>What claims can I make about skincare products?</h3>
+<p>Claims should be truthful, evidenced and not suggest medical treatment. Check guidance from the ASA and product safety regulators, or take advice.</p>
+<h3>Do I have to accept returns of opened beauty products?</h3>
+<p>The rules on cancellation for sealed hygiene products are specific, and faulty goods are always covered. Check current rules and state your policy clearly.</p>
+`,
+  },
+  {
+    slug: 'shopify-furniture-homeware-uk',
+    seoTitle: 'Shopify for Furniture and Homeware Brands UK',
+    title: 'Shopify for UK Furniture and Homeware Brands: A Practical Guide',
+    description: 'How UK furniture and homeware brands can sell well on Shopify: product options, materials, dimensions, imagery, large-item delivery, lead times and returns.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Buying furniture online asks a lot of the shopper. They need to be confident that a sofa will fit through the door, that a table will suit the room, that the colour of a fabric matches what they see on screen and that delivery will turn up when promised. Homeware has its own version of the same problem on a smaller scale. A furniture or homeware store succeeds when it answers those questions clearly and makes delivery and returns predictable. Shopify is a popular platform for UK furniture and homeware brands, from small makers and interiors shops to larger retailers. This guide covers the decisions that matter most.</p>
+<p>It is written for founders and ecommerce managers at UK furniture, lighting, soft furnishings, kitchenware and home accessories businesses.</p>
+
+<h2>Why Shopify can suit furniture and homeware</h2>
+<p>Shopify handles product variants, collections and checkout well, offers a wide range of themes suited to visual products and can be extended for configurable items, delivery booking and finance options through apps. Its limitations appear with highly configurable products and complex delivery logic, which is where careful planning matters. If you are comparing platforms, our guides to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> and <a href="/blog/shopify-vs-squarespace-uk/">Shopify vs Squarespace</a> may help.</p>
+
+<h2>Configurable products</h2>
+<p>Furniture often comes in many combinations: sizes, fabrics, colours, wood finishes, leg styles and more. Shopify's standard variants have limits on the number of options and combinations, so highly configurable products need thought.</p>
+<ul>
+<li><strong>Simple options</strong>, such as two sizes and four colours, usually work fine as standard variants.</li>
+<li><strong>Large option sets</strong>, such as dozens of fabrics across several sizes, may need separate products per size, a product options app or a custom configurator.</li>
+<li><strong>Price changes by option</strong> need to be handled accurately so the basket reflects the right price.</li>
+<li><strong>Made-to-order items</strong> may not need stock tracking per combination, but do need clear lead times.</li>
+</ul>
+<p>Whatever approach you take, check how selected options appear on the order, so your team or supplier receives exactly what was chosen. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers the underlying choices.</p>
+
+<h2>Samples and swatches</h2>
+<p>Fabric and finish colours can look different on screen. Offering samples, whether free or paid, can reduce returns and help customers commit to larger purchases. On Shopify, samples can be set up as low-cost products, with ordering limits if needed. Link sample ordering clearly from product pages and make the process quick.</p>
+
+<h2>Dimensions and fit</h2>
+<p>Dimensions are essential information for furniture. Product pages should give:</p>
+<ul>
+<li>Overall width, depth and height, in centimetres and, if useful, inches.</li>
+<li>Key measurements such as seat height, seat depth, table clearance or internal dimensions.</li>
+<li>Packaged dimensions and whether the item arrives assembled, part-assembled or flat-packed.</li>
+<li>Guidance on checking access, such as doorways, stairs and lifts, for large items.</li>
+</ul>
+<p>Dimension diagrams are often clearer than text alone. Store dimensions in metafields so they display consistently and can be reused in filters and product feeds.</p>
+
+<h2>Imagery that helps people picture the product</h2>
+<p>Strong furniture and homeware imagery typically combines:</p>
+<ul>
+<li>Clean product shots from several angles.</li>
+<li>Lifestyle images showing the product in a room, which also convey scale.</li>
+<li>Close-ups of materials, textures, joints and finishes.</li>
+<li>Images of each colour or finish, not just the main one.</li>
+<li>Video or 360-degree views for key products, where practical.</li>
+</ul>
+<p>Shopify supports 3D models and augmented reality viewing on compatible devices, which can help shoppers see an item in their own space, though producing models takes time and investment. Keep image-heavy pages fast; our guides to <a href="/blog/ecommerce-product-photography/">product photography</a> and <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> explain how.</p>
+
+<h2>Materials, care and product safety</h2>
+<p>Describe materials accurately: solid wood or veneer, the type of wood, fabric composition, fillings and finishes. Include care instructions and what customers should expect over time, such as natural variation in wood or leather. Upholstered furniture sold in the UK is subject to fire safety regulations, and other products may have their own safety and labelling requirements. Check current guidance from the Office for Product Safety and Standards or take professional advice. This is a general overview, not legal advice.</p>
+
+<h2>Navigation and collections</h2>
+<p>Furniture and homeware shoppers often browse by room as well as by product type. Useful navigation might include:</p>
+<ul>
+<li>By room: living room, bedroom, dining, home office, outdoor.</li>
+<li>By product type: sofas, tables, storage, lighting, textiles.</li>
+<li>By style, material or collection.</li>
+<li>Filters for size, colour, material and price.</li>
+<li>Collections for ready-to-ship items versus made-to-order.</li>
+</ul>
+<p>A product can sit in several collections, so the same armchair can appear under living room, armchairs and a named range. Our guide to <a href="/blog/ecommerce-category-page-design/">category page design</a> covers making collection pages work well.</p>
+
+<h2>Lead times and stock</h2>
+<p>Many furniture items are made to order or shipped from suppliers with long lead times. Be clear and honest about this:</p>
+<ul>
+<li>Show estimated dispatch or delivery times on product pages and in the basket.</li>
+<li>Distinguish between in-stock items and made-to-order items.</li>
+<li>Consider pre-orders or back-orders for popular items, with clear expected dates.</li>
+<li>Keep customers updated if timescales change.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> covers presenting this information, and our guide to <a href="/blog/ecommerce-transactional-emails/">transactional emails</a> covers keeping customers informed after they order.</p>
+
+<h2>Delivery for large items</h2>
+<p>Delivery is often the hardest part of selling furniture online. Points to plan include:</p>
+<ul>
+<li><strong>Delivery methods</strong>: standard parcel for small homeware, two-person delivery for large items, and options such as room of choice or assembly where offered.</li>
+<li><strong>Shipping rates</strong>: Shopify can calculate shipping by weight, price or product, and apps can handle more complex rules. Rates for large items often vary by postcode, with surcharges for some areas such as the Highlands and islands.</li>
+<li><strong>Delivery booking</strong>: some brands let customers choose a delivery date at checkout; others contact customers to arrange it.</li>
+<li><strong>Mixed baskets</strong>: decide how to handle orders containing both parcel items and large items.</li>
+</ul>
+<p>Show delivery costs and options clearly before checkout to avoid surprises. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> explains what to publish.</p>
+
+<h2>Returns</h2>
+<p>Returns of large items are expensive and awkward, but UK consumer rules generally give online shoppers a right to cancel most goods within a set period, with exceptions for items made to the customer's specification. Be clear about how returns are collected, who pays and the condition required. Good dimensions, samples and imagery are the best ways to reduce returns in the first place. Check current rules and take advice where needed. This is not legal advice.</p>
+
+<h2>Payment options for higher-value orders</h2>
+<p>Larger purchases may benefit from flexible payment options such as buy now, pay later or finance, available through Shopify-compatible providers. Offering credit is regulated in the UK, and the rules around how it is promoted are specific, so check the FCA's requirements and your provider's terms before adding these options.</p>
+
+<h2>Getting found and growing</h2>
+<p>Furniture and homeware searches are often specific, such as an oak dining table for six or a green velvet sofa. Collections and product pages that match these searches, with unique copy and accurate structured data, help. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the essentials. Google Shopping is important for many home brands, and a feed with accurate dimensions, colours and materials supports it; see our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a>. For trade and contract sales, our <a href="/sectors/b2b/">B2B sector page</a> explains how we work with trade-focused businesses.</p>
+
+<h2>Shopify furniture and homeware checklist</h2>
+<ul>
+<li>A plan for configurable products and option pricing.</li>
+<li>Samples and swatches for fabrics and finishes.</li>
+<li>Complete dimensions, including access guidance.</li>
+<li>Imagery that shows scale, materials and every finish.</li>
+<li>Accurate material, care and safety information.</li>
+<li>Clear lead times for made-to-order products.</li>
+<li>Delivery options and costs suited to large items.</li>
+<li>A clear and workable returns process.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands, working remotely across the UK. We can help furniture and homeware brands plan configurable products, design product pages and set up delivery options. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> and our <a href="/sectors/ecommerce/">ecommerce sector page</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for selling furniture?</h3>
+<p>Yes, with planning. Shopify handles collections, imagery and checkout well; configurable products and large-item delivery often need apps or custom work.</p>
+<h3>How do I sell furniture with lots of fabric options on Shopify?</h3>
+<p>Large option sets may exceed standard variant limits, so many stores use separate products per size, a product options app or a custom configurator.</p>
+<h3>How should I charge delivery for large furniture?</h3>
+<p>Many stores use product-based or postcode-based rates, with surcharges for remote areas. Show costs clearly before checkout.</p>
+<h3>Should I offer fabric samples?</h3>
+<p>Samples help customers judge colour and texture, which can reduce returns of large items. Make them easy to order from product pages.</p>
+<h3>Can customers return made-to-order furniture?</h3>
+<p>The usual right to cancel generally does not apply to goods made to the customer's specification, though faulty goods are covered. Check current rules.</p>
+`,
+  },
+  {
+    slug: 'shopify-jewellery-brand-uk',
+    seoTitle: 'Shopify for Jewellery Brands UK: A Practical Guide',
+    title: 'Shopify for UK Jewellery Brands: Building a Store That Builds Trust',
+    description: 'How UK jewellery brands can sell well on Shopify: product structure, photography, metal and stone details, hallmarking, personalisation, gifting and returns.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Selling jewellery online has a particular challenge: shoppers cannot pick a piece up, see how it catches the light or feel its weight. Many purchases are also gifts, made by someone who is not the eventual wearer and is anxious to get it right. A jewellery store has to close that gap with excellent imagery, precise information and policies that reduce the risk of buying. Shopify is a common platform for UK jewellery brands, from independent makers to established designers, because it handles products, variants and checkout well. This guide covers the decisions that matter most when building a Shopify jewellery store.</p>
+<p>It is written for founders and ecommerce managers at UK fine jewellery, demi-fine, fashion jewellery and handmade brands. If you are still choosing a platform, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> may help first.</p>
+
+<h2>Plan your product structure</h2>
+<p>Jewellery catalogues often look simple but have more options than expected: metal colour, metal type, stone, chain length, ring size, engraving and more. How these are modelled affects filtering, stock tracking and how products appear in collections.</p>
+<h3>Variants or separate products?</h3>
+<p>A common question is whether metal options, such as gold vermeil and sterling silver, should be variants of one product or separate products. Separate products give each version its own images, URL and description, which suits pieces that look quite different. Variants keep the catalogue tidier and let shoppers switch on one page. Many stores use separate products linked by swatches for major differences, and variants for size or length. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains the trade-offs.</p>
+<h3>Options that do not fit variants</h3>
+<p>Some choices, such as engraving text or choosing a birthstone from a long list, do not work well as standard variants. These are usually handled through line item properties, metafields or apps that add custom fields to the product page. Decide how each option will work before building, and test how it shows up on orders so your team can fulfil it correctly.</p>
+
+<h2>Collections and navigation</h2>
+<p>Jewellery shoppers browse in several ways, and your navigation should support the main ones:</p>
+<ul>
+<li><strong>By type</strong>: rings, necklaces, earrings, bracelets.</li>
+<li><strong>By material</strong>: gold, silver, platinum, with or without stones.</li>
+<li><strong>By occasion or recipient</strong>: engagement, anniversary, gifts for her or him.</li>
+<li><strong>By collection</strong>: your named ranges or design stories.</li>
+<li><strong>By price</strong>: useful for gift buyers with a budget.</li>
+</ul>
+<p>Filters for metal, stone and price on collection pages help shoppers narrow down quickly, especially on mobile. Collections that match what people search for, such as gold hoop earrings or personalised necklaces, are also useful landing pages for search. Our guide to <a href="/blog/ecommerce-category-page-design/">category page design</a> covers the principles.</p>
+
+<h2>Photography and scale</h2>
+<p>Imagery carries more weight in jewellery than almost anywhere else. Small objects are hard to photograph well, and poor images can make a beautiful piece look cheap. Strong jewellery product pages usually include:</p>
+<ul>
+<li>Clean, consistent product shots on a plain background.</li>
+<li>Close-up detail images showing settings, clasps and finish.</li>
+<li>On-body images showing how the piece looks when worn and its real size.</li>
+<li>A sense of scale, such as dimensions alongside a model shot or a familiar reference.</li>
+<li>Short video where possible, to show movement and sparkle.</li>
+</ul>
+<p>Make sure images reflect the real colour and finish of the piece; misleading images lead to returns and erode trust. Image-heavy pages also need care to stay fast. Our guides to <a href="/blog/ecommerce-product-photography/">product photography</a> and <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> cover both sides.</p>
+
+<h2>Product information that builds confidence</h2>
+<p>Jewellery shoppers want precise details. Product descriptions should be accurate and specific:</p>
+<ul>
+<li>Metal type and fineness, such as 9ct gold or sterling silver, and whether a piece is plated, vermeil or solid.</li>
+<li>Stone type, whether natural or lab-grown, and any relevant details you can accurately state.</li>
+<li>Dimensions, weight where useful, chain length and clasp type.</li>
+<li>Care instructions and how the finish may change over time.</li>
+<li>Where and how pieces are made, stated truthfully.</li>
+</ul>
+<p>Describe materials precisely and avoid vague or exaggerated claims. Consumer protection law requires product information to be accurate and not misleading. Our guide to <a href="/blog/ecommerce-product-descriptions/">writing product descriptions</a> has more on structure and tone.</p>
+
+<h2>Hallmarking</h2>
+<p>In the UK, items described as gold, silver, platinum or palladium above certain weight thresholds generally need to be hallmarked by an independent assay office before they can be sold as such, and dealers are expected to display information explaining hallmarks. The rules, exemptions and display requirements are specific, so check current guidance from the assay offices and the Office for Product Safety and Standards, or take professional advice. This is a general overview, not legal advice. On the website, it can help to explain what your hallmarks mean on product pages or in a dedicated information page.</p>
+
+<h2>Ring sizing</h2>
+<p>Ring size uncertainty is a common barrier. Help shoppers by providing:</p>
+<ul>
+<li>A clear ring size guide using UK letter sizes, with conversions if you sell abroad.</li>
+<li>Instructions for measuring an existing ring or a finger at home.</li>
+<li>Information on whether resizing is possible and on what terms.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-size-guides/">ecommerce size guides</a> covers how to present this information well.</p>
+
+<h2>Personalisation and made-to-order pieces</h2>
+<p>Engraving, initials, birthstones and bespoke sizes are popular in jewellery. On Shopify, these are usually handled with custom fields on the product page, often via an app or theme customisation. Points to plan:</p>
+<ul>
+<li>Show a preview or clear example of what personalised text will look like where possible.</li>
+<li>Set character limits and explain which characters are supported.</li>
+<li>Give realistic production times and show them before checkout.</li>
+<li>Make sure personalisation details appear clearly on orders and packing slips.</li>
+</ul>
+<p>In the UK, the usual right to cancel an online order generally does not apply to goods made to the customer's specifications or clearly personalised, but faulty goods are still covered. State your policy clearly and check the current rules. This is not legal advice.</p>
+
+<h2>Gifting</h2>
+<p>Gift buyers are a large part of many jewellery brands' customers, and they need extra reassurance. Features worth considering include:</p>
+<ul>
+<li>Gift wrapping or presentation box options.</li>
+<li>Gift messages added at checkout.</li>
+<li>Gift receipts or the option to hide prices on packing slips.</li>
+<li>Clear delivery cut-off dates for key occasions such as Christmas and Valentine's Day.</li>
+<li>Extended returns windows over gifting seasons, if you choose to offer them.</li>
+<li>Gift cards for buyers unsure what to choose.</li>
+</ul>
+<p>Our guides to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a>, <a href="/blog/ecommerce-packaging-and-unboxing/">packaging and unboxing</a> and <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> go further.</p>
+
+<h2>Delivery, insurance and returns</h2>
+<p>Jewellery is small, valuable and attractive to thieves, so delivery needs thought. Many brands use tracked and signed-for services for higher-value orders and explain this on the delivery page. Check that your courier cover and business insurance reflect the value of what you send. A clear returns policy, covering time limits, condition, packaging, personalised items and who pays return postage, reduces customer anxiety. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> explains what to include.</p>
+
+<h2>Trust signals</h2>
+<p>Because jewellery can be expensive and is often bought from brands the shopper has not used before, trust matters. Genuine reviews, a clear about page telling the real story of the brand, visible contact details and accurate material information all help. Collect and show reviews honestly; our guide to <a href="/blog/ecommerce-product-reviews/">product reviews</a> covers the rules and good practice.</p>
+
+<h2>Getting found and growing</h2>
+<p>Jewellery is competitive in search and paid advertising. On the store itself, unique product and collection copy, sensible URLs, structured data and fast pages all help. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the essentials. Many jewellery brands also grow through Google Shopping and email marketing; a clean product feed with accurate titles, materials and images is the foundation. See our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a>.</p>
+
+<h2>Shopify jewellery store checklist</h2>
+<ul>
+<li>A product structure for metals, stones, sizes and personalisation.</li>
+<li>Navigation by type, material, occasion and price.</li>
+<li>Accurate, consistent imagery with scale and on-body shots.</li>
+<li>Precise material details and hallmark information.</li>
+<li>A ring size guide and resizing information.</li>
+<li>Gifting options and clear seasonal delivery dates.</li>
+<li>Delivery, insurance and returns arrangements suited to valuable items.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands, working remotely across the UK. We can help jewellery brands plan product structure, design product pages and set up the store for gifting seasons. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> and our <a href="/sectors/ecommerce/">ecommerce sector page</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for jewellery brands?</h3>
+<p>Yes, Shopify handles variants, collections, personalisation via custom fields and gifting features well. Success still depends on imagery, product information and trust.</p>
+<h3>How do I add engraving to a Shopify product?</h3>
+<p>Engraving is usually added with custom fields on the product page, through theme customisation or an app, so the text is captured with the order.</p>
+<h3>Do I need to hallmark jewellery I sell online?</h3>
+<p>Items described as precious metals above certain weights generally need hallmarking in the UK. Check current guidance from the assay offices or take advice.</p>
+<h3>Can customers return personalised jewellery?</h3>
+<p>The usual right to cancel generally does not apply to personalised goods, though faulty items are still covered. Set out your policy clearly and check current rules.</p>
+<h3>How do I show the size of jewellery online?</h3>
+<p>Use on-body photos, list dimensions and chain lengths, and provide size guides, so shoppers can judge scale before buying.</p>
+`,
+  },
+  {
+    slug: 'wix-vs-wordpress-uk',
+    seoTitle: 'Wix vs WordPress UK: Which Is Right for Your Business?',
+    title: 'Wix vs WordPress for UK Businesses: An Honest Comparison',
+    description: 'Wix vs WordPress for UK small businesses: ease of use, design control, SEO, ecommerce, ownership, maintenance and when it makes sense to switch.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wix-to-wordpress-migration/', '/pricing/'],
+    body: `
+<p>Wix and WordPress are two of the most common ways UK businesses build a website. Both can produce a professional site, and both are used by sole traders, local service firms and growing companies. They are built on very different ideas, though, and those differences matter more as a business grows. This guide compares them on the points that tend to decide the question in practice: who runs the site, how much control you need, how search visibility is handled, what ecommerce looks like and what happens if you want to leave.</p>
+<p>It is written for UK business owners and marketing leads choosing a platform for a new site or wondering whether to move an existing one.</p>
+
+<h2>The basic difference</h2>
+<p><strong>Wix</strong> is a hosted website builder. You pay a subscription and Wix provides the software, hosting, security updates and a drag-and-drop editor in one package. You build within the tools Wix offers, plus apps from its marketplace.</p>
+<p><strong>WordPress</strong> (in the sense most businesses mean it, the self-hosted software from WordPress.org) is free, open-source software that you install on hosting you choose. You pick a theme, add plugins and can change almost anything with code. In return you, or someone you appoint, are responsible for hosting, updates, backups and security.</p>
+<p>WordPress.com, the hosted service, sits somewhere in between. When this guide says WordPress, it means the self-hosted version unless stated.</p>
+
+<h2>Ease of use</h2>
+<p>Wix is designed for people who want to build and edit a site without technical knowledge. The editor is visual, templates are ready to customise and there is nothing to install. For a small business owner who wants to update their own opening hours, photos and services, that is a real advantage.</p>
+<p>WordPress has a steeper start. The block editor is now fairly approachable for editing pages and posts, but setting up a site well involves decisions about hosting, themes and plugins. Once a site is built properly, day-to-day editing can be straightforward, and many businesses have a developer build the site and then manage content themselves. Our guide to <a href="/blog/wordpress-page-builders-uk/">WordPress page builders</a> explains the editing options.</p>
+
+<h2>Design and flexibility</h2>
+<p>Wix gives a lot of visual freedom within its editor, and templates cover most common business types. The limits appear when you need something the platform does not support: unusual layouts across many pages, custom functionality, complex integrations or a specific content structure. Wix does offer developer tools, but you are still working inside its system.</p>
+<p>WordPress can be shaped into almost anything, from a simple brochure site to a large content site, membership site or online shop. Custom post types, custom fields and bespoke themes let a site be structured around how the business actually works. That flexibility is why WordPress is common for sites expected to grow. It also means quality varies widely depending on how the site is built.</p>
+
+<h2>SEO</h2>
+<p>Both platforms can rank well in Google. Search performance depends far more on content, site structure, speed and links than on the platform alone. That said, there are practical differences.</p>
+<ul>
+<li><strong>Wix</strong> covers the essentials: editable titles and meta descriptions, custom URLs, redirects, sitemaps and structured data options. It has improved considerably over the years, though some technical settings are less configurable than on a self-hosted site.</li>
+<li><strong>WordPress</strong> gives full control over URLs, templates, markup, structured data and server configuration, usually via SEO plugins and theme code. That control is useful for larger sites but also leaves more room for mistakes.</li>
+</ul>
+<p>For most small service businesses, either platform can do the job if the site is set up sensibly. Our <a href="/services/seo-geo/">SEO and GEO service</a> page explains how we approach search.</p>
+
+<h2>Blogging and content</h2>
+<p>If content marketing is part of your plans, consider how each platform handles it. WordPress began as blogging software, and publishing, categorising and organising large amounts of content remains one of its strengths, with fine control over archives, categories and templates. Wix includes a capable blog and is perfectly adequate for publishing regular articles on a small site. The gap tends to show on sites with hundreds of posts, multiple authors or complex content types, where WordPress's structure is easier to scale.</p>
+<h2>Speed and performance</h2>
+<p>Wix manages hosting and performance for you, which removes a set of decisions but also limits how much you can tune. WordPress performance depends heavily on hosting, theme and plugins: a lean, well-built site can be very fast, while a site overloaded with plugins on cheap hosting can be slow. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting in the UK</a> covers the main choices.</p>
+
+<h2>Ecommerce</h2>
+<p>Both can sell online. Wix has built-in ecommerce on its business plans, which suits small catalogues and simple shops. WordPress sells through WooCommerce, a free plugin that turns the site into a full store and can be extended a long way, at the cost of more setup and maintenance.</p>
+<p>If selling online is the main purpose of the site, it is worth comparing a dedicated ecommerce platform too. See our comparisons of <a href="/blog/wix-vs-shopify-uk/">Wix vs Shopify</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a>.</p>
+
+<h2>Maintenance and security</h2>
+<p>This is where the two differ most in daily life.</p>
+<ul>
+<li><strong>Wix</strong> handles software updates, hosting and platform security. Your responsibilities are mostly your own content, account security and any apps you add.</li>
+<li><strong>WordPress</strong> needs regular core, theme and plugin updates, backups, monitoring and good hosting. Neglected WordPress sites can become vulnerable. Many businesses pay for a maintenance arrangement for this reason.</li>
+</ul>
+<p>Our guide to <a href="/blog/wordpress-security-uk/">WordPress security</a> explains what good maintenance involves.</p>
+
+<h2>Ownership and portability</h2>
+<p>With WordPress you own the software installation and can move it to another host whenever you like. Your content, database and files are yours to export and take elsewhere.</p>
+<p>With Wix, your site lives on Wix. You can export some content, such as blog posts, but you cannot take the site's design and structure to another platform. If you outgrow Wix, moving usually means rebuilding the site and carefully redirecting old URLs. Our guide to <a href="/blog/wix-to-wordpress-migration/">migrating from Wix to WordPress</a> covers that process.</p>
+
+<h2>Costs</h2>
+<p>Cost comparisons are less simple than they look. Wix bundles hosting and software into a subscription, with premium apps on top. WordPress software is free, but hosting, premium themes or plugins, development and maintenance all cost money. A professionally built site on either platform involves design and build time too. Platform pricing changes, so check current plans directly. For website project costs, see our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> and our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Which should you choose?</h2>
+<h3>Wix may suit you if:</h3>
+<ul>
+<li>You want to build and edit the site yourself with minimal technical involvement.</li>
+<li>The site is a fairly simple brochure site for a small or local business.</li>
+<li>You would rather not deal with hosting, updates or security.</li>
+<li>You do not expect complex functionality or integrations.</li>
+</ul>
+<h3>WordPress may suit you if:</h3>
+<ul>
+<li>You expect the site to grow in content, features or traffic.</li>
+<li>You need custom functionality, integrations or a specific content structure.</li>
+<li>Owning and being able to move your site matters to you.</li>
+<li>You have, or are willing to pay for, someone to build and maintain it properly.</li>
+</ul>
+<p>Our guide to <a href="/blog/wordpress-small-business-website/">WordPress for small business websites</a> goes further into whether WordPress is a good fit.</p>
+
+<h2>Thinking about switching?</h2>
+<p>If you are on Wix and running into limits, write down what you actually cannot do. Sometimes the answer is better use of the current platform rather than a rebuild. If a move is justified, plan it properly: map every URL, set up redirects, move content carefully and check analytics and search performance afterwards. Moving from WordPress to Wix is less common but follows the same principles.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. We can help you weigh up platforms against your plans, build on WordPress, or plan a migration. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Wix or WordPress better for SEO?</h3>
+<p>Both can rank well. WordPress offers more technical control, which matters more for larger sites. For a small site, content quality and structure usually matter more than the platform.</p>
+<h3>Is Wix cheaper than WordPress?</h3>
+<p>Not necessarily. Wix bundles hosting into a subscription; WordPress is free software but needs hosting, maintenance and often development. Compare the full cost over several years.</p>
+<h3>Can I move my Wix site to WordPress?</h3>
+<p>Yes, but it is usually a rebuild rather than a one-click transfer. Content can be moved, and redirects are needed to protect search visibility.</p>
+<h3>Is WordPress hard to use?</h3>
+<p>Editing content on a well-built WordPress site is fairly straightforward. Setting one up and maintaining it takes more technical knowledge than Wix.</p>
+<h3>Which is better for a small business?</h3>
+<p>It depends on who runs the site and how much it needs to grow. Wix suits simple sites run by the owner; WordPress suits businesses that need flexibility and control.</p>
+`,
+  },
 ];
