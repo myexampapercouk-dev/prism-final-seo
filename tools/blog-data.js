@@ -21596,4 +21596,469 @@ module.exports = [
 <p>It depends on who runs the site and how much it needs to grow. Wix suits simple sites run by the owner; WordPress suits businesses that need flexibility and control.</p>
 `,
   },
+  {
+    slug: 'etsy-to-shopify-migration',
+    seoTitle: 'Etsy to Shopify: Moving Your UK Shop to Your Own Store',
+    title: 'Moving From Etsy to Shopify: A Guide for UK Sellers',
+    description: 'Thinking of moving from Etsy to Shopify? What changes, how to move products and customers, keeping Etsy running, traffic, policies and SEO for UK sellers.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Etsy is where many UK makers and small creative businesses start selling online. It is quick to set up, buyers already go there looking for handmade, vintage and personalised items, and the marketplace handles much of the technical side. As a shop grows, some sellers start to want more: their own brand front and centre, more control over how products are presented, a direct relationship with customers and less dependence on one marketplace's rules and fees.</p>
+<p>Shopify is a common next step. This guide explains what changes when you move, how to plan the move, whether to keep your Etsy shop, and what it takes to build traffic to your own store. It is general guidance, and both platforms' features and fees change, so check current details.</p>
+
+<h2>What actually changes</h2>
+<p>The difference between Etsy and Shopify is not just the software. It is the business model.</p>
+<ul>
+<li><strong>Traffic.</strong> On Etsy, buyers find your listings through Etsy's search and recommendations. On Shopify, nobody arrives unless you bring them through search engines, social media, email, advertising or word of mouth.</li>
+<li><strong>Branding.</strong> Etsy shops share a common layout. On Shopify, the whole site can reflect your brand, from design to navigation to tone.</li>
+<li><strong>Customer relationship.</strong> On your own store, customers buy from you directly, and with appropriate consent you can build an email list and market to them.</li>
+<li><strong>Responsibility.</strong> You write your own policies, manage your own payment setup, handle customer service directly and are responsible for compliance with UK consumer and data protection law on your site.</li>
+<li><strong>Costs.</strong> Etsy charges listing and transaction-based fees. Shopify charges a subscription plus payment processing and any paid apps or themes. Which works out cheaper depends on your sales volume and setup, so compare current fees for your situation. See our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> for the cost components.</li>
+</ul>
+
+<h2>Should you keep your Etsy shop?</h2>
+<p>Closing Etsy on the day the Shopify store launches is risky, because the new store will usually have little traffic at first. Many sellers run both channels for a period, or permanently. Etsy continues to bring in marketplace buyers while the Shopify store builds its own audience.</p>
+<p>Running both means managing stock across two places. If you sell one-of-a-kind items, an item could sell on both before you update the other. Options include keeping some ranges exclusive to one channel, updating stock promptly by hand, or using an integration that connects the two. Check that any integration handles your variants and personalisation correctly.</p>
+<p>Be aware of Etsy's rules about directing buyers away from the marketplace. Check Etsy's current seller policies before adding links or messages about your own website in listings or communications.</p>
+
+<h2>Moving your products</h2>
+<p>Product data can be exported from Etsy and imported into Shopify, either via a spreadsheet or using a migration app. However, it is rarely a straight copy, and the move is a good opportunity to improve things.</p>
+<ul>
+<li><strong>Variants.</strong> Etsy's variation structure does not always map neatly to Shopify's options and variants, so check each product after import.</li>
+<li><strong>Personalisation.</strong> Etsy's personalisation box needs replacing with custom fields on the Shopify product page, through theme customisation or an app, so the details are captured with each order.</li>
+<li><strong>Titles.</strong> Etsy titles are often stuffed with keywords to suit marketplace search. On your own store, clearer, more readable product names usually work better, with keywords used naturally in titles and descriptions.</li>
+<li><strong>Descriptions.</strong> Rewrite descriptions to suit your brand voice and answer buyers' questions. Avoid copying the exact same text in both places where you can. Our guide to <a href="/blog/ecommerce-product-descriptions/">product descriptions</a> helps.</li>
+<li><strong>Images.</strong> Re-upload the highest-resolution versions available and consider adding more lifestyle and detail shots.</li>
+<li><strong>Collections.</strong> Group products into collections that suit browsing on your own site, rather than relying only on Etsy's shop sections.</li>
+</ul>
+<p>Our guides to <a href="/blog/ecommerce-product-variants-and-bundles/">variants and bundles</a> and <a href="/blog/ecommerce-category-page-design/">category page design</a> cover setup in more detail.</p>
+
+<h2>Reviews and customer data</h2>
+<p>Reviews are one of Etsy's strengths, and sellers naturally want to bring them across. Some review apps can import reviews, but check Etsy's terms and the app's approach, and only display genuine reviews with their original context. Never edit reviews to change their meaning or invent new ones. Our guide to <a href="/blog/ecommerce-product-reviews/">product reviews</a> covers collecting reviews on your own store.</p>
+<p>Customer information collected through Etsy is subject to Etsy's policies and to UK data protection law. Do not assume you can add Etsy buyers to your marketing list. Check current Etsy policies and UK GDPR guidance from the Information Commissioner's Office, and build your own email list with proper consent on the new store.</p>
+
+<h2>Policies and legal pages</h2>
+<p>On Etsy, some aspects of the buying framework are set by the marketplace. On your own store, you need your own terms and conditions, privacy policy, cookie information, delivery information and returns policy. UK consumer law generally gives online buyers a right to cancel, with exceptions that can apply to personalised or made-to-order items. Take advice or check current guidance to make sure your policies are accurate, rather than copying another site's. Our guides to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> and <a href="/blog/cookie-banner-design-uk/">cookie banners</a> cover presentation.</p>
+
+<h2>Designing a store that earns trust</h2>
+<p>On Etsy, buyers rely partly on the marketplace's familiarity. On a new standalone store, they need other reasons to trust you. That includes a clear about page explaining who you are and how you make your products, visible contact details, straightforward policies, secure checkout and genuine reviews. Good photography and a consistent brand help too. Our guides to <a href="/blog/website-trust-signals/">website trust signals</a> and <a href="/blog/about-us-page-writing/">writing an about us page</a> explain what to include.</p>
+
+<h2>Building traffic to your own store</h2>
+<p>This is the part that most determines whether the move is worthwhile. Common channels include:</p>
+<ul>
+<li><strong>Search engines.</strong> Well-structured collection and product pages, useful content and good technical foundations can help your store rank over time. See our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a>.</li>
+<li><strong>Existing audiences.</strong> If you have followers on social media, point them to your own store in line with each platform's rules.</li>
+<li><strong>Email.</strong> Build a list from day one with clear consent. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> explains the basics.</li>
+<li><strong>Packaging inserts.</strong> For orders fulfilled through your own store, a card with your website can encourage repeat purchases. Check Etsy's rules before including such material in Etsy orders.</li>
+<li><strong>Paid advertising.</strong> Google Shopping and social ads can bring traffic quickly but need budget and careful management. See our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a>.</li>
+<li><strong>Craft fairs and events.</strong> If you sell in person, Shopify POS can connect in-person sales to your online store.</li>
+</ul>
+<p>Expect this to take time. A pre-launch plan helps; our guide to <a href="/blog/ecommerce-pre-launch-marketing/">ecommerce pre-launch marketing</a> covers building interest before the store opens.</p>
+
+<h2>Measuring whether the move is working</h2>
+<p>Set up analytics on the new store from launch so you can see where visitors come from, which products they view and where they drop out of the checkout. Compare trends over months rather than days, since a new store's traffic usually builds gradually. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics of tracking an online store.</p>
+
+<h2>A sensible order of work</h2>
+<ul>
+<li>Decide whether you will run both channels and how you will handle stock.</li>
+<li>Choose a domain and set up business email. See our <a href="/blog/business-domain-and-email-setup/">domain and email setup guide</a>.</li>
+<li>Set up the Shopify store, theme, payments, shipping and tax settings, taking advice on VAT if relevant.</li>
+<li>Import and then clean up products, rewriting titles and descriptions.</li>
+<li>Write policies and legal pages.</li>
+<li>Test the full purchase journey, including personalised orders.</li>
+<li>Launch, then build traffic steadily while Etsy continues.</li>
+</ul>
+<p>Our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> walks through the platform setup in more detail.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds Shopify stores for UK brands and makers, working remotely across the UK. For sellers moving from Etsy, we can help plan the product structure, set up personalisation fields, design the store and prepare it for search. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I move my Etsy listings to Shopify?</h3>
+<p>Yes, listings can be exported from Etsy and imported into Shopify via spreadsheet or an app. Check variants, personalisation and images after import.</p>
+<h3>Should I close my Etsy shop when I open on Shopify?</h3>
+<p>Many sellers keep Etsy running while the new store builds traffic. Plan how you will manage stock across both.</p>
+<h3>Can I bring my Etsy reviews to Shopify?</h3>
+<p>Some review apps can import reviews. Check Etsy's terms and only display genuine reviews without altering them.</p>
+<h3>Can I email my Etsy customers about my new store?</h3>
+<p>Not automatically. Etsy's policies and UK data protection law apply, so check current rules and build your own consented list.</p>
+<h3>Is Shopify cheaper than Etsy?</h3>
+<p>It depends on your sales volume, plan, payment fees and apps. Compare current fees for both platforms based on your own figures.</p>
+`,
+  },
+  {
+    slug: 'shopify-art-print-sellers-uk',
+    seoTitle: 'Shopify for Artists and Print Sellers in the UK',
+    title: 'Shopify for UK Artists and Print Sellers',
+    description: 'How UK artists and print sellers can sell on Shopify: originals vs editions, sizes and framing, print on demand, product pages, packaging, VAT and SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Selling art online is different from selling most products. A one-off original painting cannot be restocked. A limited edition print has a fixed number of copies, and buyers care about which number they receive. Open edition prints may be produced on demand in several sizes, with or without frames. And buyers are often making an emotional, considered purchase, wanting to understand the work, the artist and exactly how it will look in their home.</p>
+<p>This guide covers how UK artists, illustrators, photographers and print studios can set up a Shopify store that handles these differences well. It focuses on structure and presentation rather than any particular art style.</p>
+
+<h2>Why your own store, and how it fits with marketplaces</h2>
+<p>Many artists start on marketplaces such as Etsy, which bring built-in traffic. Your own Shopify store offers more control over design, presentation, pricing structure and customer relationships, and lets you build a brand around your work rather than within a marketplace's listing format. The trade-off is that you need to bring visitors yourself through search, social media, email and other channels.</p>
+<p>Many sellers run both. If you are thinking about moving across, our guide to <a href="/blog/wix-vs-shopify-uk/">Wix vs Shopify</a> and <a href="/blog/shopify-vs-squarespace-uk/">Shopify vs Squarespace</a> may help you compare platforms, as portfolio-style builders are a common alternative for artists.</p>
+
+<h2>Originals, limited editions and open editions</h2>
+<p>The most important structural decision is how to model the different kinds of work you sell.</p>
+<ul>
+<li><strong>Originals.</strong> Each original is a single product with a stock quantity of one. Once sold, you can keep the page live and marked as sold to preserve the portfolio and its search value, or hide it. Showing sold work can demonstrate demand and range, but make sure shoppers can easily find what is still available.</li>
+<li><strong>Limited editions.</strong> The edition size sets a fixed stock level. State the edition size, paper, printing method and whether prints are signed and numbered. If buyers can choose a specific number, that needs custom handling; most sellers allocate numbers in order.</li>
+<li><strong>Open editions.</strong> These can be reprinted, so stock may be unlimited or managed per size. They usually sit at a lower price point and suit a wider range of sizes and framing options.</li>
+</ul>
+<p>Collections can separate these clearly, such as originals, limited editions and prints, while tags or metafields store details like medium, year, edition size and dimensions. Be accurate: do not describe an edition as limited unless it genuinely is, and do not reissue a limited edition in the same form.</p>
+
+<h2>Sizes and framing as variants</h2>
+<p>For prints, size and framing are typically the main options. Shopify variants handle combinations such as A4 unframed, A3 framed in black and so on. A few practical points:</p>
+<ul>
+<li><strong>Keep options manageable.</strong> Every size multiplied by every frame colour can create a long list. Offer the combinations that make sense rather than every possibility.</li>
+<li><strong>Give exact dimensions.</strong> State the paper size, image size and, for framed prints, the outer frame size including any mount.</li>
+<li><strong>Update images per variant.</strong> When a shopper selects a framed option, show that framed version.</li>
+<li><strong>Explain aspect ratios.</strong> Not every artwork fits standard paper sizes, so say whether there will be a border.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers how to structure options cleanly.</p>
+
+<h2>Helping buyers picture the work at home</h2>
+<p>Scale is a common uncertainty when buying art online. A print that looks large on a phone screen may be smaller than expected. Ways to help include:</p>
+<ul>
+<li>Room setting images showing the work on a wall with familiar objects for scale.</li>
+<li>Photos of the actual print or original, including close-ups of texture, paper and brushwork.</li>
+<li>A simple size comparison showing each print size side by side.</li>
+<li>Clear notes on colour, since screens display colours differently.</li>
+</ul>
+<p>If you use mock-up images rather than photos of the actual piece in a room, it is fair to make that clear. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> covers capturing work accurately.</p>
+
+<h2>Telling the story behind the work</h2>
+<p>Art buyers often want to connect with the artist and the piece. Product descriptions can cover what inspired the work, the materials and process, and anything that makes it distinctive, alongside the practical details. An about page that introduces the artist or studio, the way you work and where you are based in the UK helps buyers feel confident. Our guides to <a href="/blog/about-us-page-writing/">writing an about us page</a> and <a href="/blog/ecommerce-product-descriptions/">product descriptions</a> offer structure.</p>
+
+<h2>Print on demand vs printing yourself</h2>
+<p>Artists generally choose between producing prints themselves or through a local printer and holding stock, or using a print on demand service connected to Shopify that prints and ships each order. Each approach has trade-offs:</p>
+<ul>
+<li><strong>Holding stock</strong> gives control over quality, packaging and presentation, but ties up money and needs storage and time for fulfilment.</li>
+<li><strong>Print on demand</strong> avoids stock and can offer many sizes, but you have less control over quality and packaging, margins differ, and you rely on a third party for delivery times.</li>
+</ul>
+<p>If you use print on demand, order samples to check quality, and make sure delivery times shown on your site reflect the service's production and shipping times. Some artists use a mix, fulfilling originals and limited editions themselves while open editions are printed on demand.</p>
+
+<h2>Packaging and delivery</h2>
+<p>Art needs careful packaging. Prints are usually shipped flat with rigid backing or rolled in tubes, and framed work and originals need more protection, especially glass. Shopify shipping profiles let you set different rates for small prints, large framed pieces and originals. Consider whether to offer insured or tracked delivery for higher value items. Our guides to <a href="/blog/ecommerce-packaging-and-unboxing/">packaging and unboxing</a> and <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> go into detail.</p>
+<p>On returns, buyers usually have cancellation rights for online purchases, though exceptions can apply, for example to items made to the customer's specification. Check current consumer rules and set out your policy clearly.</p>
+
+<h2>Selling internationally</h2>
+<p>Art can appeal to buyers abroad, and Shopify supports multiple currencies and international shipping. Sending framed work overseas can be costly and risky, so some artists offer international delivery only on unframed or rolled prints. Customs, duties and VAT can apply when shipping outside the UK. See our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a>, and take advice on your tax position.</p>
+
+<h2>A note on VAT and copyright</h2>
+<p>VAT treatment of works of art can involve specific rules, and whether you need to register depends on your turnover and circumstances. Speak to an accountant or check current HMRC guidance rather than assuming. Similarly, if you sell prints of work that includes others' imagery, characters or trademarks, check you have the rights to do so. As the creator, you generally hold copyright in your own original work, and selling a print does not usually transfer it, but take advice if you plan licensing arrangements.</p>
+
+<h2>SEO for art and print stores</h2>
+<p>People search for art in many ways: by subject, such as coastal prints; by style, such as abstract or botanical; by room, such as kitchen wall art; by medium; and by location-based subjects, such as prints of particular UK cities or landscapes. Collection pages organised around these themes, with genuine introductory text, can match that intent.</p>
+<ul>
+<li>Give each artwork a descriptive title rather than only a poetic one, or include descriptive terms in the page title.</li>
+<li>Write alt text describing what each image actually shows.</li>
+<li>Avoid duplicate descriptions across sizes and editions of the same work.</li>
+<li>Keep sold originals live where they still help visitors and search, with clear links to available work.</li>
+</ul>
+<p>Our guides to <a href="/blog/shopify-seo-uk/">Shopify SEO</a> and <a href="/blog/website-image-optimisation/">image optimisation</a> are particularly relevant for image-heavy stores.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands and creators, working remotely across the UK. For artists and print sellers, that can mean structuring originals and editions, setting up size and framing variants, and designing pages that show work at its best. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for selling art prints?</h3>
+<p>Yes, Shopify handles size and framing variants, limited stock for editions and shipping profiles well. Presentation and imagery matter as much as the platform.</p>
+<h3>How do I sell limited edition prints on Shopify?</h3>
+<p>Set stock to the edition size and state the edition size, paper and signing details clearly. Do not reissue the same limited edition once sold out.</p>
+<h3>Should I keep sold originals on my website?</h3>
+<p>Many artists keep sold work visible as a portfolio, clearly marked as sold. Make sure available pieces are easy to find.</p>
+<h3>Can I use print on demand with Shopify?</h3>
+<p>Yes, print on demand services can connect to Shopify. Order samples to check quality and show realistic delivery times.</p>
+<h3>Do I need to charge VAT on art?</h3>
+<p>It depends on your turnover and circumstances, and works of art can involve specific VAT rules. Check current HMRC guidance or speak to an accountant.</p>
+`,
+  },
+  {
+    slug: 'shopify-pet-products-brand-uk',
+    seoTitle: 'Shopify for Pet Product Brands UK: A Practical Guide',
+    title: 'Shopify for UK Pet Product Brands',
+    description: 'How UK pet product brands can use Shopify well: catalogue structure by pet and size, pet food labelling, subscriptions, product pages, delivery and SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Pet products sit in an interesting corner of ecommerce. Some items are bought once, such as a bed, a crate or a harness, while others are bought again and again, such as food, treats, litter and poo bags. Owners are often emotionally invested, they want to know a product is safe and suitable for their animal, and they frequently need to get sizes right without the pet in the room. Shopify can handle all of this well, but the store needs to be set up with those habits in mind.</p>
+<p>This guide covers how UK pet product brands can structure a Shopify store, write product pages that answer owners' questions, handle repeat purchases and approach the regulatory side with care. It is general guidance rather than legal advice, so check current rules for your specific products.</p>
+
+<h2>Is Shopify a good fit for pet brands?</h2>
+<p>For most small and growing pet brands, Shopify is a sensible choice. It is hosted, so you do not manage servers or security patches, and it handles variants, collections, discount codes and subscriptions through its own features and app ecosystem. If you are weighing it against other platforms, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> and <a href="/blog/wix-vs-shopify-uk/">Wix vs Shopify guide</a> set out the trade-offs.</p>
+<p>The platform matters less than the decisions you make inside it: how products are grouped, how sizing is explained, how repeat purchases work and how clearly safety and suitability information is presented.</p>
+
+<h2>Structure the catalogue around the animal</h2>
+<p>Pet owners rarely start by thinking about product types in the abstract. They think about their dog, their cat or their rabbit, and then what that animal needs. A navigation that reflects this tends to be easier to use.</p>
+<ul>
+<li><strong>Shop by pet first.</strong> Top-level collections such as dogs, cats and small animals let owners filter out irrelevant products immediately.</li>
+<li><strong>Then by need.</strong> Within each animal, group by food, treats, toys, beds, walking, grooming and health.</li>
+<li><strong>Then by size or life stage.</strong> Puppy, adult and senior, or small, medium and large breed, are common ways owners narrow choices.</li>
+</ul>
+<p>Shopify collections can be manual or automated by tags and product attributes, and a single product can sit in several collections. A harness can appear under dogs, walking and small breed without duplicating the product. Filters on collection pages, built on product options and metafields, let shoppers narrow by size, material or flavour. Our guide to <a href="/blog/ecommerce-category-page-design/">ecommerce category page design</a> and <a href="/blog/website-navigation-structure/">website navigation structure</a> go into more depth.</p>
+
+<h2>Sizing without the pet in the room</h2>
+<p>Collars, harnesses, coats, beds and crates all depend on getting the size right, and returns for the wrong size are frustrating on both sides. Good sizing information reduces that friction.</p>
+<ul>
+<li><strong>Give measurements, not just labels.</strong> Small, medium and large mean different things across brands. Show neck and chest girth ranges, back length or internal dimensions.</li>
+<li><strong>Explain how to measure.</strong> A short guide or diagram showing where to measure a dog's chest or neck helps owners get it right first time.</li>
+<li><strong>Offer breed guidance carefully.</strong> Example breeds for each size can help, but individual animals vary, so present them as a rough guide rather than a guarantee.</li>
+<li><strong>Show scale in photos.</strong> Images of the product on animals of different sizes help owners picture the fit.</li>
+</ul>
+<p>Our article on <a href="/blog/ecommerce-size-guides/">ecommerce size guides</a> covers presentation in more detail, much of which applies directly to pet products.</p>
+
+<h2>Product pages that answer owners' questions</h2>
+<p>Pet owners tend to want reassurance before buying, especially for anything that goes in or on their animal. A strong product page anticipates their questions.</p>
+<ul>
+<li><strong>Materials and construction.</strong> What is the toy or bed made from, is it machine washable, are there small parts?</li>
+<li><strong>Suitability.</strong> Which animals, sizes and ages is the product designed for, and who is it not suitable for?</li>
+<li><strong>Ingredients and feeding information</strong> for food and treats, presented clearly rather than buried in an image of the packaging.</li>
+<li><strong>Care and safety notes</strong>, such as supervising play with chew toys or checking fit regularly.</li>
+<li><strong>Delivery and returns information</strong> close to the add to basket button.</li>
+</ul>
+<p>Shopify metafields are useful here. Rather than writing every detail into one long description, you can store structured information such as material, washing instructions, suitable sizes and feeding guide in separate fields and display them consistently across products. That also makes the information easier to keep up to date. For copy, our guide to <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions</a> covers structure and tone.</p>
+
+<h2>Pet food, treats and claims: tread carefully</h2>
+<p>If you sell pet food or treats, labelling and marketing are regulated in the UK. Rules cover matters such as the information that must appear on labels, how ingredients and analytical constituents are declared, and what claims can be made. Feed businesses may also need to register with their local authority. Supplements and products with health-related claims for animals raise further questions, and some products that make medicinal claims may fall under veterinary medicines rules overseen by the Veterinary Medicines Directorate.</p>
+<p>We are not able to give legal advice, and the rules depend on exactly what you sell and how you describe it. Sensible steps include:</p>
+<ul>
+<li>Checking current guidance from the Food Standards Agency, your local authority trading standards or feed team and, where relevant, the Veterinary Medicines Directorate.</li>
+<li>Making sure the information on your product pages matches what is on the physical label.</li>
+<li>Avoiding words that imply a product treats, cures or prevents a condition unless you have confirmed you are permitted to say so.</li>
+<li>Taking professional advice if you are unsure whether a product or claim is allowed.</li>
+</ul>
+<p>Product safety rules also apply to non-food items. If you import or manufacture toys, accessories or equipment, check your obligations as a producer or distributor.</p>
+
+<h2>Repeat purchases and subscriptions</h2>
+<p>Food, treats, litter and similar consumables are natural repeat purchases. Making reordering easy can benefit both customers and the brand.</p>
+<ul>
+<li><strong>Subscriptions.</strong> Shopify supports selling subscriptions through compatible apps, letting customers choose delivery frequency. Clear controls to pause, skip or cancel are important for trust, and UK consumer rules on subscriptions are evolving, so check current requirements. Our <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions guide</a> covers the essentials.</li>
+<li><strong>Customer accounts.</strong> Letting customers see past orders and reorder quickly helps those who prefer not to subscribe. See our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a>.</li>
+<li><strong>Bundles.</strong> Starter kits for a new puppy or kitten can combine several products sensibly. Our article on <a href="/blog/ecommerce-product-variants-and-bundles/">variants and bundles</a> explains the options.</li>
+<li><strong>Email.</strong> Reminders timed around typical usage, set up with care and with consent where required, can prompt reorders. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers the basics.</li>
+</ul>
+
+<h2>Delivery for bulky and heavy items</h2>
+<p>Large bags of food, crates and beds can be heavy or bulky, which affects delivery costs and options. Shopify lets you set shipping rates by weight, price or product, and you can create shipping profiles for items that need different handling. Be upfront about delivery charges and timescales for large items, and consider whether free delivery thresholds make sense given product weights. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers how to present this information clearly.</p>
+
+<h2>Photography and trust</h2>
+<p>Images of real animals using products are often more persuasive than packshots alone, though clean product shots on a plain background are still useful for showing details. A mix usually works best: a clear main image, lifestyle shots showing scale and use, and close-ups of materials, stitching or fastenings. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> covers the practicalities.</p>
+<p>Trust also comes from clear contact details, honest product information, visible returns policies and genuine customer reviews. Never invent reviews or endorsements. Our guides to <a href="/blog/ecommerce-product-reviews/">product reviews</a> and <a href="/blog/website-trust-signals/">website trust signals</a> explain how to build credibility properly.</p>
+
+<h2>SEO for pet product stores</h2>
+<p>Pet owners search in specific ways: by animal, by size, by problem and by product type. Searches combining a product with a breed size or life stage, such as harnesses for small dogs or food for senior cats, show how specific intent can be. Collection pages targeting these combinations, written with genuinely useful introductory content, can help.</p>
+<ul>
+<li>Write unique titles and descriptions for collections and products rather than relying on defaults.</li>
+<li>Use descriptive image alt text that describes what the image shows.</li>
+<li>Add structured data for products so search engines understand price and availability.</li>
+<li>Create helpful guides, such as how to measure a dog for a harness, that answer real questions and link to relevant collections.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/product-page-seo-uk/">product page SEO guide</a> go into detail.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands, working remotely across the UK. For a pet brand, that can mean planning the catalogue structure, setting up product information fields, designing product and collection pages and preparing for repeat purchases. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> and our <a href="/sectors/ecommerce/">ecommerce sector page</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for selling pet products?</h3>
+<p>Yes, Shopify handles variants, collections, subscriptions and shipping profiles well, which suits most pet ranges. Success depends on clear sizing, product information and trust.</p>
+<h3>Do I need to register to sell pet food online?</h3>
+<p>Businesses that make, import or sell pet food may need to register as a feed business with their local authority. Check current guidance for your circumstances.</p>
+<h3>Can I say my pet product improves health?</h3>
+<p>Health and medicinal claims for animal products are restricted. Check current guidance from the relevant UK regulators and take advice before making such claims.</p>
+<h3>How should I organise a pet shop on Shopify?</h3>
+<p>Organising by animal first, then by need, then by size or life stage usually mirrors how owners shop. Products can sit in several collections at once.</p>
+<h3>Should I offer subscriptions for pet food?</h3>
+<p>Subscriptions can suit consumables like food and litter. Give customers easy controls to pause, skip or cancel, and check current UK subscription rules.</p>
+`,
+  },
+  {
+    slug: 'shopify-pos-uk-retail',
+    seoTitle: 'Shopify POS for UK Retail Shops: In-Store and Online',
+    title: 'Shopify POS for UK Shops Selling In Store and Online',
+    description: 'A guide to Shopify POS for UK retail shops: unified stock, in-store and online orders, click and collect, hardware, staff, returns and when it fits.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Many UK independent shops now sell both over the counter and online. Running those two channels on separate systems often causes problems: stock counts drift apart, an item sells online that has already gone in the shop, customer details live in two places and reconciling sales takes time. Shopify POS is Shopify's point of sale system, designed so that a physical shop and an online store run from the same back office.</p>
+<p>This guide explains what a joined-up setup involves, where it tends to help, what to check before switching and how to plan the move. Shopify's features, plans and hardware change over time and can vary by country, so check current details with Shopify for the UK.</p>
+
+<h2>What Shopify POS is</h2>
+<p>Shopify POS is an app that runs on a compatible tablet or phone, used alongside a card reader and optional hardware such as a receipt printer, barcode scanner and cash drawer. Because it is part of Shopify, sales made in the shop are recorded in the same admin as online orders, against the same products and stock levels.</p>
+<p>Shopify offers different levels of POS functionality, with more advanced features available on higher tiers. Which level you need depends on factors such as how many staff and locations you have and which features matter to you. Check Shopify's current plans for what is included.</p>
+
+<h2>Why one system for shop and website</h2>
+<p>The main benefit of running both channels on one platform is a single source of truth.</p>
+<ul>
+<li><strong>Shared stock.</strong> When an item sells in the shop, the stock available online updates accordingly, reducing the risk of selling something you no longer have.</li>
+<li><strong>One product catalogue.</strong> Products, prices, variants and images are managed once rather than in two systems.</li>
+<li><strong>Unified customer records.</strong> A customer who buys in store and online can have one profile, with consent handled properly, which helps with service and marketing.</li>
+<li><strong>Combined reporting.</strong> Sales from both channels can be viewed together, making it easier to see what is selling.</li>
+</ul>
+<p>This does not remove the need for good processes. Stock still needs counting, and staff need to record sales, returns and transfers consistently for the numbers to stay accurate.</p>
+
+<h2>Where a joined-up setup helps customers</h2>
+<p>Some of the most useful features connect the two channels from the customer's point of view.</p>
+<ul>
+<li><strong>Click and collect.</strong> Customers buy online and collect from the shop. Staff can see and fulfil pickup orders from the POS. Clear collection instructions and notifications matter here, and our guide to <a href="/blog/ecommerce-transactional-emails/">transactional emails</a> covers the messages involved.</li>
+<li><strong>Local delivery.</strong> Shops can offer delivery within a set area, managed alongside other orders.</li>
+<li><strong>Returning online orders in store.</strong> Customers can bring back an online purchase to the shop, which many prefer to posting it.</li>
+<li><strong>Ordering items not in the shop.</strong> If a size or colour is out of stock in store but available elsewhere, staff can place an order for delivery, keeping the sale.</li>
+<li><strong>Showing stock online by location.</strong> For multi-location retailers, shoppers can see availability at particular shops. Our guide to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> covers how to present this.</li>
+</ul>
+
+<h2>Hardware and payments</h2>
+<p>Shopify POS needs a compatible device and a card reader. Shopify sells its own hardware in the UK, and compatibility with other devices and readers varies, so check the current list before buying anything. Consider:</p>
+<ul>
+<li>Whether you need a fixed counter setup, a mobile setup for markets and events, or both.</li>
+<li>Receipt printers, barcode scanners, label printers for price tags and cash drawers.</li>
+<li>Reliable wifi in the shop, and how the system behaves if the connection drops. Check current offline capabilities.</li>
+<li>Payment processing fees for in-person card payments, which can differ from online fees. See Shopify's current UK pricing.</li>
+</ul>
+<p>We do not quote hardware or subscription prices here because they change. For our own fees for setting up a store, see our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Markets, pop-ups and events</h2>
+<p>Not every bricks and clicks business has a permanent shop. Many UK makers and small brands sell at markets, fairs and pop-up events alongside their website. A mobile POS setup can suit this well: a phone or tablet with a card reader lets you take payments on a stall and record each sale against the same stock as your online store. That helps avoid the common problem of selling the last unit of something at a weekend market while it still shows as available online.</p>
+<p>A few practical points for events: check how the system handles patchy mobile signal at outdoor venues, take a realistic amount of stock and record it against an event location if you want to track it separately, and consider how you will capture email sign-ups from stall visitors with proper consent. After the event, reviewing what sold can inform both your online merchandising and what to bring next time.</p>
+
+<h2>Staff, permissions and day-to-day use</h2>
+<p>In a shop with several staff, it helps to give each person their own login or PIN, with permissions appropriate to their role. That way, for example, applying discounts or processing refunds can be limited to certain staff, and sales can be attributed to individuals if you track performance. Train staff on common tasks such as sales, exchanges, returns, gift cards and pickups before going live. Gift cards sold in store and online can work across both channels; see our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a>.</p>
+
+<h2>Is Shopify POS right for your shop?</h2>
+<p>Shopify POS tends to suit retailers whose shop and online store sell broadly the same products and who want them tightly connected. It is worth looking closely at fit if:</p>
+<ul>
+<li>You rely on specialist functions, such as hospitality table service, complex made-to-order workflows, or industry-specific systems, which a general retail POS may not cover.</li>
+<li>Your accounting, stock or supplier systems need to integrate. Check that integrations exist for the tools you use and that they handle the data you need.</li>
+<li>You have very large catalogues or complex stock across many locations and warehouses.</li>
+<li>Your current website runs on another platform, such as WooCommerce. Using Shopify POS generally means the online store also moves to Shopify, or you need a separate integration.</li>
+</ul>
+<p>If your website is not yet on Shopify, our guides to <a href="/blog/woocommerce-to-shopify-migration/">moving from WooCommerce to Shopify</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> explain what is involved.</p>
+
+<h2>Planning the switch</h2>
+<p>Moving a shop's tills and stock to a new system needs careful planning, ideally at a quieter time of year rather than just before a busy season. Key steps include:</p>
+<ul>
+<li><strong>Clean up product data.</strong> Make sure products, variants, barcodes and SKUs are consistent. Duplicate or inconsistent records cause problems once channels share stock.</li>
+<li><strong>Do a full stock count.</strong> Start with accurate stock levels across the shop and any storage.</li>
+<li><strong>Set up locations.</strong> Each shop or stockroom can be a location with its own stock.</li>
+<li><strong>Decide which products sell where.</strong> Some items may be shop-only or online-only.</li>
+<li><strong>Test before go-live.</strong> Run test sales, refunds, exchanges and pickup orders. Our guide to <a href="/blog/website-staging-and-testing/">staging and testing</a> covers testing more generally.</li>
+<li><strong>Plan migration of customer data and gift card balances</strong> from any old system, checking data protection obligations.</li>
+</ul>
+
+<h2>The online side still needs attention</h2>
+<p>A unified system does not make the website successful on its own. The online store still needs clear navigation, good product pages, fast loading and a way for people to find it. Local shops can benefit from showing location, opening hours and click and collect options prominently, and from a well-maintained Google Business Profile. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a>, <a href="/blog/google-business-profile-uk/">Google Business Profile</a> and <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> cover the online side.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify stores for UK businesses, working remotely across the UK. For retailers adding or connecting a physical shop, we can help with the online store design, product data structure and setting up click and collect and related customer journeys. Hardware purchase and in-store installation are arranged directly with Shopify or your suppliers. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is Shopify POS?</h3>
+<p>Shopify POS is Shopify's point of sale system for in-person selling. It runs on a compatible device with a card reader and shares products, stock and customers with your Shopify online store.</p>
+<h3>Does Shopify POS sync stock with my online store?</h3>
+<p>Yes, in-store and online sales draw from the same stock records in Shopify, so levels update across channels. Accurate counts and processes are still needed.</p>
+<h3>Can customers return online orders in my shop?</h3>
+<p>Shopify POS supports processing returns of online orders in store. Set out your returns policy clearly for both channels.</p>
+<h3>Can I use Shopify POS with a WooCommerce website?</h3>
+<p>Shopify POS is designed to work with a Shopify store. Using it with another platform would need a separate integration, so many retailers move the website to Shopify too.</p>
+<h3>Which card readers work with Shopify POS in the UK?</h3>
+<p>Compatibility depends on the country and changes over time. Check Shopify's current UK hardware list before buying.</p>
+`,
+  },
+  {
+    slug: 'shopify-supplements-brand-uk',
+    seoTitle: 'Shopify for Supplement Brands UK: Store and Compliance',
+    title: 'Shopify for UK Supplement Brands',
+    description: 'A guide for UK supplement brands on Shopify: product pages, health claims caution, labelling information, subscriptions, payments, ads and SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Supplements are a popular category for direct-to-consumer brands. Products are small, light and consumable, which suits online selling and repeat purchases. They are also one of the more regulated categories in UK ecommerce. What you can say about a product, what must appear on the label and how you advertise are all subject to rules, and getting them wrong can lead to regulatory action, removed adverts or suspended payment accounts.</p>
+<p>This guide looks at how UK supplement brands can build a Shopify store that presents products clearly and approaches compliance with appropriate caution. It is general information, not legal or regulatory advice. Rules change and depend on your specific products, so take professional advice and check current guidance from the relevant regulators.</p>
+
+<h2>Understand the regulatory landscape first</h2>
+<p>Before thinking about design, it helps to understand the broad areas of regulation that can affect a supplement website. In the UK these may include, among others:</p>
+<ul>
+<li><strong>Food supplement rules</strong>, covering matters such as which vitamins and minerals may be used, labelling requirements and notification or registration obligations. Guidance is available from the Food Standards Agency and, in Scotland, Food Standards Scotland.</li>
+<li><strong>Nutrition and health claims rules</strong>, which generally mean only authorised claims may be made, using permitted wording and conditions. Claims are a frequent area of difficulty for supplement brands.</li>
+<li><strong>Medicines rules.</strong> A product presented as treating, preventing or curing a disease, or with certain ingredients, may be treated as a medicine. The Medicines and Healthcare products Regulatory Agency (MHRA) oversees this boundary.</li>
+<li><strong>Novel food rules</strong>, which can apply to some ingredients not widely consumed before a particular date.</li>
+<li><strong>Advertising rules</strong>, enforced by the Advertising Standards Authority, which apply to marketing claims on your own website as well as in paid adverts.</li>
+</ul>
+<p>Your local authority trading standards or food team may also be relevant. We cannot tell you whether a specific product or claim is permitted. That is a question for a regulatory specialist. What we can do is make sure the website is structured so that approved information is presented clearly and consistently.</p>
+
+<h2>Be very careful with health claims</h2>
+<p>Claims are where many supplement websites run into trouble. A product page, a blog post, a customer review you have chosen to feature, a social post embedded on the site or even a product name can all be treated as making a claim. Points to consider include:</p>
+<ul>
+<li>Only using claims you have confirmed are authorised for the ingredient and amount in your product, in wording that matches the permitted conditions.</li>
+<li>Avoiding language that implies treating, curing or preventing any disease or medical condition.</li>
+<li>Being cautious about before and after imagery, testimonials and influencer content that make implied claims.</li>
+<li>Reviewing blog content as well as product pages, since educational content about a condition next to a product can be read together.</li>
+<li>Keeping a record of where each claim on the site came from and when it was checked.</li>
+</ul>
+<p>When in doubt, leave it out and take advice. A plainer product page is better than one that creates regulatory risk.</p>
+
+<h2>Product pages: information first</h2>
+<p>A good supplement product page gives shoppers the information they need to make an informed decision. Depending on your products and the rules that apply, that may include:</p>
+<ul>
+<li>A clear product name and what the product is.</li>
+<li>The full ingredients list and the amounts of active ingredients per serving.</li>
+<li>Recommended daily dose and how to take it.</li>
+<li>Required warning statements, such as not exceeding the recommended dose and keeping out of reach of children, as applicable.</li>
+<li>Allergen information.</li>
+<li>Suitability notes, such as whether the product is vegan or suitable during pregnancy, only where you have confirmed these are accurate and appropriate to state.</li>
+<li>Pack size, number of servings and storage instructions.</li>
+</ul>
+<p>Shopify metafields are well suited to this. Instead of typing everything into one description box, you can create structured fields for ingredients, dosage, warnings and allergens, and display them in a consistent layout on every product page. This reduces the chance of a product missing required information and makes updates easier when a formulation or label changes. Make sure the website information matches the physical label.</p>
+<p>Images of the label itself can supplement the text, but text versions are better for accessibility and search engines, so do not rely on images alone. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> explains why.</p>
+
+<h2>Catalogue structure</h2>
+<p>Supplement shoppers browse in a few different ways: by product type, such as capsules, powders or gummies; by ingredient, such as a particular vitamin; or by lifestyle and audience. Be careful with collections named after health benefits or conditions, since a collection title can itself act as a claim. Neutral groupings by format, ingredient or range are generally lower risk. Our guide to <a href="/blog/ecommerce-category-page-design/">ecommerce category page design</a> covers layout and filtering.</p>
+
+<h2>Payments and platform policies</h2>
+<p>Shopify allows supplements to be sold, but supplements are an area where platforms and payment providers may apply additional policies. Some ingredients or product types may be restricted, and payment providers can review businesses in categories they consider higher risk. Before launching, read the current acceptable use and restricted business policies for Shopify and any payment provider you plan to use, and make sure your products and claims fall within them. Having a backup payment option in mind can also be prudent.</p>
+
+<h2>Subscriptions and repeat orders</h2>
+<p>Many supplements are taken daily, so subscriptions are a natural fit. Shopify supports subscriptions through compatible apps. Good practice includes clear information on price, frequency and how to cancel, along with easy self-service controls to pause, skip or cancel. UK rules around subscription contracts have been changing, so check current requirements. Our <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions guide</a> covers the main considerations, and our article on <a href="/blog/ecommerce-transactional-emails/">transactional emails</a> explains the messages customers should receive.</p>
+
+<h2>Advertising supplements</h2>
+<p>Paid advertising for supplements can be more restricted than for many product categories. Google and social platforms have their own policies on health-related products and claims, and some ingredients may be prohibited from advertising altogether. Adverts must also comply with UK advertising rules. Check each platform's current policies before planning campaigns, and expect adverts to be reviewed. Our guides to <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> and <a href="/blog/meta-ads-agency-uk/">Meta ads</a> explain how those channels work in general.</p>
+
+<h2>Trust and transparency</h2>
+<p>Supplement shoppers often look for signs that a brand is legitimate and careful. Helpful trust signals include clear company details and contact information, a transparent returns and refunds policy, honest and accurate product information, and genuine customer reviews that you moderate for claims. Never invent reviews, endorsements or certifications. If you mention testing or quality standards, make sure you can substantiate them. Our guides to <a href="/blog/website-trust-signals/">website trust signals</a> and <a href="/blog/ecommerce-product-reviews/">product reviews</a> cover this.</p>
+
+<h2>SEO without overclaiming</h2>
+<p>Search can be a valuable channel for supplement brands, but content needs the same care as product pages. Some practical points:</p>
+<ul>
+<li>Target product and ingredient searches with clear, factual collection and product pages.</li>
+<li>Write educational content about ingredients and how to use products, keeping it factual and avoiding disease-related claims.</li>
+<li>Consider having health-related content reviewed by someone suitably qualified.</li>
+<li>Add product structured data so search engines understand price and availability.</li>
+</ul>
+<p>Search engines tend to scrutinise health-related content for expertise and trustworthiness, so accurate, well-sourced and carefully reviewed content matters. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/content-strategy-uk/">content strategy guide</a> explain the wider approach.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds Shopify stores for UK brands, working remotely across the UK. For supplement brands, we can structure product information fields, design clear product pages and set up subscriptions, working from the claims and label information your regulatory adviser has approved. We do not provide regulatory sign-off. Read about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I sell supplements on Shopify in the UK?</h3>
+<p>Shopify generally allows supplements, but some products and ingredients may be restricted. Check Shopify's and your payment provider's current policies before launching.</p>
+<h3>What health claims can I make about supplements?</h3>
+<p>In the UK, health claims are generally limited to authorised claims used under specific conditions. Check current guidance and take regulatory advice before publishing claims.</p>
+<h3>Do customer reviews count as claims?</h3>
+<p>Reviews you choose to display can be treated as part of your marketing. Moderate them carefully and avoid featuring reviews that make medical claims.</p>
+<h3>What information should a supplement product page include?</h3>
+<p>Typically ingredients, amounts per serving, dosage, warnings, allergens and pack size, matching the physical label. Check current labelling requirements.</p>
+<h3>Can I advertise supplements on Google and social media?</h3>
+<p>Often yes, but policies on health products are strict and some ingredients may be prohibited. Check each platform's current policies and UK advertising rules.</p>
+`,
+  },
 ];
