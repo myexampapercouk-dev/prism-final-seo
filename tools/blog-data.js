@@ -22653,4 +22653,512 @@ module.exports = [
 <p>Create clear subject and level pages, mention your area if you tutor in person, set up a Google Business Profile if eligible and publish helpful content.</p>
 `,
   },
+  {
+    slug: 'construction-company-website-design-uk',
+    seoTitle: 'Website Design for Builders and Construction Firms UK',
+    title: 'Website Design for Builders and Construction Companies in the UK',
+    description: 'Website design guide for UK builders and construction firms: services, project case studies, accreditations, quote requests, tenders, recruitment and platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/service-page-design/', '/pricing/'],
+    body: `
+<p>For builders and construction companies, much new work still comes from recommendations, repeat clients and relationships. Even so, the website plays an important role. Homeowners check it before inviting someone to quote, commercial clients and main contractors look at it before adding a firm to a tender list, and potential recruits look at it before applying. A site that is out of date, vague or hard to use on a phone can quietly cost opportunities.</p>
+<p>This guide is about the website itself for UK builders, general contractors, extension and renovation specialists, groundworks firms, commercial fit-out contractors and similar businesses. It covers the pages you need, project case studies, accreditations, quote requests, tender-ready information, recruitment and choosing a platform. If you are an individual tradesperson looking for wider marketing advice, our <a href="/blog/tradesman-marketing-uk/">tradesman marketing guide</a> covers local promotion, reviews and lead generation more broadly.</p>
+
+<h2>Know who the site is for</h2>
+<p>Construction firms often serve more than one audience, and each looks for different things:</p>
+<ul>
+<li><strong>Homeowners</strong> want to know you do the type of work they need, in their area, and that you are trustworthy and tidy.</li>
+<li><strong>Commercial clients and developers</strong> want evidence of comparable projects, capacity, health and safety standards and relevant accreditations.</li>
+<li><strong>Main contractors</strong> looking for subcontractors want to see your specialism, coverage, accreditations and how to get you on their supply chain.</li>
+<li><strong>Job seekers</strong> want to know what working for you is like and what roles are open.</li>
+</ul>
+<p>You do not need separate websites for each, but your navigation and home page should make it easy for each group to find their route. Our <a href="/blog/website-navigation-structure/">navigation structure guide</a> explains how to organise this.</p>
+
+<h2>The pages a construction website needs</h2>
+<h3>Home page</h3>
+<p>State clearly what you build and where, then point visitors to your services, recent projects and a quote request. Strong images of real completed work tend to make more impact than stock photography of hard hats. Our <a href="/blog/website-homepage-design/">homepage design guide</a> covers the essentials.</p>
+<h3>Service pages</h3>
+<p>Give each main service its own page, such as extensions, loft conversions, new builds, refurbishments, groundworks or commercial fit-outs. Explain what the service involves, the types of project you take on, how you typically work and the areas you cover. Separate pages help visitors find relevant information and give search engines a clear page for each service. Our <a href="/blog/service-page-design/">service page design guide</a> has more.</p>
+<h3>Projects or case studies</h3>
+<p>Your most persuasive content. More on this below.</p>
+<h3>About page</h3>
+<p>Explain the history of the business, the people who run it and how you work. Clients hiring a builder are often making a significant investment and want to know who they are dealing with. Our <a href="/blog/about-us-page-writing/">about us page guide</a> can help.</p>
+<h3>Accreditations and policies</h3>
+<p>A page listing genuine accreditations, memberships and relevant policies, explained below.</p>
+<h3>Contact and quote request</h3>
+<p>A clear route to request a quote or site visit, plus phone, email and the areas you cover.</p>
+
+<h2>Project case studies</h2>
+<p>Photographs of finished work are good; case studies that explain the project are better. For each featured project, consider covering:</p>
+<ul>
+<li>The type of project and general location, without revealing private addresses.</li>
+<li>What the client needed and any challenges, such as access, ground conditions or working around occupants.</li>
+<li>What you delivered and how.</li>
+<li>Progress photos as well as finished images, which show quality of work hidden in the final result.</li>
+<li>A comment from the client, if genuine and given with permission.</li>
+</ul>
+<p>Keep details factual. Describe timescales or budgets only if they are accurate and the client is happy for you to share them. Commercial clients may have confidentiality requirements, so check before publishing. Get homeowners' permission before showing their property, and be careful not to reveal security details.</p>
+<p>Project pages with genuine detail also tend to be useful for search, as they naturally describe the type of work and places you cover.</p>
+
+<h2>Accreditations, insurance and guarantees</h2>
+<p>Accreditations and memberships can reassure clients, particularly on commercial work where they may be a requirement. Present them carefully.</p>
+<ul>
+<li>Only display accreditations, memberships and logos you currently hold and are permitted to use. Many schemes have rules about how their logos may be displayed.</li>
+<li>Keep the list up to date and remove anything that has lapsed.</li>
+<li>If you mention insurance, describe it accurately and be prepared to provide evidence when asked.</li>
+<li>If you offer warranties or guarantees, explain clearly what they cover and any conditions, or link to full terms. Avoid vague promises.</li>
+<li>Be careful with phrases about compliance with building regulations or other standards. Describe your actual responsibilities rather than making broad claims.</li>
+</ul>
+<p>Misleading claims about accreditations or guarantees can create legal risk under UK consumer protection rules as well as damaging trust. Our article on <a href="/blog/website-trust-signals/">website trust signals</a> explains how to present credentials in a way that is helpful rather than cluttered.</p>
+
+<h2>Information for commercial clients and tenders</h2>
+<p>If you work on commercial projects or as a subcontractor, procurement teams may look at your website when assessing you. Consider making it easy to find:</p>
+<ul>
+<li>The sectors and project types you work in.</li>
+<li>Relevant accreditations, health and safety information and policies, such as environmental or quality policies, if you have them.</li>
+<li>Comparable projects, with enough detail to show relevant experience.</li>
+<li>Your geographical coverage.</li>
+<li>A contact for tender and procurement enquiries.</li>
+</ul>
+<p>Some firms offer downloadable capability statements or policy documents. If you do, keep them current. Our <a href="/blog/b2b-marketing-agency-uk/">B2B marketing guide</a> covers how business buyers research suppliers more generally.</p>
+
+<h2>Quote requests that save time</h2>
+<p>A well-designed quote request form can help you understand a job before calling back. Consider asking for:</p>
+<ul>
+<li>The type of work and a short description.</li>
+<li>The property type and location or postcode area.</li>
+<li>Rough timing.</li>
+<li>Whether plans or planning permission are already in place.</li>
+<li>An option to upload photos or drawings.</li>
+</ul>
+<p>Keep the form manageable on a phone, and make your phone number easy to tap for people who prefer to call. Only state response times you can consistently meet. Our <a href="/blog/website-contact-forms/">contact forms guide</a> explains how to design forms people complete, and our <a href="/blog/mobile-website-design/">mobile website design guide</a> explains why phone usability matters.</p>
+<p>Make sure your privacy notice covers the information you collect through forms and how you use it. The Information Commissioner's Office has guidance for small businesses on UK GDPR.</p>
+
+<h2>Recruitment</h2>
+<p>Many construction firms find it hard to recruit, and your website can help. A careers page that explains what working for you is like, the types of roles you hire for, any training or apprenticeships you genuinely offer and how to apply gives candidates a reason to choose you. Keep vacancy listings current, and remove filled roles promptly.</p>
+
+<h2>Getting found locally</h2>
+<p>Homeowners usually search for builders near them. Clear service area information, a complete Google Business Profile and genuine reviews all help. Avoid creating lots of near-identical location pages with only the town name changed; pages for areas you serve work better when they include genuinely local content, such as relevant projects. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explain the basics, and our <a href="/blog/multi-location-seo-uk/">multi-location SEO guide</a> covers firms working across several areas.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most construction websites do not need ecommerce. WordPress is a common choice for firms that want flexibility, multiple service and project pages and room to grow. Squarespace and Wix can suit smaller builders who want a straightforward site they can update themselves. Our <a href="/blog/wordpress-small-business-website/">WordPress small business website guide</a> and <a href="/blog/website-builder-vs-custom-website/">website builder vs custom website article</a> explain the options. Whatever you choose, make sure the site loads quickly, especially with large project photos; our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> can help.</p>
+
+<h2>Keeping the site current</h2>
+<p>A construction website goes stale quickly if new projects are never added. Set a simple routine to photograph finished jobs, gather client permission and add a case study every so often. Updated accreditations, current vacancies and recent projects all show the business is active. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers the technical side of keeping a site healthy.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you run a building or construction company and want a site that presents your work clearly to homeowners, commercial clients and recruits, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a construction company website include?</h3>
+<p>Clear service pages, project case studies, an about page, genuine accreditations and policies, a quote request form, a careers page if you hire, and a privacy notice.</p>
+<h3>Can I show accreditation logos on my website?</h3>
+<p>Only if you currently hold the accreditation and the scheme permits logo use. Keep the list up to date and remove anything that has lapsed.</p>
+<h3>Should builders show prices on their website?</h3>
+<p>Building work varies so much that many firms quote per job. If you show guide prices, make sure they are accurate and explain what affects the final cost.</p>
+<h3>How do I show projects without revealing clients' addresses?</h3>
+<p>Describe the general area rather than the address, get clients' permission before publishing, and avoid images that show security details.</p>
+<h3>Which platform is best for a builder's website?</h3>
+<p>WordPress suits firms wanting flexibility and lots of project pages. Squarespace and Wix suit smaller builders who want a simple site they can manage themselves.</p>
+`,
+  },
+  {
+    slug: 'interior-designer-website-design-uk',
+    seoTitle: 'Website Design for Interior Designers UK: A Guide',
+    title: 'Website Design for Interior Designers in the UK: Portfolios, Services and Enquiries',
+    description: 'Website design guide for UK interior designers: portfolio and project pages, services and process, enquiries, image rights, local search and platform choice.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-homepage-design/', '/pricing/'],
+    body: `
+<p>Interior design is a visual, personal and often high-value service. Prospective clients want to see your taste, understand how you work and feel confident you can handle their home or commercial space. For most interior designers, the website is where that impression is formed long before a first meeting, and a weak site can undersell excellent work.</p>
+<p>This guide is for UK interior designers, from independent designers working on residential projects to studios handling commercial, hospitality or rental property work. It covers the portfolio, project pages, services, your process, enquiries, images and privacy, local search, selling products if you do, and choosing a platform. If your work is closer to architecture, our <a href="/blog/architect-marketing-uk/">architect marketing guide</a> covers that profession.</p>
+
+<h2>Start with who you design for</h2>
+<p>Interior designers serve very different clients. A designer focusing on full renovations of period homes needs a different site from one offering e-design consultations, styling for property developers or fit-outs for offices and restaurants. Before thinking about layout, be clear about:</p>
+<ul>
+<li>The type of clients and projects you want more of.</li>
+<li>Whether you work locally, regionally or across the UK.</li>
+<li>The services you offer, from a single room to full project management.</li>
+<li>What makes your approach distinct.</li>
+</ul>
+<p>These answers shape everything from the home page message to which projects you feature first.</p>
+
+<h2>The portfolio is the heart of the site</h2>
+<p>Most visitors will spend more time in your portfolio than anywhere else. It should showcase your best work and make browsing a pleasure on any device.</p>
+<h3>Curate rather than include everything</h3>
+<p>A smaller selection of strong, well-photographed projects is usually more convincing than a long list of mixed quality. Feature the work that best represents the projects you want to attract.</p>
+<h3>Organise for your visitors</h3>
+<p>If you work across different sectors or styles, consider letting visitors filter projects, for example by residential and commercial, or by type of room. Keep it simple; too many categories can make a portfolio harder to browse.</p>
+<h3>Use professional photography</h3>
+<p>Interiors are notoriously hard to photograph well. Professional photography of finished projects is often worth the investment, as the images are used across your website, social media and any press opportunities. Make sure you have the right to use them; more on that below.</p>
+
+<h2>Project pages that tell the story</h2>
+<p>A gallery of beautiful rooms shows taste, but a project page with context shows how you think. For each featured project, consider including:</p>
+<ul>
+<li>The brief: what the client wanted and any constraints, such as budget, period features or how the space needed to function.</li>
+<li>Your approach: the key design decisions and why you made them.</li>
+<li>The scope: which rooms, and whether you handled design only or full project management.</li>
+<li>Before and after images, if you have them and permission to use them.</li>
+<li>A client comment, if genuine and given with permission.</li>
+</ul>
+<p>Keep any outcomes you describe factual. It is fine to explain what the space now does differently; avoid claims you cannot support. Written well, project pages can also help with search, as they naturally include the language clients use when looking for a designer.</p>
+
+<h2>Explaining your services and process</h2>
+<p>Many people have never hired an interior designer and are unsure what is involved. Clear service and process pages reduce that uncertainty and filter out poor-fit enquiries.</p>
+<h3>Services</h3>
+<p>Describe the ways clients can work with you. Depending on your business, this might include a design consultation, a room design package, full home design, project management, sourcing and procurement, styling, or remote e-design. For each, explain who it suits and what is involved. Only describe inclusions you actually provide. Our <a href="/blog/service-page-design/">service page design guide</a> explains how to structure these pages.</p>
+<h3>Process</h3>
+<p>A simple outline of how a project typically runs, from first conversation to finished space, helps clients picture working with you. Describe your actual process rather than an idealised one, and be honest that timelines depend on the project, suppliers and trades involved.</p>
+<h3>Fees</h3>
+<p>Interior designers charge in different ways, including fixed fees, hourly rates and fees based on project scope. Some show starting points on their site, while others prefer to discuss fees after understanding the project. Either can work. If you do publish fees, keep them accurate and up to date. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> covers the options.</p>
+
+<h2>Turning interest into enquiries</h2>
+<p>An enquiry form for an interior designer can do a lot of useful work if it asks the right questions. Consider asking about:</p>
+<ul>
+<li>The type of property and location.</li>
+<li>Which rooms or spaces are involved.</li>
+<li>The service the person is interested in.</li>
+<li>Rough timing.</li>
+<li>An indicative budget range, if you find this helps.</li>
+</ul>
+<p>Balance useful detail with ease of completion; a very long form can put people off. Make the contact route visible across the site, not just on the contact page, and say how quickly people can expect a reply only if you can keep to it. Our <a href="/blog/website-contact-forms/">contact forms guide</a> explains how to design forms that people complete.</p>
+<p>If you offer initial consultations, an online booking tool can save back-and-forth emails. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> covers the options.</p>
+
+<h2>Images, permissions and client privacy</h2>
+<p>Interior design websites rely heavily on images, which raises a few practical points.</p>
+<ul>
+<li><strong>Photographers' rights.</strong> If a photographer took the images, check your agreement covers using them on your website and elsewhere. Copyright often stays with the photographer unless agreed otherwise.</li>
+<li><strong>Client permission.</strong> Get clients' agreement before publishing photographs of their homes. Some will be happy to be featured; others will prefer anonymity.</li>
+<li><strong>Location and security.</strong> Avoid revealing addresses or details that could identify a private home, and think about whether images show valuables or security features.</li>
+<li><strong>Supplier and brand images.</strong> Do not use other companies' images without permission.</li>
+</ul>
+<p>Large images also slow sites down if they are not optimised. Interior design sites are especially vulnerable to this. Our <a href="/blog/website-image-optimisation/">image optimisation guide</a> explains how to keep image quality high without hurting page speed.</p>
+
+<h2>Credentials and claims</h2>
+<p>Interior design is not a protected title in the UK in the same way as architect, which is regulated by the Architects Registration Board. If you hold qualifications or memberships of professional bodies, list them accurately. Do not imply qualifications, memberships, awards or press coverage you do not have, and be careful about describing services that may need other professionals, such as structural changes or building regulations matters, which may require an architect, structural engineer or approved contractor.</p>
+
+<h2>Local search and getting found</h2>
+<p>Many interior designers serve a particular area, and clients often search with a location in mind. A well-maintained Google Business Profile, a site that clearly states the areas you serve, and project pages that mention general locations where appropriate can all help. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explain the basics.</p>
+<p>A journal or blog with genuinely useful content, such as how to plan a kitchen layout or how to choose lighting for a period home, can also support visibility and show expertise. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> covers how to plan it.</p>
+
+<h2>Selling products or offering e-design</h2>
+<p>Some interior designers also sell homeware, offer curated product edits or provide remote e-design packages paid for online. If you do, your site needs ecommerce or payment features, along with clear terms, delivery and returns information. Shopify suits designers who want a substantial shop, while Squarespace and Wix offer simpler selling tools. Our guide to <a href="/blog/shopify-furniture-homeware-uk/">Shopify for furniture and homeware brands</a> covers product-led businesses in more depth.</p>
+
+<h2>Choosing a platform</h2>
+<p>Squarespace and Wix are popular with designers who want a visually polished site they can update themselves. WordPress offers more flexibility for larger studios, extensive journals or custom features. A custom design on any of these can give a more distinctive result than a lightly edited template. Our comparisons of <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress</a> and <a href="/blog/wix-vs-wordpress-uk/">Wix vs WordPress</a>, and our article on <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>, explain the trade-offs.</p>
+<p>Whichever platform you choose, pay attention to typography, colour and white space, as visitors will read your website as an example of your design sense. Our <a href="/blog/website-colour-and-typography/">colour and typography guide</a> has more.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you are an interior designer looking for a site that presents your portfolio beautifully and brings in the right enquiries, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should an interior designer's website include?</h3>
+<p>A strong portfolio with project pages, clear service descriptions, an explanation of your process, an about page, a well-designed enquiry form and a privacy notice.</p>
+<h3>Should interior designers show their fees online?</h3>
+<p>Some show starting points and some discuss fees after learning about the project. Either approach can work if your information is accurate and consistent.</p>
+<h3>Do I need permission to show clients' homes on my website?</h3>
+<p>It is good practice to get clients' agreement first and avoid revealing addresses or identifying details. Also check you have the photographer's permission to use images.</p>
+<h3>Which platform is best for an interior design website?</h3>
+<p>Squarespace and Wix suit designers who want to manage a visual site themselves. WordPress suits larger studios or those needing more custom features.</p>
+<h3>How can interior designers get found locally?</h3>
+<p>A complete Google Business Profile, clear service area information, well-written project pages and genuinely useful content can all support local visibility.</p>
+`,
+  },
+  {
+    slug: 'personal-trainer-website-design-uk',
+    seoTitle: 'Website Design for Personal Trainers UK: A Guide',
+    title: 'Website Design for Personal Trainers in the UK: Pages, Booking and Responsible Claims',
+    description: 'Website design guide for UK personal trainers: training packages, booking, online coaching, health data, honest claims and platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>Personal training is a trust-based service. Many people considering a trainer are nervous: about their fitness, about being judged, about whether they will stick with it, or about an injury or health condition. They want to find someone who understands their situation and who they will feel comfortable working with. A personal trainer's website cannot replace that first session, but it can give people the confidence to book it.</p>
+<p>This guide is for UK personal trainers, whether you train clients in a gym, at home, outdoors, online or a mix. It focuses on the website itself: who it is for, the pages to include, packages, booking and payments, online coaching, health information, honest claims and choosing a platform. If you run a gym or studio and are looking at marketing more broadly, our <a href="/blog/gym-marketing-uk/">gym marketing guide</a> covers memberships, local promotion and advertising.</p>
+
+<h2>Be specific about who you train</h2>
+<p>"Helping you get fit" describes nearly every trainer. A website is usually more effective when it speaks directly to a particular person, for example:</p>
+<ul>
+<li>Beginners who have never trained before and feel intimidated by gyms.</li>
+<li>People returning to exercise after having a baby.</li>
+<li>Older adults wanting to stay strong and mobile.</li>
+<li>Runners or cyclists wanting strength training to support their sport.</li>
+<li>Busy professionals who need efficient sessions around work.</li>
+</ul>
+<p>You may train more than one group, and that is fine. Consider a short section or separate page for each, written in the words those clients would use. If you work in a specialist area that needs additional qualifications, such as training people with particular medical conditions or during pregnancy, only describe it if you hold the relevant training.</p>
+
+<h2>The pages a personal trainer's website needs</h2>
+<h3>Home page</h3>
+<p>Say who you help, where or how you train, and what the first step is, usually a free consultation or an introductory session. Follow with how training with you works, a short introduction to you, genuine testimonials if you have them, and the call to action again. Our <a href="/blog/website-hero-section-design/">hero section guide</a> covers the first screen in detail.</p>
+<h3>About page</h3>
+<p>Clients want to know who they will be training with. Share your background, why you became a trainer, your training style and your qualifications. Personal training is not a protected title in the UK, so describe your qualifications and any professional memberships accurately and avoid implying credentials you do not hold. Good photos of you, ideally taken where you train, help clients feel they know you before they meet.</p>
+<h3>Training options and packages</h3>
+<p>Explain the ways clients can work with you, covered below.</p>
+<h3>How it works</h3>
+<p>Walk through what happens from first contact to regular sessions. Explain what a first session involves, what to bring and what to expect. This is especially reassuring for beginners.</p>
+<h3>Testimonials or client stories</h3>
+<p>Real words from real clients, with permission. More on this below.</p>
+<h3>Contact and booking</h3>
+<p>An easy way to book or get in touch, with your phone number and location or training areas.</p>
+<h3>Policies</h3>
+<p>A privacy notice, terms of service and your cancellation policy.</p>
+
+<h2>Presenting packages and pricing</h2>
+<p>Many trainers find it clearer to offer a small number of defined options rather than a long list. These might include single sessions, blocks of sessions, monthly packages, small group or partner training, and online coaching. For each, explain who it suits, how often sessions happen, how long they last and what is included. Only list inclusions you genuinely provide, such as programme design or check-ins.</p>
+<p>Some trainers show prices on their site; others discuss them during a consultation. Showing prices or starting points can help visitors judge fit before getting in touch. Whichever you choose, be clear about any minimum commitments, how block bookings expire and what happens if a client wants to stop. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> explains the options.</p>
+
+<h2>Booking and payments</h2>
+<p>Trainers spend a lot of time arranging and rearranging sessions. An online booking system can reduce that by letting clients see availability, book and reschedule within your rules, and receive automated reminders. Useful features to look for include:</p>
+<ul>
+<li>Bookings that sync with your own calendar.</li>
+<li>Support for packages and blocks of sessions.</li>
+<li>Payment or deposits at the time of booking, if you want them.</li>
+<li>Automated reminders.</li>
+<li>Cancellation rules that match your policy.</li>
+</ul>
+<p>Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> covers the options in more detail. Make your cancellation policy clear at the point of booking, and check that your terms are fair and consistent with consumer law, particularly for prepaid packages and subscriptions. Our article on <a href="/blog/ecommerce-subscriptions-uk/">subscriptions</a> covers recurring payment considerations.</p>
+
+<h2>Online coaching</h2>
+<p>Many trainers now offer online coaching, with programmes, check-ins and support delivered remotely. If you do, your website should explain clearly how it works, what clients receive, how often you are in contact, which app or platform you use for delivery and how to sign up. Online coaching can broaden your reach beyond a local area, so the site may need to work for people who will never meet you in person. Be realistic about the level of support included, and only describe features you actually provide.</p>
+<p>If you sell digital products such as training plans, you will need a way to take payments and deliver files. Squarespace, Wix and Shopify all offer options for this.</p>
+
+<h2>Health information and privacy</h2>
+<p>Trainers often collect health information before working with a client, such as through a pre-exercise questionnaire. Health data is treated as special category data under UK GDPR, which means it needs extra care.</p>
+<ul>
+<li>Only collect the information you genuinely need, and explain why you need it.</li>
+<li>Use forms and tools that store information securely.</li>
+<li>Make sure your privacy notice explains what you collect, why, how long you keep it and who can access it.</li>
+<li>Think about whether you need an appropriate lawful basis and condition for processing health data.</li>
+</ul>
+<p>The Information Commissioner's Office publishes guidance for small businesses on UK GDPR and special category data. Check what applies to you, as this guide cannot cover your specific situation. Our <a href="/blog/website-contact-forms/">contact forms guide</a> covers form design, and our <a href="/blog/cookie-banner-design-uk/">cookie banner guide</a> covers consent for cookies and tracking.</p>
+
+<h2>Honest claims about results</h2>
+<p>Before and after photos and dramatic results claims are common in fitness marketing, but they need care.</p>
+<ul>
+<li><strong>Avoid guarantees.</strong> Results depend on many factors outside your control. Promises such as a set amount of weight loss in a set time are difficult to support.</li>
+<li><strong>Use real client stories with permission.</strong> Never invent testimonials or use images of people who are not your clients. If you use before and after photos, get clear written consent and consider noting that results vary.</li>
+<li><strong>Be careful with health claims.</strong> Avoid claiming that training will treat or cure medical conditions. Encourage clients with health concerns to speak to a medical professional.</li>
+<li><strong>Nutrition advice.</strong> If you offer nutrition guidance, stay within your qualifications and be careful about claims, especially around supplements.</li>
+</ul>
+<p>UK advertising rules generally require marketing claims to be truthful and supportable, and the Advertising Standards Authority has published guidance relevant to weight loss and health claims. Check it before publishing results-focused content. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> explains how to gather and present genuine client feedback.</p>
+
+<h2>Getting found locally</h2>
+<p>If you train people in person, local search matters. A complete Google Business Profile, clear information about where you train, and genuine reviews can all help people nearby find you. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explain the essentials. Helpful content, such as advice for beginners starting strength training, can also support visibility; keep it accurate and within your expertise.</p>
+
+<h2>Choosing a platform</h2>
+<p>Squarespace and Wix are popular with personal trainers who want a professional site they can manage themselves, with built-in booking and payment options. WordPress offers more flexibility for trainers who plan to publish lots of content, sell programmes or build membership features. Our comparisons of <a href="/blog/wix-vs-wordpress-uk/">Wix vs WordPress</a> and <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress</a> explain the differences. Whatever you choose, make sure the site works well on a phone, as many people will find you that way. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> has more.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you are a personal trainer looking for a site that explains your training clearly and makes booking easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a personal trainer's website include?</h3>
+<p>A clear home page, an about page with accurate qualifications, your training options, an explanation of how it works, genuine testimonials, easy booking and a privacy notice.</p>
+<h3>Should personal trainers show prices online?</h3>
+<p>Many do, as it helps visitors judge fit. Others discuss prices in a consultation. Either way, be clear about commitments and cancellation terms.</p>
+<h3>Can I use before and after photos on my website?</h3>
+<p>Only of real clients who have given clear consent. Avoid implying typical results and check Advertising Standards Authority guidance on health and weight loss claims.</p>
+<h3>Do I need to protect clients' health information?</h3>
+<p>Yes. Health data is special category data under UK GDPR, so collect only what you need, store it securely and explain its use in your privacy notice.</p>
+<h3>Which platform is best for a personal trainer's website?</h3>
+<p>Squarespace and Wix suit trainers wanting a simple site with booking. WordPress suits those planning lots of content, digital programmes or membership features.</p>
+`,
+  },
+  {
+    slug: 'shopify-childrens-products-brand-uk',
+    seoTitle: 'Shopify for Children\'s Products Brands UK: A Guide',
+    title: 'Shopify for Children\'s Products Brands in the UK: Safety, Trust and Selling to Parents',
+    description: 'Guide to running a UK children\'s products brand on Shopify: product safety information, age guidance, gifting, sizing, parent trust, privacy and store setup.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Selling children's products online is different from selling most other things. The person buying is usually a parent, grandparent, relative or friend, not the child who will use the product. They are often cautious, they read details carefully, and they want to feel confident that what they are buying is suitable, well made and safe. A children's brand store has to earn that confidence quickly.</p>
+<p>This guide is for UK brands selling toys, baby products, children's clothing, nursery items, books, educational products or accessories through Shopify. It covers how to present safety and age information, product pages, sizing, gifting, building trust with parents, privacy and the practical setup of a Shopify store. It is a website and ecommerce guide, not legal advice. Children's products can be subject to specific safety, labelling and testing requirements in the UK, and you should check what applies to your products with official guidance or a qualified adviser.</p>
+
+<h2>Why Shopify suits many children's brands</h2>
+<p>Shopify is a hosted ecommerce platform, which means it handles hosting, security updates and checkout for you. For a small or growing children's brand this removes a lot of technical work, leaving more time for product development, sourcing and marketing. Its theme system makes it possible to build an attractive, mobile-friendly store, and its product and variant structure handles things like sizes, colours and age ranges well.</p>
+<p>It is not the only option. Some brands prefer WooCommerce for more control, and our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> explains the trade-offs. If you are just starting out, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the foundations.</p>
+
+<h2>Safety information: be accurate and visible</h2>
+<p>For many children's products, safety information is one of the first things a careful buyer looks for. How you present it matters, and so does what you say.</p>
+<h3>Only state what is true and documented</h3>
+<p>If a product has been tested or meets a particular safety standard, you can say so, ideally in specific terms. If you are unsure whether it has, do not imply that it has. Vague phrases such as "completely safe" or "100% child safe" are best avoided, as they are hard to support and can mislead. Claims in your marketing generally need to be accurate and supportable under UK consumer protection and advertising rules.</p>
+<h3>Show age guidance and warnings clearly</h3>
+<p>Where a product carries age guidance or warnings, for example about small parts or adult supervision, consider showing that information on the product page as well as on the packaging. A short, clearly labelled section near the add to cart button is easier to find than text buried in a long description.</p>
+<h3>Check your obligations</h3>
+<p>Toys, cosmetics for children, nursery equipment, children's nightwear and some other categories can have specific UK requirements around safety, marking and labelling. The Office for Product Safety and Standards publishes guidance for businesses, and Trading Standards services can also help. Requirements can change and can differ for different products, so check rather than assume. Your store should reflect the position you have confirmed, not replace that check.</p>
+
+<h2>Product pages that answer parents' questions</h2>
+<p>A children's product page should answer the questions a thoughtful buyer will have before they need to ask. Depending on the product, these might include:</p>
+<ul>
+<li>What age or stage the product suits.</li>
+<li>What it is made of, and any relevant care or cleaning instructions.</li>
+<li>Dimensions and weight, especially for nursery items and larger toys.</li>
+<li>Whether batteries are needed, and if they are included.</li>
+<li>Any assembly required.</li>
+<li>Safety information and warnings that apply.</li>
+<li>Delivery and returns details.</li>
+</ul>
+<p>Use clear headings or tabs so people can scan for what matters to them. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> and <a href="/blog/product-page-seo-uk/">product page SEO guide</a> go into more detail.</p>
+<h3>Photography that shows scale and use</h3>
+<p>Parents want to see how big something is and how it is used. Alongside clean product shots, consider images that show the product in context, close-ups of materials and finishes, and photos of key features. If you photograph children using your products, make sure you have proper, informed consent from parents or guardians and think carefully about how images are stored and used. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> covers the practical side.</p>
+
+<h2>Sizing for children's clothing and footwear</h2>
+<p>Children grow quickly and sizing varies between brands, so size uncertainty is a common reason for hesitation and returns. A good size guide helps. Consider:</p>
+<ul>
+<li>Showing sizes by age and by measurements, as ages alone can be misleading.</li>
+<li>Explaining how to measure a child accurately.</li>
+<li>Noting whether a garment runs large or small, if you know this from your own product specifications.</li>
+<li>Linking to the size guide directly from every relevant product page.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-size-guides/">ecommerce size guides article</a> explains how to build one that actually gets used. Variants for size and colour should be set up so out-of-stock combinations are clear; see our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a>.</p>
+
+<h2>Designing for gift buyers</h2>
+<p>Many children's products are bought as gifts, often by people who do not know the child's exact size, interests or what they already own. Helping these buyers can make a real difference.</p>
+<ul>
+<li><strong>Shop by age.</strong> Collections organised by age range are an intuitive way in for gift buyers.</li>
+<li><strong>Shop by occasion or price.</strong> Birthdays, new baby gifts, christenings and seasonal collections can all help, as can gifts under a set amount.</li>
+<li><strong>Gift wrapping and messages.</strong> If you offer them, make them easy to add and show what the result looks like.</li>
+<li><strong>Gift receipts and returns.</strong> Explain clearly how gift recipients can exchange items.</li>
+<li><strong>Gift cards.</strong> Useful for people who are unsure what to buy. Our <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards guide</a> explains how to set them up.</li>
+</ul>
+<p>Collection pages need careful design so that filtering by age, price and category is simple on a phone. Our <a href="/blog/ecommerce-category-page-design/">category page design guide</a> covers the details.</p>
+
+<h2>Building trust with parents</h2>
+<p>Trust is especially important when the product is for a child. Several elements of a store contribute to it.</p>
+<h3>A genuine brand story</h3>
+<p>Parents often like to know who is behind a children's brand and why it exists. An honest about page that explains how the business started, what you care about and how you choose or make your products can help. Avoid exaggeration; a straightforward account tends to be more convincing. Our <a href="/blog/about-us-page-writing/">about us page guide</a> has more.</p>
+<h3>Real reviews</h3>
+<p>Reviews from other parents can be persuasive, but they must be genuine. Do not write, buy or selectively suppress reviews. UK consumer law has specific rules about fake and misleading reviews, so check the current guidance from the Competition and Markets Authority if you are unsure. Our <a href="/blog/ecommerce-product-reviews/">product reviews guide</a> covers collecting and displaying them properly.</p>
+<h3>Clear policies</h3>
+<p>Delivery times, costs, returns and how to get in touch should be easy to find and written in plain English. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> and our article on <a href="/blog/website-trust-signals/">website trust signals</a> explain what to include.</p>
+
+<h2>Privacy and marketing to families</h2>
+<p>Your customers are adults, but the products relate to children, and sometimes you may collect information such as a child's age or birthday for reminders or personalised products. Treat this carefully.</p>
+<ul>
+<li>Only collect information you genuinely need, and explain why you are collecting it.</li>
+<li>Make sure your privacy notice covers what you collect and how you use it.</li>
+<li>Get proper consent for marketing emails, and make it easy to unsubscribe.</li>
+<li>Think carefully before designing any feature that would collect data directly from children.</li>
+</ul>
+<p>The Information Commissioner's Office publishes guidance on UK GDPR, marketing consent and, for online services likely to be accessed by children, its Children's Code. Check what applies to your store. Cookie consent also needs to be handled properly; see our <a href="/blog/cookie-banner-design-uk/">cookie banner design guide</a>.</p>
+
+<h2>Email and repeat purchases</h2>
+<p>Children's products naturally lend themselves to repeat purchases, as children move from one stage to the next. With proper consent, email can help you stay in touch with customers as their needs change, through new arrivals, seasonal collections or helpful content. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers the essentials, and our article on <a href="/blog/ecommerce-transactional-emails/">transactional emails</a> explains the order and delivery messages every store sends.</p>
+
+<h2>Getting found in search</h2>
+<p>Parents often search for specific products, ages and problems, such as gifts for a particular age or a type of nursery item. Collection pages built around these searches, well-written product pages and helpful buying guides can all support your visibility. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> explain how to approach it. For paid visibility, our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> is a good starting point. Note that advertising platforms can have their own policies for children's products, so review them before launching campaigns.</p>
+
+<h2>Seasonality and stock</h2>
+<p>Demand for children's products often rises around Christmas, birthdays and back to school, and gift buyers can be very sensitive to delivery deadlines. Plan stock, delivery cut-off messages and seasonal collections in advance. Our <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation guide</a> and our article on <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> can help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands, working remotely across the UK. If you run a children's products brand and want a store that presents your products clearly and earns parents' trust, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify a good platform for a children's products brand?</h3>
+<p>It suits many children's brands, particularly those who want a hosted platform that handles security and checkout, with good support for sizes, variants and gift options.</p>
+<h3>Can I say my products are safe on my website?</h3>
+<p>Only make safety claims you can support, ideally in specific terms such as a standard the product has been tested against. Avoid vague absolute claims and check the relevant UK guidance.</p>
+<h3>Do children's products have special legal requirements in the UK?</h3>
+<p>Many do, including toys and some nursery and clothing items. The Office for Product Safety and Standards and Trading Standards publish guidance, and a specialist can advise on your products.</p>
+<h3>How can I reduce returns on children's clothing?</h3>
+<p>A clear size guide with measurements as well as ages, accurate product details and good photography can all help buyers choose the right size first time.</p>
+<h3>Can I collect a child's birthday for marketing?</h3>
+<p>Think carefully, collect only what you need, explain why and get proper consent. Check ICO guidance on UK GDPR and marketing before setting this up.</p>
+`,
+  },
+  {
+    slug: 'shopify-cycling-outdoor-brand-uk',
+    seoTitle: 'Shopify for Cycling and Outdoor Brands UK: A Guide',
+    title: 'Shopify for Cycling and Outdoor Brands in the UK: Technical Products, Fit and Delivery',
+    description: 'Guide to running a UK cycling or outdoor brand on Shopify: technical specs, sizing and fit, compatibility, bulky item delivery, content, servicing and setup.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>People buying cycling and outdoor kit tend to know what they want, or want to know before they buy. Whether it is a bike, a waterproof jacket, a tent, walking boots or a set of components, the buyer is often comparing technical details, checking fit and thinking about how the product will perform in British weather. A store for this kind of brand needs to support that research rather than get in its way.</p>
+<p>This guide is for UK brands and independent retailers selling bikes, cycling clothing and accessories, camping gear, hiking equipment, outdoor clothing or similar products on Shopify. It covers presenting technical products, sizing and fit, compatibility, delivery of bulky items, content, servicing and workshop bookings, and the practical setup of the store.</p>
+
+<h2>Why Shopify works for many outdoor brands</h2>
+<p>Shopify is a hosted platform, so it looks after hosting, security and checkout. That suits outdoor brands who would rather spend time on products, events and customers than on server maintenance. Its product structure handles sizes, colours and other variants, and metafields can store technical specifications in a structured way so they display consistently across products.</p>
+<p>Some retailers with very large catalogues or complex requirements consider other platforms, and our <a href="/blog/bigcommerce-vs-shopify-uk/">BigCommerce vs Shopify comparison</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> explain the differences. If you also sell from a physical shop, our guide to <a href="/blog/shopify-pos-uk-retail/">Shopify POS for UK retail</a> explains how online and in-store sales can share stock and customer data.</p>
+
+<h2>Presenting technical products</h2>
+<p>Outdoor and cycling products often carry a lot of detail: materials, weights, waterproof ratings, frame geometry, gearing, capacities and more. That detail is valuable, but only if buyers can find and compare it.</p>
+<h3>Use structured specifications</h3>
+<p>Rather than burying specifications in a long paragraph, present them in a consistent table or list on every product page. Storing them as structured data within Shopify makes this easier to maintain and can also support filtering on collection pages, for example by weight, size or intended use.</p>
+<h3>Explain what the numbers mean</h3>
+<p>Not every buyer understands every specification. Short explanations, either on the page or in a linked guide, help less experienced buyers make sense of ratings and measurements. Be careful to describe performance accurately and in line with the manufacturer's information; avoid overstating what a product can do, especially for anything related to safety, weather protection or load.</p>
+<h3>Show the details in photographs</h3>
+<p>Close-ups of zips, seams, fabrics, components and features help buyers judge quality. For clothing and packs, images on a person help show fit and scale. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> and <a href="/blog/website-video-guide/">website video guide</a> cover how to show products well.</p>
+
+<h2>Sizing and fit</h2>
+<p>Fit matters enormously for bikes, cycling clothing, boots and outdoor apparel, and uncertainty about it is a common reason for hesitation and returns.</p>
+<ul>
+<li><strong>Bike sizing.</strong> A size chart based on rider height is a useful starting point, but frame geometry, reach and personal preference also matter. Explain this honestly and invite questions, or offer fitting appointments if you provide them.</li>
+<li><strong>Clothing.</strong> Give measurements for each size, explain how the cut is intended to fit, and note anything specific, such as whether a jacket is designed to fit over layers.</li>
+<li><strong>Footwear.</strong> Explain how to measure feet and how the size compares to standard sizing, based on the manufacturer's information.</li>
+</ul>
+<p>Link size guides from every relevant product page. Our <a href="/blog/ecommerce-size-guides/">size guides article</a> explains what makes them useful.</p>
+
+<h2>Compatibility for parts and accessories</h2>
+<p>For components, spares and accessories, compatibility is often the first question. Will this fit my bike? Does this pump work with my valves? Does this pole fit my tent?</p>
+<ul>
+<li>State compatibility information clearly on each product page, using the terms buyers use.</li>
+<li>Consider filters on collection pages for common compatibility attributes.</li>
+<li>Link related products together, such as a part and the tools needed to fit it.</li>
+<li>Where compatibility is complicated, a short buying guide or a contact route for questions can prevent wrong orders.</li>
+</ul>
+<p>Good site search also helps, as many buyers search by model or part type. Our <a href="/blog/ecommerce-site-search/">ecommerce site search guide</a> explains how to improve it.</p>
+
+<h2>Selling bikes and other large or high-value items</h2>
+<p>Bikes, e-bikes, tents and other large items raise practical questions that need clear answers.</p>
+<h3>Delivery and assembly</h3>
+<p>Explain how large items are delivered, how long it takes and what condition they arrive in. If a bike needs some assembly or setup on arrival, say so clearly and explain what is involved. If you offer collection from a shop or workshop, make that option easy to choose. Our <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages guide</a> covers how to present this.</p>
+<h3>Returns</h3>
+<p>Returns for bulky items can be awkward and expensive. Your returns information should be clear and must reflect your legal obligations. Consumers buying online in the UK generally have cancellation rights, and there are rules about who pays for returns and how refunds work. Check the current guidance rather than writing a policy from memory.</p>
+<h3>Finance and payment options</h3>
+<p>Some retailers offer finance or instalment payments on higher-value items. If you do, be aware that offering or promoting credit can be a regulated activity in the UK, and the Financial Conduct Authority sets rules on how it is promoted. Take advice before adding finance options or promotional wording about them. If you take part in a cycle to work scheme, explain clearly how customers can use it with you.</p>
+<h3>E-bikes and battery products</h3>
+<p>E-bikes and products with lithium batteries can be subject to specific safety, legal and delivery considerations. Describe products accurately, include the manufacturer's safety and charging information, and check the rules that apply to selling and shipping them. Avoid making claims about legal use on roads or trails unless you are certain they are correct for the product.</p>
+
+<h2>Workshop and servicing bookings</h2>
+<p>Many cycling retailers also offer servicing and repairs. Your website can make booking these simpler, through a clear services page explaining what each service covers and an online booking system for appointments. Only list services you actually provide, and avoid promising turnaround times you cannot reliably meet. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> and <a href="/blog/service-page-design/">service page design guide</a> can help.</p>
+
+<h2>Content that helps buyers decide</h2>
+<p>Outdoor and cycling buyers often look for advice before they buy: how to choose a first road bike, how to layer for winter walking, what to pack for a camping trip. Helpful content of this kind can support buyers who are still deciding and can help your store be found in search.</p>
+<ul>
+<li><strong>Buying guides</strong> explaining how to choose between types of product.</li>
+<li><strong>Fit and sizing guides</strong> that go deeper than a size chart.</li>
+<li><strong>Care and maintenance guides</strong> for clothing, boots and bikes.</li>
+<li><strong>Comparison pages</strong> for similar products in your range.</li>
+</ul>
+<p>Write from genuine knowledge and keep advice practical. Link guides to the relevant collections and products. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> and our article on <a href="/blog/ecommerce-product-comparison-pages/">product comparison pages</a> explain the approach, and our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the technical foundations.</p>
+
+<h2>Seasonality and stock</h2>
+<p>Demand for outdoor and cycling products often follows the seasons and the weather. Plan collections, stock and promotions around those patterns. Clear stock information matters too, particularly for sizes and popular models that sell out. Our guides to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> and <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> explain how to handle this.</p>
+
+<h2>Community and repeat customers</h2>
+<p>Outdoor and cycling brands often have an engaged community around group rides, events or shared interests. With proper consent, an email list lets you share new products, events and useful content. A customer account area can make repeat purchases of consumables and spares easier. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> and our article on <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a> explain the options.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds Shopify stores for UK brands and retailers, working remotely across the UK. If you sell cycling or outdoor products and want a store that handles technical detail and practical questions well, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify suitable for selling bikes online?</h3>
+<p>It can be. Shopify handles variants, specifications and checkout well, but you will need to plan carefully for delivery, assembly, returns and any finance options you offer.</p>
+<h3>How should I show technical specifications on product pages?</h3>
+<p>Present them in a consistent table or list on every product, ideally stored as structured data so they can also be used for filtering and comparisons.</p>
+<h3>Can I offer finance on bikes through my website?</h3>
+<p>Offering or promoting credit can be regulated in the UK, so take advice and check Financial Conduct Authority rules before adding finance options or wording.</p>
+<h3>How do I reduce wrong orders for parts and accessories?</h3>
+<p>Show clear compatibility information, add compatibility filters, link related products and give buyers an easy way to ask questions before ordering.</p>
+<h3>Should an outdoor brand publish buying guides?</h3>
+<p>Practical buying, fit and care guides can help buyers decide and support visibility in search, provided they are accurate and genuinely useful.</p>
+`,
+  },
 ];
