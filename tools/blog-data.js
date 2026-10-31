@@ -27399,4 +27399,550 @@ module.exports = [
 <p>One your staff can update confidently and that is kept secure. WordPress, Squarespace and Wix are all used by schools.</p>
 `,
   },
+  {
+    slug: 'financial-adviser-website-design-uk',
+    seoTitle: 'Financial Adviser Website Design: A UK Guide',
+    title: 'Financial Adviser Website Design: Clarity, Trust and Regulatory Care',
+    description: 'Website design for UK financial advisers and planners: client-type pages, charges, regulatory disclosures, team profiles and first meetings.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/fca-compliant-marketing-financial-advisers/', '/sectors/financial-advisers/'],
+    body: `
+<p>Choosing a financial adviser is a significant, personal decision. People often arrive at an adviser's website at a turning point: approaching retirement, receiving an inheritance, selling a business or simply realising their finances have become complicated. They want to understand whether you work with people like them, how advice works, what it might cost and whether they can trust you. An adviser's website that answers those questions clearly and calmly can make the first conversation easier.</p>
+<p>This guide covers website design for UK financial advisers, financial planners and wealth management firms. It focuses on structure, content and practical features. For regulatory considerations in marketing, see our guide to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing for financial advisers</a>, and for search, our guide to <a href="/blog/financial-adviser-seo-uk/">financial adviser SEO</a>.</p>
+<p>An important note before going further: financial services websites are subject to regulation. This guide is general information about website design, not regulatory or legal advice. Your compliance function, network or compliance consultant should review content before it goes live, and you should check the current FCA rules and guidance that apply to your firm.</p>
+
+<h2>What prospective clients want to know</h2>
+<p>Visitors to an adviser's site are often asking:</p>
+<ul>
+<li>Do you work with people in my situation?</li>
+<li>What does financial advice or planning actually involve?</li>
+<li>How do you charge, and roughly what might it cost?</li>
+<li>Are you regulated, and what does that mean for me?</li>
+<li>Who would I be dealing with?</li>
+<li>How do I take the first step, and is there any commitment?</li>
+</ul>
+<p>The homepage should make clear who you help and how to get in touch. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers prioritising content.</p>
+
+<h2>Organise around clients, not products</h2>
+<p>Advisers sometimes structure their sites around products, such as pensions, investments and protection. Clients more often think in terms of their own circumstances. Structuring pages around client situations can make the site easier to use, for example:</p>
+<ul>
+<li>Planning for retirement.</li>
+<li>Business owners and directors.</li>
+<li>Families and later-life planning.</li>
+<li>People who have received a lump sum or inheritance.</li>
+<li>Professionals in a particular field, if that is a genuine specialism.</li>
+</ul>
+<p>Each page can explain the kinds of questions those clients have and how your advice process helps, without promising particular outcomes. Only describe areas where you actually advise, and make sure any specialist descriptions are accurate. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers structuring menus.</p>
+
+<h2>Explaining how advice works</h2>
+<p>Many people are unsure what happens when they see an adviser. A clear "How we work" page can explain, in general terms and reflecting your actual process, the first conversation, information gathering, recommendations and ongoing reviews. It can also explain the difference between one-off advice and an ongoing service, if you offer both. Plain language matters: avoid unexplained jargon, and make sure the description matches what clients really experience and what your client agreements say.</p>
+
+<h2>Charges and fees</h2>
+<p>How advisers charge is a common source of confusion. The FCA has requirements on disclosing charges, and your client agreement and initial disclosure documents set out the formal position. On the website, a clear explanation can help people decide whether to get in touch, for example how initial and ongoing fees are structured and what an ongoing service includes. Any figures or examples shown should be accurate, consistent with your formal documents and approved by your compliance function. If you prefer not to publish figures, explain how charges are worked out and when they will be confirmed. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers presenting this kind of information clearly.</p>
+
+<h2>Regulatory status and disclosures</h2>
+<p>Advisory firms typically need to show their regulatory status accurately on their website, which may include the firm's name, authorisation details and registered address, and status as an appointed representative of a principal firm where that applies. The exact wording and placement requirements depend on your firm's circumstances and the current rules, so check them with your compliance support and the FCA's guidance. Common places for this information include the footer and a dedicated legal or regulatory page. Our guide to <a href="/blog/website-footer-design/">footer design</a> covers fitting essential information into the footer without clutter.</p>
+<p>Other points to check with your compliance function include:</p>
+<ul>
+<li>Risk warnings where you discuss investments, and how prominently they need to appear.</li>
+<li>Statements about whether advice is independent or restricted, and what that means.</li>
+<li>Complaints information and the role of the Financial Ombudsman Service.</li>
+<li>Information relating to the Financial Services Compensation Scheme, where relevant.</li>
+<li>Your privacy notice and cookie policy.</li>
+</ul>
+
+<h2>Content, promotions and the Consumer Duty</h2>
+<p>Much of what an adviser publishes online, including service pages, articles and social posts, may count as a financial promotion or a communication with clients. The FCA expects these to be fair, clear and not misleading, and the Consumer Duty sets expectations around consumer understanding. In practice, that means avoiding guarantees about returns or outcomes, presenting benefits and risks in a balanced way, and making sure content is understandable for the people it is aimed at. Have content reviewed and approved in line with your firm's procedures, and keep records of what was published and when.</p>
+<p>Articles and guides can help visitors understand topics such as pension options or inheritance tax planning in general terms, and can support search visibility. Date each article, review it when rules change, link to official sources such as government guidance or MoneyHelper where useful, and make clear content is general information rather than personal advice.</p>
+
+<h2>Introducing the people</h2>
+<p>Clients are choosing someone they may work with for many years. A team page with real photos, roles and qualifications described accurately helps visitors get a sense of who they will deal with. Use professional designations and chartered titles only where the person or firm genuinely holds them and in line with the awarding body's rules. Avoid stock imagery that could belong to any firm. See our guide to <a href="/blog/website-trust-signals/">website trust signals</a>.</p>
+
+<h2>Testimonials and reviews</h2>
+<p>Client reviews can be persuasive, but in financial services they need extra care, because they may form part of a financial promotion. Don't select or present reviews in a way that gives a misleading impression, never invent or alter them, and check with your compliance function before featuring them on the website. Our guide to <a href="/blog/website-testimonials-page/">testimonials pages</a> covers general good practice.</p>
+
+<h2>The first meeting and contact</h2>
+<p>Many prospective clients would rather book an initial conversation than complete a long form. If you offer an initial meeting, explain how long it lasts, whether there is any charge and what it covers. An embedded booking tool can make this easy; see our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a>.</p>
+<p>Keep enquiry forms short and avoid asking for detailed financial information at this stage. Never encourage people to send sensitive documents by ordinary email or a basic form; if you use a secure client portal, link to it clearly. Make sure your forms and data handling align with UK GDPR. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design.</p>
+
+<h2>Client portals and existing clients</h2>
+<p>Many firms provide a client portal for valuations and documents. Put a clear "Client login" link in the header, separate from new enquiry routes. Make sure links point to the genuine portal address and explain how clients can recognise legitimate communications from you, which can help reduce the risk of impersonation scams.</p>
+
+<h2>Accessibility and vulnerable customers</h2>
+<p>Financial advice often involves older clients and people in vulnerable circumstances. Clear typography, good contrast, plain language and alternative contact routes, such as a phone number, all help. The FCA expects firms to consider the needs of vulnerable customers, so think about how the website supports that. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the practical basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress is common for adviser sites because it supports structured pages and articles and gives control over content approval workflows. Hosted builders such as Squarespace or Wix can suit very small firms. Some networks have their own requirements or preferred approaches for member websites, so check those first. Whatever you choose, make sure you can update regulatory information quickly and keep a record of changes. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/website-maintenance-uk/">website maintenance</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Product-led pages that don't say who you help.</li>
+<li>Missing, inaccurate or out-of-date regulatory information.</li>
+<li>Language that implies guaranteed returns or outcomes.</li>
+<li>Charges that are hard to find or inconsistent with your formal documents.</li>
+<li>Publishing content without compliance review.</li>
+<li>Asking for sensitive financial details through a basic form.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. We are not compliance advisers, so regulatory content should be approved by your own compliance support. If you are an adviser looking for a clearer, more approachable website, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, how we help <a href="/sectors/financial-advisers/">financial advisers</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What regulatory information should a financial adviser's website show?</h3>
+<p>Usually your regulatory status and firm details, among other disclosures. The exact requirements depend on your circumstances, so check current FCA rules with your compliance support.</p>
+<h3>Should financial advisers show their fees online?</h3>
+<p>Explaining how you charge can help visitors. Any figures should match your formal disclosures and be approved by your compliance function.</p>
+<h3>Can advisers use client testimonials?</h3>
+<p>Possibly, but they may form part of a financial promotion. Check with your compliance function before using them.</p>
+<h3>Do website articles count as financial promotions?</h3>
+<p>They may do. Have content reviewed under your firm's procedures and make clear it is general information, not personal advice.</p>
+<h3>How should an adviser's website handle sensitive information?</h3>
+<p>Keep enquiry forms brief, avoid collecting detailed financial data, and use a secure client portal for documents.</p>
+`,
+  },
+  {
+    slug: 'it-support-company-website-design-uk',
+    seoTitle: 'IT Support Company Website Design: A UK Guide',
+    title: 'IT Support Company Website Design: Explaining Managed Services Clearly',
+    description: 'Website design for UK IT support companies and MSPs: plain-English service pages, support plans, response times, security claims and client login.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/b2b-marketing-agency-uk/', '/sectors/b2b/'],
+    body: `
+<p>Choosing an IT support company is a decision many small and medium-sized businesses put off until something breaks. The person searching is often a business owner or office manager, not an IT professional. They want to know whether you can look after businesses like theirs, how quickly you respond, what it costs and whether they can trust you with their systems and data. An IT support website that answers those questions plainly has a head start, because the sector is full of sites that talk mainly in acronyms.</p>
+<p>This guide covers website design for UK IT support companies, managed service providers and IT consultancies. It focuses on the website itself. For wider promotion, see our guides to <a href="/blog/b2b-marketing-agency-uk/">B2B marketing</a> and <a href="/blog/b2b-seo-uk/">B2B SEO</a>.</p>
+
+<h2>Who you are really writing for</h2>
+<p>An IT support site may be read by several people in the same business:</p>
+<ul>
+<li>The owner or managing director, who cares about cost, risk and downtime.</li>
+<li>An office or operations manager, who deals with day-to-day issues.</li>
+<li>An internal IT person, if there is one, who wants technical detail.</li>
+<li>Finance, who wants clear pricing and contract terms.</li>
+</ul>
+<p>Lead with business outcomes in plain English, such as fewer interruptions, help when something goes wrong, and data that is backed up and protected. Then provide technical detail on deeper pages for those who want it. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing for clarity.</p>
+
+<h2>Service pages that explain, not list</h2>
+<p>Many IT sites present long lists of services: managed IT, cloud, cyber security, backup, networking, VoIP, Microsoft 365, hardware procurement and more. That can overwhelm non-technical visitors. Consider organising the site around a few clear areas, with a page each, explaining:</p>
+<ul>
+<li>What problem the service solves, in everyday terms.</li>
+<li>What it typically involves.</li>
+<li>Who it suits.</li>
+<li>How it fits with your other services.</li>
+</ul>
+<p>Pages organised around common situations can also help, such as "moving office", "starting to work remotely" or "replacing an old server", because that is often how people search. Only describe services you actually deliver, and be clear where you work with third parties. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers structuring service pages.</p>
+
+<h2>Support plans and pricing</h2>
+<p>Cost is one of the first questions business owners ask. Options for presenting it include:</p>
+<ul>
+<li>Published plans, often per user or per device, with what each includes.</li>
+<li>"From" prices with an explanation of what affects the final cost.</li>
+<li>An explanation of how you quote, if every client is different.</li>
+</ul>
+<p>Whatever you publish, make sure it matches your contracts. Be clear about what is included and what is chargeable extra, such as project work, hardware or out-of-hours support, and about contract length and notice periods. Pricing shown to business customers still needs to be clear and not misleading, so check current guidance if unsure. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout options.</p>
+
+<h2>Response times and support hours</h2>
+<p>Response times are a key selling point, which makes them easy to overstate. If you show target response or resolution times, make sure they match what your service level agreements actually commit to, explain how priorities are defined, and be clear about support hours and what happens outside them. A precise description, such as the hours your helpdesk is staffed and how urgent issues are handled out of hours, is more credible than vague claims of round-the-clock cover.</p>
+
+<h2>Security and certification claims</h2>
+<p>Cyber security is part of most IT support offerings, and businesses are increasingly cautious. The website should describe what you do in clear terms without promising things no provider can guarantee, such as complete protection from attacks. A few rules:</p>
+<ul>
+<li>Only show certifications you or your organisation genuinely hold, such as Cyber Essentials or ISO standards, and keep them current.</li>
+<li>Be precise about scope: a certification may cover your own organisation, not the services you deliver to clients.</li>
+<li>Describe vendor partner statuses accurately, using the vendor's own rules for names and logos.</li>
+<li>If you help clients work towards certifications, explain that clearly rather than implying you can certify them yourself, unless you are actually authorised to do so.</li>
+</ul>
+<p>The National Cyber Security Centre publishes guidance for small businesses that you can link to as an authoritative source. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers presenting credentials responsibly.</p>
+
+<h2>Sectors you know well</h2>
+<p>If you have genuine experience in particular sectors, such as professional services, healthcare or education, dedicated pages can explain the specific IT considerations those businesses face. Only create pages for sectors where you actually have experience, and be careful with any regulatory statements, as sector rules on data and systems vary and change.</p>
+
+<h2>Local or national coverage</h2>
+<p>Many IT support businesses combine remote support with on-site visits. Be clear about where you can attend in person and how remote support works elsewhere. If you serve a defined area, location pages can help with local search, but each should contain genuinely useful, specific information rather than duplicated text with the town name swapped. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> cover the essentials.</p>
+
+<h2>Client login and existing customers</h2>
+<p>Existing clients need quick access to the support portal, remote support tools and contact numbers. Put a clear "Get support" or "Client login" link in the header, separate from calls to action for new visitors. If you provide a remote support download, make sure visitors are only directed to download it when they have been asked to by your team, and explain how they can confirm a request is genuine, as remote access tools can be misused by scammers.</p>
+
+<h2>Enquiries and next steps</h2>
+<p>Many businesses would prefer a short conversation before committing. Options include a booking tool for a short call, a simple enquiry form or a clear phone number. If you offer an IT review or assessment, describe what it actually involves and whether it is free or charged. Explain what happens after an enquiry and roughly when they can expect to hear back. Our guides to <a href="/blog/website-contact-forms/">contact forms</a> and <a href="/blog/website-online-booking-systems/">online booking systems</a> cover the options.</p>
+
+<h2>Helpful content</h2>
+<p>Practical, plain-English articles can show expertise and attract searches from businesses with specific problems, such as setting up multi-factor authentication or planning a move to cloud email. Date articles, review them regularly because technology changes, and avoid scaremongering. Content that genuinely helps tends to build more trust than alarming headlines. Our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a> covers how clear, well-structured content can be surfaced in newer search features.</p>
+
+<h2>Practise what you preach</h2>
+<p>An IT company's own website is, in effect, part of its portfolio. Visitors may notice if it is slow, insecure or out of date. Make sure it runs over HTTPS, is kept updated, loads quickly and works on a phone. Forms should be protected against spam and collect only what you need, in line with UK GDPR. Our guides to <a href="/blog/website-speed-optimisation-uk/">website speed</a>, <a href="/blog/website-maintenance-uk/">website maintenance</a> and <a href="/blog/website-accessibility-uk/">accessibility</a> cover the essentials.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress is common for IT support sites because it handles structured service pages, location pages and articles flexibly. Hosted builders such as Squarespace or Wix can suit smaller firms with simpler needs. Whatever you choose, make sure security updates are applied promptly. See our guide to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Jargon-heavy copy that non-technical buyers struggle to follow.</li>
+<li>Response time claims that don't match your contracts.</li>
+<li>Overstated security promises or certification scope.</li>
+<li>Vendor logos used without the right status or permission.</li>
+<li>No clear route for existing clients to get support.</li>
+<li>An out-of-date or slow website for a technology business.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run an IT support company or MSP and want a site that explains your services clearly to non-technical buyers, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, how we help <a href="/sectors/b2b/">B2B businesses</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should IT support companies publish their prices?</h3>
+<p>Many buyers appreciate it. Per-user plans or "from" prices can work, as long as they match your contracts and say clearly what is included.</p>
+<h3>How should an MSP describe response times?</h3>
+<p>Only in terms that match your service level agreements, with clear support hours and an explanation of how priorities are set.</p>
+<h3>Can we show Cyber Essentials on our website?</h3>
+<p>Only if you currently hold it, and describe its scope accurately. Follow the scheme's rules on use of its name and badges.</p>
+<h3>Should an IT company have location pages?</h3>
+<p>They can help if you serve particular areas, but each page should contain specific, useful information rather than duplicated text.</p>
+<h3>How should clients get support from the website?</h3>
+<p>A clear "Get support" or "Client login" link in the header, separate from new enquiry routes, usually works well.</p>
+`,
+  },
+  {
+    slug: 'letting-agent-website-design-uk',
+    seoTitle: 'Letting Agent Website Design: A UK Guide',
+    title: 'Letting Agent Website Design: Winning Landlords and Serving Tenants',
+    description: 'Website design for UK letting agents and property managers: landlord service pages, fee transparency, rental listings, tenant information and repairs.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/estate-agent-website-design-uk/', '/blog/estate-agent-marketing-uk/'],
+    body: `
+<p>Letting agents and property management companies rely on their websites in two quite different ways. Landlords use them to decide who to trust with a valuable asset and an ongoing responsibility. Tenants use them to find a home, apply and, once they have moved in, to report problems and find information. A website that only works well for one of these groups leaves value on the table. One that serves both, clearly, can win new instructions and reduce the volume of routine enquiries.</p>
+<p>This guide covers website design for UK letting agents, property managers and block management companies. It focuses on the website itself. Our guide to <a href="/blog/estate-agent-website-design-uk/">estate agent website design</a> covers sales-focused agency sites, and our guide to <a href="/blog/estate-agent-marketing-uk/">estate agent marketing</a> covers wider promotion.</p>
+
+<h2>Two audiences, two journeys</h2>
+<p>The homepage and main navigation should make it obvious where each visitor should go. A common pattern is clear routes for:</p>
+<ul>
+<li>Landlords: services, fees, valuations and how management works.</li>
+<li>Tenants looking for a home: available properties and how to apply.</li>
+<li>Current tenants: reporting repairs, contacts and useful information.</li>
+<li>Current landlords: portal login and statements.</li>
+</ul>
+<p>Labelling these clearly, rather than hiding them in a long menu, helps everyone get to what they need quickly. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers menu design.</p>
+
+<h2>Winning landlords</h2>
+<p>For many letting agents, landlord instructions are the commercial priority. Landlords often want to know:</p>
+<ul>
+<li>What service levels you offer, such as let only, rent collection or full management.</li>
+<li>What each level includes and excludes.</li>
+<li>What it costs.</li>
+<li>How you find and check tenants.</li>
+<li>How maintenance, inspections and compliance are handled.</li>
+<li>How and when they get paid and receive statements.</li>
+</ul>
+<p>A comparison table of service levels can make the differences easy to see. Describe what you genuinely do, and avoid implying that you guarantee things you cannot control, such as rent being paid or properties never being empty. If you offer rent guarantee products, describe them accurately and make clear who provides them and what terms apply. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers comparison layouts.</p>
+
+<h2>Fees and required information</h2>
+<p>Letting agents in the UK are subject to rules on displaying fees and certain information, and these differ between England, Wales, Scotland and Northern Ireland. In England, for example, agents are generally required to publish their fees, membership of a redress scheme and whether they are members of a client money protection scheme on their website. Restrictions on fees that can be charged to tenants also apply in several parts of the UK. Requirements change, so check current official guidance for each nation where you operate, and your trade body's advice if you belong to one.</p>
+<p>Practical points for the website:</p>
+<ul>
+<li>Display landlord fees clearly, including VAT where it applies.</li>
+<li>Make sure any tenant charges shown are permitted where the property is located.</li>
+<li>Show redress scheme and client money protection membership accurately, with certificates where required.</li>
+<li>Keep fee pages consistent with your terms of business.</li>
+</ul>
+<p>Material information also needs to be included in property listings in line with consumer protection rules. Trading Standards guidance on property listings is a useful starting point.</p>
+
+<h2>Property listings for renters</h2>
+<p>Renters often search on property portals first, but many will visit an agent's own website to see more properties or check details. Good listings pages include:</p>
+<ul>
+<li>Search filters by area, price, bedrooms and availability date.</li>
+<li>Clear rent figures, deposit information and any permitted charges.</li>
+<li>Quality photos, floor plans and an accurate description.</li>
+<li>Required material information, such as council tax band and energy performance information.</li>
+<li>A simple way to request a viewing.</li>
+</ul>
+<p>Listings usually come from your property management software via a feed or plugin, so check what your system supports before choosing how the site is built. Remove let properties promptly, or mark them clearly. Our guide to <a href="/blog/website-image-optimisation/">image optimisation</a> covers keeping photo-heavy pages fast.</p>
+
+<h2>Explaining the application process</h2>
+<p>Renters, especially first-time renters, often find the process confusing. A page explaining, in general terms, how applications, referencing, Right to Rent checks where they apply, holding deposits and move-in work can reduce calls and frustration. Describe your actual process, link to official government guidance for tenants, and keep it updated as rules change. An FAQ page can work well here; see our guide to <a href="/blog/website-faq-page/">FAQ pages</a>.</p>
+
+<h2>Current tenants: repairs and information</h2>
+<p>Once someone has moved in, the website becomes a service tool. Consider:</p>
+<ul>
+<li>A clear "Report a repair" route, linked to your maintenance system if you use one.</li>
+<li>Guidance on what counts as an emergency and who to contact out of hours.</li>
+<li>Simple troubleshooting for common issues, such as a boiler that won't fire.</li>
+<li>Information on ending a tenancy and the deposit return process.</li>
+</ul>
+<p>Be careful with safety advice: for issues such as gas leaks, direct tenants to the appropriate emergency services first. Our guide to <a href="/blog/website-contact-forms/">contact forms</a> covers designing forms that capture the right details, such as photos of the problem.</p>
+
+<h2>Landlord portals and existing clients</h2>
+<p>If your software provides a landlord or tenant portal, link to it clearly from the header, separate from new business calls to action. Explain to new landlords what they will be able to see, but only describe features your system genuinely provides.</p>
+
+<h2>Block and leasehold management</h2>
+<p>If you manage blocks of flats or estates, your audience includes leaseholders, residents' management companies and freeholders. They want to understand how service charges are handled, how communication works and how to report communal issues. Leasehold rules are complex and changing, so keep explanatory content general, dated and linked to official sources.</p>
+
+<h2>Valuations and enquiries</h2>
+<p>A rental valuation form is a common way to start a landlord conversation. Keep it short: property address, type, bedrooms and contact details are often enough to begin. Explain what happens next. Online valuation tools that give instant estimates can attract enquiries, but make clear that any figure is an estimate and not a guarantee of achievable rent. See our guide to <a href="/blog/website-trust-signals/">website trust signals</a> for presenting credibility.</p>
+
+<h2>Local pages and search</h2>
+<p>Letting agents usually operate in defined areas, which makes local search important. Area pages describing the rental market in neighbourhoods you know, local transport and amenities can help both renters and landlords, as long as each page contains specific, useful information rather than duplicated text. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a>, <a href="/blog/google-business-profile-uk/">Google Business Profile</a> and <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> cover the essentials.</p>
+
+<h2>Mobile use and accessibility</h2>
+<p>Renters often search on phones and need to act quickly when properties come up. Listings, viewing requests and repair reports should all work smoothly on mobile. Clear text, good contrast and accessible forms help everyone. See our guides to <a href="/blog/mobile-website-design/">mobile website design</a> and <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress is common for letting agent sites because many property software providers offer listings plugins or feeds for it. Some property software includes its own website builder, which may be simpler but less flexible. Check how well your chosen approach handles listings, compliance information and portal links. See our guide to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A site that only addresses renters and gives landlords little reason to instruct you.</li>
+<li>Fees or scheme memberships missing, hard to find or out of date.</li>
+<li>Tenant charges shown that are no longer permitted.</li>
+<li>Let properties left on the site as if available.</li>
+<li>No clear route for reporting repairs or emergencies.</li>
+<li>Rental estimates presented as guarantees.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a letting or property management business and want a site that wins landlords and serves tenants well, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What must a letting agent show on its website?</h3>
+<p>Requirements vary across the UK. In England, for example, agents are generally required to publish fees and redress and client money protection details. Check current official guidance for your area.</p>
+<h3>Should a letting agent's site be aimed at landlords or tenants?</h3>
+<p>Both. Give each a clear route from the homepage, with separate paths for current tenants and landlords.</p>
+<h3>Can tenants report repairs through the website?</h3>
+<p>Yes. A clear repair reporting route, with emergency guidance, can reduce calls and capture useful details.</p>
+<h3>How do property listings get onto a letting agent's website?</h3>
+<p>Usually through a feed or plugin from your property management software. Check what your system supports before building.</p>
+<h3>Should a letting agent offer an online rental valuation tool?</h3>
+<p>It can generate enquiries, but make clear any figure is an estimate rather than a guarantee of achievable rent.</p>
+`,
+  },
+  {
+    slug: 'manufacturer-website-design-uk',
+    seoTitle: 'Manufacturer Website Design: A UK Guide',
+    title: 'Manufacturer Website Design: Capabilities, Specifications and Quote Requests',
+    description: 'Website design for UK manufacturers: capability pages, product specifications, downloadable data sheets, accreditations and RFQ forms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/b2b-marketing-agency-uk/', '/sectors/b2b/'],
+    body: `
+<p>Manufacturing websites are often an afterthought. Many firms win work through long-standing relationships, trade shows and word of mouth, and the website was built years ago as a digital brochure. Yet when a new buyer, engineer or procurement team is looking for a supplier, the website is frequently one of the first places they check. They want to know quickly whether you can make what they need, to the standard they need, at the volume they need. A site built around those questions can open doors that a brochure site cannot.</p>
+<p>This guide covers website design for UK manufacturers, fabricators, machine shops and contract manufacturers. It focuses on the website itself. For promotion, such as B2B search, LinkedIn and account-based marketing, see our guides to <a href="/blog/b2b-marketing-agency-uk/">B2B marketing</a> and <a href="/blog/b2b-seo-uk/">B2B SEO</a>.</p>
+
+<h2>Who visits a manufacturer's website</h2>
+<p>A manufacturing site may need to serve several quite different visitors:</p>
+<ul>
+<li>Design and production engineers checking technical capability.</li>
+<li>Buyers and procurement teams comparing suppliers and checking approvals.</li>
+<li>Business owners or founders looking for someone to make a new product.</li>
+<li>Existing customers looking for documents, contacts or reorders.</li>
+<li>Prospective employees, which matters for firms struggling to recruit.</li>
+</ul>
+<p>Each group wants different information. Engineers want specifics, buyers want reassurance and process, founders often want guidance. Clear navigation that lets each find their path quickly is the foundation. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers structuring menus.</p>
+
+<h2>Capability pages, not just a list of machines</h2>
+<p>Many manufacturing sites list their machinery. That is useful for some engineers, but most visitors are really asking what you can make. Capability pages usually work better when organised by process or outcome, for example:</p>
+<ul>
+<li>Processes, such as CNC machining, sheet metal fabrication, injection moulding or assembly.</li>
+<li>Materials you work with.</li>
+<li>Typical part sizes, tolerances and finishes, stated accurately.</li>
+<li>Batch sizes, from prototypes to production runs, where relevant.</li>
+<li>Secondary services, such as finishing, inspection or kitting.</li>
+</ul>
+<p>An equipment list can then sit underneath as supporting detail. Be careful with technical claims: state tolerances and capacities you can genuinely achieve, and where they depend on the part or material, say so rather than quoting a best case as standard.</p>
+
+<h2>Industry and application pages</h2>
+<p>Buyers in different sectors often have different expectations around quality, documentation and traceability. If you serve particular industries, dedicated pages can explain how you work with each one. Only create pages for sectors you actually supply, and avoid naming customers or showing their parts unless you have permission to do so. Many manufacturing relationships come with confidentiality obligations, so generic descriptions of the type of work are often the safer route.</p>
+
+<h2>Products and specifications</h2>
+<p>If you make your own product range rather than, or as well as, contract work, the site needs a well-structured product catalogue. Useful elements include:</p>
+<ul>
+<li>Clear product categories and filters based on how buyers search, such as size, material or rating.</li>
+<li>Specification tables in HTML rather than only in images, so they can be read and searched.</li>
+<li>Downloadable data sheets, drawings or CAD files where appropriate.</li>
+<li>Installation or maintenance documents for existing customers.</li>
+</ul>
+<p>Keep document versions under control, so that the website always offers the current version. Out-of-date data sheets can cause real problems for customers. Our guide to <a href="/blog/product-page-seo-uk/">product page SEO</a> covers how product pages can be found in search.</p>
+
+<h2>Request for quote forms</h2>
+<p>For contract manufacturers, the quote request is often the key conversion. A good RFQ form balances getting enough information to quote with not putting people off. Consider asking for:</p>
+<ul>
+<li>Contact and company details.</li>
+<li>A short description of the part or project.</li>
+<li>Quantities and timescales, if known.</li>
+<li>Material and finish requirements.</li>
+<li>File uploads for drawings or models.</li>
+</ul>
+<p>Make clear which file types you accept, any size limits, and how drawings will be handled. Many buyers will want reassurance about confidentiality. If you are happy to sign a non-disclosure agreement before seeing drawings, say so. Make sure uploaded files are stored securely and only kept as long as needed, and that your privacy notice covers how you handle the data. Also explain what happens next and roughly when they can expect a response, but only promise turnaround times you can meet. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design.</p>
+
+<h2>Quality, accreditations and compliance</h2>
+<p>Quality and compliance information is often central to winning industrial work. Depending on your business, this might include quality management certifications, sector-specific approvals, or information about product marking, such as UKCA or CE marking, and other regulatory requirements. A few rules:</p>
+<ul>
+<li>Only show certifications you currently hold, and keep certificates up to date.</li>
+<li>Use certification body logos only in line with their rules.</li>
+<li>Describe the scope of a certification accurately, as it may not cover every site or activity.</li>
+<li>Product compliance requirements are complex and change, so check current official guidance or take advice before making statements about them.</li>
+</ul>
+<p>A downloadable copy of key certificates can save buyers time during supplier approval. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers presenting credentials.</p>
+
+<h2>Showing your facility</h2>
+<p>Photographs and video of your actual facility, machinery and people can help buyers judge whether you are a credible supplier. Real images usually do more than stock photos of generic factories. Check that nothing confidential, such as customer parts or drawings, is visible in shots, and get consent from staff who appear. A short factory tour video can work well; see our guide to <a href="/blog/website-video-guide/">website video</a>.</p>
+
+<h2>Case studies, with care</h2>
+<p>Case studies can show buyers how you solve problems, but manufacturing work is often covered by confidentiality. If you cannot name a customer, an anonymised description of the challenge, approach and outcome can still be useful, provided it is accurate and the customer would be comfortable with it. Don't overstate results. Our guide to <a href="/blog/website-testimonials-page/">testimonials pages</a> covers using customer feedback responsibly.</p>
+
+<h2>Recruitment pages</h2>
+<p>Many manufacturers find recruitment as important as winning customers. A careers section with real information about roles, apprenticeships, training and working environment can help. Keep vacancies up to date and remove filled roles promptly.</p>
+
+<h2>Ecommerce and trade ordering</h2>
+<p>Some manufacturers sell standard products or spares online, either to the public or to trade customers. Platforms such as Shopify or WooCommerce can handle this, and B2B features like trade pricing, account login and ordering on account may be needed. Consider how online orders link to your existing systems before committing. Our guide to <a href="/blog/ecommerce-website-design-uk/">ecommerce website design</a> covers the wider considerations.</p>
+
+<h2>Exporting and international buyers</h2>
+<p>If you sell abroad, consider whether international buyers can understand your site. Clear units, export information and contact routes help. Translated pages can work, but only where you can maintain them properly and respond to enquiries in those languages.</p>
+
+<h2>Speed, structure and search</h2>
+<p>Industrial buyers often search for specific processes and materials combined with a location or requirement. A clear structure, with a page for each process and material, gives search engines more to work with than a single long capabilities page. Large image and document libraries can slow a site down, so optimise images and host documents sensibly. Our guides to <a href="/blog/technical-seo-audit-checklist/">technical SEO</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a> cover the essentials. If you are redesigning an older site that already ranks for useful terms, plan redirects carefully; see <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a>.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress is common for manufacturing sites because it handles structured capability pages, document libraries and integrations flexibly. Shopify or WooCommerce suit firms selling standard products online. Very simple sites can run on builders such as Squarespace or Wix, but these may become limiting for large catalogues or technical documentation. See our guide to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A homepage full of general statements and no clear statement of what you make.</li>
+<li>Equipment lists without explaining capability.</li>
+<li>Specifications only in images or out-of-date PDFs.</li>
+<li>Out-of-date or overstated accreditations.</li>
+<li>RFQ forms that cannot accept drawings, or that ask for too much.</li>
+<li>Showing customer parts or names without permission.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a manufacturing business and want a site that explains your capabilities clearly and makes quote requests easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, how we help <a href="/sectors/b2b/">B2B businesses</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a manufacturer's website include?</h3>
+<p>Clear capability pages, materials and process information, accurate accreditations, a straightforward quote request route and real images of your facility.</p>
+<h3>Should a manufacturer list its machinery?</h3>
+<p>An equipment list can help engineers, but it usually works best as supporting detail beneath capability pages that explain what you can make.</p>
+<h3>Can buyers upload drawings through the website?</h3>
+<p>Many RFQ forms allow file uploads. Make sure files are handled securely, explain accepted formats and say how confidentiality is handled.</p>
+<h3>Should we show customer case studies?</h3>
+<p>Only with permission. Anonymised, accurate descriptions of the work can be a useful alternative where confidentiality applies.</p>
+<h3>Can a manufacturer sell online?</h3>
+<p>Yes, for standard products or spares. Platforms such as Shopify or WooCommerce can work, but consider trade pricing and how orders link to your systems.</p>
+`,
+  },
+  {
+    slug: 'restaurant-website-design-uk',
+    seoTitle: 'Restaurant Website Design: A UK Guide',
+    title: 'Restaurant Website Design: Menus, Bookings and Getting Guests Through the Door',
+    description: 'Website design for UK restaurants: readable menus, table bookings, allergen information, opening hours, private dining pages and a site that works on a phone.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/restaurant-marketing-uk/', '/sectors/hospitality/'],
+    body: `
+<p>A restaurant website has an unusual job. Most people who visit already have a rough idea that they might eat with you. They have seen a friend's photo, walked past the window or found you on a map. The website is where they confirm the decision: is the menu right, is it open tonight, can I get a table, and how do I get there? A site that answers those questions in a few taps can turn interest into a booking. One that hides the menu in a slow file or buries the booking button can quietly send people elsewhere.</p>
+<p>This guide covers website design for UK restaurants, from small independents to multi-site groups. It focuses on the website itself. For promotion, such as social media, local search and reviews, see our guide to <a href="/blog/restaurant-marketing-uk/">restaurant marketing</a>. If you run a cafe or coffee shop, our guide to <a href="/blog/cafe-website-design-uk/">cafe website design</a> covers the daytime, walk-in side of hospitality in more detail.</p>
+
+<h2>What diners look for</h2>
+<p>Visitors to a restaurant site usually want answers to a short list of questions:</p>
+<ul>
+<li>What kind of food is it, and what does the menu look like?</li>
+<li>Roughly how much will a meal cost?</li>
+<li>Is it open when I want to go?</li>
+<li>Can I book, and how?</li>
+<li>Where is it, and is there parking or good transport nearby?</li>
+<li>Can it cater for my dietary needs, children or a group?</li>
+</ul>
+<p>Design the homepage around those questions. A strong image, a one-line description of the food, the opening hours and a clear "Book a table" button often do more than long paragraphs about the founding story. That story still has a place, but lower down or on an about page. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise content, and our guide to <a href="/blog/website-hero-section-design/">hero section design</a> covers the top of the page.</p>
+
+<h2>Menus that work on a phone</h2>
+<p>The menu is often the most visited page on a restaurant site. Many restaurants upload a PDF of their printed menu, which is quick but has drawbacks: it can be slow to open on mobile data, hard to zoom, and less easy for search engines to read. A menu built as a normal web page, with headings for each section and dishes listed as text, is usually easier for diners to use.</p>
+<p>Some practical points:</p>
+<ul>
+<li>Show prices clearly, and keep them in step with the printed menu.</li>
+<li>Use short, appetising descriptions rather than long ones.</li>
+<li>Separate menus for lunch, dinner, set menus, drinks and children if you have them.</li>
+<li>Mark dietary options, such as vegetarian or vegan, consistently, and explain any symbols.</li>
+<li>Show a date or "last updated" note if the menu changes often.</li>
+</ul>
+<p>If you still want a printable version, offer the PDF as an extra rather than the only option. For seasonal menus that change frequently, make sure whoever updates the menu can do so easily in the content management system without needing a developer.</p>
+
+<h2>Allergen and dietary information</h2>
+<p>UK food businesses have legal duties around allergen information, and the specific requirements depend on how food is sold. For example, the rules for food served in a restaurant differ from those for prepacked food or food sold for delivery. The Food Standards Agency publishes guidance on what applies in each case, and you should check its current guidance, or take advice, rather than relying on a website template.</p>
+<p>On the website, a sensible approach is usually to explain how guests can get allergen information, invite them to tell staff about any allergies when booking and ordering, and avoid claims you cannot guarantee, such as describing a dish as completely free from an allergen if your kitchen cannot ensure that. If you publish allergen details online, keep them accurate and in step with your recipes, because an out-of-date list can be worse than none.</p>
+
+<h2>Table bookings</h2>
+<p>For most sit-down restaurants, the booking route is the most important action on the site. Options include:</p>
+<ul>
+<li>An embedded online booking widget from a reservations system, showing live availability.</li>
+<li>A link out to a booking page hosted by your reservations provider.</li>
+<li>A simple enquiry form for smaller venues that prefer to confirm by phone or email.</li>
+<li>A clickable phone number for people who prefer to call.</li>
+</ul>
+<p>An embedded widget can keep people on your site, but test it carefully on a phone, because some widgets are slow or awkward on small screens. Whatever you choose, place the booking button in the header so it is visible on every page, and explain any deposit, cancellation or no-show policy plainly before people book. Booking terms and any charges should be clear and fair, so check current consumer guidance or take advice if you are unsure. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> compares approaches.</p>
+
+<h2>Opening hours, location and getting there</h2>
+<p>Out-of-date opening hours are a common frustration for diners. Show your hours in plain text on the homepage or in the footer, update them for bank holidays and seasonal changes, and keep them consistent with your Google Business Profile. A contact or "Find us" page can include:</p>
+<ul>
+<li>The full address and a map.</li>
+<li>Parking options and nearby public transport.</li>
+<li>Step-free access and accessible toilet information, described accurately.</li>
+<li>A phone number that is answered during service, or a note on the best time to call.</li>
+</ul>
+<p>Our guides to <a href="/blog/google-business-profile-uk/">Google Business Profile</a> and <a href="/blog/website-footer-design/">footer design</a> cover keeping these details consistent.</p>
+
+<h2>Photography that sells the experience</h2>
+<p>People choose restaurants partly on how the food and room look. Good photography of real dishes, the dining room and the atmosphere usually does more than stock images, which diners can often spot. If you use photos of dishes, make sure they reasonably reflect what is served. Large images can slow a site down, so compress and size them properly. See our guide to <a href="/blog/website-image-optimisation/">image optimisation</a>.</p>
+<p>A short video of the kitchen or the room can work well, but keep it light and avoid autoplaying sound. Our guide to <a href="/blog/website-video-guide/">website video</a> covers the trade-offs.</p>
+
+<h2>Private dining, groups and events</h2>
+<p>If you take group bookings, private hire or events, these often deserve their own page rather than a line on the contact page. A useful private dining page might explain:</p>
+<ul>
+<li>The spaces available and approximate capacities.</li>
+<li>Set menus or options for groups.</li>
+<li>How minimum spends, deposits or hire fees work, if you use them.</li>
+<li>How to enquire, with a form that asks for date, numbers and occasion.</li>
+</ul>
+<p>Describe only what you actually offer. If the arrangements vary, it is fine to say that details depend on the date and size of the group and invite an enquiry. Our guide to <a href="/blog/website-contact-forms/">contact forms</a> covers keeping enquiry forms short.</p>
+
+<h2>Gift vouchers, takeaway and online ordering</h2>
+<p>Some restaurants sell gift vouchers, takeaway or meal kits through the website. This can be done with an ecommerce platform such as Shopify or WooCommerce, or through a dedicated ordering system. Before adding these, consider who will manage orders and fulfilment, how vouchers are redeemed and tracked, and what terms apply, such as expiry dates. Food sold for delivery or collection can carry different allergen information requirements from food served in the restaurant, so check the current Food Standards Agency guidance. Our guide to <a href="/blog/ecommerce-website-design-uk/">ecommerce website design</a> covers online selling more broadly.</p>
+
+<h2>Multi-site restaurants</h2>
+<p>Groups with more than one restaurant need a structure that makes it easy to choose a location. Typically, each site gets its own page with its own address, hours, menu (if it differs), booking link and photos. A location finder or simple list on the homepage helps visitors pick the right one. Separate location pages can also help with local search. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how.</p>
+
+<h2>Speed and mobile use</h2>
+<p>Many diners look up restaurants on a phone, often while out or deciding at short notice. A restaurant site should load quickly on mobile data, have tappable phone and booking buttons, and avoid pop-ups that cover the menu. Our guides to <a href="/blog/mobile-website-design/">mobile website design</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a> cover the essentials. If you use a newsletter sign-up pop-up, make sure it is easy to close and does not block key information; see our guide to <a href="/blog/website-pop-ups-done-well/">pop-ups done well</a>.</p>
+
+<h2>Accessibility</h2>
+<p>An accessible site helps every visitor, including people using screen readers or larger text. Menu text rather than images, sufficient colour contrast, descriptive alt text and buttons that are easy to tap all matter. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>Many restaurant sites are built on WordPress or hosted builders such as Squarespace or Wix. Builders can be quick to set up and suit simple sites; WordPress usually offers more flexibility for multiple menus, locations and integrations. Shopify can make sense if online sales are a large part of the business. The deciding factors are usually who will update menus and hours, which booking system you use, and whether you sell online. See our guide to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A menu available only as a large PDF.</li>
+<li>Opening hours that differ between the website and Google.</li>
+<li>A booking button that is hard to find on a phone.</li>
+<li>Allergen statements that are out of date or overstated.</li>
+<li>Slow-loading image galleries and autoplaying videos.</li>
+<li>No clear information about private dining or group bookings.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a restaurant and want a site that shows off your food and makes booking simple, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, how we help the <a href="/sectors/hospitality/">hospitality sector</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a restaurant menu be a PDF or a web page?</h3>
+<p>A web page is usually easier to read on a phone and easier for search engines to understand. You can still offer a PDF as an optional download.</p>
+<h3>Do restaurants need allergen information on their website?</h3>
+<p>Requirements depend on how food is sold. Check current Food Standards Agency guidance and make sure whatever you publish is accurate and up to date.</p>
+<h3>What is the best way to take table bookings online?</h3>
+<p>An embedded booking widget or a clear link to your reservations system usually works well, alongside a clickable phone number. Test it on a phone.</p>
+<h3>Should a restaurant site show prices?</h3>
+<p>Most diners expect to see prices on the menu. Keep them in step with the printed menu so there are no surprises.</p>
+<h3>How should a restaurant group structure its website?</h3>
+<p>Give each location its own page with address, hours, menu and booking link, and make choosing a location easy from the homepage.</p>
+`,
+  },
 ];
