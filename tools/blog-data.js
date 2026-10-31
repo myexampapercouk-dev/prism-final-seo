@@ -17471,4 +17471,610 @@ module.exports = [
 <p>Whenever your services, policies or contact details change, and as part of a regular site check for broken or outdated links.</p>
 `,
   },
+  {
+    slug: '404-page-design',
+    seoTitle: '404 Page Design: How to Turn Dead Ends Into Next Steps',
+    title: '404 Page Design: How to Help Lost Visitors Find Their Way',
+    description: 'How to design a helpful 404 error page for a business website or online store, plus how to find broken links, set up redirects and avoid soft 404 errors.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/website-redesign-without-losing-rankings/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Every website eventually sends someone to a page that does not exist. A product is discontinued, a page is renamed, someone mistypes a web address or an old link elsewhere on the internet points somewhere that has gone. When that happens, the visitor lands on a 404 error page.</p>
+<p>Many sites show a bare default message that leaves visitors stranded. A well-designed 404 page does the opposite: it acknowledges the problem, keeps the visitor on your site and helps them find what they wanted. This guide covers what a 404 page is, how to design a useful one and how to reduce the number of people who see it in the first place.</p>
+
+<h2>What is a 404 page?</h2>
+<p>When a browser requests a page, the server responds with a status code. A 404 code means "not found": the server is working, but there is nothing at that address. The page shown alongside that code is the 404 page.</p>
+<p>Related codes are worth knowing. A 410 means a page has been permanently removed on purpose. A 301 is a permanent redirect, sending visitors and search engines to a new address. Choosing the right response for each situation is part of keeping a site healthy.</p>
+
+<h2>Why 404 pages matter</h2>
+<p>A visitor who hits a dead end with no way forward is likely to leave, and may not come back. That is a lost enquiry or sale, and it can leave an impression of a neglected website. A helpful 404 page will not recover every visitor, but it gives them a reasonable chance to continue.</p>
+<p>404s are a normal part of the web, and Google has said that they do not in themselves harm a site's rankings. However, broken links on your own site waste visitors' time and can stop search engines discovering important pages, and losing pages that had valuable links pointing to them can mean losing the benefit of those links.</p>
+
+<h2>What a good 404 page includes</h2>
+<h3>A clear, plain explanation</h3>
+<p>Tell visitors simply that the page they were looking for could not be found. Avoid technical jargon and avoid blaming the visitor. Something like "Sorry, we cannot find that page" is enough, perhaps with a brief note that it may have moved or the address may be mistyped.</p>
+<h3>Your normal header and navigation</h3>
+<p>Keep the standard site header, menu and footer so the page feels part of your site and visitors can navigate as usual. A 404 page that strips everything away makes it harder to recover. Good <a href="/blog/website-navigation-structure/">navigation structure</a> pays off here.</p>
+<h3>A search box</h3>
+<p>For sites with lots of content or products, a prominent search box is often the most useful element. The visitor already knew what they wanted; search lets them look for it directly. If your store has good <a href="/blog/ecommerce-site-search/">site search</a>, put it front and centre.</p>
+<h3>Helpful links</h3>
+<p>Offer a short selection of likely destinations, such as:</p>
+<ul>
+<li>your homepage,</li>
+<li>main service or product categories,</li>
+<li>popular or best-selling items,</li>
+<li>recent blog posts, and</li>
+<li>your contact page.</li>
+</ul>
+<p>Keep the list short and relevant. A wall of links is almost as unhelpful as none.</p>
+<h3>A way to get help</h3>
+<p>Include an easy way to contact you, particularly for service businesses where a lost visitor may be a potential client. Some sites also invite visitors to report the broken link, which can help you find problems.</p>
+
+<h2>Tone and personality</h2>
+<p>A 404 page is a low-stakes place to show a little personality. A touch of humour or an illustration in keeping with your brand can soften the frustration. Keep it brief, though; the visitor wants to get back on track, not read a joke. And make sure the tone suits your business. A playful message may suit a gift shop but feel out of place on a site for a law firm or healthcare provider.</p>
+
+<h2>404 pages for online stores</h2>
+<p>Ecommerce sites see 404s often because products come and go. A few extra considerations apply:</p>
+<ul>
+<li><strong>Show product categories and best-sellers</strong> so visitors can continue shopping.</li>
+<li><strong>Feature search prominently,</strong> since many visitors arrive looking for a specific product.</li>
+<li><strong>Handle discontinued products thoughtfully.</strong> Rather than deleting a popular product page outright, you may choose to keep it live with a clear message and links to alternatives, or redirect it to the closest equivalent.</li>
+<li><strong>Keep the basket accessible,</strong> so shoppers mid-session do not feel they have lost their progress.</li>
+</ul>
+
+<h2>Technical essentials</h2>
+<h3>Return a real 404 status</h3>
+<p>The page must return a genuine 404 (or 410) status code. A common mistake is showing a "not found" message while the server reports success with a 200 code. Search engines call this a soft 404, and it can lead to empty pages being treated as real content. Google Search Console reports soft 404s it detects.</p>
+<h3>Do not redirect every missing page to the homepage</h3>
+<p>Sending all missing pages to the homepage might seem tidy, but it confuses visitors, who land somewhere unexpected without explanation, and search engines often treat such redirects as soft 404s anyway. Redirect a missing page only when there is a genuinely relevant replacement.</p>
+<h3>Keep it fast and simple</h3>
+<p>The 404 page should load quickly and work properly on mobile. Avoid heavy scripts or large images.</p>
+<h3>Platform settings</h3>
+<p>Shopify, WordPress and WooCommerce all provide a 404 template that themes can customise. Check what your theme provides before building something from scratch; often it is a case of improving the content and links rather than starting over.</p>
+
+<h2>Finding and fixing the causes of 404s</h2>
+<p>A great 404 page is a safety net, not a solution. It is better to reduce how often visitors see it. Practical steps include:</p>
+<ul>
+<li><strong>Check Google Search Console</strong> regularly for pages reported as not found, focusing on those that receive traffic or have links pointing to them.</li>
+<li><strong>Review your analytics</strong> for visits to the 404 page and the addresses people were trying to reach.</li>
+<li><strong>Crawl your own site</strong> with a site audit tool to find broken internal links, then update them to point to the correct pages.</li>
+<li><strong>Set up redirects when you change URLs.</strong> Whenever you rename, move or merge a page, add a 301 redirect from the old address to the most relevant new one.</li>
+</ul>
+<p>Redirects are especially important during a site rebuild or platform migration, when large numbers of URLs may change. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> covers redirect mapping in detail, and ongoing <a href="/blog/website-maintenance-uk/">website maintenance</a> helps catch new broken links before they pile up.</p>
+
+<h2>Should every 404 be fixed?</h2>
+<p>No. Some 404s are perfectly correct. If someone mistypes an address, or a page has been removed with no sensible replacement, a 404 is the right response. Focus your effort on:</p>
+<ul>
+<li>broken links within your own site,</li>
+<li>missing pages that still receive meaningful traffic, and</li>
+<li>missing pages that have links from other websites.</li>
+</ul>
+<p>For these, either restore the content, update the link or redirect to a relevant alternative.</p>
+
+<h2>Measuring your 404 page</h2>
+<p>Track how many visitors land on the 404 page and what they do next. If most leave immediately, try improving the links or search placement. If many go on to search, look at what they search for; it may reveal content customers expect but cannot find.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A bare default error page with no navigation.</li>
+<li>Returning a 200 status code for missing pages.</li>
+<li>Redirecting all missing pages to the homepage.</li>
+<li>Jokes that clash with your brand or go on too long.</li>
+<li>Forgetting redirects when URLs change.</li>
+<li>Never checking which 404s visitors actually hit.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs, builds and maintains websites and online stores for UK businesses, including error pages, redirect planning and technical housekeeping. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do 404 errors hurt SEO?</h3>
+<p>A normal number of 404s for pages that genuinely no longer exist is not usually a problem. Issues arise with broken internal links and lost pages that had valuable links or traffic.</p>
+<h3>What is a soft 404?</h3>
+<p>A soft 404 is a page that tells visitors nothing was found but returns a success status code, or a page search engines judge to be empty. Google Search Console reports these.</p>
+<h3>Should I redirect 404 pages to my homepage?</h3>
+<p>Generally no. Redirect only to a genuinely relevant replacement page; otherwise let the page return a 404 with a helpful message.</p>
+<h3>What should a 404 page say?</h3>
+<p>Explain briefly that the page could not be found, then offer search, helpful links and a way to contact you, in a tone that suits your brand.</p>
+<h3>Can I customise the 404 page on Shopify or WordPress?</h3>
+<p>Yes. Both include a 404 template that can be customised through your theme or with development work.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-product-variants-and-bundles',
+    seoTitle: 'Ecommerce Product Variants and Bundles: A UK Guide',
+    title: 'Product Variants and Bundles: How to Structure Them in Your Online Store',
+    description: 'How to set up product variants and bundles in an online store: when to use options or separate products, naming, images, stock, pricing and SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/product-page-seo-uk/', '/blog/ecommerce-category-page-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Few parts of an online store cause more confusion behind the scenes than product variants and bundles. A T-shirt in five sizes and four colours, a candle available in three scents, a starter kit made up of items you also sell separately: each raises questions about how products should be structured, how stock is tracked and how customers choose what they want.</p>
+<p>Get the structure right and shopping feels effortless. Get it wrong and you end up with duplicate pages, mismatched stock, confused customers and a catalogue that is hard to manage. This guide explains how to think about variants and bundles, with practical advice that applies whether you use Shopify, WooCommerce or another platform.</p>
+
+<h2>What are product variants?</h2>
+<p>Variants are different versions of the same product, distinguished by one or more options. Common options include:</p>
+<ul>
+<li>size,</li>
+<li>colour or finish,</li>
+<li>material,</li>
+<li>scent or flavour, and</li>
+<li>pack size or quantity.</li>
+</ul>
+<p>Each combination of options, such as a medium blue T-shirt, is a variant. Variants usually share a product page, a main description and reviews, but can have their own price, stock level, SKU, barcode and image.</p>
+
+<h2>Variants or separate products?</h2>
+<p>The biggest structural decision is whether something should be a variant of an existing product or a product in its own right. There is no universal rule, but these questions help:</p>
+<ul>
+<li><strong>Would a customer think of them as the same product?</strong> Different sizes of one shirt, yes. A shirt and a matching jacket, no.</li>
+<li><strong>Is the description mostly the same?</strong> If you would need to rewrite most of the copy, they are probably separate products.</li>
+<li><strong>Do people search for them separately?</strong> If customers search for a specific colour or edition by name, a dedicated page may help it rank.</li>
+<li><strong>Are prices very different?</strong> Large price gaps can suggest separate products with distinct positioning.</li>
+<li><strong>Would one page become unwieldy?</strong> Dozens of options on one page can overwhelm customers.</li>
+</ul>
+<p>Some stores take a hybrid approach: separate product pages for each colour, each with size variants, and links between colours using swatches. This can work well for fashion, where colour often drives search and browsing, while size is a simple choice made on the page.</p>
+
+<h2>Platform limits to be aware of</h2>
+<p>Every platform handles variants slightly differently. Shopify, for example, has limits on the number of options and variants per product, which have changed over time; check the current limits for your plan. WooCommerce uses variable products with attributes, and very large numbers of variations can affect performance in the admin and on the page.</p>
+<p>If your product has many combinations, such as custom furniture with fabrics, sizes and leg finishes, a standard variant setup may not be the best fit. Product option apps, extensions or a custom configurator may suit better, but these add complexity, so weigh up the trade-offs.</p>
+
+<h2>Designing the variant selector</h2>
+<p>How customers pick variants on the <a href="/blog/product-page-seo-uk/">product page</a> has a big influence on usability. Good practice includes:</p>
+<ul>
+<li><strong>Visual swatches for colour and finish</strong> rather than text-only dropdowns, so customers can see the choice.</li>
+<li><strong>Buttons for sizes</strong> where there are only a few options, which are quicker to use than dropdowns, especially on mobile.</li>
+<li><strong>Clear out-of-stock states,</strong> such as greyed-out options, with a back-in-stock notification where possible.</li>
+<li><strong>Images that update</strong> when a variant is selected, so the customer sees the exact version they are buying.</li>
+<li><strong>Price changes shown instantly</strong> if variants are priced differently.</li>
+<li><strong>Size guides</strong> close to the size selector, not buried elsewhere.</li>
+</ul>
+<p>Avoid preselecting a variant in a way that lets customers add the wrong one to their basket without noticing, particularly for sizes. Either require a choice or make the selected option very obvious.</p>
+
+<h2>Naming and data hygiene</h2>
+<p>Consistent naming makes your catalogue easier to manage and easier for customers to understand. Decide on conventions and stick to them:</p>
+<ul>
+<li>Use the same option names across products, such as always "Colour" rather than mixing "Color", "Colour" and "Shade".</li>
+<li>Use customer-friendly values. "Forest green" is more helpful than an internal code.</li>
+<li>Give each variant a unique SKU so stock, orders and reporting stay accurate.</li>
+<li>Add barcodes or GTINs where you have them, which matters for <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping</a> feeds.</li>
+</ul>
+<p>Messy variant data causes problems that spread: filters stop working properly on <a href="/blog/ecommerce-category-page-design/">category pages</a>, feeds get rejected and stock reports become unreliable.</p>
+
+<h2>Variants and SEO</h2>
+<p>Variants usually share one URL, which keeps ranking signals consolidated on a single strong page. That is usually what you want. Some platforms also create variant-specific URLs through parameters; make sure canonical tags point to the main product page unless you have a deliberate reason to index variants separately.</p>
+<p>If a particular variant has genuine search demand of its own, a separate product page with unique content can make sense. Avoid creating dozens of near-identical pages with the same description, which can dilute relevance and create thin content.</p>
+<p>Product structured data can describe variants, and Google supports markup for product variant groups. Your platform or theme may handle some of this automatically, but it is worth checking that prices and availability are reported accurately.</p>
+
+<h2>What are product bundles?</h2>
+<p>A bundle is a group of products sold together, often at a combined price. Common types include:</p>
+<ul>
+<li><strong>Fixed bundles:</strong> a set selection, such as a starter kit or gift set.</li>
+<li><strong>Build-your-own bundles:</strong> the customer chooses items from a range to fill a box or set.</li>
+<li><strong>Multi-buys:</strong> several of the same item, such as a pack of three.</li>
+<li><strong>Frequently bought together:</strong> suggested combinations on the product page or in the basket.</li>
+</ul>
+
+<h2>When bundles make sense</h2>
+<p>Bundles work best when they solve a real problem for the customer. Good reasons to bundle include:</p>
+<ul>
+<li>helping new customers get started with everything they need,</li>
+<li>making gifting easier,</li>
+<li>offering better value for customers who would buy several items anyway, and</li>
+<li>introducing customers to products they might not have tried.</li>
+</ul>
+<p>Bundles created purely to clear slow-moving stock, padded with items nobody wants, tend to disappoint. Customers can usually tell.</p>
+
+<h2>Bundle pricing and presentation</h2>
+<p>Be transparent about what is included and what the customer saves, if anything. Show:</p>
+<ul>
+<li>each item in the bundle, with images and a short description,</li>
+<li>the bundle price and, where accurate, what the items would cost separately, and</li>
+<li>any choices the customer needs to make, such as sizes or colours for items within the bundle.</li>
+</ul>
+<p>Make sure any comparison prices are genuine. Claiming a saving against prices that were never actually charged is misleading and can breach consumer protection rules, so check current guidance on pricing practices if you are unsure.</p>
+
+<h2>Stock management for bundles</h2>
+<p>This is where bundles often go wrong. If a bundle is set up as an entirely separate product with its own stock count, it can show as available when one of its components has sold out, or vice versa. Look for a setup where bundle availability is calculated from the stock of its individual items, so sales of either reduce the shared inventory.</p>
+<p>Many bundle apps and extensions handle this, but test thoroughly. Place test orders and check that stock, fulfilment information and reporting all behave as expected.</p>
+
+<h2>Fulfilment considerations</h2>
+<p>Think about how bundles will be picked and packed. Will they be pre-assembled and stored as a single unit, or assembled at the time of order? Pre-assembled bundles are quicker to ship but tie up stock. Assembling to order is more flexible but needs clear picking instructions so nothing is missed.</p>
+<p>Returns also need thought. Decide whether customers can return part of a bundle and how refunds will be calculated, and explain this on your returns page.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Creating separate products for every size, cluttering search and category pages.</li>
+<li>Inconsistent option names that break filters.</li>
+<li>Variants without images, leaving customers unsure what they will receive.</li>
+<li>Bundles with stock counts that do not reflect component availability.</li>
+<li>Misleading "was" prices on bundles.</li>
+<li>Duplicate content across near-identical product pages.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and restructures online stores for UK businesses, including product catalogues, variant setups and product page design. If your catalogue has become hard to manage or confusing for customers, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should each colour have its own product page?</h3>
+<p>It depends. If colours are searched for separately or need different content, separate pages can help. Otherwise, colour variants on one page keep things simpler.</p>
+<h3>Do product variants affect SEO?</h3>
+<p>Variants on a single page usually help by consolidating signals. Problems arise when variant URLs are indexed as duplicates, so check your canonical tags.</p>
+<h3>How do I keep bundle stock accurate?</h3>
+<p>Use a setup where bundle availability is based on the stock of each component item, then test it with real orders before launch.</p>
+<h3>Can customers build their own bundles?</h3>
+<p>Yes, on most major platforms with the right app, extension or custom development. Keep the selection process simple and show progress clearly.</p>
+<h3>Is there a limit to how many variants a product can have?</h3>
+<p>Most platforms have practical or formal limits. Check the current limits for your platform and plan, and consider other approaches for highly configurable products.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-subscriptions-uk',
+    seoTitle: 'Ecommerce Subscriptions: A Guide for UK Online Stores',
+    title: 'Ecommerce Subscriptions: How to Add Repeat Orders to Your Online Store',
+    description: 'A practical guide to selling subscriptions from a UK online store: choosing a model, pricing, the customer portal, cancellations, payments and legal points.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-email-marketing-uk/', '/blog/shopify-store-setup-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Repeat orders are one of the most valuable things an online store can have. A customer who buys once is welcome; a customer who receives a delivery every month without having to think about it is the foundation of a steady business. That is why so many UK stores look at adding subscriptions, whether for coffee, pet food, skincare, supplements, cleaning products or curated boxes.</p>
+<p>Done well, a subscription offer makes life easier for customers and gives you more predictable revenue. Done badly, it creates confused buyers, support headaches and complaints about payments people did not expect. This guide covers how to decide whether subscriptions suit your products, the main models, how to design the experience and the practical points to plan before launch.</p>
+
+<h2>Do subscriptions suit your products?</h2>
+<p>Not every product makes sense as a subscription. Before building anything, ask a few honest questions:</p>
+<ul>
+<li><strong>Do customers use it up?</strong> Consumables such as food, drink, toiletries and refills are natural candidates because people need them again.</li>
+<li><strong>Is there a predictable rhythm?</strong> If most customers reorder roughly every few weeks, a subscription simply formalises what they already do.</li>
+<li><strong>Is there novelty or curation?</strong> Boxes built around discovery, such as a monthly selection, can work even for non-consumables because the contents change.</li>
+<li><strong>Would you want it yourself?</strong> If you would find a regular delivery annoying rather than helpful, your customers probably would too.</li>
+</ul>
+<p>If your products are one-off purchases, such as furniture or a single piece of equipment, a subscription is unlikely to fit. You may be better served by encouraging repeat custom through email and accessories instead.</p>
+
+<h2>The main subscription models</h2>
+<p>Subscriptions come in a few broad shapes. Choosing the right one shapes everything else, from pricing to fulfilment.</p>
+<h3>Replenishment</h3>
+<p>The customer picks a product they already like and chooses how often it arrives. This is the simplest model and suits consumables well. The value to the customer is convenience: they never run out.</p>
+<h3>Curated boxes</h3>
+<p>You choose the contents, often around a theme, and the customer receives a different selection each time. The value is discovery and surprise, so the quality of curation matters as much as the products themselves.</p>
+<h3>Membership or access</h3>
+<p>Customers pay regularly for benefits rather than a fixed product, such as member pricing, early access to new ranges or free delivery. This can sit alongside normal shopping and suits stores with a loyal, engaged audience.</p>
+<h3>Subscribe and save</h3>
+<p>A variation on replenishment where customers can choose a one-off purchase or a recurring order on the product page, often with a modest incentive for subscribing. This is a common starting point because it fits into an existing store without a separate offer.</p>
+
+<h2>Pricing and incentives</h2>
+<p>Many stores offer something extra for subscribing, such as a small discount, free delivery or a gift on the first order. Incentives can help, but think carefully about margins. A discount that looks generous on one order adds up over many months, and delivery costs repeat with every dispatch.</p>
+<p>Some points to weigh up:</p>
+<ul>
+<li><strong>Margin after repeat costs:</strong> work out what each recurring order earns after product, packaging, postage and payment fees.</li>
+<li><strong>First order versus ongoing:</strong> an introductory offer can attract sign-ups, but be clear about what the price will be afterwards.</li>
+<li><strong>Price changes:</strong> decide how you will handle future price rises and how much notice you will give subscribers.</li>
+<li><strong>Value beyond discount:</strong> convenience, priority stock or exclusive products can be more sustainable than ever-deeper discounts.</li>
+</ul>
+<p>Be wary of building a subscription around an incentive so large that customers sign up, take the offer and cancel. Those subscribers cost money to acquire and rarely stay.</p>
+
+<h2>Designing the subscription experience</h2>
+<h3>On the product page</h3>
+<p>Customers need to understand exactly what they are agreeing to before they commit. Make the choice between one-off and subscription obvious, and state clearly:</p>
+<ul>
+<li>how often orders will arrive and whether the customer can change it,</li>
+<li>how much each order costs, including delivery,</li>
+<li>when they will be charged, and</li>
+<li>how to pause, skip or cancel.</li>
+</ul>
+<p>Hiding the recurring nature of a purchase or making it the default without a clear choice damages trust and is likely to cause chargebacks and complaints. Clear wording on the <a href="/blog/product-page-seo-uk/">product page</a> helps both customers and search engines understand the offer.</p>
+<h3>At checkout</h3>
+<p>Repeat the key terms at checkout: frequency, price, first charge date and how to cancel. Ask for explicit agreement rather than relying on small print. A clean, reassuring checkout matters even more for subscriptions, because the customer is committing to more than a single payment.</p>
+<h3>The customer portal</h3>
+<p>Once someone has subscribed, they need a simple place to manage it. A good subscriber area lets customers:</p>
+<ul>
+<li>see their next delivery date and what it contains,</li>
+<li>skip an order or change the date,</li>
+<li>change frequency, quantity or products,</li>
+<li>update delivery address and payment details, and</li>
+<li>pause or cancel without needing to contact you.</li>
+</ul>
+<p>Self-service reduces support emails and, perhaps counter-intuitively, often helps retention. A customer who can skip a month when they are overstocked has less reason to cancel altogether.</p>
+
+<h2>Cancellations: make them easy</h2>
+<p>It can be tempting to make cancelling difficult in the hope of holding on to subscribers. Resist it. Obstructive cancellation flows frustrate customers, generate complaints and can put you on the wrong side of consumer protection rules.</p>
+<p>A better approach is to make cancellation straightforward while offering useful alternatives along the way, such as pausing, skipping or reducing frequency. Asking a short, optional question about why someone is leaving can also tell you a lot about how to improve the offer.</p>
+<p>UK consumer law around subscription contracts has been evolving, with rules covering pre-contract information, reminders and ending subscriptions. Requirements can change and depend on your circumstances, so check the current position or take legal advice before launching rather than relying on a general guide.</p>
+
+<h2>Payments and failed charges</h2>
+<p>Recurring payments bring their own challenges. Cards expire, accounts run low and banks sometimes decline charges for security reasons. Plan how your store will handle this:</p>
+<ul>
+<li><strong>Retry logic:</strong> most subscription tools can retry failed payments over a few days before pausing a subscription.</li>
+<li><strong>Customer notifications:</strong> clear, friendly emails asking the customer to update their details, with a direct link to do so.</li>
+<li><strong>What happens to the order:</strong> decide whether you hold dispatch until payment succeeds.</li>
+</ul>
+<p>Check how your chosen platform and payment provider support recurring billing, including strong customer authentication requirements. On Shopify, subscriptions are typically handled through the platform's subscription features and compatible apps; on WooCommerce, through extensions. Each option handles portals, payments and emails a little differently, so compare carefully against your needs.</p>
+
+<h2>Operations: stock, dispatch and forecasting</h2>
+<p>One advantage of subscriptions is that you can see future demand more clearly. To benefit from that, your operations need to keep up:</p>
+<ul>
+<li><strong>Dispatch dates:</strong> decide whether everyone ships on a fixed day or on a rolling schedule from their sign-up date.</li>
+<li><strong>Stock planning:</strong> use upcoming renewals to forecast what you need, particularly for curated boxes.</li>
+<li><strong>Substitutions:</strong> have a policy for when a product is out of stock, and tell customers in advance.</li>
+<li><strong>Packaging:</strong> letterbox-friendly packaging can make regular deliveries much more convenient.</li>
+</ul>
+<p>Your <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> should also explain how subscription orders are handled, including any differences from one-off purchases.</p>
+
+<h2>Communicating with subscribers</h2>
+<p>Subscribers are your most engaged customers, so the emails they receive matter. Useful messages include a welcome email explaining how the subscription works, reminders before each charge or dispatch, confirmation when changes are made and occasional content that adds value, such as tips for using the product. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers building these flows in more detail.</p>
+<p>Keep the tone helpful rather than pushy. The goal is for each email to reassure subscribers that the arrangement is working in their favour.</p>
+
+<h2>Measuring whether it works</h2>
+<p>Once live, keep an eye on a handful of measures:</p>
+<ul>
+<li><strong>Sign-up rate:</strong> the share of product page visitors or buyers who choose to subscribe.</li>
+<li><strong>Retention:</strong> how many subscribers are still active after one, three and six months.</li>
+<li><strong>Cancellation reasons:</strong> patterns in why people leave.</li>
+<li><strong>Skips and pauses:</strong> a sign of whether frequency options suit customers.</li>
+<li><strong>Revenue per subscriber:</strong> what an average subscriber is worth over time.</li>
+</ul>
+<p>These figures help you decide whether to adjust frequency options, incentives or products. They also tell you how much you can sensibly spend acquiring new subscribers through advertising.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Launching subscriptions on products customers do not actually reorder.</li>
+<li>Unclear terms that lead to surprise charges.</li>
+<li>Making cancellation difficult.</li>
+<li>Incentives that erode margin on every order.</li>
+<li>No plan for failed payments or stock shortages.</li>
+<li>Forgetting to update policies, emails and help pages.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves online stores for UK businesses, including setting up product pages, checkout flows and the supporting content that subscriptions rely on. If you are considering adding subscriptions, explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Can I add subscriptions to an existing Shopify or WooCommerce store?</h3>
+<p>Usually, yes. Both platforms support subscriptions through built-in features, apps or extensions. The right option depends on how you want the customer portal, payments and emails to work.</p>
+<h3>Should I offer a discount for subscribing?</h3>
+<p>It can encourage sign-ups, but check that the discount still leaves a healthy margin across repeat orders. Convenience and other benefits can be just as persuasive.</p>
+<h3>How do I stop subscribers cancelling?</h3>
+<p>Focus on value and flexibility rather than barriers. Letting customers skip, pause or change frequency easily often keeps them subscribed for longer.</p>
+<h3>Are there legal rules for UK subscriptions?</h3>
+<p>Yes. Consumer protection rules cover the information you give, how you take recurring payments and how customers can cancel. The rules can change, so check the current requirements or take professional advice.</p>
+<h3>What is the best subscription model for a small store?</h3>
+<p>For many small stores, a simple subscribe-and-save option on existing products is the easiest place to start, because it fits the current range and checkout.</p>
+`,
+  },
+  {
+    slug: 'selling-internationally-uk-online-store',
+    seoTitle: 'Selling Internationally From a UK Online Store',
+    title: 'Selling Internationally From a UK Online Store: A Practical Guide',
+    description: 'How to start selling abroad from a UK online store: choosing markets, currencies, shipping, duties and VAT, returns, translation and international SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/shopify-store-setup-uk/', '/blog/ecommerce-seo-checklist/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A UK online store can, in theory, sell to customers anywhere. In practice, selling internationally involves more than ticking a box to allow overseas addresses. Customers abroad want to see prices in their own currency, know how long delivery will take and understand exactly what they will pay, including any duties or taxes. Behind the scenes you need to deal with shipping, customs, returns and tax registration.</p>
+<p>This guide walks through the main decisions involved in selling internationally from a UK store, so you can expand in a measured way rather than discovering problems one parcel at a time.</p>
+
+<h2>Is your business ready to sell abroad?</h2>
+<p>Before thinking about markets, check the basics are working at home. A store with unclear product pages, slow fulfilment or a high return rate will find those problems magnified across borders. Ask yourself:</p>
+<ul>
+<li>Is the store converting well for UK customers?</li>
+<li>Can your fulfilment handle extra volume and more complex shipping?</li>
+<li>Do your margins survive higher delivery costs and possible duties?</li>
+<li>Are your products allowed to be sold and shipped to the countries you have in mind?</li>
+</ul>
+<p>Some products, such as certain foods, cosmetics, batteries or items with restricted ingredients, face extra rules overseas. Check this early, because it can rule out a market entirely.</p>
+
+<h2>Choosing your first markets</h2>
+<p>It is usually better to start with a small number of markets and do them well. Good signals that a market is worth trying include:</p>
+<ul>
+<li><strong>Existing demand:</strong> visits, enquiries or orders from that country already showing in your analytics.</li>
+<li><strong>Language:</strong> English-speaking markets avoid translation at first.</li>
+<li><strong>Shipping practicality:</strong> reasonable delivery times and costs from the UK.</li>
+<li><strong>Regulatory simplicity:</strong> fewer barriers for your product type.</li>
+</ul>
+<p>Google Analytics and Google Search Console can show where visitors and search impressions are coming from, which is a sensible starting point for deciding where to focus.</p>
+
+<h2>Currency and pricing</h2>
+<p>Shoppers are more comfortable buying in their own currency. Most major platforms, including Shopify and WooCommerce with suitable extensions, can display and charge in multiple currencies. Decide whether you will:</p>
+<ul>
+<li><strong>Convert automatically</strong> using exchange rates, which is simple but produces awkward prices that move over time, or</li>
+<li><strong>Set prices per market,</strong> which takes more effort but gives you clean, rounded prices and lets you account for local costs.</li>
+</ul>
+<p>Also think about whether displayed prices include local taxes. Customers in many countries expect tax-inclusive prices, and showing one figure on the product page then adding more at checkout is a common reason for abandoned baskets.</p>
+
+<h2>Shipping and delivery</h2>
+<p>Delivery is often where international selling becomes complicated. Key points to plan:</p>
+<ul>
+<li><strong>Carriers and services:</strong> compare tracked and untracked options, delivery times and costs for each market.</li>
+<li><strong>Delivery pricing:</strong> flat rates, weight-based rates or free delivery over a threshold, set per region.</li>
+<li><strong>Packaging:</strong> lighter, smaller packaging can significantly reduce cross-border costs.</li>
+<li><strong>Delivery promises:</strong> give realistic estimates and allow for customs delays.</li>
+</ul>
+<p>Update your <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> with clear information for each region you sell to, so customers can check before they buy.</p>
+
+<h2>Customs, duties and taxes</h2>
+<p>This is the area where expert advice matters most. Since the UK left the EU, goods sent from the UK to EU customers are exports, and parcels to many other countries have long been subject to customs processes. Depending on the destination and the value of the order, there may be import duties, local VAT or sales tax and customs paperwork.</p>
+<p>A crucial decision is who pays these charges and when:</p>
+<ul>
+<li><strong>Delivered duty unpaid (DDU or DAP):</strong> the customer pays any charges on delivery. Simpler for you, but customers can be surprised by unexpected fees, leading to refused parcels and poor reviews.</li>
+<li><strong>Delivered duty paid (DDP):</strong> you collect charges at checkout and pay them, so the customer pays nothing more at the door. A better experience, but more administration for you.</li>
+</ul>
+<p>Some destinations have schemes that let overseas sellers register and collect tax at the point of sale, and the rules vary by country and order value. Requirements also change, so speak to an accountant or customs specialist with cross-border experience before you launch. This guide is general information rather than tax advice.</p>
+<p>Whatever approach you take, be transparent. Tell customers clearly on product pages, delivery information and at checkout whether duties and taxes are included.</p>
+
+<h2>Returns from abroad</h2>
+<p>International returns are expensive and slow. Decide in advance:</p>
+<ul>
+<li>Whether you will offer free returns, paid returns or a local returns address.</li>
+<li>How long customers have to return items, taking into account any consumer rights in their country.</li>
+<li>Whether low-value items are worth having returned at all, or whether a refund without return makes more sense.</li>
+</ul>
+<p>Consumer rights differ between countries, so check the requirements for each market you sell to.</p>
+
+<h2>Language and localisation</h2>
+<p>If you sell to non-English-speaking markets, translation can make a real difference to trust and conversion. Machine translation is improving, but product descriptions, checkout wording and policies benefit from review by a fluent speaker. Poor translations can make a store look untrustworthy.</p>
+<p>Localisation goes beyond language. Consider:</p>
+<ul>
+<li>sizing conventions and units of measurement,</li>
+<li>date and address formats,</li>
+<li>local payment methods customers expect, and</li>
+<li>seasonal differences, especially for clothing and gifts.</li>
+</ul>
+
+<h2>International SEO</h2>
+<p>If you want customers abroad to find you through search, your site structure matters. Common approaches include subfolders for each market or language, such as a section for Ireland or for French-speaking customers, or separate domains for each country. Subfolders are often simpler to manage because they share the authority of your main domain.</p>
+<p>Whichever structure you choose, use hreflang annotations so Google understands which version of a page is intended for which audience, and avoid automatically redirecting visitors based on location in a way that stops them, or search engines, reaching other versions. Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> covers the wider fundamentals, and our <a href="/services/seo-geo/">SEO service</a> can help with international structure.</p>
+
+<h2>Payments and fraud</h2>
+<p>Offering familiar payment methods matters overseas. Card payments and major digital wallets are widely accepted, but some countries have strong preferences for local methods. Check which options your payment provider supports per market.</p>
+<p>International orders can also carry a higher risk of fraud. Use your platform's fraud tools, watch for mismatched billing and shipping details and set clear rules for reviewing high-value orders.</p>
+
+<h2>Marketing to new markets</h2>
+<p>Once the store is ready, you need to reach customers. Options include targeting new countries with <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a>, localised email campaigns and content written for each market. Start with modest budgets, measure carefully and expand where results are good.</p>
+
+<h2>A sensible rollout plan</h2>
+<ol>
+<li>Review analytics to identify likely first markets.</li>
+<li>Check product restrictions and take tax and customs advice.</li>
+<li>Decide on currency, pricing and whether to collect duties at checkout.</li>
+<li>Set up shipping rates, carriers and returns.</li>
+<li>Update product pages, policies and delivery information.</li>
+<li>Configure international SEO if you want organic traffic.</li>
+<li>Launch in one or two markets, measure, learn and then expand.</li>
+</ol>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Switching on worldwide shipping without checking costs or restrictions.</li>
+<li>Surprising customers with duties and taxes on delivery.</li>
+<li>Ignoring tax registration obligations in destination countries.</li>
+<li>Relying on unreviewed machine translation for key pages.</li>
+<li>Forcing location-based redirects that frustrate visitors.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK businesses build and grow online stores, including setting up multi-currency, regional delivery information and site structure for international search. We do not provide tax or customs advice, so we recommend working alongside a specialist for those areas. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can a Shopify store sell in multiple currencies?</h3>
+<p>Yes. Shopify supports selling in multiple currencies and setting up different markets, though available features depend on your plan and payment setup.</p>
+<h3>Do I need to charge VAT to overseas customers?</h3>
+<p>It depends on the destination, the type of goods and the order value. Rules differ by country and change over time, so take advice from an accountant with cross-border experience.</p>
+<h3>Should I collect duties at checkout?</h3>
+<p>Collecting duties upfront usually gives a better customer experience because there are no surprise charges on delivery, but it involves more administration. Weigh the trade-off for each market.</p>
+<h3>Do I need a separate website for each country?</h3>
+<p>Not necessarily. Many stores use subfolders or market settings within one site. Separate domains are an option but take more work to maintain.</p>
+<h3>Which country should I sell to first?</h3>
+<p>Start where you already see interest in your analytics and where shipping and regulations are manageable for your products.</p>
+`,
+  },
+  {
+    slug: 'website-testimonials-page',
+    seoTitle: 'Website Testimonials: How to Collect and Show Genuine Ones',
+    title: 'Website Testimonials: How to Collect, Display and Use Genuine Customer Feedback',
+    description: 'How to collect genuine testimonials for your website, ask for permission, present them on a testimonials page and around your site, and stay within the rules.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-trust-signals/', '/blog/service-page-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Testimonials are one of the simplest ways to show visitors that other people have trusted you and been glad they did. A few genuine words from a real customer can do more to reassure a hesitant visitor than any amount of carefully written sales copy. Yet many business websites either have no testimonials at all or show a handful of vague, anonymous quotes that persuade nobody.</p>
+<p>This guide explains how to collect genuine testimonials, how to present them on a dedicated page and around your site, and the rules you need to follow to keep everything honest.</p>
+
+<h2>Why testimonials matter</h2>
+<p>Visitors to your site are usually trying to answer a few questions: can this business do what I need, will it be a good experience and can I trust them? You can make claims about yourself, but visitors naturally discount them. Testimonials are different because they come from people with nothing to gain from praising you.</p>
+<p>They sit alongside other <a href="/blog/website-trust-signals/">trust signals</a> such as clear contact details, credentials and case studies. Together, they help a visitor feel confident enough to enquire or buy.</p>
+
+<h2>What makes a good testimonial</h2>
+<p>Not all testimonials are equally useful. Compare "Great service, highly recommend" with a quote that explains what the customer needed, what the experience was like and what difference it made. The second is far more persuasive because it is specific and believable.</p>
+<p>Strong testimonials tend to have these qualities:</p>
+<ul>
+<li><strong>Specific:</strong> they mention a particular product, service or outcome.</li>
+<li><strong>Attributable:</strong> they include a name and, where relevant, a business, role or location, with permission.</li>
+<li><strong>Relevant:</strong> they address concerns your prospective customers actually have.</li>
+<li><strong>In the customer's own words:</strong> natural language reads as genuine.</li>
+<li><strong>Recent:</strong> current feedback reflects how you work now.</li>
+</ul>
+
+<h2>How to collect genuine testimonials</h2>
+<h3>Ask at the right moment</h3>
+<p>Timing matters. The best moment is usually shortly after a customer has experienced the value of what you provide: when a project is signed off, a product has been in use for a little while or a customer has thanked you. Asking too early means they have little to say; asking months later means the detail has faded.</p>
+<h3>Make it easy</h3>
+<p>Many happy customers are willing to help but do not know what to write. Make the process as simple as possible:</p>
+<ul>
+<li>Send a short, personal request rather than a generic mass email.</li>
+<li>Offer a few prompts, such as what they needed, what the experience was like and what has changed since.</li>
+<li>Let them reply by email, a short form or even a quick conversation you write up and send back for approval.</li>
+<li>Keep it optional and do not chase repeatedly.</li>
+</ul>
+<h3>Use prompts, not scripts</h3>
+<p>Prompts help customers give useful detail without putting words in their mouths. Avoid sending a pre-written testimonial for them to sign off; it will read as artificial and undermines the honesty you are aiming for.</p>
+<h3>Use public reviews too</h3>
+<p>Reviews on platforms such as your Google Business Profile are another source of genuine feedback. Encourage customers to leave reviews there as well, and check each platform's guidelines on how reviews can be requested and reused.</p>
+
+<h2>Permission and accuracy</h2>
+<p>Always get clear permission before publishing a testimonial, and confirm exactly what you can show: full name or first name only, business name, job title, location and photo. Keep a record of that permission.</p>
+<p>If you tidy a testimonial, for example to correct a typo or shorten it, do not change its meaning, and ideally send the final version to the customer for approval. Respect requests to remove a testimonial later.</p>
+<p>Personal data rules apply to names, photos and other details, so handle testimonial information with the same care as any other customer data and check your privacy notice covers it.</p>
+
+<h2>Staying within the rules</h2>
+<p>Testimonials and reviews are covered by UK consumer protection law. Broadly, you must not publish fake reviews or testimonials, misrepresent who wrote them or present feedback in a misleading way, for example by only showing positive reviews while implying they represent all feedback. Incentivised reviews that are not disclosed can also be a problem.</p>
+<p>The rules in this area have been strengthened in recent years and guidance continues to develop, so check the current position or take advice if you are unsure. The safe principle is simple: only publish genuine feedback from real customers, presented honestly.</p>
+<p>That also means no placeholder testimonials during a website build that are left in place at launch. If you do not yet have testimonials, leave the space out rather than filling it with invented quotes.</p>
+
+<h2>Designing a testimonials page</h2>
+<p>A dedicated testimonials page gives visitors who want more reassurance a place to read further. To make it useful:</p>
+<ul>
+<li><strong>Open with context:</strong> a short introduction explaining what the page shows.</li>
+<li><strong>Organise by relevance:</strong> group testimonials by service, product type or customer type so visitors can find feedback that matches their situation.</li>
+<li><strong>Show attribution clearly:</strong> name, business or location and a photo if the customer has agreed.</li>
+<li><strong>Keep it scannable:</strong> highlight a key phrase from each testimonial, with the full quote beneath.</li>
+<li><strong>Link to more detail:</strong> where a testimonial relates to a case study, link to it.</li>
+<li><strong>End with a next step:</strong> a clear call to action to get in touch or browse services.</li>
+</ul>
+<p>Video testimonials can be powerful because they are hard to fake and show real people, but only use them where customers are comfortable. A short, natural clip is better than a polished script.</p>
+
+<h2>Testimonials around your site</h2>
+<p>A testimonials page is useful, but many visitors will never visit it. Testimonials often do more work placed in context, close to the point where someone is deciding:</p>
+<ul>
+<li><strong><a href="/blog/website-homepage-design/">Homepage</a>:</strong> one or two strong, broad testimonials to build early trust.</li>
+<li><strong><a href="/blog/service-page-design/">Service pages</a>:</strong> feedback specific to that service.</li>
+<li><strong>Product pages:</strong> customer reviews that address fit, quality or use.</li>
+<li><strong><a href="/blog/landing-page-design-uk/">Landing pages</a>:</strong> testimonials that answer the main objection a visitor might have.</li>
+<li><strong>Near forms:</strong> a short reassuring quote beside a contact or quote form.</li>
+</ul>
+<p>Match the testimonial to the page. A quote about fast delivery belongs near delivery information; a quote about clear communication suits a service page for complex projects.</p>
+
+<h2>Testimonials and SEO</h2>
+<p>Testimonials are primarily for people rather than search engines, but they can help in supporting ways. Genuine customer language often includes the words and phrases prospective customers use, and fresh content keeps pages relevant. Be cautious with review structured data: Google has rules about which reviews are eligible for rich results, and self-serving reviews about your own business shown on your own site are generally not eligible. Check current guidance before adding markup.</p>
+
+<h2>Responding to less positive feedback</h2>
+<p>Not every customer will be delighted, and that is normal. If you receive critical feedback, treat it as useful information rather than something to hide. Where it appears publicly, a calm, constructive reply shows prospective customers how you handle problems, which can be reassuring in itself. Use the feedback to improve how you work, and never try to suppress genuine reviews.</p>
+
+<h2>Keeping testimonials fresh</h2>
+<p>Old testimonials can make a site feel neglected, and feedback about services you no longer offer can mislead. Build collecting testimonials into your normal routine, such as at the end of every project or after a set period following a purchase. Review the page from time to time and remove anything outdated.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Anonymous quotes such as "J, London" that look invented.</li>
+<li>Generic praise that does not address real concerns.</li>
+<li>Editing testimonials in ways that change their meaning.</li>
+<li>Publishing without permission.</li>
+<li>Leaving placeholder testimonials on a live site.</li>
+<li>Hiding testimonials on a single page nobody visits.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, including testimonial sections, review displays and service pages that use genuine feedback well. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many testimonials should a website have?</h3>
+<p>There is no set number. A few specific, genuine testimonials placed well are more useful than a long list of vague ones.</p>
+<h3>Can I edit a customer's testimonial?</h3>
+<p>Minor tidying is generally fine, but never change the meaning. Ideally, send the edited version to the customer for approval.</p>
+<h3>Do I need permission to use a testimonial?</h3>
+<p>Yes. Always get clear permission, including for names, photos and business details, and keep a record of it.</p>
+<h3>Can I use Google reviews on my website?</h3>
+<p>Many businesses display reviews from their Google Business Profile. Check the relevant guidelines and show them accurately, without implying they are a complete picture if they are not.</p>
+<h3>What if I do not have any testimonials yet?</h3>
+<p>Leave the section out until you do, and start asking recent customers. Never use invented or placeholder testimonials on a live site.</p>
+`,
+  },
 ];
