@@ -26337,4 +26337,577 @@ module.exports = [
 <p>General information helps clients understand processes, but make clear it is not legal advice and state which jurisdiction it covers.</p>
 `,
   },
+  {
+    slug: 'charity-website-design-uk',
+    seoTitle: 'Charity Website Design UK',
+    title: 'Charity Website Design: Donations, Volunteers and Trust',
+    description: 'Website design for UK charities: clear mission pages, donation journeys, Gift Aid, volunteering sign-ups, impact reporting and accessible design on a budget.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/charity-marketing-uk/', '/pricing/'],
+    body: `
+<p>A charity's website has to work harder than most. It may need to raise money, recruit volunteers, help people find support, reassure funders and explain what the charity does, often on a small budget and maintained by staff or volunteers with plenty of other responsibilities. Good design helps each of those audiences find what they need quickly and gives the organisation a site it can actually keep up to date.</p>
+<p>This guide focuses on the website itself. For fundraising campaigns, social media, email and advertising, see our guide to <a href="/blog/charity-marketing-uk/">charity marketing in the UK</a>. If you run a smaller community or faith group rather than a registered charity, much of this still applies, scaled down.</p>
+
+<h2>Know who the website is for</h2>
+<p>Most charity websites serve several groups:</p>
+<ul>
+<li><strong>People seeking help</strong>, who may be stressed, in crisis or using a phone with limited data.</li>
+<li><strong>Donors</strong>, from one-off givers to regular supporters and legacy pledgers.</li>
+<li><strong>Volunteers</strong>, looking for roles, time commitments and how to apply.</li>
+<li><strong>Funders and partners</strong>, checking governance, accounts and impact.</li>
+<li><strong>Fundraisers</strong>, taking on challenges or organising events for you.</li>
+</ul>
+<p>Their needs differ, and sometimes conflict. A person looking for urgent help should not have to get past a donation pop-up to find a phone number. List these audiences, decide what each most needs, and design the navigation around them.</p>
+
+<h2>A structure that works for many charities</h2>
+<ul>
+<li><strong>Get help</strong> or <strong>Our services</strong>, placed prominently if you support people directly.</li>
+<li><strong>About us</strong>, covering mission, history, trustees, staff and governance.</li>
+<li><strong>Donate</strong>, with clear routes for one-off, monthly and other giving.</li>
+<li><strong>Get involved</strong>, covering volunteering, fundraising events and campaigns.</li>
+<li><strong>Our impact</strong>, with reports, stories and annual reviews.</li>
+<li><strong>News</strong>, if you will keep it updated.</li>
+<li><strong>Contact</strong>.</li>
+</ul>
+<p>Keep the top-level navigation short. A visible Donate button in the header is common, but if your primary purpose is supporting people, a clear Get help link deserves equal prominence.</p>
+
+<h2>Designing for people who need support</h2>
+<p>If your charity provides services, these pages may be the most important on the site. Write in plain, calm language. Explain who the service is for, what happens when someone gets in touch, and how to reach you, including opening hours. Where relevant, signpost emergency services and other sources of urgent help.</p>
+<p>For sensitive topics, consider a quick exit button that takes users away from the site immediately, and be mindful that browsing history can be seen by others. Avoid collecting more personal information than you need in contact forms.</p>
+
+<h2>Donation pages</h2>
+<p>The donation journey should be short, clear and secure. Good practice includes:</p>
+<ul>
+<li>Letting donors choose one-off or monthly giving on the same page.</li>
+<li>Suggesting amounts, optionally with a short honest description of what a gift can help with, alongside a free amount field.</li>
+<li>Asking only for the information you need to process the donation and claim Gift Aid.</li>
+<li>Offering common payment methods and a mobile-friendly checkout.</li>
+<li>Confirming the donation clearly afterwards, with a thank-you message and receipt.</li>
+</ul>
+<p>Most charities use a payment or donation platform rather than building their own payment handling. These can often be embedded in sites built on WordPress, Squarespace or Wix. Check how the embedded form looks on a phone and whether it can carry your branding, so donors are not confused by a sudden change of style.</p>
+<p>Descriptions such as "this amount could fund" should be realistic and based on your actual costs. Avoid implying a gift will be spent on one specific item if donations go into general funds.</p>
+
+<h2>Gift Aid declarations</h2>
+<p>Gift Aid can add significantly to eligible donations from UK taxpayers, so most charities collect declarations online. The wording of a Gift Aid declaration matters, and HMRC publishes guidance on what it should include. Use wording that follows that guidance, and keep records of declarations as required. If you are unsure, check with HMRC guidance or a charity finance adviser rather than copying another organisation's form.</p>
+
+<h2>Volunteering pages</h2>
+<p>Volunteers want to know what roles exist, how much time each needs, where they take place, what training is provided and whether any checks are involved. A page for each role, or a filterable list if you have many, helps people find the right fit. Keep the sign-up form simple and tell applicants what happens next and when they can expect to hear back.</p>
+<p>If roles involve working with children or vulnerable adults, you may need to mention background checks. Describe these accurately and in line with your safeguarding policy.</p>
+
+<h2>Showing impact honestly</h2>
+<p>Donors and funders want to know their support makes a difference. Impact pages can include stories, annual reviews and key figures. Use numbers you can evidence from your own records, explain what they measure, and keep them dated so readers know how current they are.</p>
+<p>Stories from people you have helped can be powerful, but they must be shared with informed consent, and you should consider anonymising details or changing names where there is any risk to the person. Do not combine details from different people into a composite story without saying so.</p>
+
+<h2>Trust, governance and legal details</h2>
+<p>People want to know a charity is legitimate before they give. In England and Wales, registered charities with an annual income above a certain threshold are generally required to state their registered status on websites and certain documents, and similar rules apply elsewhere in the UK. Check current requirements with the relevant regulator: the Charity Commission for England and Wales, the Office of the Scottish Charity Regulator or the Charity Commission for Northern Ireland. Including your charity number in the footer is common practice.</p>
+<p>Other trust signals include trustee information, links to your published accounts, your safeguarding and complaints policies, and, if you are registered with the Fundraising Regulator, the relevant badge used according to its rules. Only display registrations you actually hold. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers the broader principles.</p>
+
+<h2>Data protection and consent</h2>
+<p>Charities often collect personal data through donations, volunteering and contact forms. This must be handled in line with UK GDPR and the Data Protection Act, and electronic marketing consent is also covered by the Privacy and Electronic Communications Regulations. Provide a clear privacy notice, ask for marketing consent in a way that meets these rules, and avoid pre-ticked boxes. The Information Commissioner's Office publishes guidance; take professional advice where needed.</p>
+
+<h2>Accessibility</h2>
+<p>Charity websites are often used by people with disabilities, older people and people on low-cost devices. Accessibility is therefore central, not optional. Use readable text sizes and contrast, meaningful headings, alt text for images, keyboard-friendly navigation and accessible forms. Consider plain-language and easy-read versions of key information if your audience would benefit. See our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> for more.</p>
+
+<h2>Keeping it manageable</h2>
+<p>Many charity websites become outdated because nobody has time to maintain them. Choose a platform your team can update easily, such as WordPress, Squarespace or Wix, and keep the structure simple enough that a volunteer can add news or events without breaking anything. Remove pages that will not be kept current. A smaller site that is accurate is better than a large one full of old events and broken links.</p>
+
+<h2>Common mistakes on charity websites</h2>
+<ul>
+<li>Help information hidden below fundraising messages.</li>
+<li>Long donation forms that ask for unnecessary details.</li>
+<li>Impact figures with no source or date.</li>
+<li>Missing charity number or governance information.</li>
+<li>Out-of-date events and news pages.</li>
+<li>Poor accessibility and slow mobile performance.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with organisations across the country. If you run a charity and want a website that helps people find support and makes giving and volunteering simple, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need to show my charity number on the website?</h3>
+<p>Many registered charities are required to state their registered status, depending on income and where they are registered. Check current rules with your regulator; showing it in the footer is common practice.</p>
+<h3>Can I take donations directly on the website?</h3>
+<p>Yes, usually through an embedded donation or payment platform. Make sure it is secure and works well on a phone.</p>
+<h3>How should I word a Gift Aid declaration?</h3>
+<p>Follow HMRC guidance on what a declaration must include, and keep proper records.</p>
+<h3>Should services or donations come first?</h3>
+<p>It depends on your purpose. If you support people directly, make help easy to find before asking for money.</p>
+<h3>Which platform is best for a small charity?</h3>
+<p>One your team can maintain. WordPress, Squarespace and Wix are all common choices.</p>
+`,
+  },
+  {
+    slug: 'dentist-website-design-uk',
+    seoTitle: 'Dentist Website Design UK',
+    title: 'Dentist Website Design: Treatments, Fees and Patient Bookings',
+    description: 'Website design for UK dental practices: treatment pages, NHS and private fees, new patient registration, online booking, emergency info and GDC-aware content.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/dental-marketing-uk/', '/pricing/'],
+    body: `
+<p>For many people, choosing a dentist starts with a search and a quick look at a few practice websites. They want to know whether the practice is taking new patients, whether it offers NHS treatment, what private treatments cost, where it is, and how to book. A dental practice website that answers those questions clearly, and presents treatments responsibly, does a lot to turn visitors into patients.</p>
+<p>This guide covers the website itself for general and specialist dental practices. For wider promotion, including local search, reviews and advertising, see our guide to <a href="/blog/dental-marketing-uk/">dental marketing in the UK</a>. If you also offer non-surgical aesthetic treatments, our guide to <a href="/blog/private-clinic-marketing-uk/">private clinic marketing</a> may be relevant.</p>
+
+<h2>Answer the first questions immediately</h2>
+<p>The home page should make several things clear without scrolling far:</p>
+<ul>
+<li>Whether you are accepting new patients, and whether that is NHS, private, plan-based or a mix.</li>
+<li>Your location, opening hours and phone number.</li>
+<li>How to book or register.</li>
+<li>What to do in a dental emergency.</li>
+</ul>
+<p>NHS availability is a common source of confusion and frustration for patients. If you are not currently accepting new NHS adult patients, say so clearly rather than leaving people to phone and find out. Keep this information updated as your capacity changes.</p>
+
+<h2>Structuring a dental practice website</h2>
+<ul>
+<li><strong>Home</strong>.</li>
+<li><strong>New patients</strong>, explaining how to register, what to expect at a first visit and what to bring.</li>
+<li><strong>Treatments</strong>, grouped into general, cosmetic, restorative, orthodontic and other categories as relevant.</li>
+<li><strong>Fees</strong>, covering NHS charges, private prices and any membership or payment plans.</li>
+<li><strong>Emergencies</strong>.</li>
+<li><strong>Meet the team</strong>.</li>
+<li><strong>Contact and find us</strong>.</li>
+</ul>
+<p>Practices with several sites should give each location its own page, with its own address, hours, team and services, rather than a single page listing everything.</p>
+
+<h2>Treatment pages</h2>
+<p>Treatment pages help patients understand their options and help the practice appear in searches for specific treatments. A useful treatment page explains:</p>
+<ul>
+<li>What the treatment is and who it may be suitable for.</li>
+<li>What happens at each stage and roughly how many appointments are usually involved.</li>
+<li>Aftercare and what to expect afterwards.</li>
+<li>General risks or considerations, explained in plain language.</li>
+<li>Whether it is available on the NHS or privately only, and where to find fees.</li>
+</ul>
+<p>Write the content in your own words. Generic copy supplied by manufacturers or reused from other sites is unlikely to stand out and may not reflect how you actually work. Keep clinical claims measured and avoid suggesting results are guaranteed.</p>
+
+<h2>Advertising standards and GDC guidance</h2>
+<p>Dental professionals in the UK are regulated by the General Dental Council, which sets standards that cover how dental professionals communicate, including advertising. Website content is also subject to advertising rules overseen by the Advertising Standards Authority, and some treatments, such as botulinum toxin, are prescription-only medicines that cannot be advertised to the public. On a dental website this generally means:</p>
+<ul>
+<li>Information should be accurate, clear and not misleading.</li>
+<li>Do not promise outcomes or use claims you cannot substantiate.</li>
+<li>Only describe team members as specialists if they are on the relevant GDC specialist list.</li>
+<li>Show registration details for clinicians in line with current GDC guidance.</li>
+<li>Take care with before-and-after images, using genuine photos with consent and avoiding misleading editing.</li>
+</ul>
+<p>Rules and guidance change, so check the current GDC standards and advertising guidance, and take advice if you are unsure. This article gives general information, not regulatory advice.</p>
+
+<h2>Showing fees clearly</h2>
+<p>Patients appreciate knowing costs in advance. A fees page might include:</p>
+<ul>
+<li>Current NHS charge bands, if you provide NHS treatment, with a link to official information on charges and exemptions. NHS charges differ between England, Wales, Scotland and Northern Ireland, so show those that apply to you.</li>
+<li>Private prices, either as fixed fees or "from" prices with an explanation of what affects the final cost.</li>
+<li>Details of any practice membership plan or payment options.</li>
+</ul>
+<p>If you offer finance for treatment, consumer credit rules apply, and promoting credit may require appropriate authorisation. Take advice before advertising finance on your site.</p>
+
+<h2>New patient registration</h2>
+<p>A clear new patient journey reduces phone calls and paperwork. Explain how to register, whether there is a waiting list, and what happens at the first appointment. Online forms for medical history and contact details can save time at the practice, but they collect health information, which is special category data under UK GDPR. Use a secure system designed for this purpose, collect only what you need, and explain how data is handled in your privacy notice.</p>
+
+<h2>Online booking</h2>
+<p>Many patients prefer to book online. Practice management systems often include an online booking feature that can be linked or embedded on your site. If you offer it, make sure it shows clearly which appointment types can be booked online, works smoothly on a phone, and sends confirmations and reminders. If booking is phone-only, display the number prominently and make it tappable on mobile. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers general considerations.</p>
+
+<h2>Emergency information</h2>
+<p>People with toothache or a broken tooth often search urgently. Your emergency page should explain how to get an emergency appointment at your practice, what to do outside opening hours, and where to go for urgent dental care, such as NHS 111 in England and Wales or the relevant service elsewhere in the UK. Keep this information simple, accurate and easy to find from the home page.</p>
+
+<h2>Meet the team</h2>
+<p>Patients, especially nervous ones, like to know who they will see. Team pages with real photographs, names, roles and short professional backgrounds help build familiarity. Include GDC registration numbers for clinicians where appropriate. Only include team members who currently work at the practice.</p>
+
+<h2>Supporting nervous patients</h2>
+<p>Dental anxiety is common. If your practice offers approaches that may help nervous patients, such as longer appointments or sedation options, describe them factually. A calm, reassuring tone throughout the site, clear explanations of what happens during visits, and photos of the practice can help nervous patients feel more comfortable taking the first step.</p>
+
+<h2>Reviews and testimonials</h2>
+<p>Genuine patient reviews help prospective patients decide. Display reviews accurately and do not edit them to change their meaning. Be careful that testimonials do not make claims about treatment outcomes that would breach advertising rules. Respond to feedback professionally and avoid disclosing patient information in replies.</p>
+
+<h2>Accessibility and practical details</h2>
+<p>Describe physical access to the practice, such as step-free entry, ground-floor surgeries and parking. The website itself should be accessible, with clear headings, good contrast, alt text and forms that work with assistive technology. See our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Local search and practice details</h2>
+<p>Most patients look for a dentist near home or work, so your website should make your location unmistakable. Use the full practice address in text rather than only in an image, embed a map, and describe parking, public transport and nearby landmarks. Keep your name, address and phone number consistent between the website and your Google Business Profile. If you have several practices, each location page should carry its own details, hours and team so search engines and patients can tell them apart.</p>
+<p>Opening hours deserve particular care. Update them for bank holidays and any temporary changes, and make sure the hours on your site match those shown elsewhere. A patient who arrives at a closed door because the website was wrong is unlikely to return.</p>
+
+<h2>Content for children and families</h2>
+<p>If you see children, a short page for parents helps. Explain from what age you see children, what a first visit involves, whether NHS treatment for children is available at your practice, and tips for preparing a child for an appointment. Keep the tone friendly and practical, and avoid making clinical claims you cannot support.</p>
+
+<h2>Common mistakes on dental websites</h2>
+<ul>
+<li>Unclear NHS availability, leading to frustrated phone calls.</li>
+<li>Out-of-date fees or NHS charges.</li>
+<li>Treatment pages that promise outcomes or use overstated claims.</li>
+<li>Emergency information that is hard to find.</li>
+<li>Team pages listing clinicians who have left.</li>
+<li>Booking routes that do not work well on phones.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you run a dental practice and want a clear, responsible website that helps patients register and book, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I say whether I am taking NHS patients?</h3>
+<p>Yes. Make your current NHS and private availability clear and keep it up to date.</p>
+<h3>Can I publish before-and-after photos?</h3>
+<p>Generally yes, if they are genuine, used with consent and not misleading. Check current GDC and advertising guidance.</p>
+<h3>Do I need to show GDC registration numbers?</h3>
+<p>Current GDC guidance covers the information that should be shown. Check it and include registration details accordingly.</p>
+<h3>Can patients fill in medical history forms online?</h3>
+<p>Yes, using a secure system designed for health data, with a clear privacy notice.</p>
+<h3>Should I publish private prices?</h3>
+<p>It helps patients plan. Fixed or "from" prices with an explanation of what affects the cost work well.</p>
+`,
+  },
+  {
+    slug: 'holiday-let-website-design-uk',
+    seoTitle: 'Holiday Let and Cottage Website Design UK',
+    title: 'Holiday Let Website Design: Direct Bookings for Cottages and Self-Catering',
+    description: 'Website design for UK holiday lets and cottages: property pages, availability calendars, direct booking, house rules and local guides that help guests book.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/hotel-direct-bookings-uk/', '/pricing/'],
+    body: `
+<p>Owners of holiday cottages, self-catering apartments, lodges and barn conversions often rely heavily on large listing platforms for bookings. Those platforms can bring guests, but they also take commission, control the guest relationship and set many of the rules. A well-built website of your own gives returning guests and people who have found you by name a direct place to book, and it gives you a home for the detail a listing page cannot hold.</p>
+<p>This guide is about the website itself for self-catering properties. If you run a hotel, guest house or bed and breakfast with staffed rooms and breakfast service, our guide to <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B website design</a> is a closer fit. For the wider strategy of moving guests away from commission-based channels, see our guide to <a href="/blog/hotel-direct-bookings-uk/">hotel direct bookings</a>, much of which applies to holiday lets too.</p>
+
+<h2>What makes a holiday let website different</h2>
+<p>A self-catering guest is renting a whole place for several nights, often with family, friends or pets. They are not choosing a room type; they are imagining a week of their life in your property. That changes what the site needs to do:</p>
+<ul>
+<li>Show the whole property in enough detail that guests can picture how they will use it.</li>
+<li>Answer practical questions about beds, bathrooms, kitchen equipment, parking, heating, Wi-Fi and outdoor space.</li>
+<li>Make availability and the booking route obvious, because guests usually have fixed dates in mind.</li>
+<li>Set expectations about arrival, departure, cleaning and house rules before anyone books.</li>
+</ul>
+<p>Whether you have a single cottage or a small portfolio, the same principles apply. The difference is mainly in how you structure the navigation.</p>
+
+<h2>Structuring the site for one property or several</h2>
+<p>With one property, the home page can effectively be the property page, supported by pages for availability and booking, the local area, FAQs and contact. Keep it simple and let the photos lead.</p>
+<p>With several properties, give each one its own page and add a way to compare them. Useful ways to group or filter properties include:</p>
+<ul>
+<li>Number of guests and bedrooms.</li>
+<li>Dog-friendly or not.</li>
+<li>Features such as a hot tub, enclosed garden, wood burner or ground-floor bedroom.</li>
+<li>Location, if properties are spread across different villages or areas.</li>
+</ul>
+<p>A summary card for each property, showing a main photo, sleeps, bedrooms and a short line about its character, helps visitors narrow the list before diving into detail.</p>
+
+<h2>The property page is the heart of the site</h2>
+<p>Each property page should answer almost every question a guest might ask. A practical order is:</p>
+<ol>
+<li>A short introduction that captures what the place is like.</li>
+<li>A photo gallery covering every room, the outside space and the view, in a sensible order.</li>
+<li>Sleeping arrangements, bedroom by bedroom: bed sizes, whether twins can be zipped together, and any cots or sofa beds.</li>
+<li>Bathrooms, including whether there is a bath, shower or both.</li>
+<li>Kitchen and living areas, listing the main appliances and equipment.</li>
+<li>Outdoor space, parking and access.</li>
+<li>Availability and the booking route.</li>
+<li>House rules, arrival and departure times, and what is provided.</li>
+</ol>
+<p>A floor plan, even a simple sketch, can be very helpful, particularly for groups deciding who sleeps where or for guests with limited mobility.</p>
+
+<h2>Photography that sets honest expectations</h2>
+<p>Photos sell holiday lets, but they also shape reviews. A wide-angle lens that makes a small room look huge can lead to disappointment on arrival. Aim for bright, well-composed images that represent rooms fairly. Include the less glamorous but important things too: the parking area, the steps to the front door, the size of the garden.</p>
+<p>On the website, make sure galleries load quickly on a phone. Large uncompressed images are a common cause of slow pages. Images should be sized and compressed properly, with descriptive alt text for each one. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the technical side.</p>
+
+<h2>Availability calendars and direct booking</h2>
+<p>For many owners, the main reason to have a website is direct booking. There are broadly three approaches:</p>
+<ul>
+<li><strong>An enquiry form</strong>, where guests request dates and you confirm by email. This is simple, but slower, and some guests will book elsewhere while they wait.</li>
+<li><strong>A calendar with a booking request</strong>, showing availability and letting guests request specific dates for you to approve.</li>
+<li><strong>Instant online booking with payment</strong>, using a booking system or channel manager that takes a deposit or full payment at the time of booking.</li>
+</ul>
+<p>Whichever you choose, the calendar must be accurate. If you also list on other platforms, availability needs to stay in sync, usually through calendar feeds or a channel manager, so a week booked in one place is blocked everywhere else. Test this regularly. A double booking is stressful for you and far worse for the guests who arrive to find someone already there.</p>
+<p>Many booking tools for holiday lets can be embedded in sites built on WordPress, Squarespace or Wix. Check how the booking widget looks and behaves on a phone, since it is often the least polished part of the page. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers what to look for more generally.</p>
+
+<h2>Showing prices clearly</h2>
+<p>Guests want to know the cost of their stay before they invest time. If your prices vary by season, show a clear guide, such as a price range or a seasonal table, and make sure the booking system shows the full price for the chosen dates before payment, including any cleaning fees, pet charges or other extras. Avoid surprises at the final step. Hidden or unclear charges can frustrate guests and may raise consumer protection concerns, so take advice if you are unsure how to present pricing.</p>
+
+<h2>Terms, deposits and cancellation</h2>
+<p>Your booking terms deserve a clear, readable page, linked from every booking step. These typically cover deposits and balance dates, cancellation, security deposits or damage policies, maximum occupancy and what happens if a guest arrives late or leaves early. Write them in plain English and make sure they match how you actually operate.</p>
+<p>Consumer law applies to bookings taken from guests, and the rules around cancellations, refunds and unfair terms can be complex. It is sensible to have your terms reviewed by a solicitor or an appropriate trade body rather than copying another owner's wording. The website should present your terms clearly; it cannot make them fair or compliant on its own.</p>
+
+<h2>Dogs, accessibility and special requirements</h2>
+<p>Dog-friendly properties attract a lot of interest, and dog owners have specific questions. If you accept dogs, state how many, whether there is a charge, which areas they can use, whether the garden is enclosed and any rules about furniture. If you do not accept dogs, say so plainly to save everyone time.</p>
+<p>Accessibility information is valuable and often missing. Rather than simply labelling a property accessible or not, describe it: steps to the entrance, ground-floor bedrooms and bathrooms, door widths if you know them, and shower type. Let guests judge for themselves. The site itself should also be usable for people with disabilities; see our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Local area guides</h2>
+<p>A local area section helps guests plan their stay and gives search engines useful context about where your property is. Write about walks, beaches, villages, places to eat and things to do in your own words, based on what you genuinely know. Keep it updated; a recommended pub that closed two years ago undermines the rest of the page.</p>
+<p>This content can help people searching for holiday cottages in your area find you, especially when combined with a clear location on every property page. Avoid inflated claims such as calling a property the best in the region unless you can stand behind them.</p>
+
+<h2>Guest information before and after booking</h2>
+<p>Your website can hold arrival information, directions and house guides for booked guests, either as private pages or as downloadable documents sent after booking. This reduces repeated questions by email and phone. Be careful not to publish key safe codes, alarm codes or anything sensitive on public pages.</p>
+
+<h2>Reviews and trust</h2>
+<p>Guests booking directly may feel less protected than when booking through a big platform, so trust signals matter. Genuine guest reviews, clear contact details, a named owner or business, secure payment and transparent terms all help. Only publish reviews that guests have actually given, and do not edit them to change their meaning. If you display a quality grading from a recognised tourism scheme, make sure it is current. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has more on this.</p>
+
+<h2>Licensing and registration</h2>
+<p>Rules for short-term and holiday lets vary across the UK and have been changing. Scotland, for example, introduced a licensing scheme for short-term lets, and other parts of the UK have introduced or proposed registration or planning requirements. Fire safety and other obligations also apply to holiday accommodation. Check the current rules for your location with your local authority or a qualified adviser. Where you hold a licence or registration number that should be displayed, include it accurately on the site.</p>
+
+<h2>Common mistakes on holiday let websites</h2>
+<ul>
+<li>Out-of-date availability calendars that do not match listing platforms.</li>
+<li>Prices that only appear at the very end of the booking process.</li>
+<li>Vague sleeping arrangements, such as "sleeps 6" with no detail on beds.</li>
+<li>Photo galleries that are slow or awkward to browse on a phone.</li>
+<li>Terms and conditions buried or missing entirely.</li>
+<li>No mention of dogs, accessibility or parking, leading to repeated questions.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you own one or more holiday lets and want a website that presents your properties clearly and supports direct bookings, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a website if I already list on booking platforms?</h3>
+<p>It is not essential, but a website gives returning guests and people who find you by name a direct way to book, and lets you present your property in more depth.</p>
+<h3>Can I take bookings directly on my website?</h3>
+<p>Yes, using a booking system that handles availability and payments. Make sure it syncs with any other platforms you use.</p>
+<h3>Should every property have its own page?</h3>
+<p>Yes. Separate pages let you describe each property fully and give each one a better chance of being found in search.</p>
+<h3>Should I show prices on the website?</h3>
+<p>Generally, yes. At least a seasonal guide, with the full price for chosen dates shown clearly before payment.</p>
+<h3>Do holiday lets need a licence?</h3>
+<p>It depends on where the property is. Rules differ across the UK and have been changing, so check with your local authority or a qualified adviser.</p>
+`,
+  },
+  {
+    slug: 'recruitment-agency-website-design-uk',
+    seoTitle: 'Recruitment Agency Website Design UK',
+    title: 'Recruitment Agency Website Design: Job Boards, Candidates and Clients',
+    description: 'Website design for UK recruitment agencies: job search, candidate applications, CV uploads, client vacancy forms, sector pages and data-protection-aware design.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/recruitment-agency-marketing-uk/', '/pricing/'],
+    body: `
+<p>A recruitment agency's website has two jobs at once. It needs to attract candidates, help them find relevant roles and make applying easy. It also needs to persuade hiring managers that the agency understands their sector and can fill their vacancies. Those audiences want very different things, and a site that blurs them often serves neither well.</p>
+<p>This article covers the website itself. For promotion, including content, social media, advertising and business development, see our guide to <a href="/blog/recruitment-agency-marketing-uk/">recruitment agency marketing in the UK</a>.</p>
+
+<h2>Two audiences, two journeys</h2>
+<p>From the home page, visitors should be able to identify themselves quickly as a candidate or an employer. A simple split, such as "Looking for a job" and "Looking to hire", works for many agencies. Each route then leads to content designed for that audience.</p>
+<p>Candidates generally want:</p>
+<ul>
+<li>A job search that works quickly on a phone.</li>
+<li>Clear job descriptions with location, salary or rate, contract type and hours.</li>
+<li>A simple way to apply or register.</li>
+<li>Reassurance about what happens to their CV and data.</li>
+</ul>
+<p>Clients generally want:</p>
+<ul>
+<li>Evidence that you understand their sector and the roles they hire for.</li>
+<li>A clear explanation of how you work, including permanent, temporary or contract recruitment.</li>
+<li>A quick way to register a vacancy or arrange a call.</li>
+</ul>
+
+<h2>Structuring a recruitment website</h2>
+<ul>
+<li><strong>Jobs</strong>, with search and filters.</li>
+<li><strong>Candidates</strong>, covering registration, advice and how you work with jobseekers.</li>
+<li><strong>Employers</strong> or <strong>Clients</strong>, explaining your services and how to brief you.</li>
+<li><strong>Sectors</strong> or <strong>Specialisms</strong>, with a page for each area you recruit in.</li>
+<li><strong>About</strong>, including your team and approach.</li>
+<li><strong>Insights</strong> or <strong>Advice</strong>, if you will keep it updated.</li>
+<li><strong>Contact</strong>, including office or regional contacts if relevant.</li>
+</ul>
+
+<h2>Job search and listings</h2>
+<p>The job board is often the most-visited part of a recruitment site. It should be fast and easy to use on a phone. Useful filters include keyword, location, sector, job type (permanent, temporary, contract), salary range and remote or hybrid options. Show results clearly, with the key details visible without opening each listing.</p>
+<p>Each job page should include:</p>
+<ul>
+<li>Job title written as candidates would search for it, rather than internal jargon.</li>
+<li>Location, including whether the role is remote, hybrid or on site.</li>
+<li>Salary or rate, where the client has agreed it can be shown.</li>
+<li>Contract type and hours.</li>
+<li>Responsibilities and requirements, written clearly.</li>
+<li>The consultant handling the role, if appropriate, and a clear apply button.</li>
+</ul>
+<p>Remove filled or expired roles promptly, or mark them clearly as closed. Leaving old jobs live frustrates candidates and can make the site look neglected. Advertising jobs that do not exist to collect CVs is misleading and can breach regulations covering employment agencies, so only list genuine vacancies you are working on.</p>
+
+<h2>Google job search and structured data</h2>
+<p>Google can display job listings in a dedicated job search experience. To be eligible, job pages generally need structured data following Google's JobPosting guidelines, including details such as title, description, location, employment type and date posted. Google sets and updates the requirements, so follow its current documentation. Our guide to <a href="/blog/schema-markup-guide-uk/">schema markup</a> explains structured data more generally.</p>
+
+<h2>Connecting to your recruitment software</h2>
+<p>Most agencies use applicant tracking or recruitment CRM software. Many of these systems can feed jobs to your website automatically and pass applications back into your database. This avoids duplicate data entry and keeps listings current. When planning a site, check what integration options your software offers, such as plugins for WordPress, job feeds or an API, and how applications and CVs are transferred and stored.</p>
+<p>If your system offers its own hosted job board, consider whether embedding it on your site or building a custom integration is better for user experience and search visibility. Hosted pages on a separate domain may not support your own site's search performance in the same way.</p>
+
+<h2>Application and registration forms</h2>
+<p>Long application forms put candidates off, particularly on phones. Keep the initial application simple: name, contact details, CV upload and perhaps a short note. You can gather more detail later. Allow common CV formats, and test the upload on mobile devices, including from cloud storage.</p>
+<p>Make clear what happens after applying: whether the candidate will be contacted, how quickly, and what to do if they do not hear back. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design in more detail.</p>
+
+<h2>Data protection and CVs</h2>
+<p>CVs contain substantial personal data, and applications may include sensitive information. Recruitment agencies must handle this in line with UK GDPR and the Data Protection Act. On the website, this means:</p>
+<ul>
+<li>A clear privacy notice explaining what data you collect, why, how long you keep it and who you share it with, including clients.</li>
+<li>Secure transfer and storage of CVs, rather than unencrypted email attachments where avoidable.</li>
+<li>Asking for consent to marketing separately from the application itself.</li>
+<li>Not collecting information you do not need.</li>
+</ul>
+<p>The Information Commissioner's Office publishes guidance relevant to recruitment. Take professional advice on your specific obligations.</p>
+
+<h2>Employer pages that build confidence</h2>
+<p>Employer-facing pages should explain how you work: the types of recruitment you offer, the process from briefing to placement, and the sectors and roles you cover. Be specific about your specialisms rather than claiming to recruit for everything.</p>
+<p>A vacancy registration form or call booking option gives hiring managers a quick next step. Ask for enough to qualify the enquiry, such as role, location and timescale, without making the form a chore. If you choose to publish fees or terms, link to them clearly; otherwise explain how pricing is agreed.</p>
+
+<h2>Sector and specialism pages</h2>
+<p>Pages for each sector you recruit in serve both audiences. Candidates see relevant roles and advice; clients see that you understand their market. Each page might include an overview of the roles you recruit for, live jobs in that sector, relevant consultants and useful content. Write about each sector from genuine knowledge, avoiding unsupported claims about market conditions or placement figures.</p>
+
+<h2>Team pages</h2>
+<p>Recruitment is a relationship business, and both candidates and clients like to know who they will deal with. Consultant profiles with real photos, specialisms and contact details can encourage direct contact. Keep the team page current as people join and leave.</p>
+
+<h2>Trust and compliance signals</h2>
+<p>Agencies in the UK operate under employment agency regulations, and the Employment Agency Standards Inspectorate enforces rules that cover areas such as how agencies advertise and treat workers. Only display memberships or accreditations you actually hold, and follow each body's rules on using logos. Genuine reviews from candidates and clients, shared with permission, can help. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers the principles.</p>
+
+<h2>Speed and mobile performance</h2>
+<p>Many candidates search for jobs on phones, often in spare moments. A slow job board or clunky application process loses applicants. Optimise images, limit heavy scripts and test job search and applications on real devices. See our guide to <a href="/blog/mobile-website-design/">mobile website design</a>.</p>
+
+<h2>Candidate advice content</h2>
+<p>Advice pages can help candidates and give your site useful content for search. Topics might include writing a CV for a particular sector, preparing for interviews, understanding temporary and contract work, or what to expect when registering with an agency. Write from the genuine knowledge of your consultants, keep pages focused on one question each, and link relevant advice to live jobs where it makes sense. Date anything time-sensitive, such as guidance that depends on employment rules, and review it periodically.</p>
+<p>Avoid publishing salary surveys or market statistics unless they come from your own verifiable data or a properly cited official source. Unsupported figures can undermine trust with the very clients you are trying to impress.</p>
+
+<h2>Temporary and contract workers</h2>
+<p>If you supply temporary or contract workers, they may need ongoing access to information after placement, such as timesheet submission, pay dates and who to contact with questions. A dedicated section, or a link to a worker portal provided by your software, keeps these practical details separate from the job search. Make sure any information about pay, holiday or worker rights is accurate and checked against current rules, since these areas are regulated.</p>
+
+<h2>Common mistakes on recruitment websites</h2>
+<ul>
+<li>A single journey that mixes candidate and client content.</li>
+<li>Expired or filled roles left live on the job board.</li>
+<li>Application forms that are long or broken on mobile.</li>
+<li>Vague privacy information about what happens to CVs.</li>
+<li>Claims to cover every sector without specific evidence.</li>
+<li>Team pages listing consultants who have left.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you run a recruitment agency and want a website that serves both candidates and clients well, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should candidates and clients have separate sections?</h3>
+<p>Yes. Their needs are different, so clear separate routes from the home page usually work best.</p>
+<h3>Can my jobs appear in Google's job search?</h3>
+<p>They may be eligible if job pages include structured data that follows Google's current JobPosting guidelines.</p>
+<h3>Can my recruitment software feed jobs to my website?</h3>
+<p>Many systems offer job feeds, plugins or APIs. Check what your software supports.</p>
+<h3>How should CVs be handled?</h3>
+<p>Securely, in line with UK GDPR, with a clear privacy notice explaining how data is used and shared.</p>
+<h3>Should I show salaries on job listings?</h3>
+<p>Where the client agrees, showing salary or rate generally helps candidates decide whether to apply.</p>
+`,
+  },
+  {
+    slug: 'wedding-venue-website-design-uk',
+    seoTitle: 'Wedding Venue Website Design UK',
+    title: 'Wedding Venue Website Design: Spaces, Capacities and Show-Round Bookings',
+    description: 'Website design for UK wedding venues: ceremony and reception spaces, capacities, packages, availability enquiries, show-round booking and honest photography.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wedding-business-marketing-uk/', '/pricing/'],
+    body: `
+<p>Choosing a wedding venue is often the first big decision a couple makes, and it shapes almost everything that follows: the date, the guest list, the style of the day and a large part of the budget. Couples typically research many venues online before visiting any, which means a venue's website does a great deal of the early selling. It needs to show the spaces properly, answer practical questions and make it easy to check a date or book a visit.</p>
+<p>This article covers the website itself for venues such as country houses, barns, hotels with wedding suites, estates and unusual spaces. For promotion more broadly, including wedding fairs, directories, social media and advertising, see our guide to <a href="/blog/wedding-business-marketing-uk/">wedding business marketing in the UK</a>. If your venue is primarily a hotel, our guide to <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B website design</a> covers the accommodation side.</p>
+
+<h2>What couples look for first</h2>
+<p>When couples land on a venue site, they are usually checking whether it belongs on their shortlist. The questions tend to be:</p>
+<ul>
+<li>Does it look like the kind of place we want?</li>
+<li>Can it hold our number of guests, for the ceremony, meal and evening?</li>
+<li>Can we get married here, or only celebrate here?</li>
+<li>Roughly what does it cost, and what is included?</li>
+<li>Is our date available?</li>
+<li>Is there accommodation, and how far is it from where our guests live?</li>
+</ul>
+<p>If the site answers these quickly, couples are more likely to enquire. If they have to dig, many will move on to the next venue on their list.</p>
+
+<h2>Structuring a wedding venue website</h2>
+<p>A sensible structure for many venues is:</p>
+<ul>
+<li><strong>Home</strong>, setting the scene with strong imagery and a clear route to enquire.</li>
+<li><strong>Spaces</strong>, with a page or section for each ceremony room, reception space, outdoor area and evening venue.</li>
+<li><strong>Weddings</strong> or <strong>Packages</strong>, explaining how weddings work at your venue and what is included.</li>
+<li><strong>Accommodation</strong>, if you have rooms on site or nearby arrangements.</li>
+<li><strong>Food and drink</strong>, covering in-house catering or approved caterers.</li>
+<li><strong>Real weddings</strong> or a gallery, showing the venue in use.</li>
+<li><strong>FAQs</strong>, <strong>Find us</strong> and <strong>Enquire</strong>.</li>
+</ul>
+<p>Venues that also host parties, corporate events or private dining may want a separate section for those, so wedding visitors are not distracted and event bookers can find what they need.</p>
+
+<h2>Presenting each space properly</h2>
+<p>Every space deserves its own clear description. For each one, include:</p>
+<ul>
+<li>What it is used for: ceremony, wedding breakfast, drinks reception, evening party or a mix.</li>
+<li>Capacity in different layouts, such as seated ceremony, banquet dining and standing reception.</li>
+<li>Features that matter on the day: natural light, dance floor, bar, access, heating, and what happens in bad weather if the space is outdoors.</li>
+<li>Photos of the space empty and dressed for a wedding.</li>
+</ul>
+<p>Capacity figures should be accurate and consistent with what you can safely and legally accommodate, including any fire safety limits. A floor plan or a simple diagram of how spaces connect helps couples picture the flow of the day.</p>
+
+<h2>Explaining ceremony options accurately</h2>
+<p>This is an area where care matters. In England and Wales, civil ceremonies can generally only take place at premises approved by the local authority, and the approval usually covers specific rooms or areas. Rules differ in Scotland and Northern Ireland, and the law on wedding locations has been under review, so arrangements can change. Religious ceremonies and celebrant-led ceremonies have their own rules too.</p>
+<p>On your website:</p>
+<ul>
+<li>Only say you are licensed or approved for ceremonies if that is currently the case, and be clear which spaces the approval covers.</li>
+<li>If you only host receptions, or celebrant-led ceremonies that are not legally binding, say so plainly so couples understand they may need a separate legal ceremony.</li>
+<li>Point couples to their local register office or relevant authority for the legal requirements, rather than trying to explain the law in full yourself.</li>
+</ul>
+
+<h2>Packages and pricing</h2>
+<p>Couples want a sense of cost before they enquire. Many venues are reluctant to publish prices because every wedding is different, but some guidance helps filter out mismatched enquiries and builds trust. Options include:</p>
+<ul>
+<li>Showing a starting price or a range for venue hire, with a note on what affects it, such as season, day of the week and guest numbers.</li>
+<li>Describing packages clearly, listing what each includes and what is extra.</li>
+<li>Offering a downloadable brochure with fuller detail.</li>
+</ul>
+<p>Whatever you publish, keep it up to date and make sure it matches what couples are told when they enquire. Out-of-date prices cause awkward conversations. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers how to present pricing more generally.</p>
+
+<h2>Brochure downloads</h2>
+<p>Brochures are common in the wedding industry. If you offer one, decide whether it should be freely downloadable or exchanged for contact details. Gating the brochure can generate leads, but it can also put off couples at the early research stage. Whichever you choose, make sure the brochure and the website say the same things, and that any personal data collected is handled in line with UK data protection law and your privacy notice.</p>
+
+<h2>Availability and enquiry forms</h2>
+<p>The main goal of most venue websites is an enquiry. Make the route obvious from every page, with a clear button to check availability or book a show-round. The enquiry form should ask for what you need to give a useful reply:</p>
+<ul>
+<li>Names and contact details.</li>
+<li>Preferred date or dates, and flexibility.</li>
+<li>Approximate guest numbers for the day and evening.</li>
+<li>Whether they want a ceremony on site.</li>
+<li>Anything else they would like to tell you.</li>
+</ul>
+<p>Keep it reasonably short; you can gather more detail in conversation. Some venues show a live availability calendar, but this needs careful upkeep, as provisional holds and confirmed bookings change constantly. An honest "enquire to check your date" can be better than an inaccurate calendar. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more on form design.</p>
+
+<h2>Show-round booking</h2>
+<p>Most couples want to visit before booking. If you hold scheduled open days or offer private show-rounds, explain how to arrange them. A booking tool that lets couples pick a slot can save back-and-forth, provided you keep it updated. List open-day dates on the site and remove them once they have passed.</p>
+
+<h2>Photography and real weddings</h2>
+<p>Imagery is central for wedding venues. Use a mix of the venue on its own, the spaces dressed for weddings, and real weddings in different seasons and styles. Photos of real weddings must be used with the permission of the couple and the photographer, and the photographer should usually be credited. Do not use stock images that imply they were taken at your venue.</p>
+<p>Real wedding stories, written with the couple's agreement, show how flexible your venue is. Keep testimonials genuine and attributed in a way the couple is comfortable with.</p>
+
+<h2>Suppliers and catering</h2>
+<p>Couples want to know whether they can choose their own caterers, florists, bands and other suppliers, or must use your recommended or approved list. Be clear about this, including any corkage, supplier fees or restrictions on things like confetti, candles or amplified music. Clarity here prevents disappointment later.</p>
+
+<h2>Accommodation and getting there</h2>
+<p>Guests need to know how to get to the venue and where to stay. Include clear directions, parking information, nearby stations, and any on-site rooms or arrangements with local accommodation. Mention finishing times and any licensing restrictions on music or bars that affect the evening.</p>
+
+<h2>Speed, mobile and accessibility</h2>
+<p>Large galleries can make venue sites slow, especially on phones. Compress images and use lazy loading so pages load quickly. Ensure the site is accessible, with alt text on images and readable contrast. Describe step-free access, accessible toilets and accessible rooms if you have them, since this matters to many guests. See our guides to <a href="/blog/mobile-website-design/">mobile website design</a> and <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Common mistakes on wedding venue websites</h2>
+<ul>
+<li>No capacity figures, or figures that differ between pages.</li>
+<li>Unclear ceremony options that leave couples unsure whether they can legally marry there.</li>
+<li>Galleries with no context about which space is which.</li>
+<li>Enquiry forms that are hard to find or far too long.</li>
+<li>Out-of-date open-day dates and prices.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you run a wedding venue and want a website that shows your spaces clearly and turns visits into enquiries, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a wedding venue publish prices?</h3>
+<p>Some guidance usually helps, such as a starting price or range. Keep it current and consistent with what you quote.</p>
+<h3>How should I describe ceremony licensing?</h3>
+<p>Only claim approval you currently hold, specify which spaces it covers, and direct couples to their register office for the legal requirements.</p>
+<h3>Do I need a live availability calendar?</h3>
+<p>Not necessarily. An inaccurate calendar does more harm than good, so an enquiry route may be better.</p>
+<h3>Can I use photos from real weddings?</h3>
+<p>Yes, with permission from the couple and the photographer, and usually with a credit to the photographer.</p>
+<h3>Should weddings and other events share a website?</h3>
+<p>They can, but give weddings their own section so couples are not distracted by corporate or party content.</p>
+`,
+  },
 ];
