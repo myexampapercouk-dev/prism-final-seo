@@ -15179,4 +15179,528 @@ module.exports = [
 <p>Yes. Search engines need text to understand what a page is about, and helpful, specific pages tend to perform better than thin or duplicated ones.</p>
 `,
   },
+  {
+    slug: 'ecommerce-product-photography',
+    seoTitle: 'Ecommerce Product Photography: A Practical UK Guide',
+    title: 'Ecommerce Product Photography: Images That Help Products Sell',
+    description: 'A practical guide to ecommerce product photography: which shots to plan, consistency, file sizes, alt text and how images affect speed, SEO and sales.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/blog/ecommerce-cro-uk/', '/blog/ecommerce-website-design-uk/', '/blog/shopify-speed-optimisation/'],
+    body: `
+<p>Good ecommerce product photography does one job: it gives shoppers enough visual information to feel confident buying something they cannot pick up. That means clear, consistent images that show the whole product, the details that matter, its scale and how it is used. Beautiful photos help, but useful photos sell.</p>
+<p>This guide covers planning a shoot, building a consistent style, and preparing images so they work well on your website. It applies whether you hire a photographer or shoot in-house.</p>
+
+<h2>Start with the questions shoppers ask</h2>
+<p>Before thinking about lighting or backdrops, list what a customer needs to know. A cushion buyer wants to see the fabric weave and the colour in daylight. A shoe buyer wants the sole, the heel height and how it looks on a foot. A furniture buyer wants to know whether it will fit in their room. Your shot list should answer those questions directly.</p>
+
+<h2>Shot types to plan for</h2>
+<table>
+<thead><tr><th>Shot</th><th>What it does</th><th>Where it is most useful</th></tr></thead>
+<tbody>
+<tr><td>Clean main image</td><td>Shows the whole product clearly on a plain background</td><td>Collection pages, marketplaces, ads</td></tr>
+<tr><td>Alternative angles</td><td>Front, back, side, top</td><td>Product page gallery</td></tr>
+<tr><td>Detail close-ups</td><td>Texture, stitching, finish, labels, ports</td><td>Higher-priced or quality-led products</td></tr>
+<tr><td>Scale shot</td><td>Shows size against a person or familiar object</td><td>Anything where size is hard to judge</td></tr>
+<tr><td>Lifestyle or in-use</td><td>Shows the product in context</td><td>Building desire, social and email</td></tr>
+<tr><td>Variant shots</td><td>Each colour or finish photographed</td><td>Products with options</td></tr>
+<tr><td>What is in the box</td><td>Shows accessories and packaging</td><td>Gifts, electronics, kits</td></tr>
+</tbody>
+</table>
+<p>Short video clips can also help, especially for products that move, fold or have a feel that photos struggle to convey.</p>
+
+<h2>Building a shot list</h2>
+<p>A shot list turns good intentions into a repeatable process. For each product category, list the shots required, the order they appear in the gallery and any props or models needed. For example, a clothing range might need front on model, back on model, flat lay, fabric close-up and label detail, while a kitchen gadget might need a clean main image, the product in use, the parts laid out and a size comparison.</p>
+<p>Group products with similar requirements and shoot them together. This keeps lighting and camera settings consistent and makes the shoot faster. Record the settings and setup you use, ideally with a quick photo of the set itself, so future shoots can match.</p>
+
+<h2>Lighting and setup basics</h2>
+<p>Lighting has more effect on product photos than the camera. Soft, even light shows shape and colour without harsh shadows. Large windows with indirect daylight can work well for small products, though the light changes through the day. Continuous studio lights or flash with diffusers give more control and consistency, which matters if you are shooting over several days.</p>
+<ul>
+<li><strong>Use a tripod</strong> so framing stays identical from product to product.</li>
+<li><strong>Use a sweep</strong> (a curved background) to avoid a visible line where the floor meets the wall.</li>
+<li><strong>Use reflectors</strong> or white card to fill shadows.</li>
+<li><strong>Set a fixed white balance</strong> rather than automatic, so colours do not drift between shots.</li>
+<li><strong>Clean products carefully</strong> before shooting; dust and fingerprints are far quicker to remove in person than in editing.</li>
+</ul>
+<p>Reflective items such as jewellery, glass and polished metal are notoriously tricky because they mirror everything around them. These are often worth handing to a specialist.</p>
+
+<h2>Editing workflow</h2>
+<p>A consistent editing process matters as much as a consistent shoot. Typical steps include cropping to your chosen ratio, aligning the product to the same position in the frame, correcting exposure and white balance, cleaning the background and removing dust. Batch-editing tools can apply the same adjustments across a set of photos, which keeps results uniform and saves time.</p>
+<p>Keep the original, unedited files and a high-resolution master of each final image. You will need them for future uses, such as print, marketplaces with different requirements, or a redesigned site with different image sizes.</p>
+
+<h2>Images for marketplaces, ads and social</h2>
+<p>Your product images will often be used beyond your own site. Marketplaces may have specific rules on backgrounds, image size and what can appear in the main photo, so check the current requirements of any marketplace you sell on. Shopping ads typically use your main product image, so a clear, uncluttered shot helps it stand out among competitors. Social platforms tend to favour lifestyle and in-use imagery, and vertical formats may be needed. Planning for these uses at the shoot avoids having to reshoot later. Our <a href="/blog/ecommerce-ppc-agency-uk/">ecommerce PPC guide</a> covers shopping campaigns.</p>
+
+<h2>Consistency matters more than perfection</h2>
+<p>A catalogue where every product sits on the same background, at the same angle, with similar lighting and cropping looks organised and trustworthy. When images vary wildly, collection pages look messy and products are harder to compare. Write a simple style guide covering background colour, angles, crop and padding, aspect ratio and shadows, and use it every time you add products.</p>
+<p>Choose an aspect ratio that suits your theme and stick to it. Square images are a common default, but tall products may suit a portrait ratio. Mixing ratios often leads to awkward gaps in grids.</p>
+
+<h2>Colour accuracy and honesty</h2>
+<p>Photos should show products as they really are. Over-editing colour or removing flaws creates disappointed customers and returns. If a product looks different in different light, say so in the description. Shoppers also rely on images to judge what they are buying, so misleading images can raise consumer law concerns; if in doubt, take advice on how products are presented.</p>
+
+<h2>Preparing images for the web</h2>
+<p>Large, uncompressed photos are one of the most common causes of slow ecommerce pages. Before uploading:</p>
+<ul>
+<li><strong>Resize</strong> to a sensible maximum for your theme rather than uploading straight from the camera.</li>
+<li><strong>Compress</strong> using a modern format where your platform supports it; many platforms convert automatically.</li>
+<li><strong>Name files descriptively</strong>, for example "oak-dining-table-side.jpg" rather than "IMG_4031.jpg".</li>
+<li><strong>Write alt text</strong> that describes what the image shows. It helps people using screen readers and gives search engines context.</li>
+<li><strong>Lazy-load</strong> images further down the page so the first view loads quickly.</li>
+</ul>
+<p>Our <a href="/blog/shopify-speed-optimisation/">Shopify speed guide</a> and <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> go deeper, and our <a href="/blog/website-accessibility-uk/">accessibility guide</a> covers alt text in more detail.</p>
+
+<h2>How images support SEO</h2>
+<p>Product images can appear in image search and in shopping results, and descriptive file names, alt text and structured product data all help. Original photography also distinguishes your pages from competitors using the same manufacturer images. See our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> for how images fit into wider on-page work.</p>
+
+<h2>In-house or professional?</h2>
+<p>Simple products on plain backgrounds can be shot well in-house with a modest setup, a consistent process and patience. Lifestyle imagery, reflective products, food and fashion on models usually benefit from a professional. Many stores mix the two: professional hero and lifestyle images, with in-house shots for new variants and detail.</p>
+
+<h2>Where photography fits in your store</h2>
+<p>Photography works alongside layout, copy and trust signals. A strong gallery on a cluttered page will still underperform. Our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> and <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> cover the rest of the product page. If you would like help with how images are presented and optimised on your site, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many photos should a product page have?</h3>
+<p>There is no fixed number. Include enough to answer the main questions: the whole product, key angles, details, scale and use. Simple products need fewer; complex or high-value ones need more.</p>
+<h3>Should product photos have a white background?</h3>
+<p>A plain, consistent background works well for main images and is required by some marketplaces. Lifestyle images can then add context and personality.</p>
+<h3>Can I use the manufacturer's photos?</h3>
+<p>Only if you have permission. Even then, original photography helps your pages stand out from other retailers selling the same item.</p>
+<h3>Do product images affect page speed?</h3>
+<p>Yes, significantly. Resize and compress images, and lazy-load those further down the page.</p>
+<h3>Should every colour variant have its own photos?</h3>
+<p>Ideally, yes. Shoppers choosing a colour want to see that exact colour, and showing the selected variant's image when someone picks an option reduces uncertainty and returns. If budget is tight, prioritise your best-selling variants first and add the rest over time.</p>
+<h3>Is a smartphone good enough for product photos?</h3>
+<p>For simple products, a recent smartphone on a tripod with good, consistent lighting can produce perfectly usable images. Lighting, background and editing matter more than the camera. Complex, reflective or fashion products usually benefit from professional equipment and experience.</p>
+<h3>How often should I update product photos?</h3>
+<p>Update them whenever the product changes, when your brand style evolves, or when existing images no longer match the rest of the catalogue. Reviewing your gallery once a year is a sensible habit.</p>
+<h3>What should alt text say for product images?</h3>
+<p>Describe what the image shows in plain language, such as the product, colour and angle. Avoid stuffing it with keywords.</p>
+`,
+  },
+  {
+    slug: 'headless-commerce-explained',
+    seoTitle: 'Headless Commerce Explained: Is It Right for You?',
+    title: 'Headless Commerce Explained: What It Is and When It Makes Sense',
+    description: 'Headless commerce explained in plain English: how separating the storefront from the ecommerce engine works, the trade-offs, and who it really suits.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/blog/ecommerce-website-design-uk/', '/blog/shopify-plus-migration-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Headless commerce is an approach to building an online shop where the front end, the part customers see and click, is built separately from the back end that manages products, prices, stock, carts and orders. The two talk to each other through APIs. In a traditional setup, such as a standard Shopify theme, the platform provides both halves together.</p>
+<p>The idea attracts a lot of attention, and it can be the right call. But it is a significant technical decision, and it is worth understanding what you gain and what you take on before choosing it.</p>
+
+<h2>How headless commerce works</h2>
+<p>Think of a traditional store as a shop where the window display and the stockroom are built as one unit by the same company. Headless keeps the stockroom (your ecommerce platform) but lets you design and build the shop floor from scratch, using whatever tools your developers prefer.</p>
+<table>
+<thead><tr><th></th><th>Traditional (themed)</th><th>Headless</th></tr></thead>
+<tbody>
+<tr><td>Front end</td><td>Platform theme, customised</td><td>Custom-built application</td></tr>
+<tr><td>Back end</td><td>Ecommerce platform</td><td>Ecommerce platform (via API)</td></tr>
+<tr><td>Content</td><td>Usually in the platform</td><td>Often a separate content management system</td></tr>
+<tr><td>Hosting</td><td>Handled by the platform</td><td>Front end hosted separately</td></tr>
+<tr><td>Who maintains it</td><td>Platform plus light developer input</td><td>A development team, ongoing</td></tr>
+</tbody>
+</table>
+
+<h2>What headless can offer</h2>
+<ul>
+<li><strong>Design freedom.</strong> Layouts and interactions are not constrained by a theme's structure.</li>
+<li><strong>Multiple front ends.</strong> The same product data can power a website, a mobile app, in-store screens or other channels.</li>
+<li><strong>Richer content.</strong> Pairing commerce with a dedicated content system can suit brands where editorial content drives sales.</li>
+<li><strong>Potential performance gains.</strong> A carefully built front end can be very fast, though this depends entirely on how well it is built.</li>
+</ul>
+
+<h2>What it costs you</h2>
+<ul>
+<li><strong>Higher build cost.</strong> You are building an application, not configuring a theme.</li>
+<li><strong>Ongoing development.</strong> Changes that a theme editor would handle may need a developer.</li>
+<li><strong>Lost conveniences.</strong> Many plug-and-play apps assume a standard theme and may not work, or need custom integration.</li>
+<li><strong>More moving parts.</strong> Separate hosting, content systems and integrations mean more to monitor and more that can break.</li>
+<li><strong>SEO responsibility.</strong> Things a platform handles by default, such as metadata, sitemaps, structured data and how pages render for search engines, must be built and checked deliberately.</li>
+</ul>
+
+<h2>Who headless tends to suit</h2>
+<p>Headless is usually worth considering when a business has a clear requirement a themed store cannot meet. Examples include a brand selling through several digital touchpoints from one catalogue, a content-heavy publisher that also sells products, or a business with an in-house or retained development team ready to own the front end.</p>
+<p>It is usually not the right first step for a growing store whose main problems are traffic, conversion or product range. Those are better tackled with SEO, a sharper theme and conversion work. Our guides to <a href="/blog/ecommerce-cro-uk/">ecommerce CRO</a> and <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> cover what a themed store can achieve.</p>
+
+<h2>The main building blocks</h2>
+<p>A headless setup is usually made up of several parts working together. Understanding them helps when reading proposals or talking to developers.</p>
+<h3>The commerce engine</h3>
+<p>This is the platform that stores products, prices, inventory, customers and orders, and processes checkout. Shopify, among others, can play this role. It exposes its data through APIs that the storefront calls.</p>
+<h3>The front-end application</h3>
+<p>This is the website itself, often built with a modern JavaScript framework. It requests product and cart data from the commerce engine and content from a content system, then assembles pages for visitors. It needs its own hosting and deployment process.</p>
+<h3>The content management system</h3>
+<p>Many headless builds use a separate content system for editorial pages, landing pages and rich product storytelling. This gives marketers flexible tools, but it also means content and products live in different places, which needs thought when planning workflows.</p>
+<h3>Integrations</h3>
+<p>Search, reviews, personalisation, email, analytics and other services are connected individually. In a themed store, many of these arrive as apps with a few clicks. In a headless store, each may involve development work.</p>
+
+<h2>Performance: promise and reality</h2>
+<p>Speed is often presented as the main benefit of headless. A well-built headless front end, with careful caching and server-side rendering, can deliver very quick page loads. But speed is a result of good engineering, not of the architecture itself. Heavy scripts, large images and poorly planned data fetching slow a headless site just as they slow a themed one.</p>
+<p>If speed is the main reason you are considering headless, it is worth first measuring what an optimised theme can achieve. Removing unused apps, compressing images and cleaning up theme code frequently produce meaningful gains at a fraction of the cost. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers the general principles.</p>
+
+<h2>SEO considerations in more detail</h2>
+<p>Search engines need to be able to crawl and render your pages reliably. With a headless build, your team should check that:</p>
+<ul>
+<li>Pages are rendered on the server or pre-rendered, so content is available without relying entirely on client-side JavaScript.</li>
+<li>Each page has a unique title, description and canonical tag.</li>
+<li>Product structured data is output correctly.</li>
+<li>An XML sitemap is generated and kept up to date as products change.</li>
+<li>Redirects from old URLs are planned before launch if you are replacing an existing store.</li>
+<li>Internal linking, breadcrumbs and pagination are implemented properly.</li>
+</ul>
+<p>None of this is unusual, but it is easy to overlook when the focus is on design and features. Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> and <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> are useful references.</p>
+
+<h2>Total cost of ownership</h2>
+<p>When comparing options, look beyond the initial build. A headless store carries ongoing costs for front-end hosting, the content system, developer time for changes and updates, and maintaining integrations as third-party services evolve. A themed store has app subscriptions and occasional development, but the platform carries more of the maintenance burden. Ask any supplier to outline expected ongoing work, not just the launch budget. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains why ongoing care matters for any site.</p>
+
+<h2>A middle path</h2>
+<p>Modern themes are far more flexible than they were. Custom sections, metafields and careful development can deliver a distinctive design without going fully headless. Some businesses also go headless for one part of the experience, such as a campaign microsite, while keeping the main store themed. Our <a href="/blog/shopify-theme-customisation/">theme customisation guide</a> explains how far a theme can be pushed.</p>
+
+<h2>Questions to ask before going headless</h2>
+<ol>
+<li>What specific thing can we not do with a theme?</li>
+<li>Who will maintain the front end in two years' time, and what will that cost?</li>
+<li>Which apps and integrations do we rely on, and will they work headless?</li>
+<li>How will we protect SEO during and after the build?</li>
+<li>Do our marketing and merchandising teams still get the editing control they need?</li>
+</ol>
+<p>If a platform change is also on the table, our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a> and <a href="/blog/ecommerce-website-cost-uk/">ecommerce website cost guide</a> may help with planning. For our own fees, see <a href="/pricing/">pricing</a>.</p>
+
+<h2>How Prism Works Studio approaches it</h2>
+<p>Through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, we can help you weigh up whether headless is genuinely needed or whether a well-built themed store would meet your goals with less cost and complexity.</p>
+
+<h2>FAQs</h2>
+<h3>What does headless mean in ecommerce?</h3>
+<p>It means the storefront customers see is built separately from the ecommerce platform that handles products and orders, with the two connected by APIs.</p>
+<h3>Is headless commerce faster?</h3>
+<p>It can be, but speed depends on how the front end is built and hosted. A poorly built headless site can be slower than a well-optimised theme.</p>
+<h3>Is headless commerce bad for SEO?</h3>
+<p>Not inherently, but it shifts responsibility to your developers. Rendering, metadata, structured data, sitemaps and redirects must all be handled properly.</p>
+<h3>Can Shopify be used headless?</h3>
+<p>Yes. Shopify offers APIs and tools designed for headless builds, so its back end can power a custom front end.</p>
+<h3>What is the difference between headless and composable commerce?</h3>
+<p>Headless refers specifically to separating the front end from the back end. Composable commerce goes further, assembling the whole stack from separate specialist services, such as search, content, checkout and promotions, chosen individually. Composable setups are usually headless, but a headless store need not be fully composable.</p>
+<h3>Can I go back to a theme after going headless?</h3>
+<p>Yes, provided your commerce platform supports themes, since your product and order data stays in the platform. You would need to rebuild the storefront as a theme and handle redirects and any custom features carefully.</p>
+<h3>How long does a headless build take?</h3>
+<p>Typically longer than a themed build, because more is created from scratch and more integrations need connecting. The timescale depends heavily on scope, so ask for a detailed plan rather than relying on general estimates.</p>
+<h3>Do small businesses need headless commerce?</h3>
+<p>Rarely. Most small and mid-sized stores get better value from a well-built theme and investment in content, SEO and conversion.</p>
+`,
+  },
+  {
+    slug: 'shopify-vs-squarespace-uk',
+    seoTitle: 'Shopify vs Squarespace UK: Which Should You Choose?',
+    title: 'Shopify vs Squarespace for UK Businesses: Which Platform Fits?',
+    description: 'Shopify vs Squarespace for UK businesses: how the two compare on selling, design, content, apps and growth, and how to decide which suits your plans.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/blog/shopify-vs-woocommerce-uk/', '/blog/website-builder-vs-custom-website/', '/services/website-ecommerce-development/'],
+    body: `
+<p>For most UK businesses the choice between Shopify and Squarespace comes down to one question: is your website a shop that also tells a story, or a story that also has a shop? Shopify is designed first and foremost for ecommerce. Squarespace is designed first for good-looking, content-led websites, with commerce features available on its higher plans. Both are hosted platforms, so you do not manage servers or software updates yourself.</p>
+<p>This guide compares the two on the things that tend to matter in practice. Platform features and plan details change regularly, so check the current position with each provider before committing.</p>
+
+<h2>The short version</h2>
+<table>
+<thead><tr><th>If this describes you</th><th>Usually a better fit</th></tr></thead>
+<tbody>
+<tr><td>Product range is your main revenue and likely to grow</td><td>Shopify</td></tr>
+<tr><td>You sell across several channels (marketplaces, social, in person)</td><td>Shopify</td></tr>
+<tr><td>You need variants, stock across locations or wholesale pricing</td><td>Shopify</td></tr>
+<tr><td>You are a creative, consultant or studio selling a few items or services</td><td>Squarespace</td></tr>
+<tr><td>Bookings, portfolios and blog content matter more than the catalogue</td><td>Squarespace</td></tr>
+<tr><td>You want one tidy tool and minimal add-ons</td><td>Squarespace</td></tr>
+</tbody>
+</table>
+
+<h2>Selling features</h2>
+<p>Shopify's whole admin is organised around products, orders, customers and fulfilment. Variants, inventory, discounts, abandoned checkout recovery, shipping rules and tax settings are core features rather than extras. It also connects to a wide range of sales channels and point-of-sale hardware, which suits brands selling at markets or in a shop as well as online.</p>
+<p>Squarespace handles the essentials well for smaller catalogues: product pages, variants, digital products, simple subscriptions and discount codes. Where it can feel limiting is in more complex scenarios, such as large catalogues, detailed product filtering, multi-location stock or bespoke checkout logic.</p>
+
+<h2>Design and content</h2>
+<p>Squarespace's strength is design out of the box. Its templates are polished, its editor is visual and its blogging, portfolio and gallery tools are pleasant to use. For a brand where imagery and storytelling carry the sale, that matters.</p>
+<p>Shopify themes have improved a great deal and the theme editor now allows plenty of layout control without code. For deeper changes, Shopify's theme language lets a developer customise almost anything. Its blog is functional rather than inspiring, which is fine for most stores but less appealing if content is central to your marketing. Our <a href="/blog/shopify-theme-customisation/">Shopify theme customisation guide</a> covers what is possible.</p>
+
+<h2>Apps and extensibility</h2>
+<p>Shopify has a very large app ecosystem covering reviews, subscriptions, loyalty, bundles, product options, translation and much more. That flexibility is useful, but every app adds a monthly cost and some weight to your pages, so it pays to be selective. Our <a href="/blog/shopify-speed-optimisation/">Shopify speed guide</a> explains why.</p>
+<p>Squarespace has a smaller set of extensions. That keeps things simple but means fewer options if you hit a gap later.</p>
+
+<h2>SEO</h2>
+<p>Both platforms cover the basics: editable page titles and descriptions, clean URLs, sitemaps and mobile-friendly templates. Neither will rank a site on its own; content, structure and links do that. Shopify's fixed URL structure (such as /products/ and /collections/) is sometimes raised as a drawback, but it rarely stops a well-run store ranking. See our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a>.</p>
+
+<h2>Running costs</h2>
+<p>Both charge a monthly subscription, and both have payment processing fees. With Shopify, the total cost often depends more on which apps and theme you choose than on the base plan. With Squarespace, you need a commerce-capable plan to sell. Compare the current plan pages directly and include apps, payment fees and any design or development work in your sums. For build budgets, see our <a href="/blog/shopify-website-cost-uk/">Shopify website cost guide</a> or our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Switching later</h2>
+<p>Moving platforms is possible but rarely painless. Products, customers and orders can usually be exported, but design, URLs, redirects and integrations need rebuilding. If there is a realistic chance your catalogue will grow significantly in the next few years, starting on the platform built for that scale can save a migration. If you already need to move, our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> covers the SEO side.</p>
+
+<h2>Payments, checkout and UK selling details</h2>
+<p>Both platforms offer their own payment processing alongside support for other providers, and both handle common card and wallet payments. Shopify's checkout is one of its most developed features and is shared across a very large number of stores, which means shoppers often find it familiar. Customisation of the checkout itself is restricted on standard plans, with more control available on higher tiers.</p>
+<p>For UK sellers, practical details matter as much as headline features. Think about how each platform handles VAT-inclusive pricing, shipping zones for the UK and abroad, Royal Mail and courier integrations, and selling to customers in Northern Ireland or the EU, where rules differ. Both platforms provide settings for these, but the depth and flexibility vary, so test the specific scenarios you need. Tax treatment is ultimately your responsibility, so confirm your settings with your accountant rather than relying on platform defaults.</p>
+
+<h2>Day-to-day management</h2>
+<p>The platform you choose also shapes how your team spends its time. In Shopify, product imports and bulk edits through spreadsheets are straightforward, which helps when you have hundreds of products or frequent price changes. Order management, refunds, customer records and reporting sit in one place, and staff accounts can be given different permissions.</p>
+<p>Squarespace keeps website editing, commerce, email campaigns and scheduling in a single, consistent interface. For a small team where the same person writes the blog, updates the shop and answers enquiries, that unified feel can be a genuine advantage. The trade-off is less depth in each area as the business grows.</p>
+
+<h2>Three example scenarios</h2>
+<p>These illustrations are hypothetical, but they show how the decision tends to play out.</p>
+<h3>A homeware brand with a growing range</h3>
+<p>A brand launching with forty products and plans to add more each season, selling at pop-up markets and considering marketplaces, will usually be better served by Shopify. Inventory, point of sale and channel connections are central to how it operates.</p>
+<h3>An illustrator selling prints and commissions</h3>
+<p>An illustrator whose portfolio wins commissions, with a small print shop on the side, may find Squarespace the more natural fit. The portfolio does the selling, and the shop needs only basic features.</p>
+<h3>A consultancy adding digital products</h3>
+<p>A consultancy selling a few guides or templates alongside its services might choose either. If bookings and content drive the business, Squarespace keeps things tidy. If digital products are expected to become a significant revenue line, Shopify gives more room to grow.</p>
+
+<h2>Common mistakes when choosing</h2>
+<ul>
+<li><strong>Choosing on template looks alone.</strong> Templates can be changed; platform limitations are harder to work around.</li>
+<li><strong>Ignoring the cost of apps.</strong> A low base plan can become a much higher monthly bill once essential add-ons are included.</li>
+<li><strong>Planning only for launch day.</strong> Consider where the business might be in two or three years.</li>
+<li><strong>Not testing the admin.</strong> Both platforms offer trials. Add a few real products and process a test order before deciding.</li>
+</ul>
+
+<h2>Questions to settle before you decide</h2>
+<ul>
+<li>How many products will you sell in two years' time, and how many variants each?</li>
+<li>Will you sell anywhere other than your website?</li>
+<li>How important is blog and portfolio content to winning customers?</li>
+<li>Who will run the site day to day, and how comfortable are they with a more involved admin?</li>
+<li>Do you need features like subscriptions, B2B pricing or bookings?</li>
+</ul>
+<p>If you are also weighing up self-hosted options, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> covers that decision.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> includes Shopify builds, and we are happy to talk through whether Shopify is right for you before any build starts. If it turns out a simpler platform suits you better, we will say so.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify better than Squarespace for selling online?</h3>
+<p>For businesses where products are the main source of revenue, Shopify is usually stronger because it is built around ecommerce. Squarespace can work well for smaller catalogues alongside a content-led site.</p>
+<h3>Is Squarespace good enough for a small online shop?</h3>
+<p>Often, yes, particularly if you sell a limited range and value design and simplicity. Check that it supports the specific features you need, such as subscriptions or the shipping rules you want.</p>
+<h3>Which is easier to use?</h3>
+<p>Many people find Squarespace quicker to learn because there is less to configure. Shopify has more settings because it does more, but its admin is well organised once you are familiar with it.</p>
+<h3>Can I move from Squarespace to Shopify later?</h3>
+<p>Yes. Core data can usually be exported and imported, but the design, redirects and integrations need to be rebuilt, so plan the move carefully to protect search traffic.</p>
+<h3>Which is better for SEO?</h3>
+<p>Neither has a decisive advantage. Both handle technical basics; rankings depend far more on content, site structure and links.</p>
+`,
+  },
+  {
+    slug: 'website-contact-forms',
+    seoTitle: 'Website Contact Forms That Convert: A UK Guide',
+    title: 'Website Contact Forms That Convert: Design, Fields and Follow-Up',
+    description: 'How to design website contact forms that convert: which fields to ask for, placement, mobile usability, spam protection, privacy and follow-up.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/landing-page-design-uk/', '/blog/website-copywriting-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A website contact form that converts is short, clearly placed, easy to complete on a phone, and honest about what happens next. Most underperforming forms fail for simple reasons: too many fields, vague buttons, confusing errors, or enquiries that land in an inbox nobody checks. Fixing those basics is often one of the quickest ways to get more from the traffic you already have.</p>
+
+<h2>Decide what the form is for</h2>
+<p>A general "get in touch" form, a quote request and a booking form do different jobs. Before designing, decide what a good enquiry looks like and what you need to know to respond usefully. That determines the fields, not the other way round.</p>
+
+<h2>Choosing fields</h2>
+<p>Each field should earn its place. A useful test: if you would not change your reply based on the answer, do not ask yet.</p>
+<table>
+<thead><tr><th>Field</th><th>Keep it?</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Name</td><td>Usually</td><td>A single name field is often enough</td></tr>
+<tr><td>Email</td><td>Yes</td><td>Use the email input type so phones show the right keyboard</td></tr>
+<tr><td>Phone</td><td>Only if you will call</td><td>Consider making it optional</td></tr>
+<tr><td>Message</td><td>Usually</td><td>A prompt like "What do you need help with?" gets better answers than "Message"</td></tr>
+<tr><td>Budget or timescale</td><td>Sometimes</td><td>Useful for qualifying, but offer ranges rather than a blank box</td></tr>
+<tr><td>Company, job title, address</td><td>Rarely at first</td><td>Ask later in the conversation unless essential</td></tr>
+</tbody>
+</table>
+<p>If you genuinely need more information, consider a short multi-step form that starts with the easiest questions. People who have started are more likely to finish.</p>
+
+<h2>Placement and context</h2>
+<ul>
+<li>Put a form or a clear route to one on every page where someone might be ready to act, not only on the contact page.</li>
+<li>Place it next to the content that answers last-minute doubts: what you do, rough pricing guidance, and what happens next.</li>
+<li>Offer alternatives such as phone or email for people who prefer them.</li>
+</ul>
+<p>Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers how forms fit into pages built for a single action.</p>
+
+<h2>Wording that helps</h2>
+<p>Replace "Submit" with a button that says what happens, such as "Request a quote" or "Send my enquiry". Add a line near the button setting expectations, for example when you aim to reply. Only make promises you can keep. Clear labels above fields work better than placeholder text that disappears when someone starts typing. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> has more on microcopy.</p>
+
+<h2>Different forms for different jobs</h2>
+<h3>General enquiry forms</h3>
+<p>These suit visitors who are not sure exactly what they need. Keep them short and use an open question that invites context, such as "Tell us a little about your project". A dropdown asking what the enquiry is about can help route messages to the right person, but keep the options few and clear, and include an "Other" choice.</p>
+<h3>Quote request forms</h3>
+<p>Quotes need more detail, so these forms can justify a few extra questions, such as the type of service, approximate size or quantity and preferred timescale. Use dropdowns, radio buttons and ranges where you can, because choosing is easier than typing. Explain why you are asking: "This helps us give you an accurate quote" makes people more willing to answer.</p>
+<h3>Booking and callback forms</h3>
+<p>If you offer consultations or calls, letting people pick a time directly removes back-and-forth emails. Where live booking is not practical, a callback form asking for a preferred time of day is a simple alternative.</p>
+<h3>Ecommerce contact forms</h3>
+<p>For online stores, most contact form messages are about existing orders. Asking for an order number up front, and linking to delivery and returns information near the form, helps customers find answers and helps your team respond quickly. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers how support content affects conversion.</p>
+
+<h2>Reducing hesitation</h2>
+<p>Some visitors are ready to enquire but hold back because they are unsure what happens next or worry about being pressured. Small additions near the form can help:</p>
+<ul>
+<li>A brief explanation of the next step, such as a reply by email or a short call.</li>
+<li>Answers to two or three common questions, especially about pricing approach and timescales.</li>
+<li>A note on how you handle their details, with a link to your privacy policy.</li>
+<li>Genuine reviews or examples of work, where you have permission to show them.</li>
+</ul>
+<p>Only include what is true and current. Unrealistic promises about response times or results damage trust as soon as they are broken.</p>
+
+<h2>Measuring and improving</h2>
+<p>Treat your forms as something to improve over time rather than set and forget. Track how many people view a page with a form, how many start filling it in and how many finish. If many start but few finish, the form itself is likely the problem: too long, confusing or broken on certain devices. If few start, the issue may be the page, the offer or the placement.</p>
+<p>Small tests can be revealing. Try removing a field, changing the button text or moving the form higher on the page, and compare results over a sensible period. Look at the quality of enquiries too, not only the number. A form that generates more messages but fewer genuine leads may not be an improvement.</p>
+
+<h2>Mobile and accessibility</h2>
+<p>Many enquiries start on a phone. Make fields large enough to tap, use the correct input types, avoid tiny checkboxes and make sure the form works with autofill. For accessibility, every field needs a proper label, errors must be explained in text (not only colour), and the form should be usable with a keyboard. See our <a href="/blog/website-accessibility-uk/">website accessibility guide</a>.</p>
+
+<h2>Errors and validation</h2>
+<p>Validate gently. Show errors next to the relevant field, explain how to fix them, and never clear what someone has already typed. Avoid overly strict rules, such as rejecting phone numbers with spaces.</p>
+
+<h2>Spam protection</h2>
+<p>Spam is a real nuisance, but heavy-handed protection can block genuine enquiries. Lighter options, such as hidden honeypot fields and server-side filtering, are often enough. If you use a challenge tool, choose one that is as unobtrusive as possible and check it does not create accessibility problems.</p>
+
+<h2>Privacy and consent</h2>
+<p>A contact form collects personal data, so UK data protection rules apply. In general, you should explain how you will use the information, link to your privacy policy, and keep marketing consent separate from the enquiry itself, for example with an unticked opt-in box. This is general information rather than legal advice; check your own obligations, and take advice if you are unsure.</p>
+
+<h2>After the button is pressed</h2>
+<ul>
+<li>Show a clear confirmation message, or a thank-you page that explains what happens next.</li>
+<li>Consider an automatic confirmation email so people know it arrived.</li>
+<li>Send enquiries somewhere they will be seen quickly, such as a shared inbox or CRM, rather than one person's email.</li>
+<li>Track form submissions as conversions in your analytics so you can see which pages and channels produce enquiries.</li>
+<li>Test the form regularly. Forms break silently after updates, and a broken form can cost enquiries for weeks before anyone notices.</li>
+</ul>
+
+<h2>Getting help</h2>
+<p>If your site needs better forms or a wider rebuild, our <a href="/services/website-ecommerce-development/">website development service</a> covers forms, tracking and page layout. Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> is a useful self-audit, and our <a href="/pricing/">pricing page</a> explains our plans. You can also <a href="/contact/">get in touch</a> directly.</p>
+
+<h2>FAQs</h2>
+<h3>How many fields should a contact form have?</h3>
+<p>As few as you need to respond well. For many businesses that is name, email and a message, with optional extras only where they change your reply.</p>
+<h3>Are multi-step forms better?</h3>
+<p>They can help when you genuinely need more information, because starting with easy questions builds momentum. For simple enquiries, a single short form is usually best.</p>
+<h3>Should I include a phone number field?</h3>
+<p>Only if you plan to call. If you do, consider making it optional and saying why you are asking.</p>
+<h3>Do I need a consent checkbox on my contact form?</h3>
+<p>Not always for responding to an enquiry, but you should explain how data is used and keep any marketing consent separate. Check your own obligations under UK data protection law.</p>
+<h3>Should my contact form be on every page?</h3>
+<p>Not necessarily the full form, but every page where someone might be ready to act should offer a clear route to it, such as a button in the header or at the end of the content. Service and landing pages often benefit from having the form on the page itself.</p>
+<h3>What should the thank-you page say?</h3>
+<p>Confirm the message was received, explain what happens next and roughly when, and offer something useful while they wait, such as a relevant guide or your phone number for urgent queries.</p>
+<h3>Why am I not getting enquiries from my form?</h3>
+<p>Start by testing that it works and that notifications arrive. Then look at traffic to the page, the number of fields, the button wording and how easy it is to use on a phone.</p>
+`,
+  },
+  {
+    slug: 'website-discovery-workshop',
+    seoTitle: 'Website Discovery Workshop: What It Is and Why It Matters',
+    title: 'Website Discovery Workshops: Getting a Project Right Before Design Starts',
+    description: 'What a website discovery workshop is, what it can cover, how to prepare, and why agreeing goals and scope early helps a website project run smoothly.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-redesign-cost-uk/', '/blog/small-business-website-checklist/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A website discovery workshop is a focused session, or short series of sessions, held at the start of a website project to agree what the site needs to achieve, who it is for, what it must contain and what is in and out of scope. It turns a loose idea of "we need a new website" into a shared understanding that designers, developers and the business can all work from.</p>
+<p>The format varies a great deal between agencies and projects. This guide explains what discovery can cover and how to get the most from it, whoever you work with.</p>
+
+<h2>Why discovery is worth the time</h2>
+<p>Most website projects that go wrong do so because of misunderstandings rather than technical problems: a stakeholder who was not consulted, a feature everyone assumed was included, content nobody owned, or a goal that was never written down. Discovery brings those issues to the surface before money is spent on designs that have to be redone.</p>
+<p>It also makes quotes more reliable. Without a clear scope, any estimate is a guess. With one, both sides know what is being built.</p>
+
+<h2>What a discovery workshop can cover</h2>
+<table>
+<thead><tr><th>Topic</th><th>Questions worth answering</th></tr></thead>
+<tbody>
+<tr><td>Business goals</td><td>What should the website achieve? How will we know it is working?</td></tr>
+<tr><td>Audience</td><td>Who are the main visitors, what do they need, and what stops them acting?</td></tr>
+<tr><td>Current site</td><td>What works, what does not, and what does the data say?</td></tr>
+<tr><td>Content</td><td>What pages are needed, what exists already, and who will write or update the rest?</td></tr>
+<tr><td>Features and integrations</td><td>Forms, booking, ecommerce, CRM, email, payments: what is essential and what can wait?</td></tr>
+<tr><td>Brand and design direction</td><td>Which sites do we admire and why? Are brand guidelines in place?</td></tr>
+<tr><td>SEO and migration</td><td>Which pages bring traffic now, and how will redirects be handled?</td></tr>
+<tr><td>Constraints</td><td>Budget range, deadlines, platform preferences, approval process</td></tr>
+</tbody>
+</table>
+<p>Not every project needs every topic. A simple brochure site may need a single conversation; a complex ecommerce rebuild may justify much more.</p>
+
+<h2>Common outputs</h2>
+<p>Depending on the project, discovery might produce a written brief, a proposed sitemap, a prioritised list of features, notes on content responsibilities, and a list of open questions. What matters is that decisions are written down and agreed, so everyone can refer back to them. Ask whoever runs your discovery what you will receive at the end.</p>
+
+<h2>How to prepare</h2>
+<ul>
+<li><strong>Bring the decision-makers.</strong> If someone will need to approve the final site, involve them now.</li>
+<li><strong>Gather data.</strong> Analytics access, top pages, enquiry or sales figures and common customer questions are all useful.</li>
+<li><strong>Collect examples.</strong> Note sites you like and dislike, and be specific about why.</li>
+<li><strong>Be honest about constraints.</strong> A budget range and real deadline lead to better recommendations than an open brief.</li>
+<li><strong>Think about content early.</strong> Content is often the slowest part of a website project. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> can help.</li>
+</ul>
+
+<h2>Questions to think about before the session</h2>
+<p>Walking into discovery with some answers already drafted makes the conversation more productive. You do not need polished responses; rough notes are fine.</p>
+<h3>About the business</h3>
+<ul>
+<li>What do you sell, and which products or services matter most to the business right now?</li>
+<li>What is changing in the next year or two, such as new services, new markets or a rebrand?</li>
+<li>What has prompted the website project now?</li>
+</ul>
+<h3>About customers</h3>
+<ul>
+<li>Who are your best customers, and how do they usually find you?</li>
+<li>What questions do they ask before buying or getting in touch?</li>
+<li>What objections or worries come up most often?</li>
+</ul>
+<h3>About the website</h3>
+<ul>
+<li>What single action do you most want visitors to take?</li>
+<li>Which parts of your current site do customers or staff complain about?</li>
+<li>Who will update the site after launch, and how often?</li>
+</ul>
+
+<h2>Making decisions stick</h2>
+<p>A workshop is only useful if its conclusions are respected later. A few habits help. Agree who has the final say on each area, such as content, design and budget, before the project starts. Write decisions down and share them promptly so anyone who missed the session can raise concerns early. When new ideas arise mid-project, which they always do, compare them against the agreed goals and decide consciously whether to add them now, swap them for something else, or save them for a later phase.</p>
+<p>This is not about being rigid. Projects should adapt as you learn. The point is that changes are deliberate and their effect on time and budget is understood, rather than drifting in unnoticed.</p>
+
+<h2>Prioritising features</h2>
+<p>Discovery often produces a long wish list. Sorting it is one of the most valuable parts of the process. A simple approach is to divide items into three groups: what the site must have at launch, what would be good to have if time and budget allow, and what can wait for a later phase. Launching with a focused, well-built site and adding features based on real usage is often more effective than trying to include everything at once.</p>
+<p>Be wary of features included because a competitor has them. Ask whether your customers actually need them and whether you have the time and content to support them.</p>
+
+<h2>Discovery for redesigns</h2>
+<p>When replacing an existing site, discovery should look carefully at what the current site already does well, particularly in search. Pages that bring in traffic or enquiries need to be kept, improved or redirected properly. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains why, and our <a href="/blog/website-redesign-cost-uk/">website redesign cost guide</a> covers budgeting.</p>
+
+<h2>Discovery for ecommerce</h2>
+<p>Online stores add questions about platform choice, catalogue structure, product data, payments, shipping, stock and integrations with other systems. Getting these right early avoids expensive changes later. Our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> and <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> are useful background reading.</p>
+
+<h2>Discovery and content planning</h2>
+<p>Content deserves particular attention because it shapes the design rather than simply filling it. A page layout built around placeholder text often breaks when real copy arrives: headings turn out longer, sections are missing, or there are not enough images. Agreeing early which pages are needed, what each must say and who will produce it lets designers work with realistic material.</p>
+<p>A simple content inventory helps. List every page on the current site, mark whether it should be kept, rewritten, merged or removed, and note any new pages required. Add an owner and a rough deadline for each. This one document often reveals the true size of a project more clearly than any feature list.</p>
+
+<h2>Signs you need more discovery</h2>
+<ul>
+<li>Different people in the business describe the project differently.</li>
+<li>You cannot say what success looks like.</li>
+<li>Quotes from different suppliers vary wildly, suggesting each has interpreted the brief differently.</li>
+<li>Nobody is sure who will provide content or approve designs.</li>
+</ul>
+
+<h2>Working with Prism Works Studio</h2>
+<p>If you are planning a new site or rebuild, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> is a good place to start, and our <a href="/pricing/">pricing page</a> sets out our plans. Ask us how early planning would work for your project when you <a href="/contact/">get in touch</a>. Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> is also a helpful way to start organising your thoughts.</p>
+
+<h2>FAQs</h2>
+<h3>What is a website discovery workshop?</h3>
+<p>A structured session at the start of a website project to agree goals, audience, content, features and scope before design and development begin.</p>
+<h3>Is a discovery workshop worth paying for?</h3>
+<p>For anything beyond a very simple site, clarifying scope early usually reduces costly changes later. Whether a separate paid phase makes sense depends on the size and complexity of the project.</p>
+<h3>How long does website discovery take?</h3>
+<p>It varies with the project. A small site may need one conversation; a large or complex build may need several sessions plus research.</p>
+<h3>Who should attend a discovery workshop?</h3>
+<p>The people who understand the business goals and customers, and anyone who will approve the final site.</p>
+<h3>Is a discovery workshop held in person or online?</h3>
+<p>Either can work. Remote sessions using video calls and shared documents are common and make it easier to involve people in different locations. What matters most is that the right people take part and have time to think, rather than where the session happens.</p>
+<h3>What happens if we change our minds after discovery?</h3>
+<p>That is normal. Discovery is not meant to freeze every decision. The written brief simply makes it clear what is changing, so the effect on timescales and budget can be discussed openly before work continues.</p>
+<h3>Do I need discovery for a small brochure website?</h3>
+<p>A small site still benefits from clear goals, a list of pages and agreement on who provides content, but this may take a single conversation rather than a formal workshop. Scale the effort to the size and risk of the project.</p>
+<h3>Can I do discovery myself?</h3>
+<p>You can do a lot of the groundwork yourself by writing down goals, audiences, required pages and features, and gathering data. That makes any conversation with a web designer far more productive.</p>
+`,
+  },
 ];
