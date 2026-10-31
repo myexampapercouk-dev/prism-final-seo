@@ -18077,4 +18077,659 @@ module.exports = [
 <p>Leave the section out until you do, and start asking recent customers. Never use invented or placeholder testimonials on a live site.</p>
 `,
   },
+  {
+    slug: 'ecommerce-customer-accounts-and-wishlists',
+    seoTitle: 'Ecommerce Customer Accounts and Wishlists Guide',
+    title: 'Ecommerce Customer Accounts and Wishlists: Designing Pages Shoppers Actually Use',
+    description: 'Plan ecommerce customer account and wishlist pages: guest checkout, sign-in, order history, returns, saved items and privacy, so UK shoppers come back.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-website-design-uk/', '/blog/ecommerce-email-marketing-uk/', '/pricing/'],
+    body: `
+<p>Customer accounts and wishlists are often treated as box-ticking features on an online shop. A template includes them, they get switched on, and nobody looks at them again. Yet these pages sit at the heart of the relationship between a shop and its returning customers. A well-designed account area makes reordering simple, cuts down on customer service emails and gives people a reason to come back. A clumsy one adds friction, frustrates loyal customers and can even put first-time buyers off.</p>
+<p>This guide is for UK ecommerce owners and teams planning a new store or reviewing an existing one. It covers when to ask for an account, how to handle sign-in and guest checkout, what to include in the account area, how to design wishlists that people use, and the privacy and security points to keep in mind.</p>
+
+<h2>Should shoppers need an account to buy?</h2>
+<p>For most online shops, the answer is no. Forcing people to create an account before they can check out is a well-known source of abandoned baskets. A first-time buyer wants to pay and get on with their day, not set up a password for a shop they have never used before.</p>
+<p>A common approach is to:</p>
+<ul>
+<li>Offer guest checkout prominently.</li>
+<li>Let returning customers sign in quickly if they want to use saved details.</li>
+<li>Invite guests to create an account after their order is placed, using the details they have already entered.</li>
+</ul>
+<p>There are exceptions. Trade-only shops, businesses with wholesale pricing or stores that need to verify eligibility may need accounts before purchase. Even then, explain why and keep the process short. Our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout friction more widely.</p>
+
+<h2>Making sign-in painless</h2>
+<p>If returning customers struggle to log in, they will either give up or check out as a guest, losing the benefits of their saved details. Good sign-in design includes:</p>
+<ul>
+<li>A clear link to the account area in the header, usually with a recognisable person icon and text label.</li>
+<li>Short forms that work well with browser and password manager autofill.</li>
+<li>A straightforward password reset process that sends emails promptly.</li>
+<li>Helpful error messages that explain what went wrong without revealing whether an email address is registered, which is a security consideration.</li>
+<li>Options such as passwordless sign-in by email link or code, where your platform supports it.</li>
+</ul>
+<p>Shopify, for example, offers customer account options including sign-in by one-time code, and WooCommerce supports accounts through WordPress with a range of configuration choices. Which approach suits you depends on your platform, your customers and how much you want to customise.</p>
+
+<h2>What to include in the account area</h2>
+<p>An account dashboard should focus on the tasks customers actually come to do. For most shops that means:</p>
+<ul>
+<li><strong>Order history.</strong> A clear list of past orders with dates, items, totals and status.</li>
+<li><strong>Order tracking.</strong> Links to delivery tracking where available, so customers do not need to email to ask where their parcel is.</li>
+<li><strong>Returns and exchanges.</strong> A simple way to start a return or see how, linked to your returns policy.</li>
+<li><strong>Reorder.</strong> A quick way to buy the same items again, especially useful for consumables.</li>
+<li><strong>Saved addresses.</strong> Delivery and billing addresses customers can edit.</li>
+<li><strong>Account details.</strong> Name, email, password and communication preferences.</li>
+<li><strong>Invoices or receipts.</strong> Downloadable where customers might need them, particularly for business buyers.</li>
+</ul>
+<p>Depending on your shop, you might also show subscription management, loyalty points, saved payment methods handled by your payment provider, or trade pricing. Only add features you will support properly. An empty loyalty section or broken returns link damages trust.</p>
+<p>Clear returns information matters inside and outside the account area. Our <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages guide</a> covers how to present policies, and our <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions guide</a> covers recurring orders.</p>
+
+<h2>Designing the dashboard</h2>
+<p>Keep the account area tidy and easy to scan. Some practical points:</p>
+<ul>
+<li>Show the most recent order and its status near the top.</li>
+<li>Use plain labels such as "Orders", "Addresses" and "Account details".</li>
+<li>Make sure the layout works on mobile, where many customers check orders.</li>
+<li>Keep consistent branding so the account area feels part of the shop, not a bolted-on system.</li>
+<li>Offer a clear route to customer service if something is wrong.</li>
+<li>Include an obvious sign-out link.</li>
+</ul>
+<p>Test the account area as a real customer would: place an order, track it, start a return, change an address. Small gaps become obvious quickly.</p>
+
+<h2>Wishlists: what they are for</h2>
+<p>Wishlists, sometimes called saved items or favourites, let shoppers keep products they are interested in without adding them to the basket. They can help with:</p>
+<ul>
+<li>Considered purchases, where people compare options over days or weeks.</li>
+<li>Gift ideas, when a shopper wants to share a list with friends or family.</li>
+<li>Returning visits, giving people a quick way back to products they liked.</li>
+<li>Understanding demand, by showing which products are being saved.</li>
+</ul>
+<p>Not every shop needs one. If most of your purchases are quick, low-cost and repeat, a wishlist may add clutter without much value. If you sell higher-value or gift-friendly products, it is often worth considering.</p>
+
+<h2>Designing wishlists people use</h2>
+<p>A wishlist only helps if it is easy to use. Good practice includes:</p>
+<ul>
+<li><strong>Visible save buttons.</strong> A heart or bookmark icon on product and category pages, with a text label or accessible name so its purpose is clear.</li>
+<li><strong>Clear feedback.</strong> A visible change when an item is saved, and an easy way to remove it.</li>
+<li><strong>Saving without an account, at first.</strong> Letting guests save items in their browser, then prompting them to sign in or create an account to keep the list across devices.</li>
+<li><strong>Variant awareness.</strong> Remembering the chosen size or colour where relevant.</li>
+<li><strong>Stock and price information.</strong> Showing whether saved items are still available and their current price.</li>
+<li><strong>Easy move to basket.</strong> One action to add a saved item to the basket.</li>
+<li><strong>Sharing options.</strong> A shareable link for gift lists, if that suits your products.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles guide</a> covers how options affect product pages and saved items.</p>
+
+<h2>Connecting wishlists and email</h2>
+<p>Wishlists can feed useful, relevant emails, such as a reminder when a saved item is back in stock or a note when it drops in price. Used thoughtfully, these messages can be genuinely helpful. Used carelessly, they feel intrusive.</p>
+<p>Make sure any marketing emails based on saved items are covered by appropriate consent, and let people control what they receive. UK rules on electronic marketing and data protection apply, and the details depend on your circumstances, so check current ICO guidance or take legal advice. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> explains how these flows fit into a wider email programme.</p>
+
+<h2>Privacy and security</h2>
+<p>Customer accounts store personal data, including names, addresses, order histories and contact preferences. That brings responsibilities. Consider:</p>
+<ul>
+<li>Collecting only the information you genuinely need.</li>
+<li>Explaining in your privacy notice how account data is used.</li>
+<li>Letting customers update their details and request deletion of their account, in line with your obligations.</li>
+<li>Using HTTPS throughout, which most platforms provide by default.</li>
+<li>Leaving card storage to your payment provider rather than storing card details yourself.</li>
+<li>Keeping platforms, themes, apps and plugins up to date, particularly on self-hosted stores.</li>
+</ul>
+<p>UK data protection law sets out rights and duties around personal data, and the specifics depend on your situation. This guide is not legal advice. For self-hosted shops, our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers the basics.</p>
+
+<h2>Encouraging account creation without pressure</h2>
+<p>If accounts help your customers, make the benefits clear rather than forcing sign-up. Explain what an account offers, such as faster checkout, order tracking or saved items. The order confirmation page is a natural place to invite a guest to create an account, as most details are already known. Avoid pre-ticked marketing consent boxes or bundling marketing sign-up into account creation without a clear choice.</p>
+
+<h2>Measuring success</h2>
+<p>Track how these features are used so you can improve them. Useful questions include:</p>
+<ul>
+<li>What proportion of orders come from signed-in customers versus guests?</li>
+<li>How often do customers use reorder, tracking or returns from their account?</li>
+<li>How many items are saved to wishlists, and how many of those are later bought?</li>
+<li>Do customer service enquiries about order status fall after improving the account area?</li>
+</ul>
+<p>Analytics events can capture much of this. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to track key actions.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Forcing account creation before checkout.</li>
+<li>Hiding the sign-in link or making password reset unreliable.</li>
+<li>Leaving account pages unstyled or broken on mobile.</li>
+<li>Adding wishlist buttons with no clear label or feedback.</li>
+<li>Losing saved items when a guest signs in.</li>
+<li>Sending wishlist emails without proper consent.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK online shops on Shopify and WooCommerce. We can help you plan checkout and account flows, design account and wishlist pages that work on mobile, and set up tracking to see how customers use them, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, read our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I offer guest checkout?</h3>
+<p>For most shops, yes. Forcing account creation before purchase tends to put first-time buyers off. You can invite guests to create an account after ordering.</p>
+<h3>What should a customer account page include?</h3>
+<p>Order history, tracking, returns, saved addresses and account details cover what most customers need. Add other features only if you will support them.</p>
+<h3>Do I need a wishlist on my online shop?</h3>
+<p>Not always. Wishlists suit considered or gift purchases. For quick, repeat purchases, they may add little value.</p>
+<h3>Can guests use a wishlist?</h3>
+<p>Many setups let guests save items in their browser, then prompt them to sign in to keep the list across devices.</p>
+<h3>Can I send emails about wishlist items?</h3>
+<p>Back-in-stock or price-drop emails can be helpful, but marketing emails need appropriate consent. Check current guidance or take legal advice.</p>
+<h3>Do Shopify and WooCommerce include customer accounts?</h3>
+<p>Both support customer accounts, with different options for sign-in and customisation. Wishlists usually need an app, plugin or custom development.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-gift-cards-and-vouchers',
+    seoTitle: 'Ecommerce Gift Cards and Vouchers: A UK Guide',
+    title: 'Ecommerce Gift Cards and Vouchers: How to Sell Them Well Online',
+    description: 'Selling gift cards and vouchers online: digital vs physical, product page design, delivery, redemption, expiry, VAT and fraud points for UK ecommerce stores.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-website-design-uk/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Gift cards and vouchers are a natural fit for many online shops. They help customers who want to give a present but are unsure what to choose, they can bring new people to your store through the recipient, and they are especially popular around Christmas, birthdays and other occasions. Yet many shops treat them as an afterthought: a plain product with a generic image, unclear terms and a confusing redemption process.</p>
+<p>This guide is for UK ecommerce owners thinking about adding gift cards or improving the ones they already sell. It covers the main types, how to design the product page, delivery and redemption, terms and expiry, VAT and accounting points to check, fraud prevention and how to promote gift cards sensibly.</p>
+
+<h2>Gift cards versus discount codes</h2>
+<p>It helps to be clear on terms, as people use them loosely:</p>
+<ul>
+<li><strong>Gift cards or gift vouchers</strong> are bought with money and hold a stored value that the recipient spends in your shop.</li>
+<li><strong>Discount codes or promotional vouchers</strong> are given away to reduce the price of an order, usually as a marketing tactic.</li>
+</ul>
+<p>This guide focuses on gift cards that customers pay for. The distinction matters because the two are often treated differently for accounting and tax purposes, and customers expect different things from them.</p>
+
+<h2>Digital, physical or both?</h2>
+<p>Most online shops start with digital gift cards, delivered by email. They are quick to set up, cost little to fulfil and suit last-minute buyers. Physical cards, posted in a card or envelope, appeal to people who want something to wrap and hand over.</p>
+<p>Consider:</p>
+<ul>
+<li><strong>Digital gift cards.</strong> Instant or scheduled delivery, no postage, good for late shoppers.</li>
+<li><strong>Physical gift cards.</strong> A tangible present, but with printing, packaging and postage to handle, plus delivery cut-off dates.</li>
+<li><strong>Experience or service vouchers.</strong> For businesses selling services, such as a treatment or a class, rather than products.</li>
+</ul>
+<p>Shopify includes gift card functionality on its plans, and WooCommerce can sell gift cards through extensions or custom development. The best setup depends on your platform, how you want cards to look and how they connect with your point-of-sale system if you also sell in person.</p>
+
+<h2>Designing the gift card product page</h2>
+<p>A gift card is a product, so its page should be as considered as any other. Include:</p>
+<ul>
+<li><strong>An attractive image.</strong> A designed card that reflects your brand, rather than a generic placeholder.</li>
+<li><strong>Clear value options.</strong> A sensible range of amounts, and a custom amount option if your platform supports it.</li>
+<li><strong>Recipient details.</strong> Fields for the recipient's name and email, plus a personal message.</li>
+<li><strong>Delivery date.</strong> The option to schedule delivery for a birthday or other date, where possible.</li>
+<li><strong>How it works.</strong> A short explanation of how the recipient receives and spends the card.</li>
+<li><strong>Key terms.</strong> Expiry, where it can be used, and whether it can be used alongside other offers, with a link to full terms.</li>
+</ul>
+<p>Make it obvious whether the card is digital or physical, and for physical cards, show delivery options and cut-off dates. Our <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions guide</a> covers writing clear product copy.</p>
+
+<h2>The recipient's experience</h2>
+<p>The person receiving the gift card may never have heard of your shop. Their first impression matters. A good gift card email:</p>
+<ul>
+<li>Clearly shows who sent it and includes their message.</li>
+<li>Displays the value and the code prominently.</li>
+<li>Explains how to spend it, with a link to the shop.</li>
+<li>States any expiry date and links to terms.</li>
+<li>Looks on-brand and works on mobile.</li>
+</ul>
+<p>Test the email by sending gift cards to yourself. Check it does not land in spam, that the code works and that the link takes the recipient somewhere helpful, such as your homepage or a popular collection.</p>
+
+<h2>Redemption and balance checking</h2>
+<p>Spending a gift card should be effortless. Make sure:</p>
+<ul>
+<li>There is a clear place to enter the code at checkout.</li>
+<li>Partial use is supported, with the remaining balance carried over, if your setup allows.</li>
+<li>Customers can check their balance, either through a dedicated page or at checkout.</li>
+<li>Gift cards can be combined with another payment method if the order exceeds the balance.</li>
+<li>If you have physical shops, cards work in-store as well as online, or the terms say clearly if they do not.</li>
+</ul>
+<p>Confusion at checkout creates customer service work and can leave recipients with a poor view of your shop.</p>
+
+<h2>Terms, expiry and refunds</h2>
+<p>Write clear, fair terms for gift cards and make them easy to find. Points to cover usually include:</p>
+<ul>
+<li>How long the card is valid.</li>
+<li>Where it can be spent.</li>
+<li>Whether it can be exchanged for cash (typically not).</li>
+<li>What happens if the card is lost or the code is shared.</li>
+<li>Whether it can be used with promotions.</li>
+<li>What happens to refunds on items bought with a gift card.</li>
+</ul>
+<p>Consumer protection law applies to how gift cards are sold and described, and expiry periods should be reasonable and clearly communicated. Requirements can change and depend on your circumstances, so take legal advice when setting terms. This guide is not legal advice.</p>
+<p>Our <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages guide</a> covers how to present policies clearly.</p>
+
+<h2>VAT and accounting points to check</h2>
+<p>Gift cards can raise VAT and accounting questions. In the UK, the VAT treatment of vouchers depends on how they are classified, broadly whether they can only be used for one type of goods or service with a known VAT rate, or for a range of items. That affects when VAT is accounted for. Unredeemed balances and how you record gift card liabilities also need thought.</p>
+<p>These rules are technical and can change, so speak to your accountant or check current HMRC guidance before launching gift cards. Do not rely on this guide for tax decisions.</p>
+
+<h2>Preventing fraud</h2>
+<p>Gift cards can attract fraudsters because they are easy to resell and hard to trace. Sensible precautions include:</p>
+<ul>
+<li>Using your platform's or payment provider's fraud screening on gift card orders.</li>
+<li>Keeping an eye on unusual patterns, such as many high-value cards bought quickly.</li>
+<li>Using long, random codes that are hard to guess.</li>
+<li>Limiting repeated failed attempts to check balances or redeem codes, where your platform allows.</li>
+<li>Delivering to the email address provided and being cautious about changes after purchase.</li>
+</ul>
+<p>Speak to your platform or payment provider about the controls available to you.</p>
+
+<h2>Promoting gift cards</h2>
+<p>Gift cards are easy to forget unless you remind people. Ideas include:</p>
+<ul>
+<li>Adding a gift card link to your main navigation or footer, especially around key occasions.</li>
+<li>Featuring gift cards in gift guides and seasonal collections.</li>
+<li>Reminding email subscribers when physical delivery cut-offs pass that digital cards are still available.</li>
+<li>Showing a gift card option on product pages for shoppers unsure about sizes or preferences.</li>
+<li>Offering gift cards for corporate gifting, if that suits your audience.</li>
+</ul>
+<p>Our <a href="/blog/website-navigation-structure/">website navigation guide</a> covers where to place links like these, and our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers seasonal campaigns.</p>
+
+<h2>SEO for gift card pages</h2>
+<p>People search for gift cards from specific shops and for gift ideas in general. Give your gift card page a clear, descriptive title, useful content explaining how it works and a clean URL. Link to it from relevant pages. Our <a href="/blog/product-page-seo-uk/">product page SEO guide</a> covers the basics.</p>
+
+<h2>Measuring performance</h2>
+<p>Track gift card sales over time, especially in peak seasons. Look at how many cards are redeemed, how many recipients become repeat customers and whether recipients spend more than the card value. These insights help you decide how prominently to feature gift cards.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Using a generic image and vague product copy.</li>
+<li>Hiding terms or failing to state expiry clearly.</li>
+<li>Making redemption confusing at checkout.</li>
+<li>Forgetting that the recipient may be new to your shop.</li>
+<li>Launching without checking VAT treatment with an accountant.</li>
+<li>Ignoring fraud screening on gift card orders.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK ecommerce businesses on Shopify and WooCommerce. We can help you set up gift cards, design the product page and recipient email, improve redemption at checkout and place gift cards sensibly in your navigation and campaigns, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I sell gift cards on Shopify?</h3>
+<p>Yes. Shopify includes gift card functionality on its plans. Check your plan and settings for the options available.</p>
+<h3>Can WooCommerce sell gift cards?</h3>
+<p>Yes, usually through an extension or custom development, as gift cards are not part of the core plugin.</p>
+<h3>Should gift cards expire?</h3>
+<p>Many shops set an expiry period. Make it reasonable and clearly stated, and take legal advice on your terms.</p>
+<h3>How is VAT handled on gift cards?</h3>
+<p>It depends on how the voucher is classified. Check current HMRC guidance or speak to your accountant.</p>
+<h3>Should I offer digital or physical gift cards?</h3>
+<p>Digital cards are simpler and suit late shoppers. Physical cards suit people who want something to wrap. Many shops offer both.</p>
+<h3>How do I stop gift card fraud?</h3>
+<p>Use fraud screening, monitor unusual orders, use long random codes and speak to your platform or payment provider about available controls.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-product-reviews',
+    seoTitle: 'Product Reviews on Ecommerce Pages: A UK Guide',
+    title: 'Product Reviews on Ecommerce Pages: How to Collect and Display Them Well',
+    description: 'How to collect and display product reviews on your online shop: asking customers, page design, negative reviews, moderation, schema and UK consumer rules.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/product-page-seo-uk/', '/blog/website-trust-signals/', '/pricing/'],
+    body: `
+<p>Online shoppers cannot pick up a product, try it on or ask a shop assistant what other people think. Product reviews fill that gap. They answer questions your description might not, reassure hesitant buyers and highlight details only real customers notice, such as whether a jumper runs small or a lamp is brighter than expected. For the shop, reviews provide feedback on products, customer service and delivery.</p>
+<p>This guide is for UK ecommerce owners and teams who want to collect and display product reviews properly. It covers why reviews matter, how to ask for them, how to design the review section on product pages, handling negative reviews, moderation, structured data and the legal points to keep in mind. It focuses on reviews of individual products on your own site, rather than testimonials about your business as a whole.</p>
+
+<h2>Product reviews versus testimonials</h2>
+<p>It is worth separating two related things:</p>
+<ul>
+<li><strong>Product reviews</strong> are written by customers about a specific item they bought, usually with a star rating, and appear on that product's page.</li>
+<li><strong>Testimonials</strong> are comments about your business more broadly, often selected and displayed on a homepage or dedicated page.</li>
+</ul>
+<p>Both can build trust, but product reviews carry particular weight because shoppers expect to see a full, unfiltered picture. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> covers the other side, and our <a href="/blog/website-trust-signals/">trust signals guide</a> looks at the bigger picture.</p>
+
+<h2>Why product reviews matter</h2>
+<p>Reviews help shoppers in practical ways:</p>
+<ul>
+<li>They answer questions about fit, quality, size and real-world use.</li>
+<li>They reassure first-time buyers who have not used your shop before.</li>
+<li>They show that real people buy and use your products.</li>
+<li>They can surface issues you were not aware of, from a confusing instruction leaflet to packaging that damages easily.</li>
+</ul>
+<p>A product with a handful of honest, detailed reviews, including some mixed ones, often feels more credible than one with a perfect score.</p>
+
+<h2>Choosing a review system</h2>
+<p>Shopify and WooCommerce both support product reviews. WooCommerce includes basic reviews in the core plugin, while Shopify stores typically use an app. Many dedicated review tools add features such as photo uploads, review request emails and syndication to other channels.</p>
+<p>When choosing, consider:</p>
+<ul>
+<li>How reviews display and whether you can control the design.</li>
+<li>Whether reviews load quickly and do not slow your product pages.</li>
+<li>Whether review content is visible to search engines.</li>
+<li>Support for photos, questions and answers, and verified buyer labels.</li>
+<li>Moderation tools and how they handle negative reviews.</li>
+<li>Whether you can export your reviews if you change provider later.</li>
+</ul>
+<p>Fewer, well-chosen tools are usually better than stacking several overlapping apps.</p>
+
+<h2>Asking customers for reviews</h2>
+<p>Most happy customers do not leave reviews unless asked. A well-timed request makes a big difference.</p>
+<ul>
+<li><strong>Time it after the product arrives.</strong> Asking before delivery makes little sense. Allow time for the customer to use the product, which varies by item.</li>
+<li><strong>Keep it simple.</strong> Link directly to a short review form, ideally pre-filled with the product.</li>
+<li><strong>Ask for specifics.</strong> Prompts such as "How was the fit?" or "What did you use it for?" encourage more useful reviews.</li>
+<li><strong>Invite photos.</strong> Customer photos can be especially helpful for fashion, homeware and gifts.</li>
+<li><strong>Follow up once.</strong> A single reminder is reasonable; repeated chasing is not.</li>
+</ul>
+<p>Ask all customers, not just those you expect to be happy. Selectively inviting only satisfied customers to review can give a misleading picture. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers post-purchase emails in more detail.</p>
+
+<h2>Incentives</h2>
+<p>Offering a reward for leaving a review is a grey area that needs care. If you offer any incentive, it should not depend on the review being positive, and incentivised reviews should be clearly disclosed. Some platforms and search engines have their own rules about incentivised reviews too. UK consumer protection rules on fake and misleading reviews have tightened, so take legal advice before running any incentive scheme. This guide is not legal advice.</p>
+
+<h2>Designing the review section</h2>
+<p>Reviews should be easy to find and easy to scan. Good practice on product pages includes:</p>
+<ul>
+<li><strong>A summary near the product title.</strong> Average star rating and number of reviews, linking down to the full reviews.</li>
+<li><strong>A rating breakdown.</strong> How many reviews gave each star rating, so shoppers can see the spread.</li>
+<li><strong>Sorting and filtering.</strong> Options such as most recent, highest rated, lowest rated and with photos.</li>
+<li><strong>Useful attributes.</strong> For some products, ratings for fit, comfort or quality add helpful detail.</li>
+<li><strong>Verified buyer labels.</strong> Where your system can confirm the reviewer bought the product.</li>
+<li><strong>Readable layout.</strong> Clear dates, names or initials, and comfortable text sizes on mobile.</li>
+<li><strong>Accessible star ratings.</strong> Ratings should have a text equivalent, such as "4 out of 5 stars", so screen reader users get the same information.</li>
+</ul>
+<p>If a product has no reviews yet, avoid an empty, awkward section. A simple invitation to be the first to review is fine. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> covers the rest of the product page.</p>
+
+<h2>Handling negative reviews</h2>
+<p>Negative reviews are inevitable, and handled well they can actually build trust. Shoppers often read the low ratings to see what could go wrong and how the shop responds.</p>
+<ul>
+<li><strong>Do not hide or delete genuine negative reviews</strong> simply because they are unfavourable.</li>
+<li><strong>Respond calmly and helpfully,</strong> acknowledging the problem and explaining what you are doing about it.</li>
+<li><strong>Take conversations about personal details offline,</strong> inviting the customer to contact you directly.</li>
+<li><strong>Learn from patterns.</strong> If several reviews mention the same issue, update the product, description or packaging.</li>
+</ul>
+<p>Sometimes a negative review reveals that the product description was unclear. Fixing the description can prevent future disappointment.</p>
+
+<h2>Moderation</h2>
+<p>You will need a moderation policy. It is reasonable to remove reviews that are spam, offensive, contain personal information, are clearly about a different product or are fake. It is not reasonable to remove reviews simply because they are critical. Publish a short review policy explaining what you will and will not publish, and apply it consistently.</p>
+
+<h2>Fake reviews and UK law</h2>
+<p>Writing fake reviews, commissioning them, or presenting reviews in a misleading way can breach UK consumer protection law. The rules have been strengthened in recent years, with the Competition and Markets Authority given greater enforcement powers, and businesses are expected to take reasonable steps to prevent fake reviews and misleading presentation. Never post reviews pretending to be customers, and be careful with practices such as merging reviews across different products or suppressing negative ones. The specifics are detailed and evolving, so check current CMA guidance or take legal advice for your situation.</p>
+
+<h2>Reviews and SEO</h2>
+<p>Customer reviews add fresh, relevant text to product pages, often using the words real shoppers use. Product structured data can include review and rating information, which may make pages eligible for star ratings in search results, although Google decides whether to show them. Make sure structured data matches the reviews visible on the page and follows Google's guidelines; marking up reviews you do not display, or self-written reviews, can cause problems.</p>
+<p>Check that your review system outputs content search engines can see, rather than loading it in a way that hides it. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> and <a href="/blog/product-page-seo-uk/">product page SEO guide</a> cover the technical side.</p>
+
+<h2>Measuring the impact</h2>
+<p>Track how many customers leave reviews after being asked, how review counts and ratings change over time, and how products with reviews perform compared with those without. Read the reviews themselves too; they are some of the most direct feedback you will get.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Never asking customers for reviews.</li>
+<li>Asking before the product has arrived.</li>
+<li>Hiding or deleting genuine negative reviews.</li>
+<li>Offering rewards only for positive reviews.</li>
+<li>Using star graphics with no text alternative.</li>
+<li>Marking up reviews in structured data that are not shown on the page.</li>
+<li>Choosing a review tool that slows product pages noticeably.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK online shops on Shopify and WooCommerce. We can help you choose and set up a review system, design the review section on product pages, plan post-purchase review requests and check that structured data matches what customers see, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I get more product reviews?</h3>
+<p>Ask every customer after their product has arrived and had time to be used, with a simple link to a short form and one polite reminder.</p>
+<h3>Should I delete negative reviews?</h3>
+<p>No, not if they are genuine. Respond helpfully instead. Removing reviews only because they are critical can mislead shoppers.</p>
+<h3>Can I offer a discount for reviews?</h3>
+<p>Incentives need care: they must not depend on a positive review and should be disclosed. Take legal advice before running any scheme.</p>
+<h3>Will reviews show stars in Google?</h3>
+<p>Structured data can make pages eligible, but Google decides whether to show star ratings. Make sure markup matches visible reviews.</p>
+<h3>Does WooCommerce include product reviews?</h3>
+<p>Yes, basic reviews are built in. Extensions can add features such as photos and review request emails.</p>
+<h3>What is the difference between reviews and testimonials?</h3>
+<p>Product reviews are about specific items and appear on product pages. Testimonials are about your business generally.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-stock-availability-display',
+    seoTitle: 'Ecommerce Stock Display: Showing Availability Well',
+    title: 'Ecommerce Stock and Inventory Display: How to Show Availability Honestly',
+    description: 'How to display stock on an online shop: in-stock labels, low stock, out-of-stock pages, pre-orders, back-in-stock alerts and SEO, for UK ecommerce stores.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-category-page-design/', '/blog/product-page-seo-uk/', '/pricing/'],
+    body: `
+<p>Few things frustrate an online shopper more than finding the perfect product, choosing a size and discovering at checkout that it is unavailable. Or worse, paying for an item and receiving an email days later saying it was never in stock. How you display stock and availability affects trust, conversions, customer service workload and even search visibility. Yet it is often left to whatever a theme does by default.</p>
+<p>This guide is for UK ecommerce owners and teams who want to show stock information clearly and honestly. It covers why accuracy matters, how to present availability on product and category pages, how to handle out-of-stock items, pre-orders and back-in-stock alerts, and the SEO points to consider.</p>
+
+<h2>Why stock display matters</h2>
+<p>Stock information answers a simple question: can I have this, and when? Getting it right helps in several ways:</p>
+<ul>
+<li>Shoppers can make decisions with confidence.</li>
+<li>Fewer orders are cancelled because items were not actually available.</li>
+<li>Customer service spends less time answering availability questions.</li>
+<li>Shoppers trust your shop more when information proves accurate.</li>
+</ul>
+<p>Getting it wrong has the opposite effect, and repeated disappointment pushes customers to shop elsewhere.</p>
+
+<h2>Start with accurate inventory</h2>
+<p>No amount of design can fix inaccurate stock data. Before working on how availability looks, make sure the numbers behind it are reliable. That means:</p>
+<ul>
+<li>Tracking inventory in your ecommerce platform, rather than switching it off.</li>
+<li>Keeping stock in sync if you sell on several channels, such as your own site, marketplaces and a physical shop.</li>
+<li>Deciding how to handle stock held at suppliers or made to order.</li>
+<li>Agreeing who updates stock when deliveries arrive or returns come back.</li>
+</ul>
+<p>Shopify and WooCommerce both include inventory tracking, and many businesses connect them to stock or order management systems. The right setup depends on your volume, channels and warehouse arrangements.</p>
+
+<h2>Showing availability on product pages</h2>
+<p>The product page is where availability matters most. Good practice includes:</p>
+<ul>
+<li><strong>A clear status near the price and add-to-basket button.</strong> Simple labels such as "In stock", "Low stock", "Out of stock" or "Available to pre-order".</li>
+<li><strong>Variant-level availability.</strong> If a product comes in sizes or colours, show which options are available as people select them, rather than letting them choose an unavailable size and only finding out later.</li>
+<li><strong>Delivery expectations.</strong> Where helpful, pair stock status with delivery information, such as when an order is likely to be dispatched.</li>
+<li><strong>Accessible design.</strong> Do not rely on colour alone. A green dot means nothing to someone who cannot distinguish colours or uses a screen reader. Always include text.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-product-variants-and-bundles/">product variants guide</a> covers how to present options so unavailable combinations are clear.</p>
+
+<h2>Low-stock messages and honesty</h2>
+<p>"Only a few left" messages can help shoppers who would be disappointed to miss out. But they must be true. Displaying fake scarcity or false countdowns to push people into buying is a misleading practice that can damage your reputation, and UK consumer protection rules prohibit misleading commercial practices. The Competition and Markets Authority has paid close attention to pressure-selling tactics online in recent years.</p>
+<p>If you show low-stock messages:</p>
+<ul>
+<li>Base them on real inventory data.</li>
+<li>Choose a sensible threshold that reflects your typical sales.</li>
+<li>Avoid combining them with other pressure tactics.</li>
+<li>Consider whether exact numbers or a general message suits you better.</li>
+</ul>
+<p>If in doubt about whether a practice is compliant, take legal advice. This guide is not legal advice.</p>
+
+<h2>Availability on category pages</h2>
+<p>Category and search results pages help shoppers narrow down choices, so availability information can save time here too. Options include:</p>
+<ul>
+<li>Showing an "Out of stock" label on product cards.</li>
+<li>Moving unavailable products lower in the default sort order.</li>
+<li>Offering an "In stock only" filter.</li>
+<li>Showing available sizes on hover or within the card, for fashion and footwear shops.</li>
+</ul>
+<p>Avoid filling the top of a category with products people cannot buy. Our <a href="/blog/ecommerce-category-page-design/">category page design guide</a> and <a href="/blog/ecommerce-site-search/">site search guide</a> cover these pages in more depth.</p>
+
+<h2>Handling out-of-stock products</h2>
+<p>When a product sells out, it can be tempting to hide or delete it. That is not always the best choice. Consider the situation:</p>
+<ul>
+<li><strong>Temporarily out of stock.</strong> Keep the page live, mark it clearly as out of stock, give an expected return date if you know one, offer a back-in-stock alert and suggest similar products.</li>
+<li><strong>Permanently discontinued with a close replacement.</strong> Consider redirecting the old URL to the replacement product, or keep the page with a clear message and prominent link to the new item.</li>
+<li><strong>Permanently discontinued with no replacement.</strong> Depending on the page's traffic and links, you might keep an informative page with alternatives, redirect to a relevant category, or remove it. Removing a page that attracted visitors and links without any redirect throws that value away.</li>
+</ul>
+<p>Whatever you choose, avoid leaving visitors at a dead end. Our <a href="/blog/404-page-design/">404 page design guide</a> covers what happens when pages do go missing.</p>
+
+<h2>Back-in-stock alerts</h2>
+<p>Back-in-stock alerts let shoppers ask to be notified when an item returns. They capture demand you would otherwise lose and give you useful information about which products to reorder.</p>
+<p>Keep the sign-up simple: an email field, the right variant pre-selected, and a clear explanation of what people are signing up for. Send the alert promptly when stock returns, with a direct link to the product. Be clear whether signing up for an alert also means joining your marketing list, and make sure you have appropriate consent for any marketing. Check current ICO guidance or take legal advice if unsure.</p>
+
+<h2>Pre-orders and made-to-order items</h2>
+<p>Pre-orders let customers buy products before they are in stock. They suit new launches, limited runs and items with a known arrival date. If you take pre-orders:</p>
+<ul>
+<li>Label them clearly on the product page and in the basket.</li>
+<li>State the expected dispatch date and keep customers updated if it changes.</li>
+<li>Be clear whether payment is taken now or later.</li>
+<li>Explain what happens if the customer wants to cancel.</li>
+<li>Consider how pre-orders mixed with in-stock items will be shipped.</li>
+</ul>
+<p>For made-to-order products, explain lead times clearly so customers know what to expect. Consumer rights around delivery timescales and cancellations apply, so make sure your terms are accurate.</p>
+
+<h2>Stock information and SEO</h2>
+<p>Availability affects search too. Product structured data can include availability, which helps search engines understand whether an item is in stock, and Google uses availability information in shopping features. Keep this data accurate and in sync with what the page shows.</p>
+<p>Out-of-stock pages that remain live with helpful content can continue to attract visitors and point them to alternatives. Mass deleting sold-out products can create lots of broken links and lost rankings. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a>, <a href="/blog/product-page-seo-uk/">product page SEO guide</a> and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> cover these topics further.</p>
+
+<h2>Measuring the impact</h2>
+<p>Useful things to monitor include how many orders are cancelled due to stock problems, how many shoppers sign up for back-in-stock alerts and how many of them buy, customer service enquiries about availability, and traffic to out-of-stock pages. These insights help you improve both the display and your buying decisions.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Turning off inventory tracking and selling items you do not have.</li>
+<li>Showing fake low-stock messages or countdowns.</li>
+<li>Letting shoppers select unavailable variants without warning.</li>
+<li>Relying on colour alone to show stock status.</li>
+<li>Deleting sold-out products without redirects.</li>
+<li>Filling category pages with items that cannot be bought.</li>
+<li>Promising pre-order dates you cannot meet.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK online shops on Shopify and WooCommerce. We can help you review how stock is displayed on product and category pages, plan how to handle out-of-stock and discontinued products, set up back-in-stock alerts and keep product structured data consistent, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I show exact stock numbers?</h3>
+<p>It depends on your products and audience. Some shops show exact numbers when stock is low; others prefer general messages. Either way, keep it accurate.</p>
+<h3>Should I delete out-of-stock products?</h3>
+<p>Usually not if they are coming back. Keep the page live with a clear message, alternatives and a back-in-stock alert. For discontinued items, consider a redirect.</p>
+<h3>Are low-stock messages allowed?</h3>
+<p>Accurate ones generally are. Fake scarcity can be misleading and may breach consumer protection rules. Take legal advice if unsure.</p>
+<h3>Do back-in-stock alerts need consent?</h3>
+<p>Sending a requested alert is different from marketing. If you plan to add people to marketing emails, make sure you have appropriate consent.</p>
+<h3>Does stock status affect SEO?</h3>
+<p>Availability can appear in structured data and shopping features, and how you handle sold-out pages can affect rankings and links.</p>
+<h3>How do I keep stock in sync across channels?</h3>
+<p>Use your platform's inventory tools and, where needed, a connected stock or order management system so every channel draws on the same numbers.</p>
+`,
+  },
+  {
+    slug: 'website-pop-ups-done-well',
+    seoTitle: 'Website Pop-Ups Done Well: A Practical UK Guide',
+    title: 'Website Pop-Ups Done Well: How to Use Them Without Annoying Visitors',
+    description: 'How to use website pop-ups well: timing, triggers, offers, mobile design, accessibility and testing, so UK sites capture interest without driving visitors away.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-email-marketing-uk/', '/blog/ecommerce-cro-uk/', '/pricing/'],
+    body: `
+<p>Few website features divide opinion like pop-ups. Many people say they hate them, yet businesses keep using them because a well-placed prompt can grow an email list, highlight a timely offer or point visitors towards something they were looking for. The difference between a pop-up that helps and one that drives people away usually comes down to a handful of decisions: what it offers, when it appears, how often it returns and how easy it is to close.</p>
+<p>This guide is for UK business owners and ecommerce teams who want to use pop-ups, slide-ins and banners in a way that respects visitors. It covers the main types of overlay, how to choose an offer, timing and targeting, mobile and accessibility considerations, privacy points and how to judge whether a pop-up is actually worth keeping.</p>
+
+<h2>What counts as a pop-up?</h2>
+<p>The word covers several different patterns, and each feels different to a visitor:</p>
+<ul>
+<li><strong>Modal pop-ups.</strong> A box that appears over the page and dims the content behind it until the visitor acts or closes it. These are the most noticeable and the most intrusive.</li>
+<li><strong>Slide-ins.</strong> A smaller panel that slides in from a corner without blocking the main content.</li>
+<li><strong>Top or bottom bars.</strong> A thin strip announcing a message, such as a delivery cut-off or a sale.</li>
+<li><strong>Full-screen takeovers.</strong> An overlay covering the whole screen. These are hard to justify for most sites, especially on mobile.</li>
+<li><strong>Inline prompts.</strong> A sign-up box placed within the page content. Not technically a pop-up, but often a calmer alternative.</li>
+</ul>
+<p>Before choosing a format, ask how important the message really is. A small, persistent bar may do the job without interrupting anyone.</p>
+
+<h2>Start with the purpose</h2>
+<p>A pop-up should exist because it helps the visitor and the business at the same time. Common, legitimate purposes include:</p>
+<ul>
+<li>Inviting visitors to join an email list in exchange for something useful.</li>
+<li>Announcing time-sensitive information, such as holiday delivery dates or a temporary closure.</li>
+<li>Highlighting a current promotion that applies to what the visitor is browsing.</li>
+<li>Offering help, such as a link to a size guide or a contact option, when someone seems stuck.</li>
+<li>Collecting quick feedback after a visitor has completed an action.</li>
+</ul>
+<p>If you cannot state the purpose in a sentence, the pop-up probably should not exist. Running several at once, each with a different goal, is a common way to make a site feel chaotic.</p>
+
+<h2>Make the offer worth it</h2>
+<p>A box that simply says "Sign up to our newsletter" gives the visitor little reason to act. Think about what your audience would actually value. For an online shop that might be early access to new products, a buying guide, or a first-order discount if that suits your margins. For a service business it could be a useful checklist, a guide or an invitation to a consultation.</p>
+<p>Be specific and honest about what people will receive and how often you will email them. Do not promise something you cannot deliver, and make sure any discount code works and has clear terms. If you use email sign-ups, our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers what to do with those subscribers once you have them.</p>
+
+<h2>Timing and triggers</h2>
+<p>When a pop-up appears matters as much as what it says. Showing a sign-up box the instant someone lands, before they have seen a single product, rarely feels welcome. Common triggers include:</p>
+<ul>
+<li><strong>Time on page.</strong> Waiting until the visitor has had a chance to look around.</li>
+<li><strong>Scroll depth.</strong> Appearing after someone has scrolled a meaningful way through an article or page.</li>
+<li><strong>Exit intent.</strong> On desktop, appearing when the cursor moves towards closing the tab. This can catch people who were leaving anyway.</li>
+<li><strong>Page-specific.</strong> Showing only on certain pages, such as a guide offer on blog posts or a delivery message on product pages.</li>
+<li><strong>Behaviour-based.</strong> Showing after a visitor has viewed several pages, suggesting genuine interest.</li>
+</ul>
+<p>There is no universal right answer. The right timing depends on your audience, your content and the offer, which is why testing matters.</p>
+
+<h2>Control frequency</h2>
+<p>Few things irritate visitors more than closing a pop-up only to see it again on the next page. Set sensible frequency rules:</p>
+<ul>
+<li>Once dismissed, do not show the same pop-up again for a reasonable period.</li>
+<li>Do not show sign-up prompts to people who have already subscribed, where your tools allow you to recognise them.</li>
+<li>Avoid showing pop-ups during checkout, when the visitor is focused on paying.</li>
+<li>Limit how many overlays any one visitor sees in a session.</li>
+</ul>
+<p>Remembering dismissals usually involves storing something in the visitor's browser, which brings in privacy considerations covered below.</p>
+
+<h2>Design for easy dismissal</h2>
+<p>A good pop-up is easy to close. That means a clearly visible close button of a decent size, the ability to close by clicking outside the box on desktop, and support for the Escape key. Avoid tiny, faint crosses tucked into a corner.</p>
+<p>Avoid manipulative wording on the decline option too. Phrases designed to make visitors feel foolish for saying no can damage how people see your brand. A simple "No thanks" is fine.</p>
+<p>Keep the content brief: a short headline, one or two lines explaining the benefit, a single field if possible and one clear button. Every extra field you ask for tends to reduce the number of people who complete it.</p>
+
+<h2>Pop-ups on mobile</h2>
+<p>Mobile screens leave little room for overlays. A box that looks modest on a laptop can cover the entire screen on a phone, making the page unusable until it is closed. Google has said for some time that intrusive interstitials which make content less accessible on mobile can affect how pages perform in search, so it is worth being cautious.</p>
+<p>On mobile, consider:</p>
+<ul>
+<li>Using a small banner or slide-in rather than a full overlay.</li>
+<li>Delaying the prompt until the visitor has engaged with the page.</li>
+<li>Making sure the close button is easy to tap and not hidden behind other elements.</li>
+<li>Checking that the pop-up does not trap scrolling or break the page layout.</li>
+</ul>
+<p>Pop-ups that are legally required, such as cookie consent, or that respond to a visitor's own action, such as clicking a button, are a different matter from promotional overlays. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers wider mobile usability.</p>
+
+<h2>Accessibility</h2>
+<p>Pop-ups can create real problems for people using keyboards or screen readers if they are not built carefully. Good practice includes:</p>
+<ul>
+<li>Moving keyboard focus into the pop-up when it opens and returning it when it closes.</li>
+<li>Keeping focus within an open modal so keyboard users do not tab into the hidden page behind it.</li>
+<li>Labelling the dialog and its close button so screen readers announce them sensibly.</li>
+<li>Ensuring good colour contrast and readable text sizes.</li>
+<li>Avoiding animations that cannot be reduced for people who prefer less motion.</li>
+</ul>
+<p>Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains these principles in more depth.</p>
+
+<h2>Privacy and consent</h2>
+<p>If your pop-up collects email addresses, you are collecting personal data. Be clear about what people are signing up for, link to your privacy notice and make it easy to unsubscribe later. UK rules on electronic marketing generally require appropriate consent for marketing emails, with some nuance for existing customers. Pop-up tools may also set cookies or similar technologies to remember dismissals and track behaviour, which can bring in consent requirements depending on what they do. These rules are nuanced, so check current guidance from the ICO or take legal advice for your situation. This guide is not legal advice.</p>
+
+<h2>Performance</h2>
+<p>Pop-up tools add scripts to your site. Some are lightweight; others load significant code on every page. Check the impact on page speed, especially on mobile, and remove tools you are no longer using. A pop-up that slows every page to capture a handful of sign-ups may not be a good trade. Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> covers how to assess this.</p>
+
+<h2>Measuring whether a pop-up is worth it</h2>
+<p>Do not judge a pop-up only by how many people fill it in. Look at the wider picture:</p>
+<ul>
+<li>How many visitors see it, and what proportion complete it?</li>
+<li>Do subscribers from the pop-up go on to open emails and buy?</li>
+<li>Has bounce rate or time on site changed on pages where it appears?</li>
+<li>Are conversions elsewhere, such as add-to-basket or enquiries, affected?</li>
+</ul>
+<p>Where possible, test variations of timing, wording and offer, and compare against a version with no pop-up at all. Set up your analytics so you can track these events properly; our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers testing more broadly.</p>
+
+<h2>Platform options</h2>
+<p>Shopify and WordPress both support pop-ups through apps, plugins or custom code, and many email marketing tools include their own sign-up forms. The right choice depends on what you need, how it integrates with your email platform, its effect on performance and how much control you have over design and accessibility. Fewer, well-chosen tools are usually better than stacking several overlapping ones.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Showing a sign-up pop-up the moment someone arrives.</li>
+<li>Running several pop-ups at once with competing messages.</li>
+<li>Making the close button hard to find or tap.</li>
+<li>Covering the whole screen on mobile.</li>
+<li>Offering something vague or unappealing.</li>
+<li>Interrupting checkout.</li>
+<li>Never reviewing whether the pop-up still earns its place.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio works remotely with UK businesses on website and ecommerce builds and improvements. We can help you decide whether a pop-up suits your goals, plan its timing and wording, design it to work on mobile and with keyboards, and set up tracking so you can judge its effect, with scope agreed with you. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do pop-ups hurt SEO?</h3>
+<p>Not automatically. Google has indicated that intrusive interstitials on mobile which block content can be a problem, so keep mobile overlays small and unobtrusive.</p>
+<h3>When should a pop-up appear?</h3>
+<p>Usually after the visitor has had a chance to engage, such as after some time on the page, a certain scroll depth or on exit intent. Test to see what suits your audience.</p>
+<h3>Should every page have a pop-up?</h3>
+<p>No. Targeting pop-ups to relevant pages and leaving key journeys such as checkout uninterrupted tends to work better.</p>
+<h3>Are exit-intent pop-ups worth using?</h3>
+<p>They can catch visitors who were leaving anyway, so they interrupt less. On mobile, exit intent is harder to detect reliably.</p>
+<h3>Do I need consent for pop-up tools?</h3>
+<p>It depends on what the tool does. If it sets non-essential cookies or similar technologies, consent rules may apply. Check current guidance or take legal advice.</p>
+<h3>Is an inline sign-up form better than a pop-up?</h3>
+<p>Inline forms are less intrusive and suit many sites well. Some businesses use both, with the pop-up shown sparingly.</p>
+`,
+  },
 ];
