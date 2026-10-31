@@ -19344,4 +19344,625 @@ module.exports = [
 <p>Leaving search engines blocked after moving from staging to live is a frequent and damaging one. Broken forms and missing redirects are also common.</p>
 `,
   },
+  {
+    slug: 'ecommerce-loyalty-programmes',
+    seoTitle: 'Ecommerce Loyalty Programmes: A Guide for Online Stores',
+    title: 'Ecommerce Loyalty Programmes: Rewarding Repeat Customers Without Eroding Margin',
+    description: 'How online stores can design a loyalty programme that suits their customers, from points and tiers to perks, plus setup, costs to weigh and pitfalls to avoid.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/ecommerce-customer-accounts-and-wishlists/', '/blog/ecommerce-email-marketing-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Winning a new customer takes effort and, often, advertising spend. Encouraging someone who has already bought to come back can be one of the most valuable things an online store does. A loyalty programme is one way to do that: a structured reason for customers to return, spend again and feel recognised for doing so.</p>
+<p>Loyalty programmes are not right for every store, though, and a poorly planned one can quietly eat into margins without changing customer behaviour much. This guide covers the main types of programme, how to decide whether one suits your business, how to design it and how to set it up on common ecommerce platforms.</p>
+
+<h2>What is an ecommerce loyalty programme?</h2>
+<p>A loyalty programme rewards customers for repeat purchases or other actions, such as creating an account, leaving a review or referring a friend. Rewards might be discounts, free delivery, early access, gifts or exclusive products. The aim is to give customers a reason to choose your store again rather than a competitor.</p>
+
+<h2>Is a loyalty programme right for your store?</h2>
+<p>Before building anything, it is worth asking a few questions:</p>
+<ul>
+<li><strong>Do customers naturally buy more than once?</strong> Stores selling consumables, such as food, beauty, pet supplies or stationery, tend to have more natural repeat purchases than stores selling items bought once in many years.</li>
+<li><strong>Can your margins support rewards?</strong> Every reward has a cost. If margins are tight, a points programme offering discounts may not be sustainable.</li>
+<li><strong>Do you have the capacity to run it?</strong> Programmes need promoting, monitoring and occasional adjustment.</li>
+<li><strong>Would something simpler work?</strong> Sometimes excellent service, a thoughtful post-purchase email sequence or a <a href="/blog/ecommerce-subscriptions-uk/">subscription option</a> does more than a formal programme.</li>
+</ul>
+<p>If customers rarely buy twice, a referral scheme or a focus on reviews and word of mouth may be a better fit than a points programme.</p>
+
+<h2>Types of loyalty programme</h2>
+<h3>Points-based programmes</h3>
+<p>Customers earn points for each purchase, and sometimes for other actions, then redeem them for discounts or rewards. Points programmes are familiar and flexible, but the value of points needs to be clear. If customers cannot easily work out what their points are worth, the motivation fades.</p>
+<h3>Tiered programmes</h3>
+<p>Customers move up levels as they spend more, unlocking better rewards at each tier. Tiers can motivate your most engaged customers and make them feel recognised, but they work best when there are enough repeat buyers to reach the higher levels.</p>
+<h3>Paid memberships</h3>
+<p>Customers pay a fee for ongoing benefits such as free delivery, member pricing or exclusive products. This can suit stores with frequent buyers, but the benefits must clearly outweigh the cost to the customer. Recurring payments also bring extra responsibilities around clear terms and easy cancellation, so check the current consumer protection requirements or take advice.</p>
+<h3>Value-based and perk programmes</h3>
+<p>Not every reward needs to be a discount. Early access to new products, invitations to events, members-only content, birthday treats, gift wrapping or donations to a cause connected with your brand can all make customers feel valued without simply cutting prices.</p>
+<h3>Referral programmes</h3>
+<p>Customers are rewarded for introducing friends, often with both sides receiving a benefit. Referral schemes can sit alongside or replace a loyalty programme, especially for stores where repeat purchases are infrequent.</p>
+
+<h2>Designing a programme that works</h2>
+<h3>Make the rewards meaningful</h3>
+<p>The reward must matter to your customers. Think about what they value: saving money, getting things first, feeling part of a community or receiving something special. Speaking to customers or surveying them can help.</p>
+<h3>Keep the rules simple</h3>
+<p>Customers should understand the programme in a sentence or two. "Earn points on every order and use them for money off your next purchase" is clear. Complicated multipliers, expiry rules and exceptions make programmes harder to trust and harder to manage.</p>
+<h3>Make early rewards reachable</h3>
+<p>If the first reward takes many purchases to reach, many customers will lose interest. A welcome reward for joining, or a first reward within reach of a typical second order, can help people see the value quickly.</p>
+<h3>Work out the costs</h3>
+<p>Before launching, model what the programme might cost. Consider the value of rewards, how many customers might redeem them, the cost of any loyalty app or plugin and the time needed to run it. Look at your margins product by product, since some items may not support discounts. Your accountant can help you consider how rewards and unredeemed points should be treated in your accounts, as the tax and accounting treatment can vary.</p>
+<h3>Write clear terms</h3>
+<p>Publish clear terms covering how rewards are earned and redeemed, whether points expire, what happens with returns and refunds and how you might change the programme. Honest, easy-to-find terms help maintain trust and reduce disputes. UK consumer protection law applies to how promotions and rewards are described, so make sure claims are accurate.</p>
+
+<h2>Setting up a loyalty programme on your platform</h2>
+<p>Shopify, WooCommerce and other ecommerce platforms support loyalty programmes through apps, plugins or custom development. When choosing an approach, consider:</p>
+<ul>
+<li>how points or rewards appear in the customer account, basket and checkout,</li>
+<li>whether rewards can be applied easily without complicated codes,</li>
+<li>how the programme connects with your email platform,</li>
+<li>the effect on page speed, since some apps add scripts to every page, and</li>
+<li>how easy it would be to change or remove later.</li>
+</ul>
+<p>Loyalty programmes usually depend on customers having accounts. Our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a> covers making accounts genuinely useful without forcing them on shoppers who prefer guest checkout.</p>
+
+<h2>Promoting the programme</h2>
+<p>A programme nobody knows about will not change behaviour. Places to mention it include:</p>
+<ul>
+<li>a dedicated page explaining how it works,</li>
+<li>product pages and the basket, showing what a customer would earn,</li>
+<li>order confirmation and post-purchase emails; see our guide to <a href="/blog/ecommerce-transactional-emails/">transactional emails</a>,</li>
+<li>regular marketing emails reminding members of their balance or perks, and</li>
+<li>the customer account area.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers using email to keep customers engaged, including messages about rewards. Remember that marketing emails generally need appropriate consent under UK rules.</p>
+
+<h2>Measuring success</h2>
+<p>To understand whether the programme is worth it, track measures such as:</p>
+<ul>
+<li>how many customers join,</li>
+<li>how often members buy compared with non-members,</li>
+<li>how many rewards are redeemed,</li>
+<li>the total cost of rewards against the extra revenue from members, and</li>
+<li>how average order values change.</li>
+</ul>
+<p>Be careful when comparing members and non-members. Your most loyal customers may be the ones most likely to join, so members might buy more often regardless of the programme. Looking at behaviour before and after joining, or testing changes carefully, gives a fairer picture. Setting up ecommerce tracking properly in GA4 helps; see our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>.</p>
+
+<h2>Common pitfalls</h2>
+<ul>
+<li><strong>Rewards that cost more than they return.</strong> Generous discounts can erode margins without enough extra spending to compensate.</li>
+<li><strong>Rewards too hard to reach.</strong> If customers cannot see a realistic path to a reward, they disengage.</li>
+<li><strong>Confusing rules.</strong> Complex point values and exceptions undermine trust.</li>
+<li><strong>Training customers to wait for discounts.</strong> Programmes based purely on money off can make full-price purchases less appealing.</li>
+<li><strong>Launching and forgetting.</strong> Programmes need reviewing and refreshing.</li>
+<li><strong>Changing rules without warning.</strong> Reducing reward values suddenly can damage goodwill.</li>
+</ul>
+
+<h2>Loyalty beyond the programme</h2>
+<p>A formal programme is only one part of customer loyalty. Reliable delivery, accurate product information, easy returns, friendly service and a well-designed website all give customers reasons to come back. A loyalty programme works best on top of those foundations rather than as a substitute for them. Our guides to <a href="/blog/website-trust-signals/">website trust signals</a> and <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> cover some of these foundations.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs, builds and markets online stores for UK businesses, including account features and customer retention. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do small online stores need a loyalty programme?</h3>
+<p>Not necessarily. It depends on whether customers naturally buy more than once and whether margins can support rewards. Good service and email follow-up may be enough at first.</p>
+<h3>What is the best type of loyalty programme?</h3>
+<p>There is no single best type. Points suit frequent buyers, tiers suit stores with highly engaged customers and perks suit brands wanting to avoid heavy discounting.</p>
+<h3>Can I run a loyalty programme on Shopify or WooCommerce?</h3>
+<p>Yes. Both platforms support loyalty programmes through apps, plugins or custom development.</p>
+<h3>Should loyalty points expire?</h3>
+<p>Expiry can help manage costs, but it should be clearly explained in your terms. Some stores choose not to expire points to keep things simple.</p>
+<h3>How do I know if my loyalty programme is working?</h3>
+<p>Track membership, repeat purchases, redemptions and the cost of rewards against extra revenue, taking care to account for already-loyal customers joining.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-pre-launch-marketing',
+    seoTitle: 'Ecommerce Pre-Launch Marketing for a New Online Store',
+    title: 'Ecommerce Pre-Launch Marketing: Building Interest Before Your Store Opens',
+    description: 'How to build interest before a new online store launches, from a coming soon page and email list to SEO groundwork, social content and launch-day planning.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/shopify-store-setup-uk/', '/blog/ecommerce-email-marketing-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Opening a new online store can feel like opening a shop on a street nobody walks down. The website is ready, the products are photographed and the checkout works, but there is no one there to buy. Pre-launch marketing is about changing that, so that when the store opens there are already people who know about it and want to visit.</p>
+<p>This guide covers practical steps to build interest before launch, the groundwork worth putting in place early and how to plan launch day itself. It is aimed at new brands and businesses moving into ecommerce for the first time.</p>
+
+<h2>Why marketing before launch matters</h2>
+<p>New websites usually take time to build visibility in search engines, and paid advertising works better when you have some data and an audience to build on. Starting marketing before launch means you can:</p>
+<ul>
+<li>gather an audience of interested people to tell on launch day,</li>
+<li>test messages, product names and imagery before committing,</li>
+<li>learn what potential customers care about and adjust accordingly, and</li>
+<li>give search engines time to discover your site.</li>
+</ul>
+<p>It also helps you check that there is genuine interest in what you plan to sell, which is valuable information in its own right.</p>
+
+<h2>Start with a clear picture of your customer</h2>
+<p>Pre-launch marketing works best when it is aimed at specific people. Before creating content or ads, write down who your ideal customer is, what problem your products solve for them, where they spend time online and what would persuade them to try a new brand. This shapes everything else, from the wording on your coming soon page to which social platforms you focus on.</p>
+<p>If your brand identity is still taking shape, our guide to <a href="/blog/brand-identity-design-uk/">brand identity design</a> covers the elements to settle early, and our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> helps keep your messaging consistent from the first post.</p>
+
+<h2>Create a coming soon page</h2>
+<p>A coming soon page is a simple holding page on your domain that explains what is on the way and invites visitors to sign up for updates. It gives you somewhere to send people from social media, conversations and any early advertising. A good coming soon page includes:</p>
+<ul>
+<li>your brand name and logo,</li>
+<li>a short, clear description of what you will sell and why it is different,</li>
+<li>one or two strong product images or a glimpse of the range,</li>
+<li>an email sign-up form with a clear reason to join, and</li>
+<li>links to your social profiles.</li>
+</ul>
+<p>Shopify includes a password page feature that can act as a coming soon page while the store is being built, and WordPress and WooCommerce sites can use a holding page in a similar way. Make sure the page loads quickly and works well on mobile, since many visitors will arrive from social apps.</p>
+
+<h2>Build an email list</h2>
+<p>An email list is one of the most valuable things you can build before launch, because it is an audience you can contact directly. Give people a reason to sign up, such as:</p>
+<ul>
+<li>being first to know when the store opens,</li>
+<li>early access to products or limited items,</li>
+<li>a launch offer for subscribers, or</li>
+<li>behind-the-scenes updates as the brand comes together.</li>
+</ul>
+<p>Only promise what you will actually deliver, and be clear about what people are signing up for. UK rules on electronic marketing generally require appropriate consent before sending marketing emails, so check the guidance from the Information Commissioner's Office and set up your sign-up form with that in mind. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers building and using a list in more depth.</p>
+<h3>Keep subscribers warm</h3>
+<p>Do not collect sign-ups and then go silent until launch. A short welcome email followed by occasional updates, such as a look at the products, the story behind the brand or a countdown, helps people remember why they signed up.</p>
+
+<h2>Lay the SEO groundwork early</h2>
+<p>Search visibility for a new site tends to build gradually, so starting early helps. Before launch, it is worth:</p>
+<ul>
+<li>researching the terms customers use to search for products like yours; our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how,</li>
+<li>planning a sensible site structure with clear categories,</li>
+<li>writing original product descriptions rather than copying supplier text; see our guide to <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions</a>,</li>
+<li>setting up Google Search Console so you can submit your sitemap once the store is live, and</li>
+<li>planning a few helpful pages or articles that answer questions your customers ask.</li>
+</ul>
+<p>If the store is hidden behind a password or holding page, search engines will not see the full site until it opens. Plan to remove the password and submit your sitemap promptly at launch. Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> covers the wider set of tasks.</p>
+
+<h2>Set up analytics and tracking before launch</h2>
+<p>It is much easier to set up measurement before launch than to piece together data afterwards. Make sure GA4 is installed and recording ecommerce events, that any advertising platforms you intend to use are connected and that your cookie consent setup is working. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the essentials, and our guide to <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> covers consent. Test a few purchases on a staging or test setup to check that orders are recorded correctly.</p>
+
+<h2>Use social media to build anticipation</h2>
+<p>Social platforms let you show the brand coming together and start conversations before there is anything to buy. Ideas include:</p>
+<ul>
+<li>behind-the-scenes content showing product development, packaging or photography,</li>
+<li>sneak peeks of products, revealed gradually,</li>
+<li>asking followers for opinions on colours, names or designs,</li>
+<li>explaining the story and values behind the brand, and</li>
+<li>a countdown in the days before launch.</li>
+</ul>
+<p>Focus on the platforms where your customers actually spend time rather than trying to be everywhere. Every post should give people an easy route to your coming soon page and email sign-up.</p>
+
+<h2>Consider early paid advertising</h2>
+<p>Small-scale paid social or search advertising before launch can help grow your email list and test which messages and images resonate. Keep budgets modest and goals clear: at this stage you are usually paying for sign-ups and learning rather than sales. Any figures you see from a small test should be treated as early indications rather than firm predictions. Our guides to <a href="/blog/meta-ads-agency-uk/">Meta advertising</a> and <a href="/blog/tiktok-ads-agency-uk/">TikTok advertising</a> cover those platforms, and our <a href="/services/paid-media/">paid media service</a> page explains how we can help.</p>
+
+<h2>Reach out to people who can spread the word</h2>
+<p>Telling the right people about a new brand can help it reach beyond your own followers. Possibilities include contacting relevant publications and bloggers with a genuine story, approaching creators in your niche whose audience matches yours and letting friends, family and existing contacts know so they can share. If you work with creators on paid or gifted content, UK advertising rules require that ads are clearly identified; the Advertising Standards Authority and the Competition and Markets Authority publish guidance on this. Our guide to <a href="/blog/pr-for-small-business-uk/">PR for small businesses</a> covers approaching media.</p>
+
+<h2>Prepare the store itself</h2>
+<p>Marketing a store that is not ready can backfire. Before launch, make sure the essentials are in place:</p>
+<ul>
+<li>clear <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns information</a>,</li>
+<li>working order confirmation and shipping emails; see our guide to <a href="/blog/ecommerce-transactional-emails/">transactional emails</a>,</li>
+<li>contact details and an about page that builds trust,</li>
+<li>a tested checkout on mobile and desktop, and</li>
+<li>enough stock, or a clear plan for pre-orders.</li>
+</ul>
+<p>Our guide to <a href="/blog/shopify-store-setup-uk/">setting up a Shopify store</a> and our <a href="/blog/website-staging-and-testing/">staging and testing guide</a> cover these checks in more detail.</p>
+
+<h2>Plan launch day</h2>
+<p>Launch day goes more smoothly with a simple plan. Decide in advance:</p>
+<ol>
+<li>the exact time the store will open,</li>
+<li>when the launch email will go to subscribers,</li>
+<li>which social posts will go out and when,</li>
+<li>who will watch for orders, questions and technical problems, and</li>
+<li>how you will handle anything going wrong, such as a payment issue or stock running out.</li>
+</ol>
+<p>If you are offering a launch discount, make sure it is set up and tested before the store opens, and that the terms are clear. Promotional pricing in the UK is subject to consumer protection rules, so check that any offers are genuine and accurately described.</p>
+
+<h2>After launch</h2>
+<p>Launch is a beginning rather than an end. In the following weeks, follow up with subscribers who did not buy, ask early customers for reviews, look at your analytics to see where visitors came from and what they did, and keep publishing content. Our guide to <a href="/blog/ecommerce-product-reviews/">product reviews</a> covers gathering feedback, and our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce conversion rate optimisation</a> explains how to improve the store once real visitors arrive.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Waiting until launch day to start telling anyone about the store.</li>
+<li>Collecting email sign-ups and never contacting subscribers until launch.</li>
+<li>Forgetting to remove the password page or submit the sitemap at launch.</li>
+<li>Launching without analytics or conversion tracking in place.</li>
+<li>Promising offers or dates that the business cannot meet.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and markets online stores for UK businesses, from store setup to search, email and paid media. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How early should I start marketing a new online store?</h3>
+<p>There is no fixed rule, but starting several weeks before launch gives time to build an email list, create content and set up tracking.</p>
+<h3>Do I need a coming soon page?</h3>
+<p>It is not essential, but a simple page with an email sign-up gives you somewhere to send early interest and helps you gather an audience.</p>
+<h3>Can a new store rank in Google straight away?</h3>
+<p>It is unlikely. Search visibility usually builds over time, which is why groundwork before launch and ongoing content afterwards both help.</p>
+<h3>Should I offer a launch discount?</h3>
+<p>It can encourage early orders, but it is not essential. If you offer one, make sure the terms are clear and the offer is genuine.</p>
+<h3>Is paid advertising worth it before launch?</h3>
+<p>A small budget can help grow your list and test messages. Treat early results as learning rather than firm predictions of future performance.</p>
+`,
+  },
+  {
+    slug: 'website-content-audit',
+    seoTitle: 'Website Content Audit: How to Review What You Publish',
+    title: 'Website Content Audit: How to Decide What to Keep, Improve or Remove',
+    description: 'How to run a website content audit: building an inventory, judging each page, and deciding whether to keep, update, merge or remove it for visitors and SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/content-strategy-uk/', '/blog/technical-seo-audit-checklist/', '/services/seo-geo/'],
+    body: `
+<p>Websites accumulate content. Blog posts written years ago, service pages for things the business no longer offers, three slightly different pages about the same topic, product pages for discontinued lines. Each one seemed sensible when it was published, but over time the site becomes harder to navigate, harder to maintain and less clear about what the business actually does.</p>
+<p>A content audit is a structured way to step back and review everything. This guide explains what a content audit involves, how to gather the information you need, how to judge each page and what to do with the results.</p>
+
+<h2>What is a content audit?</h2>
+<p>A content audit is a page-by-page review of the content on a website. For each page, you record some basic facts, judge its quality and usefulness, and decide on an action: keep it as it is, improve it, merge it with something else or remove it.</p>
+<p>It is different from a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a>, which looks at how a site is built and crawled, such as indexing, redirects and site speed. The two overlap and are often useful together, but a content audit focuses on the words, images and purpose of each page.</p>
+
+<h2>When a content audit is worth doing</h2>
+<ul>
+<li><strong>Before a redesign or migration,</strong> so you do not move outdated or unwanted pages to a new site.</li>
+<li><strong>When the business has changed,</strong> such as new services, a new focus or a rebrand.</li>
+<li><strong>When organic traffic has plateaued or fallen</strong> and you want to understand why.</li>
+<li><strong>When the blog has grown large</strong> and older posts have not been looked at in a long time.</li>
+<li><strong>Before planning new content,</strong> so you build on what exists rather than duplicating it.</li>
+</ul>
+<p>There is no fixed rule for how often to audit. Smaller sites may manage with a light review once a year, while larger or faster-changing sites may benefit from rolling reviews.</p>
+
+<h2>Step 1: Build a content inventory</h2>
+<p>Start with a list of every page you want to review. A spreadsheet works well. Ways to gather the list include:</p>
+<ul>
+<li>exporting pages and posts from your content management system, such as WordPress or Shopify,</li>
+<li>using your XML sitemap as a starting list,</li>
+<li>crawling the site with a site audit tool to catch pages not in the sitemap, and</li>
+<li>checking Google Search Console for pages Google knows about.</li>
+</ul>
+<p>Comparing these sources is useful in itself. Pages that appear in one list but not another can reveal orphaned content, old pages still indexed or pages missing from your sitemap.</p>
+<p>For an online store with many products, you may choose to audit products at category or template level rather than one by one, and focus individual review on your most important or problematic pages.</p>
+
+<h2>Step 2: Gather data for each page</h2>
+<p>Add columns for the information that will help you judge each page. Useful fields include:</p>
+<table>
+<thead><tr><th>Field</th><th>Where to find it</th><th>Why it helps</th></tr></thead>
+<tbody>
+<tr><td>URL and title</td><td>Your crawl or CMS export</td><td>Identifies the page</td></tr>
+<tr><td>Page type</td><td>Your judgement</td><td>Separates services, products, blog posts and supporting pages</td></tr>
+<tr><td>Organic clicks and impressions</td><td>Google Search Console</td><td>Shows search visibility</td></tr>
+<tr><td>Main search queries</td><td>Google Search Console</td><td>Reveals what the page is actually found for</td></tr>
+<tr><td>Visits and engagement</td><td>GA4</td><td>Shows whether visitors use the page</td></tr>
+<tr><td>Conversions or enquiries</td><td>GA4, if set up</td><td>Shows commercial value</td></tr>
+<tr><td>Links from other websites</td><td>A backlink tool or Search Console's links report</td><td>Flags pages whose removal needs care</td></tr>
+<tr><td>Last updated</td><td>Your CMS</td><td>Highlights stale content</td></tr>
+</tbody>
+</table>
+<p>Use a consistent time period, such as the last twelve months, so seasonal swings do not distort the picture. If your analytics are not set up properly, our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> is a good place to start.</p>
+
+<h2>Step 3: Judge each page</h2>
+<p>Numbers are only part of the picture. A page with little traffic might still be essential, such as a delivery information page or a privacy policy, and a page with steady traffic might be attracting the wrong audience. For each page, ask:</p>
+<ul>
+<li><strong>Purpose:</strong> does this page have a clear job, and does it still match what the business offers?</li>
+<li><strong>Accuracy:</strong> are prices, services, contact details, dates and policies still correct?</li>
+<li><strong>Usefulness:</strong> does it genuinely answer the question a visitor would arrive with?</li>
+<li><strong>Overlap:</strong> is there another page covering the same topic for the same audience?</li>
+<li><strong>Quality:</strong> is it well written, well structured and in keeping with your <a href="/blog/tone-of-voice-guide-uk/">tone of voice</a>?</li>
+<li><strong>Links:</strong> does it link sensibly to related pages, and do other pages link to it?</li>
+</ul>
+<p>A simple scoring system can help keep judgements consistent, especially if several people are involved. Even a rough rating of strong, adequate or weak for each question makes patterns easier to see.</p>
+
+<h2>Step 4: Decide on an action</h2>
+<p>Every page should end up with one clear action. The common options are:</p>
+<h3>Keep</h3>
+<p>The page is accurate, useful and performing its role. No change is needed beyond routine checks.</p>
+<h3>Update or improve</h3>
+<p>The page has value but needs work: refreshing out-of-date information, expanding thin sections, improving headings, adding internal links or rewriting unclear copy. Pages with search impressions but few clicks are often good candidates, as improving titles and content may help them perform better. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> may help with rewrites.</p>
+<h3>Merge</h3>
+<p>Two or more pages cover the same topic and compete with each other. Combine the best parts into one stronger page and redirect the others to it. This is common on blogs where similar posts were written at different times.</p>
+<h3>Remove</h3>
+<p>The page is out of date, irrelevant or of very low quality, and is not worth improving. Remove it, and decide whether to redirect it to a relevant alternative or let it return a 404 or 410 status. Our guide to <a href="/blog/404-page-design/">404 page design</a> explains when each response makes sense.</p>
+<h3>Keep but exclude from search</h3>
+<p>Some pages are useful to visitors but not to searchers, such as certain thank-you pages or account pages. These can stay on the site while being kept out of search results with appropriate settings.</p>
+
+<h2>Handling removals and merges carefully</h2>
+<p>Removing or merging pages is where audits can go wrong. Before deleting anything:</p>
+<ul>
+<li>check whether the page has links from other websites or meaningful traffic,</li>
+<li>choose the most relevant destination for any redirect, rather than defaulting to the homepage,</li>
+<li>update internal links across the site so they point straight to the new destination, and</li>
+<li>keep a record of every change so you can review the effect later.</li>
+</ul>
+<p>Many of the same principles apply as in a site migration; our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers redirect mapping in more detail.</p>
+
+<h2>Finding gaps as well as problems</h2>
+<p>A content audit is also a chance to see what is missing. As you review, note questions visitors ask that no page answers, services or products without a proper page, and topics where competitors offer more useful content. Search Console queries can reveal topics people associate with your site that you have not covered well.</p>
+<p>These gaps feed naturally into a <a href="/blog/content-strategy-uk/">content strategy</a>, and <a href="/blog/keyword-research-guide-uk/">keyword research</a> can help prioritise them.</p>
+
+<h2>Prioritising the work</h2>
+<p>An audit can produce a long list of actions. To keep it manageable, prioritise by likely impact and effort:</p>
+<ol>
+<li>fix inaccurate information first, especially prices, policies and contact details,</li>
+<li>improve important commercial pages such as services, categories and top products,</li>
+<li>merge competing pages on topics that matter to the business,</li>
+<li>refresh valuable older posts, and</li>
+<li>remove clearly redundant content.</li>
+</ol>
+<p>Work through the list in batches rather than trying to change everything at once. It is easier to manage and to see which changes made a difference.</p>
+
+<h2>Content audits and AI search</h2>
+<p>AI-generated answers in search, such as Google's AI Overviews, draw on pages that answer questions clearly. Clear structure, accurate facts and one strong page per topic rather than several weak ones can make content easier for both people and these systems to understand. Our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a> explores this further.</p>
+
+<h2>Keeping content healthy after the audit</h2>
+<p>An audit is most useful when it leads to better habits. Simple steps include:</p>
+<ul>
+<li>adding a "last reviewed" date to your inventory and revisiting important pages periodically,</li>
+<li>checking whether a similar page already exists before publishing something new,</li>
+<li>updating pages when services, prices or policies change, and</li>
+<li>including content checks in routine <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+</ul>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Deleting pages based on traffic alone without checking links or purpose.</li>
+<li>Redirecting removed pages to the homepage by default.</li>
+<li>Forgetting to update internal links after merges.</li>
+<li>Producing a spreadsheet of findings that is never acted on.</li>
+<li>Trying to fix everything at once with no record of what changed.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK businesses review and improve website content as part of SEO and website projects. Explore our <a href="/services/seo-geo/">SEO and GEO service</a> and <a href="/services/digital-pr-content/">digital PR and content service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a content audit and an SEO audit?</h3>
+<p>A content audit reviews the usefulness and accuracy of each page. A technical SEO audit looks at how the site is built, crawled and indexed. They complement each other.</p>
+<h3>Should I delete old blog posts?</h3>
+<p>Not automatically. Old posts with useful information can often be updated. Remove only those that are outdated, irrelevant or very weak, and check for links and traffic first.</p>
+<h3>How long does a content audit take?</h3>
+<p>It depends on the size of the site and the depth of review. A small site can be reviewed relatively quickly, while large sites may need sampling or a phased approach.</p>
+<h3>What tools do I need?</h3>
+<p>A spreadsheet, Google Search Console, GA4 and a site crawler will cover most needs.</p>
+<h3>Can merging pages improve rankings?</h3>
+<p>Combining overlapping pages into one stronger page can help search engines understand which page to show, though results are never guaranteed.</p>
+`,
+  },
+  {
+    slug: 'website-live-chat-vs-chatbot',
+    seoTitle: 'Website Live Chat vs Chatbot: Which Suits Your Business?',
+    title: 'Website Live Chat vs Chatbot: Choosing the Right Option for Your Business',
+    description: 'The differences between staffed live chat and chatbots on a business website or online store, when each makes sense, and how to set chat up well.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-contact-forms/', '/blog/website-faq-page/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A chat window in the corner of a website can be a helpful way for visitors to ask a quick question before buying or enquiring. It can also be an irritation: a box that pops up uninvited, a bot that cannot understand simple questions or a "chat now" button that leads to nobody. Whether chat helps depends on choosing the right type for your business and running it properly.</p>
+<p>This guide explains the difference between staffed live chat and chatbots, when each makes sense, the questions to ask before adding chat and how to set it up so it supports visitors rather than getting in their way.</p>
+
+<h2>Live chat and chatbots: what is the difference?</h2>
+<h3>Live chat</h3>
+<p>Live chat connects a website visitor to a real person, usually someone from your team, who replies in real time through a chat window. It feels personal and can handle nuanced questions, but it needs people available to answer.</p>
+<h3>Chatbots</h3>
+<p>A chatbot answers automatically. Simpler bots follow set paths, offering buttons or menu options that lead to pre-written answers. More advanced bots use AI to interpret questions written in natural language and respond from a set of information such as your help content. Chatbots can be available at any hour, but their answers are only as good as the information and rules behind them.</p>
+<h3>Hybrid setups</h3>
+<p>Many businesses combine the two. A bot handles common questions and gathers basic details, then hands over to a person for anything more complex, or takes a message when nobody is available.</p>
+
+<h2>When live chat tends to suit</h2>
+<ul>
+<li><strong>Considered purchases</strong> where shoppers want reassurance before buying, such as higher-value products, made-to-order items or technical equipment.</li>
+<li><strong>Service businesses</strong> where a quick conversation can turn a browsing visitor into an enquiry.</li>
+<li><strong>Businesses with someone available</strong> during the hours visitors are most active, and the capacity to respond promptly.</li>
+<li><strong>Questions that vary widely</strong> and would be hard to predict or script.</li>
+</ul>
+
+<h2>When a chatbot tends to suit</h2>
+<ul>
+<li><strong>Repetitive questions</strong> about delivery times, returns, opening hours or order status that have clear, consistent answers.</li>
+<li><strong>Out-of-hours coverage,</strong> when visitors arrive in the evening or at weekends and you cannot staff chat.</li>
+<li><strong>Routing,</strong> where the bot's job is to point people to the right page, form or team rather than answer everything itself.</li>
+<li><strong>Gathering details</strong> before a person picks up the conversation, saving time on both sides.</li>
+</ul>
+
+<h2>When you may not need chat at all</h2>
+<p>Chat is not essential for every website. If visitors rarely have questions before acting, if your team cannot respond promptly or if most enquiries are better handled by a call or a detailed form, chat may add cost and complexity without much benefit.</p>
+<p>Often the better first step is to make sure answers are already on the site. A clear <a href="/blog/website-faq-page/">FAQ page</a>, detailed <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> and well-designed <a href="/blog/website-contact-forms/">contact forms</a> can resolve many questions before anyone needs to ask. Chat then becomes a helpful extra rather than a patch for missing information.</p>
+
+<h2>Comparing the options</h2>
+<table>
+<thead><tr><th>Consideration</th><th>Live chat</th><th>Chatbot</th></tr></thead>
+<tbody>
+<tr><td>Availability</td><td>Limited to staffed hours</td><td>Can run at any time</td></tr>
+<tr><td>Handling complex questions</td><td>Strong, with knowledgeable staff</td><td>Varies; weaker outside its information</td></tr>
+<tr><td>Ongoing effort</td><td>Staff time to answer chats</td><td>Time to set up, review and update answers</td></tr>
+<tr><td>Risk of poor experience</td><td>Slow or missed replies</td><td>Wrong, vague or looping answers</td></tr>
+<tr><td>Personal feel</td><td>High</td><td>Lower, though well-written bots can feel friendly</td></tr>
+</tbody>
+</table>
+
+<h2>Questions to ask before adding chat</h2>
+<ol>
+<li><strong>Who will answer, and when?</strong> Be realistic about the hours you can cover and how quickly you can reply.</li>
+<li><strong>What do visitors actually ask?</strong> Review emails, calls and form submissions to understand common questions.</li>
+<li><strong>Where should chat appear?</strong> Every page, or only on pages where questions are likely, such as product, pricing or checkout pages?</li>
+<li><strong>What happens out of hours?</strong> Will chat hide, show a message form or hand over to a bot?</li>
+<li><strong>Where do conversations go?</strong> Chats should reach the right person and be recorded so nothing is lost.</li>
+<li><strong>How will it affect page speed?</strong> Chat scripts add weight to every page they load on.</li>
+</ol>
+
+<h2>Setting up chat well</h2>
+<h3>Set clear expectations</h3>
+<p>If chat is staffed, show when someone is available. Outside those hours, say clearly when a reply will come and offer a way to leave a message. A visitor told "we usually reply within one working day" is better served than one left waiting in an empty chat.</p>
+<h3>Make bots honest</h3>
+<p>If visitors are talking to a bot, make that clear. Give an obvious way to reach a person, or to leave contact details, when the bot cannot help. Few things frustrate visitors more than a bot that loops through the same unhelpful options.</p>
+<h3>Keep answers accurate</h3>
+<p>A bot that gives wrong information about prices, delivery or returns can cause real problems. Base answers on content you control and review regularly, and update them whenever policies change. With AI-driven bots in particular, test a wide range of questions and limit them to your own information so they do not make things up.</p>
+<h3>Do not interrupt too eagerly</h3>
+<p>Chat windows that pop open as soon as a page loads can feel intrusive, especially on mobile where they may cover content. Consider a discreet button that visitors can open when they want it, or a gentle prompt only after a visitor has spent some time on a relevant page. Many of the principles in our guide to <a href="/blog/website-pop-ups-done-well/">pop-ups done well</a> apply here too.</p>
+<h3>Design for mobile</h3>
+<p>On small screens, chat widgets can block buttons, menus or the checkout. Check that the chat button does not cover important elements and that the chat window is easy to open and close. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers related principles.</p>
+<h3>Keep an eye on speed</h3>
+<p>Chat tools usually load scripts from a third party, which can slow pages down. Ask your developer whether the chat script can load after the main content, or only once a visitor interacts with the chat button. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> explains why this matters.</p>
+
+<h2>Accessibility</h2>
+<p>Chat widgets should be usable by everyone. Check that the chat can be opened, used and closed with a keyboard, that it works with screen readers, that text has sufficient contrast and that it does not trap focus. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the wider principles.</p>
+
+<h2>Privacy and data</h2>
+<p>Chat conversations often contain personal information such as names, email addresses and order details. Think about where that data is stored, who can access it and how long it is kept, and mention chat in your privacy information. Some chat tools also set cookies, which may need to be reflected in your consent setup. Data protection rules can be nuanced, so check guidance from the Information Commissioner's Office or take advice if you are unsure. For regulated sectors, such as healthcare or financial services, take extra care over what can be discussed through chat.</p>
+
+<h2>Platform options</h2>
+<p>Shopify, WordPress and WooCommerce sites can add chat through apps and plugins, and Shopify offers its own messaging option for stores. Choosing a tool depends on your platform, the features you need, how it connects with your email or helpdesk and its effect on performance. It is worth trialling a tool and testing it on real devices before committing.</p>
+
+<h2>Measuring whether chat helps</h2>
+<p>After launch, review how chat is being used. Useful questions include:</p>
+<ul>
+<li>How many chats start, and on which pages?</li>
+<li>What are the most common questions? Could they be answered on the page instead?</li>
+<li>How quickly are chats answered, and how many go unanswered?</li>
+<li>Do visitors who chat go on to buy or enquire?</li>
+</ul>
+<p>Recurring questions are valuable feedback. If many people ask the same thing about sizing, delivery or pricing, that information probably needs to be clearer on the site itself.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Showing "chat now" when nobody is available to reply.</li>
+<li>Bots with no way to reach a person or leave a message.</li>
+<li>Chat windows that pop open immediately and cover content on mobile.</li>
+<li>Out-of-date bot answers about prices or policies.</li>
+<li>Heavy chat scripts loading on every page with no regard for speed.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including how visitors find answers and get in touch. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is live chat better than a chatbot?</h3>
+<p>Neither is better in every case. Live chat suits nuanced questions when staff are available; chatbots suit repetitive questions and out-of-hours cover. Many businesses use both.</p>
+<h3>Does live chat slow down a website?</h3>
+<p>Chat scripts add weight, but loading them after the main content or only on interaction can reduce the impact.</p>
+<h3>Do I need to tell visitors they are talking to a bot?</h3>
+<p>Being clear is good practice and helps set expectations. Visitors should also have a way to reach a person.</p>
+<h3>Can a chatbot use AI to answer questions?</h3>
+<p>Yes, some can. They should be limited to your own accurate information and tested carefully, since AI-generated answers can sometimes be wrong.</p>
+<h3>Should chat appear on every page?</h3>
+<p>Not necessarily. Showing it on pages where visitors are most likely to have questions can be more helpful and less distracting.</p>
+`,
+  },
+  {
+    slug: 'website-video-guide',
+    seoTitle: 'Website Video: When It Helps and How to Keep Pages Fast',
+    title: 'Website Video: When It Earns Its Place and How to Keep Pages Fast',
+    description: 'When video genuinely helps a business website or online store, where to place it, and how to add it without slowing pages down or hurting usability.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-speed-optimisation-uk/', '/blog/core-web-vitals-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Video can make a website feel more alive. It can show a product moving, explain a service in a couple of minutes or introduce the people behind a business. It can also make pages slow, distract visitors from the thing you want them to do and use up a large share of a mobile visitor's data allowance. The difference usually comes down to whether the video has a clear job and how it has been added to the page.</p>
+<p>This guide covers when video is worth including on a business website or online store, where it tends to work, and the practical steps that keep it from dragging down page speed and usability.</p>
+
+<h2>Start with the job the video needs to do</h2>
+<p>Before filming anything, it is worth writing down in one sentence what the video should achieve. "Show how the folding mechanism works", "Explain what happens at a first consultation" and "Demonstrate the fit of the jacket on a moving person" are all clear jobs. "Make the homepage look more modern" is not, and videos added for that reason are often the ones that cause problems.</p>
+<p>Video tends to earn its place when it shows something that text and still images struggle with:</p>
+<ul>
+<li><strong>Movement and use.</strong> How a product opens, folds, pours, fits or assembles.</li>
+<li><strong>Scale and texture.</strong> How large something really is next to familiar objects, or how a fabric drapes.</li>
+<li><strong>Processes.</strong> What happens step by step during a service, an installation or an onboarding.</li>
+<li><strong>People and places.</strong> A short look at a venue, workshop or treatment room can help visitors feel prepared.</li>
+<li><strong>Complex ideas.</strong> A short explainer can sometimes do the work of several paragraphs for a technical or unfamiliar service.</li>
+</ul>
+<p>If the video only repeats what a good photo and a sentence already say, it is adding weight without adding much value.</p>
+
+<h2>Where video tends to work on a website</h2>
+<h3>Product pages</h3>
+<p>For online stores, a short clip in the product gallery can answer questions shoppers would otherwise ask before buying. Keep it close to the photos so it feels like part of the gallery rather than a separate feature. Our guide to <a href="/blog/ecommerce-product-photography/">ecommerce product photography</a> covers the still images that should sit alongside it, and a video should complement rather than replace those.</p>
+<h3>Service pages</h3>
+<p>A brief explainer near the top of a <a href="/blog/service-page-design/">service page</a> can help visitors understand an offer quickly. It works best when the page still makes complete sense without the video, because many visitors will not press play.</p>
+<h3>About pages</h3>
+<p>A short introduction to the business can add warmth to an <a href="/blog/about-us-page-writing/">about page</a>. Keep it authentic and brief; a polished corporate film is not necessary for it to be useful.</p>
+<h3>Help and how-to content</h3>
+<p>Set-up guides, care instructions and troubleshooting walkthroughs are natural fits for video, and can reduce repetitive customer questions. Pair each video with written steps so people can skim or follow along at their own pace.</p>
+<h3>Homepages</h3>
+<p>Homepage video is where the most caution is needed. A large background video behind the main headline is a popular design choice, but it adds a heavy file to the most visited page on the site, can make text harder to read and rarely tells visitors much. A clear headline, a strong image and an obvious next step usually do more. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers what that first screen needs to achieve.</p>
+
+<h2>How video affects page speed</h2>
+<p>Video files are large compared with text and images, and how they load matters a great deal. The main risks are:</p>
+<ul>
+<li><strong>Loading a video before it is needed.</strong> If the browser downloads a video file as soon as the page opens, it competes with everything else the visitor needs to see first.</li>
+<li><strong>Heavy embedded players.</strong> Players from video platforms often load scripts, styles and tracking code even before anyone presses play.</li>
+<li><strong>Autoplaying background video.</strong> These download and play straight away, often on mobile connections, and can become the largest element on the screen.</li>
+<li><strong>Layout shift.</strong> If space is not reserved for the video, the page can jump as it loads, which frustrates visitors and affects layout stability measures.</li>
+</ul>
+<p>Google's <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> look at loading, responsiveness and visual stability. A video that loads clumsily can affect all three. That does not mean video is bad for performance, only that it needs to be added with care.</p>
+
+<h2>Practical ways to keep video fast</h2>
+<h3>Use a poster image and load on click</h3>
+<p>One of the most effective approaches is to show a lightweight still image with a play button, and only load the actual player when the visitor clicks. The page stays light for everyone, and the video is still one click away for those who want it. This is sometimes called a facade or click-to-load approach.</p>
+<h3>Lazy load videos further down the page</h3>
+<p>Videos that sit below the first screen do not need to load until the visitor scrolls near them. Modern browsers and most platforms support lazy loading for embedded content, and your developer can make sure it is set up correctly.</p>
+<h3>Compress and size the file properly</h3>
+<p>If you host video files yourself, export them at a sensible resolution for how they will be displayed. A clip shown in a small gallery box does not need to be a large, high-bitrate file. Modern formats and compression settings can reduce file size considerably while keeping quality acceptable.</p>
+<h3>Reserve space in the layout</h3>
+<p>Set the video's dimensions or aspect ratio so the browser knows how much room to leave before it loads. This prevents content jumping around.</p>
+<h3>Think carefully about autoplay</h3>
+<p>If a video must autoplay, for example a short silent loop showing a product in motion, keep it brief, muted and small in file size, and consider not loading it at all on slower connections or for visitors who have asked their device to reduce motion.</p>
+<p>Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the wider picture, and Shopify users may also find our guide to <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> helpful.</p>
+
+<h2>Hosting: self-hosted or a video platform?</h2>
+<p>There are broadly two ways to put video on a website.</p>
+<table>
+<thead><tr><th>Approach</th><th>Strengths</th><th>Things to watch</th></tr></thead>
+<tbody>
+<tr><td>Embedding from a video platform such as YouTube</td><td>Handles streaming, different screen sizes and bandwidth automatically; videos can also be found on the platform itself</td><td>Embedded players can be heavy; related videos and branding may appear; cookies may be set, which affects your consent setup</td></tr>
+<tr><td>Self-hosting through your website platform</td><td>More control over the look of the player and what appears around it; Shopify supports product videos in the media gallery</td><td>File size and compression are your responsibility; large files can strain hosting on some setups</td></tr>
+</tbody>
+</table>
+<p>For short product clips, using your ecommerce platform's built-in media support is often straightforward. For longer explainers, a video platform embed with a click-to-load facade can be a sensible balance. If an embedded player sets cookies, think about how that fits with your <a href="/blog/cookie-banner-design-uk/">cookie banner</a> and consent approach; privacy-enhanced embed options exist on some platforms. The rules on cookies and consent can be nuanced, so check the guidance from the Information Commissioner's Office or take advice if unsure.</p>
+
+<h2>Accessibility and usability</h2>
+<p>A video that some visitors cannot use is a missed opportunity, and accessibility is also part of providing a fair service. Good practice includes:</p>
+<ul>
+<li><strong>Captions</strong> for any video with speech, so it works for people who are deaf or hard of hearing and for anyone watching with the sound off.</li>
+<li><strong>A text alternative</strong> such as a transcript or written summary for important information.</li>
+<li><strong>Player controls</strong> that work with a keyboard and are clearly labelled.</li>
+<li><strong>No unexpected sound.</strong> Videos should not start playing audio on their own.</li>
+<li><strong>Pause controls for moving content,</strong> and respect for reduced-motion settings where practical.</li>
+<li><strong>No flashing content</strong> that could trigger seizures.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers these principles in more depth.</p>
+
+<h2>Video and search</h2>
+<p>Search engines cannot watch a video the way a person does, so the surrounding page matters. Give each video a clear title, a short description and, where helpful, a transcript on the page. Structured data for video can help search engines understand what a video contains; our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how structured data works in general. Avoid putting important information only in a video, since visitors and search engines alike benefit from having it in text too.</p>
+
+<h2>Making video that does not need a big budget</h2>
+<p>Useful website video does not have to be expensive. Many effective product and how-to clips are short, simply lit and filmed on a modern phone with a steady mount. What matters more is clarity: a clean background, good light, a clear subject and a length that respects the viewer's time. Plan the shots in advance, keep each clip focused on a single point and trim anything that does not help.</p>
+<p>If you do commission professional filming, ask for versions cut for different places on the site, such as a short loop for a product gallery and a longer version for a help page, so the same shoot serves several purposes.</p>
+
+<h2>Measuring whether video helps</h2>
+<p>Once a video is live, check whether it is doing its job. Useful signals include how many visitors press play, how far they watch and whether pages with video perform differently from similar pages without it. GA4 can record video engagement for some embedded players, and our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers configuring events. Keep an eye on page speed reports too, so you notice if a new video has slowed things down.</p>
+<p>If a video is rarely played and adds weight, it may be better as a link to a separate page, or removed altogether.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Large autoplaying background videos on the homepage with little purpose.</li>
+<li>Loading full video players on page load rather than on click.</li>
+<li>Important information that only exists inside a video.</li>
+<li>No captions or text alternative.</li>
+<li>Videos that play sound automatically.</li>
+<li>Uncompressed files uploaded straight from a camera.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including adding media in ways that keep pages quick and usable. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does video slow down a website?</h3>
+<p>It can, particularly if players or files load as soon as the page opens. Click-to-load players, lazy loading and compressed files reduce the impact considerably.</p>
+<h3>Should I use a background video on my homepage?</h3>
+<p>Usually it is worth questioning. A background video adds weight and can make text harder to read. A strong image and clear headline often do the job better.</p>
+<h3>Is it better to host video on my site or embed it?</h3>
+<p>It depends on the video. Short product clips often suit your platform's built-in media support, while longer videos may suit an embedded platform player loaded on click.</p>
+<h3>Do website videos need captions?</h3>
+<p>Captions are strongly recommended for any video with speech, both for accessibility and for visitors watching without sound.</p>
+<h3>Can video help with SEO?</h3>
+<p>Video can make a page more useful, which helps indirectly. Clear titles, descriptions, transcripts and structured data help search engines understand video content.</p>
+`,
+  },
 ];
