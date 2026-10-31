@@ -25156,4 +25156,620 @@ module.exports = [
 <p>Only if you can back the figure up. Specific, true statements are safer than vague environmental claims.</p>
 `,
   },
+  {
+    slug: 'care-home-website-design-uk',
+    seoTitle: 'Care Home Website Design: A Guide for UK Care Homes',
+    title: 'Care Home Website Design: Reassuring Families and Making Enquiries Easy',
+    description: 'Website design for UK care homes: room and care type pages, inspection ratings, fees information, virtual tours, enquiry forms and reassuring families.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/care-home-marketing-uk/', '/pricing/'],
+    body: `
+<p>Choosing a care home is one of the hardest decisions a family can make. Often it happens under pressure, after a hospital stay or a sudden change in someone's health. The people reading a care home website are usually adult children or partners, searching on a phone late in the evening, trying to work out whether a home is safe, kind and suitable. The website has a real job to do: answer their questions honestly, help them picture their relative living there, and make it easy to arrange a visit.</p>
+<p>This guide covers website design for UK care homes, including residential, nursing and dementia care homes, whether independent or part of a small group. It focuses on the website itself. For wider promotion, including local search and referrals, see our guide to <a href="/blog/care-home-marketing-uk/">care home marketing</a>.</p>
+
+<h2>Who the website is really for</h2>
+<p>Most visitors are not the future resident. They are relatives, and sometimes social workers, hospital discharge teams or financial advisers. Each group has slightly different needs:</p>
+<ul>
+<li><strong>Families</strong> want reassurance about care quality, kindness, activities, food and visiting.</li>
+<li><strong>Professionals</strong> want quick facts: care types, bed availability, funding accepted and how to make a referral.</li>
+<li><strong>Prospective residents</strong>, where able, want to know what daily life is like and how much independence they will keep.</li>
+</ul>
+<p>A good structure serves all of them without making anyone dig. Clear navigation, plain headings and an obvious way to get in touch go a long way. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how to organise pages.</p>
+
+<h2>Explaining types of care</h2>
+<p>Families are often unsure of the difference between residential care, nursing care, dementia care and respite care. Your website can help by explaining each type you offer in plain language:</p>
+<ul>
+<li>What the care type means and who it suits.</li>
+<li>Whether the home is registered to provide it.</li>
+<li>Any specialist environments, such as a dedicated dementia unit.</li>
+<li>Whether you offer short stays, respite or trial stays.</li>
+<li>End of life care, if provided, written with sensitivity.</li>
+</ul>
+<p>Only describe the care you are registered and staffed to provide. If there are needs you cannot meet, it is kinder to say so than to raise false hopes.</p>
+
+<h2>Showing your inspection rating</h2>
+<p>Inspection reports are one of the first things many families check. In England, care homes are inspected by the Care Quality Commission. In Scotland it is the Care Inspectorate, in Wales Care Inspectorate Wales, and in Northern Ireland the Regulation and Quality Improvement Authority. Each publishes reports online.</p>
+<p>In England, registered providers are generally required to display their CQC rating on their website, and there are rules about how it is shown. Check current CQC guidance to make sure your website meets the requirements. Elsewhere in the UK, follow the relevant regulator's guidance. In practice, a good approach is to:</p>
+<ul>
+<li>Show the current rating clearly, using the official format where one is required.</li>
+<li>Link to the full report on the regulator's site.</li>
+<li>Keep it updated promptly after each inspection.</li>
+<li>Avoid quoting selectively in a way that could mislead.</li>
+</ul>
+<p>If a recent report raised concerns, being open about what you have done in response can build more trust than silence.</p>
+
+<h2>Rooms, spaces and daily life</h2>
+<p>Families want to picture their relative living in the home. Real photography is essential here. Useful photos include:</p>
+<ul>
+<li>Typical bedrooms, noting en suite facilities where available.</li>
+<li>Lounges, dining rooms and quiet spaces.</li>
+<li>Gardens and outdoor areas.</li>
+<li>Activities and everyday moments, with consent from anyone pictured.</li>
+<li>The entrance and exterior, so visitors recognise the home when they arrive.</li>
+</ul>
+<p>Consent is particularly important when photographing residents, especially those who may lack capacity. Follow your own policies and take advice where needed. Many homes rely mainly on photos of spaces, staff and activities where residents are not identifiable.</p>
+<p>A short video walkthrough or virtual tour can help families who live far away. Our <a href="/blog/website-video-guide/">website video guide</a> covers how to add video without slowing pages down.</p>
+<p>Beyond photos, describe daily life: menus and dietary needs, activities, outings, hairdressing, faith services, visiting arrangements and how families can stay in touch.</p>
+
+<h2>Being open about fees</h2>
+<p>Fees are often the question families are most anxious about and least able to find. Price transparency is increasingly expected in the sector, and consumer law guidance on care home fees has emphasised giving clear information upfront. Check current guidance from the Competition and Markets Authority and your regulator on what you should publish. Helpful information can include:</p>
+<ul>
+<li>Weekly fees or fee ranges by care type, if you publish them.</li>
+<li>What is included and what costs extra, such as hairdressing or newspapers.</li>
+<li>Deposits, notice periods and how fee increases are handled.</li>
+<li>Whether you accept local authority funded residents or NHS Continuing Healthcare, and any top-up arrangements.</li>
+<li>A link to your terms and conditions.</li>
+</ul>
+<p>Funding is complicated, so pointing families to official guidance on paying for care, alongside your own information, is genuinely useful.</p>
+
+<h2>Staff and the people behind the care</h2>
+<p>Care is delivered by people, and families want to know who they are. Consider:</p>
+<ul>
+<li>A welcome from the registered manager, with a photo.</li>
+<li>Introductions to key staff such as the deputy manager, activities coordinator or chef, with consent.</li>
+<li>Information about staff training, described accurately.</li>
+<li>Genuine reviews from families, linked to their source.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has more on presenting this honestly.</p>
+
+<h2>Enquiries, visits and availability</h2>
+<p>The main action on a care home site is usually arranging a visit or making an enquiry. Make it easy:</p>
+<ul>
+<li>A phone number in the header, tappable on mobile, with the hours it is answered.</li>
+<li>A short enquiry form asking only what you need to respond: name, contact details, relationship, care type and timescale.</li>
+<li>A clear invitation to visit, with how to book a tour.</li>
+<li>A separate route for professionals making referrals, if useful.</li>
+</ul>
+<p>Some homes show current availability. If you do, keep it accurate, as an outdated vacancy notice causes frustration. Because enquiry forms may involve health information about the future resident, keep questions minimal and make sure your privacy notice covers how the data is handled. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a>.</p>
+
+<h2>Accessibility and readability</h2>
+<p>Many visitors are older, may have visual impairments or may be reading while stressed. Use readable text sizes, strong contrast, plain language and simple layouts. Avoid clutter and pop-ups. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the standards to aim for. Make sure the site works well on mobile, since many families search on their phones.</p>
+
+<h2>Groups with several homes</h2>
+<p>If you run more than one home, give each its own section with its own photos, rating, care types, fees information and contact details. Families are choosing a home, not a brand, so each home should feel distinct. A location search can help if the group is large.</p>
+
+<h2>Recruitment</h2>
+<p>Care homes often recruit continually, and the website is a good place for a careers section. Describe what it is like to work there, the roles you hire for and how to apply. Keeping recruitment separate from the family-facing content stops either audience getting lost.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most care home sites are content and enquiry sites, so WordPress, Squarespace and Wix can all be suitable. WordPress can be useful for groups that need several home pages and a careers section managed by different people. Consider who will keep ratings, fees and availability updated. Our guides to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> and <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> can help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a care home and want a website that reassures families and makes enquiries simple, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do care homes have to show their CQC rating on their website?</h3>
+<p>In England, registered providers are generally required to display their CQC rating on their website. Check current CQC guidance for the exact requirements, and follow your own regulator's guidance in Scotland, Wales or Northern Ireland.</p>
+<h3>Should care homes publish their fees online?</h3>
+<p>Clear fees information is increasingly expected, and consumer law guidance has stressed giving families information upfront. Check current guidance on what applies to your home.</p>
+<h3>Can care homes use photos of residents?</h3>
+<p>Only with appropriate consent. Take particular care where residents may lack capacity, and consider using photos of spaces, staff and activities instead.</p>
+<h3>What is the most important page on a care home website?</h3>
+<p>Usually the page for each care type, supported by clear contact details and an easy way to arrange a visit.</p>
+<h3>Should a care home show room availability?</h3>
+<p>It can help, but only if it is kept up to date. An inaccurate vacancy notice frustrates families and professionals.</p>
+`,
+  },
+  {
+    slug: 'gym-website-design-uk',
+    seoTitle: 'Gym Website Design: A Guide for UK Gyms and Studios',
+    title: 'Gym Website Design: Memberships, Timetables and First Visits',
+    description: 'Website design for UK gyms and fitness studios: membership pages, class timetables, online joining, free trial offers, facilities photos and first-visit nerves.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/gym-marketing-uk/', '/pricing/'],
+    body: `
+<p>A gym website is often the deciding moment between someone thinking about getting fitter and actually walking through the door. Visitors are usually comparing a few options nearby, often on their phone, and they want answers quickly: how much, when, what is it like and how do I start. Independent gyms and studios have a chance to stand out here, because they can show the personality, community and coaching that larger chains may not offer.</p>
+<p>This guide covers website design for UK gyms and fitness businesses, including independent gyms, strength and conditioning gyms, boxing and martial arts clubs, and boutique studios for yoga, Pilates, spin or similar. It focuses on the website itself. For promotion more broadly, including social media and local search, see our guide to <a href="/blog/gym-marketing-uk/">gym marketing</a>. Individual coaches may find our guide to <a href="/blog/personal-trainer-website-design-uk/">personal trainer website design</a> a closer fit.</p>
+
+<h2>The questions every visitor brings</h2>
+<p>Whatever kind of gym you run, most visitors want the same few answers:</p>
+<ul>
+<li>How much does membership cost, and what are the options?</li>
+<li>Is there a contract, and how do I cancel?</li>
+<li>What are the opening hours?</li>
+<li>What classes are on, and when?</li>
+<li>What equipment and facilities are there?</li>
+<li>Can I try it first?</li>
+<li>Where is it, and is there parking?</li>
+</ul>
+<p>Design the homepage and navigation around getting people to those answers fast. A gym site that hides prices behind a contact form or buries the timetable three clicks deep is asking visitors to give up and look elsewhere. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise content.</p>
+
+<h2>Membership and pricing pages</h2>
+<p>The membership page is often the most visited page after the homepage. It should make the options easy to compare. Consider:</p>
+<ul>
+<li>A clear layout of membership types, such as monthly, annual, off-peak, student or class packs.</li>
+<li>What each option includes, such as classes, induction or access hours.</li>
+<li>Any joining fee, stated upfront.</li>
+<li>Contract length, notice period and how to cancel, in plain language.</li>
+<li>Pay-as-you-go or day pass options for people not ready to commit.</li>
+</ul>
+<p>Clear terms help visitors and reduce disputes later. Consumer protection rules on subscriptions and contract terms apply to memberships, and these have been changing, so check current guidance and make sure your terms, renewal and cancellation processes comply. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout ideas.</p>
+
+<h2>Timetables that actually work on a phone</h2>
+<p>For gyms with classes, the timetable is critical, and it is often where gym websites struggle. A timetable laid out as a wide table can be unreadable on a phone. Better approaches include:</p>
+<ul>
+<li>A day-by-day view that fits a mobile screen.</li>
+<li>Filters by class type, instructor or time of day.</li>
+<li>Clear class descriptions, including intensity and who it suits.</li>
+<li>Direct booking from the timetable, if your system supports it.</li>
+</ul>
+<p>Many gyms use a booking and membership management system that provides an embeddable timetable or widget. The website design should work with that tool rather than duplicating it, so the timetable stays accurate without manual updates. If you embed a third-party widget, test it carefully on mobile and check it matches the look of your site as closely as the tool allows. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers how these tools connect to a site, and our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers getting small screens right.</p>
+
+<h2>Joining online</h2>
+<p>Letting people join online can remove friction, especially for those who decide late in the evening. If your membership system supports online sign-up and payment, consider:</p>
+<ul>
+<li>Linking to it prominently from the membership page.</li>
+<li>Keeping the sign-up process as short as possible.</li>
+<li>Showing the full terms before payment, not after.</li>
+<li>Explaining what happens next, such as booking an induction or collecting an access fob.</li>
+</ul>
+<p>Health questionnaires or medical declarations collect sensitive data, so make sure your privacy notice covers them and only ask what you need.</p>
+
+<h2>Free trials and first visits</h2>
+<p>A free or discounted trial can be a strong offer, but only if it is easy to claim. A short form or online booking for a trial session works well. Explain what the trial includes and whether a card is needed.</p>
+<p>Just as important is easing first-visit nerves. Many people feel intimidated walking into a gym. A page about your first visit might cover:</p>
+<ul>
+<li>What happens when you arrive and who will greet you.</li>
+<li>Whether an induction is included and what it covers.</li>
+<li>What to wear and bring.</li>
+<li>Changing facilities, lockers and showers.</li>
+<li>Beginner-friendly classes or quieter times.</li>
+</ul>
+<p>Reassuring, friendly copy and real photos can help someone who is on the fence take the step.</p>
+
+<h2>Showing facilities and atmosphere</h2>
+<p>Photos and video carry a lot of weight on gym websites. Visitors want to see the space, the equipment and the kind of people who train there. Useful content includes:</p>
+<ul>
+<li>Wide shots of each training area.</li>
+<li>Close-ups of key equipment, such as racks, rigs or cardio machines.</li>
+<li>Classes in action, with consent from anyone identifiable.</li>
+<li>Changing rooms and other facilities.</li>
+<li>Short video tours, kept light so pages load quickly.</li>
+</ul>
+<p>Real photos show who the gym is for. If your members include beginners, older adults or families, let the imagery reflect that. Overly polished stock images can make a gym feel less welcoming. Our <a href="/blog/website-video-guide/">website video guide</a> covers adding video without slowing the site.</p>
+
+<h2>Coaches and personal training</h2>
+<p>If your gym has coaches, instructors or personal trainers, give them a page with photos, specialisms and genuine qualifications, with their consent. Explain how personal training works at your gym and how to book it. For boutique studios, instructor profiles help people find classes with someone they connect with.</p>
+
+<h2>Trust and community</h2>
+<p>Independent gyms often win on community. Your website can reflect this with:</p>
+<ul>
+<li>Genuine member reviews, linked to their source.</li>
+<li>Photos from events, challenges or socials, with consent.</li>
+<li>Information about any beginner programmes, women-only sessions or other specific offers, if you genuinely run them.</li>
+<li>Accessibility information about your building and equipment.</li>
+</ul>
+<p>Avoid before-and-after claims or promises of specific results. Body transformation claims can be misleading and may fall under advertising rules, so if you share member stories, keep them genuine and avoid implying typical outcomes. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present social proof honestly.</p>
+
+<h2>Practical details</h2>
+<p>Make the basics easy to find on every page:</p>
+<ul>
+<li>Address with a map and parking information.</li>
+<li>Opening and staffed hours, including any 24-hour access.</li>
+<li>Bank holiday and seasonal changes.</li>
+<li>Phone number and email, tappable on mobile.</li>
+</ul>
+<p>If you have more than one site, give each its own page with location-specific details and timetables.</p>
+
+<h2>Helping people find you in search</h2>
+<p>People often search for a gym near them, or for a specific type of training such as a boxing gym, a reformer Pilates class or a strength gym in their town. The website can support this by giving each main type of training its own page, written in the language people actually use, and by making the location clear in page titles, headings and content. Separate pages for classes, personal training and facilities give search engines more to work with than a single long page. Pair this with an accurate business listing; our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> cover the details.</p>
+
+<h2>Selling products and add-ons</h2>
+<p>Some gyms sell branded clothing, supplements or online programmes. A small shop can sit alongside the main site using Shopify, WooCommerce or a website builder's shop feature. Keep it secondary to the membership journey unless retail is a major part of the business.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress, Squarespace and Wix can all suit gym websites. The bigger decision is often how the site works with your membership and booking system, since that system usually handles timetables, sign-ups and payments. Our guides to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> and <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> can help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a gym or fitness studio and want a site that makes joining simple and helps first-timers feel welcome, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should gyms show membership prices on their website?</h3>
+<p>Showing prices clearly helps visitors compare and decide. Include joining fees, contract length and cancellation terms so there are no surprises.</p>
+<h3>How should a gym display its class timetable?</h3>
+<p>Use a mobile-friendly layout, such as a day-by-day view, ideally pulled from your booking system so it stays accurate and lets people book directly.</p>
+<h3>Should gyms let people join online?</h3>
+<p>If your membership system supports it, online joining removes friction. Show full terms before payment and explain what happens next.</p>
+<h3>How can a gym website help nervous beginners?</h3>
+<p>Explain what a first visit involves, show real photos of the space and people, and highlight beginner-friendly classes or quieter times.</p>
+<h3>Can gyms use before-and-after photos?</h3>
+<p>Be cautious. Transformation claims can be misleading and may fall under advertising rules, so keep any member stories genuine and avoid implying typical results.</p>
+`,
+  },
+  {
+    slug: 'nursery-website-design-uk',
+    seoTitle: 'Nursery Website Design: A Guide for UK Nurseries',
+    title: 'Nursery Website Design: Helping Parents Choose With Confidence',
+    description: 'Website design for UK nurseries and preschools: room pages, inspection reports, funded hours, fees, safeguarding information, visits and waiting lists.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/nursery-marketing-uk/', '/pricing/'],
+    body: `
+<p>Leaving a young child with someone else for the first time is a big step, and parents take the choice of nursery seriously. Many will shortlist a few settings online before visiting, often months ahead of when they need a place. The nursery website is usually their first real look at what you are like. It needs to answer practical questions about places, hours and costs, and give parents a feel for the warmth and care that will make them want to visit.</p>
+<p>This guide covers website design for UK day nurseries, preschools and similar early years settings, whether independent, part of a small group or run by a charity or committee. It focuses on the site itself rather than wider promotion. For that, see our guide to <a href="/blog/nursery-marketing-uk/">nursery marketing</a>.</p>
+
+<h2>What parents look for first</h2>
+<p>Parents arriving on a nursery website often have a short checklist in their head. Make sure the answers are easy to find:</p>
+<ul>
+<li>The age range you care for.</li>
+<li>Opening hours and days, and whether you are open all year or term time only.</li>
+<li>Whether there are places available, or how the waiting list works.</li>
+<li>Fees, and whether you offer funded hours.</li>
+<li>Your latest inspection outcome.</li>
+<li>Where you are, and parking or drop-off arrangements.</li>
+<li>How to arrange a visit.</li>
+</ul>
+<p>A quick facts panel on the homepage can cover several of these at a glance, with links to fuller pages. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise content.</p>
+
+<h2>Rooms and age groups</h2>
+<p>Most nurseries organise children into rooms by age. A page or section for each room helps parents picture where their child will spend the day. Each might include:</p>
+<ul>
+<li>The age range and typical group size.</li>
+<li>Photos of the room and its resources, taken when children are not identifiable or with consent.</li>
+<li>The room leader and key staff, with their consent.</li>
+<li>Sleep arrangements for babies and toddlers.</li>
+<li>How children move up to the next room.</li>
+</ul>
+<p>Outdoor space deserves its own photos and description, since many parents place a lot of value on outdoor play.</p>
+
+<h2>A day at nursery</h2>
+<p>Describing a typical day is one of the most reassuring things a nursery website can do. Cover arrival and settling, play and learning activities, meals and snacks, naps, outdoor time and home time. Explain how you keep parents informed during the day, whether through an app, a daily sheet or conversations at pick-up.</p>
+<p>Food is often a big question. Share sample menus, explain whether meals are cooked on site and describe how you handle allergies and dietary requirements. Be precise and careful when describing allergy procedures.</p>
+
+<h2>Learning and development</h2>
+<p>Parents want to know how their child will learn. In England, early years settings follow the Early Years Foundation Stage framework, and Scotland, Wales and Northern Ireland have their own early years frameworks. Your website can explain in plain language how you support learning through play, how key workers track progress and how you share that with families.</p>
+<p>If you follow a particular approach, such as a specific educational philosophy or forest school sessions, explain what it means day to day rather than relying on labels. Avoid overpromising outcomes; describe what you do, not what children will definitely achieve.</p>
+
+<h2>Inspection reports</h2>
+<p>Many parents check inspection reports before visiting. In England, nurseries are inspected by Ofsted. In Scotland, by the Care Inspectorate and Education Scotland; in Wales, by Care Inspectorate Wales and Estyn; and in Northern Ireland, registration and inspection involve local health and social care trusts. Your website can:</p>
+<ul>
+<li>State your most recent inspection outcome accurately.</li>
+<li>Link to the full report on the regulator's site.</li>
+<li>Update it promptly after each inspection.</li>
+<li>Avoid quoting selectively in a way that misrepresents the report.</li>
+</ul>
+<p>Inspection frameworks and how outcomes are reported can change, so describe your result in the terms the regulator currently uses.</p>
+
+<h2>Funded hours and fees</h2>
+<p>Government-funded childcare is one of the most confusing areas for parents. Entitlements differ across the four nations, depend on the child's age and family circumstances, and have changed in recent years. A nursery website can genuinely help by:</p>
+<ul>
+<li>Stating which funded schemes you offer and for which age groups.</li>
+<li>Explaining how funded hours work at your setting, such as which sessions they can be used for.</li>
+<li>Being clear about any additional charges for meals, consumables or extra hours, in line with current government guidance on what providers can charge for.</li>
+<li>Linking to official government information so parents can check their own eligibility.</li>
+<li>Mentioning whether you accept Tax-Free Childcare and childcare vouchers, where relevant.</li>
+</ul>
+<p>Because rules change, avoid restating detailed eligibility criteria that may go out of date. Note when the page was last reviewed.</p>
+<p>For fees, publishing session prices or a fee schedule saves time for parents and staff. If you prefer not to publish prices, explain how parents can request them. Be clear about deposits, registration fees, notice periods and what happens on bank holidays or during closures.</p>
+
+<h2>Safeguarding and policies</h2>
+<p>Parents want reassurance that their child will be safe. Your website can show this without being alarming:</p>
+<ul>
+<li>A short statement on how you safeguard children, and who the designated safeguarding lead is.</li>
+<li>Information on staff vetting and training, described accurately.</li>
+<li>Key policies available to read or download, such as safeguarding, behaviour, complaints and privacy.</li>
+<li>Your approach to mobile phones and photography in the setting.</li>
+</ul>
+<p>Keep policy documents current. An outdated policy on the website can undermine trust.</p>
+
+<h2>Photos and children's privacy</h2>
+<p>Photos bring a nursery website to life, but children's images need extra care. Only use photos with clear written consent from parents for website use, and consider whether a child could be identified from the image or caption. Many settings use photos where faces are not visible, or focus on hands, activities, resources and spaces. Never pair a child's photo with their full name. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers the technical side of keeping photos fast to load.</p>
+
+<h2>Meet the team</h2>
+<p>Parents are handing their child to people, not a building. A team page with photos, roles and a few words from each person, with their consent, helps parents feel they know who will be caring for their child. Include the manager, room leaders and any special roles such as a SENCo. Describe qualifications accurately.</p>
+
+<h2>Visits, registration and waiting lists</h2>
+<p>The main call to action on a nursery site is usually booking a visit. Make it prominent on every page and easy to do on a phone. Options include:</p>
+<ul>
+<li>A short visit request form with preferred days and times.</li>
+<li>A registration or waiting list form, asking for the child's date of birth, required start date and sessions wanted.</li>
+<li>A clear explanation of what happens after a form is submitted and how long the wait may be.</li>
+</ul>
+<p>Forms collect personal information about children, so keep them to what you need and make sure your privacy notice explains how data is used. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more on this.</p>
+
+<h2>Settling in and starting nursery</h2>
+<p>A page on settling in can reduce anxiety for parents and children alike. Explain how settling sessions work, what to bring, how you support children who find separation hard, and how communication works in the first weeks. A downloadable starter pack can be useful too.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most nursery websites are content and enquiry sites, so WordPress, Squarespace and Wix can all work well. Think about who will update inspection details, policies, menus and fees, and whether the site needs to link with your nursery management software for enquiries or waiting lists. Our guides to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> and <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> can help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a nursery or preschool and want a site that helps parents choose with confidence, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a nursery publish its fees online?</h3>
+<p>Publishing fees or session prices saves time for parents and staff. If you prefer not to, explain how parents can request them, and be clear about deposits and extra charges.</p>
+<h3>How should a nursery website explain funded hours?</h3>
+<p>State which funded schemes you offer and how they work at your setting, then link to official government guidance so parents can check eligibility, since rules differ by nation and change over time.</p>
+<h3>Can nurseries use photos of children on their website?</h3>
+<p>Only with clear written parental consent. Many settings use photos where children cannot be identified, and children's full names should never appear alongside images.</p>
+<h3>Should a nursery link to its inspection report?</h3>
+<p>Yes, stating your latest outcome accurately and linking to the full report on the regulator's site is helpful and transparent.</p>
+<h3>What is the most important call to action on a nursery website?</h3>
+<p>Usually booking a visit, supported by a waiting list or registration form for parents ready to apply.</p>
+`,
+  },
+  {
+    slug: 'optician-website-design-uk',
+    seoTitle: 'Optician Website Design: A Guide for UK Opticians',
+    title: 'Optician Website Design: Eye Tests, Frames and Patient Trust',
+    description: 'Website design for UK opticians and optometry practices: eye test booking, NHS and private services, frame ranges, contact lens pages and patient trust.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>An independent optician sits somewhere between a healthcare provider and a retailer. People come for an eye examination, but many leave having chosen frames, lenses or contact lenses as well. That mix shapes what a practice website needs to do. It has to reassure people that their eye health is in good hands, make booking straightforward, and give a feel for the frames and service that make an independent practice worth choosing over a high street chain.</p>
+<p>This guide covers website design for UK opticians and optometry practices, from single-site independents to small groups with a few branches. It focuses on the website itself. For getting found in local search, see our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a>, and for wider promotion of health services, our guide to <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a>.</p>
+
+<h2>What an optician website needs to do</h2>
+<p>Before thinking about design, it helps to be clear about the jobs the site has to do. For most practices, those are:</p>
+<ul>
+<li>Let people book an eye test, or at least request one, without needing to phone.</li>
+<li>Explain the services on offer, from routine sight tests to specialist appointments.</li>
+<li>Answer common questions about NHS eligibility, costs and what to bring.</li>
+<li>Show the frames, lenses and contact lens options available.</li>
+<li>Build trust in the clinical team and the practice.</li>
+<li>Make the address, opening hours, parking and accessibility details easy to find.</li>
+</ul>
+<p>Everything else, from blog posts to promotions, is secondary to those core tasks. A clean, well-organised site that does those jobs well will usually serve patients better than a busy one that tries to do everything.</p>
+
+<h2>Booking an eye test</h2>
+<p>Booking is often the most valuable feature on an optician site. Many patients, especially working adults, prefer to book outside opening hours. Options include:</p>
+<ul>
+<li><strong>Online booking</strong> linked to your diary, so patients can pick a slot themselves.</li>
+<li><strong>A booking request form</strong>, where patients suggest preferred times and the practice confirms.</li>
+<li><strong>Click to call</strong> on mobile, for those who would rather speak to someone.</li>
+</ul>
+<p>Some practice management systems include an online booking feature that can be linked or embedded on your website. If yours does, the website design should make it prominent and easy to use on a phone. If it does not, a well-designed request form can work well, as long as you respond promptly. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the general options.</p>
+<p>Whichever route you choose, be clear about appointment types. A routine sight test, a contact lens fitting, a children's eye test and a specialist appointment may all need different lengths of time. Letting patients choose the right type upfront saves rescheduling later.</p>
+
+<h2>Explaining NHS and private eye tests</h2>
+<p>One of the most common questions is whether someone qualifies for a free NHS sight test. Eligibility rules differ between England, Wales, Scotland and Northern Ireland, and they can change, so a practice website should be careful here. A sensible approach is to:</p>
+<ul>
+<li>Summarise the main groups who may be eligible in plain language.</li>
+<li>Make clear that rules vary by nation and that patients should check their own circumstances.</li>
+<li>Link to official NHS guidance for the relevant nation rather than trying to reproduce every detail.</li>
+<li>Explain what you offer privately and how that differs, if relevant.</li>
+<li>Mention NHS optical vouchers towards glasses or lenses, again pointing to official guidance on eligibility.</li>
+</ul>
+<p>Getting this right helps patients and reduces phone calls asking the same question. Keep this page up to date, and note when it was last reviewed so you remember to check it.</p>
+
+<h2>Service pages that answer real questions</h2>
+<p>Each main service deserves its own page or clearly separated section. Typical services might include:</p>
+<ul>
+<li>Eye examinations for adults.</li>
+<li>Children's eye tests.</li>
+<li>Contact lens fittings and aftercare.</li>
+<li>Additional imaging or scans, if your practice offers them.</li>
+<li>Specialist services such as dry eye clinics, myopia management or low vision support, where you genuinely provide them.</li>
+<li>Home visits, if your practice offers domiciliary eye care.</li>
+</ul>
+<p>For each, explain who it is for, what happens during the appointment, roughly how long it takes and whether there is a cost. Avoid clinical jargon or explain it when you use it. Health information should be accurate and measured, without overstating what any test or treatment can achieve. If you describe eye conditions, keep it general and encourage people to book an examination rather than self-diagnose.</p>
+<p>Separate pages also help search engines understand what you offer, which can support people finding you for searches like a children's eye test or a contact lens fitting in your town.</p>
+
+<h2>Showing frames and brands</h2>
+<p>For many independents, the frame selection is a genuine reason to visit. Chains often compete on price, while independents may compete on choice, quality and personal styling advice. The website is a chance to show that. Ideas include:</p>
+<ul>
+<li>A frames page that showcases the styles and types of eyewear you stock.</li>
+<li>Good photography of your displays and the practice itself.</li>
+<li>A section on lens options, such as varifocals, thinner lenses or coatings, explained simply.</li>
+<li>Information on sunglasses and prescription sunglasses, if you offer them.</li>
+<li>Details of any styling or fitting help you provide.</li>
+</ul>
+<p>If you mention the eyewear brands you stock, make sure you are permitted to use their names and images, and keep the list current. Suppliers sometimes provide marketing materials and guidance on how they can be used.</p>
+<p>A full online shop for prescription glasses is a much bigger undertaking, with prescription handling and fitting to consider. For most independents, showcasing frames online and inviting people in to try them is more realistic. If you sell non-prescription items such as sunglasses or eye care products, a small shop on Shopify, WooCommerce or a website builder could work alongside the main site.</p>
+
+<h2>Contact lenses and repeat orders</h2>
+<p>Contact lens wearers are often regular customers. Your website can support them with:</p>
+<ul>
+<li>A page explaining contact lens fittings, trials and aftercare appointments.</li>
+<li>Details of any lens subscription or direct debit scheme you run.</li>
+<li>A simple reorder request form for existing wearers.</li>
+<li>Clear information about aftercare check frequency.</li>
+</ul>
+<p>Contact lens supply is regulated, so be careful about how ordering works and follow professional guidance. If in doubt, check with the General Optical Council or your professional body before adding online ordering features.</p>
+
+<h2>Building patient trust</h2>
+<p>Patients are trusting you with their eye health, so trust details matter. Useful elements include:</p>
+<ul>
+<li>A team page with photos and roles of your optometrists, dispensing opticians and support staff, with consent.</li>
+<li>Professional registrations, described accurately. Optometrists and dispensing opticians in the UK are registered with the General Optical Council, and you can explain what that means.</li>
+<li>Equipment or technology you genuinely use, described without exaggeration.</li>
+<li>Genuine patient reviews, linked to where they can be read in full.</li>
+<li>How long the practice has been part of the community, if that is a real strength.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers this in more depth. The key is that everything shown should be accurate and verifiable.</p>
+
+<h2>Accessibility matters even more here</h2>
+<p>An optician's website will be visited by people with reduced vision, people who have just had their eyes dilated and older patients who may find small text difficult. Accessibility is important for any website, but it is especially fitting for a practice that cares for eyes. Consider:</p>
+<ul>
+<li>Good colour contrast between text and backgrounds.</li>
+<li>Comfortable default text sizes, and layouts that still work when text is enlarged.</li>
+<li>Clear headings and a logical page structure for screen reader users.</li>
+<li>Descriptive alt text for images.</li>
+<li>Buttons and links large enough to tap easily.</li>
+<li>Avoiding important information hidden only in images.</li>
+</ul>
+<p>Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the standards in more detail. Accessibility is also about the physical practice, so state whether there is step-free access, accessible parking or a hearing loop.</p>
+
+<h2>Practical details patients look for</h2>
+<p>Practical information is often what people actually came for. Make it easy to find:</p>
+<ul>
+<li>Address with a map, and directions or parking notes.</li>
+<li>Opening hours, including late evenings or Saturdays.</li>
+<li>Phone number and email, tappable on mobile.</li>
+<li>What to bring to an eye test, such as current glasses, a list of medications and any NHS eligibility proof.</li>
+<li>Whether patients should avoid driving after certain tests.</li>
+</ul>
+<p>For practices with more than one branch, give each location its own page with its own address, hours and team. This helps patients and supports local search.</p>
+
+<h2>Privacy and health data</h2>
+<p>Forms that collect health information, such as booking forms that ask about symptoms, involve sensitive personal data. Keep forms to what you genuinely need, explain how the information will be used, and make sure your privacy notice covers it. UK GDPR treats health data as a special category with extra protections, so it may be worth taking advice on how your forms and systems handle it. The Information Commissioner's Office publishes guidance for health organisations.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most optician websites are service sites with a booking feature, so WordPress, Squarespace and Wix can all be suitable. The decision often depends on how the site needs to connect with your practice management or booking system, how much content you plan to add, and who will update it. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run an independent optician or optometry practice and want a site that makes booking easier and gives patients confidence, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should opticians offer online booking?</h3>
+<p>For many practices, online booking or a booking request form saves time and suits patients who want to book outside opening hours. Check whether your practice management system offers a booking feature that can link to your website.</p>
+<h3>How should an optician website explain NHS eye tests?</h3>
+<p>Summarise who may be eligible in plain language, note that rules vary by UK nation, and link to official NHS guidance for patients to check their own circumstances.</p>
+<h3>Can opticians sell glasses online through their website?</h3>
+<p>It is possible but involves prescription handling and regulatory considerations. Many independents showcase frames online and invite people in to try them, or sell non-prescription items such as sunglasses.</p>
+<h3>Why is accessibility important for optician websites?</h3>
+<p>Many visitors will have reduced vision or have just had their eyes tested, so clear contrast, readable text and a simple structure are especially valuable.</p>
+<h3>Should each branch have its own page?</h3>
+<p>Yes, a separate page for each location with its own address, hours and team helps patients and can support local search visibility.</p>
+`,
+  },
+  {
+    slug: 'vet-practice-website-design-uk',
+    seoTitle: 'Vet Practice Website Design: A Guide for UK Vets',
+    title: 'Vet Practice Website Design: Emergencies, Registration and Pet Owners',
+    description: 'Website design for UK veterinary practices: emergency information, new client registration, appointment booking, health plans, team pages and owner trust.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/vet-practice-marketing-uk/', '/pricing/'],
+    body: `
+<p>A veterinary practice website gets visited in very different moods. One owner is calmly comparing practices after moving house. Another is ordering a repeat prescription. Another is panicking at midnight because their dog has eaten something it should not have. A good vet website has to serve all three, and the order of priorities matters. Emergency information first, everyday tasks second, and the reasons to choose your practice woven throughout.</p>
+<p>This guide covers website design for UK veterinary practices, from small independent surgeries to multi-site practices, including small animal, mixed and equine. It focuses on the site itself. For promoting a practice more broadly, including local search and social media, see our guide to <a href="/blog/vet-practice-marketing-uk/">vet practice marketing</a>.</p>
+
+<h2>Emergency information comes first</h2>
+<p>When an animal is in trouble, the owner needs one thing quickly: who to call. Your website should make that impossible to miss.</p>
+<ul>
+<li>Show the emergency phone number in the header on every page, tappable on mobile.</li>
+<li>Explain clearly what happens out of hours. Many practices use a separate out-of-hours provider, and owners need to know where to go and that they should phone ahead.</li>
+<li>Give the out-of-hours address, with a map link, if it differs from your own.</li>
+<li>Keep the wording calm and simple. Owners reading it may be stressed.</li>
+</ul>
+<p>Check that this information is correct whenever arrangements change. An out-of-date emergency number on a vet website is a serious problem, so it is worth putting a regular check in the diary. The RCVS sets professional expectations around emergency cover, so follow their guidance on what owners should be told.</p>
+
+<h2>Registering as a new client</h2>
+<p>New client registration is a natural task to move online. A registration form might ask for:</p>
+<ul>
+<li>Owner name, address and contact details.</li>
+<li>Each animal's name, species, breed, age and sex.</li>
+<li>Neutering and vaccination status.</li>
+<li>Any known conditions or current medications.</li>
+<li>Previous practice details, so records can be requested.</li>
+<li>Insurance provider, if the owner has one.</li>
+</ul>
+<p>Keep the form manageable. Allowing owners to add several pets without repeating their own details makes a real difference for multi-pet households. Explain what happens next, such as whether you will contact them to confirm or whether they can book straight away. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers good form design.</p>
+<p>Because you are collecting personal data, your privacy notice should explain how it is used and stored, and how long you keep it.</p>
+
+<h2>Appointments and online booking</h2>
+<p>Many practices now offer online booking for routine appointments, often through a feature of their practice management system. If yours supports it, the website should give it prominence. Consider:</p>
+<ul>
+<li>Which appointment types can be booked online, such as vaccinations, nurse clinics or routine consultations.</li>
+<li>Which should still be phoned through, such as urgent concerns or procedures needing an admission conversation.</li>
+<li>Making the distinction clear so owners do not book a routine slot for something urgent.</li>
+<li>Reminders and confirmation messages, which can help reduce missed appointments.</li>
+</ul>
+<p>If online booking is not practical, a request form plus a clear phone number is fine. See our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> for the general options.</p>
+
+<h2>Repeat prescriptions</h2>
+<p>Repeat prescription requests are one of the most common calls a practice receives. A simple online request form can help, covering the owner, the animal, the medication and preferred collection or delivery method. Be clear about:</p>
+<ul>
+<li>How much notice you need.</li>
+<li>When a check-up is required before a prescription can be renewed.</li>
+<li>Whether you can provide written prescriptions for owners who want to buy medicines elsewhere, and any fee involved.</li>
+</ul>
+<p>Rules on prescribing and supplying veterinary medicines are set by regulation and professional guidance, so keep the wording consistent with what your vets are permitted and required to do.</p>
+
+<h2>Explaining services clearly</h2>
+<p>Service pages help owners understand what you offer and help search engines match your site to what people search for. Depending on your practice, pages might cover:</p>
+<ul>
+<li>Vaccinations and preventive care.</li>
+<li>Neutering.</li>
+<li>Dental care.</li>
+<li>Surgery and diagnostics.</li>
+<li>Nurse clinics, such as weight or senior pet checks.</li>
+<li>Exotic pets, if you genuinely see them.</li>
+<li>Farm or equine services, if you are a mixed or equine practice.</li>
+<li>Euthanasia and aftercare, written with care.</li>
+</ul>
+<p>For each, explain what it involves and what owners can expect, in plain language. Avoid overstating outcomes. A page on euthanasia deserves particular care: gentle wording, clear practical information about home visits or quiet rooms if you offer them, and information about cremation or aftercare options.</p>
+
+<h2>Being open about fees</h2>
+<p>Owners often worry about vet costs, and pricing transparency in the veterinary sector has been receiving regulatory attention. Practices may be expected to share more pricing information than in the past, so check current RCVS and regulatory guidance on what you should publish. Even where it is not required, a website can help by:</p>
+<ul>
+<li>Publishing prices for common routine services, or a downloadable price list.</li>
+<li>Explaining how estimates work for more complex treatment.</li>
+<li>Describing payment options and when payment is due.</li>
+<li>Explaining how you work with pet insurance claims.</li>
+<li>Stating clearly who owns the practice, if that is relevant to the guidance that applies to you.</li>
+</ul>
+<p>Keep any published prices up to date. Out-of-date prices cause awkward conversations at the reception desk.</p>
+
+<h2>Pet health plans</h2>
+<p>Many practices offer a health plan covering routine care for a monthly payment. If you do, give it a dedicated page that explains:</p>
+<ul>
+<li>What is included and what is not.</li>
+<li>The monthly cost for each species or size, if you choose to publish it.</li>
+<li>How to sign up, and any minimum term.</li>
+<li>How the plan differs from insurance, since owners often confuse the two.</li>
+</ul>
+<p>A sign-up form or link to your plan provider can sit at the bottom of the page. Make sure the wording matches the actual plan terms.</p>
+
+<h2>Team pages and trust</h2>
+<p>Owners like to know who will be looking after their animal. A team page can include photos, roles and a little about each vet, nurse and receptionist, with their consent. Other trust elements include:</p>
+<ul>
+<li>RCVS registration of vets and veterinary nurses, described accurately.</li>
+<li>Practice Standards Scheme accreditation, only if you hold it, and at the correct level.</li>
+<li>Photos of the waiting room, consult rooms and any separate cat or dog areas.</li>
+<li>Genuine client reviews, linked to their source.</li>
+<li>Any special interests or further qualifications your vets genuinely hold.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers this in more detail. Photos of real staff and real rooms usually do more than stock images of puppies.</p>
+
+<h2>Pet advice and seasonal content</h2>
+<p>Helpful content can support both owners and search visibility. Examples include guidance on seasonal hazards, preparing for fireworks, travelling with pets or caring for older animals. Keep it accurate, practical and clearly signposted to booking an appointment where needed. Write for owners, not other vets, and review older articles periodically so advice stays current.</p>
+
+<h2>Multi-site practices</h2>
+<p>If you have several branches, give each its own page with address, hours, team, parking and services. Make it clear which branch offers which services, especially if surgery or certain clinics happen at only one site. Let owners choose a branch when booking or registering.</p>
+
+<h2>Choosing a platform</h2>
+<p>Vet websites are largely service sites with forms and a booking link, so WordPress, Squarespace and Wix can all be suitable. Consider how the site needs to connect with your practice management system, who will keep emergency information and prices updated, and whether you might add a shop for pet products later. Our guides to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> and <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> can help with that decision.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a veterinary practice and want a site that makes emergency information clear and takes routine tasks off the phone, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where should emergency information go on a vet website?</h3>
+<p>In the header of every page, with a tappable phone number on mobile, and on a dedicated page explaining out-of-hours arrangements and where to go.</p>
+<h3>Should vet practices publish their prices?</h3>
+<p>Publishing prices for common services helps owners, and regulatory expectations around price transparency have been developing. Check current RCVS and regulatory guidance for what applies to your practice.</p>
+<h3>Can clients register with a vet online?</h3>
+<p>Yes, an online registration form is common and practical. Allow multiple pets per owner and explain what happens after the form is submitted.</p>
+<h3>Should a vet website offer online booking?</h3>
+<p>For routine appointments it can save time, often through your practice management system. Make clear which issues should be phoned through instead.</p>
+<h3>How should a vet website handle euthanasia information?</h3>
+<p>With gentle, clear wording that explains options such as home visits, quiet rooms and aftercare, so owners can find what they need at a difficult time.</p>
+`,
+  },
 ];
