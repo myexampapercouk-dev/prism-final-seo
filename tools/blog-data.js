@@ -23724,4 +23724,522 @@ module.exports = [
 <p>Squarespace, Wix and WordPress can all work. The main thing is that it connects well with your booking tool and is easy for you to update.</p>
 `,
   },
+  {
+    slug: 'dog-groomer-website-design-uk',
+    seoTitle: 'Dog Groomer Website Design: A Guide for UK Groomers',
+    title: 'Dog Groomer Website Design: Bookings, Breeds and Nervous Owners',
+    description: 'Website design for UK dog groomers and pet services: online booking, breed-based services, new client forms, mobile grooming areas and building owner trust.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>Dog grooming is a personal service with a twist: the customer paying is not the one being groomed. Owners want to know their dog will be safe, calm and handled kindly, and they want booking to be easy. Many groomers manage everything through messages and phone calls, which works until the diary is full and the inbox is overflowing. A well-planned website can take on much of that admin and help new owners feel confident before they ever walk through the door.</p>
+<p>This guide covers website design for UK dog groomers, including salon-based, home-based and mobile grooming businesses, and touches on related pet services such as dog walking and day care. It focuses on the site itself rather than wider promotion. For local visibility, see our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a>.</p>
+
+<h2>Booking is the main event</h2>
+<p>For most groomers, online booking is the feature that changes day-to-day life. A good booking setup can:</p>
+<ul>
+<li>Show available slots so owners do not need to message to ask.</li>
+<li>Match services to appointment lengths, for example a full groom taking longer than a nail trim.</li>
+<li>Send reminders, which can help reduce missed appointments.</li>
+<li>Take deposits, if you choose to, under a clearly stated policy.</li>
+</ul>
+<p>The tricky part with grooming is that appointment length depends on the dog. A small short-coated dog and a large double-coated breed are very different jobs. Some groomers handle this by letting existing clients book online while asking new clients to submit a form first. Others offer service options by size or coat type. Either approach works if it is explained clearly.</p>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the main options and how they connect to a website. Platforms such as Squarespace, Wix and WordPress can all work with booking tools, so the choice often comes down to which booking system suits your diary and how you want to take payments.</p>
+
+<h2>New client forms</h2>
+<p>A new client form helps you prepare and spot potential issues before the first appointment. Useful information might include:</p>
+<ul>
+<li>Owner's name and contact details.</li>
+<li>Dog's name, breed or cross, age and approximate size.</li>
+<li>Coat condition, including any matting.</li>
+<li>Health conditions, allergies or mobility issues that may affect grooming.</li>
+<li>Behaviour notes, such as nervousness, reactions to dryers or handling sensitivities.</li>
+<li>Vaccination status, if you have a policy on it.</li>
+<li>Vet details, if you ask for them.</li>
+</ul>
+<p>Explain why you ask for each piece of information; it reassures owners that you take care seriously. Because you are collecting personal data, your privacy notice should explain how you use and store it. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a> for keeping forms friendly and focused.</p>
+
+<h2>Services and pricing by breed and coat</h2>
+<p>Grooming prices often vary by size, breed, coat type and condition. Rather than hiding this, the website can explain it clearly:</p>
+<ul>
+<li>List your main services, such as full groom, bath and brush, puppy introduction, hand stripping, nail trims and de-shedding treatments.</li>
+<li>Explain what each service includes in plain terms.</li>
+<li>Describe how size, coat and condition affect time and cost.</li>
+<li>Be upfront about matted coats. Many groomers have policies on de-matting versus clipping short for welfare reasons, and explaining yours in advance avoids difficult conversations at collection.</li>
+</ul>
+<p>If you display prices, keep them up to date and make clear that final prices may vary after you have seen the dog. Alternatively, link to a price guide or ask people to request a quote. Either way, clarity helps.</p>
+
+<h2>Reassuring nervous owners (and dogs)</h2>
+<p>Many owners worry about how their dog will cope, especially rescue dogs, elderly dogs or puppies. Your website is a chance to show how you approach this, as long as you only describe what you genuinely do:</p>
+<ul>
+<li>Photos of your grooming space, so owners can picture where their dog will be.</li>
+<li>An explanation of how you handle anxious dogs, such as breaks, quieter appointment times or shorter introductory sessions, if you offer these.</li>
+<li>Your policy on whether owners can stay, drop off or wait nearby.</li>
+<li>How long dogs typically stay with you and how you let owners know they are ready.</li>
+<li>Whether you use cage drying or other drying methods, explained honestly.</li>
+</ul>
+<p>Puppy introduction sessions are worth a dedicated page if you offer them. Owners of new puppies are often actively searching, and a clear page explaining what happens at a first visit can be a strong way to win long-term clients.</p>
+
+<h2>Photos: before and after, done well</h2>
+<p>Before and after photos are naturally appealing in grooming. A few tips:</p>
+<ul>
+<li>Photograph against a consistent, uncluttered background.</li>
+<li>Ask owners whether you can share photos of their dog online, and avoid including owners or anything identifying without permission.</li>
+<li>Use a range of breeds and coat types to show your experience.</li>
+<li>Compress images so the gallery loads quickly on phones. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> explains why this matters.</li>
+</ul>
+<p>A curated gallery on your site complements social media rather than replacing it. You control how it looks, and it does not depend on any platform's algorithm.</p>
+
+<h2>Mobile groomers and service areas</h2>
+<p>If you run a mobile grooming van or groom in clients' homes, your website needs to answer "do you come to me?" immediately. A clear list of towns or postcodes covered, any extra charge for longer distances, and what you need on arrival (such as parking space or access to power and water, depending on your setup) all reduce wasted messages. A simple postcode check on the booking form can help too.</p>
+
+<h2>Policies that protect your diary</h2>
+<p>Cancellations and late arrivals can be costly for a small grooming business. Clear, friendly policies on the website help:</p>
+<ul>
+<li>Cancellation and rescheduling notice periods.</li>
+<li>What happens with late arrivals or late collections.</li>
+<li>Deposits, if you take them, and when they are refunded.</li>
+<li>Your approach if a dog becomes too stressed to finish a groom safely.</li>
+</ul>
+<p>Make these visible before booking rather than buried at the bottom of a page. If you take payments online, link to your terms at the point of payment.</p>
+
+<h2>Licensing and other pet services</h2>
+<p>Some pet businesses need licences from their local council. In England, for example, dog day care and home boarding are licensable activities, while grooming on its own generally is not. Rules differ across the UK nations and can change. If you offer boarding, day care or similar services, check with your local council and only describe licences you actually hold. If you display a licence or star rating, show it accurately.</p>
+<p>If you also offer dog walking, day care or pet sitting, give each its own page. Owners searching for a walker have different questions from those booking a groom, such as group sizes, insurance and how keys are handled.</p>
+
+<h2>Trust details</h2>
+<ul>
+<li>Your name, face and a little about your background with dogs.</li>
+<li>Any grooming qualifications or first aid training you genuinely hold.</li>
+<li>Insurance, described plainly.</li>
+<li>Genuine reviews, with a link to where people can read them.</li>
+<li>Your address or the area you work in, and opening hours.</li>
+</ul>
+
+<h2>Selling products alongside grooming</h2>
+<p>Some groomers sell shampoos, brushes, treats or accessories. A small online shop can work if you have the stock and time to fulfil orders. Squarespace, Wix and Shopify can all add a shop to a services site. If retail is a bigger part of your plans, our guide to <a href="/blog/shopify-pet-products-brand-uk/">Shopify for pet product brands</a> covers it in more depth.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a grooming salon, mobile grooming service or other pet business and want a site that makes booking easier and puts owners at ease, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should dog groomers offer online booking?</h3>
+<p>For many groomers it saves a lot of messaging. Some limit online booking to existing clients and ask new clients to fill in a form first, because appointment length depends on the dog.</p>
+<h3>Should I show prices on my grooming website?</h3>
+<p>Showing prices or price ranges by size and coat helps owners, as long as you explain that final prices may vary after you see the dog.</p>
+<h3>What should a new client form include?</h3>
+<p>Typically the dog's breed, age, size, coat condition, health issues and behaviour notes, plus owner contact details and any vaccination information you require.</p>
+<h3>Do dog groomers need a licence?</h3>
+<p>Grooming alone generally does not need a licence in England, but related services such as day care and boarding can. Rules vary by nation, so check with your local council.</p>
+<h3>How should mobile groomers show their service area?</h3>
+<p>List towns or postcodes clearly, explain any travel charges and consider a postcode check in the booking form.</p>
+`,
+  },
+  {
+    slug: 'landscaper-website-design-uk',
+    seoTitle: 'Landscaper Website Design: A Guide for UK Gardeners',
+    title: 'Landscaper and Gardener Website Design: Letting the Work Speak',
+    description: 'Website design for UK landscapers and gardeners: project portfolios, separating maintenance from design and build, seasonal updates and enquiry forms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tradesman-marketing-uk/', '/pricing/'],
+    body: `
+<p>Few trades are as visual as landscaping. A new patio, a planted border or a transformed back garden is something people can picture themselves enjoying, and the right photos do a great deal of persuading. Yet many landscapers and gardeners rely on a social feed or a one-page site that does not show the range or quality of their work, or that mixes weekly lawn mowing with full garden redesigns in a way that confuses both audiences.</p>
+<p>This guide covers the website: how to structure it, show your work and capture enquiries if you are a landscaper, garden designer or gardener in the UK. For promotion beyond your own site, such as reviews, directories and local advertising for trades, see our guide to <a href="/blog/tradesman-marketing-uk/">tradesman marketing in the UK</a>.</p>
+
+<h2>Maintenance customers versus project customers</h2>
+<p>Many outdoor businesses do some combination of three things, and each attracts a different person:</p>
+<ul>
+<li><strong>Regular garden maintenance.</strong> Mowing, hedge cutting, weeding and seasonal tidies. Customers want reliability, a sense of the areas you cover and whether you have availability. Many are older homeowners, busy families or landlords.</li>
+<li><strong>Hard landscaping.</strong> Patios, paths, driveways, walls, fencing, decking. Bigger budgets, longer decisions and a stronger focus on quality and durability.</li>
+<li><strong>Garden design and soft landscaping.</strong> Planting schemes, whole-garden redesigns and lawns. Customers want ideas, inspiration and confidence in your taste.</li>
+</ul>
+<p>If you do all three, the homepage should give people a quick way to choose their path. If you focus on one, say so clearly. A visitor wanting a full garden redesign may hesitate if the first thing they see is a price list for lawn cuts, and a maintenance customer may assume you are too expensive if every image shows a luxury build.</p>
+
+<h2>Building a portfolio that sells projects</h2>
+<p>For hard and soft landscaping, the portfolio is the heart of the site. A few principles help:</p>
+<ul>
+<li><strong>Organise by project, not by photo.</strong> A project page with a handful of images, a short description of the brief and what was done tells a story. A gallery of hundreds of unlabelled photos does not.</li>
+<li><strong>Use before and after shots.</strong> Garden transformations are dramatic. Taking a "before" photo from the same angle as the finished shot is one of the most useful habits a landscaper can build.</li>
+<li><strong>Mention materials and features.</strong> Porcelain or natural stone paving, sleeper beds, a pergola, drainage solutions. This helps people searching for specific ideas and helps search engines understand the page.</li>
+<li><strong>Show a range of budgets if you work across them.</strong> If smaller jobs are welcome, include some, so people with modest plans do not rule you out.</li>
+<li><strong>Ask permission.</strong> Gardens are part of people's homes, so ask customers before publishing images, and avoid showing house numbers or anything that identifies the address.</li>
+</ul>
+<p>Good photos make a huge difference. Bright, overcast days often give even light, and a few wide shots alongside close-up details work well. Large image files can slow the site, so compress them before upload. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> explains how.</p>
+
+<h2>Service pages</h2>
+<p>Separate pages for your main services help visitors and search engines. Examples might include:</p>
+<ul>
+<li>Patios and paving</li>
+<li>Fencing and gates</li>
+<li>Decking</li>
+<li>Turfing and lawns</li>
+<li>Planting and garden design</li>
+<li>Garden maintenance</li>
+<li>Hedge cutting and tree work, if you offer it</li>
+</ul>
+<p>Each page can explain what the work involves, what affects the cost, typical timescales in general terms and a few related projects. For tree work, be careful to describe only what you are qualified and insured to do. Some trees are protected by tree preservation orders or sit in conservation areas, so it is sensible to say you can advise on whether permission may be needed and suggest customers check with their local council.</p>
+<p>Similarly, driveway pages may touch on drainage and whether permission is needed for certain surfaces in front gardens. Keep wording hedged and point people to their local authority or official guidance rather than stating rules as fact.</p>
+
+<h2>Maintenance pages that answer practical questions</h2>
+<p>Maintenance customers want straightforward answers:</p>
+<ul>
+<li>Which areas you cover.</li>
+<li>Whether you offer regular visits, one-off tidies or both.</li>
+<li>Whether you take away green waste, and whether you hold a waste carrier registration if you transport it, since businesses carrying waste generally need one. Check current rules with the Environment Agency or the relevant body in your nation.</li>
+<li>Whether you currently have space for new regular customers.</li>
+</ul>
+<p>A simple "availability" note at the top of the maintenance page, which you can update yourself, prevents a lot of wasted enquiries during busy months.</p>
+
+<h2>Seasonal updates</h2>
+<p>Landscaping demand tends to shift through the year. Spring often brings a rush of patio and garden enquiries, summer focuses on maintenance, autumn suits planting and tidy-ups, and winter can be a good time to plan projects. A site that lets you change homepage messages, feature different services and update availability helps you steer enquiries to match your diary.</p>
+<p>Platforms like WordPress, Squarespace and Wix all allow this if the site is built with easy editing in mind. A short seasonal blog post or project write-up can also keep the site fresh without much effort.</p>
+
+<h2>Enquiry forms for landscaping</h2>
+<p>A good enquiry form helps you understand the job before a visit. Useful fields might include:</p>
+<ul>
+<li>Type of work: maintenance, hard landscaping, design or mixed.</li>
+<li>Postcode.</li>
+<li>Rough size of the garden or area.</li>
+<li>A budget range, presented as optional, which helps you suggest options realistically.</li>
+<li>When they would like the work done.</li>
+<li>Photo uploads of the current garden.</li>
+</ul>
+<p>Keep required fields to a minimum and explain what happens next, for example whether you call to discuss before visiting. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a> for more, and make sure your privacy notice covers any photos and details you collect.</p>
+<p>For maintenance, an online booking or request system can work well for one-off jobs. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the options.</p>
+
+<h2>Trust details</h2>
+<p>Landscaping projects can involve significant sums and take place at someone's home over days or weeks. Helpful trust details include:</p>
+<ul>
+<li>Who you are and photos of you and your team at work.</li>
+<li>Insurance you hold, described plainly.</li>
+<li>Any qualifications or memberships you genuinely hold, shown in line with the awarding body's rules.</li>
+<li>Genuine reviews, with a link to where people can read them.</li>
+<li>How you approach quotes, deposits and payment stages, if relevant.</li>
+<li>Any guarantee you offer on workmanship, with what it covers.</li>
+</ul>
+
+<h2>Local search</h2>
+<p>It is also worth thinking about how people describe what they want. Many search for an outcome rather than a trade, such as a low-maintenance garden, a child-friendly lawn or a patio for entertaining. Short project write-ups and service pages that use this everyday language, alongside the technical terms you would use with a supplier, make it easier for the right customers to find you and recognise that you understand what they are after.</p>
+<p>Most landscaping and gardening searches are local. An areas covered page, consistent business details and an active Google Business Profile with project photos all help. See our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a>. Project write-ups naturally mention locations and are usually more useful than thin pages for each village.</p>
+
+<h2>Domains and email</h2>
+<p>A business email on your own domain looks more professional on quotes and invoices than a free email address. Our guide to <a href="/blog/business-domain-and-email-setup/">setting up a business domain and email</a> walks through it.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you are a landscaper or gardener and want a site that shows your work properly and brings in the right enquiries, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should landscaping and garden maintenance be on the same website?</h3>
+<p>They can be, but give each a clear path from the homepage and separate pages, because the customers and their questions are quite different.</p>
+<h3>How many photos should a project page have?</h3>
+<p>Enough to tell the story, usually a before shot, a few finished views and some details. Quality and clear captions matter more than quantity.</p>
+<h3>Should I put prices on my landscaping website?</h3>
+<p>Explaining what affects cost is often more helpful than listing figures. Maintenance services sometimes suit indicative prices if you can keep them up to date.</p>
+<h3>Do I need permission to show customers' gardens online?</h3>
+<p>It is good practice to ask, and to avoid showing anything that identifies the address.</p>
+<h3>Is a social media page enough instead of a website?</h3>
+<p>Social media is useful for sharing work, but a website gives you organised project pages, service pages for search and a place to capture enquiries that you control.</p>
+`,
+  },
+  {
+    slug: 'plumber-website-design-uk',
+    seoTitle: 'Plumber Website Design: A Guide for UK Plumbers',
+    title: 'Plumber Website Design: A Site for Leaks, Boilers and Bathroom Jobs',
+    description: 'Plumber website design for UK plumbing and heating firms: emergency leak pages, boiler and heating services, Gas Safe details, quote forms and areas covered.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tradesman-marketing-uk/', '/pricing/'],
+    body: `
+<p>Plumbing enquiries rarely arrive in a calm state. A burst pipe under the sink, a boiler that has stopped on the first cold morning, a toilet that will not stop running: these are the moments when people search on their phone and call the first firm that looks capable. At the same time, plumbers also want the slower, better-planned jobs, such as a new bathroom, a cylinder replacement or a full heating system. The website has to handle a panicked homeowner and a careful planner without confusing either of them.</p>
+<p>This guide covers the website itself: structure, pages, forms and the details that matter for plumbing and heating businesses in the UK. For getting found beyond your own site, such as reviews, directories and local advertising, see our guide to <a href="/blog/tradesman-marketing-uk/">tradesman marketing in the UK</a>.</p>
+
+<h2>Three types of plumbing visitor</h2>
+<p>Thinking about who lands on the site is a more useful starting point than thinking about how it looks.</p>
+<ul>
+<li><strong>The water emergency.</strong> Water is coming through a ceiling or a pipe has burst. This person wants a number, an idea of whether you cover their postcode and, ideally, a quick reminder of how to turn off their stop tap while they wait.</li>
+<li><strong>The heating problem.</strong> No hot water, no heating, a boiler showing a fault code. Often urgent, but less frantic than a flood, and the visitor will usually check whether you work on boilers and gas appliances at all.</li>
+<li><strong>The planned project.</strong> Bathroom refits, radiator moves, a new heating system, outside taps. These visitors compare firms, look at photos and want to request a quote at a convenient time.</li>
+</ul>
+<p>Most of the decisions below follow from serving these three groups clearly.</p>
+
+<h2>Handling emergency call-outs properly</h2>
+<p>If you take emergency work, the site should make it obvious within a second on a phone screen. A sticky tap-to-call button, clear hours (for example whether you work evenings or weekends) and a plain statement of the areas you cover for urgent jobs all help. If emergency rates differ from normal rates, it is fairer to say that call-out charges apply and invite people to ask, rather than leaving it until you arrive.</p>
+<p>If you do not take emergency work, say so. A polite line such as "we focus on planned plumbing and heating work and do not offer an out-of-hours service" saves you calls you cannot take and saves the customer time.</p>
+<p>A short, accurate "while you wait" box on your emergency page can be genuinely helpful: how to find and turn off the stop tap, switching off electrics if water is near sockets, and, if someone smells gas, leaving the property and calling the national gas emergency number rather than a plumber. Keep this brief and factual, and avoid giving advice that could put someone at risk.</p>
+
+<h2>Boiler and heating pages, and Gas Safe registration</h2>
+<p>Heating work is where plumbing sites most often need care. In the UK, anyone working on gas appliances such as boilers, gas fires and cookers must be on the Gas Safe Register. Many plumbers are, and some are not; some firms have one registered engineer while others do not do gas work at all.</p>
+<p>Your website should reflect your actual position:</p>
+<ul>
+<li>If you are registered, you can say so and explain what you are registered to work on. Customers can check registration with the Gas Safe Register themselves, and some will. Make sure what you claim matches your registration and the categories of work it covers.</li>
+<li>If you do not do gas work, be clear about what you do cover, for example unvented systems, electric heating or wet systems excluding the boiler, and avoid wording that implies otherwise.</li>
+<li>Only use scheme logos you are entitled to use, and follow the scheme's rules on displaying them. Check current guidance rather than copying wording from other sites.</li>
+</ul>
+<p>Separate pages for boiler servicing, boiler repairs, boiler installation (if you offer it), radiators and power flushing let each page explain the job properly. A boiler servicing page might cover what a service involves in general terms, why manufacturers often recommend annual servicing for warranty purposes, and how to book. A boiler installation page might explain how you approach surveys and quotes. If you mention manufacturer warranties or accreditations, only do so where you hold them and describe them accurately.</p>
+<p>If you work for landlords, a dedicated page on landlord gas safety checks can be useful, since landlords have legal duties around gas safety. Describe the service rather than summarising the law in detail, and point landlords to official guidance for their obligations.</p>
+
+<h2>Pages that suit a plumbing business</h2>
+<ul>
+<li><strong>Home.</strong> What you do, where, whether you take emergency work, a phone number and a quote button.</li>
+<li><strong>Emergency plumbing.</strong> Only if you offer it, with hours, areas and the "while you wait" box.</li>
+<li><strong>Heating and boilers.</strong> A hub page linking to individual boiler and heating services.</li>
+<li><strong>Bathrooms.</strong> If you fit them, a page with real photos, how you handle tiling and electrics (yourself or with others) and how quotes work.</li>
+<li><strong>General plumbing.</strong> Leaks, taps, toilets, outside taps, water pressure, appliance plumbing.</li>
+<li><strong>Areas covered.</strong> Towns and postcodes, ideally with any differences between emergency and planned coverage.</li>
+<li><strong>About and registrations.</strong> Who you are, insurance and registrations you hold.</li>
+<li><strong>Contact or quote.</strong> Form, phone, email and typical response times.</li>
+</ul>
+
+<h2>Bathroom pages work differently</h2>
+<p>A bathroom refit is a considered purchase, and the page should feel more like a portfolio than an emergency service. Photos of finished bathrooms you fitted, short notes on each project and an explanation of how you work from first visit to handover help people imagine the result. If you subcontract tiling or electrical work, it is honest and reassuring to say who handles what.</p>
+<p>Before and after photos are powerful here, but only use pictures of your own work, and ask customers before showing photos of their home.</p>
+
+<h2>Quote forms that save you wasted visits</h2>
+<p>A good plumbing quote form gathers the information you need without feeling like paperwork. Useful fields might include:</p>
+<ul>
+<li>Type of job (leak, boiler, bathroom, radiators, other).</li>
+<li>Postcode, so you can check coverage.</li>
+<li>For boiler issues, the make and model if known and any fault code shown.</li>
+<li>Whether the property is owned, rented or managed.</li>
+<li>A photo upload, which can be very useful for leaks, tap types and existing pipework.</li>
+<li>Preferred contact method and times.</li>
+</ul>
+<p>Keep required fields to a minimum. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers this in more detail. If you collect photos and personal details, make sure your privacy notice explains how you use and store them.</p>
+
+<h2>Seasonal messaging</h2>
+<p>Heating work tends to rise when the weather turns cold, and plumbers often find their diaries fill up. A site that lets you update a banner or availability note yourself, for example "boiler servicing slots available for next month" or "we are currently prioritising no-heat calls", lets you manage demand honestly. Platforms like WordPress, Squarespace and Wix all make this kind of edit straightforward if the site is set up with it in mind.</p>
+<p>The same goes for summer, when you might want to push bathroom installations or boiler replacements while heating demand is lower. Being able to change the homepage emphasis without calling a developer is worth planning for at the build stage.</p>
+
+<h2>Local search and areas covered</h2>
+<p>Plumbing is local, and people often search with a town name or "near me". A clear areas covered page, consistent business details across your site and your Google Business Profile, and service pages that naturally mention where you work all help. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> go into this further.</p>
+<p>Be cautious with dozens of near-identical town pages. If you create location pages, each should have something genuinely specific to say, such as jobs you have done there or how you cover that area.</p>
+
+<h2>Speed and mobile layout</h2>
+<p>Emergency searches happen on phones, often with poor signal in a basement or loft. A lightweight site that loads quickly and keeps the phone number visible without scrolling matters more than animations or large videos. See our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> for practical steps.</p>
+
+<h2>Trust details that matter to plumbing customers</h2>
+<ul>
+<li>Your real name or business name, and a landline or mobile that is answered.</li>
+<li>Insurance you hold and registrations, accurately described.</li>
+<li>Genuine reviews, linked to where customers can see them.</li>
+<li>Photos of your own van, team and work rather than stock images.</li>
+<li>How you price: fixed quotes for planned work, how call-outs are charged, and whether you provide written quotes.</li>
+</ul>
+<p>For pricing, it is reasonable to explain your approach without listing figures you might need to change, and to state whether prices include VAT if you are VAT registered.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a plumbing or heating business and want a site that handles urgent calls clearly and wins more planned work, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a plumber's website mention Gas Safe registration?</h3>
+<p>Only if you or your engineers are registered, and only for the types of gas work your registration covers. Customers can check registration themselves, so accuracy matters.</p>
+<h3>Do I need a separate emergency plumbing page?</h3>
+<p>If you offer emergency call-outs, a dedicated page helps urgent visitors find what they need quickly. If you do not offer them, say so clearly instead.</p>
+<h3>Should boiler services have their own pages?</h3>
+<p>Usually, yes. Servicing, repairs and installation attract different visitors with different questions, and separate pages let you answer each properly.</p>
+<h3>Should I list prices on my plumbing website?</h3>
+<p>Many plumbers explain how they price rather than listing exact figures, since jobs vary. If you show prices, keep them up to date and clear about VAT and call-out charges.</p>
+<h3>Is a photo upload useful on a plumbing quote form?</h3>
+<p>Often, yes. A photo of a leak, a tap or a boiler fault code can help you prepare. Make sure uploads are handled securely and covered by your privacy notice.</p>
+`,
+  },
+  {
+    slug: 'removals-company-website-design-uk',
+    seoTitle: 'Removals Company Website Design: A UK Guide',
+    title: 'Removals Company Website Design: From Survey Request to Moving Day',
+    description: 'Website design for UK removals companies: quote and survey forms, home and office move pages, storage, packing services, insurance wording and trust.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tradesman-marketing-uk/', '/pricing/'],
+    body: `
+<p>Moving home is often described as one of life's more stressful events, and people looking for a removals firm usually have a lot on their mind: completion dates that might slip, boxes still to pack, children or pets to organise. They will often contact several companies, compare quotes and choose the one that seems most organised and trustworthy. A removals website has one main job: to make getting a quote easy and to make your firm feel like the safe pair of hands.</p>
+<p>This guide is about the website itself for UK removals companies, from man-and-van operators to firms handling home, office and international moves. For promotion beyond your own site, such as reviews, directories and local advertising, see our guide to <a href="/blog/tradesman-marketing-uk/">tradesman marketing in the UK</a>.</p>
+
+<h2>The quote form is the centre of the site</h2>
+<p>Almost every removals visitor wants a price. How you gather the information for that price shapes your enquiry rate and how much back-and-forth you need. Common approaches include:</p>
+<ul>
+<li><strong>A short initial form</strong> with moving from and to postcodes, property size, rough date and contact details, followed by a call or survey.</li>
+<li><strong>A detailed inventory form</strong> where customers list rooms and large items. More effort for the customer but a better basis for an estimate.</li>
+<li><strong>A survey request</strong>, in person or by video call, for larger moves.</li>
+</ul>
+<p>Many firms combine these: a short form first, then an option to add more detail or book a survey. Splitting a longer form into steps, with a progress indicator, can make it feel less daunting on a phone. Useful fields might include:</p>
+<ul>
+<li>Current and new postcodes.</li>
+<li>Property type and number of bedrooms.</li>
+<li>Access details, such as floors, lifts, parking restrictions or narrow streets.</li>
+<li>Whether the date is fixed or flexible, and whether they are waiting on completion.</li>
+<li>Services needed: packing, dismantling furniture, storage, disposal.</li>
+<li>Specialist items such as pianos, antiques or large appliances.</li>
+</ul>
+<p>Be clear about what happens next and roughly how quickly you respond. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more on reducing drop-off, and your privacy notice should explain how you use the details collected, particularly addresses.</p>
+
+<h2>Explaining how quotes work</h2>
+<p>Removals pricing confuses many customers. A page explaining your approach helps, for example whether you give fixed quotes or estimates, what can change the price (extra items, access problems, waiting time on completion day), and whether prices include VAT. If you require a deposit, explain how it works and refer to your terms for cancellation or postponement. Rather than publishing figures, explain the factors and invite people to request a quote.</p>
+
+<h2>Pages for different types of move</h2>
+<p>Different moves bring different questions, so separate pages are worth having:</p>
+<ul>
+<li><strong>Home removals.</strong> The typical domestic move, explaining how moving day works from arrival to unloading.</li>
+<li><strong>Office and commercial moves.</strong> Out-of-hours moves, IT equipment, minimising downtime and working with building managers.</li>
+<li><strong>Small moves and man and van.</strong> Single items, student moves and flats, if you offer them.</li>
+<li><strong>Long-distance and international moves.</strong> If you offer them, explain your coverage. For international moves, customs and documentation can be complex, so say you will advise and avoid detailed statements of rules that can change.</li>
+<li><strong>Packing services.</strong> Full packing, fragile-only packing and packing materials.</li>
+<li><strong>Storage.</strong> If you offer storage, explain the type (for example containerised or self-access), how access works and what customers need to know about insurance while goods are stored.</li>
+</ul>
+
+<h2>A moving day explainer</h2>
+<p>Customers who have not moved for years often do not know what to expect. A clear walkthrough reduces anxiety and questions: when the team arrives, what they need from the customer, what happens with keys and completion delays, how furniture is protected and what happens at the new property. Only describe what you actually do. If your process varies by job, say so rather than presenting a fixed sequence.</p>
+<p>A downloadable or printable moving checklist can be helpful and gives people a reason to return to your site. Keep it practical and avoid any advice that strays into legal or conveyancing territory.</p>
+
+<h2>Insurance and liability wording</h2>
+<p>This is one area where care matters. Customers often ask whether their belongings are insured during the move. The honest answer depends on your own cover and terms, and sometimes on the customer's home insurance too. On the website:</p>
+<ul>
+<li>Describe the cover you offer in plain terms and point to your full written terms for limits and exclusions.</li>
+<li>Avoid broad phrases such as "fully insured" unless you can explain exactly what that means.</li>
+<li>Explain whether items packed by the customer are treated differently from items you pack, if that applies.</li>
+<li>Suggest customers check their own home insurance for cover during a move.</li>
+</ul>
+<p>If you are a member of a trade association that has a code of practice, you can mention it, but only if you are a current member and in line with the association's rules on logos and wording.</p>
+
+<h2>Trust details for removals</h2>
+<p>Customers hand over almost everything they own, so trust details carry a lot of weight:</p>
+<ul>
+<li>Photos of your actual vehicles, team and storage facility, rather than stock images.</li>
+<li>A physical base or depot address if you have one, which reassures people you are an established business.</li>
+<li>Clear business details, including company registration if you are a limited company.</li>
+<li>Genuine reviews, linked to where people can read them.</li>
+<li>Straightforward terms and conditions that are easy to find.</li>
+</ul>
+
+<h2>Booking and dates</h2>
+<p>Many moves depend on completion dates that are not confirmed until shortly before. Your site can address this by explaining how you handle provisional bookings, date changes and moves that slip on the day. Some firms show a general availability calendar; others prefer to confirm by phone. If you use an online booking or deposit system, our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the main options. Make sure any deposit terms are clearly linked before payment.</p>
+
+<h2>Mobile and speed</h2>
+<p>A short frequently asked questions section on each service page also helps. Movers commonly wonder whether they need to empty drawers, what happens to fridges and freezers, whether you move plants or garden items, and what you will not carry, such as hazardous materials. Answering these honestly, based on your own policies, saves phone calls and shows customers you have thought about the details that worry them.</p>
+<p>People often look for removals firms on their phones while dealing with estate agents and solicitors. The quote form must work well on a small screen, with large tap targets and fields that use the right keyboard for postcodes and phone numbers. Fast loading matters too; see our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a>.</p>
+
+<h2>Local and regional search</h2>
+<p>Removals searches usually include a place name. An areas covered page and a strong Google Business Profile help, and our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> explain how. If you cover long-distance moves, route-based content can be useful only where you have genuinely useful things to say. Thin pages for every town pair add little.</p>
+
+<h2>Choosing a platform</h2>
+<p>A removals site needs reliable forms, clear service pages and possibly a booking or deposit system. WordPress, Squarespace and Wix can all manage this. WordPress gives the most flexibility for complex multi-step quote forms; the simpler builders are easier to update yourself. Think about who will edit the site and how complicated your quote process is before choosing.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a removals company and want a site that makes quoting easier and helps nervous movers trust you, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a removals quote form ask?</h3>
+<p>Typically postcodes, property size, access details, date flexibility, services needed and any specialist items, with contact details. Keep essential fields short and let people add detail optionally.</p>
+<h3>Should a removals website show prices?</h3>
+<p>Moves vary so much that many firms explain how they price rather than listing figures. If you show starting prices, be clear about what they include.</p>
+<h3>How should I describe insurance on my website?</h3>
+<p>Plainly and accurately, pointing to your written terms for limits and exclusions, and suggesting customers check their own home insurance.</p>
+<h3>Do I need separate pages for office moves?</h3>
+<p>If you do commercial work, yes. Businesses care about downtime, IT equipment and out-of-hours moves, which are different from home movers' concerns.</p>
+<h3>Is a video survey option worth offering?</h3>
+<p>It can make quoting easier for customers who are far away or short on time. If you offer it, explain how it works and how to book.</p>
+`,
+  },
+  {
+    slug: 'roofer-website-design-uk',
+    seoTitle: 'Roofer Website Design: A Guide for UK Roofing Firms',
+    title: 'Roofer Website Design: Showing Work People Cannot See From the Ground',
+    description: 'Roofer website design for UK roofing contractors: storm repair pages, flat and pitched roof services, project galleries, survey requests and trust details.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tradesman-marketing-uk/', '/pricing/'],
+    body: `
+<p>Roofing has an unusual problem: the customer rarely sees the work. A homeowner notices a damp patch on a bedroom ceiling or a few slipped tiles on the drive after a windy night, but they cannot climb up and judge the problem or, later, the quality of the repair. That means they rely heavily on how a roofer explains things and on evidence of past work. A roofer's website has more explaining to do than most trade sites.</p>
+<p>This guide focuses on the website: structure, pages, photos and enquiry forms for UK roofing contractors. For promotion beyond your own site, such as review platforms, directories and local advertising, see our guide to <a href="/blog/tradesman-marketing-uk/">tradesman marketing in the UK</a>.</p>
+
+<h2>Why roofing sites need to explain more</h2>
+<p>Many roofing customers start with a symptom rather than a service. They search for "water coming through ceiling", "tiles blown off roof" or "flat roof leaking", not "EPDM installation". Your website can meet them there by explaining common problems in plain English and then pointing them to the right service and next step.</p>
+<p>It also helps to be clear about the difference between a repair and a replacement, and how you decide which to recommend. Customers are often wary of being told they need a whole new roof. A calm explanation of how you assess a roof, and that you will show them photos of what you found, can build more confidence than any slogan.</p>
+
+<h2>Storm damage and urgent repairs</h2>
+<p>Bad weather can bring a sudden spike in calls. If you offer urgent or temporary repairs, such as making a roof watertight with a tarpaulin until a full repair is possible, a dedicated page helps. It should cover:</p>
+<ul>
+<li>Whether you offer urgent call-outs and roughly what hours.</li>
+<li>Areas you cover for urgent work.</li>
+<li>A tap-to-call button that stays visible on mobile.</li>
+<li>Brief, sensible safety advice: do not climb onto the roof, keep clear of loose tiles or chimney debris, and move belongings away from leaks.</li>
+</ul>
+<p>Many people will also be thinking about home insurance. You can say you are happy to provide photos and a written description of the damage to support a claim, if that is something you do, but avoid implying you can tell people what their insurer will cover. Each policy is different, so suggest customers check with their insurer.</p>
+<p>A banner you can switch on yourself during busy periods, explaining that you are prioritising emergency weatherproofing and that quote visits may take longer, sets fair expectations.</p>
+
+<h2>Service pages for roofing</h2>
+<p>Roofing covers a wide range of work, and a single services list does it no justice. Typical pages might include:</p>
+<ul>
+<li><strong>Roof repairs.</strong> Slipped or broken tiles and slates, leaks, ridge and hip repairs.</li>
+<li><strong>Pitched roofs.</strong> Re-roofing, tile and slate replacement, battens and membranes.</li>
+<li><strong>Flat roofs.</strong> The systems you install, such as felt, rubber or fibreglass, explained in plain terms with honest pros and cons.</li>
+<li><strong>Chimneys and leadwork.</strong> Repointing, flashing, chimney removal if you offer it.</li>
+<li><strong>Fascias, soffits and guttering.</strong> Often a separate search in its own right.</li>
+<li><strong>Commercial roofing.</strong> If you work on commercial buildings, a separate page with the information facilities managers and contractors need.</li>
+</ul>
+<p>Each page should say what the job involves, signs that someone might need it, how you approach quoting and a few real project photos. Avoid stuffing pages with town names or repeating the same paragraphs on every page.</p>
+
+<h2>Project galleries and photo evidence</h2>
+<p>Photos matter more for roofers than for almost any other trade, precisely because customers cannot see the work themselves. Useful types of image include:</p>
+<ul>
+<li>Before, during and after shots of the same roof.</li>
+<li>Close-ups of details such as leadwork, ridge tiles and valleys.</li>
+<li>Photos showing scaffolding and site tidiness, which reassure people about disruption.</li>
+<li>Drone or elevated photos, if you use a drone and operate it in line with current UK drone rules.</li>
+</ul>
+<p>A gallery organised by type of work is easier to use than one long scroll. Short captions describing the problem and the solution make each project more useful and give search engines meaningful text. Only show your own work, and ask customers before showing images that identify their home. Compress images so they load quickly; our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> explains why this matters on mobile.</p>
+<p>It is also worth explaining that you will share photos of what you find during a survey or repair. If that is genuinely part of how you work, it addresses one of the biggest worries roofing customers have.</p>
+
+<h2>Survey and quote requests</h2>
+<p>Most roofing jobs need a visit or at least photos before you can quote. A well-designed survey request form can save wasted trips. Consider asking for:</p>
+<ul>
+<li>Type of property and roof, if known (pitched, flat, mixed).</li>
+<li>The issue, in the customer's own words.</li>
+<li>Postcode.</li>
+<li>Whether the issue is urgent, for example an active leak.</li>
+<li>Photos from the ground or inside, such as a ceiling stain.</li>
+<li>Preferred times for a visit.</li>
+</ul>
+<p>Make clear what happens after they submit: whether you call back, and roughly when. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a> for more on keeping forms short and effective, and make sure your privacy notice covers any photos and personal data you collect.</p>
+
+<h2>Guarantees, insurance and memberships</h2>
+<p>Roofing customers often ask about guarantees and whether a firm is insured. Your website should answer clearly, but accurately:</p>
+<ul>
+<li>If you offer a workmanship guarantee, explain what it covers and for how long, and how it works if you are no longer trading, if you have arranged any insurance-backed cover.</li>
+<li>If materials come with manufacturer guarantees, explain that these are separate and depend on the manufacturer's terms.</li>
+<li>Only display trade association or scheme logos where you are a current member, and follow each body's rules on using their marks.</li>
+<li>State the insurance you hold in plain terms rather than vague phrases.</li>
+</ul>
+<p>Some roofing work may involve building regulations, for example when replacing a significant part of a roof covering, and in some cases permissions such as planning or conservation area consent. Rather than giving detailed rules, you can say that you will advise whether approvals are likely to be needed and suggest customers check with their local authority. Keep this hedged and avoid making promises on behalf of anyone else.</p>
+
+<h2>Explaining prices without listing figures</h2>
+<p>Roofing prices vary widely with access, materials, scaffolding and roof condition. Rather than publishing figures that quickly go out of date, a pricing explanation page can describe what affects cost, whether quotes are written and itemised, whether scaffolding is included, and whether prices include VAT. This helps people understand your quote without inviting comparisons on the wrong basis.</p>
+
+<h2>Domestic and commercial visitors</h2>
+<p>If you work for both homeowners and commercial clients, separate their paths. Homeowners want reassurance and clear explanations. Commercial clients, property managers and main contractors often want to know your capacity, health and safety approach, insurance levels and how you handle documentation. A separate commercial page, or a short section of the site, lets each audience find what they need without wading through the other.</p>
+
+<h2>Local visibility</h2>
+<p>Roofing is a local search, especially after storms. An areas covered page, consistent contact details and a well-maintained Google Business Profile help. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> cover this. Adding real project write-ups that mention the area naturally tends to be more useful than thin location pages.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most roofers do not need anything complicated. WordPress, Squarespace or Wix can all handle service pages, galleries and forms. What matters more is that you can add new projects and switch on a storm banner yourself without help. If you are unsure, our comparison of <a href="/blog/wix-vs-wordpress-uk/">Wix and WordPress</a> may help.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients nationwide. If you run a roofing business and want a site that explains your work clearly and turns visitors into survey requests, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What pages should a roofer's website have?</h3>
+<p>Typically a homepage, separate pages for repairs, pitched roofs, flat roofs, chimneys and guttering, a project gallery, an areas covered page, an about page and a survey or quote request page.</p>
+<h3>Should I have a storm damage page?</h3>
+<p>If you offer urgent or temporary repairs, yes. It helps people find you quickly when they need help most. Be clear about hours and coverage.</p>
+<h3>Can I say I help with insurance claims?</h3>
+<p>You can say you provide photos and written reports if you do, but avoid implying what an insurer will pay. Customers should check their own policy.</p>
+<h3>Should roofing prices be on my website?</h3>
+<p>Explaining what affects price is usually more useful than listing figures, since roofing jobs vary so much.</p>
+<h3>Are drone photos worth using?</h3>
+<p>They can show roof work far better than ground shots. Make sure any drone use follows current UK rules.</p>
+`,
+  },
 ];
