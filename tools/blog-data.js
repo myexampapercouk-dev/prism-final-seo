@@ -22061,4 +22061,596 @@ module.exports = [
 <p>Often yes, but policies on health products are strict and some ingredients may be prohibited. Check each platform's current policies and UK advertising rules.</p>
 `,
   },
+  {
+    slug: 'coach-website-design-uk',
+    seoTitle: 'Website Design for Coaches UK: A Practical Guide',
+    title: 'Website Design for Coaches in the UK: Pages, Booking and Honest Claims',
+    description: 'Website design guide for UK life, business and career coaches: clear niche, coaching packages, discovery calls, honest claims, payments, privacy and platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>Coaching is a personal service. Whether you work as a life coach, business coach, career coach, executive coach or in a specialist area such as confidence or leadership, people choose a coach largely on whether they feel understood and whether they trust that person to help. A website cannot replace that first conversation, but it can make the difference between someone booking it and someone clicking away.</p>
+<p>This guide is for UK coaches building or improving a website. It covers defining who the site is for, the pages to include, packaging your services, discovery calls and booking, honest claims, payments, privacy and choosing a platform. It is separate from therapy and counselling, which carry different professional and regulatory considerations; our <a href="/blog/therapist-website-design-uk/">therapist website design guide</a> covers those.</p>
+
+<h2>Be clear about who you coach</h2>
+<p>"I help people live their best lives" may be heartfelt, but it rarely helps a visitor decide whether you are right for them. Coaching websites tend to be stronger when they describe a specific person in a specific situation, for example:</p>
+<ul>
+<li>New managers struggling with the step up to leading a team.</li>
+<li>Professionals considering a career change in their forties.</li>
+<li>Small business owners who feel stuck working in the business rather than on it.</li>
+<li>Parents returning to work after a career break.</li>
+</ul>
+<p>When someone reads your home page, they should be able to think "this is about me". If you coach more than one group, consider a separate page for each, written in the language that group uses to describe their situation.</p>
+
+<h2>The pages a coaching website needs</h2>
+<h3>Home page</h3>
+<p>Open with who you help and the change they want, then give a clear next step, usually a discovery call. Follow with a brief explanation of how coaching with you works, a little about you, genuine testimonials if you have them, and the call to action again. Our <a href="/blog/website-hero-section-design/">hero section guide</a> covers that crucial first screen.</p>
+<h3>About page</h3>
+<p>People want to know the person they will be talking to. Share your background, why you became a coach, any coaching training or accreditation you genuinely hold, and your approach. Coaching is not a regulated profession in the UK in the way some health professions are, so be accurate about what any credential means and avoid implying a status you do not have.</p>
+<h3>Coaching packages or services</h3>
+<p>Describe the ways people can work with you. More on structuring these below.</p>
+<h3>How coaching works</h3>
+<p>Many visitors are unsure what coaching actually involves. A page explaining the format of sessions, how often they happen, whether they are online or in person, and what you expect from the client removes uncertainty. It is also a good place to explain what coaching is not, for example that it is not a substitute for medical, legal, financial or mental health support.</p>
+<h3>Testimonials</h3>
+<p>Real words from real clients, used with permission. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> explains how to gather and present them.</p>
+<h3>Contact and booking</h3>
+<p>An easy way to book a discovery call or send a message.</p>
+<h3>Privacy notice and terms</h3>
+<p>Needed if you collect personal data or take payments online. More below.</p>
+
+<h2>Packaging your coaching</h2>
+<p>A list of hourly sessions can make coaching feel like a commodity. Many coaches find it clearer to describe a small number of defined offers, such as:</p>
+<ul>
+<li><strong>A single session or intensive</strong> for a specific decision or challenge.</li>
+<li><strong>A programme</strong> of a set number of sessions over a period, with a defined focus.</li>
+<li><strong>Ongoing coaching</strong> on a monthly basis for people who want continued support.</li>
+<li><strong>Group coaching or workshops</strong> if you run them.</li>
+</ul>
+<p>For each offer, explain who it suits, what is included, how long it lasts and how to start. Only list inclusions you actually provide. Whether you show prices is your decision; many clients appreciate seeing them, and our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> covers different approaches.</p>
+
+<h2>Discovery calls and online booking</h2>
+<p>For most coaches, the main goal of the website is a booked discovery call. Make that easy:</p>
+<ul>
+<li>Use one clear, consistent call to action throughout the site.</li>
+<li>Explain what the call is for, how long it lasts, and that there is no obligation.</li>
+<li>Embed a scheduling tool so people can choose a time without back-and-forth emails.</li>
+<li>Ask only a few questions when booking, enough to prepare without creating a barrier.</li>
+<li>Send a clear confirmation with the date, time, and how to join.</li>
+</ul>
+<p>Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> explains the options and what to consider when choosing a tool. Some coaches prefer a short enquiry form instead, which works well if you like to read about someone before speaking. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers that approach.</p>
+
+<h2>Honest claims and testimonials</h2>
+<p>Coaching marketing sometimes leans on dramatic promises: transformed lives, doubled incomes, guaranteed results. Beyond being off-putting to many readers, these claims can create problems. Marketing on your own website is covered by the UK advertising codes, which the Advertising Standards Authority oversees, and claims generally need to be capable of being backed up. Points to keep in mind:</p>
+<ul>
+<li>Avoid guaranteeing outcomes such as income, promotions or weight loss.</li>
+<li>Do not present one client's experience as typical without good reason.</li>
+<li>Only use testimonials that are genuine and that the client has agreed you can publish.</li>
+<li>Be particularly careful with anything touching on health or mental wellbeing, and signpost appropriate professional support.</li>
+</ul>
+<p>Honest descriptions of how you work and what clients can realistically expect are often more persuasive anyway. If you are unsure about a specific claim, check the ASA's guidance or take advice.</p>
+
+<h2>Taking payments</h2>
+<p>If clients pay online, you have several options depending on your platform: payments taken at booking, invoices sent after a discovery call, or packages bought through a simple checkout. Whatever you choose:</p>
+<ul>
+<li>Make terms clear before payment, including cancellation, rescheduling and refund policies.</li>
+<li>Explain what happens if a client wants to stop part-way through a programme.</li>
+<li>Check your obligations under consumer law for services sold online, including cancellation rights, as these can apply to coaching sold to individuals. Guidance from official sources or a legal adviser is worthwhile here.</li>
+</ul>
+
+<h2>Privacy and data protection</h2>
+<p>Coaching conversations are personal, and booking forms may collect sensitive details. Under UK GDPR, you generally need a privacy notice explaining what you collect, why and how long you keep it. Practical steps include:</p>
+<ul>
+<li>Collecting only the information you need at booking.</li>
+<li>Using reputable, secure tools for forms, scheduling and video calls.</li>
+<li>Being clear about how session notes are stored.</li>
+<li>Setting up a compliant cookie banner if you use analytics or marketing cookies. See our <a href="/blog/cookie-banner-design-uk/">cookie banner design guide</a>.</li>
+</ul>
+<p>The ICO's guidance for small businesses is a useful starting point, and you may need to check whether you are required to pay the data protection fee.</p>
+
+<h2>Content and search</h2>
+<p>Most coaches find clients through referrals, social media, networking and search. Your website can support all of these. Helpful content might include:</p>
+<ul>
+<li>Articles answering questions your ideal clients ask, such as how to know if coaching is right for them.</li>
+<li>Explanations of common challenges in your niche.</li>
+<li>A clear page for each main type of coaching you offer.</li>
+</ul>
+<p>Use descriptive page titles and the words people actually search for, such as "career coach" or "executive coaching", alongside any location if you offer in-person sessions. If you meet clients in person and are eligible, a <a href="/blog/google-business-profile-uk/">Google Business Profile</a> can help with local searches. Our <a href="/blog/seo-for-small-business-uk/">SEO for small business guide</a> covers the basics.</p>
+
+<h2>Design that feels personal</h2>
+<ul>
+<li><strong>Real photographs</strong> of you, ideally natural and warm, help visitors feel they know you.</li>
+<li><strong>A short video</strong> introducing yourself can be powerful for a personal service. See our <a href="/blog/website-video-guide/">website video guide</a>.</li>
+<li><strong>Clean, readable layouts</strong> with plenty of space make it easier to absorb your message.</li>
+<li><strong>Mobile-first design</strong>, since many visitors will arrive from social media on their phones.</li>
+</ul>
+
+<h2>Choosing a platform</h2>
+<p>Squarespace and Wix are popular with coaches because they make it straightforward to build and edit a small site, and both support booking and payments in various ways. WordPress offers more flexibility for coaches who plan to publish a lot of content or sell courses alongside coaching. Our comparisons of <a href="/blog/wix-vs-wordpress-uk/">Wix vs WordPress</a> and <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress</a> explain the trade-offs.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you are a coach looking for a site that explains your work clearly and makes booking simple, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a coaching website include?</h3>
+<p>A clear home page, an about page, your coaching packages, an explanation of how coaching works, genuine testimonials, an easy booking route and a privacy notice.</p>
+<h3>Should coaches show prices on their website?</h3>
+<p>Many do, as it helps visitors judge fit before booking a call. Others prefer to discuss fees on a discovery call. Either can work if you are consistent.</p>
+<h3>Can I promise results on my coaching website?</h3>
+<p>It is wise to avoid guaranteeing outcomes. Marketing claims generally need to be supportable under UK advertising rules, so describe realistic expectations instead.</p>
+<h3>Do coaches need a privacy notice?</h3>
+<p>If you collect personal data through forms, booking or payments, you generally need one under UK GDPR. The ICO's small business guidance is a good starting point.</p>
+<h3>Which platform is best for a coaching website?</h3>
+<p>Squarespace and Wix suit coaches who want a small site they manage themselves. WordPress suits those who plan to publish lots of content or sell courses.</p>
+`,
+  },
+  {
+    slug: 'consultant-website-design-uk',
+    seoTitle: 'Website Design for Consultants UK: A Practical Guide',
+    title: 'Website Design for Consultants in the UK: Winning Trust Before the First Call',
+    description: 'Website design guide for UK consultants: positioning, service pages, proof without overclaiming, enquiry routes, thought leadership, SEO and platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/service-page-design/', '/pricing/'],
+    body: `
+<p>Independent consultants and small consultancies sell something that cannot be seen before it is bought: expertise, judgement and the ability to get results inside someone else's organisation. That makes the website unusually important. A prospective client will often look you up after a referral, a LinkedIn conversation or a search, and decide within a few minutes whether you look credible enough to contact.</p>
+<p>This guide is for UK consultants, whether you work in management, operations, HR, IT, marketing, sustainability or a specialist niche, who want a website that supports how they actually win work. It covers positioning, the pages that matter, how to show proof without overclaiming, enquiry routes, content, search and platform choice.</p>
+
+<h2>Start with positioning, not design</h2>
+<p>The most common weakness on consultant websites is vagueness. Phrases such as "helping businesses grow" or "delivering transformational change" could describe almost anyone. Before thinking about layout or colours, try to answer three questions in plain language:</p>
+<ul>
+<li><strong>Who do you help?</strong> A sector, a company size, a job title or a situation, such as founders preparing for investment or councils procuring new systems.</li>
+<li><strong>What problem do you solve?</strong> Describe it the way a client would describe it, not in your own technical shorthand.</li>
+<li><strong>What changes after working with you?</strong> The outcome a client is hoping for, stated carefully and without promising results you cannot guarantee.</li>
+</ul>
+<p>A narrower, clearer message can feel risky, but it usually helps the right people recognise themselves. If you genuinely serve several audiences, you can give each one its own page while keeping the home page focused on what ties them together.</p>
+
+<h2>The pages a consultant's website needs</h2>
+<p>Most consultants do not need a large site. A focused set of pages, each doing a clear job, tends to work better than dozens of thin ones.</p>
+<h3>Home page</h3>
+<p>Your home page should state who you help and how in the first screen, then give visitors a route to the next step. A short summary of services, a sense of your approach, some proof and a clear call to action are usually enough. Our <a href="/blog/website-homepage-design/">homepage design guide</a> goes into structure in more detail.</p>
+<h3>Services or ways of working</h3>
+<p>Many consultants offer a mix of engagement types: a diagnostic or audit, a defined project, ongoing advisory support, workshops or interim roles. Explaining these as distinct offers helps buyers understand what they could actually commission. For each one, cover who it suits, what is typically involved, roughly how long it takes and what the client receives. Our guide to <a href="/blog/service-page-design/">service page design</a> covers this in depth.</p>
+<h3>About page</h3>
+<p>For a consultant, the about page is often one of the most visited pages. Buyers want to know whose judgement they are paying for. Include your background, relevant experience, qualifications or professional memberships you genuinely hold, and why you work the way you do. A good, natural photograph helps. The <a href="/blog/about-us-page-writing/">about us page guide</a> has practical tips.</p>
+<h3>Approach or process</h3>
+<p>A page explaining how an engagement usually runs can reduce uncertainty. It does not need to be elaborate. A few stages, such as an initial conversation, scoping, delivery and review, described honestly, give buyers a sense of what to expect.</p>
+<h3>Insights or articles</h3>
+<p>Useful writing shows how you think. It also gives you something to share and gives search engines more to understand. More on this below.</p>
+<h3>Contact page</h3>
+<p>Make it easy to get in touch, with more than one route where practical. More on enquiries below.</p>
+
+<h2>Showing proof without overclaiming</h2>
+<p>Proof is where consultant websites often go wrong in one of two directions: either there is none at all, or there are bold claims that a cautious buyer will not believe. Aim for specific, verifiable and honest.</p>
+<ul>
+<li><strong>Case studies with permission.</strong> Consulting work is often confidential. Only publish client names, details or outcomes where you have clear permission. An anonymised case study describing the situation, your approach and what changed can still be valuable.</li>
+<li><strong>Testimonials that are real.</strong> Use genuine quotes, attributed in a way the client has agreed to. Never write or embellish testimonials. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> covers how to collect and present them.</li>
+<li><strong>Credentials.</strong> Professional qualifications, chartered status or memberships are useful if you hold them. Do not imply accreditation you do not have.</li>
+<li><strong>Your thinking.</strong> Articles, talks or frameworks you have developed show expertise in a way that does not rely on naming clients.</li>
+</ul>
+<p>Be careful with numbers. Claims about savings, revenue growth or percentage improvements should be accurate, attributable and, ideally, agreed with the client. The Advertising Standards Authority's rules apply to marketing claims on your own website, so it is worth checking their guidance if you are unsure. Our article on <a href="/blog/website-trust-signals/">website trust signals</a> has more ideas.</p>
+
+<h2>Pricing: to show or not to show</h2>
+<p>Consulting fees often depend on scope, so many consultants do not publish prices. That is a reasonable choice, but complete silence can deter some buyers. Middle-ground options include:</p>
+<ul>
+<li>Publishing a starting point for a defined offer, such as a fixed-scope diagnostic.</li>
+<li>Explaining how you price, whether by day rate, project or retainer, without giving figures.</li>
+<li>Describing what affects cost so buyers can judge whether you are likely to fit their budget.</li>
+</ul>
+<p>Whatever you choose, be consistent with how you actually quote. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> explores the options.</p>
+
+<h2>Designing a low-pressure enquiry route</h2>
+<p>Consulting buyers are often early in their thinking when they first visit. A single "Book a call" button may feel like too big a step for some. Consider offering a few routes:</p>
+<ul>
+<li><strong>A short contact form.</strong> Name, email, organisation and a free-text box describing the challenge. Keep it brief. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a>.</li>
+<li><strong>An introductory call booking.</strong> A scheduling tool for a short, no-obligation conversation suits buyers who are ready to talk. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> covers options.</li>
+<li><strong>Email and phone.</strong> Some senior buyers simply prefer to email directly.</li>
+</ul>
+<p>Say what happens after someone gets in touch, such as when you usually reply. If you collect personal data through forms, you will generally need a privacy notice; the ICO's guidance for small businesses is a sensible starting point.</p>
+
+<h2>Content that demonstrates expertise</h2>
+<p>For many consultants, a modest amount of genuinely useful writing does more than any design flourish. Good topics often come from questions clients ask before they hire you:</p>
+<ul>
+<li>How to tell whether you need outside help with a particular problem.</li>
+<li>Common mistakes organisations make in your area.</li>
+<li>Explanations of regulations, frameworks or methods relevant to your clients, carefully hedged where they touch on legal points.</li>
+<li>How to prepare for a project like the ones you run.</li>
+</ul>
+<p>Quality matters more than frequency. A handful of thorough, well-structured articles that you can send to prospects can be more useful than frequent short posts. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> covers planning.</p>
+
+<h2>Search visibility for consultants</h2>
+<p>Many consultants win most work through referrals and networks, so search may be a secondary channel. Even so, people who hear your name will often search for it, and some buyers search for specialist help directly. Basic steps include:</p>
+<ul>
+<li>Clear, descriptive page titles and headings that use the words buyers use.</li>
+<li>A dedicated page for each main service or audience.</li>
+<li>Consistent business details if you have a Google Business Profile and are eligible for one.</li>
+<li>Fast, mobile-friendly pages with a sensible structure.</li>
+</ul>
+<p>Our guide to <a href="/blog/professional-services-seo-uk/">SEO for professional services</a> goes further, and <a href="/blog/b2b-seo-uk/">B2B SEO</a> is relevant if you sell to organisations.</p>
+
+<h2>Design choices that suit consulting</h2>
+<p>Consultant sites rarely need elaborate visuals. What helps most is clarity:</p>
+<ul>
+<li><strong>Readable typography</strong> with generous spacing, because buyers will read your words carefully.</li>
+<li><strong>Restrained colour</strong> that reflects your brand without distracting from content.</li>
+<li><strong>Real photography</strong> of you rather than generic stock images of handshakes and boardrooms.</li>
+<li><strong>Clear navigation</strong> so visitors can find services, about and contact quickly.</li>
+<li><strong>Accessibility</strong> considered from the start, which also tends to improve clarity for everyone. See our <a href="/blog/website-accessibility-uk/">website accessibility guide</a>.</li>
+</ul>
+
+<h2>Choosing a platform</h2>
+<p>The right platform depends on how much you want to manage yourself and how much content you plan to publish.</p>
+<ul>
+<li><strong>Squarespace or Wix</strong> can suit a small, design-led site you edit yourself.</li>
+<li><strong>WordPress</strong> suits consultants who plan to publish regularly or want more flexibility over structure and SEO.</li>
+<li><strong>A custom build</strong> may make sense for a consultancy with several consultants, complex service lines or specific integration needs.</li>
+</ul>
+<p>Our comparison of <a href="/blog/website-builder-vs-custom-website/">website builders and custom websites</a> explains the trade-offs, and <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress</a> compares two common choices.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Describing services in jargon that only other consultants understand.</li>
+<li>Hiding who you are behind a corporate "we" when buyers want to know the person.</li>
+<li>Publishing client logos or outcomes without permission.</li>
+<li>Making it hard to find contact details.</li>
+<li>Launching a blog and abandoning it, leaving old posts that suggest the business is inactive.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you are a consultant looking to clarify your positioning and build a site that supports how you win work, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a consultant's website include?</h3>
+<p>A clear home page, service pages for each type of engagement, an about page, a short explanation of your approach, genuine proof, some useful articles and an easy way to get in touch.</p>
+<h3>Should consultants publish their day rate?</h3>
+<p>It is a personal choice. Some publish a starting price for a defined offer or explain how they price without figures, which can help buyers judge fit.</p>
+<h3>Can I mention clients I have worked with?</h3>
+<p>Only with permission. Consulting work is often confidential, so check agreements and ask before naming clients, using logos or sharing results.</p>
+<h3>Do consultants need a blog?</h3>
+<p>Not necessarily, but a few thorough articles that answer client questions can show expertise and give you useful material to share with prospects.</p>
+<h3>Which platform is best for a consultant website?</h3>
+<p>Squarespace or Wix suit a small site you manage yourself. WordPress suits more content. A custom build may suit larger consultancies with specific needs.</p>
+`,
+  },
+  {
+    slug: 'shopify-candle-home-fragrance-uk',
+    seoTitle: 'Shopify for Candle and Home Fragrance Brands UK',
+    title: 'Shopify for Candle and Home Fragrance Brands in the UK',
+    description: 'Running a UK candle, wax melt or diffuser brand on Shopify: describing scent online, safety labelling, scent variants, subscriptions, shipping and growth.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Candles, wax melts, reed diffusers, room sprays and other home fragrance products are a popular category for small UK brands. They are giftable, they are bought repeatedly, and they lend themselves to strong branding. Selling them online brings a particular challenge, however: the thing customers care about most, the scent, cannot be experienced through a screen.</p>
+<p>This guide is for UK candle and home fragrance brands running or planning a Shopify store. It covers describing scent, product page structure, safety and labelling information, variants, samples and subscriptions, shipping fragile and heavy items, and how to grow visibility. If you sell homeware more broadly, our <a href="/blog/shopify-furniture-homeware-uk/">Shopify for furniture and homeware guide</a> may also be useful.</p>
+
+<h2>Why Shopify suits home fragrance brands</h2>
+<p>Shopify is a common choice for this category because it handles product variants well, supports subscriptions and gift cards through built-in features and apps, and offers themes suited to visual, brand-led stores. If you also sell at markets or pop-ups, Shopify POS keeps stock in sync; our <a href="/blog/shopify-pos-uk-retail/">Shopify POS guide</a> explains how. Brands already on WordPress may prefer WooCommerce, and our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> covers the trade-offs. If you are moving from Etsy, see our <a href="/blog/etsy-to-shopify-migration/">Etsy to Shopify migration guide</a>.</p>
+
+<h2>Describing scent online</h2>
+<p>Because customers cannot smell a candle before buying, words, images and structure have to do the work. Approaches that can help:</p>
+<ul>
+<li><strong>Scent notes.</strong> Many brands describe top, middle and base notes, or a simpler list of key notes. Keep the format consistent across all products so shoppers can compare.</li>
+<li><strong>Evocative but clear descriptions.</strong> A short paragraph describing the mood or setting a scent suggests, followed by plain details.</li>
+<li><strong>Scent families.</strong> Grouping fragrances as fresh, floral, woody, spicy, fruity or gourmand helps shoppers find what they like.</li>
+<li><strong>Intensity guidance.</strong> An honest indication of whether a scent is subtle or strong, if you can describe it consistently.</li>
+<li><strong>Room suggestions.</strong> Whether a scent might suit a kitchen, living room or bedroom.</li>
+</ul>
+<p>Scent families work well as Shopify collections or filters, so a customer who likes woody scents can see every relevant product across candles, melts and diffusers. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> covers writing copy that sells without overclaiming.</p>
+
+<h2>Product page essentials</h2>
+<p>Beyond scent, home fragrance shoppers look for practical details. A strong product page typically includes:</p>
+<ul>
+<li><strong>Size and weight</strong> of the product, plus vessel dimensions.</li>
+<li><strong>Approximate burn time</strong> for candles, stated only if you have tested it and described as an estimate.</li>
+<li><strong>Wax type and wick</strong>, if relevant to your customers.</li>
+<li><strong>Vessel details</strong>, such as whether the container can be reused or recycled.</li>
+<li><strong>Safety and usage guidance</strong>, with a link to full information.</li>
+<li><strong>Photography</strong> showing the product lit and unlit, the label, the vessel and scale. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> has tips.</li>
+</ul>
+<p>Be careful with claims. Statements about wax being natural, clean-burning, non-toxic or eco-friendly need to be accurate and supportable. The Competition and Markets Authority's guidance on green claims and the UK advertising codes overseen by the Advertising Standards Authority are worth reading. Avoid wellbeing or health claims, such as suggesting a scent treats stress or improves sleep, unless you have taken advice.</p>
+
+<h2>Safety and labelling information</h2>
+<p>Candles and fragrance products often contain ingredients that can trigger chemical classification and labelling requirements, and candles also carry fire safety considerations. In Great Britain, rules on classification, labelling and packaging of chemicals, often referred to as CLP, may apply, and products must generally be safe under general product safety law. Northern Ireland may follow different rules in some areas.</p>
+<p>This is a specialist area and requirements can change, so this guide does not attempt to set them out. Points worth checking with official guidance from GOV.UK, the Health and Safety Executive and the Office for Product Safety and Standards, and with a qualified safety assessor or adviser, include:</p>
+<ul>
+<li>Whether your products need hazard pictograms, warning statements or other label information.</li>
+<li>What safety information should accompany products and how it is presented.</li>
+<li>Whether label or safety information should also appear on your website, so customers can see it before buying.</li>
+<li>How changes to fragrance oils or formulations affect your labelling.</li>
+</ul>
+<p>On the website side, a sensible approach is to make safety and usage information easy to find, for example in a tab on each product page and on a dedicated page, and to keep it consistent with your physical labels.</p>
+
+<h2>Structuring variants</h2>
+<p>Home fragrance ranges often grow quickly: several scents, each available as a candle in more than one size, a wax melt, a diffuser and a refill. How you structure this in Shopify affects navigation, stock control and search.</p>
+<ul>
+<li><strong>One product per scent and format, with size as a variant</strong> is a common approach, keeping each page focused.</li>
+<li><strong>One product per scent with format as a variant</strong> can work for small ranges, but different formats often need different descriptions and images.</li>
+<li><strong>Linking related products</strong>, such as showing the matching diffuser on a candle page, helps shoppers find the same scent in another format.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-product-variants-and-bundles/">variants and bundles guide</a> explains the options in more depth. Whatever you choose, keep naming consistent.</p>
+
+<h2>Samples, discovery sets and gift sets</h2>
+<p>Because scent is hard to judge online, smaller formats can lower the barrier to a first purchase:</p>
+<ul>
+<li><strong>Discovery sets</strong> of small candles or wax melts in several scents.</li>
+<li><strong>Sample sizes</strong> where your products and margins allow.</li>
+<li><strong>Gift sets</strong> combining products, which also suit seasonal peaks.</li>
+</ul>
+<p>These can be set up as bundles or as standalone products. Christmas is often an important period for giftable products like these, so plan collections, stock and dispatch dates in advance. Our <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation guide</a> and <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards guide</a> are relevant here.</p>
+
+<h2>Repeat purchases and subscriptions</h2>
+<p>Candles burn down and diffusers run out, so repeat purchase is natural in this category. Ways to support it include:</p>
+<ul>
+<li><strong>Refills</strong> for diffusers or reusable vessels, if you offer them.</li>
+<li><strong>Subscriptions</strong> for regular deliveries, set up through Shopify's subscription features or an app.</li>
+<li><strong>Customer accounts</strong> that make reordering a favourite scent quick. See our <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists guide</a>.</li>
+<li><strong>Email marketing</strong> timed around typical repurchase intervals and new scent launches.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions guide</a> covers subscription models and the terms to make clear, and our <a href="/blog/ecommerce-loyalty-programmes/">loyalty programmes guide</a> looks at rewarding repeat customers.</p>
+
+<h2>Shipping fragile and heavy items</h2>
+<p>Glass vessels and liquid diffusers can break or leak in transit, and candles can be heavy. Plan for:</p>
+<ul>
+<li><strong>Protective packaging</strong> that keeps glass secure, ideally tested before launch.</li>
+<li><strong>Weight-based shipping rates</strong> in Shopify that reflect real carrier costs.</li>
+<li><strong>Heat</strong>, as wax can soften in hot weather, which may affect packaging or dispatch timing in summer.</li>
+<li><strong>Carrier restrictions</strong> on liquids or flammable items, which vary by carrier and destination. Check directly with your carriers, especially for international orders.</li>
+<li><strong>A clear policy for damaged items</strong> on your delivery and returns page.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-packaging-and-unboxing/">packaging and unboxing guide</a> and <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns guide</a> cover these in more detail.</p>
+
+<h2>Getting found</h2>
+<p>People search for home fragrance in many ways: by product, such as "soy candles" or "reed diffuser", by scent, such as "fig candle", or by occasion, such as "candle gift set". Collection pages for scent families, formats and gifts, each with a short, useful introduction, give search engines more to understand. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> and <a href="/blog/product-page-seo-uk/">product page SEO guide</a> explain the essentials. For paid visibility, our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> covers how product ads work.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs, builds and improves Shopify stores for UK brands, working remotely across the UK. If you run a candle or home fragrance brand and want a store that helps customers choose scents with confidence, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for a candle business?</h3>
+<p>It can be. Shopify handles variants, subscriptions, gift cards and bundles well, and connects with POS for markets and pop-up shops.</p>
+<h3>How do I describe candle scents online?</h3>
+<p>Use a consistent format such as key scent notes, a short evocative description, a scent family and honest intensity guidance, plus clear photography.</p>
+<h3>Do candles need safety labels in the UK?</h3>
+<p>Often, depending on ingredients. Chemical labelling and product safety rules may apply, so check official guidance and consider a specialist safety assessor.</p>
+<h3>How should I ship candles and diffusers?</h3>
+<p>Use protective packaging tested for glass and liquids, set weight-based rates, consider summer heat and check carrier restrictions.</p>
+<h3>Should I offer candle subscriptions?</h3>
+<p>They can suit a product that is used up and reordered. Make terms, delivery frequency and cancellation clear before customers sign up.</p>
+`,
+  },
+  {
+    slug: 'shopify-gift-stationery-brand-uk',
+    seoTitle: 'Shopify for Gift and Stationery Brands UK',
+    title: 'Shopify for Gift and Stationery Brands in the UK: A Practical Guide',
+    description: 'Running a UK gift, card or stationery brand on Shopify: gift finders, personalisation, multi-buy, wholesale, postage, seasonal peaks and product pages.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-store-setup-uk/', '/pricing/'],
+    body: `
+<p>Gift, greetings card and stationery brands have a particular shape as online businesses. Many products are relatively low in price, orders often contain several items, shoppers frequently buy for someone else, and sales tend to rise sharply around a handful of occasions. Many brands in this space start on marketplaces or at craft fairs and move to their own store as they grow.</p>
+<p>This guide is for UK gift, card and stationery brands running or planning a Shopify store. It covers navigation, product pages, personalisation, multi-buy and bundles, postage for small items, wholesale, seasonal planning and growth. If you currently sell on Etsy, our <a href="/blog/etsy-to-shopify-migration/">Etsy to Shopify migration guide</a> covers moving across.</p>
+
+<h2>Why Shopify suits gift and stationery brands</h2>
+<p>Shopify is a common choice for product brands in this category because it handles a large catalogue of variants well, supports discounts and gift cards, and has a wide range of themes and apps. It also connects with Shopify POS if you sell at markets or fairs, which our <a href="/blog/shopify-pos-uk-retail/">Shopify POS guide</a> covers. That said, it is not the only option. WooCommerce can suit brands already invested in WordPress, and our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> explains the trade-offs.</p>
+
+<h2>Navigation built around how people shop for gifts</h2>
+<p>Someone buying a gift often does not know what they want. They know who it is for, what the occasion is and roughly how much they want to spend. Your store navigation can reflect that:</p>
+<ul>
+<li><strong>By occasion:</strong> birthdays, weddings, new baby, thank you, sympathy, Christmas, Valentine's Day, Mother's Day, Father's Day.</li>
+<li><strong>By recipient:</strong> for her, for him, for friends, for teachers, for children.</li>
+<li><strong>By product type:</strong> cards, notebooks, planners, wrapping paper, prints, pens.</li>
+<li><strong>By budget:</strong> gifts under a certain amount, which can be useful for impulse and add-on purchases.</li>
+</ul>
+<p>In Shopify, collections, including automated ones based on tags, make it possible to place a single product in several of these groupings without duplicating it. Keep tagging consistent so collections stay accurate as the range grows. Our guides to <a href="/blog/website-navigation-structure/">website navigation</a> and <a href="/blog/ecommerce-category-page-design/">category page design</a> go into more detail, and good <a href="/blog/ecommerce-site-search/">site search</a> helps shoppers who know exactly what they want.</p>
+
+<h2>Product pages for small, detailed items</h2>
+<p>Stationery and gifts are bought on detail: paper weight, size, finish, what is inside a card, whether a notebook lies flat. Product pages should answer these questions clearly:</p>
+<ul>
+<li><strong>Dimensions and specifications</strong>, such as card size, envelope colour, page count, ruling style and paper weight.</li>
+<li><strong>Photography with scale</strong>, showing the product in a hand or alongside familiar objects, plus close-ups of texture and print. Our <a href="/blog/ecommerce-product-photography/">product photography guide</a> covers this.</li>
+<li><strong>Inside and back views</strong> for cards and notebooks.</li>
+<li><strong>Materials and sustainability details</strong>, only where you can back them up, such as recycled content or plastic-free packaging.</li>
+<li><strong>Delivery information</strong>, including dispatch times and cut-off dates near key occasions.</li>
+</ul>
+<p>Environmental claims in particular need to be accurate and supportable. The Competition and Markets Authority has published guidance on green claims that is worth reading before describing products as eco-friendly or sustainable. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> covers writing clear copy.</p>
+
+<h2>Personalisation</h2>
+<p>Personalised gifts and cards, such as names, dates or custom messages, are popular in this category. They also bring operational risk: typos, unclear instructions and mismatched orders. Points to consider:</p>
+<ul>
+<li>Use clear input fields with character limits that match what can actually be printed.</li>
+<li>Show a preview if your setup allows, or at least an example of how text will appear.</li>
+<li>Ask customers to confirm spelling, and explain that personalised items may not be returnable unless faulty.</li>
+<li>Make sure personalisation details appear clearly on orders and packing slips.</li>
+</ul>
+<p>Shopify supports custom fields on product pages through themes and apps, and more complex live previews may need a dedicated app or custom development. Consumer law has specific provisions for personalised goods, so check how cancellation rights apply and state your policy plainly. Our <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages guide</a> covers how to present policies.</p>
+
+<h2>Multi-buy, bundles and gift sets</h2>
+<p>Because many items are low in price, increasing order value matters. Common approaches include:</p>
+<ul>
+<li><strong>Multi-buy offers</strong>, such as a discount when buying several cards.</li>
+<li><strong>Curated gift sets</strong>, such as a notebook, pen and card packaged together.</li>
+<li><strong>Card add-ons</strong> offered alongside gifts, with an option to include a handwritten message.</li>
+<li><strong>Free delivery thresholds</strong> set at a level that makes sense for your margins.</li>
+</ul>
+<p>Shopify's built-in discounts handle many of these, and bundles can be set up as separate products or with apps. Our <a href="/blog/ecommerce-product-variants-and-bundles/">variants and bundles guide</a> explains the options. Test every offer carefully to make sure discounts stack, or do not stack, as intended.</p>
+
+<h2>Gift options at checkout</h2>
+<p>Shoppers buying for someone else often want:</p>
+<ul>
+<li>The option to send directly to the recipient.</li>
+<li>A gift message.</li>
+<li>Gift wrapping, if you offer it.</li>
+<li>No prices on the packing slip.</li>
+</ul>
+<p>Make sure your packing slip template and fulfilment process support these options before you advertise them. Digital gift cards are another option for last-minute buyers; our <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers guide</a> covers them in depth.</p>
+
+<h2>Postage for small, flat items</h2>
+<p>Cards, prints and stationery are often light and flat, which can make postage relatively affordable, but delivery costs can still eat into margin on low-value orders. Consider:</p>
+<ul>
+<li>Setting shipping rates by weight in Shopify, with sensible bands for letters, large letters and parcels.</li>
+<li>Offering a choice of delivery speeds, especially near occasions.</li>
+<li>Protecting cards and prints with stiffened envelopes or board-backed packaging.</li>
+<li>Showing clear dispatch cut-off dates for key events.</li>
+</ul>
+<p>Check current postage options and costs directly with carriers, as they change. Our <a href="/blog/ecommerce-packaging-and-unboxing/">packaging and unboxing guide</a> covers presentation, which matters when the parcel is itself a gift.</p>
+
+<h2>Wholesale to independent shops</h2>
+<p>Many gift and stationery brands sell wholesale to independent retailers alongside their own store. Shopify can support this in several ways, depending on your plan and setup, such as a password-protected wholesale area, customer-specific pricing or a separate store. Plan for:</p>
+<ul>
+<li>Minimum order quantities and pack sizes.</li>
+<li>Trade pricing that does not appear to retail customers.</li>
+<li>Payment terms and invoicing.</li>
+<li>Clear wholesale terms and a simple application process.</li>
+</ul>
+<p>Keep stock in sync across retail and wholesale channels so you do not oversell during busy periods. Our guide to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> covers how to show availability to shoppers.</p>
+
+<h2>Planning for seasonal peaks</h2>
+<p>For many gift and card brands, a significant share of the year's sales can arrive around Christmas, with further peaks around Valentine's Day, Mother's Day and Father's Day. Preparation might include:</p>
+<ul>
+<li>Building occasion landing pages and collections well in advance so they have time to be found.</li>
+<li>Planning stock, packaging and staffing for busy weeks.</li>
+<li>Publishing clear last order dates.</li>
+<li>Scheduling emails to past customers ahead of each occasion.</li>
+<li>Testing site speed and checkout before traffic rises.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation guide</a> covers this in detail, and our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> explains how to plan campaigns.</p>
+
+<h2>Getting found</h2>
+<p>Search is important for gift brands because many shoppers start with a query such as "personalised wedding card" or "teacher thank you gift". Good <a href="/blog/shopify-seo-uk/">Shopify SEO</a> includes descriptive collection pages for occasions and product types, unique product descriptions, and helpful content such as gift guides. Google Shopping can also suit this category; our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> explains how it works.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs, builds and improves Shopify stores for UK brands, working remotely across the UK. If you run a gift, card or stationery brand and want a store built around how your customers shop, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Shopify good for a stationery or greetings card business?</h3>
+<p>It can be. Shopify handles large catalogues, variants, discounts and gift cards well, and connects with POS for markets and fairs.</p>
+<h3>How do I offer personalised products on Shopify?</h3>
+<p>Through custom fields added by your theme or an app. Use clear character limits, ask customers to check spelling and state your returns policy for personalised items.</p>
+<h3>Can I sell wholesale and retail from one Shopify store?</h3>
+<p>Often, yes, depending on your plan and setup. Options include a protected wholesale area or customer-specific pricing. Some brands use a separate store.</p>
+<h3>How should I set postage for cards and small items?</h3>
+<p>Weight-based rates with sensible bands usually work well. Check current carrier options and costs, and protect flat items with stiffened packaging.</p>
+<h3>When should I prepare for Christmas?</h3>
+<p>Well ahead of the season. Build collections and landing pages early, plan stock and packaging, and publish clear last order dates.</p>
+`,
+  },
+  {
+    slug: 'tutoring-business-website-uk',
+    seoTitle: 'Tutoring Business Website UK: A Practical Guide',
+    title: 'Building a Website for a Tutoring Business in the UK',
+    description: 'How to build a website for a UK tutoring business: subjects and levels, reassuring parents, safeguarding, booking, children\'s data, local search, platforms.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/education/', '/pricing/'],
+    body: `
+<p>Families looking for a tutor are often anxious. A child may be falling behind, an exam may be approaching or a parent may simply want extra support. They will usually compare several options, and the tutoring business that explains itself most clearly and reassuringly has a real advantage. That applies whether you are an independent tutor building a reputation in your area, or a small tutoring company with a team of tutors working online or in person.</p>
+<p>This guide is for UK tutors and tutoring businesses planning a new website or improving an existing one. It covers who the site is for, the pages to include, how to present subjects and tutors, safeguarding information, booking and payments, handling children's data, local search and platform choice.</p>
+
+<h2>Two audiences: parents and students</h2>
+<p>For school-age tutoring, the parent or carer usually finds the website, compares options and pays. The student is the one who will actually sit through the sessions. Adult learners, such as university students or people preparing for professional exams, are both. A good tutoring website keeps this in mind:</p>
+<ul>
+<li><strong>Parents</strong> want to know that tutors are suitable, sessions are safe, the approach works for their child and the practical details fit their family.</li>
+<li><strong>Students</strong>, especially older ones, want to know sessions will be helpful, relevant to their course and not a chore.</li>
+<li><strong>Adult learners</strong> want clarity on expertise, flexibility and cost.</li>
+</ul>
+<p>Most sites lead with parents, while including content that older students will find relevant, such as exam board specifics and study tips.</p>
+
+<h2>The pages a tutoring website needs</h2>
+<h3>Home page</h3>
+<p>State clearly what you tutor, for which levels, and whether sessions are online, in person or both. If you work locally, name the area. Then provide a clear next step, such as booking an initial consultation or sending an enquiry.</p>
+<h3>Subjects and levels</h3>
+<p>Families search with specific needs in mind: GCSE maths, A level chemistry, 11 plus preparation, KS2 English, or adult numeracy. Dedicated pages for your main subjects or levels help visitors find what they need, and help search engines understand what you offer. On each page, explain what you cover, which exam boards or curricula you are familiar with, and how sessions are structured.</p>
+<h3>Tutors</h3>
+<p>For an independent tutor, this is your about page. For a tutoring company, a page introducing tutors can be very reassuring. Include relevant qualifications, teaching experience and subjects, but only with each tutor's agreement, and only accurate details.</p>
+<h3>How it works</h3>
+<p>Explain the journey from first enquiry to regular sessions: an initial conversation, perhaps an assessment, matching with a tutor, session frequency and how progress is shared with parents. Describe what you genuinely do rather than an idealised process.</p>
+<h3>Fees and policies</h3>
+<p>Practical information about costs, payment, cancellations and missed sessions. More below.</p>
+<h3>Safeguarding</h3>
+<p>A clear page or section on how you keep children safe. More below.</p>
+<h3>Contact</h3>
+<p>Simple, with a form, email and phone where practical.</p>
+
+<h2>Reassuring parents</h2>
+<p>Trust is central for tutoring. Things that help parents feel confident include:</p>
+<ul>
+<li><strong>Tutor credentials</strong>, such as degrees, teaching qualifications or relevant experience, described accurately.</li>
+<li><strong>A clear approach</strong> to how you assess needs, plan sessions and track progress.</li>
+<li><strong>Genuine testimonials</strong> from parents or students, published with permission. Avoid naming children. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> has more tips.</li>
+<li><strong>Realistic expectations.</strong> Avoid promising specific grades or exam results. Outcomes depend on many factors, and marketing claims generally need to be supportable under UK advertising rules.</li>
+<li><strong>Professional presentation</strong>, with a clear contact route, business details and up-to-date information.</li>
+</ul>
+<p>Our article on <a href="/blog/website-trust-signals/">website trust signals</a> covers more general ideas.</p>
+
+<h2>Safeguarding information</h2>
+<p>Parents reasonably want to know how children are kept safe, especially when sessions take place one-to-one, at home or online. What you say must be accurate. Depending on your setup, you might explain:</p>
+<ul>
+<li>Whether tutors hold criminal record checks and what level, if applicable.</li>
+<li>Your safeguarding policy and who to contact with a concern.</li>
+<li>How online sessions are conducted, such as whether parents can be present or whether sessions are recorded.</li>
+<li>Expectations around communication between tutors and students.</li>
+</ul>
+<p>Rules on criminal record checks and safeguarding responsibilities can be complex and depend on the work involved. The tutoring sector in England is not regulated in the same way as schools, so it is worth reading official guidance from GOV.UK and the Disclosure and Barring Service, or the equivalent bodies in Scotland and Northern Ireland, and taking advice where needed. Never state that checks are in place unless they are.</p>
+
+<h2>Fees, booking and payment</h2>
+<p>Unclear pricing is a common reason families move on to another option. Consider including:</p>
+<ul>
+<li>Session lengths and how fees are charged, or how they are worked out if they vary by level.</li>
+<li>Whether you sell individual sessions, blocks or monthly plans.</li>
+<li>Payment methods and when payment is due.</li>
+<li>Your cancellation and missed session policy.</li>
+<li>Any arrangements for school holidays.</li>
+</ul>
+<p>If you publish fees, keep them up to date. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> explains different ways to present them.</p>
+<p>For booking, many tutoring businesses start with an enquiry form, because matching a student with the right tutor needs a conversation. Once a student is set up, a scheduling tool can make regular bookings easier. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> and <a href="/blog/website-contact-forms/">contact forms guide</a> cover both approaches. Consumer law can give customers cancellation rights for services bought online or at a distance, so check how these apply to your terms.</p>
+
+<h2>Children's data and privacy</h2>
+<p>Tutoring businesses often handle information about children: names, ages, schools, learning needs and sometimes details of special educational needs or health conditions. This needs care.</p>
+<ul>
+<li>Collect only the information you need, particularly on enquiry forms.</li>
+<li>Provide a clear privacy notice explaining what you collect, why and how long you keep it.</li>
+<li>Be aware that information about health or additional needs may be treated as special category data under UK GDPR.</li>
+<li>Use secure tools for forms, scheduling, payments and video calls.</li>
+<li>If your website or any online service is likely to be used by children directly, look at the ICO's Children's Code to see whether it applies.</li>
+</ul>
+<p>The ICO publishes guidance for small businesses and on children's data. It is worth reading and, where you are unsure, taking advice.</p>
+
+<h2>Local search and online visibility</h2>
+<p>Many families search for tutors near them, even for online sessions. Useful steps include:</p>
+<ul>
+<li>Including your town or area on relevant pages if you offer in-person tutoring.</li>
+<li>Setting up a <a href="/blog/google-business-profile-uk/">Google Business Profile</a> if you are eligible, with accurate details.</li>
+<li>Creating subject and level pages that match how people search.</li>
+<li>Publishing helpful content such as exam preparation tips, revision timetables or guides to entrance exams, written carefully and kept current.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the basics, and our <a href="/blog/education-marketing-agency-uk/">education marketing guide</a> covers the wider sector.</p>
+
+<h2>Design considerations</h2>
+<ul>
+<li><strong>Calm, clear design</strong> rather than overly busy or childish visuals, as parents are usually the decision makers.</li>
+<li><strong>Mobile-friendly pages</strong>, since many parents search on their phones.</li>
+<li><strong>Accessible content</strong>, including readable fonts and good contrast, which helps families with different needs. See our <a href="/blog/website-accessibility-uk/">website accessibility guide</a>.</li>
+<li><strong>Real photos</strong> of tutors, used with consent, rather than generic stock images. Take extra care before using images of children, and get clear consent from parents.</li>
+</ul>
+
+<h2>Choosing a platform</h2>
+<p>An independent tutor may be well served by Squarespace or Wix, which make it easy to build and update a small site. A tutoring company with several subjects, many tutors, location pages or a resource library may benefit from WordPress, which handles larger amounts of content well. If you plan to sell courses or learning materials, factor that into your choice. Our <a href="/blog/website-builder-vs-custom-website/">website builder vs custom website guide</a> explains the trade-offs.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the UK. If you run a tutoring business and want a site that reassures parents and makes enquiries easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/sectors/education/">education sector page</a>, check our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a tutoring website include?</h3>
+<p>Subjects and levels, tutor details, how sessions work, fees and policies, safeguarding information, genuine testimonials, a privacy notice and an easy way to enquire.</p>
+<h3>Should tutors put their prices online?</h3>
+<p>Many do, as families often compare costs. If fees vary by level or format, explain how they are worked out and keep the information current.</p>
+<h3>Do I need to mention DBS checks on my website?</h3>
+<p>Parents often look for this information. Only state what is true, and check official guidance on which checks apply to your work.</p>
+<h3>Can I promise exam results on my website?</h3>
+<p>It is best not to. Results depend on many factors, and marketing claims generally need to be supportable, so describe your approach and realistic expectations.</p>
+<h3>How do I get more tutoring enquiries from Google?</h3>
+<p>Create clear subject and level pages, mention your area if you tutor in person, set up a Google Business Profile if eligible and publish helpful content.</p>
+`,
+  },
 ];
