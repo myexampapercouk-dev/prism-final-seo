@@ -26910,4 +26910,493 @@ module.exports = [
 <p>They can, but give weddings their own section so couples are not distracted by corporate or party content.</p>
 `,
   },
+  {
+    slug: 'architect-website-design-uk',
+    seoTitle: 'Architect Website Design UK: Portfolios That Win Work',
+    title: 'Architect Website Design: Portfolios, Process and Credibility',
+    description: 'Website design for UK architects and practices: project portfolios, clear service pages, explaining your process, ARB title rules and fast, image-led pages.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/architect-marketing-uk/', '/pricing/'],
+    body: `
+<p>For an architecture practice, the website is often the portfolio, the brochure and the first conversation rolled into one. Potential clients, from homeowners planning an extension to developers and public bodies, look at your projects to judge your taste, your competence and whether you have done something like their job before. Design matters, but so does clarity: many visitors have never hired an architect and need help understanding what you do and what happens next.</p>
+<p>This guide is about the website itself. For profile building, awards entries, social media, PR and lead generation, see our guide to <a href="/blog/architect-marketing-uk/">architect marketing in the UK</a>.</p>
+
+<h2>Know which clients you want</h2>
+<p>An architecture website should be shaped by the work you want more of. A residential practice focused on extensions and new homes speaks to private clients who need reassurance and plain language. A practice working on commercial, education or healthcare projects is speaking to procurement teams, developers and consultants who want evidence of relevant experience, process and capability. Many practices do both, and the navigation should let each audience find its route quickly.</p>
+<p>Decide which project types, sectors and locations matter most, and let those priorities shape the home page, the order of projects and the service pages.</p>
+
+<h2>A structure that works for many practices</h2>
+<ul>
+<li><strong>Projects</strong>: the portfolio, filterable by sector or project type if you have enough work.</li>
+<li><strong>Services</strong>: what you offer, such as feasibility, design, planning applications, technical design and contract administration, as relevant to your practice.</li>
+<li><strong>How we work</strong>: the stages of a project with you, fees approach and what clients should expect.</li>
+<li><strong>About</strong>: the practice, its approach, the people and their qualifications.</li>
+<li><strong>Journal or news</strong>, only if you will keep it going.</li>
+<li><strong>Contact</strong>, with an enquiry form that asks useful questions.</li>
+</ul>
+
+<h2>Project pages that explain, not just show</h2>
+<p>Many architecture sites present projects as a full-screen gallery with a one-line title. That can look striking, but it leaves potential clients guessing. A strong project page usually includes:</p>
+<ul>
+<li>The project type, location (as precise as the client is happy with), and the year completed.</li>
+<li>The brief: what the client needed and any constraints, such as a tight site, a conservation area or a limited budget.</li>
+<li>Your response: the key design decisions and why you made them.</li>
+<li>Your role, particularly if you worked with other practices or only delivered certain stages.</li>
+<li>Drawings, sketches or diagrams alongside photography where possible.</li>
+<li>Credits for photographers, contractors and collaborators.</li>
+</ul>
+<p>Be accurate about your involvement. If a project was designed while a director worked at another practice, say so. If you delivered only the planning stage, do not imply you saw it through to completion. Do not describe a project as award-winning unless it has won the award named.</p>
+<p>Get permission from clients before publishing their homes or projects, and be careful with private residential work: avoid exact addresses and anything that compromises the owners' privacy or security.</p>
+
+<h2>Photography and image rights</h2>
+<p>Architecture is visual, and good photography is central. Check the licence for every image: professional photographers usually license images for specific uses, and you may need permission to use them on your website, social media or in print. Credit photographers in the way your agreement requires. Visualisations should be clearly identified as such, so visitors do not mistake a render for a completed building.</p>
+
+<h2>Keeping image-heavy pages fast</h2>
+<p>Large photographs are the main reason architecture sites load slowly, especially on phones. Export images at sensible dimensions, use modern formats where your platform supports them, let images load as the visitor scrolls, and avoid uploading original camera files. Full-screen video headers look impressive but can be heavy; if you use one, make sure the page still works well without it. Our guides to <a href="/blog/website-image-optimisation/">website image optimisation</a> and <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> cover the details.</p>
+
+<h2>Explaining services and process</h2>
+<p>A homeowner who has never commissioned an architect may not know what a feasibility study is, when planning permission is needed or what happens after it is granted. A clear "How we work" page, describing the stages of a project with you in plain English, removes a lot of uncertainty. Many practices structure this around the RIBA Plan of Work stages; if you do, explain what each stage means for the client rather than just listing names.</p>
+<p>Be careful not to give definitive planning or building regulations advice on the website. Requirements vary between local authorities and change over time, so phrase guidance in general terms and encourage visitors to discuss their own situation with you.</p>
+<p>On fees, you can explain how you charge, for example a percentage, fixed fee per stage or hourly rate, without publishing figures if you prefer. That helps clients understand what to expect before they get in touch.</p>
+
+<h2>The ARB and use of the title architect</h2>
+<p>In the UK, the title "architect" is protected by law, and only people registered with the Architects Registration Board may use it in the course of business. This matters for your website. Describe team members accurately: a registered architect, an architectural assistant, a Part 2 graduate or an architectural technologist each has a different status. If a practice name or description uses the word architect, check that it meets ARB requirements. ARB also has a code of conduct covering how registered architects present themselves and their services.</p>
+<p>If you are a RIBA chartered practice or a member of another professional body, you may be able to display its logo, but only within the rules set by that body and only while the membership is current. Check the current guidance from the ARB and any professional body you belong to rather than relying on general advice. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present credentials well.</p>
+
+<h2>Team and about pages</h2>
+<p>Clients are hiring people, so show who they will work with. Short profiles with role, qualifications and areas of interest are more useful than long biographies. Use real photographs. Keep the page updated as people join and leave, and do not list people who no longer work at the practice.</p>
+
+<h2>Enquiry forms that save time</h2>
+<p>A good enquiry form helps you qualify leads without putting people off. Ask for name, contact details, project type, location and a short description, and optionally a rough timeframe and budget range. Avoid long, mandatory forms. Tell visitors what happens next and when they can expect a reply. Store enquiries securely and explain how you use personal data in a clear privacy notice, in line with UK GDPR.</p>
+
+<h2>Choosing a platform</h2>
+<p>Architecture sites need flexible, image-led layouts that are still easy to update. WordPress offers a lot of flexibility and is widely used. Hosted builders such as Squarespace and Wix make it simple to add projects without technical help. Whatever you use, set up a project template so new case studies are consistent and quick to publish. Our guide to <a href="/blog/wordpress-small-business-website/">WordPress for small business websites</a> may help if you are weighing up options.</p>
+
+<h2>Journal and insight content</h2>
+<p>A journal can show how your practice thinks, but only if it is kept up. Useful topics include explaining a design approach, what clients should consider before an extension, or reflections on a completed project. Write for potential clients rather than other architects, and avoid presenting general information as definitive planning or regulatory advice. A small number of considered articles is better than a news page that stopped years ago.</p>
+
+<h2>Common mistakes on architecture websites</h2>
+<ul>
+<li>Galleries with no context, roles or credits.</li>
+<li>Huge image files that make pages slow on mobile.</li>
+<li>Renders presented as if they were completed buildings.</li>
+<li>Team members described as architects when they are not registered.</li>
+<li>No explanation of how working with the practice actually works.</li>
+<li>Navigation so minimal that visitors cannot find the contact page.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with practices across the country. If you want a website that shows your projects well and explains your services clearly, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Regulatory wording should always be checked against current ARB guidance by your practice.</p>
+
+<h2>FAQs</h2>
+<h3>Who can call themselves an architect on their website?</h3>
+<p>In the UK, only people registered with the Architects Registration Board can use the title in business. Check current ARB guidance for how this applies to your practice and staff.</p>
+<h3>How many projects should a portfolio show?</h3>
+<p>Enough to show your range and the work you want more of, presented well. Quality and context matter more than quantity.</p>
+<h3>Can I show projects from a previous practice?</h3>
+<p>Only if you make your role and the practice involved clear, and have any necessary permissions.</p>
+<h3>Should I publish my fees?</h3>
+<p>It is up to you. Explaining how you charge, even without figures, helps clients understand what to expect.</p>
+<h3>Can I use renders on my website?</h3>
+<p>Yes, but label them clearly so visitors can tell them apart from completed work.</p>
+`,
+  },
+  {
+    slug: 'florist-website-design-uk',
+    seoTitle: 'Florist Website Design UK: Online Orders and Delivery',
+    title: 'Florist Website Design: Selling Flowers Online Locally',
+    description: 'Website design for UK florists: online ordering, delivery areas and dates, gift messages, wedding and event enquiries, seasonal stock and mobile checkout.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/florist-marketing-uk/', '/pricing/'],
+    body: `
+<p>Most people who visit a florist's website want to send flowers to someone, often for a specific date, sometimes at the last minute, usually on a phone. A florist website therefore works more like a local delivery shop than a brochure. If customers cannot quickly tell whether you deliver to their recipient's postcode on the day they need, they will order elsewhere. At the same time, weddings, funerals and events bring a different kind of customer who needs a conversation, not a basket.</p>
+<p>This guide covers the website itself. For local search, social media, seasonal campaigns and wider promotion, see our guide to <a href="/blog/florist-marketing-uk/">florist marketing in the UK</a>.</p>
+
+<h2>Two kinds of customer, two journeys</h2>
+<p>Florist sites usually serve two very different groups:</p>
+<ul>
+<li><strong>Gift buyers</strong>, ordering bouquets for birthdays, anniversaries, sympathy or thank-yous, who want a quick, reliable checkout.</li>
+<li><strong>Event clients</strong>, planning weddings, funerals or corporate flowers, who want to see your style, discuss options and get a quote.</li>
+</ul>
+<p>Design separate routes for each. A clear "Shop flowers" route leads to products and checkout; a "Weddings and events" route leads to portfolio pages and an enquiry form. Mixing them, for example asking a couple to add a wedding package to a basket, rarely works well.</p>
+
+<h2>A structure that suits many florists</h2>
+<ul>
+<li><strong>Shop</strong>: bouquets, arrangements, plants and gifts, grouped by occasion and by type.</li>
+<li><strong>Sympathy and funeral flowers</strong>: handled sensitively, with a route to discuss tributes.</li>
+<li><strong>Weddings and events</strong>: portfolio, approach and enquiry form.</li>
+<li><strong>Delivery information</strong>: areas, charges, cut-off times and how deliveries work.</li>
+<li><strong>About and visit us</strong>: the shop, opening hours and address.</li>
+<li><strong>Contact</strong>.</li>
+</ul>
+
+<h2>Delivery areas, dates and cut-offs</h2>
+<p>Delivery is the heart of a florist's ecommerce site. Make it clear before the customer gets far into checkout:</p>
+<ul>
+<li>Which areas you deliver to, ideally with a postcode checker on product pages or early in checkout.</li>
+<li>Delivery charges, which may vary by distance.</li>
+<li>Your same-day cut-off time, and what happens to orders placed after it.</li>
+<li>Days you do not deliver, and how busy periods such as Valentine's Day and Mother's Day are handled.</li>
+<li>What happens if the recipient is out.</li>
+</ul>
+<p>Use a date picker that blocks dates you cannot deliver, rather than accepting an order and calling the customer to explain. Most ecommerce platforms, including Shopify and WooCommerce, can support delivery dates and local delivery zones, either built in or through apps and plugins. Test the full flow on a phone for an order placed just before and just after your cut-off.</p>
+
+<h2>Product pages for a product that varies</h2>
+<p>Flowers are natural and seasonal, so the bouquet a customer receives may not look exactly like the photo. Say this honestly on product pages and in your terms: explain that you may substitute stems of similar style and value when particular flowers are unavailable. Under UK consumer law, customers are generally entitled to receive goods as described, so the description should be accurate and the substitution policy clear. Check your terms with a suitable adviser.</p>
+<p>Good product pages include clear photos of your own arrangements, a short description of the style and main flowers, size options with photos if possible, care information, and whether a vase is included. Avoid stock images that do not show your actual work.</p>
+<p>Perishable goods made to order may be treated differently from other goods when it comes to cancellation rights, but the rules are specific. Check the current Consumer Contracts Regulations guidance rather than assuming no refunds apply.</p>
+
+<h2>Gift messages and recipient details</h2>
+<p>Checkout needs to handle two people: the buyer and the recipient. Make it obvious where to enter the recipient's name, address and phone number, and where to write the card message, with a character limit shown. Offer an option to keep the sender anonymous if you provide that. Ask only for the information you need for delivery, and handle recipients' data carefully in line with UK GDPR, as they have not dealt with you directly.</p>
+
+<h2>Seasonal ranges and peak days</h2>
+<p>Valentine's Day, Mother's Day and Christmas can bring a large share of orders in a short time. Plan the site around them: seasonal collections that can be switched on and off, banners with clear cut-off dates, and limited product ranges at peak times if that helps you fulfil reliably. Make sure your hosting and checkout can cope, and consider capping orders per delivery slot so you do not take more than you can deliver. Remove seasonal banners promptly afterwards so the site does not look neglected.</p>
+
+<h2>Sympathy and funeral flowers</h2>
+<p>Funeral flowers need a calm, respectful section. Keep the design understated, explain how delivery to funeral directors works, ask for the funeral details you need, and offer a phone number for people who would rather talk. Bespoke tributes are often better handled through an enquiry form or call than a standard product page.</p>
+
+<h2>Weddings and events pages</h2>
+<p>Couples choose a wedding florist mainly on style. Show real weddings you have done, with permission from the couples and credit to photographers where their images are used. Explain your approach, the kinds of items you provide, how far in advance to book and how consultations work. If you have a minimum spend, saying so can save time for everyone. A short enquiry form asking for the date, venue and rough style is usually enough to start the conversation.</p>
+
+<h2>Mobile checkout and speed</h2>
+<p>Many flower orders are placed on a phone, often in a hurry. Keep checkout short, offer common payment methods including digital wallets where your platform supports them, and make sure the delivery date and message steps are easy on a small screen. Compress product photos so pages load quickly. Our guides to <a href="/blog/website-image-optimisation/">website image optimisation</a> and <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> cover these areas in more detail.</p>
+
+<h2>Choosing a platform</h2>
+<p>Shopify and WooCommerce both suit florists who want a proper online shop with delivery dates and local zones. Squarespace and Wix can work for smaller ranges. Consider how easily you can update products as stock changes, how delivery dates and cut-offs are handled, and whether the platform works with the tools you already use. Our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce</a> may help.</p>
+
+<h2>Local trust signals</h2>
+<p>Customers ordering for local delivery want to know you are a real local florist. Show your shop address, opening hours and a photo of the shop, keep details consistent with your Google Business Profile, and link to genuine reviews. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/website-trust-signals/">website trust signals</a> explain more.</p>
+
+<h2>Subscriptions and corporate flowers</h2>
+<p>Some florists offer recurring deliveries, such as weekly flowers for a home, or regular arrangements for offices, hotels and restaurants. These suit a different presentation from one-off gifts. A subscription product needs clear wording on frequency, price per delivery, how to pause or cancel and what happens around bank holidays. Recurring payments must be set up so customers understand exactly what they are agreeing to, and cancelling should be straightforward.</p>
+<p>Corporate clients usually want a conversation and a tailored quote rather than a checkout. A short page explaining the kinds of business flowers you provide, with photos of real installations used with permission, and an enquiry form, is often enough.</p>
+
+<h2>Order confirmations and customer updates</h2>
+<p>Because flowers are usually a gift for someone else, buyers can be anxious about whether the order arrived. Clear confirmation emails that repeat the delivery date, address and card message help, as does a short message once the order is delivered, if your systems support it. Make your contact details easy to find in every email so customers can reach you quickly if something needs changing. Keep marketing emails separate and only send them where the customer has given appropriate consent.</p>
+
+<h2>Common mistakes on florist websites</h2>
+<ul>
+<li>Delivery areas and cut-offs only revealed at the end of checkout.</li>
+<li>Stock photos that do not reflect what the customer receives.</li>
+<li>No clear substitution policy.</li>
+<li>Wedding enquiries forced through a shop basket.</li>
+<li>Out-of-date seasonal banners.</li>
+<li>Checkout that is difficult on a phone.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you run a florist and want a website that handles local delivery orders smoothly and showcases your event work, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can customers choose a delivery date on my website?</h3>
+<p>Yes. Shopify, WooCommerce and other platforms can support delivery date selection, either built in or through apps or plugins.</p>
+<h3>How do I handle flower substitutions?</h3>
+<p>State your substitution policy clearly on product pages and in your terms, and substitute with flowers of similar style and value.</p>
+<h3>Should wedding flowers be sold through the shop?</h3>
+<p>Usually not. An enquiry form and consultation suit weddings and events better than a basket.</p>
+<h3>How do I limit orders on busy days?</h3>
+<p>Many platforms allow you to cap orders per delivery date or slot, or block dates when you are full.</p>
+<h3>Do cancellation rights apply to flowers?</h3>
+<p>The rules for perishable and personalised goods are specific. Check current Consumer Contracts Regulations guidance and take advice.</p>
+`,
+  },
+  {
+    slug: 'photographer-website-design-uk',
+    seoTitle: 'Photographer Website Design UK: Portfolio to Bookings',
+    title: 'Photographer Website Design: From Portfolio to Booked Shoots',
+    description: 'Website design for UK photographers: curated portfolios, service and package pages, fast image loading, client galleries, image protection and enquiries.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/photographer-marketing-uk/', '/pricing/'],
+    body: `
+<p>For a photographer, the website is the shop window. Visitors decide within seconds whether your style suits them, then look for what you offer, roughly what it costs and how to book. A beautiful gallery alone is not enough: if potential clients cannot work out whether you cover their date, location or type of shoot, they move on to the next search result.</p>
+<p>This guide is about designing the website. For social media, directories, referrals and advertising, see our guide to <a href="/blog/photographer-marketing-uk/">photographer marketing in the UK</a>.</p>
+
+<h2>Organise the site around what clients book</h2>
+<p>Many photographers work across several areas, such as weddings, families, newborns, corporate headshots, events or products. Each attracts a different client with different questions. Rather than one mixed portfolio, give each service its own page with its own gallery, explanation and enquiry route. That helps visitors see relevant work immediately and gives search engines a clear page for each type of shoot.</p>
+<p>If one area brings in most of your income or is where you want to grow, make it the most prominent. A site that tries to give equal weight to everything can feel unfocused.</p>
+
+<h2>A structure that suits many photographers</h2>
+<ul>
+<li><strong>Home</strong>: a strong selection of your best work and clear routes into each service.</li>
+<li><strong>Service pages</strong>: weddings, portraits, commercial or whatever you offer, each with a curated gallery.</li>
+<li><strong>Pricing or packages</strong>: either full prices or a clear starting point and what affects cost.</li>
+<li><strong>About</strong>: who you are, your approach, and what a shoot with you is like.</li>
+<li><strong>Client stories or real shoots</strong>: full sets from individual sessions, with consent.</li>
+<li><strong>FAQs</strong>: travel, turnaround, how images are delivered, what happens if it rains.</li>
+<li><strong>Contact or enquire</strong>.</li>
+</ul>
+<p>Because the brand is "you", it is tempting to lead with an about page. In practice, visitors usually want to see the work first, then learn about the person behind it.</p>
+
+<h2>Curating the portfolio</h2>
+<p>A tightly curated portfolio is usually more persuasive than a huge one. Show the work that represents the shoots you want to be booked for, in a consistent style. Remove older images that no longer reflect your standard. For weddings and events, showing a full story from a single day can help couples picture their own, alongside a highlights gallery.</p>
+<p>Order matters. Put your strongest, most representative images first on each page, and think about the flow, mixing wide shots, details and close portraits so the gallery is not repetitive.</p>
+
+<h2>Image quality versus page speed</h2>
+<p>Photographers face a real tension: images need to look excellent, but full-resolution files make pages painfully slow on a phone. The answer is not to lower your standards but to prepare images for the web. Export at dimensions suited to how they are displayed, use sensible compression, use modern formats where your platform supports them, and let galleries load images as the visitor scrolls. Test each gallery on a mobile connection, not just your studio broadband. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> goes into more detail, and <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains how speed is measured.</p>
+<p>Avoid heavy effects such as autoplaying slideshows with music, or galleries that hijack scrolling. They tend to frustrate visitors and can make the site harder to use with assistive technology.</p>
+
+<h2>Consent and the people in your photos</h2>
+<p>Photographs of identifiable people are personal data, and using them to promote your business needs care. Have a clear written agreement, often in your booking contract, about whether you can use images on your website and social media, and respect clients who say no. Take particular care with children, newborns and sensitive settings, and do not publish images that reveal where someone lives or their children's school. Your privacy notice should explain how you handle client images and data under UK GDPR. The Information Commissioner's Office has guidance if you are unsure.</p>
+<p>For commercial work, check whether your contract with the client allows you to show the images in your portfolio, and whether any embargo applies.</p>
+
+<h2>Pricing and packages</h2>
+<p>Clients often want a sense of cost before they enquire. You can publish full packages, "from" prices, or an explanation of what affects price, such as hours of coverage, number of edited images, albums, travel or usage rights for commercial work. Whatever you choose, be clear and accurate about what is included, and keep the page updated. Hidden extras that only appear later damage trust and may conflict with consumer protection rules on clear pricing.</p>
+
+<h2>Image protection: realistic expectations</h2>
+<p>Many photographers worry about image theft. Disabling right-click or adding heavy watermarks offers limited protection and can make the site feel less polished. More practical steps are publishing web-sized rather than full-resolution files, adding copyright information to image metadata, including a short copyright notice in the footer and acting on misuse when you find it. You own copyright in your photographs in most circumstances, but contracts can change that, so check your agreements.</p>
+
+<h2>Client galleries and print sales</h2>
+<p>Many photographers deliver images through a dedicated online gallery service, which often includes downloads and print ordering. You can link to it from your site or, with some platforms, integrate it more closely. If you sell prints, wall art or presets directly, a simple shop built with Shopify, WooCommerce or your website builder's ecommerce features may suit. Our guide to <a href="/blog/shopify-art-print-sellers-uk/">Shopify for art print sellers</a> covers selling prints online in more depth.</p>
+
+<h2>The enquiry form</h2>
+<p>The enquiry form is where browsing becomes booking. Ask for the essentials: name, email, type of shoot, date if relevant, location and a short message. For weddings, asking for the venue and guest numbers can help you reply with a tailored quote. Keep it short, say when you will respond, and send an automatic confirmation so people know the message arrived. If you offer online booking for simpler sessions, such as headshots or minis, see our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a>.</p>
+
+<h2>Local and niche search</h2>
+<p>Most photographers serve a particular area. Mention the regions you cover on your service pages and in your footer, and keep your name, location and contact details consistent with your Google Business Profile. Avoid creating dozens of near-identical pages for every town nearby; pages for genuinely distinct areas or venues you have photographed at, with real images and useful content, are more helpful. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>Squarespace and Wix are popular with photographers for their image-led templates and ease of use. WordPress offers more flexibility for blogs and custom layouts. Shopify suits photographers whose main business is selling prints or products. Choose based on how you will run the business and how comfortable you are updating it yourself.</p>
+
+<h2>Writing about your work</h2>
+<p>Photographers often let images speak for themselves, but a little text goes a long way. Short introductions on each service page explaining your approach, what a session involves and who it suits help visitors decide whether you are right for them, and give search engines something to understand. Blog posts or real-shoot write-ups about a particular venue, location or type of session can be useful too, as long as they are written for potential clients rather than stuffed with keywords. Add descriptive alt text to key images so they make sense to people using screen readers.</p>
+
+<h2>Testimonials and reviews</h2>
+<p>Kind words from past clients are persuasive, but only if they are genuine. Use real feedback with the client's permission, do not edit it in a way that changes the meaning, and do not invent or combine quotes. Linking to your Google reviews shows feedback visitors can check for themselves.</p>
+
+<h2>Common mistakes on photography websites</h2>
+<ul>
+<li>One huge mixed gallery with no clear services.</li>
+<li>Full-resolution images that make pages slow on phones.</li>
+<li>No indication of price or what is included.</li>
+<li>Publishing clients' photos without clear permission.</li>
+<li>Contact details hidden behind a long, complicated form.</li>
+<li>Old work that no longer reflects your current style.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you are a photographer who wants a fast, focused website that turns portfolio views into enquiries, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I show prices on my photography website?</h3>
+<p>Showing at least a starting price or what affects cost helps clients decide. Be clear about what is included.</p>
+<h3>How many images should my portfolio have?</h3>
+<p>Enough to show your style and range for each service, carefully curated. Fewer strong images usually work better than many average ones.</p>
+<h3>Do I need permission to put clients' photos on my website?</h3>
+<p>Get clear permission, ideally in your contract, and take extra care with children and sensitive shoots.</p>
+<h3>How do I stop my images loading slowly?</h3>
+<p>Export at web dimensions, compress sensibly, use lazy loading and test on a phone.</p>
+<h3>Which platform is best for photographers?</h3>
+<p>Squarespace, Wix and WordPress are all common. Shopify suits those focused on selling prints.</p>
+`,
+  },
+  {
+    slug: 'physiotherapy-clinic-website-design-uk',
+    seoTitle: 'Physiotherapy Clinic Website Design UK',
+    title: 'Physiotherapy Clinic Website Design: Bookings, Trust and Clarity',
+    description: 'Website design for UK physiotherapy clinics: condition and treatment pages, online booking, HCPC registration details, insurer information and careful claims.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/physiotherapy-clinic-marketing-uk/', '/pricing/'],
+    body: `
+<p>Someone looking for a physiotherapist is usually in pain or recovering from an injury, often searching on a phone, and wants to know three things quickly: can this clinic help with my problem, when can I be seen, and how do I book. A physiotherapy clinic website that answers those questions clearly, while building trust in the clinicians, does far more than a generic brochure site.</p>
+<p>This guide covers the design and content of the website itself. For local search, advertising, referral relationships and other promotion, see our guide to <a href="/blog/physiotherapy-clinic-marketing-uk/">physiotherapy clinic marketing in the UK</a>.</p>
+
+<h2>Start with the patient's journey</h2>
+<p>Most physio patients follow a similar path. They notice a problem, search for help, compare a few clinics, then book an initial assessment. Some come through a GP suggestion, an employer, a sports club or a private health insurer. Your site should make sense at each of those points.</p>
+<ul>
+<li>A person searching "physio for back pain near me" needs to land on a page about back pain, not a generic home page.</li>
+<li>An insured patient needs to know whether you work with their insurer and what they need before booking.</li>
+<li>A returning patient just wants the booking link and the address.</li>
+</ul>
+
+<h2>A structure that suits many clinics</h2>
+<ul>
+<li><strong>Conditions</strong>: pages for the problems you commonly treat, such as back pain, neck pain, knee injuries or post-operative rehabilitation.</li>
+<li><strong>Treatments and services</strong>: assessment, manual therapy, exercise rehabilitation, sports physiotherapy, and any other services your clinicians are qualified to offer.</li>
+<li><strong>Your first appointment</strong>: what happens, how long it takes, what to wear and what to bring.</li>
+<li><strong>Prices and insurance</strong>: fees or a clear link to them, plus how insured and self-funding patients book.</li>
+<li><strong>Our team</strong>: clinicians, their qualifications and areas of interest.</li>
+<li><strong>Book online</strong>, plus phone and email.</li>
+<li><strong>Location</strong>: address, parking, public transport and accessibility of the premises.</li>
+</ul>
+<p>If you have more than one clinic, give each location its own page with its address, opening hours, team and directions. That helps patients and gives search engines clear local information.</p>
+
+<h2>Condition and treatment pages</h2>
+<p>Condition pages are often the most useful pages on a physio site, but they need care. Explain the problem in plain language, describe how an assessment works, outline the kinds of treatment that may be used and when someone should seek urgent medical help instead. Each page should end with a clear route to book.</p>
+<p>Avoid promising outcomes. Phrases like "cure your back pain" or "guaranteed results" are not appropriate. Healthcare advertising in the UK is subject to the Advertising Standards Authority's rules and the CAP Code, which generally expect health claims to be backed by evidence. Keep language measured, such as "physiotherapy may help with", and make sure every treatment you describe is one your clinicians are trained and insured to provide.</p>
+<p>Write each page for the condition it covers rather than reusing the same text with a different heading. Thin, repeated pages are unhelpful for patients and unlikely to perform well in search.</p>
+
+<h2>Showing qualifications and registration accurately</h2>
+<p>In the UK, "physiotherapist" and "physical therapist" are protected titles, and practitioners using them must be registered with the Health and Care Professions Council. Many patients and insurers will expect to see this. On your team page, list each clinician's role and qualifications, and consider stating their HCPC registration so patients can check it on the public register.</p>
+<p>Only display memberships, accreditations or insurer recognition you actually hold, and keep them current. If a clinician leaves, update the team page promptly. If your clinic also employs sports therapists, massage therapists or other practitioners, describe their roles accurately so patients understand who they will see. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present this kind of information well.</p>
+
+<h2>Online booking</h2>
+<p>Online booking can reduce phone calls and let patients book outside opening hours. Many clinics use a practice management system with a booking widget that can be embedded in the site. When designing around it:</p>
+<ul>
+<li>Make the booking button visible on every page, especially on mobile.</li>
+<li>Name appointment types clearly, for example "Initial assessment" and "Follow-up", with durations.</li>
+<li>Explain any cancellation policy before the patient confirms.</li>
+<li>Check that the embedded booking tool looks consistent with your site and works on a phone.</li>
+<li>Offer a phone number for patients who prefer to talk to someone first.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers the wider choices.</p>
+
+<h2>Prices and insurance information</h2>
+<p>Patients appreciate clarity on cost. Whether you list fees on the site or explain them at booking, make it easy to understand what an initial assessment and a follow-up appointment cost. If you treat insured patients, explain the general process, such as whether patients need a pre-authorisation code from their insurer, and avoid listing insurers you are not recognised by. Keep the page updated whenever fees or arrangements change.</p>
+
+<h2>Health information and data protection</h2>
+<p>Contact forms and booking systems on a physio site can collect health information, which is special category data under UK GDPR. Collect only what you need before the appointment, make sure forms are secure, explain how information is used in a clear privacy notice, and check how your booking provider stores data. The Information Commissioner's Office publishes guidance, and your professional body may also have advice. Avoid asking for detailed medical history through an ordinary contact form; that is usually better handled within your clinical system.</p>
+
+<h2>Reviews and patient stories</h2>
+<p>Reviews matter to people choosing a clinic, but they must be genuine. Do not write reviews yourself, edit them to change their meaning or show only selected quotes in a misleading way. If you share patient stories, get written consent, respect confidentiality and avoid implying that every patient will have the same outcome. Linking to your Google reviews is a straightforward way to show independent feedback.</p>
+
+<h2>Accessibility and the physical clinic</h2>
+<p>Many physio patients have limited mobility, are in pain or are older. The site should be easy to read and use: clear text, good contrast, large tap targets and simple forms. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> explains the basics.</p>
+<p>Information about the premises is part of accessibility too. Say whether there is step-free access, a lift, nearby parking or accessible toilets. A patient on crutches needs to know before they arrive.</p>
+
+<h2>Photos and video</h2>
+<p>Real photos of your clinic, treatment rooms and team are more reassuring than stock images of athletes. Short videos explaining what happens at a first appointment, or demonstrating common exercises, can be useful, but should not replace individual clinical advice. Add a note that exercises should be done as directed by a clinician. Compress images and avoid auto-playing video so pages stay fast.</p>
+
+<h2>Local search signals on the site</h2>
+<p>Most physio searches are local. Use consistent clinic names, addresses and phone numbers across the site and your Google Business Profile, include a map and directions on each location page, and mention the areas you realistically serve without creating near-identical pages for every nearby town. Our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a> go further.</p>
+
+<h2>Pages for referrers and employers</h2>
+<p>Some clinics receive patients through GPs, consultants, sports clubs or employers. If that is part of your work, a short page explaining how referrals work, what information you need and how you communicate with the referrer can be helpful. Keep it factual, describe only arrangements you actually have, and do not imply NHS involvement or partnerships that do not exist.</p>
+
+<h2>Common mistakes on physiotherapy websites</h2>
+<ul>
+<li>Booking buttons hidden or missing on mobile.</li>
+<li>Condition pages that promise cures or results.</li>
+<li>Team pages that are out of date or omit registration details.</li>
+<li>Unclear prices and insurance arrangements.</li>
+<li>Forms collecting detailed health information without proper safeguards.</li>
+<li>No information on parking or step-free access.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with businesses across the country. If you run a physiotherapy clinic and want a website that explains your services clearly and makes booking easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Clinical content and regulatory claims should always be checked by your own clinicians and advisers.</p>
+
+<h2>FAQs</h2>
+<h3>Should a physio website have a page for each condition?</h3>
+<p>For the main conditions you treat, yes. Each page should be genuinely useful and written for that condition, not repeated text.</p>
+<h3>Do I need to show HCPC registration on my website?</h3>
+<p>Physiotherapists must be HCPC registered to use the title. Showing registration details helps patients check them; confirm any specific requirements with your professional body.</p>
+<h3>Can I take bookings online?</h3>
+<p>Yes, most clinic management systems offer a booking widget that can be embedded. Make sure it works well on a phone.</p>
+<h3>Should I list my prices?</h3>
+<p>Clear pricing helps patients decide. If you do not list them, explain at booking what each appointment costs.</p>
+<h3>What can I say about treatment results?</h3>
+<p>Keep claims measured and evidence-based, in line with the ASA and CAP Code. Avoid promising cures or guaranteed outcomes.</p>
+`,
+  },
+  {
+    slug: 'school-website-design-uk',
+    seoTitle: 'School Website Design UK: Parents, Staff and Ofsted',
+    title: 'School Website Design: Clear for Parents, Easy for Staff',
+    description: 'School website design for UK schools: navigation for parents, statutory information pages, accessibility, safeguarding-aware content and easy staff updates.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/school-marketing-uk/', '/pricing/'],
+    body: `
+<p>A school website has a surprising number of jobs. It is the first impression for families choosing a school, the daily reference point for current parents, a place where certain required information is published, a recruitment tool for staff and, often, something inspectors and governors look at too. It is usually kept up to date by a busy school office rather than a dedicated web team. Good design takes all of that into account.</p>
+<p>This guide focuses on the website itself: structure, content, compliance-related pages, accessibility and maintenance. For admissions campaigns, open events, social media and wider promotion, see our guide to <a href="/blog/school-marketing-uk/">school marketing in the UK</a>.</p>
+
+<h2>Who uses a school website</h2>
+<p>Before deciding on pages, it helps to be honest about who actually visits and why:</p>
+<ul>
+<li><strong>Current parents and carers</strong>, looking for term dates, letters, the lunch menu, uniform details, club information or who to contact about an absence.</li>
+<li><strong>Prospective families</strong>, trying to get a feel for the school, its ethos, results where published, and how admissions work.</li>
+<li><strong>Pupils</strong>, particularly in secondary schools, looking for homework platforms, revision resources or timetables.</li>
+<li><strong>Job applicants</strong>, checking vacancies and what the school is like to work for.</li>
+<li><strong>Governors, local authority staff and inspectors</strong>, checking policies and required information.</li>
+</ul>
+<p>Current parents are often the largest and most frequent group, yet many school sites are designed mainly as a brochure for prospective families. A good design does both: an attractive, welcoming home page, plus fast routes to the practical things parents need every week.</p>
+
+<h2>A structure that suits many schools</h2>
+<ul>
+<li><strong>About us</strong>: welcome message, vision and values, staff and governors, history, contact details.</li>
+<li><strong>Admissions</strong>: how to apply, key dates, open events, admissions policy and links to the local authority where relevant.</li>
+<li><strong>Parents</strong>: term dates, letters and newsletters, uniform, meals, attendance, clubs, and how to report an absence.</li>
+<li><strong>Curriculum</strong>: what is taught, how, and subject-by-subject information if appropriate.</li>
+<li><strong>Key information</strong>: policies, performance information, pupil premium and sports premium reports, SEND information and other published documents.</li>
+<li><strong>News and events</strong>, if someone will keep it current.</li>
+<li><strong>Vacancies</strong>.</li>
+<li><strong>Contact</strong>, with address, phone, email and a map.</li>
+</ul>
+<p>Keep the top-level navigation short and use labels parents would use themselves. "Parents" and "Term dates" tend to be clearer than internal terms. A small set of quick links on the home page, such as term dates, letters, lunch menu and report an absence, can save a lot of clicks and phone calls.</p>
+
+<h2>Statutory and required information</h2>
+<p>In England, maintained schools and academies are generally required to publish specific information on their websites, and the Department for Education publishes guidance listing what is expected. For academies, further requirements can come from the funding agreement and the academy trust handbook. Independent schools have their own requirements, and schools in Scotland, Wales and Northern Ireland follow different rules set by their own governments and inspectorates.</p>
+<p>Requirements change from time to time, so the safest approach is to check the current official guidance for your type of school, and take advice from your local authority, trust or governing body where needed, rather than relying on a checklist copied from another school's site. From a design point of view, the useful things are:</p>
+<ul>
+<li>A clearly labelled area for required information, so it can be found by anyone checking.</li>
+<li>Documents named descriptively and dated, for example "Behaviour policy, reviewed autumn 2026" rather than "Policy v3 final".</li>
+<li>A simple way for staff to replace an outdated document without leaving the old version live elsewhere on the site.</li>
+<li>A review schedule so someone checks the section each term.</li>
+</ul>
+<p>Avoid stating on the site that it is "fully compliant" unless that has been properly checked. It is better to keep the information accurate and current.</p>
+
+<h2>Documents, PDFs and letters</h2>
+<p>School websites tend to accumulate PDFs: letters home, policies, menus, newsletters. PDFs are often harder to read on a phone and can be inaccessible to screen reader users if not created carefully. Where practical, publish short, frequently used information such as term dates, uniform details and the lunch menu as normal web pages, and keep PDFs for documents that genuinely need to be downloaded or printed.</p>
+<p>When PDFs are needed, create them from a properly structured source document with headings, give them meaningful titles, and archive old letters rather than letting them pile up in one long list. A letters page organised by term or year group is much easier to use than a single page of hundreds of links.</p>
+
+<h2>Accessibility</h2>
+<p>Many schools in the UK fall within the scope of the public sector accessibility regulations, which generally expect websites to meet recognised accessibility standards and to publish an accessibility statement. Whether and how these apply depends on the type of school, so check the current government guidance. Either way, accessibility is good practice: parents and carers include people with disabilities, people using older phones and people for whom English is an additional language.</p>
+<p>Practical steps include readable text sizes and good contrast, meaningful headings, descriptive link text, alt text for images, captions on videos where possible, forms that work with a keyboard and screen reader, and plain language. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the principles in more detail.</p>
+
+<h2>Safeguarding and pupil images</h2>
+<p>Photos of pupils bring a school website to life, but they need care. Follow your school's safeguarding and data protection policies, collect and record the appropriate consent before publishing images, and think about whether names should ever appear alongside photos. Many schools choose not to name pupils in images at all. Avoid publishing details that could identify where an individual child can be found at particular times.</p>
+<p>Staff information also deserves thought. Listing roles and a contact route is useful, but staff should agree to how their names and photos are used. Data protection obligations under UK GDPR apply to the site's forms, newsletters sign-ups and any personal information it displays. Your data protection officer is the right person to sign off on these decisions.</p>
+
+<h2>Making the home page work</h2>
+<p>The home page has to welcome prospective families and serve current parents at once. A layout that often works is:</p>
+<ul>
+<li>A short, genuine welcome with a real photograph of the school, used with consent.</li>
+<li>Quick links to the most-used parent pages.</li>
+<li>Upcoming dates and the latest news, pulled automatically so they do not go stale.</li>
+<li>A clear route into admissions for prospective families.</li>
+<li>Contact details and the school's address in the footer.</li>
+</ul>
+<p>Keep large rotating banners to a minimum. They slow pages down and push useful content further down the screen on a phone. One strong image and a clear heading usually do the job better.</p>
+
+<h2>Admissions pages that answer real questions</h2>
+<p>Prospective families want to understand what the school is like and how to apply. Explain the application route clearly, including whether applications go through the local authority, link to the admissions policy and oversubscription criteria if relevant, list open event dates and how to book, and give an honest picture of daily life. Short pages on the school day, wraparound care, clubs and SEND support often answer questions that would otherwise become phone calls.</p>
+<p>If you publish results or performance information, present it accurately and in line with official guidance, with dates and context. Do not cherry-pick figures in a way that could mislead.</p>
+
+<h2>Choosing a platform staff can maintain</h2>
+<p>The best school website is one the office can keep current. When choosing a platform, think about who will update it, how easy it is to add a letter, change a date or upload a newsletter, whether several staff can have accounts with different permissions, and how backups and security updates are handled. WordPress is widely used and flexible, while hosted builders such as Squarespace and Wix can be simpler for small schools. Whatever you choose, provide short written instructions for common tasks so the site does not depend on one person.</p>
+<p>Security matters too: use strong, unique passwords, give each user their own account, remove accounts when staff leave, and keep software up to date.</p>
+
+<h2>Speed and mobile use</h2>
+<p>Parents often check the school website on a phone at the school gate or on the bus. Pages should load quickly and be easy to use with one thumb. Compress images before uploading, avoid heavy sliders and auto-playing video, and test the most-used pages on a real phone. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains how to keep photos sharp without slowing the site down.</p>
+
+<h2>Common mistakes on school websites</h2>
+<ul>
+<li>Term dates buried several clicks deep or out of date.</li>
+<li>Policies with no review date, or several versions of the same policy online.</li>
+<li>Huge lists of undated PDF letters.</li>
+<li>News pages last updated many months ago.</li>
+<li>Pupil photos published without clear consent records.</li>
+<li>Navigation labels that make sense to staff but not to parents.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio is a UK digital marketing and ecommerce agency that works remotely with organisations across the country. If your school needs a website that parents can use easily and staff can keep up to date, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. We can help with structure, design and build; responsibility for checking statutory content against current guidance stays with the school and its advisers.</p>
+
+<h2>FAQs</h2>
+<h3>What must a school publish on its website?</h3>
+<p>It depends on the type of school and where it is in the UK. In England, the Department for Education publishes guidance for maintained schools and academies. Check the current version and take advice from your trust or local authority.</p>
+<h3>Do school websites need an accessibility statement?</h3>
+<p>Many schools fall within the public sector accessibility regulations, which require one. Check current government guidance for your school type.</p>
+<h3>Can we show pupils' photos on the website?</h3>
+<p>Usually, with appropriate consent and in line with your safeguarding and data protection policies. Many schools avoid naming pupils in photos.</p>
+<h3>Should letters be PDFs or web pages?</h3>
+<p>Short, frequently used information works better as web pages. Keep PDFs for documents that need downloading or printing, and make them accessible.</p>
+<h3>Which platform is best for a school website?</h3>
+<p>One your staff can update confidently and that is kept secure. WordPress, Squarespace and Wix are all used by schools.</p>
+`,
+  },
 ];
