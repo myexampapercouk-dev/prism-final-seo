@@ -27945,4 +27945,626 @@ module.exports = [
 <p>Give each location its own page with address, hours, menu and booking link, and make choosing a location easy from the homepage.</p>
 `,
   },
+  {
+    slug: 'dance-school-website-design-uk',
+    seoTitle: 'Dance School Website Design UK: Classes, Trials and Parents',
+    title: 'Dance School Website Design UK: Timetables, Trial Classes and Parent Trust',
+    description: 'Dance school website design guide for UK studios: clear timetables, trial class booking, safeguarding information, show pages and what to ask a designer.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>A dance school website has a simple job: help a parent or adult learner find the right class, see when it runs and book a first session without needing to phone. Good dance school website design puts the timetable, class levels and trial booking at the centre, then backs them up with clear information about teachers, policies and performances.</p>
+<p>This guide covers what a UK dance school or studio website needs, how to structure it, which features are worth the effort and what to ask before hiring a designer. It focuses on the website itself. Wider promotion, such as local search and social media, is covered in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+
+<h2>Who visits a dance school website</h2>
+<p>Before deciding on pages, it helps to picture the people arriving. A typical dance school site serves several groups at once:</p>
+<ul>
+<li><strong>Parents of young children</strong> looking for a first class, often comparing a few local schools on a phone in the evening.</li>
+<li><strong>Parents of existing pupils</strong> checking the timetable, term dates, uniform lists, exam information or show tickets.</li>
+<li><strong>Teenagers and adults</strong> looking for a style, such as ballet, contemporary, street, tap or ballroom, at a level that suits them.</li>
+<li><strong>Schools, venues and event organisers</strong> enquiring about workshops or performances, if you offer them.</li>
+</ul>
+<p>Each group needs a different route through the site. New families need reassurance and an easy first step. Existing families need quick access to practical information. The design should serve both without burying either.</p>
+
+<h2>The pages most dance schools need</h2>
+<p>Every studio is different, but most dance school websites benefit from a structure along these lines:</p>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Home</td><td>Orientate new visitors quickly</td><td>Styles taught, ages covered, location, trial booking button</td></tr>
+<tr><td>Classes</td><td>Help people choose the right class</td><td>A page or section per style, with age ranges and levels</td></tr>
+<tr><td>Timetable</td><td>Show when and where classes run</td><td>Day, time, venue, age or level, and a booking link</td></tr>
+<tr><td>Teachers</td><td>Build trust</td><td>Real names, photos and qualifications you can evidence</td></tr>
+<tr><td>Fees and booking</td><td>Explain how payment works</td><td>Termly or monthly approach, trial terms, link to policies</td></tr>
+<tr><td>Shows and exams</td><td>Keep families informed</td><td>Dates, ticket links, exam board information if relevant</td></tr>
+<tr><td>Parent information</td><td>Reduce repeat questions</td><td>Term dates, uniform, what to bring, collection arrangements</td></tr>
+<tr><td>Policies</td><td>Provide reassurance</td><td>Safeguarding, privacy, photography and code of conduct</td></tr>
+<tr><td>Contact</td><td>Make enquiries easy</td><td>Form, phone, email, venue address and map</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/blog/website-navigation-structure/">website navigation guide</a> explains how to keep a menu like this short enough to use on a phone.</p>
+
+<h2>Make the timetable the strongest page on the site</h2>
+<p>For many dance schools the timetable is the most visited page. It is also the page most likely to go out of date, because classes move, fill up and change each term.</p>
+<h3>Readable on a phone</h3>
+<p>Wide grid timetables often break on small screens. A list grouped by day, or a filter by style and age, is usually easier to read than a large table that needs sideways scrolling. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers this in more detail.</p>
+<h3>Easy for you to update</h3>
+<p>If changing a class time means emailing a developer, the timetable will drift. Ask for a timetable that you or your staff can edit in the content management system, ideally as structured entries rather than an uploaded image or PDF. Images of timetables are hard to read, cannot be searched and are not accessible to people using screen readers.</p>
+<h3>Clear status for each class</h3>
+<p>If a class is full or has a waiting list, say so on the timetable. It saves parents enquiring about places that do not exist and saves you answering the same message several times.</p>
+
+<h2>Trial classes and booking</h2>
+<p>The first class is usually the biggest step for a new family. The website should make it simple to take.</p>
+<ul>
+<li><strong>One clear call to action.</strong> A "Book a trial class" button on the home page, class pages and timetable gives people the same next step wherever they land.</li>
+<li><strong>Explain what happens.</strong> What to wear, when to arrive, whether parents can watch and how long the class lasts. Small details lower the barrier.</li>
+<li><strong>Choose a booking approach that fits.</strong> Some studios use an enquiry form and confirm by email. Others use an online booking or class management system. Both can work; what matters is that the process is clear and that someone responds.</li>
+</ul>
+<p>If you already use a class management or booking platform, the website should link to it or embed it cleanly rather than duplicate it. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> compares the main approaches.</p>
+
+<h2>Safeguarding, policies and parent trust</h2>
+<p>Parents leaving children with a teacher want reassurance. A dance school website can provide it by making relevant information easy to find, without making claims you cannot back up.</p>
+<ul>
+<li><strong>Safeguarding policy.</strong> Publish it or summarise it with a link, and name a contact for concerns if your policy designates one.</li>
+<li><strong>Teacher qualifications.</strong> Only list qualifications, memberships and checks each teacher actually holds. If you mention background checks, describe them accurately rather than in general terms.</li>
+<li><strong>Photography and filming.</strong> Explain how photos of pupils are taken and used, and how consent is gathered. Be cautious about showing children on the website at all without clear, recorded consent from parents.</li>
+<li><strong>Privacy.</strong> Enquiry and booking forms collect personal data, often about children. Your privacy notice should explain what you collect and why. The Information Commissioner's Office publishes guidance for small organisations, and it is worth taking advice if you are unsure what applies to you.</li>
+</ul>
+<p>Requirements vary depending on how your school is set up, the venues you use and any organisations you are affiliated with, so check the position for your own studio rather than relying on a website template. Our <a href="/blog/website-trust-signals/">trust signals guide</a> covers how to present this kind of information well.</p>
+
+<h2>Class pages that answer the real questions</h2>
+<p>Thin class pages, with a style name and a stock photo, rarely help anyone decide. A useful class page covers:</p>
+<ul>
+<li>Who the class is for, including age range and level.</li>
+<li>What a typical session involves.</li>
+<li>Whether the class works towards exams or performances.</li>
+<li>When and where it runs, pulled from the timetable if possible.</li>
+<li>How to book a trial.</li>
+</ul>
+<p>Separate pages for each style and age group also give search engines something specific to rank. Someone searching for adult ballet classes in their town is looking for a different page from someone searching for toddler dance classes. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> explains how to write pages like these clearly.</p>
+
+<h2>Shows, exams and the existing family experience</h2>
+<p>Existing families visit often, and their experience shapes word of mouth. A dedicated area for current pupils can save time on both sides.</p>
+<ul>
+<li><strong>Show information.</strong> Dates, rehearsal schedules, costume notes and ticket links in one place.</li>
+<li><strong>Exam information.</strong> If you enter pupils for graded exams, explain the process and timing without promising outcomes.</li>
+<li><strong>Term dates and closures.</strong> A simple, current list prevents a surprising number of messages.</li>
+<li><strong>Uniform and kit.</strong> What each class needs and where to get it.</li>
+</ul>
+<p>If you sell show tickets, uniform or merchandise, a small shop or a link to a ticketing tool can sit alongside this. Keep it simple unless sales volume justifies more.</p>
+
+<h2>Photos and video</h2>
+<p>Dance is visual, and good images help. They also add weight to a page. Compress images properly and avoid autoplaying large video on the home page, especially for parents browsing on mobile data. Our <a href="/blog/website-image-optimisation/">image optimisation guide</a> and <a href="/blog/website-video-guide/">website video guide</a> cover the practical side.</p>
+<p>Use photography you have permission to use. Rehearsal shots, studio spaces and adult classes can show the atmosphere without relying on images of children.</p>
+
+<h2>Local search and the website</h2>
+<p>Most dance school enquiries come from people searching close to home. The website supports this when it clearly states the venues you teach at, the areas you serve and the styles you offer, and when that information matches your Google Business Profile. If you teach at several venues, a page for each can help, provided each one has genuinely useful content rather than repeated text with a town name swapped. Our <a href="/blog/multi-location-seo-uk/">multi-location SEO guide</a> explains why.</p>
+
+<h2>Platform choice</h2>
+<p>Many small dance schools start on Squarespace or Wix, and that can be perfectly adequate for a simple site. WordPress gives more flexibility for structured timetables, multiple venues and integrations. The right choice depends on who will update the site and how complex your timetable is. Our <a href="/blog/website-builder-vs-custom-website/">website builder vs custom website guide</a> sets out the trade-offs.</p>
+
+<h2>What to ask a web designer</h2>
+<ul>
+<li>How will we update the timetable each term, and can you show us?</li>
+<li>How will the site work with our current booking or class management system?</li>
+<li>How will the timetable display on a phone?</li>
+<li>How will you handle photos of pupils and consent?</li>
+<li>What accessibility standard will the site be built to?</li>
+<li>Who owns the domain, hosting and content once the site is live?</li>
+</ul>
+<p>For an idea of budget, see our <a href="/pricing/">pricing page</a> and our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a>. Prism Works Studio builds websites for UK businesses through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, working remotely across the UK.</p>
+
+<h2>FAQs</h2>
+<h3>Should a dance school put fees on its website?</h3>
+<p>It often helps, because parents compare schools and may not enquire if they cannot see an indication of cost. If fees vary by class or term, explain how they are worked out and link to your terms. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> covers different approaches.</p>
+<h3>Is it safe to show children on a dance school website?</h3>
+<p>Only with clear, recorded consent from parents, and with care over names and identifying details. Many schools choose to use images of studios, adult classes or performances from a distance instead. Take advice if you are unsure about your obligations.</p>
+<h3>Do we need online booking?</h3>
+<p>Not always. A clear enquiry form with a quick response can work well for a small school. Online booking becomes more useful as class numbers grow and admin time increases.</p>
+<h3>How many pages should a dance school website have?</h3>
+<p>Enough to cover each style or age group properly, plus the timetable, teachers, policies, parent information and contact pages. Quality and clarity matter more than page count.</p>
+<h3>Can a new website help us appear in local search?</h3>
+<p>A well-structured site with clear class and location pages gives search engines more to work with, but rankings depend on many factors and cannot be guaranteed. Our <a href="/blog/seo-for-small-business-uk/">SEO for small business guide</a> explains what tends to matter.</p>
+`,
+  },
+  {
+    slug: 'engineering-consultancy-website-design-uk',
+    seoTitle: 'Engineering Consultancy Website Design UK: B2B Guide',
+    title: 'Engineering Consultancy Website Design UK: Winning Trust with Technical Buyers',
+    description: 'Engineering consultancy website design for UK firms: service and sector pages, project case studies, credentials, bid support and what to ask a designer.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>An engineering consultancy website needs to convince technical, risk-aware buyers that your firm understands their problem and has done similar work before. Good engineering consultancy website design makes your disciplines, sectors and project experience easy to find, presents credentials accurately and supports the people who check you out during bids and recruitment.</p>
+<p>This guide covers structural, civil, mechanical, electrical, building services, environmental and similar consultancies in the UK. If you make or supply physical products, our <a href="/blog/manufacturer-website-design-uk/">manufacturer website design guide</a> is more relevant. Wider B2B marketing is covered in our <a href="/blog/b2b-marketing-agency-uk/">B2B marketing agency guide</a>.</p>
+
+<h2>Who reads an engineering consultancy website</h2>
+<p>Unlike many consumer websites, a consultancy site serves several professional audiences, often at different stages of a project:</p>
+<ul>
+<li><strong>Clients and their advisers.</strong> Developers, contractors, architects, public bodies and asset owners looking for a consultant for a specific scope.</li>
+<li><strong>Procurement and bid teams.</strong> Checking credentials, policies, insurance information and capability during tenders or frameworks.</li>
+<li><strong>Partner firms.</strong> Other consultants and contractors considering whether to team with you.</li>
+<li><strong>Candidates.</strong> Engineers and graduates considering working for you.</li>
+</ul>
+<p>Many of these people will already know your name from a referral or a tender list. The website is often a check rather than a discovery point, so it needs to confirm competence quickly and make the right information easy to reach.</p>
+
+<h2>Structure: disciplines, sectors and projects</h2>
+<p>Most engineering consultancies organise their offer in two ways: by discipline (what you do) and by sector (who you do it for). A clear site structure reflects both, linked by project examples.</p>
+<table>
+<thead><tr><th>Section</th><th>Purpose</th><th>Typical content</th></tr></thead>
+<tbody>
+<tr><td>Services or disciplines</td><td>Explain each type of work</td><td>Scope, typical deliverables, stages you get involved</td></tr>
+<tr><td>Sectors</td><td>Show relevance to a buyer's world</td><td>Sector-specific challenges and related projects</td></tr>
+<tr><td>Projects</td><td>Provide evidence</td><td>Problem, your role, approach and verifiable outcome</td></tr>
+<tr><td>About and people</td><td>Build confidence in the team</td><td>Real staff, chartered status held, leadership</td></tr>
+<tr><td>Quality and policies</td><td>Support procurement</td><td>Certifications held, health and safety, sustainability, privacy</td></tr>
+<tr><td>Careers</td><td>Support recruitment</td><td>Roles, development, culture, how to apply</td></tr>
+<tr><td>Contact</td><td>Start conversations</td><td>Enquiry form, offices or regions served, direct contacts</td></tr>
+</tbody>
+</table>
+<p>Linking each project to the relevant disciplines and sectors lets visitors move from "what do you do" to "show me proof" in one click. Our <a href="/blog/website-navigation-structure/">navigation structure guide</a> covers how to keep menus manageable as sections grow.</p>
+
+<h2>Discipline pages that speak to technical buyers</h2>
+<p>Technical buyers are quick to spot vague copy. A discipline page should explain what you actually do and where it fits in a project.</p>
+<ul>
+<li><strong>Scope.</strong> What the service covers and, where helpful, what it does not.</li>
+<li><strong>Project stages.</strong> When you typically get involved, for example feasibility, design, construction support or post-completion.</li>
+<li><strong>Deliverables.</strong> The kinds of reports, drawings, models or assessments clients receive.</li>
+<li><strong>Standards and methods.</strong> Mention relevant standards or approaches you work to, accurately and without overstating compliance.</li>
+<li><strong>Related projects.</strong> Two or three linked examples.</li>
+</ul>
+<p>Write for a knowledgeable reader, but keep sentences plain. A non-specialist client, such as a school business manager or a charity trustee, may also read the page. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> has more on balancing clarity and detail.</p>
+
+<h2>Project pages: the core of the site</h2>
+<p>For most consultancies, project pages do more persuasion than anything else on the site. They are also where many sites are weakest, with a photo, a project name and a single line.</p>
+<h3>A useful project page structure</h3>
+<ul>
+<li><strong>The brief.</strong> What the client needed and any constraints, such as site conditions, programme or budget pressure.</li>
+<li><strong>Your role.</strong> Exactly which disciplines and stages your firm covered, and who else was involved if relevant.</li>
+<li><strong>The approach.</strong> Key technical decisions, explained simply.</li>
+<li><strong>The outcome.</strong> What was delivered, stated in terms you can verify.</li>
+<li><strong>Images or drawings.</strong> Only those you have the right to publish.</li>
+</ul>
+<h3>Permissions and confidentiality</h3>
+<p>Engineering work is often confidential. Before publishing a project, check your contract and get client permission, particularly for names, locations, images and any figures. Where permission is not available, an anonymised description can still demonstrate capability, as long as it is accurate. Avoid implying a bigger role than you had on a multi-firm project.</p>
+<p>Our <a href="/blog/website-trust-signals/">trust signals guide</a> covers how to present evidence without overclaiming.</p>
+
+<h2>Credentials, certifications and accuracy</h2>
+<p>Procurement teams often check a consultancy's website for certifications, memberships and policies. This is an area where accuracy really matters.</p>
+<ul>
+<li><strong>Only list what is current.</strong> If a certification lapses, update the site. Out-of-date claims can cause problems in bids.</li>
+<li><strong>Be precise about chartered status.</strong> Describe individual engineers' professional status accurately, and do not imply that every team member holds a status that only some do.</li>
+<li><strong>Use logos carefully.</strong> Professional bodies and certification schemes often have rules about how their names and marks can be used. Check those rules before adding logos.</li>
+<li><strong>Keep policies downloadable.</strong> Health and safety, quality, environmental and modern slavery statements, where you have them, can be made easy to find for bid teams.</li>
+</ul>
+<p>If you are unsure what you can say, check with the relevant body or your own compliance lead rather than relying on the designer.</p>
+
+<h2>Supporting bids and frameworks</h2>
+<p>Many consultancies win work through tenders and frameworks. The website rarely wins these on its own, but it can support them:</p>
+<ul>
+<li>A clear capability summary that matches what you say in bid documents.</li>
+<li>Sector pages that reflect the frameworks you are on or targeting, without claiming appointments you do not hold.</li>
+<li>Project pages you can reference in submissions.</li>
+<li>Up-to-date contact details for bid enquiries.</li>
+</ul>
+<p>Consistency between the website and your bid material helps. If evaluators see a different story online, it can create doubt.</p>
+
+<h2>People and careers</h2>
+<p>Engineering is a people business, and recruitment is a constant pressure for many firms. The website is often the first place a candidate looks.</p>
+<ul>
+<li><strong>Real team pages.</strong> Photos and short profiles of key people, with their consent, help clients and candidates alike.</li>
+<li><strong>Careers content.</strong> What it is like to work at the firm, how people develop and what kinds of projects they work on. Only mention training support, chartership routes or benefits you actually offer.</li>
+<li><strong>Clear applications.</strong> A simple way to apply or register interest, with a privacy notice covering how applicant data is handled.</li>
+</ul>
+
+<h2>Lead generation without hard selling</h2>
+<p>Consultancy buyers rarely respond to aggressive calls to action. A calmer approach usually suits better:</p>
+<ul>
+<li>A clear "Discuss a project" contact route on service and project pages.</li>
+<li>Direct contacts for each discipline or region, if that is how your firm works.</li>
+<li>Useful technical articles or guidance notes, written by your engineers, that show expertise and support search visibility.</li>
+</ul>
+<p>Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> covers how this kind of content can help the site be found, and our <a href="/blog/website-contact-forms/">contact forms guide</a> covers form design.</p>
+
+<h2>Performance, security and accessibility</h2>
+<p>Project galleries, drawings and large images can make consultancy sites slow. Compress images, avoid huge PDFs where a web page would do and test on mobile. Public sector clients in particular may care about accessibility, so building to a recognised standard is sensible. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> and <a href="/blog/website-speed-optimisation-uk/">speed optimisation guide</a> explain the practical steps.</p>
+
+<h2>Regions and offices</h2>
+<p>If your consultancy works across the UK from one or more offices, make that clear. A page per office can help clients and candidates find local contacts, but only create one where there is a real presence and useful content to show, such as local projects and named contacts. Where you work remotely or travel to sites, say so plainly rather than implying offices you do not have.</p>
+
+<h2>Platform choice</h2>
+<p>WordPress is a common choice for consultancies because it handles structured content such as projects, sectors and team members well, and many people can edit it. What matters most is that projects, people and vacancies can be added by your own team without developer help. Our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a> covers what to look for.</p>
+
+<h2>What to ask a web designer</h2>
+<ul>
+<li>How will projects be linked to disciplines and sectors?</li>
+<li>Can our team add projects, people and vacancies easily?</li>
+<li>How will you handle confidential or anonymised projects?</li>
+<li>What accessibility standard will the site meet?</li>
+<li>How will you protect our existing search rankings if we are redesigning?</li>
+</ul>
+<p>If you are replacing an existing site, read our <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a>. For budget guidance see our <a href="/pricing/">pricing page</a>. Prism Works Studio builds websites for UK firms through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, working remotely across the UK.</p>
+
+<h2>FAQs</h2>
+<h3>Do engineering consultancies need a big website?</h3>
+<p>Not necessarily. A focused site with strong discipline, sector and project pages is usually more useful than a large site full of thin content.</p>
+<h3>Can we publish projects without naming the client?</h3>
+<p>Yes, an anonymised project description can still show capability, provided it is accurate and does not breach confidentiality. Check your contract first.</p>
+<h3>Should we list every certification and membership?</h3>
+<p>List those that are current and relevant to buyers, and follow any rules on how names and logos can be displayed.</p>
+<h3>Will a new website bring in more enquiries?</h3>
+<p>A clearer site can make it easier for buyers to understand and trust you, but results depend on your market, reputation and wider marketing, so no outcome can be guaranteed.</p>
+<h3>How often should project pages be updated?</h3>
+<p>Whenever a relevant project completes and permission is in place. A steady flow of recent examples keeps the site credible.</p>
+`,
+  },
+  {
+    slug: 'event-planner-website-design-uk',
+    seoTitle: 'Event Planner Website Design UK: Portfolios and Enquiries',
+    title: 'Event Planner Website Design UK: Portfolios, Enquiries and Client Confidence',
+    description: 'Event planner website design guide for UK planners and event management firms: service pages, event portfolios, enquiry forms and what to ask a designer.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wedding-business-marketing-uk/', '/pricing/'],
+    body: `
+<p>An event planner website needs to show two things at once: that you have good taste and that you are highly organised. Good event planner website design combines a strong visual portfolio with clear service pages, a straightforward explanation of how you work and an enquiry form that gathers the details you need to respond properly.</p>
+<p>This guide is for UK event planners and event management businesses covering corporate events, private parties, conferences, launches and charity events. If weddings are your main focus, our <a href="/blog/wedding-business-marketing-uk/">wedding business marketing guide</a> covers that market, and venues should see our <a href="/blog/wedding-venue-website-design-uk/">wedding venue website design guide</a>. Here we focus on the planner's own website.</p>
+
+<h2>What clients want to know</h2>
+<p>People hiring an event planner are usually trusting someone with an important day, a budget and their reputation. Before they enquire, they tend to want answers to a handful of questions:</p>
+<ul>
+<li>Do you plan the kind of event I am organising?</li>
+<li>Have you done something similar before, and what did it look like?</li>
+<li>How do you work, and what exactly do you take care of?</li>
+<li>Do you cover my area or venue?</li>
+<li>Roughly what level of budget do you work with?</li>
+<li>How do I start?</li>
+</ul>
+<p>A strong event planner site answers these quickly, with the portfolio doing much of the persuading and the service pages doing the explaining.</p>
+
+<h2>Pages an event planner website usually needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th><th>Key content</th></tr></thead>
+<tbody>
+<tr><td>Home</td><td>Position you clearly</td><td>Event types, areas covered, a few strong images, enquiry button</td></tr>
+<tr><td>Event types</td><td>Show relevance</td><td>A page for each, such as corporate, conferences, private parties, charity galas</td></tr>
+<tr><td>Services</td><td>Explain scope</td><td>Full planning, partial planning, on-the-day management, styling</td></tr>
+<tr><td>Portfolio</td><td>Provide evidence</td><td>Event write-ups with images you have permission to use</td></tr>
+<tr><td>How we work</td><td>Reduce uncertainty</td><td>The stages of working together, described honestly</td></tr>
+<tr><td>About</td><td>Build personal trust</td><td>Who plans the events, background and approach</td></tr>
+<tr><td>Contact or enquire</td><td>Start the conversation</td><td>Structured enquiry form and direct contact details</td></tr>
+</tbody>
+</table>
+
+<h2>Event type pages</h2>
+<p>A corporate client planning a conference has different concerns from someone planning a milestone birthday. Grouping everything on one services page forces both to read material that does not apply to them.</p>
+<p>Separate event type pages let you speak to each audience directly. A corporate events page might cover delegate management, venue sourcing, supplier coordination and reporting. A private events page might cover themes, styling, entertainment and guest experience. Each can link to relevant portfolio examples.</p>
+<p>These pages also help search visibility, because people search for specific event types, often with a location. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> explains how to write pages that are specific rather than generic.</p>
+
+<h2>A portfolio that tells a story</h2>
+<p>Image galleries alone show what an event looked like but not what you did. A short write-up for each featured event makes the portfolio far more persuasive.</p>
+<ul>
+<li><strong>The brief.</strong> The occasion, the client type and what they wanted to achieve.</li>
+<li><strong>Your role.</strong> Full planning, styling only, on-the-day coordination, or something else. Be precise.</li>
+<li><strong>Key challenges.</strong> A tight timeline, a difficult venue, a large guest list.</li>
+<li><strong>The result.</strong> Described honestly, with images.</li>
+</ul>
+<h3>Permissions for images and names</h3>
+<p>Event photos are usually taken by a photographer, who typically owns the copyright. Check that you have permission to use images on your website, and credit photographers if that is agreed. Clients, especially corporate ones, may not want their name or event shown publicly, so ask before publishing. Guests appearing in photos also have privacy interests, so take care with close-up images of identifiable people.</p>
+<p>Testimonials should be real, from real clients, with their permission. Our <a href="/blog/website-testimonials-page/">testimonials page guide</a> covers how to present them well.</p>
+
+<h2>Explaining how you work</h2>
+<p>Many people have never hired an event planner before. A clear page explaining how working with you typically goes reduces uncertainty and makes enquiries more likely.</p>
+<p>Describe your actual process honestly. It might cover an initial conversation, a proposal, planning and supplier booking, and the event day itself. Avoid promising services you do not always provide, and be clear about what is included and what is arranged separately. If you charge fees in different ways, explain the general approach and link to more detail rather than listing figures that may change.</p>
+
+<h2>The enquiry form matters more than usual</h2>
+<p>Event enquiries vary hugely in size and fit. A good form helps you respond quickly and qualify leads without endless back and forth.</p>
+<p>Useful fields include:</p>
+<ul>
+<li>Type of event.</li>
+<li>Approximate date or date range.</li>
+<li>Location or venue, if known.</li>
+<li>Approximate guest numbers.</li>
+<li>Budget range, offered as bands rather than an open box.</li>
+<li>Which services they are interested in.</li>
+<li>How they found you.</li>
+</ul>
+<p>Keep required fields to a minimum so people are not put off, and explain in your privacy notice how you use the details. Our <a href="/blog/website-contact-forms/">contact forms guide</a> goes into more depth on balancing qualification and conversion.</p>
+
+<h2>Showing availability and coverage</h2>
+<p>Planners often cover a region rather than a single town. Make the areas you cover clear on the home page and contact page. If you regularly work at particular venues or in particular cities, location-focused content can help people searching locally, but avoid creating near-identical pages with only the place name changed. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers how to approach this.</p>
+<p>If your diary fills up for certain dates or seasons, a short note on the site can manage expectations and encourage early enquiries.</p>
+
+<h2>Design: let the work lead</h2>
+<p>An event planner's website is itself a demonstration of taste. Some design principles help:</p>
+<ul>
+<li><strong>Restraint.</strong> Clean layouts let event imagery stand out. Busy designs compete with the work.</li>
+<li><strong>Consistent visual identity.</strong> Colours and typography that reflect your style. See our <a href="/blog/website-colour-and-typography/">colour and typography guide</a>.</li>
+<li><strong>Fast loading.</strong> Large image galleries are the most common cause of slow event planner sites. Compress images and use modern formats. Our <a href="/blog/website-image-optimisation/">image optimisation guide</a> explains how.</li>
+<li><strong>Mobile first.</strong> Many people browse planners on their phones, often while comparing several options.</li>
+</ul>
+
+<h2>Supporting corporate buyers</h2>
+<p>Corporate clients may need things a private client does not: information for procurement, evidence of insurance, policies on data protection and sustainability, and a clear point of contact. If you work with businesses, consider a page that brings this together. Only list insurance, accreditations or memberships you actually hold, and keep them current.</p>
+
+<h2>Helpful content beyond the portfolio</h2>
+<p>Practical articles can support both trust and search visibility, provided they are genuinely useful and written from your own knowledge. Examples might include how far ahead to start planning a company conference, what to consider when choosing a venue for a large party, or questions to ask before booking entertainment. Content like this helps people early in their planning, before they are ready to enquire, and gives them a reason to remember you.</p>
+<p>Keep advice general where rules apply, such as licensing, capacity or health and safety at venues, and point readers to the venue or the relevant local authority for confirmation. An FAQ page can also answer recurring practical questions, such as how far you travel, whether you work with a client's chosen suppliers and how changes to plans are handled. Our <a href="/blog/website-faq-page/">FAQ page guide</a> covers how to structure one so it stays easy to scan.</p>
+
+<h2>Platform choice</h2>
+<p>Squarespace and Wix are popular with event planners because they handle visual layouts well, and they can be a good fit for a solo planner. WordPress offers more flexibility as portfolios, event type pages and content grow. Choose a platform you can update easily, because a portfolio that stops being updated loses its value. Our <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress guide</a> compares the two.</p>
+
+<h2>What to ask a web designer</h2>
+<ul>
+<li>How will the portfolio be structured, and can I add events myself?</li>
+<li>How will you keep image-heavy pages fast?</li>
+<li>Can the enquiry form be tailored to the information I need?</li>
+<li>How will event type pages link to relevant portfolio examples?</li>
+<li>Who owns the site and domain when it is finished?</li>
+</ul>
+<p>For budget guidance see our <a href="/pricing/">pricing page</a>. Prism Works Studio designs and builds websites for UK businesses through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, working remotely across the UK.</p>
+
+<h2>FAQs</h2>
+<h3>Should an event planner show prices on their website?</h3>
+<p>Many planners explain how fees work rather than listing exact prices, because every event differs. A starting point or general approach can still help filter enquiries.</p>
+<h3>Can I use photographers' images of events I planned?</h3>
+<p>Only with permission. Photographers usually own the copyright, so agree usage and any credit before publishing.</p>
+<h3>Do I need separate pages for each event type?</h3>
+<p>If you plan meaningfully different events, separate pages usually help visitors find relevant information and give search engines clearer signals.</p>
+<h3>How many portfolio examples should I show?</h3>
+<p>Enough to show range and quality. A smaller number of well-explained events is usually more convincing than a long, unexplained gallery.</p>
+<h3>Is an event planner website different from a wedding planner website?</h3>
+<p>There is overlap, but corporate and private event clients have different concerns from couples, so the structure, tone and enquiry questions often differ.</p>
+`,
+  },
+  {
+    slug: 'music-teacher-website-design-uk',
+    seoTitle: 'Music Teacher Website Design UK: Lessons, Pupils and Booking',
+    title: 'Music Teacher Website Design UK: Getting Lesson Enquiries from Your Website',
+    description: 'Music teacher website design for UK instrument and singing teachers: lesson pages, availability, audio and video, policies and what to ask a designer.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tutoring-business-website-uk/', '/pricing/'],
+    body: `
+<p>A music teacher website helps prospective pupils, or their parents, decide whether you are the right teacher and makes it easy to arrange a first lesson. Good music teacher website design is personal and practical: it shows what you teach, who you teach, where lessons take place, what to expect and how to get in touch.</p>
+<p>This guide is for independent instrument and singing teachers and small music teaching practices in the UK. If you run a broader tutoring business covering academic subjects, our <a href="/blog/tutoring-business-website-uk/">tutoring business website guide</a> is a better fit. Here we focus on what is specific to music lessons.</p>
+
+<h2>Why music teaching websites are different</h2>
+<p>Choosing a music teacher is a personal decision. Pupils often stay with the same teacher for years, so people want a sense of personality, teaching approach and musical background before they commit. A music teacher website therefore has to do more than list services. It needs to give a feel for what lessons are like.</p>
+<p>There are also practical differences from other tutoring:</p>
+<ul>
+<li><strong>Location varies.</strong> Lessons may happen at your home studio, at the pupil's home, at a school, at a rented room or online.</li>
+<li><strong>Levels vary widely.</strong> From complete beginners to advanced pupils preparing for graded exams, diplomas or auditions.</li>
+<li><strong>Audiences vary.</strong> Parents booking for children, adults returning to an instrument and adult beginners all read the site differently.</li>
+<li><strong>Sound matters.</strong> Audio and video can show something words cannot.</li>
+</ul>
+
+<h2>Pages a music teacher website usually needs</h2>
+<table>
+<thead><tr><th>Page</th><th>What it should do</th></tr></thead>
+<tbody>
+<tr><td>Home</td><td>State instruments, ages and levels, location or online, and the next step</td></tr>
+<tr><td>About</td><td>Your musical background, teaching approach and qualifications you can evidence</td></tr>
+<tr><td>Lessons</td><td>A section per instrument or type of lesson, with who it suits</td></tr>
+<tr><td>Fees and policies</td><td>How payment works, cancellation terms and notice periods</td></tr>
+<tr><td>Exams and performance</td><td>Whether you prepare pupils for graded exams, and how</td></tr>
+<tr><td>Listen or watch</td><td>Short clips that show your playing or teaching style</td></tr>
+<tr><td>Contact</td><td>An enquiry form that asks the right questions</td></tr>
+</tbody>
+</table>
+<p>A small site with these pages done well will usually serve a solo teacher better than a large site with thin content. Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> covers the basics every site needs.</p>
+
+<h2>Write the about page for the pupil, not the CV</h2>
+<p>Many music teacher about pages read like a performance biography. Performance experience is relevant, but a prospective pupil mainly wants to know how you teach.</p>
+<ul>
+<li><strong>Your approach.</strong> Do you focus on reading music, playing by ear, technique, improvisation, or a mix? How do you adapt for different ages?</li>
+<li><strong>Who you enjoy teaching.</strong> Beginners, nervous adults, exam candidates, people preparing for auditions.</li>
+<li><strong>Your background.</strong> Training and qualifications, stated accurately. Only mention memberships, accreditations or checks you actually hold.</li>
+<li><strong>A real photo.</strong> Ideally with your instrument, in the space where you teach.</li>
+</ul>
+<p>Keep claims specific and verifiable. "I teach piano to beginners and intermediate pupils of all ages" is clearer and more trustworthy than general statements about results. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> has more on writing in a clear, honest voice.</p>
+
+<h2>Lesson pages that help people choose</h2>
+<p>If you teach more than one instrument, or offer different types of lesson, give each its own page or clear section. Someone searching for adult guitar lessons near them wants a page about adult guitar lessons, not a general list.</p>
+<p>A useful lesson page covers:</p>
+<ul>
+<li>Which ages and levels you teach on that instrument.</li>
+<li>Lesson lengths available and how they suit different pupils.</li>
+<li>Whether lessons are in person, online or both.</li>
+<li>What a pupil needs before starting, such as an instrument or practice space.</li>
+<li>Whether you prepare pupils for graded exams, and with which exam boards, if relevant.</li>
+</ul>
+<p>Be careful not to promise exam outcomes. Describe how you support exam preparation rather than claiming pass rates you cannot evidence.</p>
+
+<h2>Using audio and video well</h2>
+<p>Sound is the obvious advantage a music teacher website has over other tutoring sites. Used well, a short clip can tell a visitor a lot about you.</p>
+<ul>
+<li><strong>Keep clips short.</strong> A minute or two of playing, or a short explanation of a technique, is enough.</li>
+<li><strong>Do not autoplay sound.</strong> Unexpected audio is frustrating and an accessibility problem. Let people choose to press play.</li>
+<li><strong>Host video sensibly.</strong> Embedding video from YouTube keeps your site light and avoids storing large files on your own hosting.</li>
+<li><strong>Get consent for any pupil content.</strong> If a clip features a pupil, especially a child, get clear, recorded permission from the pupil or their parent first.</li>
+<li><strong>Provide captions or a short description.</strong> This helps people who cannot listen at that moment and supports accessibility.</li>
+</ul>
+<p>Our <a href="/blog/website-video-guide/">website video guide</a> covers file sizes, embedding and performance in more detail.</p>
+
+<h2>Availability and booking</h2>
+<p>Solo music teachers often have a limited number of slots, and they fill up. The website can help manage expectations.</p>
+<h3>Show availability honestly</h3>
+<p>A simple note such as "Currently taking enquiries for weekday afternoon lessons" or "Waiting list for Saturday slots" saves both sides time. Update it when it changes.</p>
+<h3>Ask the right questions in the enquiry form</h3>
+<p>A short form that asks for the instrument, the pupil's age group, their current level, preferred days and whether they want in-person or online lessons lets you reply with something useful. Avoid asking for more personal information than you need. Our <a href="/blog/website-contact-forms/">contact forms guide</a> covers form design.</p>
+<h3>Decide whether you need online booking</h3>
+<p>Weekly lessons with the same pupil rarely suit self-service booking, because slots are arranged once and repeated. A trial or consultation lesson, however, can sometimes be offered through a booking tool. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> explains the options.</p>
+
+<h2>Policies that prevent awkward conversations</h2>
+<p>Missed lessons, late payments and term arrangements cause friction for many teachers. Setting them out clearly on the website, and pointing new pupils to them, helps.</p>
+<ul>
+<li><strong>Payment.</strong> Whether you charge per lesson, in advance per term, or monthly.</li>
+<li><strong>Cancellations.</strong> How much notice is needed and what happens to missed lessons.</li>
+<li><strong>Ending lessons.</strong> Any notice period you ask for.</li>
+<li><strong>Safeguarding.</strong> If you teach children, explain your approach, for example whether a parent should be present at home lessons, and describe any background checks accurately.</li>
+<li><strong>Privacy.</strong> How you handle the personal details people send you. The Information Commissioner's Office publishes guidance for sole traders and small businesses.</li>
+</ul>
+<p>Terms like these may have legal implications, particularly around consumer rights, so it is worth checking them with a suitable adviser or a teaching association if you belong to one. A website can present your terms clearly, but it should not be the only place they are agreed.</p>
+
+<h2>Show fees or not?</h2>
+<p>Many teachers are unsure whether to publish lesson fees. Showing at least a starting point, or how fees are worked out, can filter out enquiries from people expecting a very different price. Others prefer to discuss fees once they know what a pupil needs. Either approach can work if it is consistent and clear. Our <a href="/blog/website-pricing-page-design/">pricing page design guide</a> covers the options.</p>
+
+<h2>Being found locally</h2>
+<p>Most music lesson searches include a location or are made on a phone close to home. The website supports local visibility when it clearly states where you teach, which areas you travel to and which instruments you offer, and when this matches your Google Business Profile. If you teach online across the UK, say so plainly, but local in-person pages are usually where enquiries start. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the wider picture.</p>
+
+<h2>Platform and maintenance</h2>
+<p>A solo teacher rarely needs a complex build. Squarespace, Wix or a straightforward WordPress site can all work well, provided the design is clean, fast and easy for you to update. The bigger risk is a site that is never updated, with old availability and out-of-date fees. Choose something you are comfortable editing. Our <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress guide</a> and <a href="/blog/website-maintenance-uk/">website maintenance guide</a> may help.</p>
+
+<h2>What to ask a web designer</h2>
+<ul>
+<li>How will audio and video be added without slowing the site down?</li>
+<li>Can I update availability and fees myself?</li>
+<li>How will the enquiry form handle personal information?</li>
+<li>Will the site meet a recognised accessibility standard?</li>
+<li>Who owns the domain and the site once it is built?</li>
+</ul>
+<p>For budget guidance, see our <a href="/pricing/">pricing page</a>. Prism Works Studio designs and builds websites for UK businesses through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, working remotely across the UK.</p>
+
+<h2>FAQs</h2>
+<h3>Does a private music teacher really need a website?</h3>
+<p>Not always, but a simple website gives people a place to check who you are, what you teach and how to get in touch, which supports word of mouth and local search alike.</p>
+<h3>Should I include recordings of my own playing?</h3>
+<p>Short, good-quality clips can help people get a sense of your musicianship. Clips that show how you explain things can be just as useful as performance recordings.</p>
+<h3>Can I show pupils on my website?</h3>
+<p>Only with clear, recorded consent, and with particular care for children. Many teachers avoid identifiable pupil content and use their own playing or studio photos instead.</p>
+<h3>Should I offer online lessons on my website?</h3>
+<p>If you teach online, say so on each relevant lesson page and explain what equipment a pupil needs. It widens who can book, but local in-person pages still matter for nearby pupils.</p>
+<h3>How is a music teacher site different from a tutoring site?</h3>
+<p>Music lessons are usually long-term, personal and sound-based, so the about page, audio or video and lesson policies carry more weight than on a typical academic tutoring site.</p>
+`,
+  },
+  {
+    slug: 'sports-club-website-design-uk',
+    seoTitle: 'Sports Club Website Design UK: Members, Fixtures and Juniors',
+    title: 'Sports Club Website Design UK: Membership, Fixtures and Volunteer-Friendly Sites',
+    description: 'Sports club website design guide for UK clubs: membership pages, fixtures and results, junior sections, safeguarding, sponsors and easy volunteer updates.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/charity-website-design-uk/', '/pricing/'],
+    body: `
+<p>A sports club website has to welcome new members, keep existing members informed and be simple enough for volunteers to maintain. Good sports club website design gives newcomers a clear route to join, puts fixtures, training times and news where members can find them, and treats junior sections, safeguarding and sponsors with care.</p>
+<p>This guide applies to UK community sports clubs such as football, rugby, cricket, hockey, tennis, golf, running, swimming and athletics clubs. Commercial gyms and fitness studios have different needs, covered in our <a href="/blog/gym-website-design-uk/">gym website design guide</a>.</p>
+
+<h2>The particular challenge of club websites</h2>
+<p>Most community sports clubs are run by volunteers. Committee members change, the person who built the site moves on and the password gets lost. Many club websites end up with fixtures from two seasons ago and a contact email nobody checks.</p>
+<p>That shapes the design brief. The most important features of a club website are often not visual. They are:</p>
+<ul>
+<li>Simple editing that a non-technical volunteer can learn quickly.</li>
+<li>Shared access, so the site does not depend on one person.</li>
+<li>Clear ownership of the domain, hosting and accounts, held by the club rather than an individual.</li>
+<li>Low ongoing maintenance.</li>
+</ul>
+<p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers what needs looking after once a site is live.</p>
+
+<h2>Who the website serves</h2>
+<ul>
+<li><strong>Prospective members.</strong> Adults or parents looking for a club, often comparing a few options.</li>
+<li><strong>Current members and parents.</strong> Checking training times, fixtures, results, kit and news.</li>
+<li><strong>Volunteers and coaches.</strong> Finding documents, rotas and contacts.</li>
+<li><strong>Sponsors and local businesses.</strong> Seeing how the club presents itself and its supporters.</li>
+<li><strong>Visitors and opposing teams.</strong> Looking for directions, parking and facilities.</li>
+</ul>
+
+<h2>Pages a sports club website usually needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th><th>Key content</th></tr></thead>
+<tbody>
+<tr><td>Home</td><td>Welcome and orientate</td><td>What the club offers, a join button, latest news, next fixtures</td></tr>
+<tr><td>Join us</td><td>Convert newcomers</td><td>Who can join, sections, how to try a session, membership process</td></tr>
+<tr><td>Teams or sections</td><td>Help people find their fit</td><td>Adult, junior, veterans, women's, disability or social sections</td></tr>
+<tr><td>Training and sessions</td><td>Practical information</td><td>Days, times, venues, who to contact</td></tr>
+<tr><td>Fixtures and results</td><td>Keep members informed</td><td>Current season, linked to league systems where possible</td></tr>
+<tr><td>Juniors</td><td>Reassure parents</td><td>Age groups, coaches, safeguarding information, contacts</td></tr>
+<tr><td>Facilities and directions</td><td>Help visitors</td><td>Address, map, parking, changing rooms, accessibility</td></tr>
+<tr><td>Sponsors</td><td>Recognise supporters</td><td>Sponsor logos and links, sponsorship enquiry route</td></tr>
+<tr><td>Club information</td><td>Governance and transparency</td><td>Committee contacts, policies, constitution, documents</td></tr>
+</tbody>
+</table>
+
+<h2>Make joining easy</h2>
+<p>For many clubs, recruiting and keeping members is the main reason to have a website. The join page should answer the questions newcomers actually ask:</p>
+<ul>
+<li>Do I need experience, or are beginners welcome?</li>
+<li>Can I try a session before committing?</li>
+<li>When and where does training happen?</li>
+<li>What do I need to bring?</li>
+<li>How does membership work, and where can I see the fees?</li>
+<li>Who do I contact?</li>
+</ul>
+<p>A "Join us" or "Try a session" button on every page keeps that route visible. If your club uses an online membership or payment system, link to it clearly rather than rebuilding it inside the website. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> covers how websites and booking tools fit together.</p>
+
+<h2>Fixtures and results without the workload</h2>
+<p>Fixtures and results are among the most visited parts of a club site, and the most likely to go stale. Some approaches reduce the work:</p>
+<ul>
+<li><strong>Link or embed from the league system.</strong> Many leagues and governing bodies publish fixtures and results online. Linking to or embedding these, where permitted, avoids double entry.</li>
+<li><strong>Keep match reports optional.</strong> Short reports add life to the site, but the site should not look abandoned if one is missed.</li>
+<li><strong>Archive old seasons.</strong> Move past fixtures into an archive so the current season is easy to find.</li>
+</ul>
+<p>Social media often carries the day-to-day news. A feed or link on the website can keep it looking current, but the key information, such as training times and how to join, should live on the site itself, where people can always find it.</p>
+
+<h2>Junior sections and safeguarding</h2>
+<p>Parents of young players want to know their children are in safe hands. A clear junior section helps, but it needs care.</p>
+<ul>
+<li><strong>Safeguarding information.</strong> Publish your safeguarding policy or a summary, and name your welfare or safeguarding officer and how to contact them, if your club has that role. Your national governing body may have specific expectations, so check its guidance.</li>
+<li><strong>Coach information.</strong> Describe coaching qualifications and checks accurately. Do not imply every coach holds a qualification or check unless that is the case.</li>
+<li><strong>Images of children.</strong> Many governing bodies publish guidance on photographing young people. Get clear consent from parents, avoid naming children alongside photos and think carefully about whether identifiable images are needed at all.</li>
+<li><strong>Personal data.</strong> Registration forms for juniors collect sensitive information. Your privacy notice should explain how it is handled. The Information Commissioner's Office has guidance for small organisations, and it is worth taking advice if you are unsure what applies.</li>
+</ul>
+<p>Requirements can vary by sport and by governing body, so treat this as a starting point rather than a complete checklist.</p>
+
+<h2>Sponsors and income</h2>
+<p>Sponsorship is an important source of income for many clubs. The website can support it by giving sponsors visible, tidy recognition and by making it easy for local businesses to ask about opportunities.</p>
+<ul>
+<li>A dedicated sponsors page with logos and links.</li>
+<li>Sponsor recognition on relevant team pages, if agreed.</li>
+<li>A short "Sponsor the club" page explaining how to get in touch, without promising specific exposure you cannot deliver.</li>
+</ul>
+<p>Make sure sponsor logos are compressed, so a row of large images does not slow every page down. Our <a href="/blog/website-image-optimisation/">image optimisation guide</a> explains how.</p>
+
+<h2>Facilities, venues and accessibility</h2>
+<p>Visiting teams, new members and spectators all need practical information: address, a map, parking, changing facilities, refreshments and accessibility details. Clubs that hire out facilities may also need a page for room or pitch hire with a clear enquiry route.</p>
+<p>The website itself should be accessible too. Clear text, sufficient contrast, descriptive links and properly labelled forms help everyone, including older members and people using assistive technology. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the essentials.</p>
+
+<h2>Charitable and community status</h2>
+<p>Some clubs are registered charities or community amateur sports clubs. If yours is, you may have obligations about how you describe your status and present information. Check the relevant guidance from the Charity Commission or HMRC, as applicable, rather than assuming. If donations or fundraising are part of your plans, our <a href="/blog/charity-website-design-uk/">charity website design guide</a> covers related considerations.</p>
+
+<h2>Volunteer and member resources</h2>
+<p>A members' area or resources page can save committee members a lot of time. It might hold kit information, codes of conduct, coaching rotas, forms and the annual general meeting papers. Keep anything sensitive behind a login or out of the website altogether, and avoid publishing personal phone numbers or home addresses of volunteers. A shared club email address for each role, rather than personal addresses, also makes handovers easier when committee members change.</p>
+
+<h2>Platform choice for clubs</h2>
+<p>The best platform is usually the one your volunteers can manage. Squarespace and Wix can be easy to learn and require little technical upkeep. WordPress offers more flexibility for news, multiple teams, documents and integrations, but needs updates and security maintenance. Our <a href="/blog/website-builder-vs-custom-website/">website builder vs custom website guide</a> and <a href="/blog/wordpress-security-uk/">WordPress security guide</a> can help you decide.</p>
+<p>Whatever you choose, register the domain and hosting in the club's name, keep login details in a shared, secure place and give at least two committee members admin access.</p>
+
+<h2>What to ask a web designer</h2>
+<ul>
+<li>Can our volunteers update news, fixtures and training times without help?</li>
+<li>Will you provide simple guidance or a handover session for new volunteers?</li>
+<li>How will fixtures and results be handled with our league systems?</li>
+<li>How will the site handle junior registrations and images of children?</li>
+<li>Who will own the domain, hosting and accounts?</li>
+<li>What ongoing maintenance will the site need, and who will do it?</li>
+</ul>
+<p>For budget guidance see our <a href="/pricing/">pricing page</a>. Prism Works Studio designs and builds websites for UK organisations through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, working remotely across the UK.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most important feature of a sports club website?</h3>
+<p>Ease of updating. A simple site that volunteers keep current is more useful than an impressive one that goes stale after a season.</p>
+<h3>Should we put membership fees on the website?</h3>
+<p>Usually yes. Clear fees and what they include help newcomers decide and reduce questions to committee members.</p>
+<h3>Can we use photos of junior players?</h3>
+<p>Only with parental consent and in line with your club's policy and any governing body guidance. Avoid naming children alongside images.</p>
+<h3>Do we still need a website if we use social media?</h3>
+<p>Social media is good for news, but a website gives a stable home for key information, such as how to join, training times, policies and contacts, that people can always find through search.</p>
+<h3>Who should own the club website?</h3>
+<p>The club. Register the domain and hosting in the club's name and make sure more than one committee member has access.</p>
+`,
+  },
 ];
