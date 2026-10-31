@@ -18732,4 +18732,616 @@ module.exports = [
 <p>Inline forms are less intrusive and suit many sites well. Some businesses use both, with the pop-up shown sparingly.</p>
 `,
   },
+  {
+    slug: 'cookie-banner-design-uk',
+    seoTitle: 'Cookie Banner Design: A UK Guide for Websites',
+    title: 'Cookie Banner Design: How to Build a Clear, Compliant Consent Banner for a UK Website',
+    description: 'Cookie banner design guide for UK websites: consent rules in plain terms, equal choices, layout, wording, mobile, analytics and how to test your banner works.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/ga4-setup-uk/', '/blog/website-accessibility-uk/'],
+    body: `
+<p>Almost every UK website now shows a cookie banner, and most of them are an afterthought. They cover half the screen on mobile, bury the reject option behind a settings menu or, worse, look compliant while tracking scripts load in the background regardless of what the visitor chooses. A well-designed cookie banner does the opposite: it explains things briefly, offers a genuine choice and gets out of the way.</p>
+<p>This guide covers the design side of cookie consent for UK businesses: what the rules broadly expect, how to lay out the banner, how to word it, how it should behave on mobile and how to check it does what it says. It is general guidance rather than legal advice. If your site handles sensitive data or you are unsure about your obligations, take advice from a qualified professional and read the guidance published by the Information Commissioner's Office (ICO).</p>
+
+<h2>What the UK rules broadly expect</h2>
+<p>Cookie consent in the UK sits mainly under the Privacy and Electronic Communications Regulations (PECR), alongside UK GDPR, which sets the standard for what valid consent looks like. The ICO is the regulator. In broad terms, the position as the ICO describes it is:</p>
+<ul>
+<li>You need to tell people what cookies and similar technologies you use and why.</li>
+<li>For cookies that are not strictly necessary to provide the service the user asked for, you generally need consent before setting them.</li>
+<li>Consent should be freely given, specific, informed and an unambiguous positive action. Pre-ticked boxes and "by continuing to browse you accept" wording are unlikely to count.</li>
+<li>People should be able to withdraw consent as easily as they gave it.</li>
+</ul>
+<p>Strictly necessary cookies, such as those that keep items in a shopping basket or remember that someone is logged in, are generally exempt from the consent requirement, though you should still explain them. Analytics and advertising cookies are generally not treated as strictly necessary. The rules in this area have been subject to change, including reforms that may relax requirements for some low-risk cookies, so check the current ICO guidance rather than relying on what was true a few years ago.</p>
+
+<h2>Equal choices: the heart of good banner design</h2>
+<p>The single most important design principle is that accepting and rejecting non-essential cookies should be equally easy. The ICO has said publicly that it expects websites to make rejecting as straightforward as accepting, and it has written to organisations whose banners did not.</p>
+<p>In practice, that means:</p>
+<ul>
+<li><strong>Reject on the first layer.</strong> If "Accept all" is on the banner, "Reject all" (or "Reject non-essential") should be there too, not hidden behind "Manage settings".</li>
+<li><strong>Similar visual weight.</strong> Two buttons of the same size and similar prominence. A bright accept button next to a faint grey text link is a classic nudge.</li>
+<li><strong>No tricks with wording.</strong> Avoid labels like "No thanks, I prefer a worse experience" or double negatives that make the reject option confusing.</li>
+<li><strong>A clear settings option.</strong> Offer a third route for people who want to choose by category, but do not make it the only way to say no.</li>
+</ul>
+<p>Some businesses worry that equal choices will reduce the number of people who accept analytics cookies. It may. But a banner designed to manipulate is a compliance risk, and it can undermine trust in a brand at the very first interaction. It is better to plan your measurement around realistic consent levels, which we come back to below.</p>
+
+<h2>Layout and placement</h2>
+<p>There is no single correct layout, but some patterns work better than others.</p>
+<h3>Bottom bar or corner panel</h3>
+<p>A bar along the bottom of the screen, or a compact panel in a corner on desktop, lets visitors see the page they arrived on while they decide. This tends to feel less hostile than a full-screen overlay. The trade-off is that people can ignore it, so non-essential cookies should simply stay off until a choice is made.</p>
+<h3>Centred modal</h3>
+<p>A centred box with a dimmed background forces a decision. It can be appropriate where you want a clear answer before anything loads, but it interrupts the visit. If you use one, keep it small and make both choices obvious.</p>
+<h3>Things to avoid</h3>
+<ul>
+<li>Banners that cover the main call to action or the "Add to basket" button on mobile.</li>
+<li>Banners that reappear on every page because the choice is not being stored.</li>
+<li>Stacking the cookie banner on top of a newsletter pop-up and a chat widget at the same moment. If you use pop-ups, our guide to <a href="/blog/website-pop-ups-done-well/">website pop-ups done well</a> covers timing so they do not collide.</li>
+</ul>
+
+<h2>Writing the banner copy</h2>
+<p>Cookie banners are often written by copying a template full of legal jargon. Visitors skim them, so short and plain is better. A good banner usually covers three things in two or three sentences:</p>
+<ol>
+<li>What you use cookies for, in everyday language: "to keep the site working, understand how it is used and, if you agree, show relevant ads".</li>
+<li>That the choice is theirs and non-essential cookies stay off unless they agree.</li>
+<li>Where to find more detail: a link to your cookie policy and the settings panel.</li>
+</ol>
+<p>Match your brand's tone of voice, but resist being cute. A jokey banner about biscuits can come across as trivialising a privacy choice. If you are working on voice more broadly, our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> may help.</p>
+<h3>The settings panel</h3>
+<p>The second layer should list cookie categories with a short description of each, for example strictly necessary, analytics, functionality and marketing. Non-essential categories should be off by default, with toggles people can switch on. Include a "Save choices" button and, ideally, "Accept all" and "Reject all" here as well. Avoid listing dozens of individual vendors on the first view; put the detail in an expandable section or in the cookie policy.</p>
+
+<h2>Mobile design</h2>
+<p>Most banners are designed on a desktop monitor and then squeezed onto a phone. On a small screen, a banner that took a sliver of a desktop page can fill most of the viewport. Check:</p>
+<ul>
+<li>The banner takes up a modest part of the screen and the page behind is still recognisable.</li>
+<li>Buttons are large enough to tap comfortably and are not crammed side by side with tiny labels.</li>
+<li>Text is readable without zooming.</li>
+<li>The settings panel scrolls properly and the save button is reachable.</li>
+</ul>
+<p>Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers tap targets and layout in more depth.</p>
+
+<h2>Accessibility</h2>
+<p>A cookie banner is often the first interactive element on the page, so if it is not accessible, some visitors cannot get past it. Make sure it can be operated with a keyboard, that focus moves to the banner when it appears and returns sensibly afterwards, that buttons have meaningful labels for screen readers and that colour contrast meets accessibility standards. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the wider principles.</p>
+
+<h2>Speed and stability</h2>
+<p>Consent tools are scripts, and a heavy one can slow the page or cause content to jump as the banner loads. Things to look for:</p>
+<ul>
+<li>The banner should not cause noticeable layout shift. Reserving space for it, or overlaying it rather than pushing content down, helps.</li>
+<li>The consent script should load early enough to block non-essential tags, but should be as light as possible.</li>
+<li>Avoid loading several overlapping consent or tag tools left over from previous site versions.</li>
+</ul>
+<p>Core Web Vitals can be affected by a poorly implemented banner. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains how these measures work.</p>
+
+<h2>Make sure the banner actually controls what loads</h2>
+<p>This is where many sites fall down. A banner can look perfect and still be ineffective because analytics, advertising pixels or embedded content load before the visitor has chosen, or carry on loading after they click reject. Common causes include tracking code hard-coded into the theme, plugins that add their own scripts, and embedded videos or maps that set cookies on load.</p>
+<p>To check, open the site in a private browser window, open the developer tools and look at the cookies and network requests before you click anything. Then reject, browse a few pages and check again. Only strictly necessary cookies should appear until consent is given. Repeat after accepting to confirm analytics and marketing tags do start working.</p>
+<p>If you use Google tools, Google provides a consent mode that lets its tags adjust their behaviour based on the visitor's choice. It needs setting up correctly alongside your banner. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers measurement more broadly.</p>
+
+<h2>Living with lower consent rates</h2>
+<p>Honest banners mean some visitors will decline analytics and marketing cookies, so your reports will not capture every visit. That is a normal consequence of giving people a real choice. Ways to work with it include:</p>
+<ul>
+<li>Looking at trends and relative changes rather than treating analytics totals as exact.</li>
+<li>Cross-checking against data that does not depend on cookies, such as orders in your ecommerce platform or enquiries received.</li>
+<li>Using the consent-aware features available in major analytics and advertising platforms, set up properly.</li>
+</ul>
+
+<h2>Platform notes</h2>
+<p>Shopify includes customer privacy settings and supports consent banners, and there are apps that add more control. WordPress and WooCommerce sites usually rely on a consent plugin. Whichever route you take, the same checks apply: equal choices, sensible defaults, a stored decision, an easy way to change it later, and verification that scripts respect the choice. A footer link such as "Cookie settings" is a simple way to let people revisit their decision; our <a href="/blog/website-footer-design/">footer design guide</a> covers what else belongs there.</p>
+
+<h2>A quick cookie banner checklist</h2>
+<ul>
+<li>Non-essential cookies are off until the visitor agrees.</li>
+<li>Accept and reject are both on the first layer, with similar prominence.</li>
+<li>Copy is short, plain and links to a clear cookie policy.</li>
+<li>The settings panel groups cookies into categories with non-essential ones off by default.</li>
+<li>The banner works well on mobile and with a keyboard.</li>
+<li>The choice is remembered and can be changed later.</li>
+<li>You have tested that scripts actually respect the choice.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Cookie consent touches design, development and measurement at once, which is why it often falls between the cracks. Prism Works Studio builds and improves websites and online shops for UK businesses, and consent banners can form part of that work, alongside analytics setup and speed. You can read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, see <a href="/pricing/">pricing</a>, or <a href="/contact/">get in touch</a> to talk about your site. For legal questions about your specific obligations, we would always suggest taking qualified advice.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a cookie banner if I only use analytics?</h3>
+<p>Analytics cookies are generally not treated as strictly necessary under current UK rules, so consent is usually expected. The rules have been under review, so check the latest ICO guidance or take advice for your situation.</p>
+<h3>Can I just use an "OK" button?</h3>
+<p>A banner with only an acknowledgement button does not give people a genuine choice, so it is unlikely to meet the consent standard for non-essential cookies.</p>
+<h3>Should the banner appear on every page?</h3>
+<p>It should appear until the visitor makes a choice, then stay hidden while that choice is stored. A link to cookie settings should let them change it later.</p>
+<h3>Does a cookie banner hurt SEO?</h3>
+<p>Not by itself, but a banner that blocks content, slows the page or shifts the layout can affect user experience. Keep it light and well placed.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-size-guides',
+    seoTitle: 'Ecommerce Size Guides: How to Design One That Works',
+    title: 'Ecommerce Size Guides: How to Help Customers Choose the Right Fit Online',
+    description: 'How to create ecommerce size guides for UK online shops: measurements, fit notes, placement on product pages, mobile design and reducing size-related returns.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/product-page-seo-uk/', '/blog/ecommerce-product-variants-and-bundles/'],
+    body: `
+<p>Choosing a size is one of the hardest parts of buying online. In a shop, customers can try something on or hold it up. Online, they have a chart, a photo and their own guesswork. When the guess is wrong, the result is a return, a disappointed customer and the cost of handling the parcel twice. A good size guide will not remove every sizing problem, but it gives customers what they need to choose with more confidence.</p>
+<p>This guide is for UK online shops selling clothing, footwear, accessories and other products where size matters, from rings and hats to furniture and bedding. It covers what to put in a size guide, how to present it on product pages, how to handle fit and how to keep improving it over time.</p>
+
+<h2>What a size guide is for</h2>
+<p>A size guide has one job: help the customer pick the size that will fit them, first time. That sounds obvious, but many size guides fall short because they:</p>
+<ul>
+<li>Use a generic chart copied from a supplier that does not match the actual products.</li>
+<li>List body measurements without explaining how to take them.</li>
+<li>Mix UK, EU and US sizing without making it clear which is which.</li>
+<li>Sit in a pop-up that is unreadable on a phone.</li>
+<li>Ignore the fact that two items labelled "M" can fit very differently.</li>
+</ul>
+<p>Treat the size guide as part of the product information, not an afterthought in the footer.</p>
+
+<h2>Body measurements or product measurements?</h2>
+<p>There are two kinds of measurement you can show, and many shops benefit from both.</p>
+<h3>Body measurements</h3>
+<p>These tell customers which size is designed for their chest, waist, hips, inside leg or foot length. They are useful for helping people map themselves to your size labels. They do depend on customers measuring themselves accurately, so instructions matter.</p>
+<h3>Product (garment) measurements</h3>
+<p>These describe the item itself: chest width laid flat, length from shoulder, sleeve length, rise, inside leg, and so on. They help customers compare with something they already own that fits well, which can be more reliable than a body measurement. They are particularly useful for loose, oversized or unusually cut items.</p>
+<p>If you only have time for one, think about what your customers find most useful. For tailored or fitted items, body measurements are a common starting point. For relaxed fits, vintage or one-off items, product measurements are often essential.</p>
+
+<h2>What to include</h2>
+<ul>
+<li><strong>A clear table</strong> with sizes as rows or columns and measurements in centimetres, with inches if your customers expect them.</li>
+<li><strong>Size conversions</strong> where useful, such as UK, EU and US equivalents, labelled clearly. Conversions vary between brands, so present them as a guide.</li>
+<li><strong>How to measure</strong>, with simple illustrations or a diagram showing where each measurement is taken.</li>
+<li><strong>Fit notes</strong> describing how the item is meant to fit: slim, regular, relaxed, oversized, true to size, or whether to size up or down.</li>
+<li><strong>Model information</strong>, such as the model's height and the size they are wearing, if you show products on people. Only include this where you have the real details.</li>
+<li><strong>Fabric and stretch</strong>, since a stretchy fabric and a rigid one fit differently even at the same measurements.</li>
+<li><strong>A route to help</strong>, such as a contact link for people who are between sizes.</li>
+</ul>
+
+<h2>Make it specific where fit varies</h2>
+<p>A single store-wide size chart is easy to maintain but can be misleading if your products come from different manufacturers or have different cuts. Consider:</p>
+<ul>
+<li><strong>Category-level guides</strong> for broad groups, such as tops, trousers, shoes and children's wear.</li>
+<li><strong>Product-level fit notes</strong> for anything that differs from the norm, such as "this style runs small; we suggest sizing up".</li>
+<li><strong>Product-level measurements</strong> for items with distinctive cuts, one-off pieces or second-hand stock.</li>
+</ul>
+<p>Most platforms can handle this. On Shopify, size guides can be attached to products through theme settings, metafields or apps. On WooCommerce, you can use custom fields, tabs or plugins. The aim is to show the right guide on the right product without manually editing hundreds of pages.</p>
+
+<h2>Where to put the size guide</h2>
+<p>Placement matters as much as content. The best place for a size guide link is right next to the size selector, because that is the moment the customer is deciding. A link labelled "Size guide" or "Find your size" beside the size buttons is a widely used pattern.</p>
+<p>When clicked, the guide should open without taking people away from the product page, typically in a drawer, panel or modal. Closing it should return them to exactly where they were, with any selections intact. Some shops also repeat key fit notes in the product description or a dedicated tab, which helps customers who scroll rather than click.</p>
+<p>A standalone size guide page is also useful for customers who want to check before browsing, and for search: people do search for sizing information. Link it from the footer or help section. Our guide to <a href="/blog/website-footer-design/">footer design</a> covers what usually goes there.</p>
+
+<h2>Designing for mobile</h2>
+<p>Size tables are wide, and phones are narrow. A table with eight columns of measurements is a common mobile problem. Ways to handle it include:</p>
+<ul>
+<li>Letting the table scroll horizontally within its container, with the size column fixed.</li>
+<li>Showing one size at a time, with a selector to switch.</li>
+<li>Splitting measurements into separate, smaller tables.</li>
+<li>Offering a centimetres/inches toggle rather than showing both side by side.</li>
+</ul>
+<p>Test the guide on actual phones. If people have to pinch and zoom to read it, many will guess instead. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers responsive layouts more broadly.</p>
+
+<h2>Accessibility</h2>
+<p>Size tables should be built as proper HTML tables with headers, not as images. Images of charts cannot be read by screen readers, cannot be zoomed cleanly and are harder to update. The drawer or modal containing the guide should be keyboard-accessible and should move focus correctly. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> has more detail.</p>
+
+<h2>Beyond the chart: other ways to help with fit</h2>
+<p>A chart is the foundation, but other content can help customers decide:</p>
+<ul>
+<li><strong>Product reviews that mention fit.</strong> Prompting reviewers to say whether the item was true to size can be very useful for other shoppers. Our guide to <a href="/blog/ecommerce-product-reviews/">product reviews</a> covers collecting them.</li>
+<li><strong>Photos on different body types</strong>, where you can produce them, with honest captions.</li>
+<li><strong>Clear product photography</strong> showing length and silhouette. See our <a href="/blog/ecommerce-product-photography/">product photography guide</a>.</li>
+<li><strong>Fit finder tools</strong>, which ask customers questions and recommend a size. These can help for some shops, but they add cost and complexity and depend on good underlying data.</li>
+<li><strong>Customer service</strong> by email or chat for people between sizes.</li>
+</ul>
+
+<h2>Size guides and returns</h2>
+<p>Wrong size is commonly cited as a reason for clothing returns, and online shops in the UK generally have to allow customers to cancel most distance purchases within a set period. A better size guide cannot remove that right, nor should it try to; but it can reduce avoidable returns. It is worth tracking return reasons in your ecommerce platform so you can see which products or sizes cause the most size-related returns and improve their guidance. Clear returns information also helps customers feel confident buying; our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers that side. For the specifics of your legal obligations on cancellations and returns, check current guidance or take advice.</p>
+
+<h2>Keeping size guides accurate</h2>
+<p>Size guides go out of date quietly. A new supplier, a revised pattern or a change of fabric can make an old chart wrong. Build checks into your routine:</p>
+<ul>
+<li>Measure samples of new products before they go live rather than relying solely on supplier charts.</li>
+<li>Review fit notes when return reasons or reviews suggest a problem.</li>
+<li>Keep size guide data in one place, such as a metafield or reusable block, so updates apply everywhere.</li>
+<li>Check that variant names on products match the sizes listed in the guide. Our <a href="/blog/ecommerce-product-variants-and-bundles/">product variants guide</a> covers variant setup.</li>
+</ul>
+
+<h2>Size guides and SEO</h2>
+<p>Sizing content can support search visibility. A product page that answers fit questions in text is more useful to shoppers and gives search engines more relevant content to understand. A standalone size guide page can also answer searches about your brand's sizing. Keep the information as crawlable text rather than images, and avoid duplicating huge identical charts across thousands of product pages if a shared guide will do. Our <a href="/blog/product-page-seo-uk/">product page SEO guide</a> covers the wider picture.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds online shops for UK retailers on Shopify and WooCommerce, including product page layouts and the way size and fit information is presented. Read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, see <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I use the size chart my supplier gives me?</h3>
+<p>It can be a starting point, but check it against real samples. Supplier charts are sometimes generic or based on different sizing conventions.</p>
+<h3>Should size guides show centimetres or inches?</h3>
+<p>Many UK shoppers are comfortable with both. Centimetres with an inches option is a common approach.</p>
+<h3>Where should the size guide link go?</h3>
+<p>Right next to the size selector on the product page, opening without leaving the page.</p>
+<h3>Do I need a separate size guide for each product?</h3>
+<p>Not always. Category-level guides work for consistent ranges, with product-specific notes or measurements where the fit differs.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-transactional-emails',
+    seoTitle: 'Ecommerce Transactional Emails: Order Confirmation Guide',
+    title: 'Ecommerce Transactional Emails: Order Confirmations, Shipping Updates and More',
+    description: 'A guide to ecommerce transactional emails for UK online shops: order confirmations, dispatch and delivery updates, refunds, design, deliverability and rules.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/ecommerce-email-marketing-uk/', '/blog/ecommerce-delivery-and-returns-pages/'],
+    body: `
+<p>When someone places an order on your online shop, the next thing they usually see from you is an email. Order confirmations, dispatch notices, delivery updates and refund confirmations are known as transactional emails: messages triggered by an action the customer took, rather than campaigns you send to a list. They are easy to overlook because every ecommerce platform sends them by default. But default templates are generic, and these emails shape how customers feel about the purchase they have just made.</p>
+<p>This guide looks at the transactional emails an online shop typically sends, what each should contain, how to design and write them, how to make sure they actually arrive and where the line sits between service messages and marketing. It focuses on UK shops using platforms like Shopify and WooCommerce. For newsletters and automated marketing flows, see our separate guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a>.</p>
+
+<h2>Why transactional emails matter</h2>
+<p>Customers actively look for these emails. They want reassurance that the order went through, they want to know when it will arrive and they want something to refer back to if there is a problem. That makes transactional emails a key part of the post-purchase experience. A clear, well-branded confirmation reassures; a confusing or missing one prompts anxious "where is my order?" messages to your customer service inbox.</p>
+<p>They also matter for trust. Phishing emails often pretend to be order or delivery notifications, so customers are rightly cautious. Emails that look consistent, come from a recognisable address on your own domain and contain specific order details are easier to trust.</p>
+
+<h2>The core transactional emails</h2>
+<h3>Order confirmation</h3>
+<p>Sent immediately after checkout. It should include:</p>
+<ul>
+<li>A clear subject line, such as "Your order #1234 is confirmed".</li>
+<li>The order number and date.</li>
+<li>Each item with image, name, variant (size, colour), quantity and price.</li>
+<li>Subtotal, delivery cost, any discount, VAT where relevant, and total paid.</li>
+<li>Delivery address and chosen delivery method, with an expected dispatch or delivery window if you can give one reliably.</li>
+<li>Billing summary, without showing full card details.</li>
+<li>What happens next, and how to contact you.</li>
+<li>Links to your delivery and returns information.</li>
+</ul>
+<p>Under UK consumer rules, online sellers generally need to give customers certain information and confirm the contract in a durable medium, which an email can provide. What exactly needs to be included depends on what you sell, so it is worth checking current guidance or taking advice rather than assuming a default template covers everything.</p>
+<h3>Dispatch or shipping confirmation</h3>
+<p>Sent when the order leaves you. Include what has been sent (especially if an order is split across parcels), the carrier, a tracking link and an expected delivery date if available. If part of the order is still to come, say so clearly.</p>
+<h3>Delivery updates</h3>
+<p>Some shops send "out for delivery" and "delivered" messages, either themselves or via the carrier. Avoid duplicating the carrier's notifications so heavily that customers receive a flood of near-identical emails; decide which messages you send and which you leave to the carrier.</p>
+<h3>Order changes and cancellations</h3>
+<p>If an order is edited, delayed, partly out of stock or cancelled, tell the customer promptly and plainly, with what it means for them and what they need to do, if anything.</p>
+<h3>Returns and refunds</h3>
+<p>Confirm when a return request is received, when the returned item arrives and when the refund is processed, including the amount and how long it may take to appear. These emails are often neglected but reduce a lot of follow-up contact.</p>
+<h3>Account and security emails</h3>
+<p>If you offer customer accounts, you will also send account creation, password reset and possibly email change confirmations. These should be short, functional and secure, with links that expire. Our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a> covers accounts more widely.</p>
+<h3>Gift card and digital delivery emails</h3>
+<p>If you sell gift cards or digital products, the email may be the product itself. Make the code or download obvious and explain how to use it. See our <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards guide</a> for more.</p>
+
+<h2>Writing transactional emails</h2>
+<p>Each email should answer the question the customer has at that moment. Lead with it:</p>
+<ul>
+<li>Confirmation: "We've got your order."</li>
+<li>Dispatch: "Your order is on its way."</li>
+<li>Refund: "Your refund of £X has been processed."</li>
+</ul>
+<p>Keep the tone consistent with your brand, but prioritise clarity. A warm thank you is welcome; a long paragraph before the order details is not. Use short sentences, plain language and specific dates rather than vague phrases like "soon". Avoid internal jargon such as fulfilment status codes that mean nothing to a customer.</p>
+<p>Subject lines should be descriptive, include the order number and make the email easy to find later by searching an inbox. Clever or teasing subject lines belong in marketing campaigns, not here.</p>
+
+<h2>Designing transactional emails</h2>
+<p>Good transactional email design is simple and consistent:</p>
+<ul>
+<li><strong>Branding.</strong> Your logo, colours and fonts (with safe fallbacks) so the email is clearly from you.</li>
+<li><strong>Mobile-first layout.</strong> Many people read emails on their phones. Use a single column, readable text sizes and buttons large enough to tap.</li>
+<li><strong>Clear hierarchy.</strong> The key message and order number at the top, then items, then totals, then addresses and help.</li>
+<li><strong>Product images.</strong> Small thumbnails help customers confirm they ordered the right thing, but the email should still make sense if images are blocked.</li>
+<li><strong>Accessible.</strong> Sufficient colour contrast, real text rather than text baked into images, and meaningful link text.</li>
+<li><strong>Consistent across all emails.</strong> The confirmation, dispatch and refund messages should feel like one family.</li>
+</ul>
+<p>Shopify lets you edit notification templates in the admin, and WooCommerce emails can be customised through settings, templates or plugins. Test changes carefully, because template edits can break layouts in some email clients.</p>
+
+<h2>Making sure emails arrive</h2>
+<p>A beautifully designed confirmation is no use if it lands in spam or never arrives. Deliverability depends on several things:</p>
+<ul>
+<li><strong>Send from your own domain.</strong> Use an address like orders@yourdomain.co.uk rather than a generic platform address where possible.</li>
+<li><strong>Authenticate the domain.</strong> Set up SPF, DKIM and DMARC records so receiving mail servers can verify the emails are genuinely from you. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> explains these.</li>
+<li><strong>Use a reliable sending service.</strong> Hosted platforms like Shopify handle sending for you. WordPress and WooCommerce sites often send through the web server by default, which can be unreliable; routing email through a dedicated transactional email service is commonly recommended.</li>
+<li><strong>Keep transactional and marketing separate.</strong> Some businesses send them from different addresses or subdomains, so problems with marketing emails do not affect order confirmations.</li>
+<li><strong>Allow replies.</strong> Avoid "no-reply" addresses where you can. Customers will reply to order emails, and those replies should reach someone.</li>
+</ul>
+<p>Place test orders regularly and check emails arrive promptly in major inbox providers, not just your own.</p>
+
+<h2>Transactional versus marketing content</h2>
+<p>It is tempting to add product recommendations, discount codes or newsletter promotions to order confirmations because they are so widely opened. Some light, relevant content can be acceptable, but there are reasons for care.</p>
+<p>Under PECR and UK GDPR, marketing emails generally need appropriate consent or must meet the conditions of the "soft opt-in". Purely service messages, such as an order confirmation, are treated differently. If a transactional email becomes primarily promotional, it may start to look like marketing, with the consent obligations that come with it. The ICO publishes guidance on direct marketing, and it is sensible to check it or take advice if you plan to include promotional content.</p>
+<p>From a customer experience point of view, too much promotion also gets in the way. Someone checking their delivery date does not want to scroll past three banners. If you include anything beyond the service content, keep it below the essential information and relevant to the purchase, such as care instructions for the item bought.</p>
+
+<h2>Connecting emails to the rest of the shop</h2>
+<p>Transactional emails work best when they match what the website says:</p>
+<ul>
+<li>Delivery estimates in emails should match those on product pages and at checkout.</li>
+<li>Returns links should point to an up-to-date returns page. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers what to include.</li>
+<li>Tracking links should open a page that works on mobile.</li>
+<li>Contact details should match your website and reach a monitored inbox.</li>
+</ul>
+<p>Inconsistencies, such as an email promising next-day delivery when the checkout said three to five days, create confusion and complaints.</p>
+
+<h2>A transactional email checklist</h2>
+<ul>
+<li>Order confirmation, dispatch, refund and account emails all customised and branded.</li>
+<li>Subject lines are descriptive and include the order number.</li>
+<li>Each email leads with the key information.</li>
+<li>Layout works on mobile and with images turned off.</li>
+<li>Emails send from your own authenticated domain.</li>
+<li>Replies reach a real, monitored inbox.</li>
+<li>Promotional content, if any, is light, relevant and considered against marketing rules.</li>
+<li>Details match the website's delivery and returns information.</li>
+<li>Test orders are placed after any template or platform change.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify and WooCommerce shops for UK businesses, and the emails a shop sends are part of the customer experience we look at. Read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, see <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between transactional and marketing emails?</h3>
+<p>Transactional emails are triggered by a customer's action, such as placing an order, and deliver service information. Marketing emails promote products or offers and generally need consent.</p>
+<h3>Can I edit the default order confirmation email?</h3>
+<p>Yes. Shopify and WooCommerce both let you customise notification emails, though the method differs. Test after any change.</p>
+<h3>Why are my order emails going to spam?</h3>
+<p>Common causes include sending from an unauthenticated domain, unreliable server email on self-hosted sites and spam-like content. Setting up SPF, DKIM and DMARC and using a reliable sending service often helps.</p>
+<h3>Should I use a no-reply address?</h3>
+<p>Generally it is better not to. Customers reply to order emails with questions, and those messages should reach someone who can help.</p>
+`,
+  },
+  {
+    slug: 'website-online-booking-systems',
+    seoTitle: 'Online Booking Systems for Service Business Websites',
+    title: 'Online Booking Systems: Adding Bookings to a Service Business Website',
+    description: 'How UK service businesses can add online booking to their website: when it helps, choosing a system, booking page design, reminders, payments and privacy.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-contact-forms/', '/blog/service-page-design/'],
+    body: `
+<p>For many service businesses, the website's main job is to fill the diary. Salons, clinics, tutors, trainers, consultants, repair services and many others rely on appointments, and every phone call or email exchange spent agreeing a time is effort that could be saved. Online booking lets customers choose a slot themselves, at any hour, without waiting for a reply.</p>
+<p>Done well, booking becomes a natural part of the website. Done badly, it becomes a clunky detour that loses people at the last step. This guide covers when online booking makes sense, what to look for in a system, how to design the booking experience and the practical details, from reminders to privacy, that UK businesses should think about.</p>
+
+<h2>Does your business suit online booking?</h2>
+<p>Online booking works best when the service is predictable. Ask yourself:</p>
+<ul>
+<li><strong>Does each service have a typical duration?</strong> A 45-minute treatment or a one-hour lesson is easy to slot into a calendar. A job that might take two hours or two days is not.</li>
+<li><strong>Can you show a price, or at least a starting price?</strong> People are more comfortable booking when they know roughly what they will pay.</li>
+<li><strong>Is the service the same for most customers?</strong> If every job needs a site visit, a consultation or a quote first, a booking form may simply frustrate people.</li>
+<li><strong>Who delivers it?</strong> If several staff members or rooms are involved, the system needs to handle their separate availability.</li>
+</ul>
+<p>Many businesses end up with a mix. A plumber might let customers book a fixed-price boiler service online but use an enquiry form for installations. A clinic might take bookings for standard appointments but ask new patients to call for a first assessment. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers the enquiry side.</p>
+
+<h2>Types of booking setup</h2>
+<p>There are broadly three ways to add bookings to a website.</p>
+<h3>A hosted booking platform</h3>
+<p>Many businesses use a dedicated booking service that handles the calendar, staff availability, reminders and sometimes payments. These are typically embedded into the website or linked to from a "Book now" button. They are quick to set up and are maintained by the provider, but you are working within their design and features, and there is usually an ongoing subscription.</p>
+<h3>A booking plugin or app on your website platform</h3>
+<p>WordPress has booking plugins, WooCommerce can be extended to sell bookable services, and Shopify has apps for appointments. This can keep the booking experience closer to the rest of your site and, for ecommerce, lets you sell products and services in one place. It does mean the plugin needs updating and supporting along with the rest of the site.</p>
+<h3>Industry-specific software</h3>
+<p>Some sectors, such as healthcare, fitness or hospitality, have specialist practice or management systems that include online booking. If you already run your business on one, using its booking feature often makes sense because the diary stays in one place. The website's job is then to present it well.</p>
+<p>The right choice depends on what you already use, how complex your scheduling is and how much control you want over the look and feel. It is worth listing your must-haves before comparing options.</p>
+
+<h2>Features worth checking</h2>
+<p>When comparing systems, check what matters to your business. Common considerations include:</p>
+<ul>
+<li>Multiple staff, rooms or locations, each with their own availability.</li>
+<li>Buffer time between appointments for cleaning, travel or notes.</li>
+<li>Minimum notice and how far ahead people can book.</li>
+<li>Rescheduling and cancellation by the customer, within rules you set.</li>
+<li>Email and text confirmations and reminders.</li>
+<li>Two-way sync with the calendar your team already uses.</li>
+<li>Deposits or full payment at booking, if you want them.</li>
+<li>Intake questions, such as reason for visit or any access needs.</li>
+<li>Whether the booking widget works well on mobile and can be styled to match your site.</li>
+<li>Where customer data is stored and how it can be exported if you change system later.</li>
+</ul>
+
+<h2>Designing the booking journey</h2>
+<p>The booking flow is a conversion path, just like a checkout. Every unnecessary step or field is a chance for someone to give up.</p>
+<h3>Make the starting point obvious</h3>
+<p>Put a clear "Book now" or "Book an appointment" button in the header, on the homepage and on every relevant service page. Use the same wording throughout so people learn what it means. On mobile, a persistent button can help, as long as it does not cover content.</p>
+<h3>Let people book from the service page</h3>
+<p>Someone reading about a particular treatment or lesson should be able to book that service directly, ideally with it already selected. Sending them to a generic booking page where they must find the service again adds friction. Our <a href="/blog/service-page-design/">service page design guide</a> covers how to structure those pages.</p>
+<h3>Keep the steps simple</h3>
+<p>A typical flow is: choose service, choose staff member (optional, with "any available" as the default), choose date and time, enter details, confirm. Show progress so people know how far along they are.</p>
+<h3>Show availability clearly</h3>
+<p>A calendar that shows which days have slots, then a list of times for the chosen day, is usually clearer than a grid of every possible slot. Greyed-out unavailable days help people move on quickly. Make sure times are shown in UK time and that the system handles clock changes correctly.</p>
+<h3>Ask only for what you need</h3>
+<p>Name, email and phone number are usually enough to secure a booking. Extra questions can be useful, but each one should earn its place. Avoid forcing account creation before booking; offer it afterwards if it is useful for rebooking.</p>
+<h3>Confirm instantly and clearly</h3>
+<p>After booking, show a confirmation screen with the service, date, time, location or video link, price and what to bring or expect. Send the same details by email, with an option to add the appointment to a calendar and a link to reschedule or cancel.</p>
+
+<h2>Reducing no-shows</h2>
+<p>Missed appointments cost service businesses time and money. Online booking systems offer several tools that can help, though how well each works will vary by business:</p>
+<ul>
+<li><strong>Reminders</strong> by email or text a day or so before the appointment.</li>
+<li><strong>Easy rescheduling</strong>, so people move a booking rather than simply not turning up.</li>
+<li><strong>Deposits</strong> for longer or higher-value appointments.</li>
+<li><strong>A clear cancellation policy</strong>, shown before booking and repeated in confirmations.</li>
+</ul>
+<p>If you take deposits or charge cancellation fees, make the terms clear and fair before people book. Consumer protection rules apply to how terms are presented and enforced, so it is sensible to check current guidance or take advice on your policy wording.</p>
+
+<h2>Taking payment at booking</h2>
+<p>Some businesses take full payment upfront, some take a deposit and some take payment on the day. Taking payment online can reduce no-shows and admin, but it adds a step to the booking flow and raises questions about refunds when people cancel. If you do take payment, use a reputable payment provider integrated with the booking system, make the amount and any refund terms clear and send a receipt. For how pricing is presented elsewhere on the site, point people to a consistent place rather than repeating figures that may go out of date.</p>
+
+<h2>Privacy and data</h2>
+<p>A booking system collects personal data, and sometimes more sensitive information, such as health details for a clinic. Under UK GDPR you need a lawful basis for processing, a privacy notice that explains what you collect and why, and appropriate security. If you use a third-party booking platform, it will usually act as a processor on your behalf, so check its terms and where data is stored. Be cautious about collecting more than you need in intake questions. Marketing emails generally need appropriate consent, so do not assume that someone who booked an appointment has opted into a newsletter. The ICO publishes guidance for small businesses, and specialist advice is wise if you handle health or other special category data.</p>
+
+<h2>Making booking work with the rest of the site</h2>
+<p>Booking does not stand alone. A few connections are worth getting right:</p>
+<ul>
+<li><strong>Design.</strong> Style the booking widget so it matches your fonts and colours, or at least does not clash. A jarring change in look can make people wonder if they have left your site.</li>
+<li><strong>Speed.</strong> Embedded widgets can be heavy. Load them only on pages that need them where possible. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> has more.</li>
+<li><strong>Measurement.</strong> Track completed bookings as conversions so you can see which pages and channels bring them. Embedded third-party widgets can make this trickier, so plan it at the start. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains conversion tracking.</li>
+<li><strong>Google Business Profile.</strong> Local businesses can often add a booking link to their profile so people can book straight from search. See our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a>.</li>
+<li><strong>Accessibility.</strong> Date pickers are notoriously difficult for keyboard and screen reader users. Test the flow without a mouse, and offer a phone number as an alternative.</li>
+</ul>
+
+<h2>Keeping a human route open</h2>
+<p>Not everyone wants to book online. Older customers, people with complex needs or anyone unsure which service to choose may prefer to talk. Keep your phone number and an enquiry form visible alongside the booking button. Online booking should reduce routine admin, not remove the option of speaking to someone.</p>
+
+<h2>Before you launch bookings</h2>
+<ul>
+<li>Make test bookings for each service, staff member and location.</li>
+<li>Check confirmations and reminders arrive and contain the right details.</li>
+<li>Try rescheduling and cancelling as a customer.</li>
+<li>Test on several phones and browsers.</li>
+<li>Confirm bookings sync with the calendar your team actually uses.</li>
+<li>Check conversion tracking records a completed booking.</li>
+<li>Review your privacy notice and cancellation terms.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK service businesses, and booking can be part of that work, whether that means integrating a system you already use or helping you weigh up options against your requirements. Find out more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, see <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I use online booking or an enquiry form?</h3>
+<p>Use booking for services with predictable durations and prices. Use an enquiry form where you need to understand the job or quote first. Many businesses use both.</p>
+<h3>Can I add booking to an existing website?</h3>
+<p>Usually, yes. Most booking systems can be embedded or linked from an existing site, and WordPress and Shopify both support booking through plugins or apps.</p>
+<h3>Will online booking reduce phone calls?</h3>
+<p>It can reduce routine calls about availability, but some customers will always prefer to call, so keep that option visible.</p>
+<h3>Do I need to take payment when people book?</h3>
+<p>No. It is optional. Some businesses take deposits to discourage no-shows; others take payment on the day. Make whatever terms you choose clear before booking.</p>
+`,
+  },
+  {
+    slug: 'website-staging-and-testing',
+    seoTitle: 'Website Staging and Testing Before Launch: A UK Guide',
+    title: 'Website Staging and Testing: How to Check a Site Properly Before It Goes Live',
+    description: 'What a staging site is and how to test a website before launch: functionality, forms, checkout, mobile, speed, SEO, accessibility and safe updates after launch.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-maintenance-uk/', '/blog/seo-migration-checklist/'],
+    body: `
+<p>Most website problems that customers notice could have been caught before they went live. A contact form that sends enquiries nowhere, a checkout that fails on one payment method, a page that breaks on certain phones, or an entire site hidden from Google because a setting was left on. These are rarely the result of bad design; they are the result of not testing properly before launch.</p>
+<p>This guide explains what a staging site is, why it matters and how to test a new website, a redesign or a significant change before real visitors see it. It is written for UK business owners and marketing teams who want to understand what good testing involves, whether they are working with a developer, an agency or managing a site themselves.</p>
+
+<h2>What is a staging site?</h2>
+<p>A staging site is a private copy of your website, usually on a separate address, where changes can be built and checked without affecting the live site. Visitors cannot see it, and search engines should not index it. Once everything has been tested and approved, the changes are moved to the live site.</p>
+<p>Different platforms handle this differently:</p>
+<ul>
+<li><strong>WordPress and WooCommerce.</strong> Many hosts offer one-click staging environments. Developers may also use a local copy on their own computer as well as staging on the server.</li>
+<li><strong>Shopify.</strong> You can duplicate a theme and preview or edit the copy without publishing it. For larger changes, some businesses use a separate development store. Note that a duplicate theme shares the live store's products, orders and settings, so some changes, like app installs or checkout settings, still affect the live store.</li>
+<li><strong>Custom builds.</strong> Usually have dedicated development and staging environments as part of the deployment process.</li>
+</ul>
+
+<h2>Why staging matters</h2>
+<p>Editing a live website directly is risky. A small change can break a layout, conflict with a plugin or take a page offline while customers are trying to use it. For an online shop, even a short outage or broken checkout means lost orders. Staging gives you somewhere to:</p>
+<ul>
+<li>Build new pages and features without visitors seeing half-finished work.</li>
+<li>Test updates to themes, plugins and apps before applying them.</li>
+<li>Let stakeholders review and approve changes.</li>
+<li>Roll back easily if something is wrong, because the live site was never touched.</li>
+</ul>
+
+<h2>Protect the staging site</h2>
+<p>A staging site should be private. If search engines index it, you can end up with duplicate content competing with your real site. Common protections include password protection, blocking search engines and restricting access. Password protection is generally the most reliable. A "discourage search engines" setting or noindex tag helps, but must be removed when the site goes live. Forgetting to remove it is one of the most common and damaging launch mistakes, because it can hide an entire site from search results.</p>
+<p>Also check that staging does not send real emails to customers, take real payments or sync test orders into your accounting or stock systems. Payment gateways usually offer a test or sandbox mode for this purpose.</p>
+
+<h2>What to test before launch</h2>
+<p>Testing is most effective when you think about what visitors actually do on the site, not just whether pages look right in a screenshot. Here are the main areas to cover.</p>
+<h3>Content and pages</h3>
+<ul>
+<li>Every page has final content, with no placeholder text or images.</li>
+<li>Spelling, grammar, phone numbers, email addresses and opening hours are correct.</li>
+<li>Prices, delivery information and legal pages are up to date.</li>
+<li>Images display properly and have appropriate alt text.</li>
+</ul>
+<h3>Links and navigation</h3>
+<ul>
+<li>Main menus, footer links and buttons go where they should.</li>
+<li>No links point to the staging address or to deleted pages.</li>
+<li>Links to external services open correctly.</li>
+<li>The 404 page works and helps people find their way. See our <a href="/blog/404-page-design/">404 page design guide</a>.</li>
+</ul>
+<h3>Forms and enquiries</h3>
+<ul>
+<li>Submit every form and confirm the enquiry arrives at the right inbox.</li>
+<li>Check confirmation messages and any automatic replies.</li>
+<li>Test validation: what happens if someone leaves a field blank or enters an invalid email.</li>
+<li>Check spam protection does not block genuine submissions.</li>
+</ul>
+<p>Our <a href="/blog/website-contact-forms/">website contact forms guide</a> covers form design and reliability in more detail.</p>
+<h3>Ecommerce and checkout</h3>
+<ul>
+<li>Add products to the basket, change quantities and remove items.</li>
+<li>Test each variant, discount code and delivery option.</li>
+<li>Complete test orders with each payment method, using test mode.</li>
+<li>Check order confirmation and other transactional emails arrive and are correct.</li>
+<li>Confirm VAT and delivery costs calculate as expected.</li>
+<li>Test customer accounts, password resets and guest checkout.</li>
+</ul>
+<h3>Mobile and browsers</h3>
+<ul>
+<li>Test on real phones and tablets, not just a resized desktop browser.</li>
+<li>Check major browsers, including Safari on iPhone, which can behave differently.</li>
+<li>Check menus, pop-ups and forms are usable on small screens.</li>
+</ul>
+<p>See our <a href="/blog/mobile-website-design/">mobile website design guide</a> for more on mobile usability.</p>
+<h3>Speed</h3>
+<ul>
+<li>Run key pages through Google's PageSpeed Insights and look at mobile results.</li>
+<li>Check image sizes and that unnecessary scripts are not loading.</li>
+<li>Bear in mind staging servers may be slower or faster than live hosting, so recheck after launch.</li>
+</ul>
+<p>Our <a href="/blog/website-speed-optimisation-uk/">website speed optimisation guide</a> goes into more detail.</p>
+<h3>Accessibility</h3>
+<ul>
+<li>Navigate key journeys with a keyboard only.</li>
+<li>Check colour contrast, heading structure and form labels.</li>
+<li>Run an automated accessibility checker, then review issues manually.</li>
+</ul>
+<p>See our <a href="/blog/website-accessibility-uk/">website accessibility guide</a>.</p>
+<h3>SEO</h3>
+<ul>
+<li>Page titles and meta descriptions are in place.</li>
+<li>Heading structure is logical.</li>
+<li>If URLs are changing, redirects from old URLs to new ones are mapped and ready.</li>
+<li>An XML sitemap is generated and the robots.txt file is correct for the live site.</li>
+<li>Structured data, if used, is valid.</li>
+</ul>
+<p>For redesigns and migrations, our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> and <a href="/blog/website-redesign-without-losing-rankings/">guide to redesigning without losing rankings</a> cover the extra steps needed.</p>
+<h3>Tracking and consent</h3>
+<ul>
+<li>Analytics is installed and records visits and key conversions, such as form submissions and purchases.</li>
+<li>The cookie banner works and scripts respect visitors' choices.</li>
+<li>Advertising conversion tracking is in place if you run paid campaigns.</li>
+</ul>
+<p>Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to set up conversion tracking.</p>
+<h3>Security and backups</h3>
+<ul>
+<li>The site loads over HTTPS with a valid certificate, with no mixed-content warnings.</li>
+<li>Admin accounts use strong passwords and unnecessary accounts are removed.</li>
+<li>Backups are configured and you know how to restore one.</li>
+</ul>
+<p>For WordPress sites, see our <a href="/blog/wordpress-security-uk/">WordPress security guide</a>.</p>
+
+<h2>Who should test?</h2>
+<p>Developers should test as they build, but they are not the only people who should look. The person who built a feature knows how it is supposed to work and may unconsciously avoid the paths that break it. It helps to involve:</p>
+<ul>
+<li>Someone from the business who knows the products, services and customers.</li>
+<li>Someone unfamiliar with the project, who will use it like a new visitor.</li>
+<li>Whoever handles enquiries or orders, to check they arrive in the right form.</li>
+</ul>
+<p>Keep a shared list of issues with a description, page, device and screenshot for each, so nothing is lost and fixes can be checked off.</p>
+
+<h2>Launch day</h2>
+<p>When testing is complete and changes are approved, the site moves from staging to live. On launch day it is worth:</p>
+<ul>
+<li>Choosing a quieter time rather than your busiest trading period.</li>
+<li>Taking a full backup of the existing live site first.</li>
+<li>Removing any search engine blocks and checking robots.txt.</li>
+<li>Switching payment gateways out of test mode.</li>
+<li>Repeating key tests on the live site: forms, a real low-value order if appropriate, and tracking.</li>
+<li>Submitting the sitemap in Google Search Console and checking for errors over the following days.</li>
+</ul>
+
+<h2>Staging after launch</h2>
+<p>Staging is not only for launches. Once the site is live, it remains the safest place to test plugin and theme updates, new features, design changes and platform upgrades. Copy the live site to staging, apply the change, test the key journeys, then push it live. This is one of the main reasons ongoing <a href="/blog/website-maintenance-uk/">website maintenance</a> matters: updates are necessary for security, but applying them blind to a live site carries risk.</p>
+<p>Be careful when pushing changes from staging to a live online shop. Copying the whole staging database over the live one can overwrite orders and customer data created since the copy was taken. Push code and design changes rather than the database, or plan the timing carefully.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds websites and online shops for UK businesses on WordPress, WooCommerce and Shopify, and testing before launch is part of how a build should be delivered. Find out more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, see <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a staging site for a small website?</h3>
+<p>It is strongly advisable for anything beyond trivial text edits. Even simple sites can break after a plugin or theme update, and staging lets you check first.</p>
+<h3>Does Shopify have a staging site?</h3>
+<p>Not in the same way as WordPress. You can duplicate and preview themes, and some businesses use a separate development store for bigger changes.</p>
+<h3>How long should testing take?</h3>
+<p>It depends on the size and complexity of the site. An online shop with many products and payment options needs more testing than a small brochure site.</p>
+<h3>What is the most common launch mistake?</h3>
+<p>Leaving search engines blocked after moving from staging to live is a frequent and damaging one. Broken forms and missing redirects are also common.</p>
+`,
+  },
 ];
