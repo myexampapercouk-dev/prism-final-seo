@@ -23161,4 +23161,567 @@ module.exports = [
 <p>Practical buying, fit and care guides can help buyers decide and support visibility in search, provided they are accurate and genuinely useful.</p>
 `,
   },
+  {
+    slug: 'cafe-website-design-uk',
+    seoTitle: 'Cafe and Coffee Shop Website Design in the UK',
+    title: 'Cafe and Coffee Shop Website Design: Building a Site That Brings People Through the Door',
+    description: 'Cafe and coffee shop website design for UK owners: menus, opening hours, maps, pre-orders, events, photography and mobile speed that turn searches into visits.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/restaurant-marketing-uk/', '/pricing/'],
+    body: `
+<p>A cafe or coffee shop website has an unusual job. Very few people read it at length. Most arrive on a phone, often standing on a street nearby or deciding where to meet a friend, and they want answers within seconds: are you open, where exactly are you, do you do oat milk, is there somewhere to sit with a laptop, can I bring the dog? If the site answers those questions quickly and looks like the place feels, it has done most of what it needs to do.</p>
+<p>This guide is about the website itself: the pages, the layout, the menu, ordering options and the technical basics. If you are looking for wider promotion such as social media, local listings and review management for food and drink businesses, our guide to <a href="/blog/restaurant-marketing-uk/">restaurant marketing in the UK</a> covers that side, and much of it applies to cafes too.</p>
+
+<h2>How a cafe website differs from a restaurant website</h2>
+<p>Cafes and restaurants overlap, but the way customers use their websites is often different. A restaurant visit is usually planned: people compare menus, check prices and book a table for a specific evening. A cafe visit is more often spontaneous and repeated. Someone might visit three times a week, rarely book anything and decide on the day.</p>
+<p>That changes the priorities. A cafe site needs to be lighter and faster, with the practical details right at the top. Table booking may not matter at all. What matters more is atmosphere, opening hours that are always correct, and anything that gives a regular a reason to come back, such as a seasonal menu, a new single-origin coffee or a weekend event.</p>
+
+<h2>The pages most cafes need</h2>
+<p>Keep the structure small. A typical independent cafe can work well with a handful of pages:</p>
+<ul>
+<li><strong>Home.</strong> A strong photograph of the space or the counter, a one-line description of what you are, today's opening hours and your address with a map link.</li>
+<li><strong>Menu.</strong> Food and drink, with dietary labels and a note on allergens (more on this below).</li>
+<li><strong>Visit or find us.</strong> Address, embedded map, parking or public transport notes, accessibility information and whether you welcome dogs, buggies or laptops.</li>
+<li><strong>About.</strong> Who runs the place, where your coffee or ingredients come from and what you care about. Keep it honest and short.</li>
+<li><strong>Contact.</strong> Phone, email and a simple form for enquiries such as private hire or wholesale.</li>
+</ul>
+<p>If you have more than one site, give each location its own page with its own hours, address and photos. Combining several cafes onto one page makes it hard for visitors to find the details for the branch in front of them, and it makes it harder for search engines to match each location to local searches.</p>
+
+<h2>Make the essentials impossible to miss</h2>
+<p>Opening hours, address and phone number should be visible without scrolling on a phone, and repeated in the footer. A few practical points help:</p>
+<ul>
+<li>Write hours as plain text, not inside an image, so they can be read by screen readers and search engines.</li>
+<li>Show seasonal or bank holiday changes clearly, and remove them once they pass. Out-of-date hours are a quick way to send someone to a locked door.</li>
+<li>Make the phone number tappable and the address link straight to a map app.</li>
+<li>Keep the details identical to your Google Business Profile so customers do not see two different answers.</li>
+</ul>
+<p>Our <a href="/blog/mobile-website-design/">guide to mobile website design</a> goes deeper into designing for small screens, which is where most cafe visits will begin.</p>
+
+<h2>Getting the menu right</h2>
+<p>The menu is usually the most visited page after the homepage, and it is often the weakest. A common pattern is a photo or PDF of the printed menu. That is quick to upload but awkward on a phone: text is small, it cannot be searched, and it is easy to forget to replace when prices or dishes change.</p>
+<p>A menu built as normal web text is better in almost every way. It reads cleanly on any screen, it can be updated in minutes and it helps search engines understand what you serve, which matters if someone searches for something specific such as a vegan brunch or a particular style of coffee near them.</p>
+<p>Some suggestions for the menu page:</p>
+<ul>
+<li>Group items the way customers think: coffee, other drinks, breakfast, lunch, cakes and bakes.</li>
+<li>Use clear dietary labels such as vegetarian, vegan and gluten-free, and explain what they mean in a short key.</li>
+<li>Decide whether to show prices. Many customers find it helpful, but only if you will keep them current.</li>
+<li>Mark which items change seasonally or daily so people are not disappointed.</li>
+</ul>
+
+<h3>Allergen information</h3>
+<p>UK food businesses have legal duties around allergen information, and the rules differ depending on how food is sold, for example food made and packed on the premises for direct sale has its own labelling requirements. The Food Standards Agency publishes guidance for businesses. A website does not replace the information you provide in person, but it is sensible to tell visitors how to find out about allergens, invite them to speak to staff, and avoid wording that could be read as a guarantee that an item is free from a particular allergen. If you are unsure what applies to you, check the Food Standards Agency guidance or speak to your local authority's environmental health team.</p>
+
+<h2>Photography and atmosphere</h2>
+<p>People often choose a cafe on feel: the light, the seating, whether it looks calm or lively, whether it seems a good place to work or to chat. Photographs carry that more than any copy can.</p>
+<p>Aim for a small set of honest images rather than lots of stock photography. Useful shots include the counter, the seating area at a quiet time and a busy time, a few signature drinks and dishes, and the outside of the building so people recognise it when they arrive. Photos of the outside are underrated; they help first-time visitors find you on a busy street.</p>
+<p>Large images can slow a site down, so they should be resized and compressed before going live. Our <a href="/blog/website-image-optimisation/">image optimisation guide</a> explains how to keep photos sharp without making pages heavy.</p>
+
+<h2>Online ordering, pre-orders and click and collect</h2>
+<p>Some cafes take orders through their site, whether that is coffee ahead for collection, lunch pre-orders for local offices or celebration cakes. This can be useful, but it is not automatically the right move.</p>
+<p>Questions worth asking before adding ordering:</p>
+<ul>
+<li>Will someone check and prepare online orders during the morning rush without slowing the queue?</li>
+<li>Do you already use a till or delivery app that offers ordering, and would a second system cause confusion?</li>
+<li>Is demand steady enough to justify the setup and any transaction fees?</li>
+</ul>
+<p>For simple cases, a clear order form or a link to an ordering tool you already use may be enough. For cafes that sell more online, such as cakes for collection, gift vouchers or coffee subscriptions, a proper ecommerce setup on a platform like Shopify or WooCommerce may make more sense. The right answer depends on volume and how you operate on the day.</p>
+
+<h3>Selling beans, merchandise and gift cards</h3>
+<p>Roasters and cafes with a strong following sometimes sell coffee beans, equipment or merchandise online. That is effectively a small online shop sitting alongside the cafe site, with its own needs: product pages, delivery options, stock levels and returns. It is worth planning as a separate part of the site rather than bolting a few products onto the menu page. Our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> covers what a good shop structure involves.</p>
+
+<h2>Events, private hire and community</h2>
+<p>Many cafes host open mic nights, book clubs, art exhibitions, workshops or private parties. If that is part of what you do, give it a home on the site.</p>
+<ul>
+<li>An events page with upcoming dates in plain text, updated regularly, and older events removed.</li>
+<li>A private hire page explaining capacity, the kinds of events you can host and what information you need from an enquiry.</li>
+<li>A short enquiry form asking for the date, group size and type of event, so you can reply with something useful straight away.</li>
+</ul>
+<p>Keep forms short. Asking for everything up front can put people off; the essentials are usually enough to start a conversation. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more on designing forms people actually complete.</p>
+<p>If you take paid bookings for workshops or classes, an online booking tool can save a lot of back and forth. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> compares the main approaches.</p>
+
+<h2>Choosing a platform</h2>
+<p>A simple cafe website can be built on most mainstream platforms. Hosted builders such as Squarespace and Wix can work well for a small brochure site that the owner wants to update themselves. WordPress gives more flexibility for events, multiple locations or content such as a blog. If online sales are a significant part of the business, Shopify or WooCommerce are worth considering.</p>
+<p>Think less about features and more about who will update the site. A cafe menu and hours change often. If the person running the cafe cannot update them easily on a quiet afternoon, the site will drift out of date. Our comparison of <a href="/blog/website-builder-vs-custom-website/">website builders and custom websites</a> sets out the trade-offs.</p>
+
+<h2>Local search basics for cafes</h2>
+<p>People searching for a coffee shop nearby are usually shown a map and a list of businesses before any websites. Your Google Business Profile does a lot of the work there, but your website supports it. A few website-side points:</p>
+<ul>
+<li>Mention your area naturally in page titles and copy, for example the neighbourhood or high street you are on.</li>
+<li>Use a consistent name, address and phone number everywhere.</li>
+<li>Give each location its own page if you have more than one.</li>
+<li>Make the site fast, especially on mobile data.</li>
+</ul>
+<p>For the wider picture, our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how map listings, reviews and websites work together.</p>
+
+<h2>Keeping it current</h2>
+<p>The biggest risk to a cafe website is not poor design; it is neglect. A menu from two seasons ago, a summer opening time in winter or an event that happened last year all send a quiet signal that nobody is paying attention. Put a simple routine in place: check hours and the menu whenever they change, review events weekly, and look over the whole site every few months. If you would rather not handle the technical side yourself, our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what ongoing care usually involves.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a cafe or coffee shop and want a site that is easy to update and clear on a phone, take a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. For costs, see our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a> to talk through what you need.</p>
+
+<h2>FAQs</h2>
+<h3>Does a small cafe really need a website?</h3>
+<p>Not every cafe does, but a simple site gives you one place you control with accurate hours, menu and location, which social profiles and listings can point back to.</p>
+<h3>Should I upload my menu as a PDF?</h3>
+<p>It is usually better to publish the menu as normal web text. It is easier to read on a phone, easier to update and more useful for search engines.</p>
+<h3>Can customers order coffee ahead through my website?</h3>
+<p>Yes, it is possible, but it only works well if your team can handle online orders during busy periods. Consider demand and your existing till or ordering tools first.</p>
+<h3>Do I need to list allergens on my website?</h3>
+<p>Your legal duties depend on how you sell food. Check the Food Standards Agency guidance. Many cafes direct customers to ask staff rather than listing full allergen details online.</p>
+<h3>Which platform is best for a cafe website?</h3>
+<p>There is no single best option. Squarespace or Wix suit simple sites, WordPress offers more flexibility, and Shopify or WooCommerce suit cafes selling products online.</p>
+<h3>How much does a cafe website cost?</h3>
+<p>It depends on the number of pages, features such as ordering and who builds it. Our <a href="/blog/website-design-cost-small-business-uk/">small business website cost guide</a> explains the factors.</p>
+`,
+  },
+  {
+    slug: 'cleaning-company-website-design-uk',
+    seoTitle: 'Cleaning Company Website Design in the UK',
+    title: 'Cleaning Company Website Design: Quotes, Service Pages and Trust Built In',
+    description: 'Cleaning company website design for UK domestic and commercial cleaners: service pages, instant quote forms, recurring bookings, areas and trust details.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/cleaning-company-marketing-uk/', '/pricing/'],
+    body: `
+<p>Cleaning is built on trust. Customers are letting people into their homes or business premises, often when they are not there, and they need to feel confident before they enquire. At the same time, many cleaning enquiries are fairly price-driven, and people want to know quickly whether you cover their area and roughly what a clean will cost. A good cleaning company website balances reassurance with speed.</p>
+<p>This guide focuses on the website: structure, quote and booking forms, service pages and the details that build confidence. For promotion beyond the website, such as local listings, leaflets and reviews, see our guide to <a href="/blog/cleaning-company-marketing-uk/">cleaning company marketing in the UK</a>.</p>
+
+<h2>Domestic or commercial, or both</h2>
+<p>The first structural decision is whether you serve homes, businesses or both, because these customers think differently.</p>
+<ul>
+<li><strong>Domestic customers</strong> care about reliability, the same cleaner each time, flexibility, price and trust. They often decide quickly and on a phone.</li>
+<li><strong>Commercial customers</strong>, such as offices, shops, clinics or schools, care about consistency, out-of-hours working, compliance, contracts and how issues are handled. Decisions may involve more than one person and take longer.</li>
+</ul>
+<p>If you do both, split them clearly from the homepage, for example with two prominent routes: home cleaning and business cleaning. Mixing them on one page tends to make the site feel vague to both audiences.</p>
+
+<h2>Pages a cleaning business typically needs</h2>
+<ul>
+<li><strong>Home.</strong> What you clean, where, and a clear quote button.</li>
+<li><strong>Service pages.</strong> One for each main service, such as regular domestic cleaning, end of tenancy, deep cleans, after-builders cleans, office cleaning, carpet cleaning or window cleaning.</li>
+<li><strong>Areas covered.</strong> Towns and districts you serve.</li>
+<li><strong>How it works.</strong> What happens from first enquiry to the first clean.</li>
+<li><strong>About and trust.</strong> Who you are, how cleaners are chosen and checked, insurance and policies.</li>
+<li><strong>Quote or booking.</strong> A form or booking system, plus phone and email.</li>
+<li><strong>FAQs.</strong> Supplies, keys, pets, cancellations and what happens if something goes wrong.</li>
+</ul>
+
+<h2>Service pages for each type of clean</h2>
+<p>Different cleans attract different customers. Someone searching for end of tenancy cleaning is in a very different situation from someone wanting a weekly cleaner. Give each core service its own page that explains:</p>
+<ul>
+<li>Who it is for and when they might need it.</li>
+<li>What is usually included and what is not, described as a general guide rather than a fixed promise, so expectations are realistic.</li>
+<li>Whether you bring equipment and products, or use the customer's.</li>
+<li>How long it typically takes and what you need from the customer, such as access or parking.</li>
+<li>A clear way to request a quote for that service.</li>
+</ul>
+<p>Checklists are popular on cleaning sites because they make the work tangible. If you use one, keep it accurate to what your team actually does, and note that the final scope is agreed with each customer.</p>
+<h3>End of tenancy pages</h3>
+<p>End of tenancy cleans are often linked to deposit returns. Be careful not to promise that a clean guarantees a deposit back, since that depends on the landlord or agent, the inventory and the tenancy deposit scheme's process. You can explain what you clean and any re-clean policy you genuinely offer, and leave deposit decisions to the parties involved.</p>
+
+<h2>Quote forms that let you price properly</h2>
+<p>Pricing cleaning often depends on the size of the property, its condition, how often you visit and any extras. A good quote form collects enough to give a realistic figure without making the customer fill in a questionnaire.</p>
+<p>For domestic work, useful fields might include:</p>
+<ul>
+<li>Postcode, to check coverage.</li>
+<li>Type of clean.</li>
+<li>Number of bedrooms and bathrooms.</li>
+<li>Frequency, such as weekly, fortnightly or one-off.</li>
+<li>Preferred days and times.</li>
+<li>Extras such as oven, inside windows or ironing, if you offer them.</li>
+<li>Pets and any access notes.</li>
+</ul>
+<p>For commercial work, ask about the type of premises, approximate size, number of washrooms and kitchens, frequency, preferred hours and any specific requirements. Many commercial jobs will still need a visit or a call before a firm price.</p>
+<p>Some cleaning companies use an instant price calculator. It can work well for standard domestic cleans if your pricing is consistent, but it can create problems if the price shown is unrealistic for a particular property. If you use one, make clear that the figure is an estimate and may change after you confirm details. Our <a href="/blog/website-contact-forms/">website contact forms guide</a> has more on designing forms people complete.</p>
+
+<h2>Online booking and recurring cleans</h2>
+<p>For repeat domestic customers, online booking can be convenient. Specialist booking and scheduling tools for cleaning businesses can handle recurring appointments, reminders and payments, and can usually be linked from or embedded in your website. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> explains the main options.</p>
+<p>Before adding self-service booking, think about how you allocate cleaners and whether you can honour bookings made at short notice. Sometimes a quick quote form followed by a personal call is a better first step, with booking tools used for existing customers.</p>
+
+<h2>Building trust</h2>
+<p>Because cleaners work inside people's homes and businesses, trust details carry a lot of weight. Be specific and honest.</p>
+<ul>
+<li><strong>Vetting.</strong> Explain how you recruit and check cleaners, such as references, right to work checks and, where appropriate and lawful, criminal record checks. Only describe checks you actually carry out.</li>
+<li><strong>Insurance.</strong> Mention public liability insurance if you hold it, and any other cover relevant to your work.</li>
+<li><strong>Keys and access.</strong> Explain how keys, codes and alarm details are stored and returned.</li>
+<li><strong>Consistency.</strong> Say whether customers usually get the same cleaner, and what happens when that cleaner is off.</li>
+<li><strong>Problems.</strong> Explain how complaints or breakages are handled.</li>
+</ul>
+<p>Real photos of your team, with their permission, are more reassuring than stock images of smiling people with spray bottles. Genuine reviews from customers, used with consent, also help. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present credibility well.</p>
+
+<h3>Privacy and personal data</h3>
+<p>Cleaning companies often hold sensitive information: home addresses, key safe codes, alarm codes and details of when people are away. Your website's forms and any booking system should handle this securely, and your privacy notice should explain what you collect and why. The ICO publishes guidance for small businesses on data protection. Avoid asking for access codes through a general website form; collect those through a more secure route once a booking is confirmed.</p>
+
+<h2>Areas covered</h2>
+<p>Coverage is one of the first things people check. List the towns and districts you serve in text on a dedicated page and mention your main areas on the homepage. A postcode check at the start of the quote form also helps people find out quickly whether you can help.</p>
+<p>If you build individual area pages, make each one genuinely useful, perhaps by mentioning the kinds of properties you clean there or local services offered. Duplicate pages with only the town name changed add little. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers how area pages and map listings fit together.</p>
+
+<h2>Design priorities for cleaning websites</h2>
+<p>A cleaning website should feel fresh, clear and organised, which is a reasonable reflection of the service itself. Practical priorities:</p>
+<ul>
+<li>A quote button visible at all times on mobile.</li>
+<li>Short, scannable pages with clear headings.</li>
+<li>Plenty of white space and a restrained colour palette.</li>
+<li>Real team and work photos, compressed so pages load quickly.</li>
+<li>Readable fonts and good contrast for accessibility.</li>
+</ul>
+<p>Before-and-after photos can be persuasive for deep cleans and after-builders work. Take them from the same angle and lighting, and avoid showing anything that identifies the customer or their home without permission.</p>
+
+<h2>Commercial cleaning sections</h2>
+<p>If you clean businesses, give that side of the site the depth it needs. Commercial buyers may want to understand your experience with similar premises, how you supervise and check quality, how you handle out-of-hours work and security, and what documentation you can provide, such as risk assessments or method statements. Keep claims accurate and avoid mentioning certifications or standards you do not hold.</p>
+
+<h2>Choosing a platform</h2>
+<p>Squarespace and Wix suit smaller cleaning businesses wanting an easy site to update. WordPress offers more flexibility for multiple service and area pages and for integrating booking tools. Whatever you choose, check that your booking or quoting tools work smoothly with it. Our article on <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> explains the trade-offs.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a cleaning company and want a site that captures quality enquiries and builds trust, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, visit our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a cleaning company show prices on its website?</h3>
+<p>Many show starting prices or estimates for standard cleans. Make clear the final price depends on property size, condition and frequency.</p>
+<h3>Is an instant quote calculator a good idea?</h3>
+<p>It can be for standard domestic cleans with consistent pricing. Always label results as estimates that may change once details are confirmed.</p>
+<h3>Should domestic and commercial cleaning be on separate pages?</h3>
+<p>Yes, usually. The audiences care about different things, and separate routes make the site clearer.</p>
+<h3>What trust information should a cleaning website include?</h3>
+<p>Accurate details of how cleaners are checked, insurance you hold, how keys are handled and how problems are resolved, along with genuine reviews.</p>
+<h3>Can I take recurring bookings through my website?</h3>
+<p>Yes, using scheduling tools that link from or embed in your site. Make sure you can reliably staff the bookings that come in.</p>
+<h3>Should I ask for key safe codes on my quote form?</h3>
+<p>It is better not to. Collect sensitive access details through a more secure route once a booking is confirmed.</p>
+`,
+  },
+  {
+    slug: 'driving-instructor-website-design-uk',
+    seoTitle: 'Driving Instructor Website Design: A UK Guide',
+    title: 'Driving Instructor Website Design: What an Independent ADI\'s Site Needs',
+    description: 'Driving instructor website design for independent UK ADIs: areas covered, lesson info, availability, enquiry forms and trust details for learners and parents.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/driving-school-marketing-uk/', '/pricing/'],
+    body: `
+<p>Many driving instructors work alone or in very small teams, fit admin around back-to-back lessons and have limited time for a website. Yet the website is often where a learner, or more often their parent, decides whether to get in touch. A clear, simple site that answers the obvious questions can save hours of back-and-forth messages and fill gaps in your diary with the right pupils.</p>
+<p>This guide is for independent approved driving instructors (ADIs) and small instructor businesses. It focuses on the website: pages, enquiry and booking options, and the details that build trust. Larger multi-instructor driving schools have different needs, and promotion beyond the website, such as listings and referrals, is covered in our guide to <a href="/blog/driving-school-marketing-uk/">driving school marketing in the UK</a>.</p>
+
+<h2>Who is actually visiting</h2>
+<p>A driving instructor's site has two main audiences, often at the same time.</p>
+<ul>
+<li><strong>Learners</strong>, frequently 17 to early twenties, browsing on a phone. They want to know if you cover their area, what car you use, whether you teach manual or automatic and how soon they can start.</li>
+<li><strong>Parents or guardians</strong>, who are often paying and organising. They look for reassurance: that you are properly qualified, patient, reliable and safe.</li>
+</ul>
+<p>There are also adult learners, nervous drivers, people needing refresher lessons and those who have just passed and want motorway practice. If you specialise in any of these, say so clearly; it helps the right people pick you.</p>
+
+<h2>The pages to include</h2>
+<p>An independent instructor rarely needs a large site. A sensible starting structure:</p>
+<ul>
+<li><strong>Home.</strong> Your name or business name, the areas you cover, manual or automatic, and a clear enquiry button.</li>
+<li><strong>Lessons.</strong> The types of lessons you offer, lesson lengths, what a first lesson involves and how you structure learning.</li>
+<li><strong>Areas covered.</strong> Towns, postcodes or test centres you work around.</li>
+<li><strong>About you.</strong> Your background, teaching approach and qualifications, with a friendly photo.</li>
+<li><strong>Prices or booking info.</strong> Your rates if you publish them, or how pricing works if you prefer to discuss it.</li>
+<li><strong>Contact.</strong> A short enquiry form, phone number and the best times to reach you.</li>
+</ul>
+
+<h2>Make your coverage area crystal clear</h2>
+<p>The most common question an instructor receives is some version of do you cover my area. Answer it on the homepage and in detail on its own page.</p>
+<ul>
+<li>List towns and districts by name, and mention the test centres you usually work with.</li>
+<li>Explain pick-up arrangements, such as home, school, college or work.</li>
+<li>Consider a simple map, but always include the area names in text too, because maps are not read by search engines or screen readers in the same way.</li>
+</ul>
+<p>If you cover a few distinct towns, a short page for each with genuinely local detail, such as typical routes or nearby test centres, can help. Avoid creating near-identical pages where only the town name changes; they add little for visitors and can be treated as low quality by search engines.</p>
+
+<h2>Availability and waiting lists</h2>
+<p>Demand for lessons varies over time and between areas. Some instructors have a waiting list; others have gaps they want to fill. The website can manage expectations either way.</p>
+<ul>
+<li>A short availability note near the top of the homepage, for example whether you are currently taking new pupils, saves time for both sides.</li>
+<li>If you run a waiting list, explain how it works and roughly what information you need to add someone to it.</li>
+<li>Keep the note current. An old message saying you are fully booked can quietly turn away work for months.</li>
+</ul>
+
+<h2>Enquiry forms versus online booking</h2>
+<p>There are two broad approaches, and both work.</p>
+<p><strong>An enquiry form</strong> suits most new pupils. You need to understand their experience, location and availability before agreeing a schedule. Useful fields include name, phone, pick-up area, manual or automatic, experience so far, whether they hold a provisional licence and preferred times. Keep it as short as you can; ask the rest when you speak. Our <a href="/blog/website-contact-forms/">guide to website contact forms</a> explains how to keep forms short and effective.</p>
+<p><strong>Online booking</strong> can work well for existing pupils booking regular slots, or for set packages such as motorway sessions or refresher lessons. Many instructors use dedicated scheduling apps, which can link from the website. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> looks at the options.</p>
+<p>Whichever you choose, say how quickly you usually reply. Instructors are often driving during the day, so setting expectations, such as replying in the evening, avoids people assuming they have been ignored.</p>
+
+<h2>Building trust, especially with parents</h2>
+<p>A parent handing their child over for lessons wants to feel confident. A website can help with honest, specific information.</p>
+<h3>Qualifications and checks</h3>
+<p>Explain that you are a DVSA approved driving instructor, if that is the case, and what that means in plain terms. Instructors display a badge in the car, and learners can ask to see it. Trainee instructors with a trainee licence should be equally clear about their status. Do not imply qualifications, grades or memberships you do not hold, and keep wording consistent with how DVSA describes them. If in doubt, check the guidance on GOV.UK.</p>
+<h3>The car</h3>
+<p>Mention the make and model, whether it is manual or automatic, and that it is dual controlled if so. A photo of the car helps learners recognise you on the first pick-up.</p>
+<h3>Teaching approach</h3>
+<p>Describe how you teach: how you handle nerves, how you plan progress and how you decide when someone is ready for their test. Genuine detail is more persuasive than generic phrases about being patient and friendly.</p>
+<h3>Reviews and pass rates</h3>
+<p>Real reviews from pupils can be powerful. Only use genuine reviews with permission, and do not edit them in a way that changes their meaning. Be careful with pass rate claims: they should be accurate, based on clear figures and presented fairly. Advertising rules in the UK require claims to be capable of being backed up, so if you cannot support a figure, leave it out. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers honest ways to build credibility.</p>
+
+<h2>Lesson information that answers questions before they are asked</h2>
+<p>A good lessons page reduces repetitive messages. Consider covering:</p>
+<ul>
+<li>Lesson lengths you offer and why some pupils choose longer sessions.</li>
+<li>What happens on the first lesson, especially for complete beginners.</li>
+<li>Whether you offer intensive or semi-intensive courses, and who they suit.</li>
+<li>Help with the theory test, if you provide it, and where to book it officially.</li>
+<li>Using your car for the practical test, and how that is arranged.</li>
+<li>Cancellation and late notice rules.</li>
+</ul>
+<p>Always link to GOV.UK for official processes such as applying for a provisional licence or booking theory and practical tests. Learners can be targeted by unofficial sites charging extra fees, so pointing them to the official service is a helpful, trust-building touch.</p>
+
+<h2>Prices: show or discuss?</h2>
+<p>Instructors differ on whether to publish prices. Showing them can filter enquiries and save time. Not showing them may make sense if pricing varies a lot by area or package. If you show prices, keep them current, explain any block booking terms clearly and make sure payment and refund terms are fair and easy to find. If you are unsure about refund rules for prepaid lessons, take advice, as consumer law may apply.</p>
+
+<h2>Design and practical setup</h2>
+<p>A driving instructor's site does not need to be elaborate. It needs to be quick, clear and easy to update from a phone between lessons. Hosted builders such as Wix and Squarespace suit many independents; WordPress offers more flexibility if you plan to add content such as guides for learners. Our comparison of <a href="/blog/website-builder-vs-custom-website/">website builders and custom websites</a> explains the trade-offs.</p>
+<p>Design points worth prioritising:</p>
+<ul>
+<li>A tap-to-call button and enquiry button visible on mobile at all times.</li>
+<li>Readable text and good contrast.</li>
+<li>A real photo of you and your car rather than stock images.</li>
+<li>Fast loading on mobile data.</li>
+</ul>
+<p>Helpful content, such as what to expect from a mock test or how to practise with family between lessons, can give learners and parents a reason to trust you before they enquire. It does not need to be frequent; a small number of genuinely useful articles is better than many thin ones.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses and works remotely with clients across the country. If you are an instructor who wants a clear, easy-to-manage site, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, check our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does an independent driving instructor need a website?</h3>
+<p>Not always, but a simple site gives learners and parents one reliable place to check your areas, lessons, qualifications and how to get in touch.</p>
+<h3>Should I put my prices on my website?</h3>
+<p>Many instructors do, as it filters enquiries. If prices vary widely, you might explain how pricing works and invite people to ask.</p>
+<h3>Can pupils book lessons online?</h3>
+<p>Yes, through scheduling tools linked from your site. Many instructors use an enquiry form for new pupils and online booking for existing ones.</p>
+<h3>Can I mention my pass rate?</h3>
+<p>Only if it is accurate, fairly presented and you can back it up. If you cannot support a figure, it is safer to leave it out.</p>
+<h3>How is a driving instructor website different from a driving school website?</h3>
+<p>An independent instructor's site centres on one person, their areas and availability. A driving school site usually covers several instructors, wider areas and more booking options.</p>
+<h3>Should I link to GOV.UK?</h3>
+<p>Yes. Linking to official pages for provisional licences and tests helps learners avoid unofficial sites that charge extra fees.</p>
+`,
+  },
+  {
+    slug: 'electrician-website-design-uk',
+    seoTitle: 'Electrician Website Design: A Guide for UK Sparkies',
+    title: 'Electrician Website Design: Building a Site That Wins the Right Jobs',
+    description: 'Electrician website design for UK sparkies and electrical contractors: service pages, quote forms, emergency call-outs, accreditations and areas covered.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/tradesman-marketing-uk/', '/pricing/'],
+    body: `
+<p>Electrical work is one of those trades where customers care a lot about trust and very little about style. Someone with a tripping circuit at 9pm wants to know you can come out. Someone planning a rewire or an EV charger wants to know you are qualified, registered and likely to do a tidy job. A good electrician's website speaks to both and gets each of them to the right next step quickly.</p>
+<p>This guide is about the website: the pages, forms, layout and trust details that suit domestic and commercial electricians in the UK. For promotion beyond the website, such as directories, reviews and local advertising for trades, see our guide to <a href="/blog/tradesman-marketing-uk/">tradesman marketing in the UK</a>.</p>
+
+<h2>Two kinds of visitor: urgent and planned</h2>
+<p>Most electricians get both types of enquiry, and they need different handling.</p>
+<ul>
+<li><strong>Urgent visitors</strong> have a fault: no power, a burning smell, a tripping board. They want a phone number, an idea of whether you cover their area and whether you do emergency call-outs at all. They will not read much.</li>
+<li><strong>Planned visitors</strong> are thinking about a rewire, consumer unit upgrade, extension wiring, lighting, EV charger or electrical inspection. They compare a few firms, read about your experience and want an easy way to request a quote.</li>
+</ul>
+<p>If you offer emergency work, make that unmissable on mobile with a tap-to-call button and clear hours. If you do not, say so politely, so you are not woken by calls you cannot take. Both choices are fine; the mistake is leaving people guessing.</p>
+<p>If your site mentions electrical emergencies, it is sensible to include basic safety signposting, for example advising people to contact their network operator in a power cut affecting the area, or to call the emergency gas number if they smell gas. Keep it short and accurate.</p>
+
+<h2>Pages that suit electrical businesses</h2>
+<ul>
+<li><strong>Home.</strong> What you do, where you work, domestic or commercial or both, a phone number and a quote button.</li>
+<li><strong>Service pages.</strong> One page per main service rather than a single long list.</li>
+<li><strong>Areas covered.</strong> Towns and districts you work in.</li>
+<li><strong>About and accreditations.</strong> Who you are, how long you have been working, your registrations and insurance.</li>
+<li><strong>Recent work.</strong> Photos and short descriptions of real jobs.</li>
+<li><strong>Contact or quote.</strong> A form, phone, email and when you usually respond.</li>
+</ul>
+
+<h2>Service pages that do real work</h2>
+<p>A single services page listing rewires, fuse boards, sockets, lighting, EV chargers, testing and alarms gives search engines and visitors very little to go on. A dedicated page for each core service is more useful. Each page can explain:</p>
+<ul>
+<li>What the service involves, in plain English.</li>
+<li>Signs a customer might need it, for example an old fuse box or frequent tripping.</li>
+<li>Roughly what to expect on the day, such as access needed or how long power may be off.</li>
+<li>What paperwork they should receive, such as an electrical installation certificate or a minor works certificate, where relevant.</li>
+<li>A clear call to action to request a quote.</li>
+</ul>
+<p>Write for homeowners and landlords, not other electricians. Technical terms are fine if you explain them. Our <a href="/blog/service-page-design/">service page design guide</a> covers how to structure pages like these.</p>
+
+<h3>Landlords and electrical safety reports</h3>
+<p>Private landlords in England have legal duties around electrical safety inspections, and there are similar but not identical requirements in Scotland and Wales. If you carry out electrical installation condition reports for landlords, a dedicated page can help. Keep any explanation of the rules brief, avoid giving definitive legal advice and link to the official guidance on GOV.UK or the relevant devolved government site, as the details can change and vary by nation.</p>
+
+<h3>EV chargers and newer work</h3>
+<p>Electric vehicle charger installation, battery storage and solar connections are growing areas of interest. If you offer them, give each a page. Be careful with statements about grants, schemes or savings: these change and depend on individual circumstances. Link to official sources instead of quoting figures that may go out of date.</p>
+
+<h2>Registrations, certification and trust</h2>
+<p>In England and Wales, much domestic electrical work falls under building regulations, and electricians commonly join a competent person scheme so they can self-certify compliant work. Customers increasingly look for this. Your website can explain, in plain terms, which scheme you are registered with, what that means for the customer and how they can check your registration on the scheme's public register.</p>
+<p>Some important cautions:</p>
+<ul>
+<li>Only display logos and statements for schemes, memberships and qualifications you actually hold, and follow each scheme's rules on how their marks may be used.</li>
+<li>Keep wording accurate. Do not imply an approval or status you do not have.</li>
+<li>Update the site promptly if a registration lapses or changes.</li>
+<li>State that you hold public liability insurance only if you do.</li>
+</ul>
+<p>Rules differ in Scotland and Northern Ireland, so if you work there, describe your position accurately for that nation. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has more on presenting credibility honestly.</p>
+
+<h2>Quote forms that save you wasted trips</h2>
+<p>A well-designed quote form can do a surprising amount of filtering. Useful fields might include:</p>
+<ul>
+<li>Name, phone and postcode.</li>
+<li>Type of work, chosen from a short list.</li>
+<li>Property type and approximate age, which can matter for rewires.</li>
+<li>A free text box for details.</li>
+<li>An optional photo upload, for example of the consumer unit or the area to be worked on.</li>
+<li>Preferred timing.</li>
+</ul>
+<p>Photo uploads can be particularly helpful for electricians, letting you judge a job before visiting. Make sure your form handles uploaded files securely and that your privacy notice explains what you do with the information. Our <a href="/blog/website-contact-forms/">website contact forms guide</a> goes into form design in more detail.</p>
+<p>Keep the form short enough that people finish it on a phone. If there is a lot you need to know, ask the essentials first and follow up by phone.</p>
+
+<h2>Showing your work</h2>
+<p>Tidy work is a selling point in electrical jobs, and photos help prove it. A recent work page might show neatly installed consumer units, finished lighting schemes, EV chargers and commercial fit-outs. Add a short caption explaining what the job involved and where it was, in general terms.</p>
+<p>Be careful about customer privacy: avoid showing house numbers, faces or anything that identifies a property without permission. Reviews should be genuine and used with consent.</p>
+
+<h2>Areas covered and local search</h2>
+<p>Most electrician searches are local, often phrased as electrician near me or electrician in a particular town. Your website supports your Google Business Profile, so keep your name, phone number and service areas consistent across both.</p>
+<p>A clear areas covered page listing towns and districts helps. If you create individual area pages, give them genuinely different content, such as typical jobs in that area or the housing stock you work on, rather than copying the same text with a new town name. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains more about how local rankings work.</p>
+
+<h2>Design priorities</h2>
+<p>An electrician's site should feel competent and straightforward. Some priorities:</p>
+<ul>
+<li>A tap-to-call button and quote button that stay visible on mobile.</li>
+<li>Clear, readable text with strong contrast.</li>
+<li>Real photos of you, your van and your work.</li>
+<li>Fast loading, especially on mobile data.</li>
+<li>Simple navigation so people find a service in one or two taps.</li>
+</ul>
+<p>Avoid heavy stock imagery of lightning bolts and generic hard hats. They make a site look like many others and say nothing about you.</p>
+
+<h2>Domestic versus commercial</h2>
+<p>If you do both domestic and commercial work, consider separating them clearly in your navigation. Commercial clients often care about different things: experience with similar premises, working out of hours to avoid disruption, testing and inspection schedules and documentation. A dedicated commercial section lets you speak to them directly without confusing homeowners.</p>
+
+<h2>Platforms and upkeep</h2>
+<p>Many electricians start with a hosted builder like Wix or Squarespace, which are easy to update. WordPress offers more flexibility for multiple service and area pages. The best choice is the one you or your web partner will keep current. Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> is a useful sense check before launch.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients nationwide. If you are an electrician looking for a site that wins planned work and handles urgent calls sensibly, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What pages should an electrician's website have?</h3>
+<p>Typically a homepage, individual service pages, an areas covered page, an about and accreditations page, recent work and a contact or quote page.</p>
+<h3>Should I add emergency call-outs to my website?</h3>
+<p>Only if you genuinely offer them. If you do, make the phone number and hours prominent. If not, say so clearly.</p>
+<h3>Can I display scheme logos on my website?</h3>
+<p>Only for schemes you belong to, and in line with each scheme's rules on using their marks.</p>
+<h3>Is a photo upload useful on a quote form?</h3>
+<p>It can be, helping you understand a job before visiting. Make sure files are handled securely and covered by your privacy notice.</p>
+<h3>Should I write separate pages for each town I cover?</h3>
+<p>Only if each page has genuinely useful, distinct content. Near-identical pages add little value.</p>
+<h3>Should domestic and commercial work be on separate pages?</h3>
+<p>Usually, yes. The two audiences care about different things, and separating them makes the site clearer for both.</p>
+`,
+  },
+  {
+    slug: 'hair-salon-barber-website-design-uk',
+    seoTitle: 'Hair Salon and Barber Website Design in the UK',
+    title: 'Hair Salon and Barber Website Design: Pages, Booking and Portfolio Done Properly',
+    description: 'Hair salon and barber website design for UK shops: online booking, service and price lists, stylist profiles, portfolios and walk-in info built for mobile.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/beauty-salon-marketing-uk/', '/pricing/'],
+    body: `
+<p>When someone looks up a hair salon or barber, they are usually close to making a decision. They have a cut in mind, a rough idea of when they want it and perhaps two or three places to choose between. Your website has a short window to show them your work, tell them what it costs and let them book. Anything that slows that down, such as a menu buried in a PDF or a booking button that opens a confusing page, can lose the appointment to the shop down the road.</p>
+<p>This guide covers the website itself: structure, booking, service lists, portfolios and practical design choices for UK hair salons and barbershops. For promotion beyond the website, such as social media, local listings and reviews, see our guide to <a href="/blog/beauty-salon-marketing-uk/">beauty salon marketing in the UK</a>, which covers hair businesses alongside beauty and nail salons.</p>
+
+<h2>Salon or barber: start with how people visit</h2>
+<p>The single biggest design decision is how customers come to you.</p>
+<ul>
+<li><strong>Appointment-led salons</strong> need booking front and centre. Colour work, long treatments and stylist-specific appointments all depend on time being reserved.</li>
+<li><strong>Walk-in barbers</strong> need opening hours, location and an idea of how busy you tend to be. A big booking button may matter less than a clear note saying walk-ins are welcome.</li>
+<li><strong>Mixed shops</strong> should say plainly that both are possible, and explain the difference, for example that booking guarantees a slot while walk-ins are served as chairs free up.</li>
+</ul>
+<p>Getting this right on the homepage removes a common source of uncertainty. People do not want to turn up and be told it is appointment only, or to hunt for a booking system that does not exist.</p>
+
+<h2>The core pages</h2>
+<p>Most hair businesses can work with a compact structure:</p>
+<ul>
+<li><strong>Home.</strong> A strong image of your work or your space, a short line about your style, and a single clear action such as Book now or Walk-ins welcome.</li>
+<li><strong>Services and prices.</strong> Every service you offer, grouped sensibly, with guidance on price and duration.</li>
+<li><strong>Team.</strong> Stylists or barbers with a photo, what they specialise in and, if your booking system supports it, a link to book with them directly.</li>
+<li><strong>Gallery or portfolio.</strong> Your own work, organised so people can find relevant examples.</li>
+<li><strong>Visit.</strong> Address, map, hours, parking, accessibility and anything else useful such as whether children are welcome.</li>
+<li><strong>Policies.</strong> Cancellation, late arrival, deposits and patch tests, written in plain English.</li>
+</ul>
+
+<h2>Online booking that actually gets used</h2>
+<p>Most salons use a dedicated booking system rather than building one into the website. That is sensible: these tools handle staff calendars, reminders and deposits far better than a custom form would. The website's job is to connect to that system cleanly.</p>
+<p>Points to consider:</p>
+<ul>
+<li><strong>Embed or link?</strong> Some booking tools can be embedded in a page; others open in a new window or app. Embedding can feel smoother, but test it carefully on phones, where embedded widgets sometimes become cramped.</li>
+<li><strong>One button, everywhere.</strong> Use the same wording and style for the booking button across the site, and keep it visible in the header on mobile.</li>
+<li><strong>Book with a person.</strong> If clients have favourite stylists, link from each team profile directly to that person's availability where your system allows.</li>
+<li><strong>Explain what happens next.</strong> If a deposit or card details are required, say so before people start, so it does not feel like a surprise.</li>
+</ul>
+<p>Our <a href="/blog/website-online-booking-systems/">guide to online booking systems</a> explores the options and their trade-offs in more detail.</p>
+
+<h2>Writing a service and price list people understand</h2>
+<p>Service menus in hair are notoriously hard to read. Terms like balayage, root shadow, skin fade or restyle mean different things to different people, and prices often depend on hair length, thickness or which stylist you see.</p>
+<p>A clearer list usually:</p>
+<ul>
+<li>Groups services by what the client wants to achieve: cuts, colour, treatments, styling, beard and shave.</li>
+<li>Adds a one-line plain English explanation for less familiar services.</li>
+<li>Shows a starting price or price range and approximate time, with a note on what affects the final cost.</li>
+<li>Explains if prices vary by stylist level, so the difference does not appear only at checkout.</li>
+<li>Points people towards a consultation if they are unsure what to book.</li>
+</ul>
+<p>Keep the list in normal page text, not an image. It will be easier to read on small screens and to update when prices change. Make sure the website and the booking system show the same prices; mismatches cause awkward conversations at the till.</p>
+
+<h3>Patch tests and consultations</h3>
+<p>Many colour products carry manufacturer instructions recommending a skin allergy alert test before use. If your salon requires one, explain on the website when and how it is done and how far in advance clients need to come in. This avoids people booking a colour appointment they cannot go ahead with. The exact requirements depend on the products you use and your insurer's terms, so base the wording on those rather than a general rule.</p>
+
+<h2>Portfolio and gallery</h2>
+<p>Hair is visual. A portfolio of your own work does more to persuade than any description. A few principles:</p>
+<ul>
+<li>Use your own photographs, taken in consistent, flattering light. Avoid stock images of models, which visitors spot quickly.</li>
+<li>Organise by type, such as colour, short cuts, curly hair, bridal or fades, so visitors find relevant examples rather than scrolling through everything.</li>
+<li>Show a range of hair types and textures if you work with them. People want to see someone like them.</li>
+<li>Get clear consent from clients before posting photos of them, and record it. Images that identify a person are personal data, and the ICO publishes guidance for small businesses on handling it.</li>
+<li>Compress images so the gallery loads quickly on mobile data.</li>
+</ul>
+<p>Many salons put most of their effort into social media. That is fine, but a social feed embedded on the website is not a substitute for a curated gallery: feeds mix in promotions and memes, can slow pages down and may break if the platform changes how embedding works. A small, well-chosen gallery on your own site is more dependable.</p>
+
+<h2>Team pages</h2>
+<p>Clients often choose a stylist rather than a salon. Team profiles help them do that. A good profile includes a natural photo, their specialisms, the kinds of clients they enjoy working with and a booking link. Keep them up to date when people join or leave. An out-of-date team page leads to clients asking for someone who is no longer there.</p>
+
+<h2>Design choices that suit hair businesses</h2>
+<p>The look of the site should match the experience in the chair. A minimalist colour studio, a traditional gentleman's barber and a lively family salon will rightly look very different. Some general points still apply:</p>
+<ul>
+<li>Let photography lead and keep text tight.</li>
+<li>Choose fonts and colours that reflect your brand and are easy to read. Our <a href="/blog/website-colour-and-typography/">colour and typography guide</a> explains how to balance style and legibility.</li>
+<li>Design for phones first. Most salon visitors will be on a mobile.</li>
+<li>Avoid autoplaying video with sound and heavy animation that delays the booking button.</li>
+<li>Keep accessibility in mind: sufficient contrast, readable text sizes and alt text on images. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the basics.</li>
+</ul>
+
+<h2>Selling products online</h2>
+<p>Some salons sell the haircare products they use. If that is a small sideline, a simple product list with a note that items are available in the salon may be enough. If you want to ship products, you are effectively running an online shop, with delivery, returns and stock to manage. Platforms such as Shopify or WooCommerce can handle this, but check any supplier terms first, as some professional brands restrict where and how their products are sold online.</p>
+
+<h2>Local search and multiple locations</h2>
+<p>Most salon and barber searches are local. Your Google Business Profile will often be the first thing people see, so your website should agree with it on name, address, phone and hours. If you have several shops, give each its own page with its own team, hours and map. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers how listings and websites work together.</p>
+
+<h2>Policies, gift vouchers and the small details</h2>
+<p>Cancellation policies, deposit rules and late arrival terms matter to clients and protect your diary. Put them on a dedicated page and summarise them near the booking button. Write them politely and clearly. If you offer gift vouchers, a simple way to buy them online is often welcome, especially around holidays. Make expiry terms clear and check they are consistent with consumer law; if in doubt, take advice.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely across the country. If you run a salon or barbershop and want a site that shows off your work and makes booking straightforward, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. Costs are on our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Can my booking system be built into my website?</h3>
+<p>Many booking systems offer an embeddable widget or booking link. Whether embedding or linking works better depends on the tool and how it behaves on phones.</p>
+<h3>Should I show prices on my salon website?</h3>
+<p>Usually, yes. Starting prices or ranges, with a note on what affects the final cost, help clients choose and reduce surprises.</p>
+<h3>Is an Instagram feed enough instead of a gallery?</h3>
+<p>A feed can complement a site, but a curated gallery of your best work, organised by style, is clearer and more reliable.</p>
+<h3>Do barbers need online booking?</h3>
+<p>Not always. Walk-in barbers may only need clear hours and location, though many offer booking alongside walk-ins.</p>
+<h3>Do I need permission to post client photos?</h3>
+<p>You should get clear consent from clients before posting identifiable photos. The ICO has guidance on handling personal data for small businesses.</p>
+<h3>Which platform suits a salon website?</h3>
+<p>Squarespace, Wix and WordPress can all work. The main thing is that it connects well with your booking tool and is easy for you to update.</p>
+`,
+  },
 ];
