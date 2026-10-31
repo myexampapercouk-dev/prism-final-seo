@@ -25772,4 +25772,569 @@ module.exports = [
 <p>With gentle, clear wording that explains options such as home visits, quiet rooms and aftercare, so owners can find what they need at a difficult time.</p>
 `,
   },
+  {
+    slug: 'accountant-website-design-uk',
+    seoTitle: 'Accountant Website Design: A UK Guide',
+    title: 'Accountant Website Design: Services, Pricing and Client Trust',
+    description: 'Website design for UK accountants and bookkeepers: service pages by client type, pricing or quotes, onboarding, credentials, client portals and secure contact.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/accountant-marketing-uk/', '/pricing/'],
+    body: `
+<p>For many small businesses and individuals, choosing an accountant is a decision they put off until a deadline or a growing business forces it. When they finally search, they want to find someone who understands their situation, explains things plainly and doesn't feel intimidating. An accountancy website that does those things well can turn a reluctant search into an enquiry.</p>
+<p>This guide covers website design for UK accountants, bookkeepers and tax advisers, from sole practitioners to multi-partner firms. It focuses on the website itself: structure, content and practical features. For wider promotion, such as local search, referrals and advertising, see our guide to <a href="/blog/accountant-marketing-uk/">accountant marketing</a>. Firms offering advisory work may also find our guide to <a href="/blog/consultant-website-design-uk/">consultant website design</a> useful.</p>
+
+<h2>What prospective clients want to know</h2>
+<p>Most visitors to an accountancy site are asking:</p>
+<ul>
+<li>Do you work with people or businesses like me?</li>
+<li>What exactly will you do for me?</li>
+<li>Roughly how much will it cost?</li>
+<li>Are you qualified and trustworthy?</li>
+<li>How easy are you to work with, and how do we get started?</li>
+</ul>
+<p>Design the homepage around these questions. A visitor should be able to tell within seconds who you help and how to take the next step. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise content.</p>
+
+<h2>Organise services by who you help</h2>
+<p>Accountants often list services in their own terms: compliance, tax returns, payroll, VAT, management accounts. Clients tend to think in terms of their own situation. Structuring the site around client types can make it far easier to navigate:</p>
+<ul>
+<li>Sole traders and freelancers.</li>
+<li>Limited companies and directors.</li>
+<li>Landlords and property investors.</li>
+<li>Contractors.</li>
+<li>Charities or specific sectors you know well.</li>
+<li>Individuals needing Self Assessment help.</li>
+</ul>
+<p>Each page can then explain which services that type of client typically needs, the common questions they have and how you help. You can still keep separate pages for individual services, such as payroll or VAT returns, and link between them. Only list sectors and services you actually cover. See our guide to <a href="/blog/website-navigation-structure/">website navigation</a>.</p>
+
+<h2>Plain language, not jargon</h2>
+<p>Accountancy is full of terms that mean little to many clients. Good website copy explains things clearly without talking down. For example, rather than just listing "year-end accounts and CT600", explain that you prepare the annual accounts and Corporation Tax return a limited company must file. Where you explain tax rules or deadlines, keep them general, date your content, and link to official HMRC or Companies House guidance, because rates and rules change. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing for clarity.</p>
+
+<h2>Pricing: show it or explain it</h2>
+<p>Price is one of the first things many small business clients want to know. Options include:</p>
+<ul>
+<li>Published fixed monthly packages for common client types.</li>
+<li>"From" prices with a clear explanation of what affects the final fee.</li>
+<li>An online quote form that asks a few key questions, such as turnover, number of transactions and whether payroll is needed.</li>
+</ul>
+<p>If you don't publish prices, explain how you set them and how quickly you will provide a quote. Whatever you show, be clear about what is included and avoid hidden extras appearing later. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout options.</p>
+
+<h2>Credentials and regulatory information</h2>
+<p>Trust is central to choosing an accountant. Your site should state accurately:</p>
+<ul>
+<li>Professional body memberships held by the firm or its people, using the correct designations.</li>
+<li>Whether the firm is registered or regulated for particular activities, such as audit, where applicable.</li>
+<li>Anti-money laundering supervision, if you wish to show it.</li>
+<li>Professional indemnity insurance details, where your professional body requires disclosure.</li>
+</ul>
+<p>Professional bodies have their own rules on how membership and logos can be used and on what information must be disclosed, for example on your website or engagement letters. Check your body's current requirements. Note that "accountant" is not a protected title in the UK, while certain designations are, so be precise about qualifications. Only display memberships and accreditations you actually hold, and don't imply endorsement by any software provider unless you hold a status you can verify.</p>
+
+<h2>Introducing the people</h2>
+<p>Clients are choosing who they will share their finances with. An about or team page with real photos, qualifications and a little personality helps. For small practices, a personal introduction from the founder on the homepage or about page can make the firm feel approachable. Avoid stock photos of handshakes and calculators. See our guide to <a href="/blog/website-trust-signals/">website trust signals</a>.</p>
+
+<h2>Explaining how working together works</h2>
+<p>Many people are unsure what switching accountant or engaging one for the first time involves. A short "How it works" section or page can help, explaining in general terms:</p>
+<ul>
+<li>How the first conversation works.</li>
+<li>What information you will need from them.</li>
+<li>Identity checks you need to carry out under anti-money laundering rules.</li>
+<li>How you communicate and how documents are shared.</li>
+<li>What happens if they are moving from another accountant.</li>
+</ul>
+<p>Describe your real process, not an idealised one. Clarity here reduces anxiety and can reduce back-and-forth once someone becomes a client.</p>
+
+<h2>Client portals and secure document sharing</h2>
+<p>Many practices use a client portal or secure file sharing tool. The website should link to it clearly, typically from a "Client login" item in the header. Make sure clients can find it easily without it competing with calls to action for new visitors.</p>
+<p>Avoid encouraging people to send sensitive financial documents through a basic contact form or ordinary email. State clearly how documents should be shared securely. The website should have an up-to-date privacy notice, and forms should collect only what is needed, in line with UK GDPR. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a>.</p>
+
+<h2>Useful content and resources</h2>
+<p>Helpful articles, deadline reminders and guides can show expertise and give clients reasons to return. Topics might include key tax dates, explaining Making Tax Digital in general terms, or what records a new sole trader should keep. A few principles:</p>
+<ul>
+<li>Date every article and review it regularly, because tax rules change.</li>
+<li>Add a note that content is general information, not personal advice.</li>
+<li>Link to official HMRC and Companies House sources for detail.</li>
+<li>Write for your actual clients, not for other accountants.</li>
+</ul>
+<p>For a firm with a defined local area, our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> covers how location pages and a Google Business Profile can help, and our guide to <a href="/blog/professional-services-seo-uk/">professional services SEO</a> covers the wider picture.</p>
+
+<h2>Booking a first call</h2>
+<p>Many prospective clients would rather book a short introductory call than fill in a long form and wait. If that suits how your practice works, an online booking tool embedded on the contact page lets people choose a time that suits them, which can be helpful for busy business owners who search in the evening. Keep the booking form brief, say how long the call lasts and whether it is free, and explain what you will cover. If you prefer to qualify enquiries first, a short form with a promise of a reply within a stated time works too. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the options.</p>
+<p>Whichever route you choose, make it visible from every page and test it on a phone. A contact page that only offers a generic email address can feel slow and impersonal compared with a clear, simple next step.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most accountancy sites suit a content management system such as WordPress, or a hosted builder like Squarespace or Wix for very small practices. WordPress tends to offer more flexibility for structured service pages, resource libraries and integrations. Whatever you choose, make sure you can update deadlines and content easily. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/website-maintenance-uk/">website maintenance</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A homepage that lists technical services without saying who you help.</li>
+<li>Out-of-date tax rates or deadlines left on the site.</li>
+<li>Vague or misleading descriptions of qualifications.</li>
+<li>No indication of pricing or how quotes work.</li>
+<li>Encouraging clients to email sensitive documents insecurely.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run an accountancy or bookkeeping practice and want a site that explains your services clearly and makes getting started easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should accountants show prices on their website?</h3>
+<p>Many clients appreciate it. Fixed packages, "from" prices or a quick quote form can all work, as long as it is clear what is included.</p>
+<h3>How should an accountancy website organise its services?</h3>
+<p>Grouping services by client type, such as sole traders, limited companies and landlords, often helps visitors find what applies to them.</p>
+<h3>What credentials should an accountant show on their website?</h3>
+<p>Accurate professional body memberships and any required regulatory disclosures. Check your professional body's rules on logos and wording.</p>
+<h3>Can clients upload documents through an accountant's website?</h3>
+<p>It is usually better to link to a secure client portal or file sharing system than to accept sensitive documents through a basic form.</p>
+<h3>Should an accountancy website publish tax guides?</h3>
+<p>Helpful guides can show expertise, but date them, review them regularly and make clear they are general information, not personal advice.</p>
+`,
+  },
+  {
+    slug: 'estate-agent-website-design-uk',
+    seoTitle: 'Estate Agent Website Design: A UK Guide',
+    title: 'Estate Agent Website Design: Listings, Valuations and Local Trust',
+    description: 'Website design for UK estate and letting agents: property search, listing pages, valuation requests, landlord pages, area guides and compliance basics.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/estate-agent-marketing-uk/', '/pricing/'],
+    body: `
+<p>An estate agent's website has an unusual job. Many buyers and tenants will first see your properties on a portal, so your own site is not always where the search starts. But it is often where sellers and landlords go to decide who to trust with their home, and where buyers go to check out the agent behind a listing. Done well, it supports both sides of the business.</p>
+<p>This guide covers website design for UK estate agents and letting agents, including independent high street agencies, hybrid and online agents, and lettings and property management firms. It focuses on the website itself. For wider promotion, such as local search, social media and advertising, see our guide to <a href="/blog/estate-agent-marketing-uk/">estate agent marketing</a>.</p>
+
+<h2>Four audiences, four journeys</h2>
+<p>Most agency sites need to serve at least four groups:</p>
+<ul>
+<li><strong>Buyers</strong> who want to search properties, book viewings and understand the buying process.</li>
+<li><strong>Tenants</strong> who want to find rentals, check requirements and apply.</li>
+<li><strong>Sellers</strong> who are choosing an agent and may want a valuation.</li>
+<li><strong>Landlords</strong> who are comparing letting and management services.</li>
+</ul>
+<p>Clear navigation helps each group find their path quickly. A common pattern is a main menu with Buy, Rent, Sell and Landlords, plus a prominent property search on the homepage. Avoid making sellers and landlords wade through listings to find out how you can help them. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers the principles.</p>
+
+<h2>Property search and listing feeds</h2>
+<p>Most agents manage listings in property software that can feed properties to the website automatically. This is usually far better than adding listings by hand, because it keeps prices, status and photos in step with your portals. When planning the site, check:</p>
+<ul>
+<li>How your software provides the feed, and how often it updates.</li>
+<li>Which search filters are available, such as location, price, bedrooms and property type.</li>
+<li>Whether sold and let properties can remain visible as evidence of your track record, and whether that is appropriate.</li>
+<li>How the feed handles features such as floor plans, virtual tours and brochures.</li>
+</ul>
+<p>Search should work well on a phone. Filters that are fiddly on a small screen, or results that load slowly, can push people back to the portals. See our guide to <a href="/blog/mobile-website-design/">mobile website design</a>.</p>
+
+<h2>Listing pages</h2>
+<p>A good property page gives buyers or tenants what they need to decide whether to view. It usually includes:</p>
+<ul>
+<li>A large, swipeable photo gallery.</li>
+<li>Price, tenure and key facts near the top.</li>
+<li>A floor plan and, where available, a video or virtual tour.</li>
+<li>A clear description that is accurate rather than overblown.</li>
+<li>Location information and a map.</li>
+<li>A simple way to book a viewing or ask a question.</li>
+</ul>
+<p>Accuracy matters. Agents are subject to consumer protection rules on misleading information, and National Trading Standards has published guidance on material information that should be included in property listings, such as council tax band, tenure and price. Requirements and guidance in this area have been developing, so check the current position and make sure your feed and templates can display the required fields.</p>
+
+<h2>Valuation requests: the page that wins instructions</h2>
+<p>For many agencies, the most commercially important page is the valuation page. A seller who requests a valuation is a potential instruction. Make it easy:</p>
+<ul>
+<li>A clear "Book a valuation" call to action in the header and on key pages.</li>
+<li>A short form asking only what you need to get started, such as address, contact details and timescale.</li>
+<li>An explanation of what happens next, and whether the valuation is in person or remote.</li>
+<li>Reassurance on why a seller might choose you, using factual points about your service.</li>
+</ul>
+<p>Some agents offer an instant online valuation estimate. If you do, make clear it is an estimate based on data and not a substitute for an in-person valuation. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers how to keep forms short and useful.</p>
+
+<h2>Seller and landlord service pages</h2>
+<p>Sellers and landlords are comparing agents. Your service pages should explain what you actually do, in plain English:</p>
+<ul>
+<li>How you market a property and what is included.</li>
+<li>How viewings and feedback are handled.</li>
+<li>For landlords, the difference between let-only, rent collection and full management.</li>
+<li>Fees, or a clear way to find them.</li>
+</ul>
+<p>Letting agents in England are generally required to display their fees and details of their client money protection and redress scheme membership on their website, and similar requirements apply in other parts of the UK. Membership of an approved redress scheme is also required for estate agents. Check the current rules for your nation and make sure this information is easy to find, not tucked away. Don't promise outcomes such as guaranteed sale prices or timescales.</p>
+
+<h2>Area guides and local knowledge</h2>
+<p>Local expertise is one of the strongest things an independent agent can show. Area guides covering the neighbourhoods you work in can help buyers and sellers alike. Consider including:</p>
+<ul>
+<li>A genuine overview of each area and the types of property found there.</li>
+<li>Transport links, schools, shops and green spaces.</li>
+<li>Links to current listings in that area.</li>
+</ul>
+<p>Write these from real knowledge rather than generic descriptions, and be careful with anything that may change, such as school catchments or performance, by linking to official sources. Original, useful area content can also help the site in local search. See our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a>.</p>
+
+<h2>Building trust</h2>
+<p>Choosing an agent involves trusting them with one of the biggest transactions in someone's life. The website can support that trust with:</p>
+<ul>
+<li>An about page that introduces the real people in the branch.</li>
+<li>Clear office address, opening hours and contact details.</li>
+<li>Genuine reviews, linked to their source where possible.</li>
+<li>Professional body and redress scheme memberships you actually hold.</li>
+</ul>
+<p>Avoid vague claims such as "the area's leading agent" unless you can back them up. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers more ideas.</p>
+
+<h2>Tenant applications and portals</h2>
+<p>Letting agents often need tenants to register interest, apply for a property or report maintenance issues. Your property software may provide online forms or portals for this. Link them clearly from the website and make sure the experience on mobile is reasonable. Where personal data is collected, the site should have a clear privacy notice and handle data in line with UK GDPR. Referencing and right to rent checks involve sensitive information, so take care over which systems hold it.</p>
+
+<h2>Guides for buyers, sellers and landlords</h2>
+<p>Many people moving home or letting a property for the first time are unsure how the process works. Short, plain-English guides, such as what happens after an offer is accepted, what a seller needs to prepare before marketing, or what a landlord's main responsibilities are, can position your agency as helpful and knowledgeable. Keep legal and regulatory points general, date the guides, and link to official government sources for detail, because rules on lettings in particular change often and vary across England, Wales, Scotland and Northern Ireland. Link each guide to the relevant service page and valuation call to action so readers have a natural next step.</p>
+
+<h2>Platform and integration choices</h2>
+<p>Many agencies use a website provided by their property software, while others build on WordPress or a similar platform with the listing feed integrated. Software-provided sites can be quick to set up but may limit design and content. A custom-built site gives more flexibility for area guides, valuation journeys and branding, but the feed integration needs care. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> if you are replacing an existing site.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A homepage that only serves buyers and ignores sellers and landlords.</li>
+<li>Listings that are out of sync with portals.</li>
+<li>Valuation forms that ask for too much.</li>
+<li>Hidden or missing fee and redress information for lettings.</li>
+<li>Slow, image-heavy pages that frustrate mobile users.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run an estate or letting agency and want a site that serves buyers, tenants, sellers and landlords clearly, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do estate agents still need a website if they use property portals?</h3>
+<p>Portals help buyers find listings, but your own site is where sellers and landlords judge your service and request valuations. The two work together.</p>
+<h3>Can listings update automatically on an estate agent website?</h3>
+<p>Usually, yes. Most property software can provide a feed that keeps the website in step with your listings. Check how your provider supports this.</p>
+<h3>What must letting agents show on their website?</h3>
+<p>In England, letting agents are generally required to show fees and details of client money protection and redress scheme membership. Rules vary across the UK, so check current guidance.</p>
+<h3>Should an estate agent offer an online valuation tool?</h3>
+<p>It can attract enquiries, but make clear it is an estimate and encourage a proper valuation for accurate advice.</p>
+<h3>What makes a good property listing page?</h3>
+<p>Strong photos, accurate key facts, a floor plan, location details and an easy way to book a viewing, with required material information included.</p>
+`,
+  },
+  {
+    slug: 'funeral-director-website-design-uk',
+    seoTitle: 'Funeral Director Website Design: A UK Guide',
+    title: 'Funeral Director Website Design: Calm, Clear and Compassionate',
+    description: 'Website design for UK funeral directors: clear first steps after a death, transparent pricing, service options, contact at any hour and a calm, respectful tone.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/website-accessibility-uk/'],
+    body: `
+<p>Few websites are visited at a harder moment than a funeral director's. Someone may have just lost a parent, partner or child. They may be searching late at night, on a phone, unsure what they are supposed to do next. Others are planning ahead, comparing options for themselves or a relative. In every case, the website should feel calm, honest and easy to use.</p>
+<p>This guide covers website design for UK funeral directors, including independent family firms, multi-branch businesses and those offering specialist services such as direct cremation or natural burial. It focuses on the website's structure, content and tone. Because the subject is sensitive, it leans on clarity and restraint rather than marketing technique.</p>
+
+<h2>Start with the person arriving in distress</h2>
+<p>The most urgent visitor is someone who needs help now. The site should make two things immediately obvious:</p>
+<ul>
+<li><strong>How to contact you</strong>, including a phone number that is answered at any hour if you offer that, shown clearly at the top of every page and tappable on mobile.</li>
+<li><strong>What to do first</strong>, in simple steps, depending on whether the death happened at home, in hospital, in a care home or elsewhere.</li>
+</ul>
+<p>A short "When someone dies" page, linked prominently from the homepage, can be one of the most helpful things on the whole site. Keep it practical and gentle. Explain what usually happens, what the person needs to do and what you can take care of. Where official processes are involved, such as registering a death, keep the explanation general and link to official government information, because details vary across England, Wales, Scotland and Northern Ireland and can change.</p>
+
+<h2>Tone of voice</h2>
+<p>The writing on a funeral director's site sets the emotional tone. Aim for:</p>
+<ul>
+<li>Plain, warm language rather than euphemism or formal jargon.</li>
+<li>Short sentences and short paragraphs that are easy to take in when tired or upset.</li>
+<li>Reassurance without pressure. Avoid urgency-based sales language.</li>
+<li>Respect for different beliefs, cultures and family circumstances.</li>
+</ul>
+<p>Read every page imagining you have just lost someone close. If anything feels cold, salesy or confusing, rewrite it. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing clearly for your audience.</p>
+
+<h2>Visual design</h2>
+<p>Design choices should support calm. Generally that means:</p>
+<ul>
+<li>A restrained colour palette and generous white space.</li>
+<li>Readable fonts at a comfortable size, with strong contrast.</li>
+<li>Photography that feels real and respectful, such as your premises, vehicles, chapel of rest or the people who will help, rather than generic stock images.</li>
+<li>No pop-ups, autoplay video or flashing elements.</li>
+</ul>
+<p>Many visitors will be older, and some may have visual impairments, so accessibility is especially important. Make sure the site works with screen readers, can be navigated by keyboard and remains readable when text is enlarged. See our guides to <a href="/blog/website-accessibility-uk/">website accessibility</a> and <a href="/blog/website-colour-and-typography/">colour and typography</a>.</p>
+
+<h2>Pricing transparency</h2>
+<p>Cost is a real worry for many families, and it can feel uncomfortable to ask. Clear pricing information helps people make decisions without embarrassment. It is also a regulatory matter: following a Competition and Markets Authority investigation, funeral directors in the UK are required to publish certain price information, including a standardised price list, prominently on their website and in their premises. Scotland also has its own regulatory framework for funeral directors. Check the current requirements that apply to you and make sure your pricing page meets them.</p>
+<p>Beyond the minimum, it can help to:</p>
+<ul>
+<li>Explain what each package or service includes and does not include.</li>
+<li>Separate your own fees from third-party costs, such as crematorium or cemetery fees, which you may need to show as estimates.</li>
+<li>Make clear how payment works, including deposits and timings.</li>
+<li>Show the price list in a format that is easy to read on a phone, not only as a downloadable document.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout principles, though the tone here should be especially gentle and plain.</p>
+
+<h2>Explaining services and choices</h2>
+<p>Families often don't know what options exist. Service pages can explain them simply:</p>
+<ul>
+<li>Traditional funerals, burial and cremation.</li>
+<li>Direct cremation, if you offer it, explained honestly.</li>
+<li>Religious and cultural funerals you support.</li>
+<li>Non-religious and personalised ceremonies.</li>
+<li>Natural or woodland burial, if relevant.</li>
+<li>Repatriation, if you handle it.</li>
+</ul>
+<p>Describe what you actually provide. Avoid implying services or facilities you don't have, and avoid comparisons with other funeral directors. Where you work with third parties, such as celebrants, florists or stonemasons, you can describe the help you give in arranging them without naming or promoting specific businesses unless you choose to.</p>
+
+<h2>Pre-paid funeral plans</h2>
+<p>If you sell or arrange pre-paid funeral plans, be aware that funeral plan providers have been regulated by the Financial Conduct Authority since 2022. This affects how plans can be promoted and who can sell them. If plans appear on your website, check that the content and any links meet current FCA requirements, and take advice if you are unsure. Keep plan information separate from the urgent "someone has died" journey so neither confuses the other.</p>
+
+<h2>Online notices and tributes</h2>
+<p>Many funeral directors publish funeral notices on their website, showing the date, time and place of services, sometimes with donation details or a link to a livestream. If you do this:</p>
+<ul>
+<li>Always get the family's agreement before publishing.</li>
+<li>Be mindful of security. Publishing funeral times can indicate when a home is empty, so let families decide what to include.</li>
+<li>Make notices easy to find and readable on mobile.</li>
+<li>Have a clear process for removing or updating notices.</li>
+</ul>
+<p>Online donation pages involve payments and charity arrangements, so make sure any system you use is reputable and handles payments securely.</p>
+
+<h2>Introducing your team and premises</h2>
+<p>People want to know who will be looking after their loved one. An about page introducing the real team, with photos and a little about each person, can be reassuring. Photos of your premises, including the arrangement room and chapel of rest, help families know what to expect when they visit. Include clear address, parking and accessibility information for each branch.</p>
+<p>If you belong to a professional association or follow a code of practice, you can mention it accurately. Only list memberships you actually hold. Genuine reviews can help, but think carefully about how they are displayed given the sensitivity, and never edit them to change their meaning. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has more.</p>
+
+<h2>Contact forms and privacy</h2>
+<p>Some families prefer to make first contact by form or email rather than phone, especially when planning ahead. Keep forms short and say how quickly you will respond. Personal information about a death is sensitive, so ensure forms are secure, collect only what is needed and are covered by a clear privacy notice in line with UK GDPR. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a>.</p>
+
+<h2>Local visibility</h2>
+<p>Most families choose a funeral director nearby, so local search matters. A complete Google Business Profile for each branch, with accurate hours and phone numbers, and a website that clearly names the areas you serve, can help people find you. Avoid aggressive tactics; a calm, helpful site is itself the best case for your service. See our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A phone number that is hard to find on mobile.</li>
+<li>No guidance on what to do first.</li>
+<li>Pricing that is missing, hard to find or unclear.</li>
+<li>Pushy sales language or pop-ups.</li>
+<li>Stock photography that feels impersonal.</li>
+<li>Publishing funeral notices without the family's agreement.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you are a funeral director and want a site that is calm, clear and easy for families to use at a difficult time, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do funeral directors have to show prices on their website?</h3>
+<p>Funeral directors in the UK are required to publish certain price information, including a standardised price list, on their website. Check the current CMA requirements and, in Scotland, the Scottish framework.</p>
+<h3>What should a funeral director's homepage include?</h3>
+<p>A clearly visible phone number, a link to guidance on what to do when someone dies, an overview of services and easy access to pricing.</p>
+<h3>Should funeral notices be published online?</h3>
+<p>They can be helpful, but only with the family's agreement, and families should decide what details to include for privacy and security reasons.</p>
+<h3>Can funeral directors promote funeral plans on their website?</h3>
+<p>Funeral plans are regulated by the FCA, which affects how they are promoted and sold. Check current rules and take advice before featuring them.</p>
+<h3>What tone should a funeral director's website use?</h3>
+<p>Calm, warm and plain. Avoid jargon, euphemism and sales pressure, and write for someone who may be grieving and tired.</p>
+`,
+  },
+  {
+    slug: 'hotel-bed-and-breakfast-website-design-uk',
+    seoTitle: 'Hotel and B&B Website Design: A UK Guide',
+    title: 'Hotel and B&B Website Design: Rooms, Rates and the Book Now Button',
+    description: 'Website design for UK hotels, inns and B&Bs: room pages, booking engine placement, photography, location content, policies and building trust with guests.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/hotel-direct-bookings-uk/', '/pricing/'],
+    body: `
+<p>For a hotel, inn, guest house or bed and breakfast, the website is where browsing turns into a booking, or doesn't. Guests may find you through search, a map listing, social media or a booking platform, but many will visit your own site before deciding. If it is slow, confusing or out of date, they may go back to wherever they came from and book there, or book somewhere else entirely.</p>
+<p>This guide covers website design for UK hotels and small accommodation businesses: independent and boutique hotels, country house hotels, pubs and inns with rooms, guest houses and B&Bs. It focuses on the design and structure of the site itself. For the commercial side of winning more bookings without third-party platforms, see our guide to <a href="/blog/hotel-direct-bookings-uk/">hotel direct bookings</a>, and for search visibility, our guide to <a href="/blog/hotel-seo-uk/">hotel SEO</a>. Much of what follows also applies to self-catering cottages and holiday lets, although their booking patterns differ.</p>
+
+<h2>What guests are trying to find out</h2>
+<p>People looking at accommodation usually arrive with a short list of questions. Your site should answer them quickly, on a phone as well as a laptop:</p>
+<ul>
+<li>Is there availability on my dates, and what does it cost?</li>
+<li>What are the rooms like, and which one suits us?</li>
+<li>Where exactly is it, and what is nearby?</li>
+<li>Is breakfast included? Is there parking? Can I bring my dog?</li>
+<li>What is the cancellation policy?</li>
+<li>Does it feel like the kind of place I want to stay?</li>
+</ul>
+<p>The last question matters as much as the practical ones. A guest choosing a small hotel or B&B is often choosing an atmosphere, so the design, photography and writing should give an honest sense of what staying with you is like.</p>
+
+<h2>Make the booking button impossible to miss</h2>
+<p>Whatever booking engine or channel manager you use, the route to booking should be visible from every page. Common approaches include:</p>
+<ul>
+<li>A persistent "Book now" or "Check availability" button in the header, including on mobile.</li>
+<li>A date picker near the top of the homepage that passes dates straight into the booking engine.</li>
+<li>Booking buttons on each room page, ideally pre-selecting that room type.</li>
+</ul>
+<p>Many booking engines run on their own domain or in a pop-up, which can feel disjointed. Where your system allows, match its colours and fonts to your site and keep the hand-off smooth, so guests do not feel they have been sent somewhere unfamiliar. If you take bookings by phone or email instead, make those options just as prominent and give a clear idea of how quickly you reply. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the wider choices.</p>
+
+<h2>Room pages that do the selling</h2>
+<p>Each room or room type usually deserves its own page, or at least its own clearly separated section. A good room page typically includes:</p>
+<ul>
+<li>Several real photos of that room and its bathroom, not just one flattering angle.</li>
+<li>Bed type and size, maximum occupancy and whether extra beds or cots are available.</li>
+<li>Key features such as view, bath or shower, accessibility features, and whether it is on the ground floor.</li>
+<li>A starting price or a clear route to live prices.</li>
+<li>A booking button.</li>
+</ul>
+<p>Be specific. "Cosy" can mean charming or cramped, so let photos and plain facts do the work. If some rooms are up steep stairs or in an annexe across the courtyard, say so. Guests who know what to expect are less likely to be disappointed.</p>
+
+<h2>Photography is the main design element</h2>
+<p>For accommodation, photography carries more weight than almost any layout choice. Professional photos of rooms, public spaces, food and surroundings tend to be one of the better investments a small hotel can make. A few principles:</p>
+<ul>
+<li>Show rooms in good natural light, tidy and made up as a guest would find them.</li>
+<li>Include the details guests care about: the bathroom, the breakfast, the garden, the bar.</li>
+<li>Show the location honestly, including the view from the window if it is a selling point.</li>
+<li>Keep photos current. If a room has been redecorated, update the pictures.</li>
+</ul>
+<p>Large images can slow a site badly, especially on rural mobile connections. Images should be compressed and sized properly so the site stays fast. See our guides to <a href="/blog/website-image-optimisation/">website image optimisation</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a>.</p>
+
+<h2>Location and things to do</h2>
+<p>Many guests are choosing a destination first and accommodation second. A location page helps them understand where you are and why it is a good base. Consider including:</p>
+<ul>
+<li>A map, directions and parking information.</li>
+<li>Nearest railway station and approximate travel times.</li>
+<li>Local walks, attractions, beaches, restaurants or events you can genuinely recommend.</li>
+<li>Seasonal information, such as what the area is like in winter.</li>
+</ul>
+<p>This content is useful for guests and can also help the site appear in searches about the area. Write it from your own knowledge rather than copying generic tourist descriptions, and keep opening details hedged or linked to official sources where they may change.</p>
+
+<h2>Dining, events and other parts of the business</h2>
+<p>If you have a restaurant, bar or event space, it may serve a different audience from your overnight guests: locals booking dinner, couples planning a celebration, businesses booking a meeting room. Give each its own clear section with its own call to action, such as a table booking link or an enquiry form, without cluttering the room booking journey. Sample menus are helpful, but mark them as samples if they change often.</p>
+<p>Pubs with rooms often face a particular challenge here: the website has to work as a pub site for locals and as an accommodation site for visitors. Clear navigation, with rooms, food and drink, and events as separate top-level sections, usually helps. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers this in more detail.</p>
+
+<h2>Policies and practical information</h2>
+<p>Guests want to know the small print before they book. Make it easy to find:</p>
+<ul>
+<li>Check-in and check-out times.</li>
+<li>Cancellation and deposit policy, in plain English.</li>
+<li>Children, pets and accessibility information.</li>
+<li>Breakfast times and dietary options.</li>
+<li>What is and is not included in the price.</li>
+</ul>
+<p>Prices shown should be clear about what they include, and any compulsory charges should be visible early rather than appearing at the last step. Consumer protection rules on price transparency apply to accommodation and have been tightening, so check current guidance on displaying prices and fees, and take advice if you are unsure. A clear FAQ page can help; see our guide to <a href="/blog/website-faq-page/">FAQ pages</a>.</p>
+
+<h2>Accessibility information</h2>
+<p>Guests with access needs often find accommodation websites vague. Detailed information, such as step-free routes, door widths, bathroom layouts, grab rails and lift access, helps people decide whether you are suitable for them. Photos of accessible rooms and bathrooms are especially useful. Equally, if some areas are not accessible, saying so plainly is better than leaving guests to find out on arrival.</p>
+<p>The website itself should also be usable for people with disabilities, with readable text, good contrast, keyboard-friendly navigation and descriptive alt text on images. The Equality Act 2010 applies to services offered to the public, and accessible websites are widely considered good practice. See our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Reviews and trust</h2>
+<p>Guests often check reviews before booking. You can reference genuine reviews on your own site, but they must be real, not edited to change their meaning, and not selected in a way that misleads. Linking to your Google reviews or showing a short, accurate selection is usually more credible than a page of anonymous praise. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers other ways to build confidence, such as clear contact details, a real address and an introduction to the owners or team.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most small hotels and B&Bs use a content management system such as WordPress, Squarespace or Wix, with a separate booking engine embedded or linked. The right choice depends on how much you want to edit yourself, how well your booking system integrates and how much flexibility you need. WordPress offers the most flexibility; hosted builders can be simpler to manage. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/wordpress-small-business-website/">WordPress for small businesses</a>.</p>
+<p>Whatever you choose, check that your booking engine works reliably on mobile, that you can update rooms, prices and photos without help, and that the site loads quickly. If you are replacing an older site, take care not to lose existing search visibility; our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains the main risks.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Hiding the booking button or making guests hunt for prices.</li>
+<li>Outdated photos that no longer match the rooms.</li>
+<li>Huge image files that make the site crawl on mobile.</li>
+<li>Vague room descriptions that leave guests guessing.</li>
+<li>Policies buried in a PDF or missing entirely.</li>
+<li>A booking engine that looks and feels completely different from the main site.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a hotel, inn or B&B and want a site that shows your rooms honestly and makes booking straightforward, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does a small B&B need its own website if it is listed on booking platforms?</h3>
+<p>A website gives you a place you control, where guests can learn about you and potentially book directly. Platform listings and your own site can work alongside each other.</p>
+<h3>Where should the booking button go on a hotel website?</h3>
+<p>Usually in the header on every page, including on mobile, with additional buttons on each room page and near the top of the homepage.</p>
+<h3>Should every room have its own page?</h3>
+<p>Where rooms differ meaningfully, separate pages or sections help guests compare and choose. Very similar rooms can be grouped as one room type.</p>
+<h3>How important is photography for a hotel website?</h3>
+<p>Very. Photos are often the main way guests judge a room. Real, current, well-lit images tend to matter more than any design effect.</p>
+<h3>What should a hotel include about cancellation on its website?</h3>
+<p>A plain-English summary of the cancellation and deposit policy, easy to find before booking. Check current consumer guidance on price and terms transparency.</p>
+`,
+  },
+  {
+    slug: 'solicitor-website-design-uk',
+    seoTitle: 'Solicitor Website Design: A UK Guide for Law Firms',
+    title: 'Solicitor Website Design: Practice Areas, Pricing and Trust',
+    description: 'Website design for UK solicitors and law firms: practice area pages, price transparency, regulatory information, enquiry handling and clear, accessible copy.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/law-firm-marketing-uk/', '/pricing/'],
+    body: `
+<p>Someone searching for a solicitor is usually dealing with something significant: buying a home, going through a divorce, losing a job, sorting out a parent's estate or facing a dispute. They may never have instructed a lawyer before. A law firm's website needs to reassure them that they have come to the right place, explain things clearly and make it easy to take the next step.</p>
+<p>This guide covers website design for UK solicitors and law firms, from high street practices to specialist firms. It focuses on the website itself. For wider promotion, including search, referrals and advertising, see our guide to <a href="/blog/law-firm-marketing-uk/">law firm marketing</a>. Regulatory points here are general and summarised; firms should always check current guidance from their regulator and take compliance advice where needed.</p>
+
+<h2>What visitors need from a law firm website</h2>
+<p>Most visitors are trying to work out:</p>
+<ul>
+<li>Does this firm handle my type of matter?</li>
+<li>Will they understand my situation and explain things clearly?</li>
+<li>What will it cost?</li>
+<li>Who will actually deal with my case?</li>
+<li>How do I get in touch, and what happens then?</li>
+</ul>
+<p>Design the site so these questions are answered on the first few pages a visitor sees, and especially on mobile. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise.</p>
+
+<h2>Structure: personal and business clients</h2>
+<p>Many firms serve both individuals and businesses. Splitting navigation into "For you" and "For business", or similar, helps each group find the relevant practice areas quickly. Within each, list practice areas in the words clients use: "buying a house" or "conveyancing", "divorce and separation" rather than only "family law", "wills and probate", "employment problems".</p>
+<p>Avoid long, undifferentiated lists of every service the firm has ever offered. Focus on the areas you actively want to win work in, and make sure every service listed is one the firm can genuinely handle. See our guide to <a href="/blog/website-navigation-structure/">website navigation</a>.</p>
+
+<h2>Practice area pages that actually help</h2>
+<p>Practice area pages are often where a visitor decides whether to enquire. A good page typically:</p>
+<ul>
+<li>Opens by acknowledging the client's situation in plain language.</li>
+<li>Explains, in general terms, how the process usually works and what the firm does at each stage.</li>
+<li>Answers common questions, such as how long it may take and what the client needs to provide.</li>
+<li>Introduces the people who handle this type of work.</li>
+<li>Covers cost information or links to it.</li>
+<li>Ends with a clear way to get in touch.</li>
+</ul>
+<p>Keep explanations general and avoid anything that reads like advice for a specific situation. Add a note that content is general information and not legal advice. Laws differ between England and Wales, Scotland and Northern Ireland, so be clear which jurisdiction your content covers. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing in plain English.</p>
+
+<h2>Price and service transparency</h2>
+<p>The Solicitors Regulation Authority's transparency rules require regulated firms in England and Wales to publish price and service information for certain services on their website, which currently include areas such as residential conveyancing, probate, some immigration matters, employment tribunal claims for unfair or wrongful dismissal, and some motoring offences, among others. The information generally needs to cover matters such as total cost or the basis of charging, what is included, likely timescales, key stages and the experience and qualifications of the people involved.</p>
+<p>The detail and scope of these rules can change, and the SRA has consulted on extending them, so check the current requirements. From a design point of view:</p>
+<ul>
+<li>Make price information easy to find from the relevant practice area page, not hidden in a footer.</li>
+<li>Present it in readable HTML rather than only as a downloadable document.</li>
+<li>Separate your fees from disbursements and VAT clearly.</li>
+<li>Explain what could increase costs, in plain terms.</li>
+</ul>
+<p>Firms regulated by other bodies, such as in Scotland or Northern Ireland, or by other legal regulators, should check their own regulator's rules. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout principles.</p>
+
+<h2>Regulatory information and the SRA badge</h2>
+<p>Firms regulated by the SRA are required to display the SRA's digital badge on their website, and to include certain information such as the firm's regulatory status and details of how to complain. Complaints information typically includes the firm's own complaints procedure and the right to complain to the Legal Ombudsman. Make sure the badge is installed correctly using the SRA's own code, and that regulatory details appear where required, often in the footer and on a dedicated page. Our guide to <a href="/blog/website-footer-design/">footer design</a> covers how to fit this in tidily.</p>
+<p>Company or LLP details, such as registered number and office, may also be required depending on the firm's structure. Check current rules rather than relying on old templates.</p>
+
+<h2>People pages</h2>
+<p>Clients are hiring people, not just a firm. Individual profiles for solicitors and other fee earners help visitors feel they know who they will be dealing with. Each profile can include a professional photo, role, practice areas, qualifications and a short, human introduction. Be accurate about titles and qualifications: "solicitor" is a protected title, so make sure staff described as solicitors are admitted and hold practising certificates where required, and describe paralegals, legal executives and others correctly.</p>
+<p>Only show accreditations, panel memberships and awards the firm or individual actually holds, and follow any rules on how they can be displayed. Avoid unverifiable claims such as "the best family lawyers in the region".</p>
+
+<h2>Reviews and testimonials</h2>
+<p>Genuine client reviews can build trust. Many firms display reviews from an independent platform or their Google reviews. Whatever the source, reviews must be real, not edited to change their meaning, and not presented in a misleading way. Client confidentiality also matters: get clear consent before featuring anything that could identify a client or their matter. See our guide to <a href="/blog/website-testimonials-page/">testimonials pages</a>.</p>
+
+<h2>Enquiry forms and first contact</h2>
+<p>A visitor contacting a law firm may be sharing something sensitive. Make first contact simple and safe:</p>
+<ul>
+<li>Keep forms short, asking only for contact details, the type of matter and a brief description.</li>
+<li>Warn people not to include highly sensitive details in a first message, if appropriate.</li>
+<li>Say clearly whether an initial conversation is free or chargeable, and what it covers.</li>
+<li>Explain how quickly you aim to respond.</li>
+<li>Route enquiries to the right team where possible.</li>
+</ul>
+<p>Forms should be secure and covered by a clear privacy notice in line with UK GDPR. Remember that submitting an enquiry does not by itself create a client relationship, and it can be sensible to say so. Conflict checks may be needed before you can act. See our guide to <a href="/blog/website-contact-forms/">website contact forms</a>.</p>
+
+<h2>Accessibility</h2>
+<p>Legal services are used by everyone, including people with disabilities, older clients and people for whom English is a second language. A site with readable text, good contrast, keyboard-friendly navigation and plain language serves all of them better. Offering alternative ways to make contact, such as phone, email and form, also helps. See our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a>.</p>
+
+<h2>Platform and maintenance</h2>
+<p>Most law firm sites are built on a content management system such as WordPress, which can handle structured practice area pages, people profiles and regularly updated price information. Whatever the platform, someone at the firm needs to be able to update prices, people and regulatory details promptly. Outdated price information or a profile for someone who left two years ago undermines trust. See our guides to <a href="/blog/website-maintenance-uk/">website maintenance</a> and <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Practice area pages written in legal jargon.</li>
+<li>Required price information missing, hidden or out of date.</li>
+<li>SRA badge missing or not using the official code.</li>
+<li>Inaccurate titles or claims about staff qualifications.</li>
+<li>Long enquiry forms that ask for too much too soon.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a law firm and want a site with clear practice area pages and well-organised information, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Firms remain responsible for their own regulatory compliance and should take compliance advice where needed.</p>
+
+<h2>FAQs</h2>
+<h3>Do solicitors have to publish prices on their website?</h3>
+<p>SRA-regulated firms in England and Wales must publish price and service information for certain services. Check current SRA guidance for the full list and requirements.</p>
+<h3>Do law firms need to display the SRA badge?</h3>
+<p>Firms regulated by the SRA are required to display its digital badge on their website, using the official code provided by the SRA.</p>
+<h3>How should a law firm website organise practice areas?</h3>
+<p>Splitting by personal and business clients, then using plain-language names for each area, usually helps visitors find what they need.</p>
+<h3>Can solicitors use client reviews on their website?</h3>
+<p>Yes, if reviews are genuine, not misleading and do not breach client confidentiality. Get consent before featuring identifiable details.</p>
+<h3>Should a solicitor's website give legal information?</h3>
+<p>General information helps clients understand processes, but make clear it is not legal advice and state which jurisdiction it covers.</p>
+`,
+  },
 ];
