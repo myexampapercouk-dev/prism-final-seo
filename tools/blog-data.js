@@ -15703,4 +15703,534 @@ module.exports = [
 <p>You can do a lot of the groundwork yourself by writing down goals, audiences, required pages and features, and gathering data. That makes any conversation with a web designer far more productive.</p>
 `,
   },
+  {
+    slug: 'business-domain-and-email-setup',
+    seoTitle: 'Business Domain and Email Setup: A UK Guide',
+    title: 'Business Domain and Email Setup: Getting the Foundations Right',
+    description: 'How UK businesses can choose a domain name, keep control of it, set up professional email and configure SPF, DKIM and DMARC so emails get delivered.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/small-business-website-checklist/', '/blog/wordpress-hosting-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Your domain name and business email are the quiet foundations under your website. When they are set up properly nobody notices. When they are not, websites go offline, emails land in spam, and businesses discover that a former supplier or employee holds the keys. A little care at the start avoids most of these problems.</p>
+
+<h2>Choosing a domain name</h2>
+<ul>
+<li><strong>Keep it short and easy to spell.</strong> Imagine saying it over the phone.</li>
+<li><strong>Avoid hyphens and numbers</strong> unless they are part of your brand.</li>
+<li><strong>Pick the right ending.</strong> UK-focused businesses often choose .co.uk or .uk; .com can suit businesses with international ambitions. Some register both and redirect one to the other.</li>
+<li><strong>Check for conflicts.</strong> Make sure the name does not clash with an existing trade mark or a well-known business. This is general guidance, not legal advice; take advice if you are unsure.</li>
+</ul>
+<p>Consider registering common misspellings or alternative endings if they are inexpensive, and redirecting them to your main domain.</p>
+
+<h2>Keep control of your domain</h2>
+<p>This is the most important point in this guide. Your domain should be registered in an account the business controls, with the business named as the registrant, using a shared business email address rather than one person's personal inbox.</p>
+<ul>
+<li>Enable two-factor authentication on the registrar account.</li>
+<li>Turn on auto-renewal and keep payment details current. Expired domains can be lost.</li>
+<li>Record where the domain is registered and who has access, somewhere safe.</li>
+<li>If a web designer or agency registers it for you, ask that it is in your name and that you are given access.</li>
+</ul>
+
+<h2>Domains, DNS and hosting: what is what</h2>
+<table>
+<thead><tr><th>Piece</th><th>What it does</th></tr></thead>
+<tbody>
+<tr><td>Registrar</td><td>Where you rent the domain name and renew it</td></tr>
+<tr><td>DNS</td><td>The settings that point the domain to your website and email</td></tr>
+<tr><td>Web hosting</td><td>Where your website files and software live</td></tr>
+<tr><td>Email hosting</td><td>Where your mailboxes live and messages are stored</td></tr>
+</tbody>
+</table>
+<p>These can all be with one provider or with different ones. Keeping them separate can make it easier to change one without disturbing the others, but either approach can work. Our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers choosing web hosting.</p>
+
+<h2>Professional email on your own domain</h2>
+<p>An address such as hello@yourbusiness.co.uk looks more established than a free webmail address and stays with the business if staff change. Most businesses use a dedicated email hosting service rather than the basic email bundled with web hosting, because it tends to offer better reliability, spam filtering and shared calendars.</p>
+<p>Think about structure as well. Role-based addresses such as sales@ or accounts@ can be shared or forwarded, which helps when people are away or leave. Avoid having critical services, such as your domain registrar or payment accounts, tied to a single employee's mailbox.</p>
+
+<h2>Email authentication: SPF, DKIM and DMARC</h2>
+<p>These three DNS records help receiving mail servers decide whether an email genuinely came from you. Without them, your messages are more likely to be flagged as spam, and it is easier for someone to impersonate your domain.</p>
+<ul>
+<li><strong>SPF</strong> lists the services allowed to send email for your domain, such as your email provider and any newsletter tool.</li>
+<li><strong>DKIM</strong> adds a digital signature to outgoing emails so recipients can check they have not been altered.</li>
+<li><strong>DMARC</strong> tells receivers what to do with messages that fail those checks and can send you reports.</li>
+</ul>
+<p>Large mailbox providers have tightened their requirements for senders, particularly those sending marketing email in volume, so these records matter more than they used to. A common approach is to start DMARC in a monitoring mode, review the reports, and tighten the policy once you are confident all legitimate senders are covered.</p>
+
+<h2>Don't forget website-generated email</h2>
+<p>Contact forms, order confirmations and password resets are sent by your website or shop platform. Make sure they are sent through an authenticated service included in your SPF and DKIM setup, or they may quietly go to spam. Test them after any change. Our <a href="/blog/website-contact-forms/">contact forms guide</a> has more on this.</p>
+
+<h2>Changing providers safely</h2>
+<p>Moving a domain, website or email between providers is routine but needs planning. Note your existing DNS records before changing anything, lower record lifetimes in advance if possible, and switch at a quiet time. For email moves, plan how existing messages will be migrated. Check website, email sending and email receiving straight afterwards.</p>
+
+<h2>A simple setup checklist</h2>
+<p>For a new business or a tidy-up of an existing one, the following steps cover most of the essentials:</p>
+<ul>
+<li>Register the domain in an account the business owns, with two-factor authentication and auto-renewal switched on.</li>
+<li>Decide whether the website should load with or without "www" and redirect the other version to it.</li>
+<li>Make sure the site loads over HTTPS with a valid certificate, and that the plain HTTP version redirects.</li>
+<li>Set up email hosting and create the mailboxes and shared addresses you need.</li>
+<li>Add the MX records your email provider gives you so incoming mail arrives in the right place.</li>
+<li>Add SPF, DKIM and DMARC records covering every service that sends email for you.</li>
+<li>Send test emails to a few different mailbox providers and check they arrive in the inbox.</li>
+<li>Write down where everything is held and who has access, and store it securely.</li>
+</ul>
+
+<h2>Security basics</h2>
+<p>Domains and email accounts are attractive targets because they unlock so much else. If someone gains access to your registrar account, they can redirect your website and email. If they gain access to a mailbox, they can reset passwords on other services or send convincing invoices to your customers. Sensible precautions include:</p>
+<ul>
+<li>Two-factor authentication on registrar, DNS and email accounts.</li>
+<li>Registrar lock, sometimes called transfer lock, to make unauthorised transfers harder.</li>
+<li>Removing access promptly when staff or suppliers leave.</li>
+<li>Training staff to treat unexpected payment-change requests with suspicion and verify them by phone.</li>
+</ul>
+<p>The UK's National Cyber Security Centre publishes free guidance for small businesses that is worth reading alongside this.</p>
+
+<h2>Subdomains and extra sending services</h2>
+<p>As a business grows, it often adds tools that send email on its behalf: a newsletter platform, a help desk, an invoicing tool or an online shop. Each needs to be included in your authentication setup, and SPF in particular has limits on how many services it can reference. Some businesses send marketing email from a subdomain, such as news.yourbusiness.co.uk, to keep its reputation separate from everyday business email. That can be helpful, but it adds complexity, so it is worth planning rather than adding piecemeal.</p>
+
+<h2>When a supplier holds your domain</h2>
+<p>It is surprisingly common for a business to find its domain registered in a former web designer's account. If this applies to you, ask the supplier politely to transfer the domain into an account you own; most registrars have a standard process using an authorisation code. Keep the request in writing. If the domain is held in your name, you will usually be in a stronger position. If it is not, or the supplier is unresponsive, you may need to take advice.</p>
+
+<h2>Getting help</h2>
+<p>Domain and DNS setup often goes hand in hand with a new site. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers builds and launches, and our <a href="/blog/small-business-website-checklist/">small business website checklist</a> lists other basics to check. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I choose .co.uk or .com?</h3>
+<p>If you mainly serve UK customers, .co.uk is familiar and signals a UK business. A .com may suit international plans. Many businesses register both and redirect one to the other.</p>
+<h3>Who should own my domain name?</h3>
+<p>Your business. It should be registered in the business's name and in an account you control, even if someone else manages it for you.</p>
+<h3>Can I use my web hosting for email?</h3>
+<p>You can, but dedicated email hosting often offers better deliverability, security and features. It also means a website problem is less likely to affect your email.</p>
+<h3>Why are my emails going to spam?</h3>
+<p>Missing or incorrect SPF, DKIM or DMARC records are a common cause. Content, sending volume and your domain's reputation also play a part.</p>
+<h3>What happens if my domain expires?</h3>
+<p>Your website and email will usually stop working, and after a grace period the domain may become available for others to register. Auto-renewal and current payment details help prevent this.</p>
+<h3>Do I need a separate email address for each employee?</h3>
+<p>Usually each person benefits from their own mailbox for accountability and security, with shared role-based addresses such as sales@ or support@ for functions several people handle. Shared passwords on a single mailbox make it hard to control access when people leave.</p>
+<h3>How long does it take for DNS changes to work?</h3>
+<p>Often minutes, but sometimes several hours, depending on the record lifetimes previously set. Lowering those values a day or so before a planned change can make the switchover quicker and easier to reverse.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-category-page-design',
+    seoTitle: 'Ecommerce Category Page Design: A UK Guide',
+    title: 'Ecommerce Category Page Design: Layout, Filters and SEO',
+    description: 'How to design ecommerce category pages that help shoppers find products: layout, filters, sorting, product cards, intro copy and SEO considerations.',
+    date: '2026-10-31',
+    category: 'Ecommerce',
+    related: ['/blog/product-page-seo-uk/', '/blog/ecommerce-seo-checklist/', '/services/website-ecommerce-development/'],
+    body: `
+<p>An ecommerce category page (called a collection on Shopify) lists a group of related products and helps shoppers narrow them down. It sits between broad browsing and a specific product, which makes it one of the most important templates on any online shop. It is also often the page that ranks for broad, commercial searches such as "women's waterproof jackets".</p>
+
+<h2>What shoppers need from a category page</h2>
+<ul>
+<li>Confirmation they are in the right place.</li>
+<li>A quick sense of the range and price spread.</li>
+<li>Ways to cut the list down to what suits them.</li>
+<li>Enough information on each product card to decide what to click.</li>
+</ul>
+<p>Design choices should be judged against those four needs.</p>
+
+<h2>The top of the page</h2>
+<p>Start with a clear heading that matches the category name in your navigation. A short introduction of a sentence or two can help shoppers and search engines understand the range, but keep it brief so products appear quickly, particularly on mobile. Large banner images that push products below the fold can look attractive yet slow shoppers down; if you use one, keep it slim.</p>
+<p>Sub-category links near the top, shown as text links or small image tiles, help people jump to a narrower range without using filters.</p>
+
+<h2>Filters</h2>
+<p>Good filtering is often the difference between a usable and an unusable category page. Choose filters based on how your customers actually decide:</p>
+<table>
+<thead><tr><th>Store type</th><th>Filters that often matter</th></tr></thead>
+<tbody>
+<tr><td>Clothing</td><td>Size, colour, fit, price, material</td></tr>
+<tr><td>Furniture</td><td>Dimensions, material, colour, delivery time</td></tr>
+<tr><td>Electronics</td><td>Brand, key specifications, compatibility, price</td></tr>
+<tr><td>Food and drink</td><td>Dietary needs, flavour, pack size, price</td></tr>
+</tbody>
+</table>
+<ul>
+<li>Show how many products each option will return, and hide or grey out options that return none.</li>
+<li>Let people combine several filters and see which are applied, with an easy way to clear them.</li>
+<li>On mobile, put filters behind a clearly labelled button and keep the product count visible.</li>
+<li>Filters rely on clean product data. Inconsistent sizes or colours in your catalogue will produce messy filters.</li>
+</ul>
+
+<h2>Sorting</h2>
+<p>Offer the sort options shoppers expect, such as price low to high, price high to low and newest. A default such as "featured" or "best selling" is fine, but make sure it genuinely reflects what is popular or relevant rather than simply what you want to clear.</p>
+
+<h2>Product cards</h2>
+<p>Each card should make comparison easy. Typically that means a consistent image, product name, price, and any key variant information such as available colours. Optional extras include review ratings where you have genuine reviews, stock messages and a quick-add button for simple products. Keep image ratios consistent so the grid looks tidy, and make sure sale prices and badges are clear without being shouty.</p>
+
+<h2>Pagination and loading more</h2>
+<p>Large categories need a way to show more products. Numbered pagination, a "load more" button and infinite scroll each have trade-offs. Infinite scroll can make footers unreachable and makes it harder to return to a position, while pagination and "load more" give shoppers more control. Whatever you choose, make sure products beyond the first page can still be reached through normal links so search engines can find them.</p>
+
+<h2>Category pages and SEO</h2>
+<ul>
+<li><strong>Target broad terms.</strong> Category pages often suit broader searches than individual products. Match the heading and title tag to how people search.</li>
+<li><strong>Add useful copy.</strong> A short intro at the top and, where helpful, more detailed buying guidance lower down. Write for shoppers, not just keywords.</li>
+<li><strong>Manage filter URLs.</strong> Filters can create huge numbers of near-duplicate URLs. Decide which combinations deserve their own indexable pages and use canonical tags or other controls for the rest.</li>
+<li><strong>Link sensibly.</strong> Link to related categories and popular sub-categories.</li>
+</ul>
+<p>Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> and <a href="/blog/product-page-seo-uk/">product page SEO guide</a> cover the rest of the store.</p>
+
+<h2>Empty and thin categories</h2>
+<p>Categories with only one or two products, or none, give a poor impression. Merge small categories, hide empty ones, or populate them before linking to them. If a seasonal category is temporarily empty, explain when products are expected and suggest alternatives rather than showing a blank page.</p>
+
+<h2>Measuring performance</h2>
+<p>In your analytics, look at how many category visitors click through to a product, which filters are used, and whether some categories have unusually high exit rates. Site search terms can reveal categories or filters shoppers expect but cannot find.</p>
+
+<h2>Merchandising the category</h2>
+<p>The order in which products appear is a quiet but powerful decision. Shoppers tend to look closely at the first rows and pay less attention further down. Options include ranking by sales, by margin, by newness, or by a manual order you control. Many shops use a mix: automatic sorting by default with a few products pinned to the top for seasonal reasons. Whatever you choose, keep out-of-stock items from dominating the first rows, as a grid full of unavailable products is discouraging. Some shops move them to the end of the list or hide them, while others keep them visible with a clear stock message so shoppers can sign up for alerts.</p>
+
+<h2>Category pages on mobile</h2>
+<p>Most category browsing happens on phones for many retailers, so the mobile layout deserves particular attention. Two products per row is common on small screens, giving enough room for an image, name and price. Keep filter and sort controls together in a bar near the top, and consider making that bar stick as people scroll so they can refine their search without scrolling back up. When filters are applied, update the results without jumping the shopper back to the top of the page unexpectedly, and make it obvious how many results remain.</p>
+
+<h2>Planning your category structure</h2>
+<p>Good page design cannot fully rescue a confusing category structure. Before designing the template, check that categories are organised around how customers shop rather than how stock is managed in the warehouse. A few questions help:</p>
+<ul>
+<li>Would a customer know which category to look in for a given product?</li>
+<li>Are there categories with very few products that could be merged?</li>
+<li>Are there very large categories that would be easier to browse if split?</li>
+<li>Do customers search for things, such as "gifts for runners", that could justify a curated category?</li>
+</ul>
+
+<h2>Promotional and seasonal content</h2>
+<p>Category pages are a natural place for timely messages such as a sale, free delivery threshold or seasonal range. Keep these compact so they do not push products down, and remove them promptly when they end. If you run regular seasonal categories, such as Christmas gifts, keeping the same URL from year to year and updating its content tends to work better than creating a new page each time, because the page can build up visibility over time.</p>
+
+<h2>Speed matters</h2>
+<p>Category pages load many images at once, so they can be slow if images are not optimised. Use appropriately sized thumbnails rather than full product images, lazy-load images further down the page, and keep third-party apps that inject content into the grid to a minimum.</p>
+
+<h2>Getting help</h2>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers store design and builds, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we work with online retailers. See <a href="/pricing/">pricing</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many products should a category page show?</h3>
+<p>Enough to give a sense of choice without making the page slow. Many shops show a few rows on load and let shoppers load more. Test what works for your range.</p>
+<h3>Should category pages have text on them?</h3>
+<p>A short introduction usually helps both shoppers and search engines. Longer buying guidance can go below the products so it does not get in the way.</p>
+<h3>Should every filter combination be indexed?</h3>
+<p>Usually not. Index combinations that match real searches and have enough products, and keep the rest out of the index to avoid duplicate pages.</p>
+<h3>Is infinite scroll bad for SEO?</h3>
+<p>Not inherently, but it needs a crawlable fallback, such as paginated URLs, so search engines can reach every product.</p>
+<h3>What is the difference between a category and a collection?</h3>
+<p>Mostly naming. Shopify calls them collections; many other platforms call them categories. Both group related products on one page.</p>
+<h3>Should out-of-stock products appear on category pages?</h3>
+<p>It depends on how quickly they return. Products coming back soon can stay visible with a clear stock message and an alert option, ideally lower down the grid. Discontinued items are usually better removed, with their URLs redirected to a close alternative.</p>
+<h3>How often should I review category pages?</h3>
+<p>Check key categories whenever your range changes significantly, and review filters, sorting and intro copy at least a few times a year. Seasonal categories need attention before each peak.</p>
+`,
+  },
+  {
+    slug: 'mobile-website-design',
+    seoTitle: 'Mobile Website Design: A Practical UK Guide',
+    title: 'Mobile Website Design: Building Sites That Work on Phones',
+    description: 'How to design a website that works properly on phones: responsive layouts, thumb-friendly controls, mobile speed, forms, checkout and testing.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/core-web-vitals-uk/', '/blog/website-accessibility-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Mobile website design means building a site that is easy to read, navigate and buy from on a phone, not just one that technically shrinks to fit. For many businesses a large share of visitors arrive on mobile, and Google primarily uses the mobile version of a site when indexing it. A site that frustrates phone users is leaving enquiries and sales on the table.</p>
+
+<h2>Responsive, mobile-first design</h2>
+<p>Most modern sites use responsive design: one set of pages whose layout adapts to the screen. "Mobile-first" takes this further by designing the small-screen version first and adding complexity as space allows. The advantage is discipline. When you only have a narrow column, you are forced to decide what really matters, and that clarity usually improves the desktop version too.</p>
+<p>Separate mobile sites on their own subdomain are now uncommon and harder to maintain. If you still have one, it is worth considering a move to a responsive build.</p>
+
+<h2>Designing for thumbs</h2>
+<ul>
+<li><strong>Tap targets:</strong> buttons and links need enough size and spacing that people do not hit the wrong one.</li>
+<li><strong>Reach:</strong> key actions near the bottom or middle of the screen are easier to reach one-handed than tiny icons in the top corner.</li>
+<li><strong>No hover:</strong> anything that relies on hovering, such as menus or tooltips, needs a tap-friendly alternative.</li>
+<li><strong>Sticky actions:</strong> a persistent call, book or basket button can help, as long as it does not cover content.</li>
+</ul>
+
+<h2>Readable content</h2>
+<p>Use a body text size that can be read without zooming, generous line spacing and short paragraphs. Break long pages up with clear headings. Tables are a common trouble spot: wide tables either need to scroll sideways inside their own container or be restructured into stacked cards on small screens. Check that images crop sensibly and that text over images stays legible.</p>
+
+<h2>Speed on mobile</h2>
+<p>Phones are often on slower or patchy connections, so page weight matters. The usual culprits are oversized images, heavy scripts, web fonts and third-party tools such as chat widgets and trackers. Practical steps include:</p>
+<ul>
+<li>Serving appropriately sized, compressed images in modern formats.</li>
+<li>Lazy-loading images further down the page.</li>
+<li>Removing apps, plugins and scripts you no longer use.</li>
+<li>Limiting the number of font families and weights.</li>
+</ul>
+<p>Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains the metrics Google uses to measure loading, responsiveness and visual stability.</p>
+
+<h2>Forms and checkout</h2>
+<p>Typing on a phone is slow, so every field costs more. Use the right input types so the correct keyboard appears, support autofill, keep forms short and show errors clearly next to the field. For online shops, offer express payment options where they suit your customers, allow guest checkout, and keep delivery costs visible early so nobody is surprised at the last step.</p>
+
+<h2>Things that annoy mobile users</h2>
+<table>
+<thead><tr><th>Problem</th><th>Better approach</th></tr></thead>
+<tbody>
+<tr><td>Full-screen pop-ups on arrival</td><td>Delay them, make them small and easy to close, or drop them</td></tr>
+<tr><td>Layout jumping as the page loads</td><td>Reserve space for images, ads and embeds</td></tr>
+<tr><td>Phone numbers that cannot be tapped</td><td>Make them click-to-call links</td></tr>
+<tr><td>Tiny close buttons</td><td>Make dismiss controls large and obvious</td></tr>
+<tr><td>Auto-playing video with sound</td><td>Keep video muted and user-controlled</td></tr>
+</tbody>
+</table>
+
+<h2>Context: how people use phones</h2>
+<p>Mobile visitors are often doing something else at the same time: commuting, waiting, or comparing options between conversations. They may be in bright sunlight, using one hand, or on a weak signal. That context argues for pages that get to the point quickly, remember progress where possible and recover gracefully if a connection drops. It also explains why click-to-call, maps links and simple booking options are often used far more on phones than on desktop. Design for interruption, and make it easy for someone to pick up where they left off.</p>
+
+<h2>Accessibility overlaps</h2>
+<p>Many mobile improvements are also accessibility improvements: good contrast for outdoor glare, text that can be enlarged without breaking the layout, and controls that work with screen readers. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers this in more detail.</p>
+
+<h2>Testing properly</h2>
+<p>Resizing a desktop browser is a useful first check, but it does not show how a page feels in the hand. Test on a few real phones, including an older or cheaper model, on mobile data as well as Wi-Fi. Complete your key journeys end to end: find a service, fill in the contact form, add to basket and check out. Your analytics can show which devices your visitors use and whether mobile visitors convert noticeably worse than desktop ones.</p>
+
+<h2>Prioritising content on a small screen</h2>
+<p>On a phone, content is read as a single column, so the order of things on the page becomes the order of importance. A desktop layout with a sidebar of key information can end up pushing that information to the very bottom on mobile. When planning a page, decide what a mobile visitor needs first and make sure the layout delivers it in that order. For a service business that is often what you do, where you work and how to contact you. For a shop it is usually the product, price, options and add-to-basket button.</p>
+<p>Collapsible sections, such as accordions for FAQs or product specifications, can keep long pages manageable. Use them for secondary detail rather than essential information, and make sure the headings clearly describe what is inside.</p>
+
+<h2>Navigation on mobile</h2>
+<p>The collapsed menu behind an icon is now familiar to most people, but it hides your options, so the labels inside need to be clear and the list short. Consider:</p>
+<ul>
+<li>Keeping the most important action, such as call, book or basket, visible outside the menu.</li>
+<li>Limiting nested levels, because multi-level menus are fiddly on touch screens.</li>
+<li>Making search prominent on shops with large ranges.</li>
+<li>Showing a clear way back, such as breadcrumbs or a visible back link, on deep pages.</li>
+</ul>
+
+<h2>Images and media</h2>
+<p>Images that work at desktop width can lose their point on a phone if the important part is cropped away. Check focal points on key images, and consider using a different crop for small screens where the platform supports it. Product images should be easy to swipe and zoom. Video should be optional to play and should not consume large amounts of data automatically.</p>
+
+<h2>Mobile considerations for ecommerce</h2>
+<p>Shoppers on phones often browse in short bursts and return later, sometimes on another device. Features that help include a basket that persists between visits, easy account creation after purchase rather than before, and wish lists for people who are not ready to buy. Keep delivery and returns information close to the add-to-basket button, because mobile shoppers are less likely to go hunting for it. Make product options such as size and colour easy to select with large controls rather than small dropdowns.</p>
+
+<h2>Common mobile design mistakes</h2>
+<ul>
+<li>Designing and approving everything on a large monitor, then checking mobile only at launch.</li>
+<li>Text set in light grey or thin fonts that become hard to read on a small, bright screen.</li>
+<li>Horizontal scrolling caused by a single element that is wider than the screen.</li>
+<li>Cookie banners and chat widgets that together cover much of the screen.</li>
+<li>Form fields that zoom the page unexpectedly when tapped.</li>
+</ul>
+
+<h2>Getting help</h2>
+<p>If your site works poorly on phones, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers responsive design and builds. Our <a href="/pricing/">pricing page</a> explains our plans, or you can <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between responsive and mobile-friendly?</h3>
+<p>Responsive describes how a site is built, adapting one layout to different screens. Mobile-friendly describes the result: whether it is genuinely easy to use on a phone. A responsive site can still be awkward on mobile if it is not designed with phones in mind.</p>
+<h3>Do I need a mobile app as well as a website?</h3>
+<p>Most small businesses do not. A well-designed mobile website reaches people without a download. Apps tend to make sense when customers use your service frequently and need features a website cannot easily offer.</p>
+<h3>Does mobile design affect SEO?</h3>
+<p>Yes. Google mainly uses the mobile version of your pages for indexing, and page experience on mobile can influence how users behave once they arrive.</p>
+<h3>Should my mobile site have less content than desktop?</h3>
+<p>Generally the content should be the same, presented differently. Hiding important content on mobile can harm both users and search visibility.</p>
+<h3>How do I check how my site performs on mobile?</h3>
+<p>Use Google's PageSpeed Insights and Search Console for technical signals, then test key journeys yourself on real phones.</p>
+<h3>What screen sizes should I design for?</h3>
+<p>Rather than targeting specific devices, design layouts that adapt smoothly across widths, from small phones to large tablets. Check your analytics to see the most common screen sizes among your own visitors, and test those carefully.</p>
+<h3>Are pop-ups allowed on mobile?</h3>
+<p>Required notices such as cookie banners are fine when kept compact. Intrusive pop-ups that cover the main content can frustrate visitors and may affect how search engines view the page experience, so use them sparingly.</p>
+`,
+  },
+  {
+    slug: 'website-homepage-design',
+    seoTitle: 'Website Homepage Design: What to Include (UK Guide)',
+    title: 'Website Homepage Design: What Your Homepage Needs to Do',
+    description: 'A practical guide to homepage design for UK businesses: the jobs a homepage does, what to put above the fold, section order, and common mistakes.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/website-copywriting-uk/', '/blog/small-business-website-checklist/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A good homepage answers three questions within a few seconds: what is this business, is it for me, and what should I do next? It is rarely the page that closes a sale. Its real job is to orient people and send them to the page that will, whether that is a service page, a product range or a contact form.</p>
+
+<h2>What a homepage is actually for</h2>
+<p>Visitors arrive at a homepage in different states of mind. Some typed your name after a recommendation and want reassurance. Some are comparing a few businesses and want to know quickly whether you fit. Some are existing customers looking for a login, an order or a phone number. A homepage that serves all of them is mostly about clear routes, not lots of content.</p>
+<p>It also helps to remember that many visitors never see your homepage at all. Search engines and ads often send people straight to inner pages, so the homepage does not need to carry every message on its own.</p>
+
+<h2>The opening screen</h2>
+<p>The part of the page visible before scrolling does the most work. Aim for:</p>
+<ul>
+<li><strong>A plain headline.</strong> Say what you do and for whom. "Bookkeeping for small UK construction firms" beats "Numbers made simple".</li>
+<li><strong>A supporting line.</strong> One sentence on what makes you a sensible choice, written in your customers' words.</li>
+<li><strong>One main action.</strong> A clear button such as "Get a quote" or "Shop the range", with perhaps one quieter secondary option.</li>
+<li><strong>An image that shows something real.</strong> Your product, your work or your setting tends to say more than generic stock photography.</li>
+</ul>
+<p>Rotating carousels are best avoided for key messages. Most people only see the first slide, and moving content can be distracting and harder to use for some visitors.</p>
+
+<h2>A sensible section order</h2>
+<p>There is no single correct layout, but a useful way to plan one is to list the questions a new visitor asks and answer them in order.</p>
+<table>
+<thead><tr><th>Visitor question</th><th>Section that answers it</th></tr></thead>
+<tbody>
+<tr><td>What do you do?</td><td>Headline and short introduction</td></tr>
+<tr><td>Do you do the thing I need?</td><td>Services or product categories, each linking to its own page</td></tr>
+<tr><td>Why you rather than someone else?</td><td>A few specific reasons, backed by evidence where you have it</td></tr>
+<tr><td>Can I trust you?</td><td>Genuine reviews, examples of work, accreditations you actually hold</td></tr>
+<tr><td>How does it work?</td><td>A brief outline of how people buy from or work with you</td></tr>
+<tr><td>What now?</td><td>A repeated call to action and contact details</td></tr>
+</tbody>
+</table>
+<p>Service businesses and online shops will weight these differently. A shop's homepage usually leans towards categories, offers and delivery information; a professional services homepage leans towards expertise and reassurance.</p>
+
+<h2>Writing for the homepage</h2>
+<p>Homepage copy should be short and scannable, with each section linking to a deeper page rather than trying to explain everything. Avoid stacking vague claims such as "passionate", "innovative" or "quality-driven", which tell visitors nothing. Specific, checkable statements work better. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> covers this in more depth.</p>
+
+<h2>Homepages and SEO</h2>
+<p>Your homepage often ranks for your brand name and sometimes for a broad description of what you do. Give it a descriptive title tag and a heading that includes your main service in natural language, and link from it to your most important pages so they are easy for search engines to find. Trying to make one page rank for every service usually works less well than giving each service its own page.</p>
+
+<h2>Common homepage mistakes</h2>
+<ul>
+<li>Opening with a mission statement instead of what you sell.</li>
+<li>Too many competing buttons, so nothing stands out.</li>
+<li>Large, uncompressed images or videos that slow the page down on mobile.</li>
+<li>Out-of-date news, offers or blog feeds that make the site look neglected.</li>
+<li>Hiding contact details, delivery information or prices that people expect to find quickly.</li>
+<li>Designing on a large monitor and only checking the phone version at the end.</li>
+</ul>
+
+<h2>Testing your homepage</h2>
+<p>A simple test is to show the page to someone unfamiliar with your business for five seconds, then ask what you do and what they would click. If they cannot say, the opening screen needs work. In your analytics, look at where homepage visitors go next and whether they leave quickly. Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> covers other basics worth checking.</p>
+
+<h2>Homepages for different kinds of business</h2>
+<h3>Service businesses</h3>
+<p>For trades, consultancies and professional firms, the homepage is largely about reassurance and routing. Visitors want to know the services you offer, the area or type of client you serve, and how to get in touch. Listing services as clear cards, each linking to its own page, usually works better than long paragraphs. If you cover a defined area, say so early so people outside it do not waste their time, and those inside it feel confident they are in the right place.</p>
+<h3>Online shops</h3>
+<p>A shop homepage behaves more like a shop window. Returning customers often want to get straight to a category or search, so make both easy. New visitors want a quick feel for the range, the price level and practical details such as delivery and returns. Featured categories, a small selection of popular or new products, and a clear strip of delivery information tend to do more than a single large hero image. Keep promotional banners current; an expired offer is one of the quickest ways to make a shop look unattended.</p>
+<h3>Businesses with several audiences</h3>
+<p>If you serve distinct groups, such as trade and retail customers, or patients and referring professionals, the homepage can split people early with clearly labelled routes. Keep the split simple: two or three paths are manageable, but a long list of audience types becomes another menu to decode.</p>
+
+<h2>Evidence and trust signals</h2>
+<p>Visitors arriving at a homepage for the first time are quietly asking whether you are a real, competent business. Useful signals include genuine customer reviews, short case studies or examples of work, recognisable details such as a registered company name and contact information, and memberships or accreditations you genuinely hold. Use only what is true, current and permitted. Invented or exaggerated testimonials are not only risky under consumer protection rules, they also tend to read as hollow. If you are a newer business without much to show yet, a clear explanation of how you work and what customers can expect can do a similar job honestly.</p>
+
+<h2>Planning a homepage before design starts</h2>
+<p>It is tempting to begin with visuals, but homepages built from a blank design canvas often end up as a collection of attractive sections with no clear purpose. A more reliable approach is to start with words and structure:</p>
+<ul>
+<li>Write down the main types of visitor and what each needs to do next.</li>
+<li>List the pages you most want people to reach from the homepage.</li>
+<li>Draft the headline and section headings in plain text, as if the page had no design at all.</li>
+<li>Only then sketch layouts, starting with the phone version.</li>
+</ul>
+<p>If a section cannot be justified in the plain-text version, it probably does not belong on the finished page either.</p>
+
+<h2>Performance and accessibility</h2>
+<p>Homepages are often the heaviest pages on a site because they collect hero images, sliders, embedded videos and animation. Each addition can slow loading on mobile connections. Compress images, avoid loading large videos by default and remove scripts that are no longer needed. Check that text has good contrast against background images, that buttons are large enough to tap and that the page can be used with a keyboard. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> goes into this further.</p>
+
+<h2>Getting help</h2>
+<p>If your homepage is part of a wider site that needs attention, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers design and build, and our <a href="/pricing/">pricing page</a> explains our plans. You are welcome to <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How long should a homepage be?</h3>
+<p>Long enough to answer a new visitor's main questions and route them onwards. For many small businesses that is a handful of short sections. Length matters less than whether every section earns its place.</p>
+<h3>Should prices go on the homepage?</h3>
+<p>If price is a big part of the buying decision, a starting price or a link to a pricing page can help visitors self-qualify. It depends on your business and how you price.</p>
+<h3>Is a video background a good idea?</h3>
+<p>It can look striking, but it adds weight to the page and can distract from your message. If you use one, keep it short, muted, compressed and paired with a clear headline.</p>
+<h3>Should the homepage have a contact form?</h3>
+<p>A short form or a prominent button linking to one can work well, especially for service businesses. What matters is that the route to contact you is obvious.</p>
+<h3>How often should I update my homepage?</h3>
+<p>Review it whenever your offer changes and at least once or twice a year. Remove anything dated, and check it still matches what customers come to you for.</p>
+`,
+  },
+  {
+    slug: 'website-navigation-structure',
+    seoTitle: 'Website Navigation and Structure: A UK Guide',
+    title: 'Website Navigation and Structure: How to Organise Your Site',
+    description: 'How to plan website navigation and site structure: grouping pages, menu labels, URL structure, footers, breadcrumbs and internal links for SEO.',
+    date: '2026-10-31',
+    category: 'Guides',
+    related: ['/blog/technical-seo-audit-checklist/', '/blog/website-redesign-without-losing-rankings/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Website navigation is the set of menus and links people use to find their way around; site structure is the way your pages are grouped and connected underneath. Get the structure right and the navigation almost designs itself. Get it wrong and no amount of visual polish will stop visitors getting lost.</p>
+
+<h2>Start with an inventory</h2>
+<p>Before thinking about menus, list every page you have or plan to have. For an existing site, a crawl or a simple export from your content management system will do. Mark which pages matter most to customers and to the business, which are out of date, and which overlap. Many structural problems come from pages that should have been merged or removed long ago.</p>
+
+<h2>Group pages the way customers think</h2>
+<p>A common mistake is to mirror the organisation chart. Customers do not care which team handles what; they care about their problem. Useful ways to group pages include:</p>
+<ul>
+<li><strong>By service or product type</strong>, the most common approach.</li>
+<li><strong>By audience</strong>, where you serve distinct groups with different needs, such as homeowners and landlords.</li>
+<li><strong>By task</strong>, such as "Book", "Track an order" or "Get support", for sites with lots of returning users.</li>
+</ul>
+<p>If you are unsure how people group things, a simple card-sorting exercise helps: write page names on cards and ask a few customers to sort them into piles that make sense to them.</p>
+
+<h2>Keep the hierarchy shallow</h2>
+<p>As a rule of thumb, important pages should be reachable within a few clicks of the homepage. A typical structure looks like this:</p>
+<table>
+<thead><tr><th>Level</th><th>Example (service business)</th><th>Example (online shop)</th></tr></thead>
+<tbody>
+<tr><td>Top</td><td>Homepage</td><td>Homepage</td></tr>
+<tr><td>Section</td><td>Services</td><td>Women's clothing</td></tr>
+<tr><td>Sub-section</td><td>Boiler installation</td><td>Coats and jackets</td></tr>
+<tr><td>Detail</td><td>Combi boiler replacement</td><td>Individual product</td></tr>
+</tbody>
+</table>
+<p>Deep chains of sub-menus are hard to use, especially on phones, and pages buried far from the homepage tend to receive less attention from search engines too.</p>
+
+<h2>Writing menu labels</h2>
+<ul>
+<li>Use the words customers use. "Kitchen fitting" is clearer than "Interior solutions".</li>
+<li>Be specific. "Services" is fine as a parent, but the items beneath it should be concrete.</li>
+<li>Keep labels short so they fit on one line on smaller screens.</li>
+<li>Put the most important items first and keep "Contact" easy to find, often at the end or as a button.</li>
+</ul>
+
+<h2>Main menu, footer and everything else</h2>
+<p>The main menu should hold the handful of sections most visitors need. Everything else has a home elsewhere:</p>
+<ul>
+<li><strong>Footer:</strong> contact details, policies, delivery and returns, careers, and secondary pages.</li>
+<li><strong>In-page links:</strong> links within body copy to related services, guides and next steps.</li>
+<li><strong>Breadcrumbs:</strong> a trail such as Home &gt; Services &gt; Boiler installation, which helps people orient themselves and gives search engines extra context.</li>
+<li><strong>Search:</strong> worth adding on larger sites and most online shops, as long as the results are good.</li>
+</ul>
+<p>Mega menus, which open into a large panel of links, can suit shops with many categories, but they need careful design to stay usable on touch screens and with a keyboard.</p>
+
+<h2>URLs that reflect the structure</h2>
+<p>Readable URLs that follow your hierarchy, such as /services/boiler-installation/, are easier to understand and share. Pick a pattern and keep it consistent. If you change URLs on an existing site, set up 301 redirects from old addresses to new ones; our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains why this matters.</p>
+
+<h2>Structure and SEO</h2>
+<p>Search engines use links to discover pages and to understand which ones are most important. A clear structure with sensible internal linking helps each page do its job: one page per main topic, linked from its parent section and from related pages. Watch out for orphan pages that nothing links to, and for several pages competing for the same subject. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers how to check for these.</p>
+
+<h2>Mobile navigation</h2>
+<p>On phones, menus usually collapse behind an icon. That makes clear labels even more important, because people see fewer options at once. Make tap targets large enough, keep the number of levels low, and consider keeping one key action, such as a call or basket button, visible at all times.</p>
+
+<h2>Structures for different kinds of site</h2>
+<h3>Small service businesses</h3>
+<p>A small service site often needs only a handful of sections: home, services, about, perhaps examples of work, a blog or guides area, and contact. The key decision is whether each service gets its own page. Usually it should, because a dedicated page can explain the service properly, answer specific questions and give search engines a clear page to show for that topic. A single "Services" page listing everything briefly can still exist as a hub that links to each one.</p>
+<h3>Online shops</h3>
+<p>Shops live or die by their category structure. Organise categories around how customers browse, which may be by product type, by room, by occasion or by brand. Products can often sit in more than one category, which is useful for browsing but needs care so the same product does not appear under several different URLs. Keep the number of top-level categories manageable, and use sub-categories and filters for the detail rather than creating a separate menu item for every variation.</p>
+<h3>Content-heavy sites</h3>
+<p>If you publish lots of guides or articles, group them into topics rather than relying on a single chronological feed. Topic hubs that introduce a subject and link to the detailed articles beneath it make it easier for readers to explore and help show search engines how your content fits together.</p>
+
+<h2>Testing whether your structure works</h2>
+<p>You do not need specialist tools to get useful feedback. A simple approach is tree testing: give a few people a text-only version of your menu and ask them where they would go to complete specific tasks, such as "find out whether you cover my area" or "return an item". Where people hesitate or choose the wrong section, the labels or grouping need another look.</p>
+<p>Your analytics can help too. Look at what people type into site search, which can reveal pages they expected to find in the menu, and at journeys where visitors bounce between sections without settling. Heatmap and session-recording tools can add detail, but be mindful of privacy and consent requirements if you use them.</p>
+
+<h2>Common structural problems</h2>
+<ul>
+<li><strong>Duplicate or overlapping pages:</strong> two pages covering nearly the same thing, often written years apart.</li>
+<li><strong>Catch-all pages:</strong> one long page trying to cover many unrelated topics.</li>
+<li><strong>Orphaned content:</strong> pages that exist but are not linked from anywhere sensible.</li>
+<li><strong>Jargon labels:</strong> menu items named after internal products or campaigns that customers do not recognise.</li>
+<li><strong>Navigation that differs by page:</strong> menus that change between sections, so people lose their bearings.</li>
+</ul>
+
+<h2>Maintaining structure over time</h2>
+<p>Structure tends to decay as new pages are added without a plan. Agree where new content should live before it is published, review the menu at least once a year, and retire or merge pages that no longer serve a purpose, redirecting their URLs to the closest equivalent. Keeping a simple sitemap document, even a spreadsheet, makes these decisions much easier.</p>
+
+<h2>Getting help</h2>
+<p>If you are planning a new site or reorganising an existing one, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> can help with structure as well as design and build. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many items should a main menu have?</h3>
+<p>There is no fixed number, but fewer is usually better. If your menu is getting long, that is often a sign some items belong in sub-menus, the footer or elsewhere.</p>
+<h3>Should I use a hamburger menu on desktop?</h3>
+<p>On desktop there is usually room to show the main sections, and visible options tend to be easier to use than hidden ones. Hamburger menus are more common on mobile, where space is tight.</p>
+<h3>Do breadcrumbs help SEO?</h3>
+<p>They can help search engines understand how pages relate and may appear in search results. Their main value, though, is helping visitors see where they are.</p>
+<h3>Will changing my navigation affect rankings?</h3>
+<p>It can, because navigation changes how pages are linked. Changing menu links alone is usually lower risk than changing URLs, but plan any restructure carefully and monitor afterwards.</p>
+<h3>Should my blog be in the main menu?</h3>
+<p>If it is a regular source of useful content for customers, yes. If it is rarely updated, a footer link may be more appropriate.</p>
+<h3>What is the difference between a sitemap and site structure?</h3>
+<p>Site structure is how your pages are organised and linked. A sitemap is a list of those pages, either a planning document for people or an XML file that helps search engines discover URLs. A good sitemap reflects a good structure but cannot fix a poor one.</p>
+<h3>How do I know if my navigation is confusing?</h3>
+<p>Watch a few people try to complete common tasks, review site search terms, and look for pages with unexpectedly low traffic that should be popular.</p>
+`,
+  },
 ];
