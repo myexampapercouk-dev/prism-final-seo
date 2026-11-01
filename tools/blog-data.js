@@ -38263,4 +38263,489 @@ module.exports = [
 <p>The standard quick edit option lets you change dates on posts one at a time from the posts list. For larger changes, plan carefully and test on a staging copy first.</p>
 `,
   },
+  {
+    slug: 'shopify-customer-segments',
+    seoTitle: 'Shopify Customer Segments: How to Use Them Well',
+    title: 'Shopify Customer Segments: Grouping Customers for Better Marketing',
+    description: 'How Shopify customer segments work, which groups are worth building first, and how to use them for email, discounts and reporting without overcomplicating it.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/ecommerce-discount-code-strategy/', '/blog/ecommerce-abandoned-cart-recovery/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Not every customer is the same. Someone who has bought from you five times over two years has different needs from someone who signed up last week and has not ordered yet. Shopify customer segments let you group customers based on their data so you can send more relevant messages, offer more targeted discounts and understand your customer base more clearly.</p>
+<p>This guide covers what segments are, which ones are usually worth creating first, how to use them in practice and the privacy points to keep in mind. Shopify updates its features regularly, so check the current admin for exact filter names and options.</p>
+
+<h2>What is a customer segment?</h2>
+<p>A customer segment is a saved group of customers who match a set of conditions. The conditions might relate to orders, such as the number placed or the amount spent, to dates, such as when they last bought, or to other details like location, tags and email subscription status.</p>
+<p>Segments in Shopify are dynamic. As customers place orders or their details change, they move in and out of segments automatically. That means a segment such as "customers who have not ordered in a while" stays current without you having to update it by hand.</p>
+<p>Shopify includes some ready-made segment templates, and you can build your own using filters. Segments can then be used in Shopify's own email and marketing tools, for customer-specific discounts, and for reviewing and exporting customer lists.</p>
+
+<h2>Why segments matter</h2>
+<p>Sending the same message to everyone is simple, but it rarely suits everyone. Segmentation lets you match messages to where a customer is in their relationship with your store. A welcome message for new subscribers, a thank-you for repeat buyers and a gentle reminder for lapsed customers all make more sense than one generic newsletter.</p>
+<p>Segments also help with understanding. Seeing how many customers have bought only once, or how many come from a particular region, can inform decisions about products, shipping and marketing priorities.</p>
+
+<h2>Segments worth building first</h2>
+<p>Start with a small set that maps to clear actions. Each one below has an obvious use.</p>
+<ul>
+<li><strong>Subscribers who have not purchased.</strong> People who joined your list but have not ordered may respond to helpful information about your products, delivery and returns.</li>
+<li><strong>First-time customers.</strong> A follow-up after a first order can encourage a second purchase, for example by suggesting complementary products.</li>
+<li><strong>Repeat customers.</strong> Customers who have bought several times are worth recognising, whether through early access to new products or simply a thank-you.</li>
+<li><strong>Lapsed customers.</strong> Customers who bought before but not recently can be reminded of what is new.</li>
+<li><strong>Customers by location.</strong> Useful if delivery options, events or offers differ by region.</li>
+<li><strong>Customers who bought a particular product or range.</strong> Helpful for refills, accessories, care guides or related launches.</li>
+</ul>
+<p>Decide what "repeat" and "lapsed" mean for your store. A business selling consumables that run out regularly will set different time windows from one selling furniture. Base the thresholds on your own order patterns rather than general rules of thumb.</p>
+
+<h2>Building a segment</h2>
+<p>The process is broadly the same for any segment.</p>
+<ol>
+<li><strong>Define the purpose.</strong> Write one sentence describing who should be in the segment and what you will do with it.</li>
+<li><strong>Choose the conditions.</strong> Combine filters such as order count, last order date, amount spent, location or subscription status.</li>
+<li><strong>Check the result.</strong> Look at the number of customers and open a few records to confirm they match what you expect.</li>
+<li><strong>Name it clearly.</strong> A name like "Bought twice or more, last order within six months" is clearer than "VIP".</li>
+<li><strong>Review it later.</strong> Revisit segments periodically to make sure they still reflect your intentions.</li>
+</ol>
+<p>Keep conditions as simple as possible. Very narrow segments can end up with only a handful of customers, which may not justify a separate campaign.</p>
+
+<h2>Using segments for email marketing</h2>
+<p>Segments are most often used to decide who receives which email. Shopify's own email tools can send to segments, and automations can be triggered by customer behaviour. Typical uses include welcome sequences, post-purchase follow-ups and win-back messages.</p>
+<p>Relevance is the goal. A repeat customer does not need a basic introduction to your brand, and a new subscriber may not yet care about loyalty perks. Matching content to the segment respects the customer's time and can make your emails more welcome. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers planning campaigns more broadly.</p>
+<p>Segments also support recovery flows. Customers who started checkout but did not finish can receive a reminder, which we cover in our article on <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a>.</p>
+
+<h2>Using segments for discounts</h2>
+<p>Shopify lets you limit some discounts to specific customer segments. That can be useful for rewarding loyal customers or encouraging lapsed customers to return without offering the same discount to everyone.</p>
+<p>Be thoughtful about discounting. Regularly discounting to the same group can train them to wait for offers. A clear plan for when and why you discount helps protect margins. See our <a href="/blog/ecommerce-discount-code-strategy/">discount code strategy</a> guide for more on this.</p>
+
+<h2>Segments, tags and other customer data</h2>
+<p>Customer tags can be used as segment conditions, which is handy for groups that cannot be defined by order data alone, such as trade customers or event attendees. Keep tagging consistent: decide on a short list of tags and how they are written, and avoid creating near-duplicates.</p>
+<p>The quality of your segments depends on the quality of your data. Duplicate customer records, inconsistent tags or missing subscription statuses all reduce accuracy. A periodic tidy-up pays off. Similar principles apply to product data, which we cover in our guide to <a href="/blog/shopify-product-tags/">Shopify product tags</a>.</p>
+
+<h2>Privacy and consent</h2>
+<p>Segmentation uses personal data, so it must be handled responsibly. In the UK, sending marketing emails is generally subject to rules about consent and the right to opt out, alongside wider data protection law. The detail can depend on your circumstances, so check current guidance from the ICO or take advice if you are unsure.</p>
+<p>Some practical habits help:</p>
+<ul>
+<li>Only send marketing emails to customers whose subscription status shows they can receive them.</li>
+<li>Make unsubscribing easy and honour it promptly.</li>
+<li>Avoid segmenting on sensitive information you do not need.</li>
+<li>Explain in your privacy policy how you use customer data for marketing.</li>
+<li>Limit who on your team can export customer lists, and store exports securely.</li>
+</ul>
+<p>Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts</a> covers controlling who can access customer information.</p>
+
+<h2>Common segmentation mistakes</h2>
+<ul>
+<li><strong>Building segments with no plan to use them.</strong> A segment that never receives a message or informs a decision is just clutter in the admin.</li>
+<li><strong>Overlapping groups without rules.</strong> A customer can belong to several segments at once. If two campaigns target overlapping groups in the same week, the same person may receive both. Decide which message takes priority.</li>
+<li><strong>Ignoring segment size.</strong> Check how many customers a segment holds before planning a campaign around it.</li>
+<li><strong>Forgetting to update thresholds.</strong> As your range and buying patterns change, the definitions of repeat or lapsed customers may need to change too.</li>
+<li><strong>Relying on incomplete data.</strong> Guest checkouts, imported lists and duplicate records can all leave gaps, so treat segment counts as a guide rather than an exact figure.</li>
+</ul>
+
+<h2>Measuring whether segments help</h2>
+<p>Segments are only worthwhile if they lead to better decisions. Track simple measures for each campaign or automation, such as orders and revenue attributed to it, unsubscribes and how many customers move from one segment to another over time. Compare results with your previous, unsegmented approach where you can.</p>
+<p>Be cautious about drawing conclusions from small numbers. A segment with a few dozen customers can produce results that swing widely from one send to the next. Look at trends over several campaigns before changing direction.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK ecommerce brands get more from their Shopify data, from store setup to customer segmentation and email planning. If your customer list feels like one big group, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help you build a simple, useful segment structure. <a href="/contact/">Get in touch</a> to talk about your store.</p>
+
+<h2>FAQs</h2>
+<h3>Do Shopify customer segments update automatically?</h3>
+<p>Yes. Segments are based on conditions, so customers move in and out as their data changes.</p>
+<h3>How many segments should a store have?</h3>
+<p>There is no set number. Start with a few segments that each support a clear action, and add more only when you have a specific use for them.</p>
+<h3>Can I give a discount to one segment only?</h3>
+<p>Shopify allows some discounts to be limited to specific customer segments. Check the current discount settings in your admin for the options available.</p>
+<h3>Can I email everyone in a segment?</h3>
+<p>Only customers who have agreed to receive marketing should get marketing emails. Check subscription status and current UK guidance on direct marketing.</p>
+<h3>What is the difference between a segment and a customer tag?</h3>
+<p>A tag is a label attached to a customer record. A segment is a group defined by conditions, which can include tags along with order and other data.</p>
+`,
+  },
+  {
+    slug: 'shopify-shipping-profiles',
+    seoTitle: 'Shopify Shipping Profiles: A Practical Setup Guide',
+    title: 'Shopify Shipping Profiles: How to Set Different Rates for Different Products',
+    description: 'How Shopify shipping profiles work, when you need more than the general profile, and how to set up zones and rates for bulky, fragile or local-only products.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/online-shop-shipping-rates-uk/', '/blog/shopify-store-setup-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Shipping is one of the settings that quietly shapes whether a Shopify store makes money. If a heavy item ships at the same rate as a greetings card, you either overcharge for small orders or absorb a loss on large ones. Shopify shipping profiles exist to solve exactly that problem: they let you group products and give each group its own zones and rates.</p>
+<p>This guide explains what shipping profiles are, when a store actually needs them, how to plan a sensible structure and how to check the results before customers see them. Shopify changes its admin from time to time, so menu names may differ slightly from what is described here, but the underlying ideas stay the same.</p>
+
+<h2>What is a Shopify shipping profile?</h2>
+<p>A shipping profile is a set of rules that connects three things: a group of products, the locations those products ship from, and the zones and rates customers are offered at checkout. Every store has a general profile, which covers all products by default. You can then create custom profiles for products that need different treatment.</p>
+<p>Inside each profile you define shipping zones, which are groups of countries or regions, and the rates available in each zone. A rate might be a flat price, a price that changes with order weight or value, or a calculated rate from a carrier where your plan and setup support that.</p>
+<p>The key idea is that a product can only belong to one profile at a time. If you move a product into a custom profile, it stops using the general profile's rates.</p>
+
+<h2>When do you need more than one profile?</h2>
+<p>Many small stores run perfectly well on the general profile alone. Adding profiles adds complexity, so it is worth being clear about why you are doing it. Common reasons include:</p>
+<ul>
+<li><strong>Bulky or heavy items.</strong> Furniture, large prints or multipacks may need a courier service with a higher rate than the rest of the catalogue.</li>
+<li><strong>Fragile goods.</strong> Glass, ceramics or framed artwork may need extra packaging and a tracked, insured service.</li>
+<li><strong>Restricted destinations.</strong> Some products cannot be sent to certain countries, or you may choose to sell them only within the UK.</li>
+<li><strong>Local-only products.</strong> Fresh food or items that only make sense for delivery nearby may need their own rules.</li>
+<li><strong>Different fulfilment locations.</strong> If some products ship from a warehouse and others from your own premises, profiles help reflect that.</li>
+<li><strong>Free shipping on selected items.</strong> You may want to offer free delivery on a particular range without extending it to everything.</li>
+</ul>
+<p>If none of these apply, a single well-planned general profile is usually easier to manage and less likely to produce surprises at checkout.</p>
+
+<h2>Planning your profile structure</h2>
+<p>Before touching the settings, write down how your products actually ship. A simple table works well: list each product type, the packaging it needs, the services you use and where it can be sent. Patterns usually appear quickly, and those patterns become your profiles.</p>
+<p>Aim for as few profiles as you can. Each extra profile is another set of zones and rates to maintain, and another place where a price change can be forgotten. If two groups of products use the same carrier services and similar prices, they can probably share a profile.</p>
+<p>It also helps to agree naming conventions. Clear names such as "Large items courier" or "UK only fresh" make it obvious to anyone on the team what a profile is for, months after it was set up.</p>
+
+<h2>Setting up zones and rates</h2>
+<p>Within each profile, zones decide where you ship and rates decide what customers pay. A typical UK store might have a UK zone, a Europe zone and a rest of world zone, but your zones should follow your real carrier pricing rather than a template.</p>
+<h3>Flat rates</h3>
+<p>Flat rates are simple to understand and easy for customers to predict. They work best when products in the profile are similar in size and weight. Many stores offer a standard option and a faster option, each at a fixed price.</p>
+<h3>Weight-based and price-based rates</h3>
+<p>Conditional rates change depending on the basket. Weight-based rates need accurate product weights, so check your product data before relying on them. Price-based rates are often used to offer free delivery above an order value, which can encourage larger baskets.</p>
+<h3>Calculated rates</h3>
+<p>Some plans and setups allow live rates from carriers. These can be more accurate, but they depend on correct weights and package dimensions, and the figures customers see can vary. Check Shopify's current documentation to confirm what your plan supports.</p>
+<p>For a broader look at choosing what to charge, see our guide to <a href="/blog/online-shop-shipping-rates-uk/">online shop shipping rates in the UK</a>.</p>
+
+<h2>How mixed baskets are charged</h2>
+<p>This is where shipping profiles most often catch store owners out. When a customer buys products from more than one profile in a single order, Shopify combines the applicable rates rather than choosing one. That means a basket containing a small accessory and a large item can show a total shipping cost made up of both profiles' charges.</p>
+<p>Whether that outcome is fair depends on your products. If the items genuinely ship separately, combined charges may be right. If they would go in one box, customers may see a higher price than the real cost. The only reliable way to know is to test realistic mixed baskets and look at the final figure at checkout.</p>
+<p>If combined charges are producing awkward totals, consider whether the profiles really need to be separate, or whether a free delivery threshold or adjusted rates would give a cleaner result.</p>
+
+<h2>Locations and fulfilment</h2>
+<p>Profiles connect to the locations products ship from. If you hold stock in more than one place, each location in a profile can have its own zones and rates. This matters for stores that use a third-party warehouse for some lines and pack others in-house.</p>
+<p>Keep your locations and inventory accurate. If a product is assigned to a location that does not actually stock it, orders can be routed in confusing ways. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> covers keeping stock data tidy.</p>
+
+<h2>Communicating shipping to customers</h2>
+<p>Good shipping setup is only half the job. Customers want to know delivery costs and timings before they reach checkout, and unexpected charges at the last step can lead people to abandon a purchase. Make sure your shipping information page explains your options in plain language, and mention any special delivery arrangements on the relevant product pages.</p>
+<p>If certain items are sent separately or by courier, say so on the product page. That way, a higher combined charge in a mixed basket feels expected rather than surprising. Our article on <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a> looks at other ways to reduce drop-off at checkout.</p>
+
+<h2>Testing before you go live</h2>
+<p>Every change to shipping profiles should be followed by a few test checkouts. You do not need to complete payment, just get far enough to see the shipping options and totals. A useful test list includes:</p>
+<ol>
+<li>A single small item to a UK address.</li>
+<li>A single item from each custom profile to a UK address.</li>
+<li>A mixed basket combining products from different profiles.</li>
+<li>A basket just below and just above any free delivery threshold.</li>
+<li>An international address in each zone you serve.</li>
+<li>An address in a country you do not ship to, to confirm checkout blocks it.</li>
+</ol>
+<p>Note the results somewhere the team can see. When rates change later, rerun the same tests so you can compare.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li><strong>Forgetting new products.</strong> New products usually land in the general profile. If they belong elsewhere, move them as part of your product launch checklist.</li>
+<li><strong>Missing product weights.</strong> Weight-based and calculated rates depend on accurate weights. Blank or placeholder values lead to wrong prices.</li>
+<li><strong>Empty zones.</strong> A profile with no rate for a zone means those products cannot be bought by customers in that region, which may not be intended.</li>
+<li><strong>Too many profiles.</strong> Splitting the catalogue finely can make mixed baskets expensive and maintenance hard.</li>
+<li><strong>Not reviewing after carrier price changes.</strong> Carriers update their prices, so your rates need checking periodically.</li>
+</ul>
+
+<h2>Keeping profiles maintainable</h2>
+<p>Treat shipping as part of regular store housekeeping. Review profiles when you add a new product range, change carriers or start selling to new countries. A short written note describing each profile and why it exists will save time for anyone who inherits the store later.</p>
+<p>If you sell internationally, consider how shipping fits with currency, duties and local pricing. Those decisions are linked, and it is worth planning them together rather than one at a time. Tax and customs rules change, so check current guidance or speak to an adviser about anything that affects what you must charge or declare.</p>
+<p>Shipping also interacts with how you organise the catalogue. Clear <a href="/blog/shopify-collections-structure/">collection structure</a> and consistent <a href="/blog/shopify-product-tags/">product tags</a> make it easier to spot which products belong in which profile when you audit the setup.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK ecommerce brands set up and tidy Shopify stores, including shipping, product data and checkout. If your shipping totals look wrong or your profiles have grown hard to manage, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review the setup and suggest a simpler structure. You can also <a href="/contact/">get in touch</a> to talk through your store.</p>
+
+<h2>FAQs</h2>
+<h3>Can a product belong to more than one shipping profile?</h3>
+<p>No. Each product sits in one profile at a time. Moving it into a custom profile removes it from the general profile's rates.</p>
+<h3>Do I need shipping profiles for a small store?</h3>
+<p>Not necessarily. If your products are similar in size and ship the same way, the general profile alone may be all you need. Add custom profiles only when there is a clear reason.</p>
+<h3>Why is shipping higher when customers buy items from different profiles?</h3>
+<p>Shopify combines the rates from each profile in a mixed basket. Test these baskets and adjust your profiles or rates if the totals do not reflect your real costs.</p>
+<h3>Can I offer free shipping on only some products?</h3>
+<p>Yes. Placing those products in their own profile with a free rate is one way to do it. Check how mixed baskets behave afterwards.</p>
+<h3>How often should I review shipping profiles?</h3>
+<p>Review them whenever you change carriers, add a product range or start selling to new regions, and periodically in case carrier prices have changed.</p>
+`,
+  },
+  {
+    slug: 'wordpress-categories-and-tags',
+    seoTitle: 'WordPress Categories and Tags: How to Use Them',
+    title: 'WordPress Categories and Tags: Organising Your Blog for Readers and Search',
+    description: 'The difference between WordPress categories and tags, how to plan a tidy structure, and how to avoid thin archive pages that confuse visitors and search.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/wordpress-block-editor-guide/', '/services/seo-geo/'],
+    body: `
+<p>As a blog grows, organisation starts to matter. Visitors want to find more posts on the topic they care about, and search engines need to understand how your content fits together. WordPress gives you two built-in tools for this: categories and tags. Used well, they make a blog easier to browse. Used carelessly, they create clutter and dozens of near-empty pages.</p>
+<p>This guide explains the difference between categories and tags, how to plan a sensible structure, what each choice means for SEO and how to tidy up a blog that has become disorganised.</p>
+
+<h2>What are categories?</h2>
+<p>Categories are the main sections of your blog. Think of them like the chapters of a book or the departments of a shop. Every post in WordPress must have at least one category, which is why posts without one are placed in the default category, often called "Uncategorised" until you rename it.</p>
+<p>Categories can be hierarchical, so you can create subcategories beneath a parent. A business blog might have a "Marketing" category with subcategories for email and social media, for example. Use this sparingly: deep hierarchies can make navigation harder rather than easier.</p>
+
+<h2>What are tags?</h2>
+<p>Tags are optional labels that describe specific details of a post. If categories are chapters, tags are closer to the index at the back of the book. A post in a "Guides" category might be tagged with the particular product, platform or theme it covers.</p>
+<p>Tags are not hierarchical, and a post can have several of them. Their value comes from connecting posts that share a detail across different categories.</p>
+
+<h2>Categories versus tags at a glance</h2>
+<table>
+<thead><tr><th></th><th>Categories</th><th>Tags</th></tr></thead>
+<tbody>
+<tr><td>Purpose</td><td>Broad sections of the blog</td><td>Specific details within posts</td></tr>
+<tr><td>Required</td><td>Yes, at least one per post</td><td>No</td></tr>
+<tr><td>Hierarchy</td><td>Can have parent and child categories</td><td>Flat, no hierarchy</td></tr>
+<tr><td>How many</td><td>A small, stable set</td><td>More flexible, but used consistently</td></tr>
+<tr><td>Typical use</td><td>Main navigation and blog sections</td><td>Linking related posts on a shared detail</td></tr>
+</tbody>
+</table>
+
+<h2>Planning your categories</h2>
+<p>The best category structures are decided before a blog grows, though it is never too late to improve one. Start by listing the main topics you plan to write about consistently. These should reflect the questions your customers ask and the services or products you offer.</p>
+<ul>
+<li><strong>Keep the list short.</strong> A handful of clear categories is easier for visitors to understand than a long list.</li>
+<li><strong>Make each one distinct.</strong> If two categories overlap heavily, combine them.</li>
+<li><strong>Use plain names.</strong> Choose the words your readers would use, not internal jargon.</li>
+<li><strong>Give each post one main category.</strong> Assigning many categories to every post blurs the structure.</li>
+<li><strong>Rename the default category.</strong> "Uncategorised" looks unfinished; change it to something meaningful.</li>
+</ul>
+<p>Categories often appear in menus and on the blog home page. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> explains how these sections fit into the wider site.</p>
+
+<h2>Using tags well</h2>
+<p>Tags are where blogs most easily become messy. Because they are quick to add, it is tempting to type new ones on every post. Over time this creates long lists of tags used once, slight variations of the same word and tags that duplicate categories.</p>
+<p>A few habits keep tags useful:</p>
+<ol>
+<li><strong>Keep an agreed list.</strong> Write down the tags you use and share them with everyone who publishes.</li>
+<li><strong>Reuse before creating.</strong> Check whether a suitable tag already exists before adding a new one.</li>
+<li><strong>Be consistent with wording.</strong> Decide on singular or plural and stick to it.</li>
+<li><strong>Do not repeat categories.</strong> A tag with the same name as a category adds nothing.</li>
+<li><strong>Only tag what you will cover again.</strong> A tag is useful when several posts will share it.</li>
+</ol>
+<p>Some blogs do not need tags at all. If your categories are clear and your posts link to each other well, skipping tags is a perfectly reasonable choice.</p>
+
+<h2>Categories, tags and SEO</h2>
+<p>Each category and tag in WordPress creates an archive page listing the posts assigned to it. These pages can be useful entry points: a well-organised category page can help visitors and search engines understand your expertise on a subject.</p>
+<p>Problems arise when there are many archive pages with very little on them. A tag used on a single post creates a page that mostly repeats a snippet of that post. Lots of these pages can add little value and make it harder for search engines to focus on your best content.</p>
+<p>Practical steps include:</p>
+<ul>
+<li>Keep categories and tags to those with a meaningful number of posts.</li>
+<li>Add a short introduction to important category pages so they offer more than a list of links.</li>
+<li>Consider whether thin tag archives should be kept out of search results, using your SEO settings. Take advice if you are unsure, as this affects how your site is indexed.</li>
+<li>Link from posts to relevant category pages and related posts to strengthen the structure.</li>
+</ul>
+<p>Our <a href="/services/seo-geo/">SEO services</a> include reviewing blog structure as part of wider content and technical work.</p>
+
+<h2>Displaying categories and tags on your site</h2>
+<p>How categories and tags appear depends on your theme. Many themes show the category above or below the post title and list tags at the end of a post. Block themes let you control this in the site editor, where you can add or remove the blocks that display post categories and tags in your templates.</p>
+<p>Think about what helps the reader. A visible category link gives visitors a simple way to browse more posts on the same subject. A long row of tags at the bottom of every post, on the other hand, can look cluttered and rarely gets used. If your tags are not adding value for readers, there is no obligation to display them.</p>
+<p>Category pages themselves deserve attention. Many themes show only a title and a list of posts. Adding a short description explaining what the category covers, and linking to the most useful posts within it, turns a basic archive into a helpful landing page. WordPress lets you write a description for each category, and many themes display it at the top of the archive.</p>
+
+<h2>Category and tag URLs</h2>
+<p>By default, WordPress includes a base word in category and tag addresses, such as "category" or "tag". You can change these bases in the permalink settings; see our guide to <a href="/blog/wordpress-permalink-settings/">WordPress permalink settings</a>. Making changes on an established site affects existing URLs, so plan redirects before changing anything, otherwise old links may lead to error pages. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers redirect planning.</p>
+
+<h2>Tidying up a messy blog</h2>
+<p>If your blog already has too many categories or tags, a structured clean-up helps.</p>
+<ol>
+<li><strong>Export a list.</strong> Note every category and tag with the number of posts in each.</li>
+<li><strong>Decide the target structure.</strong> Choose the categories you want to keep and the tags worth keeping.</li>
+<li><strong>Merge and reassign.</strong> Move posts from unwanted categories or tags into the ones you are keeping.</li>
+<li><strong>Redirect removed archives.</strong> Point removed category or tag pages that had links or visits to the most relevant remaining page.</li>
+<li><strong>Update menus and internal links.</strong> Check that navigation does not point to removed archives.</li>
+<li><strong>Document the rules.</strong> Write down how categories and tags should be used from now on.</li>
+</ol>
+<p>Take a backup before bulk changes, and work through them steadily rather than all at once on a large blog.</p>
+
+<h2>Custom taxonomies</h2>
+<p>Categories and tags are both taxonomies, which is the WordPress term for ways of grouping content. Sites with more complex content, such as a directory, a portfolio or a resource library, sometimes use custom taxonomies alongside custom post types. Our guide to <a href="/blog/wordpress-custom-post-types/">WordPress custom post types</a> covers when that extra structure is worth it. For a typical business blog, categories and tags are usually enough.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK businesses plan and organise WordPress blogs so they are easier to browse and easier for search engines to understand. If your blog has grown untidy, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> and <a href="/services/seo-geo/">SEO</a> teams can help design a clean structure and carry out the clean-up. <a href="/contact/">Contact us</a> to discuss your site.</p>
+
+<h2>FAQs</h2>
+<h3>Should I use categories or tags?</h3>
+<p>Use categories for every post to define its main section. Tags are optional and best used for specific details shared by several posts.</p>
+<h3>How many categories should a blog have?</h3>
+<p>There is no fixed number. Aim for a small set of distinct topics that you will write about regularly.</p>
+<h3>Can a post have more than one category?</h3>
+<p>Yes, but giving each post one main category usually keeps the structure clearer.</p>
+<h3>Are tag pages bad for SEO?</h3>
+<p>Not in themselves, but many thin tag pages with only one or two posts can add little value. Keep tags purposeful and consider your indexing settings.</p>
+<h3>What happens to posts if I delete a category?</h3>
+<p>Posts left with no category are moved to the default category. Reassign posts to the right category before deleting, and redirect the old archive if needed.</p>
+`,
+  },
+  {
+    slug: 'wordpress-image-sizes-and-thumbnails',
+    seoTitle: 'WordPress Image Sizes and Thumbnails Explained',
+    title: 'WordPress Image Sizes and Thumbnails: How to Get Them Right',
+    description: 'How WordPress creates image sizes and thumbnails, how to choose the right upload dimensions, and how to keep images fast, tidy and sharp on every screen.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-image-optimisation/', '/blog/wordpress-hosting-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Images make a website feel complete, but they are also one of the easiest ways to slow it down or make it look untidy. On WordPress, a lot happens behind the scenes every time you upload a picture. Understanding how WordPress handles image sizes and thumbnails helps you choose better upload dimensions, avoid blurry or stretched images and keep your media library under control.</p>
+<p>This guide explains how image sizes work in WordPress, what featured images and thumbnails are, how themes affect the process and what to check if images look wrong.</p>
+
+<h2>What happens when you upload an image</h2>
+<p>When you add an image to the media library, WordPress keeps the original file and creates several resized copies. By default these include a thumbnail, a medium size and a large size, along with some additional intermediate sizes used for responsive images. Your theme, and sometimes other components on the site, can register extra sizes of their own.</p>
+<p>The point of this is efficiency. A small thumbnail in a blog archive does not need a huge photograph behind it. By serving a resized copy, WordPress can show an image that suits the space without making the visitor download far more data than necessary.</p>
+<p>WordPress also scales down very large uploads by default, keeping the original but using a reduced version as the main file. This protects sites from enormous camera images being served directly, though it is still better to resize before uploading.</p>
+
+<h2>The default image sizes</h2>
+<p>You can see and change the main default sizes under Settings, then Media, in the WordPress dashboard.</p>
+<ul>
+<li><strong>Thumbnail.</strong> A small image, often cropped to a square, used in places such as galleries and some archive layouts.</li>
+<li><strong>Medium.</strong> A moderate size that keeps the original proportions, often used within post content.</li>
+<li><strong>Large.</strong> A bigger version for wide content areas, also keeping original proportions.</li>
+</ul>
+<p>The thumbnail setting includes an option to crop to exact dimensions. When cropping is on, WordPress trims the image to fit the set width and height, which keeps grids neat but can cut off part of the picture. When it is off, the image keeps its proportions and fits within the dimensions instead.</p>
+
+<h2>Featured images and post thumbnails</h2>
+<p>A featured image is the main image chosen to represent a post or page. Themes use it in different ways: at the top of a post, in blog archive cards, in related post sections and sometimes when the page is shared on social media. In the code, WordPress refers to featured images as post thumbnails, which is why the two terms are often used interchangeably.</p>
+<p>Because each theme displays featured images differently, the best upload size depends on your theme. Check where featured images appear and the shape they are shown in. If archive cards display a wide landscape crop, uploading square or portrait images will lead to awkward cropping.</p>
+<p>Consistency matters here. Agreeing a standard shape and minimum size for featured images, and sharing it with everyone who publishes content, keeps archive pages looking tidy.</p>
+
+<h2>How themes add image sizes</h2>
+<p>Many themes register their own sizes for specific layouts, such as hero banners, product grids or card designs. These sizes are created alongside the defaults every time you upload. That is helpful when the sizes are used, but if you have changed theme several times, the site may still carry sizes from previous themes and settings, creating more files than needed.</p>
+<p>When choosing or changing a theme, ask what image sizes it uses and what dimensions it expects for key images. A theme that documents this clearly is easier to work with. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains how theme customisations are usually managed.</p>
+
+<h2>Responsive images</h2>
+<p>WordPress includes responsive image markup automatically for images added through the editor. This tells the browser about the different sizes available so it can pick an appropriate one for the visitor's screen. A phone can download a smaller file while a large desktop screen gets a bigger one.</p>
+<p>This works best when the sizes WordPress creates actually match how images are displayed. If every size is much smaller than the space on screen, images may appear soft. If the original upload is small, there may be no larger size available at all.</p>
+
+<h2>Choosing the right upload size</h2>
+<p>There is no single correct dimension for every site, but a few principles help.</p>
+<ol>
+<li><strong>Work out the largest display size.</strong> Find the widest space an image will occupy in your layout, then allow extra for high-density screens.</li>
+<li><strong>Resize before uploading.</strong> Uploading straight from a camera or phone creates very large originals that waste storage.</li>
+<li><strong>Compress sensibly.</strong> Reducing file size without visible quality loss is one of the simplest speed improvements.</li>
+<li><strong>Use the right format.</strong> Photographs and graphics with flat colour suit different formats, and modern formats can reduce file size. Check what your hosting and theme support.</li>
+<li><strong>Name files clearly.</strong> Descriptive file names make the media library easier to search.</li>
+</ol>
+<p>For more detail on compression, formats and alt text, see our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a>.</p>
+
+<h2>Changing sizes on an existing site</h2>
+<p>When you change image size settings or switch to a theme with different sizes, WordPress does not go back and resize images that were already uploaded. Only new uploads use the new settings. Older images may then appear blurry, stretched or awkwardly cropped in the new layout.</p>
+<p>The usual fix is to regenerate image sizes for existing uploads. This creates new resized copies from the original files. On a large media library this can take time and use server resources, so it is sensible to run it outside busy periods, take a backup first and check the results on a staging site if possible. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> covers backups in more detail.</p>
+
+<h2>Keeping the media library tidy</h2>
+<p>Every upload can produce several files, so a media library grows faster than the number of images suggests. Over time, unused images and sizes nobody needs can make backups slower and storage heavier. Periodically review the library, remove images that are genuinely unused and avoid uploading duplicates.</p>
+<p>Be careful when deleting. An image that looks unused may still appear in an older post, a widget or a template. Check before removing anything, and keep a backup. Our <a href="/blog/wordpress-media-library-organisation/">guide to WordPress media library organisation</a> has more on organising uploads.</p>
+
+<h2>Alt text and accessibility</h2>
+<p>Image sizes affect how pictures look, but alt text affects whether everyone can understand them. Alt text is a short written description that screen readers announce and that appears if an image fails to load. It is added per image in the media library or the editor, not per size, so each resized copy shares the same description.</p>
+<p>Write alt text that describes what matters about the image in context. Decorative images that add no information can usually have empty alt text so screen readers skip them. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers this in more depth.</p>
+
+<h2>Troubleshooting common image problems</h2>
+<h3>Images look blurry</h3>
+<p>The displayed size may be larger than the file being served, or the original upload may be too small. Check the original dimensions and whether regeneration is needed after a theme change.</p>
+<h3>Images are cropped badly</h3>
+<p>The theme or thumbnail setting may be cropping to a fixed shape. Upload images closer to the expected proportions, or adjust the crop setting where appropriate.</p>
+<h3>Pages load slowly</h3>
+<p>Large originals, missing compression or images served at sizes much larger than needed are possible causes. Hosting also plays a part; see our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting in the UK</a>.</p>
+<h3>Featured images look inconsistent</h3>
+<p>Different shapes and sizes uploaded by different people lead to uneven archive pages. Agree a standard and share it with your editors.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and looks after WordPress sites for UK businesses, including theme setup, image handling and site speed. If your images look soft, crop awkwardly or slow your pages down, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review your setup. <a href="/contact/">Get in touch</a> to discuss your site.</p>
+
+<h2>FAQs</h2>
+<h3>What size should I upload images to WordPress?</h3>
+<p>It depends on the largest space the image appears in on your theme. Resize to suit that space, allowing for high-density screens, rather than uploading full camera files.</p>
+<h3>What is the difference between a featured image and a thumbnail?</h3>
+<p>A featured image is the main image chosen for a post. WordPress calls it a post thumbnail in code, and themes display it in various sizes, including the small thumbnail size.</p>
+<h3>Why do my old images look wrong after changing theme?</h3>
+<p>Existing images keep the sizes created when they were uploaded. Regenerating image sizes creates new copies that match the new theme.</p>
+<h3>Can I stop WordPress creating so many image sizes?</h3>
+<p>Some sizes can be changed or disabled, but themes may rely on them. Check what your theme uses before removing any sizes, ideally with developer help.</p>
+<h3>Does WordPress compress images automatically?</h3>
+<p>WordPress applies some compression to resized copies, but compressing images before upload usually gives you more control over quality and file size.</p>
+`,
+  },
+  {
+    slug: 'wordpress-site-editor-templates',
+    seoTitle: 'WordPress Templates and Template Parts Explained',
+    title: 'WordPress Site Editor Templates and Template Parts: A Practical Guide',
+    description: 'How templates, template parts and patterns work in the WordPress site editor, when to use each, and how to edit them safely without breaking your layout.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-child-themes/', '/services/website-ecommerce-development/'],
+    body: `
+<p>If your WordPress site uses a block theme, much of its layout is no longer locked away in theme files. The site editor lets you change headers, footers, blog layouts and archive pages directly in the dashboard. That is powerful, but it also introduces terms that can be confusing: templates, template parts, patterns and synced patterns all sound similar and do different jobs.</p>
+<p>This guide explains each one in plain language, when to use which, and how to make changes without accidentally altering pages across the whole site. WordPress continues to develop the site editor, so labels and menu locations may change over time, but the concepts below have stayed broadly consistent.</p>
+
+<h2>What is the site editor?</h2>
+<p>The site editor is the part of WordPress used to design the overall structure of a site built with a block theme. Instead of editing a single page, you edit the layouts that pages and posts are displayed in. It uses the same blocks as the post editor, so if you are comfortable building a page with blocks, the site editor will feel familiar.</p>
+<p>Classic themes do not use the site editor in the same way. If your theme is a classic theme, layouts are usually controlled through theme files, the customiser and widgets. Check which kind of theme you have before following any site editor guidance. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the basics of working with blocks.</p>
+
+<h2>Templates: layouts for whole types of page</h2>
+<p>A template defines how a type of content is displayed. A block theme typically includes templates for the front page, single blog posts, pages, archives, search results and the 404 page, among others. When a visitor opens a blog post, WordPress chooses the matching template and fills it with that post's content.</p>
+<p>Because templates apply to every item of a type, a change to the single post template affects every blog post on the site. That is exactly what you want when adjusting a layout, and exactly what you need to be careful about when experimenting.</p>
+<h3>Custom templates</h3>
+<p>You can also create custom templates and assign them to individual pages or posts. A landing page without the usual sidebar, or a page with a full-width layout, are typical examples. Custom templates are useful, but each one is another layout to maintain, so create them only when a page genuinely needs a different structure.</p>
+<h3>The template hierarchy</h3>
+<p>WordPress follows a set order when choosing a template, moving from the most specific option to the most general. A template for one specific category, for instance, would be used ahead of the general archive template. Understanding this helps when a page does not look the way you expect: often a more specific template is being used instead of the one you edited.</p>
+
+<h2>Template parts: reusable sections of a layout</h2>
+<p>Template parts are sections used inside templates. The header and footer are the most familiar examples. Rather than building the header separately in every template, each template includes the same header template part. Edit the header once and the change appears everywhere it is used.</p>
+<p>You can create other template parts too, such as a sidebar, a newsletter sign-up area or a call to action band that appears at the bottom of several templates. The rule of thumb is simple: if a section of layout repeats across templates and should always stay identical, it is a good candidate for a template part.</p>
+<p>Navigation sits inside the header template part in many themes. If you are adjusting menu links, our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> explains how navigation is managed.</p>
+
+<h2>Patterns: reusable content blocks</h2>
+<p>Patterns are groups of blocks you can insert into pages, posts or templates. A pattern might be a testimonial layout, a pricing table design or a team section. There are two broad types to understand.</p>
+<ul>
+<li><strong>Unsynced patterns</strong> act as starting points. When inserted, the blocks become independent copies, so editing one copy does not change the others.</li>
+<li><strong>Synced patterns</strong> stay linked. Editing a synced pattern updates every place it appears, similar to how template parts behave.</li>
+</ul>
+<p>Patterns are for content, while template parts are for layout structure. A useful test is to ask where the item lives. If it belongs to the frame around content, such as the header, it is a template part. If it is something an editor drops into the content area of a page, it is a pattern.</p>
+
+<h2>Choosing between templates, template parts and patterns</h2>
+<table>
+<thead><tr><th>Need</th><th>Best fit</th></tr></thead>
+<tbody>
+<tr><td>Change how all blog posts are laid out</td><td>Single post template</td></tr>
+<tr><td>Give one landing page a different layout</td><td>Custom template</td></tr>
+<tr><td>Update the header across the site</td><td>Header template part</td></tr>
+<tr><td>Reuse a call to action design on several pages, with different wording</td><td>Unsynced pattern</td></tr>
+<tr><td>Show identical contact details in several places and update them once</td><td>Synced pattern</td></tr>
+</tbody>
+</table>
+<p>Choosing the right tool keeps the site easier to manage. Using templates for content, or copying the same header into many templates by hand, creates more places for inconsistencies to creep in.</p>
+
+<h2>Editing safely</h2>
+<p>Because template changes can affect many pages at once, it pays to work methodically.</p>
+<ol>
+<li><strong>Take a backup first.</strong> Before larger changes, make sure you have a recent backup you know how to restore. See our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a>.</li>
+<li><strong>Check which template is in use.</strong> Confirm you are editing the template that actually controls the page you are looking at.</li>
+<li><strong>Use a staging site for big changes.</strong> Testing structural changes away from the live site reduces the risk of visitors seeing a broken layout.</li>
+<li><strong>Review on mobile.</strong> Layout changes can look different on small screens, so preview at several widths.</li>
+<li><strong>Write down what you changed.</strong> A short log makes it far easier to undo or explain changes later.</li>
+</ol>
+<h3>Resetting templates</h3>
+<p>When you edit a theme's template in the site editor, WordPress saves your customised version in the database rather than changing the theme files. In most cases you can clear those customisations and return to the theme's original version. This is a useful safety net, but resetting removes your changes, so note anything you want to keep first.</p>
+<h3>Theme updates</h3>
+<p>Because customised templates are stored separately, a theme update may not change templates you have already edited. That protects your work, but it also means you might miss improvements the theme author has made. Review theme update notes and compare layouts when updating. If you need deeper changes, a <a href="/blog/wordpress-child-themes/">child theme</a> may still be appropriate.</p>
+
+<h2>Templates and SEO</h2>
+<p>Templates shape the structure that search engines see on every page of a type, so they influence SEO more than many single-page edits. A few points are worth checking:</p>
+<ul>
+<li>Each page should have one clear main heading. Check that templates do not add a second heading at the same level by mistake.</li>
+<li>Blog post templates should show useful information such as the publish or updated date and the author or brand where appropriate.</li>
+<li>Archive templates should give visitors a clear route to individual posts, with readable titles and excerpts.</li>
+<li>Avoid heavy decorative elements in templates that slow every page down.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how layout and links help visitors and search engines find content.</p>
+
+<h2>Keeping the setup tidy over time</h2>
+<p>Sites that are edited by several people can collect unused custom templates, duplicated template parts and patterns that nobody remembers creating. Review them periodically. Remove what is no longer used, rename items so their purpose is obvious, and keep the number of custom templates as small as practical.</p>
+<p>It also helps to agree who can edit templates. Many content editors only need access to posts and pages, not the site editor. WordPress <a href="/blog/wordpress-user-roles/">user roles</a> let you limit who can change site-wide layouts.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses, including block themes and site editor setups that content teams can manage confidently. If your templates have become hard to follow, or you want a cleaner structure before a redesign, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help. <a href="/contact/">Contact us</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a template and a template part?</h3>
+<p>A template is the full layout for a type of page. A template part is a section, such as a header or footer, that can be reused inside several templates.</p>
+<h3>Is a synced pattern the same as a template part?</h3>
+<p>They behave similarly because both update everywhere when edited, but synced patterns are designed for content inside pages, while template parts are part of the site's layout structure.</p>
+<h3>Will editing a template change every page?</h3>
+<p>It changes every page that uses that template. Check which template a page uses before editing, and test larger changes on a staging site.</p>
+<h3>Can I undo changes to a template?</h3>
+<p>In most cases you can reset a customised template to the theme's original version, but this removes your edits. Keep a backup and a note of changes before making large adjustments.</p>
+<h3>Does my site use the site editor?</h3>
+<p>Only if it uses a block theme. Classic themes manage layout differently, usually through theme files, the customiser and widgets.</p>
+`,
+  },
 ];

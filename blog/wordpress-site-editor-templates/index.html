@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Templates and Template Parts Explained</title>
+<meta name="description" content="How templates, template parts and patterns work in the WordPress site editor, when to use each, and how to edit them safely without breaking your layout.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Templates and Template Parts Explained">
+<meta property="og:description" content="How templates, template parts and patterns work in the WordPress site editor, when to use each, and how to edit them safely without breaking your layout.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-editor-templates.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/#article","headline":"WordPress Site Editor Templates and Template Parts: A Practical Guide","description":"How templates, template parts and patterns work in the WordPress site editor, when to use each, and how to edit them safely without breaking your layout.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/","url":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-editor-templates.png","inLanguage":"en-GB","wordCount":1508,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Site Editor Templates and Template Parts: A Practical Guide","item":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between a template and a template part?","acceptedAnswer":{"@type":"Answer","text":"A template is the full layout for a type of page. A template part is a section, such as a header or footer, that can be reused inside several templates."}},{"@type":"Question","name":"Is a synced pattern the same as a template part?","acceptedAnswer":{"@type":"Answer","text":"They behave similarly because both update everywhere when edited, but synced patterns are designed for content inside pages, while template parts are part of the site's layout structure."}},{"@type":"Question","name":"Will editing a template change every page?","acceptedAnswer":{"@type":"Answer","text":"It changes every page that uses that template. Check which template a page uses before editing, and test larger changes on a staging site."}},{"@type":"Question","name":"Can I undo changes to a template?","acceptedAnswer":{"@type":"Answer","text":"In most cases you can reset a customised template to the theme's original version, but this removes your edits. Keep a backup and a note of changes before making large adjustments."}},{"@type":"Question","name":"Does my site use the site editor?","acceptedAnswer":{"@type":"Answer","text":"Only if it uses a block theme. Classic themes manage layout differently, usually through theme files, the customiser and widgets."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Site Editor Templates and Template Parts: A Practical Guide</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Site Editor Templates and Template Parts: A Practical Guide</h1><p class="pws-lead">How templates, template parts and patterns work in the WordPress site editor, when to use each, and how to edit them safely without breaking your layout.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Templates control the layout of whole types of page, while template parts are reusable sections such as headers and footers.</li><li>Patterns are for reusable content inside pages; templates and template parts are for site-wide structure.</li><li>Edit templates carefully, keep a record of changes and know how to reset a template to the theme default.</li></ul></div>
+<p>If your WordPress site uses a block theme, much of its layout is no longer locked away in theme files. The site editor lets you change headers, footers, blog layouts and archive pages directly in the dashboard. That is powerful, but it also introduces terms that can be confusing: templates, template parts, patterns and synced patterns all sound similar and do different jobs.</p>
+<p>This guide explains each one in plain language, when to use which, and how to make changes without accidentally altering pages across the whole site. WordPress continues to develop the site editor, so labels and menu locations may change over time, but the concepts below have stayed broadly consistent.</p>
+
+<h2>What is the site editor?</h2>
+<p>The site editor is the part of WordPress used to design the overall structure of a site built with a block theme. Instead of editing a single page, you edit the layouts that pages and posts are displayed in. It uses the same blocks as the post editor, so if you are comfortable building a page with blocks, the site editor will feel familiar.</p>
+<p>Classic themes do not use the site editor in the same way. If your theme is a classic theme, layouts are usually controlled through theme files, the customiser and widgets. Check which kind of theme you have before following any site editor guidance. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the basics of working with blocks.</p>
+
+<h2>Templates: layouts for whole types of page</h2>
+<p>A template defines how a type of content is displayed. A block theme typically includes templates for the front page, single blog posts, pages, archives, search results and the 404 page, among others. When a visitor opens a blog post, WordPress chooses the matching template and fills it with that post's content.</p>
+<p>Because templates apply to every item of a type, a change to the single post template affects every blog post on the site. That is exactly what you want when adjusting a layout, and exactly what you need to be careful about when experimenting.</p>
+<h3>Custom templates</h3>
+<p>You can also create custom templates and assign them to individual pages or posts. A landing page without the usual sidebar, or a page with a full-width layout, are typical examples. Custom templates are useful, but each one is another layout to maintain, so create them only when a page genuinely needs a different structure.</p>
+<h3>The template hierarchy</h3>
+<p>WordPress follows a set order when choosing a template, moving from the most specific option to the most general. A template for one specific category, for instance, would be used ahead of the general archive template. Understanding this helps when a page does not look the way you expect: often a more specific template is being used instead of the one you edited.</p>
+
+<h2>Template parts: reusable sections of a layout</h2>
+<p>Template parts are sections used inside templates. The header and footer are the most familiar examples. Rather than building the header separately in every template, each template includes the same header template part. Edit the header once and the change appears everywhere it is used.</p>
+<p>You can create other template parts too, such as a sidebar, a newsletter sign-up area or a call to action band that appears at the bottom of several templates. The rule of thumb is simple: if a section of layout repeats across templates and should always stay identical, it is a good candidate for a template part.</p>
+<p>Navigation sits inside the header template part in many themes. If you are adjusting menu links, our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> explains how navigation is managed.</p>
+
+<h2>Patterns: reusable content blocks</h2>
+<p>Patterns are groups of blocks you can insert into pages, posts or templates. A pattern might be a testimonial layout, a pricing table design or a team section. There are two broad types to understand.</p>
+<ul>
+<li><strong>Unsynced patterns</strong> act as starting points. When inserted, the blocks become independent copies, so editing one copy does not change the others.</li>
+<li><strong>Synced patterns</strong> stay linked. Editing a synced pattern updates every place it appears, similar to how template parts behave.</li>
+</ul>
+<p>Patterns are for content, while template parts are for layout structure. A useful test is to ask where the item lives. If it belongs to the frame around content, such as the header, it is a template part. If it is something an editor drops into the content area of a page, it is a pattern.</p>
+
+<h2>Choosing between templates, template parts and patterns</h2>
+<table>
+<thead><tr><th>Need</th><th>Best fit</th></tr></thead>
+<tbody>
+<tr><td>Change how all blog posts are laid out</td><td>Single post template</td></tr>
+<tr><td>Give one landing page a different layout</td><td>Custom template</td></tr>
+<tr><td>Update the header across the site</td><td>Header template part</td></tr>
+<tr><td>Reuse a call to action design on several pages, with different wording</td><td>Unsynced pattern</td></tr>
+<tr><td>Show identical contact details in several places and update them once</td><td>Synced pattern</td></tr>
+</tbody>
+</table>
+<p>Choosing the right tool keeps the site easier to manage. Using templates for content, or copying the same header into many templates by hand, creates more places for inconsistencies to creep in.</p>
+
+<h2>Editing safely</h2>
+<p>Because template changes can affect many pages at once, it pays to work methodically.</p>
+<ol>
+<li><strong>Take a backup first.</strong> Before larger changes, make sure you have a recent backup you know how to restore. See our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a>.</li>
+<li><strong>Check which template is in use.</strong> Confirm you are editing the template that actually controls the page you are looking at.</li>
+<li><strong>Use a staging site for big changes.</strong> Testing structural changes away from the live site reduces the risk of visitors seeing a broken layout.</li>
+<li><strong>Review on mobile.</strong> Layout changes can look different on small screens, so preview at several widths.</li>
+<li><strong>Write down what you changed.</strong> A short log makes it far easier to undo or explain changes later.</li>
+</ol>
+<h3>Resetting templates</h3>
+<p>When you edit a theme's template in the site editor, WordPress saves your customised version in the database rather than changing the theme files. In most cases you can clear those customisations and return to the theme's original version. This is a useful safety net, but resetting removes your changes, so note anything you want to keep first.</p>
+<h3>Theme updates</h3>
+<p>Because customised templates are stored separately, a theme update may not change templates you have already edited. That protects your work, but it also means you might miss improvements the theme author has made. Review theme update notes and compare layouts when updating. If you need deeper changes, a <a href="/blog/wordpress-child-themes/">child theme</a> may still be appropriate.</p>
+
+<h2>Templates and SEO</h2>
+<p>Templates shape the structure that search engines see on every page of a type, so they influence SEO more than many single-page edits. A few points are worth checking:</p>
+<ul>
+<li>Each page should have one clear main heading. Check that templates do not add a second heading at the same level by mistake.</li>
+<li>Blog post templates should show useful information such as the publish or updated date and the author or brand where appropriate.</li>
+<li>Archive templates should give visitors a clear route to individual posts, with readable titles and excerpts.</li>
+<li>Avoid heavy decorative elements in templates that slow every page down.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how layout and links help visitors and search engines find content.</p>
+
+<h2>Keeping the setup tidy over time</h2>
+<p>Sites that are edited by several people can collect unused custom templates, duplicated template parts and patterns that nobody remembers creating. Review them periodically. Remove what is no longer used, rename items so their purpose is obvious, and keep the number of custom templates as small as practical.</p>
+<p>It also helps to agree who can edit templates. Many content editors only need access to posts and pages, not the site editor. WordPress <a href="/blog/wordpress-user-roles/">user roles</a> let you limit who can change site-wide layouts.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses, including block themes and site editor setups that content teams can manage confidently. If your templates have become hard to follow, or you want a cleaner structure before a redesign, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help. <a href="/contact/">Contact us</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a template and a template part?</h3>
+<p>A template is the full layout for a type of page. A template part is a section, such as a header or footer, that can be reused inside several templates.</p>
+<h3>Is a synced pattern the same as a template part?</h3>
+<p>They behave similarly because both update everywhere when edited, but synced patterns are designed for content inside pages, while template parts are part of the site's layout structure.</p>
+<h3>Will editing a template change every page?</h3>
+<p>It changes every page that uses that template. Check which template a page uses before editing, and test larger changes on a staging site.</p>
+<h3>Can I undo changes to a template?</h3>
+<p>In most cases you can reset a customised template to the theme's original version, but this removes your edits. Keep a backup and a note of changes before making large adjustments.</p>
+<h3>Does my site use the site editor?</h3>
+<p>Only if it uses a block theme. Classic themes manage layout differently, usually through theme files, the customiser and widgets.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Editor%20Templates%20and%20Template%20Parts%3A%20A%20Practical%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Editor%20Templates%20and%20Template%20Parts%3A%20A%20Practical%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

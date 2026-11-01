@@ -23,6 +23,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-user-roles/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-synced-patterns/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-revisions-and-autosave/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-reading-and-discussion-settings/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -31,10 +32,12 @@
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-multisite-guide/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-menus-guide/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-media-library-organisation/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-database-cleanup/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-comment-spam/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-child-themes/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/wordpress-categories-and-tags/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-terms-and-privacy-policy-uk/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-redirects-when-relaunching/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -75,6 +78,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-url-redirects/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-theme-updates/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-staff-accounts-and-permissions/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-product-tags/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-product-filters/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-pre-orders/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -85,6 +89,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-inventory-management/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-gift-wrapping-and-order-notes/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-draft-orders/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/shopify-customer-segments/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-customer-accounts/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-collections-structure/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-checkout-settings/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>

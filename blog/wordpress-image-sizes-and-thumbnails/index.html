@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Image Sizes and Thumbnails Explained</title>
+<meta name="description" content="How WordPress creates image sizes and thumbnails, how to choose the right upload dimensions, and how to keep images fast, tidy and sharp on every screen.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Image Sizes and Thumbnails Explained">
+<meta property="og:description" content="How WordPress creates image sizes and thumbnails, how to choose the right upload dimensions, and how to keep images fast, tidy and sharp on every screen.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-image-sizes-and-thumbnails.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/#article","headline":"WordPress Image Sizes and Thumbnails: How to Get Them Right","description":"How WordPress creates image sizes and thumbnails, how to choose the right upload dimensions, and how to keep images fast, tidy and sharp on every screen.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/","url":"https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-image-sizes-and-thumbnails.png","inLanguage":"en-GB","wordCount":1507,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Image Sizes and Thumbnails: How to Get Them Right","item":"https://prismworksstudio.co.uk/blog/wordpress-image-sizes-and-thumbnails/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What size should I upload images to WordPress?","acceptedAnswer":{"@type":"Answer","text":"It depends on the largest space the image appears in on your theme. Resize to suit that space, allowing for high-density screens, rather than uploading full camera files."}},{"@type":"Question","name":"What is the difference between a featured image and a thumbnail?","acceptedAnswer":{"@type":"Answer","text":"A featured image is the main image chosen for a post. WordPress calls it a post thumbnail in code, and themes display it in various sizes, including the small thumbnail size."}},{"@type":"Question","name":"Why do my old images look wrong after changing theme?","acceptedAnswer":{"@type":"Answer","text":"Existing images keep the sizes created when they were uploaded. Regenerating image sizes creates new copies that match the new theme."}},{"@type":"Question","name":"Can I stop WordPress creating so many image sizes?","acceptedAnswer":{"@type":"Answer","text":"Some sizes can be changed or disabled, but themes may rely on them. Check what your theme uses before removing any sizes, ideally with developer help."}},{"@type":"Question","name":"Does WordPress compress images automatically?","acceptedAnswer":{"@type":"Answer","text":"WordPress applies some compression to resized copies, but compressing images before upload usually gives you more control over quality and file size."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Image Sizes and Thumbnails: How to Get Them Right</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Image Sizes and Thumbnails: How to Get Them Right</h1><p class="pws-lead">How WordPress creates image sizes and thumbnails, how to choose the right upload dimensions, and how to keep images fast, tidy and sharp on every screen.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>WordPress automatically creates several resized copies of each image you upload, and your theme may add more.</li><li>Uploading sensibly sized images and setting featured image dimensions consistently keeps pages sharp and fast.</li><li>When you change image settings, existing images are not resized automatically, so plan any regeneration carefully.</li></ul></div>
+<p>Images make a website feel complete, but they are also one of the easiest ways to slow it down or make it look untidy. On WordPress, a lot happens behind the scenes every time you upload a picture. Understanding how WordPress handles image sizes and thumbnails helps you choose better upload dimensions, avoid blurry or stretched images and keep your media library under control.</p>
+<p>This guide explains how image sizes work in WordPress, what featured images and thumbnails are, how themes affect the process and what to check if images look wrong.</p>
+
+<h2>What happens when you upload an image</h2>
+<p>When you add an image to the media library, WordPress keeps the original file and creates several resized copies. By default these include a thumbnail, a medium size and a large size, along with some additional intermediate sizes used for responsive images. Your theme, and sometimes other components on the site, can register extra sizes of their own.</p>
+<p>The point of this is efficiency. A small thumbnail in a blog archive does not need a huge photograph behind it. By serving a resized copy, WordPress can show an image that suits the space without making the visitor download far more data than necessary.</p>
+<p>WordPress also scales down very large uploads by default, keeping the original but using a reduced version as the main file. This protects sites from enormous camera images being served directly, though it is still better to resize before uploading.</p>
+
+<h2>The default image sizes</h2>
+<p>You can see and change the main default sizes under Settings, then Media, in the WordPress dashboard.</p>
+<ul>
+<li><strong>Thumbnail.</strong> A small image, often cropped to a square, used in places such as galleries and some archive layouts.</li>
+<li><strong>Medium.</strong> A moderate size that keeps the original proportions, often used within post content.</li>
+<li><strong>Large.</strong> A bigger version for wide content areas, also keeping original proportions.</li>
+</ul>
+<p>The thumbnail setting includes an option to crop to exact dimensions. When cropping is on, WordPress trims the image to fit the set width and height, which keeps grids neat but can cut off part of the picture. When it is off, the image keeps its proportions and fits within the dimensions instead.</p>
+
+<h2>Featured images and post thumbnails</h2>
+<p>A featured image is the main image chosen to represent a post or page. Themes use it in different ways: at the top of a post, in blog archive cards, in related post sections and sometimes when the page is shared on social media. In the code, WordPress refers to featured images as post thumbnails, which is why the two terms are often used interchangeably.</p>
+<p>Because each theme displays featured images differently, the best upload size depends on your theme. Check where featured images appear and the shape they are shown in. If archive cards display a wide landscape crop, uploading square or portrait images will lead to awkward cropping.</p>
+<p>Consistency matters here. Agreeing a standard shape and minimum size for featured images, and sharing it with everyone who publishes content, keeps archive pages looking tidy.</p>
+
+<h2>How themes add image sizes</h2>
+<p>Many themes register their own sizes for specific layouts, such as hero banners, product grids or card designs. These sizes are created alongside the defaults every time you upload. That is helpful when the sizes are used, but if you have changed theme several times, the site may still carry sizes from previous themes and settings, creating more files than needed.</p>
+<p>When choosing or changing a theme, ask what image sizes it uses and what dimensions it expects for key images. A theme that documents this clearly is easier to work with. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains how theme customisations are usually managed.</p>
+
+<h2>Responsive images</h2>
+<p>WordPress includes responsive image markup automatically for images added through the editor. This tells the browser about the different sizes available so it can pick an appropriate one for the visitor's screen. A phone can download a smaller file while a large desktop screen gets a bigger one.</p>
+<p>This works best when the sizes WordPress creates actually match how images are displayed. If every size is much smaller than the space on screen, images may appear soft. If the original upload is small, there may be no larger size available at all.</p>
+
+<h2>Choosing the right upload size</h2>
+<p>There is no single correct dimension for every site, but a few principles help.</p>
+<ol>
+<li><strong>Work out the largest display size.</strong> Find the widest space an image will occupy in your layout, then allow extra for high-density screens.</li>
+<li><strong>Resize before uploading.</strong> Uploading straight from a camera or phone creates very large originals that waste storage.</li>
+<li><strong>Compress sensibly.</strong> Reducing file size without visible quality loss is one of the simplest speed improvements.</li>
+<li><strong>Use the right format.</strong> Photographs and graphics with flat colour suit different formats, and modern formats can reduce file size. Check what your hosting and theme support.</li>
+<li><strong>Name files clearly.</strong> Descriptive file names make the media library easier to search.</li>
+</ol>
+<p>For more detail on compression, formats and alt text, see our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a>.</p>
+
+<h2>Changing sizes on an existing site</h2>
+<p>When you change image size settings or switch to a theme with different sizes, WordPress does not go back and resize images that were already uploaded. Only new uploads use the new settings. Older images may then appear blurry, stretched or awkwardly cropped in the new layout.</p>
+<p>The usual fix is to regenerate image sizes for existing uploads. This creates new resized copies from the original files. On a large media library this can take time and use server resources, so it is sensible to run it outside busy periods, take a backup first and check the results on a staging site if possible. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> covers backups in more detail.</p>
+
+<h2>Keeping the media library tidy</h2>
+<p>Every upload can produce several files, so a media library grows faster than the number of images suggests. Over time, unused images and sizes nobody needs can make backups slower and storage heavier. Periodically review the library, remove images that are genuinely unused and avoid uploading duplicates.</p>
+<p>Be careful when deleting. An image that looks unused may still appear in an older post, a widget or a template. Check before removing anything, and keep a backup. Our <a href="/blog/wordpress-media-library-organisation/">guide to WordPress media library organisation</a> has more on organising uploads.</p>
+
+<h2>Alt text and accessibility</h2>
+<p>Image sizes affect how pictures look, but alt text affects whether everyone can understand them. Alt text is a short written description that screen readers announce and that appears if an image fails to load. It is added per image in the media library or the editor, not per size, so each resized copy shares the same description.</p>
+<p>Write alt text that describes what matters about the image in context. Decorative images that add no information can usually have empty alt text so screen readers skip them. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers this in more depth.</p>
+
+<h2>Troubleshooting common image problems</h2>
+<h3>Images look blurry</h3>
+<p>The displayed size may be larger than the file being served, or the original upload may be too small. Check the original dimensions and whether regeneration is needed after a theme change.</p>
+<h3>Images are cropped badly</h3>
+<p>The theme or thumbnail setting may be cropping to a fixed shape. Upload images closer to the expected proportions, or adjust the crop setting where appropriate.</p>
+<h3>Pages load slowly</h3>
+<p>Large originals, missing compression or images served at sizes much larger than needed are possible causes. Hosting also plays a part; see our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting in the UK</a>.</p>
+<h3>Featured images look inconsistent</h3>
+<p>Different shapes and sizes uploaded by different people lead to uneven archive pages. Agree a standard and share it with your editors.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and looks after WordPress sites for UK businesses, including theme setup, image handling and site speed. If your images look soft, crop awkwardly or slow your pages down, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review your setup. <a href="/contact/">Get in touch</a> to discuss your site.</p>
+
+<h2>FAQs</h2>
+<h3>What size should I upload images to WordPress?</h3>
+<p>It depends on the largest space the image appears in on your theme. Resize to suit that space, allowing for high-density screens, rather than uploading full camera files.</p>
+<h3>What is the difference between a featured image and a thumbnail?</h3>
+<p>A featured image is the main image chosen for a post. WordPress calls it a post thumbnail in code, and themes display it in various sizes, including the small thumbnail size.</p>
+<h3>Why do my old images look wrong after changing theme?</h3>
+<p>Existing images keep the sizes created when they were uploaded. Regenerating image sizes creates new copies that match the new theme.</p>
+<h3>Can I stop WordPress creating so many image sizes?</h3>
+<p>Some sizes can be changed or disabled, but themes may rely on them. Check what your theme uses before removing any sizes, ideally with developer help.</p>
+<h3>Does WordPress compress images automatically?</h3>
+<p>WordPress applies some compression to resized copies, but compressing images before upload usually gives you more control over quality and file size.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Image%20Sizes%20and%20Thumbnails%3A%20How%20to%20Get%20Them%20Right'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Image%20Sizes%20and%20Thumbnails%3A%20How%20to%20Get%20Them%20Right'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

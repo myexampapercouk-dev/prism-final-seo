@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopify Shipping Profiles: A Practical Setup Guide</title>
+<meta name="description" content="How Shopify shipping profiles work, when you need more than the general profile, and how to set up zones and rates for bulky, fragile or local-only products.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Shipping Profiles: A Practical Setup Guide">
+<meta property="og:description" content="How Shopify shipping profiles work, when you need more than the general profile, and how to set up zones and rates for bulky, fragile or local-only products.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-shipping-profiles.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/#article","headline":"Shopify Shipping Profiles: How to Set Different Rates for Different Products","description":"How Shopify shipping profiles work, when you need more than the general profile, and how to set up zones and rates for bulky, fragile or local-only products.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/","url":"https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-shipping-profiles.png","inLanguage":"en-GB","wordCount":1727,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Shopify Shipping Profiles: How to Set Different Rates for Different Products","item":"https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can a product belong to more than one shipping profile?","acceptedAnswer":{"@type":"Answer","text":"No. Each product sits in one profile at a time. Moving it into a custom profile removes it from the general profile's rates."}},{"@type":"Question","name":"Do I need shipping profiles for a small store?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. If your products are similar in size and ship the same way, the general profile alone may be all you need. Add custom profiles only when there is a clear reason."}},{"@type":"Question","name":"Why is shipping higher when customers buy items from different profiles?","acceptedAnswer":{"@type":"Answer","text":"Shopify combines the rates from each profile in a mixed basket. Test these baskets and adjust your profiles or rates if the totals do not reflect your real costs."}},{"@type":"Question","name":"Can I offer free shipping on only some products?","acceptedAnswer":{"@type":"Answer","text":"Yes. Placing those products in their own profile with a free rate is one way to do it. Check how mixed baskets behave afterwards."}},{"@type":"Question","name":"How often should I review shipping profiles?","acceptedAnswer":{"@type":"Answer","text":"Review them whenever you change carriers, add a product range or start selling to new regions, and periodically in case carrier prices have changed."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Shopify Shipping Profiles: How to Set Different Rates for Different Products</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>Shopify Shipping Profiles: How to Set Different Rates for Different Products</h1><p class="pws-lead">How Shopify shipping profiles work, when you need more than the general profile, and how to set up zones and rates for bulky, fragile or local-only products.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Shipping profiles let you charge different rates for groups of products that cost different amounts to send.</li><li>Start with the general profile and only add custom profiles when a product genuinely needs different handling.</li><li>Test real baskets at checkout after every change, especially mixed baskets that combine products from different profiles.</li></ul></div>
+<p>Shipping is one of the settings that quietly shapes whether a Shopify store makes money. If a heavy item ships at the same rate as a greetings card, you either overcharge for small orders or absorb a loss on large ones. Shopify shipping profiles exist to solve exactly that problem: they let you group products and give each group its own zones and rates.</p>
+<p>This guide explains what shipping profiles are, when a store actually needs them, how to plan a sensible structure and how to check the results before customers see them. Shopify changes its admin from time to time, so menu names may differ slightly from what is described here, but the underlying ideas stay the same.</p>
+
+<h2>What is a Shopify shipping profile?</h2>
+<p>A shipping profile is a set of rules that connects three things: a group of products, the locations those products ship from, and the zones and rates customers are offered at checkout. Every store has a general profile, which covers all products by default. You can then create custom profiles for products that need different treatment.</p>
+<p>Inside each profile you define shipping zones, which are groups of countries or regions, and the rates available in each zone. A rate might be a flat price, a price that changes with order weight or value, or a calculated rate from a carrier where your plan and setup support that.</p>
+<p>The key idea is that a product can only belong to one profile at a time. If you move a product into a custom profile, it stops using the general profile's rates.</p>
+
+<h2>When do you need more than one profile?</h2>
+<p>Many small stores run perfectly well on the general profile alone. Adding profiles adds complexity, so it is worth being clear about why you are doing it. Common reasons include:</p>
+<ul>
+<li><strong>Bulky or heavy items.</strong> Furniture, large prints or multipacks may need a courier service with a higher rate than the rest of the catalogue.</li>
+<li><strong>Fragile goods.</strong> Glass, ceramics or framed artwork may need extra packaging and a tracked, insured service.</li>
+<li><strong>Restricted destinations.</strong> Some products cannot be sent to certain countries, or you may choose to sell them only within the UK.</li>
+<li><strong>Local-only products.</strong> Fresh food or items that only make sense for delivery nearby may need their own rules.</li>
+<li><strong>Different fulfilment locations.</strong> If some products ship from a warehouse and others from your own premises, profiles help reflect that.</li>
+<li><strong>Free shipping on selected items.</strong> You may want to offer free delivery on a particular range without extending it to everything.</li>
+</ul>
+<p>If none of these apply, a single well-planned general profile is usually easier to manage and less likely to produce surprises at checkout.</p>
+
+<h2>Planning your profile structure</h2>
+<p>Before touching the settings, write down how your products actually ship. A simple table works well: list each product type, the packaging it needs, the services you use and where it can be sent. Patterns usually appear quickly, and those patterns become your profiles.</p>
+<p>Aim for as few profiles as you can. Each extra profile is another set of zones and rates to maintain, and another place where a price change can be forgotten. If two groups of products use the same carrier services and similar prices, they can probably share a profile.</p>
+<p>It also helps to agree naming conventions. Clear names such as "Large items courier" or "UK only fresh" make it obvious to anyone on the team what a profile is for, months after it was set up.</p>
+
+<h2>Setting up zones and rates</h2>
+<p>Within each profile, zones decide where you ship and rates decide what customers pay. A typical UK store might have a UK zone, a Europe zone and a rest of world zone, but your zones should follow your real carrier pricing rather than a template.</p>
+<h3>Flat rates</h3>
+<p>Flat rates are simple to understand and easy for customers to predict. They work best when products in the profile are similar in size and weight. Many stores offer a standard option and a faster option, each at a fixed price.</p>
+<h3>Weight-based and price-based rates</h3>
+<p>Conditional rates change depending on the basket. Weight-based rates need accurate product weights, so check your product data before relying on them. Price-based rates are often used to offer free delivery above an order value, which can encourage larger baskets.</p>
+<h3>Calculated rates</h3>
+<p>Some plans and setups allow live rates from carriers. These can be more accurate, but they depend on correct weights and package dimensions, and the figures customers see can vary. Check Shopify's current documentation to confirm what your plan supports.</p>
+<p>For a broader look at choosing what to charge, see our guide to <a href="/blog/online-shop-shipping-rates-uk/">online shop shipping rates in the UK</a>.</p>
+
+<h2>How mixed baskets are charged</h2>
+<p>This is where shipping profiles most often catch store owners out. When a customer buys products from more than one profile in a single order, Shopify combines the applicable rates rather than choosing one. That means a basket containing a small accessory and a large item can show a total shipping cost made up of both profiles' charges.</p>
+<p>Whether that outcome is fair depends on your products. If the items genuinely ship separately, combined charges may be right. If they would go in one box, customers may see a higher price than the real cost. The only reliable way to know is to test realistic mixed baskets and look at the final figure at checkout.</p>
+<p>If combined charges are producing awkward totals, consider whether the profiles really need to be separate, or whether a free delivery threshold or adjusted rates would give a cleaner result.</p>
+
+<h2>Locations and fulfilment</h2>
+<p>Profiles connect to the locations products ship from. If you hold stock in more than one place, each location in a profile can have its own zones and rates. This matters for stores that use a third-party warehouse for some lines and pack others in-house.</p>
+<p>Keep your locations and inventory accurate. If a product is assigned to a location that does not actually stock it, orders can be routed in confusing ways. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> covers keeping stock data tidy.</p>
+
+<h2>Communicating shipping to customers</h2>
+<p>Good shipping setup is only half the job. Customers want to know delivery costs and timings before they reach checkout, and unexpected charges at the last step can lead people to abandon a purchase. Make sure your shipping information page explains your options in plain language, and mention any special delivery arrangements on the relevant product pages.</p>
+<p>If certain items are sent separately or by courier, say so on the product page. That way, a higher combined charge in a mixed basket feels expected rather than surprising. Our article on <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a> looks at other ways to reduce drop-off at checkout.</p>
+
+<h2>Testing before you go live</h2>
+<p>Every change to shipping profiles should be followed by a few test checkouts. You do not need to complete payment, just get far enough to see the shipping options and totals. A useful test list includes:</p>
+<ol>
+<li>A single small item to a UK address.</li>
+<li>A single item from each custom profile to a UK address.</li>
+<li>A mixed basket combining products from different profiles.</li>
+<li>A basket just below and just above any free delivery threshold.</li>
+<li>An international address in each zone you serve.</li>
+<li>An address in a country you do not ship to, to confirm checkout blocks it.</li>
+</ol>
+<p>Note the results somewhere the team can see. When rates change later, rerun the same tests so you can compare.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li><strong>Forgetting new products.</strong> New products usually land in the general profile. If they belong elsewhere, move them as part of your product launch checklist.</li>
+<li><strong>Missing product weights.</strong> Weight-based and calculated rates depend on accurate weights. Blank or placeholder values lead to wrong prices.</li>
+<li><strong>Empty zones.</strong> A profile with no rate for a zone means those products cannot be bought by customers in that region, which may not be intended.</li>
+<li><strong>Too many profiles.</strong> Splitting the catalogue finely can make mixed baskets expensive and maintenance hard.</li>
+<li><strong>Not reviewing after carrier price changes.</strong> Carriers update their prices, so your rates need checking periodically.</li>
+</ul>
+
+<h2>Keeping profiles maintainable</h2>
+<p>Treat shipping as part of regular store housekeeping. Review profiles when you add a new product range, change carriers or start selling to new countries. A short written note describing each profile and why it exists will save time for anyone who inherits the store later.</p>
+<p>If you sell internationally, consider how shipping fits with currency, duties and local pricing. Those decisions are linked, and it is worth planning them together rather than one at a time. Tax and customs rules change, so check current guidance or speak to an adviser about anything that affects what you must charge or declare.</p>
+<p>Shipping also interacts with how you organise the catalogue. Clear <a href="/blog/shopify-collections-structure/">collection structure</a> and consistent <a href="/blog/shopify-product-tags/">product tags</a> make it easier to spot which products belong in which profile when you audit the setup.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK ecommerce brands set up and tidy Shopify stores, including shipping, product data and checkout. If your shipping totals look wrong or your profiles have grown hard to manage, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review the setup and suggest a simpler structure. You can also <a href="/contact/">get in touch</a> to talk through your store.</p>
+
+<h2>FAQs</h2>
+<h3>Can a product belong to more than one shipping profile?</h3>
+<p>No. Each product sits in one profile at a time. Moving it into a custom profile removes it from the general profile's rates.</p>
+<h3>Do I need shipping profiles for a small store?</h3>
+<p>Not necessarily. If your products are similar in size and ship the same way, the general profile alone may be all you need. Add custom profiles only when there is a clear reason.</p>
+<h3>Why is shipping higher when customers buy items from different profiles?</h3>
+<p>Shopify combines the rates from each profile in a mixed basket. Test these baskets and adjust your profiles or rates if the totals do not reflect your real costs.</p>
+<h3>Can I offer free shipping on only some products?</h3>
+<p>Yes. Placing those products in their own profile with a free rate is one way to do it. Check how mixed baskets behave afterwards.</p>
+<h3>How often should I review shipping profiles?</h3>
+<p>Review them whenever you change carriers, add a product range or start selling to new regions, and periodically in case carrier prices have changed.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Shipping%20Profiles%3A%20How%20to%20Set%20Different%20Rates%20for%20Different%20Products'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Shipping%20Profiles%3A%20How%20to%20Set%20Different%20Rates%20for%20Different%20Products'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
