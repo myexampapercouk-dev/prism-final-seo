@@ -36185,4 +36185,515 @@ module.exports = [
 <p>WordPress creates resized versions of each uploaded image for different parts of your theme. This is normal behaviour.</p>
 `,
   },
+  {
+    slug: 'shopify-draft-orders',
+    seoTitle: 'Shopify Draft Orders: How to Create and Use Them',
+    title: 'Shopify Draft Orders: A Practical Guide for Store Owners',
+    description: 'How Shopify draft orders work, when to use them for phone, custom and trade orders, and how to send invoices, apply discounts and keep records tidy.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-checkout-settings/', '/blog/shopify-staff-accounts-and-permissions/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Most Shopify orders come through the online checkout: a customer adds products to their basket, enters their details and pays. But not every sale fits that pattern. A customer might phone in an order, ask for a custom quote or want to pay by bank transfer. For these situations, Shopify offers draft orders.</p>
+<p>This guide explains what draft orders are, when they are useful, how to create one and what to watch out for so your records, stock and customer communication stay accurate.</p>
+
+<h2>What is a draft order?</h2>
+<p>A draft order is an order that you create in the Shopify admin, rather than one the customer places through your storefront. You choose the products, the customer, the shipping and any discounts, then either send the customer an invoice so they can pay online or record the payment yourself.</p>
+<p>Until it is paid or marked as paid, a draft order stays in the Drafts section of your Orders area. Once completed, it becomes a normal order and appears alongside your other orders for fulfilment and reporting.</p>
+
+<h2>When draft orders are useful</h2>
+<p>Draft orders give you flexibility for sales that do not suit the standard checkout. Typical uses include:</p>
+<ul>
+<li><strong>Phone and email orders.</strong> A customer contacts you directly and you take the order on their behalf.</li>
+<li><strong>Custom or bespoke items.</strong> You can add custom line items with your own description and price for products that are not listed in your store.</li>
+<li><strong>Quotes.</strong> You can build an order and send it as an invoice for the customer to review and pay when ready.</li>
+<li><strong>Trade or wholesale customers.</strong> You can apply special pricing or discounts for particular customers.</li>
+<li><strong>Replacement orders.</strong> You can create an order to send a replacement item, applying a discount so the customer is not charged again.</li>
+<li><strong>Manual payments.</strong> Where you have agreed a payment method outside the online checkout, you can record the order and mark it as paid or payment pending.</li>
+</ul>
+
+<h2>How to create a draft order</h2>
+<p>The Shopify admin changes from time to time, but the basic steps are:</p>
+<ol>
+<li>Go to Orders and choose to create an order.</li>
+<li>Search for and add products. You can change quantities and select variants.</li>
+<li>Add custom items if needed, with a name, price and quantity, and choose whether they need shipping and are taxable.</li>
+<li>Find an existing customer or create a new one. The customer's details are used for the invoice and the order.</li>
+<li>Add discounts, either to individual items or to the whole order.</li>
+<li>Choose shipping. You can select one of your shipping rates or add a custom rate.</li>
+<li>Check taxes are being calculated as you expect.</li>
+<li>Add notes or tags if useful for your team.</li>
+<li>Decide how to collect payment: send an invoice, mark as paid or mark as payment pending.</li>
+</ol>
+<p>You can save the draft at any point and return to it later.</p>
+
+<h2>Sending an invoice</h2>
+<p>When you send an invoice from a draft order, the customer receives an email with a link to a secure checkout page showing the items, prices and totals you set. They complete payment there using your normal payment methods.</p>
+<p>You can add a custom message to the invoice email, which is useful for explaining the order or confirming anything you discussed. The email template itself can be edited in your notification settings, so it matches the tone and branding of your other emails.</p>
+<p>Once the customer pays, the draft becomes a regular order. If they do not pay, the draft stays open, and you can resend the invoice or follow up.</p>
+
+<h2>Marking as paid or payment pending</h2>
+<p>If the customer has already paid in another way, for example by card over the phone through a method you have set up, you can mark the order as paid. If you have agreed that they will pay later, such as on account or by bank transfer, you can mark it as payment pending and record the payment when it arrives.</p>
+<p>Take care with these options. Marking an order as paid does not take any money from the customer; it simply records that payment has been received. Make sure your bookkeeping and the actual payment match. Taking card details over the phone also brings security obligations, so check what applies to your setup before doing so.</p>
+
+<h2>Discounts and custom pricing</h2>
+<p>Draft orders let you apply discounts by amount or percentage, either to single line items or the whole order. You can also apply some existing discount codes. This flexibility is useful, but it relies on staff using it consistently.</p>
+<p>It is worth agreeing simple internal rules: who can create draft orders, what level of discount is acceptable without approval and how discounts are explained to customers. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to control who can create and edit orders.</p>
+<p>If you sell to trade customers regularly, draft orders may be only part of the picture. Depending on your Shopify plan, there may be built-in options for business-to-business selling that suit repeat trade customers better.</p>
+
+<h2>Stock and inventory</h2>
+<p>Creating a draft order does not always reserve stock in the way a completed order does. While a draft is open, the items may still be available to other customers. If stock is limited, you may want to reserve items in the draft, if that option is available, or complete the order promptly.</p>
+<p>When a draft order is completed, inventory is updated as with a normal order. Check your stock levels after creating large or unusual orders. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> covers how stock is tracked across locations.</p>
+
+<h2>Taxes and shipping</h2>
+<p>Shopify calculates taxes on draft orders based on your tax settings and the customer's address, as it would at checkout. If you add custom items, make sure you set whether they are taxable. For orders shipping outside the UK, check that taxes and duties are being handled correctly, as rules can be complex. If you are unsure how VAT applies to a particular order, it is sensible to check with an accountant or the guidance from HMRC.</p>
+<p>For shipping, you can use your normal rates or add a custom rate. Custom rates are useful for unusual orders, such as large items or collections, but make sure the price reflects the real cost.</p>
+
+<h2>Keeping draft orders organised</h2>
+<p>Open drafts can build up over time, especially if you use them for quotes. A cluttered drafts list makes it harder to see what needs attention. A few habits help:</p>
+<ul>
+<li>Use tags to mark the purpose of each draft, such as quote, phone order or replacement.</li>
+<li>Add internal notes explaining any special pricing or arrangements.</li>
+<li>Review open drafts regularly and follow up or delete those that are no longer needed.</li>
+<li>Make sure the customer record is correct, so order history and marketing preferences stay accurate.</li>
+</ul>
+
+<h2>Customer consent and communications</h2>
+<p>When you create a new customer through a draft order, you may be asked about their marketing preferences. Only record consent if the customer has actually given it. In the UK, marketing communications are covered by data protection and electronic marketing rules, and the ICO provides guidance on what is required. If you are unsure, take advice and default to not subscribing people.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Marking an order as paid before the money has actually arrived.</li>
+<li>Forgetting to set custom items as needing shipping, so no shipping charge is applied.</li>
+<li>Applying discounts inconsistently between staff members.</li>
+<li>Leaving drafts open so long that prices or stock levels have changed.</li>
+<li>Entering customer details incorrectly, leading to delivery problems.</li>
+</ul>
+<p>Draft orders also bypass some parts of your normal checkout experience, so review your <a href="/blog/shopify-checkout-settings/">Shopify checkout settings</a> to understand which settings still apply when customers pay through an invoice.</p>
+
+<h2>FAQs</h2>
+<h3>Can customers see draft orders?</h3>
+<p>Customers do not see a draft order until you send them an invoice. Once sent, they can view the items and totals through the invoice link and complete payment.</p>
+<h3>Can I edit a draft order after sending the invoice?</h3>
+<p>You can usually edit an open draft order and resend the invoice. Make sure the customer uses the latest invoice link so they see the correct details.</p>
+<h3>Do draft orders count in my sales reports?</h3>
+<p>Draft orders are not counted as sales until they are completed. Once paid or marked as paid, they become normal orders and appear in your reports.</p>
+<h3>Can I add products that are not in my store?</h3>
+<p>Yes. Custom line items let you add items with your own description and price, which is useful for bespoke work or one-off charges.</p>
+<h3>Should every phone order go through draft orders?</h3>
+<p>Draft orders are one option. Depending on your setup, Shopify POS or other tools may suit some in-person or phone sales better. Choose the approach that keeps your records accurate and simple for your team.</p>
+
+<h2>Need help with your Shopify store?</h2>
+<p>Prism Works Studio builds and supports Shopify stores for UK businesses, including setting up order workflows, staff permissions and notification emails. If you want your manual orders to run more smoothly, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'shopify-gift-wrapping-and-order-notes',
+    seoTitle: 'Shopify Gift Wrapping and Order Notes: A Setup Guide',
+    title: 'Shopify Gift Wrapping and Order Notes: How to Offer Gift Options',
+    description: 'How to offer gift wrapping, gift messages and order notes on a Shopify store, with practical setup options, fulfilment tips and mistakes to avoid at checkout.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-theme-customisation/', '/blog/shopify-checkout-settings/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Gift options can make a real difference to how customers feel about buying from you, especially for stores selling products people buy for others. Being able to add gift wrapping, include a handwritten message or leave delivery instructions can turn a simple purchase into something more personal.</p>
+<p>Shopify does not have a single built-in gift wrapping feature, but there are several ways to offer gift options using the tools already in the platform and your theme. This guide covers the main approaches, how to handle order notes and how to make sure gift requests are fulfilled correctly.</p>
+
+<h2>What gift options can you offer?</h2>
+<p>Before choosing how to set things up, decide what you actually want to offer. Common options include:</p>
+<ul>
+<li><strong>Gift wrapping.</strong> Wrapping items in paper, tissue or a branded box.</li>
+<li><strong>Gift messages.</strong> A short note printed or handwritten and included in the parcel.</li>
+<li><strong>Hiding prices.</strong> Leaving out a priced receipt so the recipient does not see what was paid.</li>
+<li><strong>Delivery instructions.</strong> Notes about where to leave a parcel or when it is needed.</li>
+<li><strong>Gift receipts.</strong> A document allowing the recipient to return or exchange items.</li>
+</ul>
+<p>Each option needs a way for customers to request it and a way for your team to see and act on it. Keep the list short and only offer what you can deliver reliably.</p>
+
+<h2>Option one: gift wrapping as a product</h2>
+<p>The simplest approach is to create a separate product called something like "Gift wrapping" and let customers add it to their cart. You can give it an image showing what the wrapping looks like, a clear description and a price, or set it to free if you prefer.</p>
+<p>This method has some advantages:</p>
+<ul>
+<li>It works with any theme and requires no custom code.</li>
+<li>The charge appears clearly on the order and in your reports.</li>
+<li>You can track it as a product without inventory, or track stock of wrapping materials if you want.</li>
+</ul>
+<p>The main drawback is that it is not always clear which items should be wrapped if the order contains several products. Pair it with a note field so customers can explain, or set a clear policy such as wrapping all items together.</p>
+<p>You may want to hide this product from collections and search so it only appears where it is relevant, such as in the cart or on product pages. Check your theme settings for options to do this.</p>
+
+<h2>Option two: gift wrapping as a variant or product option</h2>
+<p>For stores where each item might be wrapped individually, you can add a variant option such as "Gift wrapped: yes or no" to products. Each variant can have its own price, so the wrapped version costs a little more if you charge for it.</p>
+<p>This keeps the wrapping choice tied to the specific item. However, it can complicate your product data, particularly if products already have several variants for size or colour, because each combination multiplies the number of variants. It can also affect inventory tracking, since the wrapped and unwrapped versions are treated as separate variants.</p>
+<p>This approach suits stores with a small number of simple products more than those with large catalogues.</p>
+
+<h2>Option three: cart attributes and custom fields</h2>
+<p>Shopify themes can collect extra information in the cart using cart attributes. These are custom fields such as a checkbox for "This is a gift" or a text box for a gift message. The information is saved with the order and appears in the order details in the admin.</p>
+<p>Many themes include a cart note field by default, which you can enable in the theme editor. Adding more specific fields, such as a gift message box with a character limit, usually requires editing the theme code. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> explains how theme changes work and when to involve a developer.</p>
+<p>Cart attributes do not add a charge by themselves. If you want to charge for gift wrapping, combine a cart attribute for the message with a gift wrapping product for the fee.</p>
+<p>Line item properties are a related feature. They let customers add details to a specific product in their basket, such as a personalised message for one item. Like cart attributes, they appear in the order details and usually need theme changes to add.</p>
+
+<h2>Using the cart note for order notes</h2>
+<p>The cart note is a simple free-text box that customers can fill in before checkout. It is useful for general instructions, gift messages or questions. The note appears on the order in the admin and can be included on packing slips.</p>
+<p>To make cart notes work well:</p>
+<ul>
+<li>Give the field a clear label, such as "Add a gift message or delivery note".</li>
+<li>Explain any limits, such as a maximum length for printed messages.</li>
+<li>Make sure the field is visible on both the cart page and any slide-out cart drawer your theme uses.</li>
+<li>Avoid asking customers to put essential information only in the note, because it is easy to miss.</li>
+</ul>
+<p>Customers should not be asked to enter sensitive personal information, such as health details or payment information, in a free-text note field.</p>
+
+<h2>Making sure gift requests reach fulfilment</h2>
+<p>Gift options only work if the person packing the order sees them. This is where many stores run into trouble.</p>
+<h3>Packing slips</h3>
+<p>Shopify lets you customise packing slip templates in your shipping settings. You can edit the template so it shows cart notes, cart attributes and line item properties clearly, and so it leaves out prices for gift orders. Test the template with a sample order to check everything appears as expected.</p>
+<h3>Order tags and filters</h3>
+<p>Tagging gift orders makes them easy to spot. Your team can tag them manually, or a developer can help set up automation using Shopify's built-in workflow tools if available on your plan. Saved filters in the Orders area can then show all orders marked as gifts.</p>
+<h3>Notifications</h3>
+<p>Order confirmation and shipping emails can be edited to show the gift message, so the customer can check it was recorded correctly. Be careful, though: if a gift is being sent directly to the recipient, make sure shipping notifications go to the buyer rather than revealing details to the recipient.</p>
+
+<h2>Gift messages and printed notes</h2>
+<p>If you print or handwrite gift messages, decide how you will handle long or unusual messages. A character limit helps keep notes to a size that fits your card. Clearly explain what customers can expect, such as whether the message will be handwritten, printed or included as a separate card.</p>
+<p>It is also wise to have a simple process for checking messages before printing, in case of typos or anything inappropriate. If a message cannot be included as written, contact the customer rather than changing it yourself.</p>
+
+<h2>Gift receipts and returns</h2>
+<p>Recipients may want to return or exchange a gift. Make your returns policy clear about whether gift recipients can return items and whether refunds go back to the original buyer or as store credit. Consumer rights rules in the UK may affect what you have to offer, especially for online purchases, so check the current guidance or take advice when writing your policy.</p>
+<p>Gift cards are another way to help customers buy for others. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">ecommerce gift cards and vouchers</a> covers how they work and what to think about.</p>
+
+<h2>Presenting gift options on your store</h2>
+<p>Gift options should be easy to find but not distracting. Consider:</p>
+<ul>
+<li>Mentioning gift wrapping on product pages for items that are popular as gifts.</li>
+<li>Adding a clear option in the cart, close to the checkout button.</li>
+<li>Showing an image of the wrapping or packaging so customers know what to expect.</li>
+<li>Explaining the cost upfront rather than surprising customers later.</li>
+<li>Including gift information on your delivery or FAQ page.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Does Shopify have built-in gift wrapping?</h3>
+<p>Shopify does not have a dedicated gift wrapping feature. Most stores offer it as a product, a variant option or through custom cart fields set up in the theme.</p>
+<h3>Where do customers' order notes appear?</h3>
+<p>Cart notes and cart attributes appear in the order details in the Shopify admin. They can also be added to packing slips and notification emails by editing the relevant templates.</p>
+<h3>Can I hide prices on a gift order?</h3>
+<p>You can edit your packing slip template to leave out prices, either for all orders or for orders marked as gifts. Test it carefully before relying on it.</p>
+<h3>Can customers add a different message to each item?</h3>
+<p>Yes, using line item properties, which let customers enter details for individual products. These usually require theme changes to set up.</p>
+<h3>Should I charge for gift wrapping?</h3>
+<p>That is a business decision. Some stores include it free as a service, while others charge to cover materials and time. Whatever you choose, make the price clear before checkout.</p>
+
+<h2>Need help adding gift options to your store?</h2>
+<p>Prism Works Studio builds and customises Shopify stores for UK businesses, including cart fields, packing slips and gift options. If you would like to offer gifting without creating extra work for your team, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'website-favicon-and-app-icons',
+    seoTitle: 'Website Favicons and App Icons: A Practical Guide',
+    title: 'Website Favicons and App Icons: How to Get Them Right',
+    description: 'What favicons and app icons are, which sizes and formats to prepare, and how to add them in WordPress and Shopify so your site looks sharp in tabs and search.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/brand-identity-design-uk/', '/blog/wordpress-small-business-website/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The favicon is one of the smallest parts of a website, but it appears in more places than most people realise. It sits in browser tabs, bookmarks and history lists, on phone home screens when someone saves your site, and alongside your listings in some search results. A missing or blurry icon can make a site look unfinished, while a clear one helps visitors find you again.</p>
+<p>This guide explains what favicons and app icons are, how to design one that works, which files to prepare and how to add them in WordPress and Shopify.</p>
+
+<h2>What is a favicon?</h2>
+<p>A favicon, short for "favourite icon", is a small image associated with a website. Browsers display it in tabs, bookmarks and address bars. When someone has several tabs open, the favicon is often the quickest way for them to spot your site.</p>
+<p>Over time, the idea has expanded. Phones and tablets use larger versions of the icon when someone adds a website to their home screen. Some browsers use icons in their new tab pages or shortcuts. Google can also show a favicon next to a site's name in search results. Together, these are often called site icons or app icons.</p>
+
+<h2>Why favicons matter</h2>
+<ul>
+<li><strong>Recognition.</strong> A distinctive icon helps returning visitors find your tab or bookmark quickly.</li>
+<li><strong>Professionalism.</strong> A default or blank icon can make a site look unfinished.</li>
+<li><strong>Search appearance.</strong> Where search engines show favicons, a clear icon helps your listing look more polished.</li>
+<li><strong>Brand consistency.</strong> The icon is another touchpoint that should match the rest of your branding.</li>
+</ul>
+<p>A favicon will not transform your website on its own, but it is part of the overall impression of care and quality.</p>
+
+<h2>Designing a favicon that works</h2>
+<p>The biggest challenge is size. A favicon is often displayed very small, so detail disappears quickly. A full logo with a name and tagline will almost never work.</p>
+<h3>Use a simple mark</h3>
+<p>Most good favicons use a simplified element of the brand: an initial, a symbol or a distinctive shape. If your logo already includes a separate mark, that is often the best starting point. If it does not, consider creating a simplified version as part of your brand assets. Our guide to <a href="/blog/brand-identity-design-uk/">brand identity design</a> explains how logo variations fit into a wider identity.</p>
+<h3>Keep it square</h3>
+<p>Favicons and app icons are square. Design within a square frame and leave a little space around the edges, so the icon does not feel cramped or get clipped when platforms round the corners.</p>
+<h3>Think about contrast</h3>
+<p>Browser tabs can be light or dark depending on the visitor's settings. An icon that disappears against a dark tab is a common problem. Test against both, and consider adding a solid background colour to the icon so it stays visible.</p>
+<h3>Avoid fine detail and small text</h3>
+<p>Thin lines, gradients and small lettering tend to become blurry at small sizes. Bold shapes and strong colours work best.</p>
+
+<h2>Which sizes and formats do you need?</h2>
+<p>Different browsers and devices request icons in different sizes. You do not need to create dozens of versions by hand, but it helps to understand the main types.</p>
+<table>
+<thead><tr><th>Icon type</th><th>Where it is used</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Small browser favicon</td><td>Tabs, bookmarks, address bar</td><td>Traditionally an ICO or PNG file. Must read clearly at tiny sizes.</td></tr>
+<tr><td>SVG favicon</td><td>Modern browsers</td><td>A scalable format that stays sharp at any size. Not supported everywhere, so use alongside a PNG or ICO.</td></tr>
+<tr><td>Apple touch icon</td><td>iPhone and iPad home screens</td><td>A larger PNG. The device may round the corners automatically.</td></tr>
+<tr><td>Android and web app icons</td><td>Android home screens and installed web apps</td><td>Larger PNG files, usually listed in a web app manifest.</td></tr>
+</tbody>
+</table>
+<p>The simplest starting point is a high-resolution square image of your icon, which can then be resized for each use. Both WordPress and Shopify can generate smaller versions from a single upload, which covers most needs.</p>
+
+<h2>Adding a favicon in WordPress</h2>
+<p>WordPress calls the favicon a site icon. Where you add it depends on your theme.</p>
+<h3>Block themes</h3>
+<p>In a block theme, the site icon is usually managed in the Site Editor. Adding a Site Logo block may give you the option to use the logo as the site icon, or you may find a site icon setting in the general settings area. The exact location has changed between WordPress versions, so if you cannot find it, check the Settings screens as well as the editor.</p>
+<h3>Classic themes</h3>
+<p>In a classic theme, go to Appearance, then Customise, then Site Identity. There you can upload a site icon. WordPress asks for a square image and will crop it if needed, then generates the sizes used for browsers and devices.</p>
+<p>After uploading, publish your changes and check the site in a new browser tab. Our guide to building a <a href="/blog/wordpress-small-business-website/">WordPress small business website</a> covers other basics worth setting up at the same time.</p>
+
+<h2>Adding a favicon in Shopify</h2>
+<p>In Shopify, the favicon is managed through the theme editor. Go to Online Store, then Themes, and customise your current theme. Look in Theme settings for a Logo or Favicon section, where you can upload a square image.</p>
+<p>The setting is part of the theme, so if you change or update your theme, check the favicon is still in place. Our guide to <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explains how to carry settings across safely.</p>
+
+<h2>Why your new favicon might not show</h2>
+<p>A common frustration is uploading a new icon and still seeing the old one. There are a few likely reasons:</p>
+<ul>
+<li><strong>Browser caching.</strong> Browsers keep favicons for a long time. Try a private window, a different browser or clearing your cache.</li>
+<li><strong>Site caching.</strong> If your site uses caching, clear it so the updated page code is served.</li>
+<li><strong>Theme overrides.</strong> Some themes or custom code add their own favicon tags, which may override the platform setting. A developer can check the page source to see which icon files are referenced.</li>
+<li><strong>Search results.</strong> Search engines update favicons on their own schedule after recrawling your site, so changes there are not immediate.</li>
+</ul>
+
+<h2>Favicons in search results</h2>
+<p>Google publishes guidelines for favicons shown in search. In general, the icon should be square, represent your brand, be accessible to Google's crawlers and follow its content policies. Google may choose not to show a favicon or may replace one it considers unsuitable. Refer to Google's current documentation for the details, as guidance can change.</p>
+<p>Make sure your favicon files are not blocked by your robots.txt file, and that the icon is served from your own website rather than a temporary location.</p>
+
+<h2>Web app manifests</h2>
+<p>A web app manifest is a small file that tells browsers about your site's name, colours and icons when it is saved to a home screen or installed as a web app. Not every business website needs one, but if you want your site to look polished when saved to a phone, a manifest with suitable icons helps.</p>
+<p>Platforms and themes handle manifests differently. If you need one, a developer can add it and make sure the icons and colours match your branding.</p>
+
+<h2>A quick favicon checklist</h2>
+<ul>
+<li>Start with a square, simplified version of your logo mark.</li>
+<li>Check it is readable at tiny sizes and against light and dark backgrounds.</li>
+<li>Upload a high-resolution square image through your platform's site icon setting.</li>
+<li>Test in several browsers, on mobile and when saved to a home screen.</li>
+<li>Check the icon after theme changes or redesigns.</li>
+<li>Keep the original file with your brand assets for future use.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>What size should a favicon be?</h3>
+<p>Upload the largest square version your platform accepts and let it generate smaller sizes. The design should be simple enough to read clearly when shown very small.</p>
+<h3>Can I use my full logo as a favicon?</h3>
+<p>Usually not. Full logos with text become unreadable at small sizes. A simplified mark or initial almost always works better.</p>
+<h3>Why does Google show a different icon for my site?</h3>
+<p>Google may show a generic icon if it cannot find a suitable favicon, if the file is blocked or if it has not recrawled your site since you changed it. Check that your icon follows Google's guidelines and is accessible.</p>
+<h3>Do favicons affect SEO?</h3>
+<p>A favicon is not a ranking factor in itself, but it can make your search listing look more recognisable and trustworthy, which may help people choose your result.</p>
+<h3>Should my favicon change with seasonal branding?</h3>
+<p>It is possible, but frequent changes can confuse returning visitors and may take time to update in browsers and search results. Most sites keep a stable icon.</p>
+
+<h2>Need help with your website's finishing touches?</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including brand assets like favicons and app icons. If your site needs polishing, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'wordpress-menus-guide',
+    seoTitle: 'WordPress Menus: How to Build and Manage Site Navigation',
+    title: 'WordPress Menus: A Practical Guide to Building Site Navigation',
+    description: 'How to create, edit and organise WordPress menus in block and classic themes, including menu locations, dropdowns, mobile menus and common mistakes to avoid.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/wordpress-block-editor-guide/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The menu is one of the first things visitors use on a website, and one of the easiest things to get wrong. In WordPress, menus are flexible: you can add pages, posts, categories and custom links, arrange them into dropdowns and place them in different parts of your theme. That flexibility also means menus can quietly become cluttered, inconsistent or broken over time.</p>
+<p>This guide explains how menus work in WordPress, how to edit them in both block themes and classic themes, and how to keep them useful as your site grows. If you are still deciding what should go in your navigation in the first place, our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers the planning side.</p>
+
+<h2>How WordPress menus work</h2>
+<p>A WordPress menu is a list of links that your theme displays somewhere on the site, usually in the header, and often in the footer too. Each item in the menu points to something: a page, a post, a category archive, a product category if you run a shop, or a custom web address.</p>
+<p>Menus are stored separately from your pages. That means creating a new page does not automatically add it to your navigation, and deleting a page does not always remove it cleanly from a menu. Keeping the two in step is part of routine site maintenance.</p>
+<p>There are two main ways to manage menus, depending on the type of theme your site uses.</p>
+
+<h3>Block themes and the Navigation block</h3>
+<p>Block themes use the Site Editor, found under Appearance, then Editor. Here, the header and footer are template parts made of blocks, and the menu is a Navigation block. You edit the menu directly in place: click the Navigation block, then add, remove or reorder links in the block settings or the list view.</p>
+<p>Navigation menus in block themes are saved as reusable items, so the same menu can be used in more than one template part. If you edit a menu in one place, the change usually appears wherever that menu is used, which is helpful but worth remembering before you make changes.</p>
+
+<h3>Classic themes and the Menus screen</h3>
+<p>Classic themes use the Menus screen under Appearance, then Menus. You create a named menu, add items from the panels on the left, drag them into order and then assign the menu to a location your theme provides, such as Primary or Footer. Some classic themes also let you manage menus through the Customiser.</p>
+<p>If you do not see a Menus option under Appearance, your site is probably using a block theme. If you see both, your theme may support a mix of approaches, so check your theme's documentation before deciding where to make changes.</p>
+
+<h2>Creating a menu step by step</h2>
+<p>The exact screens differ between theme types, but the process is broadly the same.</p>
+<ol>
+<li><strong>Decide what the menu is for.</strong> A main header menu, a footer menu and a mobile menu often have different jobs. Write down the items each one needs before you open the editor.</li>
+<li><strong>Create or select the menu.</strong> In a block theme, select the Navigation block and choose or create a menu. In a classic theme, create a new menu on the Menus screen and give it a clear name.</li>
+<li><strong>Add items.</strong> Add pages, posts, categories or custom links. Use the search box to find content quickly on larger sites.</li>
+<li><strong>Edit labels.</strong> The menu label does not have to match the page title. A page titled "Our Services and Pricing Information" might work better in a menu as "Services".</li>
+<li><strong>Arrange the order and nesting.</strong> Drag items into order. To create a dropdown, nest an item beneath a parent.</li>
+<li><strong>Assign or place the menu.</strong> In a classic theme, tick the location. In a block theme, make sure the Navigation block in your header uses the right menu.</li>
+<li><strong>Save and test.</strong> Check the live site on desktop and mobile before moving on.</li>
+</ol>
+
+<h2>Dropdowns and sub-menus</h2>
+<p>Dropdown menus let you group related pages under a parent item. They can tidy up a busy header, but they also hide content, and they can be awkward on touch screens and for keyboard users.</p>
+<p>A few practical points help:</p>
+<ul>
+<li><strong>Keep nesting shallow.</strong> One level of dropdown is usually enough. Menus that open into a second or third level are hard to use, especially on mobile.</li>
+<li><strong>Decide what the parent item does.</strong> If the parent is a link, some visitors will click it expecting a page, while others expect it to open the dropdown. Make sure the parent page exists and is useful, or use a parent that only opens the sub-menu if your theme supports that clearly.</li>
+<li><strong>Use clear, short labels.</strong> Dropdown items are scanned quickly. Plain words work better than clever ones.</li>
+<li><strong>Avoid duplicating everything.</strong> You do not need every page in the menu. Put the important destinations there and link to others from within the content.</li>
+</ul>
+
+<h2>Custom links and special items</h2>
+<p>Custom links let you add any web address to a menu. They are useful for linking to a specific section of a page, a contact form or an external booking system you control. Be careful with them, though, because WordPress will not update a custom link if the page it points to moves. If you change a page address, check your menus for custom links that still point to the old one.</p>
+<p>You can also add category and tag archives to menus. On a blog or a shop, linking to a category can be a good way to give visitors a route into a group of related content. Make sure the archive pages themselves are tidy and have helpful introductions, so the menu leads somewhere worthwhile.</p>
+<p>Many themes support extra options for menu items, such as opening a link in a new tab, adding a CSS class or adding a description. In a classic theme, some of these are hidden by default: use the Screen Options panel at the top of the Menus screen to reveal them. Use the new tab option sparingly, because it can be disorienting for visitors.</p>
+
+<h2>Mobile menus</h2>
+<p>On smaller screens, most themes collapse the main menu behind a button, often called a hamburger menu. The way this works depends on your theme. In block themes, the Navigation block has an overlay setting that controls when the mobile menu appears.</p>
+<p>Test your mobile menu properly:</p>
+<ul>
+<li>Open and close the menu and check every item is visible and tappable.</li>
+<li>Check dropdowns can be opened on a touch screen without accidentally following the parent link.</li>
+<li>Make sure the menu button is easy to find and clearly labelled for screen readers.</li>
+<li>Check long labels do not wrap awkwardly or push other items off screen.</li>
+</ul>
+<p>If your main menu is long, it may be worth creating a simpler menu for mobile, if your theme allows it, rather than squeezing everything in.</p>
+
+<h2>Footer and secondary menus</h2>
+<p>Footer menus are a good home for links that matter but do not need a place in the header, such as your privacy policy, terms, accessibility statement, careers page or delivery information. Many sites use several small footer menus grouped under headings.</p>
+<p>Some themes also offer a secondary or top bar menu above the main header, often used for account links, contact details or a phone number. Keep this short, so it supports the main menu rather than competing with it.</p>
+
+<h2>Accessibility considerations</h2>
+<p>Menus should work for everyone, including people who navigate with a keyboard or use assistive technology. In the UK, public sector bodies have specific accessibility obligations, and other organisations may have duties under equality law; if you are unsure what applies to you, it is sensible to take advice. Whatever your situation, accessible menus are simply easier to use.</p>
+<ul>
+<li>Check you can move through the menu with the Tab key and open dropdowns without a mouse.</li>
+<li>Make sure there is a visible focus style so keyboard users can see where they are.</li>
+<li>Use descriptive labels rather than vague ones such as "More" or "Click here".</li>
+<li>Avoid menus that only open on hover with no keyboard or tap alternative.</li>
+</ul>
+<p>Well-built themes handle much of this for you, but customisations can break it, so test after changes.</p>
+
+<h2>Common menu mistakes</h2>
+<h3>Too many items</h3>
+<p>Adding every new page to the header makes the menu harder to scan. Review it regularly and move less important links to the footer or into page content.</p>
+<h3>Broken or outdated links</h3>
+<p>When pages are deleted, renamed or moved, menu items can point to the wrong place or disappear. After restructuring content, review every menu and set up redirects for any changed addresses.</p>
+<h3>Different menus in different places</h3>
+<p>On block themes in particular, it is possible to end up with several similar menus used in different templates. Visitors may see a different header on some pages. Check which menu each template part uses and consolidate where you can.</p>
+<h3>Labels that only make sense internally</h3>
+<p>Menu labels should use the words your visitors use. Internal team names, product codes or jargon can confuse people who are new to your business.</p>
+
+<h2>Keeping menus tidy over time</h2>
+<p>Treat your menus as part of regular site housekeeping. When you add or remove a significant page, ask whether the menu needs to change. Every so often, review each menu against your current priorities and check it on mobile.</p>
+<p>It also helps to agree who is responsible for menus if several people edit your site. Our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains how to control who can change things like navigation. If you are using the block editor more widely, our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the editing experience in more detail.</p>
+
+<h2>FAQs</h2>
+<h3>Why can I not find the Menus option in WordPress?</h3>
+<p>If Appearance does not show a Menus option, your site is most likely using a block theme. In that case, menus are managed through the Navigation block in the Site Editor instead.</p>
+<h3>Can I have different menus on different pages?</h3>
+<p>Yes, though how you do it depends on your theme. Block themes let you use different template parts with different Navigation blocks. Classic themes may need theme options or custom development to show different menus on specific pages.</p>
+<h3>How many items should a main menu have?</h3>
+<p>There is no fixed number. Aim for a menu visitors can scan quickly, focused on the main things they come to your site for, and move secondary links elsewhere.</p>
+<h3>Does the menu affect SEO?</h3>
+<p>Menus help search engines discover and understand your important pages, because they are linked from every page. Clear, descriptive labels and a sensible structure help both visitors and search engines.</p>
+<h3>Will changing my menu break anything?</h3>
+<p>Changing menu items does not change page addresses, so it should not break links elsewhere. However, removing a page from the menu can make it harder to find, so make sure important content is still linked from somewhere.</p>
+
+<h2>Need help with your WordPress navigation?</h2>
+<p>Prism Works Studio builds and maintains WordPress websites for UK businesses, including planning and setting up navigation that works on every device. If your menus have grown messy or your theme makes them hard to manage, <a href="/contact/">get in touch</a> to talk it through.</p>
+`,
+  },
+  {
+    slug: 'wordpress-revisions-and-autosave',
+    seoTitle: 'WordPress Revisions and Autosave: Recover Lost Content',
+    title: 'WordPress Revisions and Autosave: How to Recover and Compare Content',
+    description: 'How WordPress revisions and autosave work, how to compare and restore earlier versions of posts and pages, and how to manage revisions sensibly on your site.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-database-cleanup/', '/blog/website-backup-and-recovery-plan/'],
+    body: `
+<p>Anyone who edits a website has had that moment: a paragraph is deleted by mistake, a colleague overwrites a page, or the browser crashes halfway through a long article. WordPress has two built-in features designed for exactly these situations: revisions and autosave.</p>
+<p>Both run quietly in the background, so many site owners never look at them until something goes wrong. This guide explains how each one works, how to use them to recover content and what their limits are.</p>
+
+<h2>What are WordPress revisions?</h2>
+<p>A revision is a saved copy of a post or page at a particular point in time. Each time you save a draft, update a published post or publish something new, WordPress can store the previous version as a revision. Over time, this builds a history of how the content has changed.</p>
+<p>Revisions store the title, the content and the excerpt. They do not generally store everything else connected to a post, such as its categories, tags or featured image, and settings added by your theme or other tools may or may not be included. It is best to think of revisions as a history of the words on the page.</p>
+<p>Revisions are available for posts and pages by default. Custom post types only have revisions if they have been set up to support them, so if you use custom content types, check whether this feature is turned on. Our guide to <a href="/blog/wordpress-custom-post-types/">WordPress custom post types</a> explains how these content types work.</p>
+
+<h2>What is autosave?</h2>
+<p>Autosave is different. While you are editing, WordPress periodically saves a temporary copy of your work in the background. If your browser closes, your computer restarts or your internet connection drops, you can usually recover what you were writing when you return to the editor.</p>
+<p>There are a few important differences between autosave and revisions:</p>
+<ul>
+<li>Autosave keeps only the latest automatic copy for each user, rather than a full history.</li>
+<li>On a published post, an autosave does not change what visitors see. It is saved alongside the live version until you choose to update.</li>
+<li>When you return to a post with a newer autosave, WordPress normally shows a notice offering to restore it.</li>
+</ul>
+<p>WordPress also keeps a copy of your unsaved changes in the browser itself, which can help if the connection to the server fails. This is a useful extra layer, but it depends on using the same browser on the same device.</p>
+
+<h2>How to view revisions in the block editor</h2>
+<p>In the block editor, open a post or page and look at the settings sidebar. If the post has revisions, you will see a Revisions item, often with a count, in the post summary panel. Click it to open the revisions screen.</p>
+<p>If you do not see a revisions option, there are a few likely reasons:</p>
+<ul>
+<li>The post has not been saved more than once, so there is no earlier version yet.</li>
+<li>Revisions have been turned off or limited on your site.</li>
+<li>The content type does not support revisions.</li>
+</ul>
+<p>Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the editor interface more generally if you are still finding your way around it.</p>
+
+<h2>Comparing revisions</h2>
+<p>The revisions screen shows two versions side by side. Removed text is highlighted on one side and added text on the other, so you can see exactly what changed between saves. A slider at the top lets you move through the history, and each revision is labelled with the date, time and the user who made it.</p>
+<p>You can also tick the option to compare any two revisions rather than neighbouring ones. This is helpful when you want to see everything that changed between an older version you were happy with and the current one.</p>
+<p>Because the block editor stores layout information alongside text, comparisons sometimes include block markup that looks unfamiliar. Focus on the visible text changes, and do not worry about the technical comments that describe blocks.</p>
+
+<h2>Restoring an earlier version</h2>
+<p>When you find the version you want, click the button to restore that revision. WordPress replaces the current content with the older version. Importantly, the version you are replacing is itself kept as a revision, so restoring is reversible.</p>
+<p>A few practical tips make restoring safer:</p>
+<ul>
+<li><strong>Check what will change.</strong> Restoring brings back the whole title, content and excerpt from that point, not just one paragraph. If you only need a single section, copy it from the revisions screen and paste it into the current version instead.</li>
+<li><strong>Review before updating a published post.</strong> On a published post, restoring a revision may update the live page straight away. Read through it carefully afterwards.</li>
+<li><strong>Remember what is not restored.</strong> Categories, tags, featured images and many custom settings stay as they are, so check them separately.</li>
+</ul>
+
+<h2>Recovering from an autosave</h2>
+<p>If you return to a post and WordPress finds an autosave newer than the saved version, it will usually display a message offering to view or restore it. You can open the comparison to see the differences before deciding.</p>
+<p>If you choose to restore the autosave, its contents load into the editor. You then need to save or update as normal to keep them. If you ignore the notice and save, the autosave is replaced, so review it first if there is any chance it holds work you need.</p>
+
+<h2>Revisions when several people edit</h2>
+<p>On sites with multiple editors, revisions provide a useful record of who changed what and when. If someone edits a page and the result is not what you expected, the revisions screen shows the user, time and exact changes.</p>
+<p>WordPress also warns you if another user is currently editing the same post, and lets you take over or wait. This reduces, but does not remove, the risk of people overwriting each other's work. Clear responsibilities help, and our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains how to give people the right level of access.</p>
+
+<h2>Managing the number of revisions</h2>
+<p>By default, WordPress keeps an unlimited number of revisions. On sites where content is updated often, this can mean a large number of stored versions for each post. They are kept in the database, so a very long history can make the database larger.</p>
+<p>Developers can limit how many revisions are kept, or turn them off, using a setting in the site's configuration file. Some hosting providers also set a limit for you. A sensible limit can keep the database tidier while still giving you enough history to recover from mistakes.</p>
+<p>Think carefully before turning revisions off completely. They cost little on most sites and can save a lot of rework. If database size is a concern, our guide to <a href="/blog/wordpress-database-cleanup/">WordPress database cleanup</a> covers how to tidy old revisions and other data safely, ideally after taking a full backup.</p>
+<p>The autosave interval can also be changed in the configuration file. The default suits most sites, and making autosave much more frequent can create extra load on busy servers.</p>
+
+<h2>Revisions are not a backup</h2>
+<p>It is easy to assume that revisions mean your content is safe. They help with editing mistakes, but they have important limits:</p>
+<ul>
+<li>If a post is permanently deleted, its revisions are deleted too.</li>
+<li>They do not cover images, theme files, settings, users, orders or anything outside post content.</li>
+<li>They live in the same database as everything else, so if the database is damaged or the site is compromised, revisions are affected as well.</li>
+</ul>
+<p>A proper backup, stored separately from the website, is still essential. Our guide to building a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> explains what to back up and how to check you can restore it.</p>
+
+<h2>Good habits for safer editing</h2>
+<ul>
+<li>Save drafts regularly when working on long content, rather than relying only on autosave.</li>
+<li>For major rewrites of an important page, consider working on a copy as a draft, then replacing the original once it is ready.</li>
+<li>Before making large changes, glance at the revisions screen so you know you can roll back.</li>
+<li>Write longer pieces in the editor rather than pasting from elsewhere at the last minute, so autosave can protect your work as you go.</li>
+<li>Keep regular off-site backups as well as revisions.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Where are WordPress revisions stored?</h3>
+<p>Revisions are stored in your site's database as special entries linked to the original post. They are not visible to visitors and do not create separate pages on your site.</p>
+<h3>Do revisions slow down my website?</h3>
+<p>Revisions are not loaded when visitors view your pages, so they do not usually affect front-end speed directly. A very large number of stored revisions can make the database bigger, which is one reason some sites choose to limit them.</p>
+<h3>Can I recover a deleted post?</h3>
+<p>Posts moved to the Bin can be restored from there until the Bin is emptied. Once a post is permanently deleted, its revisions go with it, and you would need to restore from a backup.</p>
+<h3>Why does my page not have any revisions?</h3>
+<p>It may have only been saved once, revisions may be disabled on your site, or the content type may not support them. Your developer or hosting provider can check the configuration.</p>
+<h3>Does autosave publish my changes?</h3>
+<p>No. On a published post, autosave stores your changes separately and does not alter the live page until you choose to update.</p>
+
+<h2>Need help protecting your WordPress content?</h2>
+<p>Prism Works Studio builds and supports WordPress websites for UK businesses, including setting up sensible revision limits, backups and editing workflows. If you want more confidence that your content is safe, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];
