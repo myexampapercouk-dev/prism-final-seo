@@ -29120,4 +29120,520 @@ module.exports = [
 <p>Real, current screenshots help visitors understand what they would actually be using, which abstract illustrations often fail to do.</p>
 `,
   },
+  {
+    slug: 'aesthetics-clinic-website-design-uk',
+    seoTitle: 'Aesthetics Clinic Website Design: A UK Guide',
+    title: 'Aesthetics Clinic Website Design: Consultations, Treatments and Compliance',
+    description: 'Website design for UK aesthetics clinics: treatment pages, consultation booking, practitioner credentials, before and after images and advertising rules.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>An aesthetics clinic website has to do two things that can pull in different directions. It needs to present treatments attractively enough that people want to book a consultation, and it needs to stay within some of the stricter advertising rules any UK business faces. A site that gets this balance right looks polished, reads as trustworthy, and avoids the kind of claims that can lead to complaints or regulatory action.</p>
+<p>This guide covers website design for UK aesthetics and cosmetic clinics, including medical aesthetics practices, skin clinics and practitioners offering non-surgical treatments. It focuses on the website itself. Beauty salons offering non-medical treatments may find our guide to <a href="/blog/beauty-salon-marketing-uk/">beauty salon marketing</a> more relevant, and skincare product brands our guide to <a href="/blog/shopify-beauty-skincare-brand-uk/">Shopify for beauty and skincare brands</a>. This guide is not legal advice.</p>
+
+<h2>What an aesthetics clinic website needs to do</h2>
+<p>For most clinics, the website's main jobs are to:</p>
+<ul>
+<li>Explain the treatments and concerns the clinic can help with, accurately and responsibly.</li>
+<li>Encourage people to book a consultation rather than a treatment outright.</li>
+<li>Show who the practitioners are and what qualifications they hold.</li>
+<li>Give honest information about suitability, risks, recovery and aftercare.</li>
+<li>Make prices or price guidance, location and contact details easy to find.</li>
+</ul>
+<p>Each of these is shaped by the advertising rules, so it helps to understand them before designing pages.</p>
+
+<h2>The rules that shape the website</h2>
+<p>Several overlapping sets of rules can apply. Clinics should check the current versions directly, but in broad terms:</p>
+<ul>
+<li><strong>Prescription-only medicines.</strong> UK law generally prohibits advertising prescription-only medicines to the public. Botulinum toxin products fall into this category. The MHRA and the ASA have both published guidance on how this applies to aesthetics websites and social media, including the use of related terms and imagery. In practice, many clinics talk about consultations for concerns such as lines and wrinkles, rather than promoting a named prescription medicine.</li>
+<li><strong>The CAP Code.</strong> Advertising on your own website is covered by the CAP Code, enforced by the Advertising Standards Authority. Claims need to be supportable, must not mislead, and should not exaggerate results or trivialise risks. There are specific rules about targeting cosmetic interventions at under-18s.</li>
+<li><strong>Professional regulators.</strong> Doctors, nurses, dentists and pharmacists offering aesthetic treatments are also bound by their own regulators' standards on advertising and consent.</li>
+<li><strong>Changing licensing rules.</strong> Licensing for some non-surgical cosmetic procedures has been under development in parts of the UK, so clinics should keep an eye on changes that may affect what they need to display or how they operate.</li>
+</ul>
+<p>Because interpretation depends on precise wording and context, it can be worth having website copy reviewed by someone with relevant expertise before launch.</p>
+
+<h2>Treatment and concern pages</h2>
+<p>Given the rules around prescription-only medicines, many clinics organise their website around concerns and consultations rather than named products. For example, a page about lines and wrinkles might explain that the clinic offers a consultation to discuss suitable options, without promoting a specific medicine. Treatments that are not prescription-only, such as many skin treatments, may be described more directly, but still need careful, accurate wording.</p>
+<p>For each page, consider including:</p>
+<ul>
+<li>A plain explanation of the concern or treatment area.</li>
+<li>What happens at a consultation.</li>
+<li>General information about suitability, and who may not be suitable.</li>
+<li>Honest information about potential side effects, risks and recovery time.</li>
+<li>Price information, or how pricing is decided after consultation.</li>
+</ul>
+<p>Avoid phrases such as guaranteed results, risk-free, painless or permanent unless you are certain they are accurate and supportable. Time-limited offers and discounts on medical treatments can also raise concerns, because they may pressure people into decisions. Our guide to <a href="/blog/service-page-design/">service page design</a> covers general page structure.</p>
+
+<h2>Consultation-led booking</h2>
+<p>For most medical aesthetic treatments, a consultation before treatment is expected, and in many cases a prescriber needs to assess the patient. The website can reflect this by making consultations the main call to action. That might be:</p>
+<ul>
+<li>An online booking system for consultations.</li>
+<li>A consultation request form asking for basic details and the area of concern.</li>
+<li>Clear information about whether consultations are charged and whether the fee is redeemable.</li>
+</ul>
+<p>Avoid designs that let people buy a medical treatment outright before any consultation. A cooling-off period between consultation and treatment is something many practitioners consider good practice, and explaining it on the site can reinforce trust. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the general options.</p>
+
+<h2>Practitioner credentials</h2>
+<p>People choosing an aesthetics clinic increasingly look for evidence of who will be treating them. Clear practitioner profiles can include:</p>
+<ul>
+<li>Name, photo and role.</li>
+<li>Professional registration, such as with the GMC, NMC, GDC or GPhC, stated accurately.</li>
+<li>Relevant training and qualifications.</li>
+<li>Who prescribes, where prescription-only medicines are involved.</li>
+</ul>
+<p>Only list registrations, training and memberships that are genuine and current. Linking to public registers allows people to check for themselves. If your clinic is registered with the Care Quality Commission or the equivalent body in Scotland, Wales or Northern Ireland, because it provides regulated activities, stating that accurately can help. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers other ways to build confidence.</p>
+
+<h2>Before and after images</h2>
+<p>Before and after photos are popular but need particular care. The ASA has ruled against images that were edited, misleadingly lit, or not representative of typical results. Good practice includes:</p>
+<ul>
+<li>Using genuine photos of your own patients, with written consent for website use.</li>
+<li>Keeping lighting, angle and setting consistent between before and after shots.</li>
+<li>Not retouching or filtering images.</li>
+<li>Making clear that results vary from person to person.</li>
+<li>Being cautious about images linked to prescription-only medicines, given the advertising restrictions.</li>
+</ul>
+<p>Gallery pages should load quickly on mobile, so images need optimising. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers the practical side.</p>
+
+<h2>Reviews and testimonials</h2>
+<p>Testimonials on your website can be treated as claims made by the clinic, so reviews that describe results need the same care as your own copy. Reviews that mention a prescription-only medicine by name may also cause problems. Comments about the consultation, the practitioner's care and the clinic environment are generally less risky. Only publish genuine reviews with permission.</p>
+
+<h2>Prices and terms</h2>
+<p>Price transparency helps people plan, and many clinics show starting prices or price ranges for treatments, with final prices confirmed at consultation. Be careful that price presentation does not itself promote a prescription-only medicine. Clear terms on deposits, cancellations and consultation fees, shown before payment, reduce misunderstandings. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout.</p>
+
+<h2>Age restrictions and suitability</h2>
+<p>Some cosmetic procedures, including botulinum toxin and dermal fillers for cosmetic purposes, cannot legally be given to under-18s in England, and the advertising rules restrict targeting cosmetic interventions at this age group. Stating your age policy clearly, and avoiding imagery or language likely to appeal particularly to under-18s, is sensible.</p>
+
+<h2>Privacy and health data</h2>
+<p>Consultation forms often collect health information and photos, which are sensitive personal data under UK GDPR. Collect only what you need, explain how it will be stored and used, and make sure your privacy notice covers it. The Information Commissioner's Office publishes guidance for health organisations.</p>
+
+<h2>Design and tone</h2>
+<p>Aesthetics clinics often want an elegant, premium look, which can work well. Clean layouts, restrained colour palettes and good photography of the clinic help. Tone matters as much as visuals: calm, informative copy that respects the reader's decision tends to build more trust than pressure. Our guide to <a href="/blog/website-colour-and-typography/">website colour and typography</a> covers visual principles.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most clinic websites are service sites with a booking feature, so WordPress, Squarespace and Wix can all be suitable. If you also sell skincare products, that may influence the choice. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run an aesthetics clinic and want a polished, consultation-led website, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Compliance decisions about treatment content remain the clinic's responsibility, and we would encourage reviewing copy against current guidance.</p>
+
+<h2>FAQs</h2>
+<h3>Can an aesthetics clinic mention botulinum toxin on its website?</h3>
+<p>Botulinum toxin is a prescription-only medicine, which generally cannot be advertised to the public in the UK. Check current MHRA and ASA guidance, as many clinics focus on consultations for concerns instead.</p>
+<h3>Are before and after photos allowed?</h3>
+<p>They can be used if genuine, unedited, consented and representative, with a note that results vary. Extra care is needed where images relate to prescription-only medicines.</p>
+<h3>Should aesthetics clinics show prices?</h3>
+<p>Many show starting prices or ranges with final prices confirmed at consultation. Make sure the presentation does not promote a prescription-only medicine.</p>
+<h3>Should treatments be bookable online without a consultation?</h3>
+<p>For medical aesthetic treatments, a consultation-led booking process is generally more appropriate, and prescription-only treatments need a prescriber's assessment.</p>
+<h3>Who regulates aesthetics clinic advertising?</h3>
+<p>The ASA enforces the CAP Code, the MHRA oversees medicines advertising, and practitioners' own professional regulators set further standards.</p>
+`,
+  },
+  {
+    slug: 'chiropractor-osteopath-website-design-uk',
+    seoTitle: 'Chiropractor and Osteopath Website Design UK',
+    title: 'Chiropractor and Osteopath Website Design: Bookings, Trust and Careful Claims',
+    description: 'Website design for UK chiropractors and osteopaths: treatment pages, online booking, first appointment guides, registration details and careful health claims.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>Someone looking for a chiropractor or osteopath is often in discomfort, short on patience and unsure what either profession actually does. They want to know whether you can help, what will happen at the first appointment, and how soon they can be seen. A practice website that answers those questions clearly, without overpromising, can make booking feel like an easy next step.</p>
+<p>This guide covers website design for UK chiropractic and osteopathic practices, from single-practitioner clinics to multi-room practices. It focuses on the website itself. Physiotherapy practices may find our guide to <a href="/blog/physiotherapy-clinic-website-design-uk/">physiotherapy clinic website design</a> more relevant, and counsellors or talking therapists may prefer our guide to <a href="/blog/therapist-website-design-uk/">therapist website design</a>. For wider promotion of health services, see our guide to <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing</a>.</p>
+
+<h2>What the website needs to do</h2>
+<p>For most practices, the main jobs of the site are to:</p>
+<ul>
+<li>Explain what chiropractic or osteopathy involves, in plain language.</li>
+<li>Describe the conditions and situations you commonly see, carefully.</li>
+<li>Set out what happens at the first appointment and what it costs.</li>
+<li>Let people book online or request an appointment easily.</li>
+<li>Introduce practitioners and show their registration.</li>
+<li>Make location, parking, opening hours and accessibility details easy to find.</li>
+</ul>
+<p>Getting these right usually matters far more than visual flourishes.</p>
+
+<h2>Careful claims: the most important design consideration</h2>
+<p>Health claims are the area where chiropractic and osteopathy websites most often run into trouble. Advertising on your own website is covered by the CAP Code, which the Advertising Standards Authority enforces. Claims that a treatment can help with a particular condition generally need to be backed by suitable evidence, and the ASA has published guidance relating to both professions over the years. Professional standards set by the General Chiropractic Council and the General Osteopathic Council also expect registrants to advertise in a way that is accurate and not misleading.</p>
+<p>The details can change, and interpretation depends on exact wording, so practices should check the current guidance from the ASA, CAP and their own regulator and professional body, and take advice if unsure. As general principles for website content:</p>
+<ul>
+<li>Avoid words such as cure, guarantee, fix or permanent relief.</li>
+<li>Be cautious about listing specific medical conditions as things you treat, unless you are confident the claim is supportable under current guidance.</li>
+<li>Describe what you do, such as assessment, hands-on treatment, exercise advice, rather than promising outcomes.</li>
+<li>Do not discourage anyone from seeking medical advice, and say when people should see a GP or seek urgent care instead.</li>
+<li>Be careful with testimonials, which are treated as claims by the practice if they imply treatment results.</li>
+</ul>
+<p>Building this into the design from the start, for example by planning service pages around the patient journey rather than long condition lists, is much easier than rewriting a site after a complaint.</p>
+
+<h2>Explaining the profession</h2>
+<p>Many visitors are not sure of the difference between a chiropractor, an osteopath and a physiotherapist. A short, neutral page explaining your profession, what training practitioners have and how treatment generally works can help. Keep it factual and avoid comparing yourself unfavourably with other professions. If your practice offers more than one discipline, explain how patients can decide which to book, or invite them to call for advice.</p>
+
+<h2>Treatment and service pages</h2>
+<p>Rather than building pages around conditions, many practices find it clearer to organise around services and patient groups. Examples might include:</p>
+<ul>
+<li>Initial consultation and assessment.</li>
+<li>Follow-up treatment sessions.</li>
+<li>Sports massage or soft tissue work, if offered.</li>
+<li>Appointments for specific groups, such as pregnancy or older adults, if you genuinely offer tailored care and the wording is carefully checked.</li>
+<li>Workplace or ergonomic advice, if relevant.</li>
+</ul>
+<p>For each, explain who it is for, what happens, how long it takes and the price or where to find it. Our guide to <a href="/blog/service-page-design/">service page design</a> covers structure and layout principles that apply here.</p>
+
+<h2>The first appointment</h2>
+<p>A first appointment page is one of the most useful things a practice can publish. People who are in discomfort or nervous about hands-on treatment want to know exactly what to expect. You might cover:</p>
+<ul>
+<li>How long the first appointment usually lasts.</li>
+<li>The case history and assessment process.</li>
+<li>Whether treatment usually starts in the first session.</li>
+<li>What to wear, and how modesty and comfort are handled.</li>
+<li>Whether someone can bring a chaperone.</li>
+<li>What happens if treatment is not considered suitable.</li>
+<li>The cost and accepted payment methods.</li>
+</ul>
+<p>Explaining consent, and that patients can ask questions or stop at any point, can be reassuring. A calm, plain tone suits this page well.</p>
+
+<h2>Online booking</h2>
+<p>Many patients want to book outside clinic hours, often when discomfort is on their mind. Practice management systems commonly include an online booking feature that can be embedded on a website or linked from it. If yours does, make it prominent and test it thoroughly on a phone. Let patients choose the right appointment type, such as a new patient assessment rather than a follow-up, so diaries are not disrupted. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the general options.</p>
+<p>Keep a phone number visible too, as some patients prefer to talk first, and a click-to-call button on mobile can be helpful.</p>
+
+<h2>Practitioner profiles and registration</h2>
+<p>In the UK, the titles chiropractor and osteopath are protected by law, and practitioners must be registered with the General Chiropractic Council or the General Osteopathic Council respectively. Showing this accurately is a meaningful trust signal. For each practitioner, a profile might include:</p>
+<ul>
+<li>A photo and short introduction.</li>
+<li>Their registration with the relevant regulator, stated accurately.</li>
+<li>Their qualifications and any areas of particular interest, phrased carefully.</li>
+<li>The days they work.</li>
+</ul>
+<p>Linking to the regulator's public register lets patients check for themselves. Membership of professional associations can also be mentioned where genuine. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers other ways to build confidence, such as real photos of the clinic and clear contact details.</p>
+
+<h2>Prices, insurance and policies</h2>
+<p>Patients often want to know costs upfront. A clear fees page listing the price of initial and follow-up appointments, along with your cancellation policy, can reduce phone calls. If patients may be able to claim through private health insurance, explain that cover varies and that they should check with their insurer before booking. Avoid suggesting insurers will definitely pay unless you have confirmed arrangements.</p>
+
+<h2>Reviews and testimonials</h2>
+<p>Reviews can help, but in health they need care. Testimonials that describe recovery from a specific condition may be treated as a claim made by the practice, so the same rules apply as for your own wording. General comments about the experience, such as friendliness, clarity of explanation or ease of booking, are less likely to raise concerns. Only use genuine reviews, with permission, and do not edit them in ways that change their meaning.</p>
+
+<h2>Privacy and health data</h2>
+<p>Booking and intake forms often collect health information, which is special category data under UK GDPR. Collect only what you genuinely need, explain how it will be used and stored, and make sure your privacy notice covers it. If your practice management system handles intake forms, check how it stores data. The Information Commissioner's Office publishes guidance for health organisations.</p>
+
+<h2>Accessibility and practical details</h2>
+<p>Patients may have restricted movement, so physical access information matters. State whether there is step-free access, parking nearby and a ground floor treatment room. Online accessibility matters too: clear text, good contrast and forms that work with assistive technology. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most practice websites are service sites with a booking feature, so WordPress, Squarespace and Wix can all be suitable. The choice often depends on how the site needs to connect with your practice management system and who will keep it updated. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a chiropractic or osteopathic practice and want a clear, careful site that makes booking straightforward, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Content decisions about health claims remain the practice's responsibility, and we would encourage checking them against current guidance from your regulator and the ASA.</p>
+
+<h2>FAQs</h2>
+<h3>Can a chiropractor or osteopath list conditions they treat on their website?</h3>
+<p>Claims about treating specific conditions generally need to be supported by suitable evidence under advertising rules. Check current guidance from the ASA, CAP and your regulator before listing conditions, and take advice if unsure.</p>
+<h3>Should practitioners show their registration on the website?</h3>
+<p>Yes, stating registration with the General Chiropractic Council or General Osteopathic Council accurately, and linking to the public register, helps patients check credentials.</p>
+<h3>Is online booking worth it for a small practice?</h3>
+<p>For many practices it is, as patients often want to book outside hours. Check whether your practice management system offers booking that can link to your website.</p>
+<h3>Can I use patient testimonials?</h3>
+<p>Testimonials can be treated as claims by the practice, so those describing treatment results need the same care as your own wording. Comments about the overall experience are usually safer.</p>
+<h3>What should a first appointment page include?</h3>
+<p>How long it lasts, what the assessment involves, whether treatment starts on the day, what to wear, chaperone options and the cost.</p>
+`,
+  },
+  {
+    slug: 'mortgage-broker-website-design-uk',
+    seoTitle: 'Mortgage Broker Website Design: A UK Guide',
+    title: 'Mortgage Broker Website Design: Enquiries, Trust and FCA Considerations',
+    description: 'Website design for UK mortgage brokers: enquiry forms, mortgage type pages, calculators, FCA status disclosures, risk warnings and building client trust.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/mortgage-broker-marketing-uk/', '/pricing/'],
+    body: `
+<p>Someone looking for a mortgage broker is usually facing one of the biggest financial decisions of their life. They want to know whether you can help with their situation, how the process works, whether there is a fee, and whether you are properly authorised. A well-designed broker website answers those questions calmly and clearly, then makes it easy to start a conversation.</p>
+<p>This guide covers website design for UK mortgage brokers, from sole traders to small advice firms, whether directly authorised or appointed representatives of a network. It focuses on the website itself. For promoting your firm more widely, see our guide to <a href="/blog/mortgage-broker-marketing-uk/">mortgage broker marketing</a>. Firms offering wider financial planning may find our guide to <a href="/blog/financial-adviser-website-design-uk/">financial adviser website design</a> more relevant. This guide is not regulatory advice.</p>
+
+<h2>What a broker website needs to do</h2>
+<p>For most brokers, the main jobs of the website are to:</p>
+<ul>
+<li>Explain the types of mortgage and situations you can help with.</li>
+<li>Show how the advice process works, step by step.</li>
+<li>Be clear about fees and how you are paid.</li>
+<li>Display regulatory status and required disclosures correctly.</li>
+<li>Make it easy to book a call or submit an enquiry securely.</li>
+<li>Build trust through clear information about the broker or team.</li>
+</ul>
+<p>A site that does these well, without jargon or pressure, will usually serve visitors better than one full of rate headlines.</p>
+
+<h2>Regulation and the website</h2>
+<p>Mortgage advice is regulated by the Financial Conduct Authority, and a broker's website is generally treated as a financial promotion. Financial promotions need to be clear, fair and not misleading, and there are specific disclosure expectations. The exact requirements depend on your permissions and circumstances, and the rules change, so check the current FCA Handbook, Consumer Duty expectations and any guidance from your network or compliance support. Points brokers commonly consider include:</p>
+<ul>
+<li>Displaying your firm's regulatory status and FCA register number accurately, and for appointed representatives, the principal firm.</li>
+<li>Including the risk warning about your home being repossessed if you do not keep up repayments, where required.</li>
+<li>Being transparent about fees, including whether you charge a broker fee and when it is payable.</li>
+<li>Explaining whether you search the whole of market or a limited panel of lenders, accurately.</li>
+<li>Making clear which services, such as some buy-to-let or commercial lending, may not be regulated by the FCA.</li>
+</ul>
+<p>Appointed representatives usually need website content approved by their network before it goes live. Building time for that into the project avoids delays at launch. For more on compliant promotion, see our guide to <a href="/blog/fca-compliant-marketing-financial-advisers/">FCA-compliant marketing</a>.</p>
+
+<h2>Pages for different situations</h2>
+<p>Mortgage needs vary widely, and visitors want to see quickly that you understand their circumstances. Separate pages, where you genuinely offer the service, might cover:</p>
+<ul>
+<li>First-time buyers.</li>
+<li>Home movers.</li>
+<li>Remortgaging and product transfers.</li>
+<li>Buy-to-let and landlord mortgages.</li>
+<li>Self-employed and contractor applicants.</li>
+<li>Later life lending, if you hold the required permissions and qualifications.</li>
+<li>Protection insurance, such as life cover and income protection, if you advise on it.</li>
+</ul>
+<p>For each, explain the common considerations in plain language, how you can help, and what information people will need. Avoid implying that you can secure a mortgage for anyone or guarantee approval or a particular rate. Separate pages can also help people searching for specific help, such as a mortgage broker for self-employed applicants in their area. Our guide to <a href="/blog/service-page-design/">service page design</a> covers layout principles.</p>
+
+<h2>Explaining the process</h2>
+<p>Many people have never used a broker and are unsure what happens. A simple page describing your actual process can be reassuring. This might cover the initial conversation, gathering documents, researching options, recommendation, application, offer and completion, along with roughly how long each stage can take. Only describe steps you genuinely follow, and be clear that timescales depend on lenders and individual circumstances.</p>
+
+<h2>Fees and how you are paid</h2>
+<p>Clarity on fees builds trust and is part of regulatory expectations. Explain whether you charge a fee, how much or how it is calculated, when it becomes payable, and whether you also receive commission from lenders. A dedicated fees page, linked from the main navigation, can make this easy to find. Avoid describing your service as free if a fee may apply in some circumstances.</p>
+
+<h2>Enquiry forms and data security</h2>
+<p>The enquiry form is often the most important element on a broker site. Some brokers use a short contact form to arrange a call, while others offer a more detailed online fact-find. Consider:</p>
+<ul>
+<li>Keeping the first form short, with just enough to arrange a conversation.</li>
+<li>Explaining what happens next and how quickly you aim to respond.</li>
+<li>Offering a way to book a call directly into your diary.</li>
+<li>Saving more detailed financial questions for a secure fact-find later.</li>
+</ul>
+<p>Financial information is sensitive. Forms should be served securely, collect only what is needed, and be covered by a clear privacy notice in line with UK GDPR. If you use a client portal or CRM for fact-finds, link to it rather than collecting detailed financial data through a basic contact form. Never ask visitors to send passport or bank details by unsecured email. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers general good practice.</p>
+
+<h2>Calculators and tools</h2>
+<p>Mortgage calculators can be useful, giving visitors a rough idea of borrowing or repayments. If you include them, make sure they are accurate, clearly labelled as illustrations only, and do not imply a lending decision or recommendation. Outputs may count as part of your financial promotion, so they should be reviewed alongside the rest of the site. Keep calculators simple and fast on mobile, and pair them with a clear invitation to speak to a broker for advice.</p>
+
+<h2>Showing rates and products</h2>
+<p>Some brokers want to display rates on their website. This needs particular care, as rates change frequently and showing a rate can create an expectation that a visitor may not qualify for. If you show rates, ensure they are current, representative and accompanied by any required information. Many brokers find it simpler to explain that they research options for each client individually.</p>
+
+<h2>Building trust</h2>
+<p>Trust is central for brokers. A clear about page with real photos, qualifications such as CeMAP or equivalent where genuinely held, and how long the firm has operated, if relevant, can help. Display only genuine client reviews, with permission, and avoid presenting reviews in a way that implies outcomes others will achieve. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers other approaches.</p>
+<p>Because you work with personal finances, a professional, uncluttered design with clear contact details, a physical address where appropriate and visible regulatory information helps visitors feel confident.</p>
+
+<h2>Helpful content and guides</h2>
+<p>Guides explaining topics such as how much deposit you might need, what affects affordability, or what happens when a fixed rate ends can attract people early in their research. Keep content accurate and up to date, date guides so readers know when they were written, and treat them as financial promotions for compliance purposes. Our guide to <a href="/blog/financial-adviser-seo-uk/">SEO for financial advisers</a> covers related ideas that can also apply to brokers.</p>
+
+<h2>Accessibility and vulnerable customers</h2>
+<p>The FCA expects firms to consider the needs of customers in vulnerable circumstances. On the website, this can mean plain language, readable text, good contrast and offering several ways to get in touch, such as phone, email and form. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most broker sites are service sites with enquiry forms, so WordPress, Squarespace and Wix can all work. The choice often depends on how forms connect to your CRM, whether you need calculators, and your network's requirements for content control. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you are a mortgage broker and want a clear, professional website that makes enquiries easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>. Regulatory sign-off of website content remains the responsibility of the firm and, where relevant, its network.</p>
+
+<h2>FAQs</h2>
+<h3>What regulatory information should a mortgage broker website show?</h3>
+<p>Commonly your regulatory status and FCA register number, principal firm details for appointed representatives, fee information and relevant risk warnings. Check current FCA rules and your network's requirements.</p>
+<h3>Do appointed representatives need network approval for their website?</h3>
+<p>Usually, yes. Networks typically need to approve financial promotions, including website content, before publication.</p>
+<h3>Should a broker website include a mortgage calculator?</h3>
+<p>It can help, as long as results are clearly illustrative, accurate and reviewed for compliance alongside the rest of the site.</p>
+<h3>Is it safe to collect fact-find information through a website?</h3>
+<p>Detailed financial information is better collected through a secure portal or CRM. Keep initial website forms short and covered by a clear privacy notice.</p>
+<h3>Should brokers show mortgage rates on their website?</h3>
+<p>Rates change often and may not apply to every visitor, so many brokers prefer to explain their research process. If you show rates, keep them current and representative.</p>
+`,
+  },
+  {
+    slug: 'tattoo-studio-website-design-uk',
+    seoTitle: 'Tattoo Studio Website Design: A Guide for UK Studios',
+    title: 'Tattoo Studio Website Design: Portfolios, Artists and Bookings',
+    description: 'Website design for UK tattoo studios: artist portfolios, consultation and booking requests, deposits, aftercare pages, age policies and local search.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>People rarely choose a tattoo studio on price alone. They choose an artist whose style they like, a studio that feels clean and welcoming, and a process that seems clear and professional. Much of that judgement now happens online, often after someone has already seen an artist's work on social media and wants to know more before getting in touch. A studio website is where that curiosity turns into a booking request, or quietly drifts away.</p>
+<p>This guide covers website design for UK tattoo studios, from single-artist private studios to busy shops with several resident and guest artists. It focuses on the website itself. For getting found in local search, see our guides to <a href="/blog/local-seo-uk-guide/">local SEO</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile</a>.</p>
+
+<h2>What a tattoo studio website needs to do</h2>
+<p>Social media profiles are good at showing fresh work, but they are less good at answering practical questions or collecting structured enquiries. A website fills that gap. For most studios, its main jobs are to:</p>
+<ul>
+<li>Show each artist's style through a well-organised portfolio.</li>
+<li>Explain how to book, from first enquiry to consultation and appointment.</li>
+<li>Set out deposits, cancellation terms and age requirements clearly.</li>
+<li>Reassure visitors about hygiene, licensing and professionalism.</li>
+<li>Provide aftercare information people can return to after their session.</li>
+<li>Make the address, opening hours and contact details easy to find.</li>
+</ul>
+<p>Keeping those jobs in mind helps avoid a site that looks striking but leaves people unsure what to do next.</p>
+
+<h2>Artist pages and portfolios</h2>
+<p>Most people search for a style before a studio, such as fine line, blackwork, traditional, realism or lettering. That makes individual artist pages one of the most useful parts of the site. A good artist page might include:</p>
+<ul>
+<li>A short introduction in the artist's own voice.</li>
+<li>The styles they specialise in, and any they do not take on.</li>
+<li>A curated gallery of healed and fresh work, clearly labelled.</li>
+<li>Their availability or how often their books open.</li>
+<li>A link straight to the enquiry form, with their name already selected.</li>
+</ul>
+<p>Quality matters more than quantity. A tight selection of well-lit, well-cropped photos tends to say more than hundreds of images of varying quality. Showing healed work alongside fresh pieces can help, because it shows how tattoos settle over time. Images should be optimised so galleries load quickly on mobile, which is where most visitors will browse. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers the practical side.</p>
+<p>If your studio hosts guest artists, a simple guest spots page listing who is visiting and when can be useful, as long as someone keeps it up to date. Out of date guest listings can frustrate people who travel to book.</p>
+<p>Before publishing any photo, make sure the client is comfortable with their tattoo being shown, particularly for pieces on more personal areas of the body. Some studios ask for this consent as part of their booking or release form.</p>
+
+<h2>The enquiry and booking process</h2>
+<p>Booking a tattoo is usually different from booking a haircut. Custom pieces need a design conversation first, sizes and placements affect timings, and some artists only open their books at certain times. The website should explain whatever process your studio actually uses. Common approaches include:</p>
+<ul>
+<li><strong>A structured enquiry form</strong> asking for the idea, placement, approximate size, preferred artist, reference images and availability.</li>
+<li><strong>Consultation bookings</strong>, in person or by video, before the main appointment.</li>
+<li><strong>Online booking</strong> for fixed items such as flash designs, small walk-in style pieces or piercings, if your studio offers them.</li>
+</ul>
+<p>A good enquiry form saves time on both sides. It means artists receive the information they need in one go, rather than through a long back-and-forth in direct messages. Keep it as short as possible while still collecting the essentials, and allow image uploads for references. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more on getting forms right, and our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the general options for appointments.</p>
+<p>Tell people what happens after they submit. If artists typically reply within a certain timeframe, or if they only respond to enquiries that fit their style, saying so upfront can reduce follow-up messages.</p>
+
+<h2>Flash days and available designs</h2>
+<p>Many studios run flash days or keep a selection of pre-drawn designs available. A dedicated page can show available flash, mark designs as claimed and explain how flash bookings work. This can be a simple gallery updated by the studio, or a booking setup that lets people reserve a design and slot together. Whichever approach you take, make sure it is easy for whoever runs the studio to update without needing technical help.</p>
+
+<h2>Deposits, cancellations and policies</h2>
+<p>Deposits are common in tattooing, and misunderstandings about them can cause friction. A clear policies page, linked from the booking form, might cover:</p>
+<ul>
+<li>Whether a deposit is required, how it is paid and whether it comes off the final price.</li>
+<li>What happens if someone cancels, reschedules or does not turn up.</li>
+<li>How design changes are handled before the appointment.</li>
+<li>Payment methods accepted on the day.</li>
+</ul>
+<p>Write these in plain language rather than legal-sounding terms. If you take deposits online, make sure your terms are shown before payment. Consumer law can affect what is fair and enforceable in cancellation terms, so it may be worth taking advice if you are unsure. For prices themselves, many studios explain how pricing works, such as a minimum charge or an hourly or day rate approach, rather than listing fixed figures for custom work.</p>
+
+<h2>Age, ID and health questions</h2>
+<p>In the UK, it is illegal to tattoo anyone under 18, even with parental consent. Stating this clearly, and explaining that ID may be requested, avoids awkward conversations at the door. A short section on who may need to wait or seek medical advice before being tattooed, for example during pregnancy, with certain skin conditions or on certain medications, can also help, as long as it is phrased carefully and encourages people to raise concerns with the artist or their GP rather than offering medical advice.</p>
+<p>If your booking form or consent form collects health information, that is sensitive personal data under UK GDPR. Only ask for what you genuinely need, explain how it will be stored and used, and make sure your privacy notice covers it. The Information Commissioner's Office publishes guidance for small businesses.</p>
+
+<h2>Hygiene, licensing and trust</h2>
+<p>A first tattoo can be nerve-wracking, and visitors will look for reassurance that a studio is clean and professional. In much of the UK, tattooists and premises need to be registered or licensed with their local council, and the specific requirements vary depending on where you are. Rather than making broad claims, a studio might simply state that it is registered or licensed with its local authority, if that is the case, and describe its hygiene practices in plain terms, such as single-use needles and how equipment is cleaned.</p>
+<p>Photos of the studio space, a short note about the team and genuine reviews from clients can all help. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers this in more detail. Only display reviews that are real, and avoid editing them in ways that change their meaning.</p>
+
+<h2>Aftercare pages</h2>
+<p>An aftercare page is one of the most useful things a studio website can offer. Clients often lose the printed sheet they are given and search for advice in the days that follow. A clear page explaining your studio's recommended aftercare, what is normal during healing, and when to seek medical advice gives them something reliable to return to. Keep the advice consistent with what artists tell clients in person, and suggest people speak to a pharmacist or GP if they are worried about signs of infection.</p>
+<p>A short link to this page in confirmation emails or on a card handed out after the session can make it easy to find again.</p>
+
+<h2>Design and tone</h2>
+<p>Tattoo studios have more freedom with visual identity than many businesses. Dark backgrounds, bold typography and strong imagery can all work, but they should not get in the way of readability. Text needs enough contrast to read comfortably, buttons should be obvious, and the site needs to work well on a phone. Our guides to <a href="/blog/website-colour-and-typography/">website colour and typography</a> and <a href="/blog/mobile-website-design/">mobile website design</a> cover the principles, and accessibility guidance applies here as much as anywhere.</p>
+<p>Let the studio's personality come through in the writing too. A friendly, direct tone can make the process feel less intimidating for first-timers, while still being clear about policies.</p>
+
+<h2>Selling merchandise and gift vouchers</h2>
+<p>Some studios sell prints, clothing or aftercare products, and gift vouchers can be popular. These can be added through a simple online shop, or through ecommerce features on platforms such as Shopify, WooCommerce or Squarespace. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> covers how vouchers can work on a website. Keep the shop secondary to the main purpose of the site, so it does not distract from artist pages and enquiries.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most tattoo studio websites are portfolio and enquiry sites, so WordPress, Squarespace and Wix can all be suitable. The decision often depends on how many artists need their own galleries, whether you want online deposits or a shop, and who will update the site day to day. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a tattoo studio and want a site that shows off your artists' work and makes booking requests easier to manage, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does a tattoo studio need a website if it is active on social media?</h3>
+<p>Social media is good for showing new work, but a website can organise portfolios by artist, collect structured enquiries and explain policies in one place, which social profiles do less well.</p>
+<h3>Should tattoo studios take deposits online?</h3>
+<p>Many studios do, as it can reduce no-shows. If you take deposits online, show your deposit and cancellation terms clearly before payment, and consider taking advice on whether they are fair.</p>
+<h3>What should a tattoo enquiry form ask for?</h3>
+<p>Typically the idea, placement, approximate size, preferred artist, reference images and availability. Keep it short enough that people complete it.</p>
+<h3>Should prices be listed on a tattoo studio website?</h3>
+<p>Fixed prices are hard for custom work, so many studios explain how pricing works, such as a minimum charge or how time is quoted, and invite people to enquire.</p>
+<h3>Do tattoo studios need a licence in the UK?</h3>
+<p>Requirements are set locally and vary across the UK. Check with your local council about registration or licensing for your premises and artists.</p>
+`,
+  },
+  {
+    slug: 'yoga-pilates-studio-website-design-uk',
+    seoTitle: 'Yoga and Pilates Studio Website Design UK',
+    title: 'Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships',
+    description: 'Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-online-booking-systems/', '/pricing/'],
+    body: `
+<p>A yoga or Pilates studio website has a slightly unusual job. It needs to serve regulars who just want to book tomorrow's class in a few taps, and it needs to welcome nervous beginners who are not sure what vinyasa means or whether reformer Pilates is right for them. Getting both right, without the site feeling cluttered, is what good studio web design is about.</p>
+<p>This guide covers website design for UK yoga studios, mat and reformer Pilates studios, and teachers running classes from hired spaces. It focuses on the website itself. If you run a larger gym or fitness centre, our guide to <a href="/blog/gym-website-design-uk/">gym website design</a> may be a closer fit, and one-to-one coaches may find our guide to <a href="/blog/personal-trainer-website-design-uk/">personal trainer website design</a> useful. For getting found locally, see our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a>.</p>
+
+<h2>What a studio website needs to do</h2>
+<p>For most studios, the main jobs of the website are to:</p>
+<ul>
+<li>Show the timetable clearly and let people book or join a waitlist.</li>
+<li>Explain class types and levels in plain language.</li>
+<li>Set out passes, memberships and intro offers.</li>
+<li>Introduce teachers and the feel of the studio.</li>
+<li>Promote workshops, courses, teacher training or retreats where relevant.</li>
+<li>Make location, parking, changing facilities and accessibility details easy to find.</li>
+</ul>
+<p>Everything else is secondary. A calm, well-structured site that does these jobs well will usually serve students better than one packed with features.</p>
+
+<h2>The timetable and booking journey</h2>
+<p>For regulars, the website is mostly a route to the timetable. That route should be short. A clear link in the main navigation, a timetable that works on a small screen, and the ability to book in a few steps are the priorities.</p>
+<p>Many studios use dedicated class booking software, which can usually be embedded on a website or linked from it. If you already use one, the design should make it feel part of the site rather than a jarring jump to a different look. If you are choosing a system, think about:</p>
+<ul>
+<li>How well the timetable displays on mobile.</li>
+<li>Whether students can book, cancel and join waitlists themselves.</li>
+<li>How passes, memberships and intro offers are sold and tracked.</li>
+<li>Whether it handles limited-capacity classes, such as reformer sessions with a set number of machines.</li>
+<li>How it handles online or hybrid classes, if you run them.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the general options. Whichever system you use, test the full journey on a phone, from finding a class to receiving confirmation, because small frictions add up.</p>
+
+<h2>Explaining class types and levels</h2>
+<p>Beginners often find studio timetables confusing. Class names like flow, yin, hatha, ashtanga, mat Pilates, reformer and barre mean little to someone new. A short class guide, with a page or section for each type, can help. For each class, explain:</p>
+<ul>
+<li>What the class involves and how it feels, in everyday language.</li>
+<li>Who it suits, and whether any experience is needed.</li>
+<li>How long it lasts and what to bring or wear.</li>
+<li>Any equipment involved, such as reformer machines.</li>
+</ul>
+<p>Labelling classes on the timetable by level, such as beginner, all levels or more experienced, helps people choose without needing to ask. Separate class pages can also support people searching for a specific type of class in your area, such as reformer Pilates or hot yoga.</p>
+<p>Be careful with health claims. It is fine to describe what a class involves, but avoid promising specific health outcomes, such as curing back pain or treating medical conditions. Advertising rules, enforced by the Advertising Standards Authority, apply to claims on websites, and health-related claims need to be supportable. Encouraging people with injuries, health conditions or pregnancies to check with a medical professional and speak to the teacher before class is a sensible approach.</p>
+
+<h2>A page for first-timers</h2>
+<p>A dedicated new students page can do a lot of work. It might cover:</p>
+<ul>
+<li>Which classes are best to start with.</li>
+<li>What to wear and bring, and whether mats are provided.</li>
+<li>How early to arrive and what happens when you get there.</li>
+<li>How intro offers work, if you have them.</li>
+<li>A short note on etiquette, such as phones and late arrivals.</li>
+</ul>
+<p>Linking this page from the homepage and the timetable means beginners can find it without hunting. A warm, encouraging tone suits this page, as many people feel nervous walking into their first class.</p>
+
+<h2>Passes, memberships and offers</h2>
+<p>Studios often have several ways to pay: drop-in classes, class packs, monthly memberships and intro offers. These can get confusing quickly. A clear pricing page, ideally with a simple comparison, helps people choose. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout principles.</p>
+<p>Make the terms easy to find. Expiry dates on class packs, notice periods on memberships, cancellation windows for booked classes and late cancellation charges should be shown before anyone pays. Consumer law can affect what terms are fair, particularly for recurring memberships, so taking advice may be sensible if you are unsure. Clear terms upfront also tend to reduce awkward conversations later.</p>
+
+<h2>Teacher profiles and studio feel</h2>
+<p>Many students follow a particular teacher, so short teacher profiles are worth including. A photo, a few lines about their approach, the classes they teach and relevant training or qualifications can all help. Only list qualifications that teachers genuinely hold, and keep profiles updated when teachers join or leave.</p>
+<p>Photos of the actual studio, natural light, the reformer room, changing areas, help people picture themselves there. Real photos usually feel more trustworthy than stock images. If you photograph classes, make sure the people in the photos are happy to appear on the website.</p>
+
+<h2>Workshops, courses, teacher training and retreats</h2>
+<p>Beyond weekly classes, many studios run workshops, beginner courses, teacher training or retreats. These often need more detail than a timetable entry: dates, schedule, what is included, prerequisites, payment options and cancellation terms. Giving each a dedicated page makes them easier to share and promote.</p>
+<p>Retreats in particular can involve accommodation, travel and larger payments. If you organise them, be clear about exactly what is included, who is responsible for what, and the cancellation terms. Depending on how they are structured, package travel rules may apply, so it is worth checking your position before selling retreats through your website.</p>
+
+<h2>Online classes and on-demand content</h2>
+<p>Some studios offer live-streamed classes or an on-demand video library. If you do, make the online offer clear and separate from in-studio classes, so people do not book the wrong thing. On-demand libraries can be hosted through booking software, membership platforms or a members area on your own site. Our guide to <a href="/blog/website-video-guide/">using video on your website</a> covers some of the practical considerations, such as hosting and page speed.</p>
+
+<h2>Accessibility and inclusive design</h2>
+<p>Yoga and Pilates attract a wide range of people, including older students, people recovering from injury and people with disabilities. Accessible design matters for all of them. Clear text, good contrast, descriptive link text and forms that work with screen readers are good practice for any site. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the basics.</p>
+<p>Physical access information is also important. Say whether the studio has step-free access, where the nearest parking is, and what changing facilities are available. If you offer adapted classes, chair yoga or classes for specific groups, make them easy to find.</p>
+
+<h2>Health information and privacy</h2>
+<p>Many studios ask new students to complete a health questionnaire. This is sensitive personal data under UK GDPR, so only ask what you genuinely need, explain how it will be used and stored, and make sure your privacy notice covers it. If your booking software collects this information, check how it handles it. The Information Commissioner's Office publishes guidance for small businesses.</p>
+
+<h2>Design and tone</h2>
+<p>Studios often want a calm, uncluttered look, and that suits the purpose. Plenty of white space, readable typography and a restrained colour palette can work well, as long as key actions such as booking remain obvious. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to balance atmosphere with clear calls to action.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most studio sites are content sites with an embedded booking system, so WordPress, Squarespace and Wix can all work. If you plan to sell products such as mats or clothing, or run a substantial on-demand library, that may influence the choice. Our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom websites</a> covers the trade-offs, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> explains what affects budgets.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a yoga or Pilates studio and want a site that makes booking easy and welcomes new students, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I embed my class booking system on my website?</h3>
+<p>Most class booking systems offer a way to embed a timetable or link to a booking page. The design should make that step feel consistent with the rest of the site, and it should work well on mobile.</p>
+<h3>Should a yoga studio website list prices?</h3>
+<p>Generally yes. Clear prices for drop-ins, class packs and memberships help people decide, and terms such as expiry and notice periods should be visible before payment.</p>
+<h3>How can a studio website help beginners?</h3>
+<p>A new students page explaining which classes to start with, what to bring and what to expect, along with clear level labels on the timetable, can help beginners feel confident booking.</p>
+<h3>Can yoga studios make health claims on their website?</h3>
+<p>Describe classes accurately but avoid promising specific health outcomes. Advertising rules apply to website claims, and health claims need to be supportable.</p>
+<h3>Do reformer Pilates studios need different booking features?</h3>
+<p>Reformer classes usually have a fixed number of machines, so booking needs to handle limited capacity, waitlists and late cancellations reliably.</p>
+`,
+  },
 ];
