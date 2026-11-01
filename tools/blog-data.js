@@ -33851,4 +33851,560 @@ module.exports = [
 <p>Yes. We can review your store's product and inventory setup and talk through options. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'ecommerce-abandoned-cart-recovery',
+    seoTitle: 'Abandoned Cart Recovery for UK Online Shops',
+    title: 'Abandoned Cart Recovery: How UK Online Shops Can Win Back Lost Sales',
+    description: 'A practical guide to abandoned cart recovery for UK ecommerce: why shoppers leave, fixing checkout friction, reminder emails and staying within UK data rules.',
+    date: '2026-11-01',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/ecommerce-email-marketing-uk/', '/blog/shopify-conversion-rate-optimisation/'],
+    body: `
+<p>Abandoned cart recovery is the work of bringing back shoppers who added items to their basket but left before paying. It has two halves. The first is reducing abandonment by removing friction from the basket and checkout. The second is following up with people who still leave, usually by email, in a way that is useful and respects UK data protection rules.</p>
+<p>Many shop owners jump straight to reminder emails. They help, but they only recover a portion of people who leave for reasons you could have fixed. This guide starts with the causes, then covers reminders, discounts, tracking and the legal points to check.</p>
+
+<h2>Why shoppers abandon their baskets</h2>
+<p>Not every abandoned basket is a lost sale. Some people add items to compare prices, save a list for later or check delivery costs. That behaviour is normal. The baskets worth worrying about are the ones where the shopper intended to buy and something stopped them.</p>
+<p>Typical reasons include:</p>
+<ul>
+<li><strong>Unexpected costs.</strong> Delivery charges or other fees appearing late in checkout.</li>
+<li><strong>Forced account creation.</strong> Being made to register before paying.</li>
+<li><strong>A long or confusing checkout.</strong> Too many fields, steps or distractions.</li>
+<li><strong>Limited payment options.</strong> The shopper's preferred method is not offered.</li>
+<li><strong>Unclear delivery or returns.</strong> Not knowing when the order will arrive or how to send it back.</li>
+<li><strong>Trust concerns.</strong> A site that feels unfinished, slow or unfamiliar.</li>
+<li><strong>Technical problems.</strong> Errors, broken discount fields or pages that do not work on mobile.</li>
+</ul>
+<p>You can see which of these apply to your shop by walking through your own checkout on a phone as a new customer, and by looking at where people drop out in your analytics.</p>
+
+<h2>Reduce abandonment before you chase it</h2>
+<h3>Show costs early</h3>
+<p>Shoppers dislike surprises at the final step. Show delivery options and costs on product pages, in the basket or in a clear delivery information page linked from both. If you offer free delivery above a threshold, say so near the basket total. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">ecommerce delivery and returns pages</a> covers what to include.</p>
+<h3>Offer guest checkout</h3>
+<p>Let people buy without creating an account. You can invite them to save their details after the order is complete, when they have nothing to lose. Our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a> explains how to balance accounts with a quick checkout.</p>
+<h3>Simplify the checkout</h3>
+<p>Remove fields you do not need, use address lookup where your platform supports it, and keep the header and footer minimal during checkout. Shopify and WooCommerce both offer streamlined checkout options; the key is not to add clutter on top through apps or custom code.</p>
+<h3>Offer familiar payment methods</h3>
+<p>Card payments plus widely used wallets such as Apple Pay, Google Pay and PayPal cover many UK shoppers. Express payment buttons can let returning customers skip several steps. Check what your payment provider supports and test each method on mobile.</p>
+<h3>Build trust at the point of payment</h3>
+<p>Clear returns information, contact details, recognisable payment logos and a site that loads quickly all help. See our guide to <a href="/blog/website-trust-signals/">website trust signals</a> for more ideas, and our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a> if pages feel slow.</p>
+
+<h2>Abandoned cart emails</h2>
+<p>Once your checkout is in good shape, reminder emails can bring back shoppers who were interrupted or undecided. Most major ecommerce platforms and email tools, including Shopify, WooCommerce extensions and Klaviyo, can send them automatically.</p>
+<h3>When reminders can be sent</h3>
+<p>A reminder can only be sent if you have the shopper's email address, which usually means they entered it at the start of checkout or are logged in. Whether you can send it, and what it can contain, depends on UK data protection and electronic marketing rules. See the section on legal points below.</p>
+<h3>What a good reminder includes</h3>
+<ul>
+<li>A clear subject line that says what the email is about.</li>
+<li>The items left in the basket, with images and names.</li>
+<li>A single button that returns the shopper to their basket with items intact.</li>
+<li>Helpful information such as delivery options, returns and how to contact you.</li>
+<li>Your brand voice, kept brief and friendly.</li>
+</ul>
+<p>Avoid guilt, fake urgency or claims that stock is running out unless it genuinely is. Our guide to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> covers honest ways to show limited stock.</p>
+<h3>How many reminders and when</h3>
+<p>A short sequence is usually enough: an initial reminder, then perhaps a follow-up. The right timing depends on your products. A low-cost impulse item suits a quicker reminder; a considered purchase may suit a gentler pace. Test what fits your customers and stop the sequence as soon as an order is placed.</p>
+
+<h2>Should you offer a discount?</h2>
+<p>Discounts in abandoned cart emails can recover sales, but they carry risks. Regular customers may learn to abandon baskets on purpose to get a code, and your margins shrink. Many shops prefer to start with a reminder that offers help and information, keeping any incentive for a later message or for higher-value baskets.</p>
+<p>If you do offer a discount, make the terms clear, set a sensible expiry and make sure the code applies automatically or is easy to enter. A code that fails at checkout does more harm than no code at all.</p>
+
+<h2>Other recovery channels</h2>
+<h3>Retargeting ads</h3>
+<p>Platforms such as Meta and Google let you show ads to people who visited your site. These can remind shoppers about products they viewed. They rely on tracking technologies, so your cookie consent setup must be in place. Our <a href="/blog/cookie-banner-design-uk/">cookie banner design guide</a> covers the basics.</p>
+<h3>Text messages</h3>
+<p>SMS reminders are possible but feel more personal and intrusive than email. Only consider them where you have clear permission for marketing texts, and keep them rare.</p>
+<h3>On-site reminders</h3>
+<p>When a returning visitor comes back, showing their saved basket or a gentle prompt can help them pick up where they left off. Avoid exit pop-ups that block the page or are hard to close, especially on mobile.</p>
+
+<h2>Legal points to check in the UK</h2>
+<p>This section is general information, not legal advice. If you are unsure how the rules apply to your shop, take advice from a qualified professional.</p>
+<ul>
+<li><strong>UK GDPR and the Data Protection Act.</strong> You need a lawful basis to process a shopper's email address for reminders, and your privacy notice should explain how you use it.</li>
+<li><strong>PECR.</strong> The Privacy and Electronic Communications Regulations cover marketing emails and texts. Whether an abandoned cart email counts as marketing, and whether the soft opt-in applies, depends on the circumstances. The Information Commissioner's Office publishes guidance worth reading.</li>
+<li><strong>Cookies and tracking.</strong> Non-essential tracking, including for retargeting, generally requires consent under PECR.</li>
+<li><strong>Consumer protection.</strong> Claims about prices, discounts and stock should be accurate. The Competition and Markets Authority has published guidance on online choice architecture and pressure selling.</li>
+<li><strong>Unsubscribe.</strong> Give an easy way to opt out of further emails, and honour it promptly.</li>
+</ul>
+
+<h2>Measuring abandoned cart recovery</h2>
+<p>Track a few things over time rather than chasing a single figure:</p>
+<ul>
+<li>How many sessions reach the basket and checkout, and where people drop out.</li>
+<li>How many reminder emails are sent, opened and clicked.</li>
+<li>How many orders come from reminders, and whether those customers return.</li>
+<li>Whether discount codes are being used by people who would likely have bought anyway.</li>
+</ul>
+<p>Google Analytics and your platform's own reports can show most of this. Compare before and after when you change the checkout, so you know whether the change helped.</p>
+
+<h2>A simple plan to get started</h2>
+<ol>
+<li>Complete a test purchase on your phone as a new customer and note every point of friction.</li>
+<li>Fix surprise costs, forced accounts and broken elements first.</li>
+<li>Check your privacy notice, consent and email settings against current ICO guidance.</li>
+<li>Set up a short reminder sequence with helpful, honest wording.</li>
+<li>Review results regularly and adjust timing, wording and any incentives.</li>
+</ol>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify and WooCommerce shops, including checkout reviews and email automation setup. If baskets are being left behind and you are not sure why, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">contact us</a> for a conversation about your shop.</p>
+
+<h2>FAQs</h2>
+<h3>What is an abandoned cart?</h3>
+<p>An abandoned cart is a basket where a shopper added one or more products but left the site without completing the purchase. Some are casual browsing; others are genuine buyers who hit a problem or were interrupted.</p>
+<h3>Are abandoned cart emails legal in the UK?</h3>
+<p>They can be, but it depends on how you collected the email address, your lawful basis and whether the email counts as marketing under PECR. Check ICO guidance and take legal advice if you are unsure.</p>
+<h3>Should every abandoned cart email include a discount?</h3>
+<p>Not necessarily. A helpful reminder without a discount may be enough for many shoppers, and routine discounts can train customers to wait. Consider incentives selectively.</p>
+<h3>Which platforms support abandoned cart emails?</h3>
+<p>Shopify has built-in abandoned checkout emails, and WooCommerce supports them through extensions. Email platforms such as Klaviyo and Mailchimp also offer automated flows that connect to major shop platforms.</p>
+<h3>What is the first thing to fix to reduce abandonment?</h3>
+<p>Start with surprises. Make delivery costs, timescales and returns clear before checkout, and allow guest checkout. These changes address frequent causes of hesitation without any extra tools.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-discount-code-strategy',
+    seoTitle: 'Ecommerce Discount Code Strategy for UK Shops',
+    title: 'Ecommerce Discount Code Strategy: Using Offers Without Eroding Margin',
+    description: 'A practical discount code strategy for UK online shops: when to offer codes, which types to use, protecting margin and keeping pricing claims within UK rules.',
+    date: '2026-11-01',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/ecommerce-seasonal-sales-preparation/', '/blog/ecommerce-email-marketing-uk/'],
+    body: `
+<p>A discount code strategy is a plan for when, why and how your online shop offers money off. Discounts can bring in first-time customers, clear old stock and reward loyal buyers. Used without a plan, they can train shoppers to wait for a sale, appear on voucher websites you never chose, and quietly erode the margin your business depends on.</p>
+<p>This guide covers the types of discount available on major ecommerce platforms, how to decide when to use them, how to stop codes leaking and what to keep in mind about UK pricing rules.</p>
+
+<h2>Start with the purpose of each discount</h2>
+<p>Every discount should answer a simple question: what behaviour are we trying to encourage? Common purposes include:</p>
+<ul>
+<li><strong>Acquiring new customers</strong> who are unsure about buying from a shop they do not know.</li>
+<li><strong>Increasing order value</strong> by encouraging shoppers to add another item.</li>
+<li><strong>Clearing stock</strong> that is seasonal, discontinued or overstocked.</li>
+<li><strong>Rewarding loyalty</strong> from repeat customers or subscribers.</li>
+<li><strong>Recovering lapsed customers</strong> who have not bought for a while.</li>
+<li><strong>Supporting a campaign</strong> such as a seasonal sale or product launch.</li>
+</ul>
+<p>When the purpose is clear, choosing the type, audience and limits becomes much easier. When it is not, discounts tend to become a reflex whenever sales feel slow.</p>
+
+<h2>Types of discount to consider</h2>
+<p>Shopify, WooCommerce and BigCommerce support similar discount types, sometimes through extensions or apps.</p>
+<h3>Percentage off</h3>
+<p>A percentage off the basket or specific products. Simple to understand, but the cost to you rises with order value, so check what it means on your most expensive items.</p>
+<h3>Fixed amount off</h3>
+<p>A set amount off, often with a minimum spend. This gives you more predictable costs and works well for encouraging larger orders.</p>
+<h3>Free delivery</h3>
+<p>Many shoppers respond strongly to free delivery. It can be offered with a minimum spend or as a time-limited promotion. Make sure the delivery cost you absorb is understood. Our <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages guide</a> covers communicating delivery clearly.</p>
+<h3>Buy X get Y and bundles</h3>
+<p>Offers such as buy one get one half price, or a discount for buying a set, can increase order value and move slower products alongside popular ones. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains how to set these up cleanly.</p>
+<h3>Gift with purchase</h3>
+<p>A free sample or small item with orders over a certain value can feel generous without reducing the visible price of your products.</p>
+<h3>Automatic discounts</h3>
+<p>Discounts can apply automatically without a code. This avoids frustration when shoppers forget or mistype a code, and keeps sale prices visible on product pages.</p>
+
+<h2>Choosing the right audience</h2>
+<p>A discount that goes to everyone costs the most, because it includes people who would have paid full price. Targeting reduces that cost.</p>
+<ul>
+<li><strong>New subscribers.</strong> A welcome offer for joining your email list. Our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers welcome flows.</li>
+<li><strong>Customer segments.</strong> Platforms let you limit codes to specific customer groups, such as repeat buyers or wholesale accounts.</li>
+<li><strong>Specific products or collections.</strong> Apply offers only to stock you want to move.</li>
+<li><strong>Partners and influencers.</strong> Unique codes per partner help you understand which relationships produce orders. Make sure partners disclose paid promotions in line with Advertising Standards Authority guidance.</li>
+</ul>
+
+<h2>Protecting your margin</h2>
+<p>Before launching an offer, work out what it costs per order once product cost, delivery, payment processing and returns are considered. A discount that looks small on the price tag can remove much of your profit on a low-margin item.</p>
+<p>Practical safeguards include:</p>
+<ul>
+<li>Setting minimum spends on fixed amount and free delivery offers.</li>
+<li>Excluding low-margin products or already reduced items.</li>
+<li>Deciding whether discounts can be combined, and setting your platform accordingly.</li>
+<li>Limiting usage to once per customer where appropriate.</li>
+<li>Setting start and end dates so offers do not run indefinitely.</li>
+</ul>
+
+<h2>Stopping codes from leaking</h2>
+<p>Public codes often end up on voucher and coupon websites. Shoppers then leave your site mid-checkout to search for a code, and some who would have paid full price use one instead.</p>
+<ul>
+<li><strong>Use unique codes</strong> for email campaigns and customer service gestures. Most platforms can generate batches of single-use codes.</li>
+<li><strong>Set usage limits</strong> so a leaked code stops working after a set number of uses.</li>
+<li><strong>Expire codes</strong> promptly once a campaign ends.</li>
+<li><strong>Consider the discount field</strong> at checkout. A prominent empty box can prompt shoppers to go looking. Some shops make it less prominent, while others use automatic discounts instead.</li>
+</ul>
+
+<h2>Avoiding discount dependency</h2>
+<p>If customers see a sale every few weeks, many will simply wait. Over time your full price stops meaning anything. Signs of dependency include sales dipping between promotions and a rising share of orders using codes.</p>
+<p>To avoid this, plan promotions in a calendar with clear gaps, focus on value beyond price such as product quality, service and content, and use non-price incentives like early access, free samples or loyalty perks. Our guide to <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> explains how to plan bigger events carefully.</p>
+
+<h2>UK rules on pricing and promotions</h2>
+<p>This is general information rather than legal advice. If you are unsure, take advice from a qualified professional.</p>
+<ul>
+<li><strong>Reference prices.</strong> If you show a was price, it should be a genuine price you charged. The Competition and Markets Authority and Trading Standards have published guidance on pricing practices, and rules under the Digital Markets, Competition and Consumers Act 2024 have strengthened enforcement.</li>
+<li><strong>Urgency claims.</strong> Countdown timers and limited-time claims should be true. If an offer is said to end on a date, it should end.</li>
+<li><strong>Clear terms.</strong> State any minimum spend, exclusions and expiry dates clearly.</li>
+<li><strong>Advertising.</strong> Promotional claims in ads and emails fall under the CAP Code, which the Advertising Standards Authority enforces.</li>
+<li><strong>Marketing consent.</strong> Sending discount codes by email or text is marketing, so UK GDPR and PECR apply. See ICO guidance.</li>
+</ul>
+
+<h2>Displaying discounts on your site</h2>
+<p>How you show an offer affects whether it helps or confuses. Keep sale prices consistent between product pages, collection pages and the basket. Make it obvious when a discount has been applied. If a code fails, show a clear message explaining why, such as minimum spend not met. Our guide to <a href="/blog/ecommerce-category-page-design/">category page design</a> covers showing sale items in listings.</p>
+
+<h2>Building a promotions calendar</h2>
+<p>A simple promotions calendar stops discounts from becoming reactive. List the moments that matter to your shop across the year, such as seasonal events, product launches, end-of-season clearances and any dates that are meaningful to your customers. Then decide which moments genuinely need a price offer and which could be supported with new content, early access or a limited product instead.</p>
+<p>Leave clear gaps between promotions so your full price keeps its meaning. Note who on your team needs to prepare stock, update the website, write emails and check that codes expire on time. Writing this down in advance makes it much easier to brief anyone helping with the shop and to review afterwards what worked.</p>
+<h3>Testing before launch</h3>
+<p>Before any offer goes live, test it as a customer would. Add qualifying and non-qualifying products to the basket, try the code on mobile, check it combines or refuses to combine as intended, and confirm the confirmation email shows the correct totals. A few minutes of testing can prevent a code that fails at checkout or, worse, one that applies far more widely than planned.</p>
+
+<h2>Measuring whether discounts work</h2>
+<p>Look beyond the number of orders placed with a code. Useful questions include:</p>
+<ul>
+<li>Did the offer bring in new customers, or mainly existing ones?</li>
+<li>Did those new customers buy again at full price?</li>
+<li>What happened to average order value and margin during the offer?</li>
+<li>Did sales drop before or after the promotion as shoppers waited or stocked up?</li>
+</ul>
+<p>Your platform's reports and Google Analytics can answer most of these if codes are named consistently.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio sets up and improves Shopify and WooCommerce shops, including discount configuration, automatic offers and email flows. If you would like help planning offers that support your margin, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should I offer a discount for joining my email list?</h3>
+<p>A welcome offer can encourage sign-ups and first orders. Consider whether a smaller incentive, free delivery or a non-price benefit would work for your audience before defaulting to a large percentage.</p>
+<h3>Are automatic discounts better than codes?</h3>
+<p>Automatic discounts reduce friction and stop shoppers hunting for codes, which suits public sales. Codes are better for targeting specific audiences or tracking partners.</p>
+<h3>How do I stop my codes appearing on voucher sites?</h3>
+<p>Use unique single-use codes for targeted offers, set usage limits and expiry dates, and avoid long-running public codes.</p>
+<h3>Can I show a was price on sale items?</h3>
+<p>You can, but the reference price should be genuine and not misleading. Check current CMA and Trading Standards guidance, and take advice if you are unsure.</p>
+<h3>Can discounts be combined?</h3>
+<p>Most platforms let you choose whether discounts stack. Decide deliberately, because stacking can cut much deeper into margin than any single offer.</p>
+`,
+  },
+  {
+    slug: 'website-breadcrumb-navigation',
+    seoTitle: 'Breadcrumb Navigation: A Guide for UK Websites',
+    title: 'Breadcrumb Navigation: When to Use It and How to Get It Right',
+    description: 'What breadcrumb navigation is, when UK websites and online shops should use it, how to design it for mobile and accessibility, and how to add structured data.',
+    date: '2026-11-01',
+    category: 'Web Design',
+    related: ['/services/website-ecommerce-development/', '/blog/website-navigation-structure/', '/services/seo-geo/'],
+    body: `
+<p>Breadcrumb navigation is a short trail of links, usually near the top of a page, showing where the page sits within a website. A typical breadcrumb on an online shop might read Home, then Women, then Coats, then the product name. Each step is a link back up the structure. Breadcrumbs help visitors understand where they are, move to broader sections quickly and recover when they land deep in a site from a search result.</p>
+<p>This guide explains the types of breadcrumb, when they are worth using, how to design them well on desktop and mobile, how to make them accessible and how structured data can help search engines understand them.</p>
+
+<h2>Why breadcrumbs matter</h2>
+<p>Many visitors do not arrive on your homepage. They come from Google, social posts or ads directly onto a product, category or article. Without context, they may not know what else your site offers or how to look at similar items. Breadcrumbs answer that in a single line.</p>
+<ul>
+<li><strong>Orientation.</strong> Visitors see where the page sits in your site.</li>
+<li><strong>Quick movement.</strong> One click takes them to a broader category instead of using the back button or the main menu.</li>
+<li><strong>Internal linking.</strong> Breadcrumbs link pages to their parent sections consistently, which can help search engines understand site structure.</li>
+<li><strong>Search appearance.</strong> Google may show breadcrumb-style paths in search results in place of a raw URL, though this is at Google's discretion.</li>
+</ul>
+<p>Breadcrumbs support your main navigation; they do not replace it. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers the wider picture.</p>
+
+<h2>Types of breadcrumb</h2>
+<h3>Location-based breadcrumbs</h3>
+<p>These show the page's place in the site hierarchy, such as Home, Services, Web Design. They are the most widely used and the most useful for most websites.</p>
+<h3>Attribute-based breadcrumbs</h3>
+<p>Used mainly in ecommerce, these reflect filters a shopper has chosen, such as Coats, Wool, Navy. They can help on large catalogues but can become messy if every filter combination creates a new trail.</p>
+<h3>Path-based breadcrumbs</h3>
+<p>These show the pages a visitor has clicked through, similar to browser history. They tend to be confusing because the trail changes from visitor to visitor, and the browser back button already does the job. Most sites are better served by location-based breadcrumbs.</p>
+
+<h2>When to use breadcrumbs</h2>
+<p>Breadcrumbs earn their place on sites with depth, where pages sit two or more levels below the homepage. Good candidates include:</p>
+<ul>
+<li>Online shops with categories, subcategories and products.</li>
+<li>Service businesses with grouped services, locations or sectors.</li>
+<li>Blogs and resource libraries organised by topic.</li>
+<li>Documentation or help centres.</li>
+</ul>
+<p>On a small site with a handful of top-level pages, breadcrumbs add little. A trail reading Home, About tells the visitor nothing they could not see in the menu. Leave them off the homepage too, since there is nowhere further up to go.</p>
+
+<h2>Designing breadcrumbs well</h2>
+<h3>Placement</h3>
+<p>Place breadcrumbs near the top of the content area, below the main header and above the page heading. That is where visitors expect them, and it keeps them close to the content they describe.</p>
+<h3>Visual style</h3>
+<p>Breadcrumbs should be noticeable but secondary. Use a smaller text size than body copy, a clear separator such as a chevron or slash, and link styling that makes clickable steps obvious. The current page is usually shown as plain text, not a link, since linking to the page you are on is pointless.</p>
+<h3>Labels</h3>
+<p>Use the same names as your navigation and page headings so the trail feels consistent. Short labels work best. If a category is called Women's Outerwear in the menu, do not call it Coats and Jackets in the breadcrumb.</p>
+<h3>Mobile</h3>
+<p>Long breadcrumb trails can wrap over several lines on a phone and push content down. Options include shortening the trail to show only the immediate parent, such as Back to Coats, allowing the trail to scroll horizontally within its own row, or truncating middle steps. Test on real devices. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers related considerations.</p>
+
+<h2>Breadcrumbs on ecommerce sites</h2>
+<p>Shops often have products that belong to several categories. A pair of boots might sit in Footwear, Sale and New In. Decide on one primary category for each product and use it consistently in the breadcrumb. Some platforms build breadcrumbs from the route a shopper took, which can create different trails for the same product; this is worth checking.</p>
+<p>Shopify themes handle breadcrumbs differently. Some include them, others need small theme customisations, and collection-aware product URLs can affect the trail shown. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> explains how changes like this are usually approached. On WooCommerce, breadcrumbs are built in and SEO plugins often provide their own versions with more control.</p>
+<p>Breadcrumbs work closely with category pages. If your categories are well organised, the trail will make sense. Our <a href="/blog/ecommerce-category-page-design/">category page design guide</a> covers structuring them.</p>
+
+<h2>Accessibility</h2>
+<p>Breadcrumbs should be usable by everyone, including people using screen readers or keyboards. Good practice includes:</p>
+<ul>
+<li>Wrapping the breadcrumb in a navigation landmark with a label such as Breadcrumb, so screen reader users can find or skip it.</li>
+<li>Using an ordered list for the steps, since order matters.</li>
+<li>Marking the current page appropriately so assistive technology announces it as the current location.</li>
+<li>Hiding decorative separators from screen readers so they are not read aloud.</li>
+<li>Ensuring links have enough colour contrast and visible focus states.</li>
+</ul>
+<p>Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the Web Content Accessibility Guidelines more broadly.</p>
+
+<h2>Breadcrumb structured data</h2>
+<p>Structured data is code that describes page content to search engines. Schema.org includes a BreadcrumbList type that lists each step in the trail with its name and URL. Google documents how it uses this markup and may use it to display a breadcrumb path in search results.</p>
+<ul>
+<li>Make sure the structured data matches the breadcrumb visitors can see.</li>
+<li>Use full, canonical URLs for each step.</li>
+<li>Avoid conflicting markup from both a theme and a plugin, which can produce duplicate or contradictory data.</li>
+<li>Test pages with Google's Rich Results Test and check the enhancements reports in Google Search Console.</li>
+</ul>
+<p>Many SEO plugins for WordPress and many Shopify themes add breadcrumb structured data automatically. Check what is already in place before adding more. Our <a href="/blog/product-page-seo-uk/">product page SEO guide</a> covers other structured data relevant to shops.</p>
+
+<h2>Planning your hierarchy first</h2>
+<p>Breadcrumbs can only be as clear as the structure behind them. If your categories overlap, use inconsistent names or skip levels, the trail will expose that confusion. Before adding breadcrumbs, sketch your site as a simple tree: the homepage at the top, main sections beneath it, then subsections and individual pages. Each page should have one obvious parent.</p>
+<p>This exercise often reveals useful improvements. You may find services that belong together, blog topics that need a hub page, or product categories with too few items to justify their own level. Fixing the structure first means the breadcrumb, the main menu and your URLs can all tell the same story.</p>
+<h3>Hub pages for each level</h3>
+<p>Every step in a breadcrumb should lead to a real, useful page. If a trail shows Services, there should be a Services page that introduces each service and links to them. Empty or thin hub pages make breadcrumbs feel like dead ends, while well written hub pages give visitors a genuine overview and give search engines clear context for the pages beneath them.</p>
+
+<h2>Common breadcrumb mistakes</h2>
+<ul>
+<li>Adding breadcrumbs to a flat site where they add no information.</li>
+<li>Labels that do not match the menu or page headings.</li>
+<li>Linking the current page to itself.</li>
+<li>Different trails for the same product depending on how a shopper arrived.</li>
+<li>Steps that link to pages which do not exist, such as a category level with no page behind it.</li>
+<li>Structured data that does not match the visible trail.</li>
+<li>Trails that take up a large part of the screen on mobile.</li>
+</ul>
+
+<h2>How Prism Works Studio approaches breadcrumbs</h2>
+<p>When Prism Works Studio plans a site structure, breadcrumbs are considered alongside menus, categories and internal links so they reflect a clear hierarchy. We check how they appear on mobile, how assistive technology reads them and whether structured data matches. To discuss your site, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/services/seo-geo/">SEO and GEO service</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do breadcrumbs help SEO?</h3>
+<p>They can support SEO by creating consistent internal links and helping search engines understand site structure, and Google may show them in results. They are a supporting element rather than a ranking shortcut.</p>
+<h3>Should breadcrumbs appear on the homepage?</h3>
+<p>No. The homepage is the top of the structure, so a breadcrumb there has nothing to show.</p>
+<h3>Should the current page in a breadcrumb be a link?</h3>
+<p>Usually not. Show the current page as plain text so visitors understand where they are, and mark it as the current location for assistive technology.</p>
+<h3>Do small websites need breadcrumbs?</h3>
+<p>Often not. If every page sits one level below the homepage, the main navigation already does the job and breadcrumbs add clutter.</p>
+<h3>Can I add breadcrumbs in Shopify?</h3>
+<p>Yes. Some themes include breadcrumbs, and others can be adjusted with theme customisation. Check how your theme chooses the category shown for products that sit in several collections.</p>
+`,
+  },
+  {
+    slug: 'website-call-to-action-buttons',
+    seoTitle: 'Website Call to Action Buttons: A Practical UK Guide',
+    title: 'Website Call to Action Buttons: Wording, Design and Placement',
+    description: 'How to write, design and place call to action buttons on a UK business website so visitors know exactly what to do next, without pressure or clutter.',
+    date: '2026-11-01',
+    category: 'Web Design',
+    related: ['/services/website-ecommerce-development/', '/blog/landing-page-design-uk/', '/contact/'],
+    body: `
+<p>A call to action button is the element on a page that asks a visitor to do something: get in touch, book, buy, download or sign up. It is often the smallest part of a page, yet it is the point where interest turns into an enquiry or a sale. When buttons are vague, hidden or competing with each other, visitors hesitate. When they are clear and well placed, the next step feels obvious.</p>
+<p>This guide covers how to word call to action buttons, how to design them so they stand out, where to place them, and how to avoid the common traps that make a site feel pushy. It applies to service websites, online shops and landing pages alike.</p>
+
+<h2>What a call to action actually does</h2>
+<p>A call to action, often shortened to CTA, answers one question for the visitor: what should I do now? Every page on your site has a job. A service page should lead to an enquiry. A product page should lead to adding an item to the basket. A blog article might lead to a related guide or a newsletter sign-up. The button is how the page completes its job.</p>
+<p>That means you cannot design a good button in isolation. Before you choose the wording or colour, decide what the page is for and who is reading it. A visitor comparing agencies wants different reassurance from someone who already knows they want to buy. If you have not yet mapped the purpose of each page, our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> is a useful starting point.</p>
+
+<h2>How to word a call to action button</h2>
+<p>The words on the button matter more than its colour. Visitors scan, and a button label is one of the few things nearly everyone reads.</p>
+<h3>Say what happens next</h3>
+<p>Generic labels such as Submit, Click here or Learn more tell the visitor nothing about the outcome. Compare these:</p>
+<ul>
+<li><strong>Submit</strong> versus <strong>Send my enquiry</strong></li>
+<li><strong>Learn more</strong> versus <strong>See our Shopify services</strong></li>
+<li><strong>Click here</strong> versus <strong>Download the price guide</strong></li>
+<li><strong>Buy</strong> versus <strong>Add to basket</strong></li>
+</ul>
+<p>The second label in each pair sets an expectation. The visitor knows what they will get and roughly what commitment they are making.</p>
+<h3>Match the commitment to the stage</h3>
+<p>Someone who has just landed on your homepage is rarely ready to sign a contract. A low-commitment action such as View our work or Read how we approach projects may suit them better than Book a consultation. Further down the page, or on a pricing page, a stronger action makes more sense. Think of buttons as a ladder of small steps rather than one big leap.</p>
+<h3>Use the visitor's language</h3>
+<p>Write labels from the visitor's point of view. Get my free quote often reads more naturally than Request a quote from us. Avoid internal jargon or clever wordplay that needs a second read. If a label needs explaining, it is not clear enough.</p>
+<h3>Keep it short</h3>
+<p>Two to five words is usually enough. Long labels wrap awkwardly on mobile and become harder to scan. If you need to add reassurance, put it in a short line of supporting text beside or below the button, for example No obligation, we reply by email.</p>
+
+<h2>Designing buttons that stand out</h2>
+<p>A button should look like a button. Visitors have learned what clickable elements look like, so avoid styles that blur the line between a link, a label and a decoration.</p>
+<h3>Contrast and colour</h3>
+<p>Your primary button should have the strongest contrast on the page. That does not mean it has to be red or orange. It means it should be clearly different from the background and from other elements around it. Choose a colour from your palette that is reserved for primary actions, and use it consistently across the site. Our guide to <a href="/blog/website-colour-and-typography/">website colour and typography</a> covers how to build a palette that supports this.</p>
+<p>Colour contrast is also an accessibility issue. Text on the button must be readable against the button colour for people with low vision or colour blindness. The Web Content Accessibility Guidelines set out contrast expectations, and our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains why this matters for UK businesses.</p>
+<h3>Primary and secondary buttons</h3>
+<p>Many pages need more than one action, such as Book a call and View pricing. Make the hierarchy clear. The primary action gets the solid, high-contrast button. The secondary action gets a lighter style, such as an outline or a text link. If two buttons look identical, the visitor has to stop and choose, and some will choose neither.</p>
+<h3>Size and tap targets</h3>
+<p>Buttons need to be large enough to tap comfortably with a thumb, with enough space around them that visitors do not hit the wrong thing. This is especially important on mobile, where many UK visitors will first meet your site. See our <a href="/blog/mobile-website-design/">mobile website design guide</a> for more on designing for small screens.</p>
+<h3>States and feedback</h3>
+<p>A well-built button changes appearance when hovered, focused with a keyboard or pressed. After a click, it should show that something is happening, for example a loading state on a form submission. Without feedback, visitors click again and may send duplicate enquiries or orders.</p>
+
+<h2>Where to place call to action buttons</h2>
+<p>There is a popular idea that the main button must always sit at the very top of the page. That works when the visitor already understands the offer. When the offer needs explaining, a button at the top is useful as a shortcut, but the important placements are where the visitor has gathered enough information to decide.</p>
+<ul>
+<li><strong>Near the top</strong> for returning visitors or people who arrived ready to act.</li>
+<li><strong>After key sections</strong>, such as once you have explained a service, shown examples or answered objections.</li>
+<li><strong>At the end of the page</strong>, so a visitor who has read everything is not left at a dead end.</li>
+<li><strong>In the header</strong>, as a persistent but modest route to contact or the basket.</li>
+</ul>
+<p>Repeating the same action several times down a long page is fine, as long as the wording and destination stay consistent. What causes confusion is a different action in every section.</p>
+<h3>Sticky buttons on mobile</h3>
+<p>On mobile, a slim sticky bar with one action, such as Call us or Add to basket, can help visitors act without scrolling back up. Keep it small so it does not cover content, and make sure it does not clash with cookie banners or chat widgets.</p>
+
+<h2>Calls to action on different page types</h2>
+<h3>Service pages</h3>
+<p>The main action is usually an enquiry or a booking. Support it with a secondary path for visitors who are not ready yet, such as seeing examples of work or reading a related guide. Link the primary button to a short, focused form rather than a generic contact page where possible. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers how to make that form easy to complete.</p>
+<h3>Product pages</h3>
+<p>Add to basket should be the dominant element once a visitor has chosen options such as size or colour. Keep it close to the price, the variant selectors and delivery information, so the decision and the action sit together. Secondary actions such as Add to wishlist should be visually quieter.</p>
+<h3>Landing pages</h3>
+<p>A landing page built for a campaign should usually have a single action and minimal distractions. Removing the main navigation is a common choice for paid traffic landing pages, though it depends on your audience. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> goes into this in more detail.</p>
+<h3>Blog articles</h3>
+<p>Readers of a guide are often early in their research. A gentle action, such as a related article, a downloadable checklist or a soft link to your services, usually fits better than a hard sell. Put it where it naturally follows from the content.</p>
+
+<h2>Mistakes that weaken calls to action</h2>
+<ul>
+<li><strong>Too many competing buttons.</strong> When every element shouts, nothing stands out.</li>
+<li><strong>Vague labels.</strong> Submit and Learn more give no reason to click.</li>
+<li><strong>Buttons that do not look clickable.</strong> Flat text with no visual cue is easy to miss.</li>
+<li><strong>Mismatched destinations.</strong> A button saying Get a quote that opens a general contact page breaks trust.</li>
+<li><strong>Pressure tactics.</strong> Fake countdowns or guilt-tripping decline links, sometimes called confirmshaming, can annoy visitors and may raise consumer protection concerns. If you use urgency, it should be genuine.</li>
+<li><strong>Ignoring keyboard users.</strong> Buttons should be reachable and usable without a mouse.</li>
+</ul>
+
+<h2>Testing and improving your buttons</h2>
+<p>You do not need complex software to improve calls to action. Start by watching how real people use your pages. Ask someone unfamiliar with your business to find out how to get in touch or buy a product, and note where they hesitate.</p>
+<p>Set up conversion tracking in Google Analytics so you can see which buttons are clicked and which forms are completed. Once you have a steady flow of visitors, you can test variations of wording or placement, changing one thing at a time so you know what made the difference. Our guide to <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> covers testing in more depth for online shops.</p>
+<p>Be wary of copying what another site does just because it looks polished. Your visitors, offer and brand voice are different. What matters is whether your own buttons are clear to your own audience.</p>
+
+<h2>How Prism Works Studio approaches calls to action</h2>
+<p>When Prism Works Studio designs or reviews a website, calls to action are planned alongside page structure and copy rather than added at the end. We look at the job of each page, the stage the visitor is likely to be at and the action that fits, then design a consistent button system for the whole site. If you would like a fresh pair of eyes on your site, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best colour for a call to action button?</h3>
+<p>There is no single best colour. What matters is contrast with the background and surrounding elements, consistency across the site and readable text on the button. Reserve one colour for primary actions so visitors learn what it means.</p>
+<h3>How many calls to action should a page have?</h3>
+<p>Aim for one main action per page, with perhaps one secondary action for visitors who are not ready yet. You can repeat the main action down a long page, but avoid introducing a different action in every section.</p>
+<h3>Should the button say Submit on a form?</h3>
+<p>It is better to describe the outcome, such as Send my enquiry or Request my quote. This reassures visitors about what will happen and makes the form feel less formal.</p>
+<h3>Is a link the same as a call to action?</h3>
+<p>A text link can be a call to action, particularly for secondary or low-commitment actions. For the main action on a page, a styled button is usually clearer because it stands out from body text.</p>
+<h3>Do urgency messages on buttons cause problems?</h3>
+<p>Genuine urgency, such as a real sale end date, can be helpful. Fake or misleading urgency may damage trust and could raise concerns under UK consumer protection rules. If you are unsure, it is sensible to take advice or check guidance from the Competition and Markets Authority.</p>
+`,
+  },
+  {
+    slug: 'website-redirects-when-relaunching',
+    seoTitle: 'Website Redirects When Relaunching: A UK Guide',
+    title: 'Website Redirects When Relaunching: Protect Your Search Traffic',
+    description: 'How to plan website redirects when you relaunch, redesign or change platform, so visitors and search engines reach the right pages and rankings are protected.',
+    date: '2026-11-01',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/blog/website-staging-and-testing/'],
+    body: `
+<p>A redirect sends visitors and search engines from an old web address to a new one automatically. When you relaunch a website, change platform, restructure categories or rename pages, redirects are what stop old links, bookmarks and search results from leading to error pages. Done well, they help carry the value an old page has built up over to its replacement. Done badly or forgotten, they can lead to lost traffic and a frustrating experience.</p>
+<p>This guide explains when redirects are needed, how to plan a redirect map, which type to use, how platforms such as Shopify and WordPress handle them, and what to check after launch.</p>
+
+<h2>When you need redirects</h2>
+<p>You need redirects whenever a page that people or search engines know about moves to a different address or is removed. Typical situations include:</p>
+<ul>
+<li>A full website redesign with a new page structure.</li>
+<li>Moving platform, for example from WooCommerce to Shopify or from Wix to WordPress.</li>
+<li>Changing your domain name or moving from a subdomain to the main domain.</li>
+<li>Renaming products, collections, categories or service pages.</li>
+<li>Merging several thin pages into one stronger page.</li>
+<li>Removing discontinued products or old blog posts.</li>
+</ul>
+<p>Platform migrations deserve particular care because URL patterns usually change. Our guides to <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration</a> and <a href="/blog/wix-to-wordpress-migration/">Wix to WordPress migration</a> cover the wider process.</p>
+
+<h2>Types of redirect</h2>
+<h3>Permanent redirects</h3>
+<p>A permanent redirect, known by its HTTP status code 301, or 308 in some setups, tells browsers and search engines the page has moved for good. Google treats a permanent redirect as a strong signal that the new address should replace the old one in search results. This is the type you want for almost every relaunch.</p>
+<h3>Temporary redirects</h3>
+<p>A temporary redirect, status 302 or 307, says the move is short term. It suits situations such as a page under maintenance or a seasonal campaign. Using temporary redirects for permanent moves can send mixed signals, so check what your platform or plugin uses by default.</p>
+<h3>Redirects to avoid</h3>
+<ul>
+<li><strong>Redirect chains.</strong> Old page to newer page to newest page. Each hop slows things down and can dilute signals. Point old URLs straight to the final destination.</li>
+<li><strong>Redirect loops.</strong> Page A sends to page B, which sends back to A. Visitors see an error.</li>
+<li><strong>Mass redirects to the homepage.</strong> Sending every old URL to the homepage is confusing for visitors, and Google may treat irrelevant redirects like missing pages.</li>
+<li><strong>Client-side redirects.</strong> JavaScript or meta refresh redirects are less reliable than server-level ones. Use them only when nothing else is possible.</li>
+</ul>
+
+<h2>Building a redirect map</h2>
+<p>A redirect map is a simple spreadsheet listing each old URL and the new URL it should point to. It is the single most useful document in any relaunch.</p>
+<h3>Collect your old URLs</h3>
+<p>Gather addresses from several sources so nothing important is missed:</p>
+<ul>
+<li>A crawl of the current site using a crawling tool.</li>
+<li>Your XML sitemap.</li>
+<li>Google Search Console, particularly the pages report and the performance report showing pages with clicks.</li>
+<li>Google Analytics landing page reports.</li>
+<li>Pages with links from other websites, found in Search Console's links report or a backlink tool.</li>
+<li>Any URLs used in printed material, email campaigns or ads.</li>
+</ul>
+<h3>Match each URL to its closest equivalent</h3>
+<p>For each old address, pick the new page that best serves the same purpose. A product should go to the same product, a category to the matching category, a service page to the equivalent service page. Where no direct equivalent exists, choose the closest relevant page, such as a parent category.</p>
+<h3>Decide what to let go</h3>
+<p>Some pages genuinely have no replacement and little value, such as old test pages or very outdated content with no traffic or links. It can be reasonable to let these return a 404 or 410 status. A helpful 404 page then guides any stray visitors. See our <a href="/blog/404-page-design/">404 page design guide</a>.</p>
+<h3>Keep URLs where you can</h3>
+<p>The best redirect is the one you do not need. If a new structure can keep important URLs unchanged, that is usually the safest option. Change addresses when there is a real reason, not just because a new site is being built.</p>
+
+<h2>How major platforms handle redirects</h2>
+<h3>Shopify</h3>
+<p>Shopify includes URL redirects in the admin, with bulk import by CSV. Shopify uses fixed URL patterns for products, collections and pages, so moving from another platform almost always requires redirects. Shopify can also offer to create a redirect automatically when you change a product or page handle. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers related settings.</p>
+<h3>WordPress and WooCommerce</h3>
+<p>WordPress can redirect automatically in some cases, but most sites use a redirect plugin or an SEO plugin with redirect features. Redirects can also be added at server level, which some hosts manage for you. Keep the number of plugins doing similar jobs low to avoid conflicts; our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> can help.</p>
+<h3>Domain changes</h3>
+<p>When moving to a new domain, redirect each old URL to its matching page on the new domain, keep the old domain registered and redirecting for the long term, and use the change of address tool in Google Search Console where it applies.</p>
+
+<h2>Testing redirects before launch</h2>
+<p>Redirects should be tested on a staging site before going live wherever possible. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to set one up.</p>
+<ul>
+<li>Check a sample of old URLs from each section to confirm they land on the right page.</li>
+<li>Use a crawler or redirect checker to spot chains and loops.</li>
+<li>Confirm the status code is permanent, not temporary.</li>
+<li>Check URLs with and without trailing slashes, uppercase letters and query strings if your old site used them.</li>
+<li>Make sure internal links on the new site point directly to new URLs rather than relying on redirects.</li>
+</ul>
+
+<h2>What to check after launch</h2>
+<p>Launch day is the start of the redirect work, not the end.</p>
+<ul>
+<li><strong>Submit the new sitemap</strong> in Google Search Console and Bing Webmaster Tools.</li>
+<li><strong>Watch the pages report</strong> in Search Console for new not found errors and fix them with additional redirects where appropriate.</li>
+<li><strong>Monitor traffic and rankings</strong> for key pages. Some movement after a relaunch is normal while search engines process changes, but persistent drops on specific pages usually point to a redirect or content issue.</li>
+<li><strong>Re-crawl the old URL list</strong> to confirm every redirect still works.</li>
+<li><strong>Update links you control</strong>, such as social profiles, Google Business Profile, email signatures and directory listings.</li>
+<li><strong>Keep redirects in place.</strong> Removing them later can bring back broken links and lost signals.</li>
+</ul>
+
+<h2>Redirects for products and content you remove later</h2>
+<p>Redirects are not only a relaunch task. Online shops regularly retire products, and service businesses update or merge pages over time. Building a habit around these everyday changes keeps the site tidy.</p>
+<ul>
+<li><strong>Discontinued products.</strong> If a close replacement exists, redirect to it. If not, consider redirecting to the parent category, or keep the page live with a clear message and links to alternatives if it still attracts visitors.</li>
+<li><strong>Temporarily out of stock items.</strong> Keep the page live rather than redirecting, since it will return.</li>
+<li><strong>Merged articles.</strong> When combining several blog posts into one fuller guide, redirect each old post to the new one.</li>
+<li><strong>Renamed pages.</strong> Whenever a URL changes, add the redirect at the same time rather than leaving it for later.</li>
+</ul>
+<p>Keep a running record of redirects added, with the date and the reason. It makes future relaunches far easier because you already know which old addresses matter.</p>
+
+<h2>Common redirect mistakes</h2>
+<ul>
+<li>Forgetting redirects entirely until traffic falls.</li>
+<li>Only redirecting pages in the main navigation and ignoring blog posts, images or PDFs that earned links.</li>
+<li>Pointing everything at the homepage.</li>
+<li>Leaving the staging site open to search engines, creating duplicate content.</li>
+<li>Changing several things at once, such as URLs, content and domain, without tracking which change caused what.</li>
+</ul>
+
+<h2>How Prism Works Studio handles redirects</h2>
+<p>When Prism Works Studio rebuilds or migrates a website, redirect planning is part of the project from the start. We gather old URLs, build and test a redirect map on staging and check Search Console after launch. If you are planning a relaunch, see our <a href="/services/seo-geo/">SEO and GEO service</a> and <a href="/services/website-ecommerce-development/">website development service</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do redirects pass SEO value to the new page?</h3>
+<p>Google has said that permanent redirects pass signals to the new URL. Relevance still matters, so redirect to a genuinely equivalent page rather than an unrelated one.</p>
+<h3>How long should I keep redirects in place?</h3>
+<p>Ideally indefinitely. Old links on other websites and in bookmarks can keep sending visitors for a long time, and removing redirects brings back broken links.</p>
+<h3>Can I redirect all old pages to my homepage?</h3>
+<p>It is not recommended. Visitors expect to land on relevant content, and search engines may treat irrelevant homepage redirects much like missing pages.</p>
+<h3>What is the difference between a 404 and a 410?</h3>
+<p>A 404 means not found, while a 410 indicates the page has been deliberately removed. Both tell search engines the page is gone; use either for pages with no suitable replacement.</p>
+<h3>Do I need redirects if I only change the design, not the URLs?</h3>
+<p>If every URL stays exactly the same, you may not need new redirects. It is still worth crawling the old and new sites to confirm nothing has changed unexpectedly.</p>
+`,
+  },
 ];
