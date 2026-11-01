@@ -35038,4 +35038,571 @@ module.exports = [
 <p>Yes. Prism Works Studio can review your user accounts and roles and recommend a safer setup as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
 `,
   },
+  {
+    slug: 'shopify-product-filters',
+    seoTitle: 'Shopify Product Filters: How to Set Them Up Well',
+    title: 'Shopify Product Filters: Helping Shoppers Narrow Down Choices',
+    description: 'How Shopify product filters work, how to set them up with the Search and Discovery app, and how to plan filter options, metafields and SEO sensibly.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-collections-structure/', '/blog/shopify-metafields-guide/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Once an online store has more than a handful of products in a collection, shoppers need a way to narrow things down. Someone looking for a navy jumper in a medium does not want to scroll past every jumper in every colour and size. Product filters solve that problem by letting visitors refine a collection or search results page to only the items that match what they want.</p>
+<p>Shopify has built-in support for filtering, and setting it up is not difficult. Setting it up well, so that filters are genuinely useful and do not create problems elsewhere, takes a bit more thought. This guide walks through how Shopify filters work, how to configure them and how to plan your product data so filters stay accurate.</p>
+
+<h2>What are product filters?</h2>
+<p>Filters appear on collection pages and search results, usually as a sidebar on desktop and a drawer or panel on mobile. They let shoppers select values such as:</p>
+<ul>
+<li>price range,</li>
+<li>availability, such as in stock only,</li>
+<li>product type,</li>
+<li>brand or vendor,</li>
+<li>variant options such as size and colour,</li>
+<li>tags, and</li>
+<li>custom details stored in metafields, such as material, fit or suitable age.</li>
+</ul>
+<p>Filtering is different from sorting. Sorting changes the order of products, for example by price or newest first. Filtering removes products that do not match. Most stores need both.</p>
+
+<h2>How filtering works on Shopify</h2>
+<p>Shopify's storefront filtering relies on two things: a theme that supports filtering, and the configuration you set in Shopify's Search and Discovery app, which Shopify provides for free.</p>
+<h3>Theme support</h3>
+<p>Shopify's current free themes, and most well-built paid themes, support storefront filtering. Older or heavily customised themes may not, or may use a different method such as tag-based filtering. If filters do not appear even after configuration, the theme is the first thing to check. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> covers the wider options for adjusting a theme.</p>
+<h3>The Search and Discovery app</h3>
+<p>In the Search and Discovery app you choose which filters to show and in what order. You can add filters based on availability, price, product type, vendor, tags, variant options and metafields. You can also rename filter labels and, for some filter types, group values together, such as combining "Navy" and "Dark blue" under one colour.</p>
+<p>The app also handles other discovery features, such as search synonyms and product recommendations, which work alongside filters on your <a href="/blog/ecommerce-site-search/">site search</a>.</p>
+
+<h2>Choosing the right filters</h2>
+<p>More filters do not automatically mean a better experience. Too many options can overwhelm shoppers and clutter mobile screens. Start by asking which attributes customers genuinely use to make decisions in each part of your range.</p>
+<ul>
+<li><strong>Clothing and footwear:</strong> size, colour, fit, material and price tend to matter.</li>
+<li><strong>Homeware:</strong> room, material, colour and dimensions may be more relevant.</li>
+<li><strong>Beauty and skincare:</strong> skin type, concern and ingredient preferences might be key.</li>
+<li><strong>Technical or trade products:</strong> specifications, compatibility and brand often come first.</li>
+</ul>
+<p>Look at your customer service questions, search terms and product reviews for clues. If shoppers regularly ask whether something is suitable for a particular use, that attribute may deserve a filter.</p>
+<p>Shopify shows only filter values that apply to products in the current collection, so a filter for "material" will only list materials actually present. Even so, keep the overall list focused.</p>
+
+<h2>Using metafields for custom filters</h2>
+<p>Some of the most useful filters are based on details that do not fit Shopify's standard product fields. That is where metafields come in. A metafield is a custom field attached to a product or variant, such as "Material", "Heel height" or "Dietary information".</p>
+<p>To use a metafield as a filter, you create a metafield definition with a supported type, fill it in on your products, then add it as a filter in the Search and Discovery app. Shopify supports filtering on a range of metafield types, including single-line text, numbers, true or false values and lists of values, as well as its standard category metafields. Check Shopify's current documentation for the exact supported types, as these have expanded over time.</p>
+<p>Our <a href="/blog/shopify-metafields-guide/">Shopify metafields guide</a> explains how to plan and create metafield definitions in more detail.</p>
+
+<h2>Clean product data comes first</h2>
+<p>Filters can only be as accurate as the product data behind them. Common data issues that break filters include:</p>
+<ul>
+<li>inconsistent option names, such as "Colour" on some products and "Color" on others, which create separate filters,</li>
+<li>inconsistent values, such as "Grey", "Gray" and "grey" appearing as different choices,</li>
+<li>products missing a value entirely, so they disappear when a filter is applied,</li>
+<li>overloaded tags used for many purposes, making tag filters confusing, and</li>
+<li>variants set up inconsistently across similar products.</li>
+</ul>
+<p>Before switching on filters, export your products and tidy option names and values. Agree a naming standard and stick to it when adding new products. If you are still deciding how to set up options, our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers the fundamentals.</p>
+
+<h2>Filters and collections work together</h2>
+<p>Filters are not a replacement for a sensible collection structure. Collections define the broad groups shoppers browse, such as "Women's knitwear", while filters help them refine within that group. If your collections are too broad, filters have to do too much work; if they are too narrow, filters become pointless.</p>
+<p>A practical balance is to create collections for the main ways customers think about your range, then use filters for the attributes that cut across them. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> covers how to plan this.</p>
+
+<h2>Designing filters for mobile</h2>
+<p>Many shoppers browse on their phones, where screen space is tight. Good mobile filters usually:</p>
+<ul>
+<li>sit behind a clear "Filter" button that opens a panel or drawer,</li>
+<li>show how many filters are active,</li>
+<li>make it easy to clear one filter or all of them,</li>
+<li>keep tap targets large enough to use comfortably, and</li>
+<li>show results quickly without reloading the whole page where the theme allows.</li>
+</ul>
+<p>Test your filters on real devices, not just a resized desktop browser. Our <a href="/blog/mobile-website-design/">mobile website design</a> guide has more general advice.</p>
+
+<h2>SEO considerations</h2>
+<p>When a shopper applies a filter, Shopify typically adds parameters to the collection URL. That means a single collection can produce a very large number of filtered URL combinations. Generally, you do not want search engines spending time crawling every combination.</p>
+<p>Shopify themes usually set the canonical tag on filtered pages to point back to the main collection, which helps. Still, it is worth checking how your theme handles filtered URLs and keeping an eye on Google Search Console for signs of wasted crawling. If a particular filtered view represents something people search for, such as "linen shirts", it may be better to create a dedicated collection with its own title, description and clean URL. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers collection optimisation more broadly.</p>
+
+<h2>Apps and alternatives</h2>
+<p>Shopify's native filtering covers many stores' needs. Some stores, particularly those with very large catalogues or complex technical products, use third-party search and filter apps for features such as more advanced merchandising, visual swatches or more filter types. Before adding an app, check whether native filtering can do the job, as every app adds another dependency. Our guide to a <a href="/blog/shopify-apps-audit/">Shopify apps audit</a> explains how to weigh that up.</p>
+
+<h2>Measuring whether filters help</h2>
+<p>Once filters are live, review how shoppers use them. Analytics can show which filters are used, which collections see heavy filter use and whether filtered sessions lead to product views and purchases. If a filter is rarely used, consider removing it. If shoppers often search for an attribute you do not offer as a filter, consider adding it.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Switching on every possible filter instead of the ones customers use.</li>
+<li>Inconsistent option names and values creating duplicate filters.</li>
+<li>Relying on messy tags rather than structured metafields.</li>
+<li>Forgetting to fill in metafields for new products.</li>
+<li>Filters that are hard to use or clear on mobile.</li>
+<li>Letting filtered URLs be crawled without checking canonical tags.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify stores for UK businesses, including product data clean-ups, metafield planning and filter setup. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does Shopify have built-in product filters?</h3>
+<p>Yes. Shopify supports storefront filtering on collection and search pages, configured through the free Search and Discovery app, provided your theme supports it.</p>
+<h3>Why are my Shopify filters not showing?</h3>
+<p>The most likely reasons are that your theme does not support storefront filtering, the filters have not been added in the Search and Discovery app, or products lack the relevant data.</p>
+<h3>Can I filter by custom attributes like material?</h3>
+<p>Yes. Store the attribute in a product or variant metafield of a supported type, then add that metafield as a filter in the Search and Discovery app.</p>
+<h3>Do filtered pages cause duplicate content?</h3>
+<p>They can create many URL variations. Shopify themes usually point canonical tags at the main collection, but it is worth checking your theme's behaviour.</p>
+<h3>Should I use a filter app instead?</h3>
+<p>Only if native filtering cannot meet your needs. Apps can add advanced features, but they also add cost, complexity and another dependency.</p>
+`,
+  },
+  {
+    slug: 'shopify-staff-accounts-and-permissions',
+    seoTitle: 'Shopify Staff Accounts and Permissions Explained',
+    title: 'Shopify Staff Accounts: Managing Access to Your Store Safely',
+    description: 'How Shopify staff accounts and permissions work, how to give team members and developers the right access, and how to keep your store admin secure.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/how-to-brief-a-shopify-developer/', '/blog/website-ownership-and-handover/', '/services/website-ecommerce-development/'],
+    body: `
+<p>As a Shopify store grows, more people need access to it. Someone packs orders, someone answers customer emails, someone updates products, someone runs marketing, and at some point a developer or agency needs to work on the theme. It is tempting to hand everyone the store owner's password, but that creates real risks: no record of who did what, no way to remove one person without changing the password for everyone, and full access for people who only need a small part of the admin.</p>
+<p>Shopify provides proper tools for managing access: staff accounts, granular permissions and collaborator accounts. This guide explains how they work and how to set them up sensibly.</p>
+
+<h2>The store owner account</h2>
+<p>Every Shopify store has one store owner. This account has full access, including billing, plan changes, store transfer and the ability to close the store. Only the store owner can carry out certain sensitive actions, and ownership can be transferred to another staff member if needed.</p>
+<p>Because the store owner account is so powerful, it should be protected carefully and used only by the person who genuinely owns or is responsible for the business. Ideally, it should be tied to an email address the business controls for the long term, not a personal address belonging to a temporary employee or an outside developer. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains why this matters.</p>
+
+<h2>Staff accounts</h2>
+<p>Staff accounts are separate logins for people who work on your store. Each person receives an invitation by email, creates their own login and sees only the parts of the admin they have been given permission to use.</p>
+<p>The number of staff accounts available depends on your Shopify plan, and Shopify adjusts its plans from time to time, so check your current plan details in the admin or on Shopify's website.</p>
+<h3>Why separate accounts matter</h3>
+<ul>
+<li><strong>Accountability.</strong> Shopify records certain actions against the staff member who made them, so you can see who changed an order or edited a product.</li>
+<li><strong>Easy removal.</strong> When someone leaves, you can remove or suspend their account without affecting anyone else.</li>
+<li><strong>Least privilege.</strong> Each person gets only the access they need, reducing the damage a mistake or a compromised login could cause.</li>
+<li><strong>Personal security.</strong> Each person can set up their own two-step authentication.</li>
+</ul>
+
+<h2>Permissions</h2>
+<p>When you invite a staff member, you choose which areas of the admin they can access. Shopify's permissions are fairly granular and cover areas such as:</p>
+<ul>
+<li>orders, including whether staff can edit, refund or export them,</li>
+<li>products and inventory,</li>
+<li>customers and customer data,</li>
+<li>analytics and reports,</li>
+<li>marketing and discounts,</li>
+<li>content, such as blog posts, pages and navigation,</li>
+<li>online store themes,</li>
+<li>apps and channels, and</li>
+<li>settings, including sensitive areas such as payments and domains.</li>
+</ul>
+<p>The exact list changes as Shopify adds features, so review the options when inviting someone rather than relying on memory.</p>
+<h3>Matching permissions to roles</h3>
+<p>A simple way to plan permissions is to think in roles. For example:</p>
+<ul>
+<li><strong>Fulfilment:</strong> orders and perhaps inventory, without access to settings or analytics.</li>
+<li><strong>Customer service:</strong> orders and customers, possibly with permission to issue refunds if your process allows.</li>
+<li><strong>Merchandising:</strong> products, collections and inventory.</li>
+<li><strong>Content and marketing:</strong> blog posts, pages, navigation, discounts and marketing.</li>
+<li><strong>Finance:</strong> reports, orders and payouts information, without theme access.</li>
+</ul>
+<p>Some plans let you save permission sets as reusable roles, which makes onboarding new staff quicker and more consistent. Where that is not available, keep a short written record of what each role should have.</p>
+<h3>Be careful with sensitive permissions</h3>
+<p>A few permissions deserve particular caution:</p>
+<ul>
+<li><strong>Customer data and exports.</strong> Customer details are personal data, and UK data protection law, overseen by the Information Commissioner's Office, expects businesses to limit access appropriately. Only give access to people who genuinely need it, and take advice if you are unsure of your obligations.</li>
+<li><strong>Refunds.</strong> Decide who can issue refunds and whether there should be checks.</li>
+<li><strong>Themes.</strong> Theme access allows changes to the live storefront and its code.</li>
+<li><strong>Apps.</strong> Installing an app can grant a third party access to store data, so limit who can approve new apps.</li>
+<li><strong>Settings.</strong> Payments, domains and checkout settings can affect every order.</li>
+</ul>
+
+<h2>Collaborator accounts for agencies and developers</h2>
+<p>If you work with an agency or freelance developer, they will usually request access through a collaborator account rather than a staff account. Collaborators work through Shopify's partner system. They send a request, you approve it and choose permissions, and you can remove their access at any time.</p>
+<p>Collaborator accounts generally do not count towards your staff account allowance, and they keep a clear separation between your team and outside contractors. You can also require a collaborator request code, found in your store's user settings, so that only people you have shared the code with can request access.</p>
+<p>When briefing a developer, agree in advance what they need access to. Theme work usually needs theme permissions; it may not need customer data or payment settings. Our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> covers what else to agree up front.</p>
+
+<h2>Securing logins</h2>
+<h3>Two-step authentication</h3>
+<p>Two-step authentication adds a second check, such as a code from an authenticator app or a security key, when someone logs in. It is one of the most effective ways to protect an account even if a password is leaked. Encourage, and where possible require, every staff member to turn it on. Shopify allows store owners to require it for staff.</p>
+<h3>Strong, unique passwords</h3>
+<p>Every person should use a strong password that they do not use anywhere else. A password manager makes this practical.</p>
+<h3>Be alert to phishing</h3>
+<p>Fake emails pretending to come from Shopify, an app or a customer are a common way for criminals to try to steal logins. Staff should check the sender and the web address carefully before entering details, and log in by going to the admin directly rather than through email links when in doubt.</p>
+
+<h2>Onboarding and offboarding</h2>
+<p>Access management is not a one-off task. Build simple routines around it:</p>
+<ul>
+<li><strong>When someone joins:</strong> invite them with the permissions for their role, confirm they have set up two-step authentication and explain any rules, such as who approves refunds.</li>
+<li><strong>When someone changes role:</strong> update their permissions, removing anything they no longer need.</li>
+<li><strong>When someone leaves:</strong> remove or suspend their account promptly, and check whether they had access to other connected tools, such as email marketing, shipping or accounting apps.</li>
+<li><strong>When a project ends:</strong> remove collaborator access for developers or agencies who no longer need it.</li>
+</ul>
+<p>It is worth reviewing your full staff and collaborator list periodically to catch anyone who has slipped through.</p>
+
+<h2>Apps and connected services</h2>
+<p>Staff accounts control people's access, but apps have their own access too. When an app is installed, it requests permission to read or change certain store data. Review those permissions before installing, and uninstall apps you no longer use. A regular <a href="/blog/shopify-apps-audit/">Shopify apps audit</a> helps keep this under control.</p>
+<p>Also remember connected services outside Shopify, such as your domain registrar, email platform and analytics accounts. These often have their own user lists that need the same care.</p>
+
+<h2>Point of sale staff</h2>
+<p>If you also sell in person using Shopify POS, staff who work only at the till may not need full admin access at all. Shopify POS has its own approach to staff, with PINs and POS-specific permissions, so shop-floor staff can process sales without logging in to the main admin. Check how this works on your plan and set up retail staff with only what they need at the counter.</p>
+
+<h2>Keeping a simple access record</h2>
+<p>A short shared document listing who has access to the store, what role they have and when access was last reviewed makes audits far easier. Include outside collaborators and the main connected services. When something goes wrong, or when ownership of the business changes, that record saves time and confusion.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Sharing the store owner login among several people.</li>
+<li>Giving every staff member full permissions by default.</li>
+<li>Registering the store owner account to a developer's or ex-employee's email address.</li>
+<li>Leaving former staff and old collaborators with active access.</li>
+<li>Not requiring two-step authentication.</li>
+<li>Letting anyone install apps without review.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and supports Shopify stores for UK businesses and works through collaborator access that store owners approve and control. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many staff accounts can I have on Shopify?</h3>
+<p>It depends on your plan, and Shopify updates its plans periodically. Check your current plan in the Shopify admin or on Shopify's pricing information.</p>
+<h3>What is the difference between a staff account and a collaborator account?</h3>
+<p>Staff accounts are for your own team. Collaborator accounts are for agencies and developers working through Shopify's partner system, and you approve and remove them yourself.</p>
+<h3>Can I limit what a staff member can see?</h3>
+<p>Yes. When inviting or editing a staff member, choose only the permissions they need, such as orders and products, and leave everything else switched off.</p>
+<h3>What should I do when a staff member leaves?</h3>
+<p>Remove or suspend their Shopify account promptly and review any connected apps or services they could access.</p>
+<h3>Can I transfer store ownership?</h3>
+<p>Yes. The current store owner can transfer ownership to another staff member through the store's user settings, subject to Shopify's requirements.</p>
+`,
+  },
+  {
+    slug: 'wordpress-block-editor-guide',
+    seoTitle: 'WordPress Block Editor: A Guide for Business Owners',
+    title: 'The WordPress Block Editor: A Practical Guide for Site Owners',
+    description: 'How the WordPress block editor works, how to use blocks, patterns and reusable content, and how to keep pages consistent, accessible and easy to update.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-page-builders-uk/', '/blog/wordpress-small-business-website/', '/services/website-ecommerce-development/'],
+    body: `
+<p>If you have logged in to a WordPress website in recent years, you have almost certainly used the block editor, sometimes still called Gutenberg after the project that created it. It replaced the older classic editor, which worked much like a simple word processor, with a system where every piece of content is a separate block.</p>
+<p>For some site owners the block editor feels natural straight away. Others find it confusing, especially if they learned WordPress before it arrived. This guide explains how the block editor works, the features that make day-to-day editing easier and how to set it up so your site stays consistent as it grows.</p>
+
+<h2>What is the block editor?</h2>
+<p>The block editor is the default way of creating and editing posts and pages in WordPress. Instead of one large text box, content is made up of blocks stacked on top of each other. A paragraph is a block. So is a heading, an image, a list, a button, a quote, a video or a set of columns.</p>
+<p>Each block has its own settings. Select a block and a toolbar appears above it, with a settings panel on the right-hand side of the screen for options such as colour, spacing and alignment. Blocks can be moved up and down, duplicated, grouped together or removed.</p>
+
+<h2>The basics of working with blocks</h2>
+<h3>Adding blocks</h3>
+<p>There are several ways to add a block. You can click the plus icon, which opens the block inserter, or simply start typing on a new line. Typing a forward slash followed by a block name, such as <code>/image</code> or <code>/heading</code>, is a quick shortcut that many regular editors come to rely on.</p>
+<h3>Moving and arranging</h3>
+<p>Blocks can be dragged, or moved with the up and down arrows in the toolbar. The List View, opened from the top toolbar, shows every block on the page in an outline, which is very useful on longer pages where blocks are nested inside groups and columns.</p>
+<h3>Layout blocks</h3>
+<p>Some blocks exist to hold other blocks. The Group, Row, Stack and Columns blocks let you arrange content side by side or wrap sections in a background colour. Understanding these container blocks is the key to building more structured layouts.</p>
+<h3>Undo and revisions</h3>
+<p>The editor has undo and redo buttons for recent changes, and WordPress keeps revisions of saved content, so you can usually restore an earlier version of a page if something goes wrong.</p>
+
+<h2>Patterns: ready-made layouts</h2>
+<p>Patterns are pre-designed groups of blocks that you can insert in one go: a hero section, a set of feature boxes, a call to action, a pricing table or a team grid. Themes often include their own patterns, and WordPress offers a shared pattern directory.</p>
+<p>Patterns are one of the most useful features for business sites. Rather than rebuilding a section by hand each time, editors insert the pattern and change the text and images. That saves time and keeps sections looking consistent across the site.</p>
+<h3>Synced and unsynced patterns</h3>
+<p>Patterns can be synced or unsynced. An unsynced pattern is a starting point: once inserted, it becomes ordinary blocks you can edit freely. A synced pattern, previously known as a reusable block, stays linked everywhere it is used. Change it once and every instance updates.</p>
+<p>Synced patterns are ideal for content that should be identical everywhere, such as a standard <a href="/blog/website-call-to-action-buttons/">call to action</a>, an opening hours box or a legal notice. Just remember that editing one instance changes them all, which can surprise editors who expected to change only one page.</p>
+
+<h2>Block themes and the Site Editor</h2>
+<p>Newer WordPress themes, known as block themes, extend the block approach beyond the page content. Using the Site Editor, you can edit headers, footers and page templates with blocks too, and set global styles for fonts, colours and spacing across the whole site.</p>
+<p>Classic themes still work with the block editor for post and page content, but their headers, footers and templates are usually controlled through the Customizer or theme code instead. Knowing which kind of theme your site uses tells you where to go to change different parts of the site.</p>
+
+<h2>Block editor or page builder?</h2>
+<p>Before the block editor matured, many sites relied on page builder plugins to create flexible layouts. Page builders remain popular and can offer more design controls out of the box. The block editor has the advantage of being part of WordPress itself, which can mean less reliance on a third-party plugin and, depending on the build, lighter pages.</p>
+<p>There is no single right answer. Our guide to <a href="/blog/wordpress-page-builders-uk/">WordPress page builders</a> compares the options in more depth. What matters most is choosing one approach and using it consistently, rather than mixing several editors on the same site.</p>
+
+<h2>Keeping your site consistent</h2>
+<p>The flexibility of the block editor is also a risk. With every editor able to pick any colour, font size and spacing, a site can drift away from its brand over time. A few measures help:</p>
+<ul>
+<li><strong>Set global styles.</strong> Define your brand <a href="/blog/website-colour-and-typography/">colours and typography</a> centrally so editors pick from a limited palette rather than any colour.</li>
+<li><strong>Provide patterns for common sections.</strong> If editors have a ready-made, on-brand layout, they are less likely to improvise.</li>
+<li><strong>Limit available blocks where sensible.</strong> Developers can restrict which blocks appear for certain post types or users, hiding options that are not needed.</li>
+<li><strong>Lock key sections.</strong> Blocks and patterns can be locked so they cannot be moved or removed, protecting important parts of a template.</li>
+<li><strong>Write short editing guidelines.</strong> A simple document explaining which patterns to use and how to format headings goes a long way.</li>
+</ul>
+
+<h2>Accessibility and good structure</h2>
+<p>The block editor makes it easier to create well-structured content, but editors still need to use it correctly. Good habits include:</p>
+<ul>
+<li>using heading blocks in a logical order, rather than making text bold and large to look like a heading,</li>
+<li>adding meaningful alternative text to images in the image block settings,</li>
+<li>writing descriptive link text instead of "click here",</li>
+<li>using list blocks for lists, and</li>
+<li>checking colour combinations for sufficient contrast.</li>
+</ul>
+<p>These habits help visitors using screen readers and other assistive technology, and they also make your content clearer for search engines. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the wider picture.</p>
+
+<h2>Performance considerations</h2>
+<p>Pages built with core blocks tend to be relatively light, but additional block libraries can add scripts and styles to every page. If you install a plugin for extra blocks, check whether you really need it and whether it loads assets only where those blocks are used. Large images dropped straight into image blocks are another common cause of slow pages; see our <a href="/blog/website-image-optimisation/">image optimisation</a> guide for practical tips.</p>
+
+<h2>Extending the block editor</h2>
+<p>When core blocks do not cover what you need, there are options:</p>
+<ul>
+<li><strong>Block plugins</strong> add collections of extra blocks such as tabs, accordions or sliders.</li>
+<li><strong>Custom blocks</strong> can be built by a developer for specific needs, such as a product feature table that matches your design exactly.</li>
+<li><strong>Block variations and styles</strong> let developers offer pre-set versions of existing blocks, such as an outlined button style.</li>
+</ul>
+<p>Custom blocks are often the cleanest way to give editors precisely the components they need, with fewer settings to get wrong.</p>
+
+<h2>Can I still use the classic editor?</h2>
+<p>The Classic Editor plugin restores the older editing screen. It can help during a transition, but the wider WordPress ecosystem, including themes and plugins, is increasingly built around blocks. For long-term maintainability, learning the block editor is usually the better investment. There is also a Classic block inside the block editor that holds older content until you convert it.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Editing a synced pattern without realising it changes every page that uses it.</li>
+<li>Choosing custom colours and sizes block by block instead of using global styles.</li>
+<li>Installing several block libraries that overlap and slow the site.</li>
+<li>Mixing a page builder and the block editor on the same pages.</li>
+<li>Skipping heading levels or using headings purely for visual size.</li>
+<li>Uploading oversized images without optimising them first.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress websites for UK businesses with editor-friendly block setups, custom patterns and sensible global styles, so your team can update content confidently. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Gutenberg the same as the block editor?</h3>
+<p>Yes, in everyday use. Gutenberg was the name of the project that developed the block editor, and people still use the two names interchangeably.</p>
+<h3>Will switching to the block editor break my existing pages?</h3>
+<p>Existing content is usually kept inside a Classic block and continues to display. You can convert it to blocks when you are ready, checking the result as you go.</p>
+<h3>What is the difference between a pattern and a synced pattern?</h3>
+<p>An unsynced pattern is a starting layout you edit freely after inserting. A synced pattern stays linked, so editing it updates every place it appears.</p>
+<h3>Do I need a block theme to use the block editor?</h3>
+<p>No. Classic themes support the block editor for post and page content. Block themes additionally let you edit headers, footers and templates with blocks.</p>
+<h3>Can I restrict what editors can change?</h3>
+<p>Yes. Developers can limit available blocks, lock blocks and patterns, and set global styles so editors work within a defined design.</p>
+`,
+  },
+  {
+    slug: 'wordpress-custom-post-types',
+    seoTitle: 'WordPress Custom Post Types: A Practical Guide',
+    title: 'WordPress Custom Post Types: When and How to Use Them',
+    description: 'What WordPress custom post types are, when a business website needs them, how they work with taxonomies and custom fields, and how to plan them well.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-small-business-website/', '/blog/wordpress-child-themes/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Out of the box, WordPress gives you two main ways to publish content: posts, which are designed for dated blog articles, and pages, which suit standalone content such as an About page or a Contact page. For many small websites, that is enough. But as soon as a site needs to publish a different kind of thing, such as portfolio projects, staff profiles, properties, events, courses or locations, squeezing everything into posts and pages becomes awkward.</p>
+<p>That is where custom post types come in. This guide explains what they are, when they are worth using, how they fit with taxonomies and custom fields, and the practical decisions to make before you build them.</p>
+
+<h2>What is a custom post type?</h2>
+<p>Inside WordPress, almost every piece of content is stored as a "post" of some type. Blog posts are the post type <code>post</code>, pages are <code>page</code>, and things like media attachments and menu items are post types too. A custom post type is simply a new type you define yourself, with its own name, its own section in the admin menu and its own settings.</p>
+<p>For example, an architecture practice might register a "Projects" post type. Editors would then see a Projects item in the dashboard sidebar, add new projects there, and those projects would live at addresses such as <code>/projects/riverside-house/</code>, completely separate from the blog.</p>
+
+<h2>Why not just use posts and categories?</h2>
+<p>It is possible to fake a portfolio by creating a "Projects" category and publishing projects as blog posts. Plenty of sites do this. The trouble is that it mixes very different content together:</p>
+<ul>
+<li>Projects appear in the main blog feed and blog archive unless you write extra code to exclude them.</li>
+<li>Editors have to remember which category to use, and mistakes are easy.</li>
+<li>Dates, authors and comments, which make sense for articles, often make little sense for a project or a team member.</li>
+<li>It becomes harder to give each type of content its own layout, fields and URL structure.</li>
+</ul>
+<p>A dedicated post type keeps things tidy. Editors know exactly where to go, templates can be designed specifically for that content, and the blog stays a blog.</p>
+
+<h2>Common examples on business websites</h2>
+<p>Custom post types suit any content that has a repeating, predictable shape. Typical examples include:</p>
+<ul>
+<li><strong>Portfolio or case studies</strong>, each with images, a summary and a description of the brief.</li>
+<li><strong>Team members</strong>, each with a photo, job title and short biography.</li>
+<li><strong>Services</strong>, where each service needs a consistent page layout.</li>
+<li><strong>Events or courses</strong>, with dates, venues and booking links.</li>
+<li><strong>Properties or listings</strong>, with location, features and a gallery.</li>
+<li><strong>Locations or branches</strong>, each with an address, opening hours and a map.</li>
+<li><strong>Testimonials</strong>, which can then be pulled into different pages automatically.</li>
+<li><strong>Downloadable resources</strong>, such as guides or brochures.</li>
+</ul>
+<p>If you find yourself copying the same page layout over and over and filling in the same set of details each time, that content is a strong candidate for its own post type.</p>
+
+<h2>Taxonomies: organising custom content</h2>
+<p>A taxonomy is a way of grouping content. WordPress posts come with two built-in taxonomies: categories, which are hierarchical, and tags, which are flat. You can attach these to a custom post type, but it is usually clearer to create custom taxonomies that fit the content.</p>
+<p>A Projects post type might have a "Sector" taxonomy (residential, commercial, education) and a "Service" taxonomy (new build, extension, refurbishment). An Events post type might use "Event type" and "Location". Each taxonomy gets its own archive pages, which visitors can browse and search engines can index, so they also help shape the site's <a href="/blog/website-navigation-structure/">navigation structure</a>.</p>
+<p>Think carefully before creating lots of taxonomies with only a handful of items in each. Thin archive pages with one or two entries offer little to visitors and can clutter a site.</p>
+
+<h2>Custom fields: giving content structure</h2>
+<p>A custom post type on its own still only gives editors a title and a main content area. The real benefit comes when you add custom fields: specific boxes for specific pieces of information. A Team post type might have fields for job title, email address, LinkedIn profile and photo. A Property post type might have fields for number of bedrooms, tenure and a floor plan upload.</p>
+<p>WordPress has a basic built-in custom fields feature, but most sites use a dedicated plugin to build friendly editing screens. Advanced Custom Fields is a widely used option, and there are others with similar features. Structured fields mean:</p>
+<ul>
+<li>editors fill in a clear form instead of formatting everything by hand,</li>
+<li>every entry looks consistent on the front end,</li>
+<li>information can be reused, filtered and sorted, for example listing events in date order, and</li>
+<li>structured details can feed into <a href="/blog/schema-markup-guide-uk/">schema markup</a> where that is appropriate.</li>
+</ul>
+
+<h2>How custom post types are created</h2>
+<h3>With code</h3>
+<p>Developers register post types using the WordPress function <code>register_post_type()</code>, usually hooked into WordPress's <code>init</code> action. The function accepts a long list of options: the labels shown in the admin, whether the type is public, whether it has an archive page, which editor features it supports, what URL slug it uses and whether it appears in the REST API and block editor. Taxonomies are registered in a similar way with <code>register_taxonomy()</code>.</p>
+<h3>With a plugin</h3>
+<p>If you prefer not to write code, several plugins provide a settings screen for creating post types and taxonomies. Some custom field plugins now include this feature as well. This is convenient, but it does mean the site relies on that plugin continuing to be maintained, so it is worth including in any <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a>.</p>
+<h3>Where the code should live</h3>
+<p>This is one of the most important decisions. If post types are registered inside your theme's <code>functions.php</code> file, they are tied to that theme. Switch themes and the Projects menu disappears. The content is still in the database, but it vanishes from the admin and the front end until the post type is registered again.</p>
+<p>The safer approach is to register post types in a small site-specific plugin or a must-use plugin. That keeps your content model separate from your design, so a future redesign or a move to a new theme does not break anything. If you do customise a theme, a <a href="/blog/wordpress-child-themes/">child theme</a> is the right place for design changes, but content structure still belongs in a plugin.</p>
+
+<h2>Displaying custom post types</h2>
+<p>Once a post type exists, you need templates to show it. Classic themes use template files following the WordPress template hierarchy, such as <code>single-project.php</code> for an individual project and <code>archive-project.php</code> for the listing page. Block themes use the Site Editor, where you can create templates for the new type visually. Page builders typically offer their own template systems too.</p>
+<p>You will usually want:</p>
+<ul>
+<li>a single template for each entry,</li>
+<li>an archive or listing page, often with filters by taxonomy,</li>
+<li>taxonomy archive templates, and</li>
+<li>a way to feature selected entries elsewhere, such as recent projects on the homepage.</li>
+</ul>
+
+<h2>Planning your content model</h2>
+<p>Before building anything, it helps to sketch out the content model on paper. For each kind of content, ask:</p>
+<ul>
+<li><strong>Does it have its own page?</strong> Testimonials might not need individual URLs; projects probably do.</li>
+<li><strong>What fields does every entry need?</strong> List them, and mark which are required.</li>
+<li><strong>How will visitors browse it?</strong> This shapes your taxonomies.</li>
+<li><strong>What URL structure makes sense?</strong> Choose clear, short slugs such as <code>/projects/</code> or <code>/team/</code>.</li>
+<li><strong>Who will edit it?</strong> Combined with <a href="/blog/wordpress-user-roles/">WordPress user roles</a>, you can control who can add or publish each type.</li>
+<li><strong>How will it connect to other content?</strong> For example, linking a case study to the service it relates to.</li>
+</ul>
+<p>Getting this right at the start is far easier than restructuring later, when content has to be moved and URLs redirected.</p>
+
+<h2>SEO considerations</h2>
+<p>Custom post types are treated like any other content by search engines, so the usual principles apply. Each entry should have a unique title, a useful description and genuinely helpful content. A few specific points are worth checking:</p>
+<ul>
+<li>Make sure your SEO plugin is set to include the post type in its XML sitemap, if you want those pages indexed.</li>
+<li>Decide whether taxonomy archives should be indexed; very thin ones may be better left out.</li>
+<li>If a post type exists only to feed content into other pages, such as testimonials, consider making it non-public so it does not create stray URLs.</li>
+<li>If you change a post type's slug after launch, set up redirects from the old addresses.</li>
+</ul>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Registering post types in the theme, so they vanish on a redesign.</li>
+<li>Creating a post type for content that only ever has one or two entries; a normal page would do.</li>
+<li>Using a slug that clashes with an existing page, which can cause confusing conflicts.</li>
+<li>Forgetting to enable block editor support when editors expect it.</li>
+<li>Building lots of custom fields without clear labels or instructions for editors.</li>
+<li>Leaving unused post types and fields behind after a site changes direction.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio plans and builds WordPress websites for UK businesses, including content models, custom post types and editor-friendly admin screens. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a developer to create custom post types?</h3>
+<p>Not necessarily. Plugins can create them through a settings screen. A developer is useful when you need custom templates, complex fields or a clean, plugin-light setup.</p>
+<h3>Will I lose content if I remove a custom post type?</h3>
+<p>Unregistering a post type hides it, but the content generally remains in the database. Registering it again with the same name usually brings it back. Always take a backup before making structural changes.</p>
+<h3>Can custom post types use the block editor?</h3>
+<p>Yes, provided the post type is registered with REST API support and the editor feature enabled. Without that, WordPress falls back to the classic editing screen.</p>
+<h3>What is the difference between a custom post type and a custom field?</h3>
+<p>A custom post type is a new kind of content, such as Projects. Custom fields are individual pieces of information attached to content, such as a project's location or completion photos.</p>
+<h3>Are custom post types good for SEO?</h3>
+<p>They are neutral in themselves. They can help by giving content clear structure, logical URLs and dedicated templates, but the quality of the content still matters most.</p>
+`,
+  },
+  {
+    slug: 'wordpress-multisite-guide',
+    seoTitle: 'WordPress Multisite: Is It Right for Your Business?',
+    title: 'WordPress Multisite Explained: Pros, Cons and Alternatives',
+    description: 'What WordPress Multisite is, how a network of sites works, when it suits a business with several brands or regions, and the trade-offs to weigh first.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-hosting-uk/', '/blog/multi-location-seo-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Some businesses need more than one website. A group might run several brands, a franchise might want a site for each branch, a school trust might manage a site for each school, or a company might want separate sites for different countries. Managing each of those as a completely separate WordPress installation can mean a lot of repeated work: updating plugins on every site, keeping themes in sync and managing logins in several places.</p>
+<p>WordPress has a built-in feature designed for exactly this situation: Multisite. It is powerful, but it is not always the right choice. This guide explains how Multisite works, when it makes sense and what to consider before committing to it.</p>
+
+<h2>What is WordPress Multisite?</h2>
+<p>WordPress Multisite lets you run a network of websites from a single WordPress installation. All the sites share the same core WordPress files, the same pool of installed themes and plugins, and a single list of user accounts. Each site in the network still has its own content, its own settings and its own admin dashboard.</p>
+<p>Multisite is part of WordPress itself, not a separate product. It is switched off by default and has to be enabled deliberately, usually by adding a setting to the site's configuration file and following the network setup steps WordPress provides.</p>
+
+<h2>Key concepts</h2>
+<h3>The network and the Super Admin</h3>
+<p>Once Multisite is enabled, a new level of control appears called the Network Admin. The person who manages it is the Super Admin. Super Admins can create and delete sites, install themes and plugins for the whole network, manage all users and change network-wide settings.</p>
+<h3>Site administrators</h3>
+<p>Each individual site can have its own administrators. In a standard Multisite setup, site administrators can manage their own content and settings and activate themes and plugins that the Super Admin has made available, but they cannot install new plugins or themes themselves. This is one of Multisite's main attractions for organisations that want central control. It works alongside the normal <a href="/blog/wordpress-user-roles/">WordPress user roles</a>, with Super Admin sitting above them all.</p>
+<h3>Subdomains, subdirectories and custom domains</h3>
+<p>Network sites can be arranged in different ways:</p>
+<ul>
+<li><strong>Subdirectories</strong>, such as <code>example.co.uk/manchester/</code> and <code>example.co.uk/leeds/</code>.</li>
+<li><strong>Subdomains</strong>, such as <code>manchester.example.co.uk</code>.</li>
+<li><strong>Custom domains</strong>, where each site uses its own domain name entirely, through domain mapping, which current versions of WordPress support natively.</li>
+</ul>
+<p>The structure is chosen when the network is set up and is not trivial to change later, so it is worth deciding early.</p>
+
+<h2>When Multisite can make sense</h2>
+<p>Multisite tends to suit situations where you have several sites that are broadly similar, are managed by one central team and benefit from shared code. Examples include:</p>
+<ul>
+<li><strong>Franchises or branch networks</strong>, where each location needs its own site but should follow a common design.</li>
+<li><strong>Multi-brand groups</strong> that share a design system and technical setup.</li>
+<li><strong>Education trusts or membership bodies</strong> giving each member organisation a site under central governance.</li>
+<li><strong>Country or language sites</strong>, sometimes combined with a translation plugin designed for Multisite.</li>
+<li><strong>Agencies or internal teams</strong> running many small campaign or microsites.</li>
+</ul>
+<p>In these cases, the ability to update a plugin once and have every site benefit, or to roll out a design improvement across the network, can save effort and keep sites consistent.</p>
+
+<h2>The benefits</h2>
+<ul>
+<li><strong>One set of updates.</strong> WordPress core, themes and plugins are updated once for the whole network.</li>
+<li><strong>Central control.</strong> Super Admins decide which plugins and themes each site can use, reducing the risk of individual sites installing something unsuitable.</li>
+<li><strong>Shared users.</strong> One account can be given access to several sites, with a different role on each.</li>
+<li><strong>Consistency.</strong> Sites can share a parent theme or design system, helping brand consistency.</li>
+<li><strong>Fast site creation.</strong> New sites can be added from the Network Admin without a fresh installation.</li>
+</ul>
+
+<h2>The drawbacks and risks</h2>
+<p>The same sharing that makes Multisite efficient also creates its main weaknesses.</p>
+<h3>Shared risk</h3>
+<p>Because every site runs on the same installation, a problem can affect them all. A faulty plugin update, a security vulnerability or a server issue can take down the whole network at once rather than a single site. Good <a href="/blog/wordpress-security-uk/">WordPress security</a> practice and careful testing on a staging copy become even more important.</p>
+<h3>Plugin compatibility</h3>
+<p>Not every plugin is designed to work on Multisite. Some work only when activated network-wide, some only per site, and some have limitations or simply do not support it. Checking compatibility before relying on a plugin is essential.</p>
+<h3>Hosting requirements</h3>
+<p>Not every hosting plan supports Multisite, and a busy network shares one set of server resources. Choose <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> that explicitly supports Multisite and can scale with the network.</p>
+<h3>Backups and moving sites</h3>
+<p>Backing up an entire network is straightforward, but restoring or moving a single site out of a network is more involved than with a standalone installation. If there is a chance that one site might later be sold, spun off or managed independently, that is worth factoring in.</p>
+<h3>Less freedom for individual sites</h3>
+<p>Central control can frustrate site owners who want to try their own plugins or make bigger design changes. Multisite works best where everyone accepts that the network is managed centrally.</p>
+
+<h2>Alternatives to consider</h2>
+<h3>Separate WordPress installations</h3>
+<p>Running each site independently gives full isolation: a problem on one site does not affect the others, and each site can be moved, sold or redesigned freely. The cost is more maintenance, though management tools and some hosting dashboards can help update several sites from one place.</p>
+<h3>One site with sections</h3>
+<p>If the "sites" are really branches or service areas of one business, a single website with well-organised location pages may be simpler and better. One domain, one set of content and one search presence can be easier to manage. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> covers how to structure location pages, and custom post types can give each location a consistent template.</p>
+<h3>Other platforms</h3>
+<p>For online stores, platforms such as Shopify handle multiple countries or markets in their own way, which may be simpler than a Multisite network running WooCommerce. The right answer depends on what each site needs to do.</p>
+
+<h2>SEO considerations</h2>
+<p>Search engines do not treat Multisite networks differently from other websites; what matters is how the sites are structured. A few points to weigh:</p>
+<ul>
+<li>Subdirectory sites sit on one domain, while subdomain and custom domain sites are generally treated more like separate sites.</li>
+<li>Avoid duplicating the same content across many network sites; give each site genuinely distinct, useful content.</li>
+<li>Make sure each site has its own XML sitemap and is verified in Google Search Console.</li>
+<li>For international sites, set up hreflang annotations correctly so search engines can show the right version.</li>
+</ul>
+
+<h2>Questions to ask before choosing Multisite</h2>
+<ul>
+<li>How similar will the sites be in design and functionality?</li>
+<li>Who will manage updates, and who needs control over each site?</li>
+<li>Are all the plugins you need compatible with Multisite?</li>
+<li>Could any site need to be separated from the network in future?</li>
+<li>Does your host support Multisite, and can it handle the combined traffic?</li>
+<li>Would a single website with clear sections achieve the same goal more simply?</li>
+</ul>
+
+<h2>Converting an existing site</h2>
+<p>It is possible to turn an existing WordPress site into a Multisite network, and to bring separate sites into a network, but it takes care. Content, users and media need to be migrated, URLs may change and plugins must be checked. Plan the work on a <a href="/blog/website-staging-and-testing/">staging site</a>, take full backups and map any URL changes so redirects can be put in place.</p>
+
+<h2>Maintaining a network over time</h2>
+<p>A Multisite network needs a clear owner. Someone should be responsible for testing updates before they go live, reviewing which plugins are enabled across the network and removing sites that are no longer needed. Unused sites still run on the same installation, so leaving them in place adds clutter and potential risk. Regular <a href="/blog/website-maintenance-uk/">website maintenance</a> routines apply to a network just as they do to a single site, with the added need to check that changes behave correctly on every site.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK organisations plan and build WordPress websites, including deciding between Multisite, separate installations and single-site structures. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is WordPress Multisite free?</h3>
+<p>Yes, Multisite is a built-in feature of WordPress. You will still need suitable hosting, and some premium plugins license network use differently, so check their terms.</p>
+<h3>Can each Multisite site have its own domain name?</h3>
+<p>Yes. Current versions of WordPress support mapping custom domains to individual sites in a network, subject to your hosting and DNS setup.</p>
+<h3>Can each site use different plugins?</h3>
+<p>Plugins are installed once for the network, but the Super Admin can allow individual sites to activate them separately, so sites can use different combinations.</p>
+<h3>Is Multisite less secure than separate sites?</h3>
+<p>Not inherently, but a vulnerability or fault can affect every site at once. Strong security practice and careful update testing are especially important.</p>
+<h3>Can I run WooCommerce on Multisite?</h3>
+<p>WooCommerce can run on a Multisite network, with each site acting as a separate store. Check compatibility of any extensions you rely on before committing.</p>
+`,
+  },
 ];

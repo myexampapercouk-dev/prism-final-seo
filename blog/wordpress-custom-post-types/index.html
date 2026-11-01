@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Custom Post Types: A Practical Guide</title>
+<meta name="description" content="What WordPress custom post types are, when a business website needs them, how they work with taxonomies and custom fields, and how to plan them well.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Custom Post Types: A Practical Guide">
+<meta property="og:description" content="What WordPress custom post types are, when a business website needs them, how they work with taxonomies and custom fields, and how to plan them well.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-custom-post-types.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/#article","headline":"WordPress Custom Post Types: When and How to Use Them","description":"What WordPress custom post types are, when a business website needs them, how they work with taxonomies and custom fields, and how to plan them well.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/","url":"https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-custom-post-types.png","inLanguage":"en-GB","wordCount":1722,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Custom Post Types: When and How to Use Them","item":"https://prismworksstudio.co.uk/blog/wordpress-custom-post-types/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need a developer to create custom post types?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Plugins can create them through a settings screen. A developer is useful when you need custom templates, complex fields or a clean, plugin-light setup."}},{"@type":"Question","name":"Will I lose content if I remove a custom post type?","acceptedAnswer":{"@type":"Answer","text":"Unregistering a post type hides it, but the content generally remains in the database. Registering it again with the same name usually brings it back. Always take a backup before making structural changes."}},{"@type":"Question","name":"Can custom post types use the block editor?","acceptedAnswer":{"@type":"Answer","text":"Yes, provided the post type is registered with REST API support and the editor feature enabled. Without that, WordPress falls back to the classic editing screen."}},{"@type":"Question","name":"What is the difference between a custom post type and a custom field?","acceptedAnswer":{"@type":"Answer","text":"A custom post type is a new kind of content, such as Projects. Custom fields are individual pieces of information attached to content, such as a project's location or completion photos."}},{"@type":"Question","name":"Are custom post types good for SEO?","acceptedAnswer":{"@type":"Answer","text":"They are neutral in themselves. They can help by giving content clear structure, logical URLs and dedicated templates, but the quality of the content still matters most."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Custom Post Types: When and How to Use Them</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Custom Post Types: When and How to Use Them</h1><p class="pws-lead">What WordPress custom post types are, when a business website needs them, how they work with taxonomies and custom fields, and how to plan them well.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Custom post types let you store distinct kinds of content, such as projects, team members or case studies, separately from ordinary posts and pages.</li><li>They work best alongside custom taxonomies and custom fields, which give the content consistent structure.</li><li>Register custom post types in a plugin rather than a theme, so your content does not disappear if the design changes.</li></ul></div>
+<p>Out of the box, WordPress gives you two main ways to publish content: posts, which are designed for dated blog articles, and pages, which suit standalone content such as an About page or a Contact page. For many small websites, that is enough. But as soon as a site needs to publish a different kind of thing, such as portfolio projects, staff profiles, properties, events, courses or locations, squeezing everything into posts and pages becomes awkward.</p>
+<p>That is where custom post types come in. This guide explains what they are, when they are worth using, how they fit with taxonomies and custom fields, and the practical decisions to make before you build them.</p>
+
+<h2>What is a custom post type?</h2>
+<p>Inside WordPress, almost every piece of content is stored as a "post" of some type. Blog posts are the post type <code>post</code>, pages are <code>page</code>, and things like media attachments and menu items are post types too. A custom post type is simply a new type you define yourself, with its own name, its own section in the admin menu and its own settings.</p>
+<p>For example, an architecture practice might register a "Projects" post type. Editors would then see a Projects item in the dashboard sidebar, add new projects there, and those projects would live at addresses such as <code>/projects/riverside-house/</code>, completely separate from the blog.</p>
+
+<h2>Why not just use posts and categories?</h2>
+<p>It is possible to fake a portfolio by creating a "Projects" category and publishing projects as blog posts. Plenty of sites do this. The trouble is that it mixes very different content together:</p>
+<ul>
+<li>Projects appear in the main blog feed and blog archive unless you write extra code to exclude them.</li>
+<li>Editors have to remember which category to use, and mistakes are easy.</li>
+<li>Dates, authors and comments, which make sense for articles, often make little sense for a project or a team member.</li>
+<li>It becomes harder to give each type of content its own layout, fields and URL structure.</li>
+</ul>
+<p>A dedicated post type keeps things tidy. Editors know exactly where to go, templates can be designed specifically for that content, and the blog stays a blog.</p>
+
+<h2>Common examples on business websites</h2>
+<p>Custom post types suit any content that has a repeating, predictable shape. Typical examples include:</p>
+<ul>
+<li><strong>Portfolio or case studies</strong>, each with images, a summary and a description of the brief.</li>
+<li><strong>Team members</strong>, each with a photo, job title and short biography.</li>
+<li><strong>Services</strong>, where each service needs a consistent page layout.</li>
+<li><strong>Events or courses</strong>, with dates, venues and booking links.</li>
+<li><strong>Properties or listings</strong>, with location, features and a gallery.</li>
+<li><strong>Locations or branches</strong>, each with an address, opening hours and a map.</li>
+<li><strong>Testimonials</strong>, which can then be pulled into different pages automatically.</li>
+<li><strong>Downloadable resources</strong>, such as guides or brochures.</li>
+</ul>
+<p>If you find yourself copying the same page layout over and over and filling in the same set of details each time, that content is a strong candidate for its own post type.</p>
+
+<h2>Taxonomies: organising custom content</h2>
+<p>A taxonomy is a way of grouping content. WordPress posts come with two built-in taxonomies: categories, which are hierarchical, and tags, which are flat. You can attach these to a custom post type, but it is usually clearer to create custom taxonomies that fit the content.</p>
+<p>A Projects post type might have a "Sector" taxonomy (residential, commercial, education) and a "Service" taxonomy (new build, extension, refurbishment). An Events post type might use "Event type" and "Location". Each taxonomy gets its own archive pages, which visitors can browse and search engines can index, so they also help shape the site's <a href="/blog/website-navigation-structure/">navigation structure</a>.</p>
+<p>Think carefully before creating lots of taxonomies with only a handful of items in each. Thin archive pages with one or two entries offer little to visitors and can clutter a site.</p>
+
+<h2>Custom fields: giving content structure</h2>
+<p>A custom post type on its own still only gives editors a title and a main content area. The real benefit comes when you add custom fields: specific boxes for specific pieces of information. A Team post type might have fields for job title, email address, LinkedIn profile and photo. A Property post type might have fields for number of bedrooms, tenure and a floor plan upload.</p>
+<p>WordPress has a basic built-in custom fields feature, but most sites use a dedicated plugin to build friendly editing screens. Advanced Custom Fields is a widely used option, and there are others with similar features. Structured fields mean:</p>
+<ul>
+<li>editors fill in a clear form instead of formatting everything by hand,</li>
+<li>every entry looks consistent on the front end,</li>
+<li>information can be reused, filtered and sorted, for example listing events in date order, and</li>
+<li>structured details can feed into <a href="/blog/schema-markup-guide-uk/">schema markup</a> where that is appropriate.</li>
+</ul>
+
+<h2>How custom post types are created</h2>
+<h3>With code</h3>
+<p>Developers register post types using the WordPress function <code>register_post_type()</code>, usually hooked into WordPress's <code>init</code> action. The function accepts a long list of options: the labels shown in the admin, whether the type is public, whether it has an archive page, which editor features it supports, what URL slug it uses and whether it appears in the REST API and block editor. Taxonomies are registered in a similar way with <code>register_taxonomy()</code>.</p>
+<h3>With a plugin</h3>
+<p>If you prefer not to write code, several plugins provide a settings screen for creating post types and taxonomies. Some custom field plugins now include this feature as well. This is convenient, but it does mean the site relies on that plugin continuing to be maintained, so it is worth including in any <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a>.</p>
+<h3>Where the code should live</h3>
+<p>This is one of the most important decisions. If post types are registered inside your theme's <code>functions.php</code> file, they are tied to that theme. Switch themes and the Projects menu disappears. The content is still in the database, but it vanishes from the admin and the front end until the post type is registered again.</p>
+<p>The safer approach is to register post types in a small site-specific plugin or a must-use plugin. That keeps your content model separate from your design, so a future redesign or a move to a new theme does not break anything. If you do customise a theme, a <a href="/blog/wordpress-child-themes/">child theme</a> is the right place for design changes, but content structure still belongs in a plugin.</p>
+
+<h2>Displaying custom post types</h2>
+<p>Once a post type exists, you need templates to show it. Classic themes use template files following the WordPress template hierarchy, such as <code>single-project.php</code> for an individual project and <code>archive-project.php</code> for the listing page. Block themes use the Site Editor, where you can create templates for the new type visually. Page builders typically offer their own template systems too.</p>
+<p>You will usually want:</p>
+<ul>
+<li>a single template for each entry,</li>
+<li>an archive or listing page, often with filters by taxonomy,</li>
+<li>taxonomy archive templates, and</li>
+<li>a way to feature selected entries elsewhere, such as recent projects on the homepage.</li>
+</ul>
+
+<h2>Planning your content model</h2>
+<p>Before building anything, it helps to sketch out the content model on paper. For each kind of content, ask:</p>
+<ul>
+<li><strong>Does it have its own page?</strong> Testimonials might not need individual URLs; projects probably do.</li>
+<li><strong>What fields does every entry need?</strong> List them, and mark which are required.</li>
+<li><strong>How will visitors browse it?</strong> This shapes your taxonomies.</li>
+<li><strong>What URL structure makes sense?</strong> Choose clear, short slugs such as <code>/projects/</code> or <code>/team/</code>.</li>
+<li><strong>Who will edit it?</strong> Combined with <a href="/blog/wordpress-user-roles/">WordPress user roles</a>, you can control who can add or publish each type.</li>
+<li><strong>How will it connect to other content?</strong> For example, linking a case study to the service it relates to.</li>
+</ul>
+<p>Getting this right at the start is far easier than restructuring later, when content has to be moved and URLs redirected.</p>
+
+<h2>SEO considerations</h2>
+<p>Custom post types are treated like any other content by search engines, so the usual principles apply. Each entry should have a unique title, a useful description and genuinely helpful content. A few specific points are worth checking:</p>
+<ul>
+<li>Make sure your SEO plugin is set to include the post type in its XML sitemap, if you want those pages indexed.</li>
+<li>Decide whether taxonomy archives should be indexed; very thin ones may be better left out.</li>
+<li>If a post type exists only to feed content into other pages, such as testimonials, consider making it non-public so it does not create stray URLs.</li>
+<li>If you change a post type's slug after launch, set up redirects from the old addresses.</li>
+</ul>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Registering post types in the theme, so they vanish on a redesign.</li>
+<li>Creating a post type for content that only ever has one or two entries; a normal page would do.</li>
+<li>Using a slug that clashes with an existing page, which can cause confusing conflicts.</li>
+<li>Forgetting to enable block editor support when editors expect it.</li>
+<li>Building lots of custom fields without clear labels or instructions for editors.</li>
+<li>Leaving unused post types and fields behind after a site changes direction.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio plans and builds WordPress websites for UK businesses, including content models, custom post types and editor-friendly admin screens. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a developer to create custom post types?</h3>
+<p>Not necessarily. Plugins can create them through a settings screen. A developer is useful when you need custom templates, complex fields or a clean, plugin-light setup.</p>
+<h3>Will I lose content if I remove a custom post type?</h3>
+<p>Unregistering a post type hides it, but the content generally remains in the database. Registering it again with the same name usually brings it back. Always take a backup before making structural changes.</p>
+<h3>Can custom post types use the block editor?</h3>
+<p>Yes, provided the post type is registered with REST API support and the editor feature enabled. Without that, WordPress falls back to the classic editing screen.</p>
+<h3>What is the difference between a custom post type and a custom field?</h3>
+<p>A custom post type is a new kind of content, such as Projects. Custom fields are individual pieces of information attached to content, such as a project's location or completion photos.</p>
+<h3>Are custom post types good for SEO?</h3>
+<p>They are neutral in themselves. They can help by giving content clear structure, logical URLs and dedicated templates, but the quality of the content still matters most.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Custom%20Post%20Types%3A%20When%20and%20How%20to%20Use%20Them'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-plugin-audit/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Plugin Audit: How to Review, Remove and Replace Plugins</h3><p>How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-multisite-guide/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Multisite Explained: Pros, Cons and Alternatives</h3><p>What WordPress Multisite is, how a network of sites works, when it suits a business with several brands or regions, and the trade-offs to weigh first.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Custom%20Post%20Types%3A%20When%20and%20How%20to%20Use%20Them'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Block Editor: A Guide for Business Owners</title>
+<meta name="description" content="How the WordPress block editor works, how to use blocks, patterns and reusable content, and how to keep pages consistent, accessible and easy to update.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Block Editor: A Guide for Business Owners">
+<meta property="og:description" content="How the WordPress block editor works, how to use blocks, patterns and reusable content, and how to keep pages consistent, accessible and easy to update.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-block-editor-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/#article","headline":"The WordPress Block Editor: A Practical Guide for Site Owners","description":"How the WordPress block editor works, how to use blocks, patterns and reusable content, and how to keep pages consistent, accessible and easy to update.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/","url":"https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-block-editor-guide.png","inLanguage":"en-GB","wordCount":1551,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"The WordPress Block Editor: A Practical Guide for Site Owners","item":"https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Gutenberg the same as the block editor?","acceptedAnswer":{"@type":"Answer","text":"Yes, in everyday use. Gutenberg was the name of the project that developed the block editor, and people still use the two names interchangeably."}},{"@type":"Question","name":"Will switching to the block editor break my existing pages?","acceptedAnswer":{"@type":"Answer","text":"Existing content is usually kept inside a Classic block and continues to display. You can convert it to blocks when you are ready, checking the result as you go."}},{"@type":"Question","name":"What is the difference between a pattern and a synced pattern?","acceptedAnswer":{"@type":"Answer","text":"An unsynced pattern is a starting layout you edit freely after inserting. A synced pattern stays linked, so editing it updates every place it appears."}},{"@type":"Question","name":"Do I need a block theme to use the block editor?","acceptedAnswer":{"@type":"Answer","text":"No. Classic themes support the block editor for post and page content. Block themes additionally let you edit headers, footers and templates with blocks."}},{"@type":"Question","name":"Can I restrict what editors can change?","acceptedAnswer":{"@type":"Answer","text":"Yes. Developers can limit available blocks, lock blocks and patterns, and set global styles so editors work within a defined design."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">The WordPress Block Editor: A Practical Guide for Site Owners</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>The WordPress Block Editor: A Practical Guide for Site Owners</h1><p class="pws-lead">How the WordPress block editor works, how to use blocks, patterns and reusable content, and how to keep pages consistent, accessible and easy to update.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>The block editor builds every page from individual blocks, such as paragraphs, images, buttons and columns.</li><li>Patterns and synced patterns help editors build consistent layouts without starting from scratch each time.</li><li>A well-configured editor, with sensible styles and limited options, keeps a site consistent as more people edit it.</li></ul></div>
+<p>If you have logged in to a WordPress website in recent years, you have almost certainly used the block editor, sometimes still called Gutenberg after the project that created it. It replaced the older classic editor, which worked much like a simple word processor, with a system where every piece of content is a separate block.</p>
+<p>For some site owners the block editor feels natural straight away. Others find it confusing, especially if they learned WordPress before it arrived. This guide explains how the block editor works, the features that make day-to-day editing easier and how to set it up so your site stays consistent as it grows.</p>
+
+<h2>What is the block editor?</h2>
+<p>The block editor is the default way of creating and editing posts and pages in WordPress. Instead of one large text box, content is made up of blocks stacked on top of each other. A paragraph is a block. So is a heading, an image, a list, a button, a quote, a video or a set of columns.</p>
+<p>Each block has its own settings. Select a block and a toolbar appears above it, with a settings panel on the right-hand side of the screen for options such as colour, spacing and alignment. Blocks can be moved up and down, duplicated, grouped together or removed.</p>
+
+<h2>The basics of working with blocks</h2>
+<h3>Adding blocks</h3>
+<p>There are several ways to add a block. You can click the plus icon, which opens the block inserter, or simply start typing on a new line. Typing a forward slash followed by a block name, such as <code>/image</code> or <code>/heading</code>, is a quick shortcut that many regular editors come to rely on.</p>
+<h3>Moving and arranging</h3>
+<p>Blocks can be dragged, or moved with the up and down arrows in the toolbar. The List View, opened from the top toolbar, shows every block on the page in an outline, which is very useful on longer pages where blocks are nested inside groups and columns.</p>
+<h3>Layout blocks</h3>
+<p>Some blocks exist to hold other blocks. The Group, Row, Stack and Columns blocks let you arrange content side by side or wrap sections in a background colour. Understanding these container blocks is the key to building more structured layouts.</p>
+<h3>Undo and revisions</h3>
+<p>The editor has undo and redo buttons for recent changes, and WordPress keeps revisions of saved content, so you can usually restore an earlier version of a page if something goes wrong.</p>
+
+<h2>Patterns: ready-made layouts</h2>
+<p>Patterns are pre-designed groups of blocks that you can insert in one go: a hero section, a set of feature boxes, a call to action, a pricing table or a team grid. Themes often include their own patterns, and WordPress offers a shared pattern directory.</p>
+<p>Patterns are one of the most useful features for business sites. Rather than rebuilding a section by hand each time, editors insert the pattern and change the text and images. That saves time and keeps sections looking consistent across the site.</p>
+<h3>Synced and unsynced patterns</h3>
+<p>Patterns can be synced or unsynced. An unsynced pattern is a starting point: once inserted, it becomes ordinary blocks you can edit freely. A synced pattern, previously known as a reusable block, stays linked everywhere it is used. Change it once and every instance updates.</p>
+<p>Synced patterns are ideal for content that should be identical everywhere, such as a standard <a href="/blog/website-call-to-action-buttons/">call to action</a>, an opening hours box or a legal notice. Just remember that editing one instance changes them all, which can surprise editors who expected to change only one page.</p>
+
+<h2>Block themes and the Site Editor</h2>
+<p>Newer WordPress themes, known as block themes, extend the block approach beyond the page content. Using the Site Editor, you can edit headers, footers and page templates with blocks too, and set global styles for fonts, colours and spacing across the whole site.</p>
+<p>Classic themes still work with the block editor for post and page content, but their headers, footers and templates are usually controlled through the Customizer or theme code instead. Knowing which kind of theme your site uses tells you where to go to change different parts of the site.</p>
+
+<h2>Block editor or page builder?</h2>
+<p>Before the block editor matured, many sites relied on page builder plugins to create flexible layouts. Page builders remain popular and can offer more design controls out of the box. The block editor has the advantage of being part of WordPress itself, which can mean less reliance on a third-party plugin and, depending on the build, lighter pages.</p>
+<p>There is no single right answer. Our guide to <a href="/blog/wordpress-page-builders-uk/">WordPress page builders</a> compares the options in more depth. What matters most is choosing one approach and using it consistently, rather than mixing several editors on the same site.</p>
+
+<h2>Keeping your site consistent</h2>
+<p>The flexibility of the block editor is also a risk. With every editor able to pick any colour, font size and spacing, a site can drift away from its brand over time. A few measures help:</p>
+<ul>
+<li><strong>Set global styles.</strong> Define your brand <a href="/blog/website-colour-and-typography/">colours and typography</a> centrally so editors pick from a limited palette rather than any colour.</li>
+<li><strong>Provide patterns for common sections.</strong> If editors have a ready-made, on-brand layout, they are less likely to improvise.</li>
+<li><strong>Limit available blocks where sensible.</strong> Developers can restrict which blocks appear for certain post types or users, hiding options that are not needed.</li>
+<li><strong>Lock key sections.</strong> Blocks and patterns can be locked so they cannot be moved or removed, protecting important parts of a template.</li>
+<li><strong>Write short editing guidelines.</strong> A simple document explaining which patterns to use and how to format headings goes a long way.</li>
+</ul>
+
+<h2>Accessibility and good structure</h2>
+<p>The block editor makes it easier to create well-structured content, but editors still need to use it correctly. Good habits include:</p>
+<ul>
+<li>using heading blocks in a logical order, rather than making text bold and large to look like a heading,</li>
+<li>adding meaningful alternative text to images in the image block settings,</li>
+<li>writing descriptive link text instead of "click here",</li>
+<li>using list blocks for lists, and</li>
+<li>checking colour combinations for sufficient contrast.</li>
+</ul>
+<p>These habits help visitors using screen readers and other assistive technology, and they also make your content clearer for search engines. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the wider picture.</p>
+
+<h2>Performance considerations</h2>
+<p>Pages built with core blocks tend to be relatively light, but additional block libraries can add scripts and styles to every page. If you install a plugin for extra blocks, check whether you really need it and whether it loads assets only where those blocks are used. Large images dropped straight into image blocks are another common cause of slow pages; see our <a href="/blog/website-image-optimisation/">image optimisation</a> guide for practical tips.</p>
+
+<h2>Extending the block editor</h2>
+<p>When core blocks do not cover what you need, there are options:</p>
+<ul>
+<li><strong>Block plugins</strong> add collections of extra blocks such as tabs, accordions or sliders.</li>
+<li><strong>Custom blocks</strong> can be built by a developer for specific needs, such as a product feature table that matches your design exactly.</li>
+<li><strong>Block variations and styles</strong> let developers offer pre-set versions of existing blocks, such as an outlined button style.</li>
+</ul>
+<p>Custom blocks are often the cleanest way to give editors precisely the components they need, with fewer settings to get wrong.</p>
+
+<h2>Can I still use the classic editor?</h2>
+<p>The Classic Editor plugin restores the older editing screen. It can help during a transition, but the wider WordPress ecosystem, including themes and plugins, is increasingly built around blocks. For long-term maintainability, learning the block editor is usually the better investment. There is also a Classic block inside the block editor that holds older content until you convert it.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Editing a synced pattern without realising it changes every page that uses it.</li>
+<li>Choosing custom colours and sizes block by block instead of using global styles.</li>
+<li>Installing several block libraries that overlap and slow the site.</li>
+<li>Mixing a page builder and the block editor on the same pages.</li>
+<li>Skipping heading levels or using headings purely for visual size.</li>
+<li>Uploading oversized images without optimising them first.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds WordPress websites for UK businesses with editor-friendly block setups, custom patterns and sensible global styles, so your team can update content confidently. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is Gutenberg the same as the block editor?</h3>
+<p>Yes, in everyday use. Gutenberg was the name of the project that developed the block editor, and people still use the two names interchangeably.</p>
+<h3>Will switching to the block editor break my existing pages?</h3>
+<p>Existing content is usually kept inside a Classic block and continues to display. You can convert it to blocks when you are ready, checking the result as you go.</p>
+<h3>What is the difference between a pattern and a synced pattern?</h3>
+<p>An unsynced pattern is a starting layout you edit freely after inserting. A synced pattern stays linked, so editing it updates every place it appears.</p>
+<h3>Do I need a block theme to use the block editor?</h3>
+<p>No. Classic themes support the block editor for post and page content. Block themes additionally let you edit headers, footers and templates with blocks.</p>
+<h3>Can I restrict what editors can change?</h3>
+<p>Yes. Developers can limit available blocks, lock blocks and patterns, and set global styles so editors work within a defined design.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'The%20WordPress%20Block%20Editor%3A%20A%20Practical%20Guide%20for%20Site%20Owners'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-plugin-audit/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Plugin Audit: How to Review, Remove and Replace Plugins</h3><p>How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-multisite-guide/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Multisite Explained: Pros, Cons and Alternatives</h3><p>What WordPress Multisite is, how a network of sites works, when it suits a business with several brands or regions, and the trade-offs to weigh first.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'The%20WordPress%20Block%20Editor%3A%20A%20Practical%20Guide%20for%20Site%20Owners'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
