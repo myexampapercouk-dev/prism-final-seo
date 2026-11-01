@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Comment Spam: How to Stop It and Stay in Control</title>
+<meta name="description" content="How to reduce WordPress comment spam using built-in discussion settings, moderation and filtering, and how to decide whether your site needs comments at all.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-comment-spam/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Comment Spam: How to Stop It and Stay in Control">
+<meta property="og:description" content="How to reduce WordPress comment spam using built-in discussion settings, moderation and filtering, and how to decide whether your site needs comments at all.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-comment-spam/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-comment-spam.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-comment-spam/#article","headline":"WordPress Comment Spam: How to Reduce It and Manage Comments","description":"How to reduce WordPress comment spam using built-in discussion settings, moderation and filtering, and how to decide whether your site needs comments at all.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-comment-spam/","url":"https://prismworksstudio.co.uk/blog/wordpress-comment-spam/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-comment-spam.png","inLanguage":"en-GB","wordCount":1490,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Comment Spam: How to Reduce It and Manage Comments","item":"https://prismworksstudio.co.uk/blog/wordpress-comment-spam/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I stop spam comments in WordPress?","acceptedAnswer":{"@type":"Answer","text":"Use the discussion settings to require approval and hold comments with links, add spam filtering if comments are active, or switch comments off if you do not need them."}},{"@type":"Question","name":"Should a business website allow comments?","acceptedAnswer":{"@type":"Answer","text":"It depends. If readers genuinely use comments to ask questions, they can be valuable. If not, switching them off saves time and removes a spam route."}},{"@type":"Question","name":"What are trackbacks and pingbacks?","acceptedAnswer":{"@type":"Answer","text":"They are notifications sent when another site links to your content. They are frequently abused by spammers, and many sites switch them off."}},{"@type":"Question","name":"Does comment spam affect SEO?","acceptedAnswer":{"@type":"Answer","text":"Published spam with low-quality links can make a page look poorly maintained. Keeping spam unpublished avoids that risk."}},{"@type":"Question","name":"Should I delete spam comments?","acceptedAnswer":{"@type":"Answer","text":"Yes, periodically. Check for genuine comments caught by mistake, then empty the spam folder to keep your database tidy."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Comment Spam: How to Reduce It and Manage Comments</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Comment Spam: How to Reduce It and Manage Comments</h1><p class="pws-lead">How to reduce WordPress comment spam using built-in discussion settings, moderation and filtering, and how to decide whether your site needs comments at all.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>WordPress includes discussion settings that can significantly reduce spam without any extra tools.</li><li>Many business sites do not need comments at all, and switching them off removes the problem entirely.</li><li>Where comments are useful, combine moderation, sensible settings and spam filtering, and review them regularly.</li></ul></div>
+<p>Comments can make a blog feel lively and give readers a way to ask questions. Unfortunately, any open comment form on a WordPress site is also a target for automated spam. Spam comments can contain links to dubious websites, junk text or attempts to trick you into approving them.</p>
+<p>Left unchecked, spam clutters your admin area, fills your database and, if any slips through, makes your site look neglected. This guide explains why WordPress sites attract comment spam, how to use the built-in settings to reduce it, and how to decide whether your site needs comments at all.</p>
+
+<h2>Why WordPress sites get comment spam</h2>
+<p>WordPress powers a very large share of websites, and its comment forms follow a predictable structure. That makes them easy for automated scripts to find and submit. Spammers typically want links back to their own sites, to promote products or to test whether a site publishes comments without checking them.</p>
+<p>Comment spam is rarely personal. It is usually automated and indiscriminate, which means even small, new sites receive it.</p>
+
+<h2>First question: do you need comments?</h2>
+<p>Before tackling spam, ask whether comments serve a purpose on your site. For many business websites, comments are rarely used by real visitors. Enquiries tend to come through contact forms, email, phone or social media instead.</p>
+<p>If comments add little value, switching them off is the simplest and most effective solution. If they do add value, perhaps because readers ask useful questions on how-to articles, keep them and manage them properly.</p>
+
+<h2>Switching comments off</h2>
+<p>WordPress lets you control comments at several levels:</p>
+<ul>
+<li><strong>For new content:</strong> in the discussion settings, you can stop new posts from accepting comments by default.</li>
+<li><strong>For existing posts:</strong> you can turn comments off on individual posts and pages, or in bulk from the posts list.</li>
+<li><strong>For older content:</strong> the discussion settings include an option to close comments automatically on articles older than a chosen period.</li>
+</ul>
+<p>Also check your theme. Some themes display comment areas or counts even when comments are closed, and may need adjusting. If you switch comments off, remember that trackbacks and pingbacks, which notify you when other sites link to you, are a separate setting and are also a common spam route.</p>
+
+<h2>Using the built-in discussion settings</h2>
+<p>If you keep comments, the discussion settings in WordPress give you a lot of control without any extra tools.</p>
+<h3>Require manual approval</h3>
+<p>You can require every comment to be approved before it appears. This guarantees nothing is published without a human check. A related option allows comments from people who have previously had a comment approved, which reduces work while still screening newcomers.</p>
+<h3>Require name and email</h3>
+<p>Requiring a name and email address will not stop determined spammers, but it filters some low-effort submissions.</p>
+<h3>Hold comments with too many links</h3>
+<p>Spam often contains multiple links. WordPress can hold any comment containing more than a set number of links for moderation.</p>
+<h3>Moderation and disallowed words</h3>
+<p>You can list words, phrases, email addresses or web addresses that send a comment to moderation, and a separate list that sends matching comments straight to the trash. Use the stricter list carefully, because genuine comments containing a matching word would be discarded.</p>
+<h3>Require registration</h3>
+<p>For community-style sites, requiring users to register and log in before commenting can greatly reduce spam, though it also discourages casual readers from taking part.</p>
+
+<h2>Spam filtering</h2>
+<p>Built-in settings handle a great deal, but on sites with active comments, a dedicated spam filtering service can automatically catch most spam before you see it. These services compare comments against patterns seen across many sites. When choosing a filtering tool, consider:</p>
+<ul>
+<li>whether it is actively maintained and compatible with your WordPress version,</li>
+<li>how it handles visitors' personal data, including where it sends comment information,</li>
+<li>whether it adds visible challenges that might frustrate genuine visitors, and</li>
+<li>how easily you can review anything it marks as spam.</li>
+</ul>
+<p>Every plugin adds code to maintain, so weigh the benefit against the upkeep. A regular <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> keeps your toolkit lean.</p>
+
+<h2>Challenge tests and accessibility</h2>
+<p>Some anti-spam methods ask visitors to solve a puzzle or tick a box. These can help, but they can also create barriers for people using assistive technology or with certain disabilities. Less intrusive approaches, such as hidden fields that only bots fill in or background scoring, are often friendlier. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers wider considerations.</p>
+
+<h2>Privacy and comments</h2>
+<p>Comment forms collect personal data, such as names, email addresses and IP addresses. Your privacy notice should explain what you collect and why, and any third-party spam service you use should be covered. UK data protection rules apply, and guidance from the Information Commissioner's Office (ICO) is the best place to check your obligations. This is general information rather than legal advice, so take advice if you are unsure. Our article on <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> covers the basics.</p>
+
+<h2>A simple moderation routine</h2>
+<ul>
+<li>Check pending comments regularly so genuine readers are not left waiting.</li>
+<li>Glance through the spam folder occasionally for genuine comments caught by mistake.</li>
+<li>Empty the spam and trash folders periodically so they do not bloat your database.</li>
+<li>Reply to genuine questions; it shows the site is looked after.</li>
+<li>Review your disallowed words list when new spam patterns appear.</li>
+</ul>
+<p>Keeping spam under control is also part of a wider maintenance routine. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> explains how it fits alongside updates and backups.</p>
+
+<h2>Spam beyond comments</h2>
+<p>Comment forms are not the only target. Contact forms, newsletter sign-ups and registration pages attract spam too. Many of the same principles apply: validate inputs, use unobtrusive spam protection and review submissions. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers this in more depth. Unexpected user registrations can also signal a problem, which is one reason to review <a href="/blog/wordpress-user-roles/">WordPress user roles</a> and keep open registration switched off unless you need it.</p>
+
+<h2>Security considerations</h2>
+<p>Comment spam is mainly a nuisance, but spam links can lead visitors to harmful sites if published. Never approve a comment you are unsure about, and avoid clicking links in suspicious comments. Keep WordPress, themes and plugins updated, and follow good <a href="/blog/wordpress-security-uk/">WordPress security</a> practice more generally.</p>
+
+<h2>Spotting spam comments</h2>
+<p>Automated filters catch a lot, but it helps to recognise spam yourself when reviewing the moderation queue. Typical signs include:</p>
+<ul>
+<li>generic praise that could apply to any article, such as vague compliments with no reference to the content,</li>
+<li>links to unrelated websites, often in the comment text or the website field,</li>
+<li>names that look like product names or business keywords rather than people,</li>
+<li>text in a different language from your site or obviously machine-generated wording,</li>
+<li>repeated near-identical comments across several posts, and</li>
+<li>requests to contact someone, click a link or download something.</li>
+</ul>
+<p>Some spam is designed to look harmless at first glance so that it gets approved, which then allows later comments from the same person through automatically. That is why it is worth reading comments properly rather than approving in bulk.</p>
+
+<h2>Handling genuine but unwanted comments</h2>
+<p>Not every unwanted comment is spam. Occasionally you may receive genuine comments that are offensive, off-topic or contain personal information about someone else. It is reasonable to have a short comment policy explaining what you will and will not publish, and to apply it consistently. If a comment raises a customer service issue, it is usually better to respond privately and resolve it than to leave a public back-and-forth on a blog post.</p>
+<p>Where comments include complaints or criticism, respond calmly and helpfully. Visitors reading later often judge a business by how it handles feedback as much as by the feedback itself.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Leaving comments open on a site where nobody uses them.</li>
+<li>Auto-approving comments from anyone.</li>
+<li>Forgetting trackbacks and pingbacks.</li>
+<li>Using anti-spam challenges that block genuine visitors.</li>
+<li>Never checking the spam folder for false positives.</li>
+<li>Letting thousands of spam comments sit in the database.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress websites for UK businesses, including sensible comment, form and spam settings. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, view our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I stop spam comments in WordPress?</h3>
+<p>Use the discussion settings to require approval and hold comments with links, add spam filtering if comments are active, or switch comments off if you do not need them.</p>
+<h3>Should a business website allow comments?</h3>
+<p>It depends. If readers genuinely use comments to ask questions, they can be valuable. If not, switching them off saves time and removes a spam route.</p>
+<h3>What are trackbacks and pingbacks?</h3>
+<p>They are notifications sent when another site links to your content. They are frequently abused by spammers, and many sites switch them off.</p>
+<h3>Does comment spam affect SEO?</h3>
+<p>Published spam with low-quality links can make a page look poorly maintained. Keeping spam unpublished avoids that risk.</p>
+<h3>Should I delete spam comments?</h3>
+<p>Yes, periodically. Check for genuine comments caught by mistake, then empty the spam folder to keep your database tidy.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Comment%20Spam%3A%20How%20to%20Reduce%20It%20and%20Manage%20Comments'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-plugin-audit/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Plugin Audit: How to Review, Remove and Replace Plugins</h3><p>How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-multisite-guide/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Multisite Explained: Pros, Cons and Alternatives</h3><p>What WordPress Multisite is, how a network of sites works, when it suits a business with several brands or regions, and the trade-offs to weigh first.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Comment%20Spam%3A%20How%20to%20Reduce%20It%20and%20Manage%20Comments'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

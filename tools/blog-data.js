@@ -35605,4 +35605,584 @@ module.exports = [
 <p>WooCommerce can run on a Multisite network, with each site acting as a separate store. Check compatibility of any extensions you rely on before committing.</p>
 `,
   },
+  {
+    slug: 'shopify-checkout-settings',
+    seoTitle: 'Shopify Checkout Settings: A Practical Guide for UK Stores',
+    title: 'Shopify Checkout Settings: How to Configure Your Checkout',
+    description: 'A practical guide to Shopify checkout settings for UK stores, covering customer contact, accounts, form fields, marketing consent, order notes and testing.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-store-setup-uk/', '/blog/shopify-conversion-rate-optimisation/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The checkout is where browsing turns into a sale. On Shopify, the core checkout is hosted and maintained by the platform, which brings reliability and security, but it also means you shape it mainly through settings rather than by editing code freely.</p>
+<p>Those settings matter. They decide what information customers must enter, whether they need an account, how marketing permission is requested and what happens after an order is placed. This guide walks through the main Shopify checkout settings and how to think about each one for a UK store.</p>
+
+<h2>Where checkout settings live</h2>
+<p>In the Shopify admin, checkout options sit within the settings area, usually under a checkout section. Related settings, such as payments, shipping, taxes and customer accounts, have their own sections. Shopify updates its admin from time to time, so labels and locations can change, but the principles stay the same.</p>
+<p>Shopify also provides a checkout editor where you can adjust branding, such as logo, colours and fonts, so the checkout feels consistent with the rest of your store.</p>
+
+<h2>Customer contact method</h2>
+<p>You can choose how customers provide contact details at checkout, for example by email only or by phone or email. Consider how you will communicate about orders. Email is commonly used for confirmations and shipping updates, while phone contact may suit some delivery arrangements. Whatever you choose, make sure your <a href="/blog/ecommerce-transactional-emails/">transactional emails</a> and notifications are set up to match.</p>
+
+<h2>Customer accounts</h2>
+<p>Shopify lets you decide whether customers can check out as guests, must sign in, or can choose either. Requiring an account adds a step that may put some shoppers off, especially first-time buyers. Optional accounts let returning customers save time without forcing everyone to register.</p>
+<p>Shopify offers different account experiences, and the options available can change. Review what suits your customers, particularly if you offer subscriptions, wholesale pricing or order history features. Our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts and wishlists</a> covers the wider decision.</p>
+
+<h2>Form fields</h2>
+<p>You can control several fields in the checkout form:</p>
+<ul>
+<li><strong>Full name:</strong> whether to require first and last name or last name only.</li>
+<li><strong>Company name:</strong> hidden, optional or required. Useful if you sell to businesses.</li>
+<li><strong>Address line two:</strong> hidden, optional or required. Many UK addresses need it, so hiding it is rarely wise.</li>
+<li><strong>Shipping address phone number:</strong> hidden, optional or required. Some couriers find it useful for delivery.</li>
+</ul>
+<p>The general principle is to ask only for what you need. Each extra required field is one more thing for the customer to complete, and collecting unnecessary personal data runs against UK data protection principles. Guidance from the Information Commissioner's Office (ICO) explains data minimisation if you want to check your approach.</p>
+
+<h2>Marketing consent</h2>
+<p>Shopify can show a checkbox inviting customers to sign up for email or SMS marketing at checkout. You can choose whether the box appears and, in some cases, whether it is pre-ticked.</p>
+<p>In the UK, electronic marketing is governed by data protection law and the Privacy and Electronic Communications Regulations. Generally, valid consent needs to be freely given and clearly indicated, which is why pre-ticked boxes are widely considered unsuitable for collecting consent. There are specific rules for marketing to existing customers in some circumstances. This is general information only, so check the ICO's guidance or take advice on how the rules apply to your business.</p>
+<p>Make sure the wording beside the checkbox explains clearly what customers are signing up for, and that your privacy notice covers it. Our article on <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> covers the basics.</p>
+
+<h2>Address autocomplete and accuracy</h2>
+<p>Shopify can suggest addresses as customers type, which speeds up checkout and reduces errors. Accurate addresses mean fewer failed deliveries and customer service queries. Check how suggestions behave for UK addresses during testing.</p>
+
+<h2>Tipping, order notes and extra information</h2>
+<p>Shopify includes optional features such as tipping, which suits some businesses but may feel out of place for others. Consider whether it fits your brand before enabling it.</p>
+<p>Many stores want customers to leave notes, such as delivery instructions or gift messages. Depending on your theme and setup, this may be handled through cart notes or checkout customisation. Decide where this information should be collected and make sure your team sees it when fulfilling orders.</p>
+
+<h2>Policies and legal links</h2>
+<p>Shopify lets you add policies, such as refund, privacy, terms of service and shipping, and links them in the checkout footer. Make sure each policy is complete, up to date and reflects how you actually operate. UK consumer law gives shoppers certain rights when buying online, including cancellation rights in many cases, so your refund policy should be consistent with those rights. Again, take advice if you are unsure how the rules apply.</p>
+
+<h2>Order processing settings</h2>
+<p>Checkout settings also cover what happens after payment. Options can include whether to use the shipping address as the billing address by default, whether to automatically fulfil certain orders, such as digital products or gift cards, and whether to archive orders automatically once fulfilled and paid. Choose settings that match your fulfilment workflow, so your team sees what needs attention.</p>
+
+<h2>Payments, shipping and taxes</h2>
+<p>Although configured elsewhere, these settings shape the checkout experience directly. Offer payment methods your customers expect, present clear shipping options and costs, and configure taxes correctly for UK VAT. Surprises at checkout, such as unexpected delivery charges, are a frequent reason shoppers hesitate. Our guide to <a href="/blog/shopify-store-setup-uk/">Shopify store setup</a> covers these foundations.</p>
+
+<h2>Checkout branding</h2>
+<p>Use the checkout editor to add your logo and match colours and fonts to your store. A checkout that feels consistent with the rest of the site reassures customers that they are in the right place. Keep the design clean; the goal is to help customers complete their purchase without distraction.</p>
+
+<h2>Customising beyond settings</h2>
+<p>For more advanced needs, Shopify provides extension points that allow approved apps and custom development to add features to the checkout, such as extra fields or messages. What is possible depends on your Shopify plan and the platform's current capabilities. Shopify Plus offers additional checkout customisation options. Every addition should earn its place, because each extra element adds something for customers to process. An <a href="/blog/shopify-apps-audit/">apps audit</a> helps keep checkout extensions under control.</p>
+
+<h2>Testing your checkout</h2>
+<p>After changing checkout settings, test thoroughly:</p>
+<ul>
+<li>place test orders using Shopify's test payment options,</li>
+<li>try guest checkout and account checkout if both are available,</li>
+<li>test on mobile and desktop,</li>
+<li>check discount codes, shipping options and tax calculations,</li>
+<li>confirm notification emails arrive and look right, and</li>
+<li>make sure orders appear correctly in the admin for fulfilment.</li>
+</ul>
+<p>Remember to switch test mode off and cancel test orders afterwards.</p>
+
+<h2>Improving checkout over time</h2>
+<p>Watch your analytics for where shoppers drop out between adding to cart and completing an order. Abandoned checkouts can point to problems such as unexpected costs, limited payment options or confusing fields. Our guide to <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> explores this further.</p>
+
+<h2>Building trust at checkout</h2>
+<p>Customers are being asked to hand over payment and personal details, so reassurance matters. Shopify's hosted checkout is secure by design, but customers still look for signs that they are dealing with a genuine, well-run business. Helpful touches include:</p>
+<ul>
+<li>clear delivery information, including expected delivery options and any restrictions,</li>
+<li>easily found links to your refund and shipping policies,</li>
+<li>contact details or a link to help, so customers know they can reach you,</li>
+<li>consistent branding, so the checkout feels part of your store, and</li>
+<li>accurate product names and images in the order summary.</li>
+</ul>
+<p>Avoid cluttering the checkout with badges or claims that cannot be backed up. Honest, clear information tends to build more confidence than decoration.</p>
+<p>It is also worth reviewing the checkout through the eyes of a first-time customer every so often. Ask someone unfamiliar with your store to buy a low-value item and note anything that confuses them.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Forcing account creation when guest checkout would do.</li>
+<li>Requiring fields you never use.</li>
+<li>Pre-ticking marketing consent boxes.</li>
+<li>Leaving placeholder or outdated policies in place.</li>
+<li>Changing settings without placing a test order.</li>
+<li>Adding checkout features that distract from completing the purchase.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and optimises Shopify stores for UK brands, including checkout configuration, policies and testing. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I edit the Shopify checkout?</h3>
+<p>You can configure it through settings and brand it with the checkout editor. Deeper changes use Shopify's checkout extensions, with more options available on Shopify Plus.</p>
+<h3>Should I allow guest checkout?</h3>
+<p>Many stores offer guest checkout alongside optional accounts, so first-time buyers are not forced to register. Choose what suits your customers.</p>
+<h3>Can I pre-tick the marketing checkbox?</h3>
+<p>Shopify may allow it, but pre-ticked boxes are generally not considered valid consent under UK rules. Check the ICO's guidance or take advice.</p>
+<h3>How do I test my Shopify checkout?</h3>
+<p>Use Shopify's test payment options to place orders, check emails and admin records, then switch test mode off when finished.</p>
+<h3>Why do customers abandon checkout?</h3>
+<p>Reasons vary, but unexpected costs, limited payment options and lengthy forms are frequent factors worth reviewing.</p>
+`,
+  },
+  {
+    slug: 'shopify-theme-updates',
+    seoTitle: 'Shopify Theme Updates: How to Update Without Breaking It',
+    title: 'Shopify Theme Updates: How to Update Your Theme Safely',
+    description: 'How Shopify theme updates work, why they matter, and how to update a customised theme safely using duplicates, previews and careful checks before publishing.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-theme-customisation/', '/blog/shopify-apps-audit/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Your Shopify theme controls how your store looks and behaves: the layout of product pages, the navigation, the cart and the way content is displayed on phones and desktops. Like any software, themes are improved over time. Theme developers release updates that fix bugs, add features and keep pace with changes to the Shopify platform.</p>
+<p>Updating sounds simple, yet many store owners put it off because they worry about losing customisations or breaking something that works. This guide explains how Shopify theme updates work, what can go wrong and a careful process for updating with confidence.</p>
+
+<h2>How Shopify theme updates work</h2>
+<p>When you install a theme from the Shopify Theme Store, you get a copy of that theme in your store. When the developer releases a newer version, Shopify can notify you in the themes area of your admin. Updates are not forced onto your live theme. Instead, you can choose to add the updated version, which typically creates a new copy of the theme with the latest code.</p>
+<p>Shopify attempts to carry over your theme settings and content, such as colours, fonts, section arrangements and text you have entered through the theme editor. What it cannot reliably carry over are changes made directly to the theme's code files. Those need to be reapplied by hand.</p>
+<p>Themes bought outside the Theme Store, or built specifically for your store, may follow a different update route. Check with whoever supplied the theme.</p>
+
+<h2>Why theme updates matter</h2>
+<ul>
+<li><strong>Bug fixes.</strong> Updates often fix display problems, broken features or issues on particular devices and browsers.</li>
+<li><strong>Platform compatibility.</strong> Shopify regularly introduces new features. Updated themes are more likely to support them properly.</li>
+<li><strong>Performance improvements.</strong> Developers sometimes streamline code or images, which can help with <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a>.</li>
+<li><strong>Accessibility improvements.</strong> Updates may improve keyboard navigation, contrast or labelling, supporting a more <a href="/blog/website-accessibility-uk/">accessible website</a>.</li>
+<li><strong>New features.</strong> New sections, blocks or settings can give you more flexibility without custom development.</li>
+</ul>
+<p>Falling a long way behind can make eventual updates harder, because there is more change to absorb at once.</p>
+
+<h2>What makes updating difficult</h2>
+<h3>Direct code edits</h3>
+<p>If you or a developer have edited the theme's code, those edits live only in your current copy. An updated theme arrives without them. The more extensive the edits, the more work it takes to rebuild them on the new version. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> explains the difference between settings-based changes and code changes.</p>
+<h3>App code left in the theme</h3>
+<p>Some apps add code to themes. Modern apps increasingly use app blocks and app embeds, which are designed to survive theme changes, but older apps may have inserted code directly. Removed apps can also leave code behind. An <a href="/blog/shopify-apps-audit/">apps audit</a> before updating helps identify what each app needs.</p>
+<h3>Changed or removed sections</h3>
+<p>Theme developers sometimes rename, merge or retire sections. Content placed in a section that no longer exists may need rebuilding.</p>
+
+<h2>Before you update</h2>
+<ul>
+<li><strong>Read the release notes.</strong> Most theme developers publish a summary of what has changed. This tells you what to look out for.</li>
+<li><strong>List your customisations.</strong> Note every code edit, custom section, script and app integration. If a developer made changes, ask them for a record.</li>
+<li><strong>Download a copy of your current theme.</strong> Shopify lets you download theme files, giving you an extra backup and a reference for reapplying edits.</li>
+<li><strong>Duplicate your live theme.</strong> Keep an untouched copy you can return to quickly.</li>
+<li><strong>Choose a quiet trading period.</strong> Avoid publishing a new theme just before a sale or busy season.</li>
+</ul>
+
+<h2>A careful update process</h2>
+<h3>Add the updated version</h3>
+<p>From the themes area, add the updated version of your theme. It will appear in your theme library as an unpublished theme, leaving your live store unchanged.</p>
+<h3>Review settings and content</h3>
+<p>Open the new copy in the theme editor and compare it with your live theme. Check that colours, fonts, logos, menus, homepage sections and templates have carried over as expected.</p>
+<h3>Reapply customisations</h3>
+<p>Work through your list of code edits and reapply each one to the new version. Sometimes an update makes an old customisation unnecessary because the theme now offers the feature as a setting, which is a chance to simplify. Code work like this is often best handled by a developer familiar with Shopify themes.</p>
+<h3>Reconnect apps</h3>
+<p>Enable any app embeds and add app blocks to the right templates. Check that reviews, subscriptions, upsells, tracking and other app features appear and work.</p>
+<h3>Test in preview</h3>
+<p>Preview the unpublished theme and test it thoroughly before going live. Shopify's preview lets you browse the store as a customer would.</p>
+
+<h2>What to test</h2>
+<ul>
+<li>homepage, collection pages and product pages on mobile and desktop,</li>
+<li>product variants, images and any personalisation options,</li>
+<li>search, filters and navigation menus,</li>
+<li>adding to the cart, updating quantities and proceeding to checkout,</li>
+<li>discount codes and any gift card features,</li>
+<li>blog posts, pages and contact forms,</li>
+<li>newsletter sign-ups and pop-ups,</li>
+<li>analytics, advertising and tracking scripts, and</li>
+<li>cookie or consent banners.</li>
+</ul>
+<p>Test on several browsers and real devices if you can. Ask a colleague to try the store too; fresh eyes often spot things you miss.</p>
+
+<h2>Publishing and afterwards</h2>
+<p>When you are satisfied, publish the updated theme. Keep the previous theme in your library for a while so you can switch back quickly if a problem appears. After publishing, place a test order if practical, keep an eye on orders and enquiries, and check analytics to confirm tracking is still recording properly.</p>
+
+<h2>Reducing future update pain</h2>
+<ul>
+<li><strong>Prefer settings over code.</strong> Use theme settings, sections and blocks wherever possible.</li>
+<li><strong>Keep custom code separate.</strong> Where code is needed, developers can often place it in separate snippets or custom sections, making it easier to move to a new version.</li>
+<li><strong>Document everything.</strong> Keep a simple log of what was changed, where and why.</li>
+<li><strong>Prefer apps that use app blocks and embeds</strong> rather than editing theme code.</li>
+<li><strong>Update regularly</strong> rather than letting versions pile up.</li>
+</ul>
+
+<h2>When to consider a new theme instead</h2>
+<p>Sometimes a theme is so heavily customised, or so outdated, that updating it is close to rebuilding it. In that case it may be worth considering a newer theme that meets your needs with fewer custom edits. This is a bigger decision involving design, content and testing, so plan it carefully, much as you would a <a href="/blog/website-redesign-without-losing-rankings/">website redesign</a>.</p>
+
+<h2>Keeping a customisation log</h2>
+<p>A simple customisation log turns theme updates from detective work into a checklist. It does not need special software; a shared document is enough. For each change, record:</p>
+<ul>
+<li>what was changed and why,</li>
+<li>which theme files, sections or templates were affected,</li>
+<li>who made the change and roughly when,</li>
+<li>whether an app is involved, and</li>
+<li>how to check that the change still works after an update.</li>
+</ul>
+<p>When a developer works on your store, ask them to add to the log as part of the job. If you change developers or agencies later, the log also makes handover far smoother. Our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> includes tips on documenting work.</p>
+
+<h2>Who should handle the update</h2>
+<p>Store owners with themes that rely only on editor settings can usually manage updates themselves by following the steps above. Where a theme has code edits, custom sections or complex app integrations, it is usually safer to involve someone comfortable with Shopify's theme code. They can compare the old and new versions, reapply edits cleanly and spot conflicts that are not obvious from the front end.</p>
+<p>Whoever handles it, agree in advance who will test which parts of the store and who has the final say on publishing. Clear responsibility reduces the risk of a half-tested theme going live.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Editing the live theme code directly without a backup.</li>
+<li>Publishing an updated theme without testing checkout and apps.</li>
+<li>Deleting the old theme immediately after publishing.</li>
+<li>Losing track of who made which customisations.</li>
+<li>Updating during a busy sales period.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs, customises and maintains Shopify stores for UK brands, including careful theme updates that preserve your customisations. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, see our <a href="/pricing/">pricing</a> or <a href="/contact/">contact us</a> to discuss your store.</p>
+
+<h2>FAQs</h2>
+<h3>Do Shopify themes update automatically?</h3>
+<p>No. Shopify notifies you when an update is available, and you choose when to add the updated version and publish it.</p>
+<h3>Will I lose my customisations when I update?</h3>
+<p>Settings and content made through the theme editor usually carry over. Direct code edits generally need to be reapplied to the new version.</p>
+<h3>How do I know what changed in an update?</h3>
+<p>Check the release notes published by the theme developer, usually linked from the theme listing or the update notification.</p>
+<h3>Can I go back if the update causes problems?</h3>
+<p>Yes, if you keep your previous theme in the library. You can republish it while you fix issues in the updated copy.</p>
+<h3>Do I need a developer to update my theme?</h3>
+<p>Not always. A theme with only settings-based changes can often be updated by the store owner. Themes with code edits usually benefit from developer help.</p>
+`,
+  },
+  {
+    slug: 'wordpress-comment-spam',
+    seoTitle: 'WordPress Comment Spam: How to Stop It and Stay in Control',
+    title: 'WordPress Comment Spam: How to Reduce It and Manage Comments',
+    description: 'How to reduce WordPress comment spam using built-in discussion settings, moderation and filtering, and how to decide whether your site needs comments at all.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-security-uk/', '/blog/wordpress-plugin-audit/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Comments can make a blog feel lively and give readers a way to ask questions. Unfortunately, any open comment form on a WordPress site is also a target for automated spam. Spam comments can contain links to dubious websites, junk text or attempts to trick you into approving them.</p>
+<p>Left unchecked, spam clutters your admin area, fills your database and, if any slips through, makes your site look neglected. This guide explains why WordPress sites attract comment spam, how to use the built-in settings to reduce it, and how to decide whether your site needs comments at all.</p>
+
+<h2>Why WordPress sites get comment spam</h2>
+<p>WordPress powers a very large share of websites, and its comment forms follow a predictable structure. That makes them easy for automated scripts to find and submit. Spammers typically want links back to their own sites, to promote products or to test whether a site publishes comments without checking them.</p>
+<p>Comment spam is rarely personal. It is usually automated and indiscriminate, which means even small, new sites receive it.</p>
+
+<h2>First question: do you need comments?</h2>
+<p>Before tackling spam, ask whether comments serve a purpose on your site. For many business websites, comments are rarely used by real visitors. Enquiries tend to come through contact forms, email, phone or social media instead.</p>
+<p>If comments add little value, switching them off is the simplest and most effective solution. If they do add value, perhaps because readers ask useful questions on how-to articles, keep them and manage them properly.</p>
+
+<h2>Switching comments off</h2>
+<p>WordPress lets you control comments at several levels:</p>
+<ul>
+<li><strong>For new content:</strong> in the discussion settings, you can stop new posts from accepting comments by default.</li>
+<li><strong>For existing posts:</strong> you can turn comments off on individual posts and pages, or in bulk from the posts list.</li>
+<li><strong>For older content:</strong> the discussion settings include an option to close comments automatically on articles older than a chosen period.</li>
+</ul>
+<p>Also check your theme. Some themes display comment areas or counts even when comments are closed, and may need adjusting. If you switch comments off, remember that trackbacks and pingbacks, which notify you when other sites link to you, are a separate setting and are also a common spam route.</p>
+
+<h2>Using the built-in discussion settings</h2>
+<p>If you keep comments, the discussion settings in WordPress give you a lot of control without any extra tools.</p>
+<h3>Require manual approval</h3>
+<p>You can require every comment to be approved before it appears. This guarantees nothing is published without a human check. A related option allows comments from people who have previously had a comment approved, which reduces work while still screening newcomers.</p>
+<h3>Require name and email</h3>
+<p>Requiring a name and email address will not stop determined spammers, but it filters some low-effort submissions.</p>
+<h3>Hold comments with too many links</h3>
+<p>Spam often contains multiple links. WordPress can hold any comment containing more than a set number of links for moderation.</p>
+<h3>Moderation and disallowed words</h3>
+<p>You can list words, phrases, email addresses or web addresses that send a comment to moderation, and a separate list that sends matching comments straight to the trash. Use the stricter list carefully, because genuine comments containing a matching word would be discarded.</p>
+<h3>Require registration</h3>
+<p>For community-style sites, requiring users to register and log in before commenting can greatly reduce spam, though it also discourages casual readers from taking part.</p>
+
+<h2>Spam filtering</h2>
+<p>Built-in settings handle a great deal, but on sites with active comments, a dedicated spam filtering service can automatically catch most spam before you see it. These services compare comments against patterns seen across many sites. When choosing a filtering tool, consider:</p>
+<ul>
+<li>whether it is actively maintained and compatible with your WordPress version,</li>
+<li>how it handles visitors' personal data, including where it sends comment information,</li>
+<li>whether it adds visible challenges that might frustrate genuine visitors, and</li>
+<li>how easily you can review anything it marks as spam.</li>
+</ul>
+<p>Every plugin adds code to maintain, so weigh the benefit against the upkeep. A regular <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> keeps your toolkit lean.</p>
+
+<h2>Challenge tests and accessibility</h2>
+<p>Some anti-spam methods ask visitors to solve a puzzle or tick a box. These can help, but they can also create barriers for people using assistive technology or with certain disabilities. Less intrusive approaches, such as hidden fields that only bots fill in or background scoring, are often friendlier. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers wider considerations.</p>
+
+<h2>Privacy and comments</h2>
+<p>Comment forms collect personal data, such as names, email addresses and IP addresses. Your privacy notice should explain what you collect and why, and any third-party spam service you use should be covered. UK data protection rules apply, and guidance from the Information Commissioner's Office (ICO) is the best place to check your obligations. This is general information rather than legal advice, so take advice if you are unsure. Our article on <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> covers the basics.</p>
+
+<h2>A simple moderation routine</h2>
+<ul>
+<li>Check pending comments regularly so genuine readers are not left waiting.</li>
+<li>Glance through the spam folder occasionally for genuine comments caught by mistake.</li>
+<li>Empty the spam and trash folders periodically so they do not bloat your database.</li>
+<li>Reply to genuine questions; it shows the site is looked after.</li>
+<li>Review your disallowed words list when new spam patterns appear.</li>
+</ul>
+<p>Keeping spam under control is also part of a wider maintenance routine. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> explains how it fits alongside updates and backups.</p>
+
+<h2>Spam beyond comments</h2>
+<p>Comment forms are not the only target. Contact forms, newsletter sign-ups and registration pages attract spam too. Many of the same principles apply: validate inputs, use unobtrusive spam protection and review submissions. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers this in more depth. Unexpected user registrations can also signal a problem, which is one reason to review <a href="/blog/wordpress-user-roles/">WordPress user roles</a> and keep open registration switched off unless you need it.</p>
+
+<h2>Security considerations</h2>
+<p>Comment spam is mainly a nuisance, but spam links can lead visitors to harmful sites if published. Never approve a comment you are unsure about, and avoid clicking links in suspicious comments. Keep WordPress, themes and plugins updated, and follow good <a href="/blog/wordpress-security-uk/">WordPress security</a> practice more generally.</p>
+
+<h2>Spotting spam comments</h2>
+<p>Automated filters catch a lot, but it helps to recognise spam yourself when reviewing the moderation queue. Typical signs include:</p>
+<ul>
+<li>generic praise that could apply to any article, such as vague compliments with no reference to the content,</li>
+<li>links to unrelated websites, often in the comment text or the website field,</li>
+<li>names that look like product names or business keywords rather than people,</li>
+<li>text in a different language from your site or obviously machine-generated wording,</li>
+<li>repeated near-identical comments across several posts, and</li>
+<li>requests to contact someone, click a link or download something.</li>
+</ul>
+<p>Some spam is designed to look harmless at first glance so that it gets approved, which then allows later comments from the same person through automatically. That is why it is worth reading comments properly rather than approving in bulk.</p>
+
+<h2>Handling genuine but unwanted comments</h2>
+<p>Not every unwanted comment is spam. Occasionally you may receive genuine comments that are offensive, off-topic or contain personal information about someone else. It is reasonable to have a short comment policy explaining what you will and will not publish, and to apply it consistently. If a comment raises a customer service issue, it is usually better to respond privately and resolve it than to leave a public back-and-forth on a blog post.</p>
+<p>Where comments include complaints or criticism, respond calmly and helpfully. Visitors reading later often judge a business by how it handles feedback as much as by the feedback itself.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Leaving comments open on a site where nobody uses them.</li>
+<li>Auto-approving comments from anyone.</li>
+<li>Forgetting trackbacks and pingbacks.</li>
+<li>Using anti-spam challenges that block genuine visitors.</li>
+<li>Never checking the spam folder for false positives.</li>
+<li>Letting thousands of spam comments sit in the database.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress websites for UK businesses, including sensible comment, form and spam settings. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, view our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I stop spam comments in WordPress?</h3>
+<p>Use the discussion settings to require approval and hold comments with links, add spam filtering if comments are active, or switch comments off if you do not need them.</p>
+<h3>Should a business website allow comments?</h3>
+<p>It depends. If readers genuinely use comments to ask questions, they can be valuable. If not, switching them off saves time and removes a spam route.</p>
+<h3>What are trackbacks and pingbacks?</h3>
+<p>They are notifications sent when another site links to your content. They are frequently abused by spammers, and many sites switch them off.</p>
+<h3>Does comment spam affect SEO?</h3>
+<p>Published spam with low-quality links can make a page look poorly maintained. Keeping spam unpublished avoids that risk.</p>
+<h3>Should I delete spam comments?</h3>
+<p>Yes, periodically. Check for genuine comments caught by mistake, then empty the spam folder to keep your database tidy.</p>
+`,
+  },
+  {
+    slug: 'wordpress-database-cleanup',
+    seoTitle: 'WordPress Database Cleanup: A Safe, Practical Guide',
+    title: 'WordPress Database Cleanup: How to Tidy Up Safely',
+    description: 'What builds up in a WordPress database, what is safe to remove, how to back up first and how to keep revisions, transients and leftover data under control.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-plugin-audit/', '/blog/website-maintenance-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Every WordPress website runs on two things: the files that make up WordPress, your theme and your plugins, and a database that stores almost everything else. Your pages, posts, settings, users, comments, menus and, for WooCommerce stores, orders and customers all live in the database.</p>
+<p>As a site ages, that database collects material it no longer needs. Old drafts, deleted comments, temporary data that was never cleared and tables left behind by plugins you removed years ago can all pile up. This guide explains what builds up, what is generally safe to remove, how to protect yourself before you start and how to keep things tidy afterwards.</p>
+
+<h2>What is the WordPress database?</h2>
+<p>WordPress uses a relational database, usually MySQL or MariaDB, provided by your hosting company. It is organised into tables. The core tables hold posts and pages, post metadata, comments, users, user metadata, terms such as categories and tags, and site options. Plugins often add their own tables for things like form submissions, logs or ecommerce data.</p>
+<p>When a visitor loads a page, WordPress queries these tables to assemble the content. A cluttered database does not always cause problems, but unnecessary data can make backups larger, slow down some admin screens and occasionally affect performance on busier sites.</p>
+
+<h2>What builds up over time</h2>
+<h3>Post revisions</h3>
+<p>Each time you save or update a post or page, WordPress can store a copy as a revision so you can roll back. This is genuinely useful, but on a site with long-lived pages edited many times, revisions can account for a large share of the posts table.</p>
+<h3>Auto-drafts and trashed content</h3>
+<p>WordPress creates auto-drafts as you work and keeps trashed posts and pages until the trash is emptied. Left alone, these accumulate quietly.</p>
+<h3>Spam and trashed comments</h3>
+<p>If your site accepts comments, spam and trashed comments remain in the database until they are permanently removed, along with their associated metadata.</p>
+<h3>Transients</h3>
+<p>Transients are temporary pieces of data that themes and plugins store to avoid repeating slow tasks. They usually have an expiry time, but expired transients are not always cleared promptly, and some are created without an expiry at all.</p>
+<h3>Orphaned metadata</h3>
+<p>Metadata is extra information attached to posts, users, comments and terms. When the parent item is deleted, its metadata can sometimes be left behind with nothing to belong to.</p>
+<h3>Leftovers from removed plugins and themes</h3>
+<p>Deactivating and deleting a plugin does not always remove the tables and options it created. Over years of trying and replacing plugins, a database can carry a surprising amount of this residue. A regular <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> helps you understand what was installed and why.</p>
+<h3>Autoloaded options</h3>
+<p>The options table stores site-wide settings. Some options are marked to load on every single page request. If plugins have stored large amounts of data as autoloaded options, every page has to carry that weight, whether it needs it or not.</p>
+
+<h2>Before you clean: protect the site</h2>
+<p>Database work is one of the few website tasks where a mistake can be hard to undo. Deleting the wrong table or option can break features, lose content or take the site offline. Before changing anything:</p>
+<ul>
+<li><strong>Take a full backup</strong> of both the database and the files, and store it somewhere other than your hosting account.</li>
+<li><strong>Check the backup can be restored.</strong> A backup you have never tested is a hope rather than a safety net.</li>
+<li><strong>Work on a staging copy first</strong> where possible, so you can confirm nothing breaks before touching the live site. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains the approach.</li>
+<li><strong>Choose a quiet time</strong> for any changes to the live site, particularly on an online store taking orders.</li>
+<li><strong>Write down what you change,</strong> so you can retrace your steps if something behaves oddly later.</li>
+</ul>
+
+<h2>What is usually safe to remove</h2>
+<p>With a backup in place, the following are generally considered low risk to clear, although you should still check each site individually:</p>
+<ul>
+<li>spam comments and comments already in the trash,</li>
+<li>posts and pages already in the trash that you are sure you do not need,</li>
+<li>old auto-drafts,</li>
+<li>expired transients, and</li>
+<li>older post revisions, keeping a few recent ones for important pages.</li>
+</ul>
+<p>WordPress itself lets you empty the trash and remove spam from the admin area. Many hosting control panels include a database tool, and there are maintenance tools that can clear revisions and transients. Whichever route you take, use reputable tools, keep them updated and remove any you no longer need.</p>
+
+<h2>What needs more care</h2>
+<p>Some clean-up tasks look straightforward but carry more risk:</p>
+<ul>
+<li><strong>Tables from old plugins.</strong> Confirm a table really belongs to a plugin you have removed, and that no other plugin or custom code relies on it. Table names are not always obvious.</li>
+<li><strong>Orphaned metadata.</strong> Usually safe to remove, but custom code occasionally stores data in ways that look orphaned and are not.</li>
+<li><strong>Autoloaded options.</strong> Switching off autoloading or deleting large options can improve performance, but removing something a plugin still expects can cause errors.</li>
+<li><strong>WooCommerce data.</strong> Orders, customers and related records may be needed for accounting, tax and customer service. Do not remove order data without checking what your business needs to keep. Retention requirements can vary, so it is sensible to check with your accountant or adviser.</li>
+</ul>
+<p>If you are not confident identifying what a table or option does, this is a good point to involve a developer.</p>
+
+<h2>Optimising tables</h2>
+<p>After deleting data, database tables may still occupy the space the data used. Optimising tables can reclaim that space and reorganise the data. Many hosting control panels offer an optimise option, and some maintenance tools include it. On large tables this can take time and briefly lock the table, so run it during a quiet period.</p>
+
+<h2>Preventing clutter in the first place</h2>
+<h3>Limit revisions</h3>
+<p>WordPress allows you to limit how many revisions are kept per post through a setting in the site configuration file. Keeping a handful gives you a safety net without unlimited growth. Changing configuration files should be done carefully, ideally by someone comfortable with WordPress.</p>
+<h3>Control comment spam</h3>
+<p>If you do not need comments, consider switching them off. If you do, use spam filtering and moderation so spam does not build up in large volumes.</p>
+<h3>Be selective about plugins</h3>
+<p>Every plugin you add may write to the database. Install only what you need, and when removing a plugin, check whether it offers an option to delete its data on uninstall.</p>
+<h3>Watch logs and form entries</h3>
+<p>Security, form and email plugins sometimes store logs or submissions indefinitely. Check their settings for retention options. Keeping personal data no longer than necessary is also a principle of UK data protection law, so the Information Commissioner's Office guidance is worth reading if you store enquiries or customer details.</p>
+
+<h2>Does a database clean-up make a site faster?</h2>
+<p>Sometimes, but it is rarely the main fix. Hosting quality, caching, image sizes, theme code and the number of plugins usually have a bigger effect on speed. A tidy database is part of good housekeeping and can help with admin performance and backup sizes, but it should sit within a broader approach to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a>. Good <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> also makes a difference to how well the database performs.</p>
+
+<h2>Building it into maintenance</h2>
+<p>Database housekeeping works best as a routine task rather than a one-off rescue. A light, regular tidy, alongside updates, backups and security checks, keeps the database manageable and reduces the temptation to make sweeping changes all at once. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> covers how this fits with other routine work, and <a href="/blog/wordpress-security-uk/">WordPress security</a> explains related protective steps.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Cleaning without a recent, tested backup.</li>
+<li>Deleting tables because the name looks unfamiliar.</li>
+<li>Removing all revisions, including ones you may want for important pages.</li>
+<li>Deleting WooCommerce order data without checking your record-keeping needs.</li>
+<li>Running heavy optimisation on a busy store during trading hours.</li>
+<li>Leaving clean-up tools installed and unused.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and looks after WordPress and WooCommerce websites for UK businesses, including database housekeeping as part of careful, backed-up maintenance. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, view our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a> to talk about your site.</p>
+
+<h2>FAQs</h2>
+<h3>Is it safe to clean a WordPress database?</h3>
+<p>It can be, provided you take a full tested backup first and stick to well-understood tasks such as removing spam, trash and expired transients. Deleting tables or options needs more care.</p>
+<h3>Should I delete all post revisions?</h3>
+<p>Not necessarily. Revisions let you roll back changes. Many site owners keep a few recent revisions per page and remove older ones.</p>
+<h3>Do deleted plugins leave data behind?</h3>
+<p>They can. Some plugins remove their data on uninstall, while others leave tables and options in place unless you remove them separately.</p>
+<h3>Will cleaning my database improve SEO?</h3>
+<p>Not directly. It may help performance in some cases, which supports a good visitor experience, but content, structure and technical health matter far more for search.</p>
+<h3>Can I clean a WooCommerce store database?</h3>
+<p>Yes, with extra caution. Order and customer data may be needed for accounts and customer service, so check what you need to keep before removing anything.</p>
+`,
+  },
+  {
+    slug: 'wordpress-media-library-organisation',
+    seoTitle: 'WordPress Media Library: How to Organise and Tidy It',
+    title: 'WordPress Media Library Organisation: A Practical Guide',
+    description: 'How to organise the WordPress media library, from file naming and alt text to removing unused images safely and keeping uploads manageable as your site grows.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-image-optimisation/', '/blog/website-maintenance-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The WordPress media library holds the images, documents, videos and other files uploaded to your website. On a new site it is tidy and easy to browse. A few years and several contributors later, it can become a long scroll of files named after camera serial numbers, duplicates of the same logo and PDFs nobody remembers adding.</p>
+<p>A disorganised media library wastes time, makes it easy to use the wrong version of an image and inflates backups and storage. This guide explains how the media library works, how to organise it and how to remove clutter without breaking your pages.</p>
+
+<h2>How the WordPress media library works</h2>
+<p>When you upload a file, WordPress stores it in an uploads folder on your server, usually organised by year and month, and creates a record in the database. For images, WordPress also generates several resized versions for use in different parts of your theme.</p>
+<p>Each media item has fields you can edit, including the title, alt text, caption and description. The library offers a grid view for browsing visually and a list view showing more detail, along with basic filters by file type and date and a search box.</p>
+<p>WordPress does not include folders in the media library by default. Files are organised by upload date behind the scenes, but in the admin area everything appears in one collection.</p>
+
+<h2>Why organisation matters</h2>
+<ul>
+<li><strong>Speed of editing.</strong> Finding the right image quickly saves time for everyone who updates the site.</li>
+<li><strong>Brand consistency.</strong> Clear naming reduces the risk of using an outdated logo or the wrong product photo.</li>
+<li><strong>Accessibility.</strong> Good alt text helps people using screen readers understand images.</li>
+<li><strong>Search visibility.</strong> Descriptive file names and alt text help search engines understand what an image shows.</li>
+<li><strong>Storage and backups.</strong> Unneeded files make backups larger and can use up hosting space.</li>
+</ul>
+
+<h2>Naming files before upload</h2>
+<p>The easiest time to organise a file is before it goes into WordPress. Rename files on your computer to describe what they show, using lowercase words separated by hyphens. A name such as oak-dining-table-front-view.jpg is far more useful than IMG_4821.jpg.</p>
+<p>Agree a simple naming pattern with anyone who uploads files, for example product or topic first, then a short description. Avoid spaces and special characters, which can cause awkward web addresses.</p>
+
+<h2>Titles, alt text and captions</h2>
+<h3>Title</h3>
+<p>WordPress usually takes the title from the file name. A clear title makes searching the library easier. It is mainly for your own use rather than visitors.</p>
+<h3>Alt text</h3>
+<p>Alt text describes an image for people who cannot see it and appears if the image fails to load. Write a short, accurate description of what the image shows and why it is there. Purely decorative images can have empty alt text so screen readers skip them. Avoid stuffing keywords in; describe the image naturally. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers alt text in more detail.</p>
+<h3>Caption and description</h3>
+<p>Captions may appear beneath images depending on your theme. Descriptions are less commonly displayed but can hold internal notes, such as where an image came from or any usage restrictions.</p>
+
+<h2>Optimising images as you go</h2>
+<p>Organisation and optimisation go hand in hand. Uploading huge, uncompressed photos slows your site and fills your storage. Resize images to sensible dimensions and compress them before uploading, and consider modern formats that WordPress supports. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains the details.</p>
+
+<h2>Adding structure: folders and categories</h2>
+<p>Because WordPress lacks media folders by default, sites with large libraries sometimes add a media organisation tool that provides folders or categories. This can help, but consider the trade-offs:</p>
+<ul>
+<li>it adds another plugin to keep updated,</li>
+<li>some tools store their organisation in ways that are lost if you remove them, and</li>
+<li>folders only help if everyone uses them consistently.</li>
+</ul>
+<p>For many smaller sites, good file names and the built-in search are enough. A regular <a href="/blog/wordpress-plugin-audit/">plugin audit</a> helps you judge whether an extra tool is earning its place.</p>
+
+<h2>Finding and removing unused media</h2>
+<p>Over time, the library fills with images that no longer appear anywhere: old banners, replaced product shots and drafts. Removing them can reduce storage and clutter, but it needs care.</p>
+<h3>Why deleting is risky</h3>
+<p>WordPress shows whether a media item was uploaded to a particular post, but that does not tell you everywhere it is used. An image might appear in a page builder layout, a widget, a theme setting, a custom field, an email template or a link from another website. Deleting it can leave broken images or links. Deleted media also goes straight away in many setups, with no trash to recover from.</p>
+<h3>A careful approach</h3>
+<ul>
+<li><strong>Take a full backup</strong> of files and database first.</li>
+<li><strong>Work on a staging copy</strong> where possible. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how.</li>
+<li><strong>Start with obvious clutter,</strong> such as clear duplicates and files you know were replaced.</li>
+<li><strong>Search your content</strong> for the file name before deleting, including page builder layouts and theme settings.</li>
+<li><strong>Be cautious with tools that detect unused media,</strong> since they can miss places an image is used.</li>
+<li><strong>Check key pages afterwards</strong> for broken images.</li>
+</ul>
+<p>If in doubt, leave a file in place. A few unused images cost far less than broken pages.</p>
+
+<h2>PDFs and documents</h2>
+<p>Documents such as brochures, menus, price lists and policies often get uploaded repeatedly as they change, each with a new address. Old versions may still be linked from emails or other sites. When updating a document, think about whether visitors should always find the latest version at the same address. Remove outdated documents that could mislead people, particularly anything containing old terms or contact details.</p>
+
+<h2>Image sizes and server clutter</h2>
+<p>Each uploaded image can generate several resized copies. Changing themes over the years can leave behind sizes no longer used, and plugins sometimes add extra sizes. This is mostly a storage matter rather than something visitors notice. A developer can review which sizes your theme needs and tidy up surplus copies, but this is technical work best done with backups in place.</p>
+
+<h2>Permissions and rights</h2>
+<p>Make sure you have the right to use every image on your site, whether you took it, commissioned it or licensed it. Keep a note of where licensed images came from and any usage restrictions, perhaps in the description field. Removing images you no longer have rights to is part of good housekeeping. Who can upload and delete media also depends on <a href="/blog/wordpress-user-roles/">WordPress user roles</a>, so give upload rights only to people who need them.</p>
+
+<h2>Building good habits</h2>
+<ul>
+<li>Rename and resize files before upload.</li>
+<li>Fill in alt text at the time of upload.</li>
+<li>Replace rather than duplicate where possible.</li>
+<li>Review the library periodically as part of <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+<li>Keep original high-resolution files stored elsewhere, not only on the website.</li>
+</ul>
+
+<h2>Media on WooCommerce stores</h2>
+<p>Online stores built on WooCommerce tend to have larger media libraries, because every product may have several images, plus variation images and gallery shots. A few extra habits help:</p>
+<ul>
+<li>name product images using the product name and view, so they are easy to match to listings,</li>
+<li>keep product photos to consistent dimensions and backgrounds for a tidy catalogue,</li>
+<li>take particular care deleting images from discontinued products, as they may still appear on other listings or in past order emails, and</li>
+<li>check variation images after any bulk product changes.</li>
+</ul>
+<p>Consistent product imagery also supports better <a href="/blog/ecommerce-product-descriptions/">product pages</a> overall.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Uploading files with meaningless camera names.</li>
+<li>Leaving alt text blank on meaningful images.</li>
+<li>Bulk-deleting media flagged as unused without checking.</li>
+<li>Uploading full-size photos straight from a camera or phone.</li>
+<li>Treating the website as the only copy of important images.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress websites for UK businesses, including media organisation, image optimisation and careful housekeeping. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, view our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I create folders in the WordPress media library?</h3>
+<p>Not by default. WordPress organises uploads by date behind the scenes. Folders can be added with a media organisation tool if your library is large.</p>
+<h3>Is it safe to delete unused images?</h3>
+<p>It can be, but check carefully first. Images may be used in places WordPress does not track, so back up and test before deleting.</p>
+<h3>Does the file name of an image matter for SEO?</h3>
+<p>A descriptive file name, along with good alt text, helps search engines understand an image. It is a small but worthwhile habit.</p>
+<h3>What should alt text say?</h3>
+<p>Describe what the image shows and why it is on the page, briefly and naturally. Decorative images can have empty alt text.</p>
+<h3>Why are there so many copies of each image?</h3>
+<p>WordPress creates resized versions of each uploaded image for different parts of your theme. This is normal behaviour.</p>
+`,
+  },
 ];
