@@ -30645,4 +30645,505 @@ module.exports = [
 <p>No. Prism Works Studio works with Southampton businesses remotely, and the full process runs over video calls and shared drafts.</p>
 `,
   },
+  {
+    slug: 'web-design-aberdeen',
+    seoTitle: 'Web Design Aberdeen: Energy and Supply Chain Websites',
+    title: 'Web Design in Aberdeen: Websites for Energy Sector and Supply Chain Businesses',
+    description: 'Web design for Aberdeen energy, engineering and supply chain firms: capability pages, safety credentials, new energy markets and tender support.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Aberdeen for an energy or supply chain business is usually about one audience above all: the buyer, engineer or procurement specialist deciding whether your company is credible enough to shortlist. They might be based in the city, elsewhere in the UK or overseas, and they will often visit your website before, during and after a tender. Companies across the area, from industrial estates in Dyce, Altens and Bridge of Don to offices in the city centre and firms out towards Westhill and Portlethen, all face that scrutiny. Prism Works Studio works with Aberdeen businesses remotely, so planning, writing and reviews happen over video calls and shared documents.</p>
+<p>Our <a href="/blog/web-design-sheffield/">Sheffield guide</a> covers manufacturers and engineers in general. This guide focuses on what is particular to energy sector suppliers: procurement checks, safety and quality credentials, international buyers and the move into new energy markets.</p>
+
+<h2>Who actually reads a supply chain website</h2>
+<p>Energy sector purchasing usually involves several people, each looking for different things. A site that serves only one of them can leave the others unconvinced.</p>
+<table>
+<thead><tr><th>Reader</th><th>What they want to find</th></tr></thead>
+<tbody>
+<tr><td>Engineers and technical leads</td><td>Detailed capabilities, equipment, specifications, standards worked to and technical data sheets</td></tr>
+<tr><td>Procurement and contracts staff</td><td>Certifications, approvals, company details, locations and a reliable contact route</td></tr>
+<tr><td>Health, safety and quality teams</td><td>Safety approach, management systems and how quality is controlled</td></tr>
+<tr><td>Senior decision makers</td><td>A clear summary of who you are, what you do best and the sectors you serve</td></tr>
+<tr><td>Job seekers</td><td>Current roles, training, site locations and working patterns, including rotation work if relevant</td></tr>
+</tbody>
+</table>
+<p>Structuring navigation around these readers, for example with clear sections for capabilities, sectors, quality and safety, and careers, makes it easier for each to find their way.</p>
+
+<h2>Capability pages that stand up to scrutiny</h2>
+<p>A single services page listing everything you can do rarely convinces a technical buyer. Separate pages for each core capability let you go into useful detail.</p>
+<ol>
+<li>A plain summary of the service and the problems it solves.</li>
+<li>The scope: what you deliver, where and in what environments, such as onshore, offshore, subsea or in workshop.</li>
+<li>Equipment, facilities and standards you work to, described accurately.</li>
+<li>Relevant sectors and applications.</li>
+<li>Downloadable data sheets or capability statements where useful.</li>
+<li>A direct contact for that service line.</li>
+</ol>
+<p>Only describe capabilities you actually have in-house, or be clear where you work with partners. Buyers will check, and overstating capacity can cause problems later in a contract. Our guide to <a href="/blog/service-page-design/">service page design</a> and our <a href="/blog/engineering-consultancy-website-design-uk/">engineering consultancy website guide</a> cover structure in more detail.</p>
+
+<h2>Safety, quality and certification information</h2>
+<p>Health, safety, environmental and quality credentials matter a great deal in this sector. They should be visible and verifiable, not tucked into a footer logo strip.</p>
+<ul>
+<li><strong>Management system certifications</strong> genuinely held, with scope and certifying body, and ideally certificate numbers or links where the scheme allows.</li>
+<li><strong>Supplier registrations and pre-qualifications</strong> you hold, named accurately and kept current.</li>
+<li><strong>A clear statement of your safety approach</strong>, written in your own words rather than generic slogans.</li>
+<li><strong>Policies</strong> such as health and safety, environmental and modern slavery statements, where you publish them.</li>
+</ul>
+<p>Certifications expire and registrations change, so someone should be responsible for checking these pages regularly. Displaying a certification logo you no longer hold, or using a scheme's mark outside its rules, can cause real reputational damage. Our article on <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present credentials well.</p>
+
+<h2>Presenting a move into new energy markets</h2>
+<p>Many Aberdeen companies built their capability in oil and gas and are now applying it to offshore wind, hydrogen, carbon capture, decommissioning or entirely different sectors. The website is often where that shift is most visible, and it needs handling with care.</p>
+<p>A few principles help:</p>
+<ul>
+<li><strong>Lead with transferable capability</strong>, explaining how skills such as offshore operations, inspection, fabrication or project management apply to the new market.</li>
+<li><strong>Be specific and honest</strong> about what you have already delivered in a new sector and what you are positioned to deliver. Avoid implying experience you do not yet have.</li>
+<li><strong>Keep existing customers in view.</strong> If oil and gas remains a large part of your work, removing it from the site can confuse current clients.</li>
+<li><strong>Avoid vague environmental claims.</strong> Statements about sustainability or net zero should be specific and supportable, in line with the Competition and Markets Authority's guidance on environmental claims.</li>
+</ul>
+<p>Sector pages, one for each market you serve, are often a cleaner way to show this range than rewriting the whole site around a single new message. Our <a href="/blog/rebranding-guide-uk/">rebranding guide</a> covers the wider decisions if the change goes beyond the website.</p>
+
+<h2>Writing for international buyers</h2>
+<p>Aberdeen supply chain companies often sell to operators and contractors around the world. International readers may be reading in a second language and may be unfamiliar with UK-specific terms.</p>
+<ul>
+<li>Use clear, direct English and define abbreviations the first time they appear.</li>
+<li>State where you can work, including any overseas bases or mobilisation capability, accurately.</li>
+<li>Give contact details with international dialling codes and note UK time zones.</li>
+<li>Consider whether translated capability statements for key markets are worth producing, rather than translating the whole site.</li>
+</ul>
+
+<h2>Recruitment for skilled roles</h2>
+<p>Hiring skilled technicians, engineers and offshore personnel is a major task for many energy businesses, and the careers section is often one of the most visited parts of the site. Clear role pages with responsibilities, qualifications and certificates required, location or rotation details and how to apply help candidates self-select. If you run training or apprenticeship schemes, give them their own page. Applicant data should be handled in line with UK GDPR and explained in your privacy notice.</p>
+
+<h2>Supporting tenders and pre-qualification</h2>
+<p>When you submit a tender or pre-qualification questionnaire, evaluators may visit your website to check what you have said. Keeping key documents in a downloads area, such as a capability statement, company brochure, certificates and policies, saves time for both sides. Make sure the documents match what the website says and are dated so readers know they are current. Our guide to <a href="/blog/website-content-audit/">website content audits</a> covers how to keep everything consistent.</p>
+
+<h2>Search for specialist B2B services</h2>
+<p>Energy supply chain businesses rarely chase broad, high-volume searches. The people searching tend to use specific technical terms for a service, a type of equipment or a standard. Dedicated, detailed pages for each capability, written using the language buyers actually use, are usually more effective than a general page. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> and <a href="/blog/manufacturer-website-design-uk/">manufacturer website design guide</a> explain related approaches, and our <a href="/sectors/b2b/">B2B sector page</a> sets out how we approach the area.</p>
+
+<h2>Security and reliability</h2>
+<p>Energy sector clients are often security-conscious, and a website that is out of date, slow or showing browser warnings can raise questions. Use HTTPS, keep software and plugins updated, limit administrator access and keep backups. Our guide to <a href="/blog/wordpress-security-uk/">WordPress security</a> covers practical steps for one of the most widely used platforms.</p>
+
+<h2>Case studies without breaching confidentiality</h2>
+<p>Project examples are persuasive for technical buyers, but energy sector work is often covered by confidentiality agreements. Check what each contract allows before naming a client, a field or an asset. Where you cannot name anyone, an anonymised summary describing the challenge, the environment, the scope you delivered and the approach taken can still show capability. Get written approval for anything that identifies a client, and keep a simple record of what has been agreed.</p>
+
+<h2>Working with Prism Works Studio from Aberdeen</h2>
+<p>Prism Works Studio does not have an office in Aberdeen. We work with businesses there remotely, using video calls, shared documents and screen sharing. For energy sector companies whose teams and clients are often spread across sites and countries, remote working tends to fit existing habits.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>Should certifications be shown as logos or text?</h3>
+<p>Both can work, but text with the certification name, scope and certifying body is easier to verify. Follow each scheme's rules on logo use and remove anything that lapses.</p>
+<h3>How should we present a shift from oil and gas into renewables?</h3>
+<p>Explain transferable capability, be honest about what you have delivered so far and use sector pages to show each market, rather than removing existing work from the site.</p>
+<h3>Do we need separate pages for each service line?</h3>
+<p>Usually, yes. Technical buyers look for detail, and dedicated pages let you describe scope, equipment, standards and contacts for each capability.</p>
+<h3>What documents should a supply chain website offer for download?</h3>
+<p>Commonly a capability statement, certificates, key policies and data sheets. Keep them dated and consistent with the website content.</p>
+<h3>Is it worth translating our website for overseas clients?</h3>
+<p>Sometimes. Translating a few key documents or pages for priority markets is often more practical than translating the whole site.</p>
+<h3>Do you have an office in Aberdeen?</h3>
+<p>No. Prism Works Studio works with Aberdeen businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-brighton',
+    seoTitle: 'Web Design Brighton: Independent Shops and Wellness Sites',
+    title: 'Web Design in Brighton: Websites for Independent Retailers and Wellness Practitioners',
+    description: 'Web design for Brighton independent shops, makers and wellness practitioners: sites that join up shop and online sales, bookings and a distinctive local voice.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Brighton has a particular challenge: many of the businesses that make the city feel like Brighton are small, personal and strongly opinionated about how they look. An independent shop in the North Laine, a maker selling homeware from a studio in Kemptown, a yoga teacher running classes in Hove or a massage therapist working from a treatment room near Preston Park all want a website that sounds like them, not like a template. At the same time, the site has to do practical work: take orders, take bookings and answer the same questions every day so the owner does not have to. Prism Works Studio works with Brighton businesses remotely, so planning, writing and design reviews happen over video calls and shared documents.</p>
+<p>This guide focuses on two groups that sit at the heart of the local economy: independent retailers who sell both in person and online, and wellness practitioners who need people to book. If your business is more of a creative studio or agency, much of the advice on portfolios in our <a href="/blog/web-design-bristol/">Bristol web design guide</a> applies as well.</p>
+
+<h2>When the shop and the website are one business</h2>
+<p>A Brighton independent rarely has an ecommerce operation and a shop as separate things. It is the same owner, the same stock and often the same back room. The website problems that cause the most friction tend to come from the two drifting apart: an item shown as available online that sold over the counter that morning, opening hours that changed for winter but not on the site, or a click-and-collect option nobody remembered to switch off over a holiday.</p>
+<p>Planning the site around the way the shop actually runs avoids most of this:</p>
+<ul>
+<li><strong>One stock record.</strong> If you sell in person and online, a platform that links your till and your online catalogue keeps quantities in step. Shopify, for example, offers point of sale tools for this; our guide to <a href="/blog/shopify-pos-uk-retail/">Shopify POS for UK retail</a> covers how it works.</li>
+<li><strong>Clear fulfilment choices.</strong> Delivery, local collection and in-store reservation should each be explained once, in plain words, with any cut-off times.</li>
+<li><strong>Opening hours you can edit in seconds.</strong> Seasonal changes, bank holidays and the odd closed day for a buying trip should not need a developer.</li>
+<li><strong>Honest stock messages.</strong> If something is one of a kind or handmade to order, say so on the product page rather than letting a customer find out after paying. Our guide to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> goes into the options.</li>
+</ul>
+
+<h2>Keeping a distinctive voice without losing clarity</h2>
+<p>Brighton shoppers are used to independents with personality, and a site that feels corporate can undersell a shop that is anything but. The trick is to put the personality where it helps and keep the functional parts predictable.</p>
+<table>
+<thead><tr><th>Where personality helps</th><th>Where predictability helps</th></tr></thead>
+<tbody>
+<tr><td>Homepage introduction and about page</td><td>Navigation labels and menu structure</td></tr>
+<tr><td>Product descriptions and maker stories</td><td>Basket, checkout and account pages</td></tr>
+<tr><td>Photography, colour and illustration</td><td>Delivery, returns and contact information</td></tr>
+<tr><td>Email newsletters and blog posts</td><td>Size guides, care instructions and prices</td></tr>
+</tbody>
+</table>
+<p>A playful product description can sell an item; a playful checkout button label usually just makes people hesitate. Our articles on <a href="/blog/ecommerce-product-descriptions/">writing product descriptions</a> and <a href="/blog/tone-of-voice-guide-uk/">tone of voice</a> cover how to keep a consistent style across a site.</p>
+
+<h2>Telling the maker story properly</h2>
+<p>Many Brighton shops stock work by local or small-scale makers, and many makers sell directly. Where that is true, the story behind a product is part of its value. A short maker profile, photos of the workspace, and a note on materials and process can help a customer understand why a mug or print costs what it does.</p>
+<p>Only say what is true and checkable. Claims such as "sustainable", "eco-friendly" or "plastic-free" should reflect what you actually do, as the Competition and Markets Authority has published guidance on environmental claims that businesses are expected to follow. Specific statements, such as what packaging is made from, are both more useful and easier to stand behind than general labels.</p>
+
+<h2>Websites for wellness practitioners</h2>
+<p>Brighton and Hove have a broad wellness community: yoga and pilates teachers, massage and sports therapists, counsellors, nutrition coaches, breathwork and meditation teachers, and practitioners of complementary therapies. Their websites share a job that is quite different from a shop's: helping someone who may be nervous, in pain or unsure what they need decide to book a first session.</p>
+<p>A booking-led site for a practitioner usually needs:</p>
+<ol>
+<li>A plain explanation of each service, who it suits and what happens in a session.</li>
+<li>Session length, location and how to prepare, so nothing feels like a surprise.</li>
+<li>Prices or a link to them, plus cancellation terms stated clearly.</li>
+<li>An introduction to the practitioner, including relevant qualifications and memberships genuinely held.</li>
+<li>Online booking or a simple enquiry form, with a note on response times.</li>
+</ol>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> compares the approaches, and our <a href="/blog/yoga-pilates-studio-website-design-uk/">yoga and pilates studio</a> and <a href="/blog/therapist-website-design-uk/">therapist website design</a> guides go deeper into those specialisms.</p>
+
+<h2>Careful wording on health and wellbeing</h2>
+<p>Wellness sites are where enthusiasm most easily turns into claims a business cannot support. Saying a therapy can treat or cure a condition is a different matter from describing how a session works and how clients often describe feeling afterwards. The Advertising Standards Authority and the Committee of Advertising Practice publish guidance on health claims in marketing, including on websites, and it is worth reading before you write service pages.</p>
+<p>As a general approach, which is not legal advice:</p>
+<ul>
+<li>Describe what you do and what a session involves rather than promising outcomes.</li>
+<li>Avoid suggesting your service replaces medical advice, and consider adding a note encouraging people to speak to their GP where relevant.</li>
+<li>Only use client testimonials that are genuine and that the client has agreed to share, and check they do not make claims you could not make yourself.</li>
+<li>If you are regulated or registered with a professional body, follow its rules on how you describe your work.</li>
+</ul>
+
+<h2>Sensitive information and enquiry forms</h2>
+<p>Practitioners often need some health information before a first session, such as injuries, medication or pregnancy. That kind of data is treated as special category data under UK GDPR, so think carefully about whether you collect it through the website at all, or later through a more secure intake process. If you do collect it online, store it securely, limit who can see it and explain your handling in your privacy notice. The Information Commissioner's Office publishes guidance aimed at small organisations. Our article on <a href="/blog/website-contact-forms/">website contact forms</a> covers how to keep forms short and clear.</p>
+
+<h2>Local search in Brighton and Hove</h2>
+<p>Both shops and practitioners benefit from showing up when someone nearby searches. Local visibility depends partly on the website and partly on a well-maintained Google Business Profile.</p>
+<ul>
+<li><strong>Use the names people search for.</strong> Brighton and Hove are often searched separately, and neighbourhood names such as Kemptown, Hove or the Lanes can matter if that is genuinely where you are.</li>
+<li><strong>Keep your name, address and phone details consistent</strong> between the website, your Google Business Profile and any directories.</li>
+<li><strong>Give each service its own page</strong> rather than one page listing everything, so each can match specific searches.</li>
+<li><strong>Add photos that show the real place</strong>, from your shop front to your treatment room, so people know what to expect.</li>
+</ul>
+<p>Practitioners who work from home or visit clients may not want a public address on their profile, and Google offers a service-area option for that situation. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explain the setup.</p>
+
+<h2>Choosing a platform</h2>
+<p>For a shop selling physical products, Shopify and WooCommerce are both strong options; the choice tends to come down to how much control you want and who will maintain the site. For a practitioner who mainly needs information pages and bookings, a simpler WordPress or Squarespace site with a booking tool can be enough. Our comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify and WooCommerce</a> and our guide to <a href="/blog/website-builder-vs-custom-website/">website builders versus custom sites</a> can help you decide.</p>
+
+<h2>Photography that shows the real thing</h2>
+<p>Stock photography works against a Brighton independent. Customers want to see the actual products, the actual shop and the actual person they will meet. Product photos on a plain background help shoppers compare items, while lifestyle shots in the shop or a local setting give context. For practitioners, a warm, natural portrait and a photo of the room where sessions happen do more to reduce nerves than any amount of abstract imagery. Our guide to <a href="/blog/ecommerce-product-photography/">product photography</a> covers the basics for shops.</p>
+
+<h2>Working with Prism Works Studio from Brighton</h2>
+<p>Prism Works Studio does not have an office in Brighton. We work with businesses there remotely, using video calls, shared documents and screen sharing for planning and design reviews. For an independent shop or a practice, the important inputs are your products or services, your voice and your feedback on drafts, and all of that works well at a distance.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>Can my shop till and website share the same stock?</h3>
+<p>Yes, if you choose a platform that supports it. Shopify's point of sale tools, for example, can keep in-store and online quantities in step, which reduces the risk of selling the same item twice.</p>
+<h3>Should a small Brighton shop sell online at all?</h3>
+<p>It depends on your products and time. Some shops sell their full range, others list a curated selection or offer local collection only. Starting small and growing the online range is a reasonable approach.</p>
+<h3>What can a wellness practitioner say about results on their website?</h3>
+<p>Be careful with claims about treating or curing conditions. Describe what a session involves and check the Advertising Standards Authority and Committee of Advertising Practice guidance on health claims before publishing.</p>
+<h3>Is it safe to collect health information in a booking form?</h3>
+<p>Health details are special category data under UK GDPR. Collect only what you need, store it securely and explain your handling in a privacy notice, or gather it through a separate intake process instead.</p>
+<h3>Do I need to show my home address if I work from home?</h3>
+<p>Not necessarily. Google Business Profile has a service-area option for businesses that do not want a public address, and your website can say you share the location once a booking is confirmed.</p>
+<h3>Do you have an office in Brighton?</h3>
+<p>No. Prism Works Studio works with Brighton and Hove businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-cambridge',
+    seoTitle: 'Web Design Cambridge: Tech and Life Science Startup Sites',
+    title: 'Web Design in Cambridge: Websites for Tech and Life Science Startups',
+    description: 'Web design for Cambridge tech and life science startups: sites that grow with each funding stage, win specialist hires and speak to partners and investors.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Cambridge for a tech or life science startup is less about a single launch and more about a site that keeps up with a fast-changing company. A business that begins as two founders and a holding page may, within a short time, be fundraising, hiring specialists, signing commercial partners and preparing a product launch. Each stage asks something different of the website. Companies around the city, from the science and business parks on the edges to offices near the station and the biomedical campus in the south, face that same pattern. Prism Works Studio works with Cambridge businesses remotely, so planning, writing and reviews happen over video calls and shared documents.</p>
+<p>This guide looks at how a startup site should evolve over time, and at the specific care life science companies need to take.</p>
+
+<h2>A website for each stage of the company</h2>
+<p>Treating the website as a series of stages, rather than one big project, helps founders spend sensibly and avoid rebuilding from scratch every year.</p>
+<table>
+<thead><tr><th>Stage</th><th>What the site mainly needs to do</th></tr></thead>
+<tbody>
+<tr><td>Stealth or very early</td><td>Establish the company name, a short statement of focus and a contact route, without revealing more than you want to</td></tr>
+<tr><td>Fundraising</td><td>Explain the problem, the approach and the team clearly enough that an investor's first look supports the conversation</td></tr>
+<tr><td>Hiring</td><td>Show the mission, the people and the culture, and make applying straightforward</td></tr>
+<tr><td>Partnering and pilots</td><td>Describe the technology and its applications in enough depth for technical evaluators</td></tr>
+<tr><td>Commercial launch</td><td>Sell the product: features, use cases, pricing or demo routes, documentation and support</td></tr>
+</tbody>
+</table>
+<p>Building on a flexible platform with a sensible page structure from the start means new sections can be added at each stage without a redesign. WordPress is a common choice for this because non-developers can add pages and posts, though the right platform depends on who will maintain the site. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how to plan menus that can grow.</p>
+
+<h2>What investors look for on a first visit</h2>
+<p>Investors will rarely decide anything from a website alone, but a confusing or out-of-date site can create doubt before a meeting. A clear site supports the pitch rather than replacing it.</p>
+<ul>
+<li><strong>A one-line description</strong> of what the company does that matches how founders describe it in person.</li>
+<li><strong>A clear problem statement</strong> and why existing approaches fall short.</li>
+<li><strong>The team</strong>, with relevant backgrounds and any advisers who have agreed to be named.</li>
+<li><strong>News and milestones</strong> that are current, so the site does not look abandoned.</li>
+<li><strong>A contact route</strong> that reaches a founder, not a generic inbox nobody checks.</li>
+</ul>
+<p>Avoid putting confidential details, such as unpublished data or detailed financials, on public pages. If you want to share more with specific investors, a separate, controlled route is safer than hidden website pages.</p>
+
+<h2>Hiring specialists through your website</h2>
+<p>Competition for experienced engineers, scientists and commercial staff can be intense in and around Cambridge, and candidates often research a company carefully before applying. Your careers page is a sales page for the company as an employer.</p>
+<ol>
+<li>Explain the mission in a way that makes the work feel meaningful.</li>
+<li>Introduce the team with photos and short profiles, so candidates can picture colleagues.</li>
+<li>Describe how you work: lab or office arrangements, hybrid options, development approach and how decisions are made.</li>
+<li>List roles with clear responsibilities, requirements and the stages of the hiring process.</li>
+<li>Be accurate about benefits, equity and visa sponsorship, and only state what you actually offer.</li>
+</ol>
+<p>Job adverts and applications involve personal data, so your privacy notice should cover how applicant information is handled under UK GDPR. Our guide to <a href="/blog/about-us-page-writing/">writing an about us page</a> also helps with presenting the company story.</p>
+
+<h2>Life science websites: extra care with claims</h2>
+<p>Life science companies face constraints that most startups do not. Rules in the UK on advertising medicines and medical devices are strict, and the Medicines and Healthcare products Regulatory Agency publishes guidance on what can and cannot be promoted, particularly to the public. A product still in development cannot simply be marketed as if it were approved.</p>
+<p>As a general approach, which is not regulatory advice:</p>
+<ul>
+<li>Describe your science and pipeline factually, and be clear about development stage.</li>
+<li>Avoid language that suggests a product is safe or effective for a use it has not been approved for.</li>
+<li>Consider whether some content is meant for healthcare professionals or investors and should be presented accordingly.</li>
+<li>Have regulatory or legal advisers review product and pipeline pages before publishing, and again when anything changes.</li>
+</ul>
+<p>Planning these review steps into the website timeline avoids last-minute delays. Our <a href="/sectors/healthcare/">healthcare sector page</a> and <a href="/blog/healthcare-marketing-agency-uk/">healthcare marketing guide</a> cover related points.</p>
+
+<h2>Deep tech and software startups</h2>
+<p>Cambridge tech startups range from hardware and semiconductors to AI, software and platforms. For companies selling software, the website eventually becomes a core part of the sales process, with product pages, documentation, pricing or demo requests and onboarding. For hardware and deep tech companies, the website is more often a credibility tool for long, relationship-led sales.</p>
+<p>Either way, technical buyers appreciate substance. Specification sheets, technical overviews, integration details and published papers can all help evaluators, provided they are kept current. Our <a href="/blog/saas-website-design-uk/">SaaS website design guide</a> goes into product-led sites in more detail, and our <a href="/sectors/saas/">SaaS sector page</a> explains how we approach the area.</p>
+
+<h2>Content that builds authority over time</h2>
+<p>Startups often underestimate how useful a small amount of well-chosen content can be. A few clear articles explaining the problem space, how your approach differs and what is happening in your field can attract the right visitors and give investors and candidates something to read before meeting you. Quality matters more than volume, and technical content should be reviewed by someone qualified before it goes live. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> covers how to choose topics.</p>
+
+<h2>Search for specialist audiences</h2>
+<p>Startups rarely compete for high-volume searches. Instead, the aim is to be found by the small number of people searching for a specific problem, technology or capability. That means clear, specific page titles, pages dedicated to each application or use case and accurate structured data for the organisation. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> and <a href="/blog/saas-seo-agency-uk/">SaaS SEO guide</a> explain the approach.</p>
+
+<h2>Speed, security and hosting</h2>
+<p>A startup website should load quickly, use HTTPS, keep software updated and limit who has administrator access. If you hold any sensitive data through the site, such as job applications or partner enquiries, think about where it is stored and who can see it. Our articles on <a href="/blog/website-speed-optimisation-uk/">website speed</a> and <a href="/blog/website-maintenance-uk/">website maintenance</a> cover the practical side.</p>
+
+<h2>Partner and press pages</h2>
+<p>As a startup grows, more people arrive looking for specific material: a journalist after a company description and logo, a potential partner wanting a short technical overview, or an event organiser needing a founder biography and photo. A simple press and media page with an approved company description, brand assets, founder profiles and a press contact saves repeated emails. Partner pages can explain how you collaborate, the kinds of organisations you work with and how to start a conversation. Only name partners, customers or funders who have agreed to be named, and check any funder's rules on acknowledging support, as many grant schemes set out how this should be done.</p>
+<p>Publishing news is worthwhile only if someone will keep it going. A short, current news section with genuine milestones is better than an ambitious blog that stops after three posts.</p>
+
+<h2>Working with Prism Works Studio from Cambridge</h2>
+<p>Prism Works Studio does not have an office in Cambridge. We work with businesses there remotely, using video calls, shared documents and screen sharing. For startup teams that are already used to working across locations, that tends to fit well, and drafts can be reviewed by founders, advisers and regulatory contacts wherever they are.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>When should a startup invest in a proper website?</h3>
+<p>Often around the time of fundraising or first hires, when outsiders start judging the company. Before that, a simple, accurate holding page with a contact route may be enough.</p>
+<h3>Should we keep our website vague while in stealth?</h3>
+<p>You can. A short statement of focus, the company name and a contact route establish credibility without revealing details you want to keep private.</p>
+<h3>Can a biotech startup describe its drug candidates online?</h3>
+<p>You can describe your science and pipeline factually, but promoting unapproved medicines is restricted. Check MHRA guidance and have advisers review product and pipeline pages before publishing.</p>
+<h3>Do we need a separate careers site?</h3>
+<p>Usually not. A well-planned careers section on your main site, with team profiles and clear role pages, is often enough for a growing startup.</p>
+<h3>How do we stop the website going out of date?</h3>
+<p>Choose a platform your team can edit, assign someone to own updates, and review news, team and role pages at regular intervals.</p>
+<h3>Do you have an office in Cambridge?</h3>
+<p>No. Prism Works Studio works with Cambridge businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-oxford',
+    seoTitle: 'Web Design Oxford: Spinout, Education and Tourism Sites',
+    title: 'Web Design in Oxford: Websites for Research Spinouts, Education Providers and Visitor Businesses',
+    description: 'Web design for Oxford spinouts, language schools, tutors and visitor businesses: explaining complex work, reaching overseas readers and taking bookings.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Oxford covers an unusually wide range of organisations. A company spun out of university research, a summer school for international students, a private tutoring business in Summertown, a walking tour operator and a guest house off the Cowley Road all need websites, but they ask very different things of them. What links many of them is an audience that does not live locally: investors and collaborators elsewhere in the UK or abroad, students and parents in other countries, and visitors planning a trip weeks ahead. Prism Works Studio works with Oxford businesses remotely, so planning, writing and reviews happen over video calls and shared documents.</p>
+<p>This guide looks at three groups in turn: research-led companies, education providers and visitor businesses. Each section focuses on the website decisions that matter most for that group.</p>
+
+<h2>Research spinouts: explaining deep work simply</h2>
+<p>Companies built on academic research often have a website problem that is the opposite of most small businesses. They have too much to say, much of it technical, and the founders are understandably close to the detail. Yet the people visiting the site, such as investors, commercial partners, potential hires and journalists, usually need a clear answer to a few simple questions first.</p>
+<ul>
+<li><strong>What problem do you solve, and for whom?</strong> One or two plain sentences on the homepage, before any technical language.</li>
+<li><strong>How does the technology work?</strong> A layered explanation: a short overview for everyone, then more depth for specialists who want it.</li>
+<li><strong>Where are you now?</strong> An honest description of the stage you have reached, whether that is early research, prototype, pilot or commercial product.</li>
+<li><strong>Who is behind it?</strong> Founders, scientific advisers and key staff, with roles and relevant background.</li>
+<li><strong>How do I get in touch?</strong> Separate routes for partnership, investment, press and careers enquiries if you receive them.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers techniques for turning technical material into readable pages.</p>
+
+<h2>Being careful with research claims</h2>
+<p>Spinout websites sit close to academic publishing, where precision matters. It is easy for marketing language to drift beyond what the evidence supports, and that can damage credibility with exactly the expert audience you want to impress.</p>
+<p>A few habits help:</p>
+<ul>
+<li>Describe results with the same caution as the underlying papers, and link to published work where it exists.</li>
+<li>Be clear about what is proven, what is in testing and what is an ambition.</li>
+<li>Check how you are allowed to describe any link with a university, including use of its name or crest, as institutions usually have their own rules on this.</li>
+<li>If your product touches healthcare, finance or another regulated area, check what you can say before regulatory approval with the relevant UK regulator or your advisers.</li>
+</ul>
+<p>None of this is legal advice, but planning for it early avoids rewriting pages just before a funding round.</p>
+
+<h2>Recruitment pages for small research teams</h2>
+<p>Hiring is often a major reason a young research company needs a better website. Candidates with specialist skills will look closely at the team, the science and the working culture before applying. A careers page that explains the mission, introduces the people, describes how the team works and lists roles with clear application steps does more than a generic "join us" banner. If you sponsor visas or offer hybrid working, saying so clearly can save time for both sides, as long as it is accurate.</p>
+
+<h2>Education providers: language schools, summer schools and tutors</h2>
+<p>Oxford attracts a range of education businesses beyond the universities themselves, from English language schools and residential summer programmes to private tutors and admissions coaching. Their websites often speak to two audiences at once: the student and the person paying, frequently a parent, sometimes in another country.</p>
+<table>
+<thead><tr><th>What students look for</th><th>What parents and sponsors look for</th></tr></thead>
+<tbody>
+<tr><td>What a typical day or week looks like</td><td>Safeguarding policies and supervision arrangements</td></tr>
+<tr><td>Activities, trips and social life</td><td>Accommodation details and pastoral care</td></tr>
+<tr><td>Course levels and what they will learn</td><td>Total cost, what is included and payment terms</td></tr>
+<tr><td>Photos and videos of real students</td><td>Accreditation or inspection status genuinely held</td></tr>
+</tbody>
+</table>
+<p>Design pages so both can find what they need without wading through the other's content. Only mention accreditations, inspections or memberships the organisation actually holds, and link to the awarding body where possible. For programmes involving under-18s, safeguarding information should be easy to find, not buried in a footer.</p>
+<p>Our guides to <a href="/blog/tutoring-business-website-uk/">tutoring business websites</a> and <a href="/blog/training-provider-marketing-uk/">training provider marketing</a> go further on this, and our <a href="/sectors/education/">education sector page</a> sets out how we approach the sector.</p>
+
+<h2>Writing for international readers</h2>
+<p>Many visitors to an Oxford education or tourism site will read English as a second language. That does not mean simplifying the substance, but it does mean writing with care.</p>
+<ul>
+<li>Use short sentences and common words, and explain British terms such as "half term" or "sixth form" when they matter.</li>
+<li>Show dates in an unambiguous format and give times with a note that they are UK time.</li>
+<li>Be clear about currency, and say whether prices include VAT, accommodation, meals or transfers.</li>
+<li>Consider whether translated pages are worth the upkeep. A small number of carefully translated key pages can be more useful than machine-translating everything.</li>
+</ul>
+<p>Our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally</a> covers related points on currency and overseas customers.</p>
+
+<h2>Visitor businesses: tours, guest houses and attractions</h2>
+<p>Oxford's visitor economy includes walking and punting tours, guest houses and small hotels, cafés and independent attractions. Visitors often plan on a phone, sometimes while already in the city, and want to know quickly whether something is open, how long it takes, how to get there and whether they can book.</p>
+<p>For these businesses, a few things tend to make the difference:</p>
+<ol>
+<li><strong>Mobile-first booking</strong> with availability shown clearly and as few steps as possible.</li>
+<li><strong>Practical information near the top</strong>: meeting points, duration, accessibility, what to bring and what happens in bad weather.</li>
+<li><strong>Clear cancellation terms</strong>, especially for weather-dependent activities.</li>
+<li><strong>Directions that suit visitors</strong>, including walking times from the railway station or bus routes, rather than assuming people drive.</li>
+</ol>
+<p>Accommodation providers can find more in our <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B website design guide</a> and our guide to <a href="/blog/hotel-direct-bookings-uk/">increasing direct bookings</a>. Our <a href="/blog/mobile-website-design/">mobile website design</a> article covers layout for small screens.</p>
+
+<h2>Search visibility across very different audiences</h2>
+<p>Oxford businesses compete for attention with large, long-established institutions, so trying to rank for broad terms is rarely the best use of effort. Specific pages that answer specific questions usually work better.</p>
+<ul>
+<li><strong>Spinouts</strong> benefit from clear pages on the problem they address and the technology they use, written so both specialists and general readers can follow.</li>
+<li><strong>Education providers</strong> do well with individual course and programme pages, each with dates, ages, levels and prices.</li>
+<li><strong>Visitor businesses</strong> rely heavily on local search and a well-maintained Google Business Profile with accurate hours and photos.</li>
+</ul>
+<p>Our <a href="/blog/seo-for-small-business-uk/">SEO for small business guide</a> gives a practical starting point.</p>
+
+<h2>Accessibility as a baseline</h2>
+<p>Whichever group you are in, accessible design widens your audience. International readers, older visitors and people using assistive technology all benefit from readable fonts, good contrast, descriptive links and forms that work with a keyboard. Education providers in particular may have accessibility expectations from partners or funders. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the basics.</p>
+
+<h2>Keeping content current through the academic year</h2>
+<p>Education and visitor businesses in Oxford often work to a calendar shaped by terms, summer programmes and peak visitor months. Out-of-date course dates or last year's prices quickly undermine trust, especially for overseas families planning months ahead. Decide who owns each section of the site, schedule a review before each booking season opens, and remove or clearly label past programmes rather than leaving them live.</p>
+
+<h2>Working with Prism Works Studio from Oxford</h2>
+<p>Prism Works Studio does not have an office in Oxford. We work with businesses there remotely, using video calls, shared documents and screen sharing. For a spinout or education provider whose stakeholders are spread across different places anyway, remote working often fits naturally.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>How technical should a spinout website be?</h3>
+<p>Lead with plain language that explains the problem and the benefit, then offer deeper technical detail for specialists on dedicated pages or downloadable material. Most visitors need the simple version first.</p>
+<h3>Can we use our university's name on our website?</h3>
+<p>Possibly, but universities usually have rules on how their name and branding are used by spinouts. Check with the institution's technology transfer or brand team before publishing.</p>
+<h3>Should a language school translate its whole website?</h3>
+<p>Not necessarily. Translating a few key pages carefully, such as courses, prices and accommodation, can be more useful and easier to maintain than translating everything.</p>
+<h3>What should a summer school say about safeguarding?</h3>
+<p>Make your safeguarding approach easy to find, explain supervision and accommodation arrangements, and link to your full policy. Check sector guidance for what parents and partners expect.</p>
+<h3>Do tour operators need online booking?</h3>
+<p>For many, yes, because visitors often book on a phone at short notice. Show availability clearly, keep the steps short and state cancellation terms plainly.</p>
+<h3>Do you have an office in Oxford?</h3>
+<p>No. Prism Works Studio works with Oxford businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-york',
+    seoTitle: 'Web Design York: Heritage, Visitor and Food Business Sites',
+    title: 'Web Design in York: Websites for Heritage, Visitor and Food Businesses',
+    description: 'Web design for York attractions, guest houses, tearooms and food producers: seasonal content, accessible visitor information, bookings and online shops.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in York often starts with a building. A tearoom in a timber-framed house near the Shambles, a guest house in a Victorian terrace off Bootham, a small museum inside the city walls or a café beside the river all trade partly on character and history. The website has to convey that atmosphere, but it also has to answer very practical questions for visitors who may never have been to York before: when are you open, how do I get there, can I book, and will I be able to get in with a pushchair or a wheelchair? Food producers and shops selling York-made goods face a further question: how do we keep selling to people once they have gone home? Prism Works Studio works with York businesses remotely, so planning, writing and design reviews happen over video calls and shared documents.</p>
+<p>Our <a href="/blog/web-design-edinburgh/">Edinburgh guide</a> covers festival-driven tourism. This guide focuses on heritage settings, year-round seasonality and turning visitors into repeat online customers.</p>
+
+<h2>Designing for a year that changes shape</h2>
+<p>A York visitor business may have quite different trading patterns across the year: busy summer weekends, school holidays, the run-up to Christmas, quieter winter weekdays and special event periods. The website should make those changes easy to reflect.</p>
+<ul>
+<li><strong>Editable opening hours</strong> with space for seasonal patterns and one-off closures.</li>
+<li><strong>An events or what's on section</strong> that can be updated by staff and hides past events automatically.</li>
+<li><strong>Seasonal homepage panels</strong> that can be swapped to promote a Christmas menu, a summer tour or a winter offer.</li>
+<li><strong>A clear notice area</strong> for short-term messages such as weather closures or building works, which can be removed easily afterwards.</li>
+</ul>
+<p>The aim is that the owner or a member of staff can make these changes in minutes. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> covers who should own which updates.</p>
+
+<h2>Accessibility information for historic buildings</h2>
+<p>Historic buildings are part of York's appeal, but they often come with steps, narrow doorways, steep staircases and uneven floors. Visitors with mobility needs, parents with pushchairs and older visitors want to know this before they arrive, not at the door. A good access page is honest and specific.</p>
+<table>
+<thead><tr><th>Topic</th><th>What to describe</th></tr></thead>
+<tbody>
+<tr><td>Entrance</td><td>Steps, ramps, door widths and any alternative entrance</td></tr>
+<tr><td>Inside</td><td>Which floors and rooms are step-free, seating availability and lighting</td></tr>
+<tr><td>Facilities</td><td>Toilets, accessible toilets and baby changing, and where they are</td></tr>
+<tr><td>Getting there</td><td>Nearest drop-off point, Blue Badge parking options and walking routes from the station</td></tr>
+<tr><td>Support</td><td>Whether assistance dogs are welcome and how to contact you with questions</td></tr>
+</tbody>
+</table>
+<p>Photos of entrances and key areas help people judge for themselves. The website itself should also be accessible, with readable text, good contrast and forms that work with a keyboard. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the basics.</p>
+
+<h2>Bookings for tours, rooms and tables</h2>
+<p>Many York businesses take bookings of some kind: guest rooms, tables for afternoon tea, places on a ghost walk or slots at a small attraction. Visitors increasingly expect to book on a phone, and a booking process that is slow or confusing can send them elsewhere.</p>
+<ol>
+<li>Show availability clearly, ideally without forcing someone to fill in details first.</li>
+<li>State prices, what is included and any deposit before payment.</li>
+<li>Explain cancellation and amendment terms in plain words.</li>
+<li>Send a confirmation email with the date, time, meeting point or address and what to bring.</li>
+</ol>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> compares approaches. Guest houses and small hotels may also find our guides to <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B websites</a> and <a href="/blog/holiday-let-website-design-uk/">holiday let websites</a> useful.</p>
+
+<h2>Telling the history without burying the essentials</h2>
+<p>A building's history can be a genuine draw, and many York businesses have stories worth telling. The risk is putting a long history on the homepage where visitors are trying to find opening times. A better approach is to lead with the practical information and a short, evocative introduction, then give the history its own page with good photography.</p>
+<p>Keep historical claims accurate. If dates or stories are traditional rather than documented, say so. Visitors with a real interest in history will appreciate the honesty, and it protects you from awkward corrections later.</p>
+
+<h2>Food and drink businesses: from visitor to repeat customer</h2>
+<p>York and the surrounding Yorkshire countryside support a range of food and drink businesses: bakers, confectioners, tearooms selling their own blends, butchers, cheesemakers, breweries and distilleries. Many meet customers in person first, at a shop, café or market, and an online shop lets those customers keep buying after they leave.</p>
+<p>To make that work:</p>
+<ul>
+<li><strong>Make the online shop easy to find</strong> from the homepage and on printed materials such as receipts, packaging and menus.</li>
+<li><strong>Choose products that travel well</strong> and explain delivery times, packaging and any temperature-sensitive handling.</li>
+<li><strong>Offer gifts and hampers</strong> with gift messages, which suit visitors who want to send a taste of York to someone else. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> covers related options.</li>
+<li><strong>Collect email sign-ups with consent</strong> so you can tell past visitors about seasonal products.</li>
+</ul>
+<p>Food businesses selling online need to show allergen and ingredient information. Rules on food information, including for distance selling, are set out by the Food Standards Agency, and alcohol sellers need appropriate licensing and age checks. Check the current requirements for your products rather than relying on a website template. Our <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce guide</a> and <a href="/blog/bakery-cake-maker-website-design-uk/">bakery website design guide</a> go into more detail.</p>
+
+<h2>Cafés and tearooms</h2>
+<p>For a café or tearoom, the website often has a simple job: show the menu, opening times and location, and take bookings if you offer them. Menus should be text rather than an image or a PDF, so they work on phones and can be read by search engines and screen readers. If you offer afternoon tea or seasonal menus, give them their own pages. Our <a href="/blog/cafe-website-design-uk/">café website design guide</a> covers this in depth.</p>
+
+<h2>Local and visitor search</h2>
+<p>York businesses compete for visitor attention with large attractions and booking platforms. You will rarely outrank those for broad searches, but you can be found for more specific ones.</p>
+<ul>
+<li><strong>Keep your Google Business Profile accurate</strong>, including seasonal hours, photos and booking links.</li>
+<li><strong>Create pages for specific experiences</strong>, such as afternoon tea, group bookings or private tours, rather than one page listing everything.</li>
+<li><strong>Answer visitor questions directly</strong>, such as whether children or dogs are welcome and how far you are from the station.</li>
+<li><strong>Encourage genuine reviews</strong> and respond to them politely, without offering incentives that breach platform rules.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/hospitality-marketing-agency-uk/">hospitality marketing guide</a> explain more.</p>
+
+<h2>Photography for heritage settings</h2>
+<p>Old buildings can be hard to photograph well: low ceilings, small windows and mixed lighting. Investing in good photography of the interior, the food or products and the setting tends to pay off across the website, booking platforms and social media. Show the space as it really is, including accessible areas, so photos support the access information rather than contradict it.</p>
+
+<h2>Group and private bookings</h2>
+<p>School trips, coach parties, hen and stag groups, corporate visits and private hire can all matter to York visitor businesses. Group organisers need different information from individual visitors: capacity, group rates or how to request a quote, risk assessment information for schools, coach drop-off points and dietary arrangements for larger parties. A dedicated groups page with a simple enquiry form keeps these requests separate from everyday bookings.</p>
+
+<h2>Working with Prism Works Studio from York</h2>
+<p>Prism Works Studio does not have an office in York. We work with businesses there remotely, using video calls, shared documents and screen sharing. For a visitor or food business, the key inputs are your knowledge of your customers, your photography and your feedback on drafts, all of which work well at a distance.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>How do I keep seasonal opening hours up to date?</h3>
+<p>Choose a site where staff can edit hours and notices easily, update your Google Business Profile at the same time, and set reminders before each seasonal change.</p>
+<h3>What should a historic venue include on its access page?</h3>
+<p>Describe entrances, steps, step-free areas, toilets, parking and drop-off options, with photos. Be specific and honest so visitors can judge for themselves.</p>
+<h3>Should a York food shop sell online?</h3>
+<p>It can help you keep selling to visitors after they go home. Start with products that travel well, explain delivery clearly and check food information rules for distance selling.</p>
+<h3>Can I put my menu on the website as a PDF?</h3>
+<p>You can, but a text menu on the page is better for phones, search engines and screen readers. Keep a PDF only as an optional download.</p>
+<h3>How much history should go on the homepage?</h3>
+<p>A short introduction is enough. Put practical information first and give the full history its own page, keeping claims accurate.</p>
+<h3>Do you have an office in York?</h3>
+<p>No. Prism Works Studio works with York businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
 ];
