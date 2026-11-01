@@ -40400,4 +40400,515 @@ module.exports = [
 <p>It depends on user roles. Administrators and editors can usually delete most content, while authors and contributors have more limited permissions over their own work.</p>
 `,
   },
+  {
+    slug: 'shopify-inventory-transfers',
+    seoTitle: 'Shopify Inventory Transfers Between Locations Explained',
+    title: 'Shopify Inventory Transfers: Moving Stock Between Locations',
+    description: 'How to use Shopify inventory transfers to move stock between shops, warehouses and stockrooms, with tips on receiving, counting and keeping records accurate.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-inventory-management/', '/blog/shopify-pos-uk-retail/', '/services/website-ecommerce-development/'],
+    body: `
+<p>If you sell from more than one place, stock rarely stays where it started. Products arrive at a warehouse or back room, get moved to a shop floor, travel to a pop-up market and sometimes come back again. Each time stock moves, the numbers in Shopify need to follow it. Otherwise your website may promise items that are sitting in the wrong building, or your shop staff may turn customers away when the item is in a box down the road.</p>
+<p>Shopify handles this through locations and inventory transfers. This guide explains what transfers are, when to use them, how to create and receive them, and the habits that keep multi-location stock accurate for UK small businesses running shops, stockrooms or small warehouses.</p>
+
+<h2>What locations and transfers mean in Shopify</h2>
+<p>A location in Shopify is any place where you keep stock, fulfil orders or sell in person. That might be a retail shop, a home office, a rented storage unit or a warehouse. Each location keeps its own inventory count for every product variant you stock there.</p>
+<p>An inventory transfer is a record of stock moving from one location to another. Rather than simply lowering the count in one place and raising it in another by hand, a transfer ties the two changes together. It shows what was sent, where it went, and what actually arrived. That paper trail is useful when numbers do not add up later.</p>
+<p>Shopify has developed its transfer tools over time, and the exact screens and options can vary by plan and by whether you use point of sale. It is worth checking the current help documentation for your plan, but the principles below apply whichever version you see.</p>
+
+<h2>When you need inventory transfers</h2>
+<p>Transfers are useful whenever stock physically moves between two places that Shopify tracks separately. Typical situations include:</p>
+<ul>
+<li>Restocking a shop from a back room or warehouse.</li>
+<li>Sending stock to a temporary location such as a market stall, event or pop-up.</li>
+<li>Rebalancing stock between two shops when one sells a line faster than the other.</li>
+<li>Bringing unsold stock back to a central store after a season or event.</li>
+<li>Moving stock to a new location when you open a site or close one.</li>
+</ul>
+<p>If you only have one location, you do not need transfers. Incoming stock from suppliers is a different process, usually handled by adjusting inventory or through purchase order style records, depending on how your store is set up.</p>
+
+<h2>Setting up your locations first</h2>
+<p>Transfers only work well if your locations are set up clearly. Before moving any stock, review your location list in Shopify settings.</p>
+<h3>Use names your team will recognise</h3>
+<p>Give each location a plain, specific name. "High Street shop" and "Unit 4 stockroom" are easier to work with than "Location 2". Staff creating or receiving transfers should be able to tell at a glance where stock is going.</p>
+<h3>Decide which locations fulfil online orders</h3>
+<p>Each location can be set to fulfil online orders or not. A stockroom might ship web orders while a shop only sells in person. These settings affect which stock counts towards what customers can buy on your website, so think carefully before changing them. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> covers the wider setup.</p>
+<h3>Check product tracking</h3>
+<p>Inventory tracking needs to be switched on for each variant you want to transfer. Products that are not tracked will not show meaningful counts, so a transfer cannot keep them accurate. It is a good moment to tidy up variants too; our article on <a href="/blog/shopify-product-variants/">Shopify product variants</a> explains how to structure them.</p>
+
+<h2>How to create an inventory transfer</h2>
+<p>The general flow in Shopify admin looks like this, although wording may differ slightly:</p>
+<ol>
+<li>Go to the inventory or transfers area in your Shopify admin.</li>
+<li>Create a new transfer and choose the origin location, where stock is leaving, and the destination location, where it is going.</li>
+<li>Add the products and variants being moved, with the quantity of each.</li>
+<li>Add a reference or note if helpful, such as the date, the van run or the event name.</li>
+<li>Save the transfer, and mark it as ready to ship or in transit when the stock physically leaves.</li>
+</ol>
+<p>Try to create the transfer at the moment stock is packed, not days afterwards from memory. Counting items into a box while entering them into the transfer is the simplest way to avoid mistakes.</p>
+<h3>Using barcodes</h3>
+<p>If your products have barcodes, scanning them while building the transfer is faster and more reliable than searching by name. This is especially helpful when variants look similar, such as the same top in several sizes. Adding barcodes to variants is worth the effort if you move stock often.</p>
+
+<h2>Receiving a transfer at the destination</h2>
+<p>Receiving is where accuracy is won or lost. When the stock arrives, someone at the destination should open the transfer in Shopify and count what is actually in the box against what was sent.</p>
+<ul>
+<li><strong>Accept</strong> items that arrived in the right quantity and condition.</li>
+<li><strong>Record shortfalls</strong> if fewer items arrived than were sent.</li>
+<li><strong>Reject or note</strong> items that arrived damaged, so they are not counted as sellable stock.</li>
+</ul>
+<p>Once received, the destination location's inventory increases by the quantity accepted. You can usually receive a transfer in stages if stock arrives in more than one delivery.</p>
+<p>Resist the temptation to receive everything with one click without counting. If a box went missing or a size was swapped, accepting the full quantity hides the problem and your counts drift away from reality.</p>
+
+<h2>What happens to stock while it is in transit</h2>
+<p>Between sending and receiving, stock is neither available at the origin nor at the destination. Depending on your setup, Shopify may show it as incoming at the destination. This matters for online availability: if a product's only stock is in transit, your website may show it as out of stock until it is received.</p>
+<p>For short moves, such as across a car park, this barely matters. For longer moves, think about timing. Moving your best seller on a busy Saturday morning could make it briefly unavailable online. Planning transfers for quieter times can avoid that.</p>
+
+<h2>Common transfer problems and how to avoid them</h2>
+<h3>Stock moved without a transfer</h3>
+<p>The most frequent source of trouble is someone carrying stock to another location without recording it. The origin still shows the stock, the destination does not, and both counts are wrong. Make it a rule that nothing leaves a location without a transfer.</p>
+<h3>Transfers left open</h3>
+<p>Transfers that are created but never received leave stock stuck in limbo. Review open transfers regularly and chase any that should have arrived.</p>
+<h3>Manual adjustments that fight the transfer</h3>
+<p>If staff adjust counts by hand to fix a number, and then the transfer is received as well, the stock can be counted twice. Agree on who is allowed to make manual adjustments and ask them to add a reason each time. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to limit who can change inventory.</p>
+<h3>Wrong variant selected</h3>
+<p>Picking the wrong size or colour when building the transfer leads to one variant being overstated and another understated. Barcodes help, and so does a quick second check before marking the transfer as sent.</p>
+
+<h2>Transfers and point of sale</h2>
+<p>If you sell in person with Shopify POS, accurate transfers are what let staff check stock at another location for a customer. When counts are reliable, a shop assistant can say with confidence that an item is available at your other site, or arrange to have it moved. Our article on <a href="/blog/shopify-pos-uk-retail/">Shopify POS for UK retail</a> covers in-person selling in more detail.</p>
+<p>Depending on your setup, staff may be able to create or receive transfers from the POS app as well as the admin. Check what your plan allows and train shop staff on the receiving step in particular.</p>
+
+<h2>Keeping records you can rely on</h2>
+<p>Transfers form part of your stock history. Good habits make that history useful:</p>
+<ul>
+<li>Add a short note to each transfer explaining why it happened.</li>
+<li>Run regular stock counts at each location and compare them with Shopify.</li>
+<li>Investigate gaps promptly while people still remember what happened.</li>
+<li>Keep one person responsible for checking open transfers each week.</li>
+</ul>
+<p>Accurate stock records can also matter for your accounts and year-end stock valuation. How stock should be valued and reported depends on your circumstances, so speak to your accountant about what records they need.</p>
+
+<h2>When to get help</h2>
+<p>For a business with two locations and a modest product range, Shopify's built-in tools are often enough once a clear routine is in place. As the number of locations, products or staff grows, it can help to review the setup as a whole: which locations fulfil online orders, how fulfilment is routed, and how stock arrives from suppliers. Our guide to <a href="/blog/shopify-order-fulfilment-workflow/">Shopify order fulfilment workflows</a> looks at the order side of the same picture.</p>
+<p>Prism Works Studio helps UK businesses set up and tidy Shopify stores, including multi-location inventory. If you would like a second pair of eyes on your setup, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need inventory transfers if I only have one shop?</h3>
+<p>No. Transfers are for moving stock between two or more Shopify locations. With a single location, you simply adjust inventory when stock arrives or is written off.</p>
+<h3>Can I edit a transfer after creating it?</h3>
+<p>Usually you can edit a transfer before it is marked as sent or received. Once stock has been received, it is generally better to record a correction than to rewrite history. Check Shopify's current documentation for your plan.</p>
+<h3>Why does my product show out of stock online when I have stock?</h3>
+<p>The stock may be at a location that does not fulfil online orders, or it may be in transit on an open transfer. Check each location's settings and any open transfers.</p>
+<h3>Can I transfer stock to a pop-up or market stall?</h3>
+<p>Yes, if you set the pop-up up as a location. Transfer stock out before the event and transfer any unsold items back afterwards, so each location stays accurate.</p>
+<h3>What should I do if items arrive damaged?</h3>
+<p>Do not accept damaged items as sellable stock. Record them as rejected or note the damage when receiving, then decide separately whether to write them off or return them.</p>
+<h3>How often should I count stock at each location?</h3>
+<p>There is no single right answer. Many businesses count fast-moving lines more often than slow ones. Choose a rhythm you can keep up and compare results against Shopify each time.</p>
+`,
+  },
+  {
+    slug: 'shopify-product-media-guide',
+    seoTitle: 'Shopify Product Media: Images, Video and 3D Models',
+    title: 'Shopify Product Media: A Guide to Images, Video and 3D Models',
+    description: 'How to add and manage product images, video and 3D models in Shopify, with practical advice on ordering, variant images, alt text and keeping pages fast.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-image-optimisation/', '/blog/shopify-product-variants/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Online shoppers cannot pick a product up, turn it over or feel the fabric. The images, videos and models on your product page have to do that work instead. In Shopify, all of these sit together under product media, and how you choose, order and describe them shapes how confident a customer feels before clicking add to cart.</p>
+<p>This guide walks through the types of media Shopify supports, how to upload and organise them, how to connect images to variants, and how to keep product pages quick and accessible. It is written for UK small business owners who manage their own store and want product pages that answer buyers' questions clearly.</p>
+
+<h2>What counts as product media in Shopify</h2>
+<p>Shopify lets you attach several kinds of media to a product:</p>
+<ul>
+<li><strong>Images</strong>, such as photographs, cut-outs on plain backgrounds and lifestyle shots.</li>
+<li><strong>Video</strong>, either uploaded directly or linked from a video hosting platform.</li>
+<li><strong>3D models</strong>, which let customers rotate a product on screen and, on supported devices, view it in their own space using augmented reality.</li>
+</ul>
+<p>How each type appears on the page depends on your theme. Most current Shopify themes display a main media area with thumbnails or a swipeable gallery on mobile, but the layout, zoom behaviour and video controls vary. Check your theme's settings and preview pages on a phone after any changes.</p>
+
+<h2>Start with the questions buyers ask</h2>
+<p>Before uploading anything, list the questions a customer would ask if they were standing in front of the product. For clothing that might be fit, length and fabric texture. For furniture it might be scale, finish and how it looks in a room. For skincare it might be the packaging, the texture of the product and the size of the bottle in a hand.</p>
+<p>Then plan media that answers each one. A typical set might include:</p>
+<ul>
+<li>A clear main image on a consistent background.</li>
+<li>Alternative angles: back, side, detail and underneath where relevant.</li>
+<li>A close-up of materials, stitching, finish or texture.</li>
+<li>A scale shot, such as the product in a hand, on a person or next to a familiar object.</li>
+<li>A lifestyle image showing the product in use.</li>
+<li>Packaging, if it matters for gifting.</li>
+</ul>
+<p>You do not need every type for every product. The aim is to remove guesswork. Shoppers who are unsure about size or colour may hesitate, buy elsewhere or return the item.</p>
+
+<h2>Uploading and ordering images</h2>
+<p>Images are added from the media section of each product in Shopify admin. You can drag files in, upload from your computer or reuse files already in your store's file library.</p>
+<h3>The first image matters most</h3>
+<p>The first media item is usually used as the product's main image on collection pages, in search results on your store and in many sales channels. Make it a clean, recognisable shot. Keep the style consistent across a collection so the grid looks tidy.</p>
+<h3>Order the rest deliberately</h3>
+<p>Drag media into the order you want customers to see it. A sensible sequence moves from overview to detail: main shot, other angles, close-ups, scale, then lifestyle. Avoid putting a video first unless it truly is the best introduction, because some themes handle a leading video less gracefully on collection pages.</p>
+<h3>Keep aspect ratios consistent</h3>
+<p>Mixed shapes, such as some square and some tall images, can make galleries jump around as customers swipe. Many themes let you choose an image ratio or crop. Picking one ratio for your catalogue and shooting to it saves editing time later.</p>
+
+<h2>Linking images to variants</h2>
+<p>If a product comes in several colours or finishes, you can assign an image to each variant. When a customer selects a variant, many themes switch the main image to match. This is one of the simplest ways to reduce confusion on product pages.</p>
+<p>To do this, open the variant in Shopify admin and choose its image from the product's media. Some themes go further and show only the media relevant to the selected variant; others show everything. Our guide to <a href="/blog/shopify-product-variants/">Shopify product variants</a> covers structuring options, and it is worth deciding on a variant plan before photographing so each colour gets the shots it needs.</p>
+
+<h2>Writing alt text for product images</h2>
+<p>Every product image can have alt text, a short written description read aloud by screen readers and shown if an image fails to load. It also helps search engines understand what the image shows.</p>
+<p>Good product alt text describes what is visible and what distinguishes this image from the others. For example, a description of the back of a navy wool jumper with ribbed cuffs is more useful than the product name repeated across every image. Keep it concise and natural, and avoid stuffing in keywords.</p>
+<p>Purely decorative images do not need detailed descriptions, but on a product page almost every image carries information. Our article on <a href="/blog/website-accessibility-uk/">website accessibility</a> explains why this matters beyond search.</p>
+
+<h2>Image file quality and size</h2>
+<p>Shopify serves images through its content delivery network and generates different sizes automatically, which helps. You still control the starting point. A few habits help:</p>
+<ul>
+<li>Upload images large enough to look sharp when zoomed, but not unnecessarily huge.</li>
+<li>Crop out empty space before uploading rather than relying on the theme.</li>
+<li>Use descriptive file names rather than camera defaults, as they are easier to manage and can help search engines.</li>
+<li>Check colour accuracy, as colour mismatch is a frequent reason customers feel a product was not as described.</li>
+</ul>
+<p>For more on preparing files, see our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a>.</p>
+
+<h2>Using video on product pages</h2>
+<p>Video is good at showing things still images struggle with: how fabric drapes and moves, how a gadget works, how a lid opens or how big a bag really is when worn. A short clip without spoken narration can work well, as many shoppers browse with sound off.</p>
+<h3>Uploaded versus linked video</h3>
+<p>Uploading video directly to Shopify keeps viewers on your page without third-party branding. Linking to a video hosted elsewhere can be convenient if the clip already exists, but it may load extra scripts and show the host's interface. Weigh up which suits your brand and page speed.</p>
+<h3>Keep videos purposeful</h3>
+<p>Short, focused clips usually serve product pages better than long brand films. Add captions or on-screen text if the video includes information customers need. Avoid autoplaying video with sound. Our wider <a href="/blog/website-video-guide/">website video guide</a> covers planning and production.</p>
+
+<h2>Using 3D models</h2>
+<p>A 3D model lets a customer rotate a product and, on compatible phones and tablets, place it in their room through augmented reality. This can be particularly useful for furniture, homeware, lighting and other products where size and placement matter.</p>
+<p>3D models need to be created specifically, either by a 3D artist or using specialist scanning. They must be in a format Shopify accepts and should be checked for accurate scale and colour. A model that looks wrong may do more harm than good, so treat it as an investment only for products where it genuinely helps.</p>
+<p>Always keep standard photographs alongside 3D models. Not every device supports augmented reality, and many customers will still prefer to scroll through images.</p>
+
+<h2>Keeping product pages fast</h2>
+<p>Rich media can slow pages down, especially on mobile connections. Speed affects how comfortable a page feels to use and is one of many factors in search performance. To keep media from becoming a burden:</p>
+<ul>
+<li>Avoid uploading many near-identical images.</li>
+<li>Check that your theme loads images below the visible area only when needed.</li>
+<li>Be selective with video and 3D, using them on products where they add real value.</li>
+<li>Test product pages on a mid-range phone, not just a fast office computer.</li>
+</ul>
+<p>Our guide to <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> goes into theme and app factors as well.</p>
+
+<h2>Managing media across a growing catalogue</h2>
+<p>As your range grows, consistency becomes harder. A simple photography brief helps: background colour, lighting, angles, ratio and file naming. Share it with anyone who shoots products for you. Reuse brand imagery from the store's file library rather than uploading duplicates, and periodically review older products whose photos no longer match the rest.</p>
+<p>When products are discontinued, think about what happens to their pages and media before deleting anything. Our article on <a href="/blog/shopify-url-redirects/">Shopify URL redirects</a> explains how to handle removed products without leaving dead ends.</p>
+
+<h2>Getting help</h2>
+<p>Prism Works Studio builds and improves Shopify stores for UK businesses, including product page layouts, theme media settings and photography briefs. If your product pages are not answering customers' questions, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help review them.</p>
+
+<h2>FAQs</h2>
+<h3>How many images should a Shopify product have?</h3>
+<p>There is no fixed number. Use enough images to answer the questions a buyer would ask, without repeating near-identical shots. Simple products may need few; complex or variable products may need more.</p>
+<h3>Can I show different images for each colour?</h3>
+<p>Yes. Assign an image to each variant in Shopify admin. Depending on your theme, selecting a variant will switch the main image or filter the gallery.</p>
+<h3>Should I use video on every product?</h3>
+<p>Not necessarily. Video is most useful where movement, function or scale is hard to show in photos. For simple products, good photography may be enough.</p>
+<h3>Do I need alt text on every product image?</h3>
+<p>It is good practice to add meaningful alt text to product images, because they usually carry information. Describe what each specific image shows rather than repeating the product title.</p>
+<h3>Will 3D models work on every device?</h3>
+<p>No. Viewing in augmented reality depends on the customer's device and browser. Keep standard photographs alongside any 3D model.</p>
+<h3>Can I reuse the same image on several products?</h3>
+<p>Yes, you can select existing files from your store's file library. This is useful for shared lifestyle images, but each product should still have its own clear main image.</p>
+`,
+  },
+  {
+    slug: 'website-form-error-messages',
+    seoTitle: 'Website Form Error Messages That Help People Finish',
+    title: 'Website Form Error Messages: How to Help People Fix Mistakes',
+    description: 'How to write and design website form error messages that are clear, accessible and helpful, so customers can correct mistakes and complete enquiries or orders.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-contact-forms/', '/blog/website-accessibility-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Forms are where websites earn their keep. An enquiry form, a quote request, a booking or a checkout is the point where a visitor becomes a lead or a customer. It is also where things go wrong: a missed field, a phone number typed with spaces, a postcode the form does not like. How your site responds in that moment decides whether the person fixes it and carries on, or gives up.</p>
+<p>Error messages are a small part of a website, but they carry a lot of weight. This guide explains how to write and design form errors that help people finish, with practical examples for UK small business websites and online shops.</p>
+
+<h2>Why form errors matter</h2>
+<p>Someone who has started filling in a form has already shown intent. Losing them at that stage is frustrating for both sides. Unhelpful errors are a common source of friction: a red box with no explanation, a message at the top of the page that does not say which field is wrong, or a form that clears everything typed after a single mistake.</p>
+<p>Good error handling is also part of accessibility. People using screen readers, people with cognitive differences and people on small screens all depend on errors being clear and well placed. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the wider picture.</p>
+
+<h2>What a good error message includes</h2>
+<p>Every error message should answer three questions:</p>
+<ol>
+<li><strong>What went wrong?</strong> Say what the problem is, not just that there is one.</li>
+<li><strong>Where?</strong> Make it obvious which field needs attention.</li>
+<li><strong>How do I fix it?</strong> Tell people what to do next.</li>
+</ol>
+<p>Compare these two messages for an email field:</p>
+<ul>
+<li>"Invalid input."</li>
+<li>"Enter an email address in the correct format, like name@example.co.uk."</li>
+</ul>
+<p>The second tells the person exactly what is expected. It is slightly longer, but it saves a guess.</p>
+
+<h2>Writing error messages</h2>
+<h3>Use plain, calm language</h3>
+<p>Avoid technical terms such as "validation failed" or "field required". Avoid blame, too: "You entered the wrong date" feels sharper than "Enter a date in the future". Keep the tone neutral and helpful. Humour rarely works in error messages, because the person is already slightly annoyed.</p>
+<h3>Be specific to the problem</h3>
+<p>One field can fail in different ways, and each deserves its own message. A phone field might be empty, too short or contain letters. "Enter a phone number" suits the first; "Enter a phone number using numbers only" suits the third. Generic messages for every case make people work out the problem themselves.</p>
+<h3>Start with the action</h3>
+<p>Messages that begin with a verb, such as enter, select or choose, are quick to scan. "Select a delivery date" is clearer than "A delivery date has not been selected".</p>
+<h3>Match the label</h3>
+<p>Use the same words in the error as in the field label. If the label says "Postcode", do not call it "ZIP" or "post code" in the message.</p>
+
+<h2>Designing how errors appear</h2>
+<h3>Put errors next to the field</h3>
+<p>Show each message directly above or below the field it refers to. People's attention is on the field, and on a phone the top of the page may be off screen.</p>
+<h3>Add a summary on longer forms</h3>
+<p>For forms with several fields, a summary at the top listing each error, with links that jump to the relevant field, helps people see everything at once. Move focus to the summary after submission so screen reader users hear it.</p>
+<h3>Never rely on colour alone</h3>
+<p>A red border is not enough. Some people cannot distinguish red, and colour does not carry meaning to a screen reader. Pair colour with text and, ideally, an icon. Make sure error text has enough contrast against its background.</p>
+<h3>Keep what people typed</h3>
+<p>Clearing the whole form after one mistake is one of the fastest ways to lose someone. Keep every valid entry in place and only highlight the fields that need attention. For security reasons, password fields may be cleared, and that is acceptable if it is explained.</p>
+
+<h2>When to show errors</h2>
+<p>Timing matters as much as wording.</p>
+<ul>
+<li><strong>On submit:</strong> checking when the person presses the button is predictable and reliable.</li>
+<li><strong>On leaving a field:</strong> checking after someone moves to the next field can catch problems early, but should not fire before they have had a chance to finish typing.</li>
+<li><strong>While typing:</strong> showing errors on every keystroke is usually distracting. A half-typed email address is not wrong yet.</li>
+</ul>
+<p>A balanced approach is to check on submit and, once a field has shown an error, update it as the person corrects it so they can see when it is fixed.</p>
+
+<h2>Preventing errors in the first place</h2>
+<p>The best error message is the one nobody needs to see. Small design choices can stop mistakes happening.</p>
+<h3>Clear labels and hints</h3>
+<p>Every field needs a visible label, not just placeholder text that vanishes when typing starts. Add short hints where the format matters, such as "For example, SW1A 1AA" under a postcode field.</p>
+<h3>Accept flexible input</h3>
+<p>Let people type phone numbers with or without spaces, postcodes in upper or lower case, and card numbers with or without gaps. Clean the data behind the scenes instead of making people match a strict format. UK phone numbers in particular are written in many ways.</p>
+<h3>Ask only for what you need</h3>
+<p>Every extra field is another chance for an error. Review your forms and remove anything you do not genuinely use. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form length and field choice.</p>
+<h3>Use the right field types</h3>
+<p>Email, phone and number field types bring up suitable keyboards on phones and can enable autofill. Autofill reduces typing and with it, typing mistakes.</p>
+<h3>Mark optional or required fields clearly</h3>
+<p>Decide on one convention and stick to it. Many forms mark optional fields with "(optional)", which works well when most fields are required.</p>
+
+<h2>Errors in checkout</h2>
+<p>Checkout errors deserve extra care, because they sit between a customer and a sale. On hosted checkouts such as Shopify's, much of the error handling is managed by the platform, but your store settings still affect what customers are asked for. Our article on <a href="/blog/shopify-checkout-settings/">Shopify checkout settings</a> explains which fields you can control.</p>
+<p>Payment errors are a special case. When a card is declined, the message is often limited by what the payment provider returns. Keep the wording calm, suggest checking details or trying another method, and make sure the basket is not lost.</p>
+
+<h2>Errors after submission</h2>
+<p>Some problems only appear after a form has been sent, such as a server problem or a spam check that blocks a genuine message. If the submission fails, tell the person clearly, keep their entries, and give another way to get in touch, such as a phone number or email address.</p>
+<p>Check from time to time that your forms still deliver messages. A form that appears to work but silently fails is worse than one that shows an error. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> suggests routine checks.</p>
+
+<h2>Testing your form errors</h2>
+<p>Try to break your own forms. Leave fields empty, enter the wrong format, use long names and unusual characters, and submit on a phone. Then try with a keyboard only, without a mouse, and if you can, with a screen reader. Ask someone unfamiliar with the site to complete the form while you watch quietly. Points where they hesitate are worth improving.</p>
+
+<h2>Getting help</h2>
+<p>Prism Works Studio designs and builds websites and online shops for UK businesses, including forms that are clear, accessible and easy to complete. If your enquiry or checkout forms are not performing, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review them.</p>
+
+<h2>FAQs</h2>
+<h3>Should error messages appear at the top of the form or next to the field?</h3>
+<p>Next to the field, always. On longer forms, add a summary at the top as well, with links to each field that needs attention.</p>
+<h3>Is red the right colour for errors?</h3>
+<p>Red is widely understood, but it should never be the only signal. Combine it with clear text and an icon, and check contrast.</p>
+<h3>Should I check fields while people type?</h3>
+<p>Usually not. Checking on every keystroke flags problems before people have finished. Check on submit or when someone leaves a field, then update as they correct it.</p>
+<h3>What should happen if a form fails to send?</h3>
+<p>Tell the person clearly, keep everything they typed, and offer another way to contact you so the enquiry is not lost.</p>
+<h3>Are placeholder examples enough instead of labels?</h3>
+<p>No. Placeholder text disappears as soon as someone types and can be hard to read. Use a visible label, with hints or examples underneath where helpful.</p>
+<h3>Do form errors affect accessibility compliance?</h3>
+<p>Clear error identification is part of widely used accessibility guidelines. What legal duties apply to your business depends on your situation, so take advice if unsure.</p>
+`,
+  },
+  {
+    slug: 'website-tables-on-mobile',
+    seoTitle: 'Website Tables on Mobile: Making Data Readable',
+    title: 'Website Tables on Mobile: How to Make Tables Readable on Small Screens',
+    description: 'Practical ways to make website tables work on mobile, from scrolling tables to stacked cards, for price lists, size guides, opening hours and comparisons.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/mobile-website-design/', '/blog/website-accessibility-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Tables are one of the clearest ways to present certain information: a size guide, a price list, opening hours, a delivery rates chart or a comparison of service packages. On a desktop screen they work well. On a phone, a table with five or six columns can turn into a cramped grid of squashed text, or spill off the edge of the screen so the page wobbles sideways.</p>
+<p>Many visitors to small business websites browse on their phones, so tables need a plan for small screens. This guide explains when to use a table, the main approaches to making tables mobile friendly, and how to keep them accessible. It applies whether your site is on WordPress, Shopify or another platform.</p>
+
+<h2>When a table is the right choice</h2>
+<p>Tables are for data with rows and columns that relate to each other, where people compare values across a row or down a column. Good examples include:</p>
+<ul>
+<li>Clothing size guides with chest, waist and length measurements.</li>
+<li>Delivery options with cost and timescale for each region.</li>
+<li>Opening hours by day.</li>
+<li>Service packages compared feature by feature.</li>
+<li>Technical specifications for products.</li>
+</ul>
+<p>Tables are not for page layout. Older websites sometimes used tables to arrange content into columns, which causes problems for screen readers and mobile layouts. Use your theme or page layout tools for columns instead.</p>
+<p>Also ask whether a table is needed at all. A list of three services with a price each might read better as a simple list or a set of cards on every screen size.</p>
+
+<h2>Why tables struggle on mobile</h2>
+<p>A phone screen is narrow. A table has a natural minimum width set by its content: column headers, long words and numbers cannot shrink indefinitely. When the table is wider than the screen, one of a few things happens: text is squeezed until it wraps one word per line, the table overflows and the whole page scrolls sideways, or the browser shrinks everything until it is unreadable.</p>
+<p>Sideways scrolling of the whole page is particularly unpleasant. It breaks the layout of everything else on the page and can make navigation hard to reach. Whatever approach you choose, the aim is to keep the rest of the page stable.</p>
+
+<h2>Approach one: let the table scroll on its own</h2>
+<p>The simplest fix is to wrap the table in a container that scrolls horizontally, while the rest of the page stays put. The visitor swipes sideways within the table to see more columns.</p>
+<p>This works well for tables people read row by row, such as size guides, and keeps the structure intact. To make it work well:</p>
+<ul>
+<li>Show a visual hint that more columns exist, such as a fade at the edge or a short note saying "Swipe to see more".</li>
+<li>Consider keeping the first column fixed so people can still see which row they are reading as they scroll.</li>
+<li>Keep the number of columns manageable so scrolling is short.</li>
+</ul>
+<p>Many WordPress block themes and Shopify themes already wrap tables in a scrolling container. Check yours on a phone before adding anything.</p>
+
+<h2>Approach two: stack rows into cards</h2>
+<p>On small screens, each row can be displayed as a card, with each value shown alongside its column heading. A service comparison row becomes a card for one package, listing each feature and its value underneath.</p>
+<p>This avoids sideways scrolling entirely and suits tables with many columns but relatively few rows. It is less suitable when people need to compare values across rows, because comparing two cards means scrolling up and down.</p>
+<p>Stacked layouts usually need some custom styling from a developer. Care is needed so the underlying markup remains a proper table for assistive technology.</p>
+
+<h2>Approach three: prioritise columns</h2>
+<p>Not every column is equally important. On a phone you might show the two or three most useful columns and offer the full table behind a link or toggle. A delivery table might show region and cost on mobile, with timescales available on tap.</p>
+<p>Be careful with this approach. Hiding information that some visitors need can cause frustration or extra enquiries. Only hide columns that are genuinely secondary, and make it clear how to see them.</p>
+
+<h2>Approach four: split or reshape the table</h2>
+<p>Sometimes the best fix is editorial. A large comparison table could become several smaller tables, one per category. A size guide covering tops, trousers and shoes could be three separate tables, perhaps using tabs or headings. A table with columns for each day of the week might work better turned on its side, with days as rows.</p>
+<p>Swapping rows and columns is often the quickest win: phones have plenty of vertical space but little horizontal space, so long and narrow tables tend to fit better than short and wide ones.</p>
+
+<h2>Writing tables that fit</h2>
+<p>Content choices make a big difference before any styling.</p>
+<ul>
+<li><strong>Short headers:</strong> "Price" instead of "Price including VAT per month". Put the detail in a note under the table if needed.</li>
+<li><strong>Consistent units:</strong> state the unit in the header once, such as "Chest (cm)", rather than repeating it in every cell.</li>
+<li><strong>Abbreviations with care:</strong> only use ones your audience will understand, and explain them nearby.</li>
+<li><strong>Avoid long sentences in cells:</strong> tables suit short values. Longer explanations belong in the text around them.</li>
+</ul>
+
+<h2>Accessibility basics for tables</h2>
+<p>Screen reader users navigate tables cell by cell, hearing the relevant header for each value. That only works if the table is built with proper header cells. When using the WordPress table block, enable the header row option. In Shopify, tables added through the rich text editor or theme sections should also mark header cells, although what is possible depends on the editor and theme.</p>
+<p>Other good practices:</p>
+<ul>
+<li>Give the table a caption or a heading directly above it explaining what it shows.</li>
+<li>Avoid merged cells where possible, as they are harder to interpret.</li>
+<li>Do not put tables in images. Text in images cannot be read by screen readers, resized or searched, and often looks blurry on phones.</li>
+<li>Check contrast for header rows and any striped row backgrounds.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers these principles in more depth.</p>
+
+<h2>Tables on Shopify product pages</h2>
+<p>Size guides and specifications are frequent table uses on Shopify stores. Rather than pasting the same table into every product description, consider storing it once and displaying it through a theme section, a page linked from the product, or structured product data. Our article on <a href="/blog/shopify-metafields-guide/">Shopify metafields</a> explains how product-specific details can be stored in fields and shown consistently.</p>
+<p>A size guide in a pop-up or drawer can work well on mobile, as long as it scrolls properly and closes easily.</p>
+
+<h2>Tables in WordPress</h2>
+<p>The block editor includes a table block with options for a header row, footer row and fixed-width cells. Fixed-width cells make columns equal widths, which can help or hurt depending on content. Test both on a phone. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the editor more broadly.</p>
+<p>For larger or frequently updated tables, a developer can build a reusable pattern or a custom block so the mobile behaviour is consistent across the site.</p>
+
+<h2>Testing tables on real devices</h2>
+<p>Browser tools that simulate phone screens are useful, but testing on an actual phone is better. Check that:</p>
+<ul>
+<li>The page does not scroll sideways as a whole.</li>
+<li>Text in cells is large enough to read without zooming.</li>
+<li>It is clear when a table scrolls and how to see the rest.</li>
+<li>Headers remain understandable when columns are narrow.</li>
+</ul>
+<p>Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers testing and other mobile layout issues.</p>
+
+<h2>Getting help</h2>
+<p>Prism Works Studio designs and builds mobile-friendly websites and online shops for UK businesses, including size guides, comparison tables and pricing layouts. If your tables are hard to read on a phone, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service.</p>
+
+<h2>FAQs</h2>
+<h3>What is the easiest way to make a table work on mobile?</h3>
+<p>Wrapping the table in its own horizontally scrolling container is usually simplest. It keeps the table intact while stopping the whole page from scrolling sideways.</p>
+<h3>Should I use an image of a table instead?</h3>
+<p>No. Images of tables cannot be read by screen readers, are hard to update and are often unreadable on phones. Use a real table.</p>
+<h3>How many columns are too many for mobile?</h3>
+<p>It depends on the content. If the table needs a lot of sideways scrolling, consider swapping rows and columns, splitting it or using stacked cards.</p>
+<h3>Do tables affect SEO?</h3>
+<p>Search engines can read properly built tables. A clear, usable table helps visitors, which is the main goal, and a heading above it gives useful context.</p>
+<h3>Can I hide columns on mobile?</h3>
+<p>You can, but only hide genuinely secondary information and provide a clear way to view it. Hiding essential details can frustrate visitors.</p>
+<h3>Is a pricing table the same as a data table?</h3>
+<p>Not always. Package comparisons are often better as cards with feature lists. Our <a href="/blog/website-pricing-page-design/">pricing page design</a> guide covers that layout.</p>
+`,
+  },
+  {
+    slug: 'wordpress-font-loading',
+    seoTitle: 'WordPress Font Loading: Faster, Tidier Typography',
+    title: 'WordPress Font Loading: How to Use Web Fonts Without Slowing Your Site',
+    description: 'How web fonts load on a WordPress site, how to host fonts locally, limit weights and avoid layout shift, plus privacy points UK site owners should consider.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-colour-and-typography/', '/blog/website-speed-optimisation-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Fonts shape how a website feels. The right typeface can make a small business look established, friendly or premium. But web fonts are files the browser has to fetch before it can draw text in them, and on a WordPress site they can quietly pile up: one font chosen in the theme, another added by a page builder, a third pulled in by a form tool. The result can be slower pages, text that flickers or jumps as it loads, and requests sent to outside servers you never meant to use.</p>
+<p>This guide explains how font loading works on WordPress, how to see what your site is actually loading, and practical steps to keep typography looking good without dragging performance down. It is written for UK small business owners and the people who look after their sites.</p>
+
+<h2>How web fonts load</h2>
+<p>When a browser opens a page, it reads the HTML and the stylesheets. When a stylesheet says a heading should use a particular font, the browser checks whether that font is available. If it is a web font, the browser requests the font file from wherever it is hosted. Until that file arrives, the browser either shows nothing in that spot, shows a fallback font, or waits briefly then shows a fallback.</p>
+<p>Each combination of family, weight and style is usually its own file. Regular, bold, italic and bold italic of one family can mean four downloads. Add a second family for headings with two weights and you have six. Every extra file adds work for the browser, particularly on mobile connections.</p>
+
+<h2>Where fonts come from on a WordPress site</h2>
+<p>Fonts can enter a WordPress site from several places:</p>
+<ul>
+<li><strong>The theme</strong>, which may bundle its own fonts or load them from an external font service.</li>
+<li><strong>The site editor</strong>, in block themes, where you can install and choose fonts under Styles and Typography.</li>
+<li><strong>Page builders</strong>, which often have their own font settings and may load fonts separately from the theme.</li>
+<li><strong>Plugins</strong>, such as sliders, forms or icon tools, which can load their own fonts or icon fonts.</li>
+<li><strong>Custom code</strong> added by a developer in a child theme or settings box.</li>
+</ul>
+<p>Because these sources work independently, it is easy to end up loading the same family twice or loading fonts that no longer appear anywhere on the page.</p>
+
+<h2>Find out what your site is loading</h2>
+<p>Before changing anything, check what is happening now. Open a page in a desktop browser, open the developer tools, go to the network panel, filter by font and reload. You will see each font file, its size and where it came from.</p>
+<p>Look for:</p>
+<ul>
+<li>Fonts loaded from external domains rather than your own.</li>
+<li>More weights than your design actually uses.</li>
+<li>Two copies of the same family from different sources.</li>
+<li>Icon fonts loaded for a handful of small icons.</li>
+</ul>
+<p>Repeat this on a few page types, such as the homepage, a blog post and a contact page, as different templates and plugins may load different fonts.</p>
+
+<h2>Limit families and weights</h2>
+<p>The simplest improvement is often using fewer fonts. Many well-designed sites use one family for everything, or one for headings and one for body text. Within each family, choose only the weights you need. A typical pairing might be regular and bold for body text, plus one weight for headings.</p>
+<p>Some font families are available as variable fonts, where a single file contains a range of weights. These can reduce the number of files, though a single variable file may be larger than one static weight. Whether it helps depends on how many weights you use.</p>
+<p>Our article on <a href="/blog/website-colour-and-typography/">website colour and typography</a> covers choosing fonts from a design perspective.</p>
+
+<h2>Host fonts on your own site</h2>
+<p>Loading fonts from an external service means the visitor's browser connects to another server, which adds a connection step. It also means visitor information, such as their IP address, is sent to that third party.</p>
+<p>In the UK, data protection law covers personal data such as IP addresses, and there has been legal debate in Europe about loading fonts from external services without a clear basis. How this applies to your site depends on your circumstances, so take advice if you are unsure. Hosting fonts locally sidesteps the question for fonts and keeps loading under your control.</p>
+<h3>Using the site editor</h3>
+<p>Recent versions of WordPress include a font library in the site editor for block themes. You can upload font files or install fonts, and WordPress stores them on your own site. Check the licence of any font before uploading it; many fonts allow web use, but terms vary.</p>
+<h3>Classic themes and page builders</h3>
+<p>For classic themes, a developer can add font files to a child theme and declare them in its stylesheet. Many page builders also have a setting to load fonts locally rather than from an external service. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why custom changes belong in a child theme.</p>
+
+<h2>Control how text behaves while fonts load</h2>
+<p>The font display setting tells the browser what to do while a web font is downloading. The swap value shows text in a fallback font immediately and switches when the web font arrives. This avoids invisible text, which is important for readability, but can cause a visible change as fonts swap.</p>
+<p>Many themes and the site editor set this for you. If you are working with custom font declarations, ask your developer which setting is used.</p>
+<h3>Choose a sensible fallback</h3>
+<p>The fallback font is what visitors see before the web font loads, or if it fails. Picking a system font with similar width and height to your web font reduces the jump when the swap happens. Large differences can push content around, which is irritating for readers and counts towards layout shift measurements.</p>
+
+<h2>Preloading key fonts</h2>
+<p>Preloading tells the browser to start downloading a file early, before it discovers the font in the stylesheet. For the one or two fonts used above the fold, typically the main body and heading fonts, preloading can help text appear in the right font sooner.</p>
+<p>Preload sparingly. Preloading many files competes with other important resources such as the main image and stylesheets. If you preload a font the page does not use, the browser downloads it for nothing.</p>
+
+<h2>Subsetting and file formats</h2>
+<p>Font files often include characters for many languages. If your site is in English, a subset containing only the characters you need can be much smaller. Some font services subset automatically; for self-hosted fonts, subsetting may need to be done before upload. Take care to include characters you do use, such as the pound sign, accented letters in names and typographic quotation marks.</p>
+<p>Modern browsers support the WOFF2 format, which is compressed and generally the best choice for the web. Older formats are rarely needed now.</p>
+
+<h2>Icon fonts</h2>
+<p>Some themes and plugins load an entire icon font to display a few icons, such as social media symbols or arrows. These files can be surprisingly large. Inline SVG icons are usually lighter and more accessible. If your site loads an icon font for only a handful of icons, it may be worth asking a developer about replacing them.</p>
+
+<h2>Check the results</h2>
+<p>After making changes, clear any caching, reload the page with the network panel open and confirm the expected fonts load from the expected place. Test on a mobile phone too. Look for text that flickers, jumps or appears in the wrong font. Speed testing tools can help confirm that layout shift and loading times have not got worse. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers testing in more detail.</p>
+<p>Make changes on a staging copy first if you can, especially on a busy site. Theme and plugin updates can occasionally reintroduce external fonts, so recheck after major updates.</p>
+
+<h2>Getting help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK small businesses, including performance tidy-ups like font loading. If your site feels slow or your fonts flicker on load, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or our <a href="/blog/wordpress-agency-uk/">WordPress agency</a> overview.</p>
+
+<h2>FAQs</h2>
+<h3>Do web fonts slow down a WordPress site?</h3>
+<p>They add files the browser must download, so they can. The effect depends on how many families and weights you use and how they are loaded. A small, well-chosen set has a modest impact.</p>
+<h3>Is it better to host fonts locally?</h3>
+<p>Often, yes. Local hosting avoids an extra connection to another server and keeps visitor data away from third parties. Check the font's licence allows self-hosting.</p>
+<h3>Why does my text change font after the page loads?</h3>
+<p>The browser is showing a fallback font while the web font downloads, then swapping. Choosing a closer fallback and preloading key fonts can reduce how noticeable this is.</p>
+<h3>Can I use any font I like on my website?</h3>
+<p>Only if the licence allows web use. Some fonts are free for web use, others need a paid licence, and desktop licences do not always cover websites.</p>
+<h3>How many fonts should a small business website use?</h3>
+<p>There is no rule, but one or two families with a few weights is enough for most designs and keeps loading light.</p>
+<h3>Will changing fonts affect my search rankings?</h3>
+<p>Fonts themselves are not a ranking factor, but page experience can play a part. Faster, more stable pages are better for visitors either way.</p>
+`,
+  },
 ];

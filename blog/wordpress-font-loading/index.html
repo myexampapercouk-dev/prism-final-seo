@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Font Loading: Faster, Tidier Typography</title>
+<meta name="description" content="How web fonts load on a WordPress site, how to host fonts locally, limit weights and avoid layout shift, plus privacy points UK site owners should consider.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-font-loading/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Font Loading: Faster, Tidier Typography">
+<meta property="og:description" content="How web fonts load on a WordPress site, how to host fonts locally, limit weights and avoid layout shift, plus privacy points UK site owners should consider.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-font-loading/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-font-loading.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-font-loading/#article","headline":"WordPress Font Loading: How to Use Web Fonts Without Slowing Your Site","description":"How web fonts load on a WordPress site, how to host fonts locally, limit weights and avoid layout shift, plus privacy points UK site owners should consider.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-font-loading/","url":"https://prismworksstudio.co.uk/blog/wordpress-font-loading/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-font-loading.png","inLanguage":"en-GB","wordCount":1552,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Font Loading: How to Use Web Fonts Without Slowing Your Site","item":"https://prismworksstudio.co.uk/blog/wordpress-font-loading/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do web fonts slow down a WordPress site?","acceptedAnswer":{"@type":"Answer","text":"They add files the browser must download, so they can. The effect depends on how many families and weights you use and how they are loaded. A small, well-chosen set has a modest impact."}},{"@type":"Question","name":"Is it better to host fonts locally?","acceptedAnswer":{"@type":"Answer","text":"Often, yes. Local hosting avoids an extra connection to another server and keeps visitor data away from third parties. Check the font's licence allows self-hosting."}},{"@type":"Question","name":"Why does my text change font after the page loads?","acceptedAnswer":{"@type":"Answer","text":"The browser is showing a fallback font while the web font downloads, then swapping. Choosing a closer fallback and preloading key fonts can reduce how noticeable this is."}},{"@type":"Question","name":"Can I use any font I like on my website?","acceptedAnswer":{"@type":"Answer","text":"Only if the licence allows web use. Some fonts are free for web use, others need a paid licence, and desktop licences do not always cover websites."}},{"@type":"Question","name":"How many fonts should a small business website use?","acceptedAnswer":{"@type":"Answer","text":"There is no rule, but one or two families with a few weights is enough for most designs and keeps loading light."}},{"@type":"Question","name":"Will changing fonts affect my search rankings?","acceptedAnswer":{"@type":"Answer","text":"Fonts themselves are not a ranking factor, but page experience can play a part. Faster, more stable pages are better for visitors either way."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Font Loading: How to Use Web Fonts Without Slowing Your Site</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Font Loading: How to Use Web Fonts Without Slowing Your Site</h1><p class="pws-lead">How web fonts load on a WordPress site, how to host fonts locally, limit weights and avoid layout shift, plus privacy points UK site owners should consider.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Every font family, weight and style is a separate file the browser must download, so fewer is usually better.</li><li>Hosting fonts on your own site and using the site editor's font tools gives you more control over speed and privacy.</li><li>Sensible fallback fonts and font display settings stop text from vanishing or jumping while fonts load.</li></ul></div>
+<p>Fonts shape how a website feels. The right typeface can make a small business look established, friendly or premium. But web fonts are files the browser has to fetch before it can draw text in them, and on a WordPress site they can quietly pile up: one font chosen in the theme, another added by a page builder, a third pulled in by a form tool. The result can be slower pages, text that flickers or jumps as it loads, and requests sent to outside servers you never meant to use.</p>
+<p>This guide explains how font loading works on WordPress, how to see what your site is actually loading, and practical steps to keep typography looking good without dragging performance down. It is written for UK small business owners and the people who look after their sites.</p>
+
+<h2>How web fonts load</h2>
+<p>When a browser opens a page, it reads the HTML and the stylesheets. When a stylesheet says a heading should use a particular font, the browser checks whether that font is available. If it is a web font, the browser requests the font file from wherever it is hosted. Until that file arrives, the browser either shows nothing in that spot, shows a fallback font, or waits briefly then shows a fallback.</p>
+<p>Each combination of family, weight and style is usually its own file. Regular, bold, italic and bold italic of one family can mean four downloads. Add a second family for headings with two weights and you have six. Every extra file adds work for the browser, particularly on mobile connections.</p>
+
+<h2>Where fonts come from on a WordPress site</h2>
+<p>Fonts can enter a WordPress site from several places:</p>
+<ul>
+<li><strong>The theme</strong>, which may bundle its own fonts or load them from an external font service.</li>
+<li><strong>The site editor</strong>, in block themes, where you can install and choose fonts under Styles and Typography.</li>
+<li><strong>Page builders</strong>, which often have their own font settings and may load fonts separately from the theme.</li>
+<li><strong>Plugins</strong>, such as sliders, forms or icon tools, which can load their own fonts or icon fonts.</li>
+<li><strong>Custom code</strong> added by a developer in a child theme or settings box.</li>
+</ul>
+<p>Because these sources work independently, it is easy to end up loading the same family twice or loading fonts that no longer appear anywhere on the page.</p>
+
+<h2>Find out what your site is loading</h2>
+<p>Before changing anything, check what is happening now. Open a page in a desktop browser, open the developer tools, go to the network panel, filter by font and reload. You will see each font file, its size and where it came from.</p>
+<p>Look for:</p>
+<ul>
+<li>Fonts loaded from external domains rather than your own.</li>
+<li>More weights than your design actually uses.</li>
+<li>Two copies of the same family from different sources.</li>
+<li>Icon fonts loaded for a handful of small icons.</li>
+</ul>
+<p>Repeat this on a few page types, such as the homepage, a blog post and a contact page, as different templates and plugins may load different fonts.</p>
+
+<h2>Limit families and weights</h2>
+<p>The simplest improvement is often using fewer fonts. Many well-designed sites use one family for everything, or one for headings and one for body text. Within each family, choose only the weights you need. A typical pairing might be regular and bold for body text, plus one weight for headings.</p>
+<p>Some font families are available as variable fonts, where a single file contains a range of weights. These can reduce the number of files, though a single variable file may be larger than one static weight. Whether it helps depends on how many weights you use.</p>
+<p>Our article on <a href="/blog/website-colour-and-typography/">website colour and typography</a> covers choosing fonts from a design perspective.</p>
+
+<h2>Host fonts on your own site</h2>
+<p>Loading fonts from an external service means the visitor's browser connects to another server, which adds a connection step. It also means visitor information, such as their IP address, is sent to that third party.</p>
+<p>In the UK, data protection law covers personal data such as IP addresses, and there has been legal debate in Europe about loading fonts from external services without a clear basis. How this applies to your site depends on your circumstances, so take advice if you are unsure. Hosting fonts locally sidesteps the question for fonts and keeps loading under your control.</p>
+<h3>Using the site editor</h3>
+<p>Recent versions of WordPress include a font library in the site editor for block themes. You can upload font files or install fonts, and WordPress stores them on your own site. Check the licence of any font before uploading it; many fonts allow web use, but terms vary.</p>
+<h3>Classic themes and page builders</h3>
+<p>For classic themes, a developer can add font files to a child theme and declare them in its stylesheet. Many page builders also have a setting to load fonts locally rather than from an external service. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why custom changes belong in a child theme.</p>
+
+<h2>Control how text behaves while fonts load</h2>
+<p>The font display setting tells the browser what to do while a web font is downloading. The swap value shows text in a fallback font immediately and switches when the web font arrives. This avoids invisible text, which is important for readability, but can cause a visible change as fonts swap.</p>
+<p>Many themes and the site editor set this for you. If you are working with custom font declarations, ask your developer which setting is used.</p>
+<h3>Choose a sensible fallback</h3>
+<p>The fallback font is what visitors see before the web font loads, or if it fails. Picking a system font with similar width and height to your web font reduces the jump when the swap happens. Large differences can push content around, which is irritating for readers and counts towards layout shift measurements.</p>
+
+<h2>Preloading key fonts</h2>
+<p>Preloading tells the browser to start downloading a file early, before it discovers the font in the stylesheet. For the one or two fonts used above the fold, typically the main body and heading fonts, preloading can help text appear in the right font sooner.</p>
+<p>Preload sparingly. Preloading many files competes with other important resources such as the main image and stylesheets. If you preload a font the page does not use, the browser downloads it for nothing.</p>
+
+<h2>Subsetting and file formats</h2>
+<p>Font files often include characters for many languages. If your site is in English, a subset containing only the characters you need can be much smaller. Some font services subset automatically; for self-hosted fonts, subsetting may need to be done before upload. Take care to include characters you do use, such as the pound sign, accented letters in names and typographic quotation marks.</p>
+<p>Modern browsers support the WOFF2 format, which is compressed and generally the best choice for the web. Older formats are rarely needed now.</p>
+
+<h2>Icon fonts</h2>
+<p>Some themes and plugins load an entire icon font to display a few icons, such as social media symbols or arrows. These files can be surprisingly large. Inline SVG icons are usually lighter and more accessible. If your site loads an icon font for only a handful of icons, it may be worth asking a developer about replacing them.</p>
+
+<h2>Check the results</h2>
+<p>After making changes, clear any caching, reload the page with the network panel open and confirm the expected fonts load from the expected place. Test on a mobile phone too. Look for text that flickers, jumps or appears in the wrong font. Speed testing tools can help confirm that layout shift and loading times have not got worse. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers testing in more detail.</p>
+<p>Make changes on a staging copy first if you can, especially on a busy site. Theme and plugin updates can occasionally reintroduce external fonts, so recheck after major updates.</p>
+
+<h2>Getting help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK small businesses, including performance tidy-ups like font loading. If your site feels slow or your fonts flicker on load, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or our <a href="/blog/wordpress-agency-uk/">WordPress agency</a> overview.</p>
+
+<h2>FAQs</h2>
+<h3>Do web fonts slow down a WordPress site?</h3>
+<p>They add files the browser must download, so they can. The effect depends on how many families and weights you use and how they are loaded. A small, well-chosen set has a modest impact.</p>
+<h3>Is it better to host fonts locally?</h3>
+<p>Often, yes. Local hosting avoids an extra connection to another server and keeps visitor data away from third parties. Check the font's licence allows self-hosting.</p>
+<h3>Why does my text change font after the page loads?</h3>
+<p>The browser is showing a fallback font while the web font downloads, then swapping. Choosing a closer fallback and preloading key fonts can reduce how noticeable this is.</p>
+<h3>Can I use any font I like on my website?</h3>
+<p>Only if the licence allows web use. Some fonts are free for web use, others need a paid licence, and desktop licences do not always cover websites.</p>
+<h3>How many fonts should a small business website use?</h3>
+<p>There is no rule, but one or two families with a few weights is enough for most designs and keeps loading light.</p>
+<h3>Will changing fonts affect my search rankings?</h3>
+<p>Fonts themselves are not a ranking factor, but page experience can play a part. Faster, more stable pages are better for visitors either way.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Font%20Loading%3A%20How%20to%20Use%20Web%20Fonts%20Without%20Slowing%20Your%20Site'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-trash-and-restoring-content/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Trash: How to Restore Deleted Pages, Posts and Media</h3><p>How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Font%20Loading%3A%20How%20to%20Use%20Web%20Fonts%20Without%20Slowing%20Your%20Site'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
