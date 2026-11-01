@@ -29636,4 +29636,508 @@ module.exports = [
 <p>Reformer classes usually have a fixed number of machines, so booking needs to handle limited capacity, waitlists and late cancellations reliably.</p>
 `,
   },
+  {
+    slug: 'web-design-bristol',
+    seoTitle: 'Web Design Bristol: Creative and Sustainable Brand Sites',
+    title: 'Web Design in Bristol: Websites for Creative and Sustainable Brands',
+    description: 'Web design for Bristol creative and sustainable brands: distinctive design, honest green claims, lighter pages and portfolios that turn visitors into enquiries.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Bristol often means balancing two things that can pull in different directions: a strong, distinctive creative identity and a website that still loads quickly, explains clearly and turns visitors into customers. For sustainable and ethical brands there is a third consideration, which is making sure the site itself, and the claims on it, live up to the values the brand stands for. Prism Works Studio works with Bristol businesses remotely, planning and building sites over video calls and shared drafts.</p>
+<p>Bristol is known for its creative and independent scene, from studios and makers around Stokes Croft, Bedminster and the Harbourside to independent shops on Gloucester Road and a wide range of purpose-led brands. This guide covers how creative and sustainable businesses can get a website that reflects who they are and still does its job.</p>
+<p>If you are looking specifically at online selling, our guide to choosing an <a href="/blog/ecommerce-agency-bristol/">ecommerce agency in Bristol</a> covers store platforms and growth in more depth. This article focuses on the website itself: design, content and credibility.</p>
+
+<h2>Creative identity without losing clarity</h2>
+<p>Creative businesses such as design studios, illustrators, animators, photographers, architects and production companies often want a website that feels like their work. That is reasonable, but experimental layouts can make it harder for visitors to find what they need.</p>
+<p>A useful rule is to be bold in the visuals and conventional in the navigation:</p>
+<ul>
+<li><strong>Keep menus predictable.</strong> Work, about, services and contact should be easy to find on every page.</li>
+<li><strong>Let the work lead.</strong> Large, well-compressed images or short video clips can carry the personality.</li>
+<li><strong>Explain what you do.</strong> A visitor should understand within seconds what kind of work you take on and for whom.</li>
+<li><strong>Give every project context.</strong> A sentence or two on the brief and your role helps clients picture working with you.</li>
+<li><strong>Make enquiring easy.</strong> A short form or email link on project pages, not just the contact page.</li>
+</ul>
+
+<h2>Portfolio pages that win work</h2>
+<p>A portfolio is often the most visited part of a creative website. The strongest portfolios are curated rather than exhaustive. Showing a smaller number of projects that match the work you want more of usually does more than showing everything you have ever done.</p>
+<table>
+<thead><tr><th>Portfolio element</th><th>Why it helps</th></tr></thead>
+<tbody>
+<tr><td>Filter by service or sector</td><td>Lets visitors jump to the work most relevant to them</td></tr>
+<tr><td>Short project summaries</td><td>Explains the brief, your role and the approach in plain language</td></tr>
+<tr><td>Process images</td><td>Shows how you think, not just the final result</td></tr>
+<tr><td>Client permission</td><td>Only show work you are allowed to share, credited appropriately</td></tr>
+<tr><td>Related projects and a call to action</td><td>Keeps interested visitors moving towards an enquiry</td></tr>
+</tbody>
+</table>
+<p>Written project descriptions also help search engines understand your work, since images alone give them little to go on.</p>
+
+<h2>Sustainable brands and honest green claims</h2>
+<p>Bristol has a large number of businesses built around sustainability, from refill shops and ethical fashion to renewable energy installers and B2B consultancies. For these brands, the website is where values become visible, and also where claims can be scrutinised.</p>
+<p>The Competition and Markets Authority has published its Green Claims Code, which sets out principles for environmental claims, such as being truthful, clear, specific and able to be substantiated. It is worth reading if your website talks about being eco-friendly, sustainable, carbon neutral or similar. Practical steps include:</p>
+<ol>
+<li>Replacing vague terms such as "eco" or "green" with specific statements about materials, sourcing or processes.</li>
+<li>Being clear whether a claim covers a whole product, part of it, or your business as a whole.</li>
+<li>Linking to evidence or certification where you rely on it, and only naming schemes you are genuinely part of.</li>
+<li>Avoiding comparisons with competitors unless they are fair and can be backed up.</li>
+<li>Reviewing claims periodically, as products and suppliers change.</li>
+</ol>
+<p>This is general guidance rather than legal advice. If your claims are central to your marketing, it may be worth taking professional advice.</p>
+
+<h2>Lighter websites</h2>
+<p>Every page load uses energy across devices, networks and data centres. While the impact of a single small website is modest, many sustainable brands like the idea of a site that is lean by design, and a lighter site is usually faster too, which helps visitors and search performance.</p>
+<ul>
+<li>Compress images and serve modern formats at sensible sizes.</li>
+<li>Avoid auto-playing video, especially on mobile.</li>
+<li>Limit third-party scripts, tracking tags and heavy fonts.</li>
+<li>Use system fonts or a small number of font weights.</li>
+<li>Choose hosting that suits your traffic, and ask providers about their energy sourcing if that matters to you.</li>
+</ul>
+<p>Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains how page speed is measured and improved.</p>
+
+<h2>Independent retailers and makers</h2>
+<p>Many Bristol independents sell both in a shop and online. A website that makes it easy to browse products, check opening hours and find the shop can support both channels. If you use Shopify, its point-of-sale tools can connect in-store and online stock, which our <a href="/blog/shopify-pos-uk-retail/">Shopify POS guide</a> explains. For smaller ranges, Squarespace or WooCommerce can also work well.</p>
+<p>For product pages, honesty about materials, care, sizing and delivery reduces returns and builds trust, which matters even more for brands that talk about reducing waste.</p>
+
+<h2>SEO for Bristol creative and purpose-led businesses</h2>
+<p>Creative services searches often combine a service with a place, while sustainable product searches may be national. A good site structure supports both:</p>
+<ul>
+<li>Service pages for each type of work, written in plain language.</li>
+<li>A clear location signal, through your Google Business Profile and contact page, for local searches.</li>
+<li>Helpful articles that answer real questions in your niche, which can also be cited by AI search tools.</li>
+<li>Descriptive alt text and captions on portfolio images.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the essentials for location-based searches.</p>
+
+<h2>Writing in your own voice</h2>
+<p>Creative and purpose-led brands usually have a distinctive tone, and the website copy should sound like the people behind the business. Generic phrases such as "passionate about quality" or "bespoke solutions" could describe almost anyone. Specific statements about what you make, how you work and what you care about are more memorable and more believable.</p>
+<p>It helps to write the About page around the questions a new client or customer actually has: who is behind the business, what you are good at, what it is like to work with you and what you will not do. Honest answers about limits, such as the size of project you take on or the lead time for handmade products, can filter out poor-fit enquiries and save time on both sides.</p>
+<h2>Accessibility and inclusive design</h2>
+<p>Creative sites sometimes use low-contrast text, tiny type or text embedded in images for stylistic reasons. These choices can make a site hard to use for many visitors, including people with visual impairments and anyone reading on a phone in bright light. It is usually possible to keep a strong aesthetic while meeting recognised accessibility standards, for example by using contrast carefully, keeping body text a readable size and adding alt text to portfolio images. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility in the UK</a> explains the main principles.</p>
+<h2>Keeping the site alive after launch</h2>
+<p>A portfolio or product range that stops being updated quickly looks neglected. Before launch, agree who will add new projects, products or journal posts, and make sure the editing tools are simple enough that it actually happens. A small number of reusable page layouts can keep new content on brand without design help each time.</p>
+
+<h2>Working with Prism Works Studio from Bristol</h2>
+<p>Prism Works Studio has no office or staff in Bristol. We work with businesses there remotely, using video calls for discovery and reviews and shared drafts so you can give feedback in your own time.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. If your project includes a new identity, our <a href="/services/brand-strategy/">brand strategy service</a> may also be relevant. See our <a href="/pricing/">pricing page</a> for how projects are scoped, or book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How can a creative studio website stand out without being confusing?</h3>
+<p>Be bold with visuals and conventional with navigation. Keep menus predictable, explain what you do clearly and make it easy to enquire from project pages.</p>
+<h3>How many projects should a portfolio show?</h3>
+<p>There is no fixed number. A curated selection that reflects the work you want more of usually works better than showing everything. Only include work you are allowed to share.</p>
+<h3>What are the rules on green claims on a website?</h3>
+<p>The CMA's Green Claims Code sets out principles such as claims being truthful, clear, specific and substantiated. It is general guidance, so take professional advice if claims are central to your marketing.</p>
+<h3>Can a website really be more sustainable?</h3>
+<p>Lighter pages with compressed images, fewer scripts and no auto-playing video use less data and usually load faster. The effect of one site is small, but it aligns the website with the brand's values.</p>
+<h3>Should a Bristol independent shop sell online?</h3>
+<p>It depends on your products and capacity. Platforms such as Shopify, WooCommerce or Squarespace can support a small online range alongside your shop.</p>
+<h3>Do you have an office in Bristol?</h3>
+<p>No. Prism Works Studio works with Bristol businesses remotely throughout the project.</p>
+`,
+  },
+  {
+    slug: 'web-design-cardiff',
+    seoTitle: 'Web Design Cardiff: Bilingual and Public Sector Sites',
+    title: 'Web Design in Cardiff: Bilingual Welsh and English Websites and Sites for Public Sector Suppliers',
+    description: 'Web design for Cardiff businesses: bilingual Welsh and English sites, accessibility, and websites that help suppliers show credibility to public sector buyers.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Cardiff often raises two questions that rarely come up elsewhere in the UK: should the site be bilingual in Welsh and English, and how should it present a business that sells to councils, health boards, universities or other public bodies? Getting either right takes planning before the first page is designed. Prism Works Studio works with Cardiff businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>This guide covers bilingual website structure, the practical side of translation, what public sector buyers may look for when they visit a supplier's site, and the accessibility basics that matter for both.</p>
+
+<h2>Should a Cardiff business have a bilingual website?</h2>
+<p>For public bodies in Wales, Welsh language duties apply under the Welsh Language Standards framework. For most private businesses, there is generally no blanket legal requirement to publish a bilingual website, though the position can differ for some organisations, such as those delivering services on behalf of public bodies or in certain regulated sectors. If you are unsure, check guidance from the Welsh Language Commissioner or take advice on your own situation.</p>
+<p>Beyond the law, there are good commercial reasons to consider Welsh content:</p>
+<ul>
+<li><strong>Customer preference.</strong> Some customers prefer to use Welsh, and offering it can be a meaningful sign of respect and commitment to Wales.</li>
+<li><strong>Public sector contracts.</strong> If you deliver services to or on behalf of Welsh public bodies, contract terms may include Welsh language expectations.</li>
+<li><strong>Brand positioning.</strong> For businesses rooted in Welsh culture, food, tourism or education, bilingual content can be part of the identity.</li>
+</ul>
+<p>Bilingual does not have to mean every page on day one. Some businesses start with key pages in Welsh, such as the homepage, main services and contact page, and expand over time. Whatever you choose, be clear and consistent about what is available in each language.</p>
+
+<h2>Structuring a bilingual website</h2>
+<p>The way languages are organised affects usability, editing and SEO. The main options are:</p>
+<table>
+<thead><tr><th>Approach</th><th>Example structure</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Subfolders</td><td>/en/ and /cy/ on one domain</td><td>Common and straightforward to manage; both languages share the domain's authority</td></tr>
+<tr><td>Separate domains</td><td>One domain for English, another for Welsh</td><td>Can give a strong identity to each language but doubles domain and SEO work</td></tr>
+<tr><td>Language toggle on the same URL</td><td>Content swaps without the URL changing</td><td>Generally best avoided, because search engines may struggle to index both versions</td></tr>
+</tbody>
+</table>
+<p>For most Cardiff businesses, subfolders are the practical default. Each page should link to its equivalent in the other language, and the language switcher should be in the same place on every page, usually top right, labelled in each language rather than with flags.</p>
+
+<h2>Translation workflow</h2>
+<p>The biggest risk with bilingual sites is not design, it is maintenance. If English pages are updated and Welsh pages are not, the site quickly becomes inconsistent. Questions to settle early include:</p>
+<ol>
+<li>Who translates content, and who checks it?</li>
+<li>How will new pages and edits be flagged for translation?</li>
+<li>Will forms, error messages, cookie notices and emails also be translated?</li>
+<li>How will images with text, PDFs and downloads be handled in both languages?</li>
+</ol>
+<p>Machine translation can help with drafts, but Welsh content intended for customers should be checked by a competent Welsh speaker. Poor translation can do more harm than having no translation at all.</p>
+<p>On WordPress, multilingual plugins can link pages across languages and manage the switcher. Shopify also supports multiple languages for stores. The right setup depends on how much content you have and who will maintain it.</p>
+
+<h2>SEO for Welsh and English</h2>
+<p>Search engines treat each language version as its own page. To help them serve the right one:</p>
+<ul>
+<li>Use hreflang tags so Google understands which pages are equivalents in English and Welsh.</li>
+<li>Write unique titles and meta descriptions in each language rather than leaving English metadata on Welsh pages.</li>
+<li>Translate URLs where it makes sense, so Welsh pages have Welsh slugs.</li>
+<li>Research how people actually search in Welsh, as phrasing may differ from a direct translation.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the location side, including your Google Business Profile, which can also include information in Welsh.</p>
+
+<h2>Websites for public sector suppliers</h2>
+<p>Cardiff has a large public sector presence, with the Welsh Government, local authorities, health bodies and universities all buying goods and services. Many local businesses, from construction and facilities firms to IT, consultancy and creative suppliers, compete for that work.</p>
+<p>A website will not win a tender on its own, since evaluation is based on the submission. But buyers and evaluators may look at a supplier's site to check who they are dealing with, and a clear, credible site can support your bid. Useful elements include:</p>
+<ul>
+<li><strong>Capability pages</strong> that describe exactly what you deliver and to whom.</li>
+<li><strong>Sector experience</strong> described accurately, with case studies only where you have permission to share them.</li>
+<li><strong>Policies</strong> buyers often ask about, such as environmental, equality, health and safety and modern slavery statements, where they apply to you.</li>
+<li><strong>Accreditations</strong> you genuinely hold, shown clearly.</li>
+<li><strong>Social value</strong> information, such as local employment, training or community work, kept factual.</li>
+<li><strong>Accessible design</strong>, which signals that you take inclusion seriously.</li>
+</ul>
+<p>Our guide to <a href="/blog/professional-services-seo-uk/">professional services SEO</a> covers how to present expertise and build trust online, which applies to many B2B suppliers.</p>
+
+<h2>Accessibility</h2>
+<p>Public sector bodies have specific accessibility regulations for their own websites. Private businesses are not bound by those same regulations, but the Equality Act 2010 places duties on service providers that may be relevant to digital services, and building to recognised accessibility standards is good practice regardless. Clear headings, good colour contrast, descriptive link text, keyboard navigation and alt text for images all help.</p>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility in the UK</a> explains the standards and how to test against them.</p>
+
+<h2>Other Cardiff sectors</h2>
+<p>Beyond the public sector, Cardiff businesses span hospitality around the city centre and Cardiff Bay, media and creative work, professional services and a large student population. Each of those has its own needs, but the principles of fast, mobile-friendly, clearly structured websites apply to all. Hospitality businesses may find our <a href="/blog/restaurant-website-design-uk/">restaurant website design guide</a> useful.</p>
+
+<h2>Keeping bilingual content consistent over time</h2>
+<p>Launch is the easy part of a bilingual site. The harder part is keeping both languages in step for years afterwards. A simple content log listing each page, its last update in each language and who is responsible can prevent drift. Some teams agree that no English change goes live until the Welsh version is ready, while others publish English first and set a clear deadline for the Welsh update. Either approach can work, as long as it is agreed and followed.</p>
+<p>It is also worth thinking about news, blog posts and social content. If you publish regularly in English only, be clear about that on the Welsh side of the site, rather than leaving visitors to discover gaps by accident.</p>
+
+<h2>Working with Prism Works Studio from Cardiff</h2>
+<p>Prism Works Studio has no office or staff in Cardiff. We work with businesses there remotely. We do not provide Welsh translation ourselves, so for bilingual projects we would plan the structure and build with your chosen translator or Welsh-speaking team supplying and checking the Welsh content.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build, and you can see how we scope projects on our <a href="/pricing/">pricing page</a>. To talk it through, book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is a bilingual website a legal requirement for businesses in Cardiff?</h3>
+<p>For most private businesses there is generally no blanket legal requirement, but public bodies have Welsh language duties and some organisations working with them may have obligations. Check guidance from the Welsh Language Commissioner or take advice for your situation.</p>
+<h3>What is the best structure for a Welsh and English website?</h3>
+<p>For most businesses, language subfolders on one domain, such as /en/ and /cy/, are the practical choice. Each page should link to its equivalent and use hreflang tags.</p>
+<h3>Can I use machine translation for Welsh pages?</h3>
+<p>It can help with drafts, but customer-facing Welsh content should be checked by a competent Welsh speaker. Poor translation can damage trust.</p>
+<h3>Does my website matter when bidding for public sector contracts?</h3>
+<p>Tenders are judged on the submission, but buyers may look at your site to understand who you are. Clear capability pages, accurate policies and accessible design can support your credibility.</p>
+<h3>Do private businesses have to meet accessibility standards?</h3>
+<p>The public sector accessibility regulations apply to public bodies, but the Equality Act 2010 may be relevant to private service providers. Building to recognised accessibility standards is good practice either way.</p>
+<h3>Does Prism Works Studio provide Welsh translation?</h3>
+<p>No. We plan and build bilingual sites, with your translator or Welsh-speaking team supplying and checking the Welsh content.</p>
+`,
+  },
+  {
+    slug: 'web-design-edinburgh',
+    seoTitle: 'Web Design Edinburgh: Tourism, Festivals and Finance Sites',
+    title: 'Web Design in Edinburgh: Websites for Tourism, Festival and Financial Services Businesses',
+    description: 'Web design for Edinburgh businesses in tourism, festivals and financial services: seasonal traffic, direct bookings, trust signals and compliant, clear content.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Edinburgh has to serve two very different kinds of business. On one side are hotels, guest houses, tour operators, venues and festival performers whose demand rises and falls with the seasons and the August calendar. On the other are financial services, legal and professional firms for whom trust, clarity and careful wording matter more than anything. A good Edinburgh website starts by knowing which of those audiences it is for. Prism Works Studio works with Edinburgh businesses remotely, planning and building sites over video calls and shared drafts.</p>
+<p>This guide covers what each type of business needs from its website, where the two overlap, and the questions worth asking before you commission a new site.</p>
+
+<h2>Tourism and hospitality: designing for visitors</h2>
+<p>Visitors to Edinburgh often plan on a phone, sometimes from abroad, sometimes while already walking between the Old Town, the New Town, Leith or Stockbridge. That shapes almost every design decision.</p>
+<ul>
+<li><strong>Mobile first, genuinely.</strong> Menus, booking buttons and maps should be easy to use with one thumb.</li>
+<li><strong>Location made obvious.</strong> Clear directions, nearest landmarks and transport links help people who do not know the city.</li>
+<li><strong>Booking direct.</strong> A prominent, simple booking route reduces reliance on third-party platforms and their commissions.</li>
+<li><strong>Clear policies.</strong> Cancellation terms, accessibility information and check-in details answered up front reduce emails and doubt.</li>
+<li><strong>Real photography.</strong> Photos of your actual rooms, tours or venue tend to build more confidence than stock images.</li>
+</ul>
+<p>Our guides on <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B website design</a> and <a href="/blog/hotel-direct-bookings-uk/">increasing hotel direct bookings</a> go deeper on booking flows and conversion.</p>
+
+<h2>Festival season and traffic spikes</h2>
+<p>Many Edinburgh businesses see a sharp change in demand around the summer festivals, Hogmanay and other events. A site that is fine for most of the year can slow down or confuse visitors at exactly the wrong moment.</p>
+<p>Things to plan for include:</p>
+<ol>
+<li><strong>Hosting that can handle peaks.</strong> Ask how your hosting copes with sudden increases in visitors, and what happens if it does not.</li>
+<li><strong>Seasonal content you can switch easily.</strong> Event listings, show times and special offers should be simple for your team to update without a developer.</li>
+<li><strong>Light pages.</strong> Large images and video should be compressed so pages still load on busy mobile networks in crowded streets.</li>
+<li><strong>Clear sold-out and availability messages.</strong> Saving people a wasted click is good for your reputation.</li>
+</ol>
+<p>For performers, producers and small venues, a simple, fast site with show details, dates, press quotes you are entitled to use and a clear ticket link can matter as much as listings elsewhere. Keep it updated after the festival too, so it keeps working for future bookings.</p>
+
+<h2>Restaurants, bars and attractions</h2>
+<p>Food and drink businesses and visitor attractions sit between tourism and local trade. Menus should be readable on a phone as text rather than a PDF, opening hours should be accurate on both the website and your Google Business Profile, and booking or ticketing should take as few steps as possible. Our <a href="/blog/restaurant-website-design-uk/">restaurant website design guide</a> covers this in more detail.</p>
+
+<h2>Financial services: designing for trust</h2>
+<p>Edinburgh is well known for financial services, from investment and pensions to insurance and fintech, alongside a strong professional services community. For these firms, a website is often the first test of credibility. A prospective client or partner wants to understand who you are, what you do, whether you are regulated and how to get in touch.</p>
+<table>
+<thead><tr><th>Element</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Plain-English service pages</td><td>Visitors should understand what you do without decoding jargon</td></tr>
+<tr><td>Regulatory information</td><td>Where a firm is regulated, its status and required disclosures should be easy to find, usually in the footer and on a dedicated page</td></tr>
+<tr><td>People and expertise</td><td>Accurate profiles help visitors judge who they would be dealing with</td></tr>
+<tr><td>Accessible design</td><td>Clear type, good contrast and keyboard-friendly navigation help all visitors, including older clients</td></tr>
+<tr><td>Careful claims</td><td>Statements about returns, performance or outcomes need to be accurate and appropriately qualified</td></tr>
+</tbody>
+</table>
+<p>Regulated firms should check website content against their own compliance requirements. If your firm is authorised by the Financial Conduct Authority, its rules on financial promotions may apply to some website content, so it is sensible for your compliance team or adviser to review copy before launch. A web designer can build the structure, but sign-off on regulated wording should sit with the firm.</p>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility in the UK</a> explains the standards worth building to, which are especially relevant if your clients include older or vulnerable people.</p>
+
+<h2>Where the two worlds overlap</h2>
+<p>Whether you run a guest house in Leith or an advisory firm near the West End, some principles apply to every Edinburgh website:</p>
+<ul>
+<li>Fast, well-structured pages that are easy to read on any device.</li>
+<li>Accurate contact details, opening hours and location on the site and your Google Business Profile.</li>
+<li>Content written for the questions people actually ask, which also helps with AI search answers.</li>
+<li>A clear next step on every page, whether that is booking, calling or sending an enquiry.</li>
+<li>Privacy and cookie notices that reflect what the site actually does, in line with Information Commissioner's Office guidance.</li>
+</ul>
+
+<h2>SEO for Edinburgh businesses</h2>
+<p>Tourism searches are competitive and often dominated by large booking and review platforms. Smaller businesses usually do better by targeting specific needs, such as a type of accommodation in a particular neighbourhood, a niche tour or an accessible venue, rather than broad terms.</p>
+<p>Financial and professional firms tend to benefit from authoritative service pages and helpful guides that answer real client questions. In both cases a well-maintained Google Business Profile, consistent business details and genuine reviews support local visibility. Our <a href="/blog/hotel-seo-uk/">hotel SEO guide</a> and <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explain the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>WordPress suits most tourism, hospitality and professional sites because content is easy to update and booking or ticketing tools can be connected. Squarespace or Wix can work for very small sites, though they offer less flexibility as you grow. If you sell gift vouchers, merchandise or products, Shopify or WooCommerce can handle the store side.</p>
+
+<h2>Multilingual visitors</h2>
+<p>Edinburgh attracts visitors from all over the world. Some tourism businesses add key information in other languages, such as booking terms, directions and essential policies. If you do, keep translations accurate and maintained, and use a proper multilingual structure with hreflang tags rather than an automatic translation widget, so search engines can index each version. Start small with the languages your guests most often use, and expand only if you can keep the content up to date.</p>
+
+<h2>Working with Prism Works Studio from Edinburgh</h2>
+<p>Prism Works Studio has no office or staff in Edinburgh. We work with businesses there remotely, which suits website projects well: discovery, design reviews and training all happen over video calls, and you review drafts in your own time.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build, and our <a href="/pricing/">pricing page</a> explains how projects are scoped. To talk about your site, book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>Questions to ask before you start</h2>
+<ul>
+<li>How will the site handle seasonal traffic peaks?</li>
+<li>Can our team update events, menus or offers without help?</li>
+<li>How will direct booking or enquiry routes be made prominent?</li>
+<li>Where will regulatory or policy information sit, and who signs off the wording?</li>
+<li>How will accessibility be tested before launch?</li>
+<li>Will we own the domain, hosting and admin logins?</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Can a website really help an Edinburgh hotel get more direct bookings?</h3>
+<p>A clear, fast site with a simple booking route and accurate information can make booking direct easier and more appealing. Results vary, but removing friction is usually the first step.</p>
+<h3>How should a festival performer or venue use their website?</h3>
+<p>Keep it simple: show details, dates, a clear ticket link, genuine press quotes and contact details for bookers. Update it promptly, and keep it live after the festival for future enquiries.</p>
+<h3>What should a financial services website include?</h3>
+<p>Plain-English service pages, accurate team profiles, easy-to-find regulatory information where relevant, accessible design and a clear way to get in touch. Regulated wording should be reviewed by the firm's compliance lead.</p>
+<h3>Does my website need to follow FCA rules?</h3>
+<p>If your firm is FCA authorised, some website content may count as a financial promotion and could fall under its rules. Check with your compliance team or adviser, as requirements depend on your permissions and content.</p>
+<h3>Do you have an office in Edinburgh?</h3>
+<p>No. Prism Works Studio works with Edinburgh businesses remotely, using video calls and shared documents throughout the project.</p>
+<h3>Which platform is best for an Edinburgh tourism business?</h3>
+<p>WordPress is a flexible choice for most, as it connects to booking tools and is easy to update. Very small sites may suit Squarespace or Wix, and Shopify can handle vouchers or merchandise.</p>
+`,
+  },
+  {
+    slug: 'web-design-nottingham',
+    seoTitle: 'Web Design Nottingham: Retail and Student-Focused Sites',
+    title: 'Web Design in Nottingham: Websites for Retailers and Businesses Serving Students',
+    description: 'Web design for Nottingham retailers and student-facing businesses: mobile-first pages, click and collect, term-time demand and clear local search signals.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Nottingham for a retailer or a business that relies on students is mostly about timing and convenience. Shoppers want to know whether you have what they need and when they can get it. Students want to find you quickly on a phone, understand the offer and act, often at particular points in the academic year. A website built around those habits will usually outperform a prettier one that ignores them. Prism Works Studio works with Nottingham businesses remotely, planning and building sites over video calls and shared drafts.</p>
+<p>Nottingham combines a busy city centre retail area, independent shopping in places such as Hockley and the Lace Market, neighbourhood high streets and two large universities with their own surrounding communities in areas such as Lenton and Beeston. This guide looks at what retailers and student-facing businesses need from their websites, and the questions worth asking before a rebuild.</p>
+
+<h2>Retail websites that bring people through the door</h2>
+<p>Not every shop needs a full online store. For many independents, the website's main job is to get people to visit. That means answering practical questions quickly:</p>
+<ul>
+<li><strong>Where are you, and when are you open?</strong> Accurate opening hours, including holiday changes, on both the site and your Google Business Profile.</li>
+<li><strong>What do you sell?</strong> Category pages or a product showcase, even if you do not sell online.</li>
+<li><strong>Is it in stock?</strong> If you can show stock, it can save a wasted journey; if you cannot, make it easy to ask.</li>
+<li><strong>Can I collect or get it delivered?</strong> Clear options for click and collect, local delivery or postal orders where you offer them.</li>
+<li><strong>How do I get there?</strong> Directions, nearest tram or bus stops and parking information.</li>
+</ul>
+<p>If you do sell online, connecting shop and website stock avoids overselling. Our <a href="/blog/shopify-pos-uk-retail/">Shopify POS guide for UK retail</a> explains how that can work, and our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> covers store structure and product pages.</p>
+
+<h2>Click and collect and local delivery</h2>
+<p>For a city retailer, click and collect can be a practical middle ground between a shop and a full ecommerce operation. Customers reserve or buy online and pick up in store, which can lead to extra purchases when they visit. Shopify, WooCommerce, Squarespace and Wix all offer ways to set up local pickup, with varying flexibility.</p>
+<p>A few details make a big difference:</p>
+<ol>
+<li>Tell customers exactly when their order will be ready and how they will be notified.</li>
+<li>Explain where to collect inside the shop and what to bring.</li>
+<li>Set collection windows that match your staffing.</li>
+<li>Keep returns information clear for both in-store and online purchases.</li>
+</ol>
+
+<h2>Designing for students</h2>
+<p>Businesses that serve students include letting agents and student accommodation, cafes, takeaways, gyms, hairdressers, bike shops, tutoring services, print shops and many more. Students are a distinct audience with predictable patterns.</p>
+<table>
+<thead><tr><th>Student need</th><th>What the website should do</th></tr></thead>
+<tbody>
+<tr><td>Phone-first browsing</td><td>Fast, thumb-friendly pages with tap-to-call, maps and booking buttons</td></tr>
+<tr><td>Price awareness</td><td>Clear prices or a link to them, and any student discount explained simply</td></tr>
+<tr><td>Quick decisions</td><td>Short pages, obvious next steps and no unnecessary form fields</td></tr>
+<tr><td>Social proof</td><td>Genuine reviews, collected and displayed honestly</td></tr>
+<tr><td>Location</td><td>Distance or directions from campus areas and main student neighbourhoods</td></tr>
+</tbody>
+</table>
+<p>Student discounts should be described accurately, with any conditions shown clearly. If you mention a discount scheme, only name schemes you actually take part in.</p>
+
+<h2>Planning around the academic year</h2>
+<p>Student demand tends to follow the calendar. A website that changes with it can stay relevant all year:</p>
+<ul>
+<li><strong>Before arrivals:</strong> new students and parents researching accommodation, essentials and services.</li>
+<li><strong>Welcome period:</strong> offers, opening events and sign-ups.</li>
+<li><strong>Term time:</strong> regular services, bookings and repeat visits.</li>
+<li><strong>Exams:</strong> extended hours, quiet study spaces, food delivery or printing.</li>
+<li><strong>Summer:</strong> quieter months, which may be a time to target local residents, visitors or next year's students.</li>
+</ul>
+<p>Build the site so your team can change banners, offers and opening hours easily, without waiting for a developer. That flexibility matters more than any single design choice.</p>
+
+<h2>Letting agents and student housing</h2>
+<p>Student lettings are a significant part of the Nottingham market. A lettings website should make properties easy to search by area, number of bedrooms and price, show accurate photos and floor plans and make viewing requests simple. Required information, such as fees and material information about properties, should be presented in line with current guidance. Our <a href="/blog/marketing-agency-for-startups-uk/">guide for startups</a> may also help newer letting or student services businesses think about early marketing priorities.</p>
+
+<h2>Food, drink and hospitality</h2>
+<p>Cafes, bars and restaurants serving both students and city centre shoppers should prioritise a text-based menu that reads well on a phone, accurate hours, simple table booking and clear allergen information routes. Our <a href="/blog/restaurant-website-design-uk/">restaurant website design guide</a> covers this in more depth, and our <a href="/blog/restaurant-marketing-uk/">restaurant marketing guide</a> looks beyond the website.</p>
+
+<h2>Local SEO in Nottingham</h2>
+<p>For retail and student-facing businesses, local search is often where enquiries start. A complete Google Business Profile, consistent name, address and phone details, genuine reviews and pages that mention the areas you serve all help. If you serve several neighbourhoods, a page for each can work, but only if each one has genuinely useful content rather than repeated text.</p>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the essentials, and our <a href="/blog/small-business-website-checklist/">small business website checklist</a> covers the basics every site should have.</p>
+
+<h2>Speed and mobile performance</h2>
+<p>Retail and student audiences are heavily mobile. Large product images, pop-ups and heavy scripts can slow pages and frustrate visitors. Compressing images, limiting pop-ups and testing on real phones before launch all help. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains how Google measures page experience.</p>
+
+<h2>Gift cards, loyalty and repeat visits</h2>
+<p>Retailers and student-facing businesses often rely on repeat custom. A website can support that in simple ways: selling gift cards online, explaining a loyalty scheme clearly, or collecting email sign-ups with consent for occasional offers and news. Keep any sign-up form short, explain what people will receive and how often, and follow Information Commissioner's Office guidance on consent for marketing emails.</p>
+<p>Shopify, WooCommerce and Squarespace can all sell digital gift cards in some form, and many point-of-sale systems can redeem them in store. Check that the setup works in both places before you promote it.</p>
+<h2>Content that answers local questions</h2>
+<p>A short, useful article can attract the right visitors for months. A bike shop might explain how to secure a bike in a student house, a print shop might cover dissertation binding deadlines and options, and a gift shop might suggest ideas for graduation week. Content like this answers real questions, gives search engines and AI tools something specific to surface and shows that you understand your customers. Keep it practical, accurate and updated each year where dates or details change.</p>
+<h2>Before you rebuild</h2>
+<p>Before replacing an existing site, list the pages that bring in visitors and enquiries today and make sure they are kept or redirected properly. Losing well-ranked pages during a rebuild is an avoidable mistake, and it can take time to recover.</p>
+
+<h2>Working with Prism Works Studio from Nottingham</h2>
+<p>Prism Works Studio has no office or staff in Nottingham. We work with businesses there remotely, which suits most website projects: discovery, design reviews and training happen over video calls, and you review drafts in your own time.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build, and our <a href="/pricing/">pricing page</a> explains how projects are scoped. To discuss your site, book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does a Nottingham shop need an online store?</h3>
+<p>Not always. Many independents mainly need a website that shows what they sell, their opening hours and location. Click and collect or a small online range can be added later if it suits the business.</p>
+<h3>What is the best platform for click and collect?</h3>
+<p>Shopify, WooCommerce, Squarespace and Wix all support local pickup in some form. The best choice depends on your product range, whether you need in-store stock syncing and who will manage the site.</p>
+<h3>How should a business design a website for students?</h3>
+<p>Design for phones first, keep pages short and make prices, discounts and booking options obvious. Plan content around the academic year so offers and hours stay relevant.</p>
+<h3>Should I create separate pages for different Nottingham areas?</h3>
+<p>Only if each page has genuinely useful, unique content for that area. Thin pages with swapped place names are unlikely to help and can make the site look low quality.</p>
+<h3>How can a website help in the quieter summer months?</h3>
+<p>Easy-to-edit banners and pages let you shift focus to local residents, visitors or next year's students, without needing a developer for every change.</p>
+<h3>Do you have an office in Nottingham?</h3>
+<p>No. Prism Works Studio works with Nottingham businesses remotely throughout the project.</p>
+`,
+  },
+  {
+    slug: 'web-design-sheffield',
+    seoTitle: 'Web Design Sheffield: Sites for Manufacturers and Engineers',
+    title: 'Web Design in Sheffield: Websites for Manufacturing and Engineering Firms',
+    description: 'Web design for Sheffield manufacturers and engineering firms: capability pages, technical specs, quote forms and SEO that help buyers and engineers find you.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Good web design in Sheffield for a manufacturing or engineering firm is less about flashy visuals and more about helping a technical buyer decide, in a couple of minutes, whether you can make the part, meet the standard and deliver on time. That means clear capability pages, honest detail about materials and processes, visible accreditations and a quote request that does not feel like a chore. Prism Works Studio works with Sheffield businesses remotely, so you get the same planning and build process wherever your workshop or unit happens to be.</p>
+<p>Sheffield has a long industrial identity, and plenty of firms across areas such as Attercliffe, the Lower Don Valley, Tinsley and the Advanced Manufacturing Park corridor towards Rotherham still trade on precision, metals and engineering know-how. Many of those businesses win work through relationships and repeat orders, and their websites have not kept pace. This guide covers what a modern industrial website should do, how to structure it for search, and what to ask before you commission one.</p>
+
+<h2>Why industrial websites often underperform</h2>
+<p>Many engineering websites were built years ago as an online brochure: a homepage, an about page, a list of machines and a contact form. That made sense when most enquiries came by phone from people who already knew the firm. Today a procurement officer, design engineer or purchasing manager will often search first, compare several suppliers and only then pick up the phone.</p>
+<p>The common problems are easy to spot:</p>
+<ul>
+<li><strong>Vague service descriptions</strong> such as "precision engineering solutions" that do not say what you actually make.</li>
+<li><strong>Machine lists without context</strong>, so a buyer cannot tell what sizes, materials or volumes you handle.</li>
+<li><strong>Certifications buried</strong> in a footer or a PDF, when they are often a shortlisting requirement.</li>
+<li><strong>Slow, image-heavy pages</strong> that struggle on a phone in a busy factory.</li>
+<li><strong>No clear route to a quote</strong>, or a form that asks for everything before the buyer knows if you are a fit.</li>
+</ul>
+<p>For a deeper look at the sector in general, our guide to <a href="/blog/manufacturer-website-design-uk/">manufacturer website design in the UK</a> covers structure and content for industrial firms across the country.</p>
+
+<h2>What a Sheffield engineering website should include</h2>
+<p>Every firm is different, but most industrial sites benefit from the same core building blocks. Think of them as the questions a buyer will ask, answered in the order they ask them.</p>
+<table>
+<thead><tr><th>Page or section</th><th>What it should answer</th></tr></thead>
+<tbody>
+<tr><td>Capability pages</td><td>Each process you offer, such as CNC machining, fabrication, heat treatment or toolmaking, with materials, size ranges and typical applications</td></tr>
+<tr><td>Sector pages</td><td>Industries you supply, such as aerospace, rail, energy, medical or construction, and how your work fits their requirements</td></tr>
+<tr><td>Quality and accreditations</td><td>Standards you hold, inspection equipment and how you document quality</td></tr>
+<tr><td>Equipment</td><td>Key machines grouped by capability, with practical limits rather than just model names</td></tr>
+<tr><td>Case studies</td><td>Real projects you are allowed to describe, focusing on the problem and the outcome in plain terms</td></tr>
+<tr><td>Request a quote</td><td>A short form with optional drawing upload, plus a phone number for people who prefer to talk</td></tr>
+</tbody>
+</table>
+<p>Only list accreditations and case studies you can back up. A buyer who checks and finds a mismatch will usually move on, and it can undermine trust in everything else on the site.</p>
+
+<h2>Writing for engineers and buyers at the same time</h2>
+<p>Industrial websites have two audiences. Engineers want specifics: tolerances, materials, finishes, batch sizes. Buyers and managers want reassurance: lead times, quality systems, capacity and someone responsive to deal with. The best pages serve both by leading with a plain summary and then giving the technical detail below.</p>
+<p>A useful pattern for each capability page is:</p>
+<ol>
+<li>A one-paragraph summary of what you do and who it is for.</li>
+<li>A short table of materials, sizes and typical tolerances you are comfortable quoting.</li>
+<li>Examples of parts or assemblies, with photos you own.</li>
+<li>Related capabilities, so a buyer can see you can handle more of the job.</li>
+<li>A clear call to action to send a drawing or ask a question.</li>
+</ol>
+<p>This structure also helps search engines and AI search tools understand exactly what each page covers, which makes it more likely to be shown for specific queries.</p>
+
+<h2>SEO for Sheffield manufacturers</h2>
+<p>Search demand in industrial niches is often small but valuable. A handful of the right enquiries can be worth more than thousands of casual visitors. That changes how you approach SEO.</p>
+<ul>
+<li><strong>Target process plus material plus place.</strong> Searches that combine a process, a material and a location tend to come from people with a real job to place.</li>
+<li><strong>Do not rely only on "Sheffield" terms.</strong> Many Sheffield firms supply customers across the UK and abroad, so capability pages should be written for national searches too.</li>
+<li><strong>Keep your Google Business Profile accurate.</strong> Opening hours, categories and photos help local buyers and visitors find the right entrance.</li>
+<li><strong>Get the technical basics right.</strong> Fast pages, clean URLs, sensible headings and an XML sitemap matter as much here as anywhere.</li>
+</ul>
+<p>If local visibility matters, our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the essentials. For firms that sell mainly to other businesses, the ideas in our <a href="/blog/professional-services-seo-uk/">professional services SEO guide</a> on authority and trust also carry across well.</p>
+
+<h2>Speed, mobile and the shop floor</h2>
+<p>It is tempting to assume industrial buyers sit at desktops. Some do, but plenty of people check suppliers on a phone between meetings or on site. Large uncompressed photos of machinery, auto-playing video and heavy sliders can make pages slow on mobile connections.</p>
+<p>Practical steps include compressing images, using modern formats, lazy-loading anything below the fold and keeping scripts to a minimum. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains the measures Google uses to judge page experience and how to improve them.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most manufacturing and engineering sites do not need a complex system. WordPress with a lightweight theme and the block editor suits the majority, because it is easy for your team to add news, case studies and new capability pages. If you sell standard parts, spares or consumables online, a store on Shopify or WooCommerce can sit alongside the main site or be built into it.</p>
+<p>Whatever you choose, make sure you own the domain, hosting account and admin logins. Our guide to <a href="/blog/wordpress-small-business-website/">WordPress for small business websites</a> covers the basics of keeping that ownership clean.</p>
+
+<h2>Drawings, file uploads and confidentiality</h2>
+<p>Many quote requests involve drawings or CAD files. A good quote form lets people upload a file, explains which formats you accept and tells them what happens next. It is worth thinking about where uploaded files are stored, who can see them and how long you keep them, especially if customers send commercially sensitive designs.</p>
+<p>Make sure your privacy notice explains how you handle personal data submitted through forms, in line with UK GDPR guidance from the Information Commissioner's Office. Our article on <a href="/blog/website-contact-forms/">website contact forms</a> covers form design and the details that tend to reduce drop-off.</p>
+
+<h2>Recruitment pages are part of the job</h2>
+<p>Skilled staff are often as hard to find as new customers. A careers page that shows the workshop, explains apprenticeships or training and lists current roles can support hiring as well as sales. Keep it simple, keep it updated and remove roles once they are filled.</p>
+
+<h2>Working with Prism Works Studio from Sheffield</h2>
+<p>Prism Works Studio does not have an office in Sheffield. We work with businesses there remotely, using video calls, shared documents and screen sharing for planning and reviews. For most website projects that works well, because the important inputs are your knowledge of your processes and customers, your photos and your feedback on drafts.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how we price projects on our <a href="/pricing/">pricing page</a>, and if you want to talk through what your site needs, book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>Questions to ask before you commission a site</h2>
+<ul>
+<li>Will each capability and sector have its own page?</li>
+<li>How will technical detail be presented so engineers can scan it?</li>
+<li>Who writes the content, and how will you capture what we actually do?</li>
+<li>How will the quote form handle drawing uploads?</li>
+<li>Do we own the domain, hosting and logins?</li>
+<li>What happens to existing rankings and URLs when the new site launches?</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Do I need a Sheffield-based web designer for my engineering firm?</h3>
+<p>Not necessarily. What matters most is that the designer understands how technical buyers search and decide. Prism Works Studio works with Sheffield firms remotely, and most of the process happens over video calls and shared drafts.</p>
+<h3>What pages should an engineering company website have?</h3>
+<p>Most benefit from separate capability pages, sector pages, a quality and accreditations page, an equipment overview, case studies you are permitted to share and a simple quote request with optional file upload.</p>
+<h3>Should I list my machines on my website?</h3>
+<p>Yes, but group them by capability and explain the practical limits, such as maximum part size or materials, rather than only listing model names. Buyers want to know what you can make.</p>
+<h3>Can a manufacturer's website win national work, not just local?</h3>
+<p>It can. Capability pages written around process and material terms can rank for searches across the UK, while location pages and your Google Business Profile support local visibility.</p>
+<h3>Is WordPress suitable for an industrial website?</h3>
+<p>For most manufacturers, yes. A lightweight WordPress build is easy to update with case studies and news. If you sell standard parts online, Shopify or WooCommerce can be added.</p>
+<h3>How much does a website for an engineering firm cost?</h3>
+<p>It depends on the number of pages, content needs and any ecommerce or integrations. See our pricing page for how projects are scoped, or book a discovery call for a written quote.</p>
+`,
+  },
 ];
