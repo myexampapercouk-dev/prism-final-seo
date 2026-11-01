@@ -37208,4 +37208,523 @@ module.exports = [
 <p>Widgets and sidebars are small parts of a site, but they affect how easy it is for visitors to find their way around. If you would like help reviewing your layouts, rebuilding widget areas in a block theme or tidying up an older WordPress site, Prism Works Studio can help. See our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'shopify-order-fulfilment-workflow',
+    seoTitle: 'Shopify Order Fulfilment Workflow: A Practical Guide',
+    title: 'Shopify Order Fulfilment Workflow: From New Order to Delivered Parcel',
+    description: 'A practical guide to the Shopify order fulfilment workflow: order statuses, picking and packing, partial fulfilment, tracking, returns and staff routines.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-inventory-management/', '/blog/shopify-staff-accounts-and-permissions/'],
+    body: `
+<p>Taking an order is only half the job. Once a customer pays, someone has to check the order, find the right items, pack them, hand them to a carrier and tell the customer what is happening. In Shopify, this is called fulfilment, and the admin gives you a fair amount of structure to work with. The difficulty is that the tools are flexible, so two shops can use them in very different ways, and a loose routine can lead to missed orders, duplicate dispatches or confused customers.</p>
+<p>This guide walks through a practical Shopify order fulfilment workflow for shops that pack and send their own orders. It explains what the order statuses mean, how to structure the daily routine, how to handle awkward cases such as partial shipments and held orders, and how to keep customers informed. It does not cover choosing a carrier or warehouse partner in detail, and features can vary by plan and region, so check what is available in your own admin.</p>
+
+<h2>Understanding Shopify order statuses</h2>
+<p>Every Shopify order carries more than one status, and mixing them up is a frequent cause of confusion. The two that matter most for fulfilment are:</p>
+<ul>
+<li><strong>Payment status.</strong> Whether the order has been paid, is pending, partially paid, authorised but not yet captured, refunded or partially refunded.</li>
+<li><strong>Fulfilment status.</strong> Whether the items have been sent. An order can be unfulfilled, partially fulfilled, fulfilled, or in some cases on hold or scheduled.</li>
+</ul>
+<p>These run independently. An order can be paid but unfulfilled, which is the normal state for a new order waiting to be packed. It can also be fulfilled but later refunded, or authorised but not yet captured if your payment settings capture payment manually. Before anything leaves the building, the person packing should be confident that the payment status is what you expect.</p>
+<p>Orders are also either open, archived or cancelled. Shopify can archive orders automatically once they are fulfilled and paid, which keeps the main list tidy. If you prefer to archive manually, you can change that in the order processing settings. Our guide to <a href="/blog/shopify-checkout-settings/">Shopify checkout settings</a> covers several of the related options.</p>
+
+<h2>Setting up your fulfilment foundations</h2>
+<p>A few settings are worth checking before you design the daily routine.</p>
+<h3>Locations</h3>
+<p>Shopify uses locations to know where stock is held and where orders are fulfilled from. If you pack from a single unit or spare room, you may only have one location. If you hold stock in more than one place, such as a shop and a storeroom, each location should be set up properly so orders are assigned sensibly. Location setup is closely tied to stock levels, which our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> covers in more depth.</p>
+<h3>Shipping profiles and rates</h3>
+<p>The shipping rates customers see at checkout come from your shipping profiles. These should reflect how you actually send parcels. If a customer pays for a tracked next-day option but your routine only sends standard post, the problem starts at checkout, not in the packing area.</p>
+<h3>Automatic or manual fulfilment</h3>
+<p>Shopify lets you choose whether to fulfil items automatically or manually. Automatic fulfilment can suit digital products or services where nothing physical is sent. For physical products, manual fulfilment is usually safer, because it means an order is only marked as fulfilled once someone has actually packed it.</p>
+<h3>Customer notifications</h3>
+<p>Shopify sends notification emails at various points, including order confirmation and shipping confirmation. Review these templates so the wording matches your brand and your real process. If you say parcels go out the same day, make sure that is true.</p>
+
+<h2>A daily fulfilment routine</h2>
+<p>The most reliable fulfilment workflows are boring and repeatable. The following outline is a starting point that you can adapt to your own shop.</p>
+<h3>Review new orders</h3>
+<p>Start by filtering the orders list to show unfulfilled, paid orders. Saved views make this quicker, so it is worth creating one for the routine. Look over each order for anything unusual:</p>
+<ul>
+<li>Order notes or gift messages that need action.</li>
+<li>Shipping addresses that look incomplete or odd.</li>
+<li>Fraud analysis indicators, where shown, that suggest a closer look.</li>
+<li>Mixed orders containing items that are out of stock or made to order.</li>
+</ul>
+<p>If an order needs checking, add a tag or a note so it does not get packed by accident. Our guide to <a href="/blog/shopify-gift-wrapping-and-order-notes/">gift wrapping and order notes</a> explains how to make special instructions easier to spot.</p>
+<h3>Pick the items</h3>
+<p>Picking means collecting the right products from your shelves. For small shops, working from the order screen may be enough. As volume grows, a printed or on-screen packing slip that lists items by SKU and location saves time. Shopify includes packing slip templates you can edit, so it is worth adding the information your team actually needs, such as SKU and variant.</p>
+<h3>Pack and check</h3>
+<p>Before sealing a parcel, check the contents against the packing slip. This single habit catches many errors. Include anything the customer should receive in the box, such as a returns note, care instructions or a gift message.</p>
+<h3>Create the shipment and add tracking</h3>
+<p>Next, mark the items as fulfilled. If you buy labels through Shopify, where available, the tracking number is usually added for you. If you use a carrier's own system, add the tracking number and carrier to the fulfilment manually so the customer receives a useful shipping confirmation.</p>
+<h3>Hand over and close the day</h3>
+<p>Once parcels are collected or dropped off, a final glance at the unfulfilled list helps confirm nothing was missed. Any orders still waiting should have a clear reason, such as a tag for awaiting stock.</p>
+
+<h2>Partial fulfilment and split shipments</h2>
+<p>Sometimes you cannot send everything at once. One item may be out of stock, or a made-to-order product may take longer than the rest. Shopify allows you to fulfil some items in an order and leave others unfulfilled. The order then shows as partially fulfilled.</p>
+<p>Before splitting a shipment, think about the customer. Two parcels can mean extra postage cost for you and confusion for them. If you do split, say so clearly. Shopify sends a shipping confirmation for each fulfilment, but a short personal note explaining that the rest is on its way can prevent a worried email.</p>
+<p>If you regularly sell items that ship later than the rest of your range, look at how you present them at checkout. Our guide to <a href="/blog/shopify-pre-orders/">Shopify pre-orders</a> covers how to set expectations before the customer pays.</p>
+
+<h2>Holding orders</h2>
+<p>There are good reasons not to send an order straight away. The address may need confirming, the payment may need reviewing, or the customer may have asked you to wait. Depending on your setup, Shopify can place fulfilment on hold so the order is clearly marked as not ready to pack. Where that is not suitable, a consistent tag such as a hold tag, combined with a saved view that excludes tagged orders, does a similar job.</p>
+<p>Whatever method you use, agree who is responsible for releasing held orders and how often they are reviewed. Held orders that nobody owns can sit untouched for longer than anyone intended.</p>
+
+<h2>Local delivery and collection</h2>
+<p>If customers can collect from your premises or receive local delivery, those orders follow a slightly different path. Instead of a carrier label, the key step is letting the customer know the order is ready, then marking it as collected or delivered. Our guide to <a href="/blog/shopify-local-pickup/">Shopify local pickup</a> covers the set-up and the notifications involved.</p>
+
+<h2>Working with third-party fulfilment</h2>
+<p>Some shops hand fulfilment to a warehouse or fulfilment partner. In that case, Shopify passes orders to the partner, who picks, packs and sends them, then updates the order with tracking. Your role shifts from packing to monitoring. You still need to watch for orders that are stuck, check that tracking is being added, and make sure stock levels stay in step. The workflow principles in this guide still apply; only the person doing each step changes.</p>
+
+<h2>Staff roles and permissions</h2>
+<p>If more than one person handles orders, decide who can do what. A packer may need to view and fulfil orders but not issue refunds or change settings. Shopify allows you to set permissions for each staff account, so you can give people access to what they need without opening up the whole admin. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to approach this.</p>
+<p>A short written procedure helps too. It does not need to be long: a page describing the daily steps, the tags you use and what to do when something looks wrong is often enough. It also makes holiday cover far easier.</p>
+
+<h2>Returns, exchanges and refunds</h2>
+<p>Fulfilment does not always end at delivery. Customers return items, ask for exchanges or report damage. Shopify includes tools for creating returns and issuing refunds from the order screen, and these keep the order history accurate.</p>
+<p>Consumer law gives online shoppers certain rights to cancel and return goods, and there are rules about how refunds are handled. The details depend on the product and circumstances, so it is sensible to check current guidance or take advice rather than relying on a general summary. Make sure your returns policy is easy to find, and that your process matches what the policy says. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> touches on where these policies should sit on your site.</p>
+<p>When a return arrives, check the item, decide whether it can go back into stock, and restock it in Shopify if so. Forgetting to restock is an easy way for inventory counts to drift.</p>
+
+<h2>Keeping customers informed</h2>
+<p>Most order-related customer emails are some form of where is my parcel. Clear communication reduces them. Useful steps include:</p>
+<ul>
+<li>Stating realistic dispatch times on product pages and in the cart.</li>
+<li>Making sure shipping confirmation emails include working tracking links.</li>
+<li>Giving the order status page clear wording about what happens next.</li>
+<li>Explaining delays proactively rather than waiting to be asked.</li>
+</ul>
+<p>The order status page that customers reach from their confirmation email is part of the experience. It is worth checking how it looks on a phone and whether it answers the obvious questions.</p>
+
+<h2>Reviewing and improving the workflow</h2>
+<p>Every so often, step back and look at where things go wrong. Are certain products often packed incorrectly? Are notes being missed? Does the packing slip leave out something the packer needs? Small changes, such as a clearer SKU, a better saved view or an extra line on the packing slip, often make the biggest difference.</p>
+<p>If your shop has grown and the admin feels cluttered, it can also be worth reviewing the apps connected to orders. Our <a href="/blog/shopify-apps-audit/">Shopify apps audit</a> guide covers how to check what each connected tool is doing.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify stores for UK businesses. We can help you review your order settings, notifications, packing slips and staff access so the admin supports the way you actually work. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What does fulfilled mean in Shopify?</h3>
+<p>An order is marked as fulfilled when all its physical items have been recorded as sent. It is separate from payment status, so an order can be paid and unfulfilled, or fulfilled and later refunded.</p>
+<h3>Should I use automatic fulfilment in Shopify?</h3>
+<p>Automatic fulfilment can suit digital products. For physical goods, manual fulfilment is usually safer because orders are only marked as sent once someone has packed them.</p>
+<h3>Can I send part of a Shopify order?</h3>
+<p>Yes. You can fulfil some items and leave the rest unfulfilled, and the order will show as partially fulfilled. Tell the customer clearly so they know more is coming.</p>
+<h3>How do I stop an order being packed by mistake?</h3>
+<p>Use the hold option where your setup supports it, or add a consistent tag and exclude tagged orders from the saved view your packers work from.</p>
+<h3>Do I need to add tracking numbers in Shopify?</h3>
+<p>Adding tracking is strongly recommended. It lets customers follow their parcel from the shipping confirmation email and tends to reduce delivery questions.</p>
+`,
+  },
+  {
+    slug: 'shopify-product-tags',
+    seoTitle: 'Shopify Product Tags: How to Use Them Well',
+    title: 'Shopify Product Tags: A Practical Guide to Naming, Using and Tidying Them',
+    description: 'How to use Shopify product tags well: what they do, naming conventions, automated collections, search and filtering, and keeping your tag list tidy.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-collections-structure/', '/blog/shopify-metafields-guide/'],
+    body: `
+<p>Product tags are one of the simplest features in Shopify. You type a word or short phrase into a box on the product page, press enter, and the tag is saved. Because they are so easy to add, tags often grow without a plan. A few years in, a store can have several versions of the same tag, half of which do nothing, and nobody is sure which ones are safe to remove.</p>
+<p>This guide explains what Shopify product tags do, where they are useful, where another feature may be a better fit, and how to keep them under control. It is aimed at store owners and the people who manage products day to day.</p>
+
+<h2>What Shopify product tags are</h2>
+<p>A product tag is a free-text label attached to a product. A product can have many tags, and the same tag can be used on many products. Tags are not visible to customers by default, although some themes display them or use them behind the scenes.</p>
+<p>Shopify also allows tags on other things, such as orders, customers and draft orders. This guide focuses on product tags, but the same principles of naming and consistency apply elsewhere. Our guide to <a href="/blog/shopify-draft-orders/">Shopify draft orders</a> shows one place where order tags can be useful.</p>
+
+<h2>What tags are useful for</h2>
+<h3>Automated collections</h3>
+<p>The most important use of product tags is in automated collections. An automated collection includes every product that meets a set of conditions, and product tag is one of the conditions you can use. For example, a collection of gifts could include every product tagged gift. When you tag a new product, it appears in the collection automatically.</p>
+<p>This saves time and reduces the risk of forgetting to add products to collections by hand. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> explains how to plan collections so tags and conditions work together.</p>
+<h3>Internal organisation</h3>
+<p>Tags help staff find and manage products in the admin. You can filter the product list by tag, which makes bulk edits easier. Tags such as a season name, a supplier code or a review flag can help the team work through groups of products.</p>
+<h3>Search</h3>
+<p>Product tags can be used by Shopify's storefront search, which means a customer searching for a term may find products tagged with it. This varies with your theme and search settings, so test it rather than assuming.</p>
+<h3>Theme features</h3>
+<p>Some themes use tags to trigger display features, such as a badge or a size chart. These conventions are theme-specific, so check your theme documentation before relying on them.</p>
+
+<h2>When tags are not the best tool</h2>
+<p>Tags are flexible, but that flexibility has limits. They are plain text, with no structure, so they are not ideal for information that has a defined type or needs to be shown neatly on the product page.</p>
+<ul>
+<li><strong>Product details such as material, care or dimensions</strong> are usually better as metafields, which can hold structured values and be displayed in specific places. Our <a href="/blog/shopify-metafields-guide/">Shopify metafields guide</a> explains how they work.</li>
+<li><strong>Size and colour choices</strong> belong in variants and options, not tags.</li>
+<li><strong>Storefront filters</strong> in Shopify can use product type, vendor, availability, price, variant options and metafields. Our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> covers the set-up.</li>
+<li><strong>Broad product classification</strong> may be better handled by product type or the product category field.</li>
+</ul>
+<p>A common situation is a store that has used tags for everything, including details that would be clearer as metafields. Moving that information is often worthwhile, but plan it carefully, because collections and theme features may depend on the existing tags.</p>
+
+<h2>Creating a tagging convention</h2>
+<p>The single biggest improvement you can make is to agree how tags are written. Shopify treats tags as text, so small differences create separate tags. A convention might cover:</p>
+<ul>
+<li><strong>Case.</strong> Decide whether tags are all lowercase or follow another pattern, and stick to it.</li>
+<li><strong>Spaces and separators.</strong> Choose between spaces and hyphens and use one approach.</li>
+<li><strong>Singular or plural.</strong> Gift and gifts look similar but behave as different tags.</li>
+<li><strong>Prefixes for groups.</strong> A prefix such as a short group name followed by a colon can make tags easier to scan, for example a season prefix or a supplier prefix.</li>
+<li><strong>Internal versus customer-facing.</strong> If your theme displays tags, consider a prefix for internal-only tags so they can be hidden.</li>
+</ul>
+<p>Write the convention down in a short document, list the tags currently in use and what each one does, and share it with everyone who edits products. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> may help if you also want to limit who can change products.</p>
+
+<h2>Adding and editing tags</h2>
+<p>You can add tags on the individual product page, in the tags field in the product organisation section. Shopify suggests existing tags as you type, which helps avoid duplicates if people choose from the list.</p>
+<p>For many products at once, you have options:</p>
+<ul>
+<li><strong>Bulk actions.</strong> Select products in the product list and use the bulk action to add or remove tags.</li>
+<li><strong>The bulk editor.</strong> Edit tags in a spreadsheet-like view across many products.</li>
+<li><strong>Product CSV import and export.</strong> Export products, edit tags in a spreadsheet and re-import. This is powerful but easy to get wrong, so test on a few products first and keep a copy of the original export.</li>
+</ul>
+<p>Before any bulk change, check which automated collections use the tags involved. Removing a tag can quietly remove products from a collection.</p>
+
+<h2>Tidying up an untidy tag list</h2>
+<p>If your tag list has grown messy, a structured tidy-up helps.</p>
+<h3>Export and review</h3>
+<p>Export your products and list every tag in use. Group duplicates and near-duplicates together, such as different spellings or cases.</p>
+<h3>Find what each tag does</h3>
+<p>For each tag, check whether it is used in an automated collection condition, by your theme, by a connected app or in any internal process. Tags that are used nowhere may be safe to remove, but confirm first.</p>
+<h3>Decide on the keepers</h3>
+<p>For each group of duplicates, choose one version that matches your convention. Note which collections need their conditions updated.</p>
+<h3>Make changes in a careful order</h3>
+<p>Add the correct tag to the relevant products first, update any collection conditions, check the collections still contain the right products, and only then remove the old tags. Doing it in this order avoids products dropping out of collections in between.</p>
+<h3>Document the result</h3>
+<p>Update your tag list document. A tidy list is much easier to keep tidy than a messy one is to fix.</p>
+<p>If tags were added by connected apps over time, an <a href="/blog/shopify-apps-audit/">apps audit</a> can help you understand which ones are still in use.</p>
+
+<h2>Tags when importing or migrating products</h2>
+<p>Tags often arrive in bulk when products are imported from a spreadsheet or moved from another platform. Old category names, supplier codes and import labels can all come across as tags, and they may not match your convention. Before a large import, decide which source fields should become tags, which should become metafields or product types, and which can be left behind. After the import, filter the product list by a few new tags to check they landed as expected. If you are moving from another platform, our guide to <a href="/blog/woocommerce-to-shopify-migration/">moving from WooCommerce to Shopify</a> covers how product data is usually mapped during a move.</p>
+
+<h2>Tags and SEO</h2>
+<p>Some themes create tag-filtered collection pages, which can result in many thin pages with similar content. Whether this matters depends on how your theme handles them, so it is worth checking how these URLs are treated. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the wider picture of how collection and product pages are indexed.</p>
+<p>In most cases, tags themselves have little direct effect on search visibility. Their value is in organising products into well-structured collections with good descriptions.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves Shopify stores for UK businesses. We can help you plan a tagging convention, tidy an existing tag list, and move structured information into metafields without breaking collections. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can customers see Shopify product tags?</h3>
+<p>Not by default. Some themes display tags or use them for features such as badges, so check your theme to see how tags are used.</p>
+<h3>Are Shopify tags case sensitive?</h3>
+<p>Small differences in how tags are written can lead to separate-looking tags, which makes the list harder to manage. Agreeing a single convention, such as all lowercase, avoids the problem.</p>
+<h3>Should I use tags or metafields in Shopify?</h3>
+<p>Tags suit simple labels and collection rules. Metafields are usually better for structured product details that need to be displayed or used in filters.</p>
+<h3>How do I remove a tag from many products?</h3>
+<p>Select the products in the admin and use the bulk action to remove tags, or use the bulk editor. Check which automated collections use the tag first.</p>
+<h3>Do product tags help Shopify SEO?</h3>
+<p>Tags rarely have much direct effect. Their main value is organising products into clear collections, which can then be well described and linked.</p>
+`,
+  },
+  {
+    slug: 'website-print-stylesheets',
+    seoTitle: 'Website Print Stylesheets: Making Pages Print Well',
+    title: 'Website Print Stylesheets: How to Make Your Pages Print Cleanly',
+    description: 'How to make website pages print cleanly: what a print stylesheet does, what to hide and keep, links, images, page breaks, testing and platform tips.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-accessibility-uk/', '/blog/website-faq-page/'],
+    body: `
+<p>People still print web pages. They print recipes, directions, care instructions, terms and conditions, order confirmations, event details and guides they want to read away from a screen. Many also save pages as PDFs using the print option in their browser. If your site has not been designed with this in mind, the result can be messy: menus spread across the first page, cookie banners covering text, huge images, and buttons that make no sense on paper.</p>
+<p>A print stylesheet solves this. This guide explains what a print stylesheet is, what a printable page should include and leave out, how to handle links, images and page breaks, and how to approach print styles on WordPress and Shopify. It is written for site owners and project leads, with only light technical detail.</p>
+
+<h2>What a print stylesheet is</h2>
+<p>Websites use CSS to control how pages look. CSS can be targeted at different types of media, and one of those is print. A print stylesheet is a set of style rules that only apply when someone prints a page or saves it as a PDF through the browser. The screen version stays exactly as it was.</p>
+<p>In practice, print styles are often a section of the main stylesheet wrapped in a print media query, rather than a separate file. Either approach works. What matters is that someone has thought about how pages look on paper.</p>
+
+<h2>Which pages are worth the effort</h2>
+<p>Not every page needs special attention, but some are much more likely to be printed than others. Think about your own site and the content visitors may want offline:</p>
+<ul>
+<li><strong>Guides and how-to articles</strong> that people follow step by step.</li>
+<li><strong>Recipes, care instructions and assembly guides.</strong></li>
+<li><strong>Directions, opening times and contact details.</strong></li>
+<li><strong>Policies and terms,</strong> such as returns, delivery and privacy pages.</li>
+<li><strong>Event, course or booking information.</strong></li>
+<li><strong>Price lists and product specifications,</strong> where people compare offline.</li>
+<li><strong>Order confirmations and account pages</strong> for ecommerce sites.</li>
+</ul>
+<p>A general print stylesheet that improves every page is a good baseline. Pages that are printed often may deserve extra care.</p>
+
+<h2>What to hide when printing</h2>
+<p>On paper, many interface elements have no purpose. A typical print stylesheet hides:</p>
+<ul>
+<li>The main navigation and mobile menu button.</li>
+<li>Cookie banners, pop-ups and chat widgets.</li>
+<li>Search boxes and forms that cannot be used on paper.</li>
+<li>Social sharing buttons and decorative icons.</li>
+<li>Sidebars that contain only promotions or related links.</li>
+<li>Video embeds and carousels that will not print meaningfully.</li>
+<li>Most of the footer, apart from essential contact or legal information.</li>
+</ul>
+<p>Hiding these brings the main content to the top of the first page and can reduce the number of pages printed. Our guides to <a href="/blog/website-pop-ups-done-well/">pop-ups done well</a> and <a href="/blog/website-footer-design/">footer design</a> cover how these elements behave on screen.</p>
+
+<h2>What to keep and improve</h2>
+<p>The printed page should still be recognisably yours and useful on its own.</p>
+<h3>Branding</h3>
+<p>Keep a simple version of your logo or business name at the top, so anyone picking up the page later knows where it came from. A large header image is rarely needed.</p>
+<h3>Title and content</h3>
+<p>The page title and main content are the point of the printout. Make sure body text is a comfortable size, set in a dark colour on a white background. Light grey text, coloured backgrounds or reversed-out text can be hard to read on paper and can use a lot of ink.</p>
+<h3>Contact details and source</h3>
+<p>Consider showing your website address, phone number or other contact details at the end of the printed page. Browsers can add the page URL in headers or footers, but users can turn these off, so do not rely on them for anything essential.</p>
+<h3>Layout</h3>
+<p>Multi-column layouts often print poorly. A single column usually works best on a portrait page. Removing fixed widths and letting content use the full width of the paper helps.</p>
+
+<h2>Handling links</h2>
+<p>On screen, a link is something you click. On paper, it is just underlined text, and the reader cannot see where it goes. There are a few approaches:</p>
+<ul>
+<li><strong>Show the URL after important links.</strong> Print styles can add the link address in brackets after the link text. This is helpful for external references but can clutter pages with many links.</li>
+<li><strong>Show URLs only for selected links.</strong> Limit the effect to links in the main content, and skip internal navigation links.</li>
+<li><strong>Write link text that makes sense on its own.</strong> Descriptive link text helps both printed pages and screen reader users, which ties in with good <a href="/blog/website-accessibility-uk/">website accessibility</a> practice.</li>
+</ul>
+<p>Whichever approach you choose, keep printed links readable rather than leaving them in a light brand colour.</p>
+
+<h2>Images and backgrounds</h2>
+<p>Browsers do not print background images and colours by default, unless the user changes a setting. That means anything important should not depend on a background image or colour. If text sits on a coloured block on screen, check that it is still readable when the background disappears.</p>
+<p>Content images, such as diagrams or product photos, usually do print. Make sure they are constrained to the page width so they do not spill off the edge, and consider whether very large decorative images should be hidden. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers how images are prepared for the screen.</p>
+
+<h2>Page breaks</h2>
+<p>CSS gives some control over where pages break. Useful rules include:</p>
+<ul>
+<li>Avoiding breaks immediately after headings, so a heading does not sit alone at the bottom of a page.</li>
+<li>Avoiding breaks inside images, tables and short blocks such as quotes or callouts where possible.</li>
+<li>Starting a new page before major sections in long documents, if that suits the content.</li>
+</ul>
+<p>Browser support for page break rules is not perfect, and results differ between browsers, so test rather than assume. For long tables, repeating the header row on each page can help readability where browsers support it.</p>
+
+<h2>Expanding hidden content</h2>
+<p>Many pages hide content behind accordions, tabs or read more buttons. On paper, hidden content simply does not appear. Print styles can expand accordions and show every tab panel in sequence, so the printed version contains all the information. This matters for FAQ sections in particular. Our guide to <a href="/blog/website-faq-page/">website FAQ pages</a> covers how these are built on screen.</p>
+
+<h2>Print styles on WordPress</h2>
+<p>On WordPress, print styles normally belong in the theme. If you use a custom or child theme, a developer can add a print section to the theme stylesheet. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why changes like this should live in a child theme rather than a parent theme that will be updated.</p>
+<p>Some themes already include basic print styles. Check by using print preview on a few pages before deciding what needs adding. The block editor also adds its own classes to blocks, which can be useful when targeting elements such as buttons or embeds.</p>
+
+<h2>Print styles on Shopify</h2>
+<p>On Shopify, print styles can be added to the theme's stylesheet. As with any theme customisation, consider how this interacts with theme updates. Our guides to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> and <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explain how to keep custom changes manageable.</p>
+<p>For ecommerce, the pages customers print are often order-related. Order confirmation emails and the order status page matter here, as do product pages with specifications. Packing slips and invoices printed from the Shopify admin use their own templates rather than the storefront theme.</p>
+
+<h2>Testing printed pages</h2>
+<p>Testing print styles is straightforward. Open a page, use the browser's print option, and look at the preview. Saving as a PDF gives a file you can review or share with colleagues. Check:</p>
+<ul>
+<li>The first page starts with the title and content, not navigation.</li>
+<li>No banners, pop-ups or widgets appear.</li>
+<li>Text is readable and images fit the page.</li>
+<li>Hidden sections such as accordions are expanded.</li>
+<li>Headings are not stranded at the bottom of pages.</li>
+<li>Important links make sense without being clickable.</li>
+</ul>
+<p>Try more than one browser if you can, as print output differs. Adding print preview to your checklist for new templates helps stop the issue returning. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> covers how to fold checks like this into a wider testing routine.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds WordPress and Shopify sites for UK businesses. If pages on your site print badly, we can add sensible print styles to your theme and check the pages your visitors are most likely to print. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is a print stylesheet?</h3>
+<p>It is a set of CSS rules that only apply when a page is printed or saved as a PDF from the browser. It changes the printed layout without affecting the screen version.</p>
+<h3>Why does my website print badly?</h3>
+<p>Usually because no print styles were added, so menus, banners, sidebars and large images are printed along with the content.</p>
+<h3>Can I hide the cookie banner when a page is printed?</h3>
+<p>Yes. Print styles can hide banners, pop-ups, chat widgets and other elements that have no use on paper.</p>
+<h3>Do background colours print?</h3>
+<p>Browsers usually skip background colours and images by default, so important content should not depend on them.</p>
+<h3>Do I need print styles on an online shop?</h3>
+<p>It helps for pages customers may print, such as product specifications, policies and order pages. Admin packing slips and invoices use separate templates.</p>
+`,
+  },
+  {
+    slug: 'wordpress-permalink-settings',
+    seoTitle: 'WordPress Permalink Settings: Choosing a URL Structure',
+    title: 'WordPress Permalink Settings: How to Choose and Change Your URL Structure',
+    description: 'A plain-English guide to WordPress permalink settings: the structure options, choosing good slugs, category bases and changing URLs safely with redirects.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-redirects-when-relaunching/', '/blog/wordpress-agency-uk/'],
+    body: `
+<p>Every page on a WordPress site has a web address, and WordPress builds those addresses using its permalink settings. It is one of the first screens many people visit after installing WordPress, and one of the easiest to change without thinking about the consequences. A permalink change on a new site takes seconds. The same change on an established site can alter hundreds of URLs at once.</p>
+<p>This guide explains what the WordPress permalink settings do, the main structure options, how slugs work, and how to change things safely if you need to. It is written for site owners and editors rather than developers, so it keeps code to a minimum.</p>
+
+<h2>What permalinks are</h2>
+<p>A permalink is the permanent URL of a post, page or archive. In WordPress, it is made of a few parts: your domain, any structure you set, and the slug of the individual item. The slug is the readable part at the end, such as a lowercase version of the title with hyphens between words.</p>
+<p>The term permanent is a reminder of intent. A good URL should not change once people have bookmarked it, shared it or linked to it, and once search engines have indexed it. Permalink settings decide the pattern, and slugs decide the detail.</p>
+
+<h2>Where to find the permalink settings</h2>
+<p>In the WordPress dashboard, go to Settings and then Permalinks. You need an administrator account to change them. The screen has two main sections: common settings for posts, and optional settings for category and tag bases. If you run an online shop with WooCommerce, you may also see product permalink options on the same screen.</p>
+<p>Saving this screen also refreshes WordPress's internal rewrite rules. That is why visiting it and pressing save is a common troubleshooting step when pages unexpectedly show not found errors after a change, such as registering a new content type.</p>
+
+<h2>The permalink structure options</h2>
+<p>WordPress offers several preset structures, plus a custom option.</p>
+<table>
+<thead><tr><th>Option</th><th>What it includes</th><th>Things to consider</th></tr></thead>
+<tbody>
+<tr><td>Plain</td><td>A query string with the post ID</td><td>Not readable and gives no clue to the content</td></tr>
+<tr><td>Day and name</td><td>Year, month, day and post name</td><td>Suits news-style sites; dates can make evergreen content look old</td></tr>
+<tr><td>Month and name</td><td>Year, month and post name</td><td>Similar trade-offs to day and name</td></tr>
+<tr><td>Numeric</td><td>An archive path with the post ID</td><td>Short but not descriptive</td></tr>
+<tr><td>Post name</td><td>Just the slug</td><td>Clean and readable; popular for business sites</td></tr>
+<tr><td>Custom structure</td><td>Tags you choose, such as category and post name</td><td>Flexible but needs care to stay consistent</td></tr>
+</tbody>
+</table>
+<p>The permalink structure on this screen applies to posts. Pages use their own hierarchy based on parent and child pages, so a page placed under a parent page will include the parent's slug in its URL.</p>
+
+<h2>Choosing a structure</h2>
+<p>There is no single right answer, but a few principles help.</p>
+<h3>Readable beats clever</h3>
+<p>A URL that describes the content is easier for people to understand when they see it in search results, in an email or on a printed flyer. The plain option, with a number in a query string, is the least helpful in this respect.</p>
+<h3>Think about dates carefully</h3>
+<p>Date-based structures make sense for publications where the date is part of the meaning. For a business blog with practical guides that you update over time, a date in the URL can make an article look out of date even after you refresh it.</p>
+<h3>Categories in the URL are a commitment</h3>
+<p>Including the category in the URL can give helpful context. The drawback is that if you later reorganise categories, or move a post from one category to another, the URL changes. If your categories are stable and meaningful, this may be fine. If they are still evolving, a simpler structure is less fragile. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how to plan categories and sections.</p>
+<h3>Match the way the site is organised</h3>
+<p>If your site has distinct content types, such as case studies, events or team members, those usually have their own URL patterns. Our guide to <a href="/blog/wordpress-custom-post-types/">WordPress custom post types</a> explains how those are set up. The permalink settings screen mainly affects standard posts and archives.</p>
+<p>For many small business sites, the post name option is a sensible default because it is short and readable and does not depend on dates or categories. It is still worth considering your own content before choosing.</p>
+
+<h2>Writing good slugs</h2>
+<p>Whatever structure you choose, the slug carries much of the meaning. WordPress creates a slug from the title when you first save a post, but it is often worth editing it. Good slugs tend to be:</p>
+<ul>
+<li>Short and descriptive, using the main words a reader would expect.</li>
+<li>Lowercase, with hyphens between words.</li>
+<li>Free of filler words where removing them keeps the meaning clear.</li>
+<li>Free of dates or numbers that may go out of date, such as a year in an evergreen guide.</li>
+</ul>
+<p>You can edit the slug in the block editor's post settings panel, under the URL or permalink option. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> shows where the document settings live.</p>
+<p>Slugs should also be unique. If you create a page with the same slug as an existing one, WordPress will add a number to the end. That is usually a sign to check whether you have a duplicate page or an old draft that should be removed.</p>
+
+<h2>Category and tag bases</h2>
+<p>The optional section of the permalinks screen lets you change the word that appears before category and tag archive URLs. By default, WordPress uses category and tag. You can replace these with something more fitting, such as topics, if that suits your site.</p>
+<p>Changing these bases changes every category or tag archive URL at once, so treat it with the same care as changing the main structure. Removing the base entirely is not supported in the core settings and can cause clashes with page slugs, so it is generally best left alone unless a developer has a clear reason.</p>
+
+<h2>Changing permalinks on an existing site</h2>
+<p>If your site is new and has no traffic, changing permalinks is low risk. On an established site, it is a different matter. Changing the structure can change the URL of every post, which affects:</p>
+<ul>
+<li>Bookmarks and links shared by customers.</li>
+<li>Links from other websites.</li>
+<li>Pages already indexed by search engines.</li>
+<li>Internal links in your own content and menus that use full URLs.</li>
+<li>Links in emails, social posts and printed material.</li>
+</ul>
+<p>WordPress does attempt to redirect some old post URLs to new ones, but you should not rely on that alone. A planned approach is safer.</p>
+<h3>Plan the change</h3>
+<p>Export or list your current URLs before changing anything. A sitemap or a crawl of the site can provide this. Decide what each old URL should become.</p>
+<h3>Test on staging</h3>
+<p>Make the change on a staging copy first, then check that posts, pages, archives and any custom content load correctly. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to set up a safe place to do this.</p>
+<h3>Set up redirects</h3>
+<p>Each old URL should permanently redirect to its new equivalent. This helps visitors and search engines find the new location. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers the principles in detail.</p>
+<h3>Update internal links</h3>
+<p>Update menus and internal links so they point straight to the new URLs, rather than relying on redirects. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> may help with the navigation side.</p>
+<h3>Check after launch</h3>
+<p>Once live, check a sample of old URLs to confirm they redirect correctly, and keep an eye on search console reports for errors. Back up the site before you start, so you can roll back if something goes wrong. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> covers what a good backup routine looks like.</p>
+
+<h2>Troubleshooting permalink problems</h2>
+<p>A few issues come up when permalinks misbehave:</p>
+<ul>
+<li><strong>Pages show not found errors.</strong> Saving the permalinks screen without changes often refreshes the rewrite rules and fixes this.</li>
+<li><strong>The settings will not save.</strong> On some servers, WordPress needs permission to update a server configuration file. Your host can usually help.</li>
+<li><strong>Slugs end in a number.</strong> Another item, possibly in the trash or media library, is already using that slug.</li>
+<li><strong>Custom content has unexpected URLs.</strong> These are often set in code or by the tool that registered the content type, rather than on the permalinks screen.</li>
+</ul>
+<p>If problems appeared after a hosting move, check that the server supports the rewrite rules WordPress needs. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for in a host.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If you are planning a new site or considering a URL change on an existing one, we can help you plan the structure, test changes on staging and set up redirects. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best permalink structure for WordPress?</h3>
+<p>There is no single best option, but the post name structure is a sensible default for many business sites because it is short and readable. News-style sites may prefer a date-based structure.</p>
+<h3>Is it safe to change permalinks in WordPress?</h3>
+<p>On a new site it is low risk. On an established site it changes URLs, so back up first, test on staging and set up redirects from old URLs to new ones.</p>
+<h3>Why are my WordPress pages showing not found after a change?</h3>
+<p>The rewrite rules may need refreshing. Visiting Settings, then Permalinks, and saving without changes often fixes it.</p>
+<h3>Should I include the category in WordPress URLs?</h3>
+<p>It can add context, but if you reorganise categories later the URLs will change. A simpler structure is less fragile if your categories are still evolving.</p>
+<h3>Can I change the slug of a single post?</h3>
+<p>Yes, in the post settings panel of the editor. If the post is already live, add a redirect from the old URL to the new one.</p>
+`,
+  },
+  {
+    slug: 'wordpress-site-health-screen',
+    seoTitle: 'WordPress Site Health Screen: What It Tells You',
+    title: 'WordPress Site Health Screen: How to Read It and What to Do About It',
+    description: 'A practical guide to the WordPress Site Health screen: what the status and info tabs show, which warnings matter, and how to act on them safely.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-maintenance-uk/', '/blog/wordpress-security-uk/'],
+    body: `
+<p>WordPress includes a built-in check-up tool called Site Health. It looks at how your site and server are configured and lists anything it thinks could cause problems, from outdated software to missing security features. For many site owners, it is the first sign that something needs attention, but the messages can be confusing, and not every warning carries the same weight.</p>
+<p>This guide explains where to find the Site Health screen, what the two main tabs show, how to interpret the common types of message, and how to act on them without causing new problems. It is written for site owners and editors rather than developers.</p>
+
+<h2>Where to find Site Health</h2>
+<p>In the WordPress dashboard, go to Tools and then Site Health. You need an administrator account to see it. There is also a Site Health status widget on the main dashboard, which gives a quick summary and links to the full screen.</p>
+<p>The screen has two tabs: Status and Info. Status lists the results of WordPress's automated tests. Info gives a detailed technical snapshot of your site and server.</p>
+
+<h2>The Status tab</h2>
+<p>At the top of the Status tab, WordPress shows an overall indicator. Below it, results are grouped into categories:</p>
+<ul>
+<li><strong>Critical issues.</strong> Problems that WordPress considers important, such as a server running an outdated version of PHP, or a site that cannot communicate with WordPress.org.</li>
+<li><strong>Recommended improvements.</strong> Things that would make the site better or safer but are less urgent, such as inactive themes being left installed.</li>
+<li><strong>Passed tests.</strong> Checks that found nothing wrong. These are collapsed by default.</li>
+</ul>
+<p>Each result can be expanded to show a short explanation and, often, a suggested action. Results are also labelled by area, such as security or performance.</p>
+<p>The overall indicator is a summary, not a score to chase. A site with one important recommendation outstanding may matter more than a site with several minor ones. Read the individual items rather than focusing on the headline.</p>
+
+<h2>Common Site Health messages and what they mean</h2>
+<p>The exact tests depend on your WordPress version and anything added by installed extensions, but certain themes come up often.</p>
+<h3>Outdated PHP version</h3>
+<p>PHP is the programming language WordPress runs on. Older versions stop receiving security updates and can be slower. If Site Health flags your PHP version, the upgrade usually happens through your hosting control panel or by asking your host. Before upgrading, check that your theme and extensions support the newer version, and test on staging, because older code can break.</p>
+<h3>Inactive themes and plugins</h3>
+<p>Site Health may recommend removing inactive themes and plugins. Even when switched off, outdated code on the server can be a security risk. Keep one default theme as a fallback if your setup allows, and remove anything you no longer need. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide explains how to review what is installed.</p>
+<h3>Updates available</h3>
+<p>If WordPress core, themes or extensions have pending updates, Site Health will usually say so. Updates often include security fixes, so they are worth applying, but a routine of backing up and testing first is sensible. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers how to plan update routines.</p>
+<h3>HTTPS not fully enabled</h3>
+<p>Site Health checks whether your site uses HTTPS. If it reports that the site address is not set to HTTPS, or the certificate has a problem, the fix usually involves your host and the WordPress address settings. Changing the site address incorrectly can lock you out, so take a backup and proceed carefully.</p>
+<h3>Background updates not working</h3>
+<p>WordPress can install some updates automatically. If Site Health reports that background updates are not working, it may be because of file permissions or server configuration. Some sites deliberately disable automatic updates, so this message is not always a problem, but you should know which situation you are in.</p>
+<h3>Loopback and REST API errors</h3>
+<p>WordPress sometimes needs to send requests to itself, known as loopback requests, and uses its REST API for features such as the block editor. If either fails, scheduled tasks and editing features can misbehave. Causes include security rules, firewall settings or a conflict with an installed extension. These usually need investigation rather than a quick fix.</p>
+<h3>Scheduled events running late</h3>
+<p>WordPress uses a scheduling system for tasks such as publishing scheduled posts and running maintenance jobs. If events are running late, it can be because the site has little traffic, because loopback requests are failing, or because of hosting configuration. Your host or developer can advise on a more reliable approach.</p>
+<h3>Persistent object cache recommended</h3>
+<p>On some sites, Site Health suggests using a persistent object cache, which can help performance on busier sites. Whether this is worthwhile depends on your hosting and traffic. It is a conversation to have with your host rather than a setting to switch on blindly. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers performance more broadly.</p>
+<h3>Debug mode enabled</h3>
+<p>If WordPress debug mode is turned on in a live site, Site Health may warn that errors could be shown to visitors. Debug mode is useful during development but generally should be off on a live site, or set up so errors are logged rather than displayed.</p>
+
+<h2>The Info tab</h2>
+<p>The Info tab lists detailed technical information about your site, grouped into sections such as WordPress, the active theme, plugins, media handling, the server, the database and file permissions. Most of the time you will not need it, but it is very useful when something goes wrong.</p>
+<p>There is a button to copy the site information to the clipboard. Sharing this with a developer or host can save time when diagnosing a problem, because it answers many of the first questions they would ask. Before sending it, read through what is included. It can contain details about your server and file paths, so share it only with people you trust and through a sensible channel.</p>
+
+<h2>How to act on Site Health results</h2>
+<p>A simple approach helps avoid making things worse.</p>
+<h3>Triage</h3>
+<p>Start with critical issues, especially anything related to security or outdated software. Recommended improvements can usually be grouped into your next maintenance session.</p>
+<h3>Back up first</h3>
+<p>Before any change to server settings, PHP versions or core configuration, take a full backup and check you know how to restore it. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> covers what a good backup routine includes.</p>
+<h3>Test on staging</h3>
+<p>Where possible, make changes on a staging copy, check the site works, then repeat on the live site. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how.</p>
+<h3>Involve your host where needed</h3>
+<p>Many Site Health items, such as PHP versions, HTTPS certificates and server modules, are controlled by your hosting environment. Your host is often best placed to help. If your host cannot support current requirements, it may be time to review your hosting. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for.</p>
+<h3>Recheck</h3>
+<p>Site Health reruns tests when you visit the screen, so return after making changes to confirm the issue has cleared.</p>
+
+<h2>What Site Health does not do</h2>
+<p>Site Health is a useful check, but it is not a full audit. It does not:</p>
+<ul>
+<li>Scan for malware or confirm that your site has not been compromised.</li>
+<li>Test accessibility, content quality or user experience.</li>
+<li>Check that backups exist and can be restored.</li>
+<li>Review user accounts and permissions in depth.</li>
+<li>Measure real-world page speed for visitors.</li>
+</ul>
+<p>Treat a clean Site Health screen as a good sign, not a guarantee. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> and our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> cover areas that Site Health does not reach.</p>
+
+<h2>Making Site Health part of routine maintenance</h2>
+<p>A quick look at Site Health during regular maintenance helps you catch problems early. A simple routine might be: check for updates, review Site Health, take a backup, apply updates on staging, test, then update live. Note any items you have decided to leave, and why, so the next person looking does not repeat the investigation.</p>
+<p>Some extensions add their own tests to Site Health. If you see a message you do not recognise, check which component added it before acting.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If your Site Health screen is showing warnings you are unsure about, we can review them, explain what matters, and help plan fixes with your host. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where is Site Health in WordPress?</h3>
+<p>Go to Tools, then Site Health, in the WordPress dashboard. You need an administrator account to see it.</p>
+<h3>Do I need to fix every Site Health recommendation?</h3>
+<p>Not always. Critical issues deserve prompt attention, while recommended improvements can be weighed up and planned into maintenance. Some may not apply to your setup.</p>
+<h3>Is it safe to upgrade PHP when Site Health suggests it?</h3>
+<p>It is usually worthwhile, but check that your theme and extensions support the newer version, take a backup and test on staging first.</p>
+<h3>Does Site Health check for malware?</h3>
+<p>No. It checks configuration and settings, but it does not scan for malware or confirm that a site is clean.</p>
+<h3>Should I share my Site Health info with a developer?</h3>
+<p>It can speed up troubleshooting. Read it first, as it includes server details, and share it only with people you trust.</p>
+`,
+  },
 ];

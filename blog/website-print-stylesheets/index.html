@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Website Print Stylesheets: Making Pages Print Well</title>
+<meta name="description" content="How to make website pages print cleanly: what a print stylesheet does, what to hide and keep, links, images, page breaks, testing and platform tips.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/website-print-stylesheets/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Website Print Stylesheets: Making Pages Print Well">
+<meta property="og:description" content="How to make website pages print cleanly: what a print stylesheet does, what to hide and keep, links, images, page breaks, testing and platform tips.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/website-print-stylesheets/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-website-print-stylesheets.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/website-print-stylesheets/#article","headline":"Website Print Stylesheets: How to Make Your Pages Print Cleanly","description":"How to make website pages print cleanly: what a print stylesheet does, what to hide and keep, links, images, page breaks, testing and platform tips.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/website-print-stylesheets/","url":"https://prismworksstudio.co.uk/blog/website-print-stylesheets/","image":"https://prismworksstudio.co.uk/assets/og/blog-website-print-stylesheets.png","inLanguage":"en-GB","wordCount":1549,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Website Print Stylesheets: How to Make Your Pages Print Cleanly","item":"https://prismworksstudio.co.uk/blog/website-print-stylesheets/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a print stylesheet?","acceptedAnswer":{"@type":"Answer","text":"It is a set of CSS rules that only apply when a page is printed or saved as a PDF from the browser. It changes the printed layout without affecting the screen version."}},{"@type":"Question","name":"Why does my website print badly?","acceptedAnswer":{"@type":"Answer","text":"Usually because no print styles were added, so menus, banners, sidebars and large images are printed along with the content."}},{"@type":"Question","name":"Can I hide the cookie banner when a page is printed?","acceptedAnswer":{"@type":"Answer","text":"Yes. Print styles can hide banners, pop-ups, chat widgets and other elements that have no use on paper."}},{"@type":"Question","name":"Do background colours print?","acceptedAnswer":{"@type":"Answer","text":"Browsers usually skip background colours and images by default, so important content should not depend on them."}},{"@type":"Question","name":"Do I need print styles on an online shop?","acceptedAnswer":{"@type":"Answer","text":"It helps for pages customers may print, such as product specifications, policies and order pages. Admin packing slips and invoices use separate templates."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Website Print Stylesheets: How to Make Your Pages Print Cleanly</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>Website Print Stylesheets: How to Make Your Pages Print Cleanly</h1><p class="pws-lead">How to make website pages print cleanly: what a print stylesheet does, what to hide and keep, links, images, page breaks, testing and platform tips.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>A print stylesheet tells the browser how a page should look on paper or as a saved PDF, separately from how it looks on screen.</li><li>Good printed pages hide navigation, banners and buttons, keep the main content readable, and show the information people need offline.</li><li>Print styles are easy to forget during a build, so test key pages with the browser print preview as part of routine checks.</li></ul></div>
+<p>People still print web pages. They print recipes, directions, care instructions, terms and conditions, order confirmations, event details and guides they want to read away from a screen. Many also save pages as PDFs using the print option in their browser. If your site has not been designed with this in mind, the result can be messy: menus spread across the first page, cookie banners covering text, huge images, and buttons that make no sense on paper.</p>
+<p>A print stylesheet solves this. This guide explains what a print stylesheet is, what a printable page should include and leave out, how to handle links, images and page breaks, and how to approach print styles on WordPress and Shopify. It is written for site owners and project leads, with only light technical detail.</p>
+
+<h2>What a print stylesheet is</h2>
+<p>Websites use CSS to control how pages look. CSS can be targeted at different types of media, and one of those is print. A print stylesheet is a set of style rules that only apply when someone prints a page or saves it as a PDF through the browser. The screen version stays exactly as it was.</p>
+<p>In practice, print styles are often a section of the main stylesheet wrapped in a print media query, rather than a separate file. Either approach works. What matters is that someone has thought about how pages look on paper.</p>
+
+<h2>Which pages are worth the effort</h2>
+<p>Not every page needs special attention, but some are much more likely to be printed than others. Think about your own site and the content visitors may want offline:</p>
+<ul>
+<li><strong>Guides and how-to articles</strong> that people follow step by step.</li>
+<li><strong>Recipes, care instructions and assembly guides.</strong></li>
+<li><strong>Directions, opening times and contact details.</strong></li>
+<li><strong>Policies and terms,</strong> such as returns, delivery and privacy pages.</li>
+<li><strong>Event, course or booking information.</strong></li>
+<li><strong>Price lists and product specifications,</strong> where people compare offline.</li>
+<li><strong>Order confirmations and account pages</strong> for ecommerce sites.</li>
+</ul>
+<p>A general print stylesheet that improves every page is a good baseline. Pages that are printed often may deserve extra care.</p>
+
+<h2>What to hide when printing</h2>
+<p>On paper, many interface elements have no purpose. A typical print stylesheet hides:</p>
+<ul>
+<li>The main navigation and mobile menu button.</li>
+<li>Cookie banners, pop-ups and chat widgets.</li>
+<li>Search boxes and forms that cannot be used on paper.</li>
+<li>Social sharing buttons and decorative icons.</li>
+<li>Sidebars that contain only promotions or related links.</li>
+<li>Video embeds and carousels that will not print meaningfully.</li>
+<li>Most of the footer, apart from essential contact or legal information.</li>
+</ul>
+<p>Hiding these brings the main content to the top of the first page and can reduce the number of pages printed. Our guides to <a href="/blog/website-pop-ups-done-well/">pop-ups done well</a> and <a href="/blog/website-footer-design/">footer design</a> cover how these elements behave on screen.</p>
+
+<h2>What to keep and improve</h2>
+<p>The printed page should still be recognisably yours and useful on its own.</p>
+<h3>Branding</h3>
+<p>Keep a simple version of your logo or business name at the top, so anyone picking up the page later knows where it came from. A large header image is rarely needed.</p>
+<h3>Title and content</h3>
+<p>The page title and main content are the point of the printout. Make sure body text is a comfortable size, set in a dark colour on a white background. Light grey text, coloured backgrounds or reversed-out text can be hard to read on paper and can use a lot of ink.</p>
+<h3>Contact details and source</h3>
+<p>Consider showing your website address, phone number or other contact details at the end of the printed page. Browsers can add the page URL in headers or footers, but users can turn these off, so do not rely on them for anything essential.</p>
+<h3>Layout</h3>
+<p>Multi-column layouts often print poorly. A single column usually works best on a portrait page. Removing fixed widths and letting content use the full width of the paper helps.</p>
+
+<h2>Handling links</h2>
+<p>On screen, a link is something you click. On paper, it is just underlined text, and the reader cannot see where it goes. There are a few approaches:</p>
+<ul>
+<li><strong>Show the URL after important links.</strong> Print styles can add the link address in brackets after the link text. This is helpful for external references but can clutter pages with many links.</li>
+<li><strong>Show URLs only for selected links.</strong> Limit the effect to links in the main content, and skip internal navigation links.</li>
+<li><strong>Write link text that makes sense on its own.</strong> Descriptive link text helps both printed pages and screen reader users, which ties in with good <a href="/blog/website-accessibility-uk/">website accessibility</a> practice.</li>
+</ul>
+<p>Whichever approach you choose, keep printed links readable rather than leaving them in a light brand colour.</p>
+
+<h2>Images and backgrounds</h2>
+<p>Browsers do not print background images and colours by default, unless the user changes a setting. That means anything important should not depend on a background image or colour. If text sits on a coloured block on screen, check that it is still readable when the background disappears.</p>
+<p>Content images, such as diagrams or product photos, usually do print. Make sure they are constrained to the page width so they do not spill off the edge, and consider whether very large decorative images should be hidden. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers how images are prepared for the screen.</p>
+
+<h2>Page breaks</h2>
+<p>CSS gives some control over where pages break. Useful rules include:</p>
+<ul>
+<li>Avoiding breaks immediately after headings, so a heading does not sit alone at the bottom of a page.</li>
+<li>Avoiding breaks inside images, tables and short blocks such as quotes or callouts where possible.</li>
+<li>Starting a new page before major sections in long documents, if that suits the content.</li>
+</ul>
+<p>Browser support for page break rules is not perfect, and results differ between browsers, so test rather than assume. For long tables, repeating the header row on each page can help readability where browsers support it.</p>
+
+<h2>Expanding hidden content</h2>
+<p>Many pages hide content behind accordions, tabs or read more buttons. On paper, hidden content simply does not appear. Print styles can expand accordions and show every tab panel in sequence, so the printed version contains all the information. This matters for FAQ sections in particular. Our guide to <a href="/blog/website-faq-page/">website FAQ pages</a> covers how these are built on screen.</p>
+
+<h2>Print styles on WordPress</h2>
+<p>On WordPress, print styles normally belong in the theme. If you use a custom or child theme, a developer can add a print section to the theme stylesheet. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why changes like this should live in a child theme rather than a parent theme that will be updated.</p>
+<p>Some themes already include basic print styles. Check by using print preview on a few pages before deciding what needs adding. The block editor also adds its own classes to blocks, which can be useful when targeting elements such as buttons or embeds.</p>
+
+<h2>Print styles on Shopify</h2>
+<p>On Shopify, print styles can be added to the theme's stylesheet. As with any theme customisation, consider how this interacts with theme updates. Our guides to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> and <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explain how to keep custom changes manageable.</p>
+<p>For ecommerce, the pages customers print are often order-related. Order confirmation emails and the order status page matter here, as do product pages with specifications. Packing slips and invoices printed from the Shopify admin use their own templates rather than the storefront theme.</p>
+
+<h2>Testing printed pages</h2>
+<p>Testing print styles is straightforward. Open a page, use the browser's print option, and look at the preview. Saving as a PDF gives a file you can review or share with colleagues. Check:</p>
+<ul>
+<li>The first page starts with the title and content, not navigation.</li>
+<li>No banners, pop-ups or widgets appear.</li>
+<li>Text is readable and images fit the page.</li>
+<li>Hidden sections such as accordions are expanded.</li>
+<li>Headings are not stranded at the bottom of pages.</li>
+<li>Important links make sense without being clickable.</li>
+</ul>
+<p>Try more than one browser if you can, as print output differs. Adding print preview to your checklist for new templates helps stop the issue returning. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> covers how to fold checks like this into a wider testing routine.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds WordPress and Shopify sites for UK businesses. If pages on your site print badly, we can add sensible print styles to your theme and check the pages your visitors are most likely to print. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is a print stylesheet?</h3>
+<p>It is a set of CSS rules that only apply when a page is printed or saved as a PDF from the browser. It changes the printed layout without affecting the screen version.</p>
+<h3>Why does my website print badly?</h3>
+<p>Usually because no print styles were added, so menus, banners, sidebars and large images are printed along with the content.</p>
+<h3>Can I hide the cookie banner when a page is printed?</h3>
+<p>Yes. Print styles can hide banners, pop-ups, chat widgets and other elements that have no use on paper.</p>
+<h3>Do background colours print?</h3>
+<p>Browsers usually skip background colours and images by default, so important content should not depend on them.</p>
+<h3>Do I need print styles on an online shop?</h3>
+<p>It helps for pages customers may print, such as product specifications, policies and order pages. Admin packing slips and invoices use separate templates.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Website%20Print%20Stylesheets%3A%20How%20to%20Make%20Your%20Pages%20Print%20Cleanly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Website%20Print%20Stylesheets%3A%20How%20to%20Make%20Your%20Pages%20Print%20Cleanly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

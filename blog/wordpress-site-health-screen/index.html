@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Site Health Screen: What It Tells You</title>
+<meta name="description" content="A practical guide to the WordPress Site Health screen: what the status and info tabs show, which warnings matter, and how to act on them safely.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Site Health Screen: What It Tells You">
+<meta property="og:description" content="A practical guide to the WordPress Site Health screen: what the status and info tabs show, which warnings matter, and how to act on them safely.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-health-screen.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/#article","headline":"WordPress Site Health Screen: How to Read It and What to Do About It","description":"A practical guide to the WordPress Site Health screen: what the status and info tabs show, which warnings matter, and how to act on them safely.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/","url":"https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-health-screen.png","inLanguage":"en-GB","wordCount":1548,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Site Health Screen: How to Read It and What to Do About It","item":"https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where is Site Health in WordPress?","acceptedAnswer":{"@type":"Answer","text":"Go to Tools, then Site Health, in the WordPress dashboard. You need an administrator account to see it."}},{"@type":"Question","name":"Do I need to fix every Site Health recommendation?","acceptedAnswer":{"@type":"Answer","text":"Not always. Critical issues deserve prompt attention, while recommended improvements can be weighed up and planned into maintenance. Some may not apply to your setup."}},{"@type":"Question","name":"Is it safe to upgrade PHP when Site Health suggests it?","acceptedAnswer":{"@type":"Answer","text":"It is usually worthwhile, but check that your theme and extensions support the newer version, take a backup and test on staging first."}},{"@type":"Question","name":"Does Site Health check for malware?","acceptedAnswer":{"@type":"Answer","text":"No. It checks configuration and settings, but it does not scan for malware or confirm that a site is clean."}},{"@type":"Question","name":"Should I share my Site Health info with a developer?","acceptedAnswer":{"@type":"Answer","text":"It can speed up troubleshooting. Read it first, as it includes server details, and share it only with people you trust."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Site Health Screen: How to Read It and What to Do About It</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Site Health Screen: How to Read It and What to Do About It</h1><p class="pws-lead">A practical guide to the WordPress Site Health screen: what the status and info tabs show, which warnings matter, and how to act on them safely.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Site Health is a built-in WordPress check that flags configuration, security and performance issues in plain language.</li><li>Critical issues deserve prompt attention, while recommended improvements can often be planned into routine maintenance.</li><li>Many fixes involve hosting or server settings, so check with your host and test on staging before changing anything significant.</li></ul></div>
+<p>WordPress includes a built-in check-up tool called Site Health. It looks at how your site and server are configured and lists anything it thinks could cause problems, from outdated software to missing security features. For many site owners, it is the first sign that something needs attention, but the messages can be confusing, and not every warning carries the same weight.</p>
+<p>This guide explains where to find the Site Health screen, what the two main tabs show, how to interpret the common types of message, and how to act on them without causing new problems. It is written for site owners and editors rather than developers.</p>
+
+<h2>Where to find Site Health</h2>
+<p>In the WordPress dashboard, go to Tools and then Site Health. You need an administrator account to see it. There is also a Site Health status widget on the main dashboard, which gives a quick summary and links to the full screen.</p>
+<p>The screen has two tabs: Status and Info. Status lists the results of WordPress's automated tests. Info gives a detailed technical snapshot of your site and server.</p>
+
+<h2>The Status tab</h2>
+<p>At the top of the Status tab, WordPress shows an overall indicator. Below it, results are grouped into categories:</p>
+<ul>
+<li><strong>Critical issues.</strong> Problems that WordPress considers important, such as a server running an outdated version of PHP, or a site that cannot communicate with WordPress.org.</li>
+<li><strong>Recommended improvements.</strong> Things that would make the site better or safer but are less urgent, such as inactive themes being left installed.</li>
+<li><strong>Passed tests.</strong> Checks that found nothing wrong. These are collapsed by default.</li>
+</ul>
+<p>Each result can be expanded to show a short explanation and, often, a suggested action. Results are also labelled by area, such as security or performance.</p>
+<p>The overall indicator is a summary, not a score to chase. A site with one important recommendation outstanding may matter more than a site with several minor ones. Read the individual items rather than focusing on the headline.</p>
+
+<h2>Common Site Health messages and what they mean</h2>
+<p>The exact tests depend on your WordPress version and anything added by installed extensions, but certain themes come up often.</p>
+<h3>Outdated PHP version</h3>
+<p>PHP is the programming language WordPress runs on. Older versions stop receiving security updates and can be slower. If Site Health flags your PHP version, the upgrade usually happens through your hosting control panel or by asking your host. Before upgrading, check that your theme and extensions support the newer version, and test on staging, because older code can break.</p>
+<h3>Inactive themes and plugins</h3>
+<p>Site Health may recommend removing inactive themes and plugins. Even when switched off, outdated code on the server can be a security risk. Keep one default theme as a fallback if your setup allows, and remove anything you no longer need. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide explains how to review what is installed.</p>
+<h3>Updates available</h3>
+<p>If WordPress core, themes or extensions have pending updates, Site Health will usually say so. Updates often include security fixes, so they are worth applying, but a routine of backing up and testing first is sensible. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers how to plan update routines.</p>
+<h3>HTTPS not fully enabled</h3>
+<p>Site Health checks whether your site uses HTTPS. If it reports that the site address is not set to HTTPS, or the certificate has a problem, the fix usually involves your host and the WordPress address settings. Changing the site address incorrectly can lock you out, so take a backup and proceed carefully.</p>
+<h3>Background updates not working</h3>
+<p>WordPress can install some updates automatically. If Site Health reports that background updates are not working, it may be because of file permissions or server configuration. Some sites deliberately disable automatic updates, so this message is not always a problem, but you should know which situation you are in.</p>
+<h3>Loopback and REST API errors</h3>
+<p>WordPress sometimes needs to send requests to itself, known as loopback requests, and uses its REST API for features such as the block editor. If either fails, scheduled tasks and editing features can misbehave. Causes include security rules, firewall settings or a conflict with an installed extension. These usually need investigation rather than a quick fix.</p>
+<h3>Scheduled events running late</h3>
+<p>WordPress uses a scheduling system for tasks such as publishing scheduled posts and running maintenance jobs. If events are running late, it can be because the site has little traffic, because loopback requests are failing, or because of hosting configuration. Your host or developer can advise on a more reliable approach.</p>
+<h3>Persistent object cache recommended</h3>
+<p>On some sites, Site Health suggests using a persistent object cache, which can help performance on busier sites. Whether this is worthwhile depends on your hosting and traffic. It is a conversation to have with your host rather than a setting to switch on blindly. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers performance more broadly.</p>
+<h3>Debug mode enabled</h3>
+<p>If WordPress debug mode is turned on in a live site, Site Health may warn that errors could be shown to visitors. Debug mode is useful during development but generally should be off on a live site, or set up so errors are logged rather than displayed.</p>
+
+<h2>The Info tab</h2>
+<p>The Info tab lists detailed technical information about your site, grouped into sections such as WordPress, the active theme, plugins, media handling, the server, the database and file permissions. Most of the time you will not need it, but it is very useful when something goes wrong.</p>
+<p>There is a button to copy the site information to the clipboard. Sharing this with a developer or host can save time when diagnosing a problem, because it answers many of the first questions they would ask. Before sending it, read through what is included. It can contain details about your server and file paths, so share it only with people you trust and through a sensible channel.</p>
+
+<h2>How to act on Site Health results</h2>
+<p>A simple approach helps avoid making things worse.</p>
+<h3>Triage</h3>
+<p>Start with critical issues, especially anything related to security or outdated software. Recommended improvements can usually be grouped into your next maintenance session.</p>
+<h3>Back up first</h3>
+<p>Before any change to server settings, PHP versions or core configuration, take a full backup and check you know how to restore it. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> covers what a good backup routine includes.</p>
+<h3>Test on staging</h3>
+<p>Where possible, make changes on a staging copy, check the site works, then repeat on the live site. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how.</p>
+<h3>Involve your host where needed</h3>
+<p>Many Site Health items, such as PHP versions, HTTPS certificates and server modules, are controlled by your hosting environment. Your host is often best placed to help. If your host cannot support current requirements, it may be time to review your hosting. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for.</p>
+<h3>Recheck</h3>
+<p>Site Health reruns tests when you visit the screen, so return after making changes to confirm the issue has cleared.</p>
+
+<h2>What Site Health does not do</h2>
+<p>Site Health is a useful check, but it is not a full audit. It does not:</p>
+<ul>
+<li>Scan for malware or confirm that your site has not been compromised.</li>
+<li>Test accessibility, content quality or user experience.</li>
+<li>Check that backups exist and can be restored.</li>
+<li>Review user accounts and permissions in depth.</li>
+<li>Measure real-world page speed for visitors.</li>
+</ul>
+<p>Treat a clean Site Health screen as a good sign, not a guarantee. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> and our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> cover areas that Site Health does not reach.</p>
+
+<h2>Making Site Health part of routine maintenance</h2>
+<p>A quick look at Site Health during regular maintenance helps you catch problems early. A simple routine might be: check for updates, review Site Health, take a backup, apply updates on staging, test, then update live. Note any items you have decided to leave, and why, so the next person looking does not repeat the investigation.</p>
+<p>Some extensions add their own tests to Site Health. If you see a message you do not recognise, check which component added it before acting.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If your Site Health screen is showing warnings you are unsure about, we can review them, explain what matters, and help plan fixes with your host. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where is Site Health in WordPress?</h3>
+<p>Go to Tools, then Site Health, in the WordPress dashboard. You need an administrator account to see it.</p>
+<h3>Do I need to fix every Site Health recommendation?</h3>
+<p>Not always. Critical issues deserve prompt attention, while recommended improvements can be weighed up and planned into maintenance. Some may not apply to your setup.</p>
+<h3>Is it safe to upgrade PHP when Site Health suggests it?</h3>
+<p>It is usually worthwhile, but check that your theme and extensions support the newer version, take a backup and test on staging first.</p>
+<h3>Does Site Health check for malware?</h3>
+<p>No. It checks configuration and settings, but it does not scan for malware or confirm that a site is clean.</p>
+<h3>Should I share my Site Health info with a developer?</h3>
+<p>It can speed up troubleshooting. Read it first, as it includes server details, and share it only with people you trust.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Health%20Screen%3A%20How%20to%20Read%20It%20and%20What%20to%20Do%20About%20It'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Health%20Screen%3A%20How%20to%20Read%20It%20and%20What%20to%20Do%20About%20It'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

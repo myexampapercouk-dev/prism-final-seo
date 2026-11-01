@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Permalink Settings: Choosing a URL Structure</title>
+<meta name="description" content="A plain-English guide to WordPress permalink settings: the structure options, choosing good slugs, category bases and changing URLs safely with redirects.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Permalink Settings: Choosing a URL Structure">
+<meta property="og:description" content="A plain-English guide to WordPress permalink settings: the structure options, choosing good slugs, category bases and changing URLs safely with redirects.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-permalink-settings.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/#article","headline":"WordPress Permalink Settings: How to Choose and Change Your URL Structure","description":"A plain-English guide to WordPress permalink settings: the structure options, choosing good slugs, category bases and changing URLs safely with redirects.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/","url":"https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-permalink-settings.png","inLanguage":"en-GB","wordCount":1641,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Permalink Settings: How to Choose and Change Your URL Structure","item":"https://prismworksstudio.co.uk/blog/wordpress-permalink-settings/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best permalink structure for WordPress?","acceptedAnswer":{"@type":"Answer","text":"There is no single best option, but the post name structure is a sensible default for many business sites because it is short and readable. News-style sites may prefer a date-based structure."}},{"@type":"Question","name":"Is it safe to change permalinks in WordPress?","acceptedAnswer":{"@type":"Answer","text":"On a new site it is low risk. On an established site it changes URLs, so back up first, test on staging and set up redirects from old URLs to new ones."}},{"@type":"Question","name":"Why are my WordPress pages showing not found after a change?","acceptedAnswer":{"@type":"Answer","text":"The rewrite rules may need refreshing. Visiting Settings, then Permalinks, and saving without changes often fixes it."}},{"@type":"Question","name":"Should I include the category in WordPress URLs?","acceptedAnswer":{"@type":"Answer","text":"It can add context, but if you reorganise categories later the URLs will change. A simpler structure is less fragile if your categories are still evolving."}},{"@type":"Question","name":"Can I change the slug of a single post?","acceptedAnswer":{"@type":"Answer","text":"Yes, in the post settings panel of the editor. If the post is already live, add a redirect from the old URL to the new one."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Permalink Settings: How to Choose and Change Your URL Structure</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Permalink Settings: How to Choose and Change Your URL Structure</h1><p class="pws-lead">A plain-English guide to WordPress permalink settings: the structure options, choosing good slugs, category bases and changing URLs safely with redirects.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Permalinks control the web address of every post and page, so the structure is best decided early and changed rarely.</li><li>A simple, readable structure based on the post name suits many small business sites, but the right choice depends on how the content is organised.</li><li>Changing permalinks on a live site changes URLs, so plan redirects and testing before you press save.</li></ul></div>
+<p>Every page on a WordPress site has a web address, and WordPress builds those addresses using its permalink settings. It is one of the first screens many people visit after installing WordPress, and one of the easiest to change without thinking about the consequences. A permalink change on a new site takes seconds. The same change on an established site can alter hundreds of URLs at once.</p>
+<p>This guide explains what the WordPress permalink settings do, the main structure options, how slugs work, and how to change things safely if you need to. It is written for site owners and editors rather than developers, so it keeps code to a minimum.</p>
+
+<h2>What permalinks are</h2>
+<p>A permalink is the permanent URL of a post, page or archive. In WordPress, it is made of a few parts: your domain, any structure you set, and the slug of the individual item. The slug is the readable part at the end, such as a lowercase version of the title with hyphens between words.</p>
+<p>The term permanent is a reminder of intent. A good URL should not change once people have bookmarked it, shared it or linked to it, and once search engines have indexed it. Permalink settings decide the pattern, and slugs decide the detail.</p>
+
+<h2>Where to find the permalink settings</h2>
+<p>In the WordPress dashboard, go to Settings and then Permalinks. You need an administrator account to change them. The screen has two main sections: common settings for posts, and optional settings for category and tag bases. If you run an online shop with WooCommerce, you may also see product permalink options on the same screen.</p>
+<p>Saving this screen also refreshes WordPress's internal rewrite rules. That is why visiting it and pressing save is a common troubleshooting step when pages unexpectedly show not found errors after a change, such as registering a new content type.</p>
+
+<h2>The permalink structure options</h2>
+<p>WordPress offers several preset structures, plus a custom option.</p>
+<table>
+<thead><tr><th>Option</th><th>What it includes</th><th>Things to consider</th></tr></thead>
+<tbody>
+<tr><td>Plain</td><td>A query string with the post ID</td><td>Not readable and gives no clue to the content</td></tr>
+<tr><td>Day and name</td><td>Year, month, day and post name</td><td>Suits news-style sites; dates can make evergreen content look old</td></tr>
+<tr><td>Month and name</td><td>Year, month and post name</td><td>Similar trade-offs to day and name</td></tr>
+<tr><td>Numeric</td><td>An archive path with the post ID</td><td>Short but not descriptive</td></tr>
+<tr><td>Post name</td><td>Just the slug</td><td>Clean and readable; popular for business sites</td></tr>
+<tr><td>Custom structure</td><td>Tags you choose, such as category and post name</td><td>Flexible but needs care to stay consistent</td></tr>
+</tbody>
+</table>
+<p>The permalink structure on this screen applies to posts. Pages use their own hierarchy based on parent and child pages, so a page placed under a parent page will include the parent's slug in its URL.</p>
+
+<h2>Choosing a structure</h2>
+<p>There is no single right answer, but a few principles help.</p>
+<h3>Readable beats clever</h3>
+<p>A URL that describes the content is easier for people to understand when they see it in search results, in an email or on a printed flyer. The plain option, with a number in a query string, is the least helpful in this respect.</p>
+<h3>Think about dates carefully</h3>
+<p>Date-based structures make sense for publications where the date is part of the meaning. For a business blog with practical guides that you update over time, a date in the URL can make an article look out of date even after you refresh it.</p>
+<h3>Categories in the URL are a commitment</h3>
+<p>Including the category in the URL can give helpful context. The drawback is that if you later reorganise categories, or move a post from one category to another, the URL changes. If your categories are stable and meaningful, this may be fine. If they are still evolving, a simpler structure is less fragile. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how to plan categories and sections.</p>
+<h3>Match the way the site is organised</h3>
+<p>If your site has distinct content types, such as case studies, events or team members, those usually have their own URL patterns. Our guide to <a href="/blog/wordpress-custom-post-types/">WordPress custom post types</a> explains how those are set up. The permalink settings screen mainly affects standard posts and archives.</p>
+<p>For many small business sites, the post name option is a sensible default because it is short and readable and does not depend on dates or categories. It is still worth considering your own content before choosing.</p>
+
+<h2>Writing good slugs</h2>
+<p>Whatever structure you choose, the slug carries much of the meaning. WordPress creates a slug from the title when you first save a post, but it is often worth editing it. Good slugs tend to be:</p>
+<ul>
+<li>Short and descriptive, using the main words a reader would expect.</li>
+<li>Lowercase, with hyphens between words.</li>
+<li>Free of filler words where removing them keeps the meaning clear.</li>
+<li>Free of dates or numbers that may go out of date, such as a year in an evergreen guide.</li>
+</ul>
+<p>You can edit the slug in the block editor's post settings panel, under the URL or permalink option. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> shows where the document settings live.</p>
+<p>Slugs should also be unique. If you create a page with the same slug as an existing one, WordPress will add a number to the end. That is usually a sign to check whether you have a duplicate page or an old draft that should be removed.</p>
+
+<h2>Category and tag bases</h2>
+<p>The optional section of the permalinks screen lets you change the word that appears before category and tag archive URLs. By default, WordPress uses category and tag. You can replace these with something more fitting, such as topics, if that suits your site.</p>
+<p>Changing these bases changes every category or tag archive URL at once, so treat it with the same care as changing the main structure. Removing the base entirely is not supported in the core settings and can cause clashes with page slugs, so it is generally best left alone unless a developer has a clear reason.</p>
+
+<h2>Changing permalinks on an existing site</h2>
+<p>If your site is new and has no traffic, changing permalinks is low risk. On an established site, it is a different matter. Changing the structure can change the URL of every post, which affects:</p>
+<ul>
+<li>Bookmarks and links shared by customers.</li>
+<li>Links from other websites.</li>
+<li>Pages already indexed by search engines.</li>
+<li>Internal links in your own content and menus that use full URLs.</li>
+<li>Links in emails, social posts and printed material.</li>
+</ul>
+<p>WordPress does attempt to redirect some old post URLs to new ones, but you should not rely on that alone. A planned approach is safer.</p>
+<h3>Plan the change</h3>
+<p>Export or list your current URLs before changing anything. A sitemap or a crawl of the site can provide this. Decide what each old URL should become.</p>
+<h3>Test on staging</h3>
+<p>Make the change on a staging copy first, then check that posts, pages, archives and any custom content load correctly. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to set up a safe place to do this.</p>
+<h3>Set up redirects</h3>
+<p>Each old URL should permanently redirect to its new equivalent. This helps visitors and search engines find the new location. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers the principles in detail.</p>
+<h3>Update internal links</h3>
+<p>Update menus and internal links so they point straight to the new URLs, rather than relying on redirects. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> may help with the navigation side.</p>
+<h3>Check after launch</h3>
+<p>Once live, check a sample of old URLs to confirm they redirect correctly, and keep an eye on search console reports for errors. Back up the site before you start, so you can roll back if something goes wrong. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> covers what a good backup routine looks like.</p>
+
+<h2>Troubleshooting permalink problems</h2>
+<p>A few issues come up when permalinks misbehave:</p>
+<ul>
+<li><strong>Pages show not found errors.</strong> Saving the permalinks screen without changes often refreshes the rewrite rules and fixes this.</li>
+<li><strong>The settings will not save.</strong> On some servers, WordPress needs permission to update a server configuration file. Your host can usually help.</li>
+<li><strong>Slugs end in a number.</strong> Another item, possibly in the trash or media library, is already using that slug.</li>
+<li><strong>Custom content has unexpected URLs.</strong> These are often set in code or by the tool that registered the content type, rather than on the permalinks screen.</li>
+</ul>
+<p>If problems appeared after a hosting move, check that the server supports the rewrite rules WordPress needs. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for in a host.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If you are planning a new site or considering a URL change on an existing one, we can help you plan the structure, test changes on staging and set up redirects. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best permalink structure for WordPress?</h3>
+<p>There is no single best option, but the post name structure is a sensible default for many business sites because it is short and readable. News-style sites may prefer a date-based structure.</p>
+<h3>Is it safe to change permalinks in WordPress?</h3>
+<p>On a new site it is low risk. On an established site it changes URLs, so back up first, test on staging and set up redirects from old URLs to new ones.</p>
+<h3>Why are my WordPress pages showing not found after a change?</h3>
+<p>The rewrite rules may need refreshing. Visiting Settings, then Permalinks, and saving without changes often fixes it.</p>
+<h3>Should I include the category in WordPress URLs?</h3>
+<p>It can add context, but if you reorganise categories later the URLs will change. A simpler structure is less fragile if your categories are still evolving.</p>
+<h3>Can I change the slug of a single post?</h3>
+<p>Yes, in the post settings panel of the editor. If the post is already live, add a redirect from the old URL to the new one.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Permalink%20Settings%3A%20How%20to%20Choose%20and%20Change%20Your%20URL%20Structure'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Permalink%20Settings%3A%20How%20to%20Choose%20and%20Change%20Your%20URL%20Structure'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
