@@ -31146,4 +31146,466 @@ module.exports = [
 <p>No. Prism Works Studio works with York businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
 `,
   },
+  {
+    slug: 'web-design-coventry',
+    seoTitle: 'Web Design Coventry: Automotive and Engineering Sites',
+    title: 'Web Design in Coventry: Websites for Automotive Engineering Firms, Suppliers and University Spin-outs',
+    description: 'Web design for Coventry automotive suppliers, engineering firms and university spin-outs: technical credibility, specifications, careers and investor pages.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/manufacturer-website-design-uk/'],
+    body: `
+<p>Web design in Coventry often involves engineering. The city's long association with car and motorcycle manufacturing has left a deep supply chain of precision engineering firms, toolmakers, test and validation specialists, design consultancies and component suppliers across the city and the wider West Midlands. Alongside them sit two universities and a growing number of research-led start-ups, many working on electrification, batteries, connected vehicles and advanced materials. These businesses share a need to look technically credible online, but they are often at very different stages: some have decades of history and an outdated website, others are new and have barely launched one. Prism Works Studio works with Coventry businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-birmingham/">Birmingham guide</a> covers the wider West Midlands business scene. This guide focuses specifically on automotive and engineering suppliers, firms repositioning for new technologies, and university spin-outs.</p>
+
+<h2>What automotive supply chain buyers look for</h2>
+<p>Buyers and supplier quality engineers at manufacturers and larger suppliers are typically checking whether a potential supplier can meet technical, quality and capacity requirements. They may arrive at your website from a search, a trade event or a referral, and they usually want answers quickly.</p>
+<p>A supplier website can help them by making these points easy to find:</p>
+<ul>
+<li><strong>Core capabilities.</strong> Processes such as CNC machining, pressing, fabrication, moulding, assembly, testing or design engineering, with tolerances, materials and part sizes described where you are happy to publish them.</li>
+<li><strong>Quality systems.</strong> Certifications you genuinely hold, such as ISO 9001 or IATF 16949, shown accurately and kept current. Buyers may ask for certificates, so make sure what is on the site matches.</li>
+<li><strong>Capacity and equipment.</strong> An equipment list with photographs gives a sense of scale and capability.</li>
+<li><strong>Sectors served.</strong> Automotive, motorsport, aerospace, defence, rail or other sectors, where accurate.</li>
+<li><strong>Location and logistics.</strong> Where you are and how you deliver, which can matter for just-in-time supply.</li>
+</ul>
+<p>Customer names and project details should only appear with permission. Many supply chain businesses work under confidentiality agreements, so describing work by process and sector rather than by customer is often the safer default.</p>
+<p>Our <a href="/blog/manufacturer-website-design-uk/">manufacturer website design guide</a> covers technical B2B sites in more depth.</p>
+
+<h2>Repositioning for electrification and new sectors</h2>
+<p>Many Coventry engineering businesses built their reputations on combustion engine components or traditional manufacturing processes, and are now moving into electrification, battery systems, lightweighting or entirely different sectors. Their websites often lag behind: the home page still leads with work that is becoming a smaller share of the business.</p>
+<p>A repositioning website project tends to work best when it starts with strategy rather than design:</p>
+<ul>
+<li><strong>Decide where the business is heading.</strong> Which sectors, technologies and customers do you want to win over the next few years?</li>
+<li><strong>Identify transferable capabilities.</strong> Precision machining, validation testing or design skills can apply across sectors. Explain how your existing expertise applies to the new area.</li>
+<li><strong>Restructure pages around the future.</strong> New sector and capability pages can lead the navigation, with established work still present but no longer dominant.</li>
+<li><strong>Be honest about experience.</strong> If you are new to a sector, describe your relevant capabilities and investment rather than implying a track record you do not yet have.</li>
+</ul>
+<p>When restructuring, take care not to lose existing search visibility for terms that still bring in work. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains how redirects and content mapping protect that.</p>
+
+<h2>Technical content: data sheets, specifications and downloads</h2>
+<p>Engineers like detail. Product and capability pages that include specifications, drawings, data sheets and test standards, where these can be published, often do more to build confidence than marketing copy.</p>
+<p>Practical points:</p>
+<ul>
+<li>Make downloads clearly labelled with file type and size, and keep version numbers or dates visible so engineers know they have the latest.</li>
+<li>Put key specifications on the page itself as well as in PDFs, so they can be read on a phone and indexed by search engines.</li>
+<li>Consider whether some documents should only be available on request, for example detailed drawings, and make the request route simple.</li>
+<li>Use consistent units and terminology throughout.</li>
+</ul>
+
+<h2>University spin-outs and research-led start-ups</h2>
+<p>Coventry's universities and the surrounding research and innovation activity produce start-ups working on new materials, batteries, mobility, software and other deep technology. A spin-out's website has to speak to several audiences, often before there is a finished product:</p>
+<ul>
+<li><strong>Investors</strong>, who want to understand the problem, the technology, the team and the market opportunity.</li>
+<li><strong>Industrial partners</strong>, who want to know whether the technology could fit their products or processes and how to collaborate.</li>
+<li><strong>Early customers or pilot users</strong>, who need to understand what is available now and what is still in development.</li>
+<li><strong>Recruits</strong>, often researchers and engineers choosing between start-ups and established employers.</li>
+</ul>
+<p>The common pitfall is overclaiming. Early-stage companies are under pressure to sound impressive, but describing a prototype as a finished product, or implying partnerships that are only conversations, can damage trust with exactly the people you need to convince. Clear language about the stage of development, such as "in laboratory testing" or "pilot programmes available", tends to land better with technical audiences.</p>
+<p>Spin-outs may also need to be careful about intellectual property: patents pending, licensing arrangements with the university and what can be disclosed publicly. Check with your technology transfer office or advisers before publishing technical detail.</p>
+<p>A spin-out site does not need to be large. A focused site with a clear explanation of the technology, a team page, news and a contact route for each audience is often enough at first, built on a platform such as WordPress or Squarespace that the team can update as the company grows.</p>
+
+<h2>Careers pages for engineering talent</h2>
+<p>Engineering firms of every size in Coventry compete for skilled people, from apprentices and machinists to design engineers and software developers working on vehicle systems. The website is often a candidate's first real look at an employer.</p>
+<p>Useful careers content includes the kinds of projects people work on, described within confidentiality limits, training and apprenticeship routes, the working environment and current vacancies with a simple application process. Real photography of your workshop and team, with their consent, is far more persuasive than stock images.</p>
+
+<h2>Search visibility for technical B2B firms</h2>
+<p>Engineering buyers often search for specific processes, materials or standards rather than company names. A site with dedicated pages for each main capability, each explaining the process, materials, tolerances and applications, gives search engines much more to understand than one generic services page.</p>
+<p>Helpful technical articles, such as explanations of when to choose one process over another, can also attract relevant visitors, as long as they are accurate and written for engineers rather than stuffed with keywords. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan this.</p>
+
+<h2>Build quality and security</h2>
+<p>Larger manufacturers increasingly expect suppliers to take information security seriously. Your website is part of that picture: keep software updated, use HTTPS, protect forms and limit who has admin access. Some customers may ask about schemes such as Cyber Essentials during supplier onboarding; whether it applies depends on their requirements. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers ongoing care.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Coventry businesses remotely. Engineers, managers and founders can join planning sessions and design reviews over video calls without leaving the workshop or lab, and you control exactly which technical information and images are shared during the project.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Should we list our quality certifications on the website?</h3>
+<p>Yes, if you hold them. Show them accurately and keep them current, as buyers may check certificates during supplier assessments.</p>
+<h3>How do we reposition our website for electrification work?</h3>
+<p>Start by deciding which sectors and technologies you are targeting, then build pages that explain how your existing capabilities apply, without implying experience you do not have yet.</p>
+<h3>Should technical specifications be in PDFs or on the page?</h3>
+<p>Both where possible. On-page specifications are easier to read on mobile and can be indexed, while PDFs suit engineers who want to save or share a document.</p>
+<h3>What does a university spin-out website need?</h3>
+<p>A clear explanation of the technology and its stage of development, the team, news, and contact routes for investors, partners and early customers.</p>
+<h3>Can we name the manufacturers we supply?</h3>
+<p>Only with their permission. Many suppliers describe sectors and processes instead, which avoids breaching confidentiality agreements.</p>
+<h3>Do you need to visit our site in Coventry?</h3>
+<p>No. Prism Works Studio works remotely. You can supply cleared photography or arrange a local photographer, and reviews happen over video calls.</p>
+<p>If your Coventry business needs a website that reflects your engineering capability or your next direction, <a href="/contact/">book a free discovery call</a> and we will talk through your buyers and goals.</p>
+`,
+  },
+  {
+    slug: 'web-design-milton-keynes',
+    seoTitle: 'Web Design Milton Keynes: Logistics and Corporate Sites',
+    title: 'Web Design in Milton Keynes: Websites for Logistics Firms, Corporate Offices and Growing B2B Companies',
+    description: 'Web design for Milton Keynes logistics, warehousing and corporate businesses: B2B enquiry routes, recruitment pages and multi-site structures.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>Web design in Milton Keynes has a distinctly business-to-business flavour. The town's position between London and Birmingham, with the M1 and the West Coast Main Line close by, has made it home to distribution centres, third-party logistics operators, regional and national head offices, and a large number of professional and technology firms serving them. Many of these companies have websites that were built quickly, added to over the years, and now try to speak to customers, recruits, suppliers and investors all on one crowded home page. Prism Works Studio works with Milton Keynes businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>This guide looks at the specific website problems that B2B and corporate organisations in and around Milton Keynes tend to face: serving several audiences, presenting operational capability, supporting recruitment, and managing sites that cover more than one location or division.</p>
+
+<h2>One website, several very different visitors</h2>
+<p>A consumer brand's website mostly has one job: help a shopper buy. A Milton Keynes logistics or corporate website rarely has that luxury. On the same day it might be visited by a procurement manager comparing warehousing providers, a forklift operator looking for night-shift work, a graduate researching an employer, a supplier checking invoicing details and a journalist looking for a press contact.</p>
+<p>Trying to satisfy all of them on the home page usually satisfies none. A better approach is to identify the main audiences early, decide which one matters most commercially, and give each a clear route:</p>
+<ul>
+<li><strong>Customers and prospects.</strong> Services, sectors served, capability, coverage and a direct way to request a quote or a call.</li>
+<li><strong>Candidates.</strong> Current vacancies, what working there is actually like, shift patterns where relevant, and an application route that works on a phone.</li>
+<li><strong>Partners and suppliers.</strong> Practical information such as supplier onboarding contacts or policies.</li>
+<li><strong>Stakeholders.</strong> Company information, leadership, policies and news, presented calmly rather than as marketing.</li>
+</ul>
+<p>The navigation can reflect this directly, for example with a clear "Careers" item separate from "Services", so a job seeker never lands in the sales funnel and a buyer never has to scroll past vacancies.</p>
+
+<h2>Presenting logistics and warehousing capability</h2>
+<p>Buyers of logistics, fulfilment and warehousing services are usually comparing several providers against a list of requirements. They want to establish quickly whether you can handle their volumes, product types and delivery patterns. Vague claims about being "trusted" or "end-to-end" do not help them shortlist you.</p>
+<p>Capability pages work better when they answer concrete questions, using only information you are happy to publish:</p>
+<ul>
+<li>What types of goods you handle, such as ambient, palletised, small parcel, temperature-controlled or hazardous, and any you do not.</li>
+<li>Which services you offer: storage, pick and pack, cross-docking, returns handling, kitting, transport or a combination.</li>
+<li>Which sectors you serve and how your approach differs between them.</li>
+<li>How clients connect with you, for example whether you integrate with Shopify, WooCommerce or other order systems, described accurately.</li>
+<li>The accreditations and certifications you genuinely hold, shown clearly and kept up to date.</li>
+</ul>
+<p>Facility photos taken properly, with good light and tidy aisles, can do more than stock imagery to show you are real. If you cannot photograph customer goods for confidentiality reasons, empty racking, loading bays and equipment still help.</p>
+<p>Our guide to <a href="/blog/logistics-courier-website-design-uk/">logistics and courier website design</a> goes deeper on quote forms and service structure for this sector.</p>
+
+<h2>Quote and enquiry forms that suit B2B buyers</h2>
+<p>A B2B buyer filling in a quote form is often doing early research and may not want a sales call yet. Forms that demand a huge amount of detail up front can put them off, while forms that ask nothing make it hard for your team to respond usefully.</p>
+<p>A middle path tends to work: ask for the essentials such as company, contact details, service of interest and a rough description of the requirement, then offer optional fields for volumes or timescales. Make it clear what happens next and roughly when they can expect a reply, as long as that is a promise your team can actually keep.</p>
+<p>It also helps to offer more than one route. Some buyers prefer to call, some want to email a specification document, and some just want to download a capability overview to share internally. A downloadable summary can be useful for buyers who need to circulate information to colleagues, though gating it behind a long form may reduce how often it gets passed on.</p>
+
+<h2>Recruitment pages for a competitive local labour market</h2>
+<p>Many Milton Keynes employers recruit continuously, whether for warehouse operatives, drivers, engineers, customer service teams or office staff. If the careers section is a single page with a list of job titles, the website is missing a chance to help.</p>
+<p>Good careers pages typically include:</p>
+<ul>
+<li><strong>Clear vacancy listings</strong> with location, hours or shift pattern, and the key requirements, so people can rule themselves in or out quickly.</li>
+<li><strong>A simple mobile application route.</strong> Many applicants will apply from a phone. Long forms that require a CV upload on mobile can lose people.</li>
+<li><strong>Honest information about the work.</strong> What a shift looks like, how people get to the site, whether there is parking, and what training is provided.</li>
+<li><strong>Accessible design</strong>, so applicants using screen readers or keyboard navigation can apply without barriers.</li>
+</ul>
+<p>Job postings can also appear in Google's job search features if they are marked up with the appropriate structured data and kept current. Expired vacancies should be removed or marked as closed, so candidates are not applying for roles that no longer exist.</p>
+<p>When you collect applicant data, your privacy notice should explain how it is used and how long it is kept. UK GDPR applies to recruitment data as it does to customer data; the Information Commissioner's Office publishes guidance for employers, and it is worth taking advice if you are unsure about your obligations.</p>
+
+<h2>Corporate and head office websites</h2>
+<p>Milton Keynes hosts a number of regional and national offices, from financial services to technology and retail operations. Corporate sites have their own priorities: governance information, policy documents, investor or stakeholder information, leadership pages and news.</p>
+<p>The design challenge here is restraint. A corporate site needs to look credible and be easy to navigate, but it also needs to be maintainable by an internal communications team who may not be web specialists. That usually means:</p>
+<ul>
+<li>A content management system that lets non-technical staff publish news, update policies and add documents without breaking layouts.</li>
+<li>Consistent page templates, so new content automatically matches the rest of the site.</li>
+<li>A clear system for documents such as modern slavery statements, gender pay gap reports or sustainability information, where these apply to your organisation, so the latest version is always easy to find.</li>
+<li>User roles and approval steps, so drafts can be reviewed before going live.</li>
+</ul>
+<p>WordPress is often a practical choice for this kind of site because content teams are familiar with it and it can be structured carefully, though the right platform depends on your requirements and existing systems.</p>
+
+<h2>Multi-site and multi-division structures</h2>
+<p>Businesses that started in Milton Keynes and grew often end up with several sites, depots or divisions. Some have a separate website for each, which can be hard to maintain and splits search visibility. Others put everything on one site with no clear structure.</p>
+<p>Before redesigning, it is worth deciding:</p>
+<ul>
+<li>Whether each division genuinely needs its own brand and website, or whether sections of one site would serve customers better.</li>
+<li>How location pages should work. A page for each depot or office, with real details such as address, opening hours, services available there and directions, can help both visitors and local search, provided each page is genuinely useful rather than a copy with the town name swapped.</li>
+<li>How the site will handle future acquisitions or new locations without another rebuild.</li>
+</ul>
+<p>If you are merging several old sites into one, redirects need careful planning so existing search rankings and inbound links are not lost. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers the process.</p>
+
+<h2>Search visibility for B2B services</h2>
+<p>B2B buyers search differently from consumers. They often use specific service terms, sector terms and locations, for example a type of warehousing plus a region, or a professional service plus "Milton Keynes". They may also search for comparisons or explanations before they search for suppliers.</p>
+<p>A site structured around clear service pages, sector pages and helpful guides tends to give search engines more to work with than a site with one long services page. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan this, and the <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers Google Business Profile and location signals if you serve customers from a physical site.</p>
+
+<h2>Speed, security and practical build quality</h2>
+<p>B2B websites are sometimes treated as brochures that do not need much technical care. In practice, a slow or insecure site can undermine a procurement manager's confidence and may harm search performance.</p>
+<p>The basics are worth getting right: secure hosting with HTTPS, a regular update and backup routine, images sized properly, and forms that are protected against spam without making genuine buyers jump through hoops. Larger buyers may also ask about your cyber security practices during procurement. The UK government-backed Cyber Essentials scheme is one framework some organisations use; whether it is relevant depends on your customers' requirements.</p>
+<p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> explains what ongoing care involves after launch.</p>
+
+<h2>Working with a remote agency from Milton Keynes</h2>
+<p>Milton Keynes businesses are used to working with partners spread across the country, and website projects suit that model well. Planning, content gathering, design review and testing all happen on screen anyway. Prism Works Studio works with businesses in Milton Keynes remotely, which means your team joins video calls and reviews drafts from wherever they are based, including staff at different sites.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Should our careers section be a separate website?</h3>
+<p>Usually not. A well-structured careers section on your main site keeps your brand consistent and is easier to maintain. A separate site can make sense for very large recruitment operations, but it adds cost and splits attention.</p>
+<h3>What should a logistics company show on its website?</h3>
+<p>The goods you handle, the services you offer, the sectors you serve, how clients connect their systems to yours, and the accreditations you genuinely hold. Real facility photos help too.</p>
+<h3>Do we need a page for each of our Milton Keynes sites?</h3>
+<p>If customers or candidates visit different locations, separate pages with real details for each can help. Avoid near-identical pages that only change the address, as they add little for visitors.</p>
+<h3>Can our internal team update the site after launch?</h3>
+<p>That should be planned from the start. A CMS such as WordPress with sensible templates and user roles lets non-technical staff publish news and vacancies safely.</p>
+<h3>Do you need to visit our premises to design the website?</h3>
+<p>No. Prism Works Studio works remotely, so planning and reviews happen over video calls. Your own photos or video of your facilities can be supplied digitally.</p>
+<h3>How do we keep rankings when merging several old websites?</h3>
+<p>Map every important old URL to the most relevant new page and set up permanent redirects before launch, then monitor Google Search Console closely in the weeks afterwards.</p>
+<p>If your Milton Keynes business needs a clearer website for buyers, candidates or stakeholders, <a href="/contact/">book a free discovery call</a> and we will talk through your audiences and priorities.</p>
+`,
+  },
+  {
+    slug: 'web-design-norwich',
+    seoTitle: 'Web Design Norwich: Food, Farming and Insurance Websites',
+    title: 'Web Design in Norwich: Websites for Food Producers, Agricultural Businesses and Insurance Firms',
+    description: 'Web design for Norwich and Norfolk food producers, farm businesses and insurance firms: selling direct, trade enquiries and compliant financial content.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/food-and-drink-ecommerce-uk/'],
+    body: `
+<p>Web design in Norwich covers an unusual mix of businesses. The city is the commercial centre for a large rural county, so it serves farms, agricultural suppliers, food and drink producers and the businesses around them. It also has a long-established insurance and financial services sector, along with professional firms, a university and a busy independent retail scene in the lanes around the city centre. A website that works for a Norfolk cheesemaker looks very different from one for a specialist insurance broker, yet both need to be clear, credible and easy to use. Prism Works Studio works with Norwich businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>This guide looks at three groups in particular: food and drink producers, agricultural and rural businesses, and insurance and financial services firms, with the specific website questions each faces.</p>
+
+<h2>Food and drink producers: three audiences, one website</h2>
+<p>A small Norfolk producer of preserves, cheese, beer, cider, meat, baked goods or rapeseed oil may sell in several ways at once: direct to consumers online, to delis, farm shops, pubs and restaurants on trade terms, at markets and events, and perhaps from a farm shop or tasting room. Each channel has its own visitor with its own questions.</p>
+<p>Splitting the website into clear routes helps:</p>
+<ul>
+<li><strong>Shop.</strong> An online store for consumers, with clear product pages, delivery information and checkout.</li>
+<li><strong>Trade.</strong> A separate section explaining how to stock your products, minimum orders, how to request a price list and who to contact. Some producers use a password-protected trade area or a wholesale price setup in their ecommerce platform.</li>
+<li><strong>Visit and find us.</strong> Where your products are stocked, upcoming markets and events, and opening times for any farm shop or tasting room.</li>
+</ul>
+<p>A "where to buy" page listing stockists can help consumers who prefer to buy locally, and it shows trade buyers that others already stock you, provided stockists are happy to be listed and the list is kept up to date.</p>
+
+<h2>Selling food online: the practical details</h2>
+<p>Food ecommerce has more practical constraints than many product categories. Before building an online shop, think through:</p>
+<ul>
+<li><strong>Delivery.</strong> Whether products are ambient, chilled or frozen, how they are packed, which days you dispatch and where you deliver. Chilled products often need dispatch early in the week to avoid sitting in a depot over a weekend.</li>
+<li><strong>Allergen and ingredient information.</strong> UK food law requires certain allergen information to be available for food sold at a distance, both before purchase and on delivery. The Food Standards Agency publishes guidance; check your obligations with them or your local authority.</li>
+<li><strong>Shelf life and storage.</strong> Clear information on how long products last and how to store them.</li>
+<li><strong>Gifting and seasonal ranges.</strong> Hampers and Christmas boxes can be a large part of the year for food producers. Plan for gift messages, delivery date selection and stock limits.</li>
+<li><strong>Alcohol.</strong> If you sell alcohol online, licensing and age verification apply. Take advice on what your licence allows and how age checks should work.</li>
+</ul>
+<p>Shopify is often a good fit for small food producers because it handles subscriptions, delivery rules and gift options through its settings and apps, though WooCommerce can work well for businesses already on WordPress. Our guide to <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce</a> covers this area in more depth.</p>
+
+<h2>Telling the provenance story without overdoing it</h2>
+<p>Provenance is one of the strongest things a Norfolk producer has: the farm, the landscape, the family, the way something is made. Good photography of the place and process can carry a lot of that story.</p>
+<p>It helps to keep provenance claims specific and accurate. Words such as "local", "farm-fresh", "traditional" or "handmade" should reflect what you actually do. Certain terms, such as protected food names or "organic", have legal definitions and can only be used if you meet the relevant requirements. If in doubt, check before publishing.</p>
+
+<h2>Agricultural and rural businesses</h2>
+<p>Norfolk's farming economy supports a wide range of businesses: machinery dealers and repairers, agronomists, feed and seed suppliers, contractors, grain merchants, land agents, farm diversification projects and rural property businesses. Their customers are often practical, time-pressed and know exactly what they are looking for.</p>
+<p>Rural B2B websites tend to work better when they:</p>
+<ul>
+<li><strong>Load quickly on slower connections.</strong> Rural broadband and mobile coverage can be patchy. Light pages, compressed images and minimal heavy scripts help.</li>
+<li><strong>Make contact effortless.</strong> A click-to-call phone number and a short enquiry form near the top of key pages. Many agricultural customers would rather phone than fill in a long form.</li>
+<li><strong>Show stock or equipment clearly.</strong> Machinery dealers, for example, benefit from used stock listings that are easy to update, with good photos, key specifications and an enquiry button on each listing.</li>
+<li><strong>Explain seasonal services.</strong> Contractors and agronomists can show when services are available and how to book ahead of busy periods.</li>
+<li><strong>Cover the area served.</strong> A clear description of the parts of Norfolk and neighbouring counties you cover helps visitors and local search.</li>
+</ul>
+
+<h2>Farm diversification websites</h2>
+<p>Many farms have diversified into holiday lets, glamping, wedding venues, farm shops, pick-your-own, events or rural office units. Each needs a different kind of website, and combining them under the farm's name can confuse visitors.</p>
+<p>Sometimes one website with clear sections for each venture works well, especially when they share a brand and location. At other times, a separate website for a wedding venue or holiday let makes more sense because the audience and booking process differ so much. Our <a href="/blog/holiday-let-website-design-uk/">holiday let website design guide</a> covers direct bookings.</p>
+
+<h2>Insurance and financial services websites</h2>
+<p>Norwich has a long history in insurance, and the city and surrounding area are home to brokers, specialist underwriting agencies, financial advisers and related businesses. Websites for regulated financial firms carry responsibilities that consumer brands do not.</p>
+<p>Points to plan into the design from the start include:</p>
+<ul>
+<li><strong>Financial promotion rules.</strong> Firms regulated by the Financial Conduct Authority generally need their marketing, including website content, to be fair, clear and not misleading. Product claims, comparisons and descriptions of cover should be reviewed by your compliance function before publishing.</li>
+<li><strong>Required disclosures.</strong> Regulated firms typically need to show their regulatory status and certain firm details on their website. Your compliance team or adviser can confirm exactly what applies to you.</li>
+<li><strong>Consumer Duty.</strong> The FCA's Consumer Duty places expectations on how firms communicate with retail customers. Clear page structure, plain language and accessible design can support that, though the specific obligations should be checked with your compliance team.</li>
+<li><strong>Approval workflow.</strong> A content management system with draft, review and publish steps helps compliance sign off changes before they go live.</li>
+</ul>
+<p>Beyond compliance, insurance websites benefit from the same clarity as any service business: who you insure, what types of cover you arrange, how claims support works and how to get a quote. Specialist brokers in particular can do well by explaining their niche in depth rather than trying to appear as a general insurer.</p>
+<p>Our guide to <a href="/blog/professional-services-seo-uk/">professional services SEO</a> covers how regulated firms can build search visibility around their specialisms.</p>
+
+<h2>Independent retail in the city centre</h2>
+<p>Norwich's independent shops, cafés and boutiques often rely on visitors and loyal local customers. A website for them needs to cover the basics well: what you sell, opening hours, location and how to find you, plus an online shop if selling remotely makes sense. Keep your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> consistent with the website, since many visitors check hours on Google Maps first.</p>
+
+<h2>Working with Prism Works Studio from Norfolk</h2>
+<p>Prism Works Studio works with Norwich and Norfolk businesses remotely. That suits rural businesses in particular, as nobody needs to travel into the city for meetings; planning and reviews happen over video calls and shared drafts at times that fit around farm work, markets or office hours.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Should a food producer have separate trade and consumer sections?</h3>
+<p>Usually yes. Trade buyers need minimum orders, price lists and contacts, while consumers need a simple shop. Separate routes keep each clear.</p>
+<h3>What allergen information do I need to show when selling food online?</h3>
+<p>UK rules require allergen information to be available before purchase and on delivery for food sold at a distance. Check current Food Standards Agency guidance for your products.</p>
+<h3>Can I sell chilled food through Shopify?</h3>
+<p>Yes, with delivery rules that limit dispatch days, suitable packaging and clear storage information. Plan the logistics before building the shop.</p>
+<h3>Does my insurance broker website need compliance sign-off?</h3>
+<p>If you are FCA regulated, your website content is generally treated as marketing, so it should be reviewed by your compliance function. Check your specific obligations with them.</p>
+<h3>How do I make a website work for customers with poor rural broadband?</h3>
+<p>Keep pages light, compress images, avoid autoplay video and put phone numbers and key information near the top of each page.</p>
+<h3>Should my farm diversification project have its own website?</h3>
+<p>It depends on the audience. A wedding venue or holiday let with its own booking process often benefits from a separate site, while smaller ventures can sit within the farm's main website.</p>
+<p>If your Norwich or Norfolk business needs a website that sells, informs or reassures more clearly, <a href="/contact/">book a free discovery call</a> and we will talk through your audiences and priorities.</p>
+`,
+  },
+  {
+    slug: 'web-design-plymouth',
+    seoTitle: 'Web Design Plymouth: Marine, Defence Supply and Tourism',
+    title: 'Web Design in Plymouth: Websites for Marine Businesses, Defence Suppliers and Waterfront Tourism',
+    description: 'Web design for Plymouth marine firms, defence suppliers and waterfront tourism: technical credibility, careful disclosure, bookings and seasonal content.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/manufacturer-website-design-uk/'],
+    body: `
+<p>Web design in Plymouth sits at the meeting point of three very different kinds of business. The city's long maritime history has left it with marine engineering firms, boatyards, chandleries and marine science organisations. Its naval and dockyard heritage supports a supply chain of engineering, fabrication and technical service companies. And the waterfront, from the Barbican and Sutton Harbour to the Hoe and the wider Plymouth Sound, draws visitors for boat trips, water sports, dining and heritage. Each needs something different from a website, and some businesses straddle more than one. Prism Works Studio works with Plymouth businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>This guide covers the website questions specific to those three groups: presenting technical capability under confidentiality constraints, making marine services easy to find and book, and building tourism sites that cope with weather and seasons.</p>
+
+<h2>Defence supply chain websites: capability without oversharing</h2>
+<p>Engineering and technical firms that work on defence-related contracts face an unusual tension. Prime contractors and procurement teams want to see evidence of capability, quality systems and relevant experience. Yet much of the actual work may be confidential, covered by contractual restrictions, or simply not something the customer wants publicised.</p>
+<p>The safest approach is to agree what can be published before any copy is written. That conversation might involve your contracts team, your customers or both. Once the boundaries are clear, a website can still say a great deal:</p>
+<ul>
+<li><strong>Capabilities in general terms.</strong> Machining, fabrication, electrical and control systems, testing, design engineering or through-life support, described by process and capacity rather than by programme.</li>
+<li><strong>Quality and compliance.</strong> Quality management certifications you hold, such as ISO 9001, and any sector-specific approvals, stated accurately.</li>
+<li><strong>Sectors served.</strong> Naming broad sectors such as defence, marine, energy and nuclear, where accurate, without naming specific projects or customers unless you have permission.</li>
+<li><strong>Facilities and equipment.</strong> Photographs and lists of equipment, cleared for publication and free of sensitive details in the background.</li>
+</ul>
+<p>Photography deserves particular care. A workshop shot can accidentally show drawings, part numbers, labels or screens. Review every image before it goes live.</p>
+<p>Larger customers may also ask about your information security practices. The government-backed Cyber Essentials scheme is required for some government contracts that involve certain types of information, so it is worth checking whether it applies to the work you bid for; if you hold the certification, it can be shown on the site. Requirements vary by contract, so take advice rather than relying on general guidance.</p>
+<p>Our guides to <a href="/blog/manufacturer-website-design-uk/">manufacturer website design</a> and <a href="/blog/engineering-consultancy-website-design-uk/">engineering consultancy website design</a> cover technical B2B sites more broadly.</p>
+
+<h2>Recruitment for engineering and technical roles</h2>
+<p>Engineering firms in the Plymouth area often need to recruit apprentices, skilled trades and engineers. A careers section that explains the work, the training and the progression routes can help, particularly for apprentices and their families who may be comparing several employers.</p>
+<p>Keep vacancies current, make applications straightforward on mobile, and be clear about any eligibility requirements, such as security vetting for certain roles, without going into detail you should not publish.</p>
+
+<h2>Marine service businesses: practical information first</h2>
+<p>Boatyards, marine engineers, riggers, electronics installers, chandleries and moorings operators serve customers who often know exactly what they need. A boat owner looking for an engine service or a lift-out wants to find the service, check availability and get in touch, sometimes from a phone on a pontoon.</p>
+<p>Marine service websites tend to work better when they include:</p>
+<ul>
+<li><strong>Separate pages for each main service</strong>, such as engine servicing, antifouling, rigging, electronics, hauling and storage, rather than one long list.</li>
+<li><strong>Clear location information.</strong> Which marina or yard you work from, whether you travel to other marinas, and how to find you from the water as well as the road.</li>
+<li><strong>Seasonal guidance.</strong> When to book winter lay-up or spring commissioning, so customers plan ahead.</li>
+<li><strong>Brands or engine types you work on</strong>, where you have the expertise, described accurately and without implying dealer or authorised status you do not hold.</li>
+<li><strong>A quick enquiry route</strong> that lets someone describe their boat and the job, and attach a photo.</li>
+</ul>
+<p>Chandleries and marine parts suppliers may also benefit from selling online. Shopify and WooCommerce can both handle large catalogues with variants and specifications, though marine parts often need careful product data, such as fitting, size and compatibility details, to prevent returns. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> covers the platform decision.</p>
+
+<h2>Marine science and technology organisations</h2>
+<p>Plymouth also has a cluster of marine science, research and ocean technology activity. Smaller technology businesses in this space often need to explain specialist products, such as sensors, survey equipment or software, to buyers in research, government and industry.</p>
+<p>The same principle applies as for any technical product: explain the problem it solves in plain language first, then provide specifications, data sheets and technical documentation further down or on linked pages. Downloads should be clearly labelled and kept up to date.</p>
+
+<h2>Waterfront tourism: weather, tides and bookings</h2>
+<p>Tourism businesses around Plymouth's waterfront, such as boat trips, ferries, fishing charters, kayak and paddleboard hire, sailing schools, diving centres and harbourside restaurants, share a challenge inland attractions do not: the weather and sea conditions decide whether they can operate.</p>
+<p>Their websites should make that easy to handle:</p>
+<ul>
+<li><strong>Clear booking with live availability</strong>, so visitors can book a sailing or session without phoning.</li>
+<li><strong>A visible weather and cancellation policy.</strong> Explain what happens if a trip is cancelled for conditions, how customers are told, and how refunds or rebooking work. Make sure your terms reflect UK consumer law; take advice if you are unsure.</li>
+<li><strong>A simple way to post same-day updates</strong>, such as a notice banner your team can change from a phone.</li>
+<li><strong>Practical visitor information.</strong> Where to meet, what to wear or bring, age or ability requirements, accessibility, parking and nearby public transport.</li>
+<li><strong>Seasonal timetables</strong> that are easy to update as schedules change through the year.</li>
+</ul>
+<p>Many visitors find these businesses on a phone while already in Plymouth, often through Google Maps. An up-to-date Google Business Profile, with correct opening hours and booking links, matters as much as the website itself. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains how to manage it.</p>
+<p>If you also offer accommodation, our <a href="/blog/holiday-let-website-design-uk/">holiday let website design guide</a> covers direct bookings in more detail.</p>
+
+<h2>Businesses that cross categories</h2>
+<p>Some Plymouth firms work across more than one of these worlds, for example a marine engineering business serving leisure boat owners and commercial or defence customers, or a boatyard that also runs sailing courses. Trying to speak to everyone on one page usually confuses visitors.</p>
+<p>A better structure separates audiences clearly. The home page can explain that you serve both, then direct each visitor to the right section: commercial and technical customers to capability pages, leisure customers to service and booking pages. Tone can differ between sections while the brand stays consistent.</p>
+
+<h2>Mobile performance by the water</h2>
+<p>Mobile signal on quays, slipways and boats can be weaker than in the city centre. Pages that load heavy video or large uncompressed images may struggle. Keeping pages light, compressing images, and making key information such as phone numbers, meeting points and booking buttons visible early helps visitors in those conditions. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> explains the main techniques.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Plymouth businesses remotely, so planning, design reviews and testing take place over video calls and shared drafts. For technical and defence-related businesses, this also means you control exactly which information and images are shared for the project. You can supply your own cleared photography, or arrange a local photographer.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>How much can a defence supplier say on its website?</h3>
+<p>It depends on your contracts and customers. Agree what is publishable before writing. Capabilities, certifications, broad sectors and cleared facility photos are often possible even when projects are confidential.</p>
+<h3>Should our website show the customers we supply?</h3>
+<p>Only with their permission. Many supply chain businesses describe sectors served rather than naming customers.</p>
+<h3>How should a boat trip business handle weather cancellations online?</h3>
+<p>Publish a clear cancellation and refund policy, give staff an easy way to post same-day updates, and contact booked customers directly when trips are cancelled.</p>
+<h3>Can a chandlery sell parts online?</h3>
+<p>Yes. Shopify or WooCommerce can handle large catalogues, but marine parts need accurate fitting and compatibility details to reduce returns.</p>
+<h3>Can you design our site without visiting our workshop?</h3>
+<p>Yes. Prism Works Studio works remotely. You supply photos cleared for publication, or arrange a local photographer, and reviews happen over video calls.</p>
+<h3>Should leisure and commercial marine services share one website?</h3>
+<p>Often yes, with clearly separate sections for each audience, so visitors are routed quickly to the information that applies to them.</p>
+<p>If your Plymouth business needs a website that presents your capability clearly or makes booking easier, <a href="/contact/">book a free discovery call</a> and we will talk through your audiences and what you can publish.</p>
+`,
+  },
+  {
+    slug: 'web-design-reading',
+    seoTitle: 'Web Design Reading: Sites for Tech and Corporate Services',
+    title: 'Web Design in Reading: Websites for Tech Companies, IT Services and Corporate Service Providers',
+    description: 'Web design for Reading tech firms, IT providers and corporate services: explaining technical offers clearly, product pages, demo routes and trust signals.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/saas/'],
+    body: `
+<p>Web design in Reading frequently comes down to a single challenge: explaining something technical to people who are busy. The town and the wider Thames Valley have a strong concentration of software companies, IT managed service providers, cyber security firms, telecoms businesses, consultancies and the corporate offices of larger technology organisations, along with the accountants, lawyers and recruitment firms that serve them. Many of these businesses do genuinely sophisticated work, yet their websites describe it in jargon that their buyers either skim past or do not understand. Prism Works Studio works with Reading businesses remotely, handling planning, writing support, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-cambridge/">Cambridge guide</a> looks at research-led businesses. This guide is about clarity: how Reading technology and corporate service businesses can explain complex offers, speak to technical and commercial buyers at once, and design enquiry routes that suit long B2B buying cycles.</p>
+
+<h2>The clarity problem on technology websites</h2>
+<p>Read the home pages of a handful of IT and software companies and many will say something similar: digital transformation, innovative solutions, seamless integration, empowering businesses. None of these phrases tells a visitor what the company actually does, who it does it for or why it is different.</p>
+<p>Before any design work, it helps to answer three questions in ordinary language:</p>
+<ul>
+<li><strong>What do you do?</strong> "We look after the IT for accountancy and law firms with 20 to 200 staff" is clearer than "end-to-end managed technology solutions".</li>
+<li><strong>Who is it for?</strong> Name the types of organisation, size or situation you serve best.</li>
+<li><strong>What changes for the customer?</strong> Fewer outages, faster onboarding of staff, a system that finance can actually use. Describe outcomes in general terms you can stand behind, without inventing figures.</li>
+</ul>
+<p>Once these answers exist, the home page headline, the service pages and even the navigation become much easier to design. A good test is whether someone outside your industry could explain your business back to you after reading the top of your home page.</p>
+
+<h2>Writing for technical buyers and budget holders together</h2>
+<p>Technology purchases often involve more than one person. An IT manager or developer may evaluate the detail, while a finance director or managing director signs off the spend. They read the same website with very different questions.</p>
+<p>Pages can serve both by layering information:</p>
+<ul>
+<li>A plain-English summary at the top, explaining the benefit and who it suits.</li>
+<li>Further down, the technical detail: supported platforms, integrations, security approach, deployment options and service levels, written accurately.</li>
+<li>Expandable sections or linked technical pages for the deepest detail, so it is available without overwhelming everyone else.</li>
+</ul>
+<p>Comparison tables can help when you offer several tiers or service levels, as long as they describe real differences. If you offer pricing tiers, being open about how pricing works, even in broad terms, can save both sides time, though many service businesses prefer to quote individually.</p>
+
+<h2>Product pages for software companies</h2>
+<p>Software companies in the Reading area range from early-stage start-ups to established vendors. Their product pages need to show the product rather than just describe it.</p>
+<p>Useful elements include:</p>
+<ul>
+<li><strong>Real screenshots or short screen recordings</strong> of the interface, with captions explaining what the viewer is looking at.</li>
+<li><strong>Use case pages</strong> that describe how different types of customer use the product, rather than one generic feature list.</li>
+<li><strong>Integration information</strong> that is accurate and current, since buyers often need to know whether you connect with systems they already use.</li>
+<li><strong>Security and data information</strong>, such as where data is hosted and how access is controlled, described carefully and only to the extent that it is true.</li>
+</ul>
+<p>Our <a href="/blog/saas-website-design-uk/">SaaS website design guide</a> covers pricing pages, trial sign-up flows and onboarding in more depth.</p>
+
+<h2>Demo, trial and contact routes</h2>
+<p>A frequent mistake on B2B technology sites is offering only one call to action: "Book a demo". That suits buyers who are ready to talk, but many visitors are earlier in their research and are not ready to commit to a call with a salesperson.</p>
+<p>Offering routes that match different stages tends to work better:</p>
+<ul>
+<li><strong>Early research:</strong> guides, explainer pages or a short product video that can be watched without signing up.</li>
+<li><strong>Active evaluation:</strong> a free trial if your product suits one, a recorded demo, or detailed technical documentation.</li>
+<li><strong>Ready to talk:</strong> a demo booking or consultation form that is short and makes clear what will happen.</li>
+</ul>
+<p>Each route should be measured separately, so you can see which content leads to enquiries. Google Analytics 4 can track form submissions, video plays and downloads as events if set up properly.</p>
+
+<h2>Trust signals for IT and cyber security providers</h2>
+<p>Buyers handing over access to their systems or data need to trust the provider. For managed service providers and cyber security firms, the website is often where that trust is first assessed.</p>
+<p>Honest trust signals include:</p>
+<ul>
+<li>Certifications you actually hold, such as Cyber Essentials or Cyber Essentials Plus, or relevant ISO standards, displayed accurately and kept current.</li>
+<li>Clear information about your support model: hours, how tickets are raised and how escalation works.</li>
+<li>Named sectors you serve and the kinds of problems you solve for them.</li>
+<li>Case studies or testimonials only where clients have agreed to be featured, with details they have approved.</li>
+<li>Your own site's security basics: HTTPS, updated software and sensible form handling. A security firm with an insecure website undermines its own message.</li>
+</ul>
+<p>Avoid implying partner status, accreditations or client relationships you do not have. Apart from the reputational risk, misleading claims can raise issues under consumer and advertising rules, and it is sensible to check any claims with care before publishing.</p>
+
+<h2>Corporate service firms in the Thames Valley</h2>
+<p>Reading also has many accountants, solicitors, HR consultancies, recruiters and other professional firms serving the technology and corporate community. Their websites face a similar clarity challenge, plus the extra need to show expertise in a specific niche.</p>
+<p>A professional firm that specialises in technology clients can say so clearly, with pages explaining the particular issues those clients face, such as R&D tax relief questions, share schemes, contracts or employment matters, written in general terms and with appropriate hedging where legal or tax rules are involved. Regulated firms should check their own regulator's rules on how services and fees are presented.</p>
+<p>Our guides to <a href="/blog/professional-services-seo-uk/">professional services SEO</a> and <a href="/blog/accountant-website-design-uk/">accountant website design</a> go further on structuring these sites.</p>
+
+<h2>Content that supports long buying cycles</h2>
+<p>B2B technology purchases can take weeks or months. During that time, buyers return to your website several times, often to find something specific: a detail about a feature, a security answer, an article to forward to a colleague.</p>
+<p>A content section built around the real questions your buyers ask can support that process. Good examples include explanations of how a migration works, what to consider when choosing between options, or how to prepare internally for a new system. These pages also tend to help search visibility, as long as they are genuinely useful rather than written purely for keywords. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan this kind of content.</p>
+
+<h2>Platform choices for Reading businesses</h2>
+<p>Technology companies sometimes assume they need a fully custom-built marketing website. Often a well-structured WordPress site, or another established platform, is more practical: marketing staff can update it themselves, and developers can focus on the product rather than the website.</p>
+<p>There are cases where a custom approach makes sense, for example when the marketing site needs to pull live data from the product. The decision should be based on who will maintain the site and how often it changes, not on what seems most impressive.</p>
+
+<h2>Working remotely with Prism Works Studio</h2>
+<p>Many Reading technology teams already work in hybrid or remote arrangements, so a remote website project fits naturally. Prism Works Studio works with Reading businesses remotely: workshops to clarify the message, design reviews and testing all happen over video calls and shared links, with your technical and commercial stakeholders able to join from wherever they are.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>How do we explain a technical product on our website?</h3>
+<p>Start with a plain-English statement of what it does and who it is for, then layer technical detail further down the page or on linked pages for evaluators who want it.</p>
+<h3>Should every page push visitors to book a demo?</h3>
+<p>Not necessarily. Offering guides, recorded demos or trials alongside a demo booking lets visitors who are earlier in their research engage without a sales call.</p>
+<h3>Should we show certifications such as Cyber Essentials?</h3>
+<p>If you genuinely hold them, yes, and keep them current. Only display certifications and partner statuses you can evidence.</p>
+<h3>Do tech companies need a custom-built website?</h3>
+<p>Often not. A well-built site on an established CMS lets marketing teams update content themselves. Custom builds suit sites that need live product data or unusual functionality.</p>
+<h3>Can you write the website copy for us?</h3>
+<p>Prism Works Studio can help shape the message and structure. Your team's technical knowledge is still needed to make sure product details are accurate.</p>
+<h3>Is it a problem that you are not based in Reading?</h3>
+<p>For most projects, no. The work happens on screen, and Prism Works Studio works with Reading businesses remotely through video calls and shared drafts.</p>
+<p>If your Reading business needs a website that explains what you do more clearly, <a href="/contact/">book a free discovery call</a> and we will talk through your message, buyers and enquiry routes.</p>
+`,
+  },
 ];
