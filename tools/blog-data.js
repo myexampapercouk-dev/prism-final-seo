@@ -31608,4 +31608,440 @@ module.exports = [
 <p>If your Reading business needs a website that explains what you do more clearly, <a href="/contact/">book a free discovery call</a> and we will talk through your message, buyers and enquiry routes.</p>
 `,
   },
+  {
+    slug: 'web-design-bath',
+    seoTitle: 'Web Design Bath: Heritage, Wellness and Independent Shops',
+    title: 'Web Design in Bath: Websites for Heritage Tourism, Wellness Businesses and Independent Retailers',
+    description: 'Web design for Bath heritage attractions, spas and wellness practices and independent shops: premium feel, bookings, gift sales and selling online.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/website-online-booking-systems/'],
+    body: `
+<p>Web design in Bath is shaped by the city's character. Its Georgian architecture, Roman baths and World Heritage status draw visitors from across the world, and the city's long association with bathing and wellbeing supports spas, therapists and wellness studios. Its compact centre is full of independent shops, galleries, cafés and restaurants, many of which rely on a mix of tourists, day visitors and loyal locals. Prism Works Studio works with Bath businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-york/">York guide</a> looks at a historic city through visitor attractions and hospitality, and our <a href="/blog/web-design-brighton/">Brighton guide</a> focuses on creative and seaside businesses. This guide takes a different line: how Bath businesses can present a premium, calm image online while still making booking and buying effortless, and how visitors can become online customers after they go home.</p>
+
+<h2>Premium design that still converts</h2>
+<p>Bath businesses often want a website that feels elegant: generous white space, refined typography, beautiful photography. That can suit the market well. The risk is that style starts to get in the way of function, with booking buttons hidden in minimal menus, light grey text that is hard to read, or full-screen video that slows everything down.</p>
+<p>A few principles keep elegance and usability in balance:</p>
+<ul>
+<li><strong>One clear primary action per page.</strong> Book, buy or enquire, visible without hunting.</li>
+<li><strong>Readable text.</strong> Refined does not have to mean tiny or faint. Sufficient contrast and size help every visitor, and they matter for accessibility. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains why.</li>
+<li><strong>Fast imagery.</strong> High-quality photographs, properly compressed, rather than heavy video on every page.</li>
+<li><strong>Mobile first.</strong> Many visitors browse on a phone while walking around the city, so design for that experience before the desktop one.</li>
+</ul>
+
+<h2>Heritage and visitor businesses</h2>
+<p>Attractions, guided tours, museums, heritage venues and visitor experiences need websites that answer practical questions quickly: opening times, ticket prices or a link to them, how long a visit takes, accessibility, and how to get there. Visitors planning a day in Bath often compare several attractions, so make the essentials scannable.</p>
+<p>Heritage businesses also have stories to tell. Long-form history, architecture and collection content can attract visitors who search for those topics, and helps search engines understand what you offer. Keep it separate from the booking path, so people who just want tickets are not forced through it.</p>
+<p>If your premises are in a listed building, be honest about accessibility constraints, describe what access is available and invite visitors to get in touch with specific needs. That information builds trust and reduces disappointment on the day.</p>
+
+<h2>Spas, therapists and wellness studios</h2>
+<p>Wellness businesses in Bath range from day spas and treatment rooms to massage therapists, yoga and Pilates studios, nutritionists and holistic practitioners. Their websites have several jobs: setting the mood, explaining treatments clearly and making it easy to book.</p>
+<p>Useful elements include:</p>
+<ul>
+<li><strong>Clear treatment pages.</strong> What the treatment involves, how long it takes, who it suits, what to expect and any preparation needed.</li>
+<li><strong>Online booking.</strong> Showing real availability and taking deposits where appropriate. Our <a href="/blog/website-online-booking-systems/">online booking systems guide</a> covers the options.</li>
+<li><strong>Practitioner profiles.</strong> Qualifications and memberships, stated accurately.</li>
+<li><strong>Policies.</strong> Cancellations, late arrivals, health questionnaires and age limits, set out clearly before people book.</li>
+</ul>
+<p>Health claims need particular care. Describing a massage as relaxing is very different from claiming it treats a medical condition. Advertising rules in the UK, overseen by the Advertising Standards Authority and based on the CAP Code, restrict health claims that are not supported by evidence, and this applies to website marketing copy. If you are unsure about wording, check the guidance or take advice.</p>
+
+<h2>Gift vouchers and experiences</h2>
+<p>Spa days, afternoon teas, tours, workshops and treatments all make popular gifts, and many Bath businesses can earn a meaningful share of income from vouchers, particularly around holidays and celebrations. A good voucher system lets buyers choose a value or a specific experience, personalise a message, and receive a printable or emailable voucher immediately.</p>
+<p>Think about expiry dates, how vouchers are redeemed and how they show in your booking system, and make the terms clear. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> covers the practical and legal points.</p>
+
+<h2>Independent shops: from visitor to online customer</h2>
+<p>Bath's independent retailers sell clothing, homeware, books, art, jewellery, food and gifts to people who may only be in the city for a day. Many of those visitors would happily buy again if they could. An online shop turns a one-off visit into an ongoing relationship.</p>
+<p>Ways to connect the shop floor with the website:</p>
+<ul>
+<li>Include the web address and an invitation to join a mailing list on receipts, bags and cards, with permission gathered properly.</li>
+<li>Photograph products well and write descriptions in the same voice customers hear in the shop.</li>
+<li>Show which products are made locally or chosen specially, as long as it is true.</li>
+<li>Offer local collection for nearby customers alongside delivery.</li>
+</ul>
+<p>Platforms such as Shopify, WooCommerce and Squarespace all suit independent retailers, with different strengths. Our <a href="/blog/shopify-vs-squarespace-uk/">Shopify vs Squarespace comparison</a> may help you decide. If you also want to keep stock levels in step between the shop and the website, look at whether a platform's point-of-sale options suit how you trade.</p>
+
+<h2>Restaurants, cafés and hospitality</h2>
+<p>Places to eat and stay in Bath compete for visitors who are often deciding at short notice. Menus as readable web pages rather than image files, allergen information, table booking, opening times and a clear location help. Accommodation providers can read our guides to <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B websites</a> and <a href="/blog/hotel-direct-bookings-uk/">increasing direct bookings</a>.</p>
+
+<h2>Search visibility in a busy visitor city</h2>
+<p>Visitors search for things to do, places to eat and specific treatments or products, often with the city name. A complete Google Business Profile, accurate opening hours, good photographs and genuine reviews matter for appearing in local results. Content that genuinely helps visitors, such as a guide to a neighbourhood or seasonal events you take part in, can also attract the right people. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the basics.</p>
+
+<h2>Planning content around the visitor calendar</h2>
+<p>Bath's visitor trade has its own rhythm. Summer brings international tourists and day trippers, the run-up to winter brings shoppers looking for gifts, and festivals, exhibitions and sporting fixtures bring bursts of activity at other times. Spring and autumn often bring visitors looking for a quieter city break. A website that changes with these moments feels alive and relevant; one that still promotes a summer offer in November does the opposite.</p>
+<p>A simple content calendar helps. Note the periods that matter for your business, decide in advance what the home page, offers and featured products or treatments should be for each, and prepare the images and copy a few weeks ahead. For shops, that might mean a gift guide before the winter season. For spas, it might mean promoting midweek packages in quieter months. For attractions, it might mean updating opening times, special events and family activities ahead of school holidays.</p>
+<p>Mailing lists support this too. A short, regular email to past visitors and customers, sent with their consent and in line with UK data protection and electronic marketing rules, can bring people back for a return visit or an online order. Keep the sign-up honest about what people will receive and how often.</p>
+
+<h2>Photography that reflects the real place</h2>
+<p>Bath is one of the most photographed cities in the country, which makes generic images of famous landmarks a weak way to stand out. Visitors want to see your shop, your treatment room, your tour guide or your dining room. Invest in photography of the real premises, products and people, with consent, and keep it current when you refurbish or change ranges. Make sure images have descriptive alternative text so they work for screen reader users and give search engines context.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Bath businesses remotely. Owners can join planning calls and review drafts between appointments or quiet moments in the shop. You can supply your own photography or arrange a local photographer to capture your premises and products.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Can a website look premium and still be easy to book from?</h3>
+<p>Yes. Keep one clear action per page, readable text and fast imagery. Elegance comes from restraint, not from hiding the booking button.</p>
+<h3>What should a spa or therapist avoid saying on their website?</h3>
+<p>Avoid health claims you cannot support with evidence. UK advertising rules apply to website copy, so check the guidance if unsure.</p>
+<h3>Should a heritage venue mention accessibility limits?</h3>
+<p>Yes. Describe what access is available, be honest about constraints and invite visitors to ask about specific needs.</p>
+<h3>Is it worth an independent shop selling online?</h3>
+<p>It can be, particularly where visitors would like to buy again after their trip. Start with best-selling or distinctive lines and grow from there.</p>
+<h3>How should we sell gift vouchers?</h3>
+<p>Use a system that lets buyers choose a value or experience and receive the voucher instantly, with clear terms and a simple redemption process.</p>
+<h3>Are you based in Bath?</h3>
+<p>No. Prism Works Studio works with Bath businesses remotely, using video calls and shared drafts throughout.</p>
+<p>If your Bath business wants a website that feels as good as visiting in person and makes booking or buying simple, <a href="/contact/">book a free discovery call</a> to talk it through.</p>
+`,
+  },
+  {
+    slug: 'web-design-derby',
+    seoTitle: 'Web Design Derby: Rail and Aerospace Supplier Websites',
+    title: 'Web Design in Derby: Websites for Rail and Aerospace Supply Chain Businesses',
+    description: 'Web design for Derby rail and aerospace suppliers: approvals, tender-ready content, supplier portals, document control and sites that support bids.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/manufacturer-website-design-uk/'],
+    body: `
+<p>Web design in Derby has a particular flavour because of the city's long connection with rail and aerospace engineering. Around the large train builders and aero engine work sits a broad supply chain of smaller firms: precision machinists, cable and harness makers, test houses, interiors specialists, software and signalling consultancies, inspection services and maintenance contractors. Many of these businesses win work through formal tenders and supplier qualification rather than through casual enquiries, and that changes what their websites need to do. Prism Works Studio works with Derby businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-coventry/">Coventry guide</a> looks at automotive suppliers and repositioning for electrification, and our <a href="/blog/web-design-sheffield/">Sheffield guide</a> covers the wider manufacturing scene there. This guide takes a different angle: websites that support procurement, tenders and very long product lifecycles, which are characteristic of rail and aerospace work.</p>
+
+<h2>Your website as tender evidence</h2>
+<p>When a buyer or bid team at a larger organisation shortlists suppliers, they may look at the supplier's website before or alongside a formal pre-qualification questionnaire. They are checking that the business is real, established, appropriately approved and capable of the scope being tendered. A thin or outdated site does not necessarily lose a bid, but it can raise questions that a well-organised site would have answered.</p>
+<p>It helps to think about the site as a public summary of the evidence you would put in a bid:</p>
+<ul>
+<li><strong>Who you are.</strong> Company details, registered name, how long you have traded and the scope of work you take on.</li>
+<li><strong>Approvals and certifications.</strong> Only those you genuinely hold and that are current. In aerospace that might include AS9100 or specific customer approvals; in rail it might include RISQS registration or relevant product acceptance. Describe them accurately, and if you are unsure how a scheme may be referenced publicly, check its rules.</li>
+<li><strong>Capability statements.</strong> Clear descriptions of processes, materials, size ranges and inspection capability.</li>
+<li><strong>Policies.</strong> Health and safety, environmental, quality and modern slavery statements where relevant. Buyers frequently ask for these, and linking to current versions can save back and forth.</li>
+<li><strong>Contacts for commercial and technical questions.</strong> Bid teams appreciate knowing who to ask.</li>
+</ul>
+<p>A downloadable capability statement, kept in step with the website, is often useful for buyers who need to attach something to an internal approval.</p>
+
+<h2>Long lifecycles: spares, obsolescence and through-life support</h2>
+<p>Trains and aircraft stay in service for decades. That creates a steady need for spares, repairs, re-engineering of obsolete parts, overhauls and modifications. For many Derby suppliers, this aftermarket and through-life work is as important as new-build contracts, yet their websites focus only on manufacturing capability.</p>
+<p>If this is work you want, give it dedicated pages. Explain the kinds of problems you solve: reverse engineering a part where drawings no longer exist, finding alternatives for discontinued components, repairing rather than replacing assemblies, or supporting fleets through refurbishment programmes. Fleet engineers and maintenance planners search for these problems in plain language, so write pages that use the words they would use.</p>
+<p>Be careful with specifics. Naming fleets, aircraft types or operators may be fine with permission, but many contracts restrict what can be said. Describe the type of work and the outcome in general terms unless you have clear agreement.</p>
+
+<h2>Document control on a public website</h2>
+<p>Rail and aerospace businesses live by document control internally, yet their websites often contain old brochures, expired certificates and data sheets with no revision information. For an audience that values traceability, that is an avoidable credibility problem.</p>
+<p>Practical habits that help:</p>
+<ul>
+<li>Show the issue date or revision on every downloadable document.</li>
+<li>Replace files rather than adding new versions alongside old ones, and redirect old file addresses where they might be bookmarked.</li>
+<li>Set a review date for certificates and policies so someone checks them before they expire.</li>
+<li>Keep one owner responsible for website documents, ideally the same person who manages them internally.</li>
+</ul>
+<p>A content management system such as WordPress can handle this well if the media library is organised and the site is set up so non-technical staff can replace a file safely. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers keeping a site current over time.</p>
+
+<h2>Supplier and customer portals</h2>
+<p>Some suppliers want more than a brochure site: a secure area where customers can download controlled drawings, certificates of conformity or test reports, or where approved distributors can find pricing and stock information. This can be valuable, but it adds responsibility.</p>
+<p>Before building a portal, consider whether your existing systems already provide a secure way to share documents, who will manage user accounts, and what the security expectations of your customers are. Some larger customers ask suppliers about schemes such as Cyber Essentials during onboarding; whether it applies depends on the customer and the contract, so check rather than assume. In many cases a simple, well-secured request route is more appropriate than a full portal at first.</p>
+
+<h2>Small specialist firms and consultancies</h2>
+<p>Not every Derby supplier is a factory. The rail and aerospace sectors also rely on small consultancies and specialists: systems engineers, safety assurance consultants, software developers, technical authors, trainers and inspectors. Their websites need to sell expertise rather than equipment.</p>
+<p>For these firms, the strongest content is usually explanatory: what a particular type of assurance or analysis involves, when a client needs it, what the deliverables look like and who will do the work. Biographies of the people delivering the work, with their qualifications and professional memberships, matter far more than they do for a machine shop. Our <a href="/blog/engineering-consultancy-website-design-uk/">engineering consultancy website guide</a> goes into this in more detail.</p>
+
+<h2>Recruiting engineers and apprentices</h2>
+<p>Skilled people are in demand across the sector, and smaller suppliers compete with large, well-known employers. A careers section can help a smaller firm stand out by being specific: the type of work, the variety compared with a large organisation, training and apprenticeship routes, chartership support where offered, and honest information about hours and location.</p>
+<p>Some roles may require security clearance or other checks. Say so where relevant, without going into detail that should not be public. Photography of real staff, with consent, does more than stock images ever can.</p>
+
+<h2>Search visibility for procurement-led businesses</h2>
+<p>Buyers in these sectors search for processes, standards and problems more than for company names. Dedicated pages for each capability, written with the technical vocabulary buyers use, give search engines a clearer picture of what you do. A page about a specific inspection technique or material, for instance, is more likely to be found than a single generic services page.</p>
+<p>Local search also has a role. Some buyers prefer suppliers within a reasonable distance for visits, audits and quick turnaround, so a clear location, a complete Google Business Profile and consistent company details help. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan technical content, and our <a href="/blog/manufacturer-website-design-uk/">manufacturer website design guide</a> covers the broader structure of an industrial site.</p>
+
+<h2>Redesigning an established supplier site</h2>
+<p>Many established Derby suppliers have websites that have grown piece by piece over many years. When redesigning, it is worth auditing which pages and documents bring in visitors and enquiries before deleting anything. Old capability pages can still rank for useful terms, and removing them without redirects can lose that visibility. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains the process.</p>
+
+<h2>Photography that is cleared for publication</h2>
+<p>Workshop and test-facility photographs can accidentally reveal customer parts, drawings, screens or labels. Agree a simple clearance step before any image goes live, ideally signed off by whoever manages customer confidentiality, and keep a record of what has been approved.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Derby businesses remotely. Quality managers, engineers and directors can review plans and drafts over video calls, and you decide exactly which documents, images and technical details are shared during the project.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Do buyers really look at supplier websites during tenders?</h3>
+<p>Some do, particularly at the shortlisting stage. A clear, current site that matches what you say in a bid avoids raising doubts.</p>
+<h3>How should we show rail or aerospace approvals?</h3>
+<p>List only approvals you currently hold, describe them accurately and keep them up to date. Check any rules the scheme has about how it may be referenced.</p>
+<h3>Is it worth having pages about obsolescence and spares?</h3>
+<p>If that work matters to you, yes. Maintenance planners and fleet engineers search for these problems, and a general manufacturing page may not be found.</p>
+<h3>Should we put certificates and policies on the website?</h3>
+<p>Many suppliers do, with dates or revision numbers shown. Set review dates so expired versions are not left online.</p>
+<h3>Do we need a customer portal?</h3>
+<p>Not always. Consider security, account management and what customers actually need first; a simple request route may be enough to start.</p>
+<h3>Can you visit our site in Derby?</h3>
+<p>Prism Works Studio works remotely. You can supply cleared photographs or use a local photographer, and reviews happen over video calls.</p>
+<p>If your Derby business wants a website that supports tenders and supplier qualification, <a href="/contact/">book a free discovery call</a> to talk through your buyers and the evidence they look for.</p>
+`,
+  },
+  {
+    slug: 'web-design-exeter',
+    seoTitle: 'Web Design Exeter: Professional Services and Rural Firms',
+    title: 'Web Design in Exeter: Websites for Professional Firms and Rural Devon Businesses',
+    description: 'Web design for Exeter professional firms and rural Devon businesses: service areas, slow connections, trust signals, enquiry routes and local search.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/local-seo-uk-guide/'],
+    body: `
+<p>Web design in Exeter often has to serve two audiences at once. The city is a regional centre for professional services, with solicitors, accountants, surveyors, financial advisers, architects and consultancies serving clients from across Devon and beyond. Around it lies a large rural area of farms, estates, market towns and villages, where businesses range from agricultural contractors and rural trades to farm shops, wedding venues and diversified estates. Many Exeter firms count those rural businesses and households among their clients. Prism Works Studio works with Exeter and Devon businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-plymouth/">Plymouth guide</a> covers marine, defence and waterfront tourism further down the coast. This guide focuses on two different groups: professional firms based in a regional city, and rural businesses whose customers are spread across a wide area.</p>
+
+<h2>Professional firms serving a wide region</h2>
+<p>An Exeter solicitor, accountant or surveyor may have clients in the city itself, in market towns across the county and in remote farms and villages. Many of those clients will never visit the office if they can avoid the drive and the parking. A website that acknowledges this tends to convert better than one that assumes everyone is local.</p>
+<p>Useful content for regional professional firms includes:</p>
+<ul>
+<li><strong>Clear service areas.</strong> Which towns and areas you cover, and whether you offer home or site visits.</li>
+<li><strong>Remote options.</strong> Whether clients can meet by phone or video, sign documents electronically where appropriate, and send information securely.</li>
+<li><strong>Specialisms that match the region.</strong> Agricultural property, farm succession, rural tax, equine matters or countryside planning, if these are genuine areas of expertise.</li>
+<li><strong>People pages.</strong> Clients choosing a professional adviser want to know who they will deal with. Profiles with qualifications and areas of focus matter.</li>
+</ul>
+<p>Regulated professions have rules about how they present themselves. Solicitors must follow Solicitors Regulation Authority requirements, including displaying certain information and, for some services, price and service details. Financial advisers have Financial Conduct Authority requirements on promotions. Accountants and surveyors may have professional body rules. Check what applies before publishing. Our guides to <a href="/blog/solicitor-website-design-uk/">solicitor websites</a> and <a href="/blog/accountant-website-design-uk/">accountant websites</a> cover these in more depth.</p>
+
+<h2>Trust signals for considered decisions</h2>
+<p>Choosing a solicitor for a farm succession or a surveyor for a rural property is a significant decision, often made after comparing several firms. Visitors look for reassurance:</p>
+<ul>
+<li>Regulatory status and professional memberships, shown accurately.</li>
+<li>Explanations of how a typical matter works, from first contact to completion.</li>
+<li>Honest information about fees, or a clear explanation of how fees are worked out, in line with any regulatory requirements.</li>
+<li>Genuine client reviews, collected and displayed in line with platform rules and consumer protection law.</li>
+</ul>
+<p>Avoid language that overpromises outcomes. Professional audiences tend to respond better to calm, specific explanations than to bold claims.</p>
+
+<h2>Designing for slower rural connections</h2>
+<p>Broadband and mobile coverage across rural Devon varies. Some customers will be on fast connections, others on patchy signal in a farmyard or a village with limited infrastructure. A site that loads heavy video and large images before showing anything useful can frustrate exactly the customers you want to reach.</p>
+<p>Practical steps:</p>
+<ul>
+<li>Compress and correctly size images, and avoid autoplaying video on key pages.</li>
+<li>Put phone numbers, opening hours and key information in text near the top of the page, not inside images.</li>
+<li>Keep forms short so they are less likely to fail on a weak connection, and confirm clearly when they have been sent.</li>
+<li>Make phone numbers tappable, since many rural customers will simply call.</li>
+</ul>
+<p>These steps help search visibility too, as page speed and mobile usability feed into how users experience a site.</p>
+
+<h2>Rural businesses with several income streams</h2>
+<p>Farms and estates around Exeter often run more than one business: a farm shop, holiday cottages, a wedding or events venue, a campsite, contracting services, or produce sold to trade customers. Squeezing all of that onto one cluttered home page confuses visitors who only care about one thing.</p>
+<p>There are a few ways to structure this:</p>
+<ul>
+<li><strong>One site with clear sections.</strong> A simple home page that routes visitors to each business, with each section having its own navigation and calls to action.</li>
+<li><strong>Separate sites for very different audiences.</strong> A wedding venue and an agricultural contracting business may be better on separate domains, sharing branding where it helps.</li>
+<li><strong>A shared story.</strong> The farm or estate's history and values can connect the different parts, but should not get in the way of bookings or enquiries.</li>
+</ul>
+<p>The right answer depends on how different the customers are and how much time you have to maintain content. Our guides to <a href="/blog/holiday-let-website-design-uk/">holiday let websites</a> and <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce</a> cover two of the common add-on businesses.</p>
+
+<h2>Rural trades and contractors</h2>
+<p>Agricultural contractors, fencers, groundworkers, tree surgeons, builders and other rural trades often rely on word of mouth. A website still helps, particularly when new customers move into the area or look for a specialist further afield.</p>
+<p>Focus on what customers need to decide: the services you offer, the area you cover, the equipment you use, photographs of real jobs, insurance and any relevant qualifications or schemes you belong to. A clear way to request a quote, including uploading photos, can save site visits for simple jobs.</p>
+
+<h2>Local search across a large county</h2>
+<p>Search visibility for Exeter and Devon businesses is less about one city and more about a spread of towns. A Google Business Profile shows your base, but service-area pages can help you appear for searches in other places you genuinely cover, provided each page has useful, specific content rather than the same text with the town name swapped. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to approach this without creating thin pages.</p>
+<p>Professional firms can also build visibility through helpful articles on questions rural clients ask, such as how agricultural property relief works or what to consider when converting a barn, provided the content is accurate and reviewed by a qualified person.</p>
+
+<h2>Handling client information securely</h2>
+<p>Professional firms collect sensitive information: identity documents, financial records, property details and personal circumstances. A website contact form is often the first point where that information is shared, so it is worth thinking carefully about what the form asks for. Generally, a first enquiry form should collect only what is needed to respond, with sensitive documents exchanged later through a secure route your firm already uses.</p>
+<p>Make sure the site uses HTTPS throughout, that form submissions go to a monitored and protected inbox, and that your privacy notice explains clearly how enquiry data is used and stored. UK GDPR sets out obligations here, and the Information Commissioner's Office publishes guidance for small organisations. If your firm handles client money or high-risk transactions, warn clients on the site about payment fraud, for example by stating that you will never change bank details by email, as many regulated firms do.</p>
+
+<h2>Keeping the site current without a marketing team</h2>
+<p>Most Exeter professional firms and rural businesses do not have a dedicated marketing person, so the website needs to be easy to keep up to date. Choose a platform your staff can use confidently, such as WordPress or Squarespace, and agree who is responsible for each part: team changes, fees information, news, seasonal opening times or event dates. A short checklist reviewed every few months can catch outdated details before clients notice them. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers the technical side, including updates and backups.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Exeter and Devon businesses remotely. That fits the way many of these businesses already operate: partners can review drafts between client meetings, and farm or estate owners can join a call without driving into the city.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>How should a professional firm show the areas it covers?</h3>
+<p>List the towns and areas you serve, explain whether you offer home, site or video meetings, and create area pages only where you have something specific to say.</p>
+<h3>What regulatory information does a solicitor's website need?</h3>
+<p>Solicitors must follow SRA rules, which include displaying certain regulatory details and, for some services, price and service information. Check the current requirements.</p>
+<h3>How can we make our site work on slow rural connections?</h3>
+<p>Compress images, avoid autoplay video, keep key information in text near the top and keep forms short with clear confirmation.</p>
+<h3>Should our farm shop and holiday cottages share one website?</h3>
+<p>It depends on how different the customers are. One site with clear sections works for many, while very different audiences may suit separate sites.</p>
+<h3>Are town-by-town landing pages a good idea?</h3>
+<p>Only when each page has genuinely useful, specific content. Near-identical pages with swapped town names offer little value.</p>
+<h3>Do you meet clients in Exeter?</h3>
+<p>Prism Works Studio works remotely, so meetings take place by video call and drafts are shared online.</p>
+<p>If your Exeter firm or Devon rural business needs a website that reaches clients across the county, <a href="/contact/">book a free discovery call</a> to talk through your goals.</p>
+`,
+  },
+  {
+    slug: 'web-design-hull',
+    seoTitle: 'Web Design Hull: Ports, Renewables and Food Processing',
+    title: 'Web Design in Hull: Websites for Port and Logistics Firms, Renewables Suppliers and Food Processors',
+    description: 'Web design for Hull port and logistics firms, offshore renewables suppliers and food processors: services, compliance, trade buyers and recruitment.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/manufacturer-website-design-uk/'],
+    body: `
+<p>Web design in Hull reflects a city built around the Humber. Its port has long handled freight and ferry traffic, supporting freight forwarders, hauliers, warehousing, customs agents and marine services. In more recent years the estuary has become associated with offshore wind, with manufacturing, installation support and a growing supply chain of engineering and service firms. The area also has a long history in fishing and food, which continues in food processing, ingredients and chilled and frozen distribution. Prism Works Studio works with Hull businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>This guide looks at what those three groups need from a website: logistics and port service firms, renewables supply chain businesses, and food processors selling to trade customers. Each has a different buyer, but all of them benefit from clear, accurate, practical information.</p>
+
+<h2>Port, freight and logistics websites</h2>
+<p>A business that needs to move goods through a port, store them or clear them through customs usually wants answers quickly. Can you handle this type of cargo? Which routes do you cover? How fast can you quote? Logistics websites that make those answers easy to find tend to turn more visitors into enquiries.</p>
+<p>Useful content includes:</p>
+<ul>
+<li><strong>Service pages by type.</strong> Road haulage, container handling, warehousing, customs clearance, project cargo or temperature-controlled storage, each with its own page explaining what is involved.</li>
+<li><strong>Capacity and facilities.</strong> Warehouse space, yard capacity, vehicle types and handling equipment, described as specifically as you are comfortable publishing.</li>
+<li><strong>Routes and coverage.</strong> The regions, ports and countries you serve, shown simply.</li>
+<li><strong>Accreditations.</strong> Any you genuinely hold, such as Authorised Economic Operator status or relevant quality and safety certifications, stated accurately.</li>
+<li><strong>A quick quote route.</strong> A form asking only for what you need to give a first price, with an option to call.</li>
+</ul>
+
+<h2>Explaining customs and border processes</h2>
+<p>Customs and import or export requirements can confuse businesses that do not handle them every day. Clear explanatory content can attract searchers looking for help and position your firm as knowledgeable. Articles explaining what documents are typically needed, what a customs agent does and how goods move through a port can all be useful.</p>
+<p>Rules change, and getting them wrong could cost a customer money, so keep this content general, date it, link to official GOV.UK guidance where relevant, and advise readers to check their specific circumstances with you or HMRC. Review it whenever requirements change.</p>
+
+<h2>Offshore renewables supply chain</h2>
+<p>Hull's position on the Humber has made it a base for offshore wind activity, and that has created opportunities for engineering, fabrication, marine services, training, inspection, logistics and other businesses to supply developers, manufacturers and installation contractors.</p>
+<p>Renewables buyers tend to look for:</p>
+<ul>
+<li><strong>Relevant capability.</strong> Fabrication, coating, electrical work, vessel support, crew transfer, rope access, inspection or training, explained clearly.</li>
+<li><strong>Safety credentials.</strong> Certifications and training standards you genuinely meet, described accurately. Safety culture matters a great deal in this sector.</li>
+<li><strong>Quality systems.</strong> Such as ISO 9001, 14001 or 45001, only where held and current.</li>
+<li><strong>Transferable experience.</strong> Many renewables suppliers came from oil and gas, ports, shipbuilding or general engineering. Explain how that experience applies.</li>
+</ul>
+<p>Be careful about project claims. Offshore wind projects involve many contractors, and saying you worked on a named wind farm may be accurate but can imply a larger role than you had. Describe your actual scope clearly, and only name projects or customers where you have permission. Our <a href="/blog/manufacturer-website-design-uk/">manufacturer website design guide</a> and <a href="/blog/engineering-consultancy-website-design-uk/">engineering consultancy website guide</a> cover technical B2B sites more broadly.</p>
+
+<h2>Food processors and trade suppliers</h2>
+<p>Food processors, ingredient suppliers and producers in and around Hull often sell to retailers, wholesalers, food service and other manufacturers rather than to consumers. Their buyers include purchasing managers and technical teams, who need different information.</p>
+<p>A trade-focused food website might include:</p>
+<ul>
+<li><strong>Product ranges.</strong> Clear categories with pack sizes, formats and whether products are available fresh, chilled or frozen.</li>
+<li><strong>Accreditations.</strong> Food safety certifications you hold, such as BRCGS, and any organic or sustainability schemes, shown accurately and kept current.</li>
+<li><strong>Specifications on request.</strong> A simple route for technical teams to request specifications, allergen information and certificates.</li>
+<li><strong>Private label and co-manufacturing.</strong> If you produce for other brands, explain the process and minimums in general terms without naming customers unless permitted.</li>
+<li><strong>Sourcing and sustainability.</strong> Where products come from and how they are handled, stated honestly and without vague green claims.</li>
+</ul>
+<p>Environmental and sustainability claims are increasingly scrutinised. The Competition and Markets Authority has published guidance on green claims, and claims should be specific and supported. If you also sell direct to consumers, food labelling and allergen rules apply to online information too. Our <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce guide</a> covers selling food online.</p>
+
+<h2>Recruitment across shifts and sites</h2>
+<p>Logistics, renewables and food processing all depend on recruiting people, often for shift work, technical roles and apprenticeships. A careers section that explains shift patterns, training, progression and the reality of the job tends to attract better-matched applicants.</p>
+<p>Make vacancies easy to apply for on a phone, since many candidates will search and apply on mobile. Be clear about requirements such as driving licences, certifications, medicals or right-to-work checks. Photography of real teams and sites, with consent, helps candidates picture themselves there.</p>
+
+<h2>Safety and site information for visitors and drivers</h2>
+<p>Ports, warehouses and food sites have strict rules for visitors and drivers. A simple page explaining site access, booking-in procedures, PPE requirements, parking and opening hours can reduce delays at the gate and repeated phone calls. Keep it current, and make it easy to find from the home page or footer.</p>
+
+<h2>Search visibility for industrial B2B firms</h2>
+<p>Buyers in logistics, renewables and food search for specific services and capabilities: temperature-controlled warehousing near the Humber, customs clearance for a particular route, or BRCGS-certified co-packing. Dedicated pages for each service, with genuine detail, give search engines more to work with than one general page. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan this, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers appearing in searches near your sites.</p>
+
+<h2>Businesses that span more than one sector</h2>
+<p>Many Hull firms do not fit neatly into one category. A fabrication business might serve the port, renewables and food processing plants. A logistics provider might handle chilled food alongside wind turbine components. A training provider might teach offshore safety courses as well as forklift and warehouse skills. Trying to speak to every buyer on a single home page usually results in vague copy that convinces nobody.</p>
+<p>A better approach is to give each sector its own landing page, written for that buyer, with the relevant capabilities, accreditations and examples brought together. The home page then routes visitors quickly to the right place. Capability pages can be shared across sectors and linked from each sector page, which avoids duplicating content. This structure also helps search engines understand that you serve several markets, and lets you add a new sector later without rebuilding the site.</p>
+
+<h2>Keeping technical information accurate</h2>
+<p>Industrial buyers notice outdated information. An expired certificate, an old equipment list or a vehicle fleet that no longer exists can raise doubts during supplier checks. Agree who owns each part of the site, put review dates on accreditations and policies, and show issue dates on downloadable documents. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers keeping software, backups and security up to date as well, which some larger customers may ask about during onboarding.</p>
+<p>If you are replacing an older website, audit which pages already bring in visitors and enquiries first. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains how redirects protect existing visibility.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Hull businesses remotely. Operations managers, technical staff and directors can review drafts and join planning calls without leaving the site, and you control which images and details are cleared for publication.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>What should a logistics company website include?</h3>
+<p>Clear service pages, capacity and facilities, routes covered, accreditations you hold and a quick quote route that works on a phone.</p>
+<h3>Can we publish customs guidance on our site?</h3>
+<p>Yes, if it is general, dated and reviewed when rules change. Link to official guidance and advise readers to check their own circumstances.</p>
+<h3>How should a renewables supplier describe project work?</h3>
+<p>Describe your actual scope accurately and only name projects or customers with permission, so you do not imply a larger role than you had.</p>
+<h3>Should food processors publish specifications online?</h3>
+<p>Many prefer a simple request route for full specifications and certificates, with summary product information on the site itself.</p>
+<h3>Do sustainability claims need evidence?</h3>
+<p>Yes. Green claims should be specific and supportable. The CMA has published guidance worth checking before making them.</p>
+<h3>Will you need to visit our Hull site?</h3>
+<p>No. Prism Works Studio works remotely; you can supply cleared photographs or use a local photographer, and reviews happen over video calls.</p>
+<p>If your Hull business needs a website that wins trade buyers, project work or recruits, <a href="/contact/">book a free discovery call</a> to talk through your goals.</p>
+`,
+  },
+  {
+    slug: 'web-design-swansea',
+    seoTitle: 'Web Design Swansea: Coastal Tourism and Bilingual Sites',
+    title: 'Web Design in Swansea: Bilingual Websites for Coastal Tourism, Activity Providers and Local Businesses',
+    description: 'Web design for Swansea and Gower businesses: bilingual Welsh and English sites, coastal tourism bookings, activity providers and seasonal planning.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/blog/holiday-let-website-design-uk/'],
+    body: `
+<p>Web design in Swansea has to account for two things that shape many local businesses: the coast and the language. The city sits on a long bay, with the Mumbles and the Gower peninsula close by, so tourism, hospitality and outdoor activity providers make up a large part of the local economy. At the same time, Swansea is in Wales, where Welsh and English sit side by side, and many businesses want or need to present themselves in both. Prism Works Studio works with Swansea and Gower businesses remotely, handling planning, design and build over video calls and shared drafts.</p>
+<p>Our <a href="/blog/web-design-cardiff/">Cardiff guide</a> covers capital-city professional services, the public sector and the wider Welsh business scene. This guide focuses on what is specific to Swansea's coastal visitor economy and on the practical side of building a bilingual site that a small team can maintain.</p>
+
+<h2>Planning a bilingual Welsh and English website</h2>
+<p>Whether you need Welsh content depends on your organisation. Public bodies in Wales have duties under the Welsh language standards, and some organisations that receive public funding may have related expectations. Most private businesses are not legally required to publish in Welsh, but many choose to, because customers value it and it reflects the place. If you are unsure what applies to you, check with the Welsh Language Commissioner's guidance or take advice.</p>
+<p>Once you decide to go bilingual, the structural choices matter more than the design:</p>
+<ul>
+<li><strong>Separate language versions or mixed pages.</strong> Separate versions, for example under /cy/ and /en/ paths, are generally easier for visitors and search engines to understand than pages that mix both languages throughout.</li>
+<li><strong>A clear, consistent language switcher.</strong> It should appear in the same place on every page and take visitors to the equivalent page in the other language, not back to the home page.</li>
+<li><strong>Language tags for search engines.</strong> Correct language markup, including hreflang, helps Google show the right version to the right searcher.</li>
+<li><strong>Equal treatment.</strong> If you offer both languages, avoid a Welsh version that is noticeably thinner or out of date. Visitors notice.</li>
+<li><strong>Proper translation.</strong> Use a qualified translator rather than machine translation for published content, and agree who checks updates.</li>
+</ul>
+<p>Platform choice affects how easy all this is. WordPress can handle multilingual sites with the right setup, and Shopify supports multiple languages for online shops. Squarespace and Wix also offer multilingual options, with varying flexibility. The important question is whether your team can add and update content in both languages without help.</p>
+
+<h2>Keeping bilingual content manageable</h2>
+<p>The real cost of a bilingual site is ongoing, not upfront. Every new blog post, offer or opening-hours change has to happen twice. Small businesses can keep this manageable by:</p>
+<ul>
+<li>Keeping the core site focused, with fewer, stronger pages rather than lots of thin ones.</li>
+<li>Agreeing a simple workflow: who writes, who translates and who publishes.</li>
+<li>Using structured fields for things like prices, times and dates, so they are entered once and shown in both languages where the platform allows.</li>
+<li>Deciding which content is bilingual and which, such as a short-lived social post, can stay in one language.</li>
+</ul>
+
+<h2>Coastal tourism: bookings first</h2>
+<p>Visitors planning a trip to Swansea Bay or Gower are often comparing options on a phone, sometimes while already in the area. Accommodation, cafés, surf schools, coasteering and kayaking providers, boat trips, campsites and attractions all benefit from making the next step obvious.</p>
+<p>Useful elements include:</p>
+<ul>
+<li><strong>Live availability and online booking.</strong> Visitors are more likely to book when they can see dates and times rather than having to send an enquiry. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the options.</li>
+<li><strong>Clear location information.</strong> Exact meeting points, parking, public transport and accessibility, which matters on a peninsula with narrow roads and limited parking.</li>
+<li><strong>What to expect and what to bring.</strong> Particularly for outdoor activities: age limits, ability levels, kit provided and what to wear.</li>
+<li><strong>Photography of the real place.</strong> Your own beaches, coastline and venue, rather than generic seaside images.</li>
+</ul>
+<p>Accommodation providers can find more in our guides to <a href="/blog/holiday-let-website-design-uk/">holiday let websites</a> and <a href="/blog/hotel-bed-and-breakfast-website-design-uk/">hotel and B&amp;B websites</a>, and <a href="/blog/hotel-direct-bookings-uk/">winning more direct bookings</a>.</p>
+
+<h2>Weather, tides and cancellation policies</h2>
+<p>Coastal activity businesses depend on conditions. A surf lesson, boat trip or coasteering session may move or be cancelled because of wind, swell or tides. Websites that address this clearly reduce anxious enquiries and disputes.</p>
+<p>Explain your conditions policy in plain language: how and when you decide whether a session goes ahead, how customers will be told, and what happens to their booking. Put it near the booking button as well as in your terms. If you post daily updates on whether sessions are running, a simple status notice on the home page can save a lot of phone calls. Consumer law sets out rights around cancellations and refunds, so it is sensible to take advice on how your policy is worded.</p>
+<p>Safety information also belongs on activity sites. Describe the qualifications and safety standards you work to accurately, and only mention accreditations or memberships you actually hold.</p>
+
+<h2>Seasonality and the quieter months</h2>
+<p>Swansea's visitor trade rises and falls through the year. A website can help smooth that out:</p>
+<ul>
+<li><strong>Peak season.</strong> Booking and availability front and centre, with clear information on busy times.</li>
+<li><strong>Shoulder seasons.</strong> Content about what makes spring and autumn worth visiting, such as quieter beaches, walking and wildlife, alongside midweek or short-break offers.</li>
+<li><strong>Winter.</strong> Gift vouchers, local events, private hire and local customers. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> covers selling them online.</li>
+</ul>
+<p>Plan this as a calendar so the website changes before each season begins, not halfway through it.</p>
+
+<h2>Local businesses beyond tourism</h2>
+<p>Swansea also has plenty of businesses serving local people rather than visitors: trades, retailers, health and wellbeing practices, professional firms and food producers. For them, local search visibility usually matters most. A complete Google Business Profile, consistent contact details, clear service area pages and genuine reviews all help. Bilingual business profiles and website content can be a point of difference locally. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the basics.</p>
+
+<h2>Accessibility for all visitors</h2>
+<p>Tourism sites serve a wide range of people, including older visitors and those with disabilities who need to know whether a venue, path or activity will work for them. Honest access information, readable text, good contrast and forms that work with assistive technology all help. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the essentials.</p>
+
+<h2>Food, drink and local produce</h2>
+<p>Swansea and Gower also have food and drink businesses that trade with both visitors and locals: cafés, bakeries, farm shops, seafood sellers, breweries and producers selling at markets. Many could reach customers beyond the summer season by selling online or taking pre-orders for collection. Clear product pages, accurate allergen information, delivery or collection options and a simple checkout are the foundations. Our <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce guide</a> covers the practical and legal points of selling food online, which apply in both languages if you publish bilingually.</p>
+
+<h2>Photography and maps for a spread-out area</h2>
+<p>Gower's beaches, bays and villages can be confusing for first-time visitors. Embedding a map, giving accurate postcodes and written directions to the exact spot, and describing the walk from the nearest car park can prevent missed bookings. Use your own photographs of the actual meeting point or entrance, so visitors recognise it when they arrive.</p>
+
+<h2>Working with Prism Works Studio remotely</h2>
+<p>Prism Works Studio works with Swansea businesses remotely. Planning sessions and design reviews happen over video calls, which suits owners who spend much of the season on the beach, the water or the front desk. You can supply your own photography or arrange a local photographer, and work with your chosen translator for Welsh content.</p>
+<p>For costs, see our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> explains what a build involves.</p>
+
+<h2>FAQs</h2>
+<h3>Does my Swansea business have to have a Welsh language website?</h3>
+<p>Most private businesses are not legally required to, but public bodies and some publicly funded organisations have duties. Check the guidance that applies to you or take advice.</p>
+<h3>Should Welsh and English be on the same page?</h3>
+<p>Separate language versions with a clear switcher are usually easier for visitors and search engines than pages mixing both languages throughout.</p>
+<h3>Can we use machine translation for the Welsh version?</h3>
+<p>It is generally better to use a qualified translator for published content, as poor translation can undermine the reason for offering Welsh at all.</p>
+<h3>How should an activity provider explain weather cancellations?</h3>
+<p>Set out how decisions are made, how customers are told and what happens to bookings, and show it near the booking button. Take advice on wording.</p>
+<h3>Which platform suits a bilingual tourism site?</h3>
+<p>WordPress, Shopify, Squarespace and Wix all offer multilingual options. The best choice depends on your booking needs and how easily your team can update both languages.</p>
+<h3>Do you have an office in Swansea?</h3>
+<p>No. Prism Works Studio works with Swansea businesses remotely, using video calls and shared drafts throughout the project.</p>
+<p>If your Swansea or Gower business needs a website that works in both languages and through every season, <a href="/contact/">book a free discovery call</a> to talk it through.</p>
+`,
+  },
 ];
