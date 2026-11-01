@@ -25,6 +25,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-site-health-screen/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-site-editor-templates/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/wordpress-search-results-page/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-revisions-and-autosave/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-reading-and-discussion-settings/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -42,8 +43,10 @@
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-block-editor-guide/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/wordpress-automatic-updates/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-terms-and-privacy-policy-uk/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/website-sticky-header-design/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-redirects-when-relaunching/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-print-stylesheets/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-ownership-and-handover/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/website-favicon-and-app-icons/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -80,6 +83,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/tattoo-studio-website-design-uk/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-url-redirects/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-theme-updates/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/shopify-theme-sections-and-blocks/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-store-policies/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-staff-accounts-and-permissions/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-shipping-profiles/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
@@ -88,6 +92,7 @@
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-product-filters/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-pre-orders/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-order-fulfilment-workflow/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
+<url><loc>https://prismworksstudio.co.uk/blog/shopify-order-editing-and-refunds/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-navigation-menus/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-metafields-guide/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
 <url><loc>https://prismworksstudio.co.uk/blog/shopify-local-pickup/</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>

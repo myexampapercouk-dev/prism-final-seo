@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pagination vs Load More vs Infinite Scroll</title>
+<meta name="description" content="How to choose between pagination, load more buttons and infinite scroll for blogs, category pages and online stores, with the usability and SEO trade-offs.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Pagination vs Load More vs Infinite Scroll">
+<meta property="og:description" content="How to choose between pagination, load more buttons and infinite scroll for blogs, category pages and online stores, with the usability and SEO trade-offs.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-website-pagination-vs-load-more.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/#article","headline":"Pagination, Load More or Infinite Scroll: Choosing the Right Pattern","description":"How to choose between pagination, load more buttons and infinite scroll for blogs, category pages and online stores, with the usability and SEO trade-offs.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/","url":"https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/","image":"https://prismworksstudio.co.uk/assets/og/blog-website-pagination-vs-load-more.png","inLanguage":"en-GB","wordCount":1505,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Pagination, Load More or Infinite Scroll: Choosing the Right Pattern","item":"https://prismworksstudio.co.uk/blog/website-pagination-vs-load-more/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is infinite scroll bad for SEO?","acceptedAnswer":{"@type":"Answer","text":"Not inherently, but it can stop search engines finding items if content only loads through scripts. Building it on top of paginated, linkable pages avoids this."}},{"@type":"Question","name":"Which pattern is best for online stores?","acceptedAnswer":{"@type":"Answer","text":"It depends on your products and customers. Many stores use pagination or load more on category pages because they balance browsing with control and keep the footer reachable."}},{"@type":"Question","name":"Should paginated pages be noindexed?","acceptedAnswer":{"@type":"Answer","text":"Generally, paginated pages should stay indexable with their own canonical so search engines can reach items deeper in the list. Check current search engine guidance for your setup."}},{"@type":"Question","name":"Why does my list reset when I press back?","acceptedAnswer":{"@type":"Answer","text":"Load more and infinite scroll often lose the loaded items when the page reloads. Restoring position needs extra development, or a switch to pagination."}},{"@type":"Question","name":"Can I use load more on mobile and pagination on desktop?","acceptedAnswer":{"@type":"Answer","text":"It is possible, but it adds complexity. Make sure both versions use the same underlying links so search engines and visitors get consistent content."}},{"@type":"Question","name":"How do I know if visitors browse past the first page?","acceptedAnswer":{"@type":"Answer","text":"Analytics can show visits to paginated addresses or clicks on a load more button. Use this to judge whether your listing length and pattern suit your audience."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Pagination, Load More or Infinite Scroll: Choosing the Right Pattern</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>Pagination, Load More or Infinite Scroll: Choosing the Right Pattern</h1><p class="pws-lead">How to choose between pagination, load more buttons and infinite scroll for blogs, category pages and online stores, with the usability and SEO trade-offs.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Pagination, load more and infinite scroll each suit different kinds of browsing, so match the pattern to what visitors are doing.</li><li>Whichever you choose, every item should be reachable through crawlable links so search engines can find it.</li><li>Keep the visitor's place when they return from an item, as losing it is one of the most frustrating browsing experiences.</li></ul></div>
+<p>Any page that lists more items than fit comfortably on screen needs a way to show the rest. Blog archives, product category pages, portfolios, search results and news listings all face the same question: should visitors click through numbered pages, press a load more button or keep scrolling as new items appear automatically?</p>
+<p>Each pattern has strengths and weaknesses for usability, accessibility and search engines. This guide compares pagination, load more and infinite scroll, explains when each tends to work best and covers the technical details that make any of them work properly.</p>
+
+<h2>The three patterns explained</h2>
+<h3>Pagination</h3>
+<p>Pagination splits a list into numbered pages, with links to move between them. Each page has its own address, so visitors can bookmark or share a specific page and jump directly to a later part of the list.</p>
+<h3>Load more</h3>
+<p>A load more button at the bottom of the list adds the next set of items to the same page when clicked. Visitors stay in one place and decide when they want more.</p>
+<h3>Infinite scroll</h3>
+<p>Infinite scroll adds new items automatically as the visitor nears the bottom of the page. There is no button to press; content keeps arriving as long as they scroll.</p>
+
+<h2>Pagination: strengths and drawbacks</h2>
+<p>Pagination gives visitors a sense of where they are and how much there is. They can return to a specific page, and the footer of the site remains reachable. It is predictable, works well with keyboards and assistive technology when built properly, and each page has a clear, crawlable address.</p>
+<p>The downside is friction. Every page change requires a click and a new page load, and some visitors stop browsing rather than moving to the next page. Very long lists can also produce many pages that few people reach.</p>
+<p><strong>Tends to suit:</strong> search results, archives where people look for something specific, and listings where visitors compare and revisit items.</p>
+
+<h2>Load more: strengths and drawbacks</h2>
+<p>Load more offers a middle ground. Browsing feels continuous, but the visitor remains in control. The footer is still reachable because nothing loads until they ask. It can feel lighter than pagination on mobile.</p>
+<p>The challenges are mostly technical. If the button simply loads content with scripts and offers no underlying links, search engines may not discover items beyond the first set. Returning to the list after viewing an item can also reset it to the start unless the site remembers how much was loaded.</p>
+<p><strong>Tends to suit:</strong> product category pages, blog listings and portfolios where people browse casually but may still want the footer.</p>
+
+<h2>Infinite scroll: strengths and drawbacks</h2>
+<p>Infinite scroll keeps visitors moving with minimal effort and suits feeds where people browse for discovery rather than looking for a particular item. It can feel natural on touch devices.</p>
+<p>It also has well known problems. The footer becomes hard or impossible to reach. Visitors lose a sense of position and progress. Keyboard and screen reader users can find it difficult to navigate past the list. Long pages can become heavy on lower powered devices as more content loads, and returning to the right spot after viewing an item is often unreliable.</p>
+<p><strong>Tends to suit:</strong> social style feeds and image galleries meant for casual browsing. It is less often the best choice for business sites and stores where visitors are trying to find something.</p>
+
+<h2>Search engine considerations</h2>
+<p>Search engines discover content by following links. Whichever pattern you use, make sure every item in a listing can be reached through ordinary links that work without relying on scripts. Common approaches include:</p>
+<ul>
+<li>Giving each set of results its own address, such as page two and page three, linked with standard links.</li>
+<li>Building load more and infinite scroll on top of paginated addresses, so the button or scroll loads the next page's content while the underlying links remain available.</li>
+<li>Updating the address in the browser as new sets load, so the visitor's position can be shared and restored.</li>
+</ul>
+<p>Each paginated page should generally be indexable with its own self-referencing canonical, rather than pointing every page's canonical at page one, which can stop deeper items being found. Product and article pages should also be reachable through other routes, such as category structure and internal links. Search engine guidance evolves, so check current documentation when planning a build.</p>
+
+<h2>Accessibility considerations</h2>
+<ul>
+<li>Pagination links should be real links with clear labels and an indication of the current page.</li>
+<li>A load more button should be a proper button, and after new items load, focus should move sensibly so keyboard users can continue from the first new item.</li>
+<li>Announcing that new content has loaded helps screen reader users understand what happened.</li>
+<li>With infinite scroll, provide a way to reach the footer and important links, or consider switching to load more.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the broader principles.</p>
+
+<h2>Remembering the visitor's place</h2>
+<p>One of the most frustrating experiences is scrolling through a long list, opening an item, pressing back and landing at the top of the list again. Whatever pattern you choose, test this journey. Paginated pages handle it naturally. Load more and infinite scroll need extra work to restore the loaded items and scroll position.</p>
+
+<h2>Combining with filters and sorting</h2>
+<p>Listings often include filters and sorting options. Make sure these work together with your chosen pattern: changing a filter should reset to the first set of results, the number of results should update, and the address should reflect the current state where useful. Our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> covers filtering for stores in more detail.</p>
+
+<h2>How many items per page or load?</h2>
+<p>There is no single right number. Consider how large each item appears, how quickly the page loads and how far visitors typically browse. Product grids often show more items per set than text-heavy listings. Test on mobile, where each item takes more vertical space, and watch analytics to see whether visitors reach later sets.</p>
+
+<h2>Performance</h2>
+<p>Larger sets mean heavier pages. Use appropriately sized images, lazy load images below the first screen and avoid loading more content than visitors are likely to view. With infinite scroll and load more, be mindful of how the page performs once several sets have loaded, especially on older phones.</p>
+
+<h2>Shopify and WordPress</h2>
+<p>Shopify themes typically use pagination on collection pages, and some offer load more or infinite scroll options in the theme settings. WordPress themes usually paginate archives by default, with the number of posts per page controlled in reading settings or the query settings of a block theme. Before adding a different pattern, check what your theme supports and how it handles links and back navigation.</p>
+
+<h2>Small details that make a difference</h2>
+<p>Whichever pattern you choose, a few details improve the experience. Show how many items there are in total, or how many remain, so visitors know what to expect. Give the load more button a clear label and a loading indicator so people know something is happening. On paginated lists, keep the controls large enough to tap on mobile and include previous and next links alongside page numbers. These touches are small, but they help visitors feel in control.</p>
+
+<h2>Making the decision</h2>
+<p>Start with what visitors are trying to do. If they are searching for something specific or comparing options, pagination or load more usually serves them better. If they are browsing casually for inspiration, a continuous pattern may suit. Then make sure the technical foundations are in place: crawlable links, preserved position and accessible controls. Finally, review analytics after launch and adjust.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including category pages and listings that work for visitors and search engines. If your listings feel clumsy or you are planning a rebuild, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is infinite scroll bad for SEO?</h3>
+<p>Not inherently, but it can stop search engines finding items if content only loads through scripts. Building it on top of paginated, linkable pages avoids this.</p>
+<h3>Which pattern is best for online stores?</h3>
+<p>It depends on your products and customers. Many stores use pagination or load more on category pages because they balance browsing with control and keep the footer reachable.</p>
+<h3>Should paginated pages be noindexed?</h3>
+<p>Generally, paginated pages should stay indexable with their own canonical so search engines can reach items deeper in the list. Check current search engine guidance for your setup.</p>
+<h3>Why does my list reset when I press back?</h3>
+<p>Load more and infinite scroll often lose the loaded items when the page reloads. Restoring position needs extra development, or a switch to pagination.</p>
+<h3>Can I use load more on mobile and pagination on desktop?</h3>
+<p>It is possible, but it adds complexity. Make sure both versions use the same underlying links so search engines and visitors get consistent content.</p>
+<h3>How do I know if visitors browse past the first page?</h3>
+<p>Analytics can show visits to paginated addresses or clicks on a load more button. Use this to judge whether your listing length and pattern suit your audience.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Pagination%2C%20Load%20More%20or%20Infinite%20Scroll%3A%20Choosing%20the%20Right%20Pattern'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Pagination%2C%20Load%20More%20or%20Infinite%20Scroll%3A%20Choosing%20the%20Right%20Pattern'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

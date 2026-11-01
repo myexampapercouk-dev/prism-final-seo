@@ -39357,4 +39357,485 @@ module.exports = [
 <p>Usually not. Restricting choices to a brand palette keeps the site consistent and helps make sure colour combinations remain readable.</p>
 `,
   },
+  {
+    slug: 'shopify-order-editing-and-refunds',
+    seoTitle: 'Shopify Order Editing and Refunds: A Practical Guide',
+    title: 'Shopify Order Editing and Refunds: How to Change Orders Cleanly',
+    description: 'How to edit Shopify orders after checkout, issue full and partial refunds, handle restocking and keep customers informed without creating messy records.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-order-fulfilment-workflow/', '/blog/ecommerce-delivery-and-returns-pages/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Customers change their minds. They pick the wrong size, forget an item, spot a typo in their address or decide they no longer want something that has not shipped yet. Sometimes the mistake is on the shop side: an item turns out to be out of stock, or arrives damaged. Every one of these situations ends with someone in your team opening an order in Shopify admin and deciding what to do.</p>
+<p>Handled well, these changes are quick and invisible to the customer. Handled badly, they create duplicate orders, stock counts that do not match the shelves, confusing emails and reports that nobody trusts. This guide explains how order editing and refunds work in Shopify, when to use each and how to build a simple process around them.</p>
+
+<h2>What order editing means in Shopify</h2>
+<p>Order editing lets you change an order after the customer has checked out. Depending on the state of the order, you can typically add products, remove items, adjust quantities and apply discounts to individual lines. Shopify then works out whether the customer owes more money or is due a refund and records the change on the same order.</p>
+<p>The key benefit is that the order history stays in one place. Instead of cancelling an order and creating a new one, the original order number remains, the timeline shows what changed and when, and your reports reflect what was actually sold.</p>
+<p>There are limits. Edits generally apply to items that have not yet been fulfilled, and some order types or payment methods may restrict what can be changed. Shopify updates its features regularly, so check the current help documentation for the precise rules on your plan before relying on a particular behaviour.</p>
+
+<h2>Common situations that call for an edit</h2>
+<h3>The customer wants a different variant</h3>
+<p>A customer emails to say they ordered the wrong size or colour. If the order has not been fulfilled, you can remove the original line and add the correct variant. If the prices match, no money changes hands. If they differ, Shopify shows the balance owed or the amount to refund.</p>
+<h3>The customer wants to add something</h3>
+<p>Adding an item to an existing order can save on separate shipping and keep everything in one parcel. When the edit creates an outstanding balance, you can send the customer an invoice to pay the difference rather than taking card details yourself.</p>
+<h3>An item is unavailable</h3>
+<p>If you cannot supply part of an order, remove that line and refund it, then let the customer know what happened. It is usually better to contact the customer first and offer an alternative, as some will prefer a substitute to a refund.</p>
+<h3>A goodwill discount</h3>
+<p>Where an item is slightly delayed or you want to apologise for a problem, a line item discount applied through an edit keeps the gesture tied to the order rather than handled as a separate, untracked payment.</p>
+
+<h2>How to edit an order step by step</h2>
+<p>The exact screens may change over time, but the flow is broadly the same:</p>
+<ol>
+<li>Open the order in Shopify admin and choose the option to edit it.</li>
+<li>Add, remove or change the quantity of unfulfilled items, and apply any discounts.</li>
+<li>Decide whether removed items should be restocked to your inventory.</li>
+<li>Review the summary showing the new total and any balance owed or refundable.</li>
+<li>Add a reason or note so colleagues can see why the change was made.</li>
+<li>Choose whether to notify the customer, then save the changes.</li>
+</ol>
+<p>The note in step five is easy to skip and valuable later. When a customer contacts you weeks afterwards, a single line explaining the edit saves a lot of detective work.</p>
+
+<h2>How refunds work</h2>
+<p>A refund returns money to the customer against an existing order. In Shopify you can refund an entire order or individual items, refund shipping separately, and in some cases refund a custom amount. Refunds are normally returned to the original payment method.</p>
+<h3>Full refunds</h3>
+<p>A full refund is appropriate when an order is cancelled before dispatch or when everything comes back. If the order has not been fulfilled, cancelling it with a refund usually makes the most sense, as it marks the order clearly and can restock the items in one action.</p>
+<h3>Partial refunds</h3>
+<p>Partial refunds cover situations such as one item from a larger order being returned, a damaged product the customer keeps at a reduced price, or a delivery charge being waived after a late parcel. Select the specific items or enter the amount, and add a reason.</p>
+<h3>Shipping refunds</h3>
+<p>Decide in advance how you treat delivery charges on returns, and state it on your returns page. Applying the same rule every time avoids staff guessing and keeps customers from receiving different answers to the same question.</p>
+
+<h2>Restocking: getting inventory right</h2>
+<p>When you remove or refund an item, Shopify asks whether to restock it. This choice matters more than it looks. If you restock an item that has actually been thrown away or is still in transit back to you, your online stock will show units that do not exist, and you may sell something you cannot send.</p>
+<p>A sensible rule is to restock only when the item is physically back and in a sellable condition. For returns, that may mean refunding first and adjusting stock later once the parcel has been checked. If you hold stock at more than one location, make sure the item is restocked to the right one.</p>
+
+<h2>Edit, refund or cancel: choosing the right action</h2>
+<ul>
+<li><strong>Edit</strong> when the order is still going ahead but its contents or price need to change.</li>
+<li><strong>Refund</strong> when money needs to go back for items that were paid for, whether or not they have shipped.</li>
+<li><strong>Cancel</strong> when the whole order will not go ahead, typically before anything has been dispatched.</li>
+</ul>
+<p>Avoid the temptation to cancel an order and create a fresh one for small changes. It doubles the number of records, can trigger extra emails and makes sales reports harder to read. Draft orders have their place for creating orders on a customer's behalf, but they are not a substitute for editing an existing one.</p>
+
+<h2>Keeping customers informed</h2>
+<p>Shopify can send notification emails when an order is edited or refunded. Review these templates in your notification settings so they match your tone of voice and explain clearly what has changed. A refund email should say how much is being returned and that it may take some time to appear, as processing times depend on the customer's bank or card provider.</p>
+<p>For anything unusual, a short personal message alongside the automated email goes a long way. Customers are generally more understanding when they know what is happening and why.</p>
+
+<h2>Consumer rights and your policies</h2>
+<p>In the UK, consumers buying online generally have rights to cancel and to return faulty goods, and the rules differ depending on the type of product and circumstances. Your refund and returns policy needs to sit alongside those rights, not contradict them. This is an area where the detail matters, so take appropriate advice if you are unsure how the rules apply to your products, and keep your policy pages in line with the way you actually process refunds.</p>
+
+<h2>Building a simple internal process</h2>
+<p>Even a small team benefits from writing down how order changes are handled. A one-page process might cover:</p>
+<ul>
+<li>Who is allowed to edit orders and issue refunds, using staff permissions to limit access where needed.</li>
+<li>When to contact the customer before making a change.</li>
+<li>Your rules on shipping refunds, restocking and goodwill discounts.</li>
+<li>What to write in order notes and how to tag orders that needed attention.</li>
+<li>How to handle edits to orders that are already being packed.</li>
+</ul>
+<p>Linking this process to your fulfilment workflow is important. If an order is edited after a picking list has been printed, the warehouse or packing bench needs to know. Some shops use an order tag or a simple check before dispatch to catch late changes.</p>
+
+<h2>Reporting and reconciliation</h2>
+<p>Because edits and refunds are recorded on the original order, Shopify's sales reports can show gross sales, discounts, returns and net sales separately. Review these regularly to spot patterns: a product with an unusual number of returns may have a sizing issue or a misleading description. Your accountant or bookkeeper will also want refunds recorded consistently, so agree with them how refunds appear in your accounts and how payment provider fees on refunded orders are handled.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK ecommerce brands set up Shopify stores that are easy to run day to day, including order processes, notification templates, staff permissions and returns pages. If order changes are causing confusion in your team, we can review your setup and help you build a clearer workflow. See our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can I edit an order that has already shipped?</h3>
+<p>Generally, editing applies to unfulfilled items. Once an item has shipped, you would usually handle changes through a return and refund rather than an edit. Check Shopify's current documentation for the exact rules.</p>
+<h3>Does editing an order charge the customer automatically?</h3>
+<p>If an edit increases the total, the customer typically needs to pay the balance, for example through an invoice sent from the order. If it reduces the total, you can refund the difference.</p>
+<h3>Should I restock refunded items straight away?</h3>
+<p>Only restock items that are physically back and sellable. Restocking too early can lead to overselling stock you do not have.</p>
+<h3>Can I refund to a different payment method?</h3>
+<p>Refunds normally go back to the original payment method. If you need to compensate a customer another way, such as with a gift card or store credit, make sure this is consistent with your policy and the customer's rights.</p>
+<h3>Will the customer be notified of a refund?</h3>
+<p>Shopify can send a refund notification, and you can choose whether to send it. It is good practice to notify the customer so they know to expect the money.</p>
+<h3>How do I stop staff issuing refunds without approval?</h3>
+<p>Use staff account permissions to control who can issue refunds and edit orders, and agree a written process for when approval is needed. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> covers this in more detail.</p>
+`,
+  },
+  {
+    slug: 'shopify-theme-sections-and-blocks',
+    seoTitle: 'Shopify Theme Sections and Blocks Explained',
+    title: 'Shopify Theme Sections and Blocks: How to Build Flexible Pages',
+    description: 'How sections and blocks work in Shopify themes, how to use them to build flexible pages without code, and how to keep your store tidy and consistent.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-theme-customisation/', '/blog/shopify-theme-updates/', '/services/website-ecommerce-development/'],
+    body: `
+<p>If you have opened the Shopify theme editor, you have already worked with sections and blocks. They are the pieces you add, drag and configure to build your homepage, product pages and collection pages. Understanding how they fit together makes it much easier to change your store yourself, brief a developer and avoid pages that slowly drift into inconsistency.</p>
+<p>This guide explains what sections and blocks are, how they relate to templates, what you can do with them in the theme editor and how to plan them so your store stays flexible and tidy.</p>
+
+<h2>Templates, sections and blocks: the basic structure</h2>
+<p>A Shopify theme is organised in layers:</p>
+<ul>
+<li><strong>Templates</strong> control the layout of a page type, such as the product page, collection page or a standard content page.</li>
+<li><strong>Sections</strong> are the horizontal bands that make up a template, such as a slideshow, a featured collection, an image with text or a newsletter signup.</li>
+<li><strong>Blocks</strong> are the smaller elements inside a section, such as a heading, a button, a single slide, a testimonial or a product detail like price or variant picker.</li>
+</ul>
+<p>Think of a template as a page, sections as the rows on that page and blocks as the content inside each row. Each section and block has settings, such as text, images, colours or layout options, that you adjust in the theme editor.</p>
+
+<h2>How sections work in modern themes</h2>
+<p>Modern Shopify themes allow sections to be added, removed and reordered on most templates, not just the homepage. This means a product page can include sections beneath the main product area, such as a feature list, a comparison table or related products, and a content page can be built from several sections rather than a single block of text.</p>
+<p>Sections fall broadly into two groups. Some appear in a single template and are configured there. Others sit in shared areas, such as the header and footer groups, and appear across the whole store. Changing a shared section updates it everywhere, which is convenient but means you need to think before editing.</p>
+
+<h2>How blocks work</h2>
+<p>Blocks let you build the content of a section piece by piece. In a slideshow, each slide is a block. In a main product section, the title, price, variant picker, buy buttons and description are often separate blocks, which means you can reorder them or remove ones you do not need.</p>
+<p>Each section defines which blocks it accepts and sometimes how many. Some themes also support more flexible block structures that can be nested or reused across sections. What is available depends on your theme, so explore its sections and documentation before assuming a layout needs custom work.</p>
+
+<h2>Using the theme editor</h2>
+<p>The theme editor is where you work with sections and blocks without touching code. A typical workflow looks like this:</p>
+<ol>
+<li>Open the theme editor and choose the template you want to change from the page selector.</li>
+<li>Add a section from the list your theme provides, or select an existing one.</li>
+<li>Add, remove or reorder blocks inside the section.</li>
+<li>Adjust settings such as text, images, colours and spacing, checking the preview on desktop and mobile.</li>
+<li>Save, and preview the live store to confirm everything looks right.</li>
+</ol>
+<p>You can usually hide a section or block temporarily rather than deleting it, which is handy for seasonal content you plan to reuse.</p>
+
+<h2>Alternate templates for different pages</h2>
+<p>Sometimes one product or page needs a different layout. Rather than squeezing exceptions into a single template, you can create an alternate template, such as a product template for bundles or a page template for a landing page, and assign it to the relevant items. Each alternate template has its own sections and blocks.</p>
+<p>Alternate templates are powerful but easy to overuse. A store with many slightly different templates becomes hard to manage, because a change to one does not carry across to the others. Create a new template only when the layout genuinely needs to differ.</p>
+
+<h2>Dynamic content with metafields</h2>
+<p>Many section and block settings can be connected to dynamic sources, including metafields. This means a single product template can show different content for each product, such as care instructions, ingredients or size guides, pulled from data stored against that product. It is one of the best ways to keep templates consistent while still showing product-specific information. Our guide to <a href="/blog/shopify-metafields-guide/">Shopify metafields</a> explains how to set this up.</p>
+
+<h2>Planning sections for a consistent store</h2>
+<p>The flexibility of sections can lead to pages that all look a little different. A few habits keep things tidy:</p>
+<ul>
+<li><strong>Agree a pattern library.</strong> Decide which sections you use for common needs, such as one style of image with text and one style of testimonial, and stick to them.</li>
+<li><strong>Use theme settings for colours and type.</strong> Set colour schemes and fonts globally rather than adjusting each section individually.</li>
+<li><strong>Name things clearly.</strong> Where your theme lets you rename sections in the editor, use descriptive names so colleagues know what each does.</li>
+<li><strong>Keep the order logical.</strong> Plan the flow of key templates around what shoppers need to know, from product details to reassurance and related products.</li>
+<li><strong>Review mobile first.</strong> Sections that look balanced on a wide screen can become very long on a phone.</li>
+</ul>
+
+<h2>Performance considerations</h2>
+<p>Every section adds content to the page, and some add images, videos or scripts. Stacking many heavy sections, especially near the top of a page, can slow loading. Keep the most important content near the top, compress images, avoid autoplaying video where it is not needed and remove sections that are hidden for good rather than leaving them in place indefinitely. Our guide to <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> covers this in more depth.</p>
+
+<h2>When you need a custom section</h2>
+<p>Built-in sections cover a lot, but sometimes a layout or feature is not available. A developer can build custom sections and blocks that appear in the theme editor alongside the standard ones, with settings your team can edit. This keeps content in your hands while adding new capabilities.</p>
+<p>When briefing custom sections, describe the content they need to hold, which settings should be editable and where they will be used. Ask for sections that follow your theme's styling so they look consistent, and keep custom code documented so it can be maintained through theme updates.</p>
+
+<h2>Sections and theme updates</h2>
+<p>Theme updates can add new sections and improve existing ones. If your store relies heavily on edited theme code, updating becomes harder. Using the theme editor and custom sections built in a maintainable way makes it easier to move to newer theme versions. Always update a copy of your theme first and check your templates before publishing. Our guide to <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explains a safe process.</p>
+
+<h2>Working safely on a live store</h2>
+<p>Changes in the theme editor go live as soon as you save on the published theme. For larger changes, duplicate the theme, make your edits on the copy and preview it before publishing. This gives you a fallback if something goes wrong and lets colleagues review the new layout first. Keep a short note of what changed and when, so you can trace any problems later.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Adding a new section for every small idea, leading to very long pages.</li>
+<li>Styling sections individually so colours and spacing become inconsistent.</li>
+<li>Editing shared header or footer sections without realising the change applies site wide.</li>
+<li>Creating many alternate templates that are hard to keep in step.</li>
+<li>Leaving hidden sections in place long after they are needed.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK brands plan and build Shopify stores with flexible, well organised sections, including custom sections where themes fall short. If your store has become hard to edit or you are planning a rebuild, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a section and a block in Shopify?</h3>
+<p>A section is a full width band on a page, such as a slideshow or featured collection. A block is a smaller piece of content within a section, such as a single slide, heading or button.</p>
+<h3>Can I add sections to product pages?</h3>
+<p>In most modern themes, yes. You can add sections below the main product area and reorder the blocks within the product information section.</p>
+<h3>Do I need a developer to use sections?</h3>
+<p>No. Adding, reordering and configuring sections and blocks is done in the theme editor without code. A developer is only needed for custom sections or features your theme does not provide.</p>
+<h3>Will my sections be lost if I change theme?</h3>
+<p>Section content is usually tied to the theme, so switching to a different theme generally means rebuilding layouts. Product data, collections and metafields remain in your store.</p>
+<h3>How many sections should a page have?</h3>
+<p>There is no fixed number. Include the sections shoppers need to make a decision, and remove those that add length without helping.</p>
+<h3>Can sections show different content on each product?</h3>
+<p>Yes, by connecting settings to dynamic sources such as metafields, one template can display product-specific content.</p>
+`,
+  },
+  {
+    slug: 'website-pagination-vs-load-more',
+    seoTitle: 'Pagination vs Load More vs Infinite Scroll',
+    title: 'Pagination, Load More or Infinite Scroll: Choosing the Right Pattern',
+    description: 'How to choose between pagination, load more buttons and infinite scroll for blogs, category pages and online stores, with the usability and SEO trade-offs.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-collections-structure/', '/blog/website-navigation-structure/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Any page that lists more items than fit comfortably on screen needs a way to show the rest. Blog archives, product category pages, portfolios, search results and news listings all face the same question: should visitors click through numbered pages, press a load more button or keep scrolling as new items appear automatically?</p>
+<p>Each pattern has strengths and weaknesses for usability, accessibility and search engines. This guide compares pagination, load more and infinite scroll, explains when each tends to work best and covers the technical details that make any of them work properly.</p>
+
+<h2>The three patterns explained</h2>
+<h3>Pagination</h3>
+<p>Pagination splits a list into numbered pages, with links to move between them. Each page has its own address, so visitors can bookmark or share a specific page and jump directly to a later part of the list.</p>
+<h3>Load more</h3>
+<p>A load more button at the bottom of the list adds the next set of items to the same page when clicked. Visitors stay in one place and decide when they want more.</p>
+<h3>Infinite scroll</h3>
+<p>Infinite scroll adds new items automatically as the visitor nears the bottom of the page. There is no button to press; content keeps arriving as long as they scroll.</p>
+
+<h2>Pagination: strengths and drawbacks</h2>
+<p>Pagination gives visitors a sense of where they are and how much there is. They can return to a specific page, and the footer of the site remains reachable. It is predictable, works well with keyboards and assistive technology when built properly, and each page has a clear, crawlable address.</p>
+<p>The downside is friction. Every page change requires a click and a new page load, and some visitors stop browsing rather than moving to the next page. Very long lists can also produce many pages that few people reach.</p>
+<p><strong>Tends to suit:</strong> search results, archives where people look for something specific, and listings where visitors compare and revisit items.</p>
+
+<h2>Load more: strengths and drawbacks</h2>
+<p>Load more offers a middle ground. Browsing feels continuous, but the visitor remains in control. The footer is still reachable because nothing loads until they ask. It can feel lighter than pagination on mobile.</p>
+<p>The challenges are mostly technical. If the button simply loads content with scripts and offers no underlying links, search engines may not discover items beyond the first set. Returning to the list after viewing an item can also reset it to the start unless the site remembers how much was loaded.</p>
+<p><strong>Tends to suit:</strong> product category pages, blog listings and portfolios where people browse casually but may still want the footer.</p>
+
+<h2>Infinite scroll: strengths and drawbacks</h2>
+<p>Infinite scroll keeps visitors moving with minimal effort and suits feeds where people browse for discovery rather than looking for a particular item. It can feel natural on touch devices.</p>
+<p>It also has well known problems. The footer becomes hard or impossible to reach. Visitors lose a sense of position and progress. Keyboard and screen reader users can find it difficult to navigate past the list. Long pages can become heavy on lower powered devices as more content loads, and returning to the right spot after viewing an item is often unreliable.</p>
+<p><strong>Tends to suit:</strong> social style feeds and image galleries meant for casual browsing. It is less often the best choice for business sites and stores where visitors are trying to find something.</p>
+
+<h2>Search engine considerations</h2>
+<p>Search engines discover content by following links. Whichever pattern you use, make sure every item in a listing can be reached through ordinary links that work without relying on scripts. Common approaches include:</p>
+<ul>
+<li>Giving each set of results its own address, such as page two and page three, linked with standard links.</li>
+<li>Building load more and infinite scroll on top of paginated addresses, so the button or scroll loads the next page's content while the underlying links remain available.</li>
+<li>Updating the address in the browser as new sets load, so the visitor's position can be shared and restored.</li>
+</ul>
+<p>Each paginated page should generally be indexable with its own self-referencing canonical, rather than pointing every page's canonical at page one, which can stop deeper items being found. Product and article pages should also be reachable through other routes, such as category structure and internal links. Search engine guidance evolves, so check current documentation when planning a build.</p>
+
+<h2>Accessibility considerations</h2>
+<ul>
+<li>Pagination links should be real links with clear labels and an indication of the current page.</li>
+<li>A load more button should be a proper button, and after new items load, focus should move sensibly so keyboard users can continue from the first new item.</li>
+<li>Announcing that new content has loaded helps screen reader users understand what happened.</li>
+<li>With infinite scroll, provide a way to reach the footer and important links, or consider switching to load more.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the broader principles.</p>
+
+<h2>Remembering the visitor's place</h2>
+<p>One of the most frustrating experiences is scrolling through a long list, opening an item, pressing back and landing at the top of the list again. Whatever pattern you choose, test this journey. Paginated pages handle it naturally. Load more and infinite scroll need extra work to restore the loaded items and scroll position.</p>
+
+<h2>Combining with filters and sorting</h2>
+<p>Listings often include filters and sorting options. Make sure these work together with your chosen pattern: changing a filter should reset to the first set of results, the number of results should update, and the address should reflect the current state where useful. Our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> covers filtering for stores in more detail.</p>
+
+<h2>How many items per page or load?</h2>
+<p>There is no single right number. Consider how large each item appears, how quickly the page loads and how far visitors typically browse. Product grids often show more items per set than text-heavy listings. Test on mobile, where each item takes more vertical space, and watch analytics to see whether visitors reach later sets.</p>
+
+<h2>Performance</h2>
+<p>Larger sets mean heavier pages. Use appropriately sized images, lazy load images below the first screen and avoid loading more content than visitors are likely to view. With infinite scroll and load more, be mindful of how the page performs once several sets have loaded, especially on older phones.</p>
+
+<h2>Shopify and WordPress</h2>
+<p>Shopify themes typically use pagination on collection pages, and some offer load more or infinite scroll options in the theme settings. WordPress themes usually paginate archives by default, with the number of posts per page controlled in reading settings or the query settings of a block theme. Before adding a different pattern, check what your theme supports and how it handles links and back navigation.</p>
+
+<h2>Small details that make a difference</h2>
+<p>Whichever pattern you choose, a few details improve the experience. Show how many items there are in total, or how many remain, so visitors know what to expect. Give the load more button a clear label and a loading indicator so people know something is happening. On paginated lists, keep the controls large enough to tap on mobile and include previous and next links alongside page numbers. These touches are small, but they help visitors feel in control.</p>
+
+<h2>Making the decision</h2>
+<p>Start with what visitors are trying to do. If they are searching for something specific or comparing options, pagination or load more usually serves them better. If they are browsing casually for inspiration, a continuous pattern may suit. Then make sure the technical foundations are in place: crawlable links, preserved position and accessible controls. Finally, review analytics after launch and adjust.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including category pages and listings that work for visitors and search engines. If your listings feel clumsy or you are planning a rebuild, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is infinite scroll bad for SEO?</h3>
+<p>Not inherently, but it can stop search engines finding items if content only loads through scripts. Building it on top of paginated, linkable pages avoids this.</p>
+<h3>Which pattern is best for online stores?</h3>
+<p>It depends on your products and customers. Many stores use pagination or load more on category pages because they balance browsing with control and keep the footer reachable.</p>
+<h3>Should paginated pages be noindexed?</h3>
+<p>Generally, paginated pages should stay indexable with their own canonical so search engines can reach items deeper in the list. Check current search engine guidance for your setup.</p>
+<h3>Why does my list reset when I press back?</h3>
+<p>Load more and infinite scroll often lose the loaded items when the page reloads. Restoring position needs extra development, or a switch to pagination.</p>
+<h3>Can I use load more on mobile and pagination on desktop?</h3>
+<p>It is possible, but it adds complexity. Make sure both versions use the same underlying links so search engines and visitors get consistent content.</p>
+<h3>How do I know if visitors browse past the first page?</h3>
+<p>Analytics can show visits to paginated addresses or clicks on a load more button. Use this to judge whether your listing length and pattern suit your audience.</p>
+`,
+  },
+  {
+    slug: 'website-sticky-header-design',
+    seoTitle: 'Sticky Header Design: When and How to Use One',
+    title: 'Sticky Header Design: Keeping Navigation Close Without Getting in the Way',
+    description: 'When a sticky header helps a business website or online store, how to design one that stays slim and accessible, and the mistakes that annoy visitors.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/website-footer-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The header is the strip at the top of a website that usually holds the logo, the main navigation and perhaps a search box, basket or contact button. On a traditional site it scrolls away as soon as the visitor moves down the page. A sticky header stays fixed at the top of the screen, or reappears when needed, so those links and actions are always close at hand.</p>
+<p>Sticky headers are now a familiar pattern on business websites and online stores, but they are not automatically a good idea. A badly designed one eats screen space, hides content and frustrates people. This guide looks at when a sticky header makes sense, how to design one well and how to avoid the common pitfalls.</p>
+
+<h2>What is a sticky header?</h2>
+<p>A sticky header, sometimes called a fixed header, is a site header that remains visible as the visitor scrolls. There are a few variations:</p>
+<ul>
+<li><strong>Always visible:</strong> the header stays fixed at the top for the whole scroll.</li>
+<li><strong>Shrinking:</strong> the header starts at full size and becomes slimmer once the visitor scrolls, often with a smaller logo.</li>
+<li><strong>Scroll-up reveal:</strong> the header hides when the visitor scrolls down and slides back into view when they scroll up, a pattern sometimes called a smart or partially persistent header.</li>
+</ul>
+<p>Each approach balances access to navigation against the space given to content. The right choice depends on your site and what visitors need to do.</p>
+
+<h2>When a sticky header helps</h2>
+<h3>Long pages</h3>
+<p>On long service pages, guides and category pages, visitors may scroll a long way from the top. A sticky header means they do not have to scroll all the way back to move elsewhere or get in touch.</p>
+<h3>Online stores</h3>
+<p>For ecommerce, a persistent basket icon and search field can be genuinely useful. Shoppers can check their basket or search for another product from anywhere on a page, which supports browsing across several products.</p>
+<h3>Sites with a clear primary action</h3>
+<p>If your main goal is a booking, a call or an enquiry, a sticky header can keep that button visible. Visitors who decide to act halfway down a page can do so straight away.</p>
+
+<h2>When to think twice</h2>
+<p>Short brochure pages with little scrolling gain less from a sticky header. Content-heavy reading experiences, such as long articles, can feel cramped if a large header permanently takes the top of the screen. On small phone screens in landscape orientation, a fixed header can take up a significant share of the visible area.</p>
+<p>None of these rule out a sticky header, but they suggest choosing a slimmer or scroll-up reveal version, or leaving it static on certain templates.</p>
+
+<h2>Design principles for a good sticky header</h2>
+<h3>Keep it slim</h3>
+<p>The sticky version of your header should be noticeably compact. Reduce padding, shrink the logo and remove anything that is not essential while scrolling. Visitors came for the content, so the header should support it rather than compete with it.</p>
+<h3>Prioritise what goes in it</h3>
+<p>Decide which elements earn a permanent place. For most sites that means the logo linking home, a menu, and one primary action. For stores it may be search and basket. Secondary links such as social icons or a full utility bar can usually drop out of the sticky state.</p>
+<h3>Make it visually distinct</h3>
+<p>A sticky header sits on top of changing content, so it needs a solid background and a subtle divider or shadow to separate it. Transparent headers that look striking over a hero image can become hard to read once text and images scroll beneath them.</p>
+<h3>Smooth, not jumpy</h3>
+<p>When a header changes size or position, the transition should be quick and smooth. Avoid layouts that jump as the header switches state, as content shifting under the visitor's finger or cursor is disorientating and can count against visual stability measures.</p>
+<h3>Mind the mobile version</h3>
+<p>On mobile, the header often contains just the logo, a menu button and perhaps a basket. Keep tap targets comfortably large and consider the scroll-up reveal pattern so the full screen is available while reading.</p>
+
+<h2>Accessibility considerations</h2>
+<p>Sticky headers can create accessibility problems if they are not tested properly.</p>
+<ul>
+<li><strong>Focus hidden behind the header:</strong> when keyboard users tab through a page, the focused link can end up underneath a fixed header and become invisible. Adding scroll padding at the top of the page helps keep focused elements in view.</li>
+<li><strong>Zoom and large text:</strong> visitors who zoom in or increase text size can find a fixed header taking up much of the screen. Test at high zoom levels and consider letting the header scroll away when space is limited.</li>
+<li><strong>Skip links:</strong> a skip to content link remains important so keyboard and screen reader users can bypass repeated navigation.</li>
+<li><strong>Motion:</strong> keep animations subtle and respect the reduced motion preference that some visitors set on their devices.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers these principles more broadly.</p>
+
+<h2>Anchor links and in-page navigation</h2>
+<p>A frequent issue with sticky headers is anchor links that jump to a heading only for the heading to land underneath the fixed header. This affects tables of contents, FAQ links and back to top features. The fix is usually a small amount of scroll offset in the site styles so that anchored sections stop just below the header. It is worth testing every page type that uses in-page links.</p>
+
+<h2>Performance and technical points</h2>
+<p>Modern browsers can make headers sticky with styling alone, which is generally lighter than relying on scripts that constantly watch scroll position. Where scripts are needed, for example to reveal the header on scroll up, they should be efficient so scrolling stays smooth on lower powered phones.</p>
+<p>Also check how the header interacts with other fixed elements. Cookie banners, chat buttons, announcement bars and sticky add to basket bars can pile up and leave very little visible content. Review the whole screen together rather than each element in isolation.</p>
+
+<h2>Sticky headers on Shopify and WordPress</h2>
+<p>Many Shopify themes include a sticky header option in the theme editor, often with a choice between always visible and reveal on scroll up. On WordPress, block themes and many classic themes offer similar settings, or the behaviour can be added in the theme styles. Before customising, check what your theme already supports, as using built-in settings is usually easier to maintain through updates.</p>
+
+<h2>Announcement bars and sticky headers</h2>
+<p>Many stores show a slim announcement bar above the header for delivery messages or offers. Decide whether it should stick with the header or scroll away. Keeping both fixed doubles the space taken at the top of the screen, so letting the announcement bar scroll away is often the more comfortable option.</p>
+
+<h2>Testing your sticky header</h2>
+<p>Before launch, run through a simple checklist:</p>
+<ol>
+<li>Scroll through long pages on desktop, tablet and phone in both orientations.</li>
+<li>Tab through each page with a keyboard and check focus stays visible.</li>
+<li>Zoom the browser and increase text size to see how much space the header uses.</li>
+<li>Click every in-page anchor link and check headings are not hidden.</li>
+<li>Open menus and search from the sticky state to make sure they work there too.</li>
+<li>Check the header alongside cookie banners and other fixed elements.</li>
+</ol>
+<p>If you have analytics or session recordings, watch how visitors use the header after launch and adjust if it seems to get in the way.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online stores for UK businesses, including navigation and header patterns that are tested on real devices. If your header feels clumsy or you are planning a redesign, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">contact us</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Are sticky headers good for SEO?</h3>
+<p>A sticky header does not directly affect rankings. It can support a better visitor experience, but a header that causes layout shifts or hides content could work against you, so focus on usability.</p>
+<h3>Should my sticky header include a call to action?</h3>
+<p>If your site has one clear primary action, such as booking or enquiring, a compact button in the sticky header can be useful. Avoid adding several competing buttons.</p>
+<h3>What is better: always visible or reveal on scroll up?</h3>
+<p>It depends on the site. Reveal on scroll up gives more room for content and suits reading pages and mobile. Always visible suits stores where search and basket are used often. Testing with real visitors is the best guide.</p>
+<h3>Why do my anchor links hide headings under the header?</h3>
+<p>Fixed headers overlap the top of the screen, so the browser scrolls the heading under them. Adding a scroll offset in your site styles usually solves this.</p>
+<h3>Do sticky headers work with mega menus?</h3>
+<p>They can, but large dropdowns need to fit within the screen and scroll if necessary. Test them carefully on smaller laptop screens. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers menu planning.</p>
+<h3>Can I turn off the sticky header on some pages?</h3>
+<p>Often yes, depending on your theme. Landing pages and checkout flows sometimes benefit from a simpler header, so it is worth checking what your theme allows.</p>
+`,
+  },
+  {
+    slug: 'wordpress-search-results-page',
+    seoTitle: 'WordPress Search Results Page: How to Make It Useful',
+    title: 'WordPress Search Results Page: Helping Visitors Find What They Need',
+    description: 'How to improve the WordPress search results page, from layout and empty results to what gets searched, so visitors find the right content quickly.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/wordpress-custom-post-types/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Most WordPress sites have a search box somewhere, often in the header or a sidebar. Far fewer give much thought to what happens after someone presses enter. The search results page is frequently left as the theme default: a plain list of titles, sometimes with odd items mixed in, and a bare message when nothing matches.</p>
+<p>Visitors who use search are usually looking for something specific. A clear, useful results page helps them find it and stay on your site. This guide explains how WordPress search works, how to design a better results page and how to use search data to improve your site.</p>
+
+<h2>How WordPress search works</h2>
+<p>Out of the box, WordPress search looks for the search terms in the titles, content and excerpts of published posts and pages. Results are shown using the search template in your theme. On a block theme, this is a template you can edit in the site editor. On a classic theme, it is a template file that a developer can adjust.</p>
+<p>The default search is straightforward. It does not understand synonyms, it does not weigh results by importance in any sophisticated way and it does not search custom fields unless extended. For many small business sites that is perfectly adequate, provided the results page is presented well. Larger sites with lots of content may need a more capable search setup.</p>
+
+<h2>What a good search results page includes</h2>
+<h3>A clear heading and the search term</h3>
+<p>Repeat what the visitor searched for, such as "Results for garden design". It confirms the search worked and helps them spot typos.</p>
+<h3>The search box again</h3>
+<p>Place a search field at the top of the results page, filled with the current term, so visitors can refine their query without scrolling back to the header.</p>
+<h3>Useful result listings</h3>
+<p>Each result should show a title linking to the page, a short excerpt and enough context to judge relevance. Showing the content type, such as article, service or case study, and the date for time-sensitive content helps people pick the right result. A thumbnail can help on visual sites, but keep listings easy to scan.</p>
+<h3>Sensible pagination</h3>
+<p>If there are many results, split them into pages with clear next and previous links, or a load more button. Showing the number of results can help visitors decide whether to refine their search.</p>
+
+<h2>Designing the no results state</h2>
+<p>The empty state is one of the most overlooked parts of a website. When a search returns nothing, the default message can leave visitors at a dead end. A better no results page:</p>
+<ul>
+<li>Says plainly that nothing matched and repeats the term.</li>
+<li>Suggests checking spelling or trying a broader or different word.</li>
+<li>Offers the search box again.</li>
+<li>Links to your main sections, popular pages or key services.</li>
+<li>Gives a route to contact you, so the visitor can ask directly.</li>
+</ul>
+<p>This is similar to the thinking behind a good 404 page. Our guide to <a href="/blog/404-page-design/">404 page design</a> covers the same principles of turning dead ends into next steps.</p>
+
+<h2>Choosing what appears in results</h2>
+<p>By default, search can include content that is not useful to visitors, such as thank you pages, landing pages built for campaigns, legal pages or old posts. Review what turns up for common searches and consider:</p>
+<ul>
+<li><strong>Excluding utility pages</strong> such as form confirmation pages that make no sense out of context.</li>
+<li><strong>Including custom post types</strong> such as case studies, team members or resources if visitors would expect to find them. Whether they appear depends on how the post type is registered.</li>
+<li><strong>Grouping results by type</strong> on larger sites, so services, articles and other content are easy to tell apart.</li>
+</ul>
+<p>Changes like these usually involve adjusting the search query in theme code or using the settings of your search setup, so involve your developer and test carefully.</p>
+
+<h2>Customising the results template</h2>
+<h3>On block themes</h3>
+<p>With a block theme, open the site editor and find the search results template. You can change the layout using blocks, adjust how each result is displayed, add a search block at the top and improve the no results message. Changes apply to every search, so preview with a few different queries. Our guide to <a href="/blog/wordpress-site-editor-templates/">WordPress site editor templates</a> explains how templates work.</p>
+<h3>On classic themes</h3>
+<p>On a classic theme, the search template is a file in the theme. Edits should be made in a child theme so they are not lost when the parent theme updates. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why.</p>
+
+<h2>Search results and SEO</h2>
+<p>Internal search results pages are generally not pages you want search engines to index. They can create large numbers of thin, near duplicate pages. Many sites mark search results as noindex, and some also take care that search URLs are not linked from crawlable parts of the site. Check how your theme and SEO settings handle this. If you are unsure, ask your developer to confirm what search engines can see.</p>
+
+<h2>Using search data to improve your site</h2>
+<p>What people type into your search box is a direct signal of what they want. If your analytics is set up to record site searches, review the terms regularly:</p>
+<ul>
+<li><strong>Frequent searches for the same thing</strong> may mean the item is hard to find through navigation.</li>
+<li><strong>Searches with no results</strong> point to content gaps, different terminology from the words you use, or common misspellings.</li>
+<li><strong>Searches for contact details or prices</strong> suggest key information should be more prominent.</li>
+</ul>
+<p>Feeding these insights into navigation, page titles and new content is often more valuable than any change to the search page itself. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> explains how to plan menus around visitor needs.</p>
+
+<h2>Performance and security</h2>
+<p>Each search runs a query against your database, and on large sites heavy search use can add load. Good hosting, caching where appropriate and a tidy database help. Search forms can also attract automated traffic, so keep WordPress, your theme and extensions up to date and monitor for unusual activity.</p>
+
+<h2>Where to place the search box</h2>
+<p>A results page only helps if visitors can find the search box in the first place. On content-heavy sites, a visible search field in the header makes sense. On smaller sites, a search icon that opens a field may be enough, as long as it is clearly recognisable and works well on mobile. Use a visible label or clear placeholder text that explains what can be searched, such as articles and services, and make sure the field and button are large enough to tap comfortably.</p>
+<p>Consider whether every page needs search at all. A small brochure site with a handful of pages may be better served by clear navigation, while a site with a large library of guides or resources benefits from search being prominent. Placing search where visitors expect it, and keeping it consistent across templates, avoids them hunting for it.</p>
+
+<h2>Testing your search experience</h2>
+<p>Before and after making changes, run a short set of test searches. Try the names of your main services, common questions customers ask, a misspelt word, a term that should return nothing and a very broad term. Check each results page on desktop and mobile, make sure the layout holds up with long titles and short excerpts, and confirm that the no results page offers useful routes onwards. Repeat these tests after theme or WordPress updates, as template changes can alter how results appear.</p>
+
+<h2>When to consider a more advanced search</h2>
+<p>If your site has a large archive, many content types or important custom field data, the default search may struggle to surface the best results. More advanced setups can offer relevance tuning, filtering by type or category, and better handling of typos. These add complexity and maintenance, so weigh the benefit against your site's size and how much visitors rely on search.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and improves WordPress websites for UK businesses, including search templates, content structure and navigation. If your site search is letting visitors down, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Does WordPress have built-in search?</h3>
+<p>Yes. WordPress includes a basic search that looks at the titles, content and excerpts of published posts and pages, displayed using your theme's search template.</p>
+<h3>Can I edit the search results page without code?</h3>
+<p>On a block theme, you can edit the search results template in the site editor. On a classic theme, changes usually need a developer working in a child theme.</p>
+<h3>Should search results pages be indexed by Google?</h3>
+<p>Generally not. Internal search pages can create many thin pages, so many sites set them to noindex. Check how your setup handles this.</p>
+<h3>How do I remove certain pages from search results?</h3>
+<p>This normally involves adjusting the search query or using settings in your search setup. Ask your developer to make the change and test it.</p>
+<h3>What should the no results page say?</h3>
+<p>Repeat the search term, suggest alternative searches, show the search box again and link to key pages and your contact details.</p>
+<h3>How can I see what visitors search for?</h3>
+<p>Many analytics setups can record site search terms. Once enabled, review them regularly for patterns and gaps.</p>
+`,
+  },
 ];
