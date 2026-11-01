@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress User Roles: Who Should Have Which Access</title>
+<meta name="description" content="A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-user-roles/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress User Roles: Who Should Have Which Access">
+<meta property="og:description" content="A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-user-roles/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-user-roles.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-user-roles/#article","headline":"WordPress User Roles: How to Give the Right People the Right Access","description":"A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-user-roles/","url":"https://prismworksstudio.co.uk/blog/wordpress-user-roles/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-user-roles.png","inLanguage":"en-GB","wordCount":1451,"articleSection":"Web Design","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress User Roles: How to Give the Right People the Right Access","item":"https://prismworksstudio.co.uk/blog/wordpress-user-roles/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How many Administrators should a WordPress site have?","acceptedAnswer":{"@type":"Answer","text":"As few as practical. Usually the business owner and whoever maintains the site technically. Everyone else should have a lower role suited to their work."}},{"@type":"Question","name":"What is the difference between an Editor and an Author?","acceptedAnswer":{"@type":"Answer","text":"An Editor can publish and edit everyone's posts and pages. An Author can only publish and edit their own posts."}},{"@type":"Question","name":"Is it safe to share one login between staff?","acceptedAnswer":{"@type":"Answer","text":"It is not recommended. Shared logins make it impossible to see who changed what and hard to remove one person's access. Give each person their own account."}},{"@type":"Question","name":"What happens to posts when I delete a user?","acceptedAnswer":{"@type":"Answer","text":"WordPress asks whether to delete their content or attribute it to another user. Choose to attribute it to another account unless you genuinely want the content removed."}},{"@type":"Question","name":"Can I create my own user roles?","acceptedAnswer":{"@type":"Answer","text":"Yes, with a role management plugin or custom code. Keep changes minimal, document them and test with a dummy account first."}},{"@type":"Question","name":"Can Prism Works Studio review our WordPress access?","acceptedAnswer":{"@type":"Answer","text":"Yes. Prism Works Studio can review your user accounts and roles and recommend a safer setup as part of our website and ecommerce development work."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress User Roles: How to Give the Right People the Right Access</li></ol></nav><span class="pws-eyebrow">Web Design</span><h1>WordPress User Roles: How to Give the Right People the Right Access</h1><p class="pws-lead">A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Give each person the lowest WordPress role that lets them do their job, and keep Administrator accounts to a minimum.</li><li>Every person should have their own login so you can see who changed what and remove access cleanly.</li><li>Review user accounts regularly and remove anyone who no longer needs access, especially former staff and suppliers.</li></ul></div>
+<p>WordPress user roles control what each person who logs into your site can see and do. Getting them right is one of the simplest ways to protect a WordPress site: people can do their jobs, mistakes are contained, and a compromised account causes less damage. Getting them wrong, for example by making everyone an Administrator, leaves the whole site exposed to one weak password.</p>
+<p>This guide explains the default roles, how to assign them sensibly and how to keep access tidy over time. It works alongside our wider <a href="/blog/wordpress-security-uk/">WordPress security guide</a>.</p>
+
+<h2>The default WordPress roles</h2>
+<p>A standard WordPress site includes a set of built-in roles, each with a group of permissions called capabilities.</p>
+<ul>
+<li><strong>Administrator.</strong> Full control: install plugins and themes, change settings, manage users and edit everything. On multisite networks, a Super Admin sits above this.</li>
+<li><strong>Editor.</strong> Can publish and manage all posts and pages, including other people's, and moderate comments. Cannot change site settings or install plugins.</li>
+<li><strong>Author.</strong> Can write, upload media for and publish their own posts, but not edit other people's.</li>
+<li><strong>Contributor.</strong> Can write and edit their own posts but cannot publish them or upload files. An Editor or Administrator must review and publish.</li>
+<li><strong>Subscriber.</strong> Can log in and manage their own profile. Often used for membership or gated content.</li>
+</ul>
+<p>Plugins can add their own roles. WooCommerce, for example, adds a Shop Manager role for running the store without full site control, and a Customer role for shoppers. Check the official documentation for any plugin that adds roles so you understand what they allow.</p>
+
+<h2>The principle of least privilege</h2>
+<p>The guiding idea is simple: give each person the lowest level of access that lets them do their work. If someone only writes blog posts, they do not need to install plugins. If someone manages orders, the Shop Manager role is usually a better fit than Administrator.</p>
+<p>This helps in several ways:</p>
+<ul>
+<li>A stolen password for an Author account cannot be used to install malicious plugins.</li>
+<li>Accidental changes to settings or plugins become much less likely.</li>
+<li>It is clearer who is responsible for what.</li>
+</ul>
+
+<h2>Matching roles to real people</h2>
+<p>Think about the people who actually touch your site. A typical small business setup might look like this:</p>
+<table>
+<thead><tr><th>Person</th><th>Suggested role</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Business owner</td><td>Administrator</td><td>Needs ultimate control and ownership</td></tr>
+<tr><td>Developer or agency</td><td>Administrator, ideally time-limited</td><td>Needs to update plugins and fix issues</td></tr>
+<tr><td>Marketing lead</td><td>Editor</td><td>Manages all content without touching settings</td></tr>
+<tr><td>Guest writer</td><td>Contributor</td><td>Drafts are reviewed before publishing</td></tr>
+<tr><td>Staff writer</td><td>Author</td><td>Publishes own posts only</td></tr>
+<tr><td>Order handler</td><td>Shop Manager</td><td>Manages orders and products in WooCommerce</td></tr>
+</tbody>
+</table>
+<p>This is a starting point, not a rule. Adjust it to your team and how much you trust each workflow.</p>
+
+<h2>One person, one login</h2>
+<p>Shared logins are common and risky. If several people use the same Administrator account, you cannot tell who made a change, and removing one person means changing the password for everyone.</p>
+<p>Instead:</p>
+<ul>
+<li>Create a separate account for each person, using their work email address.</li>
+<li>Avoid generic usernames such as "admin".</li>
+<li>Ask everyone to use a strong, unique password, ideally stored in a password manager.</li>
+<li>Turn on two-factor authentication, at least for Administrator and Editor accounts, using a reputable security plugin or your host's tools.</li>
+</ul>
+<p>Individual accounts also make it easier to see changes in revision history and, if you use one, an activity log plugin.</p>
+
+<h2>Giving access to developers and freelancers</h2>
+<p>Outside help often needs high-level access, at least temporarily. Some sensible habits:</p>
+<ul>
+<li>Create a named account for each supplier rather than sharing yours.</li>
+<li>Remove or downgrade the account when the work ends.</li>
+<li>Consider whether they need WordPress access at all, or just hosting, staging or file access.</li>
+<li>Make sure your business, not a supplier, owns the main Administrator account, hosting and domain.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> covers why keeping control of key accounts matters.</p>
+
+<h2>Custom roles and capabilities</h2>
+<p>Sometimes the default roles do not quite fit. You might want an Editor who can also manage menus, or a role that can view reports but not edit content. Role management plugins let you create custom roles or adjust capabilities.</p>
+<p>Use these carefully:</p>
+<ul>
+<li>Change as little as possible and document what you changed.</li>
+<li>Avoid giving powerful capabilities, such as installing plugins or editing files, to roles that do not need them.</li>
+<li>Test changes using a test account with that role before giving it to a real person.</li>
+<li>Remember that removing a role management plugin may not undo the changes it made to the database.</li>
+</ul>
+
+<h2>Reviewing accounts regularly</h2>
+<p>User lists drift over time. Former staff, old agencies and test accounts linger. Set a regular reminder to review users, and also review whenever someone leaves or a project ends.</p>
+<p>During a review:</p>
+<ol>
+<li>Go to Users in the dashboard and sort by role.</li>
+<li>Check every Administrator account and confirm it still needs that level.</li>
+<li>Remove or downgrade accounts for people who have left.</li>
+<li>When deleting a user, attribute their content to another account so posts are not lost.</li>
+<li>Check for unfamiliar accounts, which can be a sign of a compromise.</li>
+</ol>
+<p>This fits well within routine <a href="/blog/website-maintenance-uk/">website maintenance</a>, alongside updates and backups.</p>
+
+<h2>Content workflows that use roles well</h2>
+<p>Roles are not only about security. They can also shape a sensible publishing process. For example, a small team might have writers as Contributors, so every draft lands in a review queue, and one Editor who checks facts, links and images before publishing. That gives a natural quality check without extra tools.</p>
+<p>A few habits make this work smoothly:</p>
+<ul>
+<li>Agree a simple checklist the Editor uses before publishing, covering headings, links, image alt text and categories.</li>
+<li>Use the "Pending Review" status so drafts ready for checking are easy to find.</li>
+<li>Leave notes in the post or in your usual team chat rather than editing silently, so writers learn from changes.</li>
+<li>Promote trusted writers to Author when constant review no longer adds value.</li>
+</ul>
+<p>Plugins that add editorial calendars or custom statuses can help larger teams, but many sites manage well with the default roles alone.</p>
+
+<h2>What to do if you suspect a compromised account</h2>
+<p>If you see an account you do not recognise, or changes nobody made, act quickly and calmly.</p>
+<ol>
+<li>Change the passwords for all Administrator accounts and your hosting account.</li>
+<li>Remove or disable the suspicious account, after noting its details.</li>
+<li>Check for recently installed plugins, new files or changed settings.</li>
+<li>Run a malware scan using a reputable security plugin or your host's tools.</li>
+<li>Restore from a clean backup if needed. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> explains how to prepare for this.</li>
+<li>Consider whether personal data may have been affected. If so, review ICO guidance on personal data breaches, as you may have reporting obligations, and seek professional advice if unsure.</li>
+</ol>
+
+<h2>Roles on WooCommerce sites</h2>
+<p>Online shops add another layer. The Shop Manager role can manage products, orders, coupons and reports, but it also has wide access to customer details. Give it only to people who genuinely handle orders. Staff who only update product descriptions might manage with Editor access or a custom role. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> is worth reading if you are weighing up platforms.</p>
+
+<h2>Customer and member accounts</h2>
+<p>If your site lets the public register, for example as shop customers or members, those accounts hold personal data. Collect only what you need, explain how it is used in your privacy notice, and make sure new registrations get the lowest role by default. Check under Settings, General that the default role for new users is appropriate. For UK data protection questions, the ICO publishes guidance, and you may wish to take professional advice for your situation.</p>
+
+<h2>FAQs</h2>
+<h3>How many Administrators should a WordPress site have?</h3>
+<p>As few as practical. Usually the business owner and whoever maintains the site technically. Everyone else should have a lower role suited to their work.</p>
+<h3>What is the difference between an Editor and an Author?</h3>
+<p>An Editor can publish and edit everyone's posts and pages. An Author can only publish and edit their own posts.</p>
+<h3>Is it safe to share one login between staff?</h3>
+<p>It is not recommended. Shared logins make it impossible to see who changed what and hard to remove one person's access. Give each person their own account.</p>
+<h3>What happens to posts when I delete a user?</h3>
+<p>WordPress asks whether to delete their content or attribute it to another user. Choose to attribute it to another account unless you genuinely want the content removed.</p>
+<h3>Can I create my own user roles?</h3>
+<p>Yes, with a role management plugin or custom code. Keep changes minimal, document them and test with a dummy account first.</p>
+<h3>Can Prism Works Studio review our WordPress access?</h3>
+<p>Yes. Prism Works Studio can review your user accounts and roles and recommend a safer setup as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20User%20Roles%3A%20How%20to%20Give%20the%20Right%20People%20the%20Right%20Access'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-child-themes/"><p class="pws-tags">Web Design &middot; 7 min read</p><h3>WordPress Child Themes: When You Need One and How to Use It Safely</h3><p>WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-call-to-action-buttons/"><p class="pws-tags">Web Design &middot; 8 min read</p><h3>Website Call to Action Buttons: Wording, Design and Placement</h3><p>How to write, design and place call to action buttons on a UK business website so visitors know exactly what to do next, without pressure or clutter.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-breadcrumb-navigation/"><p class="pws-tags">Web Design &middot; 7 min read</p><h3>Breadcrumb Navigation: When to Use It and How to Get It Right</h3><p>What breadcrumb navigation is, when UK websites and online shops should use it, how to design it for mobile and accessibility, and how to add structured data.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20User%20Roles%3A%20How%20to%20Give%20the%20Right%20People%20the%20Right%20Access'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

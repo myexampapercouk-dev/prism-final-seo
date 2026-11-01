@@ -34407,4 +34407,635 @@ module.exports = [
 <p>If every URL stays exactly the same, you may not need new redirects. It is still worth crawling the old and new sites to confirm nothing has changed unexpectedly.</p>
 `,
   },
+  {
+    slug: 'shopify-apps-audit',
+    seoTitle: 'Shopify Apps Audit: How to Review and Trim Your Apps',
+    title: 'Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store',
+    description: 'How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.',
+    date: '2026-11-01',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-speed-optimisation/', '/blog/wordpress-plugin-audit/'],
+    body: `
+<p>A Shopify apps audit is a structured review of every app installed in your store, to check what each one does, whether you still need it, and what it costs you in speed, subscription charges, data access and complexity. Apps are one of the best things about Shopify, but they build up quietly. An audit helps you keep the useful ones, remove the rest and spot problems before they affect customers.</p>
+<p>This guide walks through a practical audit you can run yourself. If you also run WordPress sites, our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> follows a similar approach.</p>
+
+<h2>Why apps build up</h2>
+<p>Most stores add apps one at a time to solve a specific problem: reviews, upsells, email pop-ups, size charts, shipping rules. Each decision makes sense at the time. Months later, some apps are no longer used, some duplicate features Shopify now offers natively, and some were trialled and forgotten.</p>
+<p>That matters because apps can:</p>
+<ul>
+<li>Add scripts and styles that slow pages down.</li>
+<li>Carry recurring charges on your Shopify bill.</li>
+<li>Hold permissions to customer, order or product data.</li>
+<li>Conflict with each other or with theme updates.</li>
+<li>Leave code in your theme even after uninstalling.</li>
+</ul>
+
+<h2>Step one: build a full list</h2>
+<p>Start in Settings, Apps and sales channels in your Shopify admin. Record every installed app in a simple spreadsheet. For each one, note:</p>
+<ul>
+<li><strong>Name and developer.</strong></li>
+<li><strong>What it does</strong> in one plain sentence.</li>
+<li><strong>Who asked for it</strong> and who looks after it now.</li>
+<li><strong>Where it appears</strong>: storefront, checkout, admin only, or background.</li>
+<li><strong>Billing</strong>: check the charges shown in your Shopify billing section.</li>
+<li><strong>Permissions</strong>: what data it can access, shown on the app's details page.</li>
+<li><strong>Last meaningful use</strong>: when anyone last changed its settings or relied on it.</li>
+</ul>
+<p>Also check your theme's app embeds and app blocks in the theme editor. These show which apps are actively injecting content into the storefront.</p>
+
+<h2>Step two: question each app</h2>
+<p>Go through the list and ask a few direct questions about each app.</p>
+<h3>Is it still used?</h3>
+<p>If nobody can explain why an app is installed, or its feature is switched off, it is a strong candidate for removal. Check with colleagues first, because some apps work quietly in the background, such as feeds, backups or accounting connectors.</p>
+<h3>Does Shopify now do this natively?</h3>
+<p>Shopify adds features regularly. Things that once needed an app, such as some filtering, product bundles or certain marketing emails, may now be handled by Shopify or its own free apps. Check current Shopify documentation rather than assuming.</p>
+<h3>Do two apps overlap?</h3>
+<p>It is easy to end up with two pop-up tools, two review apps or two upsell apps. Overlap adds weight and can cause odd behaviour. Pick one and remove the other.</p>
+<h3>Is the developer still active?</h3>
+<p>Look at the app's listing for recent updates and support responsiveness. An abandoned app can become a risk as Shopify and your theme change.</p>
+<h3>Are its permissions reasonable?</h3>
+<p>An app that only shows a size chart should not need broad access to customer data. If permissions look wider than the job requires, consider an alternative. For questions about personal data handling, the ICO's guidance on UK GDPR is a sensible reference, and you may want professional advice for your specific situation.</p>
+
+<h2>Step three: check the speed impact</h2>
+<p>Storefront apps often load their own JavaScript and CSS on every page, even pages where the feature is not used. To get a sense of the impact:</p>
+<ul>
+<li>Run key pages through PageSpeed Insights and note the results.</li>
+<li>Use your browser's developer tools to see which scripts load and from which domains.</li>
+<li>Duplicate your live theme, disable an app's embed on the duplicate, and compare.</li>
+</ul>
+<p>Results vary between tests, so look for consistent patterns rather than single readings. Our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a> covers other ways to improve load times.</p>
+
+<h2>Step four: remove apps safely</h2>
+<p>Removing an app is usually simple, but a little care avoids surprises.</p>
+<ol>
+<li><strong>Duplicate your live theme</strong> so you have a fallback.</li>
+<li><strong>Export any data you need</strong> from the app, such as reviews, subscriber lists or settings.</li>
+<li><strong>Check dependencies.</strong> Does any other app, automation or report rely on it?</li>
+<li><strong>Uninstall from the admin.</strong></li>
+<li><strong>Look for leftover code.</strong> Older apps in particular may have added snippets or edited theme files directly. Search the theme code for the app's name and remove leftover snippets carefully, ideally on the duplicate theme first.</li>
+<li><strong>Test the storefront</strong> on desktop and mobile, including product pages, cart and checkout.</li>
+<li><strong>Check billing</strong> on your next statement to confirm charges have stopped.</li>
+</ol>
+<p>If you are not comfortable editing theme code, ask a developer. Removing the wrong snippet can break a template. Our <a href="/blog/shopify-theme-customisation/">Shopify theme customisation guide</a> explains how theme files fit together.</p>
+
+<h2>Step five: decide what to replace</h2>
+<p>Sometimes the right answer is to swap an app rather than remove it. When choosing a replacement, consider:</p>
+<ul>
+<li>Whether it uses theme app extensions, which are generally easier to add and remove cleanly than apps that edit theme code.</li>
+<li>Whether it loads scripts only where needed.</li>
+<li>Its support quality and update history.</li>
+<li>How easily you can export your data if you leave later.</li>
+<li>Whether a small custom feature in the theme would be simpler than an app.</li>
+</ul>
+<p>Install one new app at a time and test before adding the next. That way, if something breaks, you know the cause.</p>
+
+<h2>Keeping things tidy afterwards</h2>
+<p>An audit is most useful when it becomes a habit. A few simple rules help:</p>
+<ul>
+<li>Keep your app spreadsheet up to date whenever something is added or removed.</li>
+<li>Agree who can install apps and require a short note on why.</li>
+<li>Uninstall trial apps promptly if you decide not to keep them.</li>
+<li>Review the list periodically, for example alongside theme updates or before busy trading periods.</li>
+<li>Remove staff and collaborator access that is no longer needed at the same time.</li>
+</ul>
+<p>This fits naturally with broader store maintenance. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers other routine checks.</p>
+
+<h2>Common warning signs</h2>
+<p>You may want to run an audit sooner if you notice:</p>
+<ul>
+<li>Pages feel slower than they used to.</li>
+<li>Pop-ups or widgets appear twice or in the wrong place.</li>
+<li>Theme updates break features unexpectedly.</li>
+<li>Unexpected charges on your Shopify bill.</li>
+<li>Nobody on the team can say what some apps do.</li>
+</ul>
+
+<h2>Apps that touch checkout and payments</h2>
+<p>Give extra care to apps that affect checkout, payments, subscriptions, tax or shipping calculations. These sit close to revenue and customer trust, so a mistake here is more serious than a misplaced widget.</p>
+<ul>
+<li>Confirm exactly which part of checkout each app changes, using checkout settings and any checkout extensions listed in the admin.</li>
+<li>Place a test order after any change, using Shopify's test mode or a low-value real order you then refund, following Shopify's guidance.</li>
+<li>Check order confirmation emails and any connected accounting or fulfilment tools still receive the right information.</li>
+<li>Avoid removing subscription or payment apps without a plan for existing customers, as active subscriptions may depend on them.</li>
+</ul>
+<p>If in doubt, make these changes at a quieter trading time and keep someone available to monitor orders afterwards.</p>
+
+<h2>Writing up the audit</h2>
+<p>Finish with a short written summary. List what you removed, what you kept, what you replaced and anything still to decide. Note any theme files you edited. This record is valuable the next time someone asks why an app is missing, or when a new developer joins.</p>
+
+<h2>FAQs</h2>
+<h3>Does uninstalling a Shopify app remove all its code?</h3>
+<p>Not always. Apps built with theme app extensions are usually removed cleanly, but some older apps edit theme files directly and can leave snippets behind. Check your theme code after uninstalling and test the storefront.</p>
+<h3>Will removing apps make my store faster?</h3>
+<p>It can, particularly if the app loaded scripts on every page. The effect depends on the app and your theme, so compare speed tests before and after on a duplicate theme rather than assuming.</p>
+<h3>Will I lose data when I uninstall an app?</h3>
+<p>You may. Some apps keep data on their own servers, such as reviews or subscriber lists. Export anything you need before uninstalling and check the app's own documentation.</p>
+<h3>How do I know what data an app can access?</h3>
+<p>Each app's details page in your Shopify admin lists the permissions it has. Review these and consider whether they match what the app actually does. For legal questions about personal data, check ICO guidance or take professional advice.</p>
+<h3>Should I replace apps with custom code?</h3>
+<p>Sometimes. A simple feature, such as a static notice or basic size table, may be lighter as part of the theme. More complex features with ongoing updates are often better left to a well-supported app. Weigh maintenance as well as speed.</p>
+<h3>Can Prism Works Studio audit our Shopify apps?</h3>
+<p>Yes. Prism Works Studio can review your installed apps, check theme code for leftovers and recommend what to keep, remove or replace as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service.</p>
+`,
+  },
+  {
+    slug: 'shopify-collections-structure',
+    seoTitle: 'Shopify Collections Structure: A Practical Guide',
+    title: 'Shopify Collections Structure: How to Organise Products So Shoppers Find Them',
+    description: 'How to plan a Shopify collections structure: manual vs automated collections, naming, menus, filters and SEO, so shoppers and search engines find products.',
+    date: '2026-11-01',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-seo-uk/', '/blog/website-navigation-structure/'],
+    body: `
+<p>A Shopify collections structure is the way you group products into collections so shoppers can browse, filter and land on the right range quickly. A good structure makes menus simpler, gives search engines clear category pages to rank, and saves you time when new products arrive. A poor one leads to duplicate pages, confusing menus and products that nobody can find.</p>
+<p>This guide explains how collections work, how to plan them, and how to keep them tidy as your range grows. If you are still setting up your shop, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the wider picture first.</p>
+
+<h2>What a Shopify collection actually is</h2>
+<p>In Shopify, a collection is a group of products shown together on one page with its own URL. A product can sit in as many collections as you like. That flexibility is useful, but it also means structure is your job: Shopify will not stop you creating overlapping or near-identical collections.</p>
+<p>There are two kinds:</p>
+<ul>
+<li><strong>Manual collections.</strong> You choose each product by hand. Good for curated edits such as gift guides, staff picks or a seasonal lookbook.</li>
+<li><strong>Automated (smart) collections.</strong> Products join automatically when they match conditions you set, such as product type, vendor, tag, price or a metafield value. Good for core categories that change as stock comes and goes.</li>
+</ul>
+<p>Most shops benefit from a mix. Core categories run automatically so you never forget to add a new product, while a handful of manual collections handle merchandising.</p>
+
+<h2>Start with how shoppers think</h2>
+<p>The biggest mistake is copying an internal structure into the shop. Supplier names, warehouse codes or the order products were added mean little to a customer. Instead, ask how someone would describe what they want.</p>
+<p>Useful ways to understand this include:</p>
+<ul>
+<li>Looking at the words people type into your site search, if you have that data.</li>
+<li>Checking Google Search Console for the queries that already bring people to your shop.</li>
+<li>Reading customer emails and reviews for the language they use.</li>
+<li>Looking at how well-organised competitors group similar products, without copying them.</li>
+</ul>
+<p>From this you can sketch a simple tree. Usually that means a small number of top-level categories, each with a few subcategories. Keep it shallow: shoppers should reach a product list within a couple of clicks from the homepage. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> goes deeper on menu planning.</p>
+
+<h2>Categories, attributes and filters</h2>
+<p>Not every way of slicing your range deserves its own collection. A helpful rule is to separate categories from attributes.</p>
+<ul>
+<li><strong>Categories</strong> describe what a product is: dresses, candles, dog beds, road bike helmets. These usually become collections.</li>
+<li><strong>Attributes</strong> describe a property: colour, size, material, scent, price band. These usually work better as filters on a collection page.</li>
+</ul>
+<p>If you create a separate collection for every colour of every category, you end up with a huge number of thin pages that compete with each other and are hard to maintain. Shopify's built-in Search and Discovery app lets you add filters based on product options, tags, vendors and metafields, so shoppers can narrow a category without you building extra pages.</p>
+<p>There are exceptions. If people genuinely search for a specific combination, such as a material plus a product type, a dedicated collection with its own copy can make sense. Decide case by case rather than by default.</p>
+
+<h3>Using metafields to keep rules clean</h3>
+<p>Tags are quick to add but easy to get wrong. A typo in one tag means a product quietly drops out of an automated collection. Product metafields, with defined value lists, give you more structured data that can drive both automated collections and filters. They take a little more setup but are usually easier to keep consistent as more people edit products.</p>
+
+<h2>Naming and URLs</h2>
+<p>Collection names appear in menus, page headings, breadcrumbs and search results, so make them plain and descriptive. "Women's Running Shoes" is clearer than "Run Her". Clever names can work for campaign edits, but core categories should use the words shoppers use.</p>
+<p>Shopify builds each collection URL from a handle, for example /collections/womens-running-shoes. A few points help:</p>
+<ul>
+<li>Set the handle carefully when you create the collection. Changing it later changes the URL.</li>
+<li>If you must change a handle, add a URL redirect from the old address so links and rankings are not lost. Our <a href="/blog/website-redirects-when-relaunching/">redirects guide</a> explains why this matters.</li>
+<li>Avoid handles with dates or campaign codes for collections you intend to keep.</li>
+</ul>
+
+<h2>Make collection pages worth landing on</h2>
+<p>Collection pages are often the pages that rank for broader searches, because they match category-level intent. Yet many shops leave them as a bare grid of products. A little effort helps both shoppers and search engines.</p>
+<ul>
+<li><strong>Unique SEO title and meta description.</strong> Edit these in the collection's search engine listing section rather than relying on defaults.</li>
+<li><strong>Short intro copy.</strong> A sentence or two above the grid explaining what is in the range and who it suits. Longer helpful text, such as buying advice, can sit below the products.</li>
+<li><strong>A clear collection image</strong> if your theme uses one, with descriptive alt text.</li>
+<li><strong>Sensible default sort order.</strong> Best selling, newest or manual order, depending on what you want shoppers to see first.</li>
+<li><strong>Internal links</strong> to related collections and useful guides.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the wider technical points, including how Shopify handles product URLs that appear inside collections.</p>
+
+<h2>Connecting collections to menus</h2>
+<p>Creating a collection does not add it to your navigation. You need to place it in a menu under Online Store, Navigation. Plan the menu from your category tree, then link each item to the matching collection.</p>
+<p>Some practical tips:</p>
+<ul>
+<li>Keep top-level menu labels short and clear.</li>
+<li>Use a "Shop all" link inside each category so people can browse everything in it.</li>
+<li>Do not put every collection in the main menu. Curated edits can live on the homepage, in banners or in a secondary menu.</li>
+<li>Check the mobile menu separately. A structure that looks neat on desktop can become a long scroll on a phone.</li>
+</ul>
+<p>Breadcrumbs, where your theme supports them, help shoppers see where they are in the structure. Our <a href="/blog/website-breadcrumb-navigation/">breadcrumb navigation guide</a> explains how to use them well.</p>
+
+<h2>Avoiding duplicate and thin collections</h2>
+<p>Over time, shops tend to collect collections. Old sales, abandoned campaigns and near-duplicates build up. This can confuse shoppers and dilute signals to search engines.</p>
+<p>Review your collections from time to time and ask:</p>
+<ul>
+<li>Does this collection still have products in it?</li>
+<li>Is it linked from anywhere, or is it an orphan?</li>
+<li>Does another collection cover almost exactly the same products?</li>
+<li>Would this be better as a filter on an existing collection?</li>
+</ul>
+<p>When you retire a collection that has links or search visibility, redirect it to the closest relevant collection rather than simply deleting it. For empty seasonal collections you plan to reuse, consider keeping the page live with helpful copy rather than recreating it with a new URL each year.</p>
+
+<h2>Planning for growth</h2>
+<p>A structure that suits a small range can strain as you add products or new lines. Building in some flexibility early saves rework later.</p>
+<ul>
+<li>Decide on consistent product types and metafield values before you bulk import products.</li>
+<li>Document the rules for each automated collection so whoever adds products knows which fields to fill in.</li>
+<li>Leave room in the menu for a new top-level category without a full redesign.</li>
+<li>If you sell in several markets, check how collections and translated content display for each.</li>
+</ul>
+<p>If you are planning a larger restructure, it is worth briefing a developer properly. Our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> explains what to include.</p>
+
+<h2>A simple process to follow</h2>
+<ol>
+<li>List your current products and how shoppers describe them.</li>
+<li>Sketch a shallow category tree with clear names.</li>
+<li>Decide which properties become filters rather than collections.</li>
+<li>Set up product types, tags or metafields consistently.</li>
+<li>Create automated collections for categories and manual ones for curated edits.</li>
+<li>Write unique titles, descriptions and intro copy for important collections.</li>
+<li>Build menus from the tree and test them on mobile.</li>
+<li>Review collections periodically and redirect any you retire.</li>
+</ol>
+
+<h2>FAQs</h2>
+<h3>Should I use manual or automated collections?</h3>
+<p>Use automated collections for core categories that change as stock comes and goes, because new products join automatically when they match the rules. Use manual collections for curated groupings where you want to pick every product yourself.</p>
+<h3>Can a product be in more than one collection?</h3>
+<p>Yes. A product can appear in as many collections as you like. That is useful for merchandising, but plan it so collections do not become near-duplicates of each other.</p>
+<h3>Should every colour or size have its own collection?</h3>
+<p>Usually not. Colour, size and similar properties tend to work better as filters on a category collection. Create a separate collection only where shoppers clearly search for that specific combination and you can make the page genuinely useful.</p>
+<h3>What happens if I change a collection's URL?</h3>
+<p>The old URL will stop working unless you add a redirect. Shopify can create a redirect when you edit a handle, but it is worth checking it has been set up, and updating any internal links.</p>
+<h3>Do collection descriptions help SEO?</h3>
+<p>Helpful, unique copy on collection pages can help search engines understand the page and help shoppers decide. Keep it relevant and avoid stuffing keywords. Short copy above the grid and longer advice below is a common, practical layout.</p>
+<h3>Can Prism Works Studio help restructure our collections?</h3>
+<p>Yes. Prism Works Studio can review your current collections, menus and filters and plan a cleaner structure as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+`,
+  },
+  {
+    slug: 'shopify-metafields-guide',
+    seoTitle: 'Shopify Metafields: A Practical Guide for Store Owners',
+    title: 'Shopify Metafields: How to Add Custom Product Information Without Apps',
+    description: 'A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.',
+    date: '2026-11-01',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-theme-customisation/', '/blog/ecommerce-product-descriptions/'],
+    body: `
+<p>Shopify metafields are custom fields that let you store extra information about products, variants, collections, customers, orders and more. They fill the gaps left by Shopify's standard fields. If you need to show ingredients, dimensions, care instructions, a size guide or a downloadable spec sheet consistently across products, metafields are usually the right tool.</p>
+<p>This guide explains how metafields and metaobjects work, how to plan them and how to display them in your theme. If you are customising your theme more broadly, our <a href="/blog/shopify-theme-customisation/">Shopify theme customisation guide</a> is a good companion.</p>
+
+<h2>What metafields are</h2>
+<p>Every product in Shopify has standard fields: title, description, price, images, vendor, product type and tags. Many shops need more. Without metafields, that extra detail tends to end up crammed into the description, which makes it hard to format consistently, filter or reuse.</p>
+<p>A metafield has:</p>
+<ul>
+<li><strong>A definition</strong>, which you create once under Settings, Custom data. It names the field and sets where it applies, such as products.</li>
+<li><strong>A type</strong>, such as single line text, rich text, number, true or false, date, file, URL, colour, or a reference to another resource.</li>
+<li><strong>Optional validation</strong>, such as a list of allowed values or a minimum and maximum.</li>
+<li><strong>Values</strong>, which you fill in on each product's edit page.</li>
+</ul>
+<p>Shopify also offers standard definitions for some common fields, and category metafields linked to its product taxonomy. Check what already exists before creating your own.</p>
+
+<h2>Metaobjects: reusable content blocks</h2>
+<p>Metaobjects go a step further. They let you define a structured content type, with several fields, and create entries you can reuse. For example:</p>
+<ul>
+<li>A <strong>material</strong> entry with a name, description and care image, referenced by many products.</li>
+<li>A <strong>designer or maker</strong> profile shown on related products.</li>
+<li>A <strong>size guide</strong> table reused across a whole category.</li>
+<li>A <strong>store location</strong> with address and opening hours.</li>
+</ul>
+<p>When you update a metaobject entry, every product that references it shows the change. That saves repetitive editing and keeps information consistent.</p>
+
+<h2>Planning before you build</h2>
+<p>Metafields work best when planned. Adding them ad hoc can lead to near-duplicate fields and inconsistent values.</p>
+<ol>
+<li><strong>List the information shoppers need</strong> to choose and use your products. Customer questions and returns reasons are a useful source.</li>
+<li><strong>Decide what is shared and what is unique.</strong> Shared information suits metaobjects; product-specific details suit plain metafields.</li>
+<li><strong>Choose the right type.</strong> Use numbers for measurements so they can be compared, lists of allowed values for things like material, and rich text only where formatting is genuinely needed.</li>
+<li><strong>Name fields clearly</strong> and add short descriptions in the definition so whoever edits products knows what to enter.</li>
+<li><strong>Decide which fields should be filters</strong> on collection pages.</li>
+</ol>
+<p>Writing this plan down also helps if you later brief a developer. Our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> covers what to include.</p>
+
+<h2>Adding values to products</h2>
+<p>Once a definition exists, its field appears near the bottom of each product's edit page. You can fill values in one product at a time, use the bulk editor for many products, or import them in a product CSV where supported. For larger catalogues, check the current Shopify documentation on importing metafield values, as options change over time.</p>
+<p>Consistency matters more than volume. A filter that only works for half your products frustrates shoppers. If you add a new field, plan to fill it across the relevant range.</p>
+
+<h2>Showing metafields in your theme</h2>
+<p>With Online Store themes, many sections and blocks support dynamic sources. In the theme editor, you can connect a text, image or other setting to a metafield instead of typing a fixed value. The block then shows each product's own value.</p>
+<p>Common uses include:</p>
+<ul>
+<li>A "Materials" or "Care" collapsible tab on the product page.</li>
+<li>A badge such as "Handmade in the UK" driven by a true or false field.</li>
+<li>A downloadable instruction PDF linked from a file field.</li>
+<li>A size guide pulled from a metaobject referenced by the product.</li>
+</ul>
+<p>If your theme does not offer the block you need, a developer can add metafields to templates using Liquid. That is usually a small, contained change. Test it on a duplicate theme first.</p>
+
+<h2>Using metafields for filters and collections</h2>
+<p>Shopify's Search and Discovery app can use certain product and variant metafields as filters on collection and search pages. This is often cleaner than relying on tags, because values are controlled and spelled consistently.</p>
+<p>Metafields can also be used as conditions in automated collections, depending on the field type. That lets you build a collection such as "Organic cotton" from a material field rather than remembering to tag each product. Our <a href="/blog/ecommerce-site-search/">ecommerce site search guide</a> covers related ideas.</p>
+
+<h2>Metafields and SEO</h2>
+<p>Metafields do not boost rankings on their own. What they do is help you present clear, consistent, useful product information, which supports both shoppers and search engines. Some themes and apps can also use metafield values in structured data, such as product materials. Keep descriptions written for people, and use metafields to organise the supporting detail. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> explains how the two work together.</p>
+
+<h2>Metafields versus apps</h2>
+<p>Before Shopify expanded custom data, many stores used apps for tabs, size charts and badges. Some of those features can now be built with metafields and theme blocks, which may mean fewer scripts and fewer subscriptions. Apps still make sense for complex features. When reviewing your apps, check whether any of them only display information that a metafield and a theme block could now handle.</p>
+<p>A sensible way to decide is to ask three questions. Does the feature only display stored information? Does it need logic, such as calculations or customer-specific content? Does it need regular updates from a third party? Display-only features are good candidates for metafields. Features with logic or external data are often better left to a well-supported app or custom development.</p>
+
+<h2>Worked examples</h2>
+<h3>A homeware shop</h3>
+<p>A homeware shop might create number metafields for width, height and depth, a list field for material, and a rich text field for care instructions. The product page shows dimensions in a tidy table, a care tab pulls in the instructions, and collection pages let shoppers filter by material. Nothing needs to be typed into the description twice.</p>
+<h3>A skincare brand</h3>
+<p>A skincare brand might create an ingredient metaobject with a name and short explanation, then reference several ingredients from each product. A "Key ingredients" block lists them on the product page. If the explanation of an ingredient changes, it is updated once and every product reflects it. Any claims about ingredients still need to follow the relevant advertising rules, so check guidance from the ASA and take advice where unsure.</p>
+<h3>A clothing label</h3>
+<p>A clothing label might use a metaobject for size guides, one per garment type, and a product reference so each product points at the correct guide. A true or false field could control a "Made in the UK" badge, shown only where it is accurate.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Creating several fields that mean the same thing, such as "Material" and "Fabric".</li>
+<li>Using free text where a list of allowed values would keep data consistent.</li>
+<li>Showing an empty block on products where the field has not been filled.</li>
+<li>Deleting a definition that the theme still references.</li>
+<li>Putting long marketing copy into metafields that should live in the main description.</li>
+</ul>
+
+<h2>Keeping custom data tidy</h2>
+<ul>
+<li>Review definitions occasionally and remove unused ones carefully, after checking nothing in the theme references them.</li>
+<li>Avoid creating a new field when an existing one could be reused.</li>
+<li>Restrict who can edit definitions, while letting product editors fill in values.</li>
+<li>Note which theme sections rely on which fields, so future changes do not break the storefront.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Do I need an app to use Shopify metafields?</h3>
+<p>No. You can create metafield definitions and metaobjects in Settings, Custom data, and show them through dynamic sources in compatible themes. Apps are only needed for specialised workflows.</p>
+<h3>What is the difference between a metafield and a metaobject?</h3>
+<p>A metafield adds one piece of information to a resource, such as a product. A metaobject is a reusable entry with several fields that many resources can reference.</p>
+<h3>Can customers filter by metafields?</h3>
+<p>Often, yes. Shopify's Search and Discovery app supports certain metafield types as filters. Check which types are supported in the current documentation.</p>
+<h3>Will metafields work with my theme?</h3>
+<p>Most current Online Store themes support dynamic sources for common blocks. Older or heavily customised themes may need some Liquid code to display metafields.</p>
+<h3>Should I use tags or metafields?</h3>
+<p>Tags are quick but free-form, so typos slip in. Metafields with defined types and allowed values are usually more reliable for filters and structured product details.</p>
+<h3>Can Prism Works Studio set up metafields for our store?</h3>
+<p>Yes. Prism Works Studio can plan your custom data, set up metafields and metaobjects and connect them to your theme as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+`,
+  },
+  {
+    slug: 'wordpress-child-themes',
+    seoTitle: 'WordPress Child Themes: When You Need One and How',
+    title: 'WordPress Child Themes: When You Need One and How to Use It Safely',
+    description: 'WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.',
+    date: '2026-11-01',
+    category: 'Web Design',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-security-uk/', '/blog/website-staging-and-testing/'],
+    body: `
+<p>A WordPress child theme is a small theme that inherits the design and features of another theme, called the parent, while letting you add your own code and template changes in a separate place. Its main job is protection: when the parent theme updates, your customisations stay intact. If you edit a parent theme directly, the next update can overwrite your work.</p>
+<p>This guide explains when a child theme is worth using, how it works, and what to watch for. If you are still choosing how to build pages, our <a href="/blog/wordpress-page-builders-uk/">WordPress page builders guide</a> is useful background.</p>
+
+<h2>How parent and child themes work</h2>
+<p>WordPress looks for files in the active theme first. When a child theme is active, WordPress checks the child for a template or stylesheet, and if it does not find one, falls back to the parent. That means the child only needs to contain the files you actually want to change.</p>
+<p>A minimal classic child theme usually has:</p>
+<ul>
+<li>A <strong>style.css</strong> file with a header comment naming the theme and declaring its parent through a Template line.</li>
+<li>A <strong>functions.php</strong> file to load styles and add small pieces of custom code.</li>
+<li>Optionally, copies of specific parent template files you want to override.</li>
+</ul>
+<p>Block themes can also have child themes. In that case the child may include its own theme.json settings, templates or template parts, which take priority over the parent's versions.</p>
+
+<h2>When you need a child theme</h2>
+<p>A child theme makes sense when you are changing the theme's code rather than its settings. Typical cases include:</p>
+<ul>
+<li>Overriding a template file, such as a single post layout or a WooCommerce template your theme provides.</li>
+<li>Adding custom functions, hooks or filters that belong to the design layer.</li>
+<li>Adding a meaningful amount of custom CSS that you want version-controlled.</li>
+<li>Registering custom block styles or patterns tied to the theme.</li>
+</ul>
+<p>If a developer has edited your parent theme directly, updates are risky. Moving those changes into a child theme is often one of the first jobs in a site tidy-up.</p>
+
+<h2>When you probably do not need one</h2>
+<p>Plenty of changes do not require a child theme:</p>
+<ul>
+<li><strong>Customiser or Site Editor settings.</strong> Colours, fonts, logos and layouts saved through the dashboard are stored in the database, not theme files, so updates do not erase them.</li>
+<li><strong>Page builder layouts.</strong> Content built with a page builder is stored as content.</li>
+<li><strong>Small CSS tweaks.</strong> The Additional CSS panel, or the styles interface in a block theme, can handle light adjustments.</li>
+<li><strong>Site functionality.</strong> Features that should survive a theme change, such as custom post types or tracking code, often belong in a small custom plugin rather than any theme.</li>
+</ul>
+<p>That last point matters. If you put functionality in a child theme and later switch themes, the functionality disappears with it. Keep design in the theme and features in plugins.</p>
+
+<h2>Block themes and the Site Editor</h2>
+<p>Modern block themes change the picture. Many design decisions are now made in the Site Editor and saved to the database. You can edit templates, headers, footers and global styles without touching files.</p>
+<p>That is convenient but has trade-offs:</p>
+<ul>
+<li>Changes saved in the Site Editor override the theme's files, and future theme updates to those templates may not show until you reset your customisations.</li>
+<li>Database-stored changes are harder to track in version control.</li>
+<li>Moving them between staging and live sites needs care.</li>
+</ul>
+<p>Some teams use a child block theme so templates and theme.json live in files that can be reviewed and deployed. Others prefer the Site Editor for speed. Choose deliberately, and document which approach the site uses.</p>
+
+<h2>Setting up a child theme</h2>
+<p>The general steps for a classic theme are:</p>
+<ol>
+<li>Create a new folder in wp-content/themes, named clearly after the parent.</li>
+<li>Add a style.css with the required header, including the parent theme's folder name on the Template line.</li>
+<li>Add a functions.php that enqueues the parent and child stylesheets, following the method your parent theme's documentation recommends.</li>
+<li>Upload the folder and activate the child theme under Appearance, Themes.</li>
+<li>Check the site looks the same before making any changes.</li>
+</ol>
+<p>Some parent themes ship with a ready-made child theme you can download. That is often the safest starting point, because the developer has already handled how styles load. For block themes, WordPress offers tools and plugins that can generate a child theme from the Site Editor; check the official WordPress documentation for current options.</p>
+<p>Before activating, take a backup and ideally test on a staging copy. Activating a new theme can reset some widget or menu locations in classic themes. Our <a href="/blog/website-staging-and-testing/">staging and testing guide</a> explains how to try changes safely.</p>
+
+<h2>Overriding templates without trouble</h2>
+<p>When you copy a parent template into the child to change it, you take responsibility for keeping that copy current. If the parent theme later improves or fixes that template, your copy will not receive the change automatically.</p>
+<p>To manage this:</p>
+<ul>
+<li>Override as few files as possible. Prefer hooks and filters where the theme provides them.</li>
+<li>Keep a note of every overridden file and why.</li>
+<li>After parent theme updates, compare overridden files against the new parent versions.</li>
+<li>For WooCommerce, check the system status screen, which can flag outdated template overrides.</li>
+</ul>
+
+<h2>Keeping it secure and maintainable</h2>
+<p>A child theme is code on your server, so treat it with the same care as any plugin.</p>
+<ul>
+<li>Keep the parent theme updated. The child does not protect you from security issues in the parent.</li>
+<li>Store the child theme in version control if your setup allows it.</li>
+<li>Avoid pasting unvetted code snippets from forums.</li>
+<li>Remove unused functions and old overrides.</li>
+<li>Only use parent themes from reputable sources that are still maintained.</li>
+</ul>
+<p>Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers wider steps, and the <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> helps you review the rest of your stack.</p>
+
+<h2>Child theme or custom plugin?</h2>
+<p>A useful test is to imagine switching to a different theme next year. Ask what should survive that change.</p>
+<table>
+<thead><tr><th>Type of change</th><th>Better home</th></tr></thead>
+<tbody>
+<tr><td>Template layout and styling</td><td>Child theme</td></tr>
+<tr><td>Custom block styles tied to the design</td><td>Child theme</td></tr>
+<tr><td>Custom post types and taxonomies</td><td>Custom plugin</td></tr>
+<tr><td>Shortcodes used inside content</td><td>Custom plugin</td></tr>
+<tr><td>Tracking or integration code</td><td>Custom plugin or a reputable plugin</td></tr>
+</tbody>
+</table>
+<p>Shortcodes are a good example. If a shortcode lives in the theme and you change themes, every page using it will show raw shortcode text. Keeping it in a plugin avoids that.</p>
+
+<h2>Testing parent theme updates</h2>
+<p>Even with a child theme, parent updates can change markup, class names or hooks your child relies on. A simple routine helps:</p>
+<ol>
+<li>Read the parent theme's changelog before updating.</li>
+<li>Take a full backup.</li>
+<li>Apply the update on a staging copy first.</li>
+<li>Check key templates, menus, forms and any overridden files.</li>
+<li>Update the live site once you are happy, then check again.</li>
+</ol>
+<p>Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> explains how to make sure you can roll back if something goes wrong.</p>
+
+<h2>Signs your site needs this sorted</h2>
+<ul>
+<li>You avoid updating your theme because changes might be lost.</li>
+<li>Nobody knows which theme files were edited.</li>
+<li>A previous update already broke part of the design.</li>
+<li>Custom code is scattered across the theme, plugins and snippet tools.</li>
+</ul>
+<p>Any of these suggests it is worth a review before the next update. The fix is rarely dramatic: identify the changes, move each one to the right home, test on staging and then update with confidence. Once that is done, keeping the site current becomes routine rather than something everyone quietly avoids, and future developers can see at a glance where custom work lives.</p>
+
+<h2>FAQs</h2>
+<h3>Will a child theme slow my site down?</h3>
+<p>A properly built child theme adds very little overhead, because it mostly reuses the parent's files. Speed problems usually come from heavy themes, plugins or images rather than the child theme itself.</p>
+<h3>Can I add a child theme to an existing site?</h3>
+<p>Yes. You can create and activate a child theme at any point. Test on staging first, because classic themes may need menus or widgets reassigned after switching.</p>
+<h3>What if my parent theme was edited directly?</h3>
+<p>Identify the changes, ideally by comparing the edited files with a fresh copy of the same theme version, then move them into a child theme or a custom plugin before updating the parent.</p>
+<h3>Do block themes still need child themes?</h3>
+<p>Not always. Many changes can be made in the Site Editor. A child block theme is useful when you want templates and settings stored as files that can be tracked and deployed.</p>
+<h3>Should custom functionality go in the child theme?</h3>
+<p>Only if it is genuinely part of the design. Features you would want to keep after changing theme, such as custom post types, usually belong in a plugin.</p>
+<h3>Can Prism Works Studio set up or clean up a child theme?</h3>
+<p>Yes. Prism Works Studio can audit theme changes, move customisations into a child theme or plugin and test updates as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+`,
+  },
+  {
+    slug: 'wordpress-user-roles',
+    seoTitle: 'WordPress User Roles: Who Should Have Which Access',
+    title: 'WordPress User Roles: How to Give the Right People the Right Access',
+    description: 'A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.',
+    date: '2026-11-01',
+    category: 'Web Design',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-security-uk/', '/blog/website-ownership-and-handover/'],
+    body: `
+<p>WordPress user roles control what each person who logs into your site can see and do. Getting them right is one of the simplest ways to protect a WordPress site: people can do their jobs, mistakes are contained, and a compromised account causes less damage. Getting them wrong, for example by making everyone an Administrator, leaves the whole site exposed to one weak password.</p>
+<p>This guide explains the default roles, how to assign them sensibly and how to keep access tidy over time. It works alongside our wider <a href="/blog/wordpress-security-uk/">WordPress security guide</a>.</p>
+
+<h2>The default WordPress roles</h2>
+<p>A standard WordPress site includes a set of built-in roles, each with a group of permissions called capabilities.</p>
+<ul>
+<li><strong>Administrator.</strong> Full control: install plugins and themes, change settings, manage users and edit everything. On multisite networks, a Super Admin sits above this.</li>
+<li><strong>Editor.</strong> Can publish and manage all posts and pages, including other people's, and moderate comments. Cannot change site settings or install plugins.</li>
+<li><strong>Author.</strong> Can write, upload media for and publish their own posts, but not edit other people's.</li>
+<li><strong>Contributor.</strong> Can write and edit their own posts but cannot publish them or upload files. An Editor or Administrator must review and publish.</li>
+<li><strong>Subscriber.</strong> Can log in and manage their own profile. Often used for membership or gated content.</li>
+</ul>
+<p>Plugins can add their own roles. WooCommerce, for example, adds a Shop Manager role for running the store without full site control, and a Customer role for shoppers. Check the official documentation for any plugin that adds roles so you understand what they allow.</p>
+
+<h2>The principle of least privilege</h2>
+<p>The guiding idea is simple: give each person the lowest level of access that lets them do their work. If someone only writes blog posts, they do not need to install plugins. If someone manages orders, the Shop Manager role is usually a better fit than Administrator.</p>
+<p>This helps in several ways:</p>
+<ul>
+<li>A stolen password for an Author account cannot be used to install malicious plugins.</li>
+<li>Accidental changes to settings or plugins become much less likely.</li>
+<li>It is clearer who is responsible for what.</li>
+</ul>
+
+<h2>Matching roles to real people</h2>
+<p>Think about the people who actually touch your site. A typical small business setup might look like this:</p>
+<table>
+<thead><tr><th>Person</th><th>Suggested role</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Business owner</td><td>Administrator</td><td>Needs ultimate control and ownership</td></tr>
+<tr><td>Developer or agency</td><td>Administrator, ideally time-limited</td><td>Needs to update plugins and fix issues</td></tr>
+<tr><td>Marketing lead</td><td>Editor</td><td>Manages all content without touching settings</td></tr>
+<tr><td>Guest writer</td><td>Contributor</td><td>Drafts are reviewed before publishing</td></tr>
+<tr><td>Staff writer</td><td>Author</td><td>Publishes own posts only</td></tr>
+<tr><td>Order handler</td><td>Shop Manager</td><td>Manages orders and products in WooCommerce</td></tr>
+</tbody>
+</table>
+<p>This is a starting point, not a rule. Adjust it to your team and how much you trust each workflow.</p>
+
+<h2>One person, one login</h2>
+<p>Shared logins are common and risky. If several people use the same Administrator account, you cannot tell who made a change, and removing one person means changing the password for everyone.</p>
+<p>Instead:</p>
+<ul>
+<li>Create a separate account for each person, using their work email address.</li>
+<li>Avoid generic usernames such as "admin".</li>
+<li>Ask everyone to use a strong, unique password, ideally stored in a password manager.</li>
+<li>Turn on two-factor authentication, at least for Administrator and Editor accounts, using a reputable security plugin or your host's tools.</li>
+</ul>
+<p>Individual accounts also make it easier to see changes in revision history and, if you use one, an activity log plugin.</p>
+
+<h2>Giving access to developers and freelancers</h2>
+<p>Outside help often needs high-level access, at least temporarily. Some sensible habits:</p>
+<ul>
+<li>Create a named account for each supplier rather than sharing yours.</li>
+<li>Remove or downgrade the account when the work ends.</li>
+<li>Consider whether they need WordPress access at all, or just hosting, staging or file access.</li>
+<li>Make sure your business, not a supplier, owns the main Administrator account, hosting and domain.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> covers why keeping control of key accounts matters.</p>
+
+<h2>Custom roles and capabilities</h2>
+<p>Sometimes the default roles do not quite fit. You might want an Editor who can also manage menus, or a role that can view reports but not edit content. Role management plugins let you create custom roles or adjust capabilities.</p>
+<p>Use these carefully:</p>
+<ul>
+<li>Change as little as possible and document what you changed.</li>
+<li>Avoid giving powerful capabilities, such as installing plugins or editing files, to roles that do not need them.</li>
+<li>Test changes using a test account with that role before giving it to a real person.</li>
+<li>Remember that removing a role management plugin may not undo the changes it made to the database.</li>
+</ul>
+
+<h2>Reviewing accounts regularly</h2>
+<p>User lists drift over time. Former staff, old agencies and test accounts linger. Set a regular reminder to review users, and also review whenever someone leaves or a project ends.</p>
+<p>During a review:</p>
+<ol>
+<li>Go to Users in the dashboard and sort by role.</li>
+<li>Check every Administrator account and confirm it still needs that level.</li>
+<li>Remove or downgrade accounts for people who have left.</li>
+<li>When deleting a user, attribute their content to another account so posts are not lost.</li>
+<li>Check for unfamiliar accounts, which can be a sign of a compromise.</li>
+</ol>
+<p>This fits well within routine <a href="/blog/website-maintenance-uk/">website maintenance</a>, alongside updates and backups.</p>
+
+<h2>Content workflows that use roles well</h2>
+<p>Roles are not only about security. They can also shape a sensible publishing process. For example, a small team might have writers as Contributors, so every draft lands in a review queue, and one Editor who checks facts, links and images before publishing. That gives a natural quality check without extra tools.</p>
+<p>A few habits make this work smoothly:</p>
+<ul>
+<li>Agree a simple checklist the Editor uses before publishing, covering headings, links, image alt text and categories.</li>
+<li>Use the "Pending Review" status so drafts ready for checking are easy to find.</li>
+<li>Leave notes in the post or in your usual team chat rather than editing silently, so writers learn from changes.</li>
+<li>Promote trusted writers to Author when constant review no longer adds value.</li>
+</ul>
+<p>Plugins that add editorial calendars or custom statuses can help larger teams, but many sites manage well with the default roles alone.</p>
+
+<h2>What to do if you suspect a compromised account</h2>
+<p>If you see an account you do not recognise, or changes nobody made, act quickly and calmly.</p>
+<ol>
+<li>Change the passwords for all Administrator accounts and your hosting account.</li>
+<li>Remove or disable the suspicious account, after noting its details.</li>
+<li>Check for recently installed plugins, new files or changed settings.</li>
+<li>Run a malware scan using a reputable security plugin or your host's tools.</li>
+<li>Restore from a clean backup if needed. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> explains how to prepare for this.</li>
+<li>Consider whether personal data may have been affected. If so, review ICO guidance on personal data breaches, as you may have reporting obligations, and seek professional advice if unsure.</li>
+</ol>
+
+<h2>Roles on WooCommerce sites</h2>
+<p>Online shops add another layer. The Shop Manager role can manage products, orders, coupons and reports, but it also has wide access to customer details. Give it only to people who genuinely handle orders. Staff who only update product descriptions might manage with Editor access or a custom role. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> is worth reading if you are weighing up platforms.</p>
+
+<h2>Customer and member accounts</h2>
+<p>If your site lets the public register, for example as shop customers or members, those accounts hold personal data. Collect only what you need, explain how it is used in your privacy notice, and make sure new registrations get the lowest role by default. Check under Settings, General that the default role for new users is appropriate. For UK data protection questions, the ICO publishes guidance, and you may wish to take professional advice for your situation.</p>
+
+<h2>FAQs</h2>
+<h3>How many Administrators should a WordPress site have?</h3>
+<p>As few as practical. Usually the business owner and whoever maintains the site technically. Everyone else should have a lower role suited to their work.</p>
+<h3>What is the difference between an Editor and an Author?</h3>
+<p>An Editor can publish and edit everyone's posts and pages. An Author can only publish and edit their own posts.</p>
+<h3>Is it safe to share one login between staff?</h3>
+<p>It is not recommended. Shared logins make it impossible to see who changed what and hard to remove one person's access. Give each person their own account.</p>
+<h3>What happens to posts when I delete a user?</h3>
+<p>WordPress asks whether to delete their content or attribute it to another user. Choose to attribute it to another account unless you genuinely want the content removed.</p>
+<h3>Can I create my own user roles?</h3>
+<p>Yes, with a role management plugin or custom code. Keep changes minimal, document them and test with a dummy account first.</p>
+<h3>Can Prism Works Studio review our WordPress access?</h3>
+<p>Yes. Prism Works Studio can review your user accounts and roles and recommend a safer setup as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+`,
+  },
 ];

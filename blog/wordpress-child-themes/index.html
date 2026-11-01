@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Child Themes: When You Need One and How</title>
+<meta name="description" content="WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-child-themes/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Child Themes: When You Need One and How">
+<meta property="og:description" content="WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-child-themes/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-child-themes.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-child-themes/#article","headline":"WordPress Child Themes: When You Need One and How to Use It Safely","description":"WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-child-themes/","url":"https://prismworksstudio.co.uk/blog/wordpress-child-themes/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-child-themes.png","inLanguage":"en-GB","wordCount":1474,"articleSection":"Web Design","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Child Themes: When You Need One and How to Use It Safely","item":"https://prismworksstudio.co.uk/blog/wordpress-child-themes/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will a child theme slow my site down?","acceptedAnswer":{"@type":"Answer","text":"A properly built child theme adds very little overhead, because it mostly reuses the parent's files. Speed problems usually come from heavy themes, plugins or images rather than the child theme itself."}},{"@type":"Question","name":"Can I add a child theme to an existing site?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can create and activate a child theme at any point. Test on staging first, because classic themes may need menus or widgets reassigned after switching."}},{"@type":"Question","name":"What if my parent theme was edited directly?","acceptedAnswer":{"@type":"Answer","text":"Identify the changes, ideally by comparing the edited files with a fresh copy of the same theme version, then move them into a child theme or a custom plugin before updating the parent."}},{"@type":"Question","name":"Do block themes still need child themes?","acceptedAnswer":{"@type":"Answer","text":"Not always. Many changes can be made in the Site Editor. A child block theme is useful when you want templates and settings stored as files that can be tracked and deployed."}},{"@type":"Question","name":"Should custom functionality go in the child theme?","acceptedAnswer":{"@type":"Answer","text":"Only if it is genuinely part of the design. Features you would want to keep after changing theme, such as custom post types, usually belong in a plugin."}},{"@type":"Question","name":"Can Prism Works Studio set up or clean up a child theme?","acceptedAnswer":{"@type":"Answer","text":"Yes. Prism Works Studio can audit theme changes, move customisations into a child theme or plugin and test updates as part of our website and ecommerce development work."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Child Themes: When You Need One and How to Use It Safely</li></ol></nav><span class="pws-eyebrow">Web Design</span><h1>WordPress Child Themes: When You Need One and How to Use It Safely</h1><p class="pws-lead">WordPress child themes explained: what they are, when you need one, how they protect custom changes from theme updates, and when a block theme changes things.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>A child theme holds your custom code separately, so updating the parent theme does not wipe out your changes.</li><li>You only need one if you are editing theme files or adding theme-level code; settings and content changes do not require it.</li><li>With block themes, many design changes live in the Site Editor, so check where a change belongs before creating a child theme.</li></ul></div>
+<p>A WordPress child theme is a small theme that inherits the design and features of another theme, called the parent, while letting you add your own code and template changes in a separate place. Its main job is protection: when the parent theme updates, your customisations stay intact. If you edit a parent theme directly, the next update can overwrite your work.</p>
+<p>This guide explains when a child theme is worth using, how it works, and what to watch for. If you are still choosing how to build pages, our <a href="/blog/wordpress-page-builders-uk/">WordPress page builders guide</a> is useful background.</p>
+
+<h2>How parent and child themes work</h2>
+<p>WordPress looks for files in the active theme first. When a child theme is active, WordPress checks the child for a template or stylesheet, and if it does not find one, falls back to the parent. That means the child only needs to contain the files you actually want to change.</p>
+<p>A minimal classic child theme usually has:</p>
+<ul>
+<li>A <strong>style.css</strong> file with a header comment naming the theme and declaring its parent through a Template line.</li>
+<li>A <strong>functions.php</strong> file to load styles and add small pieces of custom code.</li>
+<li>Optionally, copies of specific parent template files you want to override.</li>
+</ul>
+<p>Block themes can also have child themes. In that case the child may include its own theme.json settings, templates or template parts, which take priority over the parent's versions.</p>
+
+<h2>When you need a child theme</h2>
+<p>A child theme makes sense when you are changing the theme's code rather than its settings. Typical cases include:</p>
+<ul>
+<li>Overriding a template file, such as a single post layout or a WooCommerce template your theme provides.</li>
+<li>Adding custom functions, hooks or filters that belong to the design layer.</li>
+<li>Adding a meaningful amount of custom CSS that you want version-controlled.</li>
+<li>Registering custom block styles or patterns tied to the theme.</li>
+</ul>
+<p>If a developer has edited your parent theme directly, updates are risky. Moving those changes into a child theme is often one of the first jobs in a site tidy-up.</p>
+
+<h2>When you probably do not need one</h2>
+<p>Plenty of changes do not require a child theme:</p>
+<ul>
+<li><strong>Customiser or Site Editor settings.</strong> Colours, fonts, logos and layouts saved through the dashboard are stored in the database, not theme files, so updates do not erase them.</li>
+<li><strong>Page builder layouts.</strong> Content built with a page builder is stored as content.</li>
+<li><strong>Small CSS tweaks.</strong> The Additional CSS panel, or the styles interface in a block theme, can handle light adjustments.</li>
+<li><strong>Site functionality.</strong> Features that should survive a theme change, such as custom post types or tracking code, often belong in a small custom plugin rather than any theme.</li>
+</ul>
+<p>That last point matters. If you put functionality in a child theme and later switch themes, the functionality disappears with it. Keep design in the theme and features in plugins.</p>
+
+<h2>Block themes and the Site Editor</h2>
+<p>Modern block themes change the picture. Many design decisions are now made in the Site Editor and saved to the database. You can edit templates, headers, footers and global styles without touching files.</p>
+<p>That is convenient but has trade-offs:</p>
+<ul>
+<li>Changes saved in the Site Editor override the theme's files, and future theme updates to those templates may not show until you reset your customisations.</li>
+<li>Database-stored changes are harder to track in version control.</li>
+<li>Moving them between staging and live sites needs care.</li>
+</ul>
+<p>Some teams use a child block theme so templates and theme.json live in files that can be reviewed and deployed. Others prefer the Site Editor for speed. Choose deliberately, and document which approach the site uses.</p>
+
+<h2>Setting up a child theme</h2>
+<p>The general steps for a classic theme are:</p>
+<ol>
+<li>Create a new folder in wp-content/themes, named clearly after the parent.</li>
+<li>Add a style.css with the required header, including the parent theme's folder name on the Template line.</li>
+<li>Add a functions.php that enqueues the parent and child stylesheets, following the method your parent theme's documentation recommends.</li>
+<li>Upload the folder and activate the child theme under Appearance, Themes.</li>
+<li>Check the site looks the same before making any changes.</li>
+</ol>
+<p>Some parent themes ship with a ready-made child theme you can download. That is often the safest starting point, because the developer has already handled how styles load. For block themes, WordPress offers tools and plugins that can generate a child theme from the Site Editor; check the official WordPress documentation for current options.</p>
+<p>Before activating, take a backup and ideally test on a staging copy. Activating a new theme can reset some widget or menu locations in classic themes. Our <a href="/blog/website-staging-and-testing/">staging and testing guide</a> explains how to try changes safely.</p>
+
+<h2>Overriding templates without trouble</h2>
+<p>When you copy a parent template into the child to change it, you take responsibility for keeping that copy current. If the parent theme later improves or fixes that template, your copy will not receive the change automatically.</p>
+<p>To manage this:</p>
+<ul>
+<li>Override as few files as possible. Prefer hooks and filters where the theme provides them.</li>
+<li>Keep a note of every overridden file and why.</li>
+<li>After parent theme updates, compare overridden files against the new parent versions.</li>
+<li>For WooCommerce, check the system status screen, which can flag outdated template overrides.</li>
+</ul>
+
+<h2>Keeping it secure and maintainable</h2>
+<p>A child theme is code on your server, so treat it with the same care as any plugin.</p>
+<ul>
+<li>Keep the parent theme updated. The child does not protect you from security issues in the parent.</li>
+<li>Store the child theme in version control if your setup allows it.</li>
+<li>Avoid pasting unvetted code snippets from forums.</li>
+<li>Remove unused functions and old overrides.</li>
+<li>Only use parent themes from reputable sources that are still maintained.</li>
+</ul>
+<p>Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers wider steps, and the <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> helps you review the rest of your stack.</p>
+
+<h2>Child theme or custom plugin?</h2>
+<p>A useful test is to imagine switching to a different theme next year. Ask what should survive that change.</p>
+<table>
+<thead><tr><th>Type of change</th><th>Better home</th></tr></thead>
+<tbody>
+<tr><td>Template layout and styling</td><td>Child theme</td></tr>
+<tr><td>Custom block styles tied to the design</td><td>Child theme</td></tr>
+<tr><td>Custom post types and taxonomies</td><td>Custom plugin</td></tr>
+<tr><td>Shortcodes used inside content</td><td>Custom plugin</td></tr>
+<tr><td>Tracking or integration code</td><td>Custom plugin or a reputable plugin</td></tr>
+</tbody>
+</table>
+<p>Shortcodes are a good example. If a shortcode lives in the theme and you change themes, every page using it will show raw shortcode text. Keeping it in a plugin avoids that.</p>
+
+<h2>Testing parent theme updates</h2>
+<p>Even with a child theme, parent updates can change markup, class names or hooks your child relies on. A simple routine helps:</p>
+<ol>
+<li>Read the parent theme's changelog before updating.</li>
+<li>Take a full backup.</li>
+<li>Apply the update on a staging copy first.</li>
+<li>Check key templates, menus, forms and any overridden files.</li>
+<li>Update the live site once you are happy, then check again.</li>
+</ol>
+<p>Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery guide</a> explains how to make sure you can roll back if something goes wrong.</p>
+
+<h2>Signs your site needs this sorted</h2>
+<ul>
+<li>You avoid updating your theme because changes might be lost.</li>
+<li>Nobody knows which theme files were edited.</li>
+<li>A previous update already broke part of the design.</li>
+<li>Custom code is scattered across the theme, plugins and snippet tools.</li>
+</ul>
+<p>Any of these suggests it is worth a review before the next update. The fix is rarely dramatic: identify the changes, move each one to the right home, test on staging and then update with confidence. Once that is done, keeping the site current becomes routine rather than something everyone quietly avoids, and future developers can see at a glance where custom work lives.</p>
+
+<h2>FAQs</h2>
+<h3>Will a child theme slow my site down?</h3>
+<p>A properly built child theme adds very little overhead, because it mostly reuses the parent's files. Speed problems usually come from heavy themes, plugins or images rather than the child theme itself.</p>
+<h3>Can I add a child theme to an existing site?</h3>
+<p>Yes. You can create and activate a child theme at any point. Test on staging first, because classic themes may need menus or widgets reassigned after switching.</p>
+<h3>What if my parent theme was edited directly?</h3>
+<p>Identify the changes, ideally by comparing the edited files with a fresh copy of the same theme version, then move them into a child theme or a custom plugin before updating the parent.</p>
+<h3>Do block themes still need child themes?</h3>
+<p>Not always. Many changes can be made in the Site Editor. A child block theme is useful when you want templates and settings stored as files that can be tracked and deployed.</p>
+<h3>Should custom functionality go in the child theme?</h3>
+<p>Only if it is genuinely part of the design. Features you would want to keep after changing theme, such as custom post types, usually belong in a plugin.</p>
+<h3>Can Prism Works Studio set up or clean up a child theme?</h3>
+<p>Yes. Prism Works Studio can audit theme changes, move customisations into a child theme or plugin and test updates as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Child%20Themes%3A%20When%20You%20Need%20One%20and%20How%20to%20Use%20It%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-user-roles/"><p class="pws-tags">Web Design &middot; 7 min read</p><h3>WordPress User Roles: How to Give the Right People the Right Access</h3><p>A practical guide to WordPress user roles: what each default role can do, how to give staff and freelancers safe access, and how to review accounts regularly.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-call-to-action-buttons/"><p class="pws-tags">Web Design &middot; 8 min read</p><h3>Website Call to Action Buttons: Wording, Design and Placement</h3><p>How to write, design and place call to action buttons on a UK business website so visitors know exactly what to do next, without pressure or clutter.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-breadcrumb-navigation/"><p class="pws-tags">Web Design &middot; 7 min read</p><h3>Breadcrumb Navigation: When to Use It and How to Get It Right</h3><p>What breadcrumb navigation is, when UK websites and online shops should use it, how to design it for mobile and accessibility, and how to add structured data.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Child%20Themes%3A%20When%20You%20Need%20One%20and%20How%20to%20Use%20It%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

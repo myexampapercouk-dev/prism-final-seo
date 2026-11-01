@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopify Apps Audit: How to Review and Trim Your Apps</title>
+<meta name="description" content="How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-apps-audit/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Apps Audit: How to Review and Trim Your Apps">
+<meta property="og:description" content="How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-apps-audit/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-apps-audit.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-apps-audit/#article","headline":"Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store","description":"How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-apps-audit/","url":"https://prismworksstudio.co.uk/blog/shopify-apps-audit/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-apps-audit.png","inLanguage":"en-GB","wordCount":1480,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store","item":"https://prismworksstudio.co.uk/blog/shopify-apps-audit/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does uninstalling a Shopify app remove all its code?","acceptedAnswer":{"@type":"Answer","text":"Not always. Apps built with theme app extensions are usually removed cleanly, but some older apps edit theme files directly and can leave snippets behind. Check your theme code after uninstalling and test the storefront."}},{"@type":"Question","name":"Will removing apps make my store faster?","acceptedAnswer":{"@type":"Answer","text":"It can, particularly if the app loaded scripts on every page. The effect depends on the app and your theme, so compare speed tests before and after on a duplicate theme rather than assuming."}},{"@type":"Question","name":"Will I lose data when I uninstall an app?","acceptedAnswer":{"@type":"Answer","text":"You may. Some apps keep data on their own servers, such as reviews or subscriber lists. Export anything you need before uninstalling and check the app's own documentation."}},{"@type":"Question","name":"How do I know what data an app can access?","acceptedAnswer":{"@type":"Answer","text":"Each app's details page in your Shopify admin lists the permissions it has. Review these and consider whether they match what the app actually does. For legal questions about personal data, check ICO guidance or take professional advice."}},{"@type":"Question","name":"Should I replace apps with custom code?","acceptedAnswer":{"@type":"Answer","text":"Sometimes. A simple feature, such as a static notice or basic size table, may be lighter as part of the theme. More complex features with ongoing updates are often better left to a well-supported app. Weigh maintenance as well as speed."}},{"@type":"Question","name":"Can Prism Works Studio audit our Shopify apps?","acceptedAnswer":{"@type":"Answer","text":"Yes. Prism Works Studio can review your installed apps, check theme code for leftovers and recommend what to keep, remove or replace as part of our website and ecommerce development service."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store</h1><p class="pws-lead">How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>List every installed app with its purpose, owner, permissions and whether anyone still uses it before deciding anything.</li><li>Uninstalling an app does not always remove the code it added to your theme, so check and clean up afterwards.</li><li>Test changes on a duplicate theme first and keep a record of what you removed and why.</li></ul></div>
+<p>A Shopify apps audit is a structured review of every app installed in your store, to check what each one does, whether you still need it, and what it costs you in speed, subscription charges, data access and complexity. Apps are one of the best things about Shopify, but they build up quietly. An audit helps you keep the useful ones, remove the rest and spot problems before they affect customers.</p>
+<p>This guide walks through a practical audit you can run yourself. If you also run WordPress sites, our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> follows a similar approach.</p>
+
+<h2>Why apps build up</h2>
+<p>Most stores add apps one at a time to solve a specific problem: reviews, upsells, email pop-ups, size charts, shipping rules. Each decision makes sense at the time. Months later, some apps are no longer used, some duplicate features Shopify now offers natively, and some were trialled and forgotten.</p>
+<p>That matters because apps can:</p>
+<ul>
+<li>Add scripts and styles that slow pages down.</li>
+<li>Carry recurring charges on your Shopify bill.</li>
+<li>Hold permissions to customer, order or product data.</li>
+<li>Conflict with each other or with theme updates.</li>
+<li>Leave code in your theme even after uninstalling.</li>
+</ul>
+
+<h2>Step one: build a full list</h2>
+<p>Start in Settings, Apps and sales channels in your Shopify admin. Record every installed app in a simple spreadsheet. For each one, note:</p>
+<ul>
+<li><strong>Name and developer.</strong></li>
+<li><strong>What it does</strong> in one plain sentence.</li>
+<li><strong>Who asked for it</strong> and who looks after it now.</li>
+<li><strong>Where it appears</strong>: storefront, checkout, admin only, or background.</li>
+<li><strong>Billing</strong>: check the charges shown in your Shopify billing section.</li>
+<li><strong>Permissions</strong>: what data it can access, shown on the app's details page.</li>
+<li><strong>Last meaningful use</strong>: when anyone last changed its settings or relied on it.</li>
+</ul>
+<p>Also check your theme's app embeds and app blocks in the theme editor. These show which apps are actively injecting content into the storefront.</p>
+
+<h2>Step two: question each app</h2>
+<p>Go through the list and ask a few direct questions about each app.</p>
+<h3>Is it still used?</h3>
+<p>If nobody can explain why an app is installed, or its feature is switched off, it is a strong candidate for removal. Check with colleagues first, because some apps work quietly in the background, such as feeds, backups or accounting connectors.</p>
+<h3>Does Shopify now do this natively?</h3>
+<p>Shopify adds features regularly. Things that once needed an app, such as some filtering, product bundles or certain marketing emails, may now be handled by Shopify or its own free apps. Check current Shopify documentation rather than assuming.</p>
+<h3>Do two apps overlap?</h3>
+<p>It is easy to end up with two pop-up tools, two review apps or two upsell apps. Overlap adds weight and can cause odd behaviour. Pick one and remove the other.</p>
+<h3>Is the developer still active?</h3>
+<p>Look at the app's listing for recent updates and support responsiveness. An abandoned app can become a risk as Shopify and your theme change.</p>
+<h3>Are its permissions reasonable?</h3>
+<p>An app that only shows a size chart should not need broad access to customer data. If permissions look wider than the job requires, consider an alternative. For questions about personal data handling, the ICO's guidance on UK GDPR is a sensible reference, and you may want professional advice for your specific situation.</p>
+
+<h2>Step three: check the speed impact</h2>
+<p>Storefront apps often load their own JavaScript and CSS on every page, even pages where the feature is not used. To get a sense of the impact:</p>
+<ul>
+<li>Run key pages through PageSpeed Insights and note the results.</li>
+<li>Use your browser's developer tools to see which scripts load and from which domains.</li>
+<li>Duplicate your live theme, disable an app's embed on the duplicate, and compare.</li>
+</ul>
+<p>Results vary between tests, so look for consistent patterns rather than single readings. Our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a> covers other ways to improve load times.</p>
+
+<h2>Step four: remove apps safely</h2>
+<p>Removing an app is usually simple, but a little care avoids surprises.</p>
+<ol>
+<li><strong>Duplicate your live theme</strong> so you have a fallback.</li>
+<li><strong>Export any data you need</strong> from the app, such as reviews, subscriber lists or settings.</li>
+<li><strong>Check dependencies.</strong> Does any other app, automation or report rely on it?</li>
+<li><strong>Uninstall from the admin.</strong></li>
+<li><strong>Look for leftover code.</strong> Older apps in particular may have added snippets or edited theme files directly. Search the theme code for the app's name and remove leftover snippets carefully, ideally on the duplicate theme first.</li>
+<li><strong>Test the storefront</strong> on desktop and mobile, including product pages, cart and checkout.</li>
+<li><strong>Check billing</strong> on your next statement to confirm charges have stopped.</li>
+</ol>
+<p>If you are not comfortable editing theme code, ask a developer. Removing the wrong snippet can break a template. Our <a href="/blog/shopify-theme-customisation/">Shopify theme customisation guide</a> explains how theme files fit together.</p>
+
+<h2>Step five: decide what to replace</h2>
+<p>Sometimes the right answer is to swap an app rather than remove it. When choosing a replacement, consider:</p>
+<ul>
+<li>Whether it uses theme app extensions, which are generally easier to add and remove cleanly than apps that edit theme code.</li>
+<li>Whether it loads scripts only where needed.</li>
+<li>Its support quality and update history.</li>
+<li>How easily you can export your data if you leave later.</li>
+<li>Whether a small custom feature in the theme would be simpler than an app.</li>
+</ul>
+<p>Install one new app at a time and test before adding the next. That way, if something breaks, you know the cause.</p>
+
+<h2>Keeping things tidy afterwards</h2>
+<p>An audit is most useful when it becomes a habit. A few simple rules help:</p>
+<ul>
+<li>Keep your app spreadsheet up to date whenever something is added or removed.</li>
+<li>Agree who can install apps and require a short note on why.</li>
+<li>Uninstall trial apps promptly if you decide not to keep them.</li>
+<li>Review the list periodically, for example alongside theme updates or before busy trading periods.</li>
+<li>Remove staff and collaborator access that is no longer needed at the same time.</li>
+</ul>
+<p>This fits naturally with broader store maintenance. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers other routine checks.</p>
+
+<h2>Common warning signs</h2>
+<p>You may want to run an audit sooner if you notice:</p>
+<ul>
+<li>Pages feel slower than they used to.</li>
+<li>Pop-ups or widgets appear twice or in the wrong place.</li>
+<li>Theme updates break features unexpectedly.</li>
+<li>Unexpected charges on your Shopify bill.</li>
+<li>Nobody on the team can say what some apps do.</li>
+</ul>
+
+<h2>Apps that touch checkout and payments</h2>
+<p>Give extra care to apps that affect checkout, payments, subscriptions, tax or shipping calculations. These sit close to revenue and customer trust, so a mistake here is more serious than a misplaced widget.</p>
+<ul>
+<li>Confirm exactly which part of checkout each app changes, using checkout settings and any checkout extensions listed in the admin.</li>
+<li>Place a test order after any change, using Shopify's test mode or a low-value real order you then refund, following Shopify's guidance.</li>
+<li>Check order confirmation emails and any connected accounting or fulfilment tools still receive the right information.</li>
+<li>Avoid removing subscription or payment apps without a plan for existing customers, as active subscriptions may depend on them.</li>
+</ul>
+<p>If in doubt, make these changes at a quieter trading time and keep someone available to monitor orders afterwards.</p>
+
+<h2>Writing up the audit</h2>
+<p>Finish with a short written summary. List what you removed, what you kept, what you replaced and anything still to decide. Note any theme files you edited. This record is valuable the next time someone asks why an app is missing, or when a new developer joins.</p>
+
+<h2>FAQs</h2>
+<h3>Does uninstalling a Shopify app remove all its code?</h3>
+<p>Not always. Apps built with theme app extensions are usually removed cleanly, but some older apps edit theme files directly and can leave snippets behind. Check your theme code after uninstalling and test the storefront.</p>
+<h3>Will removing apps make my store faster?</h3>
+<p>It can, particularly if the app loaded scripts on every page. The effect depends on the app and your theme, so compare speed tests before and after on a duplicate theme rather than assuming.</p>
+<h3>Will I lose data when I uninstall an app?</h3>
+<p>You may. Some apps keep data on their own servers, such as reviews or subscriber lists. Export anything you need before uninstalling and check the app's own documentation.</p>
+<h3>How do I know what data an app can access?</h3>
+<p>Each app's details page in your Shopify admin lists the permissions it has. Review these and consider whether they match what the app actually does. For legal questions about personal data, check ICO guidance or take professional advice.</p>
+<h3>Should I replace apps with custom code?</h3>
+<p>Sometimes. A simple feature, such as a static notice or basic size table, may be lighter as part of the theme. More complex features with ongoing updates are often better left to a well-supported app. Weigh maintenance as well as speed.</p>
+<h3>Can Prism Works Studio audit our Shopify apps?</h3>
+<p>Yes. Prism Works Studio can review your installed apps, check theme code for leftovers and recommend what to keep, remove or replace as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Apps%20Audit%3A%20How%20to%20Review%2C%20Remove%20and%20Replace%20the%20Apps%20in%20Your%20Store'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/shopify-metafields-guide/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Shopify Metafields: How to Add Custom Product Information Without Apps</h3><p>A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/shopify-collections-structure/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Shopify Collections Structure: How to Organise Products So Shoppers Find Them</h3><p>How to plan a Shopify collections structure: manual vs automated collections, naming, menus, filters and SEO, so shoppers and search engines find products.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/ecommerce-discount-code-strategy/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Ecommerce Discount Code Strategy: Using Offers Without Eroding Margin</h3><p>A practical discount code strategy for UK online shops: when to offer codes, which types to use, protecting margin and keeping pricing claims within UK rules.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Apps%20Audit%3A%20How%20to%20Review%2C%20Remove%20and%20Replace%20the%20Apps%20in%20Your%20Store'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopify Metafields: A Practical Guide for Store Owners</title>
+<meta name="description" content="A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-metafields-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Metafields: A Practical Guide for Store Owners">
+<meta property="og:description" content="A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-metafields-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-metafields-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-metafields-guide/#article","headline":"Shopify Metafields: How to Add Custom Product Information Without Apps","description":"A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-metafields-guide/","url":"https://prismworksstudio.co.uk/blog/shopify-metafields-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-metafields-guide.png","inLanguage":"en-GB","wordCount":1476,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Shopify Metafields: How to Add Custom Product Information Without Apps","item":"https://prismworksstudio.co.uk/blog/shopify-metafields-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I need an app to use Shopify metafields?","acceptedAnswer":{"@type":"Answer","text":"No. You can create metafield definitions and metaobjects in Settings, Custom data, and show them through dynamic sources in compatible themes. Apps are only needed for specialised workflows."}},{"@type":"Question","name":"What is the difference between a metafield and a metaobject?","acceptedAnswer":{"@type":"Answer","text":"A metafield adds one piece of information to a resource, such as a product. A metaobject is a reusable entry with several fields that many resources can reference."}},{"@type":"Question","name":"Can customers filter by metafields?","acceptedAnswer":{"@type":"Answer","text":"Often, yes. Shopify's Search and Discovery app supports certain metafield types as filters. Check which types are supported in the current documentation."}},{"@type":"Question","name":"Will metafields work with my theme?","acceptedAnswer":{"@type":"Answer","text":"Most current Online Store themes support dynamic sources for common blocks. Older or heavily customised themes may need some Liquid code to display metafields."}},{"@type":"Question","name":"Should I use tags or metafields?","acceptedAnswer":{"@type":"Answer","text":"Tags are quick but free-form, so typos slip in. Metafields with defined types and allowed values are usually more reliable for filters and structured product details."}},{"@type":"Question","name":"Can Prism Works Studio set up metafields for our store?","acceptedAnswer":{"@type":"Answer","text":"Yes. Prism Works Studio can plan your custom data, set up metafields and metaobjects and connect them to your theme as part of our website and ecommerce development work."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Shopify Metafields: How to Add Custom Product Information Without Apps</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>Shopify Metafields: How to Add Custom Product Information Without Apps</h1><p class="pws-lead">A practical guide to Shopify metafields and metaobjects: what they are, how to plan them, show them in your theme and use them for filters and product details.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Metafields store extra structured information, such as materials or care instructions, that standard Shopify fields do not cover.</li><li>Plan definitions and value types before entering data, so information stays consistent and can power filters.</li><li>Online Store themes can display metafields through dynamic sources in the theme editor, often without custom code.</li></ul></div>
+<p>Shopify metafields are custom fields that let you store extra information about products, variants, collections, customers, orders and more. They fill the gaps left by Shopify's standard fields. If you need to show ingredients, dimensions, care instructions, a size guide or a downloadable spec sheet consistently across products, metafields are usually the right tool.</p>
+<p>This guide explains how metafields and metaobjects work, how to plan them and how to display them in your theme. If you are customising your theme more broadly, our <a href="/blog/shopify-theme-customisation/">Shopify theme customisation guide</a> is a good companion.</p>
+
+<h2>What metafields are</h2>
+<p>Every product in Shopify has standard fields: title, description, price, images, vendor, product type and tags. Many shops need more. Without metafields, that extra detail tends to end up crammed into the description, which makes it hard to format consistently, filter or reuse.</p>
+<p>A metafield has:</p>
+<ul>
+<li><strong>A definition</strong>, which you create once under Settings, Custom data. It names the field and sets where it applies, such as products.</li>
+<li><strong>A type</strong>, such as single line text, rich text, number, true or false, date, file, URL, colour, or a reference to another resource.</li>
+<li><strong>Optional validation</strong>, such as a list of allowed values or a minimum and maximum.</li>
+<li><strong>Values</strong>, which you fill in on each product's edit page.</li>
+</ul>
+<p>Shopify also offers standard definitions for some common fields, and category metafields linked to its product taxonomy. Check what already exists before creating your own.</p>
+
+<h2>Metaobjects: reusable content blocks</h2>
+<p>Metaobjects go a step further. They let you define a structured content type, with several fields, and create entries you can reuse. For example:</p>
+<ul>
+<li>A <strong>material</strong> entry with a name, description and care image, referenced by many products.</li>
+<li>A <strong>designer or maker</strong> profile shown on related products.</li>
+<li>A <strong>size guide</strong> table reused across a whole category.</li>
+<li>A <strong>store location</strong> with address and opening hours.</li>
+</ul>
+<p>When you update a metaobject entry, every product that references it shows the change. That saves repetitive editing and keeps information consistent.</p>
+
+<h2>Planning before you build</h2>
+<p>Metafields work best when planned. Adding them ad hoc can lead to near-duplicate fields and inconsistent values.</p>
+<ol>
+<li><strong>List the information shoppers need</strong> to choose and use your products. Customer questions and returns reasons are a useful source.</li>
+<li><strong>Decide what is shared and what is unique.</strong> Shared information suits metaobjects; product-specific details suit plain metafields.</li>
+<li><strong>Choose the right type.</strong> Use numbers for measurements so they can be compared, lists of allowed values for things like material, and rich text only where formatting is genuinely needed.</li>
+<li><strong>Name fields clearly</strong> and add short descriptions in the definition so whoever edits products knows what to enter.</li>
+<li><strong>Decide which fields should be filters</strong> on collection pages.</li>
+</ol>
+<p>Writing this plan down also helps if you later brief a developer. Our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> covers what to include.</p>
+
+<h2>Adding values to products</h2>
+<p>Once a definition exists, its field appears near the bottom of each product's edit page. You can fill values in one product at a time, use the bulk editor for many products, or import them in a product CSV where supported. For larger catalogues, check the current Shopify documentation on importing metafield values, as options change over time.</p>
+<p>Consistency matters more than volume. A filter that only works for half your products frustrates shoppers. If you add a new field, plan to fill it across the relevant range.</p>
+
+<h2>Showing metafields in your theme</h2>
+<p>With Online Store themes, many sections and blocks support dynamic sources. In the theme editor, you can connect a text, image or other setting to a metafield instead of typing a fixed value. The block then shows each product's own value.</p>
+<p>Common uses include:</p>
+<ul>
+<li>A "Materials" or "Care" collapsible tab on the product page.</li>
+<li>A badge such as "Handmade in the UK" driven by a true or false field.</li>
+<li>A downloadable instruction PDF linked from a file field.</li>
+<li>A size guide pulled from a metaobject referenced by the product.</li>
+</ul>
+<p>If your theme does not offer the block you need, a developer can add metafields to templates using Liquid. That is usually a small, contained change. Test it on a duplicate theme first.</p>
+
+<h2>Using metafields for filters and collections</h2>
+<p>Shopify's Search and Discovery app can use certain product and variant metafields as filters on collection and search pages. This is often cleaner than relying on tags, because values are controlled and spelled consistently.</p>
+<p>Metafields can also be used as conditions in automated collections, depending on the field type. That lets you build a collection such as "Organic cotton" from a material field rather than remembering to tag each product. Our <a href="/blog/ecommerce-site-search/">ecommerce site search guide</a> covers related ideas.</p>
+
+<h2>Metafields and SEO</h2>
+<p>Metafields do not boost rankings on their own. What they do is help you present clear, consistent, useful product information, which supports both shoppers and search engines. Some themes and apps can also use metafield values in structured data, such as product materials. Keep descriptions written for people, and use metafields to organise the supporting detail. Our <a href="/blog/ecommerce-product-descriptions/">product descriptions guide</a> explains how the two work together.</p>
+
+<h2>Metafields versus apps</h2>
+<p>Before Shopify expanded custom data, many stores used apps for tabs, size charts and badges. Some of those features can now be built with metafields and theme blocks, which may mean fewer scripts and fewer subscriptions. Apps still make sense for complex features. When reviewing your apps, check whether any of them only display information that a metafield and a theme block could now handle.</p>
+<p>A sensible way to decide is to ask three questions. Does the feature only display stored information? Does it need logic, such as calculations or customer-specific content? Does it need regular updates from a third party? Display-only features are good candidates for metafields. Features with logic or external data are often better left to a well-supported app or custom development.</p>
+
+<h2>Worked examples</h2>
+<h3>A homeware shop</h3>
+<p>A homeware shop might create number metafields for width, height and depth, a list field for material, and a rich text field for care instructions. The product page shows dimensions in a tidy table, a care tab pulls in the instructions, and collection pages let shoppers filter by material. Nothing needs to be typed into the description twice.</p>
+<h3>A skincare brand</h3>
+<p>A skincare brand might create an ingredient metaobject with a name and short explanation, then reference several ingredients from each product. A "Key ingredients" block lists them on the product page. If the explanation of an ingredient changes, it is updated once and every product reflects it. Any claims about ingredients still need to follow the relevant advertising rules, so check guidance from the ASA and take advice where unsure.</p>
+<h3>A clothing label</h3>
+<p>A clothing label might use a metaobject for size guides, one per garment type, and a product reference so each product points at the correct guide. A true or false field could control a "Made in the UK" badge, shown only where it is accurate.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Creating several fields that mean the same thing, such as "Material" and "Fabric".</li>
+<li>Using free text where a list of allowed values would keep data consistent.</li>
+<li>Showing an empty block on products where the field has not been filled.</li>
+<li>Deleting a definition that the theme still references.</li>
+<li>Putting long marketing copy into metafields that should live in the main description.</li>
+</ul>
+
+<h2>Keeping custom data tidy</h2>
+<ul>
+<li>Review definitions occasionally and remove unused ones carefully, after checking nothing in the theme references them.</li>
+<li>Avoid creating a new field when an existing one could be reused.</li>
+<li>Restrict who can edit definitions, while letting product editors fill in values.</li>
+<li>Note which theme sections rely on which fields, so future changes do not break the storefront.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Do I need an app to use Shopify metafields?</h3>
+<p>No. You can create metafield definitions and metaobjects in Settings, Custom data, and show them through dynamic sources in compatible themes. Apps are only needed for specialised workflows.</p>
+<h3>What is the difference between a metafield and a metaobject?</h3>
+<p>A metafield adds one piece of information to a resource, such as a product. A metaobject is a reusable entry with several fields that many resources can reference.</p>
+<h3>Can customers filter by metafields?</h3>
+<p>Often, yes. Shopify's Search and Discovery app supports certain metafield types as filters. Check which types are supported in the current documentation.</p>
+<h3>Will metafields work with my theme?</h3>
+<p>Most current Online Store themes support dynamic sources for common blocks. Older or heavily customised themes may need some Liquid code to display metafields.</p>
+<h3>Should I use tags or metafields?</h3>
+<p>Tags are quick but free-form, so typos slip in. Metafields with defined types and allowed values are usually more reliable for filters and structured product details.</p>
+<h3>Can Prism Works Studio set up metafields for our store?</h3>
+<p>Yes. Prism Works Studio can plan your custom data, set up metafields and metaobjects and connect them to your theme as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Metafields%3A%20How%20to%20Add%20Custom%20Product%20Information%20Without%20Apps'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/shopify-collections-structure/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Shopify Collections Structure: How to Organise Products So Shoppers Find Them</h3><p>How to plan a Shopify collections structure: manual vs automated collections, naming, menus, filters and SEO, so shoppers and search engines find products.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/shopify-apps-audit/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Shopify Apps Audit: How to Review, Remove and Replace the Apps in Your Store</h3><p>How to run a Shopify apps audit: list every app, check what it does, its cost to speed and data, remove leftover code safely and decide what to keep or replace.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/ecommerce-discount-code-strategy/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>Ecommerce Discount Code Strategy: Using Offers Without Eroding Margin</h3><p>A practical discount code strategy for UK online shops: when to offer codes, which types to use, protecting margin and keeping pricing claims within UK rules.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Metafields%3A%20How%20to%20Add%20Custom%20Product%20Information%20Without%20Apps'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
