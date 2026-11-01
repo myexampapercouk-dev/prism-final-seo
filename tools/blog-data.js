@@ -36696,4 +36696,516 @@ module.exports = [
 <p>Prism Works Studio builds and supports WordPress websites for UK businesses, including setting up sensible revision limits, backups and editing workflows. If you want more confidence that your content is safe, <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'shopify-local-pickup',
+    seoTitle: 'Shopify Local Pickup: Setting Up Click and Collect',
+    title: 'Shopify Local Pickup: How to Offer Click and Collect From Your Shop',
+    description: 'A practical guide to setting up local pickup on Shopify, covering locations, pickup instructions, notifications, stock, checkout wording and in-store handover.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/online-shop-shipping-rates-uk/', '/blog/shopify-pos-uk-retail/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Many independent businesses sell online and also have a physical base, whether that is a high street shop, a studio, a workshop or a unit on an industrial estate. For customers nearby, being able to order online and collect in person can be convenient: they avoid delivery charges, they do not have to wait in for a parcel and they can often pick up sooner.</p>
+<p>Shopify includes a built-in local pickup option that lets you offer this at checkout. This guide explains how it works, how to set it up sensibly, and the day-to-day routine that makes click and collect run smoothly for your team and your customers.</p>
+
+<h2>What Shopify local pickup does</h2>
+<p>Local pickup adds a delivery method at checkout that lets customers choose to collect their order from one of your locations instead of having it shipped. When the order comes in, it is flagged as a pickup order in your admin. Once you have prepared it, you mark it as ready, and Shopify can send the customer a notification telling them it is waiting. When they arrive and collect, you mark it as picked up.</p>
+<p>It is designed for orders that customers collect themselves from a place you control. It is different from local delivery, where you drop the order off at the customer's address, and from shipping through a carrier.</p>
+
+<h2>Is click and collect right for your store?</h2>
+<p>Before switching it on, think about whether it fits how you operate.</p>
+<ul>
+<li><strong>Do you have a suitable location?</strong> You need somewhere customers can reasonably visit, with someone available to hand orders over during stated hours.</li>
+<li><strong>Is your stock at that location?</strong> Pickup works best when the products are already where the customer will collect them, or when you have a dependable way to move them there.</li>
+<li><strong>Can you store prepared orders?</strong> Orders awaiting collection need a safe, organised place where they will not get mixed up with stock or other orders.</li>
+<li><strong>Is the location safe and accessible?</strong> Think about parking, access and whether you are comfortable with customers visiting a home-based business, if that applies.</li>
+</ul>
+<p>If the answers are mostly yes, local pickup can be a straightforward addition alongside your normal <a href="/blog/online-shop-shipping-rates-uk/">shipping rates</a>.</p>
+
+<h2>Setting up local pickup on Shopify</h2>
+<h3>Add or check your locations</h3>
+<p>Pickup is tied to locations in Shopify. In your settings, make sure each place where customers might collect is set up as a location with the correct address. If you have several sites, you can choose which ones offer pickup.</p>
+<h3>Turn on local pickup for a location</h3>
+<p>Within the shipping and delivery settings, you can enable local pickup for each eligible location. Here you can usually set how long it typically takes for an order to be ready and add pickup instructions that appear in customer notifications.</p>
+<h3>Write useful pickup instructions</h3>
+<p>Instructions are worth getting right. Good ones answer the questions a customer will have when they arrive:</p>
+<ul>
+<li>Where exactly to go, such as which entrance, counter or unit number.</li>
+<li>When they can collect, including any days you are closed.</li>
+<li>What to bring, such as the order confirmation or a form of identification if you require it.</li>
+<li>How long you will hold the order before contacting them.</li>
+<li>Who to contact if they have trouble finding you.</li>
+</ul>
+<p>Keep them short and practical. A customer may be reading them on their phone outside your door.</p>
+<h3>Decide whether pickup is free</h3>
+<p>Many stores do not charge for collection, but you can decide what suits your business. Whatever you choose, make sure it is shown clearly at checkout so that customers can compare it with delivery options.</p>
+
+<h2>Keeping stock accurate across locations</h2>
+<p>Pickup only works if the item is actually available where the customer expects to collect it. Shopify tracks inventory per location, so it is important that those numbers are kept up to date.</p>
+<ul>
+<li>Assign stock to the correct locations, rather than holding everything at one default location.</li>
+<li>When moving stock between sites, record the transfer so that availability reflects reality.</li>
+<li>If you sell in person too, using Shopify POS means in-store sales reduce the same stock counts as online orders. Our guide to <a href="/blog/shopify-pos-uk-retail/">Shopify POS for UK retail</a> explains how online and in-store selling fit together.</li>
+</ul>
+<p>For a fuller picture of stock settings, see our article on <a href="/blog/shopify-inventory-management/">Shopify inventory management</a>.</p>
+
+<h2>Presenting pickup on your store</h2>
+<p>Customers should not have to reach the final step of checkout to discover that collection is possible. Consider mentioning it in a few places:</p>
+<ul>
+<li><strong>Product pages.</strong> A short line such as "Free collection available from our shop" can reassure local buyers. Some themes can show pickup availability for the selected variant directly on the product page.</li>
+<li><strong>Delivery information page.</strong> Explain pickup alongside your delivery options, with the address and opening hours.</li>
+<li><strong>Announcement bar or footer.</strong> A brief mention can be useful if a good share of your customers are nearby.</li>
+<li><strong>Contact page.</strong> Include the collection address and directions where people are likely to look for them.</li>
+</ul>
+<p>Keep wording consistent everywhere so customers are not confused by different hours or addresses in different places. Our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> covers adjusting product and cart templates if your theme needs changes.</p>
+
+<h2>Notifications that keep customers informed</h2>
+<p>Shopify provides notification templates for pickup orders, including a message when the order is ready for collection. It is worth reviewing these and editing them so they match your brand voice and include the information customers need.</p>
+<ul>
+<li>The order confirmation should make clear that the customer chose pickup and that they should wait for a ready message before travelling.</li>
+<li>The ready-for-pickup email should repeat the address, collection hours and anything they need to bring.</li>
+<li>If you send text messages as well as emails, check those templates too.</li>
+</ul>
+<p>The most important habit is marking orders as ready only when they truly are. A customer who travels in after a ready notification and finds the order is not prepared is unlikely to be impressed.</p>
+
+<h2>An in-store handover routine</h2>
+<p>A simple, consistent routine prevents mix-ups. You might adapt something like this:</p>
+<ol>
+<li><strong>Prepare the order.</strong> Pick the items, check them against the order and pack them securely.</li>
+<li><strong>Label clearly.</strong> Mark the package with the order number and customer name so it is easy to find.</li>
+<li><strong>Store it safely.</strong> Keep prepared orders together in a dedicated area, ideally out of public reach.</li>
+<li><strong>Mark as ready.</strong> Update the order in Shopify so the customer is notified.</li>
+<li><strong>Check at collection.</strong> When the customer arrives, confirm the order number and name, and any identification you ask for.</li>
+<li><strong>Mark as picked up.</strong> Update the order once it has been handed over, so your records are accurate.</li>
+</ol>
+<p>Make sure anyone working at the counter knows this process, and that staff have the right access in Shopify. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to give team members what they need without full admin access.</p>
+
+<h2>Handling uncollected orders and returns</h2>
+<p>Sometimes orders are not collected. Decide in advance what you will do and say so in your pickup instructions and policies. For example, you might send a reminder after a while, then contact the customer to arrange a refund or alternative if the order remains uncollected.</p>
+<p>Returns and cancellations for pickup orders are generally handled in the same way as other online orders. Orders placed online are typically distance contracts under UK consumer rules even when collected in person, so cancellation rights may still apply. This is a general point rather than legal advice, so check current guidance or take advice on how the rules apply to your business, and make sure your refund policy covers collection orders clearly.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li><strong>Offering pickup at a location without stock.</strong> If inventory is not assigned correctly, customers may order items you cannot hand over.</li>
+<li><strong>Vague instructions.</strong> "Collect from our shop" is not enough if the entrance is round the back or the shop closes early on certain days.</li>
+<li><strong>Forgetting to mark orders ready or collected.</strong> Out-of-date order statuses confuse both customers and staff.</li>
+<li><strong>Inconsistent opening hours.</strong> Make sure the hours in pickup instructions match your website, your Google Business Profile and any signs on the door.</li>
+<li><strong>No plan for busy periods.</strong> At peak times, prepared orders can pile up. Plan storage and staffing so collections stay quick.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Is local pickup built into Shopify?</h3>
+<p>Yes. Shopify includes local pickup as a delivery option that you can enable for your locations in the shipping and delivery settings, without needing a separate app for the basic setup.</p>
+<h3>Can I offer pickup from more than one location?</h3>
+<p>Yes, if you have several locations set up in Shopify you can choose which ones offer pickup. Make sure stock is assigned to each one accurately so that customers only see pickup where items are actually available.</p>
+<h3>Should I charge for click and collect?</h3>
+<p>That is a business decision. Many stores offer collection at no charge, as it saves on packaging and courier costs, but you can set a fee if that suits you. Whatever you decide, show it clearly at checkout.</p>
+<h3>Can customers collect from home if I run a home-based business?</h3>
+<p>Technically you can set your home as a location, but think carefully about privacy, safety and practicalities before doing so. Some home-based businesses prefer to offer local delivery or arrange collections only by appointment.</p>
+<h3>How is local pickup different from local delivery?</h3>
+<p>With local pickup, the customer comes to you to collect the order. With local delivery, you take the order to the customer's address within an area you define. Shopify supports both, and some stores offer each alongside standard shipping.</p>
+
+<h2>Getting help with click and collect on Shopify</h2>
+<p>Local pickup can be a convenient extra for customers who live or work near your shop. If you would like help setting up locations, editing notifications or adjusting your theme so pickup is clearly presented, Prism Works Studio can help. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">contact us</a> to talk it through.</p>
+`,
+  },
+  {
+    slug: 'shopify-pre-orders',
+    seoTitle: 'Shopify Pre-Orders: How to Sell Products Before Launch',
+    title: 'Shopify Pre-Orders: A Practical Guide to Selling Before Stock Arrives',
+    description: 'How to set up pre-orders on a Shopify store, from product page wording and payment options to stock handling, customer emails and UK consumer law points.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-inventory-management/', '/blog/ecommerce-stock-availability-display/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A pre-order lets a customer buy a product that is not yet ready to ship. It might be a new release that is still being manufactured, a seasonal line that arrives later, or a bestseller that has temporarily sold out and is due back in. Instead of showing a disappointing "sold out" message, the store invites the customer to secure their item now and receive it later.</p>
+<p>Shopify can support pre-orders in several ways, and the right approach depends on how you want to take payment and how your stock is managed. This guide walks through the decisions involved, how to present pre-orders clearly, and the practical housekeeping that keeps them from turning into a customer service headache.</p>
+
+<h2>When pre-orders make sense</h2>
+<p>Pre-orders suit situations where demand is likely to exist before the stock does. Common scenarios include:</p>
+<ul>
+<li><strong>New product launches.</strong> Opening orders before launch day lets keen customers commit early and gives you a sense of interest.</li>
+<li><strong>Restocks.</strong> When a popular item sells out and more is on the way, a pre-order keeps the sale rather than sending the customer elsewhere.</li>
+<li><strong>Made-to-order or limited runs.</strong> Some products are only produced once orders are in, and a pre-order model reflects that honestly.</li>
+<li><strong>Seasonal ranges.</strong> Items for a specific season or occasion can be offered in advance so customers can plan ahead.</li>
+</ul>
+<p>Pre-orders are less suitable when you cannot give a reasonable idea of when stock will arrive. Taking orders with no realistic dispatch window tends to create frustrated customers and cancellation requests.</p>
+
+<h2>The key decision: how and when to take payment</h2>
+<p>Before touching any settings, decide how payment will work. This affects which tools you use and how orders flow through Shopify.</p>
+<h3>Full payment upfront</h3>
+<p>The customer pays the whole amount at checkout, just like a normal order. This is the simplest option for customers to understand and for you to manage. The trade-off is that you are holding money for goods you have not yet sent, so clear communication and a reliable plan for refunds matter.</p>
+<h3>Deposit now, balance later</h3>
+<p>Some stores take a partial payment at checkout and collect the remainder when the item is ready. Shopify supports this kind of arrangement through its purchase options features, often used alongside an app from the Shopify App Store. It can lower the barrier to committing, but it adds a second payment step that needs to be explained and that may fail if a card has expired.</p>
+<h3>Pay later when the item is ready</h3>
+<p>Another approach is to save the customer's payment details and charge them when the product ships. This can feel low-risk to customers, though again there is a chance the charge does not go through later. It also means your revenue lands only when you fulfil.</p>
+<p>There is no single right answer. The best choice depends on your product, your cash flow and how confident you are about arrival dates.</p>
+
+<h2>Ways to set up pre-orders on Shopify</h2>
+<h3>Continue selling when out of stock</h3>
+<p>The most basic method uses a built-in inventory setting. On a product variant, you can allow customers to keep purchasing when stock reaches zero. Combined with clear wording on the product page, this turns an out-of-stock item into something customers can still order.</p>
+<p>This works for simple cases, but it has limits. By default, the product page and checkout will look like a normal purchase unless your theme or content says otherwise, so customers could miss that the item is not ready to ship. It also applies to every out-of-stock moment, not just planned pre-orders, so it needs careful use.</p>
+<h3>Purchase options and apps</h3>
+<p>For deposits, delayed charges or more control over how pre-order products are labelled, Shopify's purchase options features and apps built on them are the usual route. These can change the button text, add notes to the order, and tag pre-order items so they are easy to spot when fulfilling. Before adding any app, it is sensible to check whether it is actively maintained and how it affects your theme and checkout. Our <a href="/blog/shopify-apps-audit/">Shopify apps audit guide</a> covers how to weigh up apps generally.</p>
+<h3>Theme changes</h3>
+<p>Whichever method you use, the product page usually needs some adjustment so that pre-order items are obvious. That might mean a different button label, a short notice near the price, or a badge on collection pages. These changes can often be made in the theme editor, with more involved changes handled through <a href="/blog/shopify-theme-customisation/">theme customisation</a>.</p>
+
+<h2>Presenting pre-orders clearly</h2>
+<p>The single biggest factor in a smooth pre-order is clarity. A customer should never be surprised that their item is not arriving next week.</p>
+<h3>Change the button wording</h3>
+<p>Replace "Add to cart" with wording such as "Pre-order now" for pre-order items. This simple change does a lot of work, because it reminds customers at the moment of decision that this is not a standard purchase.</p>
+<h3>State the expected dispatch window</h3>
+<p>Near the price and button, explain when you expect to send the item. Phrase it honestly, for example as an expected month rather than a precise date if you are not sure. If the estimate changes, update the page promptly.</p>
+<h3>Explain payment</h3>
+<p>If you are taking a deposit or charging later, say so plainly on the product page and again in the cart. Customers should understand exactly what they are paying now and what happens next.</p>
+<h3>Handle mixed carts</h3>
+<p>Think about what happens when a customer adds a pre-order item and an in-stock item to the same cart. Will you hold the whole order until the pre-order arrives, or ship the in-stock item first? Either approach can work, but customers should be told which applies. Splitting shipments may affect your <a href="/blog/online-shop-shipping-rates-uk/">shipping rates</a>, so factor that into your decision.</p>
+<h3>Repeat key details in confirmation emails</h3>
+<p>Shopify's notification templates can be edited so that order confirmations for pre-order items repeat the expected dispatch window and payment arrangement. This gives customers a written reminder they can refer back to.</p>
+
+<h2>Managing stock and fulfilment</h2>
+<p>Pre-orders sit awkwardly with stock counts, because you are selling items that do not yet exist in your warehouse. A few habits help.</p>
+<ul>
+<li><strong>Set a cap where appropriate.</strong> If you only expect a certain quantity to arrive, consider limiting how many pre-orders you accept so that you do not oversell. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> explains how stock levels and tracking work.</li>
+<li><strong>Tag or label pre-order orders.</strong> Using order tags makes it easy to filter pre-orders in the admin and avoid sending them by mistake before stock arrives.</li>
+<li><strong>Switch off pre-orders when stock lands.</strong> Once the product is physically in stock, return it to a normal listing so that new customers see standard availability and dispatch.</li>
+<li><strong>Fulfil in order.</strong> When the stock arrives, working through pre-orders in the order they were placed is generally fairest and easiest to explain.</li>
+</ul>
+<p>How you describe availability across the site matters too. Our article on <a href="/blog/ecommerce-stock-availability-display/">displaying stock availability</a> covers wording for in-stock, low-stock and back-in-stock messages that pair well with pre-orders.</p>
+
+<h2>Keeping customers informed</h2>
+<p>Silence is what usually turns a pre-order customer into a complaint. Plan your communication in advance.</p>
+<ul>
+<li>Send a clear confirmation explaining the pre-order terms.</li>
+<li>If the expected date moves, tell customers promptly, explain briefly why and offer a cancellation if they no longer want to wait.</li>
+<li>Let customers know when their item has shipped, as you would for any order.</li>
+<li>If you are collecting a balance payment, give advance notice before the charge is taken.</li>
+</ul>
+<p>Short, honest updates go a long way. Customers tend to be more patient when they feel kept in the loop.</p>
+
+<h2>UK consumer law considerations</h2>
+<p>Pre-orders are still distance sales, so the usual UK consumer protection rules for online selling are likely to apply. This is general information rather than legal advice, and you should take proper advice for your own circumstances, but a few points are worth being aware of.</p>
+<ul>
+<li><strong>Delivery timing.</strong> Consumer law generally expects goods to be delivered within any period agreed with the customer, or within a reasonable time if none was agreed. Stating an expected dispatch window and sticking to it, or updating customers when it changes, helps keep you on the right side of this.</li>
+<li><strong>Cancellation rights.</strong> Customers buying online usually have cancellation rights under distance selling rules. How these apply to pre-orders, including when the cancellation period starts, is worth checking with guidance from official sources such as the Competition and Markets Authority or a legal adviser.</li>
+<li><strong>Clear information.</strong> Pre-contract information about the product, the total price, payment arrangements and delivery should be given clearly before the customer commits.</li>
+<li><strong>Refunds.</strong> If you cannot fulfil an order, customers should be refunded promptly. Have a plan for this before you start taking pre-orders.</li>
+</ul>
+<p>Your terms and conditions and refund policy should reflect how you handle pre-orders. Shopify includes policy templates, but these are starting points and may need tailoring for your business.</p>
+
+<h2>Common pitfalls to avoid</h2>
+<ul>
+<li><strong>Vague dispatch information.</strong> "Coming soon" with no indication of timing invites anxious emails.</li>
+<li><strong>Leaving pre-orders switched on by accident.</strong> Using the "continue selling" setting broadly can mean customers order items you have no plan to restock.</li>
+<li><strong>Forgetting the checkout and emails.</strong> A clear product page means little if the confirmation email reads like a normal order with standard delivery promises.</li>
+<li><strong>Overcomplicated payment schemes.</strong> Deposits and delayed charges can work well, but only if customers understand them. Keep the explanation simple.</li>
+<li><strong>Too many apps.</strong> Layering several tools to manage pre-orders can slow your store and cause conflicts. Pick one approach and keep it tidy.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Can Shopify do pre-orders without an app?</h3>
+<p>For simple pre-orders with full payment upfront, you can use the built-in option to continue selling a variant when it is out of stock, combined with clear product page wording. For deposits, delayed payments or automatic labelling, an app built on Shopify's purchase options is usually needed.</p>
+<h3>Should I take full payment for a pre-order?</h3>
+<p>It depends on your product, cash flow and confidence in the arrival date. Full payment is simplest to explain and manage. Deposits or delayed charges can feel lower risk to customers but add extra steps and the chance of a failed payment later.</p>
+<h3>How do I stop overselling a pre-order?</h3>
+<p>Set a limit based on the quantity you expect to receive, either through stock levels or the tool you use for pre-orders. Review it as your supplier confirms quantities, and switch the product back to a normal listing once stock arrives.</p>
+<h3>What happens if the stock is delayed?</h3>
+<p>Tell affected customers as soon as you know, give a revised estimate and offer them the option to cancel for a refund. Update the product page so that new customers see the new timing too.</p>
+<h3>Do pre-orders affect my store's SEO?</h3>
+<p>A pre-order product page can be indexed like any other product page, which can help people find a new product before launch. Keep the page content accurate and avoid deleting it once the product is in stock, so that any visibility it has built carries forward. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers product page basics.</p>
+
+<h2>Getting help with Shopify pre-orders</h2>
+<p>Pre-orders can be a useful way to capture demand before stock arrives, as long as they are set up with care. If you would like help choosing an approach, adjusting your theme or tidying up product pages and notifications, Prism Works Studio can help. Take a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a> to talk through your store.</p>
+`,
+  },
+  {
+    slug: 'website-maintenance-mode-page',
+    seoTitle: 'Maintenance Mode Pages: Taking Your Site Offline Safely',
+    title: 'Maintenance Mode Pages: How to Take a Website Offline Without Harm',
+    description: 'When to use a maintenance mode page on a WordPress or Shopify site, what it should say, which status code to return and how to avoid hurting search visibility.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-staging-and-testing/', '/blog/404-page-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Sometimes a website needs to be taken offline briefly. You might be applying a significant update, migrating to a new setup, fixing a problem or relaunching with a new design. During that time, showing visitors a half-finished or broken site is rarely a good idea. A maintenance mode page offers a simple alternative: a temporary message explaining that the site is unavailable and will be back soon.</p>
+<p>Done well, a maintenance page protects your reputation and your search visibility. Done badly, it can confuse visitors and send the wrong signals to search engines. This guide covers when to use maintenance mode, what the page should say, how it works on WordPress and Shopify, and the technical details that matter.</p>
+
+<h2>What is a maintenance mode page?</h2>
+<p>A maintenance mode page replaces your normal site for visitors while work takes place. Logged-in administrators can usually still see and work on the real site behind it. Once the work is finished, maintenance mode is switched off and visitors see the site as normal.</p>
+<p>It is different from a "coming soon" page, which is used before a site has launched at all. The principles are similar, but a maintenance page is about a temporary interruption to an existing site.</p>
+
+<h2>When maintenance mode makes sense</h2>
+<p>Maintenance mode is useful when visitors could otherwise see something broken or inconsistent. Examples include:</p>
+<ul>
+<li>Major updates to a theme, plugins or core software where changes need checking before visitors arrive.</li>
+<li>Moving a site to a new server or making significant configuration changes.</li>
+<li>Replacing a design on a live site where the old and new versions cannot sit side by side.</li>
+<li>Fixing a serious problem, such as a fault affecting checkout or forms.</li>
+</ul>
+<p>It is often not needed for routine, small updates, which many sites handle without visible disruption. And in many cases, the better approach is to do the work on a staging copy first, so that the live site only needs to be paused briefly, if at all. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains this approach.</p>
+
+<h2>What a good maintenance page says</h2>
+<p>A maintenance page does not need to be elaborate. It needs to be clear and reassuring.</p>
+<h3>A plain explanation</h3>
+<p>Tell visitors the site is temporarily unavailable while you make improvements or carry out maintenance. Avoid technical jargon, and avoid alarming language that suggests something has gone badly wrong.</p>
+<h3>When to come back</h3>
+<p>If you have a reasonable idea of when the site will return, say so, for example "We expect to be back later today". If you are not sure, a general "We will be back shortly" is better than a precise time you might miss. Update the message if things take longer than planned.</p>
+<h3>How to get in touch</h3>
+<p>Some visitors will need you urgently. Include a phone number or email address so they can still reach you, particularly if you are a service business or have customers with open orders.</p>
+<h3>Your branding</h3>
+<p>Use your logo and brand colours so visitors know they are in the right place. A bare server message can make people think the site has been abandoned or compromised.</p>
+<h3>Optional extras</h3>
+<p>Links to your social media profiles or a short note about what is coming can be helpful. Keep it brief, though; this is a holding page, not a full marketing page.</p>
+
+<h2>The status code matters</h2>
+<p>When a browser or search engine requests a page, the server returns a status code. For a maintenance page, the appropriate code is generally <strong>503 Service Unavailable</strong>. This tells search engines that the site is temporarily down and that they should come back later, rather than treating the maintenance message as your new content.</p>
+<p>A 503 response can also include a header suggesting when to try again. Google's guidance indicates that brief 503 periods are handled as temporary, though extended unavailability over a long period may eventually affect how a site is treated in search. Keeping maintenance windows short is the safest approach.</p>
+<p>The mistakes to avoid are returning a normal 200 status code, which can lead search engines to index the maintenance message in place of your real pages, or redirecting all pages to a separate maintenance URL. Our <a href="/blog/404-page-design/">404 page design guide</a> explains status codes in a little more detail.</p>
+
+<h2>Maintenance mode on WordPress</h2>
+<p>WordPress has a basic maintenance mode built in. When you update core software, themes or plugins through the dashboard, WordPress briefly shows a simple message to visitors while files are being replaced. This usually lasts only moments and is cleared automatically once the update completes.</p>
+<p>Occasionally, if an update is interrupted, a site can get stuck showing that message. This is typically caused by a leftover temporary file in the site's root folder that signals maintenance is in progress. Removing it, or asking your host or developer to do so, usually restores the site. It is worth checking the site afterwards, as an interrupted update can leave things partly updated.</p>
+<p>For planned work, many WordPress sites use a dedicated maintenance mode feature, either from the theme or a plugin, that shows a branded page to visitors while logged-in users continue working. If you go this route, check that it returns a 503 status code and that you can easily switch it off. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> covers choosing plugins carefully, and keeping regular backups is essential before any major work. See our guide to a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a>.</p>
+
+<h2>Shopify and password protection</h2>
+<p>Shopify does not offer a maintenance mode in quite the same way. The nearest equivalent is the online store password page, which restricts access to the storefront and shows a customisable message to visitors. It is often used before launch, but it can also be used to pause a store temporarily.</p>
+<p>Shopify's platform is hosted and maintained by Shopify, so you do not need maintenance mode for platform updates. For changes you control, such as a redesign, the usual approach is to work on an unpublished theme, preview it thoroughly and publish it when ready. This avoids taking the store offline at all. Our guide to <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explains how to work with theme copies safely.</p>
+<p>If you do enable password protection on a live store, think carefully about the timing and how it may affect customers, open orders and any advertising campaigns that link to the store.</p>
+
+<h2>Reducing the need for downtime</h2>
+<p>The best maintenance window is a short one. A few practices help keep downtime to a minimum:</p>
+<ul>
+<li><strong>Test on staging first.</strong> Make and check changes on a copy of the site before applying them to the live version.</li>
+<li><strong>Take a backup.</strong> Always have a recent, restorable backup before significant work.</li>
+<li><strong>Choose quieter times.</strong> Your analytics can show when visitor numbers are typically lower, which may be a better time for planned work.</li>
+<li><strong>Prepare a checklist.</strong> Write down what will be done and how you will check it, so the work moves quickly.</li>
+<li><strong>Plan a rollback.</strong> Know how you will restore the previous version if something goes wrong.</li>
+</ul>
+<p>If you are moving hosts, our guide to <a href="/blog/change-website-hosting-without-downtime/">changing website hosting without downtime</a> covers approaches that can avoid a maintenance window altogether.</p>
+
+<h2>After maintenance: checks to make</h2>
+<p>When the work is done, switch maintenance mode off and check the site from a visitor's point of view, ideally in a private browser window where you are not logged in.</p>
+<ul>
+<li>Confirm the homepage and key pages load correctly.</li>
+<li>Test contact forms, search and, for shops, the cart and checkout.</li>
+<li>Check the site on a phone as well as a desktop.</li>
+<li>Make sure any caching has been cleared so visitors are not shown the old maintenance page.</li>
+<li>Look in Google Search Console over the following days for any unexpected crawl errors.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Will a maintenance page hurt my SEO?</h3>
+<p>A short maintenance period that returns a 503 status code is generally treated as temporary by search engines. Problems are more likely if the page returns a normal 200 status, redirects all pages elsewhere or stays in place for a long time.</p>
+<h3>How do I fix a WordPress site stuck in maintenance mode?</h3>
+<p>This usually happens when an update is interrupted and a temporary maintenance file is left in the site's root folder. Removing that file, or asking your host or developer to, typically brings the site back. Check afterwards that all updates completed properly.</p>
+<h3>Does Shopify have a maintenance mode?</h3>
+<p>Not exactly. Shopify offers a password page that restricts access to the storefront and can be customised with a message. For redesigns, working on an unpublished theme and publishing when ready usually avoids taking the store offline.</p>
+<h3>What should a maintenance page say?</h3>
+<p>Keep it simple: explain that the site is temporarily unavailable, give an idea of when it will return, provide a way to get in touch and include your branding so visitors know they are in the right place.</p>
+<h3>Is a maintenance page the same as a coming soon page?</h3>
+<p>They are similar but serve different purposes. A coming soon page is used before a site launches, while a maintenance page temporarily replaces an existing site during work. Both should be clear, branded and set up with appropriate technical settings.</p>
+
+<h2>Getting help with planned website work</h2>
+<p>Careful planning can keep maintenance windows short and protect both visitors and search visibility. If you are planning updates, a migration or a redesign and want to keep disruption to a minimum, Prism Works Studio can help. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'wordpress-synced-patterns',
+    seoTitle: 'WordPress Synced Patterns: Reuse Content Across Your Site',
+    title: 'WordPress Synced Patterns: How to Reuse Content Without Copying It',
+    description: 'What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-user-roles/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Most websites repeat certain pieces of content across many pages. A call to action at the end of every service page, a box with opening hours, a short disclaimer or a set of trust signals might appear in dozens of places. If each copy is created by hand, updating them means hunting through the site and editing each one, and it is easy to miss a few.</p>
+<p>WordPress patterns solve this. Patterns let you save a group of blocks and reuse it, either as a linked copy that updates everywhere at once or as a starting template you adapt each time. This guide explains how patterns work in the block editor, the difference between synced and unsynced patterns, and how to use them sensibly on a business website.</p>
+
+<h2>What are WordPress patterns?</h2>
+<p>A pattern is a saved arrangement of blocks. It might be as small as a single button or as large as a full page section with headings, images, columns and text. Once saved, a pattern can be inserted into posts and pages from the block inserter, just like an individual block.</p>
+<p>WordPress offers patterns from several sources: some are bundled with WordPress itself, some come with your theme, and you can create your own. This guide focuses mainly on patterns you create, as these are the ones tailored to your business.</p>
+
+<h2>Synced versus unsynced patterns</h2>
+<p>When you create a pattern, WordPress asks whether it should be synced. This is the most important choice.</p>
+<h3>Synced patterns</h3>
+<p>A synced pattern is linked everywhere it is used. Edit the pattern once and the change appears on every page that includes it. This is ideal for content that should always be identical, such as:</p>
+<ul>
+<li>A standard call to action box.</li>
+<li>Contact details or opening hours.</li>
+<li>A legal or regulatory statement that must stay consistent.</li>
+<li>A promotional banner that runs across several pages for a limited period.</li>
+</ul>
+<h3>Unsynced patterns</h3>
+<p>An unsynced pattern works like a template. When you insert it, WordPress places a copy of the blocks that you can then change freely, without affecting the original pattern or any other copies. This suits layouts you want to reuse with different content each time, such as:</p>
+<ul>
+<li>A team member profile layout.</li>
+<li>A case study section structure.</li>
+<li>A service page hero with heading, text and button.</li>
+<li>A frequently asked questions layout.</li>
+</ul>
+<h3>Where reusable blocks went</h3>
+<p>If you have used WordPress for a while, you may remember reusable blocks. These were renamed and folded into patterns, and what used to be a reusable block is now a synced pattern. Existing reusable blocks on older sites should appear in the patterns area.</p>
+
+<h2>Creating a pattern</h2>
+<p>The broad steps are straightforward, although the exact labels can vary slightly between WordPress versions:</p>
+<ol>
+<li>Build the content you want to reuse in the block editor, using whichever blocks you need.</li>
+<li>Select the blocks, often by wrapping them in a group first so they behave as a single unit.</li>
+<li>Open the block options menu and choose the option to create a pattern.</li>
+<li>Give the pattern a clear name and, if offered, assign it to a category.</li>
+<li>Choose whether it should be synced, then save.</li>
+</ol>
+<p>Your pattern then appears in the block inserter under patterns, ready to be added to other pages. In block themes, patterns can also be managed through the Site Editor.</p>
+
+<h2>Editing and managing patterns</h2>
+<p>Synced patterns can be edited either from within a page, by choosing to edit the original, or from the patterns management screen. Remember that editing a synced pattern changes it everywhere, so it is worth checking where it is used before making significant changes.</p>
+<p>If you need one page to differ from the rest, you can detach that instance of a synced pattern. Detaching converts it into regular blocks on that page only, so future updates to the pattern will no longer reach it. Use this deliberately, because detached copies can drift out of date.</p>
+<p>Recent versions of WordPress have also introduced ways to allow certain parts of a synced pattern, such as specific text or images, to be overridden on individual pages while the structure stays linked. Availability and behaviour of this feature can depend on your WordPress version and theme, so check what your site supports before relying on it.</p>
+
+<h2>Good uses for patterns on a business website</h2>
+<h3>Calls to action</h3>
+<p>A consistent call to action at the end of service pages or blog posts is a natural fit for a synced pattern. If your offer or contact method changes, one edit updates them all. Our guide to <a href="/blog/website-call-to-action-buttons/">call-to-action buttons</a> covers what makes them effective.</p>
+<h3>Contact and location details</h3>
+<p>Phone numbers, email addresses and opening hours often appear in several places. Keeping them in a synced pattern reduces the chance of an old number lingering on a forgotten page.</p>
+<h3>Standard page sections</h3>
+<p>Unsynced patterns for common layouts, such as a services overview grid or a page hero, help keep the design consistent while allowing different content. This is particularly helpful when several people create pages.</p>
+<h3>Seasonal or temporary messages</h3>
+<p>A banner announcing holiday closing times or a temporary offer can be added as a synced pattern, then edited or removed from one place when it is no longer needed.</p>
+<h3>Blog post elements</h3>
+<p>Elements like an author box, a newsletter prompt or a standard closing paragraph can be saved as patterns so that every post follows the same structure.</p>
+
+<h2>Organising a pattern library</h2>
+<p>Patterns are most useful when people can find the right one quickly. A few habits help:</p>
+<ul>
+<li><strong>Use descriptive names.</strong> "Service page CTA" is more helpful than "Box 2".</li>
+<li><strong>Use categories.</strong> Grouping patterns by purpose, such as calls to action, layouts or contact details, makes them easier to browse.</li>
+<li><strong>Remove patterns you no longer use.</strong> An overgrown library makes it harder to pick the right option. Check whether a synced pattern is in use before deleting it.</li>
+<li><strong>Keep the number manageable.</strong> A small set of well-designed patterns is generally more useful than many near-duplicates.</li>
+</ul>
+
+<h2>Patterns, roles and teams</h2>
+<p>If several people edit your site, patterns help everyone produce pages that look consistent. However, editing a synced pattern affects every page that uses it, so think about who should be allowed to make those changes. WordPress roles control what different users can edit, and our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains how to set sensible permissions.</p>
+<p>It also helps to agree a simple rule within the team, such as checking with someone before editing a synced pattern used site-wide.</p>
+
+<h2>Patterns versus template parts</h2>
+<p>In block themes, template parts such as headers and footers also behave like shared content, because editing one updates every template that uses it. The distinction is that template parts form the structure of your theme, while patterns are pieces of content inserted into posts, pages or templates. Site-wide elements like the header and footer are usually best handled as template parts, while repeated content within pages suits patterns.</p>
+
+<h2>Things to watch out for</h2>
+<ul>
+<li><strong>Editing a synced pattern by accident.</strong> Because changes apply everywhere, a quick edit intended for one page can alter many. Detach first if you only want to change one instance.</li>
+<li><strong>Theme-dependent styling.</strong> Patterns use your theme's styles, so they may look different after a theme change. Review key patterns after any redesign.</li>
+<li><strong>Plugin blocks inside patterns.</strong> If a pattern relies on blocks provided by a plugin, deactivating that plugin can break the pattern wherever it appears.</li>
+<li><strong>Revisions.</strong> Before making significant changes to an important synced pattern, consider making a backup or testing on a staging site. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how this works.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a synced and an unsynced pattern?</h3>
+<p>A synced pattern stays linked everywhere it is used, so editing it updates every copy. An unsynced pattern inserts independent copies of its blocks, which can each be edited without affecting the original or other copies.</p>
+<h3>What happened to reusable blocks in WordPress?</h3>
+<p>Reusable blocks were renamed and became synced patterns. They work in a similar way, and existing reusable blocks on older sites should appear among your patterns.</p>
+<h3>Can I change a synced pattern on just one page?</h3>
+<p>You can detach the pattern on that page, which turns it into regular blocks you can edit freely. That copy will no longer receive future updates. Some recent WordPress versions also allow selected parts of a synced pattern to be overridden per page, depending on your setup.</p>
+<h3>Do patterns work with classic themes?</h3>
+<p>Patterns are a block editor feature, so they are available wherever you use the block editor for posts and pages, including on sites with classic themes. Managing patterns through the Site Editor applies to block themes.</p>
+<h3>Will deleting a synced pattern remove it from my pages?</h3>
+<p>Deleting a synced pattern that is still in use can leave affected pages with missing content or an error message in its place. Check where a pattern is used, and replace or detach those instances, before deleting it.</p>
+
+<h2>Getting help with WordPress patterns</h2>
+<p>A well-planned pattern library makes a WordPress site easier to update and more consistent to look at. If you would like help building patterns for your site, tidying up old reusable blocks or setting up a block theme, Prism Works Studio can help. Have a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+`,
+  },
+  {
+    slug: 'wordpress-widgets-and-sidebars',
+    seoTitle: 'WordPress Widgets and Sidebars: A Practical Guide',
+    title: 'WordPress Widgets and Sidebars: How to Use Them Well',
+    description: 'How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-child-themes/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Widgets and sidebars have been part of WordPress for a long time. They are the small blocks of content that appear beside or below your main content: a search box, a list of recent posts, a newsletter sign-up, opening hours or a short "about us" note. Used well, they help visitors find their way around. Used carelessly, they create clutter that distracts from what the page is actually for.</p>
+<p>The way widgets work has also changed as WordPress has moved towards blocks and full site editing. This guide explains what widgets and sidebars are, how they work in different types of theme, what is worth including and how to keep them tidy.</p>
+
+<h2>What are widgets and sidebars?</h2>
+<p>A <strong>widget</strong> is a self-contained piece of content or functionality that can be placed in a defined area of your theme. Examples include a search form, a list of categories, a calendar, a custom text block or an image.</p>
+<p>A <strong>sidebar</strong>, in WordPress terms, is any area of a theme that can hold widgets. The name comes from the traditional column that sits beside the main content, but these areas are often called widget areas and can appear in footers, headers or below posts too. Which areas exist depends entirely on your theme.</p>
+
+<h2>Classic themes versus block themes</h2>
+<p>How you manage widgets depends on the kind of theme your site uses.</p>
+<h3>Classic themes</h3>
+<p>Classic themes define widget areas in their code. You manage the contents through Appearance, then Widgets, in the dashboard, or through the Customizer. In recent versions of WordPress, the widgets screen uses a block-based editor, so you can add blocks such as paragraphs, images and lists into widget areas, alongside traditional widgets. Some sites have the older widget screen restored, which looks more like a list of draggable boxes.</p>
+<h3>Block themes</h3>
+<p>Block themes use the Site Editor rather than a widgets screen. There is no separate concept of widget areas: instead, you edit templates and template parts, such as the header, footer or a sidebar column, and add blocks directly. The ideas are similar, but the tools are different. If your site uses a block theme and you cannot find Appearance, then Widgets, this is usually why.</p>
+<p>If you are not sure which type you have, check under Appearance. A Site Editor option usually indicates a block theme, while Widgets and Customize options usually indicate a classic theme. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> explains the block approach in more detail.</p>
+
+<h2>Useful things to put in a sidebar or widget area</h2>
+<p>A good rule is that each item should help a visitor take a sensible next step. Some widely useful options include:</p>
+<ul>
+<li><strong>Search.</strong> On content-heavy sites, a search box helps people find specific articles quickly.</li>
+<li><strong>Categories or topics.</strong> A short list of main blog categories helps readers explore related content. Keep it short; a list of dozens of categories is hard to scan.</li>
+<li><strong>Recent or featured posts.</strong> A handful of links to recent or important articles can keep readers on the site.</li>
+<li><strong>A clear call to action.</strong> A short box inviting visitors to get in touch, book a call or view your services can work well on blog posts. Our guide to <a href="/blog/website-call-to-action-buttons/">call-to-action buttons</a> covers wording and placement.</li>
+<li><strong>Contact details or opening hours.</strong> Particularly useful in footers for local businesses.</li>
+<li><strong>A newsletter sign-up.</strong> If you send a newsletter, a simple sign-up form can be placed in a sidebar or footer. Make sure it is clear what people are signing up for.</li>
+</ul>
+
+<h2>Things that often add clutter</h2>
+<p>Older WordPress sites in particular can accumulate widgets that no longer serve anyone. Candidates for removal include:</p>
+<ul>
+<li>Archive lists showing every month since the site began.</li>
+<li>Tag clouds with dozens of tags of varying sizes.</li>
+<li>Meta widgets with login and feed links, which most visitors do not need.</li>
+<li>Calendars that show when posts were published.</li>
+<li>Social media feeds that duplicate content and may load extra scripts.</li>
+<li>Multiple competing calls to action stacked on top of each other.</li>
+</ul>
+<p>None of these is wrong in every case, but each should be justified. If you would not miss it, it can probably go.</p>
+
+<h2>Sidebars on mobile</h2>
+<p>On smaller screens, a sidebar column usually drops below the main content. That means visitors on phones may have to scroll past a long stack of widgets to reach the footer, or may never see them at all. Check how your sidebar behaves on a phone and ask whether it still helps there.</p>
+<p>Some themes let you hide certain widget areas on mobile, and in block themes you can design templates with mobile layout in mind. Either way, it is worth reviewing the mobile experience separately rather than assuming the desktop layout translates well.</p>
+
+<h2>Do you need a sidebar at all?</h2>
+<p>Sidebars are not compulsory. Many modern designs use full-width layouts for key pages and keep sidebars, if any, for blog posts. Consider the purpose of each template:</p>
+<ul>
+<li><strong>Homepage and service pages.</strong> These often work better without a sidebar, so that visitors focus on the main message and calls to action.</li>
+<li><strong>Blog posts.</strong> A sidebar can help readers find related content or get in touch, although an in-content box or a related posts section at the end can do the same job.</li>
+<li><strong>Shop pages.</strong> On ecommerce sites, a sidebar may hold product filters, which can be genuinely useful on category pages.</li>
+<li><strong>Landing pages.</strong> Pages built for a specific campaign usually benefit from removing distractions, including sidebars.</li>
+</ul>
+
+<h2>Widgets, speed and security</h2>
+<p>Each widget can add markup, scripts or requests to external services. A few heavy widgets, such as embedded feeds or third-party embeds, can slow pages noticeably. If speed is a concern, review what each widget loads. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the wider picture.</p>
+<p>Many widgets come from plugins. Removing a widget from a sidebar does not remove the plugin behind it, so if you no longer need a plugin's widgets, consider whether the plugin itself is still needed. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> explains how to review plugins safely.</p>
+
+<h2>Keeping widgets tidy</h2>
+<h3>Review them regularly</h3>
+<p>Every so often, visit a few pages on desktop and mobile and look at your sidebars and footers with fresh eyes. Check that links work, information is current and nothing looks out of place.</p>
+<h3>Check after theme changes</h3>
+<p>Widget areas belong to themes. If you switch theme, widgets may move to different areas, end up in an inactive section or disappear from view. After any theme change, check widget content carefully. Moving from a classic to a block theme usually means rebuilding these areas in the Site Editor.</p>
+<h3>Use consistent content</h3>
+<p>If your opening hours, phone number or address appear in a footer widget, make sure they match your contact page and other listings. Inconsistent details confuse visitors.</p>
+<h3>Consider reusable content</h3>
+<p>If the same content appears in several places, keeping one source of truth reduces the risk of versions drifting apart. In block-based editing, synced patterns can help with this.</p>
+
+<h2>Customising widget areas safely</h2>
+<p>Adding new widget areas to a classic theme, or changing where existing ones appear, usually involves editing theme files. Making those changes directly in a parent theme means they could be overwritten when the theme updates. Using a child theme keeps customisations separate. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains how this works.</p>
+<p>In block themes, much more can be done through the Site Editor without code, by editing template parts and adding columns or groups where you need them.</p>
+
+<h2>FAQs</h2>
+<h3>Why can I not find the Widgets menu in WordPress?</h3>
+<p>If your site uses a block theme, there is no Widgets menu, because widget areas are replaced by templates and template parts edited in the Site Editor. With a classic theme, the menu sits under Appearance, though some themes have no widget areas at all.</p>
+<h3>Can I use blocks in widget areas?</h3>
+<p>Yes. In recent versions of WordPress, the widgets screen in classic themes is block-based, so you can add standard blocks such as paragraphs, images and buttons to widget areas.</p>
+<h3>Do sidebars help SEO?</h3>
+<p>A sidebar is not an SEO feature in itself. Sensible internal links in a sidebar can help visitors and search engines discover related content, but a cluttered sidebar full of links adds little. Focus on usefulness to visitors first.</p>
+<h3>Will changing my theme delete my widgets?</h3>
+<p>Changing theme does not usually delete widget content outright, but widgets may be moved to an inactive area or placed in different locations because the new theme has different widget areas. Check and rearrange them after any theme change, ideally on a staging copy first.</p>
+<h3>Should my homepage have a sidebar?</h3>
+<p>Often not. Homepages tend to work better with a focused, full-width layout that guides visitors towards your main services or products. Sidebars are more commonly useful on blog posts and archive pages.</p>
+
+<h2>Getting help with your WordPress layout</h2>
+<p>Widgets and sidebars are small parts of a site, but they affect how easy it is for visitors to find their way around. If you would like help reviewing your layouts, rebuilding widget areas in a block theme or tidying up an older WordPress site, Prism Works Studio can help. See our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];

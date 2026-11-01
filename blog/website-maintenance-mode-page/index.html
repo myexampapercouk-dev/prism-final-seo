@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maintenance Mode Pages: Taking Your Site Offline Safely</title>
+<meta name="description" content="When to use a maintenance mode page on a WordPress or Shopify site, what it should say, which status code to return and how to avoid hurting search visibility.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Maintenance Mode Pages: Taking Your Site Offline Safely">
+<meta property="og:description" content="When to use a maintenance mode page on a WordPress or Shopify site, what it should say, which status code to return and how to avoid hurting search visibility.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-website-maintenance-mode-page.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/#article","headline":"Maintenance Mode Pages: How to Take a Website Offline Without Harm","description":"When to use a maintenance mode page on a WordPress or Shopify site, what it should say, which status code to return and how to avoid hurting search visibility.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/","url":"https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/","image":"https://prismworksstudio.co.uk/assets/og/blog-website-maintenance-mode-page.png","inLanguage":"en-GB","wordCount":1582,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Maintenance Mode Pages: How to Take a Website Offline Without Harm","item":"https://prismworksstudio.co.uk/blog/website-maintenance-mode-page/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will a maintenance page hurt my SEO?","acceptedAnswer":{"@type":"Answer","text":"A short maintenance period that returns a 503 status code is generally treated as temporary by search engines. Problems are more likely if the page returns a normal 200 status, redirects all pages elsewhere or stays in place for a long time."}},{"@type":"Question","name":"How do I fix a WordPress site stuck in maintenance mode?","acceptedAnswer":{"@type":"Answer","text":"This usually happens when an update is interrupted and a temporary maintenance file is left in the site's root folder. Removing that file, or asking your host or developer to, typically brings the site back. Check afterwards that all updates completed properly."}},{"@type":"Question","name":"Does Shopify have a maintenance mode?","acceptedAnswer":{"@type":"Answer","text":"Not exactly. Shopify offers a password page that restricts access to the storefront and can be customised with a message. For redesigns, working on an unpublished theme and publishing when ready usually avoids taking the store offline."}},{"@type":"Question","name":"What should a maintenance page say?","acceptedAnswer":{"@type":"Answer","text":"Keep it simple: explain that the site is temporarily unavailable, give an idea of when it will return, provide a way to get in touch and include your branding so visitors know they are in the right place."}},{"@type":"Question","name":"Is a maintenance page the same as a coming soon page?","acceptedAnswer":{"@type":"Answer","text":"They are similar but serve different purposes. A coming soon page is used before a site launches, while a maintenance page temporarily replaces an existing site during work. Both should be clear, branded and set up with appropriate technical settings."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Maintenance Mode Pages: How to Take a Website Offline Without Harm</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>Maintenance Mode Pages: How to Take a Website Offline Without Harm</h1><p class="pws-lead">When to use a maintenance mode page on a WordPress or Shopify site, what it should say, which status code to return and how to avoid hurting search visibility.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>A maintenance mode page tells visitors a site is temporarily unavailable and should explain what is happening and when to come back.</li><li>For temporary downtime, the page should return a 503 status code so that search engines understand it is not permanent.</li><li>Many updates can be tested on a staging site first, keeping time in maintenance mode as short as possible.</li></ul></div>
+<p>Sometimes a website needs to be taken offline briefly. You might be applying a significant update, migrating to a new setup, fixing a problem or relaunching with a new design. During that time, showing visitors a half-finished or broken site is rarely a good idea. A maintenance mode page offers a simple alternative: a temporary message explaining that the site is unavailable and will be back soon.</p>
+<p>Done well, a maintenance page protects your reputation and your search visibility. Done badly, it can confuse visitors and send the wrong signals to search engines. This guide covers when to use maintenance mode, what the page should say, how it works on WordPress and Shopify, and the technical details that matter.</p>
+
+<h2>What is a maintenance mode page?</h2>
+<p>A maintenance mode page replaces your normal site for visitors while work takes place. Logged-in administrators can usually still see and work on the real site behind it. Once the work is finished, maintenance mode is switched off and visitors see the site as normal.</p>
+<p>It is different from a "coming soon" page, which is used before a site has launched at all. The principles are similar, but a maintenance page is about a temporary interruption to an existing site.</p>
+
+<h2>When maintenance mode makes sense</h2>
+<p>Maintenance mode is useful when visitors could otherwise see something broken or inconsistent. Examples include:</p>
+<ul>
+<li>Major updates to a theme, plugins or core software where changes need checking before visitors arrive.</li>
+<li>Moving a site to a new server or making significant configuration changes.</li>
+<li>Replacing a design on a live site where the old and new versions cannot sit side by side.</li>
+<li>Fixing a serious problem, such as a fault affecting checkout or forms.</li>
+</ul>
+<p>It is often not needed for routine, small updates, which many sites handle without visible disruption. And in many cases, the better approach is to do the work on a staging copy first, so that the live site only needs to be paused briefly, if at all. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains this approach.</p>
+
+<h2>What a good maintenance page says</h2>
+<p>A maintenance page does not need to be elaborate. It needs to be clear and reassuring.</p>
+<h3>A plain explanation</h3>
+<p>Tell visitors the site is temporarily unavailable while you make improvements or carry out maintenance. Avoid technical jargon, and avoid alarming language that suggests something has gone badly wrong.</p>
+<h3>When to come back</h3>
+<p>If you have a reasonable idea of when the site will return, say so, for example "We expect to be back later today". If you are not sure, a general "We will be back shortly" is better than a precise time you might miss. Update the message if things take longer than planned.</p>
+<h3>How to get in touch</h3>
+<p>Some visitors will need you urgently. Include a phone number or email address so they can still reach you, particularly if you are a service business or have customers with open orders.</p>
+<h3>Your branding</h3>
+<p>Use your logo and brand colours so visitors know they are in the right place. A bare server message can make people think the site has been abandoned or compromised.</p>
+<h3>Optional extras</h3>
+<p>Links to your social media profiles or a short note about what is coming can be helpful. Keep it brief, though; this is a holding page, not a full marketing page.</p>
+
+<h2>The status code matters</h2>
+<p>When a browser or search engine requests a page, the server returns a status code. For a maintenance page, the appropriate code is generally <strong>503 Service Unavailable</strong>. This tells search engines that the site is temporarily down and that they should come back later, rather than treating the maintenance message as your new content.</p>
+<p>A 503 response can also include a header suggesting when to try again. Google's guidance indicates that brief 503 periods are handled as temporary, though extended unavailability over a long period may eventually affect how a site is treated in search. Keeping maintenance windows short is the safest approach.</p>
+<p>The mistakes to avoid are returning a normal 200 status code, which can lead search engines to index the maintenance message in place of your real pages, or redirecting all pages to a separate maintenance URL. Our <a href="/blog/404-page-design/">404 page design guide</a> explains status codes in a little more detail.</p>
+
+<h2>Maintenance mode on WordPress</h2>
+<p>WordPress has a basic maintenance mode built in. When you update core software, themes or plugins through the dashboard, WordPress briefly shows a simple message to visitors while files are being replaced. This usually lasts only moments and is cleared automatically once the update completes.</p>
+<p>Occasionally, if an update is interrupted, a site can get stuck showing that message. This is typically caused by a leftover temporary file in the site's root folder that signals maintenance is in progress. Removing it, or asking your host or developer to do so, usually restores the site. It is worth checking the site afterwards, as an interrupted update can leave things partly updated.</p>
+<p>For planned work, many WordPress sites use a dedicated maintenance mode feature, either from the theme or a plugin, that shows a branded page to visitors while logged-in users continue working. If you go this route, check that it returns a 503 status code and that you can easily switch it off. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> covers choosing plugins carefully, and keeping regular backups is essential before any major work. See our guide to a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a>.</p>
+
+<h2>Shopify and password protection</h2>
+<p>Shopify does not offer a maintenance mode in quite the same way. The nearest equivalent is the online store password page, which restricts access to the storefront and shows a customisable message to visitors. It is often used before launch, but it can also be used to pause a store temporarily.</p>
+<p>Shopify's platform is hosted and maintained by Shopify, so you do not need maintenance mode for platform updates. For changes you control, such as a redesign, the usual approach is to work on an unpublished theme, preview it thoroughly and publish it when ready. This avoids taking the store offline at all. Our guide to <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explains how to work with theme copies safely.</p>
+<p>If you do enable password protection on a live store, think carefully about the timing and how it may affect customers, open orders and any advertising campaigns that link to the store.</p>
+
+<h2>Reducing the need for downtime</h2>
+<p>The best maintenance window is a short one. A few practices help keep downtime to a minimum:</p>
+<ul>
+<li><strong>Test on staging first.</strong> Make and check changes on a copy of the site before applying them to the live version.</li>
+<li><strong>Take a backup.</strong> Always have a recent, restorable backup before significant work.</li>
+<li><strong>Choose quieter times.</strong> Your analytics can show when visitor numbers are typically lower, which may be a better time for planned work.</li>
+<li><strong>Prepare a checklist.</strong> Write down what will be done and how you will check it, so the work moves quickly.</li>
+<li><strong>Plan a rollback.</strong> Know how you will restore the previous version if something goes wrong.</li>
+</ul>
+<p>If you are moving hosts, our guide to <a href="/blog/change-website-hosting-without-downtime/">changing website hosting without downtime</a> covers approaches that can avoid a maintenance window altogether.</p>
+
+<h2>After maintenance: checks to make</h2>
+<p>When the work is done, switch maintenance mode off and check the site from a visitor's point of view, ideally in a private browser window where you are not logged in.</p>
+<ul>
+<li>Confirm the homepage and key pages load correctly.</li>
+<li>Test contact forms, search and, for shops, the cart and checkout.</li>
+<li>Check the site on a phone as well as a desktop.</li>
+<li>Make sure any caching has been cleared so visitors are not shown the old maintenance page.</li>
+<li>Look in Google Search Console over the following days for any unexpected crawl errors.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Will a maintenance page hurt my SEO?</h3>
+<p>A short maintenance period that returns a 503 status code is generally treated as temporary by search engines. Problems are more likely if the page returns a normal 200 status, redirects all pages elsewhere or stays in place for a long time.</p>
+<h3>How do I fix a WordPress site stuck in maintenance mode?</h3>
+<p>This usually happens when an update is interrupted and a temporary maintenance file is left in the site's root folder. Removing that file, or asking your host or developer to, typically brings the site back. Check afterwards that all updates completed properly.</p>
+<h3>Does Shopify have a maintenance mode?</h3>
+<p>Not exactly. Shopify offers a password page that restricts access to the storefront and can be customised with a message. For redesigns, working on an unpublished theme and publishing when ready usually avoids taking the store offline.</p>
+<h3>What should a maintenance page say?</h3>
+<p>Keep it simple: explain that the site is temporarily unavailable, give an idea of when it will return, provide a way to get in touch and include your branding so visitors know they are in the right place.</p>
+<h3>Is a maintenance page the same as a coming soon page?</h3>
+<p>They are similar but serve different purposes. A coming soon page is used before a site launches, while a maintenance page temporarily replaces an existing site during work. Both should be clear, branded and set up with appropriate technical settings.</p>
+
+<h2>Getting help with planned website work</h2>
+<p>Careful planning can keep maintenance windows short and protect both visitors and search visibility. If you are planning updates, a migration or a redesign and want to keep disruption to a minimum, Prism Works Studio can help. Explore our <a href="/services/website-ecommerce-development/">website and ecommerce development services</a> or <a href="/contact/">get in touch</a>.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Maintenance%20Mode%20Pages%3A%20How%20to%20Take%20a%20Website%20Offline%20Without%20Harm'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Maintenance%20Mode%20Pages%3A%20How%20to%20Take%20a%20Website%20Offline%20Without%20Harm'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
