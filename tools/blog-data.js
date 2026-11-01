@@ -39838,4 +39838,566 @@ module.exports = [
 <p>Many analytics setups can record site search terms. Once enabled, review them regularly for patterns and gaps.</p>
 `,
   },
+  {
+    slug: 'shopify-sales-channels-overview',
+    seoTitle: 'Shopify Sales Channels: A Plain Guide for Store Owners',
+    title: 'Shopify Sales Channels: How to Sell in More Places From One Store',
+    description: 'A practical guide to Shopify sales channels: what they are, how they share products and stock, and how to decide which channels are worth adding to your store.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-collections-structure/', '/blog/ecommerce-site-search/', '/services/website-ecommerce-development/'],
+    body: `
+<p>When most people think about a Shopify store, they picture the website itself. In practice, Shopify is built to let you sell in more than one place. Your online store is one sales channel, and you can add others such as a physical point of sale, social platforms, marketplaces and custom storefronts. Each one draws on the same product catalogue, stock levels and order system.</p>
+<p>That flexibility is useful, but it can also create confusion. Store owners sometimes add channels without a plan, then find products showing in places they did not expect, or stock running out because it was sold somewhere they were not watching. This guide explains what sales channels are, how they work together and how to decide which ones are worth your time.</p>
+
+<h2>What is a Shopify sales channel?</h2>
+<p>A sales channel is a place where customers can discover and buy your products, connected back to your Shopify admin. The online store is the default channel for most merchants. Other channels can include in-person selling through Shopify's own point of sale, selling through social media shops, listing on supported marketplaces, and headless or custom storefronts that use Shopify behind the scenes.</p>
+<p>The key idea is that the channel is the shop window, while Shopify remains the stockroom and till. You manage products, prices, inventory and orders in one place, and each channel displays and sells what you choose to make available to it.</p>
+
+<h2>How channels share products, stock and orders</h2>
+<p>When you add a channel, you decide which products are published to it. A product can be available on the online store but not on a social shop, or the other way round. This is controlled from the product page in the admin, where you can see and adjust the channels and markets a product is available in.</p>
+<p>Stock is shared. If you hold a set quantity of an item at a location, a sale on any channel reduces that quantity. This is a major advantage over running separate systems, because you are far less likely to sell something you no longer have. It also means that a sudden burst of sales on one channel affects availability everywhere else.</p>
+<p>Orders from every channel arrive in the same orders list, usually tagged or labelled with the channel they came from. That makes fulfilment simpler, because your team works from one queue rather than checking several dashboards.</p>
+
+<h2>The online store channel</h2>
+<p>For most businesses, the online store remains the centre of everything. It is the channel you fully control: the design, the content, the navigation and the checkout experience. Other channels often send people back to it, or rely on the same product information you have written for it.</p>
+<p>That is why the quality of your core store matters so much before you expand. Clear product titles, good photography, accurate descriptions and sensible organisation help everywhere. If you have not yet reviewed how your catalogue is grouped, our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> is a good place to start.</p>
+
+<h2>Point of sale for in-person selling</h2>
+<p>If you sell at a shop counter, market stall, pop-up or event, Shopify's point of sale channel lets you take payments in person while keeping stock and customer records in the same system. Products sold in person are deducted from the relevant location, and customer details can be linked to their online purchase history where they agree to it.</p>
+<p>For businesses with both a physical and online presence, this joined-up view is often the biggest benefit. You can see which products sell where, offer services such as local pickup, and avoid the manual reconciling that comes from running two separate tills.</p>
+
+<h2>Social and marketplace channels</h2>
+<p>Shopify supports connections to a range of social platforms and marketplaces. These let customers browse or buy products without first visiting your website. The exact set of supported channels, and what each one can do, changes over time, so it is worth checking the channel options inside your own admin rather than relying on older articles.</p>
+<p>These channels can extend your reach, but each comes with its own rules. Platforms often have their own product policies, category requirements and image standards. Some require approval before you can sell. Some handle checkout on the platform itself, while others send the customer back to your store. Read the requirements carefully, and consider whether any terms affect returns, payments or customer data. If you are unsure about legal or tax implications of selling through a new platform, take professional advice.</p>
+
+<h2>Custom and headless storefronts</h2>
+<p>Larger or more complex businesses sometimes build a custom front end while using Shopify for products, checkout and orders. This is often called headless commerce. In that setup, the custom storefront is treated as its own channel, and products need to be published to it just like any other.</p>
+<p>Headless builds offer design freedom but add technical complexity and ongoing maintenance. They are usually worth considering only when the standard theme approach genuinely cannot meet your needs.</p>
+
+<h2>How to decide which channels to add</h2>
+<p>It is tempting to switch on every available channel in the hope of extra sales. A more measured approach usually works better. Before adding a channel, ask a few questions:</p>
+<ul>
+<li><strong>Are your customers there?</strong> A channel is only useful if the people who buy from you actually spend time and money on it.</li>
+<li><strong>Can you meet its standards?</strong> Some channels expect specific image formats, product attributes or response times.</li>
+<li><strong>Who will manage it?</strong> Each channel needs someone to check listings, answer questions and deal with problems.</li>
+<li><strong>How will stock be protected?</strong> If inventory is tight, selling in more places increases the chance of overselling or disappointing customers.</li>
+<li><strong>How will you measure it?</strong> Decide in advance how you will judge whether the channel is worth keeping.</li>
+</ul>
+<p>Adding one channel at a time, and giving it a fair period to settle before judging it, makes it much easier to see what is actually working.</p>
+
+<h2>Keeping product data consistent</h2>
+<p>Because channels draw from the same catalogue, weak product data causes problems everywhere at once. Missing variant details, vague titles or inconsistent pricing can lead to rejected listings on some platforms and confused customers on others.</p>
+<p>A few habits help:</p>
+<ul>
+<li>Write product titles that describe the item clearly, without stuffing in keywords.</li>
+<li>Fill in product type, vendor and variant options consistently.</li>
+<li>Keep barcodes and SKUs accurate where you use them.</li>
+<li>Use high quality images with clean backgrounds where channels expect them.</li>
+<li>Review the product availability panel regularly so nothing is published somewhere by accident.</li>
+</ul>
+<p>Good product data also helps customers find things on your own site. If shoppers struggle to locate products, our guide to <a href="/blog/ecommerce-site-search/">ecommerce site search</a> covers ways to improve it.</p>
+
+<h2>Managing availability per channel</h2>
+<p>Not every product needs to be on every channel. You might keep bulky or fragile items off marketplaces, hold back limited stock for your own store, or sell certain bundles only in person. Use the product availability settings to control exactly where each item appears.</p>
+<p>When you launch new products, check the default channel settings so items do not appear somewhere unintended. When you remove a channel, review whether anything relied on it, such as links shared on social media or promotions you ran there.</p>
+
+<h2>Reporting across channels</h2>
+<p>Shopify's analytics can usually break down sales by channel, which helps you compare performance. Remember that channels play different roles. A social channel might introduce people who later buy on your website, so its direct sales figure may understate its contribution. Looking at the whole journey, rather than only last-click sales, gives a fairer picture.</p>
+<p>Keep an eye on returns, customer service contacts and margins per channel too. A channel that brings sales but generates frequent problems may not be as valuable as it first looks.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Publishing the whole catalogue to a new channel without checking whether every product suits it.</li>
+<li>Forgetting that stock is shared, then overselling during a busy period.</li>
+<li>Leaving a channel connected but unmonitored, so customer questions go unanswered.</li>
+<li>Assuming every channel handles returns, shipping and payments in the same way.</li>
+<li>Judging a channel too quickly before it has had time to build visibility.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Setting up a single extra channel is often straightforward. Things become trickier when you combine several channels with multiple locations, markets or currencies, or when product data needs a significant clean-up first. Prism Works Studio helps UK businesses plan and build Shopify stores that are ready to grow across channels. You can read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need the online store channel to use Shopify?</h3>
+<p>Not always. Some businesses sell mainly in person or through other channels. However, for most online sellers the online store is the core channel and the one they control most fully.</p>
+<h3>Does stock update across all channels automatically?</h3>
+<p>Inventory is held centrally in Shopify, so sales on connected channels reduce the shared stock count. It is still sensible to check how each specific channel syncs and how quickly updates appear there.</p>
+<h3>Can I show different products on different channels?</h3>
+<p>Yes. Each product's availability can be set per channel, so you can choose exactly which items appear where.</p>
+<h3>Are there extra costs for selling on other channels?</h3>
+<p>Some channels or platforms may charge their own fees or commissions. Check the current terms for each one before you start selling there.</p>
+<h3>Will orders from all channels appear in one place?</h3>
+<p>Orders from connected channels generally appear in your main Shopify orders list, usually labelled with their source, so you can fulfil them from one queue.</p>
+`,
+  },
+  {
+    slug: 'shopify-search-and-discovery-settings',
+    seoTitle: 'Shopify Search Settings: Synonyms, Filters and Results',
+    title: 'Shopify Search and Discovery: Setting Up Search That Helps Shoppers',
+    description: 'How to improve Shopify\'s built-in search with synonyms, filters, product boosts and better product data, so shoppers find the right items faster on your store.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/ecommerce-site-search/', '/blog/shopify-collections-structure/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Shoppers who use a store's search bar usually know roughly what they want. If the results are irrelevant or empty, they are likely to give up. Shopify includes built-in search and filtering, and Shopify's own Search and Discovery app adds controls for synonyms, filters, product boosts and recommendations. Used well, these tools make it much easier for customers to find the right product.</p>
+<p>This guide explains how Shopify search works, how to configure the main settings, and how to use your product data and search reports to keep improving results. It focuses on Shopify's own tools rather than third-party options.</p>
+
+<h2>How Shopify's built-in search works</h2>
+<p>When a shopper types into your store's search box, Shopify looks for matches across product information such as titles, product types, vendors, tags, variant details and descriptions. Depending on your theme, it may also return pages, blog posts and collections. Many themes include predictive search, which shows suggestions as the shopper types.</p>
+<p>Because search draws on your product data, the single biggest factor in result quality is usually how clearly and consistently your products are described. Search settings can refine results, but they cannot fix missing or vague information.</p>
+
+<h2>Start with your product data</h2>
+<p>Before changing any settings, review how products are described:</p>
+<ul>
+<li><strong>Titles.</strong> Use plain, descriptive names that include what the item is. A title such as a brand-led nickname alone gives search little to work with.</li>
+<li><strong>Product type and vendor.</strong> Fill these in consistently across the catalogue.</li>
+<li><strong>Tags.</strong> Use tags to capture attributes and terms shoppers might search for, but keep them organised rather than adding endless variations.</li>
+<li><strong>Variant options.</strong> Name options such as size, colour and material clearly and consistently.</li>
+<li><strong>Descriptions.</strong> Write natural descriptions that mention materials, uses and key features.</li>
+</ul>
+<p>Clear catalogue organisation helps browsing as well as searching. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> covers that side.</p>
+
+<h2>Using synonyms</h2>
+<p>Customers do not always use the same words you do. Someone might search for trainers while your products are labelled sneakers, or search for a sofa when you sell couches. Synonym groups tell Shopify search to treat related terms as equivalent, so a search for one word also returns products containing another.</p>
+<p>Good synonym groups come from real evidence:</p>
+<ul>
+<li>Search terms in your reports that return few or no results.</li>
+<li>Questions customers ask by email or chat.</li>
+<li>Regional differences, such as British and American spellings or names.</li>
+<li>Trade terms versus everyday language.</li>
+</ul>
+<p>Keep groups tight. Linking words that are only loosely related can make results less relevant. A search for boots should not necessarily return every type of shoe.</p>
+
+<h2>Setting up filters</h2>
+<p>Filters let shoppers narrow search results and collection pages by attributes such as availability, price, product type, vendor, variant options, tags and metafields. In Shopify's Search and Discovery app, you choose which filters appear and in what order, and your theme displays them.</p>
+<p>Some practical tips:</p>
+<ul>
+<li>Offer filters that match how customers make decisions, such as size, colour or material.</li>
+<li>Avoid too many filters. A long list can overwhelm rather than help.</li>
+<li>Make sure the underlying data is complete. A colour filter is only useful if every product has its colour recorded consistently.</li>
+<li>Use metafields for attributes that do not fit standard fields, such as fabric weight or compatibility.</li>
+<li>Check how filters look and behave on mobile, where space is limited.</li>
+</ul>
+
+<h2>Boosting products</h2>
+<p>Product boosts let you promote particular products higher in search results for specific search terms. This is useful when several products match a query but one is the most relevant, best stocked or most helpful to show first.</p>
+<p>Use boosts sparingly. Pushing products that do not truly match what the shopper asked for can damage trust. Review boosts regularly, especially when stock runs low or ranges change.</p>
+
+<h2>Product recommendations</h2>
+<p>Shopify can show related and complementary products on product pages, depending on your theme. Its Search and Discovery app lets you set complementary products manually, such as suggesting a case alongside a phone accessory, and adjust related products where automatic suggestions are not helpful.</p>
+<p>Thoughtful recommendations help discovery beyond search, guiding customers to items they might not have thought to look for.</p>
+
+<h2>Predictive search and theme settings</h2>
+<p>Predictive search behaviour depends on your theme. Check your theme settings to see whether predictive search is enabled and what types of results it shows, such as products, collections, pages and articles. Test it on desktop and mobile with realistic queries, including misspellings and partial words.</p>
+<p>The design of the search results page matters too. Clear product images, prices and availability, plus visible filters and sorting, help shoppers compare options quickly.</p>
+
+<h2>Handling no-results searches</h2>
+<p>Searches that return nothing are valuable feedback. They might reveal products you do not stock, terms you have not used, or spelling variations. For each common no-results search, decide whether to:</p>
+<ul>
+<li>Add a synonym that maps the term to existing products.</li>
+<li>Update product titles, tags or descriptions to include the term naturally.</li>
+<li>Consider whether there is demand for a product you do not sell yet.</li>
+</ul>
+<p>Also make sure your no-results page is helpful. Suggesting popular collections, offering a way to contact you, and checking spelling all help keep the shopper on the site.</p>
+
+<h2>Using search reports</h2>
+<p>Shopify's analytics can show the terms people search for on your store, along with searches that return no results or lead to few clicks. Reviewing these regularly is one of the most useful habits for improving search. Look for patterns rather than reacting to every single query.</p>
+<p>Combine search data with other evidence, such as product page views and customer questions, to build a fuller picture of what shoppers are looking for. Our broader guide to <a href="/blog/ecommerce-site-search/">ecommerce site search</a> covers general principles that apply on any platform.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Relying on settings while product titles and tags remain vague or inconsistent.</li>
+<li>Adding too many broad synonyms that clutter results.</li>
+<li>Offering filters with incomplete data behind them.</li>
+<li>Forgetting to test search on mobile.</li>
+<li>Setting boosts once and never reviewing them.</li>
+</ul>
+
+<h2>A simple review routine</h2>
+<p>A light, regular routine works well for most stores. Check the search terms report, note any no-results searches, add or adjust synonyms, fix product data where needed, and test a handful of common searches yourself. When you launch new ranges, check that filters and tags cover the new products too.</p>
+
+<h2>Sorting options</h2>
+<p>Alongside filters, sorting lets shoppers reorder results by criteria such as relevance, price or date added. Relevance is usually the right default for search results, because it reflects how closely products match the query. Collection pages may suit a different default, such as featured or best selling, depending on your range. Check what your theme offers and make sure the default sort order on each collection makes sense for shoppers.</p>
+
+<h2>Search across pages and content</h2>
+<p>Search is not only about products. Shoppers may search for delivery information, returns, size guides or care instructions. If your theme includes pages and articles in search results, make sure those pages have clear titles and content so they appear when relevant. A shopper who quickly finds the returns policy through search is less likely to contact support or abandon a purchase.</p>
+<p>Equally, check that pages you would rather not surface, such as old campaign pages or thin placeholder content, are tidied up so they do not clutter results.</p>
+
+<h2>Using metafields to power discovery</h2>
+<p>Metafields let you store extra structured information about products, such as material, fit, compatibility or care details. When this information is held in metafields rather than buried in descriptions, it can be used for filters and displayed consistently across product pages. Planning metafields early makes it much easier to add useful filters later.</p>
+<p>Start with the attributes that genuinely influence buying decisions. Adding dozens of fields that nobody maintains will create gaps and inconsistencies, which undermines the filters built on them.</p>
+
+<h2>Testing search like a shopper</h2>
+<p>Settings and reports are useful, but nothing replaces trying the search yourself. Put together a short list of realistic queries, including:</p>
+<ul>
+<li>Exact product names.</li>
+<li>General category terms, such as a product type.</li>
+<li>Descriptive searches combining attributes, such as a colour and a product type.</li>
+<li>Common misspellings.</li>
+<li>Alternative names customers use.</li>
+</ul>
+<p>Run through them on mobile and desktop and note anything surprising. Ask a colleague or friend unfamiliar with the catalogue to try too, as they will search in ways you might not expect.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK businesses build and improve Shopify stores, including product data clean-ups, filter planning and search configuration using Shopify's own tools. Learn more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> services.</p>
+
+<h2>FAQs</h2>
+<h3>Does Shopify include search by default?</h3>
+<p>Yes. Shopify stores include built-in search, and many themes add predictive search. Shopify's own Search and Discovery app adds further controls such as synonyms, filters and boosts.</p>
+<h3>What are search synonyms in Shopify?</h3>
+<p>Synonyms are groups of words that search treats as equivalent, so a shopper searching for one term also sees products described with another.</p>
+<h3>Why are my filters not showing?</h3>
+<p>Filters depend on both your settings and your theme's support for them. Check that filters are enabled, that your theme supports them, and that products have the relevant data filled in.</p>
+<h3>Can I control which products appear first in search?</h3>
+<p>Product boosts let you promote chosen products for particular search terms. Use them carefully so results stay relevant.</p>
+<h3>How often should I review search settings?</h3>
+<p>A regular review, plus checks whenever you add new ranges, keeps search working well. The right frequency depends on how often your catalogue changes.</p>
+`,
+  },
+  {
+    slug: 'website-about-page-design',
+    seoTitle: 'About Page Design: How to Build Trust With Visitors',
+    title: 'About Page Design: How to Tell Your Story and Build Trust',
+    description: 'How to write and design an about page that builds trust, explains what your business does and who it helps, and guides visitors towards their next step.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-footer-design/', '/blog/website-breadcrumb-navigation/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The about page is one of the pages visitors check when they are deciding whether to trust a business. They want to know who is behind the website, what the business stands for and whether it is the right fit for them. Yet many about pages are either a short paragraph of vague statements or a long history that never gets to the point.</p>
+<p>This guide explains what an about page is for, what to include, how to write it and how to design it so it builds confidence and moves people towards getting in touch or making a purchase.</p>
+
+<h2>What an about page is really for</h2>
+<p>Although the page is about you, it is really written for your visitors. People arrive with questions:</p>
+<ul>
+<li>Who is this business?</li>
+<li>What exactly do they do?</li>
+<li>Do they understand people like me?</li>
+<li>Can I trust them?</li>
+<li>What should I do next?</li>
+</ul>
+<p>A good about page answers those questions clearly. Your story matters, but mainly as evidence that you can help.</p>
+
+<h2>Start with who you help and how</h2>
+<p>Open with a short, clear statement of what the business does and who it serves. Avoid starting with a founding date or a broad mission statement. A visitor should understand within a few seconds whether they are in the right place.</p>
+<p>For example, a short opening that names the type of customer, the problem you solve and the way you work is more useful than a general claim about being passionate or innovative.</p>
+
+<h2>Tell your story with purpose</h2>
+<p>Your background can build trust when it explains why you do what you do and how that benefits customers. Focus on the parts of the story that are relevant: why the business started, what you learned, and how that shapes your approach today.</p>
+<p>Keep it concise. Visitors rarely need every milestone. A few well-chosen details are more memorable than a complete chronology.</p>
+
+<h2>Explain how you work</h2>
+<p>Many visitors want to know what working with you will be like. Describe your approach in practical terms. How do projects or orders start? How do you communicate? What can customers expect at each stage? For a remote business, explain how you work with clients without meeting in person, and what tools or routines keep things organised.</p>
+<p>This kind of detail reduces uncertainty, which is often the biggest barrier to someone getting in touch.</p>
+
+<h2>Show your values through specifics</h2>
+<p>Values such as honesty or quality are easy to claim and hard to prove. Instead of listing them, show them. Describe the decisions you make, the standards you follow and the things you will not do. Specific examples are more convincing than adjectives.</p>
+
+<h2>Use real evidence carefully</h2>
+<p>Trust signals can strengthen an about page, but only if they are genuine. Examples include real customer feedback shared with permission, recognised memberships or accreditations you actually hold, and examples of work you can show. Never invent testimonials, figures or awards. Misleading claims can damage trust badly and may create legal problems, so if in doubt, leave it out or take advice.</p>
+
+<h2>Introduce the team where it helps</h2>
+<p>For many businesses, showing the people behind the brand helps visitors feel more comfortable. Team sections can include roles and a short line about what each person does. Keep it relevant and respectful of people's privacy, and only share what team members are happy to have published.</p>
+<p>Some businesses prefer to present a brand rather than individuals. That is fine too, as long as the page still explains clearly who you are and how you work.</p>
+
+<h2>Write in a clear, human voice</h2>
+<p>The tone of the about page should match the rest of your site, but it is a good place to sound a little more personal. Write as you would speak to a customer. Avoid jargon and buzzwords. Use short paragraphs and plain language so the page is easy to scan.</p>
+<p>Read it aloud before publishing. If a sentence sounds like something any business could say, try to make it more specific to yours.</p>
+
+<h2>Design for scanning</h2>
+<p>Most visitors will skim before they read. Design the page so key points stand out:</p>
+<ul>
+<li>Use clear headings that summarise each section.</li>
+<li>Keep paragraphs short.</li>
+<li>Use images that are genuine and relevant, such as your workspace, products or team, rather than generic stock photography.</li>
+<li>Highlight key points with simple lists where they fit.</li>
+<li>Leave enough space so the page feels calm and readable.</li>
+</ul>
+
+<h2>Make it accessible</h2>
+<p>As with every page, accessibility matters. Use proper heading structure, give images meaningful alternative text, ensure good colour contrast and make sure any video has captions. If you include a team photo grid, make sure names and roles are available as text, not only within images.</p>
+
+<h2>Include a clear next step</h2>
+<p>An about page often reaches visitors at an important moment. They are interested but not yet committed. End the page with a clear next step, such as getting in touch, viewing services or browsing products. Without it, interested visitors may simply leave.</p>
+<p>Make sure the about page is easy to reach too. A link in the main navigation and in the footer helps. Our guide to <a href="/blog/website-footer-design/">website footer design</a> explains how footers support this kind of navigation.</p>
+
+<h2>About pages for online shops</h2>
+<p>For ecommerce businesses, the about page can answer questions that affect buying decisions: where products are made or sourced, how they are chosen, what the brand cares about and how customer service works. Link to practical pages such as delivery and returns information so shoppers can move from reassurance to action.</p>
+
+<h2>Keep it up to date</h2>
+<p>About pages are easy to forget once published. Review yours regularly. Check that team details, services, accreditations and descriptions of how you work are still accurate. Out of date information undermines the trust the page is meant to build.</p>
+
+<h2>Common about page mistakes</h2>
+<ul>
+<li>Focusing entirely on history while never explaining what you do.</li>
+<li>Vague claims that could apply to any business.</li>
+<li>Generic stock images that feel impersonal.</li>
+<li>No call to action at the end.</li>
+<li>Outdated team or service information.</li>
+<li>Unverified or exaggerated claims.</li>
+</ul>
+
+<h2>Where the about page fits in your site</h2>
+<p>The about page works alongside your service pages, product pages and contact page. It should link naturally to them and be easy to reach from them. Clear site structure, including features like <a href="/blog/website-breadcrumb-navigation/">breadcrumb navigation</a> on larger sites, helps visitors move between these pages as they build confidence.</p>
+
+<h2>A simple structure to follow</h2>
+<p>If you are starting from a blank page, a straightforward structure can help you organise your thoughts. It is not a rigid template, but it covers what most visitors want to know:</p>
+<ol>
+<li><strong>A clear opening.</strong> One or two sentences on what you do and who you help.</li>
+<li><strong>Why you exist.</strong> A short explanation of the problem you set out to solve or the gap you noticed.</li>
+<li><strong>How you work.</strong> The practical steps, habits and standards customers can expect.</li>
+<li><strong>Who is involved.</strong> The team or the people behind the brand, where appropriate.</li>
+<li><strong>Proof.</strong> Genuine examples of work, feedback or credentials.</li>
+<li><strong>Next step.</strong> A clear invitation to get in touch, explore services or start shopping.</li>
+</ol>
+<p>You can reorder these sections to suit your business. A product brand might lead with the story behind its products, while a service business might lead with how it works with clients. What matters is that each section earns its place by answering a real question.</p>
+
+<h2>Gathering material for the page</h2>
+<p>Writing an about page can feel awkward, because talking about yourself rarely comes naturally. A useful approach is to gather material before you write. Note down the questions customers ask before they buy, the reasons existing customers chose you, and the things you explain repeatedly in calls or emails. These often reveal what the about page should cover.</p>
+<p>It can also help to ask someone outside the business to read a draft. They will quickly notice where you have used insider language, skipped over something important or made a claim that feels unsupported.</p>
+
+<h2>Supporting search and AI answers</h2>
+<p>An about page is not usually a page that ranks for competitive search terms, but it still plays a role in how search engines and AI tools understand your business. Clear statements about what you do, where you operate and who you serve help them describe you accurately. Consistent business details across your about page, contact page and footer also support that understanding.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, including about pages that explain clearly who you are and why customers can trust you. Learn more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> services.</p>
+
+<h2>FAQs</h2>
+<h3>How long should an about page be?</h3>
+<p>Long enough to answer visitors' key questions, and no longer. Many effective about pages are fairly concise, with clear sections that are easy to scan.</p>
+<h3>Should I include photos of my team?</h3>
+<p>Real photos can help build trust, but only include people who are happy to be shown. A brand-led page can work well too if it still explains clearly who you are.</p>
+<h3>Can I include customer testimonials on my about page?</h3>
+<p>Yes, if they are genuine and you have permission to use them. Never invent or alter testimonials.</p>
+<h3>What should the call to action be?</h3>
+<p>Choose the step that suits most visitors, such as getting in touch, viewing services or browsing products.</p>
+<h3>How often should I update my about page?</h3>
+<p>Review it whenever your services, team or approach changes, and check it periodically even if nothing major has changed.</p>
+`,
+  },
+  {
+    slug: 'website-contact-page-design',
+    seoTitle: 'Contact Page Design: How to Make It Easy to Get in Touch',
+    title: 'Contact Page Design: Making It Easy for Customers to Reach You',
+    description: 'How to design a contact page that helps visitors get in touch, with advice on forms, contact options, expectations, accessibility and handling enquiries.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-footer-design/', '/blog/website-breadcrumb-navigation/', '/services/website-ecommerce-development/'],
+    body: `
+<p>The contact page is where interest turns into conversation. Someone has read enough to want to ask a question, request a quote or get help with an order. If the page is confusing, hard to use or hides the information they need, that moment can be lost.</p>
+<p>Despite its importance, the contact page is often treated as an afterthought, with a generic form and little else. This guide covers how to design a contact page that makes it easy for people to reach you, sets clear expectations and helps your team handle enquiries well.</p>
+
+<h2>What a contact page needs to do</h2>
+<p>A contact page has a few simple jobs:</p>
+<ul>
+<li>Show people how they can reach you.</li>
+<li>Help them choose the right route for their question.</li>
+<li>Make sending a message quick and straightforward.</li>
+<li>Explain what happens next.</li>
+<li>Reassure them that their details are handled responsibly.</li>
+</ul>
+<p>Everything on the page should support those jobs. Extra content that distracts from them usually makes the page worse, not better.</p>
+
+<h2>Offer the right contact options</h2>
+<p>Different people prefer different ways of getting in touch. Some want to fill in a form, some prefer email, and some want to talk to a person. Offer the options your business can genuinely support, and present them clearly.</p>
+<p>Common options include a contact form, an email address, a phone number with opening hours, and a postal or business address where relevant. For a remote business without a public office, it is fine to say so, and to explain how meetings or calls are arranged instead.</p>
+<p>Only list channels you will actually monitor. A phone number that is never answered, or a social account that is rarely checked, is worse than not listing it at all.</p>
+
+<h2>Help people choose the right route</h2>
+<p>If you handle several types of enquiry, such as new business, existing orders and support, help visitors pick the right one. This could be separate sections, a short set of options at the top of the page, or a dropdown in the form that routes messages to the right person.</p>
+<p>For ecommerce sites, link clearly to order tracking, delivery information and returns. Many customer questions can be answered without a message if the right information is easy to find.</p>
+
+<h2>Design forms that are easy to complete</h2>
+<p>A contact form should feel quick. Ask only for information you genuinely need to respond well. Every extra field is another reason for someone to give up.</p>
+<ul>
+<li><strong>Keep fields to a minimum.</strong> Name, email and message are often enough. Add a phone field only if you will use it, and consider making it optional.</li>
+<li><strong>Use clear labels.</strong> Labels should sit outside the field and stay visible, rather than placeholder text that disappears when someone starts typing.</li>
+<li><strong>Explain any required fields.</strong> Mark them clearly and consistently.</li>
+<li><strong>Use helpful error messages.</strong> Say what went wrong and how to fix it, next to the relevant field.</li>
+<li><strong>Use the right input types.</strong> Email and phone fields that bring up suitable mobile keyboards make forms easier on phones.</li>
+<li><strong>Write a clear button.</strong> Something like Send message is clearer than a vague Submit.</li>
+</ul>
+
+<h2>Set expectations about responses</h2>
+<p>One of the most useful things a contact page can do is tell people what happens next. Will they get an automatic confirmation? Who will reply? When can they expect to hear back? Only promise what you can reliably deliver, and describe it honestly.</p>
+<p>After someone submits a form, show a clear confirmation message on screen. If you send an automatic email, make sure it arrives, reads well and confirms the key details of their enquiry.</p>
+
+<h2>Reassure people about their data</h2>
+<p>Visitors are sharing personal details, so explain briefly how you use them and link to your privacy policy. Keep the wording plain. Avoid pre-ticked boxes for marketing, and keep any marketing consent separate from the enquiry itself. Data protection requirements can be detailed, so if you are unsure what applies to your business, take appropriate advice.</p>
+<p>Spam protection is also important, but choose methods that do not make the form difficult for genuine people, particularly those using assistive technology.</p>
+
+<h2>Make the page accessible</h2>
+<p>A contact page must work for everyone, including people who use screen readers, keyboard navigation or magnification. Key points include:</p>
+<ul>
+<li>Every field has a properly associated label.</li>
+<li>The form can be completed and submitted using only a keyboard.</li>
+<li>Focus states are clearly visible.</li>
+<li>Error messages are announced and easy to locate.</li>
+<li>Text and buttons have sufficient colour contrast.</li>
+<li>Phone numbers and email addresses are written as text and can be tapped or clicked.</li>
+</ul>
+
+<h2>Design for mobile first</h2>
+<p>Many people will visit your contact page on a phone, often while doing something else. Make tap targets large enough, keep the form short, and allow phone numbers to be tapped to call. Check that any map or embedded content does not slow the page or push the important information too far down.</p>
+
+<h2>Add helpful context, not clutter</h2>
+<p>A little supporting content can increase confidence. A short introduction explaining who will read the message, a link to frequently asked questions, or a note about the areas or types of client you work with can all help. Keep it brief, and keep the contact options themselves near the top of the page.</p>
+<p>If you include a map, make sure the address is also written as text. Maps alone are not accessible to everyone and do not help people copy the address.</p>
+
+<h2>Make contact details easy to find everywhere</h2>
+<p>The contact page should not be the only place people can find your details. Most visitors look for contact information in the main navigation or the footer. A clear link in the header, and key details in the footer, help people reach you from any page. Our guide to <a href="/blog/website-footer-design/">website footer design</a> covers what to include there.</p>
+<p>On longer or deeper sites, clear navigation aids such as <a href="/blog/website-breadcrumb-navigation/">breadcrumb navigation</a> help visitors move around without getting lost, which makes it easier to reach the contact page when they are ready.</p>
+
+<h2>Keep enquiries organised behind the scenes</h2>
+<p>A good contact page is only half the story. Messages need to reach the right person and be answered. Test the form regularly to make sure submissions arrive. Check spam folders, confirm notification addresses are up to date when staff change, and keep a simple record of enquiries so nothing slips through.</p>
+
+<h2>Common contact page mistakes</h2>
+<ul>
+<li>Long forms that ask for unnecessary information.</li>
+<li>No confirmation after a form is sent.</li>
+<li>Contact details only available through a form.</li>
+<li>Listing channels that nobody checks.</li>
+<li>Forms that break on mobile or with keyboard navigation.</li>
+<li>Notification emails going to an old or unmonitored inbox.</li>
+</ul>
+
+<h2>Writing the page copy</h2>
+<p>The words on a contact page are often an afterthought, but they shape how approachable you seem. A short, friendly introduction that invites questions works better than a cold heading followed by a form. Tell people what kinds of enquiry you welcome, and if there are things you cannot help with, say so politely to save everyone time.</p>
+<p>Keep the tone consistent with the rest of the site. If your brand voice is warm and informal elsewhere, a stiff contact page will feel out of place.</p>
+
+<h2>Contact options on product and service pages</h2>
+<p>Not every enquiry starts on the contact page. Visitors reading about a particular service or product may have a question there and then. A short prompt near the bottom of key pages, linking to the contact page or offering a simple way to ask a question, catches people at the moment they are interested. Where possible, pass along which page they came from so your reply can be more relevant.</p>
+
+<h2>Testing your contact page</h2>
+<p>Before launch, and regularly after it, test the page as a visitor would:</p>
+<ol>
+<li>Complete and send the form on desktop and on a phone.</li>
+<li>Try submitting with missing or incorrect details to check the error messages.</li>
+<li>Navigate the form using only a keyboard.</li>
+<li>Confirm the notification email arrives at the right inbox.</li>
+<li>Check any automatic reply for accuracy and tone.</li>
+<li>Tap the phone number and email links to make sure they work.</li>
+</ol>
+<p>Small problems here, such as a broken notification address, can mean enquiries go unanswered without anyone noticing.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses with clear, accessible contact routes that make it easy for customers to get in touch. Learn more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> services.</p>
+
+<h2>FAQs</h2>
+<h3>Should I use a contact form or just list an email address?</h3>
+<p>Offering both often works well. Forms help structure enquiries, while a visible email address suits people who prefer to write directly.</p>
+<h3>How many fields should a contact form have?</h3>
+<p>As few as you need to respond properly. Name, email and message are enough for many businesses.</p>
+<h3>Do I need to show a physical address?</h3>
+<p>It depends on your business and any legal requirements that apply to you. Remote businesses can explain how they work instead. If you are unsure, take appropriate advice.</p>
+<h3>How can I reduce spam from my contact form?</h3>
+<p>Use spam protection methods that do not create barriers for real visitors, and review them if genuine messages start being blocked.</p>
+<h3>Where should the contact page link appear?</h3>
+<p>A link in the main navigation and in the footer makes it easy to find from anywhere on the site.</p>
+`,
+  },
+  {
+    slug: 'wordpress-trash-and-restoring-content',
+    seoTitle: 'WordPress Trash: How to Restore Deleted Pages and Posts',
+    title: 'WordPress Trash: How to Restore Deleted Pages, Posts and Media',
+    description: 'How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-revisions-and-autosave/', '/blog/wordpress-user-roles/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Sooner or later, someone deletes something on a WordPress site that they did not mean to. It might be a page tidied away during a clean-up, a post removed by a new team member, or a batch of items deleted in bulk by mistake. The good news is that WordPress includes a trash feature designed exactly for this situation.</p>
+<p>This guide explains how the WordPress trash works, how to restore different types of content, what happens to images and other media, and how to put habits in place so that a deletion never turns into a lasting problem.</p>
+
+<h2>How the WordPress trash works</h2>
+<p>When you delete a post or page in the WordPress dashboard, it is not removed straight away. Instead, it is moved to the trash. Think of it like the recycle bin on a computer. The content is hidden from your live site and from the main list of posts or pages, but it still exists in the database and can be brought back.</p>
+<p>By default, WordPress automatically and permanently empties items from the trash after a set number of days. Site developers can change that period, or disable the trash entirely, through configuration settings. If your site behaves differently from what you expect, it is worth checking with whoever built or maintains it.</p>
+
+<h2>What goes to the trash</h2>
+<p>The trash applies to several types of content:</p>
+<ul>
+<li><strong>Posts</strong>, including blog articles and news items.</li>
+<li><strong>Pages</strong>, such as service pages, contact pages and landing pages.</li>
+<li><strong>Comments</strong>, which have their own trash separate from spam.</li>
+<li><strong>Custom content types</strong> added by your theme or site build, which usually follow the same pattern.</li>
+</ul>
+<p>Media works differently, which we cover below. Categories, tags, menus and users are also handled differently, and deleting them is usually immediate rather than going to a trash.</p>
+
+<h2>How to restore a deleted post or page</h2>
+<p>Restoring content is straightforward:</p>
+<ol>
+<li>In the dashboard, go to Posts or Pages, depending on what was deleted.</li>
+<li>At the top of the list, look for the Trash link next to the counts for All, Published and Drafts. It only appears when there is something in the trash.</li>
+<li>Hover over the item you want back and click Restore.</li>
+</ol>
+<p>In recent versions of WordPress, a restored item comes back as a draft rather than going straight back live. This gives you a chance to check it before republishing. Open the item, review the content, and publish it again when you are happy.</p>
+<p>To restore several items at once, tick the boxes next to them in the trash view, choose Restore from the bulk actions menu and apply it.</p>
+
+<h2>Checking the restored content</h2>
+<p>Before you republish, run through a few checks:</p>
+<ul>
+<li><strong>Web address.</strong> Confirm the slug is the same as before, so existing links and search results still work. If WordPress has added a number to the end because a similar slug now exists, fix that first.</li>
+<li><strong>Parent page.</strong> For pages, check the parent setting is still correct so the page sits in the right place in your site structure.</li>
+<li><strong>Featured image and media.</strong> Make sure images still display, especially if anything was removed from the media library.</li>
+<li><strong>Menus.</strong> Deleting a page can remove it from navigation menus. You may need to add it back under Appearance or in the site editor.</li>
+<li><strong>Publish date.</strong> Check whether the original date has been kept, particularly for blog posts where the date is shown.</li>
+</ul>
+
+<h2>Restoring an earlier version instead</h2>
+<p>Sometimes the problem is not that a page was deleted, but that it was edited badly. In that case, the trash will not help. WordPress revisions let you compare and roll back to an earlier saved version of a post or page. Our guide to <a href="/blog/wordpress-revisions-and-autosave/">WordPress revisions and autosave</a> explains how that works.</p>
+
+<h2>What happens to deleted media</h2>
+<p>Images, documents and other files in the media library behave differently. By default, deleting a media item removes it permanently, and WordPress will warn you before it does. There is no trash step unless the site has been configured to use one for media.</p>
+<p>That makes media deletions riskier. If an image used across several pages is removed, every page that relied on it will show a broken image. Before deleting media, check where it is used. When tidying a media library, it is often safer to leave files in place unless you are certain they are no longer needed.</p>
+<p>If media has been deleted permanently, the realistic route back is usually a backup, or re-uploading the original file if you still have it.</p>
+
+<h2>Restoring deleted comments</h2>
+<p>Comments have their own trash. Go to Comments in the dashboard, select the Trash view, and restore any comment that was removed by mistake. Spam is held separately, and comments marked as spam can be moved back if they were genuine.</p>
+
+<h2>Emptying the trash</h2>
+<p>You can empty the trash manually using the Empty Trash button, or delete individual items permanently. Once you do that, the content is gone from the dashboard and can only be recovered from a backup.</p>
+<p>There are good reasons to empty the trash now and then, such as keeping the admin tidy. Just make sure the items are genuinely not needed, and that someone with the right knowledge has checked before you do.</p>
+
+<h2>When content cannot be restored from the trash</h2>
+<p>If something has been permanently deleted, or the trash was emptied automatically, the options are more limited:</p>
+<ul>
+<li><strong>Site backups.</strong> A recent backup is the most reliable way to recover lost content. Restoring a full backup can overwrite newer changes, so it is often better to extract the specific content you need, which may need a developer.</li>
+<li><strong>Hosting snapshots.</strong> Many hosts keep their own backups. Check your hosting control panel or contact their support.</li>
+<li><strong>Cached or archived copies.</strong> Sometimes text can be recovered from cached copies, emails or documents where it was drafted. This is a last resort, but better than starting again.</li>
+</ul>
+
+<h2>Preventing accidental deletions</h2>
+<p>The trash is a safety net, but a few habits reduce the need for it:</p>
+<ul>
+<li><strong>Use appropriate user roles.</strong> Not everyone needs permission to delete published pages. Giving people only the access they need reduces risk. Our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains the options.</li>
+<li><strong>Keep regular, tested backups.</strong> Make sure backups run automatically, are stored away from the site itself, and can actually be restored.</li>
+<li><strong>Agree a clean-up process.</strong> Before removing old content, list what will go, check for links and decide whether anything should redirect elsewhere.</li>
+<li><strong>Draft rather than delete.</strong> If you are unsure about a page, switching it to draft or private hides it without removing it.</li>
+<li><strong>Be careful with bulk actions.</strong> Double check your selection before applying a bulk delete.</li>
+</ul>
+
+<h2>Deleting pages on purpose</h2>
+<p>When you do remove a page deliberately, think about the visitors and search engines that might still be looking for it. If there is a closely related page, a redirect can send people there instead of a dead end. If the content is simply gone, a helpful 404 page keeps visitors on your site. Planning this before deletion avoids broken links and lost traffic.</p>
+
+<h2>Trash in the block editor</h2>
+<p>You can also move content to the trash from inside the editor itself. In the block editor, the option usually sits in the post or page settings panel. This is convenient but easy to click by mistake, particularly when several people edit the same site. If someone reports that a page has vanished, the trash is the first place to check.</p>
+
+<h2>Keeping a record of changes</h2>
+<p>On sites with several editors, it helps to know who deleted what and when. WordPress does not keep a detailed activity history by default, so many teams agree simple rules instead, such as noting major removals in a shared document or only allowing certain roles to delete published content. Whatever approach you choose, the aim is to make deletions deliberate and traceable rather than accidental and mysterious.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and supports WordPress websites for UK businesses, including setting sensible permissions, backups and content workflows so that mistakes are easy to recover from. Find out more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> services.</p>
+
+<h2>FAQs</h2>
+<h3>How long do items stay in the WordPress trash?</h3>
+<p>WordPress removes trashed items automatically after a default period, which developers can change. If you need something back, restore it as soon as you notice it is missing.</p>
+<h3>Why did my restored page come back as a draft?</h3>
+<p>Recent versions of WordPress restore trashed content as a draft so you can review it before it goes live again. Check the content and publish it when ready.</p>
+<h3>Can I recover an image I deleted from the media library?</h3>
+<p>Media deletions are usually permanent by default. The main options are restoring from a backup or re-uploading the original file.</p>
+<h3>Does deleting a page affect my search rankings?</h3>
+<p>It can, if the page received visits from search or links from other sites. Restoring it quickly, or redirecting it to a relevant alternative, helps reduce the impact.</p>
+<h3>Who can delete content in WordPress?</h3>
+<p>It depends on user roles. Administrators and editors can usually delete most content, while authors and contributors have more limited permissions over their own work.</p>
+`,
+  },
 ];

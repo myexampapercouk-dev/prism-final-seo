@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Trash: How to Restore Deleted Pages and Posts</title>
+<meta name="description" content="How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Trash: How to Restore Deleted Pages and Posts">
+<meta property="og:description" content="How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-trash-and-restoring-content.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/#article","headline":"WordPress Trash: How to Restore Deleted Pages, Posts and Media","description":"How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/","url":"https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-trash-and-restoring-content.png","inLanguage":"en-GB","wordCount":1532,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Trash: How to Restore Deleted Pages, Posts and Media","item":"https://prismworksstudio.co.uk/blog/wordpress-trash-and-restoring-content/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How long do items stay in the WordPress trash?","acceptedAnswer":{"@type":"Answer","text":"WordPress removes trashed items automatically after a default period, which developers can change. If you need something back, restore it as soon as you notice it is missing."}},{"@type":"Question","name":"Why did my restored page come back as a draft?","acceptedAnswer":{"@type":"Answer","text":"Recent versions of WordPress restore trashed content as a draft so you can review it before it goes live again. Check the content and publish it when ready."}},{"@type":"Question","name":"Can I recover an image I deleted from the media library?","acceptedAnswer":{"@type":"Answer","text":"Media deletions are usually permanent by default. The main options are restoring from a backup or re-uploading the original file."}},{"@type":"Question","name":"Does deleting a page affect my search rankings?","acceptedAnswer":{"@type":"Answer","text":"It can, if the page received visits from search or links from other sites. Restoring it quickly, or redirecting it to a relevant alternative, helps reduce the impact."}},{"@type":"Question","name":"Who can delete content in WordPress?","acceptedAnswer":{"@type":"Answer","text":"It depends on user roles. Administrators and editors can usually delete most content, while authors and contributors have more limited permissions over their own work."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Trash: How to Restore Deleted Pages, Posts and Media</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Trash: How to Restore Deleted Pages, Posts and Media</h1><p class="pws-lead">How the WordPress trash works, how to restore deleted pages, posts and comments, what happens to media, and habits that stop content disappearing for good.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Deleted posts and pages go to the trash first, where they can usually be restored with one click.</li><li>Items in the trash are removed permanently after a set period, so restore anything important promptly.</li><li>Regular backups and sensible user permissions are the real safety net for lost content.</li></ul></div>
+<p>Sooner or later, someone deletes something on a WordPress site that they did not mean to. It might be a page tidied away during a clean-up, a post removed by a new team member, or a batch of items deleted in bulk by mistake. The good news is that WordPress includes a trash feature designed exactly for this situation.</p>
+<p>This guide explains how the WordPress trash works, how to restore different types of content, what happens to images and other media, and how to put habits in place so that a deletion never turns into a lasting problem.</p>
+
+<h2>How the WordPress trash works</h2>
+<p>When you delete a post or page in the WordPress dashboard, it is not removed straight away. Instead, it is moved to the trash. Think of it like the recycle bin on a computer. The content is hidden from your live site and from the main list of posts or pages, but it still exists in the database and can be brought back.</p>
+<p>By default, WordPress automatically and permanently empties items from the trash after a set number of days. Site developers can change that period, or disable the trash entirely, through configuration settings. If your site behaves differently from what you expect, it is worth checking with whoever built or maintains it.</p>
+
+<h2>What goes to the trash</h2>
+<p>The trash applies to several types of content:</p>
+<ul>
+<li><strong>Posts</strong>, including blog articles and news items.</li>
+<li><strong>Pages</strong>, such as service pages, contact pages and landing pages.</li>
+<li><strong>Comments</strong>, which have their own trash separate from spam.</li>
+<li><strong>Custom content types</strong> added by your theme or site build, which usually follow the same pattern.</li>
+</ul>
+<p>Media works differently, which we cover below. Categories, tags, menus and users are also handled differently, and deleting them is usually immediate rather than going to a trash.</p>
+
+<h2>How to restore a deleted post or page</h2>
+<p>Restoring content is straightforward:</p>
+<ol>
+<li>In the dashboard, go to Posts or Pages, depending on what was deleted.</li>
+<li>At the top of the list, look for the Trash link next to the counts for All, Published and Drafts. It only appears when there is something in the trash.</li>
+<li>Hover over the item you want back and click Restore.</li>
+</ol>
+<p>In recent versions of WordPress, a restored item comes back as a draft rather than going straight back live. This gives you a chance to check it before republishing. Open the item, review the content, and publish it again when you are happy.</p>
+<p>To restore several items at once, tick the boxes next to them in the trash view, choose Restore from the bulk actions menu and apply it.</p>
+
+<h2>Checking the restored content</h2>
+<p>Before you republish, run through a few checks:</p>
+<ul>
+<li><strong>Web address.</strong> Confirm the slug is the same as before, so existing links and search results still work. If WordPress has added a number to the end because a similar slug now exists, fix that first.</li>
+<li><strong>Parent page.</strong> For pages, check the parent setting is still correct so the page sits in the right place in your site structure.</li>
+<li><strong>Featured image and media.</strong> Make sure images still display, especially if anything was removed from the media library.</li>
+<li><strong>Menus.</strong> Deleting a page can remove it from navigation menus. You may need to add it back under Appearance or in the site editor.</li>
+<li><strong>Publish date.</strong> Check whether the original date has been kept, particularly for blog posts where the date is shown.</li>
+</ul>
+
+<h2>Restoring an earlier version instead</h2>
+<p>Sometimes the problem is not that a page was deleted, but that it was edited badly. In that case, the trash will not help. WordPress revisions let you compare and roll back to an earlier saved version of a post or page. Our guide to <a href="/blog/wordpress-revisions-and-autosave/">WordPress revisions and autosave</a> explains how that works.</p>
+
+<h2>What happens to deleted media</h2>
+<p>Images, documents and other files in the media library behave differently. By default, deleting a media item removes it permanently, and WordPress will warn you before it does. There is no trash step unless the site has been configured to use one for media.</p>
+<p>That makes media deletions riskier. If an image used across several pages is removed, every page that relied on it will show a broken image. Before deleting media, check where it is used. When tidying a media library, it is often safer to leave files in place unless you are certain they are no longer needed.</p>
+<p>If media has been deleted permanently, the realistic route back is usually a backup, or re-uploading the original file if you still have it.</p>
+
+<h2>Restoring deleted comments</h2>
+<p>Comments have their own trash. Go to Comments in the dashboard, select the Trash view, and restore any comment that was removed by mistake. Spam is held separately, and comments marked as spam can be moved back if they were genuine.</p>
+
+<h2>Emptying the trash</h2>
+<p>You can empty the trash manually using the Empty Trash button, or delete individual items permanently. Once you do that, the content is gone from the dashboard and can only be recovered from a backup.</p>
+<p>There are good reasons to empty the trash now and then, such as keeping the admin tidy. Just make sure the items are genuinely not needed, and that someone with the right knowledge has checked before you do.</p>
+
+<h2>When content cannot be restored from the trash</h2>
+<p>If something has been permanently deleted, or the trash was emptied automatically, the options are more limited:</p>
+<ul>
+<li><strong>Site backups.</strong> A recent backup is the most reliable way to recover lost content. Restoring a full backup can overwrite newer changes, so it is often better to extract the specific content you need, which may need a developer.</li>
+<li><strong>Hosting snapshots.</strong> Many hosts keep their own backups. Check your hosting control panel or contact their support.</li>
+<li><strong>Cached or archived copies.</strong> Sometimes text can be recovered from cached copies, emails or documents where it was drafted. This is a last resort, but better than starting again.</li>
+</ul>
+
+<h2>Preventing accidental deletions</h2>
+<p>The trash is a safety net, but a few habits reduce the need for it:</p>
+<ul>
+<li><strong>Use appropriate user roles.</strong> Not everyone needs permission to delete published pages. Giving people only the access they need reduces risk. Our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains the options.</li>
+<li><strong>Keep regular, tested backups.</strong> Make sure backups run automatically, are stored away from the site itself, and can actually be restored.</li>
+<li><strong>Agree a clean-up process.</strong> Before removing old content, list what will go, check for links and decide whether anything should redirect elsewhere.</li>
+<li><strong>Draft rather than delete.</strong> If you are unsure about a page, switching it to draft or private hides it without removing it.</li>
+<li><strong>Be careful with bulk actions.</strong> Double check your selection before applying a bulk delete.</li>
+</ul>
+
+<h2>Deleting pages on purpose</h2>
+<p>When you do remove a page deliberately, think about the visitors and search engines that might still be looking for it. If there is a closely related page, a redirect can send people there instead of a dead end. If the content is simply gone, a helpful 404 page keeps visitors on your site. Planning this before deletion avoids broken links and lost traffic.</p>
+
+<h2>Trash in the block editor</h2>
+<p>You can also move content to the trash from inside the editor itself. In the block editor, the option usually sits in the post or page settings panel. This is convenient but easy to click by mistake, particularly when several people edit the same site. If someone reports that a page has vanished, the trash is the first place to check.</p>
+
+<h2>Keeping a record of changes</h2>
+<p>On sites with several editors, it helps to know who deleted what and when. WordPress does not keep a detailed activity history by default, so many teams agree simple rules instead, such as noting major removals in a shared document or only allowing certain roles to delete published content. Whatever approach you choose, the aim is to make deletions deliberate and traceable rather than accidental and mysterious.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and supports WordPress websites for UK businesses, including setting sensible permissions, backups and content workflows so that mistakes are easy to recover from. Find out more about our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> services.</p>
+
+<h2>FAQs</h2>
+<h3>How long do items stay in the WordPress trash?</h3>
+<p>WordPress removes trashed items automatically after a default period, which developers can change. If you need something back, restore it as soon as you notice it is missing.</p>
+<h3>Why did my restored page come back as a draft?</h3>
+<p>Recent versions of WordPress restore trashed content as a draft so you can review it before it goes live again. Check the content and publish it when ready.</p>
+<h3>Can I recover an image I deleted from the media library?</h3>
+<p>Media deletions are usually permanent by default. The main options are restoring from a backup or re-uploading the original file.</p>
+<h3>Does deleting a page affect my search rankings?</h3>
+<p>It can, if the page received visits from search or links from other sites. Restoring it quickly, or redirecting it to a relevant alternative, helps reduce the impact.</p>
+<h3>Who can delete content in WordPress?</h3>
+<p>It depends on user roles. Administrators and editors can usually delete most content, while authors and contributors have more limited permissions over their own work.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Trash%3A%20How%20to%20Restore%20Deleted%20Pages%2C%20Posts%20and%20Media'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Trash%3A%20How%20to%20Restore%20Deleted%20Pages%2C%20Posts%20and%20Media'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
