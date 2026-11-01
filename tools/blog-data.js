@@ -30140,4 +30140,509 @@ module.exports = [
 <p>It depends on the number of pages, content needs and any ecommerce or integrations. See our pricing page for how projects are scoped, or book a discovery call for a written quote.</p>
 `,
   },
+  {
+    slug: 'web-design-belfast',
+    seoTitle: 'Web Design Belfast: Tech Startup and NI Trading Websites',
+    title: 'Web Design in Belfast: Websites for Tech Startups and Northern Ireland Businesses',
+    description: 'Web design for Belfast tech startups and NI businesses: product messaging, investor-ready sites, and ecommerce that handles GB, NI and EU customers clearly.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Belfast for a tech startup or a growing Northern Ireland business brings a mix of familiar and distinctive challenges. Startups need to explain a technical product in plain language, look credible to customers and investors and support hiring. Businesses that sell online may need to handle customers in Great Britain, Northern Ireland, the Republic of Ireland and the wider EU, where delivery, pricing and tax arrangements can differ. Prism Works Studio works with Belfast businesses remotely, so planning and reviews take place over video calls and shared drafts.</p>
+<p>Belfast has a lively tech and software community, with activity around areas such as the Cathedral Quarter, the Titanic Quarter, the city centre and near Queen's University, alongside established firms in professional services, manufacturing and food and drink across Northern Ireland. This guide looks first at tech startups, then at practical considerations for NI businesses trading online.</p>
+
+<h2>Explaining a technical product simply</h2>
+<p>Many Belfast startups build software, cyber security, fintech or data products. Founders understand them deeply, which can make it hard to explain them simply. Visitors, including buyers, investors and potential hires, usually decide within moments whether a site is relevant to them.</p>
+<p>A useful test for a startup homepage is whether a non-specialist could answer these questions after a quick look:</p>
+<ul>
+<li>What problem does this solve?</li>
+<li>Who is it for?</li>
+<li>What makes it different from the obvious alternative?</li>
+<li>What should I do next?</li>
+</ul>
+<p>Technical depth belongs further into the site: product pages, documentation, security information and integration details. The homepage should earn the right to show that depth. Our guide to <a href="/blog/saas-website-design-uk/">SaaS website design</a> covers product page structure in more detail.</p>
+
+<h2>Pages a Belfast tech startup typically needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Homepage</td><td>A clear statement of the problem, the product and the audience</td></tr>
+<tr><td>Product or platform</td><td>How it works, key features framed as outcomes, and screenshots</td></tr>
+<tr><td>Use cases or industries</td><td>Shows buyers in different sectors how the product applies to them</td></tr>
+<tr><td>Security and trust</td><td>Data handling, hosting location and any certifications you genuinely hold</td></tr>
+<tr><td>Pricing or contact sales</td><td>Shows how people buy, or sets expectations for a sales conversation</td></tr>
+<tr><td>Careers</td><td>Supports hiring in a competitive market for technical staff</td></tr>
+<tr><td>About</td><td>Founders, mission and the story behind the company</td></tr>
+</tbody>
+</table>
+<p>Start with what you need now. Use case and industry pages can be added as you learn which markets respond.</p>
+
+<h2>Security and data pages for B2B buyers</h2>
+<p>Business buyers, particularly larger ones, often want to understand how a product handles data before they take a call. A clear security page answers common questions: where data is stored, how it is protected, who can access it and what certifications or frameworks you follow. Only list certifications you have actually achieved, and keep dates current.</p>
+<p>Your privacy notice should reflect how your website and product handle personal data under UK GDPR. If you serve customers in the EU, the EU GDPR may also apply. Take advice on which rules apply to your situation, and see the Information Commissioner's Office for UK guidance.</p>
+
+<h2>Careers pages that help you hire</h2>
+<p>Hiring is often as pressing as selling for a growing tech company. A careers page that explains the work, the tech stack in general terms, how the team works, benefits and the hiring process helps candidates decide to apply. Keep role listings current and remove filled roles. If you offer remote or hybrid work across the UK and Ireland, say so clearly.</p>
+
+<h2>Investor-ready without the hype</h2>
+<p>Investors will look at your website. They are not looking for bold claims; they want clarity on the problem, the product and the team. Avoid inflated user numbers, unverifiable logos or vague claims about AI or disruption. If you have customers who have agreed to be named, featuring them can help. If not, a clear product demonstration and honest founder story are stronger than invented social proof. Our guide to <a href="/blog/marketing-agency-for-startups-uk/">marketing for startups</a> covers how the website fits into early growth.</p>
+
+<h2>Selling online from Northern Ireland</h2>
+<p>For Northern Ireland businesses selling physical goods online, there are practical issues that do not affect sellers in Great Britain in the same way. Arrangements under the Windsor Framework mean that goods movements between Great Britain, Northern Ireland and the EU can involve different processes, and VAT and customs treatment can depend on where goods start and finish their journey.</p>
+<p>These rules are detailed and change over time, so the specifics should come from GOV.UK guidance, HMRC and your accountant or customs adviser, not from a web designer. What a website can do is present whatever applies clearly:</p>
+<ul>
+<li><strong>Delivery pages</strong> that set out where you ship, how long it takes and any extra charges, separated by destination where they differ.</li>
+<li><strong>Checkout messaging</strong> that tells customers about any duties or fees that might apply before they pay, rather than after.</li>
+<li><strong>Shipping zones</strong> in Shopify or WooCommerce configured to match your actual delivery options for GB, NI, the Republic of Ireland and further afield.</li>
+<li><strong>Returns information</strong> that reflects consumer rights for the customers you sell to.</li>
+</ul>
+
+<h2>Pricing in pounds and euros</h2>
+<p>Some NI businesses sell to customers in the Republic of Ireland as well as the UK. Showing prices in euros as well as pounds can make that easier. Shopify, for example, supports selling in multiple currencies. Think about whether prices should be converted automatically or set manually, how rounding works and how VAT is shown, and confirm the tax treatment with your accountant.</p>
+<p>Spelling, terminology and contact details matter too. Show phone numbers in a format that works from both sides of the border, and consider whether your delivery promises differ for each market. Our guide to <a href="/blog/ecommerce-website-design-uk/">ecommerce website design</a> covers store structure more broadly.</p>
+
+<h2>SEO for Belfast and Northern Ireland businesses</h2>
+<p>Search considerations depend on who you sell to:</p>
+<ul>
+<li><strong>Tech startups</strong> selling to businesses across the UK, Ireland or further afield often benefit more from topic-led content and product pages than from local search terms.</li>
+<li><strong>Local service businesses</strong> should keep a consistent Google Business Profile and make sure their address and service area are clear. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the basics.</li>
+<li><strong>Cross-border sellers</strong> should consider how pages are targeted at UK and Irish audiences, especially if prices or delivery terms differ.</li>
+</ul>
+<p>If you are moving from an older site, our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers redirects and launch checks.</p>
+
+<h2>Platforms for growing businesses</h2>
+<p>Tech startups often keep the marketing site separate from the product, using WordPress or another content platform so marketing pages can change without touching the app. Product businesses usually choose Shopify or WooCommerce. Whatever you choose, make sure the business owns the domain, hosting and admin accounts.</p>
+
+<h2>Working with Prism Works Studio from Belfast</h2>
+<p>Prism Works Studio does not have an office in Belfast or anywhere in Northern Ireland. We work with businesses there remotely, using video calls, shared documents and screen sharing. Remote working suits tech teams that already collaborate this way, and it works equally well for product businesses that can share photos and product information digitally.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. See how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a tech startup homepage explain?</h3>
+<p>The problem you solve, who it is for, what makes you different and the next step a visitor should take. Technical detail can sit on deeper product pages.</p>
+<h3>Do Northern Ireland online shops have different shipping rules?</h3>
+<p>Goods moving between Great Britain, Northern Ireland and the EU can involve different processes and tax treatment. Check current GOV.UK and HMRC guidance and take advice, then set out the result clearly on delivery pages and at checkout.</p>
+<h3>Can my online store show prices in euros?</h3>
+<p>Yes. Shopify and some WooCommerce set-ups support multiple currencies. Decide whether to convert automatically or set prices manually, and confirm how VAT should be shown with your accountant.</p>
+<h3>Should a startup include a security page?</h3>
+<p>If you sell to businesses, usually yes. Explain how data is stored and protected and list only certifications you genuinely hold.</p>
+<h3>Does a careers page really help hiring?</h3>
+<p>It can. Candidates often check a company website before applying, and a clear page about the work, team and process helps them decide.</p>
+<h3>Do you have an office in Belfast?</h3>
+<p>No. Prism Works Studio works with Belfast and Northern Ireland businesses remotely, and the whole project runs over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-leeds',
+    seoTitle: 'Web Design Leeds: Sites for Law, Finance and Advisers',
+    title: 'Web Design in Leeds: Websites for Professional Services, Legal and Financial Firms',
+    description: 'Web design for Leeds law firms, accountants and financial advisers: clear service pages, regulator details, fee information and enquiry routes that build trust.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Leeds for a law firm, accountancy practice or financial adviser has one central job: make a cautious, often stressed prospective client feel confident enough to get in touch. That depends less on striking visuals and more on clarity. Who are you, what do you specialise in, how are you regulated, roughly what will it cost and what happens after someone fills in the form? Prism Works Studio works with Leeds businesses remotely, so the planning, writing and build happen over video calls and shared documents rather than in a meeting room.</p>
+<p>Leeds has a large professional and financial services community, from firms around Park Square, Wellington Place and the area near the station to practices in suburbs such as Headingley, Roundhay, Horsforth and Wetherby. Those firms range from sole practitioners to multi-office partnerships, but their websites face similar questions. This guide focuses on those questions rather than general web design advice.</p>
+
+<h2>Why trust is the whole brief</h2>
+<p>People rarely browse a solicitor's or adviser's website for fun. They arrive because something has happened: a house move, a divorce, a business sale, a tax letter, a pension decision. They want reassurance that you handle their kind of problem, that you are properly regulated and that contacting you will not commit them to anything.</p>
+<p>A trust-first website usually gets these things right:</p>
+<ul>
+<li><strong>Specific practice areas</strong>, each with its own page, rather than one long list of everything the firm does.</li>
+<li><strong>Real people</strong>, with profiles that explain experience in plain English and photos that look like the person a client will meet.</li>
+<li><strong>Regulatory information</strong> that is easy to find, not hidden in tiny footer text.</li>
+<li><strong>Fee transparency</strong> where you can offer it, and an honest explanation of what affects cost where you cannot.</li>
+<li><strong>A low-pressure first step</strong>, such as a short enquiry form or call-back request with a clear note about what happens next.</li>
+</ul>
+
+<h2>Practice area pages that answer real questions</h2>
+<p>The page a prospective client lands on matters more than the homepage. Someone searching for help with a commercial lease or an inheritance tax question should reach a page that speaks directly to that issue. A useful structure for each practice area page is:</p>
+<ol>
+<li>A plain summary of who the service is for and the problems it solves.</li>
+<li>The main stages of the matter, explained without jargon.</li>
+<li>What affects cost and timescale, with a link to fee information where relevant.</li>
+<li>Who in the firm handles this work.</li>
+<li>Short, accurate answers to the questions clients tend to ask.</li>
+<li>A clear call to action.</li>
+</ol>
+<p>Our sector guides go deeper on the detail: see <a href="/blog/solicitor-website-design-uk/">solicitor website design</a>, <a href="/blog/accountant-website-design-uk/">accountant website design</a> and <a href="/blog/financial-adviser-website-design-uk/">financial adviser website design</a>.</p>
+
+<h2>Regulatory details belong in the design</h2>
+<p>Professional firms often treat regulatory text as something to add at the end. It is better to plan for it from the start, because it affects page layout, navigation and the content you need to gather.</p>
+<table>
+<thead><tr><th>Type of firm</th><th>Points to check with your regulator or compliance adviser</th></tr></thead>
+<tbody>
+<tr><td>Solicitors</td><td>The Solicitors Regulation Authority's transparency rules, which cover publishing price and service information for certain types of work, complaints procedures and display of regulatory status</td></tr>
+<tr><td>Financial advisers and mortgage brokers</td><td>Financial Conduct Authority rules on financial promotions and status disclosures, plus how risk warnings appear on pages and forms</td></tr>
+<tr><td>Accountants</td><td>Requirements from your professional body on describing membership and regulated services, and any anti-money laundering information you choose to explain</td></tr>
+<tr><td>All firms</td><td>Company details, privacy notice, cookie consent and accessible complaint information</td></tr>
+</tbody>
+</table>
+<p>This is a starting checklist, not legal advice. Rules change and apply differently depending on the services you offer, so confirm the specifics with your regulator's guidance or your compliance lead before launch. A designer's job is to make the required information clear and easy to find, not to decide what it should say.</p>
+
+<h2>Fee pages without fear</h2>
+<p>Many professional firms are reluctant to publish prices because every matter is different. Yet prospective clients often look for cost information early, and a page that explains how pricing works can filter out poor-fit enquiries and reassure good ones.</p>
+<p>Options that tend to work, depending on your services and any regulatory requirements, include:</p>
+<ul>
+<li>Fixed fees for well-defined services, with what is and is not included.</li>
+<li>Price ranges with the factors that move a matter up or down the range.</li>
+<li>Hourly rates by role, alongside an explanation of how time estimates are given.</li>
+<li>A clear note on disbursements, VAT and third-party costs.</li>
+</ul>
+<p>Whatever you publish, keep it current. Out-of-date prices create awkward conversations and can raise compliance questions.</p>
+
+<h2>Profiles that sound like people</h2>
+<p>Team pages are often the most visited pages on a professional services site, because clients want to know who they will deal with. Profiles written as a list of qualifications rarely help. A better profile explains the kinds of matters someone handles, the clients they work with and how they like to communicate, followed by qualifications and memberships.</p>
+<p>Use recent, consistent photography and keep profiles up to date when people join, leave or change roles. Only mention accreditations, panel memberships or rankings the firm genuinely holds and is permitted to display.</p>
+
+<h2>SEO for Leeds professional firms</h2>
+<p>Search behaviour for professional services mixes local and topic-led queries. Someone might search for a family solicitor near them, or for an explanation of a specific tax rule and only later look for an adviser. A good site serves both.</p>
+<ul>
+<li><strong>Practice area plus location pages</strong> help with local searches, but only where you genuinely serve that area and have something useful to say.</li>
+<li><strong>Helpful guides</strong> on common client questions can attract people earlier in their research, as long as they are accurate and reviewed by a qualified person.</li>
+<li><strong>Author and reviewer details</strong> on guides support credibility for topics that affect people's money or legal position.</li>
+<li><strong>A consistent Google Business Profile</strong> for each office supports visibility in map results.</li>
+</ul>
+<p>Our <a href="/blog/professional-services-seo-uk/">professional services SEO guide</a> covers this in more detail. If you want to see how web design fits into wider marketing in the city, read our guide to choosing a <a href="/blog/digital-marketing-agency-leeds/">digital marketing agency in Leeds</a>.</p>
+
+<h2>Enquiry forms and confidentiality</h2>
+<p>Prospective clients may share sensitive details in an enquiry form without being asked. Good form design helps manage that. Ask only for what you need to respond, add a short note asking people not to include confidential details at first contact, and explain how quickly someone will reply.</p>
+<p>Think about where submissions go, who can see them and how long they are kept. Your privacy notice should explain this in line with UK GDPR guidance from the Information Commissioner's Office. Our article on <a href="/blog/website-contact-forms/">website contact forms</a> covers layout and wording that can reduce drop-off.</p>
+
+<h2>Multi-office and multi-service firms</h2>
+<p>Firms with offices across West Yorkshire or beyond need a structure that avoids duplicate pages. Rather than copying the same practice area page for every town, consider one strong page per service with office information linked from it, plus individual office pages that carry genuinely local detail such as parking, accessibility and which team members are based there. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains the approach.</p>
+
+<h2>Writing in plain English</h2>
+<p>Legal and financial writing can drift towards formality. A website is not a letter of engagement. Short sentences, everyday words and clear headings help clients understand their options and help search engines understand your pages. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> has practical tips for turning expert knowledge into readable pages.</p>
+
+<h2>Accessibility matters for client care</h2>
+<p>Clients of professional firms include older people, people with disabilities and people reading in a second language. Readable fonts, good colour contrast, descriptive links and forms that work with keyboards and screen readers are part of serving them well. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> explains the basics.</p>
+
+<h2>Working with Prism Works Studio from Leeds</h2>
+<p>Prism Works Studio does not have an office in Leeds. We work with businesses there remotely, using video calls, shared documents and screen sharing for planning and reviews. For a professional services site, the essential inputs are your expertise, your compliance requirements and your feedback on drafts, all of which work well remotely.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. You can see how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a> to talk through your site.</p>
+
+<h2>FAQs</h2>
+<h3>What should a law firm website in Leeds include?</h3>
+<p>Separate practice area pages, team profiles, clear regulatory and complaints information, any price information your regulator expects, and a simple enquiry route with a note on what happens next.</p>
+<h3>Do solicitors have to publish prices on their website?</h3>
+<p>For certain types of work, the Solicitors Regulation Authority's transparency rules require price and service information to be published. Check the current rules for the services you offer, as requirements depend on your practice areas.</p>
+<h3>Can a financial adviser write guides on their website?</h3>
+<p>Yes, and they can be useful for search visibility. Content that could count as a financial promotion should be checked against FCA rules, so involve your compliance lead before publishing.</p>
+<h3>How should we handle sensitive information in enquiry forms?</h3>
+<p>Ask for the minimum, invite people not to share confidential details at first contact, store submissions securely and explain your handling in a privacy notice.</p>
+<h3>Should every office have its own page?</h3>
+<p>If you have more than one office, yes, but give each page genuinely local information. Avoid duplicating practice area pages for every location.</p>
+<h3>Do you have an office in Leeds?</h3>
+<p>No. Prism Works Studio works with Leeds businesses remotely, and the whole website process can run over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-leicester',
+    seoTitle: 'Web Design Leicester: Textile, Factory and Family Firms',
+    title: 'Web Design in Leicester: Websites for Manufacturers, Textile Firms and Family Businesses',
+    description: 'Web design for Leicester makers, textile firms and family businesses: trade enquiries, wholesale ordering, catalogues and sites the next generation can run.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Leicester for a manufacturer, textile firm or family business has to balance heritage with practicality. Many of these businesses have built their reputation over decades through trade relationships and word of mouth, and the website has often been an afterthought. A good modern site tells trade buyers exactly what you make and how to order, gives consumers a clear route if you sell direct, and is simple enough that the business can keep it current. Prism Works Studio works with Leicester businesses remotely, so the whole process runs over video calls and shared drafts.</p>
+<p>Leicester has a long association with textiles, knitwear, hosiery, footwear and garment making, along with food production, engineering and a wide range of family-owned firms. Many are based in industrial areas around the city and county, such as Belgrave, the Abbey Lane and Frog Island areas, Thurmaston, Wigston and Hinckley. This guide focuses on the specific challenges these businesses face online.</p>
+
+<h2>Two audiences, one website</h2>
+<p>A textile or apparel manufacturer might supply retailers and brands under contract, sell wholesale to independent shops and run its own consumer label. Each group needs different information:</p>
+<table>
+<thead><tr><th>Audience</th><th>What they need from the site</th></tr></thead>
+<tbody>
+<tr><td>Brands seeking a manufacturer</td><td>Capabilities, minimum order quantities, lead times, sampling process, compliance and how to start a conversation</td></tr>
+<tr><td>Wholesale and trade buyers</td><td>Product ranges, trade terms, how to open an account and how ordering works</td></tr>
+<tr><td>Consumers</td><td>Products, sizes, prices, delivery, returns and a smooth checkout</td></tr>
+<tr><td>Job seekers</td><td>Roles, training and what working at the firm is like</td></tr>
+</tbody>
+</table>
+<p>Mixing all of these on one homepage tends to confuse everyone. A clearer approach is a homepage that routes people quickly: a section for trade and manufacturing enquiries, a link to the shop if you have one, and a short introduction to the firm. Each journey then has its own pages and calls to action.</p>
+
+<h2>Showing manufacturing capability</h2>
+<p>Brands looking for a UK manufacturer usually want to judge fit before making contact. Pages that explain what you can and cannot do save time on both sides. Useful detail includes:</p>
+<ul>
+<li>Product types you make, such as knitwear, jersey, outerwear, uniforms or accessories.</li>
+<li>Processes you handle in-house, from pattern cutting and sampling to finishing and packing.</li>
+<li>Typical minimum order quantities and lead times, or the factors that affect them.</li>
+<li>Materials you work with and any sourcing information you can share accurately.</li>
+<li>Photos of the factory, machinery and finished products that you own.</li>
+</ul>
+<p>Only describe certifications, audits or ethical standards you actually hold and can evidence. Buyers increasingly check, and claims about ethical or sustainable production can attract scrutiny from the Competition and Markets Authority and the Advertising Standards Authority if they are vague or unsupported. For broader guidance on industrial sites, see our guide to <a href="/blog/manufacturer-website-design-uk/">manufacturer website design</a>.</p>
+
+<h2>Wholesale and trade ordering</h2>
+<p>Trade customers often still order by phone or email, which can work well. A website can make that easier without forcing a full online trade portal on day one. Options range from simple to more involved:</p>
+<ol>
+<li><strong>A trade enquiry form</strong> that captures business details and the products of interest.</li>
+<li><strong>A downloadable or password-protected catalogue</strong> for approved accounts.</li>
+<li><strong>A trade area in your online store</strong> where approved customers see trade prices and can order. Shopify and WooCommerce both support wholesale set-ups through their own features or add-ons.</li>
+</ol>
+<p>Which option suits you depends on order volumes, how prices vary between customers and how your stock and accounts systems work. It is usually sensible to start with the simplest version that removes friction, then build more as demand shows.</p>
+
+<h2>Selling direct to consumers</h2>
+<p>Some Leicester manufacturers have launched their own consumer brands, using their production know-how to sell direct. A consumer store needs different thinking from a trade site: strong product photography, accurate size guides, clear delivery and returns information and a checkout that works smoothly on phones.</p>
+<p>Product information for clothing and textiles may need to meet labelling rules, such as fibre content, and consumer protection rules on returns for online sales. Check the current requirements from GOV.UK and your trading standards service for your products. Our guides to <a href="/blog/shopify-clothing-brand-uk/">Shopify for clothing brands</a> and <a href="/blog/ecommerce-website-design-uk/">ecommerce website design</a> go into detail on store structure.</p>
+
+<h2>Websites for family businesses</h2>
+<p>Family firms bring particular strengths and challenges to a website project. The strengths are a genuine story, deep product knowledge and long relationships. The challenges are often practical: decisions involve several people, knowledge sits in one or two heads, and the website may have been set up years ago by someone who has since moved on.</p>
+
+<h3>Telling the story honestly</h3>
+<p>A history page can be one of the most engaging parts of a family business site. Old photographs, the founding story and how the business has changed across generations help customers and staff connect with the firm. Keep it accurate and let the people involved review it.</p>
+
+<h3>Making the site easy to hand over</h3>
+<p>Many family businesses are going through succession, with a new generation taking on more responsibility. A website built so that more than one person can update it reduces risk. Practical steps include:</p>
+<ul>
+<li>Choosing a widely used platform such as WordPress or Shopify, so help is easy to find.</li>
+<li>Keeping logins in a shared, secure place under the business's control.</li>
+<li>Making sure the domain and hosting are registered to the business, not an individual's personal account.</li>
+<li>Writing a short guide on how to update common content.</li>
+</ul>
+<p>Our guide to <a href="/blog/wordpress-small-business-website/">WordPress for small business websites</a> covers ownership and day-to-day management.</p>
+
+<h3>Agreeing decisions</h3>
+<p>When several family members share decision-making, agreeing a clear brief and a single point of contact at the start can keep a project moving. Shared drafts that everyone can comment on help bring different views together before build begins.</p>
+
+<h2>Multilingual considerations</h2>
+<p>Leicester is a diverse city, and some businesses serve customers or work with staff and suppliers who prefer languages other than English. If that applies to you, consider whether key pages, such as contact details or careers information, would benefit from translation. Professional translation and a clear language switcher work better than automatic translation widgets, which can produce errors on important details.</p>
+
+<h2>SEO for Leicester manufacturers and family firms</h2>
+<p>Search priorities depend on who you sell to:</p>
+<ul>
+<li><strong>Manufacturing services:</strong> pages built around product type and process, such as knitwear manufacturing, can attract brands searching across the UK, not just locally.</li>
+<li><strong>Trade and wholesale:</strong> category pages and clear trade information help buyers find you. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> covers this.</li>
+<li><strong>Consumer products:</strong> product and category SEO matters most for a direct-to-consumer store.</li>
+<li><strong>Local presence:</strong> a Google Business Profile helps people find a factory shop, trade counter or showroom.</li>
+</ul>
+<p>If you are replacing an older site that already ranks for useful terms, plan redirects carefully. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains how.</p>
+
+<h2>Working with Prism Works Studio from Leicester</h2>
+<p>Prism Works Studio does not have an office in Leicester. We work with businesses there remotely, using video calls, shared documents and screen sharing. Product photos, catalogues and the knowledge of the people who run the business are the core inputs, and these can all be gathered without a site visit.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build, including online stores. See our <a href="/pricing/">pricing page</a> for how projects are scoped, or book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a manufacturer and its consumer brand share one website?</h3>
+<p>It depends. A shared site works if the audiences are clearly separated. A separate consumer store can make sense if the brand has a distinct identity or you do not want retail customers mixing with trade information.</p>
+<h3>Can trade customers order online with their own prices?</h3>
+<p>Yes. Shopify and WooCommerce both support wholesale set-ups where approved customers see trade pricing. Whether it is worth it depends on order volumes and how your pricing works.</p>
+<h3>What should a clothing manufacturer's website show brands?</h3>
+<p>Product types, in-house processes, typical minimums and lead times, sampling, any verified certifications and a clear way to start an enquiry.</p>
+<h3>How can a family business keep its website from depending on one person?</h3>
+<p>Register the domain and hosting to the business, store logins securely and centrally, use a widely supported platform and write a short guide for common updates.</p>
+<h3>Is it worth translating our website?</h3>
+<p>If a meaningful share of customers, staff or suppliers prefer another language, translating key pages professionally can help. Avoid relying on automatic translation for important details.</p>
+<h3>Do you have an office in Leicester?</h3>
+<p>No. Prism Works Studio works with Leicester businesses remotely, and the whole project runs over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-newcastle',
+    seoTitle: 'Web Design Newcastle: Hospitality and Startup Websites',
+    title: 'Web Design in Newcastle: Websites for Hospitality Venues and Startups',
+    description: 'Web design for Newcastle bars, restaurants, venues and startups: menus, bookings, events and launch-ready sites that can grow without a costly rebuild.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Newcastle covers two very different kinds of business that share one trait: they move quickly. A bar or restaurant needs a site that keeps up with changing menus, events and opening hours. A startup needs a site that can launch fast, explain a new idea clearly and change as the business learns. This guide looks at both. Prism Works Studio works with Newcastle businesses remotely, so planning and reviews happen over video calls and shared drafts.</p>
+<p>Newcastle and Gateshead have a busy hospitality scene across areas such as the Quayside, Grey Street, Jesmond, Ouseburn and Heaton, alongside a growing community of founders around the city centre and the universities. The two groups can learn from each other: venues can borrow a startup's habit of testing and measuring, and startups can borrow a venue's focus on getting someone through the door.</p>
+
+<h2>Part one: hospitality websites</h2>
+
+<h3>The phone-first visit</h3>
+<p>Many people look up a venue on their phone, often while already out or deciding where to go next. That visit is short. They want to know if you are open, what you serve, whether they can book and how to get there. A hospitality site that buries these behind a full-screen video or a slow image slider risks losing them.</p>
+<p>A practical homepage for a venue puts these near the top:</p>
+<ul>
+<li>Today's opening hours, accurate and easy to update.</li>
+<li>A clear button to book a table or see availability.</li>
+<li>Links to food and drink menus in web text, not only as a PDF.</li>
+<li>Address, a map link and notes on access and transport.</li>
+<li>Upcoming events, if you run them.</li>
+</ul>
+
+<h3>Menus that are easy to update</h3>
+<p>Menus change with seasons, suppliers and pricing. If updating the menu means emailing a designer or re-exporting a PDF, it often goes out of date. A menu built as editable web content in WordPress, Squarespace or Wix is quicker to change, loads faster on mobile and can be read by search engines.</p>
+<p>Allergen information needs care. The Food Standards Agency provides guidance on how food businesses should give allergen information to customers. A website can help, for example by showing allergen notes on menus and reminding customers to speak to staff, but check the guidance for your type of business and make sure online information never contradicts what staff tell customers.</p>
+
+<h3>Bookings, events and private hire</h3>
+<p>Bookings are usually handled by a dedicated reservation system embedded in or linked from the site. The design job is to make that route obvious and consistent across every page. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems for websites</a> covers the trade-offs between embedding and linking out.</p>
+<p>Events and private hire deserve their own pages. Quiz nights, live music, tasting evenings and functions all attract specific searches. A private hire page with capacity, layouts, sample menus and a short enquiry form can support higher-value bookings. For deeper sector guidance, see our guides to <a href="/blog/restaurant-website-design-uk/">restaurant website design</a> and <a href="/blog/cafe-website-design-uk/">cafe website design</a>.</p>
+
+<h3>Local search for venues</h3>
+<p>For venues, much of the discovery happens in map results. Keep your Google Business Profile accurate, especially hours on bank holidays and match days, and make sure your website shows the same name, address and phone number. Our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile</a> walks through the essentials, and our <a href="/blog/hospitality-marketing-agency-uk/">hospitality marketing guide</a> covers the wider picture.</p>
+
+<h2>Part two: startup websites</h2>
+
+<h3>Launch lean, then learn</h3>
+<p>Founders often feel pressure to launch with a full website: dozens of pages, detailed feature lists and a blog. In practice, an early-stage startup rarely knows yet which message will land with customers. A smaller site with a clear value proposition, a few focused pages and a strong call to action can be launched sooner and improved using real behaviour.</p>
+<p>A typical lean startup site might include:</p>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td>Homepage</td><td>State the problem, the solution and who it is for in a few seconds</td></tr>
+<tr><td>How it works</td><td>Walk through the product or service in simple steps</td></tr>
+<tr><td>Pricing or plans</td><td>Show how people pay, or explain how to get a quote</td></tr>
+<tr><td>About</td><td>Introduce the founders and why the business exists</td></tr>
+<tr><td>Sign-up or contact</td><td>One clear action, such as joining a waitlist or booking a demo</td></tr>
+</tbody>
+</table>
+<p>Landing pages for specific audiences or campaigns can be added as you test. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers how to build them well.</p>
+
+<h3>Choosing a platform that can grow</h3>
+<p>Platform choice matters more for a startup than for most businesses, because changing it later can be disruptive. Points to consider:</p>
+<ul>
+<li><strong>Squarespace or Wix</strong> can suit a very early site that founders want to edit themselves.</li>
+<li><strong>WordPress</strong> offers more flexibility for content, landing pages and integrations as marketing grows.</li>
+<li><strong>Shopify</strong> is usually the natural choice if the startup sells physical products online.</li>
+<li><strong>Software products</strong> often keep the marketing site separate from the app itself, so marketing pages can change without touching the product.</li>
+</ul>
+<p>If your startup is a software business, our guide to <a href="/blog/saas-website-design-uk/">SaaS website design</a> goes further.</p>
+
+<h3>Measuring from day one</h3>
+<p>A startup site should be set up to answer simple questions from launch: where visitors come from, which pages they view and how many take the main action. Set up analytics and conversion tracking before launch, along with a cookie consent approach that follows ICO guidance. Our article on <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> explains the balance between compliance and usability.</p>
+
+<h3>Credibility without a track record</h3>
+<p>New businesses cannot show years of history, so the site has to build credibility in other ways. Clear founder profiles, a plain explanation of how the product works, honest pricing and a visible way to contact a real person all help. Avoid inventing logos, testimonials or user numbers: early customers and investors notice. Our guide to <a href="/blog/marketing-agency-for-startups-uk/">marketing for startups</a> covers how websites fit with early growth activity.</p>
+
+<h2>What both groups have in common</h2>
+<p>Whether you run a Quayside bar or a new tech business, a few principles apply:</p>
+<ul>
+<li><strong>Speed.</strong> Compress images, avoid heavy scripts and test on a phone. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains what to measure.</li>
+<li><strong>Ownership.</strong> Make sure you own the domain, hosting and admin logins, not a supplier.</li>
+<li><strong>Editability.</strong> Anything that changes often, such as menus, events or pricing, should be easy for you to update.</li>
+<li><strong>One main action per page.</strong> Book, sign up, enquire: make it clear and repeat it.</li>
+</ul>
+
+<h2>Keeping content fresh after launch</h2>
+<p>A hospitality site goes stale quickly if nobody owns it. Decide who updates hours, menus and events, and how often. A simple routine, such as checking the site every Monday and before each bank holiday, can prevent the most common frustration for customers: turning up to find a venue closed when the website said it was open.</p>
+<p>Startups face a different version of the same problem. As the product changes, feature descriptions, screenshots and pricing can drift out of date. Reviewing key pages at each product release keeps the site honest. In both cases, a site built so that the business can make everyday edits without technical help is far more likely to stay accurate than one that needs a developer for every change.</p>
+
+<h2>Working with Prism Works Studio from Newcastle</h2>
+<p>Prism Works Studio does not have an office in Newcastle. We work with businesses there remotely, using video calls, shared documents and screen sharing. For venues, that means you can send photos, menus and event details as they change; for startups, it suits the fast feedback loop of early-stage work.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. See how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a restaurant menu be a PDF or a web page?</h3>
+<p>A web page is usually better. It loads faster on phones, is easier to update and can be read by search engines. You can still offer a PDF for printing.</p>
+<h3>How do I show allergen information online?</h3>
+<p>Follow Food Standards Agency guidance for your type of business. Many venues show allergen notes on menus and ask customers to speak to staff, making sure online and in-person information match.</p>
+<h3>What should a startup's first website include?</h3>
+<p>A clear homepage message, a simple explanation of how it works, pricing or a route to a quote, founder information and one main call to action. Add more as you learn what customers respond to.</p>
+<h3>Should a startup use Wix or WordPress?</h3>
+<p>Wix or Squarespace can suit a very early site that founders edit themselves. WordPress gives more room to grow with content and integrations. Shopify suits product startups.</p>
+<h3>Do bars and restaurants need SEO?</h3>
+<p>Yes, mostly local SEO: an accurate Google Business Profile, consistent contact details and web-text menus and event pages that match what people search for.</p>
+<h3>Do you have an office in Newcastle?</h3>
+<p>No. Prism Works Studio works with Newcastle businesses remotely, and the full website process runs over video calls and shared drafts.</p>
+`,
+  },
+  {
+    slug: 'web-design-southampton',
+    seoTitle: 'Web Design Southampton: Maritime and Marine Services Sites',
+    title: 'Web Design in Southampton: Websites for Maritime, Port and Marine Service Businesses',
+    description: 'Web design for Southampton maritime, port and marine firms: clear service pages, technical detail, urgent call-out routes and sites built for global visitors.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Southampton for a maritime, port or marine services business needs to serve an unusually varied audience. A ship operator's technical superintendent, a yacht owner on the Hamble, a logistics manager at a shipping line and a contractor looking for a subcontractor may all land on the same site. Some are local, many are not, and some are reading on a phone with patchy signal. The site has to explain exactly what you do, where you operate and how to reach you, quickly. Prism Works Studio works with Southampton businesses remotely, so the project runs over video calls and shared drafts.</p>
+<p>Southampton's economy has deep ties to the sea, from the docks and cruise terminals to boatbuilding, marine engineering, surveying, chandlery and marine electronics along the Itchen, the Test and the wider Solent area, including places such as Woolston, Hythe and the Hamble. This guide looks at what websites in these sectors need to do well.</p>
+
+<h2>Who visits a marine services website</h2>
+<p>Understanding the audience shapes everything else. Typical visitors include:</p>
+<table>
+<thead><tr><th>Visitor</th><th>What they want to know</th></tr></thead>
+<tbody>
+<tr><td>Commercial vessel operators</td><td>Services, response times, port coverage, standards and how to raise a job</td></tr>
+<tr><td>Leisure boat and yacht owners</td><td>Services, rough costs or how quotes work, availability and location of yard or berth</td></tr>
+<tr><td>Freight and logistics buyers</td><td>Handling capabilities, routes, documentation and contact for quotes</td></tr>
+<tr><td>Main contractors and shipyards</td><td>Specialist capabilities, accreditations, insurance and capacity</td></tr>
+<tr><td>Job seekers</td><td>Roles, qualifications needed and training</td></tr>
+</tbody>
+</table>
+<p>A homepage that tries to speak to all of these at once usually ends up vague. Clear navigation by service and audience works better, with each page focused on one type of buyer.</p>
+
+<h2>Emergency and urgent services</h2>
+<p>Some marine businesses handle urgent work: breakdown repairs, emergency diving, salvage support or out-of-hours technical call-outs. For these, the website's main job is to get the right person on the phone fast.</p>
+<ul>
+<li>Put the emergency number at the top of every page, as a tap-to-call link on mobile.</li>
+<li>State clearly what counts as an emergency service and what hours it covers.</li>
+<li>Explain coverage area honestly, such as which ports or waters you can attend.</li>
+<li>Keep the emergency page light so it loads on a weak connection.</li>
+</ul>
+<p>Never promise response times you cannot always meet. A clear, honest explanation of how call-outs work builds more trust than a bold claim that is broken once.</p>
+
+<h2>Project and technical services</h2>
+<p>For planned work, such as refits, surveys, marine engineering or electronics installation, buyers want enough detail to shortlist you. Useful content for each service page includes:</p>
+<ol>
+<li>A short summary of the service and the vessel types or sizes it suits.</li>
+<li>What is involved, step by step, in plain terms.</li>
+<li>Relevant standards, classification society work or qualifications, only where you genuinely hold them.</li>
+<li>Where work is carried out: your yard, the client's berth, or anywhere in a stated area.</li>
+<li>Photos of real work you are permitted to share.</li>
+<li>A clear route to request a quote or ask a technical question.</li>
+</ol>
+<p>Our guide to <a href="/blog/engineering-consultancy-website-design-uk/">engineering consultancy website design</a> covers how to present technical expertise, and many of the same principles apply here.</p>
+
+<h2>Port, freight and logistics businesses</h2>
+<p>Freight forwarders, haulage firms serving the port and warehousing providers face a different challenge: explaining a service that is often invisible to the customer until something goes wrong. Clear pages on services, routes, handling capabilities and how to request a quote help, along with practical information such as document requirements and contact points for live shipments.</p>
+<p>Customs and trade documentation are areas where details change and depend on the goods and destination. Where you explain them on your site, keep the content general, link to GOV.UK guidance, and invite customers to contact you for their specific case. Our guide to <a href="/blog/logistics-courier-website-design-uk/">logistics and courier website design</a> covers quote forms and tracking pages.</p>
+
+<h2>Leisure marine and chandlery</h2>
+<p>Businesses serving boat owners, such as chandleries, sailing schools, yacht brokers and boatyards, sit closer to consumer retail and hospitality. Seasonality matters: content and promotions might shift between preparing for the season, the season itself and winter lay-up and maintenance.</p>
+<ul>
+<li><strong>Chandleries</strong> may benefit from an online store, with Shopify or WooCommerce, alongside click-and-collect for local customers.</li>
+<li><strong>Sailing and powerboat schools</strong> need clear course pages, dates and an online booking route. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> explains the options.</li>
+<li><strong>Yards and marinas</strong> need clear information on services, berthing or storage enquiries and access.</li>
+</ul>
+<p>If you sell products online, our <a href="/blog/ecommerce-website-design-uk/">ecommerce website design guide</a> covers store structure and checkout.</p>
+
+<h2>Designing for a global and mobile audience</h2>
+<p>Maritime work is international. Visitors may be reading in a second language, in another time zone or on a ship's limited connection. A few practical points help:</p>
+<ul>
+<li><strong>Plain English.</strong> Avoid unnecessary jargon and idioms. Technical terms are fine; marketing fluff is not.</li>
+<li><strong>Time zones and hours.</strong> State office hours with the UK time zone and explain how out-of-hours contact works.</li>
+<li><strong>Light pages.</strong> Compress images, avoid auto-playing video and keep scripts lean. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the techniques.</li>
+<li><strong>International contact formats.</strong> Show phone numbers with the +44 prefix and make sure forms accept non-UK numbers and addresses.</li>
+</ul>
+
+<h2>Credibility in a safety-critical sector</h2>
+<p>Marine work often involves safety, insurance and compliance. Buyers want reassurance that you meet the relevant standards. Show accreditations, memberships and approvals you actually hold, with enough context to explain what they mean. Where regulation is involved, such as work linked to the Maritime and Coastguard Agency's requirements, describe your role accurately and avoid implying approvals you do not have.</p>
+<p>Case studies can be powerful but often involve confidential clients or vessels. Anonymised examples that describe the problem, the work and the outcome in general terms can still demonstrate capability, as long as you have permission to share them.</p>
+
+<h2>Recruitment for skilled marine roles</h2>
+<p>Marine engineers, electricians, riggers, shipwrights and surveyors are specialist roles, and finding the right people can be as important as finding new customers. A careers page that explains the type of work, the qualifications and certificates needed, any apprenticeships or training on offer and what a typical week looks like helps candidates decide whether to apply. Photos of the yard or workshop and the team at work, used with permission, make the page feel real.</p>
+<p>Keep vacancies up to date and remove filled roles promptly. If roles involve travel to vessels in other ports or abroad, say so clearly so candidates know what to expect. Our guide to <a href="/blog/recruitment-agency-website-design-uk/">recruitment website design</a> has further ideas on presenting roles clearly.</p>
+
+<h2>SEO for Southampton maritime businesses</h2>
+<p>Search demand in maritime niches is specialised and often national or international. A few principles apply:</p>
+<ul>
+<li><strong>Service plus vessel type</strong> pages can match specific technical searches.</li>
+<li><strong>Location pages</strong> for ports or areas you genuinely cover can help, if each has real information rather than copied text.</li>
+<li><strong>A Google Business Profile</strong> supports people searching locally for a yard, chandlery or workshop.</li>
+<li><strong>B2B buyers</strong> respond to authority and detail. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to build it.</li>
+</ul>
+
+<h2>Working with Prism Works Studio from Southampton</h2>
+<p>Prism Works Studio does not have an office in Southampton. We work with businesses there remotely, using video calls, shared documents and screen sharing. Your technical knowledge, photos of real work and feedback on drafts are what shape the site, and all of these can be shared remotely.</p>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers planning, design and build. See how projects are priced on our <a href="/pricing/">pricing page</a>, or book a <a href="/contact/">free discovery call</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How should a marine engineering firm show emergency call-out services?</h3>
+<p>Put a tap-to-call emergency number on every page, explain what counts as an emergency, state hours and coverage honestly and keep the page fast on weak connections.</p>
+<h3>Should a maritime website be written for international visitors?</h3>
+<p>Usually, yes. Use plain English, state UK time zone hours, show phone numbers with the +44 prefix and make forms accept international details.</p>
+<h3>Can we show case studies if our clients are confidential?</h3>
+<p>Anonymised case studies can work well if you have permission. Describe the problem, the work and the outcome without naming the client or vessel.</p>
+<h3>Does a chandlery need an online shop?</h3>
+<p>Not always, but an online store with click-and-collect can suit chandleries that hold stock boat owners search for. Shopify and WooCommerce are both options.</p>
+<h3>How should freight businesses explain customs requirements online?</h3>
+<p>Keep content general, link to GOV.UK guidance and invite customers to contact you about their specific goods and destination, as requirements vary.</p>
+<h3>Do you have an office in Southampton?</h3>
+<p>No. Prism Works Studio works with Southampton businesses remotely, and the full process runs over video calls and shared drafts.</p>
+`,
+  },
 ];
