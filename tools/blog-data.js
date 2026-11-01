@@ -32044,4 +32044,543 @@ module.exports = [
 <p>If your Swansea or Gower business needs a website that works in both languages and through every season, <a href="/contact/">book a free discovery call</a> to talk it through.</p>
 `,
   },
+  {
+    slug: 'freelancer-vs-agency-website-uk',
+    seoTitle: 'Freelancer vs Agency for a Website: UK Guide',
+    title: 'Freelancer vs Agency for Your Website: How to Decide',
+    description: 'Should you hire a freelance web designer or an agency? A UK guide to the trade-offs in skills, capacity, cost, risk and support, with questions to ask both.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/seo-agency-vs-freelancer-uk/', '/pricing/'],
+    body: `
+<p>When you need a new website or online shop, one of the first decisions is who to hire. Broadly, the choice is between a freelance web designer or developer and an agency or studio. Both build excellent websites, and both can disappoint. The labels themselves tell you less than people think, because freelancers and agencies vary enormously in skill, focus and working style. This guide sets out the genuine differences, the trade-offs that matter and the questions to ask so you can decide based on your project rather than assumptions.</p>
+<p>If you are choosing support for search rather than a website build, our separate article on <a href="/blog/seo-agency-vs-freelancer-uk/">SEO agency vs freelancer</a> covers that decision.</p>
+
+<h2>What we mean by freelancer and agency</h2>
+<p>A <strong>freelancer</strong> is an individual working independently. They might be a designer, a developer or both, and some collaborate with other freelancers for copy, photography or specialist development.</p>
+<p>An <strong>agency</strong> or <strong>studio</strong> is a business with several people, or a coordinated team, offering a range of services. Some are large, others small. Some focus solely on web design; others combine websites with SEO, paid media, content and branding. Some work from offices; others, like Prism Works Studio, work remotely with clients across the UK.</p>
+<p>The boundary is blurry. A small studio may feel very like a freelancer, and an experienced freelancer with trusted collaborators may cover as much ground as an agency.</p>
+
+<h2>The main differences</h2>
+<table>
+<thead><tr><th>Consideration</th><th>Freelancer</th><th>Agency or studio</th></tr></thead>
+<tbody>
+<tr><td>Relationship</td><td>Usually direct contact with the person doing the work</td><td>May involve a project lead plus specialists</td></tr>
+<tr><td>Range of skills</td><td>Depends on the individual and their network</td><td>Often covers design, development, copy and marketing in one place</td></tr>
+<tr><td>Capacity</td><td>Limited by one person's time</td><td>More people to share the work</td></tr>
+<tr><td>Continuity</td><td>Illness, holidays or other commitments can affect availability</td><td>Others may be able to step in, depending on the team</td></tr>
+<tr><td>Process</td><td>Can be flexible and informal</td><td>Often more structured, with defined stages</td></tr>
+<tr><td>Cost</td><td>Often lower overheads</td><td>Overheads and coordination are part of the cost</td></tr>
+<tr><td>Ongoing support</td><td>Depends on the individual's availability</td><td>May offer maintenance or marketing support alongside</td></tr>
+</tbody>
+</table>
+<p>These are tendencies, not rules. Always judge the specific provider in front of you.</p>
+
+<h2>When a freelancer can be a good fit</h2>
+<ul>
+<li><strong>Your project is well defined.</strong> A clear brief with a modest scope suits one person working closely with you.</li>
+<li><strong>You want a direct relationship.</strong> You speak to the person designing or building the site.</li>
+<li><strong>You need a specific skill.</strong> For example, a developer who specialises in a particular platform or a designer with a style you love.</li>
+<li><strong>You have other pieces covered.</strong> If you have copy, branding and marketing handled, you may only need design and build.</li>
+<li><strong>Budget is tight.</strong> Lower overheads can make a freelancer more affordable, although this is not guaranteed.</li>
+</ul>
+
+<h2>When an agency can be a good fit</h2>
+<ul>
+<li><strong>Your project needs several disciplines.</strong> Strategy, branding, copywriting, design, development and SEO coordinated together.</li>
+<li><strong>The scope is larger or more complex.</strong> Online shops with integrations, large content sites or redesigns with migrations.</li>
+<li><strong>You want continuity.</strong> A team may be able to cover holidays or absence more easily.</li>
+<li><strong>You want marketing support after launch.</strong> If you plan to invest in SEO, paid ads or content, it can help to have the same team understand the site.</li>
+<li><strong>You prefer a structured process.</strong> Defined stages, sign-offs and documentation can suit businesses with several stakeholders.</li>
+</ul>
+
+<h2>The risks on each side</h2>
+<h3>Freelancer risks</h3>
+<p>The biggest risk is dependency on one person. If they become unavailable, change career or simply get too busy, your project or support can stall. Mitigate this by keeping all accounts in your own name, asking about backup arrangements and making sure the site is built on a widely used platform that other developers could pick up. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> explains why ongoing support matters.</p>
+<h3>Agency risks</h3>
+<p>With an agency, you may deal mainly with an account manager rather than the people building your site, which can slow communication. Smaller clients may get less attention than larger ones. Some agencies use rigid processes that add cost without adding value for simpler projects. Mitigate this by asking who will work on your project, how you will communicate with them and how the process will be adapted to your scope.</p>
+<h3>Risks that apply to both</h3>
+<ul>
+<li>Domains and accounts registered in the provider's name rather than yours</li>
+<li>Vague proposals that leave out content, testing or launch steps</li>
+<li>No written agreement on ownership of design and code</li>
+<li>Websites built in ways that are hard for anyone else to maintain</li>
+</ul>
+<p>Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> covers terms worth checking, and it is sensible to take independent legal advice on any contract you are unsure about.</p>
+
+<h2>Cost: comparing like with like</h2>
+<p>It is common to assume freelancers are cheaper, and their overheads are often lower. But price comparisons only make sense if you compare the same scope. An agency proposal may include copywriting, SEO setup, testing and post-launch support that a freelancer's quote leaves out, or vice versa. List what each proposal includes against your brief before comparing totals. Our guides to <a href="/blog/website-design-cost-small-business-uk/">website design costs</a> and <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs</a> explain the factors that drive price. For Prism Works Studio's starting points, see our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Questions to ask either option</h2>
+<ul>
+<li>Who exactly will work on our project, and what will each person do?</li>
+<li>Can we see live examples of similar sites you have built?</li>
+<li>What is included in your proposal, and what would cost extra?</li>
+<li>Which platform do you recommend and why?</li>
+<li>Will the domain, hosting and platform accounts be in our name?</li>
+<li>What rights will we have in the design and code once paid for?</li>
+<li>What happens if you are unavailable during the project or afterwards?</li>
+<li>What support is included after launch?</li>
+<li>Will we be able to update the site ourselves?</li>
+</ul>
+<p>The answers tell you far more than whether the provider calls itself a freelancer or an agency. Our article on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> offers further questions if you also need marketing support.</p>
+
+<h2>A hybrid approach</h2>
+<p>You do not have to pick one model for everything. Some businesses use an agency for the initial strategy and build, then a freelancer for small updates. Others use a freelancer for design and a separate specialist for development or SEO. Hybrid arrangements can work well, but they need clear responsibilities, shared access to accounts and someone who owns the overall picture. Otherwise, issues can fall between providers.</p>
+
+<h2>How communication differs in practice</h2>
+<p>Day-to-day communication is one of the areas where the experience can feel most different. With a freelancer, you typically message or call the person doing the work, so questions can be answered quickly and nuance is less likely to be lost. The flip side is that when they are focused on another client, replies may wait. With an agency, a project lead may coordinate several people, which can keep things organised but adds a layer between you and the designer or developer. Ask each provider how they prefer to communicate, how quickly they usually respond, how feedback is collected and how decisions are recorded. Clear answers here often predict how smoothly the project will run.</p>
+<h2>Thinking beyond launch</h2>
+<p>A website is not finished on launch day. Software and plugins need updating, content needs refreshing and you may want to add pages, products or features as the business grows. Before choosing, think about what you will need in the year after launch. If you expect to invest in search, advertising or content, consider whether you want that work done by the same provider, by someone else, or in-house. If you plan to manage the site yourself, check that the provider will train you and that the platform suits non-technical editing. These considerations can matter as much as the build itself.</p>
+<h2>Making the decision</h2>
+<p>Start with your brief. List the skills your project needs, how complex it is, what support you want after launch and how much involvement you can give. Then speak to a few providers of different types, give each the same brief and compare their answers to the questions above. Choose the one whose skills, process and communication best match your project, and make sure ownership and support are agreed in writing.</p>
+<p>If you would like to talk to Prism Works Studio about your website or online shop, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is a freelancer always cheaper than an agency?</h3>
+<p>Not always. Freelancers often have lower overheads, but what matters is what each quote includes. Compare scope before comparing price.</p>
+<h3>Are agencies better for ecommerce websites?</h3>
+<p>Not necessarily. Some freelancers specialise in Shopify or WooCommerce. Larger or more integrated shops may benefit from a team with a wider skill set, but check each provider's relevant experience.</p>
+<h3>What happens if my freelancer disappears?</h3>
+<p>If your domain, hosting and platform accounts are in your name and the site uses a common platform, another developer can usually take over. This is why ownership matters.</p>
+<h3>Can I switch from a freelancer to an agency later?</h3>
+<p>Yes, provided you control your accounts and have the access and files you need. A clear handover makes the switch smoother.</p>
+<h3>Do agencies use freelancers?</h3>
+<p>Some do, for specialist skills or extra capacity. It is reasonable to ask who will work on your project.</p>
+`,
+  },
+  {
+    slug: 'how-long-to-build-a-website-uk',
+    seoTitle: 'How Long Does It Take to Build a Website? UK Guide',
+    title: 'How Long Does It Take to Build a Website? A Practical UK Guide',
+    description: 'What affects how long a website takes to build in the UK: scope, content, platform, feedback rounds and testing, plus how to keep your project moving.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-discovery-workshop/', '/pricing/'],
+    body: `
+<p>"How long will it take?" is one of the first questions any business asks when it commissions a website. It is a fair question. A launch date might be tied to a product release, a rebrand, a new financial year or simply the point at which an old site becomes too embarrassing to keep. The honest answer is that it depends, but that answer is only useful if you know what it depends on. This guide breaks down the stages of a typical website project, the factors that make a build quicker or slower, and the practical steps you can take to keep things moving.</p>
+<p>It is written for UK business owners and marketing teams planning a brochure site, a service business site or an online shop. It does not give you a fixed number of weeks, because any number quoted without knowing your scope would be guesswork. Instead, it shows you how to judge whether a proposed schedule is realistic.</p>
+
+<h2>Why there is no single answer</h2>
+<p>Two projects that both get described as "a new website" can be very different pieces of work. A five-page site for a sole trader using an existing theme, with copy already written, is a different undertaking from a custom-designed online shop with hundreds of products, stock syncing and several payment options. The word "website" covers both.</p>
+<p>The time a project takes is driven by four broad things: how much needs to be designed and built, how ready the content is, how many systems need to connect, and how quickly decisions get made. A schedule that ignores any of these is likely to slip.</p>
+
+<h2>The typical stages of a website project</h2>
+<p>Most website projects move through a similar sequence, even if the names vary between designers. Understanding the stages helps you see where time actually goes.</p>
+<h3>1. Discovery and planning</h3>
+<p>This is where goals, audiences, pages, features and priorities are agreed. It may be a short call or a structured session; our guide to the <a href="/blog/website-discovery-workshop/">website discovery workshop</a> explains what a good one covers. Rushing this stage often costs time later, because unclear requirements lead to rework.</p>
+<h3>2. Sitemap and content planning</h3>
+<p>A sitemap lists the pages and how they relate. Alongside it, someone needs to plan what goes on each page. Our article on <a href="/blog/website-navigation-structure/">website navigation structure</a> covers how to organise pages so visitors and search engines can find what matters.</p>
+<h3>3. Design</h3>
+<p>Design might start with wireframes (simple layouts showing structure) and move to visual designs for key templates such as the homepage, a service page and a contact page. The number of templates and the number of revision rounds both affect duration.</p>
+<h3>4. Build</h3>
+<p>The approved designs are turned into a working site on a platform such as WordPress, Shopify, WooCommerce, Squarespace or Wix. Custom functionality, integrations and complex templates take longer than configuring an existing theme.</p>
+<h3>5. Content entry</h3>
+<p>Text, images, products and downloads are loaded into the site. For an online shop with a large catalogue, this can be a substantial task in its own right, especially if product data needs cleaning first.</p>
+<h3>6. Testing</h3>
+<p>The site is checked on different devices and browsers, forms and checkouts are tested, and links, speed and accessibility are reviewed. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains why this deserves proper time rather than a last-minute glance.</p>
+<h3>7. Launch and aftercare</h3>
+<p>Launch involves pointing the domain to the new site, setting up redirects from old URLs, checking analytics and submitting the sitemap to Google. The days after launch are often spent fixing small issues that only appear once real visitors arrive.</p>
+
+<h2>Factors that make a build quicker or slower</h2>
+<table>
+<thead><tr><th>Factor</th><th>Tends to shorten the project</th><th>Tends to lengthen the project</th></tr></thead>
+<tbody>
+<tr><td>Design approach</td><td>Adapting a well-chosen theme</td><td>Fully custom design across many templates</td></tr>
+<tr><td>Content</td><td>Copy and images ready before build</td><td>Content written during or after build</td></tr>
+<tr><td>Number of pages or products</td><td>Small, focused site</td><td>Large site or catalogue needing data clean-up</td></tr>
+<tr><td>Integrations</td><td>Standard platform features only</td><td>Connections to stock, CRM, booking or accounting systems</td></tr>
+<tr><td>Decision-making</td><td>One clear decision-maker</td><td>Several stakeholders with differing views</td></tr>
+<tr><td>Feedback</td><td>Consolidated, timely feedback</td><td>Slow or piecemeal feedback</td></tr>
+<tr><td>Existing site</td><td>New business, nothing to migrate</td><td>Redesign needing content migration and redirects</td></tr>
+</tbody>
+</table>
+
+<h3>Content readiness</h3>
+<p>Content is frequently what holds a project back. Designers can lay out a page with placeholder text, but a site cannot launch with it. If the copy, photography, team details, case studies or product descriptions are not ready, the build can be finished and still be waiting. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers how to approach writing for the web, and our <a href="/blog/website-content-audit/">website content audit</a> article helps if you are reusing material from an existing site.</p>
+<h3>Platform choice</h3>
+<p>Hosted platforms such as Shopify, Squarespace and Wix handle hosting and much of the infrastructure, which can remove some setup work. WordPress and WooCommerce offer more flexibility but involve hosting, plugins and configuration decisions. The right platform depends on your needs, not on speed alone. Our comparison of a <a href="/blog/website-builder-vs-custom-website/">website builder vs a custom website</a> explains the trade-offs.</p>
+<h3>Ecommerce complexity</h3>
+<p>An online shop adds products, variants, delivery rules, tax settings, payment gateways, transactional emails and policy pages. Each needs configuring and testing. If you are planning a shop, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> lists the pieces involved.</p>
+<h3>Redesigns and migrations</h3>
+<p>Replacing an existing site brings extra steps: auditing current content, mapping old URLs to new ones and protecting search visibility. These steps are important and should not be squeezed. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> explains what is at stake.</p>
+<h3>Feedback rounds</h3>
+<p>Every review stage involves waiting for feedback. If feedback arrives late, or in fragments from different people, the schedule stretches. If it changes direction after approval, work may need redoing.</p>
+
+<h2>How to keep your website project on track</h2>
+<ul>
+<li><strong>Agree the scope in writing.</strong> A clear list of pages, templates and features stops the project growing unnoticed.</li>
+<li><strong>Name one decision-maker.</strong> Gather internal opinions, then have one person give consolidated feedback.</li>
+<li><strong>Start content early.</strong> Begin writing and gathering images as soon as the sitemap is agreed, not when the build is finished.</li>
+<li><strong>Book review time in your diary.</strong> Treat feedback deadlines as seriously as you expect the designer to treat theirs.</li>
+<li><strong>Separate must-haves from nice-to-haves.</strong> A smaller first launch, followed by planned improvements, can be more realistic than trying to include everything at once.</li>
+<li><strong>Get access sorted quickly.</strong> Domain, hosting, analytics and existing site logins often take longer to locate than expected. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> covers the basics.</li>
+<li><strong>Allow time for testing.</strong> A launch date that leaves no room for checks is a risk, not a plan.</li>
+</ul>
+
+<h2>Questions to ask about any proposed schedule</h2>
+<p>When a web designer or agency gives you a timeline, it is worth asking a few questions so you understand what it assumes:</p>
+<ul>
+<li>What stages does the schedule include, and when does each start and finish?</li>
+<li>What do you need from us, and by when, for the schedule to hold?</li>
+<li>How many rounds of design revisions are included?</li>
+<li>Who is responsible for writing and loading content?</li>
+<li>How much time is allowed for testing before launch?</li>
+<li>What happens to the schedule if we add features or pages?</li>
+<li>What support is available immediately after launch?</li>
+</ul>
+<p>A realistic schedule shows dependencies clearly. If it only shows a launch date with nothing behind it, ask for more detail.</p>
+
+<h2>Common reasons websites launch late</h2>
+<p>Delays usually come from a handful of predictable sources rather than technical surprises. Scope creep, where new pages or features are added mid-project, is one. Waiting for content is another. Changing stakeholders, where someone senior sees the design late and asks for changes, can reset work. Third-party dependencies, such as waiting for a payment provider account to be approved or a supplier to provide product data, can also add time. Knowing these in advance lets you plan around them.</p>
+
+<h2>Should you set a fixed launch date?</h2>
+<p>A target date is useful because it focuses everyone. But if the date is genuinely fixed, for example a trade show or a product launch, say so at the start. That allows the scope to be shaped to fit. It may mean launching a focused version first and adding further sections afterwards. Forcing a large scope into a fixed window without adjusting anything else tends to compromise quality or testing.</p>
+
+<h2>Budget and timing are connected</h2>
+<p>Scope affects both cost and duration. If you are trying to balance the two, our guides to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a> and <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs</a> explain the factors involved. For Prism Works Studio's own starting points, see our <a href="/pricing/">pricing page</a>, and for the kind of work we take on, see <a href="/services/website-ecommerce-development/">website and ecommerce development</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Can a website be built in a week?</h3>
+<p>A very simple site using an existing template, with content fully ready, can sometimes be put together quickly. A custom design, an online shop or a redesign with migration involves more stages and usually needs longer. Be cautious of any promise that skips planning or testing.</p>
+<h3>What slows a website project down the most?</h3>
+<p>It varies by project, but content that is not ready, slow feedback and scope changes are frequent causes. Many of these are within the client's control, which is good news because they can be planned for.</p>
+<h3>Does an online shop take longer than a brochure site?</h3>
+<p>Generally, yes, because there is more to configure and test: products, variants, delivery, tax, payments, emails and policies. The size and condition of your product data matter a lot.</p>
+<h3>Is a redesign quicker than a new site?</h3>
+<p>Not necessarily. You may be able to reuse some content, but a redesign adds auditing, URL mapping and redirects to protect search visibility.</p>
+<h3>How can I speed up my website project?</h3>
+<p>Agree scope early, prepare content in parallel with design, give consolidated feedback promptly and get all logins and accounts ready before the build starts.</p>
+<h3>Should I launch before everything is finished?</h3>
+<p>Launching a solid core site and adding planned sections later can be sensible, as long as what goes live is complete, tested and accurate. Avoid launching pages with placeholder content.</p>
+`,
+  },
+  {
+    slug: 'how-to-choose-a-web-designer-uk',
+    seoTitle: 'How to Choose a Web Designer: Questions to Ask (UK)',
+    title: 'How to Choose a Web Designer in the UK: The Questions Worth Asking',
+    description: 'How to choose a web designer in the UK: what to prepare, how to judge portfolios and proposals, the questions to ask and the warning signs to look out for.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/how-to-choose-a-digital-marketing-agency-uk/', '/pricing/'],
+    body: `
+<p>Choosing a web designer is a decision you live with for a long time. The person or team you pick shapes how your business looks online, how easily customers can get in touch or buy, and how simple the site is to manage once it is live. Yet many businesses choose based on a nice portfolio and a price, then discover later that important things were never discussed. This guide sets out how to approach the decision, what to prepare, what to look for and the questions worth asking before you sign anything.</p>
+<p>It applies whether you are speaking to freelancers, small studios or larger agencies, and whether you need a brochure site or an online shop.</p>
+
+<h2>Start with your own brief</h2>
+<p>Before you contact anyone, write down what you need. It does not need to be long or technical. A one or two page brief helps designers give you accurate proposals and makes it much easier to compare them.</p>
+<ul>
+<li><strong>Your business and audience.</strong> What you do, who your customers are and what they need from your site.</li>
+<li><strong>The main goal.</strong> Enquiries, bookings, online sales, credibility, recruitment or something else.</li>
+<li><strong>Pages and features.</strong> A rough list, such as services, about, contact, blog, booking or shop.</li>
+<li><strong>Content.</strong> Whether you have copy and photography ready or need help creating them.</li>
+<li><strong>Platform preferences.</strong> Any existing platform or a preference for WordPress, Shopify, WooCommerce, Squarespace or Wix.</li>
+<li><strong>Budget range and timing.</strong> Even a rough range helps designers suggest an appropriate approach.</li>
+<li><strong>Sites you like.</strong> Examples of what you like and dislike, and why.</li>
+</ul>
+<p>Our <a href="/blog/small-business-website-checklist/">small business website checklist</a> can help you think through what to include.</p>
+
+<h2>Freelancer, studio or agency?</h2>
+<p>Web designers come in different shapes. A freelancer may offer a direct relationship and focused attention. A studio or agency may bring a wider range of skills, such as strategy, copywriting, SEO and development, under one roof. Neither is automatically better. What matters is whether the people involved have the skills your project needs and the capacity to deliver and support it. Ask any provider who will actually do the work and what happens if they are unavailable.</p>
+
+<h2>How to judge a portfolio</h2>
+<p>A portfolio shows taste and capability, but it needs to be read carefully.</p>
+<ul>
+<li><strong>Look at live sites, not just screenshots.</strong> Visit them on your phone. Are they quick, easy to use and clear?</li>
+<li><strong>Look for relevance.</strong> Has the designer built sites with similar features, such as ecommerce, bookings or lots of content?</li>
+<li><strong>Look for variety.</strong> Do the sites look tailored to each business, or do they all look the same?</li>
+<li><strong>Ask what they did.</strong> Did they design, build, write copy, or all three? Portfolios do not always make roles clear.</li>
+<li><strong>Ask what happened next.</strong> A site that looks good but cannot be updated by its owner may not be a success.</li>
+</ul>
+
+<h2>The questions to ask a web designer</h2>
+<h3>About scope and process</h3>
+<ul>
+<li>What exactly is included in your proposal, and what is not?</li>
+<li>What are the stages of the project, and what do you need from us at each stage?</li>
+<li>How many design concepts and revision rounds are included?</li>
+<li>How do you handle changes or extra requests during the project?</li>
+<li>Who will we be dealing with day to day?</li>
+</ul>
+<h3>About content</h3>
+<ul>
+<li>Who writes the copy? If we write it, will you advise on structure and length?</li>
+<li>Who sources photography and images, and who holds the rights to them?</li>
+<li>Who loads content into the site?</li>
+</ul>
+<p>Content is easy to overlook in a proposal and can affect both cost and schedule. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> explains what good web copy involves.</p>
+<h3>About the platform</h3>
+<ul>
+<li>Which platform do you recommend for us, and why?</li>
+<li>Will we be able to edit pages, add blog posts or update products ourselves?</li>
+<li>Will you use a theme, a page builder or custom code? What does that mean for future changes?</li>
+<li>What ongoing costs come with the platform, such as hosting, subscriptions, apps or plugins?</li>
+</ul>
+<p>If you are weighing platforms, our comparisons of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> and <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace vs WordPress</a> may help.</p>
+<h3>About search and performance</h3>
+<ul>
+<li>How do you handle basic on-page SEO, such as titles, headings and descriptions?</li>
+<li>If we are replacing a site, how will you protect existing search visibility and set up redirects?</li>
+<li>How do you approach site speed and mobile usability?</li>
+<li>How do you consider accessibility?</li>
+</ul>
+<p>Our guides to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> and <a href="/blog/website-accessibility-uk/">website accessibility</a> explain why these matter.</p>
+<h3>About ownership</h3>
+<ul>
+<li>Who will own the domain, hosting account and platform account?</li>
+<li>Will we have full admin access from the start?</li>
+<li>Who owns the design, code and content once the project is paid for?</li>
+<li>What happens if we want to move to another provider later?</li>
+</ul>
+<p>Ownership is one of the most important and least discussed topics. Agree it in writing before the project starts; our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> covers the domain side.</p>
+<h3>About after launch</h3>
+<ul>
+<li>What support is included after launch, and for how long?</li>
+<li>Do you offer ongoing maintenance, and what does it cover?</li>
+<li>Will you provide training or guidance on managing the site?</li>
+<li>How do you handle security updates and backups?</li>
+</ul>
+<p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers what ongoing care can involve.</p>
+
+<h2>Comparing proposals fairly</h2>
+<p>Proposals can look very different, which makes price comparisons misleading. A lower price may leave out copywriting, content loading, SEO setup or post-launch support. A higher price may include strategy work or custom features you do not need. To compare fairly, line up each proposal against your brief.</p>
+<table>
+<thead><tr><th>Item to check</th><th>What to look for</th></tr></thead>
+<tbody>
+<tr><td>Pages and templates</td><td>Is the number and type of pages clear?</td></tr>
+<tr><td>Design revisions</td><td>How many rounds are included?</td></tr>
+<tr><td>Content</td><td>Who writes, sources and loads it?</td></tr>
+<tr><td>Platform and ongoing costs</td><td>Are hosting, subscriptions and add-ons explained?</td></tr>
+<tr><td>SEO and redirects</td><td>Is basic SEO setup and migration covered?</td></tr>
+<tr><td>Testing</td><td>Is testing across devices and browsers mentioned?</td></tr>
+<tr><td>Ownership</td><td>Is it clear what you own and control?</td></tr>
+<tr><td>Support</td><td>What happens after launch, and at what cost?</td></tr>
+<tr><td>Payment terms</td><td>When are payments due, and what triggers them?</td></tr>
+</tbody>
+</table>
+<p>For a sense of what drives price differences, see our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a>.</p>
+
+<h2>Making sense of the first conversation</h2>
+<p>The initial call or meeting is a chance for both sides to test fit. Pay attention to how the designer listens. Do they ask about your customers, your goals and how you currently win business, or do they move straight to colours and layouts? Do they explain options in plain English, or rely on jargon? Do they push back sensibly when an idea might not serve your goals? A good designer should be curious about your business and honest about trade-offs, including telling you when something you want may add cost or time without much benefit.</p>
+<p>It is also worth noticing how organised the follow-up is. A clear written summary or proposal that reflects what you discussed is a positive sign. If the proposal looks generic or misses points you raised, consider whether the same will happen during the project.</p>
+<h2>Warning signs to watch for</h2>
+<ul>
+<li><strong>No questions about your business.</strong> A designer who quotes without understanding your goals is guessing.</li>
+<li><strong>Vague proposals.</strong> If you cannot tell what is included, disputes are more likely later.</li>
+<li><strong>The designer keeps the domain or accounts in their own name.</strong> This can make it hard to leave.</li>
+<li><strong>Guaranteed rankings.</strong> No one can guarantee positions in Google.</li>
+<li><strong>No mention of testing or launch steps.</strong> These are essential, not optional extras.</li>
+<li><strong>Pressure to sign quickly.</strong> A reasonable provider will give you time to consider.</li>
+<li><strong>No written agreement.</strong> Even a simple contract protects both sides. Our article on <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> covers terms worth understanding.</li>
+</ul>
+
+<h2>Getting the relationship off to a good start</h2>
+<p>Once you have chosen, agree how you will communicate, who on your side gives feedback and how decisions get recorded. A short kick-off that confirms scope, responsibilities and the first milestones can prevent misunderstandings. Our guide to the <a href="/blog/website-discovery-workshop/">website discovery workshop</a> explains how early planning sets a project up well.</p>
+<p>If you would like to talk to Prism Works Studio about a website or online shop, see our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, our <a href="/pricing/">pricing</a> or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How many web designers should I speak to?</h3>
+<p>Speaking to a small number gives you a sense of different approaches without becoming overwhelming. What matters more is giving each the same brief so you can compare like for like.</p>
+<h3>Should I choose a local web designer?</h3>
+<p>Not necessarily. Many designers work remotely with clients across the UK. Choose on skills, relevance, communication and support rather than location, unless meeting in person matters to you.</p>
+<h3>Is the cheapest quote a bad sign?</h3>
+<p>Not automatically, but check what it leaves out. Content, SEO setup, testing and support are common differences between proposals.</p>
+<h3>Should I ask for references?</h3>
+<p>It is reasonable to ask whether you can speak to a past client, particularly for larger projects. Also look at live sites the designer has built.</p>
+<h3>What should be in the contract?</h3>
+<p>Scope, deliverables, revisions, payment terms, ownership of accounts and work, support arrangements and what happens if either side wants to end the project. For anything you are unsure about, take independent legal advice.</p>
+`,
+  },
+  {
+    slug: 'website-ownership-and-handover',
+    seoTitle: 'Website Ownership and Handover: What to Agree (UK)',
+    title: 'Website Ownership and Handover: Domains, Logins, Code and Content',
+    description: 'Who owns your website? A UK guide to domains, hosting, platform accounts, code, content and analytics, plus a handover checklist to agree before you start.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/business-domain-and-email-setup/', '/pricing/'],
+    body: `
+<p>Many business owners assume that once they have paid for a website, they own it. In practice, a website is made of several separate pieces: a domain name, hosting, a platform account, design files, code, content, images, plugins or apps, and analytics. Each can be registered to, licensed by or controlled by different people. If those pieces sit in someone else's name, you may find it difficult to make changes, move provider or even keep the site running if a relationship ends. This guide explains what each piece is, who should control it and what a good handover looks like.</p>
+<p>It is general guidance, not legal advice. Ownership of intellectual property depends on your contract and the specific circumstances, so take independent legal advice if you have concerns or a dispute.</p>
+
+<h2>The parts of a website and why ownership matters</h2>
+<table>
+<thead><tr><th>Element</th><th>What it is</th><th>Why control matters</th></tr></thead>
+<tbody>
+<tr><td>Domain name</td><td>Your web address, registered through a registrar</td><td>Whoever controls it controls where your site and email point</td></tr>
+<tr><td>DNS</td><td>Settings that direct the domain to your site and email</td><td>Needed to launch, move or fix the site and email</td></tr>
+<tr><td>Hosting</td><td>The server or service that runs the site</td><td>Controls access to files, databases and backups</td></tr>
+<tr><td>Platform account</td><td>For example a Shopify, Squarespace or Wix account, or WordPress admin</td><td>Controls editing, billing and, for shops, orders and customer data</td></tr>
+<tr><td>Theme and code</td><td>The design and functionality built for you</td><td>Determines whether you can reuse or modify the site elsewhere</td></tr>
+<tr><td>Content and images</td><td>Copy, photos, video and downloads</td><td>You need the right to use them, especially licensed images</td></tr>
+<tr><td>Plugins, apps and licences</td><td>Third-party add-ons with their own terms</td><td>Licences may be tied to the person who bought them</td></tr>
+<tr><td>Analytics and search tools</td><td>Google Analytics, Google Search Console, Google Business Profile, tag managers</td><td>Holds your performance history and site verification</td></tr>
+<tr><td>Email and other services</td><td>Business email, form services, payment gateways</td><td>Often linked to the domain and essential to day-to-day operations</td></tr>
+</tbody>
+</table>
+
+<h2>Domains: the most important thing to control</h2>
+<p>Your domain is the foundation of your online presence. It points visitors to your website and usually routes your business email. If a former designer registered it in their own name, you may struggle to regain control. Make sure the domain is registered to your business, with an account you can log into, and that renewal reminders go to an email address you monitor. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> explains how domains and email fit together.</p>
+<p>For UK domains ending in .uk, the registry has its own rules on who the registrant is. Check that the registrant details show your business, not your designer.</p>
+
+<h2>Hosting and platform accounts</h2>
+<p>For hosted platforms like Shopify, Squarespace and Wix, the platform account is effectively the website. If you are building on one of these, it is generally sensible for the account to be created in your business's name and paid for by you, with your designer given staff or collaborator access. That way, if you change designer, you simply remove their access.</p>
+<p>For WordPress and WooCommerce sites, the hosting account matters because it holds the files and database. If your designer hosts the site on their own account, ask what happens if you leave: can they provide a full backup, and will they help you move it? Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for in a hosting provider.</p>
+<p>Some designers offer hosting as part of a package, which can be convenient. That is not necessarily a problem, but it is worth agreeing in advance how you would retrieve the site if you wanted to move.</p>
+
+<h2>Design, code and intellectual property</h2>
+<p>This is where ownership gets more nuanced. Under UK law, the person who creates a work is generally its first owner of copyright, unless they are an employee creating it in the course of employment or the rights are assigned in writing. This means that when you commission an external designer or agency, you do not necessarily own the copyright in the design or code just by paying for it. Your contract should set out what you get: an assignment of rights, a licence to use, or a mix.</p>
+<p>In practice, many websites combine:</p>
+<ul>
+<li><strong>Bespoke work</strong> created specifically for you, which can often be assigned to you.</li>
+<li><strong>Themes, frameworks and plugins</strong> owned by third parties, which you use under their licence terms.</li>
+<li><strong>A designer's reusable tools or code</strong>, which they may licence to you rather than assign.</li>
+</ul>
+<p>None of this is unusual. What matters is that it is written down and that the licence lets you use, modify and move the site as you reasonably need to. If the wording is unclear, ask for clarification before signing, and consider independent legal advice for significant projects. Our article on <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> covers terms worth checking in any agency agreement.</p>
+
+<h2>Content and images</h2>
+<p>Text you write yourself is yours. Copy written for you by a designer or copywriter should be covered by the contract in the same way as design work. Images need particular care. Stock photos are licensed, not owned, and licences can be limited to specific uses or to the person who purchased them. If your designer bought images on their own account, ask whether the licence covers your business and whether you can continue to use them if you part ways. Photography commissioned for you should also be covered by a written agreement.</p>
+
+<h2>Analytics, search tools and tracking</h2>
+<p>Analytics data builds up over time and is valuable for understanding performance. Google Analytics properties, Google Search Console and tag management containers should ideally be created under your business's own Google account, with your designer or agency added as a user. If they were set up under someone else's account, ask for ownership-level access to be transferred. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> and <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explain how these tools work.</p>
+
+<h2>Ecommerce: orders, customers and payments</h2>
+<p>For online shops, the platform account holds orders, customer records and often payment settings. Payment gateway accounts should be in your business's name, because funds are paid to that account. Customer data also brings data protection responsibilities: under UK data protection law, your business is usually the controller of its customers' personal data, and the Information Commissioner's Office provides guidance on what that involves. Make sure you, not a third party, hold the primary account.</p>
+
+<h2>A website handover checklist</h2>
+<p>Whether a project is finishing or you are changing provider, a handover should leave you able to run the site independently. Agree what will be handed over before the project starts. A checklist might include:</p>
+<ul>
+<li>Domain registrar account access, with the business as registrant</li>
+<li>DNS settings documented, or access to where they are managed</li>
+<li>Hosting account access, or a full backup of files and database</li>
+<li>Platform account ownership, with admin or owner access for the business</li>
+<li>A list of themes, plugins and apps used, with licence details and renewal dates</li>
+<li>Google Analytics, Google Search Console and tag manager access at the highest level</li>
+<li>Copies of design files, if agreed in the contract</li>
+<li>Source code or theme files for custom work, if agreed</li>
+<li>Image and font licence information</li>
+<li>Login details for any form, email or integration services</li>
+<li>Brief documentation of how the site is set up and any custom functionality</li>
+<li>Confirmation of when the designer's access will be removed</li>
+</ul>
+<p>Store logins securely, using a password manager, and avoid sharing passwords over email. When someone leaves, change passwords and remove their user accounts rather than relying on them to stop logging in.</p>
+
+<h2>What to do if you do not control your website</h2>
+<p>If you discover that your domain or site is in someone else's name, start with a polite, written request to transfer ownership or provide access. Many issues are resolved this way, particularly if the original arrangement was informal. Check any contract or emails that set out what was agreed. For domains, registrars and registries have processes for transfers and disputes. If you cannot reach agreement, take independent legal advice rather than attempting workarounds.</p>
+<p>If you are planning a move, our guides to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> and the <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> cover how to protect search visibility.</p>
+
+<h2>Building ownership into a new project</h2>
+<p>The simplest way to avoid problems is to agree ownership at the start. Before signing, ask who will register the domain, which accounts will be set up in your name, what rights you receive in the design and code, and what a handover will include. Our guide to <a href="/blog/website-maintenance-uk/">website maintenance</a> covers what ongoing support can look like after launch.</p>
+<p>To discuss a project with Prism Works Studio, see <a href="/services/website-ecommerce-development/">website and ecommerce development</a>, our <a href="/pricing/">pricing</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Do I own my website if I paid for it?</h3>
+<p>Not automatically in every respect. You may own some elements and licence others. Your contract should set out which, and you should control the key accounts. Take legal advice if ownership is disputed.</p>
+<h3>Should my web designer register my domain?</h3>
+<p>They can help, but the domain should be registered to your business, in an account you can access.</p>
+<h3>Can I move my Shopify store to a new designer?</h3>
+<p>If the Shopify account is in your name, you can remove one collaborator and add another. If it is in the designer's name, ask for ownership to be transferred.</p>
+<h3>What if my WordPress site is on my designer's hosting?</h3>
+<p>Ask for a full backup of files and database, and for details of plugins and licences. A new host or developer can then restore the site elsewhere.</p>
+<h3>Who owns the analytics data?</h3>
+<p>The account holder controls the property. Ideally it should be your business's Google account, with others added as users.</p>
+`,
+  },
+  {
+    slug: 'website-terms-and-privacy-policy-uk',
+    seoTitle: 'Website Terms and Privacy Policy: UK Basics',
+    title: 'Website Terms and Conditions and Privacy Policy: A UK Business Guide',
+    description: 'The basics of website terms and conditions, privacy policies and cookie notices for UK businesses and online shops. General guidance, not legal advice.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/cookie-banner-design-uk/', '/pricing/'],
+    body: `
+<p>Legal pages are easy to overlook when building a website. They are not exciting, they do not usually win customers, and it is tempting to copy something from another site and move on. But these pages exist for real reasons. They tell visitors how you handle their personal data, set out the rules for using your site or buying from you, and help you meet obligations under UK law. This guide explains the main legal pages a UK business website or online shop is likely to need, what each one is for and how to approach them sensibly.</p>
+<p><strong>Important:</strong> this article is general information, not legal advice. Requirements depend on your business, what your site does and how you handle data. Rules can change. For documents tailored to your situation, speak to a qualified solicitor and check the latest guidance from the relevant UK regulators.</p>
+
+<h2>The main legal pages and what they do</h2>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th><th>Who is likely to need it</th></tr></thead>
+<tbody>
+<tr><td>Privacy notice (privacy policy)</td><td>Explains what personal data you collect, why and how it is used</td><td>Generally any site that collects personal data, including via forms or analytics</td></tr>
+<tr><td>Cookie information</td><td>Explains cookies and similar technologies and how consent is managed</td><td>Sites using cookies beyond those strictly necessary</td></tr>
+<tr><td>Website terms of use</td><td>Rules for using the website itself</td><td>Optional for many sites, but commonly included</td></tr>
+<tr><td>Terms and conditions of sale</td><td>The contract terms for buying goods, services or digital content</td><td>Online shops and businesses taking bookings or payments online</td></tr>
+<tr><td>Delivery and returns information</td><td>How delivery, cancellations and returns work</td><td>Online shops selling to consumers</td></tr>
+<tr><td>Business information</td><td>Who you are and how to contact you</td><td>Generally all business websites</td></tr>
+</tbody>
+</table>
+
+<h2>Privacy notices</h2>
+<p>If your website collects personal data, UK data protection law generally requires you to tell people how you use it. Personal data includes names, email addresses and phone numbers submitted through a contact form, customer details captured at checkout, and potentially information collected by analytics or advertising tools. The Information Commissioner's Office (ICO) is the UK regulator for data protection and publishes guidance on what a privacy notice should contain.</p>
+<p>A privacy notice typically explains:</p>
+<ul>
+<li>Who you are and how to contact you about data protection</li>
+<li>What personal data you collect and how you collect it</li>
+<li>Why you use it and the lawful basis you rely on</li>
+<li>Who you share it with, such as payment providers, email platforms or delivery companies</li>
+<li>Whether data is transferred outside the UK</li>
+<li>How long you keep it</li>
+<li>People's rights over their data and how to exercise them</li>
+<li>How to complain, including the right to complain to the ICO</li>
+</ul>
+<p>The key principle is accuracy. A privacy notice copied from another business will describe their tools and practices, not yours. Before writing or reviewing yours, list every way your site collects data: forms, newsletter sign-ups, checkout, account creation, live chat, booking tools, analytics and advertising pixels. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design, and the ICO's own guidance is the place to check what your notice should say.</p>
+<p>Depending on your circumstances, you may also need to consider whether you must pay the data protection fee to the ICO. The ICO provides a self-assessment tool to help businesses check.</p>
+
+<h2>Cookies and consent</h2>
+<p>Cookies and similar technologies are covered by the Privacy and Electronic Communications Regulations (PECR) alongside data protection law. In broad terms, you generally need to tell people about cookies and get consent for those that are not strictly necessary for the service they have requested, such as many analytics and advertising cookies. The ICO's guidance on cookies explains the current position, which has been subject to legislative change, so check it directly rather than relying on older articles.</p>
+<p>Cookie information can sit within your privacy notice or on a separate page. Either way, it should match what your site actually sets. Our guide to <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> explains how to present choices clearly, and our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> touches on how analytics interacts with consent.</p>
+
+<h2>Website terms of use</h2>
+<p>Website terms of use set rules for how people can use your site. They might cover acceptable use, intellectual property in your content, disclaimers about information on the site, links to other websites and which law applies. For a simple brochure site, terms of use are often considered optional, but many businesses include them for clarity. If your site lets users post content, create accounts or download resources, terms of use become more relevant.</p>
+<p>Keep them proportionate. A small service business does not usually need pages of dense terms for a five-page site. If you are unsure what is appropriate, ask a solicitor.</p>
+
+<h2>Terms and conditions for online shops</h2>
+<p>If you sell to consumers online, your terms and conditions of sale form part of the contract between you and the customer. UK consumer law sets out information you generally need to give before a customer buys and rights they have that your terms cannot remove. Relevant rules include the Consumer Rights Act 2015 and the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, which cover areas such as pre-contract information and the right to cancel many distance purchases. Government guidance on selling online and the Competition and Markets Authority's guidance on consumer law are useful starting points.</p>
+<p>Shop terms commonly address:</p>
+<ul>
+<li>Who you are, your contact details and, where relevant, your company and VAT details</li>
+<li>How the contract is formed and when an order is accepted</li>
+<li>Prices, including taxes and delivery charges</li>
+<li>Payment methods</li>
+<li>Delivery arrangements</li>
+<li>Cancellation rights and how to exercise them, plus any exceptions</li>
+<li>Returns, refunds and faulty goods</li>
+<li>Limitations of liability, within what the law allows</li>
+<li>How complaints are handled</li>
+</ul>
+<p>Terms that try to remove statutory consumer rights are unlikely to be enforceable and can create problems with regulators. Business-to-business sales are treated differently, which is another reason to get advice specific to your situation. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">ecommerce delivery and returns pages</a> covers how to present this information clearly to shoppers.</p>
+<p>Platforms such as Shopify, WooCommerce, Squarespace and Wix often provide policy templates or generators. These can be a helpful starting point, but they are generic. Review them carefully and adapt them to your business, or have them checked.</p>
+
+<h2>Business information you should show</h2>
+<p>UK businesses have obligations about identifying themselves. For example, limited companies are generally required to show certain details, such as their registered name, registered number and registered office address, on their websites. Companies House guidance sets out what applies. Online sellers also have information duties under consumer law. A clear contact page and footer can carry much of this. Our guides to <a href="/blog/website-footer-design/">website footer design</a> and <a href="/blog/website-trust-signals/">website trust signals</a> cover how to present it.</p>
+
+<h2>Where to place legal pages on your site</h2>
+<ul>
+<li><strong>Footer links</strong> to the privacy notice, cookie information and terms on every page.</li>
+<li><strong>Next to forms,</strong> a short note explaining how the data will be used, with a link to the privacy notice.</li>
+<li><strong>At checkout,</strong> clear links to terms, delivery and returns before the customer completes payment.</li>
+<li><strong>In the cookie banner,</strong> a link to fuller cookie information.</li>
+</ul>
+<p>Make the pages readable. Plain English, headings and short paragraphs help visitors understand what you are telling them, which is part of the point.</p>
+
+<h2>Keeping legal pages up to date</h2>
+<p>Legal pages are not a one-off task. Review them when you add new tools to the site, change payment or delivery providers, start selling to new countries, launch a newsletter or change how you use customer data. Selling abroad brings further considerations; our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a> explains some of them. Include a date showing when each document was last updated.</p>
+
+<h2>How a web designer can help, and where they cannot</h2>
+<p>A web designer or developer can make sure legal pages exist, are linked in the right places, are formatted clearly and match the technology on the site, such as which cookies are set or which form tools are used. They can also set up cookie consent tools and checkout links. What a designer generally should not do is draft legal documents as a substitute for legal advice. Prism Works Studio can help with the structure and placement of these pages as part of a <a href="/services/website-ecommerce-development/">website or ecommerce project</a>, but the content of legal documents is for you and your legal adviser. See our <a href="/pricing/">pricing</a> for project starting points.</p>
+
+<h2>FAQs</h2>
+<h3>Does every website need a privacy policy?</h3>
+<p>If your site collects personal data, which includes contact forms and many analytics tools, you will generally need to provide privacy information. Check the ICO's guidance for your circumstances.</p>
+<h3>Can I copy another website's terms and conditions?</h3>
+<p>It is not advisable. Their terms reflect their business, not yours, and copying text may also raise copyright issues. Use templates only as a starting point and adapt them properly.</p>
+<h3>Do I need terms and conditions for a brochure website?</h3>
+<p>Website terms of use are often optional for a simple brochure site, but a privacy notice is still likely to be needed if you collect personal data.</p>
+<h3>Are platform policy templates good enough?</h3>
+<p>They can be a reasonable starting point, but they are generic. Review and adapt them so they accurately describe your business, and take advice if you are unsure.</p>
+<h3>Who regulates this in the UK?</h3>
+<p>The ICO covers data protection and cookies. Consumer law is enforced by bodies including the Competition and Markets Authority and Trading Standards.</p>
+`,
+  },
 ];
