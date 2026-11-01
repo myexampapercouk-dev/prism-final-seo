@@ -28567,4 +28567,557 @@ module.exports = [
 <p>The club. Register the domain and hosting in the club's name and make sure more than one committee member has access.</p>
 `,
   },
+  {
+    slug: 'bakery-cake-maker-website-design-uk',
+    seoTitle: 'Bakery and Cake Maker Website Design: UK Guide',
+    title: 'Bakery and Cake Maker Website Design: Orders, Galleries and Allergens',
+    description: 'Website design for UK bakeries and cake makers: custom cake enquiries, online ordering, galleries, allergen information, collection and delivery details.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/food-and-drink-ecommerce-uk/', '/pricing/'],
+    body: `
+<p>Bakeries and cake makers sell something that is hard to resist in person, but a growing share of orders now start online. A customer planning a birthday, wedding or office celebration will often search, browse photos and compare makers before getting in touch. A high street bakery may want to take preorders or sell gift boxes for delivery. Either way, the website needs to make products look as good as they taste and make ordering simple.</p>
+<p>This guide covers website design for UK bakeries, cake makers and home bakers who sell to the public, whether from a shop, a home kitchen or online. It focuses on the website itself. If you run a cafe that also bakes, see our guide to <a href="/blog/cafe-website-design-uk/">cafe website design</a>. For shipping food products nationally, our guide to <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce</a> covers the wider picture.</p>
+
+<h2>Work out how you sell first</h2>
+<p>Bakery businesses vary widely, and the website should reflect the real model. Common types include:</p>
+<ul>
+<li><strong>High street bakeries</strong> selling bread, pastries and cakes over the counter, perhaps with preorders.</li>
+<li><strong>Custom cake makers</strong> creating bespoke celebration and wedding cakes to order.</li>
+<li><strong>Online bakeries</strong> posting brownies, cookies or gift boxes across the UK.</li>
+<li><strong>Wholesale bakers</strong> supplying cafes, shops and restaurants.</li>
+</ul>
+<p>Many businesses combine several of these. Decide which matters most and design the homepage around it, with clear routes to the others. A wedding cake maker and a sourdough bakery need very different first impressions. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise.</p>
+
+<h2>Galleries that sell custom cakes</h2>
+<p>For custom cake makers, the gallery is often the most important part of the site. Customers want to see your style and skill before they enquire. Some principles:</p>
+<ul>
+<li>Organise by occasion, such as weddings, birthdays, children's cakes and corporate, so visitors can find relevant examples quickly.</li>
+<li>Use good, consistent photography with natural light and uncluttered backgrounds.</li>
+<li>Show only your own work, and get permission before showing identifiable people or private events.</li>
+<li>Add short captions, such as the number of tiers or flavours, to help customers describe what they want.</li>
+<li>Keep the gallery current and remove older work that no longer reflects your style.</li>
+</ul>
+<p>Compress images so the gallery loads quickly on phones, where most browsing tends to happen. See our guides to <a href="/blog/ecommerce-product-photography/">product photography</a> and <a href="/blog/website-image-optimisation/">image optimisation</a>.</p>
+
+<h2>Custom cake enquiry forms</h2>
+<p>A well-designed enquiry form saves time on both sides. It might ask for:</p>
+<ul>
+<li>The occasion and the date needed.</li>
+<li>Number of servings.</li>
+<li>Preferred flavours and any dietary requirements.</li>
+<li>Design ideas, with an option to upload inspiration images.</li>
+<li>Whether the cake will be collected or delivered, and the location.</li>
+<li>A rough budget, if you find it useful.</li>
+</ul>
+<p>State your typical notice period, for example how far ahead wedding cakes should be booked, and when the customer can expect a reply. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design.</p>
+
+<h2>Pricing guidance</h2>
+<p>Customers often hesitate to enquire if they have no idea what a cake might cost. You do not have to publish fixed prices for bespoke work, but some guidance helps. Options include "from" prices for common sizes, a price guide by servings, or example cakes with indicative prices. Explain what affects cost, such as tiers, decoration complexity and delivery. Be clear about deposits and cancellation terms. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers presentation.</p>
+
+<h2>Online ordering for standard products</h2>
+<p>For everyday items, such as celebration cakes in set designs, cupcake boxes, brownies or bread preorders, online ordering can work well. Consider:</p>
+<ul>
+<li>Clear product options, such as size, flavour and personalised message.</li>
+<li>A date picker for collection or delivery, with lead times built in.</li>
+<li>Limits on daily capacity so you do not take more orders than you can bake.</li>
+<li>Clear cut-off times for next-day or weekend orders.</li>
+</ul>
+<p>Our guides to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants</a> and <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> cover related features.</p>
+
+<h2>Allergen and ingredient information</h2>
+<p>Allergen information is especially important for bakeries, where common allergens such as gluten, eggs, milk and nuts are often present. UK food law requires allergen information to be available to customers, and the rules differ depending on whether food is prepacked, prepacked for direct sale or sold loose, and whether it is sold online. For distance selling, allergen information generally needs to be available before purchase and on delivery. Check current Food Standards Agency guidance and your local authority's advice for your situation.</p>
+<p>On the website, show allergen information clearly on each product page and explain your approach to cross-contamination honestly. Avoid claims such as "nut-free" or "gluten-free" unless you can genuinely meet the legal requirements for those claims. If you take custom dietary orders, explain how you handle them and their limits.</p>
+
+<h2>Registration and hygiene information</h2>
+<p>Food businesses in the UK, including home bakers, generally need to register with their local authority before trading. Many customers check food hygiene ratings, and in some parts of the UK displaying them is a legal requirement in premises; online display rules vary by nation. You may choose to show your rating on the website. Check current requirements with your local authority rather than relying on general advice.</p>
+
+<h2>Collection, delivery and posting</h2>
+<p>Make it easy to understand how customers receive their order:</p>
+<ul>
+<li>Collection address, times and any instructions.</li>
+<li>Local delivery areas, costs and time slots.</li>
+<li>For posted products, which items travel well, packaging used and delivery days.</li>
+<li>What happens if a delivery is missed.</li>
+</ul>
+<p>Cakes are fragile and perishable, so be realistic about what can be sent by post. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers how to present this. Note that consumer cancellation rights for perishable and personalised goods differ from standard goods; check current guidance.</p>
+
+<h2>Wedding cake pages</h2>
+<p>Wedding cakes are usually a considered purchase made months ahead. A dedicated page can explain your process in your own words, such as how consultations or tastings work if you offer them, booking timelines, delivery and set-up, and how to check availability for a date. A gallery of wedding work with couples' permission helps. Make the next step clear, whether that is an enquiry form or booking a consultation.</p>
+
+<h2>Wholesale and corporate orders</h2>
+<p>If you supply cafes or offer corporate orders, a separate page explaining what you offer, minimum orders and how to set up an account keeps these enquiries away from your retail routes. Keep it brief and only describe what you can deliver consistently.</p>
+
+<h2>Local visibility</h2>
+<p>Most bakeries serve a local area. Make your location and opening hours clear, keep your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> current with good photos, and see our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a>.</p>
+
+<h2>Seasonal ranges and special occasions</h2>
+<p>Many bakeries see demand rise around particular dates, such as Christmas, Easter, Mother's Day and Valentine's Day. The website can help you plan for these rather than being caught out. Consider creating seasonal collection pages a few weeks ahead, with clear order deadlines and collection dates, so customers know exactly when to order. Promote them on the homepage while they are live, then take them down promptly afterwards so the site does not look out of date.</p>
+<p>If you sell out regularly, say so plainly and consider a simple way for customers to register interest for the next batch or the next occasion. A short email list can be useful here, provided people actively opt in and you explain how you will use their details, in line with UK GDPR. Our guide to <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> covers planning busy periods in more depth, and our guide to <a href="/blog/website-faq-page/">FAQ pages</a> can help you answer recurring questions about lead times, storage and dietary options in one place.</p>
+
+<h2>Choosing a platform</h2>
+<p>Shopify and WooCommerce can handle online orders with date pickers and product options, often with apps or plugins. Squarespace or Wix can suit a smaller cake maker who mainly needs a gallery and enquiry form. Choose something you can update easily as your menu and seasonal ranges change. See our guides to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> and <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Galleries with poor photos, or images that are not your own work.</li>
+<li>No indication of price or notice periods.</li>
+<li>Missing or unclear allergen information.</li>
+<li>Online ordering with no limit on daily capacity.</li>
+<li>Vague collection and delivery details.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online shops for UK businesses, working remotely with clients across the country. If you run a bakery or cake business and want a site that shows off your work and makes ordering easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a cake maker show prices on their website?</h3>
+<p>Many find that "from" prices or a price guide by servings encourage enquiries, even when final prices depend on design.</p>
+<h3>What should a custom cake enquiry form ask?</h3>
+<p>The date, occasion, servings, flavours, dietary needs, design ideas and whether the cake will be collected or delivered.</p>
+<h3>Do bakeries need allergen information on their website?</h3>
+<p>If you sell online, allergen information generally needs to be available before purchase. Check current Food Standards Agency guidance.</p>
+<h3>Can a bakery take online orders for collection?</h3>
+<p>Yes. A date picker, cut-off times and daily capacity limits help manage collection orders.</p>
+<h3>Can I post cakes to customers?</h3>
+<p>Some products, such as brownies and cookies, travel better than others. Be realistic about what can be posted and package it carefully.</p>
+`,
+  },
+  {
+    slug: 'garden-centre-website-design-uk',
+    seoTitle: 'Garden Centre and Plant Nursery Website Design UK',
+    title: 'Garden Centre Website Design: Plants, Seasons and Local Visits',
+    description: 'Website design for UK garden centres and plant nurseries: opening times, seasonal content, selling plants online, click and collect, delivery and events.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/ecommerce-website-design-uk/', '/pricing/'],
+    body: `
+<p>Garden centres and plant nurseries sell something people love to see in person, yet more customers now browse online before visiting, and many expect to be able to buy plants, compost and gifts for delivery or collection. A good website supports both: it encourages visits and can also take orders. It has to keep up with the seasons too, since what customers want in spring is very different from what they want in December.</p>
+<p>This guide covers website design for UK garden centres and plant nurseries, meaning businesses that grow or sell plants, not childcare nurseries, which we cover in our separate guide to <a href="/blog/nursery-website-design-uk/">nursery website design</a>. If you design or build gardens for clients, our guide to <a href="/blog/landscaper-website-design-uk/">landscaper website design</a> is more relevant.</p>
+
+<h2>Put visiting information first</h2>
+<p>For a destination garden centre, a large share of visitors are simply planning a trip. Make the essentials easy to find from every page:</p>
+<ul>
+<li>Opening hours, including seasonal and bank holiday changes.</li>
+<li>Address, a map and directions.</li>
+<li>Parking, accessibility and facilities such as toilets and baby changing.</li>
+<li>Whether dogs are welcome.</li>
+<li>Cafe or restaurant hours if they differ from the shop.</li>
+</ul>
+<p>Keep this information accurate, especially around Christmas and Easter, and make sure it matches your <a href="/blog/google-business-profile-uk/">Google Business Profile</a>. Our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> explains why consistent details matter.</p>
+
+<h2>Structure the site around how people browse</h2>
+<p>A garden centre may cover plants, garden furniture, tools, pet supplies, gifts, a cafe, events and more. Navigation should make the main areas obvious without overwhelming visitors. A typical top level might include plants, garden and outdoor living, gifts, cafe, events and a visit section. Within plants, customers often browse by type, such as perennials, shrubs, trees, houseplants and bedding, or by need, such as shade-tolerant plants or plants for pots. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> covers structuring a large site.</p>
+
+<h2>Seasonal content and homepage updates</h2>
+<p>Gardening is seasonal, and a homepage that still promotes summer bedding in November looks neglected. Plan the homepage so key sections can be changed easily through the year, for example:</p>
+<ul>
+<li>Spring: seeds, bedding plants, compost and lawn care.</li>
+<li>Summer: outdoor living, barbecues and container plants.</li>
+<li>Autumn: bulbs, trees and hedging.</li>
+<li>Winter: Christmas trees, decorations, gifts and grottos where you run them.</li>
+</ul>
+<p>Choose a content management system that lets your team update banners and featured products without a developer. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers prioritising content, and our guide to <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> covers planning busy periods.</p>
+
+<h2>Selling plants online</h2>
+<p>Many garden centres and nurseries now sell online, but live plants bring challenges that standard products do not. Before building a shop, think about:</p>
+<ul>
+<li><strong>Availability.</strong> Plant stock changes daily and varies in size and quality. Can you keep online stock accurate?</li>
+<li><strong>Delivery.</strong> Will you deliver locally with your own vans, use a courier with suitable packaging, or both? Large items such as trees or bags of compost may need a different approach.</li>
+<li><strong>Plant size and condition.</strong> Describe pot size and typical height, and photograph real plants where possible.</li>
+<li><strong>Seasonality.</strong> Some plants are best sold only at certain times of year, such as bare-root trees.</li>
+</ul>
+<p>Some businesses sell their full range online, while others sell only a selection that travels well, such as houseplants, seeds and dry goods. Starting with a focused range can be easier to manage. Our guides to <a href="/blog/ecommerce-stock-availability-display/">stock availability display</a> and <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> cover related decisions.</p>
+
+<h2>Plant regulations and descriptions</h2>
+<p>Moving and selling plants in the UK is subject to plant health rules, and certain plants may require plant passports when sold to professional operators or sent by distance sale. Requirements depend on the plant and how it is sold, so check current guidance from the Animal and Plant Health Agency and GOV.UK before selling online. Be accurate in plant descriptions too: if a plant is toxic to pets or people, or invasive, say so clearly. Avoid making unqualified claims about how a plant will perform.</p>
+
+<h2>Click and collect and local delivery</h2>
+<p>For many garden centres, click and collect is a practical middle ground. Customers order online and pick up from a collection point, which avoids courier costs for heavy or fragile items. If you offer it, explain clearly how collection works, how long orders are held and where to go on arrival. For local delivery, a postcode checker showing whether you deliver to a given area, and the cost, can prevent disappointment at checkout.</p>
+
+<h2>Plant information and care guides</h2>
+<p>Helpful content can bring visitors to your site and support sales. Ideas include:</p>
+<ul>
+<li>Care information on each plant page, such as light, watering and hardiness.</li>
+<li>Seasonal "jobs in the garden" articles.</li>
+<li>Guides to choosing plants for particular conditions.</li>
+<li>Houseplant care advice.</li>
+</ul>
+<p>Write from your own knowledge and avoid copying descriptions from suppliers or other websites, which adds little for readers or search engines. Our guide to <a href="/blog/ecommerce-product-descriptions/">product descriptions</a> covers writing useful copy.</p>
+
+<h2>Events, workshops and the cafe</h2>
+<p>Many garden centres run events such as workshops, talks, wreath-making sessions, children's activities or Christmas grottos. Give events their own section with dates, prices and booking. Online booking reduces phone calls and helps you manage capacity; our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> covers the options. If you have a cafe, give it a page with menus, opening hours and any table booking, and keep allergen information accurate. Our guide to <a href="/blog/cafe-website-design-uk/">cafe website design</a> covers this in more depth.</p>
+
+<h2>Gift cards and loyalty</h2>
+<p>Garden centre gift cards are popular presents. Selling them online, both physical and digital, can be a straightforward addition. If you run a loyalty scheme, explain how it works and how to join. See our guides to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> and <a href="/blog/ecommerce-loyalty-programmes/">loyalty programmes</a>.</p>
+
+<h2>Photography</h2>
+<p>A garden centre has a natural advantage: plants and displays are beautiful. Use real photos of your site, seasonal displays and plants rather than generic stock images. Photograph plants in good light and keep images current through the seasons. Compress images so pages load quickly on mobile. See our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a>.</p>
+
+<h2>Mobile use and accessibility</h2>
+<p>Many people check a garden centre website on a phone, whether planning a trip at the weekend or looking up a plant while standing in the aisle. Keep the mobile layout simple, make the phone number tappable and put opening hours within easy reach. Large product images are important for plants, but they should be compressed so pages still load quickly on a mobile connection.</p>
+<p>Garden centres often attract a wide range of ages, so accessible design is worth particular attention. Use readable text sizes, good colour contrast and descriptive alternative text for images, and make sure forms and checkout can be completed with a keyboard or screen reader. Describe physical accessibility honestly on the visit page too, such as step-free access, wheelchair availability or the surfaces of outdoor areas, so visitors can plan ahead. Our guides to <a href="/blog/website-accessibility-uk/">website accessibility</a> and <a href="/blog/mobile-website-design/">mobile website design</a> cover practical steps.</p>
+
+<h2>Choosing a platform</h2>
+<p>If you plan to sell online, Shopify and WooCommerce are both common choices. Shopify also offers point of sale for physical shops, which can help keep stock in step; our guide to <a href="/blog/shopify-pos-uk-retail/">Shopify POS</a> covers this. If you mainly want an informational site with events and visiting details, WordPress or a builder such as Squarespace may be enough. Consider how stock will be managed across shop floor and website. See our guide to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Out-of-date opening hours, particularly over holidays.</li>
+<li>Seasonal banners left up long after the season ends.</li>
+<li>Selling plants online with stock levels that cannot be kept accurate.</li>
+<li>Copied plant descriptions with no care information.</li>
+<li>Stock photography instead of your own plants and displays.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online shops for UK businesses, working remotely with clients across the country. If you run a garden centre or plant nursery and want a site that brings in visitors and sells online, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a garden centre sell plants online?</h3>
+<p>It can, but think carefully about stock accuracy, delivery and plant condition. Many start with a focused range or click and collect.</p>
+<h3>What should a garden centre homepage show?</h3>
+<p>Opening hours, location and current seasonal highlights, with clear routes to plants, the cafe, events and the shop.</p>
+<h3>Do I need plant passports to sell plants online?</h3>
+<p>Some plants and sales may require them. Check current GOV.UK and Animal and Plant Health Agency guidance for your situation.</p>
+<h3>Can a garden centre website take event bookings?</h3>
+<p>Yes. An online booking system can handle workshops and seasonal events and help manage capacity.</p>
+<h3>Which platform suits a garden centre?</h3>
+<p>Shopify or WooCommerce for selling online, or WordPress or a site builder for an information-led site. Stock management across shop and website is a key factor.</p>
+`,
+  },
+  {
+    slug: 'logistics-courier-website-design-uk',
+    seoTitle: 'Logistics and Courier Website Design: UK Guide',
+    title: 'Logistics and Courier Website Design: Quotes, Coverage and Trust',
+    description: 'Website design for UK logistics, haulage and courier firms: service pages, coverage areas, quote forms, tracking links, compliance details and B2B trust.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>Logistics and courier companies often win work through relationships, tenders and repeat customers rather than through their website. Yet when a procurement manager, an ecommerce seller or a small business owner needs a new carrier, the website is frequently where they check whether a firm looks credible and capable. A clear, fast site that answers the practical questions can make the difference between a quote request and a closed tab.</p>
+<p>This guide covers website design for UK logistics businesses, including same-day and multi-drop couriers, haulage firms, pallet network members, freight forwarders and warehousing or fulfilment providers. It focuses on the website itself. For household moves, see our separate guide to <a href="/blog/removals-company-website-design-uk/">removals company website design</a>, and for wider business-to-business promotion see our guide to <a href="/blog/b2b-seo-uk/">B2B SEO</a>.</p>
+
+<h2>Who visits a logistics website</h2>
+<p>A logistics site usually serves several quite different audiences:</p>
+<ul>
+<li>Business buyers comparing carriers for regular contracts.</li>
+<li>Small businesses or individuals needing a one-off urgent delivery.</li>
+<li>Existing customers looking for tracking, invoices or a contact number.</li>
+<li>Drivers, subcontractors or owner-drivers looking for work.</li>
+<li>Recruits for warehouse, transport office or management roles.</li>
+</ul>
+<p>Each group wants something different, so the navigation should make each route obvious. A common approach is to keep services and quotes front and centre, add a clear "Track a delivery" or "Customer login" link in the header, and give recruitment its own section so it does not compete with sales. Our guide to <a href="/blog/website-navigation-structure/">website navigation</a> explains how to structure menus for mixed audiences.</p>
+
+<h2>Lead with what you move and where</h2>
+<p>The first question most buyers ask is whether you can handle their consignment. A homepage that opens with a vague slogan about "delivering excellence" tells them nothing. Instead, state plainly what you carry, how and where, for example: same-day courier services across the Midlands, or palletised freight nationwide with next-day options. Then point to the main services and a way to get a price. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers how to prioritise this content.</p>
+
+<h2>Give each service its own page</h2>
+<p>Logistics firms often offer a mix of services. Separate pages let you explain each properly and give search engines a clear page to show for each kind of search. Depending on what you actually offer, pages might cover:</p>
+<ul>
+<li>Same-day and dedicated courier work.</li>
+<li>Multi-drop and scheduled delivery routes.</li>
+<li>Pallet distribution and part loads.</li>
+<li>Full loads and haulage.</li>
+<li>Temperature-controlled or specialist transport.</li>
+<li>Warehousing, storage and order fulfilment.</li>
+<li>International freight and customs support.</li>
+</ul>
+<p>On each page, describe the vehicles or equipment used, typical lead times, size and weight limits, and the kinds of goods suitable or unsuitable. Only list services you provide directly or can genuinely arrange, and be clear where work is subcontracted or handled through a network if a customer would reasonably want to know.</p>
+
+<h2>Show coverage clearly</h2>
+<p>Coverage is central to a logistics buying decision. A simple statement, a list of regions or a map graphic showing where you collect and deliver helps visitors self-qualify. If you operate from a depot and offer local same-day work alongside national services, explain the difference. Location pages can be useful for areas you genuinely serve, but avoid creating dozens of near-identical town pages with only the place name changed, as these add little value for readers. Our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> covers how to approach location content, and a <a href="/blog/google-business-profile-uk/">Google Business Profile</a> can support visibility for each real depot.</p>
+
+<h2>Make getting a quote easy</h2>
+<p>Quote requests are often the main conversion on a logistics site. The challenge is collecting enough detail to price the job without putting people off. A good quote form usually asks for:</p>
+<ul>
+<li>Collection and delivery postcodes.</li>
+<li>What is being moved, with approximate size, weight and quantity.</li>
+<li>Timing, such as same day, next day or a specific date.</li>
+<li>Whether this is a one-off job or regular work.</li>
+<li>Contact details and preferred response method.</li>
+</ul>
+<p>Consider separate routes for urgent one-off jobs, where a prominent phone number may serve better than a form, and for contract enquiries, where a longer form or a request for a call makes sense. Tell people when they can expect a reply. If you offer instant online pricing for standard parcels or pallets, make sure the calculator is accurate and that any exclusions, surcharges or conditions are visible before booking. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design in more detail.</p>
+
+<h2>Tracking and customer logins</h2>
+<p>Existing customers often visit simply to track a consignment or access a portal. If you use a transport management system or a network tracking page, link to it clearly from the header on every page. Keep the wording obvious, such as "Track a delivery", and make sure the link works well on a phone, since recipients and drivers may use it on the move. If your tracking runs on a separate system, check that the transition feels consistent and that customers can easily get back to your main site.</p>
+
+<h2>Build trust with business buyers</h2>
+<p>Companies handing over goods to a carrier want reassurance that they will arrive safely and on time. Useful trust content can include:</p>
+<ul>
+<li>Your operating history and the people who run the business.</li>
+<li>Real photos of your vehicles, depot and team rather than stock imagery.</li>
+<li>Insurance cover in general terms, such as goods in transit and public liability, if you want to show it.</li>
+<li>Accreditations, quality standards or industry memberships you actually hold.</li>
+<li>Case studies or client testimonials, used only with permission and describing genuine work.</li>
+</ul>
+<p>For goods vehicle operators, an operator's licence issued through the Traffic Commissioners is a legal requirement for many vehicle types, and some buyers will want to see that you hold one. Requirements depend on vehicle weight and how the vehicles are used, so check current guidance from the Driver and Vehicle Standards Agency and GOV.UK before describing your licensing. Never claim an accreditation, membership or insurance level you do not hold. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers this in more depth.</p>
+
+<h2>Explain sector experience honestly</h2>
+<p>Some carriers specialise in particular kinds of goods, such as medical supplies, construction materials, automotive parts, ecommerce parcels or high-value items. If you have genuine capability in a sector, a dedicated page explaining your vehicles, handling procedures and any relevant training can help buyers in that sector find you. If you are a general carrier, it is better to say so than to create sector pages you cannot back up. Where specialist goods involve regulation, such as dangerous goods, describe your capability carefully and accurately.</p>
+
+<h2>Recruitment and driver pages</h2>
+<p>Many logistics firms are recruiting drivers and warehouse staff. A dedicated careers section can help, with:</p>
+<ul>
+<li>Current vacancies with clear job details.</li>
+<li>Information on licence categories or experience needed.</li>
+<li>Whether you work with employed drivers, agency staff or self-employed owner-drivers.</li>
+<li>A simple application form that works on mobile.</li>
+</ul>
+<p>Keep vacancies up to date and remove filled roles. Be careful with how you describe self-employed arrangements, as employment status rules are complex; take advice if unsure. Collect only the personal data you need and explain how it will be used in your privacy notice, in line with UK GDPR.</p>
+
+<h2>Speed, mobile use and accessibility</h2>
+<p>Logistics customers and drivers often use websites on phones, sometimes with patchy signal. Keep pages lightweight, compress images and avoid heavy video on the homepage. Make phone numbers tappable and forms simple to complete with a thumb. Our guides to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> and <a href="/blog/website-accessibility-uk/">website accessibility</a> cover practical steps.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most logistics websites are content and lead generation sites rather than shops, so a content management system such as WordPress, or a builder like Squarespace or Wix for smaller operators, is often enough. If you need instant pricing, online booking and payment for standard services, you may need custom development or an integration with your transport management system. Weigh the flexibility you need against cost and ongoing maintenance. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/website-maintenance-uk/">website maintenance</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A homepage that never says what you move or where.</li>
+<li>One crowded services page instead of clear individual pages.</li>
+<li>Quote forms that ask for too much, or too little to price the job.</li>
+<li>Hidden tracking links that frustrate existing customers.</li>
+<li>Stock photos of lorries that are obviously not your fleet.</li>
+<li>Out-of-date vacancies left live for months.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you run a courier, haulage or logistics business and want a site that explains your services clearly and turns visits into quote requests, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/sectors/b2b/">B2B sector page</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What should a courier website include?</h3>
+<p>Clear service pages, coverage information, an easy quote route, a visible phone number for urgent jobs, tracking links for existing customers and genuine trust information.</p>
+<h3>Should a logistics company show prices online?</h3>
+<p>It depends on the service. Standard parcels or pallets may suit an online calculator, while contract work usually needs a tailored quote. Either way, be clear about what affects price.</p>
+<h3>Do logistics websites need location pages?</h3>
+<p>They can help for areas you genuinely serve, but thin pages that only swap the town name are best avoided.</p>
+<h3>Should I mention my operator's licence on my website?</h3>
+<p>Some buyers find it reassuring. Describe it accurately and check current GOV.UK guidance on licensing requirements for your vehicles.</p>
+<h3>Can my website handle driver recruitment?</h3>
+<p>Yes. A careers section with current vacancies and a simple mobile application form is a common approach.</p>
+`,
+  },
+  {
+    slug: 'printing-company-website-design-uk',
+    seoTitle: 'Printing Company Website Design: A UK Guide',
+    title: 'Printing Company Website Design: Products, Quotes and Artwork',
+    description: 'Website design for UK printers: product pages, online ordering or quotes, artwork upload and file guidance, proofs, turnaround times and delivery information.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/ecommerce-website-design-uk/', '/pricing/'],
+    body: `
+<p>Printing companies range from local high street print shops to commercial litho and digital printers, large format specialists and businesses producing printed merchandise. Whatever the scale, customers increasingly expect to see products, prices and turnaround times online, and many want to upload artwork and order without a phone call. A well-planned website can handle routine orders smoothly while still bringing in larger, more complex jobs.</p>
+<p>This guide covers website design for UK printers. It focuses on the website itself rather than on wider marketing. If you sell your own art prints or posters directly to consumers rather than offering a print service, our guide to <a href="/blog/shopify-art-print-sellers-uk/">Shopify for art print sellers</a> is more relevant. For general online shop design, see our guide to <a href="/blog/ecommerce-website-design-uk/">ecommerce website design</a>.</p>
+
+<h2>Decide how customers will buy</h2>
+<p>The biggest structural decision is how people will order. Printers typically use one or a mix of three models:</p>
+<ul>
+<li><strong>Online ordering</strong> for standard products such as business cards, flyers or banners, with set sizes, stocks and quantities.</li>
+<li><strong>Quote requests</strong> for bespoke work, such as brochures with unusual finishes, packaging or large runs.</li>
+<li><strong>Trade or account ordering</strong> for agencies, resellers or regular business customers.</li>
+</ul>
+<p>Many printers combine these: an online shop for standard items and a quote route for everything else. Be realistic about which model fits your work. Building complex online pricing for products you mostly quote for individually can create more problems than it solves.</p>
+
+<h2>Organise products the way customers think</h2>
+<p>Customers often search for the thing they need, such as "leaflet printing" or "roller banners", rather than for a process like litho or digital. Structuring the site by product type tends to be easier to navigate. Categories might include:</p>
+<ul>
+<li>Business stationery, such as cards, letterheads and compliments slips.</li>
+<li>Marketing print, such as flyers, leaflets, brochures and booklets.</li>
+<li>Large format, such as posters, banners and signs.</li>
+<li>Labels, stickers and packaging.</li>
+<li>Event and wedding stationery.</li>
+<li>Printed clothing or promotional items, if you produce them.</li>
+</ul>
+<p>Each product page can then explain available sizes, paper stocks, finishes and turnaround, with good photos of real printed samples. You can still include a page explaining your equipment and processes for buyers who care. See our guide to <a href="/blog/website-navigation-structure/">website navigation</a> and our guide to <a href="/blog/ecommerce-category-page-design/">category page design</a>.</p>
+
+<h2>Product options and pricing</h2>
+<p>Print products often have many combinations: size, stock weight, finish, sides printed, quantity. Presenting these clearly is a real design challenge. Some principles help:</p>
+<ul>
+<li>Let customers choose options step by step, with the price updating as they go.</li>
+<li>Explain technical terms, such as paper weight in gsm or finishes like matt lamination, in plain language.</li>
+<li>Show whether prices include VAT and delivery.</li>
+<li>Make quantity price breaks visible so customers can see the value of ordering more.</li>
+</ul>
+<p>Complex option matrices may need a specialist print ordering plugin or custom development rather than a standard product page. Test the ordering flow thoroughly on mobile. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers related decisions.</p>
+
+<h2>Artwork upload and file guidance</h2>
+<p>Artwork problems are a common cause of delays in print. Good website design can reduce them by making requirements clear before the customer uploads anything. Consider:</p>
+<ul>
+<li>A clear artwork guidelines page covering bleed, resolution, colour mode and accepted file formats.</li>
+<li>Downloadable templates for common products, if you provide them.</li>
+<li>A straightforward upload step during or after ordering, with file size limits stated.</li>
+<li>Explaining what happens if artwork has problems, and whether you offer checks or design help.</li>
+</ul>
+<p>Write the guidance for non-designers as well as professionals. Many small business customers will not know what bleed means until you explain it. Make sure uploaded files are stored and handled securely, and explain this in your privacy notice.</p>
+
+<h2>Proofs and approvals</h2>
+<p>Explain your proofing process clearly. Customers want to know whether they will see a digital proof, whether physical proofs are available, how long they have to approve, and what happens to turnaround if approval is delayed. Describe your actual process and make the approval step easy to find. Clarity here reduces disputes later, particularly about colour or errors in supplied artwork.</p>
+
+<h2>Turnaround and delivery</h2>
+<p>Speed is a deciding factor for many print buyers, often because they have an event or launch date. Show realistic turnaround times on each product page, explain when the clock starts, for example after artwork approval, and state any cut-off times for same-day or next-day production. Delivery options, collection from your premises and costs should be easy to find before checkout. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers how to present this information. Because printed items are usually personalised, explain your policy on errors and reprints clearly; consumer rights for personalised goods differ from standard goods, so check current guidance or take advice.</p>
+
+<h2>Quote forms for bespoke work</h2>
+<p>For jobs that do not fit standard products, a quote form should collect the information you need to price accurately:</p>
+<ul>
+<li>The type of item and its purpose.</li>
+<li>Size, page count and quantity.</li>
+<li>Paper or material preferences, and finishes.</li>
+<li>Deadline.</li>
+<li>Whether artwork is ready or design help is needed.</li>
+<li>An optional file upload for reference material.</li>
+</ul>
+<p>Say how quickly you will reply. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers form design.</p>
+
+<h2>Trade customers and repeat orders</h2>
+<p>Many printers rely on repeat business from agencies, resellers and local companies. Features that can help include customer accounts for reordering previous jobs, trade pricing for approved customers, and the ability to store artwork for repeat runs. Only build what your customers will actually use. Our guide to <a href="/blog/ecommerce-customer-accounts-and-wishlists/">customer accounts</a> covers the options.</p>
+
+<h2>Showing your work</h2>
+<p>Print is tactile, which makes it hard to sell online. Good photography of real finished products, close-ups of finishes and stocks, and short videos of items being handled can help customers understand quality. A gallery of genuine jobs, shown with client permission, can demonstrate range. If you offer a sample pack, make it easy to request. Our guide to <a href="/blog/ecommerce-product-photography/">product photography</a> covers how to photograph items well.</p>
+
+<h2>Local visibility</h2>
+<p>Many printers still serve a local area for collection, urgent jobs and face-to-face customers. Make your address, opening hours and phone number clear, and keep your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> up to date. Our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> covers more.</p>
+
+<h2>Design services and help for beginners</h2>
+<p>Not every customer arrives with print-ready artwork. Small businesses, clubs and individuals may have only a rough idea, a logo or some text. If you offer design help, give it a clear page explaining what is available, how the process works in practice and how it is priced. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers presenting options like this clearly. Make it easy to add design help during ordering, rather than forcing customers to start again with a separate enquiry.</p>
+<p>A short FAQ can also help beginners with common questions, such as the difference between paper stocks, which finish suits a particular use, or how many leaflets a typical door-to-door drop might need. Answering these on the site can reduce phone calls and help customers order with confidence. Keep answers general and practical, and avoid promising outcomes that depend on the customer's artwork or use. Our guides to <a href="/blog/website-faq-page/">FAQ pages</a> and <a href="/blog/website-copywriting-uk/">website copywriting</a> cover how to write this kind of content.</p>
+
+<h2>Choosing a platform</h2>
+<p>Standard print products can be sold through Shopify or WooCommerce, often with apps or plugins for product options and file uploads. More complex print pricing may need specialist web-to-print software or custom development. Consider how orders will connect to your production workflow. See our guides to <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce</a> and <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Technical jargon with no explanation for non-designers.</li>
+<li>Hidden or vague turnaround times.</li>
+<li>No artwork guidance, leading to repeated file problems.</li>
+<li>Prices shown without making VAT and delivery clear.</li>
+<li>Stock photos that do not show your real print quality.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites and online shops for UK businesses, working remotely with clients across the country. If you run a printing business and want a site that makes ordering, uploading artwork and requesting quotes straightforward, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Should a printer sell online or ask for quotes?</h3>
+<p>Many printers do both: online ordering for standard products and quote forms for bespoke work.</p>
+<h3>How can a printing website reduce artwork problems?</h3>
+<p>Clear artwork guidelines, templates and a simple upload step, written for non-designers, can reduce errors.</p>
+<h3>Can Shopify handle print products?</h3>
+<p>It can handle standard products, often with apps for options and file uploads. Very complex pricing may need specialist tools.</p>
+<h3>Should turnaround times be shown on product pages?</h3>
+<p>Yes. Show realistic times and explain when production starts, such as after proof approval.</p>
+<h3>Do printers need customer accounts on their website?</h3>
+<p>They can help trade and repeat customers reorder, but only add them if your customers will use them.</p>
+`,
+  },
+  {
+    slug: 'saas-website-design-uk',
+    seoTitle: 'SaaS Website Design: A UK Guide for Startups',
+    title: 'SaaS Website Design: Messaging, Pricing Pages and Sign-Ups',
+    description: 'Website design for UK SaaS and software startups: clear positioning, product pages, pricing tables, trials and demos, documentation, security and onboarding.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/saas/', '/pricing/'],
+    body: `
+<p>For a software company, the website is often the main place a prospective customer meets the product before they sign up, book a demo or start a trial. That puts a lot of weight on the marketing site. It has to explain something intangible, persuade busy people to invest time in trying it, and hand them smoothly into the product itself.</p>
+<p>This guide covers website design for UK SaaS and software startups, from early-stage products looking for their first users to growing companies selling to larger teams. It focuses on the marketing website. For attracting visitors to it, see our guides to <a href="/blog/saas-seo-agency-uk/">SaaS SEO</a> and <a href="/blog/saas-ppc-uk/">SaaS PPC</a>, and for wider early-stage promotion see our guide to <a href="/blog/marketing-agency-for-startups-uk/">marketing for startups</a>.</p>
+
+<h2>Start with positioning, not pages</h2>
+<p>Many software websites struggle because the product's positioning is unclear rather than because of the design. Before planning pages, it helps to be able to answer:</p>
+<ul>
+<li>Who is the product for, specifically?</li>
+<li>What problem does it solve for them?</li>
+<li>What do they use today instead, even if that is a spreadsheet?</li>
+<li>Why is your approach better for them?</li>
+</ul>
+<p>The answers shape the headline, the order of the homepage and which features get attention. A headline that names the audience and the outcome is usually clearer than a clever phrase or a list of technologies. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing for clarity.</p>
+
+<h2>Homepage structure</h2>
+<p>A SaaS homepage often follows a broad pattern, adapted to the product:</p>
+<ul>
+<li>A headline and short supporting line explaining what the product does and for whom.</li>
+<li>A primary call to action, such as start a trial, sign up or book a demo.</li>
+<li>A real view of the product, such as a screenshot or short clip.</li>
+<li>Key benefits linked to the features that deliver them.</li>
+<li>Proof, such as customer logos or testimonials, only where you have permission.</li>
+<li>Answers to common objections, then a repeated call to action.</li>
+</ul>
+<p>Show the actual interface where you can. Abstract illustrations may look polished but often leave visitors unsure what they would be using. Keep screenshots current, because an outdated interface can undermine trust when people sign up and see something different. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> goes further.</p>
+
+<h2>Product and feature pages</h2>
+<p>As a product grows, a single homepage cannot explain everything. Separate pages can cover:</p>
+<ul>
+<li>Major features or modules, explained in terms of the job they do.</li>
+<li>Use cases or roles, such as finance teams or agencies.</li>
+<li>Industries, where you genuinely serve them.</li>
+<li>Integrations with other tools, listed accurately.</li>
+<li>Comparison pages explaining how your approach differs from alternatives, kept fair and factual.</li>
+</ul>
+<p>These pages also give search engines specific pages to show for specific searches. Avoid creating use case or industry pages for audiences you do not actually serve, and keep integration lists honest about what is native, what needs a third-party connector and what is planned.</p>
+
+<h2>Pricing pages</h2>
+<p>Pricing is one of the most visited pages on many software sites. Common decisions include:</p>
+<ul>
+<li>Whether to publish prices or ask larger customers to contact sales.</li>
+<li>How many plans to offer and how to name them.</li>
+<li>Whether to show monthly and annual prices, and how to present any annual discount.</li>
+<li>Which limits or features separate each plan.</li>
+<li>Whether prices are shown with or without VAT.</li>
+</ul>
+<p>A clear comparison table, a short FAQ beneath it and an obvious action for each plan tend to help. Make sure the page matches what happens in your billing system, and be clear about renewals, cancellation terms and what happens at the end of a free trial. UK consumer law has specific rules on subscriptions and pricing where you sell to consumers, so take advice if that applies. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> covers layout options.</p>
+
+<h2>Trials, freemium and demos</h2>
+<p>How people start using the product shapes the whole site. Self-serve products usually push a sign-up or trial button, while products sold to larger organisations often lead with a demo request. Many offer both. Think about:</p>
+<ul>
+<li>How few fields the sign-up form can have.</li>
+<li>Whether a payment card is required to start a trial.</li>
+<li>What the first screen after sign-up looks like, since the handover from website to product matters.</li>
+<li>For demos, whether people can book a time directly rather than waiting for an email.</li>
+</ul>
+<p>Our guides to <a href="/blog/landing-page-design-uk/">landing page design</a> and <a href="/blog/website-online-booking-systems/">online booking systems</a> cover related decisions.</p>
+
+<h2>Security, privacy and compliance information</h2>
+<p>Business buyers, particularly larger ones, often need to check how you handle their data before they can sign up. A security or trust page can explain in plain terms where data is hosted, how it is protected, how you handle UK GDPR obligations and how customers can request further documentation. Only mention certifications, audits or standards you have actually achieved, and date the information. Make your privacy notice, terms of service and any data processing agreement easy to find. Where legal wording is involved, take professional advice rather than copying another company's documents.</p>
+
+<h2>Documentation, help and changelogs</h2>
+<p>Help centres, documentation and changelogs are often part of the buying process as well as support. Prospective customers read them to understand how the product really works, and technical buyers may check API documentation before agreeing to a trial. Decide whether these live on the main site or a separate subdomain, make them easy to reach from the navigation, and keep them current. A public changelog can show the product is actively developed, but only if it is updated regularly.</p>
+
+<h2>Blog and content</h2>
+<p>Useful articles can attract the people your product helps and give them a reason to come back. Content works best when it addresses real problems your audience searches for, rather than only announcing features. Connect relevant articles to the product pages that solve the problem they discuss, without making every post a sales pitch.</p>
+
+<h2>Design systems and consistency</h2>
+<p>Software companies ship changes quickly, and the marketing site needs to keep up. A small set of reusable page sections, such as feature blocks, testimonial strips and pricing tables, makes it easier to launch new pages without design drift. Keeping the website's visual style close to the product's interface also helps the move from marketing site to app feel seamless. Accessibility matters on both; our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the basics.</p>
+
+<h2>Choosing a platform</h2>
+<p>Many SaaS teams want marketers to update the site without waiting for developers. A content management system such as WordPress, or a hosted builder for very early products, can allow this. Some teams build the marketing site within their own codebase, which gives developers control but can slow down content changes. Think about who will edit the site, how often and how it connects to sign-up and analytics. See our guides to <a href="/blog/website-builder-vs-custom-website/">website builders vs custom websites</a> and <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a>.</p>
+
+<h2>Measuring what matters</h2>
+<p>Set up analytics to track the actions that matter, such as trial starts, demo bookings and pricing page visits, and connect them where possible to what happens next in the product. Google Analytics and Google Search Console are common starting points. Make sure any tracking respects cookie consent rules under UK law.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>A headline that describes technology rather than the outcome for the user.</li>
+<li>Abstract illustrations instead of the real product.</li>
+<li>Pricing pages that do not match billing or hide key terms.</li>
+<li>Long sign-up forms that ask for details you could collect later.</li>
+<li>Logos or certifications shown without permission or evidence.</li>
+<li>Out-of-date screenshots and integration lists.</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, working remotely with clients across the country. If you are launching or growing a software product and want a marketing site that explains it clearly and makes trying it easy, see our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, our <a href="/sectors/saas/">SaaS sector page</a>, our <a href="/pricing/">pricing page</a>, or <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What pages does a SaaS website need?</h3>
+<p>Typically a homepage, product or feature pages, pricing, a sign-up or demo route, security and legal pages, and help or documentation. More pages can follow as the product grows.</p>
+<h3>Should a SaaS company publish its prices?</h3>
+<p>Many self-serve products do. Products sold to larger organisations sometimes ask enterprise buyers to contact sales. Either way, be clear about what is included.</p>
+<h3>Should I offer a free trial or a demo?</h3>
+<p>It depends on how complex the product is and who buys it. Many companies offer both, with the website directing each visitor to the route that suits them.</p>
+<h3>Where should SaaS documentation live?</h3>
+<p>On the main site or a subdomain, as long as it is easy to reach, searchable and kept up to date.</p>
+<h3>How important are screenshots on a SaaS website?</h3>
+<p>Real, current screenshots help visitors understand what they would actually be using, which abstract illustrations often fail to do.</p>
+`,
+  },
 ];
