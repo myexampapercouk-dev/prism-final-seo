@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Plugin Audit: How to Review Your Plugins</title>
+<meta name="description" content="How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Plugin Audit: How to Review Your Plugins">
+<meta property="og:description" content="How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-plugin-audit.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/#article","headline":"WordPress Plugin Audit: How to Review, Remove and Replace Plugins","description":"How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/","url":"https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-plugin-audit.png","inLanguage":"en-GB","wordCount":1480,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Plugin Audit: How to Review, Remove and Replace Plugins","item":"https://prismworksstudio.co.uk/blog/wordpress-plugin-audit/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How many plugins is too many for WordPress?","acceptedAnswer":{"@type":"Answer","text":"There is no magic number. What matters is whether each plugin is needed, maintained and well built. A few poorly made plugins can cause more trouble than many good ones."}},{"@type":"Question","name":"Is it safe to delete inactive plugins?","acceptedAnswer":{"@type":"Answer","text":"Usually yes, if you are sure they are not needed. Take a backup first and check whether the plugin stores data you want to keep."}},{"@type":"Question","name":"How do I know if a plugin is abandoned?","acceptedAnswer":{"@type":"Answer","text":"Check its last update date and whether it is marked as tested with recent WordPress versions. Long gaps without updates suggest it may no longer be maintained."}},{"@type":"Question","name":"Can removing a plugin break my site?","acceptedAnswer":{"@type":"Answer","text":"It can, if something depends on it. That is why you should back up, test on staging and remove plugins one at a time."}},{"@type":"Question","name":"Do plugins slow WordPress down?","acceptedAnswer":{"@type":"Answer","text":"Some do, particularly those that load scripts on every page. Removing unnecessary plugins is often one of the simpler ways to lighten a site."}},{"@type":"Question","name":"Can Prism Works Studio audit my plugins?","acceptedAnswer":{"@type":"Answer","text":"Yes. We can review your WordPress site and talk through what to keep, replace or remove. Get in touch via our contact page."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Plugin Audit: How to Review, Remove and Replace Plugins</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Plugin Audit: How to Review, Remove and Replace Plugins</h1><p class="pws-lead">How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Audit plugins by asking of each one: is it needed, is it maintained, does it overlap with another, and what does it cost in speed and risk.</li><li>Always back up and test on a staging copy before deactivating or removing plugins on a live site.</li><li>Deactivated plugins should usually be deleted, and the audit repeated regularly rather than once.</li></ul></div>
+<p>Plugins are what make WordPress so flexible. They are also where many WordPress problems start. Over time, sites collect plugins that were installed for a one-off task, replaced by something else, or added by someone who has since left. Each extra plugin is more code to update, more potential for conflicts and another possible way in for attackers.</p>
+<p>A plugin audit is a structured review of every plugin on your site, deciding what stays, what goes and what should be replaced. This guide explains how to do one safely. It complements our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> and <a href="/blog/website-maintenance-uk/">website maintenance guide</a>.</p>
+
+<h2>Why audit your plugins?</h2>
+<ul>
+<li><strong>Security.</strong> Outdated or abandoned plugins are a well-known route for attacks on WordPress sites. Fewer plugins, kept up to date, means fewer weak points.</li>
+<li><strong>Speed.</strong> Some plugins load scripts and styles on every page, even where they are not used. Removing them can make pages lighter. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers this in more detail.</li>
+<li><strong>Stability.</strong> Plugins that overlap or clash can cause errors, especially after updates.</li>
+<li><strong>Cost.</strong> Premium plugins often renew annually. An audit can reveal licences you are paying for but no longer need.</li>
+<li><strong>Clarity.</strong> Knowing what each plugin does makes future changes and handovers far easier.</li>
+</ul>
+
+<h2>Before you start: protect the site</h2>
+<p>Deactivating the wrong plugin can break a layout, a form or a checkout. Before changing anything:</p>
+<ol>
+<li>Take a full backup of files and database, stored away from the live server. Check that the backup includes both parts; a copy of the files without the database will not restore a working site.</li>
+<li>Set up a staging copy of the site if you can, so you can test changes without affecting visitors. Many hosts offer this.</li>
+<li>Pick a quiet time for any changes to the live site.</li>
+</ol>
+
+<h2>Step 1: List every plugin</h2>
+<p>Go to Plugins in the WordPress dashboard and record each one in a spreadsheet. For each plugin, note:</p>
+<ul>
+<li>Name and version.</li>
+<li>Active or inactive.</li>
+<li>Free or premium, and renewal date if premium.</li>
+<li>What it does, in one plain sentence.</li>
+<li>Where on the site it is used.</li>
+<li>When it was last updated by its developer.</li>
+</ul>
+<p>Also check for must-use plugins, which appear under a separate Must-Use tab if present, as they cannot be deactivated from the normal list and are sometimes added by hosts.</p>
+<p>If you cannot say what a plugin does, that is a finding in itself. Search the plugin's description in the dashboard, and check its settings page, to work out its purpose before deciding anything.</p>
+
+<h2>Step 2: Ask four questions of each plugin</h2>
+
+<h3>Is it needed?</h3>
+<p>Does the site still use this feature? Plugins installed for a past campaign, an old contact form, a migration or a design that has since changed are common candidates for removal. If nobody can point to where it is used, test the site without it on staging.</p>
+
+<h3>Is it maintained?</h3>
+<p>Check when the plugin was last updated and whether it is marked as tested with your version of WordPress. A plugin that has not been updated for a long time may be abandoned. If a plugin has been closed or removed from the WordPress.org plugin directory, find out why, as this is sometimes due to an unresolved security issue. An abandoned plugin is not automatically dangerous, but it will not be fixed if a problem is found.</p>
+
+<h3>Does it overlap with something else?</h3>
+<p>Sites often end up with two plugins doing the same job, such as two SEO plugins, two caching plugins or two form builders. Overlap can cause conflicts and duplicate output, like two sets of meta tags. Pick one and remove the other. Also check whether WordPress itself, your theme or your host now provides the feature, which can make a plugin redundant.</p>
+
+<h3>What does it cost?</h3>
+<p>Consider cost in money, speed and risk. A plugin that loads heavy scripts on every page to power a feature on one page may be worth replacing with something lighter or a small piece of custom code. Weigh this against the effort and risk of changing it.</p>
+
+<h2>Step 3: Sort plugins into groups</h2>
+<table>
+<thead><tr><th>Decision</th><th>When it applies</th></tr></thead>
+<tbody>
+<tr><td>Keep</td><td>Needed, maintained, no overlap, reasonable cost</td></tr>
+<tr><td>Update</td><td>Needed, but running an old version</td></tr>
+<tr><td>Replace</td><td>Needed, but abandoned, overlapping or heavy</td></tr>
+<tr><td>Remove</td><td>No longer used, or duplicated by another plugin or by WordPress itself</td></tr>
+<tr><td>Investigate</td><td>Purpose unclear, or removal might affect something important</td></tr>
+</tbody>
+</table>
+
+<h2>Step 4: Make changes one at a time</h2>
+<p>On staging, work through the list. Deactivate one plugin, then check the site. Test the pages and features that plugin might affect, plus the core journeys: home page, key landing pages, contact forms and, for WooCommerce, product pages, basket and checkout in test mode. Only move on when you are happy.</p>
+<p>Changing several plugins at once makes it hard to tell which change caused a problem. One at a time is slower but much safer.</p>
+<p>When replacing a plugin, check what data it stores. Some plugins hold content, settings or form entries that will not transfer automatically to a replacement. Export anything you need first.</p>
+
+<h2>Step 5: Delete, do not just deactivate</h2>
+<p>A deactivated plugin is not running, but its files remain on the server. Depending on the plugin and server set-up, those files could still pose a risk if they contain a vulnerability. Once you are sure you do not need a plugin, delete it. Some plugins leave data in the database after deletion; check the plugin's documentation for an option to remove its data if you want a cleaner database.</p>
+
+<h2>Step 6: Apply to live and keep a record</h2>
+<p>Once the changes work on staging, take a fresh backup of the live site and repeat the same changes there, in the same order. Check the site again afterwards. Keep your spreadsheet as a record of what is installed and why. It becomes a useful reference for future updates, developer handovers and the next audit. Our <a href="/blog/website-ownership-and-handover/">ownership and handover guide</a> explains why that kind of documentation matters.</p>
+
+<h2>Signs a plugin needs attention</h2>
+<ul>
+<li>It has not been updated for a long time.</li>
+<li>It shows a warning that it has not been tested with your WordPress version.</li>
+<li>The site shows errors or slows down after the plugin updates.</li>
+<li>It adds admin notices or upsells you cannot dismiss.</li>
+<li>Its premium licence has lapsed, so updates have stopped.</li>
+<li>Nobody knows why it was installed.</li>
+</ul>
+
+<h2>Questions to ask before installing a new plugin</h2>
+<p>The easiest plugin to manage is the one you never install. Before adding anything new, ask a few questions. Can WordPress, your theme or an existing plugin already do this? Is the plugin actively maintained and tested with your WordPress version? Does it load code across the whole site for a feature used on one page? Is there a clear way to remove it, and its data, later if you change your mind? If it is premium, who holds the licence, and will updates stop if it lapses? Adding the answers to your plugin spreadsheet at the point of installation keeps the record up to date and makes the next audit quicker.</p>
+
+<h2>How often to audit</h2>
+<p>There is no fixed rule, but a review every few months, plus a check whenever you add a plugin or redesign part of the site, keeps things under control. Updates themselves should happen far more often than audits; keeping plugins updated is part of routine maintenance.</p>
+
+<h2>Plugins on WooCommerce shops</h2>
+<p>WooCommerce shops tend to rely on more plugins for payments, shipping, tax and marketing. These are often business-critical, so be especially careful. Test checkout and order emails after every change, and avoid making changes during busy trading periods. If you are weighing up whether plugin upkeep is becoming a burden, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> discusses the trade-offs between the platforms.</p>
+
+<h2>FAQs</h2>
+<h3>How many plugins is too many for WordPress?</h3>
+<p>There is no magic number. What matters is whether each plugin is needed, maintained and well built. A few poorly made plugins can cause more trouble than many good ones.</p>
+<h3>Is it safe to delete inactive plugins?</h3>
+<p>Usually yes, if you are sure they are not needed. Take a backup first and check whether the plugin stores data you want to keep.</p>
+<h3>How do I know if a plugin is abandoned?</h3>
+<p>Check its last update date and whether it is marked as tested with recent WordPress versions. Long gaps without updates suggest it may no longer be maintained.</p>
+<h3>Can removing a plugin break my site?</h3>
+<p>It can, if something depends on it. That is why you should back up, test on staging and remove plugins one at a time.</p>
+<h3>Do plugins slow WordPress down?</h3>
+<p>Some do, particularly those that load scripts on every page. Removing unnecessary plugins is often one of the simpler ways to lighten a site.</p>
+<h3>Can Prism Works Studio audit my plugins?</h3>
+<p>Yes. We can review your WordPress site and talk through what to keep, replace or remove. Get in touch via our <a href="/contact/">contact page</a>.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Plugin%20Audit%3A%20How%20to%20Review%2C%20Remove%20and%20Replace%20Plugins'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-terms-and-privacy-policy-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Website Terms and Conditions and Privacy Policy: A UK Business Guide</h3><p>The basics of website terms and conditions, privacy policies and cookie notices for UK businesses and online shops. General guidance, not legal advice.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-ownership-and-handover/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Website Ownership and Handover: Domains, Logins, Code and Content</h3><p>Who owns your website? A UK guide to domains, hosting, platform accounts, code, content and analytics, plus a handover checklist to agree before you start.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Plugin%20Audit%3A%20How%20to%20Review%2C%20Remove%20and%20Replace%20Plugins'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

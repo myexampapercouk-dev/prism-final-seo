@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Change Website Hosting Without Downtime</title>
+<meta name="description" content="How to change website hosting without downtime: plan the move, copy the site, test before DNS changes, lower TTL, protect email and check everything after.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Change Website Hosting Without Downtime">
+<meta property="og:description" content="How to change website hosting without downtime: plan the move, copy the site, test before DNS changes, lower TTL, protect email and check everything after.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-change-website-hosting-without-downtime.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/#article","headline":"How to Move Website Hosting Without Downtime","description":"How to change website hosting without downtime: plan the move, copy the site, test before DNS changes, lower TTL, protect email and check everything after.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/","url":"https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/","image":"https://prismworksstudio.co.uk/assets/og/blog-change-website-hosting-without-downtime.png","inLanguage":"en-GB","wordCount":1597,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Move Website Hosting Without Downtime","item":"https://prismworksstudio.co.uk/blog/change-website-hosting-without-downtime/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I move hosting without any downtime?","acceptedAnswer":{"@type":"Answer","text":"For many sites, yes, if the new site is fully set up and tested before DNS changes and the old hosting stays live until the change has spread."}},{"@type":"Question","name":"How long does a DNS change take to spread?","acceptedAnswer":{"@type":"Answer","text":"It depends on the TTL values and on how long other networks cache records. Lowering TTL in advance shortens it, but keep the old host running as a buffer."}},{"@type":"Question","name":"Will moving hosting affect my SEO?","acceptedAnswer":{"@type":"Answer","text":"If the URLs and content stay the same and the site stays available, a hosting move on its own should not normally cause problems. A slower or unreliable new host could, so check speed after the move."}},{"@type":"Question","name":"Will I lose my email if I change hosting?","acceptedAnswer":{"@type":"Answer","text":"Not if you plan for it. Identify where email is hosted, recreate MX and authentication records where needed, and move any mailboxes before cancelling the old account."}},{"@type":"Question","name":"What about orders placed during the move?","acceptedAnswer":{"@type":"Answer","text":"Copy the database as late as possible, pick a quiet time and pause content changes until the switch is complete, so no orders are left on the old server."}},{"@type":"Question","name":"Can Prism Works Studio move my site?","acceptedAnswer":{"@type":"Answer","text":"We can help plan and carry out hosting moves. See our pricing page or get in touch via our contact page."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Move Website Hosting Without Downtime</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Move Website Hosting Without Downtime</h1><p class="pws-lead">How to change website hosting without downtime: plan the move, copy the site, test before DNS changes, lower TTL, protect email and check everything after.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Set up and test the site on the new host before changing DNS, so visitors keep seeing the old site until the new one is ready.</li><li>Lower your DNS TTL in advance and keep the old hosting running until the change has fully spread.</li><li>Map every DNS record, especially email records, before you move, so email and other services keep working.</li></ul></div>
+<p>Moving a website to a new host sounds risky, and done carelessly it can be: broken pages, missing images, lost emails and a site that disappears for a day. Done in the right order, though, visitors should not notice the switch. The trick is to build and test the new home completely before pointing anyone at it.</p>
+<p>This guide walks through how to change website hosting without downtime for a typical self-hosted site, such as WordPress or WooCommerce. It also explains what is different if your site is on a hosted platform. If you are choosing a new host for WordPress, our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers what to look for.</p>
+
+<h2>How visitors find your website</h2>
+<p>It helps to understand why downtime happens. Your domain name is just a label. When someone types it in, their device asks the Domain Name System (DNS) which server holds the site. DNS records, managed wherever your DNS is hosted, answer that question.</p>
+<p>Changing hosting means changing those records to point at the new server. DNS answers are cached around the internet for a period set by each record's TTL (time to live). Until those caches expire, some visitors are sent to the old server and some to the new one. Downtime happens when the old server has already been switched off, or the new one is not ready, during that overlap.</p>
+<p>So the whole method comes down to one principle: both servers must serve a working site for the entire changeover.</p>
+
+<h2>Step 1: Take stock before you start</h2>
+<p>Write down everything the current hosting provides. It is often more than the website:</p>
+<ul>
+<li>The website files and database.</li>
+<li>Email mailboxes, if they are hosted with the same provider.</li>
+<li>DNS, if the host also manages your domain's records.</li>
+<li>SSL certificates.</li>
+<li>Scheduled tasks, server-level redirects and custom configuration.</li>
+<li>Subdomains, such as a staging site or a separate shop.</li>
+<li>Software versions, such as the PHP version a WordPress site runs on.</li>
+</ul>
+<p>Also find out where your domain is registered and who has the login. If you cannot change DNS records, you cannot complete the move. Our <a href="/blog/website-ownership-and-handover/">ownership and handover guide</a> explains why these accounts should be in the business's own name.</p>
+
+<h2>Step 2: Take a full backup</h2>
+<p>Before touching anything, take a complete backup of files and database and store it somewhere other than the current host. If anything goes wrong during the move, this is your safety net. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers backups as part of routine care.</p>
+
+<h2>Step 3: Lower the DNS TTL in advance</h2>
+<p>A day or two before the move, lower the TTL on the records you will change, usually the A record for your domain and any www record. A shorter TTL means caches expire sooner, so when you do switch, the change spreads faster and the overlap is shorter. You will need to wait for the old, longer TTL to expire before the new short value takes effect, which is why this is done in advance.</p>
+
+<h2>Step 4: Set up the new hosting</h2>
+<p>Set up the new hosting account and match the environment to the old one as closely as is sensible: the same or a compatible software version, the same database settings and enough storage for your files. If you plan to upgrade versions as part of the move, consider doing that as a separate step later, so you are only changing one thing at a time.</p>
+
+<h2>Step 5: Copy the site across</h2>
+<p>Copy the files and import the database onto the new server. For WordPress, the site's address is stored in the database, and the configuration file holds database connection details, so both need checking after the copy. Many hosts offer migration tools or will migrate a site for you; whichever route you use, the testing steps below still apply.</p>
+<p>On a shop or a site that takes bookings or form submissions, plan a short content freeze. Any orders or changes made on the old server after you copy the database will not exist on the new one. Choose a quiet time, copy the database as late as possible, and avoid editing content until the switch is complete.</p>
+
+<h2>Step 6: Test before anyone sees it</h2>
+<p>This is the step that avoids downtime. You want to view the site on the new server while the public still sees the old one. Common ways to do this include a temporary address provided by the new host, or editing the hosts file on your own computer so only your machine is sent to the new server. Your host's documentation will explain the options available.</p>
+<p>Check thoroughly:</p>
+<ul>
+<li>Every main page and template loads correctly.</li>
+<li>Images, downloads and fonts appear.</li>
+<li>Contact forms send and arrive.</li>
+<li>Shop: products, basket, checkout and payment in test mode, plus order emails.</li>
+<li>Logins for admin and customer accounts.</li>
+<li>Redirects you rely on still work.</li>
+<li>No error messages appear.</li>
+</ul>
+<p>Fix anything that fails before moving on. Nothing has changed for visitors yet, so there is no pressure.</p>
+
+<h2>Step 7: Prepare SSL</h2>
+<p>Visitors expect a secure connection. Make sure the new host can issue or install an SSL certificate for your domain. Some certificates can only be issued once DNS points at the new server, which can mean a short gap; check with the new host how they handle this so you can plan around it.</p>
+
+<h2>Step 8: Map every DNS record, especially email</h2>
+<p>Before switching, list every DNS record that currently exists. Email depends on MX records and on authentication records such as SPF, DKIM and DMARC. Other services, such as site verification for Google tools or email marketing platforms, may rely on TXT or CNAME records.</p>
+<p>If you are moving DNS management to a new provider as well as the website, recreate every record there first. A missing MX record can stop email arriving. If your email is staying where it is, make sure only the website records change.</p>
+
+<h2>Step 9: Switch DNS</h2>
+<p>When the new site is tested and records are ready, update the A record (and www) to point at the new server. Because you lowered the TTL, visitors should move over fairly quickly, but some caches may take longer. That is fine: the old server is still running and still serving a working site.</p>
+
+<h2>Step 10: Check, then wait before cancelling</h2>
+<p>Once the change has spread, repeat the tests on the live domain. Check that the SSL certificate is valid, forms and checkout work, and email is flowing in both directions. If you use Google Search Console, check for crawl errors over the following days.</p>
+<p>Do not cancel the old hosting straight away. Keep it running for a while so stragglers on old DNS caches still see a working site, and so you can retrieve anything you missed. Before cancelling, take one final backup from the old server and download any email still stored there. Once you are happy, you can raise the TTL back to a normal value.</p>
+
+<h2>What if you are on Shopify, Wix or Squarespace?</h2>
+<p>On hosted platforms, the platform provides the hosting, so "changing hosting" usually means moving to a different platform altogether. That is a migration rather than a hosting move: content, URLs and design all change. The DNS principles above still apply when you point your domain at the new platform, but you also need redirects from old URLs to new ones to protect search rankings. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers that side.</p>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li>Cancelling old hosting before DNS has fully switched.</li>
+<li>Forgetting email records when moving DNS.</li>
+<li>Copying the database early, then losing orders placed after the copy.</li>
+<li>Testing only the home page.</li>
+<li>Changing hosting, software versions and design all at once, making faults hard to trace.</li>
+<li>Not knowing who holds the domain login until the day of the move.</li>
+</ul>
+
+<h2>A one-page move plan</h2>
+<p>Before you begin, it helps to write the move as a short plan that everyone involved can see. List the date and time of the switch, who is doing each step, how you will test, what will trigger a decision to switch back, and how long the old hosting will stay live. Switching back is simple while the old server is still running: point the DNS records back at it. Knowing that in advance takes much of the stress out of the day.</p>
+
+<h2>FAQs</h2>
+<h3>Can I move hosting without any downtime?</h3>
+<p>For many sites, yes, if the new site is fully set up and tested before DNS changes and the old hosting stays live until the change has spread.</p>
+<h3>How long does a DNS change take to spread?</h3>
+<p>It depends on the TTL values and on how long other networks cache records. Lowering TTL in advance shortens it, but keep the old host running as a buffer.</p>
+<h3>Will moving hosting affect my SEO?</h3>
+<p>If the URLs and content stay the same and the site stays available, a hosting move on its own should not normally cause problems. A slower or unreliable new host could, so check speed after the move.</p>
+<h3>Will I lose my email if I change hosting?</h3>
+<p>Not if you plan for it. Identify where email is hosted, recreate MX and authentication records where needed, and move any mailboxes before cancelling the old account.</p>
+<h3>What about orders placed during the move?</h3>
+<p>Copy the database as late as possible, pick a quiet time and pause content changes until the switch is complete, so no orders are left on the old server.</p>
+<h3>Can Prism Works Studio move my site?</h3>
+<p>We can help plan and carry out hosting moves. See our <a href="/pricing/">pricing page</a> or get in touch via our <a href="/contact/">contact page</a>.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Move%20Website%20Hosting%20Without%20Downtime'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-plugin-audit/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Plugin Audit: How to Review, Remove and Replace Plugins</h3><p>How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-terms-and-privacy-policy-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Website Terms and Conditions and Privacy Policy: A UK Business Guide</h3><p>The basics of website terms and conditions, privacy policies and cookie notices for UK businesses and online shops. General guidance, not legal advice.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Move%20Website%20Hosting%20Without%20Downtime'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

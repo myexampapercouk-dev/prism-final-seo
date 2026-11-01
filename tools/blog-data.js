@@ -32583,4 +32583,609 @@ module.exports = [
 <p>The ICO covers data protection and cookies. Consumer law is enforced by bodies including the Competition and Markets Authority and Trading Standards.</p>
 `,
   },
+  {
+    slug: 'change-website-hosting-without-downtime',
+    seoTitle: 'How to Change Website Hosting Without Downtime',
+    title: 'How to Move Website Hosting Without Downtime',
+    description: 'How to change website hosting without downtime: plan the move, copy the site, test before DNS changes, lower TTL, protect email and check everything after.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>Moving a website to a new host sounds risky, and done carelessly it can be: broken pages, missing images, lost emails and a site that disappears for a day. Done in the right order, though, visitors should not notice the switch. The trick is to build and test the new home completely before pointing anyone at it.</p>
+<p>This guide walks through how to change website hosting without downtime for a typical self-hosted site, such as WordPress or WooCommerce. It also explains what is different if your site is on a hosted platform. If you are choosing a new host for WordPress, our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers what to look for.</p>
+
+<h2>How visitors find your website</h2>
+<p>It helps to understand why downtime happens. Your domain name is just a label. When someone types it in, their device asks the Domain Name System (DNS) which server holds the site. DNS records, managed wherever your DNS is hosted, answer that question.</p>
+<p>Changing hosting means changing those records to point at the new server. DNS answers are cached around the internet for a period set by each record's TTL (time to live). Until those caches expire, some visitors are sent to the old server and some to the new one. Downtime happens when the old server has already been switched off, or the new one is not ready, during that overlap.</p>
+<p>So the whole method comes down to one principle: both servers must serve a working site for the entire changeover.</p>
+
+<h2>Step 1: Take stock before you start</h2>
+<p>Write down everything the current hosting provides. It is often more than the website:</p>
+<ul>
+<li>The website files and database.</li>
+<li>Email mailboxes, if they are hosted with the same provider.</li>
+<li>DNS, if the host also manages your domain's records.</li>
+<li>SSL certificates.</li>
+<li>Scheduled tasks, server-level redirects and custom configuration.</li>
+<li>Subdomains, such as a staging site or a separate shop.</li>
+<li>Software versions, such as the PHP version a WordPress site runs on.</li>
+</ul>
+<p>Also find out where your domain is registered and who has the login. If you cannot change DNS records, you cannot complete the move. Our <a href="/blog/website-ownership-and-handover/">ownership and handover guide</a> explains why these accounts should be in the business's own name.</p>
+
+<h2>Step 2: Take a full backup</h2>
+<p>Before touching anything, take a complete backup of files and database and store it somewhere other than the current host. If anything goes wrong during the move, this is your safety net. Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers backups as part of routine care.</p>
+
+<h2>Step 3: Lower the DNS TTL in advance</h2>
+<p>A day or two before the move, lower the TTL on the records you will change, usually the A record for your domain and any www record. A shorter TTL means caches expire sooner, so when you do switch, the change spreads faster and the overlap is shorter. You will need to wait for the old, longer TTL to expire before the new short value takes effect, which is why this is done in advance.</p>
+
+<h2>Step 4: Set up the new hosting</h2>
+<p>Set up the new hosting account and match the environment to the old one as closely as is sensible: the same or a compatible software version, the same database settings and enough storage for your files. If you plan to upgrade versions as part of the move, consider doing that as a separate step later, so you are only changing one thing at a time.</p>
+
+<h2>Step 5: Copy the site across</h2>
+<p>Copy the files and import the database onto the new server. For WordPress, the site's address is stored in the database, and the configuration file holds database connection details, so both need checking after the copy. Many hosts offer migration tools or will migrate a site for you; whichever route you use, the testing steps below still apply.</p>
+<p>On a shop or a site that takes bookings or form submissions, plan a short content freeze. Any orders or changes made on the old server after you copy the database will not exist on the new one. Choose a quiet time, copy the database as late as possible, and avoid editing content until the switch is complete.</p>
+
+<h2>Step 6: Test before anyone sees it</h2>
+<p>This is the step that avoids downtime. You want to view the site on the new server while the public still sees the old one. Common ways to do this include a temporary address provided by the new host, or editing the hosts file on your own computer so only your machine is sent to the new server. Your host's documentation will explain the options available.</p>
+<p>Check thoroughly:</p>
+<ul>
+<li>Every main page and template loads correctly.</li>
+<li>Images, downloads and fonts appear.</li>
+<li>Contact forms send and arrive.</li>
+<li>Shop: products, basket, checkout and payment in test mode, plus order emails.</li>
+<li>Logins for admin and customer accounts.</li>
+<li>Redirects you rely on still work.</li>
+<li>No error messages appear.</li>
+</ul>
+<p>Fix anything that fails before moving on. Nothing has changed for visitors yet, so there is no pressure.</p>
+
+<h2>Step 7: Prepare SSL</h2>
+<p>Visitors expect a secure connection. Make sure the new host can issue or install an SSL certificate for your domain. Some certificates can only be issued once DNS points at the new server, which can mean a short gap; check with the new host how they handle this so you can plan around it.</p>
+
+<h2>Step 8: Map every DNS record, especially email</h2>
+<p>Before switching, list every DNS record that currently exists. Email depends on MX records and on authentication records such as SPF, DKIM and DMARC. Other services, such as site verification for Google tools or email marketing platforms, may rely on TXT or CNAME records.</p>
+<p>If you are moving DNS management to a new provider as well as the website, recreate every record there first. A missing MX record can stop email arriving. If your email is staying where it is, make sure only the website records change.</p>
+
+<h2>Step 9: Switch DNS</h2>
+<p>When the new site is tested and records are ready, update the A record (and www) to point at the new server. Because you lowered the TTL, visitors should move over fairly quickly, but some caches may take longer. That is fine: the old server is still running and still serving a working site.</p>
+
+<h2>Step 10: Check, then wait before cancelling</h2>
+<p>Once the change has spread, repeat the tests on the live domain. Check that the SSL certificate is valid, forms and checkout work, and email is flowing in both directions. If you use Google Search Console, check for crawl errors over the following days.</p>
+<p>Do not cancel the old hosting straight away. Keep it running for a while so stragglers on old DNS caches still see a working site, and so you can retrieve anything you missed. Before cancelling, take one final backup from the old server and download any email still stored there. Once you are happy, you can raise the TTL back to a normal value.</p>
+
+<h2>What if you are on Shopify, Wix or Squarespace?</h2>
+<p>On hosted platforms, the platform provides the hosting, so "changing hosting" usually means moving to a different platform altogether. That is a migration rather than a hosting move: content, URLs and design all change. The DNS principles above still apply when you point your domain at the new platform, but you also need redirects from old URLs to new ones to protect search rankings. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers that side.</p>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li>Cancelling old hosting before DNS has fully switched.</li>
+<li>Forgetting email records when moving DNS.</li>
+<li>Copying the database early, then losing orders placed after the copy.</li>
+<li>Testing only the home page.</li>
+<li>Changing hosting, software versions and design all at once, making faults hard to trace.</li>
+<li>Not knowing who holds the domain login until the day of the move.</li>
+</ul>
+
+<h2>A one-page move plan</h2>
+<p>Before you begin, it helps to write the move as a short plan that everyone involved can see. List the date and time of the switch, who is doing each step, how you will test, what will trigger a decision to switch back, and how long the old hosting will stay live. Switching back is simple while the old server is still running: point the DNS records back at it. Knowing that in advance takes much of the stress out of the day.</p>
+
+<h2>FAQs</h2>
+<h3>Can I move hosting without any downtime?</h3>
+<p>For many sites, yes, if the new site is fully set up and tested before DNS changes and the old hosting stays live until the change has spread.</p>
+<h3>How long does a DNS change take to spread?</h3>
+<p>It depends on the TTL values and on how long other networks cache records. Lowering TTL in advance shortens it, but keep the old host running as a buffer.</p>
+<h3>Will moving hosting affect my SEO?</h3>
+<p>If the URLs and content stay the same and the site stays available, a hosting move on its own should not normally cause problems. A slower or unreliable new host could, so check speed after the move.</p>
+<h3>Will I lose my email if I change hosting?</h3>
+<p>Not if you plan for it. Identify where email is hosted, recreate MX and authentication records where needed, and move any mailboxes before cancelling the old account.</p>
+<h3>What about orders placed during the move?</h3>
+<p>Copy the database as late as possible, pick a quiet time and pause content changes until the switch is complete, so no orders are left on the old server.</p>
+<h3>Can Prism Works Studio move my site?</h3>
+<p>We can help plan and carry out hosting moves. See our <a href="/pricing/">pricing page</a> or get in touch via our <a href="/contact/">contact page</a>.</p>
+`,
+  },
+  {
+    slug: 'how-to-brief-a-shopify-developer',
+    seoTitle: 'How to Brief a Shopify Developer: A UK Guide',
+    title: 'How to Brief a Shopify Developer So You Get What You Need',
+    description: 'How to brief a Shopify developer: what to include, from goals and store data to apps, design files and acceptance criteria, so quotes and builds match.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A Shopify developer can only build what they understand. A vague request such as "make the product page better" leaves the developer to guess, and guesses lead to quotes that are hard to compare, work that misses the point and arguments about what was agreed. A clear brief fixes most of that before any code is written.</p>
+<p>This guide explains how to brief a Shopify developer, whether you are planning a new store, a theme change or a single feature. It works for freelancers and agencies alike, and it covers the information that helps anyone scope Shopify work. If you are still choosing who to work with, our <a href="/blog/shopify-agency-uk/">guide to Shopify agencies in the UK</a> covers that decision.</p>
+
+<h2>Start with the problem, not the feature</h2>
+<p>The most useful sentence in any brief describes what is wrong or what you want to change in business terms. Compare these two requests:</p>
+<ul>
+<li>"Add a size guide pop-up to product pages."</li>
+<li>"Customers keep emailing to ask which size to order, and returns for wrong sizes are eating our margin. We want size information visible before they add to basket."</li>
+</ul>
+<p>The first tells the developer what to build. The second tells them why, which lets them suggest a better solution, spot related issues and judge whether a pop-up is the right answer at all. Always include the why. You can still say what you think the solution is; just label it as a suggestion.</p>
+
+<h2>What to include in a Shopify developer brief</h2>
+<p>Use the headings below as a template. Not every project needs every section, but leaving one out should be a deliberate choice.</p>
+
+<h3>1. About the business</h3>
+<p>A short paragraph on what you sell, who buys it and where. Mention if you sell to trade customers as well as consumers, if you ship outside the UK, or if you have seasonal peaks the developer should plan around. A developer who knows your busiest weeks can avoid scheduling risky changes during them.</p>
+
+<h3>2. Current set-up</h3>
+<p>List the facts the developer will otherwise have to dig out:</p>
+<ul>
+<li>Your Shopify plan, and whether you use Shopify Markets for other countries or currencies.</li>
+<li>The theme you use and whether it has been heavily customised before.</li>
+<li>The apps installed and which ones matter to the business.</li>
+<li>Integrations with other systems, such as stock, accounting, fulfilment, email marketing or point of sale.</li>
+<li>Roughly how many products, variants and collections you have.</li>
+<li>Anything known to be fragile or previously broken.</li>
+</ul>
+<p>If you are moving to Shopify from another platform, say which one and what data has to come across. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> and <a href="/blog/etsy-to-shopify-migration/">Etsy to Shopify guide</a> list the data worth planning for.</p>
+
+<h3>3. Goals and how you will judge success</h3>
+<p>State what should be different after the work. Where you can, tie it to something you can check in Shopify reports or Google Analytics, such as fewer abandoned checkouts, more sign-ups or fewer support emails about a specific issue. Avoid promising yourself a number; just name the measure, so everyone knows what to look at after launch. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to make sure that data is being collected.</p>
+
+<h3>4. Scope: what is in and what is out</h3>
+<p>Write the work as a list of clear items, then add a short list of things that are explicitly out of scope. The out-of-scope list is often as useful as the in-scope one, because it stops assumptions on both sides. For example: "Redesign the collection page filters. Out of scope: changing the navigation menu, product photography, copywriting."</p>
+
+<h3>5. Pages, templates and user journeys</h3>
+<p>Shopify themes are built from templates: home, collection, product, cart, pages, blog and so on. Say which templates are affected and whether you need new ones, such as a separate product template for bundles. Describe the journey you want a customer to take, step by step, including what happens on mobile. If the change touches checkout, say so early, as what can be customised in checkout depends on your Shopify plan.</p>
+
+<h3>6. Design files and brand assets</h3>
+<p>If you have designs, share them with notes on desktop and mobile behaviour, hover states and what happens with long product names or missing images. If you do not have designs, say whether you expect the developer to design, to follow the existing theme style, or to work from reference screenshots of your own site. Include your logo files, brand colours and fonts, and confirm you have the licence to use any fonts or images supplied.</p>
+
+<h3>7. Content and data</h3>
+<p>Be clear about who provides product descriptions, images, metafield values and page copy, and when. Developers often build a feature that relies on product data, such as filters or size charts stored in metafields. If that data does not exist yet, someone has to create it, and the brief should say who.</p>
+
+<h3>8. Apps and integrations</h3>
+<p>For each app or integration involved, note whether it is staying, being replaced or being removed, and whether you are open to custom code instead. Apps can add monthly costs and can affect page speed, as explained in our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a>. A developer can only weigh those trade-offs if they know which apps you are attached to.</p>
+
+<h3>9. Technical requirements</h3>
+<p>Include anything that must be true when the work is done. Typical items include:</p>
+<ul>
+<li>Works on current versions of major browsers and on mobile.</li>
+<li>Meets reasonable accessibility standards, such as usable keyboard navigation and sufficient colour contrast.</li>
+<li>Does not noticeably slow down key pages.</li>
+<li>Keeps existing URLs working, or adds redirects where they change.</li>
+<li>Theme settings are editable by your team without code where practical.</li>
+</ul>
+
+<h3>10. Budget, timing and constraints</h3>
+<p>Giving a budget range helps a developer suggest an approach that fits it, rather than quoting the most complete version and leaving you to cut it back. If there is a fixed date, such as a product launch, say so and explain whether it is truly fixed. For Prism Works Studio pricing, see our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Access: what to share and how</h2>
+<p>Shopify lets you add collaborators and staff accounts with limited permissions, so there is no need to share your own login. Give the developer only the access the job needs, and remove it when the work is finished. If they need access to other tools, such as your domain registrar or an email platform, use each service's own user or permission features where possible rather than sharing passwords.</p>
+<p>Ask the developer to work on a duplicate, unpublished copy of your theme, so changes can be previewed before they go live. Keeping the original theme as a fallback means you can switch back quickly if something goes wrong after publishing.</p>
+
+<h2>Write acceptance criteria</h2>
+<p>Acceptance criteria are short statements that must be true for an item to count as done. They turn a fuzzy feature into something both sides can check. For the size guide example, they might read:</p>
+<ul>
+<li>On every product with a size chart metafield, a "Size guide" link appears below the size selector.</li>
+<li>Clicking it opens the chart without leaving the page, on desktop and mobile.</li>
+<li>Products without a size chart show no link.</li>
+<li>The chart can be edited in the Shopify admin without code.</li>
+</ul>
+<p>Writing these takes a few minutes and saves a lot of back and forth later. If you are not sure how to phrase them, ask the developer to draft them from your brief and then check they match what you meant.</p>
+
+<h2>Agree how changes and questions are handled</h2>
+<p>Requirements change once people see work in progress. That is normal. What causes friction is not agreeing how changes are handled. In your brief, ask how the developer handles requests that fall outside the agreed scope, how they will flag them and how they are priced. Name one person on your side who can make decisions, so the developer is not caught between conflicting instructions.</p>
+
+<h2>Gaps worth checking in a Shopify brief</h2>
+<p>These areas are easy to leave unclear, and they are worth checking before you send yours:</p>
+<ul>
+<li><strong>Mobile behaviour.</strong> Designs are often reviewed on a desktop screen while plenty of shoppers browse on a phone.</li>
+<li><strong>Edge cases.</strong> Sold-out variants, products with one image, very long titles, discounts and gift cards.</li>
+<li><strong>Who owns content.</strong> Features that depend on data nobody has created yet.</li>
+<li><strong>Testing.</strong> Who tests, on which devices, and who signs off.</li>
+<li><strong>Handover.</strong> Whether you need documentation or a walkthrough so your team can manage the result. Our <a href="/blog/website-ownership-and-handover/">guide to website ownership and handover</a> covers what to ask for.</li>
+</ul>
+
+<h2>A short brief template you can copy</h2>
+<table>
+<thead><tr><th>Section</th><th>What to write</th></tr></thead>
+<tbody>
+<tr><td>Background</td><td>What you sell, to whom, where, and any busy periods</td></tr>
+<tr><td>Problem</td><td>What is wrong now and why it matters</td></tr>
+<tr><td>Goal</td><td>What should be different and how you will check</td></tr>
+<tr><td>Current set-up</td><td>Plan, theme, apps, integrations, catalogue size</td></tr>
+<tr><td>Scope</td><td>In-scope items and an explicit out-of-scope list</td></tr>
+<tr><td>Design</td><td>Files, references or "follow the existing theme"</td></tr>
+<tr><td>Content and data</td><td>Who supplies what, by when</td></tr>
+<tr><td>Requirements</td><td>Browsers, mobile, accessibility, speed, redirects</td></tr>
+<tr><td>Acceptance criteria</td><td>What must be true for each item to be done</td></tr>
+<tr><td>Budget and timing</td><td>Range, deadline, and whether the deadline is fixed</td></tr>
+<tr><td>Contacts</td><td>Who decides, who supplies access, who tests</td></tr>
+</tbody>
+</table>
+
+<h2>Freelancer or agency: does the brief change?</h2>
+<p>The content of the brief stays the same. What changes is how much of it the other side will help you write. Some developers prefer a detailed specification they can quote against; others prefer a short brief followed by a discovery call. Neither is wrong, but be clear which you are offering. Our <a href="/blog/freelancer-vs-agency-website-uk/">freelancer vs agency guide</a> covers the wider differences.</p>
+
+<h2>FAQs</h2>
+<h3>How long should a Shopify brief be?</h3>
+<p>Long enough to answer the questions in the template above. For a small change that might be a page; for a full store build it will be longer. Clarity matters more than length.</p>
+<h3>Should I give my Shopify password to a developer?</h3>
+<p>It is safer not to. Shopify offers collaborator and staff accounts with limited permissions, which you can remove when the work is done.</p>
+<h3>Do I need designs before briefing a developer?</h3>
+<p>No, but say what you expect instead: the developer designs it, follows your existing theme, or works from reference screenshots of your own store.</p>
+<h3>Should I include a budget in the brief?</h3>
+<p>Including a range usually helps, because it lets the developer propose an approach that fits rather than quoting a version you then have to cut down.</p>
+<h3>What are acceptance criteria?</h3>
+<p>Short, checkable statements that must be true for a piece of work to count as finished. They help both sides agree when an item is done.</p>
+<h3>Can Prism Works Studio help me write the brief?</h3>
+<p>Yes. Get in touch via our <a href="/contact/">contact page</a> and we can talk through what you need before any quote is prepared.</p>
+`,
+  },
+  {
+    slug: 'website-analytics-for-small-business',
+    seoTitle: 'Website Analytics for Small Business: What to Measure',
+    title: 'Website Analytics for Small Businesses: What to Measure and Why',
+    description: 'Website analytics for small business: which measures matter, how to set goals, which Google tools to use and how to turn reports into decisions.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Analytics tools can report hundreds of numbers. For a small business, almost all of them can be ignored most of the time. What you need is a handful of measures that tell you whether the website is doing its job, and a habit of looking at them often enough to act.</p>
+<p>This guide explains what to measure on a small business website or online shop, which free Google tools to use, and how to turn the numbers into decisions. For the technical side of setting up Google Analytics 4, see our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a>.</p>
+
+<h2>Start with what the website is for</h2>
+<p>Before looking at any report, write down the main job of your website in one sentence. Examples:</p>
+<ul>
+<li>"Get local homeowners to request a quote."</li>
+<li>"Sell our products online to UK customers."</li>
+<li>"Get people to book an appointment."</li>
+<li>"Show credibility to prospects who already know us, so they call."</li>
+</ul>
+<p>That sentence tells you what counts as success. Everything you measure should connect back to it. A site whose job is to generate quote requests should be judged on quote requests, not on page views.</p>
+
+<h2>Define your key actions</h2>
+<p>Next, list the actions a visitor can take that move them towards that goal. In Google Analytics these are tracked as events, and the most important can be marked as key events. Typical examples:</p>
+<table>
+<thead><tr><th>Type of site</th><th>Key actions to track</th></tr></thead>
+<tbody>
+<tr><td>Service business</td><td>Contact form submitted, quote form submitted, phone number clicked, email link clicked</td></tr>
+<tr><td>Online shop</td><td>Purchase, add to basket, begin checkout</td></tr>
+<tr><td>Booking-based business</td><td>Booking completed, booking page viewed</td></tr>
+<tr><td>Any site</td><td>Newsletter sign-up, brochure or price list downloaded</td></tr>
+</tbody>
+</table>
+<p>Check that each action is actually being recorded. A common problem is a form that sends a thank-you message without loading a new page, so nothing is tracked unless an event has been set up for it. Submit a test enquiry and confirm it appears in the reports.</p>
+
+<h2>The measures worth watching</h2>
+
+<h3>1. Key events (conversions)</h3>
+<p>The count of key actions completed. This is the most important number on the list, because it connects directly to business results. Watch the total and how it changes over time.</p>
+
+<h3>2. Conversion rate</h3>
+<p>Key events divided by visits. If traffic rises but enquiries stay flat, the conversion rate falls, which suggests the new visitors are less relevant or something on the site is getting in the way. Compare your own rate over time rather than worrying about benchmarks from other businesses.</p>
+
+<h3>3. Where visitors come from</h3>
+<p>Google Analytics groups traffic into channels such as organic search, paid search, social, referral, email and direct. Knowing which channels bring visitors who go on to enquire or buy helps you decide where to spend time and money. A channel with lots of visits but no key events may be less valuable than it looks.</p>
+
+<h3>4. Landing pages</h3>
+<p>The pages people arrive on first. Check which pages bring in the most visitors and whether those visitors go on to take a key action. A popular landing page with almost no enquiries is a clear candidate for improvement.</p>
+
+<h3>5. Engagement</h3>
+<p>GA4 reports engagement rate and average engagement time. These are useful as rough signals: a page where most visitors leave without engaging may not be matching what they searched for. Treat them as prompts to investigate, not as goals in themselves.</p>
+
+<h3>6. Device split</h3>
+<p>Compare desktop and mobile. If mobile visitors convert much less than desktop visitors, test the mobile experience yourself: forms, buttons, menus and load speed. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains how page experience is measured.</p>
+
+<h3>7. Search performance</h3>
+<p>Google Search Console shows which searches your site appears for, how often, its average position and how many people click through. It is the best free view of your organic search visibility, and it shows things Analytics cannot, such as searches where you appeared but nobody clicked.</p>
+
+<h3>For online shops: a few more</h3>
+<ul>
+<li><strong>Revenue and orders</strong> by channel.</li>
+<li><strong>Average order value.</strong></li>
+<li><strong>Checkout drop-off</strong>: how many people start checkout but do not finish.</li>
+<li><strong>Top products</strong> by views and by sales, to spot items that attract interest but do not sell.</li>
+</ul>
+<p>Platforms such as Shopify, WooCommerce, Wix and Squarespace also have built-in reports for sales and orders. Use those alongside Google Analytics, but expect small differences between them, because each counts things slightly differently.</p>
+
+<h2>Measures that can mislead</h2>
+<ul>
+<li><strong>Total page views.</strong> Nice to see rising, but they say little about results on their own.</li>
+<li><strong>Time on site in isolation.</strong> Longer is not always better. A visitor who finds your phone number quickly and calls has had a good visit.</li>
+<li><strong>Short-term swings.</strong> Daily numbers jump around. Compare weeks or months, and compare with the same period last year where seasonality matters.</li>
+<li><strong>Single figures without context.</strong> A number only means something compared with something else: last month, last year or another channel.</li>
+</ul>
+
+<h2>The free Google tools to use</h2>
+<table>
+<thead><tr><th>Tool</th><th>What it tells you</th></tr></thead>
+<tbody>
+<tr><td>Google Analytics 4</td><td>Visitors, channels, pages, key events, ecommerce data</td></tr>
+<tr><td>Google Search Console</td><td>Search queries, impressions, clicks, indexing and page experience issues</td></tr>
+<tr><td>Google Business Profile</td><td>For local businesses: calls, direction requests and website clicks from your listing</td></tr>
+<tr><td>Google Tag Manager</td><td>Optional: manages tracking tags such as form and click events without editing site code</td></tr>
+</tbody>
+</table>
+<p>If you serve local customers, our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains how to use its performance data.</p>
+
+<h2>Privacy and cookie consent</h2>
+<p>Analytics tools typically use cookies or similar technologies. Under UK rules, you generally need to give visitors clear information and, for non-essential cookies such as many analytics cookies, get consent. The rules have been changing, so check the latest guidance from the Information Commissioner's Office (ICO) or take advice. Bear in mind that visitors who decline cookies may not appear fully in your reports, so treat numbers as indications rather than exact counts.</p>
+
+<h2>A simple monthly review</h2>
+<p>A dashboard nobody opens is worthless. A short, regular review is far more useful. Once a month, spend half an hour answering these questions:</p>
+<ol>
+<li>How many key events did we get, and how does that compare with last month and the same month last year?</li>
+<li>Which channels brought those key events?</li>
+<li>Which landing pages performed well, and which attracted visitors but no action?</li>
+<li>In Search Console, which searches are growing, and are there pages with many impressions but few clicks?</li>
+<li>Is mobile performing noticeably worse than desktop?</li>
+<li>What is one thing we will change this month as a result?</li>
+</ol>
+<p>The last question is the point of the whole exercise. Write the answer down, make the change, and look at the effect next month.</p>
+
+<h2>Turning numbers into actions</h2>
+<ul>
+<li><strong>Page with many impressions but few clicks in Search Console:</strong> review its title and meta description.</li>
+<li><strong>Popular landing page with few enquiries:</strong> make the next step clearer, check the form works and add trust information.</li>
+<li><strong>Checkout drop-off:</strong> test checkout yourself on mobile and check delivery costs are visible early. Our <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion guide</a> covers this.</li>
+<li><strong>Channel with traffic but no results:</strong> check whether the audience matches what you sell before spending more on it.</li>
+</ul>
+
+<h2>When numbers suddenly change</h2>
+<p>If a measure jumps or drops sharply, check for a tracking problem before assuming anything about customers. Common causes include a tracking tag removed during a site update, a form changed so its event no longer fires, a cookie banner change affecting consent rates, or a new filter in the reports. Compare Analytics with your own records, such as enquiry emails or platform orders. If those are steady while Analytics has fallen, the cause is probably tracking rather than demand. Keeping a simple log of site changes, campaigns and tracking edits, with dates, makes these investigations much quicker, because you can line up a change in the numbers with something that happened on the same day.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most important website metric for a small business?</h3>
+<p>The number of key actions that match your website's purpose, such as enquiries, bookings or sales. Other measures help explain why that number moves.</p>
+<h3>Is Google Analytics free?</h3>
+<p>The standard version of Google Analytics 4 is free, as are Google Search Console and Google Business Profile.</p>
+<h3>Do I need both Google Analytics and Search Console?</h3>
+<p>They answer different questions. Analytics shows what visitors do on your site; Search Console shows how your site appears in Google Search. Using both gives a fuller picture.</p>
+<h3>How often should I check my website analytics?</h3>
+<p>A monthly review suits most small businesses, with a quick check after any major change, such as a redesign or a new campaign.</p>
+<h3>Why do Shopify and Google Analytics show different numbers?</h3>
+<p>They collect and count data in different ways, and visitors who decline cookies may be missing from Analytics. Look at trends in each rather than expecting an exact match.</p>
+<h3>Can Prism Works Studio set up analytics for my site?</h3>
+<p>Yes. We can set up tracking for the actions that matter to your business and help you read the results. Get in touch via our <a href="/contact/">contact page</a>.</p>
+`,
+  },
+  {
+    slug: 'website-backup-and-recovery-plan',
+    seoTitle: 'Website Backup and Recovery Plan: A UK Guide',
+    title: 'Website Backup and Recovery: How to Plan for the Worst',
+    description: 'How to plan website backups and recovery: what to back up, how often, where to store copies, and how to test restores on WordPress, Shopify and more.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>Websites break. An update goes wrong, a plugin conflicts, a hosting account is suspended, someone deletes the wrong page or the site is hacked. When that happens, the only thing that matters is how quickly you can get a working version back. That depends almost entirely on decisions made long before anything went wrong.</p>
+<p>This guide explains how to put together a simple website backup and recovery plan: what to back up, how often, where to keep copies and how to check that a restore actually works. It applies to small business sites and online shops on most platforms. For the wider picture of keeping a site healthy, see our <a href="/blog/website-maintenance-uk/">website maintenance guide</a>.</p>
+
+<h2>Backup versus recovery</h2>
+<p>A backup is a copy of your site. Recovery is the process of turning that copy back into a working website. A backup that has never been restored is an untested assumption. When the day comes, the files may turn out to be incomplete, the database missing, the copy months old or nobody sure how to use it.</p>
+<p>So think of the plan in two halves: making reliable copies, and being able to use them under pressure.</p>
+
+<h2>Two questions to answer first</h2>
+<p>Before choosing tools or settings, answer two questions for your own business:</p>
+<ul>
+<li><strong>How much data can you afford to lose?</strong> If your site changes once a month, a weekly backup is plenty. If you take orders or bookings every hour, losing a day of data could mean lost orders and confused customers. This tells you how often to back up.</li>
+<li><strong>How long can you afford to be offline?</strong> A brochure site being down for a day is a nuisance. A shop being down on a busy weekend is lost revenue. This tells you how much effort to put into making restores fast.</li>
+</ul>
+<p>Write your answers down. They shape everything else in the plan.</p>
+
+<h2>What needs backing up</h2>
+<p>What you back up depends on how your site is built.</p>
+
+<h3>Self-hosted sites (WordPress, WooCommerce and similar)</h3>
+<p>A WordPress site has two parts, and you need both:</p>
+<ul>
+<li><strong>Files:</strong> WordPress itself, your theme, plugins and the uploads folder holding images and documents.</li>
+<li><strong>Database:</strong> pages, posts, settings, users and, on a WooCommerce shop, orders and customer records.</li>
+</ul>
+<p>A copy of the files without the database, or the other way round, will not restore a working site. Also keep a note of anything set up outside WordPress, such as server configuration, redirects at host level and scheduled tasks.</p>
+
+<h3>Hosted platforms (Shopify, Wix, Squarespace)</h3>
+<p>On hosted platforms, the provider runs the servers and the software. You do not need to back up the platform itself. That does not mean all of your work is protected from every kind of mistake. If a member of staff deletes products, overwrites a theme or a third-party app changes data in bulk, the platform may not offer a simple way to roll back that specific change.</p>
+<p>Practical steps on hosted platforms include:</p>
+<ul>
+<li>Exporting products, customers and orders regularly using the platform's built-in export features.</li>
+<li>Duplicating your theme before making changes. On Shopify, an unpublished copy gives you a fallback you can republish.</li>
+<li>Keeping your own copies of images, product copy and page content.</li>
+<li>Checking what each platform's own help documentation says about restoring deleted content, as this differs between platforms and changes over time.</li>
+</ul>
+
+<h3>Things that are easy to forget</h3>
+<ul>
+<li><strong>Domain and DNS settings.</strong> Record where your domain is registered and what DNS records exist, including email records. Rebuilding these from memory is slow.</li>
+<li><strong>Email.</strong> If your mailboxes are on the same hosting account as your website, they may not be included in a website backup.</li>
+<li><strong>Logins and ownership.</strong> Know who holds the accounts for hosting, domain and platform. Our <a href="/blog/website-ownership-and-handover/">ownership and handover guide</a> explains why these should be in the business's name.</li>
+<li><strong>Licences.</strong> Premium themes and plugins may need licence keys to be reactivated after a restore.</li>
+</ul>
+
+<h2>How often to back up</h2>
+<p>Match frequency to how often the site changes and how much loss you can tolerate.</p>
+<table>
+<thead><tr><th>Type of site</th><th>Changes</th><th>Sensible starting point</th></tr></thead>
+<tbody>
+<tr><td>Brochure site, rarely updated</td><td>Monthly or less</td><td>Weekly, plus before any update</td></tr>
+<tr><td>Site with regular blog posts</td><td>Weekly</td><td>Daily database, weekly files</td></tr>
+<tr><td>Shop or booking site</td><td>Many times a day</td><td>Frequent database backups, daily files, plus before any change</td></tr>
+</tbody>
+</table>
+<p>Whatever the schedule, always take a fresh backup immediately before updating WordPress, plugins or themes, changing hosting, or making significant design changes. That single habit avoids a great deal of pain.</p>
+
+<h2>Where to keep backups</h2>
+<p>A backup stored only on the same server as the website is fragile. If the server fails, the account is suspended or the site is compromised, the backup may go with it. A widely used rule of thumb is the 3-2-1 approach:</p>
+<ul>
+<li><strong>3</strong> copies of your data (the live site plus two backups).</li>
+<li><strong>2</strong> different storage locations or types.</li>
+<li><strong>1</strong> copy kept away from your hosting provider altogether.</li>
+</ul>
+<p>Hosting providers often include backups, which are useful, but they are not a complete plan on their own. Check how long the host keeps them, whether you can download them, and whether restoring costs extra. Keeping a separate copy under your own control means you are not dependent on one company for recovery.</p>
+<p>Also think about how long to keep backups. If a site is hacked quietly, the problem may not be noticed for weeks. Keeping older copies as well as recent ones gives you a better chance of finding a clean version.</p>
+
+<h2>Security and personal data in backups</h2>
+<p>Backups of a shop or a site with user accounts contain personal data such as names, addresses and order history. Under UK data protection law, that data generally needs the same care as the live site. Store backups securely, restrict who can access them, and do not keep them longer than you need. The Information Commissioner's Office (ICO) publishes guidance on security and retention; check it, or take advice, if you are unsure how it applies to you.</p>
+
+<h2>Test your restores</h2>
+<p>This is the step that is easiest to skip. A restore test means taking a backup and turning it into a working copy of the site somewhere safe, such as a staging site, and checking it works. Look for:</p>
+<ul>
+<li>Pages load and look correct.</li>
+<li>Images and downloads are present.</li>
+<li>Forms send, and on a shop, test orders complete.</li>
+<li>Logins work.</li>
+<li>Recent content you expected to see is there.</li>
+</ul>
+<p>Doing this a few times a year, and after changing hosting or backup tools, means you will know the process before you need it in an emergency.</p>
+
+<h2>Write a short recovery runbook</h2>
+<p>When a site goes down, people panic and forget steps. A one-page runbook helps. It should cover:</p>
+<ol>
+<li>Who to contact first, and how (the person or company who looks after the site, the host).</li>
+<li>Where backups are stored and how to access them.</li>
+<li>The steps to restore, written plainly.</li>
+<li>How to put up a holding page if the restore will take a while.</li>
+<li>What to check once the site is back.</li>
+<li>Who needs telling, including customers if orders or data are affected.</li>
+</ol>
+<p>Keep the runbook somewhere that does not depend on the website or its hosting being online.</p>
+
+<h2>When the cause is a hack</h2>
+<p>If a site has been compromised, restoring the latest backup may simply restore the problem. The backup itself may contain the malicious code, and the weakness that let it in, such as an outdated plugin or a weak password, will still be there. The usual approach is to identify how the attacker got in, restore from a backup taken before the compromise, update everything, change passwords and then monitor closely. If personal data may have been accessed, you may have reporting obligations; the ICO's guidance on personal data breaches explains when. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers prevention.</p>
+
+<h2>A simple checklist</h2>
+<ul>
+<li>Decide how much data loss and downtime you can tolerate.</li>
+<li>Back up files and database (self-hosted) or export content and data (hosted platforms).</li>
+<li>Set a schedule, plus a manual backup before any change.</li>
+<li>Keep at least one copy away from your host.</li>
+<li>Protect backups that contain personal data.</li>
+<li>Test a restore a few times a year.</li>
+<li>Write and store a recovery runbook.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Does my hosting company back up my website?</h3>
+<p>Many hosts include backups, but the frequency, retention period and restore process vary. Check the details, and keep at least one copy under your own control.</p>
+<h3>Does Shopify back up my store?</h3>
+<p>Shopify runs and maintains the platform. Whether you can easily undo your own mistakes, such as deleted products or overwritten themes, is a different question, so export data regularly and duplicate themes before editing.</p>
+<h3>How often should I back up a WordPress site?</h3>
+<p>It depends on how often it changes. A rarely updated site might be backed up weekly; a busy shop needs much more frequent database backups. Always back up before updates.</p>
+<h3>Where should I store website backups?</h3>
+<p>In more than one place, with at least one copy kept away from your hosting provider, so a problem with the host does not take your backups with it.</p>
+<h3>How do I know my backups work?</h3>
+<p>Restore one to a staging site and check pages, images, forms, logins and recent content. Until you have done that, you cannot be sure.</p>
+<h3>Can Prism Works Studio help set up backups?</h3>
+<p>Yes. We can review your current set-up and talk through options. Get in touch via our <a href="/contact/">contact page</a>.</p>
+`,
+  },
+  {
+    slug: 'wordpress-plugin-audit',
+    seoTitle: 'WordPress Plugin Audit: How to Review Your Plugins',
+    title: 'WordPress Plugin Audit: How to Review, Remove and Replace Plugins',
+    description: 'How to run a WordPress plugin audit: list what is installed, check each plugin is needed, maintained and safe, then remove or replace them safely.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>Plugins are what make WordPress so flexible. They are also where many WordPress problems start. Over time, sites collect plugins that were installed for a one-off task, replaced by something else, or added by someone who has since left. Each extra plugin is more code to update, more potential for conflicts and another possible way in for attackers.</p>
+<p>A plugin audit is a structured review of every plugin on your site, deciding what stays, what goes and what should be replaced. This guide explains how to do one safely. It complements our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> and <a href="/blog/website-maintenance-uk/">website maintenance guide</a>.</p>
+
+<h2>Why audit your plugins?</h2>
+<ul>
+<li><strong>Security.</strong> Outdated or abandoned plugins are a well-known route for attacks on WordPress sites. Fewer plugins, kept up to date, means fewer weak points.</li>
+<li><strong>Speed.</strong> Some plugins load scripts and styles on every page, even where they are not used. Removing them can make pages lighter. Our <a href="/blog/website-speed-optimisation-uk/">website speed guide</a> covers this in more detail.</li>
+<li><strong>Stability.</strong> Plugins that overlap or clash can cause errors, especially after updates.</li>
+<li><strong>Cost.</strong> Premium plugins often renew annually. An audit can reveal licences you are paying for but no longer need.</li>
+<li><strong>Clarity.</strong> Knowing what each plugin does makes future changes and handovers far easier.</li>
+</ul>
+
+<h2>Before you start: protect the site</h2>
+<p>Deactivating the wrong plugin can break a layout, a form or a checkout. Before changing anything:</p>
+<ol>
+<li>Take a full backup of files and database, stored away from the live server. Check that the backup includes both parts; a copy of the files without the database will not restore a working site.</li>
+<li>Set up a staging copy of the site if you can, so you can test changes without affecting visitors. Many hosts offer this.</li>
+<li>Pick a quiet time for any changes to the live site.</li>
+</ol>
+
+<h2>Step 1: List every plugin</h2>
+<p>Go to Plugins in the WordPress dashboard and record each one in a spreadsheet. For each plugin, note:</p>
+<ul>
+<li>Name and version.</li>
+<li>Active or inactive.</li>
+<li>Free or premium, and renewal date if premium.</li>
+<li>What it does, in one plain sentence.</li>
+<li>Where on the site it is used.</li>
+<li>When it was last updated by its developer.</li>
+</ul>
+<p>Also check for must-use plugins, which appear under a separate Must-Use tab if present, as they cannot be deactivated from the normal list and are sometimes added by hosts.</p>
+<p>If you cannot say what a plugin does, that is a finding in itself. Search the plugin's description in the dashboard, and check its settings page, to work out its purpose before deciding anything.</p>
+
+<h2>Step 2: Ask four questions of each plugin</h2>
+
+<h3>Is it needed?</h3>
+<p>Does the site still use this feature? Plugins installed for a past campaign, an old contact form, a migration or a design that has since changed are common candidates for removal. If nobody can point to where it is used, test the site without it on staging.</p>
+
+<h3>Is it maintained?</h3>
+<p>Check when the plugin was last updated and whether it is marked as tested with your version of WordPress. A plugin that has not been updated for a long time may be abandoned. If a plugin has been closed or removed from the WordPress.org plugin directory, find out why, as this is sometimes due to an unresolved security issue. An abandoned plugin is not automatically dangerous, but it will not be fixed if a problem is found.</p>
+
+<h3>Does it overlap with something else?</h3>
+<p>Sites often end up with two plugins doing the same job, such as two SEO plugins, two caching plugins or two form builders. Overlap can cause conflicts and duplicate output, like two sets of meta tags. Pick one and remove the other. Also check whether WordPress itself, your theme or your host now provides the feature, which can make a plugin redundant.</p>
+
+<h3>What does it cost?</h3>
+<p>Consider cost in money, speed and risk. A plugin that loads heavy scripts on every page to power a feature on one page may be worth replacing with something lighter or a small piece of custom code. Weigh this against the effort and risk of changing it.</p>
+
+<h2>Step 3: Sort plugins into groups</h2>
+<table>
+<thead><tr><th>Decision</th><th>When it applies</th></tr></thead>
+<tbody>
+<tr><td>Keep</td><td>Needed, maintained, no overlap, reasonable cost</td></tr>
+<tr><td>Update</td><td>Needed, but running an old version</td></tr>
+<tr><td>Replace</td><td>Needed, but abandoned, overlapping or heavy</td></tr>
+<tr><td>Remove</td><td>No longer used, or duplicated by another plugin or by WordPress itself</td></tr>
+<tr><td>Investigate</td><td>Purpose unclear, or removal might affect something important</td></tr>
+</tbody>
+</table>
+
+<h2>Step 4: Make changes one at a time</h2>
+<p>On staging, work through the list. Deactivate one plugin, then check the site. Test the pages and features that plugin might affect, plus the core journeys: home page, key landing pages, contact forms and, for WooCommerce, product pages, basket and checkout in test mode. Only move on when you are happy.</p>
+<p>Changing several plugins at once makes it hard to tell which change caused a problem. One at a time is slower but much safer.</p>
+<p>When replacing a plugin, check what data it stores. Some plugins hold content, settings or form entries that will not transfer automatically to a replacement. Export anything you need first.</p>
+
+<h2>Step 5: Delete, do not just deactivate</h2>
+<p>A deactivated plugin is not running, but its files remain on the server. Depending on the plugin and server set-up, those files could still pose a risk if they contain a vulnerability. Once you are sure you do not need a plugin, delete it. Some plugins leave data in the database after deletion; check the plugin's documentation for an option to remove its data if you want a cleaner database.</p>
+
+<h2>Step 6: Apply to live and keep a record</h2>
+<p>Once the changes work on staging, take a fresh backup of the live site and repeat the same changes there, in the same order. Check the site again afterwards. Keep your spreadsheet as a record of what is installed and why. It becomes a useful reference for future updates, developer handovers and the next audit. Our <a href="/blog/website-ownership-and-handover/">ownership and handover guide</a> explains why that kind of documentation matters.</p>
+
+<h2>Signs a plugin needs attention</h2>
+<ul>
+<li>It has not been updated for a long time.</li>
+<li>It shows a warning that it has not been tested with your WordPress version.</li>
+<li>The site shows errors or slows down after the plugin updates.</li>
+<li>It adds admin notices or upsells you cannot dismiss.</li>
+<li>Its premium licence has lapsed, so updates have stopped.</li>
+<li>Nobody knows why it was installed.</li>
+</ul>
+
+<h2>Questions to ask before installing a new plugin</h2>
+<p>The easiest plugin to manage is the one you never install. Before adding anything new, ask a few questions. Can WordPress, your theme or an existing plugin already do this? Is the plugin actively maintained and tested with your WordPress version? Does it load code across the whole site for a feature used on one page? Is there a clear way to remove it, and its data, later if you change your mind? If it is premium, who holds the licence, and will updates stop if it lapses? Adding the answers to your plugin spreadsheet at the point of installation keeps the record up to date and makes the next audit quicker.</p>
+
+<h2>How often to audit</h2>
+<p>There is no fixed rule, but a review every few months, plus a check whenever you add a plugin or redesign part of the site, keeps things under control. Updates themselves should happen far more often than audits; keeping plugins updated is part of routine maintenance.</p>
+
+<h2>Plugins on WooCommerce shops</h2>
+<p>WooCommerce shops tend to rely on more plugins for payments, shipping, tax and marketing. These are often business-critical, so be especially careful. Test checkout and order emails after every change, and avoid making changes during busy trading periods. If you are weighing up whether plugin upkeep is becoming a burden, our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> discusses the trade-offs between the platforms.</p>
+
+<h2>FAQs</h2>
+<h3>How many plugins is too many for WordPress?</h3>
+<p>There is no magic number. What matters is whether each plugin is needed, maintained and well built. A few poorly made plugins can cause more trouble than many good ones.</p>
+<h3>Is it safe to delete inactive plugins?</h3>
+<p>Usually yes, if you are sure they are not needed. Take a backup first and check whether the plugin stores data you want to keep.</p>
+<h3>How do I know if a plugin is abandoned?</h3>
+<p>Check its last update date and whether it is marked as tested with recent WordPress versions. Long gaps without updates suggest it may no longer be maintained.</p>
+<h3>Can removing a plugin break my site?</h3>
+<p>It can, if something depends on it. That is why you should back up, test on staging and remove plugins one at a time.</p>
+<h3>Do plugins slow WordPress down?</h3>
+<p>Some do, particularly those that load scripts on every page. Removing unnecessary plugins is often one of the simpler ways to lighten a site.</p>
+<h3>Can Prism Works Studio audit my plugins?</h3>
+<p>Yes. We can review your WordPress site and talk through what to keep, replace or remove. Get in touch via our <a href="/contact/">contact page</a>.</p>
+`,
+  },
 ];
