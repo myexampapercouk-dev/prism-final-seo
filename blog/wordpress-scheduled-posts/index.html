@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Scheduled Posts: Timezones and Missed Schedules</title>
+<meta name="description" content="How to schedule posts in WordPress, set the right timezone for a UK site, and work out why a scheduled post was missed and what to check next.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Scheduled Posts: Timezones and Missed Schedules">
+<meta property="og:description" content="How to schedule posts in WordPress, set the right timezone for a UK site, and work out why a scheduled post was missed and what to check next.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-scheduled-posts.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/#article","headline":"WordPress Scheduled Posts: Scheduling, Timezones and Fixing Missed Schedules","description":"How to schedule posts in WordPress, set the right timezone for a UK site, and work out why a scheduled post was missed and what to check next.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/","url":"https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-scheduled-posts.png","inLanguage":"en-GB","wordCount":1751,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Scheduled Posts: Scheduling, Timezones and Fixing Missed Schedules","item":"https://prismworksstudio.co.uk/blog/wordpress-scheduled-posts/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why does my scheduled post say \"Missed schedule\"?","acceptedAnswer":{"@type":"Answer","text":"WordPress did not run its publishing task at the scheduled time. Common reasons include a timezone mismatch, caching, the task runner being disabled without a replacement, or the server blocking the site's internal request. Publish it manually, then look for the cause."}},{"@type":"Question","name":"Which timezone should a UK WordPress site use?","acceptedAnswer":{"@type":"Answer","text":"Choose London from the city list in Settings, then General. A fixed UTC offset does not follow the clock changes, so scheduled times will be an hour out for part of the year."}},{"@type":"Question","name":"Can I schedule pages as well as posts?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pages, and most custom post types that use the standard editor, have the same publish date option."}},{"@type":"Question","name":"Does a scheduled post publish at the exact minute?","acceptedAnswer":{"@type":"Answer","text":"Not always. With the default setup it publishes on the first visit after the scheduled time. A server task that runs at a fixed interval makes timing more predictable."}},{"@type":"Question","name":"Will scheduling posts improve my SEO?","acceptedAnswer":{"@type":"Answer","text":"No, scheduling is a workflow tool. It can help you publish consistently, but rankings depend on the quality and usefulness of the content, not on when it was scheduled."}},{"@type":"Question","name":"Can I bulk reschedule posts?","acceptedAnswer":{"@type":"Answer","text":"The standard quick edit option lets you change dates on posts one at a time from the posts list. For larger changes, plan carefully and test on a staging copy first."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Scheduled Posts: Scheduling, Timezones and Fixing Missed Schedules</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Scheduled Posts: Scheduling, Timezones and Fixing Missed Schedules</h1><p class="pws-lead">How to schedule posts in WordPress, set the right timezone for a UK site, and work out why a scheduled post was missed and what to check next.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Set the WordPress timezone to a city such as London, not a fixed UTC offset, so scheduled times follow British Summer Time changes.</li><li>WordPress publishes scheduled posts through its own task runner, which only fires when the site gets a visit or a server task triggers it.</li><li>If schedules are missed, check the timezone, caching, maintenance mode and whether your host runs a real server task.</li></ul></div>
+<p>WordPress lets you write a post now and have it go live at a set date and time later. Scheduling is useful for planned announcements, regular blog slots and content that should appear while you are away. It usually works quietly in the background, but when it fails the post sits with a "Missed schedule" label and nobody notices until a reader or a client asks where it is.</p>
+<p>This guide explains how scheduling works, which settings matter for a UK site, why schedules get missed and what to check. If you are new to the editor itself, our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the basics.</p>
+
+<h2>How to schedule a post in WordPress</h2>
+<p>In the block editor, open the post settings panel on the right. Next to the publish option you will see a date and time that reads "Immediately" for a new draft. Click it and choose a future date and time. The main button changes from "Publish" to "Schedule". Click it, confirm, and the post status becomes "Scheduled".</p>
+<p>Pages can be scheduled in the same way, and so can most custom post types if they use the standard editor. Scheduled items appear in the posts list with a "Scheduled" label and the planned date, so you can filter the list to see what is queued.</p>
+<p>To change the time, open the post, click the date again and pick a new one, then update. To cancel, switch it back to draft, or set the date to "Immediately" if you want it live now.</p>
+<p>A few habits help:</p>
+<ul>
+<li><strong>Finish the post before scheduling it.</strong> Check images, links, categories, the excerpt and the featured image. Once it is live, any mistakes are public.</li>
+<li><strong>Preview it.</strong> The preview shows how the post will look with your theme, including on a phone.</li>
+<li><strong>Note what else depends on it.</strong> If an email, social post or ad points to the post, those need to go out after it is live, not before.</li>
+</ul>
+
+<h2>Getting the timezone right for a UK site</h2>
+<p>Scheduled times follow the timezone set in Settings, then General. This is the setting most likely to cause confusion for UK sites.</p>
+<p>WordPress offers two kinds of option: a city, such as London, or a fixed offset, such as UTC+0. A fixed offset does not change when the clocks go forward or back. If you choose UTC+0, then during British Summer Time your posts will appear an hour later than you expect by the clock on the wall. Choosing London lets WordPress follow the clock changes automatically.</p>
+<p>While you are on that screen, check the date and time formats too. These control how dates appear on the site, and a UK audience generally expects the day before the month.</p>
+<p>If your team works across different countries, agree that everyone schedules in site time, which is whatever the timezone setting says, rather than their own local time. The editor shows times in site time, so a colleague abroad needs to do the conversion in their head or schedule from the site's point of view.</p>
+
+<h2>How WordPress actually publishes scheduled posts</h2>
+<p>This is the part that explains most missed schedules. WordPress does not have a clock running constantly in the background. Instead it has a built-in task runner, often called WP-Cron, that checks for due tasks when someone loads a page on the site.</p>
+<p>When a visit comes in, WordPress looks at its list of scheduled jobs. If a post was due at nine o'clock and the first visit after that arrives at ten past, the post is published at ten past. On a busy site the gap is small. On a quiet site, or overnight, it can be longer.</p>
+<p>The same task runner also handles other jobs, such as checking for updates and running tasks for themes and extensions. If it is not firing reliably, scheduled posts are often the first thing people notice, but other jobs may be late too.</p>
+<p>Many hosts and developers replace the visit-based trigger with a real server task that calls WordPress at a fixed interval. That makes timing more predictable because it no longer depends on visitors. Whether this is set up on your site depends on your host and how the site was built. Our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers what to ask a host about this kind of thing.</p>
+
+<h2>Why scheduled posts get missed</h2>
+<p>A "Missed schedule" label means the scheduled time passed and WordPress did not publish the post. There are several possible causes, and it is worth checking them in order rather than guessing.</p>
+
+<h3>Timezone mismatch</h3>
+<p>Sometimes the post was not missed at all, it simply is not due yet in site time. Compare the time on the post with the current site time shown in Settings, then General. If they differ from what you expected, the timezone is the issue.</p>
+
+<h3>Full-page caching</h3>
+<p>Caching is good for speed, but if every visitor is served a cached copy of the page, WordPress may not get a chance to run its task check. Some caching setups handle this well, others do not. If missed schedules started after a caching change, that is a strong lead.</p>
+
+<h3>Task runner disabled without a replacement</h3>
+<p>A developer may have switched off the visit-based task runner, which is a common step when moving to a server task. If the server task was never created, or stopped working after a hosting move, nothing triggers scheduled jobs. Ask whoever manages the site, or check the site configuration with your developer.</p>
+
+<h3>Server blocking the internal request</h3>
+<p>The task runner works by the site making a small request to itself. Security rules, firewalls, password protection on a staging site or certain hosting setups can block that request. Site Health in the Tools menu may flag problems with scheduled events or loopback requests, which is a useful starting point.</p>
+
+<h3>Maintenance mode or a site that was down</h3>
+<p>If the site was in maintenance mode or unavailable at the scheduled time, jobs may not run until it is back. After planned maintenance, check the scheduled list.</p>
+
+<h3>Conflicts and errors</h3>
+<p>A PHP error during a scheduled task can stop it finishing. If the problem started after an update to a theme or extension, look at what changed. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> explains how to review what is installed and remove what you do not need.</p>
+
+<h2>What to do with a post that missed its schedule</h2>
+<p>The simple fix is to open the post and publish it manually. Check the publish date before you do. Depending on how you republish, WordPress may keep the original scheduled date, which can place the post lower in your blog list than you expect. If that matters, set the date to now before publishing.</p>
+<p>Then look for the cause, using the list above. A single missed post on a quiet night may not need much action. Repeated misses suggest something structural, such as caching or the task runner, and are worth fixing properly.</p>
+
+<h2>Planning a content calendar around scheduling</h2>
+<p>Scheduling works best as part of a simple plan rather than as a last-minute tool.</p>
+<ul>
+<li><strong>Keep a shared calendar.</strong> A spreadsheet or project board with titles, owners, status and planned dates is enough for most small teams.</li>
+<li><strong>Schedule at sensible times.</strong> There is no universal best time. Think about when your readers are likely to look, and when someone on your team can check the post went live.</li>
+<li><strong>Check after publishing.</strong> A quick look at the live post, its link in the blog list and its appearance on mobile catches most problems early.</li>
+<li><strong>Coordinate with other channels.</strong> If a newsletter links to the post, schedule the newsletter after the post time, with a margin.</li>
+<li><strong>Keep drafts tidy.</strong> Old half-finished drafts make it harder to see what is actually queued.</li>
+</ul>
+<p>For more on how posts fit into your wider site, our <a href="/blog/website-navigation-structure/">website navigation structure guide</a> covers how readers move between sections.</p>
+
+<h2>Scheduling and SEO</h2>
+<p>Scheduling itself does not help or harm search rankings. Search engines see a post once it is published, and what matters is the content, its internal links and whether it meets a real need. A post that sits unpublished because of a missed schedule simply is not visible yet.</p>
+<p>Two practical points are worth noting. First, do not schedule a post that other live pages already link to, because those links will lead to a missing page until the post goes live. Second, if you update an old post and change its date to make it look new, be honest about what changed. Readers notice, and it is better to show an "updated" note.</p>
+
+<h2>When to get help</h2>
+<p>If scheduled posts keep missing, Site Health shows warnings about scheduled events, or nobody is sure whether the site uses a server task, it is worth asking a developer to look. The fix is often small once the cause is clear, but working it out can take some digging through hosting and caching settings.</p>
+<p>Prism Works Studio builds and looks after WordPress sites for UK businesses, including checking scheduled tasks, caching and hosting setup. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Why does my scheduled post say "Missed schedule"?</h3>
+<p>WordPress did not run its publishing task at the scheduled time. Common reasons include a timezone mismatch, caching, the task runner being disabled without a replacement, or the server blocking the site's internal request. Publish it manually, then look for the cause.</p>
+<h3>Which timezone should a UK WordPress site use?</h3>
+<p>Choose London from the city list in Settings, then General. A fixed UTC offset does not follow the clock changes, so scheduled times will be an hour out for part of the year.</p>
+<h3>Can I schedule pages as well as posts?</h3>
+<p>Yes. Pages, and most custom post types that use the standard editor, have the same publish date option.</p>
+<h3>Does a scheduled post publish at the exact minute?</h3>
+<p>Not always. With the default setup it publishes on the first visit after the scheduled time. A server task that runs at a fixed interval makes timing more predictable.</p>
+<h3>Will scheduling posts improve my SEO?</h3>
+<p>No, scheduling is a workflow tool. It can help you publish consistently, but rankings depend on the quality and usefulness of the content, not on when it was scheduled.</p>
+<h3>Can I bulk reschedule posts?</h3>
+<p>The standard quick edit option lets you change dates on posts one at a time from the posts list. For larger changes, plan carefully and test on a staging copy first.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Scheduled%20Posts%3A%20Scheduling%2C%20Timezones%20and%20Fixing%20Missed%20Schedules'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Scheduled%20Posts%3A%20Scheduling%2C%20Timezones%20and%20Fixing%20Missed%20Schedules'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

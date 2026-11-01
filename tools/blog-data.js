@@ -37727,4 +37727,540 @@ module.exports = [
 <p>It can speed up troubleshooting. Read it first, as it includes server details, and share it only with people you trust.</p>
 `,
   },
+  {
+    slug: 'shopify-customer-accounts',
+    seoTitle: 'Shopify Customer Accounts: New vs Classic Explained',
+    title: 'Shopify Customer Accounts: New vs Classic and What to Set',
+    description: 'Shopify customer accounts explained: how new and classic accounts differ, whether to require sign-in at checkout, and what UK store owners should set.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/ecommerce-customer-accounts-and-wishlists/', '/blog/shopify-checkout-settings/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Customer accounts let shoppers sign in to your Shopify store to see past orders, track deliveries, manage addresses and reorder. They also give you a cleaner picture of repeat customers. Shopify offers two versions of accounts, and the settings around them affect checkout, returning customers and how your theme behaves.</p>
+<p>This guide explains the difference between the newer customer accounts and classic accounts, the main options in the admin, and sensible choices for a UK store. For the wider design questions around accounts and saved items, see our <a href="/blog/ecommerce-customer-accounts-and-wishlists/">guide to ecommerce customer accounts and wishlists</a>.</p>
+
+<h2>Where the settings live</h2>
+<p>In the Shopify admin, go to Settings, then Customer accounts. This screen controls whether accounts are shown at all, which version you use, and some related options. Shopify updates this area from time to time, so labels may differ slightly from what is described here. Check the current Shopify help centre if something does not match.</p>
+
+<h2>New customer accounts</h2>
+<p>The newer version does not use passwords. A customer enters their email address and Shopify sends a one-time code to sign in. Accounts are hosted by Shopify on a separate account area, with a consistent layout for orders, addresses and profile details.</p>
+<p>Points to understand:</p>
+<ul>
+<li><strong>No passwords to forget.</strong> Customers do not need to create or remember a password, which removes a common source of frustration and support emails.</li>
+<li><strong>Order history and status.</strong> Customers can see their orders and, depending on setup, track them and request returns.</li>
+<li><strong>Branding options.</strong> You can apply your logo and colours, but the layout is controlled by Shopify rather than your theme.</li>
+<li><strong>Extensions.</strong> Shopify allows extra features to be added to the account area through approved extensions, which developers can build or install.</li>
+</ul>
+<p>Because the account pages are not part of your theme, any customisation you previously made to classic account templates will not carry over automatically.</p>
+
+<h2>Classic customer accounts</h2>
+<p>Classic accounts use an email address and password. The account pages are templates inside your theme, so a developer can change their layout and content more freely.</p>
+<p>Classic accounts may suit stores that rely heavily on theme-based account customisation or older apps built around them. Shopify has been moving its focus to the newer version, so check the current position in the Shopify help centre before building anything new around classic accounts.</p>
+
+<h2>Should customers need an account to buy?</h2>
+<p>Shopify lets you choose how accounts appear at checkout. The main choices are along these lines:</p>
+<ul>
+<li><strong>Accounts off or hidden.</strong> Customers check out as guests only.</li>
+<li><strong>Accounts optional.</strong> Customers can sign in if they want, or check out as a guest.</li>
+<li><strong>Accounts required.</strong> Customers must sign in or create an account before checking out.</li>
+</ul>
+<p>For most consumer stores, optional is the sensible default. Forcing sign-up adds a step between a shopper and payment, and many people simply want to buy and leave. Required accounts make more sense for trade or wholesale stores, members-only shops, or stores where prices and products depend on who the customer is.</p>
+<p>Checkout friction is covered in more detail in our <a href="/blog/shopify-checkout-settings/">Shopify checkout settings guide</a>.</p>
+
+<h2>What customers can do in their account</h2>
+<p>Depending on the version and your setup, customers can typically:</p>
+<ul>
+<li>View past orders and order status.</li>
+<li>Save and edit delivery addresses.</li>
+<li>Update their name and contact details.</li>
+<li>Reorder previous purchases or start a return, where enabled.</li>
+<li>Manage marketing preferences, where your setup exposes them.</li>
+</ul>
+<p>Think about which of these matter to your customers. A store selling consumables that people reorder often gets more value from accounts than a store selling one-off items.</p>
+
+<h2>Switching from classic to new accounts</h2>
+<p>If your store uses classic accounts and you are considering the newer version, plan the change rather than flipping a switch on a busy day.</p>
+<ol>
+<li><strong>List what touches accounts.</strong> Theme templates, header sign-in links, loyalty schemes, wishlists, wholesale pricing, subscriptions and any apps that read customer login status.</li>
+<li><strong>Check compatibility.</strong> Ask each app provider, or your developer, whether their feature works with new customer accounts.</li>
+<li><strong>Review customer-only content.</strong> If parts of your theme show different content to logged-in customers, test that it still works.</li>
+<li><strong>Test on a duplicate theme or development store.</strong> Sign in, place a test order, view history and check every link.</li>
+<li><strong>Tell customers if needed.</strong> Existing customers sign in with a code instead of a password. A short note on the sign-in page or in an email can avoid confusion.</li>
+</ol>
+<p>Our <a href="/blog/shopify-apps-audit/">Shopify apps audit guide</a> is a useful way to review what you have installed before making the change.</p>
+
+<h2>Customer data and privacy</h2>
+<p>Accounts store personal data such as names, addresses and order history. As a UK business you have responsibilities under data protection law for how you collect and use it. Make sure your privacy notice explains what you hold and why, only ask for information you actually need, and handle requests from customers to see or delete their data. This is general information, not legal advice, so check current ICO guidance or take advice for your situation.</p>
+<p>Staff access matters too. Only give team members the access they need to customer records. Our <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions guide</a> covers this.</p>
+
+<h2>Making the most of accounts in your theme</h2>
+<p>Whichever version you use, a few theme details make accounts more useful:</p>
+<ul>
+<li><strong>A clear sign-in link.</strong> Usually an account icon in the header, labelled for screen readers and easy to tap on mobile.</li>
+<li><strong>Reasons to sign in.</strong> Tell customers what they get: order tracking, faster checkout, easy reordering.</li>
+<li><strong>Consistent branding.</strong> Set your logo and colours so the account area does not feel like a different site.</li>
+<li><strong>Helpful order confirmation emails.</strong> Include a link to view the order, which works for guests and account holders.</li>
+</ul>
+
+<h2>Common mistakes</h2>
+<ul>
+<li><strong>Requiring accounts on a consumer store</strong> without a clear reason.</li>
+<li><strong>Switching account versions without testing</strong> how apps and theme features respond.</li>
+<li><strong>Leaving the sign-in link hidden or broken</strong> after a theme change.</li>
+<li><strong>Collecting more personal data than needed</strong> at sign-up.</li>
+<li><strong>Not checking the account area on mobile,</strong> where many customers will view it.</li>
+</ul>
+
+<h2>Accounts for trade and wholesale customers</h2>
+<p>If you sell to businesses as well as consumers, accounts become more important. Trade buyers often need to see different prices, order in larger quantities, pay on agreed terms or reorder the same items regularly. Shopify offers business-to-business features on some plans, and these rely on customers signing in so the store knows who they are.</p>
+<p>Before setting this up, decide how trade customers will be approved. A simple application form, reviewed by a member of staff, keeps control in your hands. Make sure the approval process is clear on the site, so trade buyers know what to expect and consumers are not confused by trade-only messages. Check which features are available on your current plan in the Shopify help centre before planning around them.</p>
+
+<h2>Measuring whether accounts are worth it</h2>
+<p>Accounts are only useful if customers use them. A few things are worth watching over time in your Shopify reports and analytics:</p>
+<ul>
+<li>How many orders come from signed-in customers compared with guests.</li>
+<li>Whether returning customers tend to sign in or check out as guests again.</li>
+<li>Support questions about signing in, passwords or order tracking.</li>
+<li>Whether customers use features such as reordering or returns from their account.</li>
+</ul>
+<p>If very few people sign in, think about whether the benefits are clear enough on the site, or whether accounts simply do not suit how your customers buy. Neither answer is wrong. The aim is a setup that fits your store, rather than one copied from somewhere else.</p>
+
+<h2>Getting help</h2>
+<p>Customer accounts sit where checkout, theme code, apps and data handling meet, so changes can have knock-on effects. Prism Works Studio helps UK brands set up and adjust Shopify stores, including account settings and theme work. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">contact us</a> to talk through your store.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between new and classic Shopify customer accounts?</h3>
+<p>New customer accounts use a one-time code sent by email instead of a password and are hosted by Shopify. Classic accounts use a password and are built from templates in your theme.</p>
+<h3>Should I make customers create an account to check out?</h3>
+<p>For most consumer stores, no. Optional accounts let people buy as guests while giving returning customers the choice to sign in. Required accounts suit trade, wholesale or members-only stores.</p>
+<h3>Will my apps work with new customer accounts?</h3>
+<p>It depends on the app. Check with each provider or your developer, and test on a duplicate theme or development store before switching.</p>
+<h3>Can I customise the look of new customer accounts?</h3>
+<p>You can apply branding such as your logo and colours, and extensions can add features. The overall layout is controlled by Shopify rather than your theme templates.</p>
+<h3>Do guest customers still get order updates?</h3>
+<p>Yes. Guests receive order confirmation and shipping emails, and can usually view the order status from the link in those emails.</p>
+<h3>What happens to existing customers if I switch versions?</h3>
+<p>Their customer records stay in Shopify. The main change is how they sign in, so let them know about the code-based sign-in to avoid confusion.</p>
+`,
+  },
+  {
+    slug: 'shopify-navigation-menus',
+    seoTitle: 'Shopify Navigation Menus: Setup and Structure Guide',
+    title: 'Shopify Navigation Menus: How to Set Up and Structure Them',
+    description: 'How to build Shopify navigation menus: main and footer menus, dropdowns, linking collections, mobile menus and keeping navigation tidy as you grow.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-navigation-structure/', '/blog/shopify-collections-structure/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Navigation is how shoppers find their way around your Shopify store. A clear menu helps people reach the right products quickly. A confusing one sends them to search, or away. Shopify keeps menu building fairly simple, but the decisions about what goes in the menu, and in what order, are where most of the work lies.</p>
+<p>This guide covers how menus work in Shopify, how to set up main and footer menus, how to handle dropdowns and mega menus, and how to keep navigation tidy as your range changes. For general principles that apply to any site, see our <a href="/blog/website-navigation-structure/">website navigation structure guide</a>.</p>
+
+<h2>How Shopify menus work</h2>
+<p>In the Shopify admin, menus are managed under Content, then Menus. Older admin layouts placed them under Online Store, then Navigation, so you may see either depending on when you last looked.</p>
+<p>A new store usually starts with two menus: a main menu and a footer menu. You can create more. Each menu is a list of items, and each item has a label and a link. Links can point to collections, products, pages, blog posts, policies, the search page or a custom web address.</p>
+<p>The menus themselves do not decide where they appear. Your theme does. In the theme editor, header and footer sections have settings where you choose which menu to show. If you create a new menu and it does not appear, check the theme editor and select it there.</p>
+
+<h2>Building the main menu</h2>
+<p>The main menu, usually shown in the header, is the most important navigation on the store. Before adding items, step back and think about how customers shop.</p>
+<ul>
+<li><strong>By product type.</strong> Dresses, tops, knitwear. Common for fashion and homeware.</li>
+<li><strong>By use or room.</strong> Kitchen, bathroom, garden.</li>
+<li><strong>By customer.</strong> Women, men, kids.</li>
+<li><strong>By range or collection.</strong> Useful when collections have strong names customers recognise.</li>
+</ul>
+<p>Pick the approach that matches how your customers describe what they want, not how products are organised in your warehouse. Your collections should support this. Our <a href="/blog/shopify-collections-structure/">Shopify collections structure guide</a> covers how to plan them.</p>
+<p>Some practical tips:</p>
+<ul>
+<li><strong>Keep labels short.</strong> One or two words where possible, using everyday language.</li>
+<li><strong>Put the most important items first.</strong> People scan from left to right on desktop and top to bottom on mobile.</li>
+<li><strong>Do not overload the top level.</strong> If the header wraps onto two lines or feels crowded, group items into dropdowns.</li>
+<li><strong>Include a route to everything.</strong> A "Shop all" link can help people who just want to browse.</li>
+</ul>
+
+<h2>Dropdowns and nested menus</h2>
+<p>To create a dropdown, add menu items and then drag them underneath a parent item so they are indented. Shopify supports nesting up to a few levels, but how many levels display depends on your theme.</p>
+<p>Use dropdowns to group related collections. For example, a parent item called Clothing might hold Dresses, Tops and Trousers. Think about whether the parent itself should link somewhere. On some themes, clicking the parent opens the dropdown rather than following its link, so the parent's own page may be hard to reach. A "Shop all clothing" item inside the dropdown solves this.</p>
+<p>Deep nesting makes menus harder to use, particularly on phones. If you find yourself needing four levels, it may be a sign the collection structure needs simplifying.</p>
+
+<h2>Mega menus</h2>
+<p>Many themes offer a mega menu, which displays a large panel with columns of links and sometimes images. These can work well for stores with wide ranges, because shoppers see more options at once.</p>
+<p>Mega menus are usually built from the same nested menu in the admin, with the theme deciding how to lay it out. Some themes add image or promotional blocks in the theme editor. Keep them focused on helping people find products. A panel full of promotions can make actual categories harder to spot.</p>
+
+<h2>The footer menu</h2>
+<p>The footer is where people look for practical information. Typical footer items include:</p>
+<ul>
+<li>Contact and help pages.</li>
+<li>Delivery and returns information.</li>
+<li>Store policies such as privacy, terms and refunds.</li>
+<li>About the business.</li>
+<li>Your blog or journal, if you have one.</li>
+</ul>
+<p>Many themes let you show several footer menus in columns. Group items logically, such as Help, About and Legal. For more on footer content, see our <a href="/blog/website-footer-design/">website footer design guide</a>.</p>
+
+<h2>Mobile navigation</h2>
+<p>On phones, the main menu usually collapses into a menu icon that opens a drawer. Dropdowns become expandable sections. This is where cluttered menus cause the most trouble, because long lists are hard to scroll and tap.</p>
+<p>Test the menu on a real phone. Check that every item is reachable, that labels are not cut off, that the drawer closes properly and that tap targets are not too small. Some themes let you show a separate mobile menu or add extra links to the drawer, which can help if your desktop menu does not translate well.</p>
+<p>Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers wider points about designing for small screens.</p>
+
+<h2>Accessibility</h2>
+<p>Menus should work for people using a keyboard or a screen reader. Most well-built themes handle this, but customisations can break it. Check that:</p>
+<ul>
+<li>You can reach every menu item using the Tab key.</li>
+<li>Dropdowns open and close with the keyboard.</li>
+<li>There is a visible focus outline showing where you are.</li>
+<li>The menu icon on mobile has a text label for screen readers.</li>
+</ul>
+
+<h2>Navigation and SEO</h2>
+<p>Menu links are internal links, and they tell search engines which pages matter most on your store. Linking your main collections from the header helps those pages get found and understood. Linking to dozens of minor pages from every page dilutes that signal and makes the menu harder for people to use.</p>
+<p>When you rename or remove a collection, update the menu and set up a redirect from the old address, so neither customers nor search engines hit a dead end. Shopify can create a redirect automatically when you change a handle, but always check. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers this and more.</p>
+
+<h2>Keeping menus tidy over time</h2>
+<p>Menus tend to grow as you add seasonal collections, promotions and new ranges. Without a review they become long and inconsistent. A few habits help:</p>
+<ul>
+<li><strong>Review after each season or launch.</strong> Remove items for collections that have ended.</li>
+<li><strong>Look for empty collections.</strong> A menu item leading to an empty page is a poor experience.</li>
+<li><strong>Use your analytics.</strong> Look at which menu destinations people use and which they ignore, and adjust.</li>
+<li><strong>Keep a note of the structure.</strong> A simple list of menus and their purpose helps your team make consistent changes.</li>
+</ul>
+
+<h2>Menus for different markets or languages</h2>
+<p>If your store sells in several languages, menu labels can be translated so each audience sees their own language. If different markets have different ranges, think about whether every menu item makes sense in every market. Our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a> covers the wider planning.</p>
+
+<h2>Navigation beyond the menu</h2>
+<p>Menus are only one way people move around a store. Search, filters, breadcrumbs and links within collection and product pages all help shoppers find what they need. If your menu cannot hold everything, these other routes take some of the load.</p>
+<p>Make sure search is easy to find, especially on mobile, and that it returns sensible results for the words customers actually use. Filters on collection pages let people narrow a large range without needing more menu items. Breadcrumbs show where a shopper is and offer a quick route back up a level. Our guides to <a href="/blog/shopify-product-filters/">Shopify product filters</a> and <a href="/blog/website-breadcrumb-navigation/">breadcrumb navigation</a> cover both in more detail.</p>
+
+<h2>Getting help</h2>
+<p>Good navigation depends on clear collections, a sensible theme setup and regular review. Prism Works Studio helps UK brands plan and build Shopify stores, including navigation and collection structure. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where do I edit menus in Shopify?</h3>
+<p>In the admin, go to Content, then Menus. On older admin layouts this was under Online Store, then Navigation.</p>
+<h3>Why is my new menu not showing on the store?</h3>
+<p>Menus only appear where the theme displays them. Open the theme editor, select the header or footer section and choose your menu in its settings.</p>
+<h3>How do I create a dropdown menu in Shopify?</h3>
+<p>Add the items to the menu, then drag the child items underneath and slightly to the right of the parent item so they are nested.</p>
+<h3>How many items should my main menu have?</h3>
+<p>There is no fixed number. Keep the top level short enough to fit comfortably on one line on desktop and to scan easily on mobile, and group the rest into dropdowns.</p>
+<h3>Do menu links help SEO?</h3>
+<p>They act as internal links, so linking your key collections from the menu helps search engines understand which pages matter. Keep menus focused rather than linking everything.</p>
+<h3>What happens to menu links when I delete a collection?</h3>
+<p>The menu item may break or disappear depending on the link type. Update the menu and set up a redirect from the old address.</p>
+`,
+  },
+  {
+    slug: 'shopify-url-redirects',
+    seoTitle: 'Shopify URL Redirects: When and How to Set Them Up',
+    title: 'Shopify URL Redirects: When to Use Them and How to Set Them Up',
+    description: 'A practical guide to Shopify URL redirects: when you need them, how to add them one by one or in bulk, and how to avoid redirect chains and loops.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/website-redirects-when-relaunching/', '/blog/shopify-seo-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A redirect sends anyone who visits an old web address on to a new one. On a Shopify store, addresses change more often than people expect: products get renamed, collections are merged, seasonal ranges end and whole stores move from another platform. Without redirects, those old addresses lead to an error page, which frustrates shoppers and wastes any search visibility the old page had.</p>
+<p>This guide explains when Shopify redirects are needed, how to create them, how to handle larger moves and the mistakes to avoid. If you are relaunching a whole site, our <a href="/blog/website-redirects-when-relaunching/">guide to website redirects when relaunching</a> covers the wider planning.</p>
+
+<h2>What a Shopify redirect does</h2>
+<p>Shopify redirects are permanent redirects. When someone requests the old address, the server tells their browser, and any search engine, that the page has moved for good and gives the new address. Browsers follow the instruction instantly, so most visitors never notice.</p>
+<p>For search engines, a permanent redirect is a signal to update their index and, over time, to transfer the old page's standing to the new one. That transfer is not instant or guaranteed, but without a redirect the old page's value is simply lost.</p>
+
+<h2>When you need a redirect</h2>
+<p>Add a redirect whenever an address that people or search engines might know about stops working. Typical situations include:</p>
+<ul>
+<li><strong>Changing a product or collection handle.</strong> The handle is the last part of the address. Editing it changes the address.</li>
+<li><strong>Deleting a product</strong> that is permanently discontinued.</li>
+<li><strong>Merging or retiring collections.</strong> For example, combining two similar collections into one.</li>
+<li><strong>Restructuring pages or blog posts.</strong> Renaming, merging or removing content.</li>
+<li><strong>Moving to Shopify from another platform.</strong> Shopify's address format is fixed, so most old addresses will change.</li>
+<li><strong>Fixing old marketing links.</strong> Printed materials, emails or adverts that point to addresses which no longer exist.</li>
+</ul>
+
+<h2>Automatic redirects when you change a handle</h2>
+<p>When you edit the handle of a product, collection, page or blog post in the search engine listing section, Shopify shows a checkbox to create a redirect from the old address. It is usually ticked by default. Leave it ticked unless you have a specific reason not to.</p>
+<p>Check that the redirect was created by visiting the old address afterwards. It is also worth recording handle changes somewhere, so you can trace any problems later.</p>
+
+<h2>Adding a redirect manually</h2>
+<p>In the Shopify admin, go to Content, then Menus, and look for URL redirects. In some admin layouts the option sits under Online Store, then Navigation. Choose to create a redirect and fill in two fields:</p>
+<ul>
+<li><strong>Redirect from.</strong> The old address, starting with a forward slash, for example /products/old-name.</li>
+<li><strong>Redirect to.</strong> The new address, either a path on your store or a full web address.</li>
+</ul>
+<p>Save it, then test by visiting the old address in a private browser window.</p>
+
+<h2>Adding redirects in bulk</h2>
+<p>For larger changes, such as a platform migration or a big tidy-up, Shopify lets you import redirects from a spreadsheet saved as a CSV file. The file has two columns, one for the old path and one for the new destination. The redirects screen includes an import option and Shopify provides a template format.</p>
+<p>Before importing:</p>
+<ul>
+<li><strong>Build a full list of old addresses.</strong> Use your old sitemap, analytics, search console data and any crawl of the old site.</li>
+<li><strong>Map each one to its closest match.</strong> A product to the same or nearest product, a category to the equivalent collection.</li>
+<li><strong>Check for duplicates and typos.</strong> One mistake can send a lot of visitors to the wrong place.</li>
+<li><strong>Import, then spot-check.</strong> Test a sample of addresses from each type of page.</li>
+</ul>
+<p>If you are moving from another platform, our guides to <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration</a> and the <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> go into more detail.</p>
+
+<h2>Where to point a redirect</h2>
+<p>The destination matters as much as the redirect itself. The aim is to send people to the page that best meets what they were looking for.</p>
+<ul>
+<li><strong>Renamed product:</strong> redirect to the same product at its new address.</li>
+<li><strong>Discontinued product with a replacement:</strong> redirect to the replacement.</li>
+<li><strong>Discontinued product with no replacement:</strong> redirect to the most relevant collection.</li>
+<li><strong>Merged collection:</strong> redirect to the combined collection.</li>
+<li><strong>Removed blog post:</strong> redirect to the closest related post or the blog category.</li>
+</ul>
+<p>Avoid sending everything to the homepage. It may look tidy, but visitors arrive somewhere that does not match what they wanted, and search engines may treat a homepage redirect for an unrelated page much like a missing page.</p>
+<p>Sometimes there is no sensible destination. In that case, letting the address return a helpful 404 page is acceptable. Our <a href="/blog/404-page-design/">404 page design guide</a> covers how to make that page useful.</p>
+
+<h2>Why a redirect might not work</h2>
+<h3>A page still exists at the old address</h3>
+<p>Shopify only applies a redirect if nothing lives at the old address. If a product or page is still published there, even if hidden from menus, the redirect is ignored. Delete or change the handle of the old item first.</p>
+<h3>The address format is wrong</h3>
+<p>The "from" field should be a path starting with a forward slash, without your domain. Check for extra spaces, capital letters or trailing characters.</p>
+<h3>Query strings and special cases</h3>
+<p>Some addresses include tracking or filter parameters after a question mark. Redirect handling for these can be limited, so test the exact addresses that matter.</p>
+<h3>Caching</h3>
+<p>Your browser may remember an earlier response. Test in a private window or on a different device.</p>
+
+<h2>Avoiding chains and loops</h2>
+<p>A redirect chain happens when address A redirects to B, which redirects to C. Each step slows things down a little and makes it harder for search engines to follow. Chains often build up over years of renaming.</p>
+<p>When you add a new redirect, check whether the old address already has redirects pointing to it, and update those to point straight to the final destination. Periodically export your redirects and look for chains.</p>
+<p>A loop happens when A points to B and B points back to A. Browsers show an error and nobody can reach the page. Loops usually come from quick fixes made without checking the existing list.</p>
+
+<h2>Keeping your redirect list healthy</h2>
+<ul>
+<li><strong>Review after big changes.</strong> After a range refresh or migration, check for new errors in your search console coverage reports.</li>
+<li><strong>Update internal links too.</strong> Redirects are a safety net, not a substitute for linking directly to the right page in your menus and content.</li>
+<li><strong>Keep a record.</strong> Note why major redirects were added, so future changes do not undo them by accident.</li>
+<li><strong>Do not delete old redirects casually.</strong> Old links on other sites and in customers' bookmarks can keep sending visits for a long time.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers how redirects fit into wider store optimisation.</p>
+
+<h2>Planning changes so fewer redirects are needed</h2>
+<p>The simplest redirect is the one you never need. Choosing clear, lasting handles from the start reduces how often addresses change. Avoid putting years, seasons or temporary details in handles for products and collections that will stay on sale. A collection called summer-sale-and-new-in will feel out of date quickly, while a handle such as linen-dresses can stay put for years.</p>
+<p>Before renaming anything, ask whether the change is worth it. Updating the visible title of a product does not require changing its handle. You can give a product a fresh name on the page while keeping the same address, which avoids a redirect altogether. Save handle changes for cases where the old address is genuinely misleading or confusing.</p>
+
+<h2>Getting help</h2>
+<p>A handful of redirects is easy to manage. A migration with hundreds or thousands of addresses needs careful mapping and testing. Prism Works Studio plans and carries out Shopify builds and migrations for UK businesses, including redirect mapping. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">contact us</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Are Shopify redirects permanent?</h3>
+<p>Yes. Shopify URL redirects are permanent redirects, which tell browsers and search engines the page has moved for good.</p>
+<h3>Why is my Shopify redirect not working?</h3>
+<p>The most likely reason is that something still exists at the old address. Shopify only redirects addresses that would otherwise show an error. Also check the format of the path and test in a private window.</p>
+<h3>Should I redirect discontinued products?</h3>
+<p>If there is a replacement or a closely related collection, yes. If there is genuinely nothing relevant, a helpful 404 page can be the better option.</p>
+<h3>Can I import redirects in bulk?</h3>
+<p>Yes. Shopify lets you import a CSV file with the old paths and new destinations from the URL redirects screen.</p>
+<h3>Does Shopify create redirects automatically?</h3>
+<p>When you change a handle, Shopify offers to create a redirect from the old address, usually ticked by default. It does not create redirects when you delete items.</p>
+<h3>Do redirects hurt SEO?</h3>
+<p>Well-planned redirects protect search visibility when addresses change. Problems come from chains, loops and redirecting unrelated pages to the homepage.</p>
+`,
+  },
+  {
+    slug: 'wordpress-reading-and-discussion-settings',
+    seoTitle: 'WordPress Reading and Discussion Settings Explained',
+    title: 'WordPress Reading and Discussion Settings: What Each Option Does',
+    description: 'A plain guide to WordPress Reading and Discussion settings: homepage display, posts page, search visibility, comments, moderation and avatars.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-comment-spam/', '/blog/website-homepage-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Two screens in the WordPress Settings menu quietly shape how a site behaves: Reading and Discussion. Reading decides what visitors see on the homepage, how the blog is laid out and whether search engines are asked to stay away. Discussion controls comments, moderation and the small notices WordPress sends between sites.</p>
+<p>Most of these options are set once and forgotten. That is fine when they are right, but a single wrong tick can hide a site from search results or open a blog up to a flood of unwanted comments. This guide walks through each option in plain terms and suggests sensible choices for a UK business site.</p>
+
+<h2>Where to find these settings</h2>
+<p>Log in to the dashboard and open Settings in the left-hand menu. Reading and Discussion are separate screens. You need an administrator account to change them. If your site uses a block theme, some display choices also live in the site editor, but the core options covered here still sit under Settings.</p>
+
+<h2>Reading settings</h2>
+
+<h3>Your homepage displays</h3>
+<p>The first choice is whether the homepage shows your latest posts or a static page.</p>
+<ul>
+<li><strong>Your latest posts.</strong> The homepage becomes a running list of blog posts. This suits sites where the blog is the main product, such as a publication or a personal journal.</li>
+<li><strong>A static page.</strong> You pick a page to act as the homepage, and optionally a separate page to hold the list of posts. This is what most business sites need: a designed homepage that explains what you do, with the blog living at its own address.</li>
+</ul>
+<p>When you choose a static page, you select two pages from drop-downs. The homepage should be a real page with your content. The posts page should be an empty page, often called Blog or News. WordPress fills it automatically with your posts, and anything you type into that page's content area is usually ignored by the theme.</p>
+<p>For more on what a business homepage should contain, see our <a href="/blog/website-homepage-design/">website homepage design guide</a>.</p>
+
+<h3>Blog pages show at most</h3>
+<p>This sets how many posts appear on each page of the blog list, and on category and tag archives. There is no single right number. A smaller number keeps pages lighter and quicker to scan. A larger number means fewer pages to click through. Choose something that suits your theme's layout, for example a number that fills complete rows if posts appear in a grid.</p>
+
+<h3>Syndication feeds show the most recent</h3>
+<p>WordPress produces an RSS feed that feed readers and some tools use to pick up new posts. This option sets how many recent items the feed includes. The default is fine for most sites.</p>
+
+<h3>For each post in a feed, include</h3>
+<p>You can include the full text of each post or just an excerpt. Full text is convenient for readers using feed readers. An excerpt encourages them to visit the site. Some site owners prefer excerpts to reduce the chance of content being copied wholesale from the feed, although that is not a guarantee.</p>
+
+<h3>Search engine visibility</h3>
+<p>This is the most important box on the screen. Ticking "Discourage search engines from indexing this site" asks search engines not to index it. Search engines usually respect the request, so a live site with this box ticked can drop out of results or never appear.</p>
+<p>The box is often ticked on purpose during a build or on a staging copy, which is sensible. The risk is that the setting gets carried over when the site goes live. After any launch, migration or restore from a staging copy, check this box is unticked. It is one of the first things we look at in a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a>.</p>
+<p>Note that this setting is a request, not a lock. It does not stop people visiting the site. If you need to keep a staging site private, use password protection from your host as well.</p>
+
+<h2>Discussion settings</h2>
+<p>The Discussion screen is longer and can look intimidating. It splits roughly into default settings for new posts, rules for who can comment, moderation, notifications and avatars.</p>
+
+<h3>Default post settings</h3>
+<p>Three options at the top control the default behaviour for new posts:</p>
+<ul>
+<li><strong>Attempt to notify any blogs linked to from the post.</strong> When you link to another WordPress site, yours may send it a notice, called a pingback.</li>
+<li><strong>Allow link notifications from other blogs.</strong> This lets other sites send pingbacks and trackbacks to you. These have long been a source of spam, and many business sites turn them off.</li>
+<li><strong>Allow people to submit comments on new posts.</strong> This sets whether comments are open by default. You can still change it on individual posts.</li>
+</ul>
+<p>These defaults only affect posts created after you change them. Existing posts keep their own settings, which you can change in bulk from the posts list using bulk edit.</p>
+
+<h3>Should a business site allow comments at all?</h3>
+<p>It depends on whether anyone will read and reply. Comments can add useful questions and show that real people engage with your content. They also need moderation, attract spam and can sit unanswered, which looks worse than having no comments. If you do not have time to respond, turning them off is a reasonable choice. Visitors with questions can still use your <a href="/blog/website-contact-forms/">contact form</a>.</p>
+
+<h3>Other comment settings</h3>
+<p>If you keep comments on, these options are worth reviewing:</p>
+<ul>
+<li><strong>Comment author must fill out name and email.</strong> Usually left on.</li>
+<li><strong>Users must be registered and logged in to comment.</strong> Useful for membership sites, unnecessary for most others.</li>
+<li><strong>Automatically close comments on older posts.</strong> Closing comments after a set period reduces spam on old content that nobody is watching.</li>
+<li><strong>Show comments cookies opt-in checkbox.</strong> This lets commenters choose whether their details are remembered. Keeping it on is a sensible privacy default, but check current ICO guidance on cookies and consent for your own situation.</li>
+<li><strong>Enable threaded comments.</strong> Allows replies to replies, up to a depth you choose.</li>
+<li><strong>Break comments into pages.</strong> Helpful only if posts get very long comment threads.</li>
+</ul>
+
+<h3>Notifications</h3>
+<p>You can ask WordPress to email you when anyone posts a comment, or when a comment is held for moderation. These emails go to the post author and the site admin address. If nobody acts on them, they just become noise, so make sure they reach someone responsible.</p>
+
+<h3>Moderation rules</h3>
+<p>This section decides what happens before a comment appears:</p>
+<ul>
+<li><strong>Comment must be manually approved.</strong> Every comment waits for approval. This is the safest option for a business site.</li>
+<li><strong>Comment author must have a previously approved comment.</strong> Returning commenters skip the queue.</li>
+<li><strong>Hold a comment if it contains a number of links.</strong> Spam often contains several links, so a low number catches a lot of it.</li>
+<li><strong>Comment moderation and disallowed keys.</strong> Lists of words, names, email addresses or IP addresses that send a comment to moderation or to the bin.</li>
+</ul>
+<p>For a fuller approach to unwanted comments, see our <a href="/blog/wordpress-comment-spam/">WordPress comment spam guide</a>.</p>
+
+<h3>Avatars</h3>
+<p>WordPress can show a small picture next to each commenter, pulled from a global avatar service linked to their email address. You can switch avatars off, set a maximum rating and pick a default image for people without one. Loading avatars from an outside service means each visitor's browser makes extra requests, so some site owners turn them off for speed or privacy. Check your privacy notice reflects whatever you choose.</p>
+
+<h2>A sensible starting point for a UK business site</h2>
+<p>Every site is different, but this is a reasonable baseline that you can adjust:</p>
+<ul>
+<li>Homepage set to a static page, with a separate empty page for the blog.</li>
+<li>Search engine visibility box unticked on the live site, ticked on staging along with password protection.</li>
+<li>Pingbacks and trackbacks off unless you have a reason to use them.</li>
+<li>Comments either off, or on with manual approval, link limits and automatic closing on older posts.</li>
+<li>Notifications going to someone who will act on them.</li>
+<li>Avatars on or off depending on your design and privacy approach.</li>
+</ul>
+
+<h2>When settings get changed by accident</h2>
+<p>Themes, imports and site migrations can change these settings without anyone noticing. A homepage that suddenly shows a list of posts, or a site disappearing from search results, are classic signs. Recording your chosen settings somewhere simple, such as a site handover document, makes it quick to check them after any big change.</p>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses and checks these settings as part of launches and audits. Visit our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> page or <a href="/contact/">contact us</a> if you would like a review.</p>
+
+<h2>FAQs</h2>
+<h3>Why is my WordPress site not showing in Google?</h3>
+<p>There can be many reasons, but check the search engine visibility box in Settings, then Reading first. If it is ticked, search engines are being asked not to index the site.</p>
+<h3>Why does my blog page ignore the content I added?</h3>
+<p>When a page is set as the posts page, WordPress fills it with your post list and most themes ignore the page's own content. Put introductory text in the theme's archive settings or template instead.</p>
+<h3>Should I turn off comments on my business blog?</h3>
+<p>If nobody has time to moderate and reply, turning them off is often better than leaving comments unanswered. You can still invite questions through a contact form.</p>
+<h3>Do Discussion settings change existing posts?</h3>
+<p>The default post settings only apply to new posts. Use bulk edit in the posts list to open or close comments on existing posts.</p>
+<h3>What are pingbacks and trackbacks?</h3>
+<p>They are notices one site sends to another when it links to it. They are rarely useful for business sites and often attract spam, so many owners switch them off.</p>
+<h3>Is the search visibility setting enough to hide a staging site?</h3>
+<p>No. It is a request to search engines, not access control. Use password protection or your host's privacy tools as well.</p>
+`,
+  },
+  {
+    slug: 'wordpress-scheduled-posts',
+    seoTitle: 'WordPress Scheduled Posts: Timezones and Missed Schedules',
+    title: 'WordPress Scheduled Posts: Scheduling, Timezones and Fixing Missed Schedules',
+    description: 'How to schedule posts in WordPress, set the right timezone for a UK site, and work out why a scheduled post was missed and what to check next.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-hosting-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>WordPress lets you write a post now and have it go live at a set date and time later. Scheduling is useful for planned announcements, regular blog slots and content that should appear while you are away. It usually works quietly in the background, but when it fails the post sits with a "Missed schedule" label and nobody notices until a reader or a client asks where it is.</p>
+<p>This guide explains how scheduling works, which settings matter for a UK site, why schedules get missed and what to check. If you are new to the editor itself, our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the basics.</p>
+
+<h2>How to schedule a post in WordPress</h2>
+<p>In the block editor, open the post settings panel on the right. Next to the publish option you will see a date and time that reads "Immediately" for a new draft. Click it and choose a future date and time. The main button changes from "Publish" to "Schedule". Click it, confirm, and the post status becomes "Scheduled".</p>
+<p>Pages can be scheduled in the same way, and so can most custom post types if they use the standard editor. Scheduled items appear in the posts list with a "Scheduled" label and the planned date, so you can filter the list to see what is queued.</p>
+<p>To change the time, open the post, click the date again and pick a new one, then update. To cancel, switch it back to draft, or set the date to "Immediately" if you want it live now.</p>
+<p>A few habits help:</p>
+<ul>
+<li><strong>Finish the post before scheduling it.</strong> Check images, links, categories, the excerpt and the featured image. Once it is live, any mistakes are public.</li>
+<li><strong>Preview it.</strong> The preview shows how the post will look with your theme, including on a phone.</li>
+<li><strong>Note what else depends on it.</strong> If an email, social post or ad points to the post, those need to go out after it is live, not before.</li>
+</ul>
+
+<h2>Getting the timezone right for a UK site</h2>
+<p>Scheduled times follow the timezone set in Settings, then General. This is the setting most likely to cause confusion for UK sites.</p>
+<p>WordPress offers two kinds of option: a city, such as London, or a fixed offset, such as UTC+0. A fixed offset does not change when the clocks go forward or back. If you choose UTC+0, then during British Summer Time your posts will appear an hour later than you expect by the clock on the wall. Choosing London lets WordPress follow the clock changes automatically.</p>
+<p>While you are on that screen, check the date and time formats too. These control how dates appear on the site, and a UK audience generally expects the day before the month.</p>
+<p>If your team works across different countries, agree that everyone schedules in site time, which is whatever the timezone setting says, rather than their own local time. The editor shows times in site time, so a colleague abroad needs to do the conversion in their head or schedule from the site's point of view.</p>
+
+<h2>How WordPress actually publishes scheduled posts</h2>
+<p>This is the part that explains most missed schedules. WordPress does not have a clock running constantly in the background. Instead it has a built-in task runner, often called WP-Cron, that checks for due tasks when someone loads a page on the site.</p>
+<p>When a visit comes in, WordPress looks at its list of scheduled jobs. If a post was due at nine o'clock and the first visit after that arrives at ten past, the post is published at ten past. On a busy site the gap is small. On a quiet site, or overnight, it can be longer.</p>
+<p>The same task runner also handles other jobs, such as checking for updates and running tasks for themes and extensions. If it is not firing reliably, scheduled posts are often the first thing people notice, but other jobs may be late too.</p>
+<p>Many hosts and developers replace the visit-based trigger with a real server task that calls WordPress at a fixed interval. That makes timing more predictable because it no longer depends on visitors. Whether this is set up on your site depends on your host and how the site was built. Our <a href="/blog/wordpress-hosting-uk/">WordPress hosting guide</a> covers what to ask a host about this kind of thing.</p>
+
+<h2>Why scheduled posts get missed</h2>
+<p>A "Missed schedule" label means the scheduled time passed and WordPress did not publish the post. There are several possible causes, and it is worth checking them in order rather than guessing.</p>
+
+<h3>Timezone mismatch</h3>
+<p>Sometimes the post was not missed at all, it simply is not due yet in site time. Compare the time on the post with the current site time shown in Settings, then General. If they differ from what you expected, the timezone is the issue.</p>
+
+<h3>Full-page caching</h3>
+<p>Caching is good for speed, but if every visitor is served a cached copy of the page, WordPress may not get a chance to run its task check. Some caching setups handle this well, others do not. If missed schedules started after a caching change, that is a strong lead.</p>
+
+<h3>Task runner disabled without a replacement</h3>
+<p>A developer may have switched off the visit-based task runner, which is a common step when moving to a server task. If the server task was never created, or stopped working after a hosting move, nothing triggers scheduled jobs. Ask whoever manages the site, or check the site configuration with your developer.</p>
+
+<h3>Server blocking the internal request</h3>
+<p>The task runner works by the site making a small request to itself. Security rules, firewalls, password protection on a staging site or certain hosting setups can block that request. Site Health in the Tools menu may flag problems with scheduled events or loopback requests, which is a useful starting point.</p>
+
+<h3>Maintenance mode or a site that was down</h3>
+<p>If the site was in maintenance mode or unavailable at the scheduled time, jobs may not run until it is back. After planned maintenance, check the scheduled list.</p>
+
+<h3>Conflicts and errors</h3>
+<p>A PHP error during a scheduled task can stop it finishing. If the problem started after an update to a theme or extension, look at what changed. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> explains how to review what is installed and remove what you do not need.</p>
+
+<h2>What to do with a post that missed its schedule</h2>
+<p>The simple fix is to open the post and publish it manually. Check the publish date before you do. Depending on how you republish, WordPress may keep the original scheduled date, which can place the post lower in your blog list than you expect. If that matters, set the date to now before publishing.</p>
+<p>Then look for the cause, using the list above. A single missed post on a quiet night may not need much action. Repeated misses suggest something structural, such as caching or the task runner, and are worth fixing properly.</p>
+
+<h2>Planning a content calendar around scheduling</h2>
+<p>Scheduling works best as part of a simple plan rather than as a last-minute tool.</p>
+<ul>
+<li><strong>Keep a shared calendar.</strong> A spreadsheet or project board with titles, owners, status and planned dates is enough for most small teams.</li>
+<li><strong>Schedule at sensible times.</strong> There is no universal best time. Think about when your readers are likely to look, and when someone on your team can check the post went live.</li>
+<li><strong>Check after publishing.</strong> A quick look at the live post, its link in the blog list and its appearance on mobile catches most problems early.</li>
+<li><strong>Coordinate with other channels.</strong> If a newsletter links to the post, schedule the newsletter after the post time, with a margin.</li>
+<li><strong>Keep drafts tidy.</strong> Old half-finished drafts make it harder to see what is actually queued.</li>
+</ul>
+<p>For more on how posts fit into your wider site, our <a href="/blog/website-navigation-structure/">website navigation structure guide</a> covers how readers move between sections.</p>
+
+<h2>Scheduling and SEO</h2>
+<p>Scheduling itself does not help or harm search rankings. Search engines see a post once it is published, and what matters is the content, its internal links and whether it meets a real need. A post that sits unpublished because of a missed schedule simply is not visible yet.</p>
+<p>Two practical points are worth noting. First, do not schedule a post that other live pages already link to, because those links will lead to a missing page until the post goes live. Second, if you update an old post and change its date to make it look new, be honest about what changed. Readers notice, and it is better to show an "updated" note.</p>
+
+<h2>When to get help</h2>
+<p>If scheduled posts keep missing, Site Health shows warnings about scheduled events, or nobody is sure whether the site uses a server task, it is worth asking a developer to look. The fix is often small once the cause is clear, but working it out can take some digging through hosting and caching settings.</p>
+<p>Prism Works Studio builds and looks after WordPress sites for UK businesses, including checking scheduled tasks, caching and hosting setup. See our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">get in touch</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Why does my scheduled post say "Missed schedule"?</h3>
+<p>WordPress did not run its publishing task at the scheduled time. Common reasons include a timezone mismatch, caching, the task runner being disabled without a replacement, or the server blocking the site's internal request. Publish it manually, then look for the cause.</p>
+<h3>Which timezone should a UK WordPress site use?</h3>
+<p>Choose London from the city list in Settings, then General. A fixed UTC offset does not follow the clock changes, so scheduled times will be an hour out for part of the year.</p>
+<h3>Can I schedule pages as well as posts?</h3>
+<p>Yes. Pages, and most custom post types that use the standard editor, have the same publish date option.</p>
+<h3>Does a scheduled post publish at the exact minute?</h3>
+<p>Not always. With the default setup it publishes on the first visit after the scheduled time. A server task that runs at a fixed interval makes timing more predictable.</p>
+<h3>Will scheduling posts improve my SEO?</h3>
+<p>No, scheduling is a workflow tool. It can help you publish consistently, but rankings depend on the quality and usefulness of the content, not on when it was scheduled.</p>
+<h3>Can I bulk reschedule posts?</h3>
+<p>The standard quick edit option lets you change dates on posts one at a time from the posts list. For larger changes, plan carefully and test on a staging copy first.</p>
+`,
+  },
 ];
