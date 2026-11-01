@@ -33188,4 +33188,667 @@ module.exports = [
 <p>Yes. We can review your WordPress site and talk through what to keep, replace or remove. Get in touch via our <a href="/contact/">contact page</a>.</p>
 `,
   },
+  {
+    slug: 'google-merchant-center-setup-uk',
+    seoTitle: 'Google Merchant Center Setup: A Guide for UK Shops',
+    title: 'How to Set Up Google Merchant Center for a UK Online Shop',
+    description: 'How to set up Google Merchant Center for a UK shop: account details, verifying your site, shipping and returns, product feeds and fixing disapprovals.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/paid-media/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>If you sell physical products online in the UK, Google Merchant Center is one of the most useful free tools available to you. It is the place where you give Google structured information about your products, and it powers both free product listings across Google and paid Shopping ads. Without it, your products cannot appear in the Shopping tab or in product-rich results in the way many shoppers now expect.</p>
+<p>This guide walks through setting up Merchant Center for a UK shop, from creating the account to getting products approved. It focuses on the setup itself. If you already have a working feed and want to run ads, our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> covers campaigns, bidding and structure.</p>
+
+<h2>What Merchant Center actually does</h2>
+<p>Merchant Center is a data hub rather than an advertising tool. You tell Google what you sell, what it costs, whether it is in stock, how much delivery is and what your returns policy looks like. Google then checks that information against your website and decides which products are eligible to show.</p>
+<p>That information can feed several places:</p>
+<ul>
+<li><strong>Free listings</strong> in the Shopping tab and other Google surfaces, which do not cost anything per click.</li>
+<li><strong>Shopping ads and Performance Max campaigns</strong>, once you link a Google Ads account.</li>
+<li><strong>Local inventory</strong>, if you also have physical shops and want to show in-store availability.</li>
+</ul>
+<p>Even if you have no plans to advertise, getting products approved for free listings is worth doing. It is extra visibility for products you already sell.</p>
+
+<h2>Before you start: get the website ready</h2>
+<p>Google reviews your website as well as your feed, and many accounts run into problems because the site is not ready. Before creating an account, check that your shop has:</p>
+<ul>
+<li><strong>Clear contact information</strong>, such as an email address, phone number or postal address that customers can find easily.</li>
+<li><strong>A returns and refunds policy</strong> that explains how customers send items back and how refunds work.</li>
+<li><strong>Delivery information</strong> showing costs and typical delivery times.</li>
+<li><strong>Secure checkout</strong> on HTTPS throughout.</li>
+<li><strong>Accurate product pages</strong> where the price, availability and product details match what you plan to submit.</li>
+<li><strong>Terms and privacy pages</strong> appropriate for your business.</li>
+</ul>
+<p>If your delivery and returns pages need work, our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> covers what to include. For legal pages more generally, see our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a>. Google's policies change over time, so read the current Merchant Center requirements rather than relying on any checklist, including this one.</p>
+
+<h2>Step 1: Create the Merchant Center account</h2>
+<p>Sign in with a Google account that belongs to the business rather than a personal account tied to one employee. If that person leaves, you do not want access to leave with them. Add other people as users later rather than sharing a login.</p>
+<p>During setup you will be asked for your business name, country, time zone and website. Choose the United Kingdom as your business country and enter the name customers will recognise. The business name should match what appears on your website and, ideally, your other Google profiles.</p>
+<p>You will also be asked where customers can buy your products: on your website, in a physical shop, or both. Choose what is true for your business today. You can add options later.</p>
+
+<h2>Step 2: Verify and claim your website</h2>
+<p>Google needs to confirm that you own the website you are submitting products from. This is usually done in one of a few ways:</p>
+<ul>
+<li>Adding a small HTML tag to your site.</li>
+<li>Uploading a verification file to your hosting.</li>
+<li>Using an existing Google Analytics or Google Tag Manager connection.</li>
+<li>Connecting through your ecommerce platform, which often handles this automatically.</li>
+</ul>
+<p>Once verified, you claim the site, which links it to your Merchant Center account. If a previous agency or developer claimed the website in a different account, you may need to reclaim it. This is a common hiccup when businesses change suppliers, and it is one reason to keep your own accounts under your control, as covered in our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a>.</p>
+
+<h2>Step 3: Set up business information</h2>
+<p>Fill in the business details section fully. This typically includes your address, customer service contact details and, where relevant, your logo and brand colours. Some of these details can appear alongside your listings, and incomplete information can affect how Google treats your account.</p>
+<p>Keep everything consistent. If your website footer, your Google Business Profile and Merchant Center all show slightly different business names or addresses, it creates unnecessary doubt. Our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile</a> is useful if you also have a physical location.</p>
+
+<h2>Step 4: Configure shipping</h2>
+<p>Shipping settings tell Google what customers will pay for delivery and how long it takes. Getting this right matters because Google compares it with your checkout, and shoppers see delivery costs before they click.</p>
+<p>You can usually set shipping in Merchant Center itself or include it in your product feed. For most small UK shops, account-level shipping settings are simpler to manage. Common approaches include:</p>
+<ul>
+<li><strong>Flat rate:</strong> one delivery price for all orders.</li>
+<li><strong>Free over a threshold:</strong> free delivery above a set basket value, with a charge below it.</li>
+<li><strong>Weight or price bands:</strong> charges that change based on order weight or value.</li>
+<li><strong>Carrier-calculated rates:</strong> where supported, rates based on your carrier's pricing.</li>
+</ul>
+<p>Add handling time (how long before you dispatch) and transit time (how long the carrier takes) so Google can estimate delivery dates. Be realistic. Promising next-day delivery that you cannot meet leads to unhappy customers and potential policy problems.</p>
+<p>If you sell to other countries, you need shipping settings for each one you target. Selling abroad raises wider questions about currency, duties and returns, which we cover in our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a>.</p>
+
+<h2>Step 5: Set up returns</h2>
+<p>Merchant Center lets you add your returns policy details, such as the return window, whether returns are free and how customers send items back. This information can appear in listings and helps shoppers compare options. Make sure it matches your website policy exactly.</p>
+<p>UK consumer law gives customers certain rights when buying online, including cancellation rights for many distance sales. The specifics depend on what you sell and how, so check current guidance from the relevant UK bodies or take legal advice rather than assuming your policy is compliant.</p>
+
+<h2>Step 6: Add your products</h2>
+<p>There are several ways to get product data into Merchant Center. The right one depends on your platform and the size of your catalogue.</p>
+
+<h3>Platform integrations</h3>
+<p>Shopify and WooCommerce both offer ways to connect your store to Google so products sync automatically. On Shopify this is done through Google's own sales channel. On WooCommerce, Google provides an official extension. Automatic syncing is usually the best option for small and medium shops because prices and stock levels update without manual work.</p>
+
+<h3>Spreadsheet or file feeds</h3>
+<p>You can upload a file or connect a Google Sheet containing your products. This gives you full control but needs regular updating. It suits small catalogues that rarely change, or businesses on platforms without a good integration.</p>
+
+<h3>Automatic product discovery</h3>
+<p>Google can also find products by crawling your website and reading structured data on product pages. This depends heavily on your site having good product markup. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how structured data works. Crawled data is a useful backstop, but most shops get more control from a proper feed.</p>
+
+<h2>Product data that matters most</h2>
+<p>Every product needs certain attributes, and the quality of each one affects whether and how it shows. The essentials are:</p>
+<table>
+<thead><tr><th>Attribute</th><th>What to get right</th></tr></thead>
+<tbody>
+<tr><td>ID</td><td>A unique, stable identifier for each product or variant that never changes.</td></tr>
+<tr><td>Title</td><td>Descriptive and specific: product type, brand, key features, size or colour where relevant.</td></tr>
+<tr><td>Description</td><td>Accurate detail about the product, without promotional claims or shouting.</td></tr>
+<tr><td>Link</td><td>The exact product page, landing on the right variant.</td></tr>
+<tr><td>Image link</td><td>A clear main image on a plain background, without added text or watermarks.</td></tr>
+<tr><td>Price</td><td>The price including VAT, matching the website exactly.</td></tr>
+<tr><td>Availability</td><td>In stock, out of stock, preorder or backorder, kept in sync with the site.</td></tr>
+<tr><td>Brand and GTIN</td><td>The brand name and barcode number where the product has one.</td></tr>
+<tr><td>Condition</td><td>New, refurbished or used.</td></tr>
+</tbody>
+</table>
+<p>Product titles deserve special attention. They are one of the strongest signals for which searches your products appear on. A title such as "Blue Jumper" says very little. "Women's Merino Wool Crew Neck Jumper, Navy, Size 12" says what the product is and who it is for. The same principles that improve your product pages apply here, as covered in our guide to <a href="/blog/product-page-seo-uk/">product page SEO</a>.</p>
+<p>If you sell products in several sizes or colours, each variant usually needs its own entry, linked together with an item group ID. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers how to structure these on your site.</p>
+
+<h2>Step 7: Review diagnostics and fix disapprovals</h2>
+<p>After products are submitted, Google reviews them. This can take a while. Check the diagnostics area regularly, as it lists issues at account level and product level.</p>
+<p>Common reasons for disapproval include:</p>
+<ul>
+<li><strong>Price mismatch:</strong> the feed price differs from the website, often because of sales, currency settings or VAT display.</li>
+<li><strong>Availability mismatch:</strong> the feed says in stock but the page says sold out, or the other way round.</li>
+<li><strong>Missing identifiers:</strong> branded products submitted without a GTIN.</li>
+<li><strong>Image problems:</strong> placeholder images, promotional overlays or images too small.</li>
+<li><strong>Landing page problems:</strong> broken links, slow pages or pages that redirect elsewhere.</li>
+<li><strong>Policy issues:</strong> restricted product categories or missing policy pages.</li>
+</ul>
+<p>Account-level issues such as misrepresentation warnings are more serious because they can affect every product. These often relate to missing contact information, unclear policies or content that looks untrustworthy. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers many of the basics that help here. Fix the underlying issue on the site, then request a review through Merchant Center.</p>
+
+<h2>Step 8: Link to Google Ads and Analytics (optional)</h2>
+<p>Once your products are approved, you can link Merchant Center to Google Ads to run Shopping or Performance Max campaigns. You can also link it to Google Analytics to see how product traffic behaves on your site. If your analytics are not set up properly yet, our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> is a good starting point.</p>
+<p>Before spending on ads, let free listings run for a while and check that your feed is clean. Paying to promote products with weak titles or missing data rarely makes sense.</p>
+
+<h2>Keeping the feed healthy</h2>
+<p>Merchant Center is not a one-off job. Keep an eye on it as part of running your shop:</p>
+<ul>
+<li>Check diagnostics regularly, especially after site changes, theme updates or sales.</li>
+<li>Make sure sale prices are set up properly so the feed and site match during promotions.</li>
+<li>Review product titles for your best sellers and improve weak ones.</li>
+<li>Remove or mark as out of stock any products you no longer sell.</li>
+<li>Read Google's policy update emails rather than ignoring them.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Is Google Merchant Center free?</h3>
+<p>Creating an account and appearing in free product listings does not cost anything. You only pay if you choose to run ads through a linked Google Ads account.</p>
+<h3>Do I need Merchant Center to appear in Google Shopping?</h3>
+<p>For most shops, yes. Merchant Center is how Google receives structured product information for the Shopping tab and Shopping ads.</p>
+<h3>Why are my products disapproved?</h3>
+<p>The diagnostics area explains each issue. The most common causes are mismatches between the feed and website, missing product identifiers, image problems and missing policy information.</p>
+<h3>Should prices in Merchant Center include VAT?</h3>
+<p>For UK consumer shoppers, prices are generally shown including VAT, and the feed should match what customers see on your site. Check Google's current requirements for your situation.</p>
+<h3>Can Shopify and WooCommerce sync with Merchant Center automatically?</h3>
+<p>Yes. Both platforms have official ways to connect to Google so products, prices and stock update automatically.</p>
+<h3>Can Prism Works Studio help with Merchant Center?</h3>
+<p>Yes. We can look at your setup, feed and diagnostics and talk through options. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'how-to-add-a-blog-to-shopify',
+    seoTitle: 'How to Add a Blog to Your Shopify Store',
+    title: 'How to Add a Blog to a Shopify Store (and Make It Useful)',
+    description: 'How to add a blog to a Shopify store: creating the blog, writing and formatting posts, navigation, SEO settings, linking to products and what to write.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/services/digital-pr-content/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Many Shopify store owners do not realise their store already has a blog built in. You do not need a separate website or an add-on to start publishing articles. The harder part is making that blog worth having: posts that people actually search for, that help them choose and that lead them towards your products.</p>
+<p>This guide explains how to add a blog to a Shopify store step by step, then covers how to make it useful for customers and search engines. For broader search advice for your store, see our guide to <a href="/blog/shopify-seo-uk/">Shopify SEO</a>.</p>
+
+<h2>Why a shop needs a blog at all</h2>
+<p>Product and collection pages are built for people who already know roughly what they want. A blog helps you reach people earlier, while they are still researching. For example, someone searching how to care for a wool jumper, which candle wax burns longest or how to choose a running backpack may not be ready to buy yet, but they are clearly interested in your category.</p>
+<p>A good shop blog can:</p>
+<ul>
+<li>Answer questions customers ask before buying.</li>
+<li>Bring in search traffic that product pages alone would not attract.</li>
+<li>Give you content to share by email and on social media.</li>
+<li>Build trust by showing expertise in your products.</li>
+<li>Reduce customer service questions by explaining things once, clearly.</li>
+</ul>
+<p>A blog is not a quick win. It works best as a long-term habit. If you are not sure a blog suits your business, our guide to <a href="/blog/content-strategy-uk/">content strategy</a> covers how to decide what content is worth producing.</p>
+
+<h2>Step 1: Find the blog section in Shopify</h2>
+<p>In your Shopify admin, go to the online store section and open blog posts. Shopify usually creates a default blog, often called News, for every store. You can use it as it is, rename it, or create a new blog.</p>
+
+<h2>Step 2: Create or rename your blog</h2>
+<p>A Shopify store can have more than one blog. Each blog is a container that holds posts. Most stores only need one. Give it a clear name, such as Journal, Guides or Advice, and check its URL.</p>
+<p>Shopify blog URLs follow a fixed pattern that includes "blogs" and the blog's handle. You can change the handle, such as from news to guides, but do it before you publish posts. If you change it later, set up redirects from the old URLs. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains why redirects matter.</p>
+<p>You can also choose whether comments are allowed. If you enable them, decide whether they need approval before appearing, since spam comments are common. Many shops leave comments off or require moderation.</p>
+
+<h2>Step 3: Write your first post</h2>
+<p>Create a new blog post and choose which blog it belongs to. The editor lets you add:</p>
+<ul>
+<li><strong>Title:</strong> the headline people see on the page.</li>
+<li><strong>Content:</strong> your article, with headings, lists, links, images and video.</li>
+<li><strong>Excerpt:</strong> a short summary that may appear on the blog listing page, depending on your theme.</li>
+<li><strong>Featured image:</strong> the main image shown on listing pages and often when the post is shared.</li>
+<li><strong>Author and tags:</strong> used for organising posts and, in some themes, filtering them.</li>
+<li><strong>Visibility:</strong> publish now, schedule for later or save as hidden.</li>
+</ul>
+<p>Use proper headings to structure the article rather than making text bold. Headings help readers scan and help search engines understand the content. Keep paragraphs short, especially for mobile readers.</p>
+
+<h2>Step 4: Set the SEO fields</h2>
+<p>At the bottom of each post, Shopify has a search engine listing section where you can edit:</p>
+<ul>
+<li><strong>Page title:</strong> the title shown in search results. Aim for something clear and specific, ideally including the main phrase people search for.</li>
+<li><strong>Meta description:</strong> the short summary that may appear under the title in search results. Write it to encourage clicks.</li>
+<li><strong>URL handle:</strong> the end part of the post's address. Keep it short, readable and descriptive.</li>
+</ul>
+<p>Also add alt text to images, describing what each image shows. This helps people using screen readers and gives search engines context. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers image file sizes and alt text in more detail.</p>
+
+<h2>Step 5: Add the blog to your navigation</h2>
+<p>A blog nobody can find will not do much. Add it to your menus through the navigation settings in Shopify. Common places include:</p>
+<ul>
+<li>The main menu, if content is central to how customers shop with you.</li>
+<li>The footer, which suits many stores.</li>
+<li>Links from relevant product and collection pages.</li>
+</ul>
+<p>Our guides to <a href="/blog/website-navigation-structure/">navigation structure</a> and <a href="/blog/website-footer-design/">footer design</a> explain how to decide what goes where.</p>
+
+<h2>Step 6: Check your theme's blog templates</h2>
+<p>Your theme controls how the blog listing page and individual posts look. In the theme editor, open the blog and blog post templates and review options such as:</p>
+<ul>
+<li>Whether featured images, dates, authors and excerpts are shown.</li>
+<li>Layout of the listing page, such as grid or list.</li>
+<li>Whether you can add sections below posts, such as featured products or a newsletter sign-up.</li>
+</ul>
+<p>Adding a product or collection section beneath blog posts can help readers move from reading to shopping. If your theme lacks the options you need, our guide to <a href="/blog/shopify-theme-customisation/">Shopify theme customisation</a> explains what can be changed.</p>
+
+<h2>What to write about</h2>
+<p>The most useful shop blog posts answer real questions from people likely to buy your products. Good sources of ideas include:</p>
+<ul>
+<li><strong>Customer questions:</strong> emails, live chat and questions asked in person.</li>
+<li><strong>Search research:</strong> the questions and phrases people search for around your products. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find them.</li>
+<li><strong>Product reviews and returns:</strong> what confuses or disappoints people points to content that would help.</li>
+<li><strong>Your own expertise:</strong> how products are made, materials, care and use.</li>
+</ul>
+<p>Types of post that tend to suit shops include:</p>
+<table>
+<thead><tr><th>Post type</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>How-to guides</td><td>How to care for, use, fit or assemble a product.</td></tr>
+<tr><td>Buying guides</td><td>How to choose the right size, material or type.</td></tr>
+<tr><td>Comparisons</td><td>The differences between two materials or product types.</td></tr>
+<tr><td>Gift guides</td><td>Ideas for occasions or types of recipient.</td></tr>
+<tr><td>Behind the scenes</td><td>How products are made or sourced.</td></tr>
+<tr><td>Inspiration</td><td>Ways to style, use or combine products.</td></tr>
+</tbody>
+</table>
+<p>Avoid posts written only to fill the blog, such as thin news updates or articles that repeat what is on product pages. Fewer, better posts are more useful than many weak ones.</p>
+
+<h2>Linking posts to products and collections</h2>
+<p>Internal links are what turn a blog into part of your shop. In each post, link naturally to the products and collections you mention. A care guide should link to the products it covers. A buying guide should link to the collection where readers can compare options.</p>
+<p>Link the other way too. A product page can link to a relevant guide, such as a size guide or care article, for customers who want more detail. Our guide to <a href="/blog/ecommerce-size-guides/">size guides</a> shows how helpful content can support buying decisions.</p>
+<p>Use descriptive link text, such as "our merino jumper collection", rather than "click here".</p>
+
+<h2>Writing for readers and search engines</h2>
+<ul>
+<li>Lead with the answer, then explain. People want to know quickly whether the post solves their problem.</li>
+<li>Use the words customers use, not internal jargon.</li>
+<li>Be specific and practical. Generic advice is easy to find elsewhere.</li>
+<li>Add your own photos where they help, rather than relying only on stock images.</li>
+<li>Include a short FAQ section where it fits, answering related questions directly.</li>
+<li>Keep posts up to date, especially when products or advice change.</li>
+</ul>
+<p>If you want help with writing, our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers tone and structure, and our guide to <a href="/blog/tone-of-voice-guide-uk/">tone of voice</a> helps keep the blog consistent with the rest of your shop. Content that answers questions clearly also stands a better chance of being used in AI-generated search answers, as our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews</a> explains.</p>
+
+<h2>Keeping it going</h2>
+<p>A blog with one post from two years ago can look like an abandoned shop. Set a realistic publishing rhythm you can keep, whether that is weekly, monthly or less often. Plan topics in advance around your seasons and product launches.</p>
+<p>Review older posts from time to time. Update facts, refresh links to current products, and merge or remove posts that no longer serve a purpose. Our <a href="/blog/website-content-audit/">content audit guide</a> explains how.</p>
+<p>Track how posts perform in Google Search Console and your analytics: which bring in visitors, which lead to product views and which lead to sales. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> can help you set this up.</p>
+
+<h2>FAQs</h2>
+<h3>Does Shopify have a built-in blog?</h3>
+<p>Yes. Every Shopify store includes blogging features, and most stores start with a default blog that you can rename or replace.</p>
+<h3>Can I change my Shopify blog URL?</h3>
+<p>You can change the blog's handle, but the overall URL structure is fixed by Shopify. If you change a handle after publishing, add redirects from the old URLs.</p>
+<h3>Is a Shopify blog good for SEO?</h3>
+<p>It can be, if posts answer questions people search for and link to relevant products. A blog alone does not guarantee rankings.</p>
+<h3>How often should I post on my shop blog?</h3>
+<p>Choose a rhythm you can keep. Consistent, useful posts are more valuable than a burst of posts followed by silence.</p>
+<h3>Can I add products to Shopify blog posts?</h3>
+<p>You can link to products in any post, and many themes let you add product or collection sections to the blog post template.</p>
+<h3>Can Prism Works Studio help with a Shopify blog?</h3>
+<p>Yes. We can help plan, write or set up blog content for your store. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'online-shop-shipping-rates-uk',
+    seoTitle: 'Setting Up Shipping Rates for a UK Online Shop',
+    title: 'How to Set Up Shipping Rates in Shopify and WooCommerce (UK)',
+    description: 'How to set up shipping rates for a UK online shop in Shopify or WooCommerce: zones, flat and weight-based rates, free delivery thresholds and testing.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Delivery costs are one of the most common reasons shoppers abandon a basket. Charge too much and customers leave. Charge too little and you quietly lose money on every order. Getting shipping rates right in your online shop is a mix of business decisions and platform settings, and the business decisions come first.</p>
+<p>This guide explains how to plan and set up shipping rates for a UK online shop, with practical notes for Shopify and WooCommerce. It covers the configuration side. For how to present delivery information to customers, see our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a>.</p>
+
+<h2>Start with your delivery strategy</h2>
+<p>Before opening any settings screen, answer a few questions:</p>
+<ul>
+<li><strong>What does delivery actually cost you?</strong> Include carrier charges, packaging, and the time it takes to pack an order.</li>
+<li><strong>Where will you deliver?</strong> Mainland UK only, or also Northern Ireland, the Highlands and Islands, the Channel Islands, Europe or further afield?</li>
+<li><strong>How fast?</strong> A standard option only, or also express or next-day delivery?</li>
+<li><strong>Will you offer free delivery?</strong> On everything, above a basket value, or not at all?</li>
+<li><strong>Will you offer collection?</strong> If you have premises, local pickup can be a useful option.</li>
+</ul>
+<p>Write down the rules you want in plain English. For example: "Standard UK delivery is a flat charge, free over a set basket value. Express delivery costs more. Highlands and Islands cost extra. We do not ship abroad yet." Once you have that, the platform setup is mostly a matter of translating those rules.</p>
+
+<h2>Common ways to charge for delivery</h2>
+<p>Most UK shops use one of these approaches, or a combination.</p>
+
+<h3>Flat rate</h3>
+<p>One price for every order regardless of size. It is simple to understand and simple to set up. The risk is that heavy or bulky orders cost you more than you charge, so it works best when your products are similar in size and weight.</p>
+
+<h3>Free delivery over a threshold</h3>
+<p>Customers pay a delivery charge on small orders, and delivery is free above a set basket value. This can encourage larger orders. Set the threshold based on your margins and typical order value, not on what other shops seem to do.</p>
+
+<h3>Weight-based rates</h3>
+<p>Charges increase in bands as the order gets heavier. This tracks real carrier costs more closely, but depends on every product having an accurate weight. If weights are missing or wrong, rates will be wrong too.</p>
+
+<h3>Price-based rates</h3>
+<p>Charges change based on the basket value. This is simpler than weight-based shipping and works when value and size roughly go together.</p>
+
+<h3>Carrier-calculated rates</h3>
+<p>Some platforms can pull live rates from carriers at checkout based on the address, weight and dimensions. This can be accurate but depends on your plan, your platform and your carrier, and it can produce odd-looking prices that put customers off. Many small shops prefer simpler rates that they control.</p>
+
+<h3>Free delivery on everything</h3>
+<p>Delivery costs are built into product prices. It removes a barrier at checkout, but you need to be confident your margins can absorb the cost on every order, including small ones.</p>
+
+<h2>Shipping zones: where you deliver</h2>
+<p>Both Shopify and WooCommerce organise shipping around zones: groups of locations that share the same rates. A typical UK setup might include:</p>
+<ul>
+<li><strong>UK mainland:</strong> your standard rates.</li>
+<li><strong>Highlands, Islands and remote areas:</strong> often more expensive for carriers to reach, so you may need a surcharge or a separate rate.</li>
+<li><strong>Northern Ireland:</strong> handled differently by some carriers, and with its own trading arrangements for some goods.</li>
+<li><strong>Channel Islands and Isle of Man:</strong> not part of the UK for some customs and VAT purposes.</li>
+<li><strong>International:</strong> Europe and rest of world, if you ship abroad.</li>
+</ul>
+<p>Remote postcodes are where many UK shops come unstuck. If your carrier charges more for certain postcodes and your shop does not, you absorb the difference. Check your carrier's terms and decide how you want to handle them. Customs, VAT and trading rules for Northern Ireland, the Crown Dependencies and international destinations are complicated and change, so check current HMRC guidance or take professional advice before you start shipping there.</p>
+<p>If you are planning to sell abroad, our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a> covers the wider considerations.</p>
+
+<h2>Setting up shipping in Shopify</h2>
+<p>In Shopify, shipping is managed in the shipping and delivery section of your settings. The general approach is:</p>
+<ol>
+<li><strong>Check your shipping origin.</strong> Make sure the address you ship from is correct.</li>
+<li><strong>Review your shipping profiles.</strong> Shopify uses profiles so different groups of products can have different rates. Most small shops only need the general profile. You might add a separate one for oversized or fragile products.</li>
+<li><strong>Create zones.</strong> Add a zone for the UK and further zones for any other regions you serve.</li>
+<li><strong>Add rates to each zone.</strong> Create flat rates, or rates with conditions based on weight or order price. For a free delivery threshold, add a free rate with a minimum order value and a paid rate with a maximum order value just below it.</li>
+<li><strong>Set up local delivery or pickup</strong> if you offer them.</li>
+<li><strong>Add package sizes</strong> if you use carrier-calculated rates or print labels, so dimensions are accounted for.</li>
+</ol>
+<p>Shopify's options vary by plan and change over time, so check what is available on your plan. If you are setting up a new store, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the wider setup steps.</p>
+
+<h2>Setting up shipping in WooCommerce</h2>
+<p>WooCommerce has shipping settings built into its core settings area. The general approach is:</p>
+<ol>
+<li><strong>Create shipping zones.</strong> Add regions such as the UK. You can narrow zones using postcodes, including wildcards and ranges, which is useful for remote areas.</li>
+<li><strong>Add shipping methods to each zone.</strong> The built-in methods are flat rate, free shipping and local pickup.</li>
+<li><strong>Configure costs.</strong> Flat rate costs can include simple calculations, such as a charge per item or a percentage of the order, which gives more flexibility than it first appears.</li>
+<li><strong>Set up shipping classes</strong> if some products need different charges. For example, a "bulky" class can add an extra cost to the flat rate.</li>
+<li><strong>Configure free shipping rules</strong>, such as a minimum order amount or a coupon requirement.</li>
+</ol>
+<p>Zone order matters in WooCommerce. A customer is matched to the first zone that fits their address, so put specific zones (such as remote postcodes) above broader ones (such as the whole UK). More complex rules, such as weight-based tables or live carrier rates, usually need an extension. Keep extensions to a minimum and review them regularly, as our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> explains.</p>
+
+<h2>Product weights and packaging</h2>
+<p>Any rate that depends on weight or size relies on accurate product data. Before relying on weight-based or carrier-calculated rates:</p>
+<ul>
+<li>Weigh your products, ideally in their packaging, and record weights on each product or variant.</li>
+<li>Record dimensions for bulky items, since carriers often charge by size as well as weight.</li>
+<li>Think about how products are packed together. Three small items might go in one parcel; one large item might not fit a standard box.</li>
+<li>Check that imported products, for example from a supplier spreadsheet, came through with weights intact.</li>
+</ul>
+<p>It is worth running a few real past orders through your new rates on paper. Compare what the customer would have paid with what the delivery actually cost you. If the gap is large in either direction, adjust before launch.</p>
+
+<h2>Express, next-day and named-day delivery</h2>
+<p>Faster delivery options can be attractive to customers, but only offer what you can reliably deliver. Consider:</p>
+<ul>
+<li><strong>Cut-off times:</strong> next-day delivery usually means the order must be placed and dispatched by a certain time.</li>
+<li><strong>Weekends and bank holidays:</strong> make it clear how these affect delivery.</li>
+<li><strong>Stock location:</strong> if some products are made to order or shipped from a supplier, they may not be suitable for express delivery.</li>
+</ul>
+<p>Label each rate clearly at checkout so customers know what they are choosing. "Standard delivery (2 to 4 working days)" is far more helpful than "Option 1".</p>
+
+<h2>VAT and delivery charges</h2>
+<p>If you are VAT registered, delivery charges may need VAT applied, often at the same rate as the goods being delivered, but the rules can be more involved for mixed baskets. Make sure your tax settings on Shopify or WooCommerce treat shipping correctly, and check current HMRC guidance or ask your accountant if you are not sure.</p>
+
+<h2>Showing delivery costs early</h2>
+<p>Customers dislike surprise costs at the final step. Help them by:</p>
+<ul>
+<li>Showing delivery costs or a free delivery threshold on product pages and in the basket.</li>
+<li>Adding a short delivery summary in the header or near the add to basket button.</li>
+<li>Showing progress towards the free delivery threshold in the basket, if you offer one.</li>
+<li>Making sure your delivery page and checkout show the same prices.</li>
+</ul>
+<p>These details often have a meaningful effect on conversion. Our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce conversion rate optimisation</a> covers this kind of improvement in more depth.</p>
+
+<h2>Test before you launch</h2>
+<p>Once rates are configured, test them properly. Place test orders, or go as far as checkout, using:</p>
+<ul>
+<li>A standard mainland UK address with a single small item.</li>
+<li>A basket just below and just above any free delivery threshold.</li>
+<li>A heavy or bulky basket.</li>
+<li>A Highlands or Islands postcode.</li>
+<li>A Northern Ireland address and an international address, if you ship there.</li>
+<li>A mix of products from different shipping profiles or classes.</li>
+</ul>
+<p>Check that the right rates appear, that nothing shows "no shipping available" by mistake, and that confirmation emails show the correct delivery method. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to test changes safely before they reach customers.</p>
+
+<h2>Review rates regularly</h2>
+<p>Carrier prices, packaging costs and your own margins change. Review your shipping rates periodically and whenever your carrier changes its pricing. Look at your orders to see how many qualify for free delivery and whether your threshold still makes sense.</p>
+<p>Before busy periods, check that cut-off dates for Christmas delivery are clear and that your rates can cope with any extra demand. Our guide to <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation</a> covers this.</p>
+
+<h2>FAQs</h2>
+<h3>Should I offer free delivery?</h3>
+<p>It depends on your margins and order values. Free delivery above a threshold is a common middle ground that can encourage larger orders without absorbing the cost on very small ones.</p>
+<h3>How do I charge more for Scottish Highlands and Islands postcodes?</h3>
+<p>Create a separate zone for those postcodes. WooCommerce supports postcode ranges and wildcards in zones. On Shopify, options for postcode-level rates depend on your plan and setup, so check what is available.</p>
+<h3>Do delivery charges include VAT?</h3>
+<p>If you are VAT registered, delivery charges often need VAT, but the rules can vary. Check current HMRC guidance or ask your accountant.</p>
+<h3>Are carrier-calculated rates better than flat rates?</h3>
+<p>Not necessarily. They can be more accurate but depend on good product data and your plan, and can produce prices customers find confusing. Many small shops do well with simple rates.</p>
+<h3>Why does my checkout say no shipping is available?</h3>
+<p>Usually the customer's address does not match any zone, or a product sits in a profile or class without rates for that zone. Check zones and product assignments.</p>
+<h3>Can Prism Works Studio help set up shipping?</h3>
+<p>Yes. We can review your store's delivery setup and talk through options. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'payment-gateways-uk-online-shop',
+    seoTitle: 'Payment Gateways for UK Online Shops: How to Choose',
+    title: 'How to Choose a Payment Gateway for a UK Online Shop',
+    description: 'How to choose a payment gateway for a UK online shop: how gateways work, what to compare, Shopify and WooCommerce options, security and payouts.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Every online shop needs a way to take payments. The payment gateway is the part of your setup that does this: it securely collects card or wallet details at checkout, checks them, and arranges for the money to reach your bank account. Choose well and it is invisible to customers. Choose badly and you can face slow payouts, declined payments, clunky checkouts or unexpected costs.</p>
+<p>This guide explains how payment gateways work and how to choose one for a UK online shop. It does not quote fees, because they vary by provider, plan, card type and business and change over time. Always check current pricing directly with each provider.</p>
+
+<h2>What a payment gateway actually does</h2>
+<p>When a customer pays online, several things happen in a few seconds:</p>
+<ol>
+<li>The customer enters card details or chooses a digital wallet at checkout.</li>
+<li>The gateway encrypts those details and sends them for authorisation.</li>
+<li>The customer's bank checks the payment, sometimes asking the customer to confirm it through their banking app or a code.</li>
+<li>The payment is approved or declined, and your shop is told the result.</li>
+<li>Approved funds are settled and paid out to your bank account on the provider's schedule.</li>
+</ol>
+<p>You will see terms such as gateway, payment processor and merchant account. In the past these were often separate services from different companies. Today, most small UK shops use an all-in-one provider that handles all three, which is much simpler to set up.</p>
+
+<h2>The main options for UK shops</h2>
+<h3>Platform payment systems</h3>
+<p>Shopify has its own built-in payment system, Shopify Payments, available to UK merchants. It is tightly integrated with the platform and avoids setting up a separate provider. Shopify may charge extra transaction fees if you use a third-party gateway instead, so check the current terms on your plan.</p>
+<p>WooCommerce also offers its own payments option, built in partnership with a payment provider, alongside extensions for other gateways.</p>
+
+<h3>Major standalone providers</h3>
+<p>Stripe and PayPal are widely used by UK shops and work with Shopify, WooCommerce, Squarespace, Wix and most other platforms. Stripe is commonly used for card payments embedded into checkout. PayPal is recognised by many shoppers, and some customers prefer paying with a PayPal account rather than entering card details.</p>
+
+<h3>Bank and specialist providers</h3>
+<p>Some UK banks and specialist payment companies offer online payment services. These can suit businesses with existing banking relationships, high volumes or particular needs, but setup can be more involved. If you go this route, check your platform supports the provider well.</p>
+<p>Many shops use more than one option, for example a card gateway plus PayPal, to give customers a choice.</p>
+
+<h2>What to compare</h2>
+<h3>Total cost, not headline rates</h3>
+<p>Providers price in different ways. Some charge a percentage plus a fixed amount per transaction. Others have monthly fees, different rates for different card types, or extra charges for international cards, currency conversion, refunds or chargebacks. Your platform may add its own charges depending on which gateway you use.</p>
+<p>Work out the likely total cost using your own typical order values and volumes. A gateway that looks cheaper on one line can cost more overall once everything is included. For a wider look at running costs, our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs</a> may help, and you can see how we price work on our <a href="/pricing/">pricing page</a>.</p>
+
+<h3>Payout timing</h3>
+<p>How long does it take for money to reach your bank account? Payout schedules vary between providers and can be longer for new accounts. For a small business, cash flow matters, so check the payout schedule and whether funds can be held back in some situations.</p>
+
+<h3>Payment methods supported</h3>
+<p>Customers expect to pay the way they prefer. Check which of these each gateway supports:</p>
+<ul>
+<li>Debit and credit cards, including the major card networks.</li>
+<li>Digital wallets on phones and browsers.</li>
+<li>PayPal.</li>
+<li>Buy now, pay later options, if you choose to offer them.</li>
+<li>Payments in other currencies, if you sell abroad.</li>
+</ul>
+<p>Buy now, pay later has its own considerations, including how it is presented to customers and regulatory changes in the UK. If you plan to offer it, check current guidance from the Financial Conduct Authority and your provider's own requirements.</p>
+
+<h3>Checkout experience</h3>
+<p>Some gateways keep customers on your checkout page with an embedded payment form. Others send them to a page hosted by the provider and then back to your site. Embedded checkouts tend to feel smoother, though hosted pages from well-known providers can reassure some customers.</p>
+<p>Test the checkout on a phone, since most shoppers browse on mobile. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> explains why small frictions matter. Wallet payments can be particularly quick on mobile because customers do not need to type card details.</p>
+
+<h3>Strong Customer Authentication</h3>
+<p>UK rules require many online card payments to go through an extra verification step, known as Strong Customer Authentication. Customers might confirm a payment in their banking app or with a code. Major gateways handle this, but how smoothly they do it affects how many payments complete. Ask how each provider handles authentication and exemptions.</p>
+
+<h3>Disputes, refunds and chargebacks</h3>
+<p>Sometimes customers dispute payments with their bank. Check how each provider handles chargebacks, what evidence you can submit and whether there are charges. Also check how refunds work, including whether partial refunds are easy to issue from your shop's admin.</p>
+
+<h3>Fraud tools</h3>
+<p>Most major providers include some fraud screening. Ask what is included, whether you can set your own rules, and how false declines (genuine customers being blocked) are handled.</p>
+
+<h3>Platform integration</h3>
+<p>How well does the gateway work with your platform? Good integrations sync payments, refunds and order statuses automatically. Poor ones can mean manual work, mismatched records or broken checkouts after updates. On WooCommerce, a gateway relies on an extension, so it should be well maintained and kept up to date. Our guide to <a href="/blog/wordpress-security-uk/">WordPress security</a> covers why this matters.</p>
+
+<h2>Security and PCI DSS</h2>
+<p>Any business that accepts card payments needs to meet the Payment Card Industry Data Security Standard, known as PCI DSS. The good news for small shops is that using a reputable hosted or embedded gateway means card details are handled by the provider rather than passing through or being stored on your server. This significantly reduces your own compliance burden, though it does not remove it entirely.</p>
+<p>Practical steps include:</p>
+<ul>
+<li>Never storing card numbers yourself, in spreadsheets, emails or your website database.</li>
+<li>Using HTTPS across your entire site.</li>
+<li>Keeping your platform, theme and extensions updated.</li>
+<li>Using strong passwords and two-factor authentication for your shop admin and gateway accounts.</li>
+<li>Limiting who has access to payment dashboards.</li>
+</ul>
+<p>Your provider will usually ask you to complete a short self-assessment. Take it seriously and ask your provider if anything is unclear. Card payment rules and data protection law are both areas where specialist advice may be worthwhile.</p>
+
+<h2>Setting up a gateway</h2>
+<p>The setup process is broadly similar whichever provider you choose:</p>
+<ol>
+<li><strong>Create an account</strong> with the provider, or activate the platform's built-in payments.</li>
+<li><strong>Verify your business.</strong> Expect to provide business details, identity documents for directors or owners, and bank account details. Have these ready.</li>
+<li><strong>Describe what you sell.</strong> Providers restrict certain product categories, so be accurate. Some categories may need extra approval or may not be accepted at all.</li>
+<li><strong>Connect the gateway to your shop</strong> through the platform's payment settings or an official extension.</li>
+<li><strong>Configure options</strong> such as which payment methods to show, the statement descriptor customers see on bank statements and email notifications.</li>
+<li><strong>Test in test mode</strong> using the provider's test card numbers before taking real payments.</li>
+<li><strong>Go live</strong> and place a small real order to check everything works end to end, then refund it.</li>
+</ol>
+<p>If you are setting up a new shop, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers payments alongside other launch tasks.</p>
+
+<h2>Signs your current gateway is not working well</h2>
+<ul>
+<li>Customers report failed payments or being asked to verify repeatedly.</li>
+<li>A high number of baskets are abandoned at the payment step.</li>
+<li>Payouts are slow or unpredictable.</li>
+<li>Refunds and order statuses do not sync with your shop.</li>
+<li>Popular payment methods are missing.</li>
+<li>Total costs have crept up as your volumes or customer mix changed.</li>
+</ul>
+<p>Checkout analytics can help you see where customers drop off. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> explains how to track this, and our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce CRO</a> looks at improving checkout more broadly.</p>
+
+<h2>Switching gateways</h2>
+<p>Changing provider is usually straightforward for one-off purchases, but plan carefully if you have subscriptions or saved cards. Stored payment details cannot always be moved between providers, and moving subscriptions may require cooperation from both providers or asking customers to re-enter details. If you sell subscriptions, see our guide to <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions</a>.</p>
+<p>Run the new gateway alongside the old one briefly if possible, test thoroughly, and keep the old account open until refunds and disputes on earlier orders are settled.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a payment gateway and a payment processor?</h3>
+<p>The gateway securely captures and sends payment details; the processor moves the transaction through the card networks. Most small shops use one provider that does both.</p>
+<h3>Do I need a merchant account?</h3>
+<p>Not usually. All-in-one providers such as Stripe, PayPal and Shopify Payments let you accept cards without arranging a separate merchant account.</p>
+<h3>Should I offer PayPal as well as card payments?</h3>
+<p>Many shops do, because some customers prefer it. Offering a few popular options can help, but avoid cluttering checkout with too many.</p>
+<h3>Is it safe to take card payments on my website?</h3>
+<p>Using a reputable hosted or embedded gateway keeps card details off your server and handles much of the security. You still need to keep your site secure and meet PCI DSS requirements.</p>
+<h3>How much do payment gateways cost?</h3>
+<p>It varies by provider, plan and transaction type, and pricing changes. Compare current pricing from each provider using your own order data.</p>
+<h3>Can Prism Works Studio help set up payments?</h3>
+<p>Yes. We can review your checkout and payment setup and talk through options. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'shopify-inventory-management',
+    seoTitle: 'Shopify Inventory Management: A Practical UK Guide',
+    title: 'Shopify Inventory and Stock Management: The Basics',
+    description: 'Shopify inventory management explained: tracking stock, SKUs, locations, overselling settings, stock counts, adjustments and keeping records accurate.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Selling something you do not have is one of the quickest ways to disappoint a customer. So is showing a product as sold out when there are boxes of it in the stockroom. Good inventory management in Shopify keeps your online stock levels in line with reality, so customers can buy what you have and you can reorder before you run out.</p>
+<p>This guide covers the basics of managing inventory in Shopify for UK shops: setting up tracking, SKUs, locations, overselling rules, stock counts and adjustments. It focuses on the back-office side. For how to show stock levels to customers on product pages, see our guide to <a href="/blog/ecommerce-stock-availability-display/">displaying stock availability</a>.</p>
+
+<h2>Why inventory accuracy matters</h2>
+<p>Inaccurate stock levels cause problems in both directions:</p>
+<ul>
+<li><strong>Overselling:</strong> customers order items you cannot supply, leading to cancellations, refunds, complaints and lost trust.</li>
+<li><strong>Underselling:</strong> products show as unavailable when you have them, so you lose sales you could have made.</li>
+<li><strong>Poor buying decisions:</strong> if records are wrong, you may reorder too much of slow sellers and too little of popular ones.</li>
+<li><strong>Feed problems:</strong> if you list products on Google, stock mismatches between your site and feed can cause disapprovals, as our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> explains.</li>
+</ul>
+
+<h2>Step 1: Turn on inventory tracking</h2>
+<p>Shopify can track quantities for each product variant, but tracking is set per product. Open each product, find the inventory section and make sure quantity tracking is switched on. When tracking is on, Shopify reduces stock when an order is placed and increases it when you restock or process certain returns.</p>
+<p>Some items do not need tracking, such as digital products, services, made-to-order items or gift cards. Leave tracking off for those so they are never shown as out of stock by mistake.</p>
+<p>If you have many products, use bulk editing or a product export to check tracking settings across the catalogue rather than opening products one by one.</p>
+
+<h2>Step 2: Give every variant a SKU</h2>
+<p>A SKU (stock keeping unit) is your own code for a specific item. Every variant, such as each size and colour, should have its own unique SKU. SKUs make stock counts, reorders, warehouse work and reporting far easier.</p>
+<p>Good SKUs are:</p>
+<ul>
+<li><strong>Unique:</strong> no two variants share a code.</li>
+<li><strong>Consistent:</strong> a simple pattern, such as product type, style, colour and size.</li>
+<li><strong>Readable:</strong> short enough for staff to read on a label or packing slip.</li>
+<li><strong>Stable:</strong> they do not change when you rename a product.</li>
+</ul>
+<p>If your products have barcodes, add them in the barcode field as well. Barcodes help with scanning in-store, receiving stock and submitting products to Google. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains how to structure variants sensibly in the first place.</p>
+
+<h2>Step 3: Set up locations</h2>
+<p>Shopify lets you add locations: places where you keep stock or fulfil orders from, such as a warehouse, a shop, a home office or a fulfilment partner. Each location holds its own quantity for each variant.</p>
+<p>If you only ship from one place, keep it simple with a single location. If you have several, think about:</p>
+<ul>
+<li>Which locations can fulfil online orders and which are for in-person sales only.</li>
+<li>The order Shopify should use when deciding where to fulfil an order from.</li>
+<li>How stock is moved between locations, which Shopify can record as transfers.</li>
+</ul>
+<p>The number of locations available depends on your plan, so check the current limits. If you also sell in person, our guide to <a href="/blog/shopify-pos-uk-retail/">Shopify POS for UK retail</a> explains how online and in-store stock can share one system.</p>
+
+<h2>Step 4: Decide your overselling rules</h2>
+<p>For each tracked product, Shopify has a setting for whether customers can keep buying when stock reaches zero. This is one of the most important inventory decisions you make, and it should be deliberate.</p>
+<table>
+<thead><tr><th>Situation</th><th>Typical choice</th></tr></thead>
+<tbody>
+<tr><td>Fixed stock that cannot be replaced quickly</td><td>Stop selling at zero.</td></tr>
+<tr><td>Made to order or reliably restocked from a supplier</td><td>Allow selling, with clear delivery expectations.</td></tr>
+<tr><td>Preorders for upcoming stock</td><td>Allow selling, clearly labelled as a preorder with an expected dispatch date.</td></tr>
+<tr><td>Limited editions or one-off items</td><td>Stop selling at zero.</td></tr>
+</tbody>
+</table>
+<p>If you allow selling when out of stock, be honest with customers about when items will ship. Taking money for items you cannot supply for weeks, without telling customers, creates problems. UK consumer law also sets expectations around delivery and cancellation, so check current guidance if you take preorders or backorders regularly.</p>
+
+<h2>Step 5: Record your starting stock</h2>
+<p>Once tracking, SKUs and locations are set up, enter accurate starting quantities. The best time is after a full physical count. For a larger catalogue, export the inventory list, fill in the counted quantities in a spreadsheet and import it back. Double-check a few products afterwards to make sure the import worked as expected.</p>
+
+<h2>Day-to-day inventory tasks</h2>
+<h3>Receiving new stock</h3>
+<p>When stock arrives, add it to Shopify promptly. Shopify can record incoming stock against purchase orders or transfers, depending on your setup, so you can see what is on the way and mark items received when they arrive. If you use a simpler approach, at least update quantities on the day stock arrives.</p>
+
+<h3>Returns</h3>
+<p>When you process a return, decide whether the item goes back into sellable stock. Damaged or opened items may not be resaleable. Shopify gives you the choice to restock when processing a return or refund, so make sure staff choose correctly each time.</p>
+
+<h3>Adjustments</h3>
+<p>Stock changes for reasons other than sales: breakages, samples, items used for photography, theft or counting errors. Record these as adjustments rather than quietly changing numbers. Shopify keeps a history of inventory changes for each variant, which helps you understand where stock is going.</p>
+
+<h3>Low stock alerts and reordering</h3>
+<p>Know your reorder points: the quantity at which you should place a new order, based on how quickly the item sells and how long your supplier takes. Shopify's reports can show stock levels and sales over time. Some shops use a simple weekly routine of checking low stock items and placing orders.</p>
+
+<h2>Regular stock counts</h2>
+<p>Even with good processes, recorded stock drifts away from reality over time. Regular counts keep it accurate. Options include:</p>
+<ul>
+<li><strong>Full counts:</strong> counting everything, perhaps once or twice a year.</li>
+<li><strong>Cycle counts:</strong> counting a small section regularly, so the whole range is covered over a few weeks or months.</li>
+<li><strong>Targeted counts:</strong> counting fast sellers or high-value items more often.</li>
+</ul>
+<p>Count at a quiet time, or pause fulfilment for the items being counted. Compare the physical count with Shopify, investigate large differences and record adjustments. Repeated gaps on the same products usually point to a process problem worth fixing, such as returns not being restocked or stock being taken without being recorded.</p>
+
+<h2>Selling on several channels</h2>
+<p>If you sell through several channels, such as your website, social media shops, marketplaces or in person, stock should ideally come from one shared pool. Shopify's sales channels can share inventory, so a sale on one channel reduces stock available on all of them. If any channel is managed separately, overselling becomes much more likely.</p>
+<p>Before adding a channel, check how it will sync stock and orders with Shopify. If you have moved from another platform, our guide to <a href="/blog/etsy-to-shopify-migration/">moving from Etsy to Shopify</a> covers data and stock considerations.</p>
+
+<h2>Bundles and kits</h2>
+<p>Bundles, such as gift sets, are tricky because one sale should reduce the stock of several products. Shopify has options for bundles that can draw on the stock of component products. Check how your chosen approach handles inventory before launching bundles, and test that stock reduces correctly when a bundle sells.</p>
+
+<h2>When you outgrow the basics</h2>
+<p>Shopify's built-in inventory tools suit many small and medium shops. Signs you may need more include:</p>
+<ul>
+<li>Many locations or a third-party warehouse that needs tight syncing.</li>
+<li>Complex purchasing, such as multiple suppliers and lead times per product.</li>
+<li>Manufacturing or assembly where raw materials need tracking.</li>
+<li>Integration with accounting or wholesale systems.</li>
+</ul>
+<p>At that point, you may look at dedicated inventory or order management systems connected to Shopify. Choose carefully, check integration quality and avoid adding tools you do not yet need. If you are planning bigger changes to your store, our guide to <a href="/blog/how-to-brief-a-shopify-developer/">briefing a Shopify developer</a> helps you explain your requirements clearly.</p>
+
+<h2>A simple inventory routine</h2>
+<ul>
+<li>Daily: process returns correctly and receive any new stock.</li>
+<li>Weekly: review low stock items and place reorders.</li>
+<li>Monthly: run a cycle count on a section of your range and review adjustments.</li>
+<li>Before busy periods: do a fuller count and check overselling settings, as covered in our <a href="/blog/ecommerce-seasonal-sales-preparation/">seasonal sales preparation guide</a>.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>How do I stop Shopify selling out-of-stock products?</h3>
+<p>Turn on quantity tracking for the product and make sure the option to continue selling when out of stock is switched off.</p>
+<h3>What is a SKU and do I need one?</h3>
+<p>A SKU is your own unique code for each product variant. It is not strictly required, but it makes stock management, counting and reporting far easier.</p>
+<h3>Can Shopify track stock in more than one location?</h3>
+<p>Yes. Shopify supports multiple locations, each with its own stock levels. The number allowed depends on your plan.</p>
+<h3>How often should I count stock?</h3>
+<p>It depends on your range and volume. Many shops combine an occasional full count with regular cycle counts of smaller sections.</p>
+<h3>Why are my Shopify stock levels wrong?</h3>
+<p>Common causes include returns not being restocked correctly, unrecorded breakages or samples, channels not syncing, and import errors.</p>
+<h3>Can Prism Works Studio help with Shopify inventory setup?</h3>
+<p>Yes. We can review your store's product and inventory setup and talk through options. See our <a href="/pricing/">pricing page</a> or <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];
