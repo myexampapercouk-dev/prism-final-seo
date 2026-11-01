@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Global Styles: Fonts and Colours in Block Themes</title>
+<meta name="description" content="How global styles work in the WordPress Site Editor, including fonts, colour palettes, spacing and style variations, and how to keep a block theme on brand.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Global Styles: Fonts and Colours in Block Themes">
+<meta property="og:description" content="How global styles work in the WordPress Site Editor, including fonts, colour palettes, spacing and style variations, and how to keep a block theme on brand.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-editor-styles.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/#article","headline":"WordPress Site Editor Styles: Managing Global Fonts and Colours","description":"How global styles work in the WordPress Site Editor, including fonts, colour palettes, spacing and style variations, and how to keep a block theme on brand.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/","url":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-site-editor-styles.png","inLanguage":"en-GB","wordCount":1522,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Site Editor Styles: Managing Global Fonts and Colours","item":"https://prismworksstudio.co.uk/blog/wordpress-site-editor-styles/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do global styles work with classic themes?","acceptedAnswer":{"@type":"Answer","text":"No. The Styles panel is part of the Site Editor, which is available with block themes. Classic themes use the Customizer or their own settings instead."}},{"@type":"Question","name":"Will updating my theme remove my style changes?","acceptedAnswer":{"@type":"Answer","text":"Changes made in the Styles panel are stored separately in the database, so a theme update should not remove them. Theme defaults you have not customised may change, so review the site after updates."}},{"@type":"Question","name":"Can I upload my brand font?","acceptedAnswer":{"@type":"Answer","text":"Recent WordPress versions let you upload font files through the font library. Check that your font licence allows web use first."}},{"@type":"Question","name":"How do I undo a style change?","acceptedAnswer":{"@type":"Answer","text":"Use the revision history in the Styles panel to restore an earlier version, or reset to theme defaults if you want to start again."}},{"@type":"Question","name":"Should editors be able to pick any colour?","acceptedAnswer":{"@type":"Answer","text":"Usually not. Restricting choices to a brand palette keeps the site consistent and helps make sure colour combinations remain readable."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Site Editor Styles: Managing Global Fonts and Colours</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Site Editor Styles: Managing Global Fonts and Colours</h1><p class="pws-lead">How global styles work in the WordPress Site Editor, including fonts, colour palettes, spacing and style variations, and how to keep a block theme on brand.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Global styles let you set fonts, colours and spacing once for the whole site in a block theme.</li><li>A small, deliberate palette and type scale keeps editors on brand and pages consistent.</li><li>Style changes made in the editor are stored in the database, so document and back them up.</li></ul></div>
+<p>If your WordPress site uses a block theme, much of its look is controlled from one place: the Styles panel in the Site Editor. From there you can set fonts, colours, spacing and the appearance of individual blocks for the whole site, without touching code. Used well, global styles keep every page consistent and on brand. Used carelessly, they can produce a site where every page looks slightly different and nobody is sure why.</p>
+<p>This guide explains how global styles work, what you can control, and how to set them up so your team can edit content confidently without breaking the design.</p>
+
+<h2>What are global styles?</h2>
+<p>Global styles are site-wide design settings in block themes. Instead of styling each block on each page, you define defaults once: the body font, heading sizes, link colours, button styles, spacing and so on. Every block then inherits those defaults unless someone overrides them.</p>
+<p>The settings come from three layers:</p>
+<ul>
+<li><strong>The theme.</strong> A block theme ships with a configuration file that defines available fonts, colours, sizes and default styles.</li>
+<li><strong>User customisations.</strong> Changes you make in the Styles panel are saved to the database and sit on top of the theme defaults.</li>
+<li><strong>Individual blocks.</strong> Editors can still change the style of a single block on a single page, which overrides both of the above.</li>
+</ul>
+<p>Understanding these layers helps when something looks wrong. If a heading is the wrong colour, the cause could be in any of them.</p>
+
+<h2>Finding the Styles panel</h2>
+<p>In a block theme, go to Appearance, then Editor, then Styles. You will see a preview of the site alongside options for typography, colours, layout and blocks. Changes preview immediately and only go live when you save.</p>
+<p>If you do not see the Site Editor, your site is probably using a classic theme. Classic themes handle design through the Customizer or theme options instead. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> explains the difference between the editing experiences.</p>
+
+<h2>Typography</h2>
+<p>The typography section controls fonts and text sizes for the site and for specific elements such as headings, links, captions and buttons.</p>
+<h3>Choosing fonts</h3>
+<p>Recent WordPress versions include a font library where you can manage the fonts available to your site, including uploading font files you have the right to use. Keep the selection small. One font for headings and one for body text is usually plenty, and every extra font adds weight to your pages.</p>
+<p>Check the licence for any font before uploading it. Some fonts are free for web use, others require a licence, and terms vary. If in doubt, ask whoever supplied your brand guidelines.</p>
+<h3>Setting a type scale</h3>
+<p>Block themes define a set of font sizes, often labelled small, medium, large and so on. Editors pick from these in the block toolbar. A clear, limited scale stops pages ending up with dozens of slightly different text sizes. Many block themes also support fluid typography, where text sizes adjust smoothly between small and large screens.</p>
+<h3>Headings and line height</h3>
+<p>Set heading styles at the element level so every H2 looks the same across the site. Check line height and letter spacing too. Generous line height on body text helps readability, especially on mobile.</p>
+
+<h2>Colours</h2>
+<p>The colour section has two parts: the palette and the element colours.</p>
+<h3>The palette</h3>
+<p>The palette is the set of colours editors can choose from when styling blocks. A theme provides a default palette, and you can add custom colours. For brand consistency, define your brand colours here with clear names such as Primary, Accent and Neutral, and consider disabling the option for editors to pick any custom colour if your theme allows.</p>
+<h3>Element colours</h3>
+<p>Element colours set the defaults for text, background, links, headings, buttons and captions. Set these deliberately so a new page looks right before anyone touches the colour controls.</p>
+<h3>Contrast</h3>
+<p>Every combination of text and background needs enough contrast to be readable. The editor may warn about low contrast in some places, but do not rely on it. Check key combinations, including link colours, button text and text on coloured backgrounds, with a contrast checker. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers why this matters.</p>
+
+<h2>Layout and spacing</h2>
+<p>The layout section controls content width, wide width and spacing between blocks. Content width is the default width of text, while wide width applies to blocks set to wide alignment.</p>
+<p>Spacing presets work like font sizes: the theme defines a scale and editors pick from it. Consistent spacing is one of the quieter signals that a site has been designed carefully. Setting block gap and padding defaults globally means editors rarely need to adjust spacing by hand.</p>
+
+<h2>Styling individual block types</h2>
+<p>Under Blocks in the Styles panel you can set defaults for each block type. For example, you might give every Quote block a particular border and font style, or make every Button block use your brand colour with rounded corners.</p>
+<p>This is more powerful than styling blocks one at a time on the page. When you change the default, every instance across the site updates. It also reduces the temptation for editors to restyle blocks individually.</p>
+<p>Some blocks also support block style variations, which are alternative looks you can switch between, such as an outline button versus a filled one.</p>
+
+<h2>Style variations</h2>
+<p>Many block themes include style variations: complete alternative sets of fonts and colours that you can switch between in one click. They are a quick way to try a different look, but switching variation on a live site changes everything at once. Preview carefully and save only when you are sure.</p>
+<p>Developers can also create custom style variations for a brand, for example a seasonal palette, so the change can be made and reversed cleanly.</p>
+
+<h2>Where changes are stored, and why it matters</h2>
+<p>Customisations made in the Styles panel are saved in the database, not in the theme files. This has a few consequences:</p>
+<ul>
+<li><strong>Theme updates do not overwrite them.</strong> Your customisations sit on top of the theme.</li>
+<li><strong>They do not travel with the theme files.</strong> If you move the theme to another site, your customisations stay behind unless you export them.</li>
+<li><strong>They can be reset.</strong> The Styles panel has an option to reset to theme defaults, which removes your changes.</li>
+</ul>
+<p>Back up the database regularly and keep a note of key design decisions. For more permanent changes, a developer can move styles into a child theme so they live in version-controlled files. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains the approach.</p>
+<p>The editor also keeps a revision history for global styles, so you can look back at earlier versions and restore one if a change goes wrong.</p>
+
+<h2>Keeping editors on brand</h2>
+<p>Global styles work best when combined with sensible limits on what editors can change. Options include:</p>
+<ul>
+<li>Restricting the colour palette to brand colours only</li>
+<li>Disabling custom font sizes so editors use the defined scale</li>
+<li>Using patterns and synced patterns for common layouts</li>
+<li>Locking parts of templates that should not change</li>
+<li>Giving most users editor or author roles rather than administrator access</li>
+</ul>
+<p>Our guides to <a href="/blog/wordpress-synced-patterns/">WordPress synced patterns</a> and <a href="/blog/wordpress-user-roles/">WordPress user roles</a> go into these options in more detail.</p>
+
+<h2>Common problems and fixes</h2>
+<h3>A block ignores the global style</h3>
+<p>Someone has probably set a style on that block directly. Select the block and clear its custom colour or typography settings so it inherits the defaults again.</p>
+<h3>Fonts look different from the brand guidelines</h3>
+<p>Check that the correct font files and weights are installed. If a weight is missing, the browser may fake it, which often looks wrong.</p>
+<h3>Changes do not appear on the live site</h3>
+<p>Clear any caching on the site or server. Caching layers often hold onto old stylesheets.</p>
+<h3>The site looks different after a theme update</h3>
+<p>The theme may have changed its defaults. Your customisations should remain, but anything you had not customised will follow the new theme defaults.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses, including block theme set-up, brand-aligned global styles and editor guardrails that keep content consistent. If your site has drifted off brand or you are moving to a block theme, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help.</p>
+
+<h2>FAQs</h2>
+<h3>Do global styles work with classic themes?</h3>
+<p>No. The Styles panel is part of the Site Editor, which is available with block themes. Classic themes use the Customizer or their own settings instead.</p>
+<h3>Will updating my theme remove my style changes?</h3>
+<p>Changes made in the Styles panel are stored separately in the database, so a theme update should not remove them. Theme defaults you have not customised may change, so review the site after updates.</p>
+<h3>Can I upload my brand font?</h3>
+<p>Recent WordPress versions let you upload font files through the font library. Check that your font licence allows web use first.</p>
+<h3>How do I undo a style change?</h3>
+<p>Use the revision history in the Styles panel to restore an earlier version, or reset to theme defaults if you want to start again.</p>
+<h3>Should editors be able to pick any colour?</h3>
+<p>Usually not. Restricting choices to a brand palette keeps the site consistent and helps make sure colour combinations remain readable.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Editor%20Styles%3A%20Managing%20Global%20Fonts%20and%20Colours'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Site%20Editor%20Styles%3A%20Managing%20Global%20Fonts%20and%20Colours'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

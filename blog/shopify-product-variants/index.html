@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopify Product Variants: How to Set Up Options Properly</title>
+<meta name="description" content="How Shopify product variants and options work, when to use variants or separate products, and how to keep stock, images, SKUs and SEO tidy as you grow.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-product-variants/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Product Variants: How to Set Up Options Properly">
+<meta property="og:description" content="How Shopify product variants and options work, when to use variants or separate products, and how to keep stock, images, SKUs and SEO tidy as you grow.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-product-variants/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-product-variants.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-01">
+<meta property="article:modified_time" content="2026-11-01">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-product-variants/#article","headline":"Shopify Product Variants: Setting Up Sizes, Colours and Options","description":"How Shopify product variants and options work, when to use variants or separate products, and how to keep stock, images, SKUs and SEO tidy as you grow.","datePublished":"2026-11-01","dateModified":"2026-11-01","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-product-variants/","url":"https://prismworksstudio.co.uk/blog/shopify-product-variants/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-product-variants.png","inLanguage":"en-GB","wordCount":1754,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Shopify Product Variants: Setting Up Sizes, Colours and Options","item":"https://prismworksstudio.co.uk/blog/shopify-product-variants/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can each Shopify variant have its own price?","acceptedAnswer":{"@type":"Answer","text":"Yes. Each variant can have its own price and compare-at price. Make sure your theme updates the displayed price when the customer changes their selection."}},{"@type":"Question","name":"Does each variant get its own URL?","acceptedAnswer":{"@type":"Answer","text":"Variants share the main product page. A variant parameter may be added to the URL when an option is selected, but the canonical URL usually stays the main product page."}},{"@type":"Question","name":"Should colours be variants or separate products?","acceptedAnswer":{"@type":"Answer","text":"It depends on your range. Colours are often variants when everything else is identical. Separate products can make sense when each colour has its own story, photography or search demand."}},{"@type":"Question","name":"How do I stop customers choosing sold-out sizes?","acceptedAnswer":{"@type":"Answer","text":"Your theme can mark sold-out combinations as unavailable, and some themes can hide them. Check your theme settings, or ask a developer to adjust the product form."}},{"@type":"Question","name":"Can I add personalisation without creating variants?","acceptedAnswer":{"@type":"Answer","text":"Yes. Line item properties let customers add details such as engraving text to an order without creating extra variants. These usually need a small theme change."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Shopify Product Variants: Setting Up Sizes, Colours and Options</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>Shopify Product Variants: Setting Up Sizes, Colours and Options</h1><p class="pws-lead">How Shopify product variants and options work, when to use variants or separate products, and how to keep stock, images, SKUs and SEO tidy as you grow.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-01">1 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Variants are versions of one product, such as sizes or colours, that share a single product page.</li><li>Deciding early whether something is a variant or a separate product saves a lot of rework later.</li><li>Each variant can carry its own price, SKU, stock level and image, so tidy data matters from day one.</li></ul></div>
+<p>Most products in an online shop come in more than one version. A t-shirt comes in several sizes and colours, a candle in different scents, a print in different frame finishes. Shopify handles this through product options and variants. Get the set-up right and customers can pick exactly what they want from one clear page. Get it wrong and you end up with confusing dropdowns, stock that does not add up and duplicate pages competing with each other in search.</p>
+<p>This guide explains how variants work in Shopify, how to decide between variants and separate products, and the practical habits that keep your catalogue manageable as it grows.</p>
+
+<h2>Options and variants: what is the difference?</h2>
+<p>Shopify uses two related ideas. An <strong>option</strong> is a type of choice, such as Size, Colour or Material. An <strong>option value</strong> is one of the choices within it, such as Small, Medium and Large. A <strong>variant</strong> is one specific combination of option values, such as a Medium in Navy.</p>
+<p>If a product has a Size option with three values and a Colour option with four values, there are twelve possible combinations, and each one can be a variant. Each variant can have its own:</p>
+<ul>
+<li>Price and compare-at price</li>
+<li>SKU and barcode</li>
+<li>Inventory quantity, tracked per location</li>
+<li>Weight, used for shipping calculations</li>
+<li>Image, so the gallery can switch when a customer picks a colour</li>
+</ul>
+<p>Shopify sets limits on how many options and variants a single product can have, and those limits have changed over time. Check the current figures in your admin or the Shopify help centre before planning a very large range on one product.</p>
+
+<h2>Variant or separate product?</h2>
+<p>This is the decision that matters most, and there is no single rule. A useful test is to ask whether a customer would think of the versions as the same thing in a different flavour, or as genuinely different products.</p>
+<h3>Usually a variant</h3>
+<ul>
+<li>Sizes of the same garment or shoe</li>
+<li>Colours of the same item where the description is otherwise identical</li>
+<li>Pack sizes or quantities of the same product</li>
+<li>Finishes or frame options on the same print</li>
+</ul>
+<h3>Often better as a separate product</h3>
+<ul>
+<li>Versions with different descriptions, ingredients or specifications</li>
+<li>Items people search for by name, such as a distinct scent or a named colourway with its own story</li>
+<li>Versions that need their own reviews, photography and marketing</li>
+<li>Products that belong in different collections</li>
+</ul>
+<p>Some shops do both: they create separate products for each colour so each gets its own page in search and collections, then link them visually with colour swatches. This approach takes more theme work but can suit fashion and homeware brands where colour drives browsing. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> covers how these decisions affect category pages.</p>
+
+<h2>Setting up variants in the Shopify admin</h2>
+<p>The basic process is straightforward:</p>
+<ol>
+<li>Open the product in your Shopify admin.</li>
+<li>In the Variants section, add an option such as Size and enter its values.</li>
+<li>Add further options if needed, such as Colour.</li>
+<li>Shopify generates the combinations. Delete any that you do not actually sell.</li>
+<li>Edit each variant to add its price, SKU, barcode, weight and stock.</li>
+<li>Assign images to variants so the gallery responds to the customer's choice.</li>
+</ol>
+<p>Removing combinations you do not sell is easy to forget. If a Large only exists in two of four colours, leaving the other combinations in place with zero stock creates frustration when customers select them and see sold out.</p>
+
+<h2>Naming options and values clearly</h2>
+<p>Option names appear on your product page, in the cart, on order confirmations and in your reports. Small inconsistencies multiply across a catalogue.</p>
+<ul>
+<li><strong>Use the same option names everywhere.</strong> Pick Colour or Color and stick with it. Mixing them makes filtering and reporting harder.</li>
+<li><strong>Order values logically.</strong> Sizes should run small to large, not in the order you happened to type them.</li>
+<li><strong>Keep values short and recognisable.</strong> Customers scan quickly. A value like Navy reads better than a long internal product code.</li>
+<li><strong>Be consistent with sizing.</strong> If some products use S, M, L and others use Small, Medium, Large, filters may treat them as different values.</li>
+</ul>
+<p>Consistent naming also helps if you use storefront filtering. Shopify can build filters from variant options, so tidy values lead to cleaner filters. See our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> for more on this.</p>
+
+<h2>SKUs, barcodes and stock</h2>
+<p>Every variant should have a unique SKU. It is the reference your team, your warehouse and any connected systems use to know exactly which item is which. A simple, predictable pattern works best, for example a short product code followed by colour and size abbreviations.</p>
+<p>Stock is tracked at the variant level, not the product level. That means a product can show as available while a particular size is sold out. Decide how you want to handle that:</p>
+<ul>
+<li>Show sold-out variants as unavailable but still visible, so customers know the size exists</li>
+<li>Hide unavailable combinations, if your theme supports it</li>
+<li>Allow continued selling for items you can restock quickly, with clear messaging about dispatch times</li>
+</ul>
+<p>Whatever you choose, make sure the product page tells customers clearly what is happening. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> goes into stock tracking and locations in more depth.</p>
+
+<h2>Variant images and the product page</h2>
+<p>When a customer picks a colour, they expect to see that colour. Assigning an image to each variant lets the theme switch the main image when the selection changes. Most modern themes support this, though the exact behaviour depends on the theme.</p>
+<p>A few points to check on your product pages:</p>
+<ul>
+<li>The image updates when a different variant is chosen</li>
+<li>The price updates if variants have different prices</li>
+<li>Sold-out combinations are clearly marked</li>
+<li>Selectors are easy to tap on a phone, with enough space between them</li>
+<li>Colour swatches, if used, have text labels or accessible names so they make sense to everyone</li>
+</ul>
+<p>Buttons or swatches tend to be easier to use than dropdowns for options with only a handful of values, because customers can see every choice at once. Dropdowns can work better for long lists such as many sizes. If you are unsure, test with real customers and watch where they hesitate.</p>
+
+<h2>Variants and SEO</h2>
+<p>All variants of a product share one product page and one main URL. Shopify can add a variant parameter to the URL when a customer selects an option, but the canonical tag normally points back to the main product URL. That is usually what you want: one strong page rather than many thin ones.</p>
+<p>A few things are worth thinking about:</p>
+<ul>
+<li><strong>Mention key variants in the description.</strong> If people search for a product in a specific colour or size, mention the available options naturally in the text.</li>
+<li><strong>Use descriptive image alt text.</strong> Describe what each variant image shows, including the colour.</li>
+<li><strong>Avoid duplicate products for the same thing.</strong> Creating separate products that are near identical can split attention between pages without a clear benefit.</li>
+<li><strong>Check structured data.</strong> Many themes output product data that includes variant prices and availability. Make sure it reflects reality.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers product page optimisation more broadly.</p>
+
+<h2>Bulk editing and imports</h2>
+<p>For larger catalogues, editing variants one by one is slow. Shopify offers a bulk editor in the admin where you can change prices, SKUs and stock across many variants in a spreadsheet-style view. You can also export products to a CSV file, edit them and import them again.</p>
+<p>CSV imports are powerful but unforgiving. Each variant is a row, and the product handle ties rows together. A small mistake in the handle or option columns can create duplicate products or overwrite data. Before importing:</p>
+<ul>
+<li>Export a backup of your current products</li>
+<li>Test the import with a small number of products first</li>
+<li>Check option names and values match exactly what already exists</li>
+<li>Review a few products in the admin afterwards to confirm everything landed correctly</li>
+</ul>
+
+<h2>When you need more than the standard options</h2>
+<p>Standard variants suit fixed choices with their own stock. They are less suited to things like personalised text, gift messages or made-to-order configurations with many combinations. For those, shops typically use line item properties, where the customer adds information that travels with the order without creating a new variant. Your theme or a developer can add these fields to the product form.</p>
+<p>If you find yourself hitting variant limits or creating awkward workarounds, it is often a sign the catalogue structure needs rethinking rather than more options bolted on. Splitting a range into several products, using metafields for extra information, or combining products with a bundle approach can all help. Our guide to <a href="/blog/shopify-metafields-guide/">Shopify metafields</a> explains how to store extra product details cleanly.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Leaving unsold combinations in place, so customers can select options that do not exist</li>
+<li>Using different option names for the same thing across products</li>
+<li>Missing or duplicate SKUs, which cause confusion in fulfilment</li>
+<li>Variant images not assigned, so the gallery does not change when a colour is picked</li>
+<li>Different prices per variant without the price updating clearly on the page</li>
+<li>Creating many near-identical products instead of one product with variants</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK brands plan and clean up their Shopify catalogues, from deciding how products and variants should be structured to improving product page templates so options are clear on every device. If your catalogue has grown messy or you are planning a migration, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help you set it up properly.</p>
+
+<h2>FAQs</h2>
+<h3>Can each Shopify variant have its own price?</h3>
+<p>Yes. Each variant can have its own price and compare-at price. Make sure your theme updates the displayed price when the customer changes their selection.</p>
+<h3>Does each variant get its own URL?</h3>
+<p>Variants share the main product page. A variant parameter may be added to the URL when an option is selected, but the canonical URL usually stays the main product page.</p>
+<h3>Should colours be variants or separate products?</h3>
+<p>It depends on your range. Colours are often variants when everything else is identical. Separate products can make sense when each colour has its own story, photography or search demand.</p>
+<h3>How do I stop customers choosing sold-out sizes?</h3>
+<p>Your theme can mark sold-out combinations as unavailable, and some themes can hide them. Check your theme settings, or ask a developer to adjust the product form.</p>
+<h3>Can I add personalisation without creating variants?</h3>
+<p>Yes. Line item properties let customers add details such as engraving text to an order without creating extra variants. These usually need a small theme change.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Product%20Variants%3A%20Setting%20Up%20Sizes%2C%20Colours%20and%20Options'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/yoga-pilates-studio-website-design-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>Yoga and Pilates Studio Website Design: Timetables, Classes and Memberships</h3><p>Website design for UK yoga and Pilates studios: class timetables, booking and passes, beginner pages, teacher profiles, retreats and accessible design.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-widgets-and-sidebars/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Widgets and Sidebars: How to Use Them Well</h3><p>How WordPress widgets and sidebars work in classic and block themes, what to put in them, how to keep them tidy and when a sidebar is better left out entirely.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-synced-patterns/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Synced Patterns: How to Reuse Content Without Copying It</h3><p>What WordPress synced and unsynced patterns are, how they replaced reusable blocks, and how to use them for calls to action, contact details and page layouts.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Product%20Variants%3A%20Setting%20Up%20Sizes%2C%20Colours%20and%20Options'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

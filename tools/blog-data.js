@@ -38748,4 +38748,613 @@ module.exports = [
 <p>Only if it uses a block theme. Classic themes manage layout differently, usually through theme files, the customiser and widgets.</p>
 `,
   },
+  {
+    slug: 'shopify-product-variants',
+    seoTitle: 'Shopify Product Variants: How to Set Up Options Properly',
+    title: 'Shopify Product Variants: Setting Up Sizes, Colours and Options',
+    description: 'How Shopify product variants and options work, when to use variants or separate products, and how to keep stock, images, SKUs and SEO tidy as you grow.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-collections-structure/', '/blog/shopify-inventory-management/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Most products in an online shop come in more than one version. A t-shirt comes in several sizes and colours, a candle in different scents, a print in different frame finishes. Shopify handles this through product options and variants. Get the set-up right and customers can pick exactly what they want from one clear page. Get it wrong and you end up with confusing dropdowns, stock that does not add up and duplicate pages competing with each other in search.</p>
+<p>This guide explains how variants work in Shopify, how to decide between variants and separate products, and the practical habits that keep your catalogue manageable as it grows.</p>
+
+<h2>Options and variants: what is the difference?</h2>
+<p>Shopify uses two related ideas. An <strong>option</strong> is a type of choice, such as Size, Colour or Material. An <strong>option value</strong> is one of the choices within it, such as Small, Medium and Large. A <strong>variant</strong> is one specific combination of option values, such as a Medium in Navy.</p>
+<p>If a product has a Size option with three values and a Colour option with four values, there are twelve possible combinations, and each one can be a variant. Each variant can have its own:</p>
+<ul>
+<li>Price and compare-at price</li>
+<li>SKU and barcode</li>
+<li>Inventory quantity, tracked per location</li>
+<li>Weight, used for shipping calculations</li>
+<li>Image, so the gallery can switch when a customer picks a colour</li>
+</ul>
+<p>Shopify sets limits on how many options and variants a single product can have, and those limits have changed over time. Check the current figures in your admin or the Shopify help centre before planning a very large range on one product.</p>
+
+<h2>Variant or separate product?</h2>
+<p>This is the decision that matters most, and there is no single rule. A useful test is to ask whether a customer would think of the versions as the same thing in a different flavour, or as genuinely different products.</p>
+<h3>Usually a variant</h3>
+<ul>
+<li>Sizes of the same garment or shoe</li>
+<li>Colours of the same item where the description is otherwise identical</li>
+<li>Pack sizes or quantities of the same product</li>
+<li>Finishes or frame options on the same print</li>
+</ul>
+<h3>Often better as a separate product</h3>
+<ul>
+<li>Versions with different descriptions, ingredients or specifications</li>
+<li>Items people search for by name, such as a distinct scent or a named colourway with its own story</li>
+<li>Versions that need their own reviews, photography and marketing</li>
+<li>Products that belong in different collections</li>
+</ul>
+<p>Some shops do both: they create separate products for each colour so each gets its own page in search and collections, then link them visually with colour swatches. This approach takes more theme work but can suit fashion and homeware brands where colour drives browsing. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> covers how these decisions affect category pages.</p>
+
+<h2>Setting up variants in the Shopify admin</h2>
+<p>The basic process is straightforward:</p>
+<ol>
+<li>Open the product in your Shopify admin.</li>
+<li>In the Variants section, add an option such as Size and enter its values.</li>
+<li>Add further options if needed, such as Colour.</li>
+<li>Shopify generates the combinations. Delete any that you do not actually sell.</li>
+<li>Edit each variant to add its price, SKU, barcode, weight and stock.</li>
+<li>Assign images to variants so the gallery responds to the customer's choice.</li>
+</ol>
+<p>Removing combinations you do not sell is easy to forget. If a Large only exists in two of four colours, leaving the other combinations in place with zero stock creates frustration when customers select them and see sold out.</p>
+
+<h2>Naming options and values clearly</h2>
+<p>Option names appear on your product page, in the cart, on order confirmations and in your reports. Small inconsistencies multiply across a catalogue.</p>
+<ul>
+<li><strong>Use the same option names everywhere.</strong> Pick Colour or Color and stick with it. Mixing them makes filtering and reporting harder.</li>
+<li><strong>Order values logically.</strong> Sizes should run small to large, not in the order you happened to type them.</li>
+<li><strong>Keep values short and recognisable.</strong> Customers scan quickly. A value like Navy reads better than a long internal product code.</li>
+<li><strong>Be consistent with sizing.</strong> If some products use S, M, L and others use Small, Medium, Large, filters may treat them as different values.</li>
+</ul>
+<p>Consistent naming also helps if you use storefront filtering. Shopify can build filters from variant options, so tidy values lead to cleaner filters. See our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> for more on this.</p>
+
+<h2>SKUs, barcodes and stock</h2>
+<p>Every variant should have a unique SKU. It is the reference your team, your warehouse and any connected systems use to know exactly which item is which. A simple, predictable pattern works best, for example a short product code followed by colour and size abbreviations.</p>
+<p>Stock is tracked at the variant level, not the product level. That means a product can show as available while a particular size is sold out. Decide how you want to handle that:</p>
+<ul>
+<li>Show sold-out variants as unavailable but still visible, so customers know the size exists</li>
+<li>Hide unavailable combinations, if your theme supports it</li>
+<li>Allow continued selling for items you can restock quickly, with clear messaging about dispatch times</li>
+</ul>
+<p>Whatever you choose, make sure the product page tells customers clearly what is happening. Our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> goes into stock tracking and locations in more depth.</p>
+
+<h2>Variant images and the product page</h2>
+<p>When a customer picks a colour, they expect to see that colour. Assigning an image to each variant lets the theme switch the main image when the selection changes. Most modern themes support this, though the exact behaviour depends on the theme.</p>
+<p>A few points to check on your product pages:</p>
+<ul>
+<li>The image updates when a different variant is chosen</li>
+<li>The price updates if variants have different prices</li>
+<li>Sold-out combinations are clearly marked</li>
+<li>Selectors are easy to tap on a phone, with enough space between them</li>
+<li>Colour swatches, if used, have text labels or accessible names so they make sense to everyone</li>
+</ul>
+<p>Buttons or swatches tend to be easier to use than dropdowns for options with only a handful of values, because customers can see every choice at once. Dropdowns can work better for long lists such as many sizes. If you are unsure, test with real customers and watch where they hesitate.</p>
+
+<h2>Variants and SEO</h2>
+<p>All variants of a product share one product page and one main URL. Shopify can add a variant parameter to the URL when a customer selects an option, but the canonical tag normally points back to the main product URL. That is usually what you want: one strong page rather than many thin ones.</p>
+<p>A few things are worth thinking about:</p>
+<ul>
+<li><strong>Mention key variants in the description.</strong> If people search for a product in a specific colour or size, mention the available options naturally in the text.</li>
+<li><strong>Use descriptive image alt text.</strong> Describe what each variant image shows, including the colour.</li>
+<li><strong>Avoid duplicate products for the same thing.</strong> Creating separate products that are near identical can split attention between pages without a clear benefit.</li>
+<li><strong>Check structured data.</strong> Many themes output product data that includes variant prices and availability. Make sure it reflects reality.</li>
+</ul>
+<p>Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers product page optimisation more broadly.</p>
+
+<h2>Bulk editing and imports</h2>
+<p>For larger catalogues, editing variants one by one is slow. Shopify offers a bulk editor in the admin where you can change prices, SKUs and stock across many variants in a spreadsheet-style view. You can also export products to a CSV file, edit them and import them again.</p>
+<p>CSV imports are powerful but unforgiving. Each variant is a row, and the product handle ties rows together. A small mistake in the handle or option columns can create duplicate products or overwrite data. Before importing:</p>
+<ul>
+<li>Export a backup of your current products</li>
+<li>Test the import with a small number of products first</li>
+<li>Check option names and values match exactly what already exists</li>
+<li>Review a few products in the admin afterwards to confirm everything landed correctly</li>
+</ul>
+
+<h2>When you need more than the standard options</h2>
+<p>Standard variants suit fixed choices with their own stock. They are less suited to things like personalised text, gift messages or made-to-order configurations with many combinations. For those, shops typically use line item properties, where the customer adds information that travels with the order without creating a new variant. Your theme or a developer can add these fields to the product form.</p>
+<p>If you find yourself hitting variant limits or creating awkward workarounds, it is often a sign the catalogue structure needs rethinking rather than more options bolted on. Splitting a range into several products, using metafields for extra information, or combining products with a bundle approach can all help. Our guide to <a href="/blog/shopify-metafields-guide/">Shopify metafields</a> explains how to store extra product details cleanly.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>Leaving unsold combinations in place, so customers can select options that do not exist</li>
+<li>Using different option names for the same thing across products</li>
+<li>Missing or duplicate SKUs, which cause confusion in fulfilment</li>
+<li>Variant images not assigned, so the gallery does not change when a colour is picked</li>
+<li>Different prices per variant without the price updating clearly on the page</li>
+<li>Creating many near-identical products instead of one product with variants</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio helps UK brands plan and clean up their Shopify catalogues, from deciding how products and variants should be structured to improving product page templates so options are clear on every device. If your catalogue has grown messy or you are planning a migration, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help you set it up properly.</p>
+
+<h2>FAQs</h2>
+<h3>Can each Shopify variant have its own price?</h3>
+<p>Yes. Each variant can have its own price and compare-at price. Make sure your theme updates the displayed price when the customer changes their selection.</p>
+<h3>Does each variant get its own URL?</h3>
+<p>Variants share the main product page. A variant parameter may be added to the URL when an option is selected, but the canonical URL usually stays the main product page.</p>
+<h3>Should colours be variants or separate products?</h3>
+<p>It depends on your range. Colours are often variants when everything else is identical. Separate products can make sense when each colour has its own story, photography or search demand.</p>
+<h3>How do I stop customers choosing sold-out sizes?</h3>
+<p>Your theme can mark sold-out combinations as unavailable, and some themes can hide them. Check your theme settings, or ask a developer to adjust the product form.</p>
+<h3>Can I add personalisation without creating variants?</h3>
+<p>Yes. Line item properties let customers add details such as engraving text to an order without creating extra variants. These usually need a small theme change.</p>
+`,
+  },
+  {
+    slug: 'shopify-store-policies',
+    seoTitle: 'Shopify Store Policies: Refunds, Privacy, Terms and Shipping',
+    title: 'Shopify Store Policies: Setting Up Refund, Privacy and Shipping Pages',
+    description: 'How to set up refund, privacy, terms of service and shipping policies in Shopify, where they appear, and how to make them clear and easy for customers to find.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/shopify-checkout-settings/', '/blog/shopify-store-setup-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Store policies are not the most exciting part of running an online shop, but customers look for them more often than you might think. Before buying, many people want to know how returns work, when an order will arrive and what happens to their personal data. Clear policies answer those questions, reduce support emails and help customers feel confident placing an order.</p>
+<p>Shopify has a dedicated area for policies that connects them to checkout and other parts of your store. This guide explains how it works, what each policy usually covers and how to present them well. It is general guidance, not legal advice. Consumer protection and data protection rules can apply to UK online sellers, so take advice from a qualified professional on the exact wording for your business.</p>
+
+<h2>Where store policies live in Shopify</h2>
+<p>In the Shopify admin, go to Settings, then Policies. Here you can add and edit several standard policies, typically including:</p>
+<ul>
+<li>Refund policy</li>
+<li>Privacy policy</li>
+<li>Terms of service</li>
+<li>Shipping policy</li>
+<li>Contact information</li>
+</ul>
+<p>Shopify may offer templates for some of these. Templates are handy for getting the structure right, but they are generic. Read every line and change it to match how your business really operates. A policy that promises something you do not do causes more problems than it solves.</p>
+<p>Shopify also provides settings for return rules in some regions, which can tie your stated return window to how returns are handled in the admin. Check what is available for your store, as features vary over time and by plan.</p>
+
+<h2>Where policies appear for customers</h2>
+<p>Once saved, policies are published at their own URLs on your store. Shopify typically links them in the checkout so customers can read them before paying. Most themes also let you add them to the footer menu, which is where shoppers usually look.</p>
+<p>Check each of these places:</p>
+<ul>
+<li><strong>Footer menu.</strong> Add links to each policy in your footer navigation. Our guide to <a href="/blog/shopify-navigation-menus/">Shopify navigation menus</a> explains how to edit menus.</li>
+<li><strong>Checkout.</strong> Review the checkout to confirm the policy links appear and work.</li>
+<li><strong>Product pages.</strong> Short summaries, such as a line about delivery and returns near the add to cart button, help customers without making them leave the page.</li>
+<li><strong>Help or FAQ page.</strong> If you have one, link to the full policies from it.</li>
+</ul>
+
+<h2>Refund and returns policy</h2>
+<p>This is often the policy customers care about most. It should explain, in plain language:</p>
+<ul>
+<li>How long customers have to request a return</li>
+<li>What condition items need to be in</li>
+<li>Which items cannot be returned, such as personalised or perishable goods, where that is permitted</li>
+<li>How to start a return and where to send items</li>
+<li>Who pays for return postage</li>
+<li>How and when refunds are issued</li>
+<li>How exchanges work, if you offer them</li>
+</ul>
+<p>UK customers buying online may have statutory rights, including cancellation rights for many distance sales and rights when goods are faulty. Your policy cannot remove those rights. Your own returns offer can be more generous than the law requires, but it should not suggest customers have fewer rights than they do. A solicitor or a trusted trading standards resource can help you check this.</p>
+
+<h2>Privacy policy</h2>
+<p>Your privacy policy explains what personal data you collect, why, how long you keep it and who you share it with. For a Shopify store this usually includes order and payment details, account information, marketing preferences and data collected through cookies and analytics.</p>
+<p>Points to think about:</p>
+<ul>
+<li>List the categories of data you collect and the purpose of each</li>
+<li>Explain the services that process data on your behalf, such as payment, email and shipping providers, in general terms</li>
+<li>Describe how customers can access, correct or delete their data</li>
+<li>Explain your use of cookies and link to cookie controls where relevant</li>
+<li>Give a contact route for privacy questions</li>
+</ul>
+<p>UK data protection law may apply to your store, and requirements can depend on what you collect and how you use it. Treat the template as a draft and get it reviewed. Our guide to <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> covers how consent fits alongside your privacy policy.</p>
+<p>Every app or integration you add can change what data is collected. Review the privacy policy whenever you add or remove something significant. Our <a href="/blog/shopify-apps-audit/">Shopify apps audit guide</a> can help you keep track.</p>
+
+<h2>Terms of service</h2>
+<p>Terms of service set out the general rules for using your store and buying from you. They often cover:</p>
+<ul>
+<li>Who you are and how to contact you</li>
+<li>How orders are accepted and when a contract is formed</li>
+<li>Pricing, errors and availability</li>
+<li>Payment methods</li>
+<li>Limits on liability, where permitted</li>
+<li>Intellectual property in your content</li>
+<li>Which law governs the terms</li>
+</ul>
+<p>Terms are the most legal of the policies, and generic wording can conflict with consumer rights. Professional advice is worthwhile here, particularly if you sell internationally or to businesses as well as consumers.</p>
+
+<h2>Shipping policy</h2>
+<p>A shipping policy explains where you deliver, how much it costs and how long it takes. It should match your actual shipping settings in Shopify. If the checkout shows one price and the policy another, customers lose trust quickly.</p>
+<p>Include:</p>
+<ul>
+<li>The countries or regions you ship to</li>
+<li>Delivery options and how costs are calculated</li>
+<li>Typical dispatch and delivery times, worded carefully as estimates</li>
+<li>Any order cut-off times for same-day dispatch</li>
+<li>What happens if a parcel is lost or damaged</li>
+<li>Information on customs and import charges for international orders</li>
+</ul>
+<p>If you offer collection, explain how it works. Our guide to <a href="/blog/shopify-local-pickup/">Shopify local pickup</a> covers that set-up.</p>
+
+<h2>Contact information</h2>
+<p>Shopify includes a contact information policy where you can add your business name, address and contact details. Clear contact details help customers trust that a real business is behind the store. Depending on your business type, there may also be legal requirements about what information you display, so check what applies to you.</p>
+
+<h2>Writing policies customers will actually read</h2>
+<p>Policies are often written defensively and in dense legal language. A few habits make them far more useful:</p>
+<ul>
+<li><strong>Lead with a short summary.</strong> A few sentences at the top covering the essentials, followed by the full detail.</li>
+<li><strong>Use headings.</strong> Customers scan for the bit they need, such as how to return an item.</li>
+<li><strong>Use plain English.</strong> Write as you would explain it to a customer on the phone.</li>
+<li><strong>Keep the tone consistent with your brand.</strong> Policies can be clear and friendly without being casual about obligations.</li>
+<li><strong>Date your updates.</strong> Add a last updated note so customers know the information is current.</li>
+</ul>
+
+<h2>Policies for special product types</h2>
+<p>Some products need extra explanation beyond the standard pages. Personalised or made-to-order items may be treated differently for returns, and the reasons should be explained clearly. Subscriptions need clear information about billing, renewals and how to cancel. Pre-orders need honest wording about when items are expected to ship and what happens if dates move. Gift cards may need terms about expiry and use, and rules on these can vary, so check what applies before setting them.</p>
+<p>Where possible, explain these points on the product page as well as in the full policy, so customers see them before they buy rather than after. Our guide to <a href="/blog/shopify-pre-orders/">Shopify pre-orders</a> covers how to set expectations for items that are not yet in stock.</p>
+
+<h2>Keeping policies up to date</h2>
+<p>Policies drift out of date when the business changes but the text does not. Review them whenever you:</p>
+<ul>
+<li>Change couriers, delivery prices or delivery areas</li>
+<li>Start selling to new countries</li>
+<li>Add or remove apps that handle customer data</li>
+<li>Change your returns window or process</li>
+<li>Launch new product types, such as personalised items or subscriptions</li>
+</ul>
+<p>Setting a regular reminder to review your policies is a simple way to catch changes you might otherwise miss.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio sets up and improves Shopify stores for UK brands, including policy pages, footer navigation and product page messaging that makes delivery and returns information easy to find. We do not provide legal advice, but we can make sure your approved policies are presented clearly and linked in the right places. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help, and our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the wider launch checklist.</p>
+
+<h2>FAQs</h2>
+<h3>Can I just use the Shopify policy templates?</h3>
+<p>They are a useful starting point, but they are generic. Edit them to reflect how your business works and consider getting them reviewed by a qualified professional.</p>
+<h3>Where should policies appear on my store?</h3>
+<p>Link them in the footer, check they appear at checkout and add short delivery and returns summaries to product pages.</p>
+<h3>Do I need a privacy policy for a small shop?</h3>
+<p>If you collect personal data, which any store taking orders does, data protection rules may require you to explain how you use it. Take advice on what applies to your business.</p>
+<h3>Can my returns policy override customer rights?</h3>
+<p>Generally no. Statutory consumer rights may still apply regardless of what your policy says. Your policy can offer more, but should not suggest customers have fewer rights.</p>
+<h3>How often should I review my policies?</h3>
+<p>Whenever your shipping, returns, apps or markets change, and on a regular schedule in between.</p>
+`,
+  },
+  {
+    slug: 'website-dark-mode-design',
+    seoTitle: 'Website Dark Mode Design: A Practical Guide for Businesses',
+    title: 'Website Dark Mode Design: When to Offer It and How to Do It Well',
+    description: 'A practical guide to dark mode website design, covering when it is worth offering, colour and contrast choices, images, logos and testing across devices.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/mobile-website-design/', '/blog/brand-identity-design-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Many people now set their phones and computers to a dark appearance, and some websites follow suit, switching to light text on dark backgrounds automatically. Dark mode can look polished and feel easier on the eyes in low light. It can also double the design and testing work, and a rushed version can make a site harder to read.</p>
+<p>This guide looks at whether dark mode is worth it for a business website, how it works technically, and the design decisions that separate a good dark theme from a poor one.</p>
+
+<h2>What is dark mode on a website?</h2>
+<p>Dark mode is an alternative colour scheme that uses dark backgrounds with light text. On the web, it usually works in one of two ways:</p>
+<ul>
+<li><strong>Following the system setting.</strong> Browsers tell websites whether the visitor's device is set to light or dark. The site can then show the matching colour scheme automatically.</li>
+<li><strong>A manual toggle.</strong> The site offers a switch so visitors can choose, often remembering their preference for next time.</li>
+</ul>
+<p>Many sites combine both: follow the system setting by default and offer a toggle to override it.</p>
+<p>Some browsers can also force a dark appearance on sites that do not provide one. The results vary and can look odd, which is one reason some businesses decide to design a proper dark theme rather than leave it to chance.</p>
+
+<h2>Does your website need dark mode?</h2>
+<p>Dark mode is not a requirement, and plenty of excellent websites only offer one appearance. It tends to make more sense when:</p>
+<ul>
+<li>Visitors spend a long time reading or working on the site, such as documentation, dashboards or web apps</li>
+<li>Your audience is likely to use the site in the evening or in low light</li>
+<li>Your audience is technical and expects it</li>
+<li>Your brand already leans towards a dark look</li>
+</ul>
+<p>It may be lower priority for brochure sites where visits are short, or for shops where product photography is designed around a light background. In those cases, the effort might be better spent on speed, content or checkout improvements.</p>
+<p>If you are unsure, consider what your visitors do on the site and how long they stay. A dark theme that is half finished is worse than no dark theme at all.</p>
+
+<h2>Designing a dark colour palette</h2>
+<p>The biggest mistake is simply inverting the light design: swapping white for black and black for white. That tends to produce harsh contrast and colours that look wrong.</p>
+<h3>Use dark greys, not pure black</h3>
+<p>Many designers use a very dark grey rather than pure black for the main background. Pure white text on pure black can feel harsh for long reading. A slightly softened background and off-white text are often more comfortable.</p>
+<h3>Show depth with lighter surfaces</h3>
+<p>In light designs, shadows show that a card or menu sits above the page. Shadows are hard to see on dark backgrounds, so dark themes often use slightly lighter surfaces for raised elements instead.</p>
+<h3>Adjust brand colours</h3>
+<p>Brand colours chosen for a white background may look too bright, too dull or unreadable on dark. You may need lighter or less saturated versions of the same hues for dark mode. Agree these variations as part of your brand system so they are used consistently. Our guide to <a href="/blog/brand-identity-design-uk/">brand identity design</a> covers how colour systems fit into a brand.</p>
+<h3>Plan colours as tokens</h3>
+<p>Rather than hard-coding colours throughout the site, define named colour tokens such as background, surface, text, muted text, border and accent, each with a light and dark value. This makes dark mode far easier to build and maintain, and keeps future changes consistent.</p>
+
+<h2>Contrast and readability</h2>
+<p>Text must remain readable in both modes. Check contrast for:</p>
+<ul>
+<li>Body text and headings against backgrounds</li>
+<li>Muted or secondary text, which often fails in dark themes</li>
+<li>Links, in both their normal and visited states</li>
+<li>Button text and button backgrounds</li>
+<li>Form fields, placeholders and error messages</li>
+<li>Focus outlines for keyboard users</li>
+</ul>
+<p>Accessibility guidelines set minimum contrast levels, and a dark theme needs to meet them just as the light one does. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> also covers readability on smaller screens, where dark mode is often used.</p>
+<p>Keep in mind that some people find light text on dark backgrounds harder to read, particularly for long passages. Respecting the visitor's own setting, and offering a toggle, lets each person choose what works for them.</p>
+
+<h2>Logos, icons and images</h2>
+<h3>Logos</h3>
+<p>A dark logo on a dark background disappears. You will usually need a light or reversed version of the logo for dark mode. Many brands already have one for use on dark backgrounds. Check the favicon too, as browsers may show it against a dark tab bar.</p>
+<h3>Icons and illustrations</h3>
+<p>Simple icons can often change colour automatically if they are built to inherit the text colour. Illustrations with white backgrounds may look like bright boxes on a dark page and may need alternative versions or transparent backgrounds.</p>
+<h3>Photography</h3>
+<p>Photos generally stay as they are. However, product photos shot on white backgrounds will appear as white rectangles in a dark theme. For shops, this is an important consideration. Options include placing product images on a light card even in dark mode, or accepting the contrast as part of the design.</p>
+<h3>Charts and diagrams</h3>
+<p>Charts need colours that work on both backgrounds, along with axis lines and labels that remain visible.</p>
+
+<h2>Technical considerations</h2>
+<p>A developer will usually build dark mode using the browser's colour scheme preference and CSS custom properties for colour tokens. A few practical points:</p>
+<ul>
+<li><strong>Avoid a flash of the wrong theme.</strong> If a visitor has chosen dark mode, the page should not briefly appear light before switching. This needs care in how the preference is loaded.</li>
+<li><strong>Remember the preference.</strong> A manual toggle should remember the visitor's choice on return visits.</li>
+<li><strong>Style form controls.</strong> Browsers can adapt built-in controls such as checkboxes and scrollbars if the site declares support for both colour schemes.</li>
+<li><strong>Check embedded content.</strong> Maps, videos, booking widgets and other embeds may not follow your theme and can look out of place.</li>
+<li><strong>Check emails separately.</strong> Email clients handle dark mode in their own ways, so transactional and marketing emails need testing on their own.</li>
+</ul>
+<p>Content management systems vary in how easily they support dark mode. Some themes include it, while others need custom work.</p>
+
+<h2>Testing dark mode</h2>
+<p>Dark mode effectively creates a second version of every page. Testing should cover:</p>
+<ul>
+<li>Every template, not just the homepage</li>
+<li>Navigation menus, dropdowns and the mobile menu</li>
+<li>Forms, including validation messages</li>
+<li>Pop-ups, cookie banners and notifications</li>
+<li>The basket and checkout on an ecommerce site</li>
+<li>Pages with embedded content</li>
+<li>Different browsers and devices</li>
+</ul>
+<p>Switch your own device to dark mode for a while and use the site normally. Problems that are easy to miss in a quick check become obvious with everyday use.</p>
+
+<h2>Designing the toggle</h2>
+<p>If you offer a manual switch, make it easy to find and easy to understand. A small icon in the header or footer is common, but icons alone can be ambiguous, so give the control an accessible label that describes what it does. Some sites offer three choices: light, dark and follow system. That gives visitors full control while keeping a sensible default for those who never touch it.</p>
+<p>Keep the toggle in the same place on every page and make sure it works with a keyboard as well as a mouse or touch.</p>
+
+<h2>Common dark mode mistakes</h2>
+<ul>
+<li>Inverting the light theme rather than designing a dark palette</li>
+<li>Muted text that becomes unreadable on dark backgrounds</li>
+<li>Dark logos that vanish</li>
+<li>White-background images that glare</li>
+<li>Forgotten components, such as old pop-ups, still showing light</li>
+<li>Third-party embeds that clash with the theme</li>
+<li>No way for visitors to switch back if they prefer light</li>
+</ul>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio designs and builds websites for UK businesses, including colour systems that work across light and dark appearances. We can advise on whether dark mode is worth it for your audience and, if it is, build it properly with accessible contrast and consistent branding. Talk to our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team to find out more.</p>
+
+<h2>FAQs</h2>
+<h3>Is dark mode better for accessibility?</h3>
+<p>It helps some people and not others. Offering both appearances, with good contrast in each, and respecting the visitor's own setting is usually the most inclusive approach.</p>
+<h3>Does dark mode affect SEO?</h3>
+<p>Dark mode is a visual preference and is not a ranking factor in itself. What matters is that content stays readable and the site remains fast and usable.</p>
+<h3>Should dark mode follow the device setting?</h3>
+<p>Following the device setting is a sensible default. Adding a toggle lets visitors override it if they prefer.</p>
+<h3>Do I need a different logo for dark mode?</h3>
+<p>Usually yes, if your main logo is dark. A light or reversed version keeps it visible on dark backgrounds.</p>
+<h3>Can I add dark mode to an existing site?</h3>
+<p>Often, yes, but it is easier if colours are organised as tokens. Sites with colours hard-coded throughout may need more work first.</p>
+`,
+  },
+  {
+    slug: 'wordpress-automatic-updates',
+    seoTitle: 'WordPress Automatic Updates: What to Turn On and When',
+    title: 'WordPress Automatic Updates: Core, Plugins and Themes Explained',
+    description: 'How WordPress automatic updates work for core, plugins and themes, the trade-offs between safety and stability, and how to set a sensible update routine.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-security-uk/', '/blog/wordpress-plugin-audit/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Keeping WordPress up to date is one of the simplest ways to protect a site. Updates fix security issues, resolve bugs and keep everything compatible. The question most site owners face is not whether to update, but how: automatically in the background, or manually after checking each change.</p>
+<p>WordPress has built-in automatic updates for core software, plugins and themes. This guide explains how they work, the trade-offs involved and how to choose a routine that suits your site.</p>
+
+<h2>What can WordPress update automatically?</h2>
+<p>There are three main parts of a WordPress site that receive updates:</p>
+<ul>
+<li><strong>WordPress core.</strong> The main software. Updates are split into minor releases, which are usually maintenance and security fixes, and major releases, which add features.</li>
+<li><strong>Plugins.</strong> Each plugin is updated by its own developer on its own schedule.</li>
+<li><strong>Themes.</strong> Your active theme and any installed themes also receive updates.</li>
+</ul>
+<p>Translation files can update too, usually without anyone noticing.</p>
+<p>By default, WordPress has long applied minor core updates automatically on most sites. Whether major core updates install automatically depends on your version and settings. Plugin and theme auto-updates are off by default but can be switched on for each one individually.</p>
+
+<h2>Where to find the settings</h2>
+<h3>Core updates</h3>
+<p>Go to Dashboard, then Updates. Depending on your set-up, you may see an option to keep the site updated automatically with all new versions of WordPress, or only maintenance and security releases. Some hosts manage core updates for you and may change what you see here.</p>
+<h3>Plugin updates</h3>
+<p>On the Plugins screen, each plugin has an option to enable or disable auto-updates. You can also apply this to several plugins at once using bulk actions.</p>
+<h3>Theme updates</h3>
+<p>Under Appearance, then Themes, open the details for a theme to find its auto-update toggle.</p>
+<p>Developers can also control updates in code through configuration settings and filters, which can override what appears in the dashboard. If the toggles are missing or greyed out, your host or developer has probably set a policy at that level.</p>
+
+<h2>The case for automatic updates</h2>
+<p>The main benefit is speed. When a security fix is released, sites that update automatically get it without waiting for someone to log in. For sites that are rarely checked, this can make a real difference.</p>
+<p>Automatic updates also remove the build-up of pending updates. A site left for months can accumulate many outdated components, and updating them all at once is riskier than updating gradually.</p>
+<p>Our guide to <a href="/blog/wordpress-security-uk/">WordPress security</a> explains why outdated software is a concern.</p>
+
+<h2>The case for manual updates</h2>
+<p>The trade-off is control. Occasionally an update introduces a conflict with another plugin, your theme or custom code. With automatic updates, you may only find out when a customer reports a problem.</p>
+<p>Sites with more at stake from downtime, such as online shops, booking systems and sites with custom functionality, often prefer to review updates first. Manual updates let you:</p>
+<ul>
+<li>Read the changelog before updating</li>
+<li>Test on a staging copy of the site</li>
+<li>Choose a quiet time to update</li>
+<li>Check key pages and forms immediately afterwards</li>
+</ul>
+<p>The risk is that manual updates get forgotten. A manual policy only works if someone is responsible for it and does it regularly.</p>
+
+<h2>A balanced approach</h2>
+<p>Many sites end up with a mix. One common pattern is:</p>
+<ul>
+<li><strong>Minor core updates automatic.</strong> These are generally small fixes.</li>
+<li><strong>Major core updates manual,</strong> applied after checking compatibility, ideally on staging first.</li>
+<li><strong>Simple, well-maintained plugins automatic,</strong> where a problem would be low impact.</li>
+<li><strong>Critical plugins manual,</strong> such as ecommerce, membership, forms and page builders, tested before going live.</li>
+<li><strong>Themes manual</strong> if they have been customised, or automatic if you use a child theme and the parent is stable.</li>
+</ul>
+<p>There is no single right answer. The best approach depends on how complex your site is, how often someone checks it and how much disruption a fault would cause.</p>
+
+<h2>Safety nets that matter more than the setting</h2>
+<p>Whichever approach you choose, a few safeguards make updates far less stressful.</p>
+<h3>Backups</h3>
+<p>Take regular automated backups of both files and database, stored away from the server. Before manual updates, take a fresh backup. Check occasionally that backups can actually be restored.</p>
+<h3>Staging site</h3>
+<p>A staging site is a private copy of your live site where you can test updates. Many hosts offer one-click staging. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for.</p>
+<h3>Uptime and error monitoring</h3>
+<p>Monitoring tells you quickly if the site goes down. WordPress also emails the site administrator when automatic updates run, and may send a notice if a plugin update fails. Make sure the admin email address is one someone actually reads.</p>
+<h3>Recovery mode</h3>
+<p>If a plugin or theme causes a fatal error, WordPress can send a recovery mode link to the admin email. This lets you log in and deactivate the problem plugin even when the site is showing an error.</p>
+<h3>Site Health</h3>
+<p>The Site Health screen flags outdated software and other issues. Our guide to the <a href="/blog/wordpress-site-health-screen/">WordPress Site Health screen</a> explains how to read it.</p>
+
+<h2>Reducing what needs updating</h2>
+<p>Every plugin and theme is something else to keep updated. Removing what you do not need reduces both risk and maintenance work. Delete inactive plugins and unused themes rather than leaving them deactivated, keeping one default theme as a fallback if you wish. Replace abandoned plugins that no longer receive updates.</p>
+<p>Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> walks through how to review what you have installed.</p>
+
+<h2>Premium plugins and themes</h2>
+<p>Plugins and themes bought from outside the official WordPress directory often need an active licence key to receive updates. If a licence lapses, updates may stop arriving without obvious warning. Keep a record of licences and renewal dates, and check that premium components are updating like everything else.</p>
+
+<h2>Custom code and updates</h2>
+<p>Sites with custom functionality need extra care. Code added directly to a parent theme is lost when that theme updates, which is one reason developers use child themes or small custom plugins instead. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains the approach.</p>
+<p>Custom plugins written for your site do not receive updates from the WordPress directory. They need maintaining by whoever built them, especially when major WordPress or PHP versions change. If nobody is responsible for that code, it can become the weak point in an otherwise up-to-date site.</p>
+
+<h2>PHP and server software</h2>
+<p>WordPress runs on PHP and a database server, and these need updating too. They are usually managed by your host rather than from the WordPress dashboard. Older PHP versions eventually stop receiving security fixes, and newer plugins may require a more recent version. The Site Health screen shows which PHP version your site is running.</p>
+<p>Changing PHP version can affect older plugins and themes, so test on staging first if you can. Many hosts let you switch PHP version from their control panel and switch back if something goes wrong.</p>
+
+<h2>Who is responsible?</h2>
+<p>Updates often slip because nobody is clearly responsible. If you work with a developer or agency, agree in writing who handles updates, how often, what testing happens and how problems are reported. If you manage the site yourself, put a recurring reminder in your calendar and keep a simple log of what was updated and when. A log makes it much easier to trace a problem back to the update that caused it.</p>
+
+<h2>After an update: what to check</h2>
+<p>A quick post-update check catches most problems early:</p>
+<ul>
+<li>Load the homepage and a few key pages</li>
+<li>Submit a contact form and confirm the message arrives</li>
+<li>For shops, add a product to the basket and step through checkout</li>
+<li>Log in to the admin and check the editor loads</li>
+<li>Look at the site on a phone</li>
+</ul>
+<p>With automatic updates, schedule this check regularly, for example after the update notification emails arrive.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio maintains WordPress sites for UK businesses, including update routines, backups, staging and monitoring tailored to each site. If updates feel risky or keep getting put off, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can set up a process that keeps your site current without the worry.</p>
+
+<h2>FAQs</h2>
+<h3>Are WordPress automatic updates safe?</h3>
+<p>They are generally reliable, and minor core updates are designed to be low risk. Any update can occasionally cause a conflict, so backups and monitoring are important.</p>
+<h3>Should I turn on auto-updates for all plugins?</h3>
+<p>Not necessarily. Many sites enable them for simple plugins and update critical ones, such as ecommerce or forms, manually after testing.</p>
+<h3>Why can I not see the auto-update option?</h3>
+<p>Your host or developer may control updates at the server or configuration level, which can hide or override the dashboard settings.</p>
+<h3>What happens if an automatic update breaks my site?</h3>
+<p>WordPress may send a recovery mode email to the admin address so you can deactivate the problem. You can also restore from a backup.</p>
+<h3>Do I still need to check my site if updates are automatic?</h3>
+<p>Yes. Automatic updates save time, but a regular check of key pages and forms makes sure nothing has quietly stopped working.</p>
+`,
+  },
+  {
+    slug: 'wordpress-site-editor-styles',
+    seoTitle: 'WordPress Global Styles: Fonts and Colours in Block Themes',
+    title: 'WordPress Site Editor Styles: Managing Global Fonts and Colours',
+    description: 'How global styles work in the WordPress Site Editor, including fonts, colour palettes, spacing and style variations, and how to keep a block theme on brand.',
+    date: '2026-11-01',
+    category: 'Guides',
+    related: ['/blog/wordpress-block-editor-guide/', '/blog/wordpress-child-themes/', '/services/website-ecommerce-development/'],
+    body: `
+<p>If your WordPress site uses a block theme, much of its look is controlled from one place: the Styles panel in the Site Editor. From there you can set fonts, colours, spacing and the appearance of individual blocks for the whole site, without touching code. Used well, global styles keep every page consistent and on brand. Used carelessly, they can produce a site where every page looks slightly different and nobody is sure why.</p>
+<p>This guide explains how global styles work, what you can control, and how to set them up so your team can edit content confidently without breaking the design.</p>
+
+<h2>What are global styles?</h2>
+<p>Global styles are site-wide design settings in block themes. Instead of styling each block on each page, you define defaults once: the body font, heading sizes, link colours, button styles, spacing and so on. Every block then inherits those defaults unless someone overrides them.</p>
+<p>The settings come from three layers:</p>
+<ul>
+<li><strong>The theme.</strong> A block theme ships with a configuration file that defines available fonts, colours, sizes and default styles.</li>
+<li><strong>User customisations.</strong> Changes you make in the Styles panel are saved to the database and sit on top of the theme defaults.</li>
+<li><strong>Individual blocks.</strong> Editors can still change the style of a single block on a single page, which overrides both of the above.</li>
+</ul>
+<p>Understanding these layers helps when something looks wrong. If a heading is the wrong colour, the cause could be in any of them.</p>
+
+<h2>Finding the Styles panel</h2>
+<p>In a block theme, go to Appearance, then Editor, then Styles. You will see a preview of the site alongside options for typography, colours, layout and blocks. Changes preview immediately and only go live when you save.</p>
+<p>If you do not see the Site Editor, your site is probably using a classic theme. Classic themes handle design through the Customizer or theme options instead. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> explains the difference between the editing experiences.</p>
+
+<h2>Typography</h2>
+<p>The typography section controls fonts and text sizes for the site and for specific elements such as headings, links, captions and buttons.</p>
+<h3>Choosing fonts</h3>
+<p>Recent WordPress versions include a font library where you can manage the fonts available to your site, including uploading font files you have the right to use. Keep the selection small. One font for headings and one for body text is usually plenty, and every extra font adds weight to your pages.</p>
+<p>Check the licence for any font before uploading it. Some fonts are free for web use, others require a licence, and terms vary. If in doubt, ask whoever supplied your brand guidelines.</p>
+<h3>Setting a type scale</h3>
+<p>Block themes define a set of font sizes, often labelled small, medium, large and so on. Editors pick from these in the block toolbar. A clear, limited scale stops pages ending up with dozens of slightly different text sizes. Many block themes also support fluid typography, where text sizes adjust smoothly between small and large screens.</p>
+<h3>Headings and line height</h3>
+<p>Set heading styles at the element level so every H2 looks the same across the site. Check line height and letter spacing too. Generous line height on body text helps readability, especially on mobile.</p>
+
+<h2>Colours</h2>
+<p>The colour section has two parts: the palette and the element colours.</p>
+<h3>The palette</h3>
+<p>The palette is the set of colours editors can choose from when styling blocks. A theme provides a default palette, and you can add custom colours. For brand consistency, define your brand colours here with clear names such as Primary, Accent and Neutral, and consider disabling the option for editors to pick any custom colour if your theme allows.</p>
+<h3>Element colours</h3>
+<p>Element colours set the defaults for text, background, links, headings, buttons and captions. Set these deliberately so a new page looks right before anyone touches the colour controls.</p>
+<h3>Contrast</h3>
+<p>Every combination of text and background needs enough contrast to be readable. The editor may warn about low contrast in some places, but do not rely on it. Check key combinations, including link colours, button text and text on coloured backgrounds, with a contrast checker. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers why this matters.</p>
+
+<h2>Layout and spacing</h2>
+<p>The layout section controls content width, wide width and spacing between blocks. Content width is the default width of text, while wide width applies to blocks set to wide alignment.</p>
+<p>Spacing presets work like font sizes: the theme defines a scale and editors pick from it. Consistent spacing is one of the quieter signals that a site has been designed carefully. Setting block gap and padding defaults globally means editors rarely need to adjust spacing by hand.</p>
+
+<h2>Styling individual block types</h2>
+<p>Under Blocks in the Styles panel you can set defaults for each block type. For example, you might give every Quote block a particular border and font style, or make every Button block use your brand colour with rounded corners.</p>
+<p>This is more powerful than styling blocks one at a time on the page. When you change the default, every instance across the site updates. It also reduces the temptation for editors to restyle blocks individually.</p>
+<p>Some blocks also support block style variations, which are alternative looks you can switch between, such as an outline button versus a filled one.</p>
+
+<h2>Style variations</h2>
+<p>Many block themes include style variations: complete alternative sets of fonts and colours that you can switch between in one click. They are a quick way to try a different look, but switching variation on a live site changes everything at once. Preview carefully and save only when you are sure.</p>
+<p>Developers can also create custom style variations for a brand, for example a seasonal palette, so the change can be made and reversed cleanly.</p>
+
+<h2>Where changes are stored, and why it matters</h2>
+<p>Customisations made in the Styles panel are saved in the database, not in the theme files. This has a few consequences:</p>
+<ul>
+<li><strong>Theme updates do not overwrite them.</strong> Your customisations sit on top of the theme.</li>
+<li><strong>They do not travel with the theme files.</strong> If you move the theme to another site, your customisations stay behind unless you export them.</li>
+<li><strong>They can be reset.</strong> The Styles panel has an option to reset to theme defaults, which removes your changes.</li>
+</ul>
+<p>Back up the database regularly and keep a note of key design decisions. For more permanent changes, a developer can move styles into a child theme so they live in version-controlled files. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains the approach.</p>
+<p>The editor also keeps a revision history for global styles, so you can look back at earlier versions and restore one if a change goes wrong.</p>
+
+<h2>Keeping editors on brand</h2>
+<p>Global styles work best when combined with sensible limits on what editors can change. Options include:</p>
+<ul>
+<li>Restricting the colour palette to brand colours only</li>
+<li>Disabling custom font sizes so editors use the defined scale</li>
+<li>Using patterns and synced patterns for common layouts</li>
+<li>Locking parts of templates that should not change</li>
+<li>Giving most users editor or author roles rather than administrator access</li>
+</ul>
+<p>Our guides to <a href="/blog/wordpress-synced-patterns/">WordPress synced patterns</a> and <a href="/blog/wordpress-user-roles/">WordPress user roles</a> go into these options in more detail.</p>
+
+<h2>Common problems and fixes</h2>
+<h3>A block ignores the global style</h3>
+<p>Someone has probably set a style on that block directly. Select the block and clear its custom colour or typography settings so it inherits the defaults again.</p>
+<h3>Fonts look different from the brand guidelines</h3>
+<p>Check that the correct font files and weights are installed. If a weight is missing, the browser may fake it, which often looks wrong.</p>
+<h3>Changes do not appear on the live site</h3>
+<p>Clear any caching on the site or server. Caching layers often hold onto old stylesheets.</p>
+<h3>The site looks different after a theme update</h3>
+<p>The theme may have changed its defaults. Your customisations should remain, but anything you had not customised will follow the new theme defaults.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses, including block theme set-up, brand-aligned global styles and editor guardrails that keep content consistent. If your site has drifted off brand or you are moving to a block theme, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can help.</p>
+
+<h2>FAQs</h2>
+<h3>Do global styles work with classic themes?</h3>
+<p>No. The Styles panel is part of the Site Editor, which is available with block themes. Classic themes use the Customizer or their own settings instead.</p>
+<h3>Will updating my theme remove my style changes?</h3>
+<p>Changes made in the Styles panel are stored separately in the database, so a theme update should not remove them. Theme defaults you have not customised may change, so review the site after updates.</p>
+<h3>Can I upload my brand font?</h3>
+<p>Recent WordPress versions let you upload font files through the font library. Check that your font licence allows web use first.</p>
+<h3>How do I undo a style change?</h3>
+<p>Use the revision history in the Styles panel to restore an earlier version, or reset to theme defaults if you want to start again.</p>
+<h3>Should editors be able to pick any colour?</h3>
+<p>Usually not. Restricting choices to a brand palette keeps the site consistent and helps make sure colour combinations remain readable.</p>
+`,
+  },
 ];
