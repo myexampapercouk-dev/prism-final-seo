@@ -40911,4 +40911,601 @@ module.exports = [
 <p>Fonts themselves are not a ranking factor, but page experience can play a part. Faster, more stable pages are better for visitors either way.</p>
 `,
   },
+  {
+    slug: 'shopify-product-csv-import',
+    seoTitle: 'Shopify Product CSV Import and Export: A UK Guide',
+    title: 'Shopify Product CSV Import and Export: How to Bulk Edit Products Safely',
+    description: 'How to use Shopify product CSV import and export to bulk add or edit products safely, avoid duplicate listings and check your store after every upload.',
+    date: '2026-11-06',
+    category: 'Website & Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Shopify lets you add and edit products in bulk using a CSV file, a plain spreadsheet format that you can open in Excel, Numbers or Google Sheets. For a UK small business with dozens or hundreds of products, the CSV route can save hours of clicking through product pages one at a time. It can also cause real damage if a column is wrong, because one upload can overwrite many products at once.</p>
+<p>This guide explains how product CSV import and export works in Shopify, how to prepare a file, how to avoid the usual mistakes and how to check your store afterwards. If you are still setting up your shop, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the wider picture first.</p>
+
+<h2>What the product CSV is for</h2>
+<p>The product CSV is a structured list of your products. Each row describes a product or one of its variants, and each column holds a field such as title, description, vendor, product type, tags, price, SKU, weight or image address. Shopify reads the file and creates or updates products to match.</p>
+<p>Typical reasons to use it include:</p>
+<ul>
+<li><strong>Launching a new store</strong> with a product range prepared in a spreadsheet.</li>
+<li><strong>Moving from another platform</strong> where you can export products in a spreadsheet format.</li>
+<li><strong>Bulk changes</strong> such as updating many prices, adding tags across a range or correcting product types.</li>
+<li><strong>Keeping an offline record</strong> of your catalogue at a point in time.</li>
+</ul>
+<p>For smaller edits, the bulk editor inside the Shopify admin is often safer, because you can see each change on screen before saving. The CSV is better when the change is large, repetitive or comes from another system.</p>
+
+<h2>Start with an export, not a blank file</h2>
+<p>The safest way to build an import file is to begin with an export from your own store. Go to Products, choose Export, and select all products or the current selection. Shopify emails or downloads a CSV with the correct column headings for your store.</p>
+<p>This matters for two reasons. First, the export gives you a backup of how your products looked before any change. Keep it somewhere safe and name it with the date. Second, it gives you the exact header row Shopify expects, so you are not guessing column names.</p>
+<p>If you are adding new products to an empty store, export the sample template Shopify offers, or export a single product you created by hand, and use that as your starting layout.</p>
+
+<h2>Understanding the key columns</h2>
+<p>You do not need to fill every column, but a few deserve care.</p>
+<h3>Handle</h3>
+<p>The handle is the unique identifier for a product and forms part of its web address. Shopify uses it to decide whether a row updates an existing product or creates a new one. If you change a handle in the CSV, Shopify may treat it as a new product and you can end up with duplicates. If you want to change a product address, do it in the admin and set up a redirect, as explained in our <a href="/blog/shopify-url-redirects/">Shopify URL redirects guide</a>.</p>
+<h3>Variant rows</h3>
+<p>A product with several sizes or colours uses one row per variant. The first row holds the product details, such as title and description, and the following rows repeat the handle and fill in only the variant fields: option values, SKU, price, weight and inventory settings. Our <a href="/blog/shopify-product-variants/">Shopify product variants guide</a> explains how options and variants relate.</p>
+<h3>Option names and values</h3>
+<p>Option names such as Size or Colour must be consistent across a product. A small spelling difference, or an extra space, can create a new option rather than matching the existing one.</p>
+<h3>Images</h3>
+<p>Image columns take a publicly reachable web address for each image. Shopify fetches the image during import. If the address is wrong or private, the image will not appear. Extra images for the same product go on additional rows with the same handle.</p>
+<h3>Status and published</h3>
+<p>These columns control whether a product is active, a draft or archived, and whether it appears on your online store. Importing new products as drafts gives you time to review them before customers see them.</p>
+<h3>Tags</h3>
+<p>Tags are a comma separated list in one cell. An import usually replaces the tags on a product rather than adding to them, so include every tag you want to keep. Our <a href="/blog/shopify-product-tags/">Shopify product tags guide</a> covers how to plan them.</p>
+
+<h2>Preparing the file without breaking it</h2>
+<p>Spreadsheet programs try to be helpful, and that can corrupt a product file. A few habits help:</p>
+<ul>
+<li><strong>Save as CSV with UTF-8 encoding</strong> so that pound signs, accented letters and curly quotes survive.</li>
+<li><strong>Watch for leading zeros</strong> in SKUs and barcodes. Some programs strip them or turn long numbers into scientific notation. Format those columns as text before pasting data in.</li>
+<li><strong>Do not reorder or rename header cells.</strong> Leave the header row exactly as exported.</li>
+<li><strong>Keep variant rows together</strong> directly under their parent product row.</li>
+<li><strong>Remove columns you are not changing</strong> only if you understand how Shopify treats missing columns. When in doubt, leave the exported values as they are.</li>
+<li><strong>Check descriptions for HTML.</strong> The description column holds HTML. Broken tags can spill formatting across a product page.</li>
+</ul>
+<p>If several people work on the catalogue, agree who owns the master file and keep dated copies, so nobody imports an old version over newer edits.</p>
+
+<h2>Running the import</h2>
+<p>In the admin, go to Products and choose Import. Upload your file. Shopify offers an option to overwrite products that have the same handle. Tick it only if you intend to update existing products. If it is left unticked, rows matching an existing handle may be skipped.</p>
+<p>Shopify shows a preview of the first product before you confirm. Read it properly. Check the title, price, variants and images look right. If anything is off, cancel and fix the file rather than hoping the rest is fine.</p>
+<p>Large imports can take a while to process, and Shopify will tell you when the job finishes and whether any rows failed. Read the error messages carefully. They usually point to a specific row and column.</p>
+
+<h2>Test small before you go big</h2>
+<p>Before importing hundreds of rows, import a file containing two or three products, ideally one simple product and one with variants and several images. Check them thoroughly in the admin and on the storefront. Once those look correct, run the full file.</p>
+<p>If you have access to a development or staging copy of your store, test there first. Our <a href="/blog/website-staging-and-testing/">website staging and testing guide</a> explains why a safe test area is worth having.</p>
+
+<h2>Inventory is a separate job</h2>
+<p>Stock levels are usually handled through a separate inventory export and import, because stock can be held at more than one location. Mixing product edits and stock changes in one go makes mistakes harder to spot. Treat them as two steps and check each. Our <a href="/blog/shopify-inventory-management/">Shopify inventory management guide</a> covers locations and stock tracking in more detail.</p>
+
+<h2>Checking your store after an import</h2>
+<p>After every import, work through a short checklist:</p>
+<ul>
+<li>Search the admin for duplicate product titles that might signal a changed handle.</li>
+<li>Open a sample of products and check each variant price, compare at price and SKU.</li>
+<li>Look at images on the storefront, on desktop and on mobile.</li>
+<li>Check collections, especially automated collections that rely on tags, type or vendor.</li>
+<li>Check product filters still work, since they depend on consistent data.</li>
+<li>Confirm draft and active statuses are what you expected.</li>
+<li>Check any sales channels that sync products, such as a shopping feed, for errors.</li>
+</ul>
+<p>If something has gone wrong, your pre-import export is your record of how things looked. Shopify does not offer a one click undo for imports, so fixes may mean editing in the admin or importing a corrected file.</p>
+
+<h2>Using CSV files when migrating to Shopify</h2>
+<p>When moving from another platform, a product export from the old system rarely matches Shopify columns directly. You will usually need to map fields, split variants into separate rows and rewrite handles so they match your planned URL structure. This is also the moment to plan redirects from old product addresses so you do not lose search visibility. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> and <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> cover that process.</p>
+
+<h2>When to get help</h2>
+<p>CSV work is manageable for many owners, but it carries risk on large catalogues, complex variants or stores with many collections and integrations. Prism Works Studio can prepare and check product files, run imports on a test copy first and review the store afterwards, as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+
+<h2>FAQs</h2>
+<h3>Can I undo a Shopify product import?</h3>
+<p>There is no simple undo button. That is why exporting a backup first matters. You can use the backup to restore values by hand or by importing a corrected file.</p>
+<h3>Why did my import create duplicate products?</h3>
+<p>Duplicates usually come from changed or mistyped handles. Shopify matches on handle, so a different handle is treated as a new product.</p>
+<h3>Why are my images missing after import?</h3>
+<p>The image address may be private, misspelt or no longer available. Shopify needs to reach each image address at the time of import.</p>
+<h3>Should I use CSV or the bulk editor?</h3>
+<p>For a handful of changes, the bulk editor is easier to check on screen. For large or repeated changes, or data from another system, a CSV is often quicker.</p>
+<h3>Can I update stock levels in the product CSV?</h3>
+<p>Stock is normally managed through the separate inventory export and import, which handles multiple locations more clearly.</p>
+<p>If you want a second pair of eyes before a big catalogue upload, <a href="/contact/">get in touch with Prism Works Studio</a> and we will talk it through.</p>
+`,
+  },
+  {
+    slug: 'website-accordions-and-tabs',
+    seoTitle: 'Website Accordions and Tabs: When and How to Use Them',
+    title: 'Website Accordions and Tabs: When to Use Them and How to Design Them Well',
+    description: 'When website accordions and tabs help visitors and when they hide too much, with practical design, mobile, accessibility and SEO tips for small business sites.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/website-faq-page/', '/blog/mobile-website-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Accordions and tabs are two of the most familiar components in web design. An accordion shows a list of headings that expand when clicked. A set of tabs shows one panel at a time, with labels along the top to switch between them. Both promise the same thing: lots of content in less space.</p>
+<p>That promise is appealing when a page starts to feel long, but there is a trade-off. Anything collapsed is content a visitor may never open. This guide explains when these components help, when they get in the way, how to choose between them, and how to build them so they work on phones, with keyboards and for screen readers. It applies whichever platform your site uses.</p>
+
+<h2>What accordions and tabs are for</h2>
+<p>Both patterns use what designers call progressive disclosure. Rather than showing everything at once, you show an overview and let people reveal details as they need them. This suits content where different visitors want different pieces, and few want all of it.</p>
+<p>Typical uses on a small business website include:</p>
+<ul>
+<li>Frequently asked questions on a service or support page.</li>
+<li>Product details such as materials, care instructions and delivery information.</li>
+<li>Stages of a process, with detail available for each stage.</li>
+<li>Course modules or menu sections.</li>
+<li>Different options for different audiences, such as home and business customers.</li>
+</ul>
+
+<h2>When not to hide content</h2>
+<p>The main risk is simple: hidden information is easier to miss. Before you collapse something, ask whether most visitors need it to make a decision. If they do, it should probably stay visible.</p>
+<p>Think twice about collapsing:</p>
+<ul>
+<li>Your core description of a service or product.</li>
+<li>Prices or key terms that people expect to see openly.</li>
+<li>The main reason to choose your business.</li>
+<li>Short content where collapsing saves very little space.</li>
+<li>Instructions someone needs to read in order, from start to finish.</li>
+<li>Information visitors will want to compare side by side.</li>
+</ul>
+<p>Collapsing can also make a page feel more work than it really is. If every section requires a click, a reader has to do a lot of opening and closing. Sometimes the better fix is shorter text, clearer headings, or splitting one crowded page into several pages. Our guide to <a href="/blog/service-page-design/">service page design</a> looks at how to structure this kind of content.</p>
+<p>A long page is not automatically a problem. People will scroll when the content is relevant and easy to follow. Well-spaced headings and short paragraphs may solve the problem without any interactive component at all.</p>
+
+<h2>Accordions or tabs: how to choose</h2>
+<p>The two are not interchangeable. This table sets out the usual differences.</p>
+<table>
+<thead>
+<tr><th>Consideration</th><th>Accordion</th><th>Tabs</th></tr>
+</thead>
+<tbody>
+<tr><td>Best for</td><td>Lists of separate items people dip into</td><td>A few parallel views of related content</td></tr>
+<tr><td>Number of items</td><td>Can handle a longer list</td><td>Works best with only a handful</td></tr>
+<tr><td>Label length</td><td>Copes with full questions</td><td>Needs short labels</td></tr>
+<tr><td>Small screens</td><td>Naturally suited to narrow layouts</td><td>Often needs adapting</td></tr>
+<tr><td>Viewing several at once</td><td>Possible if multiple panels can stay open</td><td>Usually one panel at a time</td></tr>
+</tbody>
+</table>
+<p>As a rough guide, choose an accordion for FAQs and long labels, and tabs for a small set of short categories. If you are not sure, an accordion tends to be the simpler option, because it adapts to mobile with less work. If neither fits, leave the content visible. For product comparisons, a table or a dedicated page may do the job better, as our guide to <a href="/blog/ecommerce-product-comparison-pages/">product comparison pages</a> explains.</p>
+
+<h2>Designing a good accordion</h2>
+<h3>Write labels people can scan</h3>
+<p>The label is doing all the work, because it may be the only thing a visitor reads. It should say exactly what lies beneath. Do we deliver to Northern Ireland? is far better than Delivery info. Wherever possible, start with the words people are looking for, as readers often scan down the left edge of a list.</p>
+<h3>Make the whole header clickable</h3>
+<p>Do not limit the clickable area to a tiny plus sign. The whole heading row should respond, with enough space to tap easily on a phone.</p>
+<h3>Show state clearly</h3>
+<p>Use an icon to show whether a panel is open or closed. Plus and minus symbols or a rotating arrow are familiar choices. Keep the same icon and position throughout the site.</p>
+<h3>Choose one open or many</h3>
+<p>Some accordions close the previous panel when a new one opens. This keeps the page tidy, but it can also make the page jump, and it stops people comparing two answers. Allowing several panels to stay open usually gives readers more control. If opening a panel moves the content a visitor just clicked out of view, the design needs another look.</p>
+<h3>Decide the default state</h3>
+<p>All closed is common, but opening the first panel can signal how the component works and show useful content immediately. If one item matters more than the others, consider leaving it open by default.</p>
+<h3>Keep the contents short</h3>
+<p>A panel containing a screen of text, several images and another accordion is a sign that the content needs its own page. Avoid nesting accordions within accordions, as visitors can easily lose track of where they are.</p>
+
+<h2>Designing good tabs</h2>
+<h3>Use short, distinct labels</h3>
+<p>One or two words per tab is ideal. If labels wrap on to two lines or sound alike, tabs may not be the right pattern.</p>
+<h3>Limit the number</h3>
+<p>Keep to as many as fit comfortably on one row. Once tabs start wrapping to a second row or sliding out of view, the design gets harder to use.</p>
+<h3>Make the selected tab obvious</h3>
+<p>The current tab should look connected to its panel, for example through a matching background or a strong underline. Do not rely on colour alone, as some visitors may not perceive the difference. Our <a href="/blog/website-colour-and-typography/">colour and typography</a> guide covers contrast and readable text.</p>
+<h3>Keep the content parallel</h3>
+<p>Each tab should hold the same kind of information. Tabs for Description, Delivery and Care make sense together. A random collection of unrelated panels does not.</p>
+<h3>Do not use tabs as site navigation</h3>
+<p>If clicking takes people to a different page, that is a menu. It should behave and be built like one. Our <a href="/blog/website-navigation-structure/">website navigation</a> guide explains how to plan that structure.</p>
+
+<h2>Making them work on mobile</h2>
+<p>Accordions usually behave well on phones, and they can be particularly useful there because long pages take more scrolling on a narrow screen. Tabs need more care. A row of labels that fits on a desktop may be cut off on a phone, and a sideways-scrolling tab row can hide options without anyone realising.</p>
+<p>A common solution is to show tabs on larger screens and switch to an accordion on smaller ones. If you take this approach, check the content remains identical in both views, and test it on real devices.</p>
+<p>Also pay attention to page jumps. When a long panel closes, the content below moves up and a visitor can lose their place. A well-built component keeps the header they tapped in view. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers broader principles for small screens, including comfortable tap targets.</p>
+
+<h2>Accessibility basics</h2>
+<p>Interactive components are a common source of accessibility problems, largely because they often look finished long before they work for everyone. Ask whoever builds your site to check the following.</p>
+<ul>
+<li>All headers and tabs can be reached and operated using a keyboard alone.</li>
+<li>A visible focus indicator shows which item is selected.</li>
+<li>Screen readers are told whether a panel is open or closed, and which panel a control belongs to.</li>
+<li>Accordion headers are built as real buttons within a proper heading structure.</li>
+<li>Animations are short, and they respect a visitor's setting for reduced motion.</li>
+<li>Content is not locked away if the script fails to load.</li>
+</ul>
+<p>Native HTML offers a details and summary element that gives basic accordion behaviour with little extra code. It will not suit every design, but it is worth asking your developer about. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> gives more background.</p>
+
+<h2>What about SEO?</h2>
+<p>A concern often raised is whether search engines ignore hidden content. Google has indicated that content in collapsed sections on mobile-friendly pages can be treated like other content, provided it is present in the page, but search engine behaviour can change. Keep two simple points in mind.</p>
+<ul>
+<li><strong>Make sure the content is in the page.</strong> Content loaded only when a visitor clicks may be harder for search engines to find.</li>
+<li><strong>Keep your key message visible.</strong> The main topic of a page should be obvious without any clicks, for visitors as well as search engines.</li>
+</ul>
+<p>Our guide to <a href="/blog/schema-markup-guide-uk/">schema markup</a> covers structured data, including how to think about marking up questions and answers. Rules and rich result eligibility do change, so check current search guidance when adding it.</p>
+
+<h2>Adding them to your website</h2>
+<p>On WordPress, the block editor includes a Details block that provides simple expand and collapse behaviour. Many themes and page builders also offer accordion and tab elements, though their quality varies, so check keyboard use and mobile behaviour before you commit. Our <a href="/blog/wordpress-block-editor-guide/">block editor guide</a> is a helpful starting point.</p>
+<p>On Shopify, many themes include collapsible content sections, and the options available depend on your theme. Our guide to <a href="/blog/shopify-theme-sections-and-blocks/">theme sections and blocks</a> explains how those are managed.</p>
+<p>Prefer a built-in or well-tested component over adding scripts for one small feature, and test after theme updates. Once in place, your <a href="/blog/website-analytics-for-small-business/">website analytics</a> may be able to show whether people use them, if clicks are set up to be tracked. If nobody opens a panel holding important information, consider moving that information into view.</p>
+
+<h2>Getting help with your pages</h2>
+<p>If your pages feel crowded, an accordion may be the right fix, or it may be covering up a content problem. Prism Works Studio designs and builds websites for UK businesses, including content structure and accessible interface components. Take a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, or <a href="/contact/">contact us</a> to talk about your site.</p>
+
+<h2>FAQs</h2>
+<h3>Are accordions bad for SEO?</h3>
+<p>Not inherently. Content in an accordion can still be found if it is present in the page. Keep your most important message visible, and avoid loading text only after a click.</p>
+<h3>Should an FAQ page use an accordion?</h3>
+<p>Often, especially with many questions. With only a few short answers, showing them openly may be easier. See our <a href="/blog/website-faq-page/">FAQ page guide</a> for more on this.</p>
+<h3>How many tabs are too many?</h3>
+<p>There is no fixed number. If the labels no longer fit on one row at common screen sizes, or become hard to tell apart, consider an accordion or separate pages.</p>
+<h3>Should the first accordion item be open?</h3>
+<p>It can be helpful, since it shows how the component works and displays useful content immediately. Do so when the first item is relevant to most visitors.</p>
+<h3>Can visitors search for text inside a collapsed panel?</h3>
+<p>It depends on the browser and how the component is built. Some collapsed content may not be found with the browser find function, which is another reason to test important content.</p>
+<h3>Should product details go in tabs or an accordion?</h3>
+<p>Either can work. Accordions often suit mobile shoppers well, but keep key details such as price, size and availability visible rather than hidden in a panel.</p>
+`,
+  },
+  {
+    slug: 'website-image-alt-text-guide',
+    seoTitle: 'Image Alt Text: How to Write It for Your Website',
+    title: 'Image Alt Text: How to Write Useful Descriptions for Your Website',
+    description: 'How to write image alt text that helps screen reader users and search engines, with examples for products, logos, team photos, charts and decorative images.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/website-accessibility-uk/', '/blog/website-image-optimisation/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Alt text is a short written alternative to an image. Most visitors never see it, yet it does an important job. A screen reader announces it to people with visual impairments. A browser may display it when an image fails to load. Search engines can also use it to help understand what an image shows and how it relates to the page.</p>
+<p>Small business websites often get it wrong in one of two ways: images have no description at all, or the box has been stuffed with keywords. This guide explains how to write useful alt text, with examples you can adapt for product photos, team pictures, logos, charts and more. It applies on WordPress, Shopify and most other website platforms.</p>
+
+<h2>What alt text is and where it lives</h2>
+<p>Alt is short for alternative. In a web page, it is an attribute attached to the image in the code. You do not need to touch the code to add it, because website platforms normally provide a field for it when you upload or insert an image.</p>
+<p>Alt text is easily confused with two other things.</p>
+<ul>
+<li><strong>A caption</strong> is visible on the page, usually below the image, and is available to everyone.</li>
+<li><strong>A title or filename</strong> identifies the image, but neither is a replacement for alt text. A filename such as IMG_2041 tells nobody anything.</li>
+</ul>
+<p>An image can have both a caption and alt text. They should work together, without repeating each other word for word, as a screen reader may then read the same words twice.</p>
+
+<h2>Why it matters</h2>
+<h3>Accessibility</h3>
+<p>People who use screen readers rely on alt text to know what an image conveys. Without it, they might hear the filename, or nothing at all, and miss information that sighted visitors take for granted. Text alternatives are a basic part of the Web Content Accessibility Guidelines, which are widely used as a standard for accessible websites.</p>
+<p>UK businesses also have legal duties around treating disabled people fairly, which can extend to websites. How those duties apply depends on your circumstances, so take legal advice if you need certainty. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers the wider picture.</p>
+<h3>Search</h3>
+<p>Search engines use several signals to understand images, including the surrounding text and the alt text. A clear description may help an image appear in image search, and it adds context to the page as a whole. Treat this as a useful side benefit and not the main reason. Writing for people usually produces the right result for search engines too.</p>
+<h3>Failed images</h3>
+<p>If a connection is poor or a file is missing, browsers can show the alt text in place of the image. It is a small safeguard, but it can keep important information on the page.</p>
+
+<h2>How to write good alt text</h2>
+<p>A helpful test is to imagine describing the page to someone over the phone. What would you say about this image so they did not miss anything important? Then apply these principles.</p>
+<ul>
+<li><strong>Be specific.</strong> Say what matters in the picture and not just the broad category.</li>
+<li><strong>Keep it concise.</strong> A sentence or short phrase is usually enough. Longer explanations belong in the page text.</li>
+<li><strong>Consider context.</strong> Describe what the image contributes to this page.</li>
+<li><strong>Skip the preamble.</strong> Avoid starting with image of or picture of, as screen readers normally announce that it is an image.</li>
+<li><strong>Include visible text.</strong> If words in the image carry meaning, include them in the description.</li>
+<li><strong>Write naturally.</strong> Use a keyword only where it is an honest description of the picture.</li>
+</ul>
+
+<h2>Why context changes the description</h2>
+<p>There is rarely one correct description for a photograph, as it depends on why the image is there. Imagine a photo of a florist arranging a bouquet in her shop.</p>
+<table>
+<thead>
+<tr><th>Page</th><th>Possible alt text</th></tr>
+</thead>
+<tbody>
+<tr><td>About page</td><td>Shop owner arranging a bouquet at the counter of her florist shop</td></tr>
+<tr><td>Wedding flowers page</td><td>Florist tying a white rose and eucalyptus bridal bouquet</td></tr>
+<tr><td>Workshop page</td><td>Tutor showing how to bind stems when building a hand-tied bouquet</td></tr>
+</tbody>
+</table>
+<p>Each is accurate, and each focuses on what that page is about. This is why reusing a single description across a whole site is often a missed opportunity, depending on how your platform stores this information.</p>
+
+<h2>Examples by image type</h2>
+<h3>Product photos</h3>
+<p>Include details that help someone decide: product type, colour, material, and the angle or feature being shown. Where a product has several images, make each one distinct.</p>
+<ul>
+<li>Weak: Blue mug</li>
+<li>Stronger: Navy stoneware mug with a speckled glaze, shown from the side</li>
+<li>Second image: Close view of the rounded handle on the navy stoneware mug</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-product-photography/">ecommerce product photography</a> covers planning the images themselves.</p>
+<h3>Team and people photos</h3>
+<p>If the person is named nearby and their appearance is not relevant, a short description is plenty, such as naming the person and their role. Be careful when describing physical traits, and only do so where they matter to the content.</p>
+<h3>Logos</h3>
+<p>Give the name of the company, and add the word logo where it is useful. If the logo links to your homepage, the description should make that clear, for example with the business name followed by home.</p>
+<h3>Icons and linked images</h3>
+<p>When an image is a link or button, describe what it does and not how it looks. A magnifying glass icon that opens a search box should say Search and not Magnifying glass. A shopping bag icon should say something like View basket.</p>
+<h3>Charts and diagrams</h3>
+<p>A short description cannot usually carry a detailed chart. Use the alt text to state what the chart shows and its main point, then give the detail in the text around it or in a table. Our guide to <a href="/blog/website-tables-on-mobile/">tables on mobile</a> may help if you present the data that way.</p>
+<h3>Images containing text</h3>
+<p>Offers, quotes and banners with text in the image need that text repeating in the alt text. Better still, use real text on the page where possible, as it can be resized, translated and read more reliably.</p>
+<h3>Screenshots</h3>
+<p>Focus on what the reader needs to learn. Do not describe every menu and button. You might say which screen it shows and point out the setting being discussed.</p>
+<h3>Decorative images</h3>
+<p>Background textures, dividers and flourishes add nothing a screen reader user needs. These can usually have empty alt text, which tells assistive technology to skip them. Leaving the alt attribute off entirely is different, and a screen reader might then read the filename instead.</p>
+<p>Many platforms handle this by letting you leave the field blank, but behaviour differs. If accessibility is a priority for your site, ask your developer how your theme outputs empty descriptions. A photo that sits alongside text and adds no new information may also count as decorative, though this is a judgement call.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li><strong>Keyword stuffing.</strong> A string such as plumber London emergency plumber cheap plumber is unhelpful to listeners and may look like spam to search engines.</li>
+<li><strong>Using the filename.</strong> Automated text such as DSC_0091 is meaningless.</li>
+<li><strong>Repeating the same text everywhere.</strong> Identical descriptions on a gallery of different pictures tell people very little.</li>
+<li><strong>Repeating the caption.</strong> If the caption says it all, the alt text can add something different or be kept brief.</li>
+<li><strong>Making unsupported claims.</strong> Alt text should describe the image, not advertise. Marketing lines belong in your copy.</li>
+<li><strong>Relying wholly on automatic descriptions.</strong> Generated text can be a helpful starting point, but it may miss context or get details wrong, so check it.</li>
+</ul>
+
+<h2>Adding alt text on common platforms</h2>
+<h3>WordPress</h3>
+<p>In the block editor, select an image block and find the alternative text field in the block settings sidebar. You can also add text in the Media Library when viewing an image. Be aware that changing it in one place may not update copies of the image already inserted in pages, so check existing content separately. Our <a href="/blog/wordpress-media-library-organisation/">media library guide</a> offers tips on managing files.</p>
+<h3>Shopify</h3>
+<p>Shopify lets you add alt text to product images from the product screen, and to files elsewhere in the admin. Our <a href="/blog/shopify-product-media-guide/">Shopify product media guide</a> covers this in more detail.</p>
+<h3>Other website builders</h3>
+<p>Most builders have an option in the image settings, sometimes labelled alt text, image description or something similar. Check your platform's help pages if you cannot find it.</p>
+
+<h2>How to fix alt text across an existing site</h2>
+<p>Tackling a whole site at once can feel daunting, particularly if nobody has looked at this before. Breaking the task into stages keeps it manageable.</p>
+<ol>
+<li>Run a crawl or audit tool to list images with missing alt text.</li>
+<li>Prioritise your most important pages first: the homepage, key service pages, top products and contact details.</li>
+<li>Pay particular attention to linked images and buttons, as missing text there can stop people using the site.</li>
+<li>Agree simple house rules so everyone who uploads images writes in the same way.</li>
+<li>Add alt text to your publishing checklist so new content is covered from the start.</li>
+<li>Try a screen reader on a few pages, or ask someone who uses one for feedback.</li>
+</ol>
+<p>This fits naturally alongside compression and resizing work, which our <a href="/blog/website-image-optimisation/">image optimisation</a> guide explains, or a broader review such as a <a href="/blog/website-content-audit/">content audit</a>.</p>
+
+<h2>Getting support</h2>
+<p>Writing alt text is well within reach for most site owners, and you know your products and services better than anyone. Help can be useful if your theme handles images oddly, your shop has a large catalogue, or you want an accessibility review of the wider site.</p>
+<p>Prism Works Studio designs and builds websites for UK businesses with accessibility and search in mind. See our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service, or <a href="/contact/">get in touch</a> to talk about your site.</p>
+
+<h2>FAQs</h2>
+<h3>How long should alt text be?</h3>
+<p>There is no single official limit, but short is generally better. A concise sentence or phrase suits most images. If you need much more, put the detail in the page text.</p>
+<h3>Does every image need alt text?</h3>
+<p>Every meaningful image needs a useful description. Purely decorative images can usually have empty alt text so that screen readers skip over them.</p>
+<h3>Does alt text help SEO?</h3>
+<p>It can help search engines understand an image and may support image search visibility. It is one small factor among many, and it should be written for people first.</p>
+<h3>Should I include keywords in alt text?</h3>
+<p>Only where they naturally describe the image. If your page is about oak dining tables and the photo shows one, saying so is reasonable. Forcing in extra phrases is not.</p>
+<h3>Can AI write my alt text?</h3>
+<p>It can produce useful first drafts, especially for large catalogues. Review the results, as generated text may not reflect context or may describe details wrongly.</p>
+<h3>Is alt text a legal requirement in the UK?</h3>
+<p>Requirements depend on your organisation. Public sector websites have specific accessibility rules, and other businesses have wider equality duties. Take legal advice if you are unsure how this applies to you.</p>
+`,
+  },
+  {
+    slug: 'wordpress-front-page-and-posts-page',
+    seoTitle: 'WordPress Front Page and Posts Page: Setup Guide',
+    title: 'WordPress Front Page and Posts Page: How to Set Your Homepage and Blog',
+    description: 'How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/wordpress-reading-and-discussion-settings/', '/blog/website-homepage-design/', '/services/website-ecommerce-development/'],
+    body: `
+<p>A new WordPress site often opens on a list of blog posts. That made sense when WordPress was mainly a blogging tool, but a small business usually wants visitors to land on a designed homepage that explains what it does, with the blog tucked away on its own page. WordPress handles this well, yet the setting is easy to miss and its wording confuses plenty of site owners.</p>
+<p>This guide explains how the front page and posts page work, how to set them up step by step, how themes affect the result, and how to fix the problems that tend to appear afterwards. Menu labels can vary slightly between WordPress versions and themes, so treat the steps as a guide and look for the nearest equivalent if your screen differs.</p>
+
+<h2>What the front page and posts page actually are</h2>
+<p>WordPress uses two terms that sound similar but do different jobs.</p>
+<ul>
+<li><strong>The front page</strong> is whatever appears at your main web address, the root of your domain. It may be labelled Homepage in the settings screen.</li>
+<li><strong>The posts page</strong> is the page that lists your blog posts, newest first. It might live at an address such as /blog/ or /news/.</li>
+</ul>
+<p>By default, these two are the same thing, because the front page shows your latest posts. When you choose a static homepage, you separate them. The front page becomes an ordinary page you control, and the post listing moves to a page of its own.</p>
+<p>Static is a slightly misleading word here. It does not mean the page can never change or that it cannot contain moving parts. It only means the page keeps the content you gave it, rather than updating automatically each time you publish a post. You can still edit it whenever you like, and you can still show a selection of recent posts on it using a block.</p>
+
+<h2>Should your homepage be static or a list of posts?</h2>
+<p>For a typical service business, shop or organisation, a static homepage is normally the better fit. It lets you lead with what you offer, who you help and what a visitor should do next. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers what that page might contain.</p>
+<p>A latest posts homepage can still suit a site where the writing is the main attraction, such as a magazine, a newsletter archive or a personal journal. If new articles are the reason people return, putting them first is a reasonable choice.</p>
+<p>Some sites do not need a blog at all. That is fine too. You can set a static homepage and simply leave the posts page unassigned, which we explain below.</p>
+
+<h2>How to set a static homepage and a blog page</h2>
+<p>The process has three parts: create the pages, assign them, then check the result.</p>
+<h3>Step one: create the two pages</h3>
+<ol>
+<li>In your dashboard, go to Pages and add a new page. Give it a title such as Home and add your homepage content.</li>
+<li>Publish it. A draft will not be available to select as your homepage.</li>
+<li>Add a second new page and title it Blog, News, Insights or whatever suits your business.</li>
+<li>Leave that second page empty and publish it.</li>
+</ol>
+<p>The blog page really should be left blank. Once it is assigned as the posts page, WordPress replaces its content with the post listing, so anything you type into it will generally not appear on the live site. This catches many people out, and it can look as though the editor is broken when it is simply working as designed.</p>
+<h3>Step two: assign them in Settings</h3>
+<ol>
+<li>Go to Settings, then Reading.</li>
+<li>Find the option labelled Your homepage displays.</li>
+<li>Select A static page.</li>
+<li>In the Homepage dropdown, choose your Home page.</li>
+<li>In the Posts page dropdown, choose your Blog page.</li>
+<li>Save your changes.</li>
+</ol>
+<p>The same screen holds other options, including how many posts appear per page. Our guide to <a href="/blog/wordpress-reading-and-discussion-settings/">reading and discussion settings</a> explains those in more detail.</p>
+<h3>Step three: check the result</h3>
+<p>Open your site in a private browser window so you see it as a visitor would. Check that the main address shows your new homepage, that the blog address lists your posts, and that a post opens correctly when clicked. If you use a caching tool or your host caches pages, you may need to clear the cache before the change appears.</p>
+
+<h2>Web addresses and your homepage</h2>
+<p>Once a page is your homepage, WordPress normally serves it at the root of your domain rather than at its own slug. If the page is called Home, visitors should see your main address and not a /home/ version. Requests for the old slug typically redirect to the root, though it is worth checking on your own site.</p>
+<p>The slug of your posts page matters more, because it becomes a real address. Choose a clear, short one before you start promoting the blog. Whether individual posts include that word in their own addresses depends on your permalink structure, which is a separate setting covered in our <a href="/blog/wordpress-permalink-settings/">permalink settings</a> guide.</p>
+<p>If you are changing the blog address on an established site, plan for it. Old links may stop working unless you set redirects, so review our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> first.</p>
+
+<h2>How your theme affects the result</h2>
+<p>The Reading setting decides what content appears. Your theme decides how it looks. Those are separate decisions, and mixing them up leads to a lot of confusion.</p>
+<h3>Block themes</h3>
+<p>Block themes are edited through the Site Editor, found under Appearance. Templates control the layout of each type of page, and there are two names worth knowing.</p>
+<ul>
+<li><strong>Front Page template:</strong> used for the homepage, where the theme includes it. It can take priority regardless of which setting you chose.</li>
+<li><strong>Blog Home template:</strong> usually controls the page listing your posts.</li>
+</ul>
+<p>This explains a frequent puzzle. You carefully edit a Home page, assign it, and the live homepage shows something else entirely. That can happen when the Front Page template contains fixed content instead of a block that outputs your page content. To fix this, open the template in the Site Editor and either edit the content there, or make sure it includes the Content block so your page shows through. Our guide to <a href="/blog/wordpress-site-editor-templates/">Site Editor templates</a> walks through how templates fit together.</p>
+<h3>Classic themes</h3>
+<p>Classic themes use template files in the theme and often offer options through the Customizer, also under Appearance. Many have their own homepage settings, sometimes in a dedicated theme options screen, and these can override what you expect. If the theme comes with a demo homepage, check its documentation to see how that homepage is meant to be assigned.</p>
+<p>A developer may also change homepage behaviour by editing template files. If so, make those edits in a child theme so that they survive theme updates. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why that matters.</p>
+
+<h2>Common problems and how to fix them</h2>
+<h3>The page does not appear in the dropdown</h3>
+<p>Check that it is published rather than draft, scheduled or private. Only published pages are offered as options. Also check that it is a page and not a post, as posts are not listed here.</p>
+<h3>My blog page content has disappeared</h3>
+<p>If you added text to the page assigned as your posts page, it is usually not shown. To add an introduction above your post listing, look at editing the relevant template in the Site Editor, or use your theme options if it is a classic theme.</p>
+<h3>The homepage shows posts even though I changed the setting</h3>
+<p>Confirm that the setting saved, then clear any cache. If it persists, your theme may be using its own front page template or a theme option that overrides the content. Temporarily previewing a default WordPress theme on a staging copy can help show whether the theme is responsible.</p>
+<h3>The blog page shows the wrong layout</h3>
+<p>Look at the template used for the posts listing, not the individual page. Applying a template to the page itself may have no effect because the listing has its own template.</p>
+<h3>The same page is chosen for both options</h3>
+<p>Each option needs a different page. If one page is selected for both, the result is unpredictable, so give each role its own page.</p>
+<h3>The homepage link in my menu goes somewhere odd</h3>
+<p>If your menu was built before the switch, it may still point to an old address. Update the link so it goes to your main address, and add your blog page if you want it in the menu. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> explains how to edit these items.</p>
+
+<h2>Showing recent posts on a static homepage</h2>
+<p>Choosing a static homepage does not mean hiding your articles. The block editor includes options for displaying recent posts within a page, such as the Latest Posts block or the more flexible Query Loop block. You can add a short section near the bottom of the homepage to show that the site is active and to give readers a route into your content.</p>
+<p>Keep this section modest on a business homepage. It supports your main message and should not compete with it. Our <a href="/blog/wordpress-block-editor-guide/">block editor guide</a> covers how to work with blocks if you are new to them.</p>
+
+<h2>Check these things before going live</h2>
+<p>If you are changing this setting on a site that already gets traffic, a short checklist reduces the risk of surprises.</p>
+<ul>
+<li>Take a backup first, or make the change on a staging copy. Our guide to <a href="/blog/website-staging-and-testing/">staging and testing</a> explains the approach.</li>
+<li>Make sure the new homepage is finished, with sensible title and description details in place.</li>
+<li>Note the address of any existing blog listing, and redirect it if that address will change.</li>
+<li>Test on a phone as well as a desktop computer.</li>
+<li>Check menus, footer links and any buttons that point to your blog.</li>
+<li>Review your analytics after the change so you can spot any drop in visits to important pages.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>This is usually a quick change on a simple site. It becomes more involved when your theme has fixed homepage content, the site has a long-established blog address, or a page builder and custom templates are all involved. In those cases, it can be worth having someone review the setup before you change it on the live site.</p>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If your homepage or blog is not behaving as it should, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can take a look, or you can <a href="/contact/">get in touch</a> to talk through what you need.</p>
+
+<h2>FAQs</h2>
+<h3>Do I have to have a blog page in WordPress?</h3>
+<p>No. You can set a static homepage and leave the Posts page dropdown unselected. Your posts are not deleted by this, so if you already have some, review how they can still be reached.</p>
+<h3>Why is my blog page blank in the editor?</h3>
+<p>The posts page is usually left empty because WordPress fills it with your post listing on the live site. A blank editor is normal, and it does not mean your posts have been lost.</p>
+<h3>Can I call my blog something other than Blog?</h3>
+<p>Yes. Title the page News, Insights, Advice or anything that suits your business, then assign it as the posts page. The page slug usually sets its address.</p>
+<h3>Will changing my homepage setting affect SEO?</h3>
+<p>It can, because it changes what appears at your most important address. A clear, useful homepage can help visitors and search engines understand your business, but plan the change carefully and check that existing links still work.</p>
+<h3>Can I change back to latest posts later?</h3>
+<p>Yes. Return to Settings, then Reading, and select Your latest posts. Your pages remain in place, but they will no longer be assigned to those roles.</p>
+<h3>Can my homepage be built with a page builder?</h3>
+<p>Generally yes. A page built with a page builder can be assigned as your homepage in the same way as any other published page. Our guide to <a href="/blog/wordpress-page-builders-uk/">WordPress page builders</a> covers the wider considerations.</p>
+`,
+  },
+  {
+    slug: 'wordpress-import-and-export-tools',
+    seoTitle: 'WordPress Import and Export Tools: A Practical Guide',
+    title: 'WordPress Import and Export Tools: Moving Content Between Sites Safely',
+    description: 'How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/website-backup-and-recovery-plan/', '/blog/change-website-hosting-without-downtime/', '/services/website-ecommerce-development/'],
+    body: `
+<p>At some point, many WordPress site owners need to move content from one place to another. You might be merging two sites, starting again on a fresh install, moving a blog on to a new business website, or copying a set of pages to a staging site. WordPress includes tools for this under the Tools menu, and they are useful, but they are also often misunderstood.</p>
+<p>The biggest misconception is that export creates a full copy of your website. It does not. This guide explains what the tools do, what they leave out, how to use them step by step, and how to deal with the problems you are most likely to meet. Screens can vary a little between WordPress versions, so use the steps as a guide.</p>
+
+<h2>What the WordPress export tool does</h2>
+<p>The export tool creates a single file containing your site content in a format WordPress can read, known as WXR. It is an XML file, which means it is structured text. You can download it to your computer and later upload it to another WordPress site using the import tool.</p>
+<p>The export can typically include:</p>
+<ul>
+<li>Posts and pages, including their titles, content, status and dates.</li>
+<li>Comments attached to those posts and pages.</li>
+<li>Categories, tags and other taxonomy terms.</li>
+<li>Custom post types registered on the site.</li>
+<li>Navigation menu items in many cases.</li>
+<li>References to media items, including their web addresses.</li>
+<li>Custom fields stored with the content.</li>
+</ul>
+<p>Notice the wording on media. The export file generally holds details of your images and documents, including where they are stored, but it does not contain the files themselves. That distinction causes many of the issues described later.</p>
+
+<h2>What the export does not include</h2>
+<p>An export file is content, not a site. As a rule, it does not carry over:</p>
+<ul>
+<li>Your theme files or theme customisations held outside the content.</li>
+<li>Plugins and many of their settings.</li>
+<li>Site settings such as your title, permalink structure or reading options.</li>
+<li>User accounts and passwords, although author names are referenced.</li>
+<li>Data held in custom database tables, which some forms, shop tools and booking systems use.</li>
+<li>Widgets in some setups.</li>
+</ul>
+<p>For this reason, do not rely on an export as your safety net. If your site was damaged or lost, a content export would leave you rebuilding much of the rest by hand. A proper backup covers both the files and the database. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery plan</a> guide explains what good coverage looks like.</p>
+<p>Likewise, if you want to move the whole site to a new host, the export tool is usually the wrong choice. A site migration copies everything. Our guide on <a href="/blog/change-website-hosting-without-downtime/">changing hosting without downtime</a> covers that process.</p>
+
+<h2>When these tools are the right choice</h2>
+<p>The tools work well when you want the content but not the rest of the site. Good situations include:</p>
+<ul>
+<li>Merging a separate blog into your main business site.</li>
+<li>Starting afresh with a new theme and a clean install, while keeping your articles.</li>
+<li>Moving one category of posts or a set of pages to a new site.</li>
+<li>Bringing a set of custom post type entries across to a matching site.</li>
+<li>Keeping a dated content archive in addition to your regular backups.</li>
+</ul>
+<p>They are less suitable when pages depend heavily on a particular page builder, custom fields or shop data, because those details may not display properly unless the destination site is set up in the same way.</p>
+
+<h2>How to export your content</h2>
+<ol>
+<li>Log in with an administrator account and go to Tools, then Export.</li>
+<li>Choose what to export. You can select all content, or limit it to posts, pages, media or another content type.</li>
+<li>If you choose posts or pages, use any filters offered. These may include category, author, date range and status.</li>
+<li>Click the download button to save the file to your computer.</li>
+<li>Store the file somewhere sensible with a clear name that includes the site and the date.</li>
+</ol>
+<p>Exporting does not change your live site. It only creates a copy of the data, so this step is low risk. Still, the file may include draft content, comments and commenter details, which can include personal data such as names and email addresses. Store and share it with care, and take advice if you are unsure about your data protection responsibilities.</p>
+<p>Before you export, consider a tidy-up. There is little value in moving old drafts, spam comments and unused categories to a fresh site. Our <a href="/blog/website-content-audit/">content audit</a> guide can help you decide what is worth keeping.</p>
+
+<h2>How to import content into another site</h2>
+<ol>
+<li>Prepare the destination site. Install the theme and any tools the content relies on, and register matching custom post types where needed.</li>
+<li>Take a backup of the destination site. An import adds to what is there, and undoing it can be awkward.</li>
+<li>Go to Tools, then Import.</li>
+<li>Find WordPress in the list. If the importer is not already installed, you will be offered the option to install it.</li>
+<li>Run the importer and upload your export file.</li>
+<li>Choose how to handle authors. You can assign content to an existing user, or create a new one where offered.</li>
+<li>Tick the option to download and import file attachments if you want media brought across.</li>
+<li>Submit, then wait for the process to finish without closing the page.</li>
+</ol>
+<p>The importer usually tries to avoid creating duplicates by checking for content with matching details, but do not assume it will catch everything. If you run the same import repeatedly or the content has been edited, check the result closely.</p>
+
+<h2>Common problems and how to fix them</h2>
+<h3>Images are missing after import</h3>
+<p>This is the classic issue. The importer fetches each file from the original site, using the address recorded in the export. If the old site is offline, password protected, blocking requests or running slowly, some files may not arrive. Ideally, keep the old site online and publicly reachable until the import is complete and checked.</p>
+<p>Images inserted into content may also still point to the old site after import. Check a sample of pages, including the page source if you are comfortable doing so. If those addresses still point to the old domain, the images will disappear when that site closes. Our guide to <a href="/blog/wordpress-media-library-organisation/">media library organisation</a> may be useful once you have your files in place.</p>
+<h3>The file is too large to upload</h3>
+<p>Your hosting may limit upload sizes, and the limit is shown on the import screen. Options include exporting smaller batches by content type, category or date, or asking your host whether the limit can be raised. Splitting the work into batches also makes errors easier to spot.</p>
+<h3>The import stops part way through</h3>
+<p>Long imports can hit server time limits, especially when many images are being downloaded. Try running smaller batches. Before trying again, check what did arrive so you can work out what is missing.</p>
+<h3>Layouts look wrong</h3>
+<p>Content built with blocks generally transfers well, particularly when it uses core blocks. Content built with a page builder or custom blocks needs the same tools active on the destination site. Even then, details such as reusable sections or global styles may not come across. Our guide to <a href="/blog/wordpress-synced-patterns/">synced patterns</a> explains one such example, where content lives separately from the page it appears on.</p>
+<h3>Internal links point to the old site</h3>
+<p>Links typed into your content will keep their original addresses. If the domain changed, those links may take visitors to the old site or nowhere at all. Plan to update them, and test a sample after you finish.</p>
+<h3>Addresses have changed</h3>
+<p>Slugs normally come across, but final addresses depend on the permalink settings of the new site. Conflicts can also add a number to the end of a slug. If an address has changed from the original, you will probably need redirects to preserve existing links. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> explains how to approach this.</p>
+
+<h2>Keeping search visibility during a content move</h2>
+<p>When published content moves to a new domain or address, it pays to consider search engines from the start. Keep a list of every old address and where it is going, then set up redirects from each one. Avoid leaving the same content live on both sites for long, as this can confuse search engines about which version to show.</p>
+<p>A staging site should also be kept out of search results, so your test copy does not get indexed. If this is part of a larger relaunch, our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> gives a more thorough list of checks.</p>
+
+<h2>A sensible checklist after an import</h2>
+<p>Once the import finishes, work through these checks before you treat the job as done.</p>
+<ul>
+<li>Compare post and page counts between the old site and the new one.</li>
+<li>Open a sample of older and newer content, on desktop and mobile.</li>
+<li>Check that featured images and inline images load, and from which domain.</li>
+<li>Confirm that authors, dates, categories and tags look right.</li>
+<li>Check that drafts have stayed as drafts and nothing private has been published.</li>
+<li>Test internal links, menus and any forms embedded in content.</li>
+<li>Review comments, and remove any that should not have moved.</li>
+<li>Remove any sample content from the fresh install, such as the default post and page.</li>
+</ul>
+<p>The default WordPress sample content is easy to overlook. Our guide to <a href="/blog/wordpress-trash-and-restoring-content/">trash and restoring content</a> explains how deleted items are handled in case you remove something by mistake.</p>
+
+<h2>When to get help</h2>
+<p>A small blog moving between two simple sites is often manageable on your own. Consider getting support if the site has a large volume of content, relies on custom fields or shop data, needs lots of redirects, or earns a meaningful share of its enquiries through search.</p>
+<p>Prism Works Studio helps UK businesses plan and carry out content moves and rebuilds on WordPress. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review what you have and suggest a sensible route, or you can <a href="/contact/">contact us</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Is a WordPress export the same as a backup?</h3>
+<p>No. An export covers content and leaves out themes, plugins, settings and more. A backup should cover your files and database, so keep regular backups regardless.</p>
+<h3>Does the export file contain my images?</h3>
+<p>Generally not. It records details of media items and their addresses, and the importer can then fetch them from the original site if that site can still be reached.</p>
+<h3>Will importing overwrite my existing content?</h3>
+<p>An import normally adds content and does not replace existing items, though matches may be skipped. Always take a backup first, as results depend on your content.</p>
+<h3>Can I import content from Wix or another platform?</h3>
+<p>The tools listed under Import may include options for some other systems, but support varies. For one common example, see our guide to <a href="/blog/wix-to-wordpress-migration/">moving from Wix to WordPress</a>.</p>
+<h3>Can I export just one category?</h3>
+<p>Usually yes. Choose Posts on the export screen and filter by category. Some related items may need separate attention, so check the result on a test site.</p>
+<h3>Can I export online shop products this way?</h3>
+<p>Products can appear as a content type, but shop data is more complex, and orders in particular may be stored differently. Treat shop moves as a separate project and test thoroughly.</p>
+`,
+  },
 ];

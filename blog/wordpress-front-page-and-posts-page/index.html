@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Front Page and Posts Page: Setup Guide</title>
+<meta name="description" content="How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Front Page and Posts Page: Setup Guide">
+<meta property="og:description" content="How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-front-page-and-posts-page.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-06">
+<meta property="article:modified_time" content="2026-11-06">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/#article","headline":"WordPress Front Page and Posts Page: How to Set Your Homepage and Blog","description":"How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.","datePublished":"2026-11-06","dateModified":"2026-11-06","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/","url":"https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-front-page-and-posts-page.png","inLanguage":"en-GB","wordCount":2001,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Front Page and Posts Page: How to Set Your Homepage and Blog","item":"https://prismworksstudio.co.uk/blog/wordpress-front-page-and-posts-page/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to have a blog page in WordPress?","acceptedAnswer":{"@type":"Answer","text":"No. You can set a static homepage and leave the Posts page dropdown unselected. Your posts are not deleted by this, so if you already have some, review how they can still be reached."}},{"@type":"Question","name":"Why is my blog page blank in the editor?","acceptedAnswer":{"@type":"Answer","text":"The posts page is usually left empty because WordPress fills it with your post listing on the live site. A blank editor is normal, and it does not mean your posts have been lost."}},{"@type":"Question","name":"Can I call my blog something other than Blog?","acceptedAnswer":{"@type":"Answer","text":"Yes. Title the page News, Insights, Advice or anything that suits your business, then assign it as the posts page. The page slug usually sets its address."}},{"@type":"Question","name":"Will changing my homepage setting affect SEO?","acceptedAnswer":{"@type":"Answer","text":"It can, because it changes what appears at your most important address. A clear, useful homepage can help visitors and search engines understand your business, but plan the change carefully and check that existing links still work."}},{"@type":"Question","name":"Can I change back to latest posts later?","acceptedAnswer":{"@type":"Answer","text":"Yes. Return to Settings, then Reading, and select Your latest posts. Your pages remain in place, but they will no longer be assigned to those roles."}},{"@type":"Question","name":"Can my homepage be built with a page builder?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. A page built with a page builder can be assigned as your homepage in the same way as any other published page. Our guide to WordPress page builders covers the wider considerations."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Front Page and Posts Page: How to Set Your Homepage and Blog</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Front Page and Posts Page: How to Set Your Homepage and Blog</h1><p class="pws-lead">How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-06">6 November 2026</time> &middot; 9 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>WordPress can show either your latest posts or a chosen static page as the homepage, and that choice lives under Settings then Reading.</li><li>A business site usually needs two published pages assigned here: one for the homepage and an empty one for the blog listing.</li><li>If the wrong design appears after the switch, check which template your theme uses for the homepage and for the posts listing.</li></ul></div>
+<p>A new WordPress site often opens on a list of blog posts. That made sense when WordPress was mainly a blogging tool, but a small business usually wants visitors to land on a designed homepage that explains what it does, with the blog tucked away on its own page. WordPress handles this well, yet the setting is easy to miss and its wording confuses plenty of site owners.</p>
+<p>This guide explains how the front page and posts page work, how to set them up step by step, how themes affect the result, and how to fix the problems that tend to appear afterwards. Menu labels can vary slightly between WordPress versions and themes, so treat the steps as a guide and look for the nearest equivalent if your screen differs.</p>
+
+<h2>What the front page and posts page actually are</h2>
+<p>WordPress uses two terms that sound similar but do different jobs.</p>
+<ul>
+<li><strong>The front page</strong> is whatever appears at your main web address, the root of your domain. It may be labelled Homepage in the settings screen.</li>
+<li><strong>The posts page</strong> is the page that lists your blog posts, newest first. It might live at an address such as /blog/ or /news/.</li>
+</ul>
+<p>By default, these two are the same thing, because the front page shows your latest posts. When you choose a static homepage, you separate them. The front page becomes an ordinary page you control, and the post listing moves to a page of its own.</p>
+<p>Static is a slightly misleading word here. It does not mean the page can never change or that it cannot contain moving parts. It only means the page keeps the content you gave it, rather than updating automatically each time you publish a post. You can still edit it whenever you like, and you can still show a selection of recent posts on it using a block.</p>
+
+<h2>Should your homepage be static or a list of posts?</h2>
+<p>For a typical service business, shop or organisation, a static homepage is normally the better fit. It lets you lead with what you offer, who you help and what a visitor should do next. Our guide to <a href="/blog/website-homepage-design/">homepage design</a> covers what that page might contain.</p>
+<p>A latest posts homepage can still suit a site where the writing is the main attraction, such as a magazine, a newsletter archive or a personal journal. If new articles are the reason people return, putting them first is a reasonable choice.</p>
+<p>Some sites do not need a blog at all. That is fine too. You can set a static homepage and simply leave the posts page unassigned, which we explain below.</p>
+
+<h2>How to set a static homepage and a blog page</h2>
+<p>The process has three parts: create the pages, assign them, then check the result.</p>
+<h3>Step one: create the two pages</h3>
+<ol>
+<li>In your dashboard, go to Pages and add a new page. Give it a title such as Home and add your homepage content.</li>
+<li>Publish it. A draft will not be available to select as your homepage.</li>
+<li>Add a second new page and title it Blog, News, Insights or whatever suits your business.</li>
+<li>Leave that second page empty and publish it.</li>
+</ol>
+<p>The blog page really should be left blank. Once it is assigned as the posts page, WordPress replaces its content with the post listing, so anything you type into it will generally not appear on the live site. This catches many people out, and it can look as though the editor is broken when it is simply working as designed.</p>
+<h3>Step two: assign them in Settings</h3>
+<ol>
+<li>Go to Settings, then Reading.</li>
+<li>Find the option labelled Your homepage displays.</li>
+<li>Select A static page.</li>
+<li>In the Homepage dropdown, choose your Home page.</li>
+<li>In the Posts page dropdown, choose your Blog page.</li>
+<li>Save your changes.</li>
+</ol>
+<p>The same screen holds other options, including how many posts appear per page. Our guide to <a href="/blog/wordpress-reading-and-discussion-settings/">reading and discussion settings</a> explains those in more detail.</p>
+<h3>Step three: check the result</h3>
+<p>Open your site in a private browser window so you see it as a visitor would. Check that the main address shows your new homepage, that the blog address lists your posts, and that a post opens correctly when clicked. If you use a caching tool or your host caches pages, you may need to clear the cache before the change appears.</p>
+
+<h2>Web addresses and your homepage</h2>
+<p>Once a page is your homepage, WordPress normally serves it at the root of your domain rather than at its own slug. If the page is called Home, visitors should see your main address and not a /home/ version. Requests for the old slug typically redirect to the root, though it is worth checking on your own site.</p>
+<p>The slug of your posts page matters more, because it becomes a real address. Choose a clear, short one before you start promoting the blog. Whether individual posts include that word in their own addresses depends on your permalink structure, which is a separate setting covered in our <a href="/blog/wordpress-permalink-settings/">permalink settings</a> guide.</p>
+<p>If you are changing the blog address on an established site, plan for it. Old links may stop working unless you set redirects, so review our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> first.</p>
+
+<h2>How your theme affects the result</h2>
+<p>The Reading setting decides what content appears. Your theme decides how it looks. Those are separate decisions, and mixing them up leads to a lot of confusion.</p>
+<h3>Block themes</h3>
+<p>Block themes are edited through the Site Editor, found under Appearance. Templates control the layout of each type of page, and there are two names worth knowing.</p>
+<ul>
+<li><strong>Front Page template:</strong> used for the homepage, where the theme includes it. It can take priority regardless of which setting you chose.</li>
+<li><strong>Blog Home template:</strong> usually controls the page listing your posts.</li>
+</ul>
+<p>This explains a frequent puzzle. You carefully edit a Home page, assign it, and the live homepage shows something else entirely. That can happen when the Front Page template contains fixed content instead of a block that outputs your page content. To fix this, open the template in the Site Editor and either edit the content there, or make sure it includes the Content block so your page shows through. Our guide to <a href="/blog/wordpress-site-editor-templates/">Site Editor templates</a> walks through how templates fit together.</p>
+<h3>Classic themes</h3>
+<p>Classic themes use template files in the theme and often offer options through the Customizer, also under Appearance. Many have their own homepage settings, sometimes in a dedicated theme options screen, and these can override what you expect. If the theme comes with a demo homepage, check its documentation to see how that homepage is meant to be assigned.</p>
+<p>A developer may also change homepage behaviour by editing template files. If so, make those edits in a child theme so that they survive theme updates. Our guide to <a href="/blog/wordpress-child-themes/">WordPress child themes</a> explains why that matters.</p>
+
+<h2>Common problems and how to fix them</h2>
+<h3>The page does not appear in the dropdown</h3>
+<p>Check that it is published rather than draft, scheduled or private. Only published pages are offered as options. Also check that it is a page and not a post, as posts are not listed here.</p>
+<h3>My blog page content has disappeared</h3>
+<p>If you added text to the page assigned as your posts page, it is usually not shown. To add an introduction above your post listing, look at editing the relevant template in the Site Editor, or use your theme options if it is a classic theme.</p>
+<h3>The homepage shows posts even though I changed the setting</h3>
+<p>Confirm that the setting saved, then clear any cache. If it persists, your theme may be using its own front page template or a theme option that overrides the content. Temporarily previewing a default WordPress theme on a staging copy can help show whether the theme is responsible.</p>
+<h3>The blog page shows the wrong layout</h3>
+<p>Look at the template used for the posts listing, not the individual page. Applying a template to the page itself may have no effect because the listing has its own template.</p>
+<h3>The same page is chosen for both options</h3>
+<p>Each option needs a different page. If one page is selected for both, the result is unpredictable, so give each role its own page.</p>
+<h3>The homepage link in my menu goes somewhere odd</h3>
+<p>If your menu was built before the switch, it may still point to an old address. Update the link so it goes to your main address, and add your blog page if you want it in the menu. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> explains how to edit these items.</p>
+
+<h2>Showing recent posts on a static homepage</h2>
+<p>Choosing a static homepage does not mean hiding your articles. The block editor includes options for displaying recent posts within a page, such as the Latest Posts block or the more flexible Query Loop block. You can add a short section near the bottom of the homepage to show that the site is active and to give readers a route into your content.</p>
+<p>Keep this section modest on a business homepage. It supports your main message and should not compete with it. Our <a href="/blog/wordpress-block-editor-guide/">block editor guide</a> covers how to work with blocks if you are new to them.</p>
+
+<h2>Check these things before going live</h2>
+<p>If you are changing this setting on a site that already gets traffic, a short checklist reduces the risk of surprises.</p>
+<ul>
+<li>Take a backup first, or make the change on a staging copy. Our guide to <a href="/blog/website-staging-and-testing/">staging and testing</a> explains the approach.</li>
+<li>Make sure the new homepage is finished, with sensible title and description details in place.</li>
+<li>Note the address of any existing blog listing, and redirect it if that address will change.</li>
+<li>Test on a phone as well as a desktop computer.</li>
+<li>Check menus, footer links and any buttons that point to your blog.</li>
+<li>Review your analytics after the change so you can spot any drop in visits to important pages.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>This is usually a quick change on a simple site. It becomes more involved when your theme has fixed homepage content, the site has a long-established blog address, or a page builder and custom templates are all involved. In those cases, it can be worth having someone review the setup before you change it on the live site.</p>
+<p>Prism Works Studio builds and maintains WordPress sites for UK businesses. If your homepage or blog is not behaving as it should, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can take a look, or you can <a href="/contact/">get in touch</a> to talk through what you need.</p>
+
+<h2>FAQs</h2>
+<h3>Do I have to have a blog page in WordPress?</h3>
+<p>No. You can set a static homepage and leave the Posts page dropdown unselected. Your posts are not deleted by this, so if you already have some, review how they can still be reached.</p>
+<h3>Why is my blog page blank in the editor?</h3>
+<p>The posts page is usually left empty because WordPress fills it with your post listing on the live site. A blank editor is normal, and it does not mean your posts have been lost.</p>
+<h3>Can I call my blog something other than Blog?</h3>
+<p>Yes. Title the page News, Insights, Advice or anything that suits your business, then assign it as the posts page. The page slug usually sets its address.</p>
+<h3>Will changing my homepage setting affect SEO?</h3>
+<p>It can, because it changes what appears at your most important address. A clear, useful homepage can help visitors and search engines understand your business, but plan the change carefully and check that existing links still work.</p>
+<h3>Can I change back to latest posts later?</h3>
+<p>Yes. Return to Settings, then Reading, and select Your latest posts. Your pages remain in place, but they will no longer be assigned to those roles.</p>
+<h3>Can my homepage be built with a page builder?</h3>
+<p>Generally yes. A page built with a page builder can be assigned as your homepage in the same way as any other published page. Our guide to <a href="/blog/wordpress-page-builders-uk/">WordPress page builders</a> covers the wider considerations.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Front%20Page%20and%20Posts%20Page%3A%20How%20to%20Set%20Your%20Homepage%20and%20Blog'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-import-and-export-tools/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>WordPress Import and Export Tools: Moving Content Between Sites Safely</h3><p>How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-image-alt-text-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Image Alt Text: How to Write Useful Descriptions for Your Website</h3><p>How to write image alt text that helps screen reader users and search engines, with examples for products, logos, team photos, charts and decorative images.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-accordions-and-tabs/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Website Accordions and Tabs: When to Use Them and How to Design Them Well</h3><p>When website accordions and tabs help visitors and when they hide too much, with practical design, mobile, accessibility and SEO tips for small business sites.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Front%20Page%20and%20Posts%20Page%3A%20How%20to%20Set%20Your%20Homepage%20and%20Blog'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

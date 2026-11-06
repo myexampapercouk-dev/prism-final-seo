@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Import and Export Tools: A Practical Guide</title>
+<meta name="description" content="How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Import and Export Tools: A Practical Guide">
+<meta property="og:description" content="How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-import-and-export-tools.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-06">
+<meta property="article:modified_time" content="2026-11-06">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/#article","headline":"WordPress Import and Export Tools: Moving Content Between Sites Safely","description":"How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.","datePublished":"2026-11-06","dateModified":"2026-11-06","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/","url":"https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-import-and-export-tools.png","inLanguage":"en-GB","wordCount":1864,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Import and Export Tools: Moving Content Between Sites Safely","item":"https://prismworksstudio.co.uk/blog/wordpress-import-and-export-tools/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is a WordPress export the same as a backup?","acceptedAnswer":{"@type":"Answer","text":"No. An export covers content and leaves out themes, plugins, settings and more. A backup should cover your files and database, so keep regular backups regardless."}},{"@type":"Question","name":"Does the export file contain my images?","acceptedAnswer":{"@type":"Answer","text":"Generally not. It records details of media items and their addresses, and the importer can then fetch them from the original site if that site can still be reached."}},{"@type":"Question","name":"Will importing overwrite my existing content?","acceptedAnswer":{"@type":"Answer","text":"An import normally adds content and does not replace existing items, though matches may be skipped. Always take a backup first, as results depend on your content."}},{"@type":"Question","name":"Can I import content from Wix or another platform?","acceptedAnswer":{"@type":"Answer","text":"The tools listed under Import may include options for some other systems, but support varies. For one common example, see our guide to moving from Wix to WordPress."}},{"@type":"Question","name":"Can I export just one category?","acceptedAnswer":{"@type":"Answer","text":"Usually yes. Choose Posts on the export screen and filter by category. Some related items may need separate attention, so check the result on a test site."}},{"@type":"Question","name":"Can I export online shop products this way?","acceptedAnswer":{"@type":"Answer","text":"Products can appear as a content type, but shop data is more complex, and orders in particular may be stored differently. Treat shop moves as a separate project and test thoroughly."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Import and Export Tools: Moving Content Between Sites Safely</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Import and Export Tools: Moving Content Between Sites Safely</h1><p class="pws-lead">How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-06">6 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>The built-in export creates a file containing content such as posts, pages, comments, categories and tags, not a complete copy of your site.</li><li>Settings, themes, plugins and many customisations are not carried across, so an export is not a substitute for a backup.</li><li>Test every import on a staging site first, and check media, authors, links and layout before relying on the result.</li></ul></div>
+<p>At some point, many WordPress site owners need to move content from one place to another. You might be merging two sites, starting again on a fresh install, moving a blog on to a new business website, or copying a set of pages to a staging site. WordPress includes tools for this under the Tools menu, and they are useful, but they are also often misunderstood.</p>
+<p>The biggest misconception is that export creates a full copy of your website. It does not. This guide explains what the tools do, what they leave out, how to use them step by step, and how to deal with the problems you are most likely to meet. Screens can vary a little between WordPress versions, so use the steps as a guide.</p>
+
+<h2>What the WordPress export tool does</h2>
+<p>The export tool creates a single file containing your site content in a format WordPress can read, known as WXR. It is an XML file, which means it is structured text. You can download it to your computer and later upload it to another WordPress site using the import tool.</p>
+<p>The export can typically include:</p>
+<ul>
+<li>Posts and pages, including their titles, content, status and dates.</li>
+<li>Comments attached to those posts and pages.</li>
+<li>Categories, tags and other taxonomy terms.</li>
+<li>Custom post types registered on the site.</li>
+<li>Navigation menu items in many cases.</li>
+<li>References to media items, including their web addresses.</li>
+<li>Custom fields stored with the content.</li>
+</ul>
+<p>Notice the wording on media. The export file generally holds details of your images and documents, including where they are stored, but it does not contain the files themselves. That distinction causes many of the issues described later.</p>
+
+<h2>What the export does not include</h2>
+<p>An export file is content, not a site. As a rule, it does not carry over:</p>
+<ul>
+<li>Your theme files or theme customisations held outside the content.</li>
+<li>Plugins and many of their settings.</li>
+<li>Site settings such as your title, permalink structure or reading options.</li>
+<li>User accounts and passwords, although author names are referenced.</li>
+<li>Data held in custom database tables, which some forms, shop tools and booking systems use.</li>
+<li>Widgets in some setups.</li>
+</ul>
+<p>For this reason, do not rely on an export as your safety net. If your site was damaged or lost, a content export would leave you rebuilding much of the rest by hand. A proper backup covers both the files and the database. Our <a href="/blog/website-backup-and-recovery-plan/">backup and recovery plan</a> guide explains what good coverage looks like.</p>
+<p>Likewise, if you want to move the whole site to a new host, the export tool is usually the wrong choice. A site migration copies everything. Our guide on <a href="/blog/change-website-hosting-without-downtime/">changing hosting without downtime</a> covers that process.</p>
+
+<h2>When these tools are the right choice</h2>
+<p>The tools work well when you want the content but not the rest of the site. Good situations include:</p>
+<ul>
+<li>Merging a separate blog into your main business site.</li>
+<li>Starting afresh with a new theme and a clean install, while keeping your articles.</li>
+<li>Moving one category of posts or a set of pages to a new site.</li>
+<li>Bringing a set of custom post type entries across to a matching site.</li>
+<li>Keeping a dated content archive in addition to your regular backups.</li>
+</ul>
+<p>They are less suitable when pages depend heavily on a particular page builder, custom fields or shop data, because those details may not display properly unless the destination site is set up in the same way.</p>
+
+<h2>How to export your content</h2>
+<ol>
+<li>Log in with an administrator account and go to Tools, then Export.</li>
+<li>Choose what to export. You can select all content, or limit it to posts, pages, media or another content type.</li>
+<li>If you choose posts or pages, use any filters offered. These may include category, author, date range and status.</li>
+<li>Click the download button to save the file to your computer.</li>
+<li>Store the file somewhere sensible with a clear name that includes the site and the date.</li>
+</ol>
+<p>Exporting does not change your live site. It only creates a copy of the data, so this step is low risk. Still, the file may include draft content, comments and commenter details, which can include personal data such as names and email addresses. Store and share it with care, and take advice if you are unsure about your data protection responsibilities.</p>
+<p>Before you export, consider a tidy-up. There is little value in moving old drafts, spam comments and unused categories to a fresh site. Our <a href="/blog/website-content-audit/">content audit</a> guide can help you decide what is worth keeping.</p>
+
+<h2>How to import content into another site</h2>
+<ol>
+<li>Prepare the destination site. Install the theme and any tools the content relies on, and register matching custom post types where needed.</li>
+<li>Take a backup of the destination site. An import adds to what is there, and undoing it can be awkward.</li>
+<li>Go to Tools, then Import.</li>
+<li>Find WordPress in the list. If the importer is not already installed, you will be offered the option to install it.</li>
+<li>Run the importer and upload your export file.</li>
+<li>Choose how to handle authors. You can assign content to an existing user, or create a new one where offered.</li>
+<li>Tick the option to download and import file attachments if you want media brought across.</li>
+<li>Submit, then wait for the process to finish without closing the page.</li>
+</ol>
+<p>The importer usually tries to avoid creating duplicates by checking for content with matching details, but do not assume it will catch everything. If you run the same import repeatedly or the content has been edited, check the result closely.</p>
+
+<h2>Common problems and how to fix them</h2>
+<h3>Images are missing after import</h3>
+<p>This is the classic issue. The importer fetches each file from the original site, using the address recorded in the export. If the old site is offline, password protected, blocking requests or running slowly, some files may not arrive. Ideally, keep the old site online and publicly reachable until the import is complete and checked.</p>
+<p>Images inserted into content may also still point to the old site after import. Check a sample of pages, including the page source if you are comfortable doing so. If those addresses still point to the old domain, the images will disappear when that site closes. Our guide to <a href="/blog/wordpress-media-library-organisation/">media library organisation</a> may be useful once you have your files in place.</p>
+<h3>The file is too large to upload</h3>
+<p>Your hosting may limit upload sizes, and the limit is shown on the import screen. Options include exporting smaller batches by content type, category or date, or asking your host whether the limit can be raised. Splitting the work into batches also makes errors easier to spot.</p>
+<h3>The import stops part way through</h3>
+<p>Long imports can hit server time limits, especially when many images are being downloaded. Try running smaller batches. Before trying again, check what did arrive so you can work out what is missing.</p>
+<h3>Layouts look wrong</h3>
+<p>Content built with blocks generally transfers well, particularly when it uses core blocks. Content built with a page builder or custom blocks needs the same tools active on the destination site. Even then, details such as reusable sections or global styles may not come across. Our guide to <a href="/blog/wordpress-synced-patterns/">synced patterns</a> explains one such example, where content lives separately from the page it appears on.</p>
+<h3>Internal links point to the old site</h3>
+<p>Links typed into your content will keep their original addresses. If the domain changed, those links may take visitors to the old site or nowhere at all. Plan to update them, and test a sample after you finish.</p>
+<h3>Addresses have changed</h3>
+<p>Slugs normally come across, but final addresses depend on the permalink settings of the new site. Conflicts can also add a number to the end of a slug. If an address has changed from the original, you will probably need redirects to preserve existing links. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> explains how to approach this.</p>
+
+<h2>Keeping search visibility during a content move</h2>
+<p>When published content moves to a new domain or address, it pays to consider search engines from the start. Keep a list of every old address and where it is going, then set up redirects from each one. Avoid leaving the same content live on both sites for long, as this can confuse search engines about which version to show.</p>
+<p>A staging site should also be kept out of search results, so your test copy does not get indexed. If this is part of a larger relaunch, our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> gives a more thorough list of checks.</p>
+
+<h2>A sensible checklist after an import</h2>
+<p>Once the import finishes, work through these checks before you treat the job as done.</p>
+<ul>
+<li>Compare post and page counts between the old site and the new one.</li>
+<li>Open a sample of older and newer content, on desktop and mobile.</li>
+<li>Check that featured images and inline images load, and from which domain.</li>
+<li>Confirm that authors, dates, categories and tags look right.</li>
+<li>Check that drafts have stayed as drafts and nothing private has been published.</li>
+<li>Test internal links, menus and any forms embedded in content.</li>
+<li>Review comments, and remove any that should not have moved.</li>
+<li>Remove any sample content from the fresh install, such as the default post and page.</li>
+</ul>
+<p>The default WordPress sample content is easy to overlook. Our guide to <a href="/blog/wordpress-trash-and-restoring-content/">trash and restoring content</a> explains how deleted items are handled in case you remove something by mistake.</p>
+
+<h2>When to get help</h2>
+<p>A small blog moving between two simple sites is often manageable on your own. Consider getting support if the site has a large volume of content, relies on custom fields or shop data, needs lots of redirects, or earns a meaningful share of its enquiries through search.</p>
+<p>Prism Works Studio helps UK businesses plan and carry out content moves and rebuilds on WordPress. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team can review what you have and suggest a sensible route, or you can <a href="/contact/">contact us</a> to talk it through.</p>
+
+<h2>FAQs</h2>
+<h3>Is a WordPress export the same as a backup?</h3>
+<p>No. An export covers content and leaves out themes, plugins, settings and more. A backup should cover your files and database, so keep regular backups regardless.</p>
+<h3>Does the export file contain my images?</h3>
+<p>Generally not. It records details of media items and their addresses, and the importer can then fetch them from the original site if that site can still be reached.</p>
+<h3>Will importing overwrite my existing content?</h3>
+<p>An import normally adds content and does not replace existing items, though matches may be skipped. Always take a backup first, as results depend on your content.</p>
+<h3>Can I import content from Wix or another platform?</h3>
+<p>The tools listed under Import may include options for some other systems, but support varies. For one common example, see our guide to <a href="/blog/wix-to-wordpress-migration/">moving from Wix to WordPress</a>.</p>
+<h3>Can I export just one category?</h3>
+<p>Usually yes. Choose Posts on the export screen and filter by category. Some related items may need separate attention, so check the result on a test site.</p>
+<h3>Can I export online shop products this way?</h3>
+<p>Products can appear as a content type, but shop data is more complex, and orders in particular may be stored differently. Treat shop moves as a separate project and test thoroughly.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Import%20and%20Export%20Tools%3A%20Moving%20Content%20Between%20Sites%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-front-page-and-posts-page/"><p class="pws-tags">Guides &middot; 9 min read</p><h3>WordPress Front Page and Posts Page: How to Set Your Homepage and Blog</h3><p>How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-image-alt-text-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Image Alt Text: How to Write Useful Descriptions for Your Website</h3><p>How to write image alt text that helps screen reader users and search engines, with examples for products, logos, team photos, charts and decorative images.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-accordions-and-tabs/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Website Accordions and Tabs: When to Use Them and How to Design Them Well</h3><p>When website accordions and tabs help visitors and when they hide too much, with practical design, mobile, accessibility and SEO tips for small business sites.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Import%20and%20Export%20Tools%3A%20Moving%20Content%20Between%20Sites%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

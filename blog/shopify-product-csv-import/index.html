@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shopify Product CSV Import and Export: A UK Guide</title>
+<meta name="description" content="How to use Shopify product CSV import and export to bulk add or edit products safely, avoid duplicate listings and check your store after every upload.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-product-csv-import/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shopify Product CSV Import and Export: A UK Guide">
+<meta property="og:description" content="How to use Shopify product CSV import and export to bulk add or edit products safely, avoid duplicate listings and check your store after every upload.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-product-csv-import/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-product-csv-import.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-06">
+<meta property="article:modified_time" content="2026-11-06">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-product-csv-import/#article","headline":"Shopify Product CSV Import and Export: How to Bulk Edit Products Safely","description":"How to use Shopify product CSV import and export to bulk add or edit products safely, avoid duplicate listings and check your store after every upload.","datePublished":"2026-11-06","dateModified":"2026-11-06","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-product-csv-import/","url":"https://prismworksstudio.co.uk/blog/shopify-product-csv-import/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-product-csv-import.png","inLanguage":"en-GB","wordCount":1610,"articleSection":"Website & Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Shopify Product CSV Import and Export: How to Bulk Edit Products Safely","item":"https://prismworksstudio.co.uk/blog/shopify-product-csv-import/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I undo a Shopify product import?","acceptedAnswer":{"@type":"Answer","text":"There is no simple undo button. That is why exporting a backup first matters. You can use the backup to restore values by hand or by importing a corrected file."}},{"@type":"Question","name":"Why did my import create duplicate products?","acceptedAnswer":{"@type":"Answer","text":"Duplicates usually come from changed or mistyped handles. Shopify matches on handle, so a different handle is treated as a new product."}},{"@type":"Question","name":"Why are my images missing after import?","acceptedAnswer":{"@type":"Answer","text":"The image address may be private, misspelt or no longer available. Shopify needs to reach each image address at the time of import."}},{"@type":"Question","name":"Should I use CSV or the bulk editor?","acceptedAnswer":{"@type":"Answer","text":"For a handful of changes, the bulk editor is easier to check on screen. For large or repeated changes, or data from another system, a CSV is often quicker."}},{"@type":"Question","name":"Can I update stock levels in the product CSV?","acceptedAnswer":{"@type":"Answer","text":"Stock is normally managed through the separate inventory export and import, which handles multiple locations more clearly."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Shopify Product CSV Import and Export: How to Bulk Edit Products Safely</li></ol></nav><span class="pws-eyebrow">Website &amp; Ecommerce</span><h1>Shopify Product CSV Import and Export: How to Bulk Edit Products Safely</h1><p class="pws-lead">How to use Shopify product CSV import and export to bulk add or edit products safely, avoid duplicate listings and check your store after every upload.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-06">6 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Always export a fresh CSV backup before importing anything, so you can compare or roll back by hand.</li><li>The product handle is what Shopify uses to match rows to existing products, so never change it casually.</li><li>Test every import with a small file first, then check products, variants, images and prices in the admin.</li></ul></div>
+<p>Shopify lets you add and edit products in bulk using a CSV file, a plain spreadsheet format that you can open in Excel, Numbers or Google Sheets. For a UK small business with dozens or hundreds of products, the CSV route can save hours of clicking through product pages one at a time. It can also cause real damage if a column is wrong, because one upload can overwrite many products at once.</p>
+<p>This guide explains how product CSV import and export works in Shopify, how to prepare a file, how to avoid the usual mistakes and how to check your store afterwards. If you are still setting up your shop, our <a href="/blog/shopify-store-setup-uk/">Shopify store setup guide</a> covers the wider picture first.</p>
+
+<h2>What the product CSV is for</h2>
+<p>The product CSV is a structured list of your products. Each row describes a product or one of its variants, and each column holds a field such as title, description, vendor, product type, tags, price, SKU, weight or image address. Shopify reads the file and creates or updates products to match.</p>
+<p>Typical reasons to use it include:</p>
+<ul>
+<li><strong>Launching a new store</strong> with a product range prepared in a spreadsheet.</li>
+<li><strong>Moving from another platform</strong> where you can export products in a spreadsheet format.</li>
+<li><strong>Bulk changes</strong> such as updating many prices, adding tags across a range or correcting product types.</li>
+<li><strong>Keeping an offline record</strong> of your catalogue at a point in time.</li>
+</ul>
+<p>For smaller edits, the bulk editor inside the Shopify admin is often safer, because you can see each change on screen before saving. The CSV is better when the change is large, repetitive or comes from another system.</p>
+
+<h2>Start with an export, not a blank file</h2>
+<p>The safest way to build an import file is to begin with an export from your own store. Go to Products, choose Export, and select all products or the current selection. Shopify emails or downloads a CSV with the correct column headings for your store.</p>
+<p>This matters for two reasons. First, the export gives you a backup of how your products looked before any change. Keep it somewhere safe and name it with the date. Second, it gives you the exact header row Shopify expects, so you are not guessing column names.</p>
+<p>If you are adding new products to an empty store, export the sample template Shopify offers, or export a single product you created by hand, and use that as your starting layout.</p>
+
+<h2>Understanding the key columns</h2>
+<p>You do not need to fill every column, but a few deserve care.</p>
+<h3>Handle</h3>
+<p>The handle is the unique identifier for a product and forms part of its web address. Shopify uses it to decide whether a row updates an existing product or creates a new one. If you change a handle in the CSV, Shopify may treat it as a new product and you can end up with duplicates. If you want to change a product address, do it in the admin and set up a redirect, as explained in our <a href="/blog/shopify-url-redirects/">Shopify URL redirects guide</a>.</p>
+<h3>Variant rows</h3>
+<p>A product with several sizes or colours uses one row per variant. The first row holds the product details, such as title and description, and the following rows repeat the handle and fill in only the variant fields: option values, SKU, price, weight and inventory settings. Our <a href="/blog/shopify-product-variants/">Shopify product variants guide</a> explains how options and variants relate.</p>
+<h3>Option names and values</h3>
+<p>Option names such as Size or Colour must be consistent across a product. A small spelling difference, or an extra space, can create a new option rather than matching the existing one.</p>
+<h3>Images</h3>
+<p>Image columns take a publicly reachable web address for each image. Shopify fetches the image during import. If the address is wrong or private, the image will not appear. Extra images for the same product go on additional rows with the same handle.</p>
+<h3>Status and published</h3>
+<p>These columns control whether a product is active, a draft or archived, and whether it appears on your online store. Importing new products as drafts gives you time to review them before customers see them.</p>
+<h3>Tags</h3>
+<p>Tags are a comma separated list in one cell. An import usually replaces the tags on a product rather than adding to them, so include every tag you want to keep. Our <a href="/blog/shopify-product-tags/">Shopify product tags guide</a> covers how to plan them.</p>
+
+<h2>Preparing the file without breaking it</h2>
+<p>Spreadsheet programs try to be helpful, and that can corrupt a product file. A few habits help:</p>
+<ul>
+<li><strong>Save as CSV with UTF-8 encoding</strong> so that pound signs, accented letters and curly quotes survive.</li>
+<li><strong>Watch for leading zeros</strong> in SKUs and barcodes. Some programs strip them or turn long numbers into scientific notation. Format those columns as text before pasting data in.</li>
+<li><strong>Do not reorder or rename header cells.</strong> Leave the header row exactly as exported.</li>
+<li><strong>Keep variant rows together</strong> directly under their parent product row.</li>
+<li><strong>Remove columns you are not changing</strong> only if you understand how Shopify treats missing columns. When in doubt, leave the exported values as they are.</li>
+<li><strong>Check descriptions for HTML.</strong> The description column holds HTML. Broken tags can spill formatting across a product page.</li>
+</ul>
+<p>If several people work on the catalogue, agree who owns the master file and keep dated copies, so nobody imports an old version over newer edits.</p>
+
+<h2>Running the import</h2>
+<p>In the admin, go to Products and choose Import. Upload your file. Shopify offers an option to overwrite products that have the same handle. Tick it only if you intend to update existing products. If it is left unticked, rows matching an existing handle may be skipped.</p>
+<p>Shopify shows a preview of the first product before you confirm. Read it properly. Check the title, price, variants and images look right. If anything is off, cancel and fix the file rather than hoping the rest is fine.</p>
+<p>Large imports can take a while to process, and Shopify will tell you when the job finishes and whether any rows failed. Read the error messages carefully. They usually point to a specific row and column.</p>
+
+<h2>Test small before you go big</h2>
+<p>Before importing hundreds of rows, import a file containing two or three products, ideally one simple product and one with variants and several images. Check them thoroughly in the admin and on the storefront. Once those look correct, run the full file.</p>
+<p>If you have access to a development or staging copy of your store, test there first. Our <a href="/blog/website-staging-and-testing/">website staging and testing guide</a> explains why a safe test area is worth having.</p>
+
+<h2>Inventory is a separate job</h2>
+<p>Stock levels are usually handled through a separate inventory export and import, because stock can be held at more than one location. Mixing product edits and stock changes in one go makes mistakes harder to spot. Treat them as two steps and check each. Our <a href="/blog/shopify-inventory-management/">Shopify inventory management guide</a> covers locations and stock tracking in more detail.</p>
+
+<h2>Checking your store after an import</h2>
+<p>After every import, work through a short checklist:</p>
+<ul>
+<li>Search the admin for duplicate product titles that might signal a changed handle.</li>
+<li>Open a sample of products and check each variant price, compare at price and SKU.</li>
+<li>Look at images on the storefront, on desktop and on mobile.</li>
+<li>Check collections, especially automated collections that rely on tags, type or vendor.</li>
+<li>Check product filters still work, since they depend on consistent data.</li>
+<li>Confirm draft and active statuses are what you expected.</li>
+<li>Check any sales channels that sync products, such as a shopping feed, for errors.</li>
+</ul>
+<p>If something has gone wrong, your pre-import export is your record of how things looked. Shopify does not offer a one click undo for imports, so fixes may mean editing in the admin or importing a corrected file.</p>
+
+<h2>Using CSV files when migrating to Shopify</h2>
+<p>When moving from another platform, a product export from the old system rarely matches Shopify columns directly. You will usually need to map fields, split variants into separate rows and rewrite handles so they match your planned URL structure. This is also the moment to plan redirects from old product addresses so you do not lose search visibility. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> and <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> cover that process.</p>
+
+<h2>When to get help</h2>
+<p>CSV work is manageable for many owners, but it carries risk on large catalogues, complex variants or stores with many collections and integrations. Prism Works Studio can prepare and check product files, run imports on a test copy first and review the store afterwards, as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+
+<h2>FAQs</h2>
+<h3>Can I undo a Shopify product import?</h3>
+<p>There is no simple undo button. That is why exporting a backup first matters. You can use the backup to restore values by hand or by importing a corrected file.</p>
+<h3>Why did my import create duplicate products?</h3>
+<p>Duplicates usually come from changed or mistyped handles. Shopify matches on handle, so a different handle is treated as a new product.</p>
+<h3>Why are my images missing after import?</h3>
+<p>The image address may be private, misspelt or no longer available. Shopify needs to reach each image address at the time of import.</p>
+<h3>Should I use CSV or the bulk editor?</h3>
+<p>For a handful of changes, the bulk editor is easier to check on screen. For large or repeated changes, or data from another system, a CSV is often quicker.</p>
+<h3>Can I update stock levels in the product CSV?</h3>
+<p>Stock is normally managed through the separate inventory export and import, which handles multiple locations more clearly.</p>
+<p>If you want a second pair of eyes before a big catalogue upload, <a href="/contact/">get in touch with Prism Works Studio</a> and we will talk it through.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Product%20CSV%20Import%20and%20Export%3A%20How%20to%20Bulk%20Edit%20Products%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-import-and-export-tools/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>WordPress Import and Export Tools: Moving Content Between Sites Safely</h3><p>How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-front-page-and-posts-page/"><p class="pws-tags">Guides &middot; 9 min read</p><h3>WordPress Front Page and Posts Page: How to Set Your Homepage and Blog</h3><p>How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-image-alt-text-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Image Alt Text: How to Write Useful Descriptions for Your Website</h3><p>How to write image alt text that helps screen reader users and search engines, with examples for products, logos, team photos, charts and decorative images.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'Shopify%20Product%20CSV%20Import%20and%20Export%3A%20How%20to%20Bulk%20Edit%20Products%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
