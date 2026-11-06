@@ -54,9 +54,22 @@
       say('Your email app should open with your message ready to send.', 'ok');
       return;
     }
+    // Offer the same enquiry as a pre-filled WhatsApp message. The visitor still taps send.
+    var oldWa = form.querySelector('.pws-form-wa');
+    if (oldWa) oldWa.remove();
+    var waText = 'Hi Prism Works Studio, I have just sent an enquiry through your website.\n\nName: ' + data.get('name') + '\nEmail: ' + data.get('email') + '\nPhone: ' + data.get('phone') + '\nService: ' + data.get('service') + '\n\n' + String(data.get('message') || '').slice(0, 1000);
+    var showWa = function (label) {
+      var w = document.createElement('a');
+      w.className = 'pws-btn pws-btn-primary pws-form-wa';
+      w.href = 'https://wa.me/447506909018?text=' + encodeURIComponent(waText);
+      w.target = '_blank';
+      w.rel = 'noopener';
+      w.textContent = label;
+      status.parentNode.insertBefore(w, status.nextSibling);
+    };
     say('Sending...');
     fetch(endpoint, { method: 'POST', body: data, headers: { Accept: 'application/json' } })
-      .then(function (r) { if (!r.ok) throw new Error(r.status); form.reset(); say('Thank you. We will be in touch shortly.', 'ok'); if (typeof gtag === 'function') gtag('event', 'generate_lead', { form_name: 'contact' }); })
-      .catch(function () { say('Sorry, that did not send. Please email contact@prismworks.studio or call +44 7506 909018.', 'err'); });
+      .then(function (r) { if (!r.ok) throw new Error(r.status); form.reset(); say('Thank you. We will be in touch shortly. Want a faster reply? Send your enquiry on WhatsApp too.', 'ok'); showWa('Send on WhatsApp'); if (typeof gtag === 'function') gtag('event', 'generate_lead', { form_name: 'contact' }); })
+      .catch(function () { say('Sorry, that did not send. Please email contact@prismworks.studio or call +44 7506 909018.', 'err'); showWa('Send on WhatsApp instead'); });
   });
 })();

@@ -81,3 +81,4 @@
 .wa-float svg { width: 28px; height: 28px; fill: #000; }
 .wa-float span { display: none; }
 @media (max-width: 480px) { .wa-float { width: 54px; height: 54px; padding: 0; } }
+.pws .pws-form-wa { margin-top: 10px; }
