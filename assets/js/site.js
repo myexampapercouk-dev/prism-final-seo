@@ -57,6 +57,6 @@
     say('Sending...');
     fetch(endpoint, { method: 'POST', body: data, headers: { Accept: 'application/json' } })
       .then(function (r) { if (!r.ok) throw new Error(r.status); form.reset(); say('Thank you. We will be in touch shortly.', 'ok'); if (typeof gtag === 'function') gtag('event', 'generate_lead', { form_name: 'contact' }); })
-      .catch(function () { say('Sorry, that did not send. Please email contact@prismworks.studio or call +44 1902 937021.', 'err'); });
+      .catch(function () { say('Sorry, that did not send. Please email contact@prismworks.studio or call +44 7506 909018.', 'err'); });
   });
 })();

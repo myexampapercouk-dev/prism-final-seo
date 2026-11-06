@@ -14,10 +14,10 @@ const SITE = {
   name: 'Prism Works Studio',
   url: 'https://prismworksstudio.co.uk',
   email: 'contact@prismworks.studio',
-  phone: '+44 1902 937021',
-  phoneHref: '+441902937021',
+  phone: '+44 7506 909018',
+  phoneHref: '+447506909018',
   // WhatsApp number (country code, digits only) for the floating chat button. Must be a WhatsApp-enabled number.
-  whatsapp: '441902937021',
+  whatsapp: '447506909018',
   tagline: 'AI-powered digital marketing and ecommerce agency for UK businesses',
   theme: '#080b0f',
 };
@@ -161,7 +161,7 @@ const CORE_PAGES = [
   { slug: 'about-us', file: 'about-us', title: 'About Us | Prism Works Studio', description: 'A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.', crumb: 'About us' },
   { slug: 'services', file: 'services', title: 'Digital Marketing Services UK | Prism Works Studio', description: 'SEO, GEO, paid media, digital PR, content marketing, brand strategy and website and ecommerce development on Shopify, WooCommerce and WordPress.', crumb: 'Services' },
   { slug: 'sectors', file: 'sectors', title: 'Sectors We Serve | Prism Works Studio', description: 'Digital marketing with deep sector knowledge: healthcare, hospitality, ecommerce, financial advisers, SaaS, B2B and education.', crumb: 'Sectors' },
-  { slug: 'contact', file: 'contact', title: 'Contact Us | Prism Works Studio', description: 'Book a free, no-obligation 30-minute discovery call with Prism Works Studio. Email contact@prismworks.studio or call +44 1902 937021.', crumb: 'Contact' },
+  { slug: 'contact', file: 'contact', title: 'Contact Us | Prism Works Studio', description: 'Book a free, no-obligation 30-minute discovery call with Prism Works Studio. Email contact@prismworks.studio or call +44 7506 909018.', crumb: 'Contact' },
 ];
 const HOME_FAQS = [];
 for (const p of CORE_PAGES) {
