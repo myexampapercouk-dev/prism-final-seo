@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Connect a Custom Domain to Shopify: UK Guide</title>
+<meta name="description" content="How to connect a custom domain to Shopify: connecting or transferring, DNS records, primary domains, SSL checks and keeping your business email running.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Connect a Custom Domain to Shopify: UK Guide">
+<meta property="og:description" content="How to connect a custom domain to Shopify: connecting or transferring, DNS records, primary domains, SSL checks and keeping your business email running.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-connect-custom-domain.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=e2f9889a">
+<meta property="article:published_time" content="2026-11-06">
+<meta property="article:modified_time" content="2026-11-06">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 1902 937021","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/#article","headline":"How to Connect a Custom Domain to Shopify Without Breaking Email","description":"How to connect a custom domain to Shopify: connecting or transferring, DNS records, primary domains, SSL checks and keeping your business email running.","datePublished":"2026-11-06","dateModified":"2026-11-06","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/","url":"https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-connect-custom-domain.png","inLanguage":"en-GB","wordCount":2068,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Connect a Custom Domain to Shopify Without Breaking Email","item":"https://prismworksstudio.co.uk/blog/shopify-connect-custom-domain/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do I have to transfer my domain to Shopify?","acceptedAnswer":{"@type":"Answer","text":"No. You can leave the domain with its current registrar and connect it by updating DNS records. Renewal and billing then stay with that registrar."}},{"@type":"Question","name":"Will connecting a domain to Shopify stop my email?","acceptedAnswer":{"@type":"Answer","text":"It should not, provided you only change the web records and leave your MX and related email records alone. Take a copy of your records first and test email afterwards."}},{"@type":"Question","name":"Can I use a .co.uk and a .com on the same store?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can connect both and redirect one to your primary domain, which is a simple way to protect your brand name. Selling to different countries on separate domains is a bigger decision, covered in our guide to selling internationally from a UK online store."}},{"@type":"Question","name":"Can I keep my old website on a subdomain?","acceptedAnswer":{"@type":"Answer","text":"Generally, yes. A subdomain such as blog.yourbrand.co.uk has its own record, so it can point somewhere other than your store. Make sure no records are changed that this subdomain depends on."}},{"@type":"Question","name":"Do I need to buy an SSL certificate?","acceptedAnswer":{"@type":"Answer","text":"Normally not. Shopify provides one automatically for connected domains once the DNS records are correct."}},{"@type":"Question","name":"Will changing my domain affect my search rankings?","acceptedAnswer":{"@type":"Answer","text":"Connecting the address your site already uses is less disruptive than moving to a new one, but replacing an old site still needs redirects and checks. Moving to a new domain is a migration in its own right, and our SEO migration checklist sets out what to protect."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Connect a Custom Domain to Shopify Without Breaking Email</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Connect a Custom Domain to Shopify Without Breaking Email</h1><p class="pws-lead">How to connect a custom domain to Shopify: connecting or transferring, DNS records, primary domains, SSL checks and keeping your business email running.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-06">6 November 2026</time> &middot; 9 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>You can connect a domain you already own to Shopify and leave it with your current registrar, so a transfer is optional.</li><li>Only the web records need to change. Leave your MX and other email records alone and your mailboxes should carry on working.</li><li>Choose one primary domain, redirect the others to it, and check the secure certificate and every address variation after the change.</li></ul></div>
+<p>To connect a custom domain to Shopify, you add the domain under Settings and then Domains in your admin, then point its DNS records at Shopify, either automatically or by hand at your domain provider. Once that is done, your store loads on your own address instead of the myshopify.com one it started with. The job itself is small, but it touches the same DNS zone that controls your business email, so it pays to understand what you are changing before you change it.</p>
+<p>This guide is for UK store owners setting up a new shop or moving an existing domain across from another website. It explains the choice between connecting and transferring, which records to change, how primary domains work and what to check afterwards. If you have not yet bought a domain or set up business email, read our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> first.</p>
+
+<h2>Your options: buy, connect or transfer</h2>
+<p>Shopify gives you three routes to having a domain on your store. They produce a similar result for shoppers, but they differ in who manages the domain and where you make changes later.</p>
+<table>
+<thead><tr><th>Route</th><th>What it means</th><th>Suits you if</th></tr></thead>
+<tbody>
+<tr><td>Buy through Shopify</td><td>Shopify registers the domain and manages its settings in your admin</td><td>You have no domain yet and want everything in one place</td></tr>
+<tr><td>Connect</td><td>The domain stays with your current registrar and only its records point at Shopify</td><td>You already own a domain, especially one with email attached</td></tr>
+<tr><td>Transfer</td><td>Management of the domain moves to Shopify from your current registrar</td><td>You want to consolidate and are happy to move management across</td></tr>
+</tbody>
+</table>
+<p>For a business that already has a domain and working email, connecting is usually the simplest choice. It changes the fewest things at once. You can always transfer later if you decide you would rather manage the domain from Shopify, and registries place some limits on transfers, for instance on recently registered or recently transferred domains, so a transfer is not always available straight away.</p>
+<p>Whichever route you take, make sure the domain is registered in the name of the business or someone who will stay responsible for it, and that renewal reminders go to an inbox someone reads. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains why that matters if you ever change suppliers.</p>
+
+<h2>Before you change anything</h2>
+<p>A few minutes of preparation will save you the awkward moments that come from changing DNS blind. Before you start:</p>
+<ul>
+<li><strong>Find your login.</strong> Confirm which company holds your domain and that you can sign in. Your DNS may be managed somewhere other than where you bought the domain, so check which nameservers the domain uses.</li>
+<li><strong>Record your current DNS.</strong> Take a screenshot or export of every record in the zone. If anything goes wrong, this is your route back.</li>
+<li><strong>Identify your email records.</strong> Note the MX records, plus any TXT records used for SPF and DKIM, and any CNAME records your email provider relies on.</li>
+<li><strong>Check the store is ready.</strong> If an old website is live on the domain, connecting will replace it for visitors. Make sure the new store has been tested and your redirects are prepared. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers the planning, and the <a href="/blog/shopify-url-redirects/">Shopify URL redirects guide</a> covers where they go in the admin.</li>
+<li><strong>Pick a quiet time.</strong> Make the change when you can watch the results and away from a promotion or a busy trading period.</li>
+</ul>
+
+<h2>How to connect your domain, step by step</h2>
+<ol>
+<li>In your Shopify admin, go to Settings and then Domains.</li>
+<li>Choose the option to connect an existing domain and enter your domain name.</li>
+<li>If Shopify recognises your provider and offers automatic connection, you can sign in to that provider and approve the changes. Review what will be altered before you agree.</li>
+<li>If not, or if you would rather stay in control, use manual setup. Shopify will show you the records it expects.</li>
+<li>Sign in to wherever your DNS is managed and update the records as shown in the next section.</li>
+<li>Return to Shopify and use the option to verify the connection.</li>
+<li>Set your primary domain and check the redirect setting.</li>
+</ol>
+<p>Screen names change from time to time, so follow the wording in your admin if it differs slightly from what is described here.</p>
+
+<h2>Which DNS records to change</h2>
+<p>DNS is a list of instructions saying where different services for your domain live. A connection to Shopify normally involves two web records:</p>
+<ul>
+<li><strong>An A record for the root domain.</strong> This covers the version with no www, such as yourbrand.co.uk. Its host is often shown as @, and it points to an IP address supplied by Shopify.</li>
+<li><strong>A CNAME record for www.</strong> This covers www.yourbrand.co.uk, and it points to a Shopify hostname.</li>
+</ul>
+<p>Use the exact values shown in your Shopify admin or in Shopify's current help documentation, rather than copying them from an old tutorial, because they can change. If an existing A record or www record points at your old website, you edit or replace it. A domain should not have conflicting web records pointing at two places, as this can make the store load intermittently.</p>
+<p>One point of confusion can be the host field. Some providers want @, some want the field left blank, and some add your domain automatically, which means typing the whole name can produce an address with the domain repeated. If a record looks odd when saved, check how your provider expects it to be entered.</p>
+<h3>Why changes do not appear instantly</h3>
+<p>DNS answers are cached across the internet for a period set by each record's TTL value. After you save a change, some visitors may see the old site while others see the new one until those caches expire. How long that takes varies, so do not make repeated edits just because you cannot see a change straight away. You can lower the TTL in advance if your provider allows it, which may shorten the changeover when the records are finally switched.</p>
+
+<h2>How to keep your email working</h2>
+<p>Shopify does not provide mailboxes as standard. If you send and receive email using your domain through a separate email provider, those services rely on their own DNS records, and they can stay exactly as they are when you connect the domain.</p>
+<p>The rule is simple: change the web records and leave the mail records alone. In practice that means:</p>
+<ul>
+<li>Do not delete or edit MX records.</li>
+<li>Do not remove TXT records for SPF, DKIM or DMARC.</li>
+<li>Do not remove CNAME records used by your email provider, even if their names look unfamiliar.</li>
+<li>Take extra care with nameserver changes, because moving nameservers moves the whole zone. Anything you do not recreate at the new location stops working.</li>
+</ul>
+<p>Transfers need the same care. Before transferring a domain, check that your existing records will come across or be re-entered, and test email straight after the move. Send a message to the domain from an outside address, and send one from it too.</p>
+<h3>Sending store emails from your domain</h3>
+<p>Connecting a domain does not by itself sort out the address your order notifications come from. Under the notification settings in your admin you can set your sender email address, and Shopify may ask you to add authentication records to your DNS so that those messages can be sent on behalf of your domain. Add these as new records, keep your existing ones, and send a test order confirmation afterwards. Our guide to <a href="/blog/ecommerce-transactional-emails/">ecommerce transactional emails</a> covers what those messages should say.</p>
+
+<h2>Setting your primary domain</h2>
+<p>You may end up with several addresses attached to the same store: the root domain, the www version, your myshopify.com address and perhaps a second domain you bought to protect your brand. One of these needs to be the primary domain, which is the address customers see in the browser and the one search engines should treat as your store's main address.</p>
+<p>Shopify lets you redirect traffic from your other domains to the primary. Keep this switched on unless you have a clear reason not to, such as a separately configured international set-up. It stops the same pages being available on several addresses and gives shoppers one consistent address.</p>
+<p>Should you pick www or non-www? Either works. If you are moving an established website, the simplest option is often to keep whichever version the site already uses, because that avoids an unnecessary change of URL for pages already in search results and bookmarks.</p>
+
+<h2>Secure certificates</h2>
+<p>Shopify provides SSL certificates for domains connected to a store, so you do not normally need to buy one separately. Once the records are correct, it issues the certificate automatically, and it can take a little while after the DNS change to become active. During that gap you may see a security warning or a notice in your Domains settings.</p>
+<p>If the warning does not clear after a reasonable wait, go back to your records. Certificate problems often come from a stray or conflicting record, such as an old AAAA record still pointing to a previous host. Check for those before contacting support.</p>
+
+<h2>What to check after connecting</h2>
+<p>Work through this list once the connection shows as verified:</p>
+<ul>
+<li>Visit the root address, the www address and the myshopify.com address. All should arrive at your primary domain.</li>
+<li>Confirm the padlock appears and there are no certificate warnings.</li>
+<li>Click through the home page, a collection, a product and the checkout.</li>
+<li>Place a test order and confirm the notification arrives from the right address.</li>
+<li>Send and receive email on your business address.</li>
+<li>Test a sample of old URLs if you replaced a previous site, and confirm each redirect lands on the right page.</li>
+<li>Check that the store is no longer password protected if you are launching.</li>
+<li>Add or verify the domain in Google Search Console and submit your sitemap. Check Google Analytics and any ad tracking still report correctly on the new address.</li>
+</ul>
+<p>Our <a href="/blog/website-analytics-for-small-business/">website analytics guide</a> explains what to measure once the store is live.</p>
+
+<h2>If your domain will not connect</h2>
+<p>When verification fails, there are several things to check. Try these in order:</p>
+<ol>
+<li><strong>Wait a little.</strong> Records may simply not have refreshed yet.</li>
+<li><strong>Check you edited the right zone.</strong> If your nameservers point elsewhere, changes at your registrar will have no effect.</li>
+<li><strong>Check for typing errors.</strong> Look for a missing character or a repeated domain name in the host field.</li>
+<li><strong>Remove conflicts.</strong> Look for a second A record on the root or an AAAA record left over from an old host.</li>
+<li><strong>Check for forwarding.</strong> A forwarding or parking setting at the provider can override your records.</li>
+<li><strong>Ask for help.</strong> Your domain provider can confirm how its DNS screen works, and Shopify support can look at the store side.</li>
+</ol>
+<p>If you would rather not touch DNS on a live business domain, this is a sensible job to hand over. Prism Works Studio handles domain connections as part of <a href="/services/website-ecommerce-development/">website and ecommerce development</a>, alongside the rest of the launch checks.</p>
+
+<h2>FAQs</h2>
+<h3>Do I have to transfer my domain to Shopify?</h3>
+<p>No. You can leave the domain with its current registrar and connect it by updating DNS records. Renewal and billing then stay with that registrar.</p>
+<h3>Will connecting a domain to Shopify stop my email?</h3>
+<p>It should not, provided you only change the web records and leave your MX and related email records alone. Take a copy of your records first and test email afterwards.</p>
+<h3>Can I use a .co.uk and a .com on the same store?</h3>
+<p>Yes. You can connect both and redirect one to your primary domain, which is a simple way to protect your brand name. Selling to different countries on separate domains is a bigger decision, covered in our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a>.</p>
+<h3>Can I keep my old website on a subdomain?</h3>
+<p>Generally, yes. A subdomain such as blog.yourbrand.co.uk has its own record, so it can point somewhere other than your store. Make sure no records are changed that this subdomain depends on.</p>
+<h3>Do I need to buy an SSL certificate?</h3>
+<p>Normally not. Shopify provides one automatically for connected domains once the DNS records are correct.</p>
+<h3>Will changing my domain affect my search rankings?</h3>
+<p>Connecting the address your site already uses is less disruptive than moving to a new one, but replacing an old site still needs redirects and checks. Moving to a new domain is a migration in its own right, and our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> sets out what to protect.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Connect%20a%20Custom%20Domain%20to%20Shopify%20Without%20Breaking%20Email'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-import-and-export-tools/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>WordPress Import and Export Tools: Moving Content Between Sites Safely</h3><p>How the WordPress import and export tools work, what they include and leave out, and how to move posts, pages and media between sites with fewer surprises.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-front-page-and-posts-page/"><p class="pws-tags">Guides &middot; 9 min read</p><h3>WordPress Front Page and Posts Page: How to Set Your Homepage and Blog</h3><p>How to set a static homepage and separate blog page in WordPress, what the Reading settings do, and how to fix the usual problems when pages go wrong.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/website-image-alt-text-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>Image Alt Text: How to Write Useful Descriptions for Your Website</h3><p>How to write image alt text that helps screen reader users and search engines, with examples for products, logos, team photos, charts and decorative images.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/441902937021?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Connect%20a%20Custom%20Domain%20to%20Shopify%20Without%20Breaking%20Email'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+441902937021">+44 1902 937021</a></li><li><span>WhatsApp</span><a href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/441902937021?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c59d7fac" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

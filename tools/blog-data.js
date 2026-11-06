@@ -41508,4 +41508,508 @@ module.exports = [
 <p>Products can appear as a content type, but shop data is more complex, and orders in particular may be stored differently. Treat shop moves as a separate project and test thoroughly.</p>
 `,
   },
+  {
+    slug: 'shopify-connect-custom-domain',
+    seoTitle: 'How to Connect a Custom Domain to Shopify: UK Guide',
+    title: 'How to Connect a Custom Domain to Shopify Without Breaking Email',
+    description: 'How to connect a custom domain to Shopify: connecting or transferring, DNS records, primary domains, SSL checks and keeping your business email running.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/business-domain-and-email-setup/', '/blog/shopify-store-setup-uk/', '/services/website-ecommerce-development/'],
+    body: `
+<p>To connect a custom domain to Shopify, you add the domain under Settings and then Domains in your admin, then point its DNS records at Shopify, either automatically or by hand at your domain provider. Once that is done, your store loads on your own address instead of the myshopify.com one it started with. The job itself is small, but it touches the same DNS zone that controls your business email, so it pays to understand what you are changing before you change it.</p>
+<p>This guide is for UK store owners setting up a new shop or moving an existing domain across from another website. It explains the choice between connecting and transferring, which records to change, how primary domains work and what to check afterwards. If you have not yet bought a domain or set up business email, read our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> first.</p>
+
+<h2>Your options: buy, connect or transfer</h2>
+<p>Shopify gives you three routes to having a domain on your store. They produce a similar result for shoppers, but they differ in who manages the domain and where you make changes later.</p>
+<table>
+<thead><tr><th>Route</th><th>What it means</th><th>Suits you if</th></tr></thead>
+<tbody>
+<tr><td>Buy through Shopify</td><td>Shopify registers the domain and manages its settings in your admin</td><td>You have no domain yet and want everything in one place</td></tr>
+<tr><td>Connect</td><td>The domain stays with your current registrar and only its records point at Shopify</td><td>You already own a domain, especially one with email attached</td></tr>
+<tr><td>Transfer</td><td>Management of the domain moves to Shopify from your current registrar</td><td>You want to consolidate and are happy to move management across</td></tr>
+</tbody>
+</table>
+<p>For a business that already has a domain and working email, connecting is usually the simplest choice. It changes the fewest things at once. You can always transfer later if you decide you would rather manage the domain from Shopify, and registries place some limits on transfers, for instance on recently registered or recently transferred domains, so a transfer is not always available straight away.</p>
+<p>Whichever route you take, make sure the domain is registered in the name of the business or someone who will stay responsible for it, and that renewal reminders go to an inbox someone reads. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains why that matters if you ever change suppliers.</p>
+
+<h2>Before you change anything</h2>
+<p>A few minutes of preparation will save you the awkward moments that come from changing DNS blind. Before you start:</p>
+<ul>
+<li><strong>Find your login.</strong> Confirm which company holds your domain and that you can sign in. Your DNS may be managed somewhere other than where you bought the domain, so check which nameservers the domain uses.</li>
+<li><strong>Record your current DNS.</strong> Take a screenshot or export of every record in the zone. If anything goes wrong, this is your route back.</li>
+<li><strong>Identify your email records.</strong> Note the MX records, plus any TXT records used for SPF and DKIM, and any CNAME records your email provider relies on.</li>
+<li><strong>Check the store is ready.</strong> If an old website is live on the domain, connecting will replace it for visitors. Make sure the new store has been tested and your redirects are prepared. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers the planning, and the <a href="/blog/shopify-url-redirects/">Shopify URL redirects guide</a> covers where they go in the admin.</li>
+<li><strong>Pick a quiet time.</strong> Make the change when you can watch the results and away from a promotion or a busy trading period.</li>
+</ul>
+
+<h2>How to connect your domain, step by step</h2>
+<ol>
+<li>In your Shopify admin, go to Settings and then Domains.</li>
+<li>Choose the option to connect an existing domain and enter your domain name.</li>
+<li>If Shopify recognises your provider and offers automatic connection, you can sign in to that provider and approve the changes. Review what will be altered before you agree.</li>
+<li>If not, or if you would rather stay in control, use manual setup. Shopify will show you the records it expects.</li>
+<li>Sign in to wherever your DNS is managed and update the records as shown in the next section.</li>
+<li>Return to Shopify and use the option to verify the connection.</li>
+<li>Set your primary domain and check the redirect setting.</li>
+</ol>
+<p>Screen names change from time to time, so follow the wording in your admin if it differs slightly from what is described here.</p>
+
+<h2>Which DNS records to change</h2>
+<p>DNS is a list of instructions saying where different services for your domain live. A connection to Shopify normally involves two web records:</p>
+<ul>
+<li><strong>An A record for the root domain.</strong> This covers the version with no www, such as yourbrand.co.uk. Its host is often shown as @, and it points to an IP address supplied by Shopify.</li>
+<li><strong>A CNAME record for www.</strong> This covers www.yourbrand.co.uk, and it points to a Shopify hostname.</li>
+</ul>
+<p>Use the exact values shown in your Shopify admin or in Shopify's current help documentation, rather than copying them from an old tutorial, because they can change. If an existing A record or www record points at your old website, you edit or replace it. A domain should not have conflicting web records pointing at two places, as this can make the store load intermittently.</p>
+<p>One point of confusion can be the host field. Some providers want @, some want the field left blank, and some add your domain automatically, which means typing the whole name can produce an address with the domain repeated. If a record looks odd when saved, check how your provider expects it to be entered.</p>
+<h3>Why changes do not appear instantly</h3>
+<p>DNS answers are cached across the internet for a period set by each record's TTL value. After you save a change, some visitors may see the old site while others see the new one until those caches expire. How long that takes varies, so do not make repeated edits just because you cannot see a change straight away. You can lower the TTL in advance if your provider allows it, which may shorten the changeover when the records are finally switched.</p>
+
+<h2>How to keep your email working</h2>
+<p>Shopify does not provide mailboxes as standard. If you send and receive email using your domain through a separate email provider, those services rely on their own DNS records, and they can stay exactly as they are when you connect the domain.</p>
+<p>The rule is simple: change the web records and leave the mail records alone. In practice that means:</p>
+<ul>
+<li>Do not delete or edit MX records.</li>
+<li>Do not remove TXT records for SPF, DKIM or DMARC.</li>
+<li>Do not remove CNAME records used by your email provider, even if their names look unfamiliar.</li>
+<li>Take extra care with nameserver changes, because moving nameservers moves the whole zone. Anything you do not recreate at the new location stops working.</li>
+</ul>
+<p>Transfers need the same care. Before transferring a domain, check that your existing records will come across or be re-entered, and test email straight after the move. Send a message to the domain from an outside address, and send one from it too.</p>
+<h3>Sending store emails from your domain</h3>
+<p>Connecting a domain does not by itself sort out the address your order notifications come from. Under the notification settings in your admin you can set your sender email address, and Shopify may ask you to add authentication records to your DNS so that those messages can be sent on behalf of your domain. Add these as new records, keep your existing ones, and send a test order confirmation afterwards. Our guide to <a href="/blog/ecommerce-transactional-emails/">ecommerce transactional emails</a> covers what those messages should say.</p>
+
+<h2>Setting your primary domain</h2>
+<p>You may end up with several addresses attached to the same store: the root domain, the www version, your myshopify.com address and perhaps a second domain you bought to protect your brand. One of these needs to be the primary domain, which is the address customers see in the browser and the one search engines should treat as your store's main address.</p>
+<p>Shopify lets you redirect traffic from your other domains to the primary. Keep this switched on unless you have a clear reason not to, such as a separately configured international set-up. It stops the same pages being available on several addresses and gives shoppers one consistent address.</p>
+<p>Should you pick www or non-www? Either works. If you are moving an established website, the simplest option is often to keep whichever version the site already uses, because that avoids an unnecessary change of URL for pages already in search results and bookmarks.</p>
+
+<h2>Secure certificates</h2>
+<p>Shopify provides SSL certificates for domains connected to a store, so you do not normally need to buy one separately. Once the records are correct, it issues the certificate automatically, and it can take a little while after the DNS change to become active. During that gap you may see a security warning or a notice in your Domains settings.</p>
+<p>If the warning does not clear after a reasonable wait, go back to your records. Certificate problems often come from a stray or conflicting record, such as an old AAAA record still pointing to a previous host. Check for those before contacting support.</p>
+
+<h2>What to check after connecting</h2>
+<p>Work through this list once the connection shows as verified:</p>
+<ul>
+<li>Visit the root address, the www address and the myshopify.com address. All should arrive at your primary domain.</li>
+<li>Confirm the padlock appears and there are no certificate warnings.</li>
+<li>Click through the home page, a collection, a product and the checkout.</li>
+<li>Place a test order and confirm the notification arrives from the right address.</li>
+<li>Send and receive email on your business address.</li>
+<li>Test a sample of old URLs if you replaced a previous site, and confirm each redirect lands on the right page.</li>
+<li>Check that the store is no longer password protected if you are launching.</li>
+<li>Add or verify the domain in Google Search Console and submit your sitemap. Check Google Analytics and any ad tracking still report correctly on the new address.</li>
+</ul>
+<p>Our <a href="/blog/website-analytics-for-small-business/">website analytics guide</a> explains what to measure once the store is live.</p>
+
+<h2>If your domain will not connect</h2>
+<p>When verification fails, there are several things to check. Try these in order:</p>
+<ol>
+<li><strong>Wait a little.</strong> Records may simply not have refreshed yet.</li>
+<li><strong>Check you edited the right zone.</strong> If your nameservers point elsewhere, changes at your registrar will have no effect.</li>
+<li><strong>Check for typing errors.</strong> Look for a missing character or a repeated domain name in the host field.</li>
+<li><strong>Remove conflicts.</strong> Look for a second A record on the root or an AAAA record left over from an old host.</li>
+<li><strong>Check for forwarding.</strong> A forwarding or parking setting at the provider can override your records.</li>
+<li><strong>Ask for help.</strong> Your domain provider can confirm how its DNS screen works, and Shopify support can look at the store side.</li>
+</ol>
+<p>If you would rather not touch DNS on a live business domain, this is a sensible job to hand over. Prism Works Studio handles domain connections as part of <a href="/services/website-ecommerce-development/">website and ecommerce development</a>, alongside the rest of the launch checks.</p>
+
+<h2>FAQs</h2>
+<h3>Do I have to transfer my domain to Shopify?</h3>
+<p>No. You can leave the domain with its current registrar and connect it by updating DNS records. Renewal and billing then stay with that registrar.</p>
+<h3>Will connecting a domain to Shopify stop my email?</h3>
+<p>It should not, provided you only change the web records and leave your MX and related email records alone. Take a copy of your records first and test email afterwards.</p>
+<h3>Can I use a .co.uk and a .com on the same store?</h3>
+<p>Yes. You can connect both and redirect one to your primary domain, which is a simple way to protect your brand name. Selling to different countries on separate domains is a bigger decision, covered in our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a>.</p>
+<h3>Can I keep my old website on a subdomain?</h3>
+<p>Generally, yes. A subdomain such as blog.yourbrand.co.uk has its own record, so it can point somewhere other than your store. Make sure no records are changed that this subdomain depends on.</p>
+<h3>Do I need to buy an SSL certificate?</h3>
+<p>Normally not. Shopify provides one automatically for connected domains once the DNS records are correct.</p>
+<h3>Will changing my domain affect my search rankings?</h3>
+<p>Connecting the address your site already uses is less disruptive than moving to a new one, but replacing an old site still needs redirects and checks. Moving to a new domain is a migration in its own right, and our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> sets out what to protect.</p>
+`,
+  },
+  {
+    slug: 'shopify-reports-and-analytics',
+    seoTitle: 'Shopify Reports and Analytics: A Practical Guide',
+    title: 'Shopify Reports and Analytics: What to Check and What It Means',
+    description: 'A guide to Shopify reports and analytics for store owners: the overview dashboard, key metrics, useful reports, tracking differences and a review routine.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/website-analytics-for-small-business/', '/blog/shopify-conversion-rate-optimisation/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Shopify reports and analytics show how your store is selling, where visitors come from and what they do, all from the Analytics area of your admin. The overview dashboard gives you the headline figures, while individual reports let you drill into sales, customers, products, marketing and inventory. The useful skill is not finding the reports. It is knowing which figures answer your question, and what they can and cannot tell you.</p>
+<p>This guide is for UK store owners and small ecommerce teams who look at their numbers but are not sure what to do with them. It explains the main metrics in plain English, the reports that help with everyday decisions and why Shopify's figures may not match your other tools. Report access can vary with your Shopify plan, so you may not see everything mentioned here.</p>
+
+<h2>Where to find your analytics</h2>
+<p>In your Shopify admin, select Analytics. You will generally find three areas:</p>
+<ul>
+<li><strong>The overview dashboard.</strong> Cards showing headline measures such as total sales, sessions, orders and conversion rate.</li>
+<li><strong>Reports.</strong> A library of more detailed tables, grouped by subject, that you can filter, adjust and often export.</li>
+<li><strong>Live View.</strong> A real-time view of current visitors and activity, handy during a launch or a promotion.</li>
+</ul>
+<p>Before you rely on any of it, check two settings. Your store's time zone determines when each day starts and ends in your reports, and your currency affects how sales are shown. Then set a date range and a comparison period. Almost every number is more helpful once it has something to be compared with.</p>
+
+<h2>The metrics that matter, in plain English</h2>
+<p>Several terms in Shopify sound alike but measure different things. Here are the ones you will meet regularly.</p>
+<table>
+<thead><tr><th>Metric</th><th>What it tells you</th><th>Question it helps answer</th></tr></thead>
+<tbody>
+<tr><td>Gross sales</td><td>The value of products sold before discounts and returns</td><td>What was the demand at list price?</td></tr>
+<tr><td>Net sales</td><td>Sales after discounts and returns</td><td>What was actually kept from products sold?</td></tr>
+<tr><td>Total sales</td><td>Net sales plus items such as shipping and tax</td><td>How much went through the store overall?</td></tr>
+<tr><td>Sessions</td><td>Visits to the store, with one person able to make several</td><td>How much traffic came in?</td></tr>
+<tr><td>Conversion rate</td><td>The share of sessions that resulted in an order</td><td>Are visits turning into purchases?</td></tr>
+<tr><td>Average order value</td><td>The typical amount spent per order</td><td>Are customers buying more or less each time?</td></tr>
+<tr><td>Returning customer rate</td><td>The share of customers who have ordered more than once</td><td>Are people coming back?</td></tr>
+</tbody>
+</table>
+<p>Shopify's exact definitions are shown in its help documentation and can be updated, so check them if you are reconciling figures closely. One point deserves particular attention: total sales usually includes tax and shipping. If you quote it as revenue, you may overstate what the business earned. Net sales is often the better figure for trading discussions, and your accountant may want something different again, so ask them which figure to use.</p>
+
+<h2>Read metrics in pairs</h2>
+<p>A change in one number rarely explains itself. Looking at related measures together helps you find out what happened.</p>
+<ul>
+<li><strong>Sales are down, sessions are down.</strong> You may have a traffic question. Look at which channel fell before changing the store.</li>
+<li><strong>Sales are down, sessions are steady.</strong> Look at conversion rate and average order value. Then check for a stockout, a broken page or a change in the visitors you attract.</li>
+<li><strong>Conversion is down, sessions are up.</strong> This can be normal if a new campaign brings colder traffic. Check conversion by channel before assuming the site is at fault.</li>
+<li><strong>Sales are up, net sales are flat.</strong> Heavier discounts or more returns may be absorbing the growth.</li>
+<li><strong>Average order value is up, orders are down.</strong> A higher free delivery threshold or a price change could be behind this, so consider whether it is a good trade-off.</li>
+</ul>
+<p>Compare like with like as well. A week containing a promotion will flatter or distort a comparison with an ordinary one, and a seasonal business may learn more from the same period last year than from last month, once it has that history. Keep a simple note of promotions, price changes, stock problems and site changes, as this makes later comparisons much easier to interpret.</p>
+
+<h2>Reports worth knowing</h2>
+<p>You do not need every report. These are useful places to start, grouped by the question you are trying to answer.</p>
+<h3>What is selling?</h3>
+<p>Sales reports can be broken down by product, variant, vendor or time period. Look beyond the top sellers: slow products may need better pages or less stock, and a high-selling product with heavy returns may be worth a closer look. If a best-selling variant keeps running out, see our guide to <a href="/blog/shopify-inventory-management/">Shopify inventory management</a>.</p>
+<h3>Where do visitors come from?</h3>
+<p>Acquisition and marketing reports show sessions by referrer and source, and sales attributed to marketing activity where the data is available. They help you see whether search, social, email or paid ads are bringing in visitors who actually buy. Compare channels by orders and net sales as well as sessions, since a large traffic source can still be a weak one for sales. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers more detailed analysis of traffic sources outside Shopify.</p>
+<h3>How are people behaving?</h3>
+<p>Behaviour reports can include things like conversion over time, sessions by landing page and top online store searches. Landing page data shows which pages create first impressions, while site searches with no results reveal products people expected but could not find. Our guide to <a href="/blog/shopify-search-and-discovery-settings/">Shopify search and discovery settings</a> explains how to act on that.</p>
+<h3>Who is buying?</h3>
+<p>Customer reports can separate first-time and returning buyers and show customers over time. These are useful when deciding whether to spend effort on winning new customers or encouraging repeat orders. Our guide to <a href="/blog/shopify-customer-segments/">Shopify customer segments</a> shows how to turn that insight into groups you can reach.</p>
+<h3>What about stock?</h3>
+<p>Inventory reports can show stock levels, sell-through and how long stock may last. They help you plan reorders and spot money tied up in slow lines, and they are only as accurate as your stock counts.</p>
+<h3>What do I give my accountant?</h3>
+<p>Finance reports summarise sales, payments, tax and related items. Agree with your bookkeeper which report and date range they want. They may ask for payouts as well, because the money that reaches your bank differs from sales once fees and refunds are taken into account.</p>
+
+<h2>Customising and exporting reports</h2>
+<p>Most reports let you change the date range, add a comparison, apply filters and choose which columns or breakdowns appear. Depending on your plan, you can save an edited version so that you do not have to rebuild it each time. Name saved reports clearly so that other staff can tell what they show, and restrict access where appropriate. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to control who can see financial data.</p>
+<p>Exports are useful when you need to combine Shopify data with costs or stock figures. Take care when exporting customer-level data, because it can contain personal information and should be stored and shared accordingly.</p>
+
+<h2>Why Shopify and other tools do not match</h2>
+<p>If you compare Shopify to Google Analytics or an ad platform, the numbers will rarely be identical. This does not automatically mean something is broken. Differences arise because:</p>
+<ul>
+<li><strong>Sessions are defined differently.</strong> Each tool has its own way of counting a visit and filtering out bots.</li>
+<li><strong>Consent affects tracking.</strong> Visitors who decline analytics cookies may not appear in some tools. Our <a href="/blog/cookie-banner-design-uk/">cookie banner guide</a> covers that side.</li>
+<li><strong>Attribution differs.</strong> An ad platform may claim credit for a sale that Shopify assigns to another channel, as each uses its own rules and time windows.</li>
+<li><strong>Time zones and dates differ.</strong> A sale near midnight can fall on different days if accounts use different settings.</li>
+<li><strong>Refunds and edits are handled differently.</strong> Shopify reflects changes to an order, while other tools may only record the original purchase.</li>
+</ul>
+<p>As a working rule, use Shopify as your reference for orders and sales, and use other tools to explore traffic and behaviour. Watch the direction of each tool's trend as well as its absolute figure. If the gap between tools suddenly changes, then investigate, because that may point to a tracking problem. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small business</a> explains how the pieces fit together.</p>
+
+<h2>A simple review routine</h2>
+<p>Consistency beats intensity. Daily fluctuations can tempt you into changing things that do not need changing, particularly on a store with modest order numbers. A rhythm like the one below can be adapted to your size and trading pattern.</p>
+<h3>Each week</h3>
+<ul>
+<li>Check net sales, orders, sessions and conversion rate against the previous period.</li>
+<li>Review top-selling products and whether they are in stock.</li>
+<li>Note anything unusual and find out why before reacting.</li>
+</ul>
+<h3>Each month</h3>
+<ul>
+<li>Review sales and orders by channel, and compare them with what you spent on each.</li>
+<li>Check landing pages that attract visits but few sales.</li>
+<li>Look through site searches and returns for recurring themes.</li>
+<li>Review the returning customer rate and your discount use.</li>
+</ul>
+<h3>Each quarter</h3>
+<ul>
+<li>Look at the range: which products to reorder, promote or retire.</li>
+<li>Check that analytics and tracking are still working after any site changes.</li>
+<li>Choose one or two improvements to test, based on what you have learned.</li>
+</ul>
+<p>End each review with a decision, even if the decision is to change nothing. If a report never leads to an action, stop checking it. When conversion is the concern, our <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation guide</a> sets out where to look next.</p>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li><strong>Reacting to small numbers.</strong> With few daily orders, one good or bad day can swing a percentage a long way.</li>
+<li><strong>Testing with your own traffic.</strong> Test orders and staff visits can skew figures on a new store, so bear that in mind when reading early results.</li>
+<li><strong>Chasing conversion rate alone.</strong> A deep discount can raise it while lowering profit.</li>
+<li><strong>Ignoring margin.</strong> Shopify's sales figures do not show your full profit unless costs are recorded and every expense is considered.</li>
+<li><strong>Treating attribution as fact.</strong> Marketing reports are a useful estimate of influence, not proof of what caused a sale.</li>
+</ul>
+<p>If you want help connecting store data to decisions, or checking that your tracking is reliable, Prism Works Studio can help as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work.</p>
+
+<h2>FAQs</h2>
+<h3>Are Shopify analytics accurate?</h3>
+<p>Sales and order figures come directly from your store's records, so they are a strong reference point. Traffic and attribution data are measured by tracking and rely on estimates, so treat them as a guide.</p>
+<h3>Do I need Google Analytics as well?</h3>
+<p>Many small stores can cover the basics in Shopify. A separate analytics tool can add detail about journeys and content, and it is worth setting up if you will actually use it.</p>
+<h3>Why can I not see certain reports?</h3>
+<p>Availability depends on your Shopify plan and on your staff permissions. Check your plan's current features and ask the account owner to review your access if needed.</p>
+<h3>What is a good conversion rate?</h3>
+<p>There is no single right figure, because it varies with products, price, traffic source and device. Your own trend over time, broken down by channel, is usually more useful than a benchmark from elsewhere.</p>
+<h3>Can I see profit in Shopify?</h3>
+<p>Shopify can show profit-related reports on some plans if you record the cost per item. That still excludes many business expenses, so use your accounts for true profit.</p>
+<h3>How often should I check my numbers?</h3>
+<p>A weekly look and a deeper monthly review suit many small stores, though busy trading periods may call for closer attention. Choose a routine you will keep up.</p>
+`,
+  },
+  {
+    slug: 'shopify-vat-tax-settings-uk',
+    seoTitle: 'Shopify VAT Settings: A UK Store Owner\'s Guide',
+    title: 'Shopify VAT Settings: How to Set Up Tax on a UK Store',
+    description: 'How to set up Shopify VAT settings for a UK store: registration details, tax-inclusive prices, non-standard rates, shipping, reports and what to check.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/shopify-checkout-settings/', '/blog/selling-internationally-uk-online-store/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Shopify VAT settings tell your store whether to charge VAT, at what rates, and whether the prices you enter already include it. For a UK store, you set this up in the Taxes and duties area of your admin settings by choosing the United Kingdom, adding your VAT registration number if you have one, and choosing how prices should be displayed. You then review any products that do not follow the standard rate. Shopify carries out the calculation, but it relies on you to give it the right instructions.</p>
+<p>This guide is for UK store owners setting up a new shop or checking an existing one. It explains where the settings sit, what each one does, how to deal with reduced-rate and zero-rated products, and how to test the result. It is general guidance on how the settings work, not tax advice. VAT rules depend on your products, customers and circumstances, so confirm your set-up with an accountant or against HMRC's current guidance.</p>
+
+<h2>First, decide what your store needs to do</h2>
+<p>Before you open the settings, get answers to four questions. They determine almost everything that follows.</p>
+<ul>
+<li><strong>Are you VAT registered?</strong> Whether you must register depends on your taxable turnover against HMRC's threshold, and you can sometimes register voluntarily. If you are not registered, you generally should not charge VAT at all.</li>
+<li><strong>Which rates apply to your products?</strong> Goods in the UK can fall under the standard, reduced or zero rate, or be exempt. Some of the distinctions can be surprisingly fine, particularly in food, children's goods and health-related products.</li>
+<li><strong>Where do you sell?</strong> Selling to customers in Northern Ireland, the EU or elsewhere can raise separate rules, particularly on goods moving across borders.</li>
+<li><strong>Do you sell digital products?</strong> Digital goods sold to consumers can follow different rules, including for overseas customers.</li>
+</ul>
+<p>If you are unsure on any of these, ask your accountant first. Correcting a store's settings is easy, but correcting tax charged on past orders is not.</p>
+
+<h2>Where to find the settings</h2>
+<ol>
+<li>In your Shopify admin, go to Settings and then Taxes and duties.</li>
+<li>Select the United Kingdom from your list of regions.</li>
+<li>Enter your VAT number if you are registered, or choose the option to collect VAT if that is presented.</li>
+<li>Review the tax rates and any exceptions shown for the region.</li>
+<li>Check the general calculation options, including how tax applies to prices and shipping.</li>
+</ol>
+<p>Shopify does revise its admin, so labels and locations can change. If yours looks a little different, use the search bar in the admin or the current Shopify help documentation. Your region also needs to be in your shipping or market settings for customers there to be able to buy, so if the region is not available, check those areas too. Our guide to <a href="/blog/shopify-shipping-profiles/">Shopify shipping profiles</a> walks through the shipping side.</p>
+
+<h2>Show prices with VAT included</h2>
+<p>UK consumers generally expect the price they see to be the price they pay, and businesses selling to consumers are generally expected to show prices inclusive of VAT. Shopify has a setting for including tax in your prices. With this on, a price you enter is treated as VAT inclusive and the tax is worked out from within it. With it off, tax is added on top at checkout.</p>
+<p>This choice affects how the whole catalogue is read, so settle it before entering products. Consider this simple example using a 20% rate:</p>
+<table>
+<thead><tr><th>Setting</th><th>Price you enter</th><th>Customer pays</th><th>VAT within the total</th></tr></thead>
+<tbody>
+<tr><td>Prices include tax</td><td>&pound;24.00</td><td>&pound;24.00</td><td>&pound;4.00</td></tr>
+<tr><td>Prices exclude tax</td><td>&pound;24.00</td><td>&pound;28.80</td><td>&pound;4.80</td></tr>
+</tbody>
+</table>
+<p>The example is illustrative only, but it shows why switching this setting on an established store needs care. Your entered prices stay as numbers, while the amount customers pay or the margin you keep changes. If you switch, plan how you will update prices rather than assuming the store will adjust them for you, and check your margins at the same time.</p>
+<p>If you sell largely to trade customers, you may want prices displayed differently. That is a commercial design decision as well as a tax one, and it can involve separate price lists or customer groups, depending on your plan. Whatever you choose, make it clear on the page whether VAT is included, as uncertainty at this stage can put buyers off. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> looks at how to present prices clearly.</p>
+
+<h2>Handle products that are not standard rate</h2>
+<p>If everything you sell is standard rated, this step is short. If not, it needs some thought, because a store-wide rate will apply to everything unless you say otherwise.</p>
+<h3>Turn tax off on individual products</h3>
+<p>Each product variant has a setting for charging tax, in the pricing section of the product page. Unticking it means no tax is charged on that item. This is one way of handling zero-rated goods, but it can also misstate your reporting if used without thought, because the sale may not be recorded in the way your accountant expects. Ask how they want zero-rated and exempt sales to appear.</p>
+<h3>Use tax overrides for different rates</h3>
+<p>For reduced-rate or zero-rate products, you can generally set up a tax override, which applies a different rate to a chosen group of products. Overrides are usually based on a collection, so the set-up looks like this:</p>
+<ol>
+<li>Create a collection containing only the products that share the rate. Our guide to <a href="/blog/shopify-collections-structure/">Shopify collections structure</a> explains the options.</li>
+<li>Consider keeping it hidden from your navigation, since it exists for tax rather than browsing.</li>
+<li>In the region's tax settings, add an override for that collection and enter the rate.</li>
+<li>Test a product from the collection in the checkout.</li>
+</ol>
+<p>Take care with automated collections, as a change to a tag or product type can quietly add or remove an item from the override. Product tags used for merchandising should not double as tax logic unless someone owns that process. Our guide to <a href="/blog/shopify-product-tags/">Shopify product tags</a> explains how to keep tags tidy. Also plan who checks the tax treatment whenever a new product is added, since a new line in the wrong collection would be charged at the wrong rate.</p>
+<h3>Mixed baskets</h3>
+<p>Baskets with a mixture of rates need particular checking. Test an order containing both standard-rated and reduced or zero-rated items, then check the tax line against your own calculation. Add a discount and shipping too, because those are where differences tend to appear.</p>
+
+<h2>Shipping, discounts and gift cards</h2>
+<p>The product is rarely the whole of the transaction. There are other parts of an order for which you need a decision.</p>
+<ul>
+<li><strong>Shipping.</strong> There is a setting for charging tax on shipping. VAT on delivery charges generally follows the treatment of the goods being delivered, which can get complicated with mixed baskets, so ask your accountant how your store should handle it. Our guide to <a href="/blog/online-shop-shipping-rates-uk/">online shop shipping rates</a> covers how to set the charges themselves.</li>
+<li><strong>Discounts.</strong> Percentage and fixed discounts reduce the amount on which tax is calculated. Check that the figures look correct on a test order. Our <a href="/blog/ecommerce-discount-code-strategy/">discount code strategy guide</a> explains how to plan offers.</li>
+<li><strong>Gift cards.</strong> Selling a gift card and redeeming one can be treated differently for VAT, and the rules depend on the type of voucher. Shopify gift cards are generally not taxed at the time of sale by default, so check whether that fits your circumstances. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">gift cards and vouchers</a> covers the wider decisions.</li>
+<li><strong>Refunds.</strong> Refunds affect the tax position on an order, so check they are reported the way your bookkeeping expects. The <a href="/blog/shopify-order-editing-and-refunds/">Shopify order editing and refunds guide</a> explains how to make them.</li>
+</ul>
+
+<h2>Selling outside the UK</h2>
+<p>Once you ship beyond Great Britain, the settings can be the smaller part of the job. Depending on where you sell, you may need to think about:</p>
+<ul>
+<li><strong>Northern Ireland.</strong> Goods have their own arrangements because of its position with the EU.</li>
+<li><strong>EU customers.</strong> You may have obligations to register or use an EU scheme, and an agreed approach to who pays import charges.</li>
+<li><strong>Imports into the UK.</strong> If you sell goods from overseas stock to UK customers, special rules can apply depending on the value of the consignment.</li>
+<li><strong>Duties.</strong> Shopify offers options to help estimate and collect duties in some situations, and availability depends on your plan and shipping set-up.</li>
+</ul>
+<p>Get professional advice before opening a new market, since the settings in Shopify should follow your decision, not lead it. Our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a> covers the commercial side.</p>
+
+<h2>Invoices and customer communications</h2>
+<p>Customers buying for a business may ask for a VAT invoice. HMRC sets out what a valid VAT invoice needs to contain, and a standard order confirmation may not include everything required. Check what your store sends and compare it to HMRC's current guidance.</p>
+<p>You can edit notification templates so that your order confirmation shows your VAT number and a tax breakdown, and you can produce invoices through other routes if you have many trade customers. Show your VAT number somewhere clear on your website too if you are registered, and keep your legal pages consistent. Our guides to <a href="/blog/shopify-store-policies/">Shopify store policies</a> and <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> cover those pages.</p>
+
+<h2>Test your VAT settings with real scenarios</h2>
+<p>Do not rely on a settings page looking right. Run real orders through the store, using a test payment method where you can, and compare the results with what you and your accountant expect. A helpful set of scenarios might be:</p>
+<ul>
+<li>A single standard-rated product delivered in the UK.</li>
+<li>A single reduced-rate or zero-rated product, if you sell them.</li>
+<li>A mixed basket with both rate types.</li>
+<li>An order with a discount code and paid shipping.</li>
+<li>An order delivered to Northern Ireland, and an order to each overseas region you serve.</li>
+<li>A partial refund on one of those test orders.</li>
+</ul>
+<p>Look at the product page, the cart, the checkout, the confirmation email and the order in your admin. They should all tell the same story. Our <a href="/blog/shopify-checkout-settings/">Shopify checkout settings guide</a> covers the other options worth reviewing while you are there.</p>
+
+<h2>Reporting and your VAT return</h2>
+<p>Shopify has finance and tax reports that show the amounts charged, and these can be exported for your accountant or bookkeeper. They are helpful for reconciling, but they are not your VAT return in themselves. You still need to make sure the figures are complete, including sales from other channels, refunds and any costs on which you reclaim VAT.</p>
+<p>Agree with your accountant early what they would like to receive and how often. If you use accounting software that connects to your store, check how that link treats tax, shipping and fees, and how it posts refunds. Making Tax Digital rules may affect how you keep your records and submit returns, so check how they apply to your business.</p>
+<p>If you would like help getting the store configured once your accountant has confirmed the treatment, Prism Works Studio can set up and test it as part of <a href="/services/website-ecommerce-development/">website and ecommerce development</a>. We configure the store rather than advise on tax, so we would work from your accountant's guidance.</p>
+
+<h2>FAQs</h2>
+<h3>Does Shopify file my VAT return?</h3>
+<p>No. Shopify calculates tax on orders and provides reports, but you remain responsible for registering, filing and paying. Your accountant or bookkeeper can tell you what records they need.</p>
+<h3>Should I add my VAT number if I am not sure I need it?</h3>
+<p>Only enter a number that HMRC has issued to your business. If you are not sure whether you should register, ask an accountant or check HMRC's guidance before you start charging VAT.</p>
+<h3>What happens to my prices when I become VAT registered?</h3>
+<p>Your entered prices do not automatically change. You will need to decide whether to raise prices or absorb the VAT from your margin, then update the store settings and pricing at the date your registration takes effect.</p>
+<h3>Can I show prices with and without VAT?</h3>
+<p>There are ways to do so, often through theme changes, and this can suit stores with trade and consumer customers. Make sure the page is clear about which price will be charged at checkout.</p>
+<h3>Why is the tax in my checkout not what I expected?</h3>
+<p>Check the customer's delivery address, the included-tax setting, whether the product is set to charge tax, any override collections, and the shipping tax setting. Then compare against a simple single-item order.</p>
+<h3>Do I need to charge VAT on delivery?</h3>
+<p>Often it follows the treatment of the goods, but mixed orders can complicate this. Ask your accountant to confirm how your store should treat delivery charges.</p>
+`,
+  },
+  {
+    slug: 'website-content-before-build',
+    seoTitle: 'How to Prepare Website Content Before a Build',
+    title: 'How to Prepare Your Website Content Before the Build Starts',
+    description: 'How to prepare website content before a build: list your pages, gather words and images, assign owners, check permissions and keep a redesign on track.',
+    date: '2026-11-06',
+    category: 'Guides',
+    related: ['/blog/website-copywriting-uk/', '/blog/website-discovery-workshop/', '/services/website-ecommerce-development/'],
+    body: `
+<p>To prepare website content before a build, list every page your site needs, decide what each page must do, then gather the words, images and supporting details in one organised place with a named owner for each item. Doing this early means your designer can work with real material rather than guesses, and your project is less likely to stall while everyone waits for a page of text or a photo that nobody has been asked to find.</p>
+<p>This guide is for UK small business owners who are about to commission a new website or redesign an existing one. It gives you a practical order of work, with a simple tracker you can set up in a spreadsheet. Our <a href="/blog/how-to-choose-a-web-designer-uk/">guide to choosing a web designer</a> helps if you have not yet appointed anyone, and our <a href="/blog/website-discovery-workshop/">website discovery workshop guide</a> explains the planning that often happens first.</p>
+
+<h2>Why content should come early</h2>
+<p>Design and content affect each other. A page layout that looks tidy with placeholder text can fall apart when the real service description is three times as long, or when a team photo is landscape and the design expects a portrait. Starting with real content, or at least a realistic draft, gives you several benefits:</p>
+<ul>
+<li><strong>Better design decisions.</strong> Your designer can shape pages around what you actually have to say.</li>
+<li><strong>Fewer surprises.</strong> You find out early if you lack case studies, photos or product details.</li>
+<li><strong>Clearer costs.</strong> Knowing the number of pages and what needs writing makes quoting more reliable.</li>
+<li><strong>A smoother launch.</strong> Late content can hold a project up, so preparation protects your launch plans. Our guide to <a href="/blog/how-long-to-build-a-website-uk/">how long it takes to build a website</a> covers the other factors.</li>
+</ul>
+<p>You do not need every word finished before you speak to anyone. A web designer can help you plan the structure, and many offer copywriting or photography too. What matters is that you agree early who is producing what, and when.</p>
+
+<h2>Step one: choose one person to own the content</h2>
+<p>Content gathering tends to stall when it belongs to everyone. Choose one person to chase, collect, and sign things off. In a small business, this is often the owner or an office manager, and it does not mean they write everything. They simply keep the process moving and have the authority to make a decision.</p>
+<p>Agree who else has to approve content, and keep that group small. If a partner, director or regulated professional must review certain pages, build their time into the plan. Sensitive claims in sectors like finance, health or law may need extra review, so allow for that at the start.</p>
+
+<h2>Step two: list every page</h2>
+<p>Start with a simple site map: a list of the pages you need, grouped in the way you expect visitors to look for them. If you already have a website, a review of what exists is the place to start. Our guide to the <a href="/blog/website-content-audit/">website content audit</a> shows how to decide what to keep, improve, merge or remove.</p>
+<p>A typical small business site may include pages like these, though yours should reflect how you actually sell:</p>
+<ul>
+<li>Home page</li>
+<li>A page for each main service or product range</li>
+<li>About page</li>
+<li>Contact page</li>
+<li>Case studies, projects or testimonials</li>
+<li>Frequently asked questions</li>
+<li>Pricing, if you publish it</li>
+<li>Blog or news, if someone will keep it updated</li>
+<li>Legal pages, such as privacy, cookies and terms</li>
+</ul>
+<p>Be honest about how much you can maintain. Ten strong pages are better than thirty thin ones that nobody has time to write. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> can help you organise the list once you have it.</p>
+
+<h2>Step three: write a short brief for each page</h2>
+<p>Before anyone starts writing, answer four questions for each page:</p>
+<ol>
+<li>Who is this page for?</li>
+<li>What are they trying to find out or get done?</li>
+<li>What do you want them to do next?</li>
+<li>What information or evidence will help them do it?</li>
+</ol>
+<p>A few sentences are enough. This stops pages from becoming a list of everything you could possibly say, and it gives your writer a clear target. If you are redesigning a site with search traffic, also note which existing pages already bring in visitors, so that you do not lose them by accident. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> explains why that matters.</p>
+
+<h2>Step four: gather the facts</h2>
+<p>Much of the writing is easier once the raw facts are in one place. Pull these together even if someone else will write the final copy:</p>
+<ul>
+<li><strong>Business details.</strong> Your trading name, registered company details if applicable, address, phone number, email address, opening hours and service areas.</li>
+<li><strong>Services and products.</strong> What you offer, who it is for, what is included, how it works and any exclusions.</li>
+<li><strong>Evidence.</strong> Accreditations, memberships, awards, case studies and genuine customer feedback.</li>
+<li><strong>Answers.</strong> The questions customers repeatedly ask by phone or email. Your team will know these. Our guide to the <a href="/blog/website-faq-page/">website FAQ page</a> shows how to use them.</li>
+<li><strong>Process.</strong> What happens after someone gets in touch, as this reassures people who have not bought from you before.</li>
+<li><strong>Legal notices.</strong> Any wording your regulator, insurer or professional body requires you to display.</li>
+</ul>
+<p>Check that facts are current. An old website is often full of out-of-date team details, retired services and accreditation logos that have lapsed, and copying them across simply moves the problem to a new design.</p>
+
+<h2>Step five: write or commission the copy</h2>
+<p>There are three routes: write it yourself, hire a copywriter, or do a mixture, with you drafting and a writer refining. Each one can work. Your decision will depend on time, budget and how confident you feel. Our <a href="/blog/website-copywriting-uk/">website copywriting guide</a> explains what good copy involves, and our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> can help you sound consistent.</p>
+<p>If you write it yourself, a few habits help:</p>
+<ul>
+<li>Open with what the visitor needs to know, not the history of the company.</li>
+<li>Use the words your customers use, rather than internal jargon.</li>
+<li>Use short paragraphs and clear headings, because visitors tend to scan.</li>
+<li>Be specific where you can, and only say what you can stand behind.</li>
+<li>End each page with a clear next step.</li>
+</ul>
+<p>Be careful with AI-generated drafts and with text borrowed from competitors or suppliers. If you use a writing tool, a person who knows the business should check every claim. Do not copy another website's wording, as this creates both copyright and credibility problems. If you stock branded products, ask what the manufacturer's terms allow.</p>
+
+<h2>Step six: collect images and other media</h2>
+<p>Good images can do a great deal to make a small business look trustworthy, and they often take longer to arrange than people expect. List what each page needs, then work out what you already have and what needs creating.</p>
+<ul>
+<li><strong>Logo files.</strong> Ask for the original vector version from whoever designed it, not just a small image from your old site.</li>
+<li><strong>Photos of your team and premises.</strong> Real pictures tend to be more convincing than generic stock, particularly on an about page.</li>
+<li><strong>Work examples.</strong> Projects or products, in the highest resolution you have.</li>
+<li><strong>Video.</strong> Only if it serves a purpose. Our <a href="/blog/website-video-guide/">website video guide</a> helps you decide.</li>
+</ul>
+<p>Send originals rather than files that have been through a messaging app or pulled from social media, since these are often compressed. Your developer will prepare final versions for the web, as our <a href="/blog/website-image-optimisation/">website image optimisation guide</a> explains.</p>
+<h3>Check you are allowed to use them</h3>
+<p>Do not take an image from a search engine and assume you can use it. For anything you did not create yourself, confirm the licence or written permission. A photographer normally keeps copyright unless your agreement says otherwise, so check the terms of older shoots. If identifiable people appear in photos, particularly staff, customers or children, get permission and keep a record. Data protection and consent requirements vary, so seek advice if you are unsure.</p>
+<p>Apply the same care to testimonials. Use genuine customer words, get permission, and do not edit them in a way that changes the meaning. Our guide to the <a href="/blog/website-testimonials-page/">website testimonials page</a> has more detail.</p>
+
+<h2>Step seven: organise it in a tracker</h2>
+<p>A shared spreadsheet and folder are usually all you need. Give each page a row with columns such as these:</p>
+<table>
+<thead><tr><th>Column</th><th>What goes in it</th></tr></thead>
+<tbody>
+<tr><td>Page</td><td>The page name, matching your site map</td></tr>
+<tr><td>Owner</td><td>Who is responsible for supplying it</td></tr>
+<tr><td>Copy status</td><td>Not started, drafting, in review or approved</td></tr>
+<tr><td>Images</td><td>What is needed, and whether it is ready</td></tr>
+<tr><td>Approver</td><td>Who gives the final yes</td></tr>
+<tr><td>Due date</td><td>When your builder needs it</td></tr>
+<tr><td>Notes</td><td>Permissions, redirects or anything to check</td></tr>
+</tbody>
+</table>
+<p>Keep one folder for each page and use clear file names, such as team-photo-sarah.jpg rather than IMG-final-new.jpg. Keep your latest version obvious. Ask your builder how they would like to receive content, as they may provide their own template or portal. If they do, use theirs instead of creating a competing system.</p>
+
+<h2>Step eight: proofread and sign off</h2>
+<p>Changing text is much easier before it is on the site than after it has been laid out across dozens of pages. Before handing content over, make sure that:</p>
+<ul>
+<li>Someone other than the writer has proofread it.</li>
+<li>Prices, phone numbers, addresses and links are correct.</li>
+<li>Claims can be supported, and regulated wording has been checked where necessary.</li>
+<li>The agreed approver has signed each page off.</li>
+<li>You have marked anything that is deliberately temporary.</li>
+</ul>
+<p>Late changes will happen, so agree with your builder how they will be handled and whether a certain number of amendments is included in the price. Your <a href="/blog/website-staging-and-testing/">staging and testing</a> phase is the right time to review everything in place, and you should still expect to spot things there that you missed on a document.</p>
+
+<h2>What to do when content is running late</h2>
+<p>Even a well-run plan can slip, and a busy owner often has customers to serve first. If you are falling behind, try these options before pushing back the launch:</p>
+<ul>
+<li><strong>Launch a smaller site.</strong> Publish the pages that matter for sales, then add the rest in planned stages.</li>
+<li><strong>Prioritise.</strong> Finish the service pages and contact details first. A company history can wait.</li>
+<li><strong>Interview rather than write.</strong> Talk through a service with someone taking notes, as this can be quicker than facing a blank page.</li>
+<li><strong>Bring in help.</strong> A writer or photographer can unblock a specific page or section.</li>
+</ul>
+<p>Avoid launching with placeholder text, stock claims or sections that say coming soon, as they can make a new website look unfinished. It is better to leave a page out until it is ready. If you are working through a build and would like support, Prism Works Studio offers <a href="/services/website-ecommerce-development/">website and ecommerce development</a> and can plan content alongside the design.</p>
+
+<h2>FAQs</h2>
+<h3>Does all my content need to be finished before design starts?</h3>
+<p>Not necessarily. A clear page list, briefs and realistic drafts are often enough to begin. Ask your designer what they need and at what stage, and agree this in your project plan.</p>
+<h3>Can a web designer write my content?</h3>
+<p>Some can or will work with a copywriter, while others expect you to supply it. Check this when you get a quote, so it is clear who is responsible and what is included.</p>
+<h3>Can I reuse the content from my old website?</h3>
+<p>Yes, if it is still accurate and working well. Review it page by page, because old content may need updating, and be careful about removing pages that bring in search traffic without planning a redirect.</p>
+<h3>Can I use stock photos?</h3>
+<p>Yes, if the licence covers your use. They can work well for backgrounds or concepts, but real photos of your people and work are often more convincing where trust matters.</p>
+<h3>What format should I send my content in?</h3>
+<p>Editable documents for text and original high-resolution files for images are a sensible default. Your builder may have a preferred template, so ask first.</p>
+<h3>What about my privacy policy and terms?</h3>
+<p>These still need attention before launch. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> explains what to consider, and a legal adviser can confirm what your business needs.</p>
+`,
+  },
 ];
