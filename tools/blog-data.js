@@ -43417,4 +43417,580 @@ module.exports = [
 <p>List who currently owns each job on your site: updates, backups, security, form testing, renewals and urgent fixes. Any blank space or uncertain answer shows you where to start. Prism Works Studio is a UK remote agency offering ongoing maintenance for websites and stores, covering platform updates, security monitoring, performance and support, as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service. If you would like a second view on what your site needs, <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'ebay-seo-uk',
+    seoTitle: 'eBay SEO UK: How to Get Your Listings Found',
+    title: 'eBay SEO for UK Sellers: How to Get Your Listings Found and Chosen',
+    description: 'How eBay search works for UK sellers, with practical tips on titles, item specifics, photos, pricing, delivery and seller standards to help listings get found.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/amazon-seo-agency-uk/', '/blog/ecommerce-seo-agency-uk/', '/blog/ecommerce-product-photography/'],
+    body: `
+<p>eBay SEO is the work of helping your listings appear in eBay search and persuading buyers to choose them. The most useful starting points are accurate titles with the words buyers really use, complete item specifics and the correct category. Clear photos, fair total pricing, reliable delivery and a strong seller record also matter. eBay does not publish a full formula for how it ranks listings, so treat the advice here as good practice rather than a guaranteed route to the top.</p>
+<p>This guide is for UK sellers and ecommerce managers who want more from existing listings. If you also sell on your own site or other marketplaces, see our guide to <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agencies</a> for the wider picture.</p>
+
+<h2>How eBay search differs from Google</h2>
+<p>Google tries to answer a very wide range of questions. eBay search is about finding an item to buy, so product details, availability and the buying experience play a large part. A shopper can also filter by condition, price, brand, size or delivery option, which means incomplete listings may drop out of those filtered results.</p>
+<p>eBay's own Best Match sort aims to show results relevant to the search, and the seller's details are part of that wider picture. Factors discussed by eBay include how well the listing matches the search, its price and delivery terms, and the seller's record. The exact weighting is not public and may vary, so be sceptical of anyone claiming a secret formula.</p>
+
+<h2>Write titles for how buyers search</h2>
+<p>The title is the most visible text in your listing. It should say clearly what the item is, using the words a buyer would type. eBay sets a character limit, so check the current allowance and use it sensibly.</p>
+<h3>What to include</h3>
+<ul>
+<li>Brand and product name, where relevant.</li>
+<li>Model or part number, particularly for spares and technology.</li>
+<li>Key attributes such as size, colour, material or capacity.</li>
+<li>Condition, if it would matter to the buyer and is not already obvious.</li>
+<li>Compatibility details, such as what a part fits, where they are accurate.</li>
+</ul>
+<h3>What to avoid</h3>
+<ul>
+<li>Filler such as "wow", "look" or "must see", which uses up space and tells buyers little.</li>
+<li>Unrelated brand names added to catch extra searches, which is misleading and may break eBay's rules.</li>
+<li>Repeating the same words several times.</li>
+<li>Stuffing the title until it is difficult to read.</li>
+</ul>
+<p>Before you write, type your product into eBay's search box and note the suggestions. Look at sold listings as well, which show what has actually sold, and consider how UK buyers might describe the item. "Trainers" and "sneakers", or "hoover" and "vacuum cleaner", can be very different searches.</p>
+
+<h2>Complete your item specifics</h2>
+<p>Item specifics are the structured fields such as brand, size, colour and type. They feed the filters buyers use, so they are one of the most practical places to improve a listing. Fill in required and recommended fields wherever the information is accurate. Use eBay's suggested values where they fit, because they are more likely to line up with its filters.</p>
+<p>Check your listings for these common gaps:</p>
+<ul>
+<li>Brand left blank or spelled in several ways across listings.</li>
+<li>Missing MPN, EAN or other product identifiers where they exist.</li>
+<li>Sizes or dimensions written only in the description.</li>
+<li>Generic values such as "other" where a precise option is available.</li>
+</ul>
+<p>Accuracy matters here. A wrong size or compatibility detail may bring you a sale, followed by a return and an unhappy buyer.</p>
+
+<h2>Pick the right category</h2>
+<p>The category affects which filters and fields appear, and where your item can be browsed. Check where similar successful listings sit, and choose the most specific option that accurately fits. If an item seems to fit in two places, look at the available filters and what buyers would expect, or consider whether eBay's current options allow a second category and whether the cost is justified.</p>
+
+<h2>Help buyers decide</h2>
+<h3>Photos</h3>
+<p>Buyers cannot pick up the item, so photos do much of the selling. Use sharp, well-lit images that show the item from several angles, along with labels, ports, sizes or any wear. For used items, show the actual item and photograph any flaws. Follow eBay's current image rules. Our guide to <a href="/blog/ecommerce-product-photography/">ecommerce product photography</a> has more detail.</p>
+<h3>Description</h3>
+<p>Keep the description easy to read on a phone. Lead with what the buyer most needs to know, then cover dimensions, compatibility, condition, what is included and any limits. Avoid hiding key facts in a graphic, and make sure the description agrees with the title and the item specifics.</p>
+<h3>Price and delivery</h3>
+<p>Buyers tend to compare the total cost, not just the headline price. Check sold listings and active competitors for similar items in similar condition. Then look at your margin after fees, postage, packaging and returns. A cheaper listing that loses money is not a win. Show realistic dispatch times and offer a clear delivery choice you can reliably meet.</p>
+<h3>Returns</h3>
+<p>A clear and fair returns policy can give buyers more confidence, especially for higher-value items. Make sure your policy meets your legal obligations, as business sellers selling online have duties to consumers. Check current guidance if you are unsure.</p>
+
+<h2>Protect your seller record</h2>
+<p>eBay measures seller performance, including issues such as late dispatch and problems with transactions. Check your seller dashboard regularly and treat it as part of your visibility work, rather than only as customer service. These habits help:</p>
+<ul>
+<li>Keep stock figures correct so you do not have to cancel orders.</li>
+<li>Dispatch within the time you promised and upload tracking.</li>
+<li>Answer buyer questions quickly and clearly.</li>
+<li>Describe condition honestly to reduce avoidable returns.</li>
+<li>Look for patterns in returns and problems, then fix the listing or the process behind them.</li>
+</ul>
+
+<h2>Promoted listings: when to use them</h2>
+<p>eBay offers paid promotion that can give listings extra visibility. It can be useful for items with good margins and listings that already convert, but it will not fix poor photos or an uncompetitive price. Tidy up the listing first, then include advertising fees in your margin calculations. Track whether promoted sales are profitable, instead of looking only at sales volume.</p>
+
+<h2>A simple way to work through your listings</h2>
+<ol>
+<li>Export or list your current products, along with their sales and profit.</li>
+<li>Start with best sellers and high-margin items that have room to improve.</li>
+<li>Check search terms, then rewrite titles where needed.</li>
+<li>Fill in missing item specifics and confirm the categories.</li>
+<li>Improve photos and descriptions, starting with the items that matter most.</li>
+<li>Review price, delivery and returns against similar sold items.</li>
+<li>Record what you changed and when, then review traffic, conversion and profit.</li>
+</ol>
+<p>Be cautious about making major changes to a listing that is selling well. Test on a small group first, where you can, and remember that seasonality and stock changes can affect results.</p>
+
+<h2>eBay compared with Amazon and your own site</h2>
+<p>Each channel has its own rules. Amazon is built around shared product pages and its own systems, as our guide to <a href="/blog/amazon-seo-agency-uk/">Amazon SEO</a> explains, while eBay listings belong more directly to each seller. Your own store gives you more control over brand and customer relationships, but you need to bring in the traffic. Copying the same text everywhere is rarely the best approach. Keep the product facts consistent, then adapt the presentation to each channel.</p>
+
+<h2>FAQs</h2>
+<h3>Does eBay use keywords in the description for search?</h3>
+<p>Titles and item specifics are the main places to focus. Write descriptions for buyers first and include the important details naturally, rather than loading them with extra keywords.</p>
+<h3>How can I see which search terms work?</h3>
+<p>Use eBay's search suggestions, sold listings and the traffic data available in your seller account. Compare changes over time, while allowing for season, price and stock differences.</p>
+<h3>Should I end and relist items to rank higher?</h3>
+<p>There is no reliable rule that this helps, and it can lose a listing's sales history. Improve the existing listing first, unless you have a specific reason to relist.</p>
+<h3>Do free delivery listings rank better?</h3>
+<p>Delivery terms can affect buyer choice and overall appeal, but no single delivery option guarantees a higher position. Compare the total cost and protect your margin.</p>
+<h3>Can an agency manage eBay SEO for me?</h3>
+<p>Yes, an agency can review and improve your listings, although you stay responsible for accurate product information and for meeting eBay's rules. Agree who approves changes and who handles customer service.</p>
+
+<h2>Next steps</h2>
+<p>Pick your five best-selling listings and check their titles, item specifics, photos and total price against similar sold items. You will soon see where the gaps are. Prism Works Studio optimises product listings and category pages across Shopify, WooCommerce, Amazon, eBay and more as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. If you would like help reviewing your listings, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'international-seo-agency-uk',
+    seoTitle: 'International SEO Agency UK: What to Look For',
+    title: 'International SEO Agency UK: What They Do and How to Choose One for Overseas Growth',
+    description: 'What an international SEO agency does for UK businesses, from market research and hreflang to localisation, plus how to choose one and avoid costly mistakes.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/selling-internationally-uk-online-store/', '/blog/technical-seo-audit-checklist/', '/blog/seo-migration-checklist/'],
+    body: `
+<p>An international SEO agency helps a business get found in search in more than one country or language. The work covers choosing markets, researching how people search there, planning the site structure, setting up hreflang and producing properly localised content. For a UK business, the first question is usually not how to translate the site, but which market is worth entering and whether the business can serve customers there once they arrive.</p>
+<p>This guide is for UK owners and marketing managers planning overseas growth, or trying to fix an international site that is not performing. If you run an online shop, read it alongside our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a>, which covers more of the operational side.</p>
+
+<h2>What international SEO covers</h2>
+<ul>
+<li><strong>Market research:</strong> whether there is search demand, who competes for it and what buyers expect.</li>
+<li><strong>Keyword localisation:</strong> finding the terms people really use, rather than translating UK keywords.</li>
+<li><strong>Site structure:</strong> deciding how each country or language version should be organised.</li>
+<li><strong>Technical setup:</strong> hreflang, canonical tags, sitemaps, crawling and speed for each version.</li>
+<li><strong>Content localisation:</strong> adapting language, examples, currency, units and calls to action.</li>
+<li><strong>Authority:</strong> earning relevant mentions and links in the markets you are targeting.</li>
+<li><strong>Measurement:</strong> tracking rankings, traffic and leads or sales by market.</li>
+</ul>
+
+<h2>Start with the market decision</h2>
+<p>Rankings have little value if the business cannot deliver. Before committing to SEO, check the basics for each market: delivery, returns, tax, payment methods, legal requirements, customer service hours and the languages your team can support. Take professional advice on tax and legal points.</p>
+<p>Then look for evidence of demand. Existing enquiries from abroad, analytics data, search data and competitor activity can all help. Search Console can also show which countries already see your site. These signals do not prove a market will work, but they make a better starting point than simply choosing the biggest country on the map.</p>
+<p>Starting with one or two markets is often more practical than launching widely. It gives your team room to learn, and it keeps content and upkeep at a level you can sustain.</p>
+
+<h2>Choosing a site structure</h2>
+<table>
+<thead><tr><th>Structure</th><th>Example</th><th>Strengths</th><th>Trade-offs</th></tr></thead>
+<tbody>
+<tr><td>Subfolders</td><td>example.com/de/</td><td>Simple to run, and everything sits under one domain</td><td>A weaker local signal than a country domain</td></tr>
+<tr><td>Subdomains</td><td>de.example.com</td><td>Can suit separate teams or systems</td><td>More setup and more to maintain</td></tr>
+<tr><td>Country domains</td><td>example.de</td><td>A clear local signal to visitors</td><td>Separate domains to buy, manage and build authority for</td></tr>
+</tbody>
+</table>
+<p>There is no single right answer. Subfolders are often a sensible default for businesses starting out, because they are easier to manage. Country domains may suit a business with strong local teams and budgets. Your platform, legal setup and long-term plans all affect the choice. Moving later means a migration, so it pays to decide carefully. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> shows what is involved.</p>
+
+<h2>Hreflang in plain English</h2>
+<p>Hreflang is a set of annotations telling search engines which language and country version of a page is meant for which audience. It helps Google show your Irish page to searchers in Ireland, for example, rather than the UK version. It is not a ranking boost, and it does not make weak pages strong.</p>
+<p>Common errors include:</p>
+<ul>
+<li>Pages that do not link back to each other, since hreflang annotations need to be reciprocal.</li>
+<li>Incorrect language or region codes, such as using "uk" when the correct English UK code is "en-GB".</li>
+<li>Annotations pointing at redirected, blocked or broken pages.</li>
+<li>Canonical tags that point every version at one main page, which sends a conflicting signal.</li>
+<li>No fallback page for visitors outside your listed markets, which an x-default annotation can help with.</li>
+</ul>
+<p>These problems are easy to introduce and hard to spot by eye, particularly on large sites. Include hreflang in routine checks, along with the other points in a <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a>.</p>
+
+<h2>Translation is not localisation</h2>
+<p>Translation changes the words. Localisation makes the page feel right for the person reading it. People may use a different term from the direct translation, compare different things or expect different proof before buying. Even between English-speaking markets, spelling, vocabulary and search habits differ.</p>
+<p>A localised page may need changes to:</p>
+<ul>
+<li>Currency, measurements, dates and sizes.</li>
+<li>Delivery, returns and contact details.</li>
+<li>Payment options and legal information.</li>
+<li>Examples and references that make no sense outside the UK.</li>
+<li>Calls to action and the tone of your copy.</li>
+</ul>
+<p>AI translation can speed up a first draft, but have a fluent reviewer check anything customers rely on. If nobody on your team can read the language, agree in advance who will review the copy and who will answer the enquiries it brings in.</p>
+
+<h2>Other mistakes that cost time</h2>
+<ul>
+<li><strong>Redirecting visitors automatically by location.</strong> This can frustrate people and may stop search engines reaching every version. Offering a clear choice is usually safer.</li>
+<li><strong>Copying pages across similar markets with no real differences.</strong> Near-identical pages can compete or be folded together in search results.</li>
+<li><strong>Leaving navigation and templates half translated.</strong> Mixed-language pages look careless and undermine trust.</li>
+<li><strong>Launching and moving on.</strong> Every version needs updates, so a new price or policy may have to change in several places.</li>
+<li><strong>Reporting only a global total.</strong> Strong results in one market can hide problems in another.</li>
+</ul>
+
+<h2>How to choose an agency</h2>
+<p>Look for a partner who asks about your commercial plans as well as your site. Useful questions include:</p>
+<ul>
+<li>Which market would you start with, and what evidence supports that?</li>
+<li>Which site structure do you recommend for our platform, and why?</li>
+<li>How do you research keywords in languages your team does not speak?</li>
+<li>Who writes and reviews the localised content?</li>
+<li>How will you implement and check hreflang?</li>
+<li>How will you report results by country and language?</li>
+<li>What ongoing work will each new market need from our team?</li>
+</ul>
+<p>Be wary of anyone who promises rankings by a set date, proposes translating every page without research or cannot explain their reasoning simply. Ask to see how similar work has been planned and measured, and judge the answer on its detail.</p>
+
+<h2>Measuring international SEO properly</h2>
+<p>Report each market separately from the start, so that you can see whether a new version of the site is earning its keep. Search Console can filter performance by country and by page, while analytics can show enquiries or sales by market when tracking is set up correctly. Keep your existing UK reporting running as well, because structural changes can affect your home market too.</p>
+<p>Useful measures include:</p>
+<ul>
+<li>Which pages are indexed in each country or language section.</li>
+<li>Whether searchers are reaching the version intended for them.</li>
+<li>Impressions and clicks for the local terms you researched.</li>
+<li>Enquiries or sales by market, including their quality and profitability.</li>
+<li>The cost of serving each market, such as delivery, returns and customer support.</li>
+</ul>
+<p>Early signs often appear in indexing and impressions before they show up in leads or revenue. Agree which signs you will review, and what would make you continue, change approach or leave a market. A decision to stop is a valid result if the market does not justify the work, and it is much cheaper to reach that conclusion after one focused test than after a wide launch.</p>
+
+<h2>What to prepare before you speak to an agency</h2>
+<ul>
+<li>Your target markets and why you are considering them.</li>
+<li>What you can deliver in each market, and any current limits.</li>
+<li>Access to analytics and Search Console.</li>
+<li>Any existing international pages and their history.</li>
+<li>Your platform and who can make technical changes.</li>
+<li>Who will review translations and handle overseas customers.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Do I need a separate website for each country?</h3>
+<p>Not necessarily. Many businesses run separate country or language sections in subfolders of one domain. The right structure depends on your platform, teams and long-term plans.</p>
+<h3>Does Google translate my pages for international SEO?</h3>
+<p>Browser or search translation features are not a substitute for localised pages. If you want to compete in a language, publish content in that language, with keywords and details researched for that market.</p>
+<h3>Do I need hreflang for only two versions?</h3>
+<p>It can still help when you have similar pages for different audiences, such as the UK and Ireland. Your site's size and structure will affect how much care the setup needs.</p>
+<h3>Can I target other English-speaking countries with my UK content?</h3>
+<p>Sometimes, but local spelling, pricing, delivery and search terms may differ. A dedicated page often serves those visitors better when the market really matters to your business.</p>
+<h3>How long does international SEO take?</h3>
+<p>There is no fixed answer. It depends on competition, your site's existing authority and how much content is needed. Be cautious of guaranteed dates, and agree which early signs you will review.</p>
+
+<h2>Next steps</h2>
+<p>Write down the one market you would enter first, then list what your business would need to serve a customer there. If the list looks realistic, you are ready to look at search demand. Prism Works Studio offers international SEO, including hreflang implementation, localised keyword research, site structure and content localisation, as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. If you would like to talk through your plans, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'linkedin-ads-agency-uk',
+    seoTitle: 'LinkedIn Ads Agency UK: How to Choose the Right One',
+    title: 'LinkedIn Ads Agency UK: What They Do, When It Makes Sense and How to Choose',
+    description: 'What a LinkedIn Ads agency does for UK B2B businesses, when the channel is worth the cost, how to compare providers and the questions to ask before you sign.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/linkedin-ads-b2b-lead-generation-uk/', '/blog/b2b-marketing-agency-uk/', '/blog/ppc-management-cost-uk/'],
+    body: `
+<p>A LinkedIn Ads agency plans and manages paid campaigns aimed at professional audiences, using details such as job function, seniority, industry and company. For UK businesses it tends to suit B2B companies with a well-defined buyer and a customer value high enough to justify the cost of reaching that person. The value of an agency lies in joining up targeting, creative, lead capture and sales follow-up, because good targeting alone does not create a qualified lead.</p>
+<p>This guide focuses on deciding whether to hire help and how to compare providers. For more on campaign planning, see our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn Ads for B2B lead generation</a>.</p>
+
+<h2>What a LinkedIn Ads agency does</h2>
+<ul>
+<li><strong>Audience planning:</strong> turning your ideal customer into targeting that is specific without being too narrow.</li>
+<li><strong>Offer development:</strong> working out what is worth a busy buyer's attention, whether that is a guide, a demo or a useful insight.</li>
+<li><strong>Creative and copy:</strong> writing and briefing ads for people who were not looking for you at that moment.</li>
+<li><strong>Lead capture:</strong> deciding between LinkedIn's lead forms and your own landing pages, then connecting them to your systems.</li>
+<li><strong>Tracking:</strong> setting up conversion measurement and links to your sales data.</li>
+<li><strong>Optimisation:</strong> testing audiences and messages, reviewing lead quality and adjusting budgets.</li>
+<li><strong>Reporting:</strong> showing what happened to leads after the form was submitted.</li>
+</ul>
+
+<h2>When LinkedIn Ads makes sense</h2>
+<p>The platform is often more expensive per click than many other channels, so the commercial case matters. It tends to be a stronger fit when:</p>
+<ul>
+<li>You can describe your buyer by role, seniority, sector or company type.</li>
+<li>One new customer is valuable enough to absorb the cost of reaching and nurturing several prospects.</li>
+<li>Your buyers are hard to reach through search, because few of them are actively looking for your category yet.</li>
+<li>You have a sales process that can follow up quickly and properly.</li>
+<li>You want to reach a defined list of target accounts.</li>
+</ul>
+<h3>When another channel may come first</h3>
+<p>If you sell low-cost products, serve mainly consumers or have only a small budget, LinkedIn may be difficult to justify. Where people already search for what you offer, search ads may capture that demand more directly. Your budget also needs to be able to produce enough data, as a test with very few clicks tells you little.</p>
+
+<h2>Agency, freelancer or in-house?</h2>
+<table>
+<thead><tr><th>Option</th><th>Can suit</th><th>Watch for</th></tr></thead>
+<tbody>
+<tr><td>Agency</td><td>Businesses wanting strategy, creative and reporting from one partner, or several channels joined up</td><td>Check who does the day-to-day work and how much attention your account gets</td></tr>
+<tr><td>Freelancer</td><td>Focused campaigns where one specialist is enough</td><td>Plan for holiday cover and any skills they do not offer, such as design</td></tr>
+<tr><td>In-house</td><td>Teams with steady activity and someone able to focus on it</td><td>Learning takes time, and one person may find it hard to cover every skill</td></tr>
+</tbody>
+</table>
+<p>Whatever you choose, keep the ad account under your organisation's control and give the people doing the work the access they need.</p>
+
+<h2>What good targeting looks like</h2>
+<p>New advertisers often make audiences either too broad or too narrow. Ticking every possible job title and sector can pull in the wrong people, while layering filters until almost nobody is left makes results expensive and hard to read.</p>
+<p>A strong agency will usually ask:</p>
+<ul>
+<li>Who signs off the purchase, who influences it and who feels the problem day to day?</li>
+<li>Which sectors and company sizes have been your best customers?</li>
+<li>Do you have a target account list that can be uploaded lawfully?</li>
+<li>Who should be excluded, such as competitors, existing customers or job seekers?</li>
+</ul>
+<p>Job titles vary, so a mix of function and seniority may reach people that a short list of titles would miss. Check the audience settings regularly, as the platform's expansion options can widen who sees your ads.</p>
+
+<h2>Why the offer matters as much as the audience</h2>
+<p>LinkedIn can reach the right person when they are not thinking about buying. Asking that person to book a sales call straight away is often a big step. Depending on how well they know you, one of these may work better:</p>
+<ul>
+<li>A short, useful guide or checklist based on your experience.</li>
+<li>A clear explanation of a problem and how to think about solving it.</li>
+<li>An event or webinar on something your audience needs to understand.</li>
+<li>A demo or consultation, which is usually better for people already familiar with you.</li>
+</ul>
+<p>An agency should question an offer that is unlikely to interest your audience. Gated content can also bring in contact details from people who are not ready to buy, so plan what happens next.</p>
+
+<h2>Lead forms or landing pages?</h2>
+<p>LinkedIn lead forms can make it easy to respond, because details may be filled in from the person's profile. That convenience can bring more leads but sometimes weaker intent. Your own landing page asks for more effort and gives you more room to explain the offer and qualify people. Testing both is reasonable where volume allows. Either way, leads should reach the right person quickly, so check the connection to your CRM or inbox before launch. Make sure your privacy information and consent wording are suitable, and take advice if you are unsure.</p>
+
+<h2>Measuring what matters</h2>
+<p>Clicks and engagement show that an ad got attention. They do not show that the campaign is helping the business. Ask for reporting that follows leads further:</p>
+<ul>
+<li>How many leads were contacted and how many were qualified?</li>
+<li>Which audiences and offers produced sales conversations?</li>
+<li>What has entered the pipeline, and what has closed?</li>
+<li>What feedback did the sales team give?</li>
+</ul>
+<p>B2B sales cycles can be long, so early reports may rely on lead quality rather than revenue. Agree those early measures in advance, and make sure someone can feed sales outcomes back into the campaign.</p>
+
+<h2>Questions to ask a provider</h2>
+<ul>
+<li>Is LinkedIn right for us, and what would you try first if it is not?</li>
+<li>How would you define our audience, and how will you check its quality?</li>
+<li>Who writes the ads and produces the creative?</li>
+<li>Which offer would you test first, and why?</li>
+<li>How will leads reach our team?</li>
+<li>What will you report beyond cost per lead?</li>
+<li>Who owns the account, audiences and creative if we part ways?</li>
+<li>How is your fee structured, and what is excluded?</li>
+</ul>
+<p>Cost per lead on its own can reward weak leads, so treat any provider focused only on that number with care. Compare fees using our guide to <a href="/blog/ppc-management-cost-uk/">paid media management costs</a>, and check that media spend is shown separately from management fees.</p>
+
+<h2>What to prepare before you start</h2>
+<p>A provider can give you better advice if you bring a few facts to the first conversation. Gather what you know about recent customers, including their roles, sectors and company sizes. Note your typical sales cycle, how leads are followed up today and any content you already have that could support an offer. Being clear about these points also makes it easier to compare proposals fairly.</p>
+
+<h2>Red flags</h2>
+<ul>
+<li>Guaranteed lead numbers before anyone has seen your market or offer.</li>
+<li>Control of the ad account being kept by the agency.</li>
+<li>Reports that stop at impressions, clicks and engagement.</li>
+<li>No interest in your sales process or lead quality.</li>
+<li>The same offer and audience approach proposed for every client.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Is LinkedIn advertising worth it for small businesses?</h3>
+<p>It can be when a small business sells high-value services to a clearly defined audience. If customer value is low or budgets are tight, other channels may be a better place to start.</p>
+<h3>Why does LinkedIn often cost more than other platforms?</h3>
+<p>You are paying for access to professional targeting, and auction competition can be strong for valuable audiences. Judge the cost against qualified leads and customer value rather than clicks.</p>
+<h3>Should I use LinkedIn Ads or Google Ads?</h3>
+<p>They do different jobs. Google Ads reaches people actively searching, while LinkedIn reaches people who match a professional profile. Many B2B businesses begin where there is clearer demand, then add the other.</p>
+<h3>How long should I test LinkedIn Ads?</h3>
+<p>Long enough to gather meaningful lead-quality data, which depends on your budget, audience and sales cycle. Agree the test measures upfront so a decision can be made fairly.</p>
+<h3>Can an agency use my personal LinkedIn profile for ads?</h3>
+<p>Some formats can involve an individual's profile or content, depending on current platform options and permissions. Agree in advance what may be published in anyone's name.</p>
+
+<h2>Next steps</h2>
+<p>Write a short description of your best customer, including their role, sector and company type, and estimate what one new customer is worth. Those two answers will tell you much about whether LinkedIn deserves a test. Prism Works Studio manages LinkedIn Ads as part of our <a href="/services/paid-media/">paid media service</a>. If you would like to discuss whether the channel fits, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'microsoft-ads-management-uk',
+    seoTitle: 'Microsoft Ads Management UK: Is It Worth Adding?',
+    title: 'Microsoft Ads Management in the UK: When It Is Worth Adding and What Good Management Covers',
+    description: 'When Microsoft Ads is worth adding for a UK business, how it differs from Google Ads, what good management covers and how to test it without wasting budget.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/google-ads-agency-uk/', '/blog/ppc-audit-checklist/', '/blog/ppc-management-cost-uk/'],
+    body: `
+<p>Microsoft Ads management means planning, building and improving paid campaigns across the Microsoft Advertising network, which includes Bing search and partner placements. For many UK businesses it works best as an addition to Google Ads rather than a replacement. It is usually worth testing when your Google campaigns already convert, your tracking is reliable and you want more of the same kind of demand. It is rarely the right first fix for a weak offer or a poor landing page.</p>
+<p>This guide is for UK business owners and marketing managers deciding whether to add the channel, and what to expect from whoever runs it. For the main search channel, see our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a>.</p>
+
+<h2>What Microsoft Ads is</h2>
+<p>Microsoft Advertising is the platform used to run ads on Microsoft's search engine and on sites and services in its wider network. The basic idea will feel familiar if you have used Google Ads. You choose keywords or other signals, write ads, set budgets and bids, then pay according to the campaign settings and the results of the auction.</p>
+<p>The audience is the main reason to consider it. Some people search through Bing because of the browser or device they use, or because it is the default at work. Those searches may never reach your Google campaigns, so the channel can give you another chance to appear when someone is looking for what you sell. Available formats and placements change over time, so check the current options in the platform before you plan around any one of them.</p>
+
+<h2>How it differs from Google Ads</h2>
+<table>
+<thead><tr><th>Area</th><th>What to think about</th></tr></thead>
+<tbody>
+<tr><td>Search volume</td><td>Expect a smaller pool of searches for most terms. Niche campaigns can run short of data, so tests may need longer to read.</td></tr>
+<tr><td>Audience</td><td>The people reached may differ from your Google audience. Compare enquiry quality rather than assuming they behave the same way.</td></tr>
+<tr><td>Competition</td><td>Auctions vary by sector. Costs may be lower in one market and similar in another, so check your own results.</td></tr>
+<tr><td>Targeting</td><td>Audience options differ, including LinkedIn profile targeting on eligible campaigns, which may interest B2B advertisers.</td></tr>
+<tr><td>Campaign setup</td><td>Campaigns can be imported from Google Ads, but not every setting carries across in the way you might expect.</td></tr>
+</tbody>
+</table>
+
+<h2>When it is worth testing</h2>
+<p>A test makes most sense when several of these are true:</p>
+<ul>
+<li>Your Google Ads campaigns already produce leads or sales you are happy with.</li>
+<li>Google is close to using up the search demand you can profitably reach, so more budget there brings weaker returns.</li>
+<li>You sell to office-based or business buyers, where work devices and default browsers may play a larger part.</li>
+<li>Your conversion tracking is accurate and each lead source can be seen separately.</li>
+<li>You can spare a modest test budget without taking money from campaigns that are working.</li>
+</ul>
+<h3>When to wait</h3>
+<p>Hold off if your site does not convert, your Google account has clear unresolved problems or you cannot tell which ads produce real enquiries. Adding a channel spreads attention. A <a href="/blog/ppc-audit-checklist/">PPC audit</a> may find more value in your current account first. Very small local campaigns can also struggle, because there may be too few searches to learn anything useful in a reasonable period.</p>
+
+<h2>Why importing from Google Ads is only the start</h2>
+<p>The import tool saves time and keeps the structure consistent. It can bring over campaigns, keywords, ads and other assets. That makes it a sensible first step for many accounts, although the result still needs a careful review.</p>
+<p>Check these points before you let an imported campaign spend:</p>
+<ul>
+<li><strong>Locations:</strong> confirm the campaign targets only the UK areas you serve, and review the location options rather than trusting the import.</li>
+<li><strong>Network settings:</strong> decide whether partner and audience placements belong in the test, or whether search should come first.</li>
+<li><strong>Budgets and bids:</strong> copied figures may not suit a smaller auction, so set them for this test.</li>
+<li><strong>Bid strategy:</strong> automated bidding needs conversion data. A new account may have little to learn from at first.</li>
+<li><strong>Tracking:</strong> set up conversion tracking for Microsoft Ads and test each goal. Google Ads tags do not do this job.</li>
+<li><strong>Negative keywords:</strong> carry over your exclusions, then build on them using this channel's own search terms.</li>
+<li><strong>Ad assets:</strong> check that links, offers, phone numbers and approved wording are all current.</li>
+</ul>
+<p>Scheduled imports need particular care. They can be handy while accounts are aligned, but they may overwrite changes made for this channel. Decide early which account leads and which settings stay separate.</p>
+
+<h2>What good management covers</h2>
+<p>Managing the channel well is more than launching a copy of your campaigns. Ask whether the following work is included:</p>
+<ul>
+<li>A clear goal for the test, based on your commercial numbers rather than clicks alone.</li>
+<li>Account setup, billing access and ownership in your organisation's name.</li>
+<li>Conversion tracking that records real actions, such as qualified forms, calls or purchases.</li>
+<li>Regular search term reviews, so irrelevant traffic can be excluded.</li>
+<li>Ad testing and landing page feedback, not just bid changes.</li>
+<li>Budget and bid changes based on enough data, with a clear reason recorded.</li>
+<li>Reporting that shows Microsoft results separately from Google, including what changed and what happens next.</li>
+</ul>
+<p>Ask too who will do the work day to day and how often the account is reviewed. Small accounts do not need constant changes, but they do need someone paying attention.</p>
+
+<h2>How to run a sensible test</h2>
+<h3>Start with your best demand</h3>
+<p>Choose campaigns where the intent is clear and your Google results are already understood, such as high-intent service terms or best-selling product groups. Leave broad awareness campaigns until you know the channel can work for you.</p>
+<h3>Agree the measure first</h3>
+<p>Decide what success means before spending. For lead generation, that may be the cost of a qualified enquiry. For ecommerce, it may be profit after product and delivery costs. Agree how long you will run the test too, allowing for your sales cycle and the volume available.</p>
+<h3>Read the results carefully</h3>
+<p>Do not judge the channel only on cheaper clicks. A low cost per click means little if those visitors never become customers. Ask your sales team to mark lead quality where possible, and compare results by campaign rather than looking only at the account total. If results look promising, increase budget in steps and keep watching quality.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Importing everything at once, then leaving it unmanaged.</li>
+<li>Counting page views or button clicks as conversions, which can mislead both reports and automated bidding.</li>
+<li>Letting partner placements spend without checking what they deliver.</li>
+<li>Comparing results with Google without allowing for lower data volumes.</li>
+<li>Ending a test too early, or continuing a poor one because the clicks look cheap.</li>
+<li>Giving a provider sole control of the account, which complicates any later handover.</li>
+</ul>
+
+<h2>Questions to ask a provider</h2>
+<ul>
+<li>Would you recommend this channel for our business, and why or why not?</li>
+<li>What would you check before importing our campaigns?</li>
+<li>How will tracking be set up and tested?</li>
+<li>Which settings will differ from our Google account?</li>
+<li>Who owns the account and data if we part ways?</li>
+<li>What result would make you advise stopping the test?</li>
+</ul>
+<p>A useful answer can include "not yet". A provider should be willing to say your budget is better spent elsewhere. Our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> can help you compare proposals.</p>
+
+<h2>FAQs</h2>
+<h3>Is Microsoft Ads the same as Bing Ads?</h3>
+<p>Bing Ads was the earlier name for the platform. Microsoft Advertising is the current name, and people still use both terms in everyday conversation.</p>
+<h3>Should Microsoft Ads replace Google Ads?</h3>
+<p>Usually not. Most UK businesses will find more search demand on Google, so Microsoft Ads tends to work best as an extra channel, tested once the core campaigns are in reasonable shape.</p>
+<h3>Are clicks always cheaper on Microsoft Ads?</h3>
+<p>No. Costs depend on the sector, the competition and your campaign quality. Test with your own keywords and judge the outcome by the cost of a qualified lead or a profitable sale.</p>
+<h3>Can I copy my Google Ads campaigns across?</h3>
+<p>Yes, the platform offers an import option. Review the settings, tracking, locations, budgets and ads afterwards, because an imported campaign still needs managing in its own right.</p>
+<h3>Is it useful for B2B?</h3>
+<p>It can be, particularly where buyers search on work devices. Eligible campaigns may also use LinkedIn profile targeting, but check the current options and whether your volumes can support them.</p>
+
+<h2>Next steps</h2>
+<p>Look at your current Google campaigns and pick the one or two with the clearest commercial value. Those are your likely test candidates. Prism Works Studio manages Google Ads and Microsoft Ads as part of our <a href="/services/paid-media/">paid media service</a>. If you would like a second opinion on whether the channel suits your business, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'technical-seo-agency-uk',
+    seoTitle: 'Technical SEO Agency UK: What They Fix and How to Choose',
+    title: 'Technical SEO Agency UK: What They Fix, When You Need One and How to Choose',
+    description: 'What a technical SEO agency does, the signs your UK site needs one, how to judge the fixes it recommends and the questions to ask before you hire a provider.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/technical-seo-audit-checklist/', '/blog/seo-audit-cost-uk/', '/blog/seo-migration-checklist/'],
+    body: `
+<p>A technical SEO agency improves the parts of a website that affect how search engines crawl, understand and index it. That includes site structure, redirects, indexing, speed, mobile usability, schema markup and JavaScript rendering. You are most likely to need one when good pages are not being indexed, traffic has dropped after a change, your site is large or complex, or a redesign or migration is coming up. Technical fixes remove barriers, but they cannot make up for weak content or low demand.</p>
+<p>This guide explains how to decide whether you need this kind of help and how to choose a provider. If you would rather check your own site first, use our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a>.</p>
+
+<h2>What a technical SEO agency does</h2>
+<table>
+<thead><tr><th>Area</th><th>What is checked</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Crawling</td><td>Robots rules, internal links, redirect chains and broken pages</td><td>Search engines need a clear route to your key pages</td></tr>
+<tr><td>Indexing</td><td>Noindex tags, canonicals, duplicates and sitemaps</td><td>Pages generally need to be indexed before they can appear in results</td></tr>
+<tr><td>Performance</td><td>Core Web Vitals, images, scripts and server response</td><td>Slow pages frustrate visitors and can hold back results</td></tr>
+<tr><td>Rendering</td><td>Whether key content and links are available to search engines</td><td>Heavy JavaScript can hide or delay important content</td></tr>
+<tr><td>Structure</td><td>URLs, navigation, internal linking and faceted pages</td><td>A clear structure shows how pages relate and which matter most</td></tr>
+<tr><td>Structured data</td><td>Schema markup and whether it matches the page</td><td>It helps search engines interpret content and may support rich results</td></tr>
+<tr><td>International setup</td><td>Hreflang and country or language versions</td><td>Searchers should reach the right version for their market</td></tr>
+</tbody>
+</table>
+
+<h2>Signs you may need specialist help</h2>
+<ul>
+<li>Important pages are listed as not indexed in Search Console, and you do not know why.</li>
+<li>Traffic fell after a redesign, migration, platform change or URL update.</li>
+<li>Your site has thousands of URLs, filters or generated pages.</li>
+<li>The site relies heavily on JavaScript and search results seem to miss some of the content.</li>
+<li>Your developers want clear, prioritised SEO requirements before they start a build.</li>
+<li>Different pages keep competing for the same search, or duplicate URLs keep appearing.</li>
+</ul>
+<p>A small brochure site with a few well-linked pages may not need ongoing technical work. A one-off review, followed by content and local SEO, may be a better use of your budget.</p>
+
+<h2>Technical issues that often matter, and some that may not</h2>
+<p>Audit tools can produce hundreds of warnings, and they do not all deserve equal attention. Issues that affect your most valuable pages should come first.</p>
+<h3>Usually worth prompt attention</h3>
+<ul>
+<li>Key pages blocked from crawling or marked noindex by mistake.</li>
+<li>Canonical tags pointing away from the page you want to rank.</li>
+<li>Old URLs left without appropriate redirects after a migration.</li>
+<li>Important pages with few or no internal links.</li>
+<li>Large numbers of near-duplicate pages created by filters or parameters.</li>
+<li>Main content that does not load properly for search engines.</li>
+</ul>
+<h3>Often lower priority</h3>
+<ul>
+<li>Small score changes in a speed testing tool where real users already have a good experience.</li>
+<li>Meta descriptions slightly over a tool's length limit.</li>
+<li>Warnings on old pages that have no commercial or traffic value.</li>
+<li>Generic site health scores with no link to business outcomes.</li>
+</ul>
+<p>A good specialist explains the difference. Fixing a score is not the goal. The goal is making it easier for the right pages to be found and used.</p>
+
+<h2>What a useful audit looks like</h2>
+<p>An audit should leave you knowing what to do next. It should normally include:</p>
+<ul>
+<li>A short summary in plain English, with the main risks and opportunities.</li>
+<li>Evidence for each issue, including example URLs and data sources.</li>
+<li>A priority based on likely impact, effort and risk.</li>
+<li>Clear instructions for developers, including how to check a fix has worked.</li>
+<li>A note of anything that could not be checked, such as a missing data source.</li>
+</ul>
+<p>Be careful with a report that looks like a raw export from a crawling tool. Tools are helpful for finding patterns, but someone still has to decide what those patterns mean for your site. Our guide to <a href="/blog/seo-audit-cost-uk/">SEO audit costs</a> explains how scope can change what you are comparing.</p>
+
+<h2>Audit only, or audit and implementation?</h2>
+<p>This is one of the most important things to clarify. Some providers only recommend changes. Others can make them directly, or work with your developers.</p>
+<ul>
+<li><strong>Recommendations only</strong> can suit a business with capable developers and time set aside for SEO work.</li>
+<li><strong>Agency implementation</strong> can suit a business without technical resource, as long as access, testing and approval are agreed.</li>
+<li><strong>Shared delivery</strong> works when the agency writes requirements, your developers build and the agency checks the result.</li>
+</ul>
+<p>Whichever you choose, ask how changes will be tested before release and how they could be rolled back. Technical edits can have site-wide effects, so a staging site and a record of changes both help.</p>
+
+<h2>Platforms and technical limits</h2>
+<p>Good advice takes account of what your platform allows. Shopify has its own URL patterns. WordPress setups vary widely depending on the theme and extensions. Custom builds can offer more freedom but depend on developer time. Ask how a provider has approached your type of platform, and what they would do where the ideal fix is not possible. A practical workaround is often more useful than a perfect recommendation that never gets built.</p>
+
+<h2>Technical SEO during a redesign or migration</h2>
+<p>The best time to bring in technical SEO is before a new site is built, not after traffic drops. Early involvement can help protect URLs, content, internal links and tracking. Work typically includes mapping redirects, testing a staging site, checking templates and monitoring results after launch. See our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> for what should be covered.</p>
+
+<h2>Diagnosing a sudden traffic drop</h2>
+<p>A sudden fall does not always mean a technical fault. A careful provider will first establish when the drop began, which pages and searches were affected and whether anything changed on the site at that time. Seasonal demand, a tracking fault, a search engine update or stronger competition could each be the cause, so the evidence should come before the fix. Comparing Search Console with analytics also helps to show whether visibility really fell or only the reporting changed, which can save you from fixing the wrong thing.</p>
+
+<h2>Questions to ask before you hire</h2>
+<ul>
+<li>How do you decide which issues matter most?</li>
+<li>What data will you use besides a crawling tool?</li>
+<li>Will you implement the fixes, or brief our developers?</li>
+<li>How do you test changes and confirm they worked?</li>
+<li>Which of our platform's limits do you foresee?</li>
+<li>How will you report progress in a way non-technical colleagues can follow?</li>
+<li>What access do you need, and how will it be removed when the work ends?</li>
+</ul>
+<p>Treat promises of instant rankings or guaranteed positions with caution. A technical fix can remove a serious barrier, but results also depend on content, competition and authority.</p>
+
+<h2>What to prepare</h2>
+<p>Give any provider access to Search Console and analytics if you can, along with a list of your most important pages. Share recent changes such as redesigns, migrations and platform updates, including dates, as these often explain sudden movements. Tell them who can make changes and how your release process works.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between technical SEO and on-page SEO?</h3>
+<p>Technical SEO deals with how search engines access and process your site. On-page SEO focuses on the content of a page, including its headings, copy and titles. The two overlap, and most sites need both.</p>
+<h3>Is a technical SEO audit a one-off job?</h3>
+<p>A one-off audit can be enough for a small and stable site. Larger sites, or those that change often, usually benefit from regular checks because new issues can appear with every release.</p>
+<h3>Will fixing technical issues improve my rankings?</h3>
+<p>It can, when those issues were holding back useful pages. It will not guarantee rankings, because content quality, competition and links also matter.</p>
+<h3>Can my developer handle technical SEO?</h3>
+<p>A developer can often make the changes, and many understand the basics. Specialist input helps with deciding what matters for search, diagnosing traffic drops and planning migrations.</p>
+<h3>Do small businesses need technical SEO?</h3>
+<p>They need the basics to be sound. Most small sites do not need a large ongoing programme, but a review is sensible, particularly after a rebuild or a sudden fall in visibility.</p>
+
+<h2>Next steps</h2>
+<p>Open Search Console and check whether your most important pages are indexed. If any are missing, or you cannot explain a recent drop, a closer review is likely to be worthwhile. Prism Works Studio carries out technical audits covering site speed, crawlability, indexation, Core Web Vitals, schema markup and site architecture, then fixes the issues holding rankings back, as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. To talk through your site, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];
