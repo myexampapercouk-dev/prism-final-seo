@@ -43993,4 +43993,628 @@ module.exports = [
 <p>Open Search Console and check whether your most important pages are indexed. If any are missing, or you cannot explain a recent drop, a closer review is likely to be worthwhile. Prism Works Studio carries out technical audits covering site speed, crawlability, indexation, Core Web Vitals, schema markup and site architecture, then fixes the issues holding rankings back, as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. To talk through your site, <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'ai-seo-agency-uk',
+    seoTitle: 'AI SEO Agency UK: What They Do and How to Choose',
+    title: 'AI SEO Agency UK: What They Really Do and How to Choose One',
+    description: 'What an AI SEO agency does for UK businesses, where AI helps and where human judgement matters, plus how to compare providers and the questions to ask.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/geo-agency-uk/', '/blog/ai-overviews-seo-uk/', '/blog/ai-marketing-agency-uk/'],
+    body: `
+<p>An AI SEO agency uses artificial intelligence tools to help with search engine optimisation: analysing search patterns, finding content gaps, grouping keywords and speeding up technical and content work. The useful version combines those tools with human judgement on strategy, accuracy and brand. For a UK business, the real question is not whether an agency uses AI, because many now do, but whether the way it uses AI leads to better pages, better decisions and more of the right enquiries.</p>
+<p>This guide explains what the service normally includes, how it differs from related services, what it cannot do and how to compare providers before you sign anything.</p>
+
+<h2>What an AI SEO agency does</h2>
+<p>The label covers a range of work, so ask for specifics. A well-run service will usually include most of the following.</p>
+<ul>
+<li><strong>Search analysis:</strong> using AI to sort large sets of queries by topic and intent, so patterns become visible more quickly than they would in a spreadsheet.</li>
+<li><strong>Content gap research:</strong> comparing the subjects your customers search for with the subjects your site covers, then deciding which gaps are worth filling.</li>
+<li><strong>Content briefs:</strong> preparing outlines that cover the questions a buyer asks, with a person deciding the angle and what your business can honestly say.</li>
+<li><strong>Technical support:</strong> helping to review crawl data, spot patterns in errors and draft items such as structured data, with changes checked before release.</li>
+<li><strong>Existing page improvement:</strong> finding pages that already earn impressions but few clicks, then improving their titles, openings and coverage.</li>
+<li><strong>Reporting support:</strong> summarising performance data so that the discussion can focus on what to do next.</li>
+</ul>
+<p>Notice what sits behind each item: a decision made by a person. AI can suggest a keyword group, but someone who understands your margins and customers has to decide whether it is worth pursuing.</p>
+
+<h2>AI SEO, GEO and AI marketing: what is the difference?</h2>
+<p>These terms are often used interchangeably, which makes proposals hard to compare. A simple way to separate them is to ask what each one is aimed at.</p>
+<table>
+<thead><tr><th>Term</th><th>Main focus</th><th>Typical question it answers</th></tr></thead>
+<tbody>
+<tr><td>AI SEO</td><td>Using AI to do search optimisation work</td><td>How can we find and fix ranking opportunities more effectively?</td></tr>
+<tr><td>GEO</td><td>Visibility inside AI-generated answers</td><td>Is our brand mentioned or cited when people ask AI tools for help?</td></tr>
+<tr><td>AI marketing</td><td>Using AI across marketing channels</td><td>Where can AI help across ads, content, email and analysis?</td></tr>
+</tbody>
+</table>
+<p>In practice they overlap. Clear, well-structured and accurate pages tend to help in both ordinary search results and AI answers. If AI answers are your main concern, read our guide to choosing a <a href="/blog/geo-agency-uk/">GEO agency in the UK</a>. If your concern is Google's own summaries, see our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a>. For the wider picture, read about choosing an <a href="/blog/ai-marketing-agency-uk/">AI marketing agency</a>.</p>
+
+<h2>Where AI helps most in SEO</h2>
+<p>AI is at its strongest on tasks that are large, repetitive and easy for a person to check afterwards.</p>
+<ul>
+<li>Clustering a long keyword export into topics and likely search intent.</li>
+<li>Drafting several title and description options for a person to choose from and refine.</li>
+<li>Summarising what the current top results cover, as a starting point for a brief.</li>
+<li>Spotting patterns in technical crawl exports, such as groups of similar pages with the same fault.</li>
+<li>Finding internal linking opportunities across a large site.</li>
+</ul>
+<p>Each of these saves time without handing over responsibility. If the result is wrong, a reviewer has a realistic chance of noticing before anything reaches your website.</p>
+
+<h2>Where human judgement still matters</h2>
+<p>Some parts of SEO depend on knowledge a tool does not have, or on a level of care you cannot delegate.</p>
+<ul>
+<li><strong>Commercial priorities:</strong> a query can look attractive and still bring buyers you cannot serve profitably.</li>
+<li><strong>Accuracy:</strong> AI tools can state incorrect information confidently. Facts, prices, legal points and product details all need checking.</li>
+<li><strong>First-hand knowledge:</strong> your real experience, examples and opinions are what make a page different from everything else on the subject. A tool cannot supply them for you.</li>
+<li><strong>Brand voice:</strong> unedited output tends to sound like everyone else's unedited output.</li>
+<li><strong>Regulated subjects:</strong> health, finance and legal content needs review by someone qualified to judge it.</li>
+</ul>
+<p>Google's published guidance focuses on whether content is helpful and made for people, rather than simply how it was produced. It also warns against producing large amounts of low-value content to manipulate rankings. Check the current guidance yourself, and treat any plan built mainly on publishing volume with caution.</p>
+
+<h2>Warning signs when comparing providers</h2>
+<ul>
+<li><strong>Promises of guaranteed rankings:</strong> nobody controls Google's results, with or without AI.</li>
+<li><strong>Output counted as success:</strong> a promise of a large number of articles each month tells you little about whether those articles will be useful.</li>
+<li><strong>No review step:</strong> if the provider cannot explain who checks AI output, assume that nobody does.</li>
+<li><strong>Vague methods:</strong> "our proprietary AI" is not an explanation. Ask what it actually does and what is done by people.</li>
+<li><strong>Ignoring the basics:</strong> AI will not rescue a site that search engines cannot crawl, or pages that fail to answer the query.</li>
+</ul>
+
+<h2>Questions to ask before you sign</h2>
+<ol>
+<li>Which parts of the work use AI, and which are done by people?</li>
+<li>Who checks AI output for accuracy, and what do they check it against?</li>
+<li>What happens to any customer data, analytics or documents we share? Are they entered into third-party tools?</li>
+<li>Who owns the content and reports produced during the contract?</li>
+<li>How will you prioritise work in the first months, and why?</li>
+<li>What will you report on, and how does it connect to enquiries or sales?</li>
+<li>Does the service include GEO and AI answer visibility, or is that separate?</li>
+<li>What access do you need, and what happens to it if we stop working together?</li>
+</ol>
+<p>The data question deserves particular care. If personal data could be entered into an AI tool, you should understand how it will be handled. Your contract and privacy arrangements should reflect this, and it is sensible to check current ICO guidance or take advice if you are unsure.</p>
+
+<h2>What to prepare before speaking to an agency</h2>
+<p>You will get a more useful conversation, and more comparable proposals, if you gather a few things first.</p>
+<ul>
+<li>Your most profitable services or products, and the customers you most want.</li>
+<li>Access to Google Search Console and your analytics account, or at least a recent export.</li>
+<li>A note of any previous SEO work and any sudden changes in traffic.</li>
+<li>The competitors you meet most often in real sales conversations.</li>
+<li>Any rules your sector places on what you can claim in marketing.</li>
+<li>Your own view on AI-written content, including what must always be reviewed by your team.</li>
+</ul>
+
+<h2>Is an AI SEO agency right for your business?</h2>
+<p>This kind of service tends to make most sense when you have a meaningful amount of search data or content to work through, or when your team understands the business but lacks the time to analyse and act on what search is telling you. A larger catalogue or content library usually gives AI-assisted analysis more to work with.</p>
+<p>It may matter less if you have a very small site in a narrow local market. There, getting the basics right and building trust locally may do more than any sophisticated analysis. Either way, the label matters less than the plan. An honest provider should be willing to tell you when a simple fix is the better first step.</p>
+
+<h2>FAQs</h2>
+<h3>Is AI-written content bad for SEO?</h3>
+<p>Not automatically. The bigger risk is publishing inaccurate, thin or generic pages, however they were produced. Have a knowledgeable person review anything before it goes live, and add the first-hand detail only your business can provide.</p>
+<h3>Will AI SEO get results faster?</h3>
+<p>AI can speed up research and preparation, but rankings still depend on factors such as competition, your site's strength and how search engines respond. Be wary of anyone who promises a fixed timescale for rankings.</p>
+<h3>Is AI SEO the same as GEO?</h3>
+<p>No. AI SEO generally means using AI to carry out search optimisation, while GEO aims to make your brand visible and cited in AI-generated answers. Some providers offer both, so ask which is included.</p>
+<h3>Do I still need ordinary SEO?</h3>
+<p>Yes. Crawlable pages, clear structure, useful content and a trustworthy reputation remain the foundation. AI changes how some of the work gets done rather than removing the need for it.</p>
+<h3>Can my own team do this with AI tools?</h3>
+<p>Often, for some tasks. A capable team can use AI for drafting and research. An agency may add value through technical experience, a wider view of search and the time to keep the work moving.</p>
+<h3>How do I measure whether it is working?</h3>
+<p>Look at the search performance of the pages you care about, then at the enquiries or sales they bring in. Output figures, such as the number of pages produced, show activity rather than results.</p>
+
+<h2>Next steps</h2>
+<p>List the services or products that matter most to your business, then check how they perform in Search Console. That will show you where better analysis could make a real difference. Prism Works Studio offers AI SEO, technical SEO and GEO as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. If you would like to talk through where AI could help your search visibility, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'bespoke-website-design-agency-uk',
+    seoTitle: 'Bespoke Website Design Agency UK: How to Choose One',
+    title: 'Bespoke Website Design Agency UK: When It Is Worth It and How to Choose',
+    description: 'What a bespoke website design agency does, how custom design differs from a template, when it is worth paying for and how to compare UK providers.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/website-builder-vs-custom-website/', '/blog/website-design-cost-small-business-uk/', '/blog/website-content-before-build/'],
+    body: `
+<p>A bespoke website design agency plans and designs a website specifically for your business, rather than filling in a ready-made template. Layouts, visual style and page structure are shaped around your brand, your customers and the actions you want them to take. It can be a strong choice when your brand needs to stand out or your customer journey is unusual. It is not automatically the right choice for everyone, so it helps to know what you are paying for and when a simpler option would do the job.</p>
+<p>This guide explains what bespoke really means, when it is worth the investment and how to compare UK providers. For a wider comparison, see our guide to <a href="/blog/website-builder-vs-custom-website/">website builders and custom websites</a>.</p>
+
+<h2>What does bespoke website design mean?</h2>
+<p>The word is used loosely. One agency may mean a site designed from scratch and custom coded. Another may mean a custom design built with an established content management system. A third may simply mean a template with your colours applied. These are very different things, and so you should ask each provider to spell out which one it is offering.</p>
+<table>
+<thead><tr><th>Approach</th><th>What it means</th><th>Often suits</th></tr></thead>
+<tbody>
+<tr><td>Adapted template</td><td>An existing theme customised with your branding and content</td><td>Simple sites and limited budgets</td></tr>
+<tr><td>Custom design on a platform</td><td>Original design built on a platform such as WordPress or Shopify</td><td>Businesses wanting distinctive design and easy editing</td></tr>
+<tr><td>Fully custom build</td><td>Original design with significant custom code and functionality</td><td>Complex requirements that platforms handle poorly</td></tr>
+</tbody>
+</table>
+<p>None of these is automatically better. A custom design on a well-chosen platform can be a good balance, as your team gets a distinctive site as well as familiar editing tools.</p>
+
+<h2>What a bespoke design agency does</h2>
+<ul>
+<li><strong>Discovery:</strong> learning about your business, customers, competitors and goals.</li>
+<li><strong>Content and structure planning:</strong> deciding what each page must do and how visitors will move through the site.</li>
+<li><strong>Visual design:</strong> creating a look that expresses your brand across desktop and mobile.</li>
+<li><strong>Component design:</strong> preparing reusable page sections, so the site stays consistent as it grows.</li>
+<li><strong>Development:</strong> turning the designs into a working website.</li>
+<li><strong>Testing:</strong> checking devices, browsers, forms, speed and accessibility before launch.</li>
+<li><strong>Handover:</strong> making sure your team knows how to update the site.</li>
+</ul>
+
+<h2>When bespoke design is worth it</h2>
+<ul>
+<li><strong>Your brand is a major part of why people buy.</strong> Design-led, premium or professional service businesses can gain from a site that feels unmistakably theirs.</li>
+<li><strong>Your customer journey is unusual.</strong> Complex product ranges, multiple audiences or detailed enquiry routes can be awkward to force into a standard layout.</li>
+<li><strong>You keep hitting the limits of your template.</strong> If you constantly work around what a theme allows, the workaround cost can add up.</li>
+<li><strong>You have strong content.</strong> Original photography, case material and clear messaging give a custom design something real to work with.</li>
+<li><strong>You need specific integrations.</strong> Links to booking, stock or customer systems may need tailored work.</li>
+</ul>
+
+<h2>When a simpler option may be better</h2>
+<ul>
+<li>You are a new business still testing your offer and your messaging.</li>
+<li>You need a small brochure site and your competitors are not winning on design.</li>
+<li>Your budget would leave nothing for content, SEO or promotion after launch.</li>
+<li>A well-chosen theme already does nearly everything you need.</li>
+</ul>
+<p>A good-looking site with no visitors will not help your business. If the budget is tight, a simpler site alongside marketing may do more than a custom design alone. A straightforward provider should be willing to say this. For budgeting, read our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a>.</p>
+
+<h2>Common pitfalls with custom websites</h2>
+<ul>
+<li><strong>Style over usability:</strong> striking effects can slow pages down and confuse visitors, particularly on phones.</li>
+<li><strong>Difficult editing:</strong> a site your team cannot update without help will become outdated or expensive.</li>
+<li><strong>Dependence on one supplier:</strong> heavily custom code may be harder for anyone else to take over, so documentation and ownership matter.</li>
+<li><strong>Designing before content exists:</strong> placeholder text hides problems that appear when real words arrive. Our guide to <a href="/blog/website-content-before-build/">preparing content before a build</a> explains why this matters.</li>
+<li><strong>Forgetting search:</strong> page structure, speed and content all affect visibility, so SEO should be part of the plan from the start.</li>
+<li><strong>Forgetting accessibility:</strong> custom components need to work with keyboards and screen readers, and colours need enough contrast.</li>
+</ul>
+
+<h2>How to compare bespoke design agencies</h2>
+<p>Portfolios are useful but incomplete. A beautiful screenshot says little about whether a site was easy to use, quick to load or simple to manage. Try these checks.</p>
+<ul>
+<li><strong>Visit live sites:</strong> use them on your phone. Look at the speed, the navigation and how easy it is to complete an action.</li>
+<li><strong>Look for range:</strong> if every project looks alike, you may be getting a house style or a recycled framework rather than something shaped around you.</li>
+<li><strong>Ask for the reasoning:</strong> a good designer can explain why a page was laid out as it was.</li>
+<li><strong>Check the discovery work:</strong> how much will they learn about your customers before designing?</li>
+<li><strong>Check the platform advice:</strong> do they explain why they recommend one option over another?</li>
+<li><strong>Ask about editing:</strong> request a demonstration of how your team would change a page.</li>
+<li><strong>Read the contract:</strong> confirm who owns the design and code when the project ends.</li>
+</ul>
+
+<h2>Questions to ask before you sign</h2>
+<ol>
+<li>What exactly do you mean by bespoke on this project?</li>
+<li>Which platform will you use, and why?</li>
+<li>Will we be able to edit pages and add new ones ourselves?</li>
+<li>Who owns the designs, code, images and accounts?</li>
+<li>Will any images, fonts or tools need ongoing licences?</li>
+<li>How do you address speed, accessibility and SEO during the build?</li>
+<li>How many rounds of design changes are included?</li>
+<li>What support is available after launch, and what does it cost?</li>
+<li>Could another developer take over the site in future?</li>
+</ol>
+
+<h2>What to prepare before you speak to agencies</h2>
+<ul>
+<li>A clear description of what you sell and who buys it.</li>
+<li>What you want visitors to do, such as call, book or buy.</li>
+<li>Your brand guidelines, logo files and any existing photography.</li>
+<li>Examples of sites you like and dislike, with your reasons.</li>
+<li>A list of must-have functions and integrations.</li>
+<li>Your budget range and any important business dates.</li>
+<li>Who is responsible for content on your side, and who signs off decisions.</li>
+</ul>
+<p>Be specific about your likes and dislikes. "Modern and clean" means something different to everyone, whereas "I like how simply this site explains its prices" gives a designer something to work with.</p>
+<p>It also helps to separate what you need at launch from what could follow later. A custom website does not have to do everything on day one, and a shorter first phase can leave budget for improvements once you have seen how real customers use the site. Ask each agency how it would divide the work into phases, and which early decisions would make those later additions easier or harder.</p>
+
+<h2>FAQs</h2>
+<h3>Is a bespoke website better for SEO than a template?</h3>
+<p>Not by itself. Search performance depends on factors such as content, structure, speed and reputation. A custom build gives you more control, but a well-made template site can perform well, and a poorly built custom site can perform badly.</p>
+<h3>Can I edit a bespoke website myself?</h3>
+<p>It should be possible if it is planned from the start. Ask for a content management system that suits your team, and a demonstration of the editing process before you commit.</p>
+<h3>Does bespoke mean custom code?</h3>
+<p>Not necessarily. Many custom designs are built on established platforms such as WordPress or Shopify, which can reduce cost and make future changes easier. Ask each provider how its version works.</p>
+<h3>Should I get a brand designed first?</h3>
+<p>If your brand is unclear or outdated, it usually helps to sort it first, or as part of the same project. Your positioning and identity shape the design decisions that follow.</p>
+<h3>Can a bespoke site grow with my business?</h3>
+<p>Yes, if it is built from reusable components and on a suitable platform. Tell the agency about any plans for new services, products or locations so that they can plan for them.</p>
+<h3>What if I already have a template site?</h3>
+<p>You may not need to start again. Improving the content and fixing the weakest pages might be enough. If the template is genuinely holding you back, a redesign can reuse your best content.</p>
+
+<h2>Next steps</h2>
+<p>Note the three things your current website, or the template you are considering, cannot do for your business. If that list is short, a simpler route could be fine. If it is long or central to how you sell, bespoke design deserves a serious look. Prism Works Studio offers custom website design as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. If you would like to talk it through, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'bq-marketplace-seo-uk',
+    seoTitle: 'B&Q Marketplace SEO: How to Improve Your Listings',
+    title: 'B&Q Marketplace SEO: How to Improve Your Product Listings',
+    description: 'How UK home and garden sellers can improve B&Q Marketplace listings, from titles and attributes to images and stock, plus when to bring in outside help.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/amazon-seo-agency-uk/', '/blog/ebay-seo-uk/', '/blog/ecommerce-seo-agency-uk/'],
+    body: `
+<p>B&amp;Q Marketplace SEO means improving your product listings so that they are easier to find and easier to choose on the marketplace. The essentials are the same as for most retail search: accurate titles, the correct category, complete product attributes, clear images and reliable stock information. Home improvement buyers often have a specific job to do, so they need practical details such as dimensions, materials and compatibility. Listings that give those details clearly are better placed to earn the sale.</p>
+<p>This guide is for UK sellers already on the marketplace or considering it. B&amp;Q decides its own selling rules and how its search works, and these can change, so check your current seller guidance alongside the advice below.</p>
+
+<h2>How marketplace search generally works</h2>
+<p>B&amp;Q does not need to publish the details of how its search results are ordered, and this guide will not pretend to know them. Like other retail platforms, though, a marketplace can only show your product for a search if it understands what you are selling. It also has a commercial reason to show products that customers want and that can be delivered reliably.</p>
+<p>That gives you three practical aims:</p>
+<ul>
+<li><strong>Be understood:</strong> describe the product clearly, in the right category, with complete data.</li>
+<li><strong>Be chosen:</strong> make the listing persuasive when it appears alongside similar items.</li>
+<li><strong>Be reliable:</strong> keep your price, stock and delivery information accurate, so that customers get what they were promised.</li>
+</ul>
+
+<h2>Start with the words customers use</h2>
+<p>Good listings begin with how buyers describe the product. A trade supplier's catalogue name may mean little to someone looking for a replacement part or a garden project. Before you edit anything, gather the terms real customers use.</p>
+<ul>
+<li>Look at the marketplace's own search suggestions as you type.</li>
+<li>Review the language in customer questions, returns reasons and reviews.</li>
+<li>Compare how similar products are described in the same category.</li>
+<li>Check your own website's search and Search Console data, if you have them.</li>
+<li>Note different names for the same thing, as well as the measurements buyers commonly search for.</li>
+</ul>
+
+<h2>Write clear product titles</h2>
+<p>Your title should say what the product is, and include the details a buyer would use to tell it apart. Follow any format your seller guidance sets. Where you have freedom, a sensible order is usually brand, product type, then the key details such as size, material, colour or pack quantity.</p>
+<table>
+<thead><tr><th>Weak title</th><th>Stronger approach</th><th>Why it helps</th></tr></thead>
+<tbody>
+<tr><td>Premium Outdoor Storage Solution</td><td>Brand, product type, material and size</td><td>Says what it is rather than making a vague claim</td></tr>
+<tr><td>Model code only</td><td>Product name with model code included</td><td>Serves people who know the code as well as those who do not</td></tr>
+<tr><td>Long string of repeated keywords</td><td>One clear description of the item</td><td>Easier to read and less likely to breach rules</td></tr>
+</tbody>
+</table>
+<p>Do not include claims you cannot back up, or the names of other brands you do not sell. Accuracy is more valuable than cramming in extra search terms.</p>
+
+<h2>Complete every relevant attribute</h2>
+<p>Attributes are the structured details attached to a product, such as colour, material, dimensions, power type or finish. They can matter a great deal because customers often narrow results using filters. If a detail is missing or sits in the wrong field, your product may not appear once a filter is applied, even if it would be a perfect match.</p>
+<ul>
+<li>Select the most accurate category, rather than the one that merely seems busiest.</li>
+<li>Fill in every attribute that genuinely applies.</li>
+<li>Use consistent units, and check them carefully. A mistaken measurement can create returns as well as lost sales.</li>
+<li>Include barcodes or other product identifiers wherever they are required and available.</li>
+<li>Audit your product data regularly, especially after any bulk upload.</li>
+</ul>
+
+<h2>Write descriptions that answer practical questions</h2>
+<p>Home and garden purchases often come with worries. Will it fit? Will it work with what I already have? Can I install it myself? A useful description deals with those points directly, so the customer does not have to guess or go elsewhere.</p>
+<ul>
+<li><strong>Size and fit:</strong> external dimensions, internal dimensions and weight where these are relevant.</li>
+<li><strong>Compatibility:</strong> what the product works with and, just as importantly, what it does not.</li>
+<li><strong>What is included:</strong> fixings, batteries, tools or anything that must be bought separately.</li>
+<li><strong>Installation:</strong> whether assembly is required, and whether professional installation is recommended.</li>
+<li><strong>Use and care:</strong> indoor or outdoor use, maintenance and suitable conditions.</li>
+<li><strong>Safety and standards:</strong> only the information you can properly support with documentation.</li>
+</ul>
+<p>Be especially careful with safety and compliance wording, particularly on electrical, gas, chemical and children's products. Requirements vary by product, so take appropriate advice and do not make statements your documents cannot support.</p>
+
+<h2>Use images that do more than look nice</h2>
+<p>Images help buyers judge a product and reduce doubts that words alone cannot. Check the current image requirements first, then plan a set that does a job at each stage of the decision.</p>
+<ul>
+<li>A clear main image that shows exactly what the customer receives.</li>
+<li>Images showing the product in use, in a realistic setting.</li>
+<li>A scale reference or a dimension diagram.</li>
+<li>Close-ups of the materials, finishes and important features.</li>
+<li>A picture of everything included in the box.</li>
+</ul>
+<p>Make sure the images match the variant being sold. A photo of the wrong colour or size can lead to disappointed customers and avoidable returns.</p>
+
+<h2>Keep price, stock and delivery accurate</h2>
+<p>Search visibility is not much use if the product cannot be delivered as promised. Stock errors, cancelled orders and missed delivery dates can harm the customer experience and your standing as a seller. Check your account's current performance requirements and pay close attention to these areas.</p>
+<ul>
+<li>Sync stock regularly, particularly if you sell the same items on several channels.</li>
+<li>Show realistic delivery estimates, especially for bulky or heavy goods.</li>
+<li>Review your pricing against the wider market, taking fees and delivery costs into account.</li>
+<li>Track returns reasons, as they often reveal listing errors you can fix.</li>
+<li>Respond promptly to customer questions and service issues.</li>
+</ul>
+
+<h2>Common listing mistakes</h2>
+<ul>
+<li>Copying manufacturer data without checking or completing it.</li>
+<li>Choosing the wrong category or leaving attributes blank.</li>
+<li>Using identical descriptions for products that differ in important ways.</li>
+<li>Leaving out dimensions, or giving them in inconsistent units.</li>
+<li>Failing to say what is not included.</li>
+<li>Using stock photos that do not show the real product or variant.</li>
+<li>Uploading in bulk without checking a sample first.</li>
+</ul>
+
+<h2>How to prioritise a large catalogue</h2>
+<p>If you have thousands of products, improving everything at once is unrealistic. Begin where better listings are most likely to pay back.</p>
+<ol>
+<li>Export your catalogue and your sales data.</li>
+<li>Identify your best sellers and your highest-margin items.</li>
+<li>Look for products with weak data, high returns or low sales for their category.</li>
+<li>Fix your most valuable group first, then build a template for each product type.</li>
+<li>Apply what you learn to the rest of the range, checking samples as you go.</li>
+</ol>
+<p>Good product data is reusable. Work carried out here can also strengthen your own website and other sales channels, including those covered in our guides to <a href="/blog/amazon-seo-agency-uk/">Amazon SEO</a> and <a href="/blog/ebay-seo-uk/">eBay SEO</a>.</p>
+
+<h2>When to get outside help</h2>
+<p>You could consider support when your range is too large to manage by hand, your data sits in several systems or you are selling across a number of channels. Ask any provider about these points.</p>
+<ul>
+<li>Have they worked with marketplace listings and bulk product data?</li>
+<li>How would they check accuracy, especially for technical details?</li>
+<li>How will they measure improvement, and over what period of time?</li>
+<li>Will the improved data remain yours if you stop working together?</li>
+<li>Will they stay within the marketplace's current rules?</li>
+</ul>
+<p>Be wary of anyone promising top positions. No outside provider controls how a marketplace ranks products.</p>
+
+<h2>FAQs</h2>
+<h3>How do I start selling on B&amp;Q Marketplace?</h3>
+<p>Check B&amp;Q's current seller information for eligibility and the application process. Requirements may change and can differ by product type, so rely on the official guidance.</p>
+<h3>Are marketplace listings the same as Google SEO?</h3>
+<p>They share some principles, such as matching customer language and being accurate. However, a marketplace works with its own product data, filters and seller information, so complete attributes are particularly important.</p>
+<h3>How long should a product title be?</h3>
+<p>Follow any limit in your current seller guidance. Within that, include what a buyer needs to recognise the product and tell it apart, and avoid repeating keywords.</p>
+<h3>Can I reuse descriptions from my own website?</h3>
+<p>You can use them as a starting point if your rules allow it. Do check that the details suit the marketplace format, and that the fields and attributes are completed separately.</p>
+<h3>Do customer reviews matter?</h3>
+<p>Reviews can influence buying decisions. Focus on accurate listings and reliable delivery, respond to feedback sensibly and do not try to obtain fake or incentivised reviews against the rules.</p>
+<h3>How should I measure improvements?</h3>
+<p>Compare views, conversion, sales and returns for the products you changed, using whatever reports your seller account provides. Change batches of products at a time, so you can see what made a difference.</p>
+
+<h2>Next steps</h2>
+<p>Choose your ten most valuable products and read each listing as a customer would. Note every question it leaves unanswered, then fix those first and use the improved listings as templates. Prism Works Studio optimises marketplace listings as part of our <a href="/services/seo-geo/">SEO and GEO service</a>. If you would like help with your range, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'shopify-store-management-uk',
+    seoTitle: 'Shopify Store Management UK: What to Outsource',
+    title: 'Shopify Store Management UK: What It Covers and How to Choose a Provider',
+    description: 'What Shopify store management covers, which tasks UK retailers should keep or outsource, how to compare providers and what to agree before giving anyone access.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/shopify-agency-uk/', '/blog/how-to-brief-a-shopify-developer/', '/blog/shopify-inventory-management/'],
+    body: `
+<p>Shopify store management is ongoing help with running an online store: keeping products and collections up to date, making theme changes, reviewing apps, setting up promotions and reporting on performance. For UK retailers it can free up time and fill skills gaps once a store has become too demanding to run alongside everything else. The right arrangement depends on which jobs your team should keep, which are better handed over and how clearly the provider defines what is included.</p>
+<p>This guide covers what management usually includes and how to compare providers. If you need a new build or a larger project instead, read our guide to choosing a <a href="/blog/shopify-agency-uk/">Shopify agency in the UK</a>.</p>
+
+<h2>What Shopify store management covers</h2>
+<p>There is no standard package, so treat the list below as a set of areas to ask about rather than as a description of what every provider offers.</p>
+<ul>
+<li><strong>Product and collection updates:</strong> adding products, editing descriptions and images, organising collections and keeping details accurate.</li>
+<li><strong>Theme changes:</strong> adjusting sections and layouts, and fixing display problems.</li>
+<li><strong>App management:</strong> reviewing what is installed, removing what is unused and dealing with conflicts.</li>
+<li><strong>Promotions:</strong> setting up discounts, seasonal pages and campaign landing pages.</li>
+<li><strong>Checks and troubleshooting:</strong> regularly testing the journey from product page to checkout and looking into faults.</li>
+<li><strong>Settings support:</strong> helping with shipping, tax, payment and policy settings, with your team or advisers confirming the decisions.</li>
+<li><strong>Speed and SEO housekeeping:</strong> watching for slow pages, broken links, missing details and redirect needs.</li>
+<li><strong>Reporting:</strong> summarising sales, traffic and conversion data, with recommendations.</li>
+</ul>
+<p>Some providers also manage marketing, such as email, paid ads or SEO, either as part of the same arrangement or separately. Ask where store management ends and marketing begins, so that nobody assumes the other party is responsible.</p>
+
+<h2>What to keep and what to outsource</h2>
+<p>Handing over everything is rarely the best answer. Your team knows your customers, suppliers and stock in a way an outside provider does not.</p>
+<table>
+<thead><tr><th>Task</th><th>Often kept in-house</th><th>Often outsourced</th></tr></thead>
+<tbody>
+<tr><td>Customer service</td><td>Yes, in most cases</td><td>Only with a dedicated service provider</td></tr>
+<tr><td>Pricing and range decisions</td><td>Yes</td><td>Provider can supply data</td></tr>
+<tr><td>Order fulfilment</td><td>Depends on your setup</td><td>Usually a logistics partner rather than a store manager</td></tr>
+<tr><td>Bulk product updates</td><td>If you have the capacity</td><td>Often</td></tr>
+<tr><td>Theme and code changes</td><td>Only with the right skills</td><td>Often</td></tr>
+<tr><td>App reviews and fault finding</td><td>Sometimes</td><td>Often</td></tr>
+<tr><td>Campaign planning</td><td>Shared</td><td>Shared</td></tr>
+</tbody>
+</table>
+<p>A useful test is to ask whether a task needs knowledge of your business or knowledge of Shopify. Tasks requiring the first tend to stay with you, and tasks requiring the second are stronger candidates to hand over.</p>
+
+<h2>Signs you could use store management help</h2>
+<ul>
+<li>Small fixes wait for weeks because nobody has the time or the know-how.</li>
+<li>You have a pile of apps and are unsure which ones you still need.</li>
+<li>Product information is inconsistent or out of date.</li>
+<li>Promotions go live late or need last-minute rescues.</li>
+<li>You have sales data but rarely turn it into decisions.</li>
+<li>The store depends on one person, and everything stops when they are away.</li>
+</ul>
+<p>If the problem is a poor design or a badly built theme, ongoing management will not cure it. In that case, a one-off project may need to come first, followed by regular support.</p>
+
+<h2>How to compare store management providers</h2>
+<ul>
+<li><strong>Scope:</strong> does the proposal list actual tasks, or just promise to "manage your store"?</li>
+<li><strong>Capacity:</strong> is there a clear monthly allowance, and what happens to any unused time?</li>
+<li><strong>Response times:</strong> how quickly will they respond to urgent faults, and how do they define urgent?</li>
+<li><strong>Coverage at busy times:</strong> can they support your peak periods, such as Black Friday or your own seasonal rush?</li>
+<li><strong>Shopify experience:</strong> have they worked with stores similar to yours in size and complexity?</li>
+<li><strong>Change control:</strong> do they test changes before publishing them to your live theme?</li>
+<li><strong>Proactive input:</strong> will they bring ideas and warn you of problems, or only work through your task list?</li>
+<li><strong>Exit terms:</strong> how much notice is needed, and what will they hand over if you leave?</li>
+</ul>
+
+<h2>Staff access and security</h2>
+<p>A store manager needs access to your Shopify admin, which can include customer and order information. Treat that seriously from the outset.</p>
+<ul>
+<li>Stay the owner of your Shopify store and its billing.</li>
+<li>Give access through Shopify's staff or collaborator options, rather than sharing your own login.</li>
+<li>Grant only the permissions each person needs, where the platform allows it.</li>
+<li>Ask how the provider handles customer data, and make sure your contract covers it.</li>
+<li>Keep a record of apps installed and who approved them, as apps can also access store data.</li>
+<li>Remove access promptly when someone leaves or the work ends.</li>
+</ul>
+<p>Shopify's account options can change, so check its current help pages. If you are unsure of your data protection duties, consult current ICO guidance or take advice.</p>
+
+<h2>Questions to ask before you sign</h2>
+<ol>
+<li>Which tasks are included each month, and which cost extra?</li>
+<li>How are requests submitted, tracked and prioritised?</li>
+<li>How do you handle urgent problems outside normal hours?</li>
+<li>How do you test theme and app changes before they go live?</li>
+<li>Who will actually work on our store?</li>
+<li>Do you recommend apps you have a commercial relationship with?</li>
+<li>What do your reports include, and how will they help us decide what to do next?</li>
+<li>Who owns any custom code or theme work you produce?</li>
+<li>What is the notice period, and what happens at handover?</li>
+</ol>
+
+<h2>What to prepare before you start</h2>
+<p>A provider will get up to speed faster, and you will get better value, if you have the following ready.</p>
+<ul>
+<li>A list of recurring tasks and how long they take today.</li>
+<li>A list of known faults and frustrations, roughly in order of importance.</li>
+<li>Your promotional calendar and busy periods.</li>
+<li>Installed apps, with any you know are essential marked clearly.</li>
+<li>Brand guidelines and examples of good product copy.</li>
+<li>The name of the person who will approve changes and make decisions.</li>
+</ul>
+<p>Before a provider makes any changes, confirm that a copy of your theme has been kept. It gives you something to return to if an update causes a problem.</p>
+<p>It is also worth agreeing what good looks like in the first few months. That could mean clearing a backlog of known faults, tidying your apps or getting a promotion live without last-minute stress. Simple, practical aims like these give both sides something concrete to review, and they make it easier to judge whether the arrangement is worth continuing. Review them together regularly and adjust the scope as your store changes.</p>
+
+<h2>Warning signs</h2>
+<ul>
+<li>A monthly fee with no clear list of what it covers.</li>
+<li>Requests to use your own login or to transfer store ownership.</li>
+<li>Promises of specific sales increases.</li>
+<li>Changes published to your live store without being checked.</li>
+<li>A habit of adding apps to solve every problem, which can raise costs and slow your store.</li>
+<li>Reports full of figures with no recommendations.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Is store management the same as Shopify marketing?</h3>
+<p>Not usually. Management keeps the store accurate and working well, whereas marketing brings people to it. Some providers do both, so confirm which is included in your agreement.</p>
+<h3>Do I need a monthly plan or occasional help?</h3>
+<p>If you have regular updates or an active promotional calendar, a monthly plan can make sense. If your needs are occasional, ad hoc support may be enough. Reviewing the past few months of tasks should make the choice clearer.</p>
+<h3>Can a store manager handle my customer service?</h3>
+<p>Some might, but it is often a separate role that calls for knowledge of your products and policies. If you do outsource it, agree tone, response times and how complaints or refunds get handled.</p>
+<h3>Will I lose control of my store?</h3>
+<p>You should not. Keep ownership of the store and billing, grant only the access needed and agree who approves changes before they go live.</p>
+<h3>Can store management improve my sales?</h3>
+<p>It can support sales by removing faults, keeping product information accurate and making promotions run smoothly. Results also depend on your products, pricing and marketing, so treat any promise of specific growth with caution.</p>
+<h3>Can you manage a store you did not build?</h3>
+<p>Providers commonly take on existing stores. Expect them to review the theme, the apps and the settings first, because earlier work can affect what is safe to change.</p>
+
+<h2>Next steps</h2>
+<p>Keep a note of every store task your team completes over the next two weeks, with the time each takes and whether it needed Shopify expertise. That list will show you what to hand over and what to keep. Prism Works Studio offers ongoing store management as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. If you would like to talk about your store, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'website-redesign-agency-uk',
+    seoTitle: 'Website Redesign Agency UK: How to Choose the Right One',
+    title: 'Website Redesign Agency UK: What They Do and How to Choose One',
+    description: 'What a website redesign agency does, when a redesign is the right call, how to compare UK providers and the questions to ask to protect your search rankings.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/website-redesign-cost-uk/', '/blog/website-redesign-without-losing-rankings/', '/blog/seo-migration-checklist/'],
+    body: `
+<p>A website redesign agency improves or rebuilds an existing website so that it works better for your customers and your business. That normally means changes to structure, design, content, mobile experience and speed. A good provider also protects what your current site already does well, particularly its search rankings. When comparing UK agencies, look beyond attractive designs and ask how each one will find the real problem, handle the move and support you after launch.</p>
+<p>This guide helps you decide whether you need a redesign and how to choose a provider. If you are trying to set a budget, read our guide to <a href="/blog/website-redesign-cost-uk/">website redesign costs in the UK</a>.</p>
+
+<h2>What a website redesign agency does</h2>
+<p>Scope varies between providers, so ask each one to confirm what is included. A complete redesign will usually involve the following.</p>
+<ul>
+<li><strong>Review of the current site:</strong> looking at analytics, search data, customer journeys and known problems before anything is designed.</li>
+<li><strong>Structure planning:</strong> deciding which pages to keep, merge, improve or remove, and how visitors will find them.</li>
+<li><strong>Design:</strong> layouts for key pages, with mobile use considered from the start.</li>
+<li><strong>Content work:</strong> updating, rewriting or moving your words, images and documents.</li>
+<li><strong>Development:</strong> building the site on a suitable platform, including forms, integrations and any ecommerce functions.</li>
+<li><strong>Search preservation:</strong> mapping old addresses to new ones, setting redirects and carrying over important page details.</li>
+<li><strong>Testing and launch:</strong> checking devices, forms, tracking, payments and speed before and after going live.</li>
+</ul>
+
+<h2>When you need a redesign and when you do not</h2>
+<p>A redesign is a substantial project, and it is not the answer to every website problem. Match the work to the problem you actually have.</p>
+<table>
+<thead><tr><th>Problem</th><th>Likely starting point</th></tr></thead>
+<tbody>
+<tr><td>Site looks dated and undermines trust</td><td>Redesign, or a design refresh if the structure is sound</td></tr>
+<tr><td>Hard to use on a phone</td><td>Redesign if the underlying build cannot adapt</td></tr>
+<tr><td>Team cannot update content easily</td><td>A new platform or an improved editing setup</td></tr>
+<tr><td>Pages load slowly</td><td>A speed review first, as a rebuild may not be needed</td></tr>
+<tr><td>Traffic is good but enquiries are low</td><td>Conversion review of key pages and messages</td></tr>
+<tr><td>Few people find the site</td><td>SEO work first, since a new design alone will not solve this</td></tr>
+<tr><td>Your business or positioning has changed</td><td>Brand and content work, usually followed by a redesign</td></tr>
+</tbody>
+</table>
+<p>A provider who asks about the problem before suggesting a solution is more useful than one who recommends a full rebuild immediately. If only one or two areas are weak, targeted work may give you what you need for less disruption.</p>
+
+<h2>The biggest risk: losing search visibility</h2>
+<p>Redesigns can damage rankings when pages disappear, addresses change without redirects or well-performing content gets cut for the sake of a cleaner design. This is why migration planning belongs at the start of the project rather than in the final week.</p>
+<p>Before work begins, ask the agency to explain how it will handle:</p>
+<ul>
+<li>A record of your existing pages and which ones earn traffic or links.</li>
+<li>A redirect map from every old address that matters to the most relevant new page.</li>
+<li>Page titles, descriptions, headings and structured data.</li>
+<li>Internal links and navigation.</li>
+<li>Keeping the test site out of search results, and removing that block at launch.</li>
+<li>Checking Search Console and analytics after launch.</li>
+</ul>
+<p>For the detail, read our guides to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> and our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a>. Even a careful move can bring some short-term movement in rankings, so be wary of anyone who promises that nothing will change.</p>
+
+<h2>How to compare redesign agencies</h2>
+<p>Three proposals can look similar and describe quite different projects. These points help reveal the differences.</p>
+<ul>
+<li><strong>Diagnosis:</strong> have they looked at your data, or only at how your site looks?</li>
+<li><strong>Relevant work:</strong> can they show projects of similar complexity, and explain the reasoning behind them, not just the visuals?</li>
+<li><strong>Platform advice:</strong> do they recommend a platform that suits your needs, or the only one they work with?</li>
+<li><strong>Content responsibility:</strong> who writes, edits and moves content? This is a common source of delay and unexpected cost.</li>
+<li><strong>SEO involvement:</strong> is search planned into the project, or added at the end?</li>
+<li><strong>Accessibility:</strong> how do they approach keyboard use, colour contrast, headings and form labels?</li>
+<li><strong>Ownership:</strong> will you own the design, content, code and accounts?</li>
+<li><strong>Aftercare:</strong> what support exists after launch, and how much does it cost?</li>
+</ul>
+<p>Also consider who will do the work day to day. Ask who your main contact is and whether any part of the project will be passed to another company.</p>
+
+<h2>Questions to ask before you sign</h2>
+<ol>
+<li>What do you think is holding our current site back, and what evidence did you use?</li>
+<li>What is included and excluded, particularly content, images, redirects and integrations?</li>
+<li>How many rounds of design changes are included, and how are further changes charged?</li>
+<li>What do you need from us, and what happens if our input is late?</li>
+<li>How will you protect our existing search visibility?</li>
+<li>How will tracking be checked so that we can compare before and after?</li>
+<li>Who will own the domain, hosting, code and analytics accounts?</li>
+<li>What are the ongoing costs after launch, including hosting, licences and updates?</li>
+</ol>
+
+<h2>What to prepare before you speak to agencies</h2>
+<p>A short brief will help you compare like with like. It does not need to be long, but it should cover:</p>
+<ul>
+<li>The business reason for the redesign and what you want to improve.</li>
+<li>Your most important customers and the actions you want them to take.</li>
+<li>Access to analytics and Search Console, or recent performance figures.</li>
+<li>Pages you know must stay, such as those that bring in enquiries.</li>
+<li>The systems the site must connect to, including booking, CRM or stock tools.</li>
+<li>Your budget range and any fixed business dates.</li>
+<li>Examples of sites you like, with a sentence on why you like them.</li>
+<li>Who will make decisions on your side.</li>
+</ul>
+<p>Sharing a budget range can feel uncomfortable, but it helps an agency tell you what is realistic rather than proposing something you cannot use. Keep the brief short enough that every agency will actually read it.</p>
+
+<h2>Warning signs</h2>
+<ul>
+<li>A price given with no questions about your site, content or goals.</li>
+<li>No mention of redirects or search visibility.</li>
+<li>Vague answers on who owns the finished website.</li>
+<li>Promises of specific rankings or sales after launch.</li>
+<li>A heavy focus on visual effects with little attention to speed or mobile use.</li>
+<li>An editing setup your team will not be able to use without paying for every small change.</li>
+</ul>
+
+<h2>Redesign agency, freelancer or in-house?</h2>
+<p>A freelancer can suit a smaller, well-defined project, and an in-house team can work well when you already have the skills and the time. An agency is often worth considering when the project needs several disciplines together, such as strategy, design, development, content and SEO. Whichever route you choose, make sure someone is clearly responsible for the migration and for what happens after launch, because problems often appear in the gaps between roles.</p>
+
+<h2>FAQs</h2>
+<h3>Will a website redesign hurt my rankings?</h3>
+<p>It can if it is handled poorly. Careful redirect mapping, preserving useful content and checking the site after launch all reduce the risk, although some short-term movement is still possible.</p>
+<h3>Can I keep my existing content?</h3>
+<p>Usually, and pages that perform well should generally keep their useful content. It is still worth reviewing everything, as a redesign is a good moment to improve weak pages and remove outdated ones.</p>
+<h3>Should I change platform during a redesign?</h3>
+<p>Only if there is a clear reason, such as limits on functionality, cost or editing. Changing platform adds work and risk, so ask the agency to explain the benefit for your business specifically.</p>
+<h3>Who should write the new content?</h3>
+<p>Whoever is best placed to do it well and on time. Your team knows the business, while a copywriter can make it clearer. Decide this at the start, as late content is a common cause of delay.</p>
+<h3>Do I need a redesign to improve conversions?</h3>
+<p>Not always. Clearer messaging, stronger calls to action, simpler forms or faster pages may help without a rebuild. A review of your key pages should show whether targeted changes are enough.</p>
+<h3>What happens after launch?</h3>
+<p>Someone should check redirects, forms, tracking and Search Console, and fix any issues found. Longer term, plan for updates, security, backups and continuing improvements based on how people use the site.</p>
+
+<h2>Next steps</h2>
+<p>Write one sentence describing what your current website is stopping your business from doing. Then gather your analytics and a list of the pages that matter most. Those two steps will make every agency conversation more useful. Prism Works Studio offers website redesign and migration as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. If you would like to discuss your site, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];
