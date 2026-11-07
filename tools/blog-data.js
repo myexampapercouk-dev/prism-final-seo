@@ -42771,4 +42771,461 @@ module.exports = [
 <p>Write your short brief, confirm your procurement rules and draw up your questions before you speak to anyone. That preparation will make it far easier to compare agencies on fair terms. Prism Works Studio is a UK remote agency with an <a href="/sectors/education/">education marketing service</a>, and we are happy to talk through your brief, whether or not you end up working with us. <a href="/contact/">Contact us</a> when you are ready.</p>
 `,
   },
+  {
+    slug: 'ecommerce-photography-brief',
+    seoTitle: 'Ecommerce Photography Brief: A Practical Guide for Shops',
+    title: 'How to Write an Ecommerce Photography Brief for Your Online Shop',
+    description: 'How to brief ecommerce product photography: what to include on products, shot lists, style, file delivery and usage rights, so online shop images work.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/ecommerce-product-photography/', '/blog/shopify-product-media-guide/', '/blog/website-image-optimisation/'],
+    body: `
+<p>An ecommerce photography brief is a short document telling a photographer, or your own team, exactly which products to shoot, which images each one needs, how they should look and how the files must be delivered. A useful brief covers your goals, a product list, a shot list, style references, technical requirements, retouching rules and usage rights. Writing it first reduces the risk of reshoots and helps your images match what your product pages, marketplaces and adverts actually need.</p>
+<p>This guide is for UK online shop owners and ecommerce managers preparing a shoot. It focuses on the brief and the preparation around it. For shot types, lighting and editing, read our practical guide to <a href="/blog/ecommerce-product-photography/">ecommerce product photography</a>.</p>
+
+<h2>Why write a brief at all?</h2>
+<p>Photographs can be beautiful and still fail on a product page. A jacket shot only from the front does not show how the back falls. A lovely lifestyle image of a candle may not tell anyone how big the candle is. Without clear direction, a photographer has to guess at those priorities, and you may notice the gaps only when you start uploading.</p>
+<p>A brief also gives you something to check the finished work against. It makes quotes easier to compare, because each photographer is pricing the same job. And it becomes a reference for future shoots, helping new products sit comfortably beside older ones.</p>
+
+<h2>What to include in your brief</h2>
+<h3>Background and purpose</h3>
+<p>Begin with a few lines about your brand, who you sell to and how you want to come across. Then state where the pictures will appear: product pages, collection pages, the homepage, email, social posts, paid ads or marketplaces. Each may have different needs, so listing them upfront avoids finding out later that a crop will not work.</p>
+<h3>Product list</h3>
+<p>Set out every item in a simple spreadsheet. Useful columns include:</p>
+<ul>
+<li>Product name and SKU, so files can be matched to your catalogue.</li>
+<li>Variants to be shot, such as colours or finishes.</li>
+<li>Size and any handling needs, such as fragile, heavy or perishable items.</li>
+<li>Priority, so the important products get shot first if time runs short.</li>
+<li>Number of images and types of shot needed.</li>
+<li>Notes on key selling features that must be visible.</li>
+</ul>
+<h3>Shot list</h3>
+<p>This is the heart of the brief. Base it on questions shoppers ask before buying: what does it look like, how big is it, what is it made from, how is it used and what comes in the box? Then translate each answer into a picture.</p>
+<table>
+<thead><tr><th>Shopper question</th><th>Possible shot</th></tr></thead>
+<tbody>
+<tr><td>What exactly is it?</td><td>Clean main image on a plain background</td></tr>
+<tr><td>What does the rest look like?</td><td>Back, side, top or inside views</td></tr>
+<tr><td>What is the quality like?</td><td>Close-ups of material, stitching, texture or finish</td></tr>
+<tr><td>How big is it?</td><td>Item in a hand, on a model or beside a familiar object</td></tr>
+<tr><td>How would I use it?</td><td>Lifestyle or in-use image</td></tr>
+<tr><td>What do I receive?</td><td>Everything included, along with packaging if relevant</td></tr>
+</tbody>
+</table>
+<p>Not every product needs every shot. Group similar products into templates, such as a set of views for clothing and another for homeware. It keeps the brief manageable and gives your pages a consistent look.</p>
+<h3>Style direction</h3>
+<p>Words such as clean, premium or natural mean different things to different people, so back them up with examples. Collect a small set of reference images and say what you like about each one, whether the lighting, the angle, the props or the colour. Note what you want to avoid as well.</p>
+<p>Be specific about these points:</p>
+<ul>
+<li>Background colour and surface.</li>
+<li>Light quality, such as soft and even or more directional.</li>
+<li>Angles and how much space to leave around the product.</li>
+<li>Props and settings, and whether they might confuse people about what is included.</li>
+<li>Models, including the kind of look, poses and whether faces are shown.</li>
+</ul>
+<p>Your existing brand guidelines should inform this. If you do not have any, our guide to <a href="/blog/brand-identity-design-uk/">brand identity design</a> explains what they usually cover.</p>
+<h3>Technical requirements</h3>
+<p>Before you specify anything, check what your platform and theme need. A theme may crop images to a fixed shape, so if your collection page expects a square, a tall image could lose the product's top and bottom. Shoot with a consistent framing and leave enough room to crop. Our <a href="/blog/shopify-product-media-guide/">Shopify product media guide</a> explains how images behave on that platform.</p>
+<p>Your brief might set out:</p>
+<ul>
+<li>Aspect ratios for each use.</li>
+<li>Delivery resolution and file format, including any high-resolution master files you want.</li>
+<li>Colour profile, particularly where colour accuracy matters.</li>
+<li>A file naming convention, ideally built around SKU and view.</li>
+<li>How files should be delivered and organised.</li>
+</ul>
+<p>Delivered files may still need preparing for the web, so decide who will compress and resize them. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers that stage.</p>
+<h3>Retouching rules</h3>
+<p>Say what is acceptable. Removing dust, fixing small marks and correcting colour may be fine. Altering the product's shape, hiding a real feature or changing a colour could mislead customers and increase returns. As UK consumer law and advertising rules can apply to how products are represented, keep images truthful and take advice if you have concerns, particularly for claims in categories such as beauty or supplements.</p>
+<h3>Marketplace and advertising needs</h3>
+<p>Sales channels can have their own image rules, which change over time. Google Shopping, for example, restricts things like promotional overlays on images, and marketplaces can have specific rules for main images. Check current requirements for each channel you use and record them in the brief. If you run Shopping campaigns, see our guide to <a href="/blog/google-merchant-center-setup-uk/">Google Merchant Center set-up</a>.</p>
+<h3>Usage rights and credits</h3>
+<p>Do not leave this to chance. In the UK, copyright in a commissioned photograph does not necessarily pass to the client automatically, so the agreement should say how you may use the images, for how long, in which territories and channels, and whether you can edit them. Check model releases if people appear, and be careful with anything showing third-party brands or artwork. A solicitor can advise on specific wording.</p>
+
+<h2>Preparing the products</h2>
+<p>A good brief can still fall down on the day if products are not ready. Allow time to:</p>
+<ul>
+<li>Send the correct samples, including every variant listed, and consider spares for anything easily damaged.</li>
+<li>Clean, steam or assemble items so they look as they should.</li>
+<li>Remove swing tags or stickers, unless they need to be shown.</li>
+<li>Check that samples match what customers will actually receive, as prototypes can differ.</li>
+<li>Label everything so that items can be matched to your list.</li>
+<li>Agree how samples get back to you, and who is responsible for them while they are away.</li>
+</ul>
+<p>Food, cosmetics and other sensitive products may need particular care with storage and handling, so mention this in advance.</p>
+
+<h2>Briefing yourself: shooting in-house</h2>
+<p>If you photograph products in-house, the brief matters no less. Turn it into a simple standard: where the camera goes, how lights are set, how far away the product sits and what files are saved where. Photographs of the set-up can help someone else recreate it later. Over time, this consistency can matter more than having expensive equipment, particularly if you add products regularly.</p>
+
+<h2>Checking the images on delivery</h2>
+<p>Ask to see a test image or a first batch early, if the arrangement allows it. A small sample lets you catch issues with style or framing before a whole shoot is affected. When files arrive, check them against the brief:</p>
+<ul>
+<li>Is every product, variant and view present?</li>
+<li>Do colours look true compared with the physical item, on more than one screen?</li>
+<li>Does each image still work when cropped by your theme, including on a phone?</li>
+<li>Are file names and formats as agreed?</li>
+<li>Do the images look consistent with each other when seen together on a collection page?</li>
+</ul>
+<p>Agree in advance how many rounds of amends are included and how reshoots are handled if something is missed.</p>
+
+<h2>After the shoot: getting images on to your site</h2>
+<p>The job is not done until the images help someone buy. Upload them in a sensible order, starting with the clearest view. Write useful alt text for each image, using our <a href="/blog/website-image-alt-text-guide/">image alt text guide</a> if you need it. Make sure each variant shows the correct image when selected. Then look at the page as a shopper would, and consider how the pictures work alongside your wording, as covered in our guide to <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions</a>. For a broader view of what strong pages need, see our <a href="/blog/product-page-seo-uk/">product page SEO guide</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How long should a photography brief be?</h3>
+<p>Long enough to prevent guessing, and no longer. A short written overview, a product spreadsheet, a shot list and a few reference images are often enough for a straightforward job.</p>
+<h3>Should I shoot every colour variant?</h3>
+<p>Where colour affects the buying decision, shoppers will usually want to see it. If budget is limited, you might shoot the full set for your main sellers and fewer views of other variants. Avoid digitally recolouring images unless the result accurately represents the product.</p>
+<h3>Do I need lifestyle images as well as plain ones?</h3>
+<p>That depends on the product. Plain images show what an item is, while lifestyle images can show scale, use and mood. Many shops find a mixture useful, but start with whatever answers your shoppers' questions.</p>
+<h3>Who owns the photographs after the shoot?</h3>
+<p>It depends on your agreement, so do not assume. Ask the photographer to confirm ownership or licence terms in writing, covering the uses you have planned, and seek legal advice if the rights are important to you.</p>
+<h3>Can I reuse the manufacturer's images instead?</h3>
+<p>Sometimes, if you have permission. Bear in mind that they will also appear on other shops, so they will not help you stand out, and their style may not match yours. Check any supplier's terms first.</p>
+
+<h2>Next steps</h2>
+<p>Pick one product category and draft a shot template for it, based on the questions your customers ask. Test the template against your product page before committing to a whole range. Prism Works Studio is a UK remote agency working with online shops on their <a href="/services/website-ecommerce-development/">website and ecommerce development</a>, and you can read more about our work with <a href="/sectors/ecommerce/">ecommerce brands</a>. If you would like to talk through your product pages, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'multi-location-seo-audit',
+    seoTitle: 'Multi-Location SEO Audit: How to Review Every Branch',
+    title: 'Multi-Location SEO Audit: How UK Businesses Can Review Every Branch',
+    description: 'How to audit multi-location SEO across UK branches: business profiles, location pages, duplicate content, links, reviews, tracking and what to fix first.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/multi-location-seo-uk/', '/blog/local-seo-uk-guide/', '/blog/google-business-profile-uk/'],
+    body: `
+<p>A multi-location SEO audit is a structured review of how every branch of your business appears in search, and whether your website and profiles support each one. It checks ownership and accuracy of business profiles, the quality of location pages, duplicate content, consistent business details, internal links, reviews and reporting by branch. The result should be a prioritised list of fixes, with the problems affecting customers or many locations dealt with first.</p>
+<p>This guide is for UK businesses with several branches, offices, clinics, showrooms or service areas. It sets out how to review what you already have. For the principles of building a strategy from scratch, read our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO in the UK</a>, and for the fundamentals, see our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+
+<h2>Why audit branches together?</h2>
+<p>Looking at one branch at a time can hide the real cause of a problem. If one location page performs poorly, that may be down to local competition. If a whole set of them performs poorly, the issue may be the template, the internal linking or the way the pages were made. Multi-location businesses also tend to accumulate inconsistency as sites are added, branches move and different staff take over the marketing.</p>
+<p>An audit gives you a shared view of those issues. It also shows which branches are in good shape, so you can learn from what they do differently while allowing for differences in their local markets.</p>
+
+<h2>Set up your audit sheet</h2>
+<p>Before you start, create a spreadsheet with one row per location. Treat it as the single source of truth for the audit. Useful columns include:</p>
+<ul>
+<li>Branch name and official address.</li>
+<li>Phone number, opening hours and page URL.</li>
+<li>Business profile link and who holds access to it.</li>
+<li>Primary and secondary categories.</li>
+<li>Review count, recent review activity and whether reviews are answered.</li>
+<li>Page status, including whether it is indexed and has unique content.</li>
+<li>Issues found, priority and owner.</li>
+</ul>
+<p>Confirm the correct details with someone in each branch, rather than copying them from the website. Your existing data may be the very thing that is wrong.</p>
+
+<h2>Audit your business profiles</h2>
+<p>For most physical locations, your Google Business Profile listing is a central part of local visibility. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains set-up in detail. In the audit, check each one for the following:</p>
+<ul>
+<li><strong>Ownership and access:</strong> is it held by a company account, or by a former employee or supplier? Can you manage all branches in one organised way?</li>
+<li><strong>Duplicates:</strong> search for each branch and look for duplicated or out-of-date listings. Follow Google's current process for dealing with them.</li>
+<li><strong>Closed or moved branches:</strong> make sure these are marked correctly, so customers are not sent to an empty building.</li>
+<li><strong>Eligibility:</strong> check that each listing meets Google's guidelines, particularly for service-area businesses and shared premises.</li>
+<li><strong>Accuracy:</strong> compare names, addresses, phone numbers, hours, holiday hours and website links with your sheet.</li>
+<li><strong>Categories and services:</strong> make sure they reflect what each branch actually offers, which may not be identical everywhere.</li>
+<li><strong>Link destination:</strong> each listing should normally link to the relevant location page, rather than always to the homepage.</li>
+</ul>
+<p>Business names should reflect your real-world name. Adding keywords or town names that are not part of it may breach the guidelines, so check current guidance before making changes.</p>
+
+<h2>Audit your location pages</h2>
+<p>Each location page should help someone who needs that particular branch. Look at them side by side and be honest about whether they are useful.</p>
+<h3>Uniqueness and usefulness</h3>
+<p>Copy the main text of several pages into one document. If only the town name changes, you have a template problem. Useful local detail could include who works at the branch, services specific to it, directions, parking, nearby landmarks, local accessibility information, photographs of the actual location and relevant case studies or reviews.</p>
+<h3>Basic local information</h3>
+<p>Each page should show the correct name, address, phone number and opening hours, a map or directions and a clear next step. On a phone, it should be easy to tap to call or get directions. Our <a href="/blog/mobile-website-design/">mobile website design guide</a> covers those details.</p>
+<h3>Titles, headings and structured data</h3>
+<p>Check that each page has its own title, description and main heading. Where appropriate, local business schema markup can help describe the location to search engines, and it must match what is visible on the page. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how this works.</p>
+<h3>Missing and unnecessary pages</h3>
+<p>Compare your page list with your actual branches. Each real branch should have a page if it serves customers. You should also look out for pages created only to target towns where you have no presence. Pages made purely to catch searches, with little real value, can be treated as doorway pages, which is against Google's spam policies. Service-area content is fine if it is honest and genuinely helpful, but review it carefully.</p>
+
+<h2>Audit your site structure and technical health</h2>
+<p>Good pages will struggle if search engines and people cannot find them easily. Check the following:</p>
+<ul>
+<li><strong>Indexing:</strong> use Google Search Console to see whether each location page is indexed. Look for accidental noindex tags or canonical tags pointing elsewhere.</li>
+<li><strong>Canonicals:</strong> templates can sometimes point every location page to one master version, which is a serious error.</li>
+<li><strong>Internal links:</strong> make sure a branch finder or locations hub links to every branch in plain crawlable links, and that relevant service pages link to related locations.</li>
+<li><strong>Branch finders:</strong> if your locator relies on a search box or script, search engines and some users may not reach individual pages. Provide simple links too.</li>
+<li><strong>URLs:</strong> check that the pattern is consistent and that old branch URLs redirect sensibly.</li>
+<li><strong>Speed:</strong> maps and embedded widgets can slow a page down, so test the template on a mobile connection.</li>
+</ul>
+<p>When a branch moves or closes, think before you delete the page. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> explains the principles, and our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers the wider site.</p>
+
+<h2>Audit your business details across the web</h2>
+<p>Search for each branch's old and current addresses and phone numbers. Check industry directories, trade bodies, social profiles and any local listings that matter in your sector. You do not need to appear everywhere, but where a listing exists, it should be correct. Tracking phone numbers need care too, so use them in a way that does not cause confusion about your real number.</p>
+
+<h2>Audit reviews and reputation</h2>
+<p>Compare branches rather than only looking at the overall company score. Look for:</p>
+<ul>
+<li>Branches with few or very old reviews.</li>
+<li>Reviews going unanswered, including negative ones.</li>
+<li>Recurring complaints that point to a real operational problem.</li>
+<li>Whether staff know how, and when, to ask for reviews.</li>
+<li>Any practices that may breach platform rules or UK consumer law, such as selectively asking only happy customers or offering rewards for positive reviews. Check the current rules before setting up any review scheme.</li>
+</ul>
+<p>Decide who responds. A central team can maintain standards, while branch staff often know the context. Whichever you choose, write it down, and be careful not to reveal personal details in a public reply.</p>
+
+<h2>Audit local links and content</h2>
+<p>Look at which sites link to your branches. Links from local organisations, suppliers, events and the local press can be valuable, as long as they are earned through real activity. Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains the approach.</p>
+<p>Branch staff can be an underused source of local material. Ask what each branch does in its community and what customers there ask about, and use that where it helps. Avoid publishing local news simply for the sake of naming a town.</p>
+
+<h2>Audit reporting and ownership</h2>
+<p>A blended company total can hide a struggling branch. Check whether you can see, by location:</p>
+<ul>
+<li>Search visibility and clicks to the location page, using Google Search Console.</li>
+<li>Profile actions such as calls, website visits and direction requests.</li>
+<li>Website enquiries, tracked in analytics by branch.</li>
+<li>Calls, bookings or sales, where your internal systems allow it.</li>
+</ul>
+<p>Remember that results are shaped by each town's competition and demand, so a direct league table can mislead. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> offers more on useful measures. Also agree who updates what when something changes: a new branch manager, a change of hours or a closure should trigger a defined process.</p>
+
+<h2>How to prioritise what you find</h2>
+<table>
+<thead><tr><th>Priority</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td>Fix now</td><td>Wrong phone numbers or addresses, closed branches shown as open, lost profile access, location pages blocked from search</td></tr>
+<tr><td>Fix next</td><td>Duplicate listings, template errors, weak branch finder links, missing tracking</td></tr>
+<tr><td>Improve over time</td><td>Unique page content, photographs, local links, review processes</td></tr>
+<tr><td>Consider carefully</td><td>Removing or merging thin pages, changing URL structure, restructuring branches</td></tr>
+</tbody>
+</table>
+<p>Fixes to a template can help many pages at once, so they can be efficient, though large changes should be tested first and rolled out carefully.</p>
+
+<h2>FAQs</h2>
+<h3>How often should we audit multi-location SEO?</h3>
+<p>It depends on how often your business changes. A regular light check on details and profiles, plus a deeper review when you add, move or close branches, is a sensible approach for many businesses.</p>
+<h3>Can we use the same content on every location page?</h3>
+<p>Some shared information is reasonable, such as a description of a service. But each page should also have enough real local detail to be useful in itself. Pages that differ only by town name offer little value.</p>
+<h3>What should we do about a branch that has closed?</h3>
+<p>Update the business profile in line with Google's process, then decide what happens to its page. It might redirect to the nearest relevant branch or the locations hub, or explain the closure where people still look for it. Update other listings too.</p>
+<h3>Should a central team control every profile?</h3>
+<p>Central ownership of access is usually sensible, so nothing is lost when staff leave. Branch teams can still contribute local updates, photographs and review responses, within agreed guidelines.</p>
+<h3>Can a business rank in towns where it has no branch?</h3>
+<p>Possibly, but map results are heavily influenced by proximity and other factors. Do not create fake addresses. If you really serve an area, helpful service pages may be appropriate, and paid search may also fill gaps.</p>
+
+<h2>Next steps</h2>
+<p>Start the spreadsheet with your branch list and check the details against each profile. That alone can show where the bigger problems lie. Prism Works Studio is a UK remote agency offering <a href="/services/seo-geo/">SEO and GEO</a> support to growing businesses. If you would like a second view on your branch visibility, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'recruitment-agency-employer-marketing',
+    seoTitle: 'Marketing for Recruitment Agencies: Win Employer Clients',
+    title: 'Marketing for Recruitment Agencies: How to Win More Employer Clients',
+    description: 'Practical marketing for recruitment agencies seeking more employer clients: positioning, sector pages, hiring content, LinkedIn, referrals and tracking.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/recruitment-agency-marketing-uk/', '/blog/recruitment-agency-website-design-uk/', '/blog/b2b-marketing-agency-uk/'],
+    body: `
+<p>Marketing for recruitment agencies aimed at employers should do three jobs: make clear which hiring problems you solve, show evidence that you understand that market, and make it easy for a hiring manager to start a conversation. In practice, that usually means a focused position, dedicated sector and role pages, useful hiring content, a consistent presence on LinkedIn, a planned approach to referrals, and tracking that separates employer enquiries from candidate traffic.</p>
+<p>Recruitment agencies have two audiences, and candidate marketing often gets the most visible attention because job adverts need filling. This guide concentrates on the other side: winning and keeping employer clients. For a wider view covering both audiences, read our guide to <a href="/blog/recruitment-agency-marketing-uk/">recruitment agency marketing in the UK</a>.</p>
+
+<h2>Why employer marketing deserves its own plan</h2>
+<p>Candidates and employers want different things. A candidate may be asking whether a job is right for them. A hiring manager is asking whether you can reduce a business problem: a role that has stayed open, a team that is stretched, or a market they do not know well. A single set of messages will rarely serve both.</p>
+<p>Employer buying decisions can also involve more people. A line manager may spot the need, HR may run the process and finance may question the fee. Some employers will use preferred supplier lists or have procurement rules. Your marketing should therefore give different people the reassurance they need, not simply repeat that you are passionate about people.</p>
+
+<h2>Start with a position an employer can repeat</h2>
+<p>Generic claims are easy to ignore. Many agencies describe themselves as trusted partners who find the best talent, and that tells a hiring manager very little. A stronger position answers plain questions:</p>
+<ul>
+<li>Which sectors do you know well?</li>
+<li>Which types of role do you fill?</li>
+<li>Which locations or markets do you cover?</li>
+<li>Do you handle permanent roles, contract roles, temporary staffing or a mixture?</li>
+<li>What is different about how you work?</li>
+</ul>
+<p>Try writing one sentence that someone could repeat to a colleague. It should describe a real focus you can back up, rather than an aspiration. If your agency works broadly, you might still choose a small number of sectors to market first, since it is easier to create convincing content for a defined audience. For help thinking this through, see our guide to the difference between <a href="/blog/brand-strategy-vs-marketing-strategy/">brand strategy and marketing strategy</a>.</p>
+
+<h2>Build pages for employers, not just job listings</h2>
+<p>Many recruitment sites are organised around vacancies. That makes sense for candidates, but employers may struggle to find anything meant for them. Our guide to <a href="/blog/recruitment-agency-website-design-uk/">recruitment agency website design</a> covers the wider site, and these are the employer-facing pages to think about.</p>
+<h3>A clear page for employers</h3>
+<p>Explain how you work: how a brief is taken, how candidates are assessed, how you keep clients informed, and what the next step looks like. Explain the fee model in general terms if you are comfortable doing so, or state that terms are agreed upfront. Clarity can filter out poor-fit enquiries and reassure good ones.</p>
+<h3>Sector pages</h3>
+<p>Each sector page should prove that you understand that market, covering the roles you fill, the hiring challenges you see and any relevant qualifications or checks. Avoid swapping one sector name into the same template. A hiring manager in that sector will spot generic text quickly.</p>
+<h3>Role and location pages, where justified</h3>
+<p>Pages for particular roles or places can help where you really work in that area and have something specific to say. Thin pages that simply repeat a template are unlikely to help anyone, and may weaken the quality of your site overall.</p>
+<h3>Evidence</h3>
+<p>Case studies and testimonials can be persuasive when they are genuine and permitted. Describe the hiring challenge, what you did and what happened, using only details the client has agreed you can share. Our guide to the <a href="/blog/website-testimonials-page/">website testimonials page</a> offers practical advice. Avoid claiming placement or retention results you cannot substantiate.</p>
+<h3>A simple way to make contact</h3>
+<p>Give employers a direct route that does not begin with a candidate registration form. A short form asking about the role, location and timing may be enough, along with a phone number and named contact where appropriate. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has more detail.</p>
+
+<h2>Show up for hiring-related searches</h2>
+<p>Employers looking for help may search for a type of recruiter, a sector, a place, or a hiring problem. SEO for this audience is similar to other business-to-business search work: find the terms your likely clients use, match each one to a useful page and strengthen those pages over time. Our guide to <a href="/blog/b2b-seo-uk/">B2B SEO</a> explains the approach, and our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> can help you begin.</p>
+<p>Be realistic about competition. Large job boards and national firms can dominate broad searches, so narrower sector and location terms may be a more sensible place to start. Local visibility can also matter if you work with employers in a particular area, and our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the basics.</p>
+
+<h2>Publish content hiring managers can use</h2>
+<p>Good content for employers helps them make better hiring decisions, whether or not they use you immediately. Ideas include:</p>
+<ul>
+<li>How to write a brief for a hard-to-fill role.</li>
+<li>What a sensible interview process looks like in your sector.</li>
+<li>Commentary on skills and availability, based on what you are genuinely seeing.</li>
+<li>Questions to ask when choosing between recruiters.</li>
+<li>Practical onboarding advice for new starters.</li>
+</ul>
+<p>Salary guides and market reports can be useful, but only if the information is sound. Explain where your data comes from and how much of it there is, and do not present a handful of conversations as a national trend. If you discuss employment law, keep it general, note that rules can change and suggest that readers take professional advice. Our guide to <a href="/blog/content-strategy-uk/">content strategy</a> can help you plan this work.</p>
+
+<h2>Use LinkedIn with a clear purpose</h2>
+<p>LinkedIn is an obvious place for recruiters, but activity alone does not win clients. Posting vacancies all day speaks mainly to candidates. To reach employers, consider sharing observations from your sector, explaining mistakes that slow hiring and showing how you approach difficult roles.</p>
+<p>Encourage consultants to post in their own voice as well as using the company page, as people may respond more readily to someone they recognise. Keep messaging respectful, too. Copy-and-paste outreach is easy to spot and can damage the reputation you are trying to build.</p>
+<p>Paid LinkedIn campaigns may be useful where you have a clear audience and a good reason for someone to respond, though it is worth testing carefully. Our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn ads for B2B lead generation</a> explains how to approach this.</p>
+
+<h2>Make referrals and repeat business deliberate</h2>
+<p>Existing relationships can be an important source of new work, yet they are often left to chance. A simple approach might include:</p>
+<ul>
+<li>Checking in after a placement, at sensible intervals, to see how things are going.</li>
+<li>Staying in touch when a hiring manager moves to a new employer.</li>
+<li>Asking satisfied clients whether they would be willing to give a testimonial or an introduction.</li>
+<li>Sending occasional useful updates, not constant promotion.</li>
+<li>Reviewing past clients who have gone quiet and deciding who to contact.</li>
+</ul>
+<p>Keep a record of this in your CRM so it does not depend on one consultant's memory. If a consultant leaves, the relationship history should not disappear with them.</p>
+
+<h2>Use outreach and email carefully</h2>
+<p>Direct outreach is part of recruitment, but it should be planned and lawful. Rules on electronic marketing and personal data apply in the UK, and how they apply can depend on who you are contacting and how you got their details. The Information Commissioner's Office publishes guidance, and you should take advice if you are unsure.</p>
+<p>The recruitment sector also has its own legislation governing how agencies and employment businesses operate, and advertising rules apply to your claims. This guide cannot cover those in detail, so check current requirements with your trade body or an adviser where needed.</p>
+
+<h2>Measure the employer side separately</h2>
+<p>Candidate activity can swamp your reporting. A jump in website traffic and applications may mean little for winning new clients. Set up separate tracking for employer actions, so that you can answer questions such as:</p>
+<ul>
+<li>How many employer enquiries did the site generate?</li>
+<li>Which pages and channels led to them?</li>
+<li>How many became a live brief, and how many led to a placement?</li>
+<li>Which sectors produced the most useful conversations?</li>
+<li>How much fee income came from new, returning and referred clients?</li>
+</ul>
+<table>
+<thead><tr><th>Stage</th><th>What to look at</th></tr></thead>
+<tbody>
+<tr><td>Visibility</td><td>Searches and page visits for employer-focused pages</td></tr>
+<tr><td>Enquiry</td><td>Employer form submissions, calls and LinkedIn conversations</td></tr>
+<tr><td>Qualification</td><td>Enquiries that fit your sectors and terms</td></tr>
+<tr><td>Commercial result</td><td>Live briefs, placements, fee income and repeat work</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/ga4-setup-uk/">GA4 set-up</a> can help with website tracking. To connect marketing to commercial outcomes, you will also need consultants to record the source of each new client in your CRM.</p>
+
+<h2>FAQs</h2>
+<h3>How can a recruitment agency get more clients?</h3>
+<p>Begin with a clear focus, then give employers evidence through sector pages, case studies and useful content. Combine that with considered outreach and regular contact with past clients. No single channel suits every agency, so measure which ones produce real briefs.</p>
+<h3>Should employers and candidates have separate website sections?</h3>
+<p>In most cases, it helps. Their questions and next steps are different, so separate routes make it easier for each person to find what they need without wading through content meant for someone else.</p>
+<h3>Is content marketing worthwhile for a small agency?</h3>
+<p>It can be, particularly if you concentrate on a defined sector and share knowledge that comes from real conversations. A small number of well-considered pieces may serve you better than frequent generic posts.</p>
+<h3>Should we publish our fees?</h3>
+<p>That is a commercial decision. Some agencies prefer to explain how fees work without giving exact figures, since terms can vary by role and arrangement. Whichever you choose, make sure the process is easy to understand.</p>
+<h3>How long does employer marketing take to work?</h3>
+<p>It varies with your sector, reputation, competition and consistency. Direct outreach may start conversations sooner, whereas search visibility and reputation usually build gradually. Be wary of anyone promising a fixed result.</p>
+
+<h2>Next steps</h2>
+<p>Review your site as a busy hiring manager would. Can you tell within moments who the agency helps, and how to get in touch without registering as a candidate? Fix those basics before adding new channels. Prism Works Studio is a UK remote agency working with <a href="/sectors/b2b/">B2B businesses</a> on <a href="/services/seo-geo/">SEO and GEO</a> and <a href="/services/paid-media/">paid media</a>. If you would like a second view on your employer marketing, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'website-support-plan-what-to-include',
+    seoTitle: 'Website Support Plans: What to Include and Why They Matter',
+    title: 'Website Support and Maintenance Plans: What Should Be Included, and What Happens Without One',
+    description: 'What a website support and maintenance plan should cover, from updates and backups to response terms and reporting, and the risks of running a site without one.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/website-maintenance-uk/', '/blog/website-backup-and-recovery-plan/', '/blog/website-ownership-and-handover/'],
+    body: `
+<p>A website support and maintenance plan is an agreement that makes someone responsible for keeping your site updated, backed up, secure and working, and for dealing with problems when they appear. A good plan should state which tasks are included, how often they happen, how you ask for help, how quickly requests are acknowledged, what is excluded and how you will know the work was done. Without one, those jobs can fall between people, and small faults may stay hidden until they affect customers or enquiries.</p>
+<p>This guide is for UK business owners and marketing managers reviewing a plan they have been offered, or deciding whether they need one. It concentrates on the contents of the agreement. For a wider view of routine tasks and how to compare costs, see our guide to <a href="/blog/website-maintenance-uk/">website maintenance in the UK</a>.</p>
+
+<h2>Maintenance and support are not quite the same</h2>
+<p>People often use the words together, but it helps to separate them when reading a proposal.</p>
+<ul>
+<li><strong>Maintenance</strong> is planned, preventive work, such as updates, backups, checks and tidying up.</li>
+<li><strong>Support</strong> is reactive help, such as fixing a fault, answering a question or making a small change you have asked for.</li>
+</ul>
+<p>Some plans include plenty of one and little of the other. A plan that runs updates but offers no route for urgent help may leave you stranded when a page breaks. A plan that promises friendly support but says nothing about preventive work may simply wait for things to go wrong. Ask how each is handled, and do not assume that one implies the other.</p>
+
+<h2>What a website support plan should include</h2>
+<h3>Platform, theme and extension updates</h3>
+<p>The plan should explain what gets updated and how. On a self-hosted platform such as WordPress, that may mean the core software, the theme and any plugins. On a hosted platform such as Shopify, the platform itself is looked after for you, but themes and apps can still need attention. Our guides to <a href="/blog/wordpress-automatic-updates/">WordPress automatic updates</a> and <a href="/blog/shopify-theme-updates/">Shopify theme updates</a> explain the differences.</p>
+<p>Ask whether updates are tested first, whether a backup is taken beforehand and what happens if an update breaks something. Fixing the fallout from an update should ideally be covered, or at least clearly priced.</p>
+<h3>Backups you can actually restore</h3>
+<p>A backup is only useful if it can be restored. A good plan should state what is backed up, how often, where copies are kept, how long they are retained and whether restores are tested. It should also say who performs a restore and whether that is included. Our guide to building a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> covers the questions to ask.</p>
+<h3>Security monitoring and response</h3>
+<p>No provider can honestly promise that a site will never be attacked. What a plan can do is describe the precautions taken and the response if something happens. Look for details such as access control, malware checks, removing unused accounts and extensions, and what is done if a compromise is suspected. If you run WordPress, our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> gives useful background.</p>
+<p>If an incident involves personal data, you may have legal duties of your own, including possibly reporting to the regulator. Make sure the plan says how quickly you would be told, and take professional advice on what applies to you.</p>
+<h3>Uptime and functional checks</h3>
+<p>A site can be online yet still broken. Monitoring whether it responds is useful, but someone should also check the things that make money or generate leads: contact forms, booking tools, basket and checkout, and confirmation emails. Ask which journeys are tested, and how often.</p>
+<h3>Performance and technical health</h3>
+<p>Sites tend to gather weight over time through larger images, extra scripts and old extensions. A plan may include periodic reviews of speed, broken links, crawl errors and similar issues. It does not have to replace a full <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a>, but it should at least notice when something has clearly deteriorated.</p>
+<h3>Small content and design changes</h3>
+<p>Some plans include an allowance of time for small edits. If yours does, check what counts as a small change, whether unused time carries over and how larger pieces of work are quoted. Vague wording here can cause friction later on.</p>
+<h3>Hosting, domains and renewals</h3>
+<p>Clarify whether hosting, domain renewal and security certificates fall within the plan or are your responsibility. A lapsed domain can take down your site and your email together, so somebody must own the renewal dates. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email set-up</a> explains how these pieces fit together.</p>
+<h3>Reporting</h3>
+<p>You should be able to see what was done without having to ask. A short, regular report might list updates applied, backups completed, issues found, fixes made and anything that needs a decision from you. It is less about volume than about evidence that the work is happening.</p>
+
+<h2>The terms that matter as much as the tasks</h2>
+<p>A task list tells you what is intended. The terms tell you what happens under pressure. Check these points before you sign:</p>
+<ul>
+<li><strong>Response and resolution:</strong> an acknowledgement is not a fix. See whether the plan separates the two, and whether urgent faults are treated differently from routine requests.</li>
+<li><strong>Support hours:</strong> find out when requests are monitored, and what happens at weekends or during holidays if that matters to your business.</li>
+<li><strong>How requests are made:</strong> a named route, such as email or a ticket system, avoids requests getting lost.</li>
+<li><strong>Exclusions:</strong> new features, redesigns, third-party faults and problems caused by your own edits are often treated separately, so look for them explicitly.</li>
+<li><strong>Extra work:</strong> ask how out-of-scope work is quoted, and whether it needs your approval before it starts.</li>
+<li><strong>Length and notice:</strong> check the minimum term, how to cancel and any price review arrangements.</li>
+<li><strong>Exit:</strong> ask what you receive when the plan ends, including access, files, backups and documentation.</li>
+</ul>
+<p>Ownership deserves special attention. You should know who holds the accounts for your domain, hosting, platform and analytics, and how to get access if the relationship ends. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> goes through this. If the contract has data protection or liability wording you are unsure about, a solicitor can advise you.</p>
+
+<h2>What happens without a plan</h2>
+<p>Some sites run for a long while with little attention, and not every small brochure site needs an elaborate plan. But if nobody is clearly responsible, these are the risks that can build up.</p>
+<h3>Security exposure grows</h3>
+<p>Out-of-date software can contain known weaknesses. Old administrator accounts and forgotten plugins add further ways in. A compromised site might show spam, redirect visitors or leak data, and cleaning it up tends to be more disruptive than prevention.</p>
+<h3>Updates become harder</h3>
+<p>Updates skipped for a long time can stack up, and applying many at once carries a greater risk of conflict. What could have been a routine job can become a small project, particularly if the site also needs a newer server software version.</p>
+<h3>Faults go unnoticed</h3>
+<p>Forms are a good example. A contact form can stop sending messages without any visible sign on the page, so a business may simply believe enquiries have gone quiet. The same applies to payment methods, booking tools and tracking. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> includes things worth testing.</p>
+<h3>Recovery is slower</h3>
+<p>If there is no recent backup, or nobody knows where it is or how to restore it, a serious fault may mean lost content or orders and a long period of disruption. Knowledge can also leave with a person: if the one person who understood the site moves on, you may struggle to get back in.</p>
+<h3>Search visibility can suffer</h3>
+<p>Slow pages, broken links, server errors and accidental changes that block search engines can all harm how a site performs in search. A problem like this may go unseen for some time, which is why someone should keep an eye on search data and technical health.</p>
+<h3>Compliance can drift</h3>
+<p>Your privacy notice, cookie settings and accessibility may also need review as a site changes. New tracking tools or forms, for instance, may need your notices and consent settings updating. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> explains the basics, though it is not legal advice.</p>
+
+<h2>How much cover does your site need?</h2>
+<p>The right level depends on what a failure would cost you and on how complicated your site is.</p>
+<table>
+<thead><tr><th>Type of site</th><th>Likely priorities</th></tr></thead>
+<tbody>
+<tr><td>Simple brochure site</td><td>Updates, backups, form checks, renewals and a clear route for help</td></tr>
+<tr><td>Lead generation site</td><td>The above, plus closer checks on forms, tracking, landing pages and speed</td></tr>
+<tr><td>Online shop</td><td>Checkout and payment testing, stock and order integrations, faster responses around busy periods</td></tr>
+<tr><td>Site with custom features</td><td>Documentation, testing on a staging copy and developers who understand the build</td></tr>
+</tbody>
+</table>
+<p>Testing changes away from the live site can be valuable for anything beyond a basic site. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how that works.</p>
+
+<h2>Questions to ask a provider</h2>
+<ul>
+<li>Exactly which tasks are included, and how often are they done?</li>
+<li>Do you test updates before they go live, and who fixes any problems they cause?</li>
+<li>Where are backups stored, how long are they kept and when was a restore last tested?</li>
+<li>Which user journeys do you check, and how?</li>
+<li>How do I report an urgent fault outside normal hours, if at all?</li>
+<li>What is not covered, and how would that work be priced?</li>
+<li>What would I receive if I decided to leave?</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Do I need a support plan if my site is on a hosted platform?</h3>
+<p>You may need less technical upkeep, because the platform handles its own software and hosting. Themes, apps, content, integrations and tracking can still need attention, so a lighter arrangement or a clear in-house routine may suit you.</p>
+<h3>Can I handle website maintenance myself?</h3>
+<p>Often, yes, if the site is simple and you have the time, access and confidence. What matters is that it is done reliably, with tested backups and a recovery plan, and that someone can step in if a fault is beyond you.</p>
+<h3>Does my web host already do this?</h3>
+<p>Possibly in part. Hosts may provide server upkeep and some backups, but that does not necessarily cover your site software, testing, forms or content changes. Check your hosting terms rather than assuming.</p>
+<h3>Will a support plan guarantee my site never goes down?</h3>
+<p>No plan can honestly promise that. A good one reduces risk, helps problems get noticed sooner and sets out how they will be handled. Treat any absolute promise with caution.</p>
+<h3>How do I compare plans fairly?</h3>
+<p>Set the task lists, terms and exclusions side by side before you look at price. A cheaper plan may be the right fit for a simple site, but only if it covers the failures that would genuinely hurt your business.</p>
+
+<h2>Next steps</h2>
+<p>List who currently owns each job on your site: updates, backups, security, form testing, renewals and urgent fixes. Any blank space or uncertain answer shows you where to start. Prism Works Studio is a UK remote agency offering ongoing maintenance for websites and stores, covering platform updates, security monitoring, performance and support, as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service. If you would like a second view on what your site needs, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
 ];
