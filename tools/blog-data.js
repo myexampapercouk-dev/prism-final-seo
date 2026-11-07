@@ -2456,17 +2456,18 @@ module.exports = [
   },
   {
     slug: 'brand-strategy-agency-uk',
-    seoTitle: 'Brand Strategy Agency UK: What They Do for SMEs',
-    title: 'Brand Strategy Agency UK: What They Do for SMEs and How It Works',
-    description: 'What does a brand strategy agency do for UK SMEs? See typical deliverables, the step-by-step process, costs to plan for and how to brief an agency well.',
+    seoTitle: 'Brand Strategy Agency UK: What They Do and How to Choose',
+    title: 'Brand Strategy Agency UK: What They Do and How to Choose One',
+    description: 'What a brand strategy agency does, how it differs from a marketing strategy agency or a consultancy, how the work runs and what to ask before you hire.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Guides',
     related: ['/services/brand-strategy/', '/services/digital-pr-content/', '/pricing/'],
     body: `
 <p>A brand strategy agency helps a business decide who it is for, what makes it different and how it should look and sound, then turns those decisions into practical tools such as positioning, messaging and a tone of voice guide. For UK SMEs, the value is consistency: when everyone describes the business the same way, marketing works harder for the same budget.</p>
-<p>Many small businesses jump straight to a logo or a new website. Without a clear strategy underneath, those projects often get redone a year later. This guide explains what a brand strategy agency actually delivers, how the process usually runs, what it costs to plan for and how to get the most from it.</p>
+<p>Many small businesses jump straight to a logo or a new website, and without a clear strategy underneath, those projects can end up being redone. This guide explains what a brand strategy agency delivers, how it differs from a marketing strategy agency or a business consultancy, how the process usually runs and what to ask before you hire one.</p>
 
-<h2>What does a brand strategy agency UK SMEs hire actually do?</h2>
+<h2>What does a brand strategy agency do?</h2>
 <p>Brand strategy is the thinking behind the visible brand. A good agency asks hard questions, listens to customers and turns the answers into decisions you can act on. The work typically covers:</p>
 <ul>
 <li><strong>Research:</strong> interviews with owners and staff, customer conversations or surveys, and a review of competitors.</li>
@@ -2478,6 +2479,30 @@ module.exports = [
 <li><strong>Rollout plan:</strong> where the new brand shows up first, such as the website, sales materials and social profiles.</li>
 </ul>
 <p>You can see how we approach this on our <a href="/services/brand-strategy/">brand strategy service page</a>.</p>
+
+<h2>Brand, marketing or business strategy: which agency do you need?</h2>
+<p>"Strategy agency" can mean several different things, so it helps to work out which problem you are trying to solve before you start comparing suppliers.</p>
+<table>
+<thead><tr><th>Type</th><th>The question it answers</th><th>Typical output</th></tr></thead>
+<tbody>
+<tr><td>Brand strategy agency</td><td>Who are we for, why choose us and how should we sound?</td><td>Positioning, messaging, tone of voice, visual direction</td></tr>
+<tr><td>Marketing strategy agency</td><td>Which audiences, channels and budgets will bring in customers?</td><td>Marketing plan, channel priorities, measurement approach</td></tr>
+<tr><td>Business strategy or management consultancy</td><td>Which markets, operating model or financial plan should the company pursue?</td><td>Corporate strategy, operational and financial recommendations</td></tr>
+</tbody>
+</table>
+<p>The order often matters. Marketing plans tend to work better once positioning is clear, because channels and campaigns then have a consistent message to carry. If your real questions are about restructuring, finance or company direction, a business adviser or management consultancy is the better starting point.</p>
+<p>Prism Works Studio is a digital marketing and ecommerce agency, not a management consultancy. Our work sits on the brand and marketing side of that table.</p>
+
+<h2>What a marketing strategy agency does</h2>
+<p>A marketing strategy agency, sometimes called a strategic marketing agency, turns business goals into a plan for reaching customers. Whatever the label, useful work tends to cover:</p>
+<ul>
+<li><strong>Goals and numbers:</strong> what marketing must achieve, and the margins and budget it has to work within.</li>
+<li><strong>Audience and demand:</strong> who buys, how they search and what they compare you against.</li>
+<li><strong>Channel choices:</strong> where to focus first across search, paid media, content, email and social, and what to leave for later.</li>
+<li><strong>Measurement:</strong> tracking and reporting that link activity to enquiries or sales.</li>
+<li><strong>A working plan:</strong> priorities, owners and review points, so the strategy leads to action.</li>
+</ul>
+<p>Be careful with any plan that could apply to any business. A good one makes choices, and explains what you will not do as well as what you will. Our guide to <a href="/blog/content-strategy-uk/">content strategy</a> shows how this works for one channel, and our <a href="/services/paid-media/">paid media</a> and <a href="/services/seo-geo/">SEO and GEO</a> pages explain how we approach delivery.</p>
 
 <h2>Typical brand strategy deliverables</h2>
 <p>Deliverables vary by agency, but these are the ones that tend to be most useful for small and medium-sized businesses.</p>
@@ -2513,14 +2538,14 @@ module.exports = [
 <li>You compete mainly on price and want to stand for something more.</li>
 <li>You are about to invest in a new website or campaign and want it to last.</li>
 </ul>
-<p>If a new website is on the horizon, do the strategy first. Our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a> explains why a clear brief keeps a build on budget.</p>
+<p>If you are refreshing an established business, our <a href="/blog/rebranding-guide-uk/">rebranding guide</a> covers the risks to plan for. If a new website is on the horizon, do the strategy first. Our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a> explains why a clear brief keeps a build on budget.</p>
 
 <h2>What does brand strategy cost?</h2>
-<p>Brand strategy is often quoted as a project, and prices depend on how much research is involved and how many deliverables you need. When you compare quotes, check what is included: number of interviews, rounds of revisions and whether visual work is part of the price. For our ongoing marketing support, published retainers are £350, £750 and £1,500 a month, and a small website is £1,000 to £2,000. See our <a href="/pricing/">pricing page</a> for detail, and ask any agency to confirm a project price in writing before work starts.</p>
+<p>Brand strategy is often quoted as a project, and prices depend on how much research is involved and how many deliverables you need. We scope it as a project too, and agree deliverables and revisions before starting. When you compare quotes, check what is included: number of interviews, rounds of revisions and whether visual work is part of the price. For ongoing marketing support, our published retainers start at £350, £750 and £1,500 a month, and a small website starts from £1,000 to £2,000. See our <a href="/pricing/">pricing page</a> for detail, and ask any agency to confirm a project price in writing before work starts.</p>
 
 <h2>Turning strategy into marketing</h2>
 <p>A strategy only pays off when it shows up in the places customers see. That means updating your website, rewriting key pages, refreshing social profiles and creating content that reflects the new positioning. Our <a href="/services/digital-pr-content/">digital PR and content service</a> picks up where strategy leaves off, and our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> shows how a clear story helps earn coverage.</p>
-<p>Search is part of this too. Clear positioning makes it easier to choose the right keywords and write pages that match what people search for. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses in the UK</a> covers the basics, and our <a href="/blog/what-is-generative-engine-optimisation/">guide to generative engine optimisation</a> explains why consistent messaging helps AI search tools describe you accurately.</p>
+<p>Search is part of this too. Clear positioning makes it easier to choose the right keywords and write pages that match what people search for. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses in the UK</a> covers the basics, our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> helps keep writing consistent, and our <a href="/blog/what-is-generative-engine-optimisation/">guide to generative engine optimisation</a> explains why consistent messaging can help AI search tools describe you accurately.</p>
 
 <h2>Brand strategy checklist</h2>
 <p>Use this checklist to brief an agency and to judge whether the work is finished.</p>
@@ -2538,7 +2563,17 @@ module.exports = [
 </ul>
 
 <h2>How to choose a brand strategy agency</h2>
-<p>Look for an agency that asks about your commercial goals before talking about logos, that explains its research method, and that can show how strategy connects to marketing results such as enquiries or sales. Ask who will do the work and how decisions will be made. Our broader guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers contracts and communication too.</p>
+<p>Look for an agency that asks about your commercial goals before talking about logos, and that explains how strategy connects to marketing results such as enquiries or sales. These questions make proposals easier to compare:</p>
+<ul>
+<li>What research will you do, and will you speak to our customers?</li>
+<li>What exactly will we receive, and how many rounds of revisions are included?</li>
+<li>Who will do the work, and who needs to sign off on our side?</li>
+<li>How will the strategy be used on our website, in ads and in sales materials?</li>
+<li>Is visual identity included, or does it need a separate brief? Our <a href="/blog/brand-identity-design-uk/">brand identity guide</a> explains what that work involves.</li>
+<li>Do you also help put it into practice, or does your work end with the document?</li>
+<li>How will we know whether it has worked?</li>
+</ul>
+<p>Our broader guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency in the UK</a> covers contracts and communication too.</p>
 
 <h2>Common brand strategy mistakes</h2>
 <p>Brand projects for smaller businesses tend to go wrong in predictable ways. Avoiding these keeps the work useful and the budget under control.</p>
@@ -2550,11 +2585,15 @@ module.exports = [
 <li><strong>No rollout.</strong> The strategy is signed off, then the old website and sales materials stay as they were.</li>
 </ul>
 
-<p>A useful test is to ask a few customers and staff to describe the business in one sentence before the project starts, then again a few months after rollout. If the answers become clearer and more alike, the strategy is doing its job. If they still vary widely, the messaging may need simplifying or the rollout may not have reached every touchpoint yet.</p><p>If your brand no longer reflects your business, explore our <a href="/services/brand-strategy/">brand strategy service</a> or <a href="/contact/">book a free discovery call</a> to talk through where you are and what you need.</p>
+<p>A useful test is to ask a few customers and staff to describe the business in one sentence before the project starts, then again a few months after rollout. If the answers become clearer and more alike, the strategy is doing its job. If they still vary widely, the messaging may need simplifying or the rollout may not have reached every touchpoint yet.</p><p>If your brand no longer reflects your business, or you are unsure which kind of strategy you need, explore our <a href="/services/brand-strategy/">brand strategy service</a> or <a href="/contact/">book a free discovery call</a> to talk through where you are and what you need.</p>
 
 <h2>FAQs</h2>
-<h3>What does a brand strategy agency UK SMEs use actually deliver?</h3>
+<h3>What does a brand strategy agency deliver?</h3>
 <p>Usually positioning, audience profiles, a messaging framework, tone of voice guidance, visual direction and a short set of brand guidelines with a rollout plan.</p>
+<h3>What is the difference between a brand strategy agency and a marketing strategy agency?</h3>
+<p>Brand strategy decides who you are for, what you stand for and how you sound. Marketing strategy decides which audiences, channels and budgets will carry that message. Many businesses need both, usually with positioning settled first.</p>
+<h3>Is a strategy agency the same as a management consultancy?</h3>
+<p>Not usually. Agencies generally focus on brand and marketing, while management consultancies advise on areas such as operations, finance and company direction. Prism Works Studio is a marketing agency, not a management consultancy.</p>
 <h3>Is brand strategy the same as a logo?</h3>
 <p>No. A logo is one visible part of a brand. Strategy decides who you serve, what you stand for and how you sound, and the logo should follow from that.</p>
 <h3>How long does a brand strategy project take?</h3>
@@ -2783,17 +2822,18 @@ module.exports = [
   },
   {
     slug: 'education-marketing-agency-uk',
-    seoTitle: 'Education Marketing Agency UK: Schools, Colleges, Training',
+    seoTitle: 'Education Marketing Agency UK for Schools and Colleges',
     title: 'Education Marketing Agency UK: Digital Marketing for Schools, Colleges and Training Providers',
-    description: 'An education marketing agency in the UK helps schools, colleges and training providers win enquiries with SEO, paid ads and clear websites. How it works.',
+    description: 'What an education marketing agency does for schools, colleges and training providers, how campaigns fit around admissions and what to ask before hiring.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Sectors',
     related: ['/sectors/education/', '/services/seo-geo/', '/services/paid-media/', '/pricing/'],
     body: `
-<p>An education marketing agency in the UK helps independent schools, colleges, nurseries, universities and training providers attract more enquiries, open day bookings and applications through SEO, paid search and social ads, content and a clear, accessible website. The best agencies plan around your recruitment calendar and write for the different people who make education decisions: parents, learners and employers.</p>
-<p>This guide explains what education digital marketing involves, which channels tend to suit each type of provider, what it typically costs and what to check before hiring an agency.</p>
+<p>An education marketing agency in the UK helps independent schools, colleges, nurseries, universities and training providers attract more enquiries, open day bookings and applications through SEO, paid search and social ads, content and a clear, accessible website. A good agency plans around your recruitment calendar and writes for the different people who make education decisions: parents, learners and employers.</p>
+<p>This guide explains what education digital marketing involves, what a digital marketing agency for schools should do, which channels tend to suit each type of provider, what it costs and what to ask before hiring an agency or consultant.</p>
 
-<h2>What does an education marketing agency UK providers hire actually do?</h2>
+<h2>What does an education marketing agency do?</h2>
 <p>Education is a considered purchase. A parent choosing a school, an adult choosing a course or an employer choosing an apprenticeship provider will usually research for weeks, compare several options and look hard for trust signals. Good marketing makes that research easy and gives people a clear next step.</p>
 <p>Typical work includes:</p>
 <ul>
@@ -2803,7 +2843,17 @@ module.exports = [
 <li><strong>Content and reputation</strong>: guides for parents and learners, news coverage and reviews that build trust.</li>
 <li><strong>Tracking</strong>: measuring enquiries, prospectus requests, open day bookings and applications by channel.</li>
 </ul>
-<p>Our <a href="/sectors/education/">education sector page</a> sets out how we work with schools, colleges and training providers.</p>
+<p>Our <a href="/sectors/education/">education sector page</a> sets out how we work with education and training providers.</p>
+
+<h2>What a digital marketing agency for schools should do</h2>
+<p>A marketing agency for schools needs to understand that a school is not selling a product in the usual sense. Families are making a long-term decision about a child, usually with several people involved. The priorities also vary by type of school.</p>
+<ul>
+<li><strong>Independent schools</strong> usually focus on admissions: open day bookings, prospectus requests, visits and clear information about fees, bursaries and entry points.</li>
+<li><strong>State schools and academies</strong> may have different goals, because admissions usually follow local arrangements. Marketing often centres on helping families understand the school, supporting open events, informing the community and recruiting staff. Check what applies to your school with your local authority or trust.</li>
+<li><strong>Nurseries and pre-schools</strong> tend to rely on local search, reviews and visit bookings. Our <a href="/blog/nursery-marketing-uk/">nursery marketing guide</a> looks at this in more detail.</li>
+</ul>
+<p>Whatever the type, the work should start with an accurate, accessible and easy-to-use website. Our guides to <a href="/blog/school-marketing-uk/">school marketing</a> and <a href="/blog/school-website-design-uk/">school website design</a> go further, and <a href="/blog/training-provider-marketing-uk/">training provider marketing</a> covers course-led organisations.</p>
+<p>Expect a good agency to ask early on about safeguarding and image consent, who approves content, and how enquiries are followed up, as well as about ad budgets.</p>
 
 <h2>Which channels suit which type of provider?</h2>
 <p>Different providers have different audiences and budgets. The table below is a general guide rather than a fixed rule.</p>
@@ -2832,7 +2882,7 @@ module.exports = [
 <p>A parent wants to know about pastoral care, results context, fees and transport. An adult learner wants to know about timetables, funding options, entry requirements and career outcomes. An employer wants to know about delivery format, costs, funding routes and how the provider handles administration. One generic page rarely serves all three, so the strongest sites build pages for each.</p>
 
 <h2>Compliance and sensitivities in education marketing</h2>
-<p>Education marketing carries extra responsibilities. Advertising must be accurate and not misleading under the CAP Code, claims about outcomes or results should be supportable, and marketing to or about children needs particular care. Data collected through enquiry forms falls under UK GDPR, and marketing emails need appropriate consent under PECR. Funded courses may also have their own rules on how they are promoted. This is general information only; providers should check specific requirements with their own advisers and any relevant funding body, and final approval of marketing content rests with the provider.</p>
+<p>Education marketing carries extra responsibilities. Advertising must be accurate and not misleading under the CAP Code, claims about outcomes or results should be supportable, and marketing to or about children needs particular care, including how images and pupil stories are used and what consent is in place. Data collected through enquiry forms falls under UK GDPR, and marketing emails need appropriate consent under PECR. Funded courses may also have their own rules on how they are promoted. This is general information only; providers should check specific requirements with their own advisers and any relevant funding body, and final approval of marketing content rests with the provider.</p>
 
 <h2>What does an education marketing agency cost in the UK?</h2>
 <p>Costs depend on the number of courses or sites, the channels involved and how competitive your area is. Our <a href="/pricing/">pricing page</a> lists three monthly retainers. Ad spend is paid separately to the platforms.</p>
@@ -2840,12 +2890,23 @@ module.exports = [
 <thead><tr><th>Option</th><th>Price</th><th>Typically suits</th></tr></thead>
 <tbody>
 <tr><td>Launch retainer</td><td>£350 a month</td><td>A nursery, small school or single-subject provider</td></tr>
-<tr><td>Growth retainer</td><td>£750 a month</td><td>Schools or providers combining SEO with paid campaigns</td></tr>
-<tr><td>Scale retainer</td><td>£1,500 a month</td><td>Colleges or providers with many courses and intakes</td></tr>
+<tr><td>Growth retainer</td><td>£750 a month</td><td>Schools or providers that want SEO and tracking set up</td></tr>
+<tr><td>Scale retainer</td><td>£1,500 a month</td><td>Colleges or providers adding ads management across courses and intakes</td></tr>
 <tr><td>Small website</td><td>£1,000 to £2,000</td><td>Providers whose site needs rebuilding first</td></tr>
 </tbody>
 </table>
 <p>If your site needs work before marketing will pay off, our <a href="/services/website-ecommerce-development/">website development service</a> covers builds that typically take 3 to 5 weeks. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning a website without losing rankings</a> is worth reading before any rebuild.</p>
+
+<h2>Education marketing agency or consultant?</h2>
+<p>An education marketing consultant and an agency can both be a good fit. The practical difference is usually who carries out the work.</p>
+<table>
+<thead><tr><th>Option</th><th>Can suit</th><th>Ask about</th></tr></thead>
+<tbody>
+<tr><td>Consultant</td><td>Advice, audits and a plan your own team will deliver</td><td>Who will carry out the plan, and whether they stay involved</td></tr>
+<tr><td>Agency</td><td>Ongoing delivery across search, ads, content and the website</td><td>Who works on your account, and how they learn your sector</td></tr>
+<tr><td>In-house with outside support</td><td>Teams that want to keep day-to-day content and bring in specialist skills</td><td>How responsibilities and approvals are divided</td></tr>
+</tbody>
+</table>
 
 <h2>Checklist: hiring an education marketing agency</h2>
 <ul>
@@ -2872,11 +2933,15 @@ module.exports = [
 <p>Each page should also target the searches people actually use. A training provider might need separate pages for each qualification and level, while a school might need pages for each entry point, boarding options and transport. Writing them well takes effort, but these pages keep working year after year once they rank.</p>
 
 <h3>Responding to enquiries quickly</h3>
-<p>Marketing can only do so much if enquiries sit unanswered. Families and learners often contact several providers at once, and the first helpful reply frequently wins the visit. Agree who handles enquiries, how fast they respond during peak periods and how each enquiry is logged so that marketing can be judged on real outcomes. A simple shared spreadsheet or CRM field recording the source of each enquiry is often enough to start, and it makes the next recruitment cycle far easier to plan.</p>
+<p>Marketing can only do so much if enquiries sit unanswered. Families and learners often contact several providers at once, and a prompt, helpful reply can make a real difference to who they visit. Agree who handles enquiries, how fast they respond during peak periods and how each enquiry is logged so that marketing can be judged on real outcomes. A simple shared spreadsheet or CRM field recording the source of each enquiry is often enough to start, and it makes the next recruitment cycle far easier to plan.</p>
 
 <h2>FAQs</h2>
 <h3>What does an education marketing agency in the UK do?</h3>
 <p>It helps schools, colleges, nurseries and training providers win more enquiries, open day bookings and applications through SEO, paid search and social, content and clear admissions or course pages.</p>
+<h3>What does a digital marketing agency for schools do?</h3>
+<p>It typically improves the school website, local search visibility and admissions pages, runs campaigns around open days where appropriate, and tracks enquiries and visits. It should also respect safeguarding, consent and the school's approval process.</p>
+<h3>Should we hire an education marketing consultant or an agency?</h3>
+<p>A consultant can suit you if your team will carry out the plan. An agency can suit you if you need ongoing delivery. Ask each one exactly who does what.</p>
 <h3>When should schools start marketing for open days?</h3>
 <p>Ideally several months ahead for website and SEO updates, with paid campaigns starting around six to eight weeks before the event so there is time to build bookings.</p>
 <h3>Do training providers need SEO or Google Ads?</h3>
@@ -2884,10 +2949,10 @@ module.exports = [
 <h3>How much does education digital marketing cost?</h3>
 <p>Our retainers are £350, £750 or £1,500 a month, with ad spend paid separately. A small website, if needed, typically costs £1,000 to £2,000.</p>
 <h3>Are there advertising rules for schools and colleges?</h3>
-<p>Yes. Advertising should follow the CAP Code, data handling must meet UK GDPR, and marketing emails need consent under PECR. This is general guidance, and providers should confirm specific requirements with their own advisers.</p>
+<p>Generally, yes. Advertising should follow the CAP Code, data handling should meet UK GDPR, and marketing emails often need consent under PECR. This is general guidance only, so confirm specific requirements with your own advisers.</p>
 <h3>How do we measure whether education marketing is working?</h3>
 <p>Track enquiries, prospectus requests, open day bookings and applications by channel, then compare them with enrolments. Traffic alone does not show whether marketing is filling places.</p>
-<p>If you would like help planning your next recruitment cycle, <a href="/contact/">book a free discovery call</a> and we will talk through your audiences, key dates and goals.</p>
+<p>If you would like help planning your next recruitment cycle, <a href="/contact/">book a free discovery call</a> and we will talk through your audiences, key dates and goals, including whether we are the right fit.</p>
 `,
   },
   {
@@ -3354,15 +3419,31 @@ module.exports = [
   },
   {
     slug: 'woocommerce-agency-uk',
-    seoTitle: 'WooCommerce Agency UK: When Woo Fits and What It Costs',
-    title: 'WooCommerce Agency UK: When WooCommerce Fits and What to Expect',
-    description: 'Hiring a WooCommerce agency in the UK? See when Woo fits, what a development agency should deliver, typical build timelines and costs to compare.',
+    seoTitle: 'WooCommerce Agency UK: What They Do and How to Choose One',
+    title: 'WooCommerce Agency UK: What They Do and How to Choose One',
+    description: 'What a WooCommerce agency does, from builds and fixes to hosting and upkeep, how to compare UK agencies, what to ask and when WooCommerce is the right fit.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Ecommerce',
     related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
     body: `
 <p>A WooCommerce agency in the UK builds and improves online shops on WordPress using the WooCommerce plugin, covering design, products, payments, delivery, hosting and ongoing upkeep. WooCommerce fits best when you want full ownership and flexibility, already rely on WordPress, or sell alongside a lot of content.</p>
-<p>WooCommerce powers a large share of online shops because it is free to install and endlessly adaptable. That flexibility is also its main risk: a poorly built Woo store can become slow, insecure or hard to update. This guide explains when WooCommerce is the right choice, what a development agency should deliver, the costs to plan for and how to compare agencies sensibly.</p>
+<p>WooCommerce is free to install and highly adaptable. That flexibility is also its main risk: a poorly built store can become slow, insecure or hard to update. This guide explains what kinds of work an agency takes on, when WooCommerce is the right choice, what to expect, the costs to plan for and how to compare agencies sensibly.</p>
+
+<h2>What does a WooCommerce agency do?</h2>
+<p>You may not need a full build. Agencies are typically hired for one or more of these jobs, and it helps to be clear which one you need before you ask for quotes.</p>
+<table>
+<thead><tr><th>Type of work</th><th>What it involves</th><th>When it comes up</th></tr></thead>
+<tbody>
+<tr><td>New store build</td><td>Planning, design, products, payments, delivery and launch</td><td>A new shop, or adding a shop to a WordPress site</td></tr>
+<tr><td>Redesign</td><td>Improving layout, mobile use and checkout while protecting search visibility</td><td>The store looks dated or converts poorly</td></tr>
+<tr><td>Migration</td><td>Moving products, customers, orders and URLs to or from another platform</td><td>Changing platform or moving to WordPress</td></tr>
+<tr><td>Fixes and speed work</td><td>Finding conflicts, removing bloat and improving page speed</td><td>Slow pages, or errors after updates</td></tr>
+<tr><td>Custom development</td><td>Bespoke features and connections to other systems</td><td>Unusual pricing, products or stock processes</td></tr>
+<tr><td>Maintenance and support</td><td>Updates, backups, security monitoring and small changes</td><td>Nobody on your team owns the technical upkeep</td></tr>
+<tr><td>Growth marketing</td><td>SEO, Google Shopping, paid ads and email</td><td>The store works but needs more customers</td></tr>
+</tbody>
+</table>
 
 <h2>When does WooCommerce fit?</h2>
 <p>WooCommerce is not automatically better or worse than hosted platforms. It suits some businesses very well and others less so. Our full comparison of <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce in the UK</a> covers this in depth, but here is a quick guide.</p>
@@ -3385,9 +3466,9 @@ module.exports = [
 <li><strong>Hosting advice:</strong> a UK or EU host suited to WooCommerce, with caching, SSL and daily backups.</li>
 <li><strong>Theme and design:</strong> a lightweight theme customised to your brand, built mobile first.</li>
 <li><strong>Lean plugin choice:</strong> only well-supported plugins, each with a clear purpose and cost.</li>
-<li><strong>Payments and delivery:</strong> UK card payments, wallets, buy-now-pay-later options such as Klarna or Clearpay if they suit your margins, and delivery rules for Royal Mail, Evri or DPD.</li>
+<li><strong>Payments and delivery:</strong> UK card payments, digital wallets, buy-now-pay-later options if they suit your margins, and delivery rules that match your couriers.</li>
 <li><strong>Tax settings:</strong> VAT rates configured for you to confirm with your accountant.</li>
-<li><strong>SEO foundations:</strong> clean URLs, product schema, sitemaps and redirects from any old pages. A technical SEO audit after launch confirms nothing was missed.</li>
+<li><strong>SEO foundations:</strong> clean URLs, product schema, sitemaps and redirects from any old pages. A <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> after launch helps confirm nothing was missed, and our <a href="/blog/woocommerce-seo-uk/">WooCommerce SEO guide</a> covers what comes next.</li>
 <li><strong>Handover and maintenance:</strong> training on adding products and orders, plus a plan for updates and security.</li>
 </ul>
 
@@ -3396,26 +3477,26 @@ module.exports = [
 <table>
 <thead><tr><th>Cost</th><th>What it covers</th><th>Guide figure</th></tr></thead>
 <tbody>
-<tr><td>Ecommerce site build</td><td>Design, setup, products, payments, delivery, launch</td><td>£1,500 to £3,500 (our published price)</td></tr>
+<tr><td>Ecommerce site build</td><td>Design, setup, products, payments, delivery, launch</td><td>From £1,500 to £3,500 (our published starting price)</td></tr>
 <tr><td>Hosting</td><td>Server, SSL, backups, caching</td><td>Varies by host and traffic</td></tr>
 <tr><td>Premium plugins</td><td>Subscriptions, bookings, advanced filters and similar</td><td>Annual licences, varies by plugin</td></tr>
 <tr><td>Payment fees</td><td>Charged per transaction by your payment provider</td><td>Set by the provider</td></tr>
-<tr><td>Ongoing marketing</td><td>SEO, content, ads management</td><td>Retainers from £350, £750 or £1,500 a month</td></tr>
+<tr><td>Ongoing marketing</td><td>SEO, content, ads management</td><td>Our retainers start at £350, £750 or £1,500 a month</td></tr>
 </tbody>
 </table>
 <p>Ad spend is always paid separately from agency fees. See our <a href="/pricing/">pricing page</a> for what each retainer includes, and our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs in the UK</a> for the wider picture.</p>
 
 <h2>Typical WooCommerce project timeline</h2>
-<p>Most WooCommerce builds take 5 to 12 weeks. Where you sit in that range depends on catalogue size, design complexity and integrations.</p>
+<p>We typically quote 5 to 12 weeks for ecommerce builds, and other agencies will have their own estimates. Where a project sits in that range depends on catalogue size, design complexity and integrations. The stages below are a general outline and may overlap or vary.</p>
 <ol>
-<li><strong>Week 1:</strong> discovery, sitemap and hosting decision.</li>
-<li><strong>Weeks 1 to 3:</strong> design of homepage, category, product, basket and checkout pages.</li>
-<li><strong>Weeks 2 to 8:</strong> build, product import, payment and delivery setup, legal pages and tracking.</li>
+<li><strong>Start:</strong> discovery, sitemap and hosting decision.</li>
+<li><strong>Design:</strong> layouts of homepage, category, product, basket and checkout pages.</li>
+<li><strong>Build:</strong> setup, product import, payment and delivery setup, legal pages and tracking.</li>
 <li><strong>Alongside build:</strong> product copy, category copy, metadata and redirect mapping.</li>
-<li><strong>Final 1 to 2 weeks:</strong> test orders, speed checks, mobile and browser checks.</li>
+<li><strong>Before launch:</strong> test orders, speed checks, mobile and browser checks.</li>
 <li><strong>Launch:</strong> go live, submit sitemaps, monitor orders and errors closely.</li>
 </ol>
-<p>If you are rebuilding an existing site, follow our advice on <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> so your search traffic survives the move.</p>
+<p>If you are rebuilding an existing site, follow our advice on <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> so you reduce the risk to your search traffic.</p>
 
 <h2>Questions to ask a WooCommerce agency</h2>
 <ul>
@@ -3426,7 +3507,15 @@ module.exports = [
 <li>How are backups taken, stored and restored?</li>
 <li>Will I have full admin access and own every licence?</li>
 <li>How will you protect existing rankings if we are migrating?</li>
+<li>Can you take on an existing store, and will you audit it first?</li>
+<li>Who will actually work on our shop, and what happens if they are unavailable?</li>
+<li>How do you test updates, and what is the plan if checkout breaks?</li>
+<li>What is included after launch, and what is charged separately?</li>
 </ul>
+
+<h2>WooCommerce agency, freelancer or in-house developer?</h2>
+<p>A freelance developer can suit a small, well-defined job. An agency can be a better fit when you need design, development and marketing in one place, or cover for urgent problems. An in-house developer tends to make sense only when the shop needs constant development. Whichever you choose, keep every account and licence in your business name so you can change supplier later.</p>
+<p>It is also fair to ask whether WooCommerce is still right for you. A good agency should be willing to say if another platform would suit you better. If you are thinking of changing, read our guide to <a href="/blog/woocommerce-to-shopify-migration/">moving from WooCommerce to Shopify</a>.</p>
 <p>Our general guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">choosing a digital marketing agency in the UK</a> covers contracts and reporting questions too.</p>
 
 <h2>WooCommerce build checklist</h2>
@@ -3449,9 +3538,9 @@ module.exports = [
 <p>Beyond upkeep, growth comes from search and advertising. Our guides to <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO agencies</a> and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads</a> explain the main channels, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> shows how we approach online retail.</p>
 
 <h2>Common WooCommerce mistakes to avoid</h2>
-<p>Most WooCommerce problems are avoidable. They usually come from decisions made quickly at the start of a project, then lived with for years. Watch out for these.</p>
+<p>Many WooCommerce problems are avoidable. They can stem from decisions made quickly at the start of a project, then lived with for years. Watch out for these.</p>
 <ul>
-<li><strong>Cheap shared hosting.</strong> Budget hosting is fine for a small brochure site but often struggles with a busy shop, especially during sales or seasonal peaks such as Black Friday and Christmas.</li>
+<li><strong>Cheap shared hosting.</strong> Budget hosting is fine for a small brochure site but often struggles with a busy shop, especially during sales or seasonal peaks.</li>
 <li><strong>Plugin overload.</strong> Every plugin adds code, potential conflicts and another thing to update. If two plugins do similar jobs, keep one.</li>
 <li><strong>Heavy page builders.</strong> Some visual builders add a lot of code to every page, which slows the shop down on mobile.</li>
 <li><strong>No staging site.</strong> Without a test copy, updates and changes are made directly on the live shop, where mistakes cost sales.</li>
@@ -3461,21 +3550,25 @@ module.exports = [
 <h2>Integrations to plan early</h2>
 <p>Many UK shops need WooCommerce to talk to other systems. It is much easier to plan these at the start than to bolt them on later. Common integrations include accounting software for invoices and VAT records, stock and inventory tools if you also sell on marketplaces or in a physical shop, shipping platforms for printing labels and sending tracking updates, email marketing tools for abandoned basket and post-purchase emails, and review platforms to collect feedback after delivery. For each one, ask your agency how data flows, what happens if the connection fails and whether the integration adds a monthly cost. A short written integration plan saves a lot of confusion once orders start arriving.</p>
 
-<p>If you are weighing up WooCommerce for your shop, take a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">book a free discovery call</a> to talk through whether Woo is the right fit.</p>
+<p>If you are weighing up WooCommerce or need help with an existing shop, take a look at our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> or <a href="/contact/">book a free discovery call</a> to talk through whether Woo is the right fit.</p>
 
 <h2>FAQs</h2>
-<h3>What does a WooCommerce agency UK businesses hire actually do?</h3>
-<p>It plans, designs and builds a WordPress shop using WooCommerce, sets up payments, delivery and tax settings, protects SEO, and usually offers maintenance and marketing after launch.</p>
+<h3>What does a WooCommerce agency do?</h3>
+<p>It plans, designs and builds WordPress shops using WooCommerce, sets up payments, delivery and tax settings, and looks after SEO during launches. Many also offer fixes, maintenance and marketing for existing stores.</p>
+<h3>Can a WooCommerce agency take over an existing store?</h3>
+<p>Often, yes. Expect an audit of the theme, plugins, hosting and access first, because the agency needs to understand what is there before taking responsibility for it.</p>
+<h3>Should I hire a WooCommerce agency or a freelancer?</h3>
+<p>A freelancer can suit a small, clearly defined task. An agency can suit broader projects that need design, development and marketing together. Compare scope, support and who does the work.</p>
 <h3>Is WooCommerce cheaper than Shopify?</h3>
 <p>The plugin is free, but you pay for hosting, premium plugins and maintenance. Total cost depends on your setup, so compare running costs over a few years, not just the build.</p>
 <h3>How long does a WooCommerce build take?</h3>
-<p>Typically 5 to 12 weeks, depending on catalogue size, design and integrations with stock or accounting systems.</p>
+<p>Our ecommerce builds typically take 5 to 12 weeks, depending on catalogue size, design and integrations with stock or accounting systems.</p>
 <h3>Can I add WooCommerce to my existing WordPress site?</h3>
 <p>Usually, yes. An agency should first check your theme, plugins and hosting can support a shop safely before installing WooCommerce.</p>
 <h3>Who maintains a WooCommerce shop after launch?</h3>
 <p>You or your agency. Someone must apply updates, monitor security and check backups. Agree who is responsible before launch.</p>
 <h3>Is WooCommerce secure?</h3>
-<p>It can be very secure when hosted well, kept updated and built with a short list of reputable plugins. Most problems come from neglected updates.</p>
+<p>It can be very secure when hosted well, kept updated and built with a short list of reputable plugins. Neglected updates are a real risk, so agree who is responsible for them.</p>
 `,
   },
   {
@@ -4174,17 +4267,18 @@ module.exports = [
   },
   {
     slug: 'google-shopping-agency-uk',
-    seoTitle: 'Google Shopping Agency UK: What to Expect When Hiring',
-    title: 'Google Shopping Agency UK: Feed Management, Merchant Center and Campaign Structure',
-    description: 'A Google Shopping agency in the UK manages your product feed, Merchant Center and campaigns. See what good work includes, how to compare and what to ask.',
+    seoTitle: 'Google Shopping Agency UK: Feeds, Campaigns and Management',
+    title: 'Google Shopping Agency UK: Feed, Merchant Center and Campaign Management',
+    description: 'What a Google Shopping agency manages, from product feeds to Merchant Center and campaigns, how to compare management options and what to ask before hiring.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Paid Media',
     related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
     body: `
 <p>A Google Shopping agency in the UK manages the three things that decide Shopping results: your product feed, your Merchant Center account and the campaigns that bid on your products. When you hire one, the most useful question is how they improve the feed, because Google uses feed data rather than keywords to decide when your products appear.</p>
-<p>This article is for store owners deciding whether to hire help and how to judge the options. If you want the basics of how Shopping ads work first, read our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide for UK retailers</a>, then come back here for the hiring side.</p>
+<p>This article is for store owners deciding whether to hire help and how to judge the options. If you need the basics first, read our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide for UK retailers</a>, then come back here for the hiring side.</p>
 
-<h2>What a Google Shopping agency UK should actually do</h2>
+<h2>What does a Google Shopping agency do?</h2>
 <p>Shopping is a narrower discipline than general PPC. The work splits into feed management, Merchant Center management and campaign management, with tracking underneath all three.</p>
 <table>
 <thead><tr><th>Area</th><th>What good work looks like</th><th>Warning sign</th></tr></thead>
@@ -4198,7 +4292,7 @@ module.exports = [
 </table>
 
 <h2>Feed management: where the gains usually are</h2>
-<p>Your feed is the product data Google reads: title, description, price, availability, images, brand, GTIN, product type and more. Small feed improvements often outperform bid changes because they decide which searches you are eligible for.</p>
+<p>Your feed is the product data Google reads: title, description, price, availability, images, brand, GTIN, product type and more. Feed improvements can matter more than bid changes because they help decide which searches you can appear for.</p>
 <h3>Titles</h3>
 <p>Platform exports often use short, branded titles such as a product name with no context. Shoppers search with attributes: brand, product type, material, colour, size, gender. A good agency restructures titles so the most searched words appear first, within Google's guidelines, and tests the change rather than assuming.</p>
 <h3>Attributes and identifiers</h3>
@@ -4212,15 +4306,15 @@ module.exports = [
 <p>Merchant Center is where products get approved or rejected. It needs ongoing attention, not a single setup.</p>
 <ul>
 <li><strong>Diagnostics.</strong> Errors (price mismatch, missing images, unavailable landing pages) remove products from ads. Warnings quietly limit performance.</li>
-<li><strong>Policies.</strong> Misrepresentation suspensions are often triggered by missing contact details, unclear returns or checkout problems. Your site needs clear UK delivery and returns information.</li>
-<li><strong>Shipping and returns.</strong> Delivery costs and times set in Merchant Center should match your Royal Mail, Evri or DPD options on the site.</li>
+<li><strong>Policies.</strong> Misrepresentation suspensions are often triggered by missing contact details, unclear returns or checkout problems. Your site should have clear UK delivery and returns information.</li>
+<li><strong>Shipping and returns.</strong> Delivery costs and times set in Merchant Center should match the delivery options shown on your site.</li>
 <li><strong>Free listings.</strong> Products can also appear in free listings, which is extra reach from the same feed.</li>
 <li><strong>Promotions and reviews.</strong> Merchant promotions and product ratings can improve click-through where eligible.</li>
 </ul>
-<p>Site issues behind disapprovals often sit on the website rather than in the ads. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> team handles those fixes when they are in scope.</p>
+<p>The causes of disapprovals often sit on the website rather than in the ads. Our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service can cover those fixes when they are in scope, and our <a href="/blog/google-merchant-center-setup-uk/">Merchant Center setup guide</a> explains the account basics.</p>
 
 <h2>Campaign structure that reflects your margins</h2>
-<p>Google's default is to push stores into Performance Max, which can work well but hides detail. A thoughtful agency chooses structure based on catalogue size, margins and data volume. Our separate Performance Max guide goes deeper on that campaign type.</p>
+<p>Google's default is to push stores into Performance Max, which can work well but hides detail. A thoughtful agency chooses structure based on catalogue size, margins and data volume. Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> goes deeper on that campaign type.</p>
 <p>Common structures include:</p>
 <ul>
 <li><strong>Margin-based split.</strong> High, medium and low margin products in separate campaigns with different targets.</li>
@@ -4229,6 +4323,29 @@ module.exports = [
 <li><strong>Zombie products.</strong> Products with no impressions grouped and tested on their own to find whether any deserve budget.</li>
 </ul>
 <p>Negative keywords, search term reviews and device or location adjustments still matter where the campaign type allows them.</p>
+
+<h2>What Google Shopping management includes each month</h2>
+<p>Google Shopping management is ongoing work rather than a one-off setup. The exact routine varies with your catalogue and spend, but a managed account generally involves:</p>
+<ul>
+<li><strong>Feed upkeep:</strong> checking new products, price and stock accuracy, titles, attributes and custom labels.</li>
+<li><strong>Merchant Center checks:</strong> reviewing diagnostics and resolving disapprovals before they spread.</li>
+<li><strong>Search term and placement reviews:</strong> where the campaign type shows them, removing irrelevant traffic.</li>
+<li><strong>Budget and target changes:</strong> moving spend towards profitable lines and adjusting around sales and seasonal stock.</li>
+<li><strong>Tracking checks:</strong> comparing reported purchase values with your store's real orders.</li>
+<li><strong>Reporting:</strong> what changed, what it did and what is planned next, by product and category.</li>
+</ul>
+
+<h2>Agency, freelancer or in-house management?</h2>
+<table>
+<thead><tr><th>Option</th><th>Can suit</th><th>Check first</th></tr></thead>
+<tbody>
+<tr><td>Specialist Shopping agency</td><td>Larger catalogues where feed work is the main need</td><td>How it links with your wider marketing</td></tr>
+<tr><td>Full-service ecommerce agency</td><td>Stores wanting ads, SEO and site fixes joined up</td><td>Depth of feed knowledge, not only general PPC</td></tr>
+<tr><td>Freelancer</td><td>Smaller accounts with a clear scope</td><td>Cover for absences, and capacity at peak times</td></tr>
+<tr><td>In-house</td><td>Small catalogues, or teams with paid search skills</td><td>Time to keep feeds and diagnostics up to date</td></tr>
+</tbody>
+</table>
+<p>Our guides to <a href="/blog/ecommerce-ppc-agency-uk/">ecommerce PPC agencies</a> and <a href="/blog/google-ads-agency-uk/">Google Ads agencies</a> cover the wider paid search picture.</p>
 
 <h2>How to compare Google Shopping agencies</h2>
 <p>Ask every agency the same questions so the answers are comparable.</p>
@@ -4240,7 +4357,7 @@ module.exports = [
 <li>Do we keep ownership of Merchant Center, Google Ads and any feed tools?</li>
 <li>What is included in the monthly fee, and is ad spend billed directly to us?</li>
 </ol>
-<p>On costs, our article on <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a> explains typical fee models. Our own retainers start at £350, £750 and £1,500 a month, with ads management listed on the Scale tier; the <a href="/pricing/">pricing page</a> sets out what each includes, and ad spend is always separate.</p>
+<p>On costs, our article on <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a> explains typical fee models. Our own retainers start at £350, £750 and £1,500 a month, with ads management listed on the Scale retainer; the <a href="/pricing/">pricing page</a> sets out what each includes, and ad spend is always paid separately.</p>
 
 <h2>When you might not need a specialist</h2>
 <p>A store with a small catalogue, low spend and a clean feed can often run Shopping well in-house. Hiring help makes more sense when:</p>
@@ -4282,6 +4399,8 @@ module.exports = [
 <h2>FAQs</h2>
 <h3>What does a Google Shopping agency UK do?</h3>
 <p>It manages your product feed, keeps Merchant Center healthy and runs the Shopping or Performance Max campaigns that show your products. Good agencies also check tracking against your actual sales and report by product and margin.</p>
+<h3>What is Google Shopping management?</h3>
+<p>It is the ongoing work of keeping your product feed accurate, your Merchant Center account healthy and your campaigns focused on profitable products, with tracking and reporting to show what is working.</p>
 <h3>Is feed management really that important?</h3>
 <p>Yes. Shopping ads do not use keywords in the way search ads do. Google matches searches to your feed data, so titles, attributes and identifiers decide which searches you can appear for.</p>
 <h3>Why are my products disapproved in Merchant Center?</h3>
@@ -4289,7 +4408,7 @@ module.exports = [
 <h3>Should I use Performance Max or Standard Shopping?</h3>
 <p>It depends on your data volume and how much control you need. Performance Max suits accounts with enough conversions and good assets; Standard Shopping gives more visibility of search terms and bids. Many stores test both.</p>
 <h3>How long until Google Shopping improvements show?</h3>
-<p>Feed fixes can affect impressions within days or weeks, but stable results usually take three to six months as campaigns learn and structure is refined.</p>
+<p>Feed fixes can sometimes affect impressions fairly quickly, but paid results typically take three to six months to settle as campaigns learn and structure is refined. No agency can promise a set outcome.</p>
 <h3>Is ad spend included in an agency fee?</h3>
 <p>It should not be. Ad spend is paid to Google directly, usually on your own card, and the agency fee covers management. Always confirm this in writing.</p>
 `,
@@ -6476,14 +6595,15 @@ module.exports = [
   },
   {
     slug: 'charity-marketing-uk',
-    seoTitle: 'Charity Digital Marketing UK: A Practical Guide',
-    title: 'Digital Marketing for UK Charities: A Practical Guide',
-    description: 'Charity digital marketing in the UK: use Google Ad Grants well, build clear fundraising pages, grow search visibility and keep fundraising compliant.',
+    seoTitle: 'Digital Marketing for Charities UK: PPC, SEO and Ad Grants',
+    title: 'Digital Marketing for Charities in the UK: SEO, PPC and Ad Grants',
+    description: 'Digital marketing for charities: how to use Google Ad Grants and paid PPC, build donation pages, grow search visibility and choose the right agency support.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Guides',
     related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
     body: `
-<p>Charity digital marketing in the UK works best when you focus on a few things done well: a search-friendly website with clear donation, volunteer and service pages, Google Ad Grants used properly if you are eligible, email that respects consent, and tracking that shows which activity raises money or reaches beneficiaries. Small teams get further by doing three channels well than by spreading thin across ten.</p>
+<p>Digital marketing for charities works best when you focus on a few things done well: a search-friendly website with clear donation, volunteer and service pages, Google Ad Grants used properly if you are eligible, email that respects consent, and tracking that shows which activity raises money or reaches beneficiaries. Small teams can often get further by doing a few channels well than by spreading themselves thin.</p>
 <p>This guide is general and practical. It is not legal or regulatory advice; decisions on fundraising compliance rest with your trustees and any advisers you work with.</p>
 
 <h2>Start with goals, not channels</h2>
@@ -6510,23 +6630,44 @@ module.exports = [
 <li><strong>Use helpful content:</strong> grant ads often perform well when they point to genuine advice pages that answer a question.</li>
 <li><strong>Review monthly:</strong> check compliance and performance regularly, not once a year.</li>
 </ul>
-<p>Many charities also run a separate paid Google Ads account alongside the grant, for example to compete on high-value donation terms where the grant bid limits make it hard to appear. Paid budgets are separate from any management fee. Our guide to Google Ads agencies in the UK explains how paid accounts are typically managed.</p>
+<p>Many charities also run a separate paid Google Ads account alongside the grant, for example to compete on high-value donation terms where the grant bid limits make it hard to appear. Paid budgets are separate from any management fee.</p>
+
+<h2>Charity PPC services: what they include</h2>
+<p>Charity PPC services usually mean setting up and managing Google Ad Grants, paid search and sometimes paid social for a non-profit. The two main Google routes work quite differently.</p>
+<table>
+<thead><tr><th>Question</th><th>Google Ad Grants</th><th>Paid Google Ads</th></tr></thead>
+<tbody>
+<tr><td>Who pays for clicks</td><td>Google credit, for eligible organisations</td><td>Your charity</td></tr>
+<tr><td>Rules</td><td>Programme-specific conditions that can change</td><td>Standard Google Ads policies</td></tr>
+<tr><td>Often used for</td><td>Services, advice, volunteering and awareness</td><td>Appeals and competitive donation terms</td></tr>
+<tr><td>Main risk</td><td>Falling out of compliance</td><td>Spending donated money without clear returns</td></tr>
+</tbody>
+</table>
+<p>Whichever route you use, a managed account should generally include:</p>
+<ul>
+<li><strong>Eligibility and account checks:</strong> confirming what applies under current programme terms, and who owns the account.</li>
+<li><strong>Conversion tracking:</strong> donations, regular gifts, volunteer applications and service enquiries.</li>
+<li><strong>Campaigns by goal:</strong> so a helpline search is not treated like a donation search.</li>
+<li><strong>Landing page advice:</strong> because a donation or volunteer page can affect results as much as the ad.</li>
+<li><strong>Trustee-friendly reporting:</strong> what was spent, what it achieved and what will change next.</li>
+</ul>
+<p>Charity adverts generally need to be accurate and not misleading, and appeals may also be covered by the CAP Code and fundraising standards. Take care with sensitive imagery and claims about how donations are used, and check specifics with your advisers. Our guides to <a href="/blog/google-ads-agency-uk/">Google Ads agencies</a> and the <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> explain how paid accounts are typically managed and reviewed.</p>
 
 <h2>Fundraising pages that convert</h2>
-<p>Most charity traffic now arrives on a phone, often from social media or email. A donation page that is slow or confusing loses people who have already decided to give.</p>
+<p>Many supporters may reach you on a phone, often from social media or email. A donation page that is slow or confusing can lose people who have already decided to give.</p>
 <ul>
 <li>Lead with one clear ask and one image that tells the story.</li>
 <li>Explain what different amounts can help fund, but keep examples accurate and approved.</li>
 <li>Offer one-off and monthly options, with the monthly choice explained simply.</li>
-<li>Include a Gift Aid declaration where eligible, following HMRC wording requirements.</li>
-<li>Offer familiar payment methods such as card, Apple Pay, Google Pay and PayPal if your platform supports them.</li>
+<li>Include a Gift Aid declaration where eligible, checking current HMRC requirements for the wording.</li>
+<li>Offer familiar payment methods, such as cards and digital wallets, if your platform supports them.</li>
 <li>Keep the form short and say clearly how data will be used.</li>
 </ul>
-<p>Our guides to <a href="/blog/landing-page-design-uk/">landing page design</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a> cover the technical side. If your current site makes this hard, a rebuild may be worth it; small websites typically cost £1,000 to £2,000, as explained in our website design cost guide.</p>
+<p>Our guides to <a href="/blog/landing-page-design-uk/">landing page design</a> and <a href="/blog/website-speed-optimisation-uk/">website speed</a> cover the technical side. If your current site makes this hard, a rebuild may be worth it; our small websites start from £1,000 to £2,000, and our <a href="/blog/charity-website-design-uk/">charity website design guide</a> covers what to plan for.</p>
 
 <h2>SEO for charities</h2>
 <p>Search is often the main way people in need find a charity. Someone searching "debt advice Birmingham" or "carers support group near me" is looking for help right now. Clear service pages, a well-maintained Google Business Profile for each location, and plain-English advice content can serve them well and build trust with donors at the same time.</p>
-<p>Charities also tend to earn links naturally: local news, councils, partner organisations, <a href="/sectors/education/">universities</a> and funders. Make sure those links point to useful pages, and fix technical issues so the site can be crawled easily. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and SEO for small businesses article both apply closely to small charities.</p>
+<p>Charities can also earn links naturally from local news, councils, partner organisations, universities and funders. Make sure those links point to useful pages, and fix technical issues so the site can be crawled easily. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> and <a href="/blog/seo-for-small-business-uk/">SEO for small businesses</a> article both apply closely to small charities.</p>
 
 <h2>Email, consent and the Fundraising Regulator</h2>
 <p>Email is often the most cost-effective way to keep supporters engaged, but charities should be careful with consent. In general terms:</p>
@@ -6543,8 +6684,8 @@ module.exports = [
 <p>Longer-form content such as impact reports, guides and campaign pages can be repurposed into email and social posts. Our <a href="/blog/content-marketing-agency-uk/">content marketing guide</a> explains how to plan this efficiently.</p>
 
 <h2>Volunteer recruitment online</h2>
-<p>Volunteer searches are often local and specific: "volunteer at a food bank in Leeds" or "befriending volunteer near me". A dedicated page for each role, with location, time commitment, any checks required and a short application form, tends to perform far better than a single general volunteering page. These pages also suit Ad Grants campaigns, because the intent is clear and the conversion is easy to track.</p>
-<p>Tell applicants what happens next and how long it usually takes. Slow follow-up is one of the most common reasons volunteers drop out.</p>
+<p>Volunteer searches are often local and specific: "volunteer at a food bank in Leeds" or "befriending volunteer near me". A dedicated page for each role, with location, time commitment, any checks required and a short application form, can work better than a single general volunteering page. These pages also suit Ad Grants campaigns, because the intent is clear and the conversion is easy to track.</p>
+<p>Tell applicants what happens next and how long it usually takes. Slow follow-up can lose people who were ready to help.</p>
 
 <h2>Measuring what matters</h2>
 <p>Set up GA4 with events for donations, volunteer applications, sign-ups and key calls, and connect your donation platform where possible so you can see which channels raise money. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics. Report to trustees on outcomes, not vanity metrics.</p>
@@ -6565,10 +6706,24 @@ module.exports = [
 <li>Report outcomes to trustees quarterly.</li>
 </ul>
 
+<h2>Choosing digital marketing support for your charity</h2>
+<p>Whether you are hiring an agency or a freelancer, or supporting your own staff, these questions help you compare options:</p>
+<ul>
+<li>Have you checked what our current Ad Grants or paid account can and cannot do?</li>
+<li>Will we own every ad, analytics and website account?</li>
+<li>How will you report donations, volunteers and service enquiries, rather than only clicks?</li>
+<li>Who approves copy, stories and images, and how do you handle consent and safeguarding?</li>
+<li>Which tasks could our own staff or volunteers keep doing?</li>
+<li>What is included in the fee, and what is paid separately?</li>
+</ul>
+<p>A good partner should also tell you when a simpler option is enough. Some small charities may need only a clear website and a well-run grant account, at least to begin with.</p>
+
 <h2>Getting support</h2>
-<p>We do not run a dedicated charity sector page, but our <a href="/services/seo-geo/">SEO and GEO services</a> and <a href="/services/paid-media/">paid media services</a> cover the same core work: search visibility, ad accounts and tracking. Retainers start at £350 a month; see our <a href="/pricing/">pricing page</a> for what each plan includes.</p>
+<p>We do not run a dedicated charity sector page, but our <a href="/services/seo-geo/">SEO and GEO services</a> and <a href="/services/paid-media/">paid media services</a> cover the same core work: search visibility, ad accounts and tracking. Retainers start at £350 a month, and ads management is listed on our Scale retainer; see our <a href="/pricing/">pricing page</a> for what each plan includes. To talk through what your charity needs, <a href="/contact/">book a free discovery call</a>.</p>
 
 <h2>FAQs</h2>
+<h3>What are charity PPC services?</h3>
+<p>They usually cover setting up and managing Google Ad Grants, paid search and sometimes paid social for a charity, along with conversion tracking, landing page advice and reporting to staff and trustees.</p>
 <h3>What does charity digital marketing in the UK involve?</h3>
 <p>It covers your website, search visibility, Google Ad Grants or paid ads, email, social media and tracking, all aimed at raising funds, recruiting volunteers and helping people find your services, within UK data and fundraising rules.</p>
 <h3>Is Google Ad Grants really free?</h3>
@@ -7469,17 +7624,18 @@ module.exports = [
   },
   {
     slug: 'conversion-rate-optimisation-agency-uk',
-    seoTitle: 'Conversion Rate Optimisation Agency UK: A Buyer’s Guide',
+    seoTitle: 'Conversion Rate Optimisation Agency UK: How to Choose One',
     title: 'Conversion Rate Optimisation Agency UK: What a CRO Agency Does and How to Choose One',
-    description: 'A conversion rate optimisation agency finds why visitors do not buy or enquire, then fixes and tests pages. What UK CRO agencies do, costs and how to choose.',
+    description: 'What a conversion rate optimisation agency does, how a CRO agency should work, what to ask before hiring and when you may not need one yet.',
     date: '2026-10-30',
+    updated: '2026-11-07',
     category: 'Guides',
     related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
     body: `
-<p>A conversion rate optimisation agency helps you turn more of your existing website visitors into customers or enquiries. It does this by researching where and why people drop out, fixing the problems it finds and, where traffic allows, testing changes to prove what works.</p>
-<p>CRO is often the cheapest way to grow, because it improves the return on every channel at once. This guide explains what a CRO agency does for UK businesses, the process to expect, what it costs and how to choose one. If you run an online store, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout and product page specifics in more depth.</p>
+<p>A conversion rate optimisation agency, or CRO agency, helps you turn more of your existing website visitors into customers or enquiries. It researches where and why people drop out, fixes the problems it finds and, where traffic allows, tests changes to see what works.</p>
+<p>CRO can be good value because a better-converting site can improve the return from every channel that sends it traffic. This guide explains what a CRO agency does for UK businesses, how the work generally runs, what it costs, what to ask and how to choose one. If you run an online store, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout and product page specifics in more depth.</p>
 
-<h2>What a conversion rate optimisation agency UK businesses hire actually does</h2>
+<h2>What does a conversion rate optimisation agency do?</h2>
 <p>CRO is a process rather than a single task. Most agency work falls into four stages.</p>
 <ol>
 <li><strong>Measurement.</strong> Making sure analytics and conversion tracking are accurate, so changes can be judged fairly.</li>
@@ -7487,7 +7643,7 @@ module.exports = [
 <li><strong>Prioritisation.</strong> Ranking ideas by likely impact, confidence and effort.</li>
 <li><strong>Implementation and testing.</strong> Making changes, A/B testing where traffic allows, and measuring results.</li>
 </ol>
-<p>The best agencies spend more time on research than on testing. A test built on a guess is a slow way to learn. A test built on clear evidence is far more likely to win.</p>
+<p>The best agencies spend more time on research than on testing. A test built on a guess is a slow way to learn. A test built on clear evidence has a better chance of teaching you something useful.</p>
 
 <h2>The research toolkit</h2>
 <p>CRO research combines numbers, which show where problems are, with qualitative insight, which shows why.</p>
@@ -7539,11 +7695,33 @@ module.exports = [
 <p>CRO multiplies the value of every visitor. If paid ads bring traffic at a set cost per click, a higher conversion rate lowers the cost per sale or lead directly. That is why CRO works well alongside <a href="/services/paid-media/">paid media</a> management and <a href="/services/seo-geo/">SEO</a>.</p>
 <p>There can be tension between CRO and SEO. Removing text to make a page simpler may help conversions but hurt rankings. A joined-up agency weighs both, often by restructuring content rather than deleting it.</p>
 
+<h2>What you should receive from a CRO agency</h2>
+<p>It is reasonable to ask what you will actually have in your hands, because "optimisation" can mean very different things. Useful outputs usually include:</p>
+<ul>
+<li><strong>A tracking review:</strong> what is measured correctly, what is missing and what needs fixing first.</li>
+<li><strong>A prioritised list of issues:</strong> each with the evidence behind it, the likely effort and the page it affects.</li>
+<li><strong>A change log:</strong> what changed, when and why, so results can be read properly later.</li>
+<li><strong>Test plans and write-ups:</strong> the hypothesis, the audience, the measure of success and an honest conclusion, including tests that made no difference.</li>
+<li><strong>Plain-English reporting:</strong> what was learned and what happens next, tied to sales or qualified leads.</li>
+</ul>
+
+<h2>CRO agency, freelancer or in-house?</h2>
+<p>A conversion optimisation agency is not the only route. The right choice depends on your traffic, your team and who can make changes to the site.</p>
+<table>
+<thead><tr><th>Option</th><th>Can suit</th><th>Check first</th></tr></thead>
+<tbody>
+<tr><td>CRO agency</td><td>Businesses that want research, design and development support in one place</td><td>Who does the work, and whether changes are built or only recommended</td></tr>
+<tr><td>Freelance specialist</td><td>A focused audit or a defined piece of research</td><td>Who will build the changes and cover absences</td></tr>
+<tr><td>In-house role</td><td>Larger sites with enough traffic for a continuous programme</td><td>Access to developers and authority to ship changes</td></tr>
+<tr><td>Your existing web or ads agency</td><td>Smaller sites where the fixes are clear</td><td>Whether they research first and measure the result</td></tr>
+</tbody>
+</table>
+
 <h2>How much does a CRO agency cost?</h2>
 <p>CRO is priced in several ways: one-off audits, monthly retainers or project fees for specific redesigns. Testing tools and research software may be extra.</p>
-<p>At Prism Works Studio, ongoing work runs on our monthly retainers: Launch at £350 per month, Growth at £750 per month and Scale at £1,500 per month. Where research shows a page or site needs rebuilding, a small website typically costs £1,000-£2,000 and an e-commerce site £1,500-£3,500. Details are on our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website development service</a> covers rebuilds.</p>
+<p>At Prism Works Studio, we do not publish a separate CRO price, so conversion work is scoped to your site. For reference, our published monthly retainers start at £350 for Launch, £750 for Growth and £1,500 for Scale. Where research shows a page or site needs rebuilding, a small website starts from £1,000-£2,000 and an e-commerce site from £1,500-£3,500. Details are on our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website development service</a> covers rebuilds and landing pages.</p>
 
-<h2>How to choose a conversion rate optimisation agency</h2>
+<h2>How to choose a CRO agency: what to ask</h2>
 <ol>
 <li><strong>Ask about their research process.</strong> They should describe how they find problems before suggesting solutions.</li>
 <li><strong>Ask how they decide whether to A/B test.</strong> Good answers mention traffic, conversion volume and test length.</li>
@@ -7551,15 +7729,22 @@ module.exports = [
 <li><strong>Ask what they measure.</strong> Revenue per visitor, qualified leads or profit, not just conversion rate.</li>
 <li><strong>Ask who builds the changes.</strong> Some agencies only recommend; others implement. Know which you are buying.</li>
 <li><strong>Review an example report.</strong> It should explain what was changed, why, and what happened.</li>
+<li><strong>Ask what happens when a test loses.</strong> A good answer treats it as useful learning and shows how it shapes the next idea.</li>
+<li><strong>Ask what they need from you.</strong> Access, data, sign-off and time from your sales or support staff all affect the pace of the work.</li>
 </ol>
+<p>Treat guaranteed uplifts with caution. No agency controls your market, your pricing or your competitors, and a percentage promised before anyone has seen your data is not based on evidence.</p>
 <p>Our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> has more general questions to ask.</p>
 
 <h2>Is a CRO agency right for you?</h2>
-<p>CRO tends to pay off when you already have steady traffic but conversions feel low, when paid media costs are rising, or when you are planning a redesign and want evidence to guide it. If traffic is very low, building visibility first may be the better priority. If you would like a view on where your site loses visitors, <a href="/contact/">book a free discovery call</a> with Prism Works Studio.</p>
+<p>CRO tends to pay off when you already have steady traffic but conversions feel low, when paid media costs are rising, or when you are planning a redesign and want evidence to guide it. If traffic is very low, building visibility first may be the better priority. If you sell online, our guides to <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> and a <a href="/blog/ppc-audit-checklist/">PPC audit</a> are useful companions. If you would like to talk through where your site may be losing visitors, <a href="/contact/">book a free discovery call</a> with Prism Works Studio.</p>
 
 <h2>FAQs</h2>
-<h3>What does a conversion rate optimisation agency UK firms hire do?</h3>
+<h3>What does a conversion rate optimisation agency do?</h3>
 <p>It researches why website visitors do not buy or enquire, fixes the problems it finds and, where traffic allows, A/B tests changes, with the aim of increasing sales or leads from existing traffic.</p>
+<h3>Is a CRO agency the same as a conversion optimisation agency?</h3>
+<p>Generally, yes. The names are used interchangeably, so look at what each agency actually does: research, implementation, testing and reporting.</p>
+<h3>Should a CRO agency guarantee results?</h3>
+<p>Be wary if it does. An agency can commit to a clear process and honest reporting, but outcomes also depend on your traffic, offer, pricing and market.</p>
 <h3>What is a good conversion rate?</h3>
 <p>It varies widely by sector, offer, device and traffic source, so general benchmarks can mislead. Track your own rate over time and by channel, and focus on the weakest step in your funnel.</p>
 <h3>Do I need lots of traffic for CRO?</h3>
@@ -42010,6 +42195,580 @@ module.exports = [
 <p>Editable documents for text and original high-resolution files for images are a sensible default. Your builder may have a preferred template, so ask first.</p>
 <h3>What about my privacy policy and terms?</h3>
 <p>These still need attention before launch. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> explains what to consider, and a legal adviser can confirm what your business needs.</p>
+`,
+  },
+  {
+    slug: 'brand-strategy-vs-marketing-strategy',
+    seoTitle: 'Brand Strategy vs Marketing Strategy: The Difference',
+    title: 'Brand Strategy vs Marketing Strategy: What Is the Difference for a UK Business?',
+    description: 'Brand strategy vs marketing strategy: what each one decides, how they work together, and which your UK business should tackle first, in plain language.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/brand-strategy-agency-uk/', '/blog/content-strategy-uk/', '/services/brand-strategy/'],
+    body: `
+<p>Brand strategy defines what your business stands for, who it is for and why someone should choose it over the alternatives. Marketing strategy decides how you will reach those people, through which channels, with which offers and with what budget, to meet specific business goals. Put simply, brand strategy shapes what you want to be known for, and marketing strategy sets out how you will get known for it and turn that attention into customers.</p>
+<p>The two terms are often used as if they mean the same thing, and agencies do not always help. This guide is for UK business owners and marketing leads who want a clear view of the difference, so they can work out what they actually need. If you have already decided that you want outside help with the brand side, our guide to <a href="/blog/brand-strategy-agency-uk/">choosing a brand strategy agency</a> covers that next step.</p>
+
+<h2>What brand strategy covers</h2>
+<p>A brand is more than a logo. It is the set of impressions and expectations people hold about your business. Brand strategy is the deliberate thinking behind those impressions. It usually covers:</p>
+<ul>
+<li><strong>Purpose and values.</strong> Why the business exists beyond making money, and what it will and will not do. These are only useful if they influence real decisions.</li>
+<li><strong>Target audience.</strong> The people you most want to serve, including what they care about and what they are trying to get done.</li>
+<li><strong>Positioning.</strong> The distinct place you aim to hold in customers' minds compared with competitors.</li>
+<li><strong>Proposition.</strong> The clear promise you make and the reasons someone should believe it.</li>
+<li><strong>Personality and voice.</strong> How the business comes across in tone and manner.</li>
+<li><strong>Visual direction.</strong> The guidance that informs your <a href="/blog/brand-identity-design-uk/">brand identity design</a>, including logo, colour and typography.</li>
+</ul>
+<p>Brand strategy tends to change slowly. A positioning statement written carefully should guide you across many campaigns, not need replacing each quarter, although it should be revisited if your market or business changes significantly.</p>
+
+<h2>What marketing strategy covers</h2>
+<p>Marketing strategy is the plan for creating demand and winning customers. It is more closely tied to specific commercial goals and tends to be reviewed more often. It usually covers:</p>
+<ul>
+<li><strong>Goals.</strong> What marketing needs to achieve, such as more qualified enquiries, more sales of a certain range or entry into a new region.</li>
+<li><strong>Market and customer segments.</strong> Which groups to prioritise now, and why.</li>
+<li><strong>Offer and pricing approach.</strong> What you are promoting and how it is packaged.</li>
+<li><strong>Channels.</strong> The mix of search, paid media, email, social, PR, events or partnerships you will use.</li>
+<li><strong>Budget and resources.</strong> What you can afford, and who will do the work.</li>
+<li><strong>Measurement.</strong> The numbers you will watch to see whether the plan is working.</li>
+</ul>
+<p>A <a href="/blog/content-strategy-uk/">content strategy</a> is usually one part of this bigger plan. It decides what you publish and why, in support of the wider marketing goals.</p>
+
+<h2>Brand strategy vs marketing strategy at a glance</h2>
+<table>
+<thead><tr><th>Question</th><th>Brand strategy</th><th>Marketing strategy</th></tr></thead>
+<tbody>
+<tr><td>Main concern</td><td>Who you are and why you should be chosen</td><td>How you reach people and win business</td></tr>
+<tr><td>Typical outputs</td><td>Positioning, proposition, values, voice, visual direction</td><td>Goals, target segments, channel plan, budget, measurement</td></tr>
+<tr><td>How often it changes</td><td>Less often, usually with big shifts in the business or market</td><td>More often, as results, budgets and channels change</td></tr>
+<tr><td>Who usually leads</td><td>Owner or leadership team, often with brand specialists</td><td>Marketing lead, often with channel specialists</td></tr>
+<tr><td>How you judge it</td><td>Recognition, preference, consistency and willingness to pay</td><td>Leads, sales, cost of acquisition and return on spend</td></tr>
+</tbody>
+</table>
+<p>The table is a simplification. In a small business, one person may own both areas, and the same workshop might touch on each. What matters is that both sets of questions get answered, not who answers them or what the document is called.</p>
+
+<h2>How the two work together</h2>
+<p>Each strategy makes the other work better. A simple way to see this is to imagine a local accountancy firm that wants more business from owner-managed companies.</p>
+<p>Its brand strategy might decide that the firm stands for plain English and proactive advice, for owners who feel let down by accountants who only get in touch at year end. That shapes its proposition, tone and the way it presents itself.</p>
+<p>Its marketing strategy would then decide how to reach those owners. That could mean search visibility for relevant questions, a useful email series, referral relationships and perhaps some paid search. The marketing plan sets the channels and targets, while the brand strategy tells each channel what to say and how to say it.</p>
+<p>Now imagine one without the other:</p>
+<ul>
+<li><strong>Marketing without brand strategy.</strong> Campaigns may generate clicks, but messages can shift from one campaign to the next. If you look like everyone else, you may have to compete mainly on price.</li>
+<li><strong>Brand without marketing strategy.</strong> You may have a thoughtful positioning and handsome guidelines, but too few of the right people ever see them. The work sits in a folder instead of producing results.</li>
+</ul>
+
+<h2>Where brand ends and marketing begins</h2>
+<p>The boundary is genuinely blurry, and that is fine. A few items often cause confusion.</p>
+<h3>Target audience</h3>
+<p>Both strategies consider the audience. Brand strategy tends to define the people you exist to serve in broad terms. Marketing strategy gets more specific about which segments to focus on now, and how to reach them through particular channels.</p>
+<h3>Messaging</h3>
+<p>Brand strategy sets the core message and tone. Marketing turns that into specific headlines, adverts and emails, and may test different versions. Testing can show which wording works better without changing what the brand stands for.</p>
+<h3>Brand campaigns</h3>
+<p>Brand marketing, such as advertising designed to build recognition rather than prompt an immediate sale, is a marketing activity with a brand goal. You may need it alongside campaigns aimed at people ready to act. How to balance them depends on your market, budget and sales cycle, and there is no single correct split.</p>
+
+<h2>Which should your business tackle first?</h2>
+<p>In theory, brand strategy comes first, because it informs what marketing says. In practice, it depends on where you are and what is holding you back. These signs can help.</p>
+<p><strong>You may need to focus on brand strategy if:</strong></p>
+<ul>
+<li>Prospects struggle to explain what makes you different.</li>
+<li>Different people in the business describe it in different ways.</li>
+<li>You often lose work on price and find it hard to justify charging more.</li>
+<li>You have changed what you sell, merged with another business or moved into a new market.</li>
+<li>Your website and materials feel inconsistent or dated, a situation our <a href="/blog/rebranding-guide-uk/">rebranding guide</a> looks at in more detail.</li>
+</ul>
+<p><strong>You may need to focus on marketing strategy if:</strong></p>
+<ul>
+<li>You are clear on who you serve, but not enough of them know about you.</li>
+<li>You spend on marketing without being able to tell what is working.</li>
+<li>Activity is reactive, with channels chosen because someone suggested them.</li>
+<li>You depend heavily on one source of work, such as referrals, and want a broader base.</li>
+<li>Your budget has no clear link to business goals.</li>
+</ul>
+<p>Many small businesses have some of both. If so, a short piece of brand thinking followed by a focused marketing plan is often more sensible than a long exercise on either. A brand strategy does not have to be a large document to be useful, and a marketing strategy does not have to cover every channel.</p>
+
+<h2>A simple way to do both on a small budget</h2>
+<p>If you cannot justify a big project, you can make real progress with some honest thinking. For brand, try to answer these questions in writing:</p>
+<ol>
+<li>Who do we most want to work with, and what problem brings them to us?</li>
+<li>What alternatives do they consider, including doing nothing?</li>
+<li>What do we do differently, and can we prove it?</li>
+<li>How would we like people to describe us to a friend?</li>
+</ol>
+<p>Speak to a few recent customers while you do this. Their words are often clearer than anything you would write in a meeting, and they may value something you take for granted.</p>
+<p>For marketing, try these:</p>
+<ol>
+<li>What is the single most important commercial goal for the next period?</li>
+<li>Where do the people we want already look for help?</li>
+<li>Which one or two channels can we do properly with the budget and time we have?</li>
+<li>What will we measure, and when will we review it?</li>
+</ol>
+<p>Your answers will not replace specialist work where it is needed, but they will show you where the gaps are and make any later conversation with an agency more productive.</p>
+
+<h2>Things UK businesses should keep in mind</h2>
+<p>Some practical points sit alongside both strategies. If a new brand involves a new name or logo, check whether it is available and consider whether to register a trade mark. The UK Intellectual Property Office has guidance, and a legal adviser can help with anything uncertain. Your marketing must also follow the advertising rules that apply to you, so claims about your business should be accurate and capable of being supported. Email and other direct marketing has its own data protection and consent requirements. These are general points and not legal advice, so take professional advice if your situation is complex or your sector is regulated.</p>
+
+<h2>FAQs</h2>
+<h3>Is brand strategy part of marketing strategy?</h3>
+<p>Some people treat it that way, but it is usually more useful to see brand strategy as a wider business foundation. It can affect hiring, customer service and product decisions as well as marketing. Marketing strategy then builds on it.</p>
+<h3>Can I have a marketing strategy without a brand strategy?</h3>
+<p>Yes, and many businesses do, at least informally. The risk is inconsistent messaging and a greater reliance on price. Even a brief statement of who you serve and why they should choose you can help.</p>
+<h3>Does a small business need a brand strategy?</h3>
+<p>It needs the answers, though not necessarily a formal project. Being clear on your audience, your difference and your tone can be enough to begin with. You can build on this as the business grows.</p>
+<h3>Who should own each strategy?</h3>
+<p>In smaller businesses, the owner or leadership team usually needs to be closely involved in brand decisions, since they affect the whole company. Marketing strategy often sits with a marketing lead or an agency, working to goals agreed with leadership.</p>
+<h3>How often should each be reviewed?</h3>
+<p>There is no fixed rule. Marketing plans tend to be reviewed regularly, as results and budgets change. Brand strategy usually needs a fresh look when something significant shifts, such as your market, offer or ownership.</p>
+
+<h2>Next steps</h2>
+<p>Start by checking which questions you can already answer clearly and which you cannot. That will show you whether the gap is in who you are, how you reach people, or both. Prism Works Studio is a UK remote agency that works on <a href="/services/brand-strategy/">brand strategy</a> and the marketing that follows from it. If you would like a second view on where to begin, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'conversion-rate-optimisation-audit',
+    seoTitle: 'What a Conversion Rate Optimisation Audit Covers',
+    title: 'What a Conversion Rate Optimisation Audit Covers',
+    description: 'What a conversion rate optimisation audit covers: analytics checks, user journeys, page reviews, forms, trust, speed and a prioritised plan for testing.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/conversion-rate-optimisation-agency-uk/', '/blog/landing-page-design-uk/', '/blog/ecommerce-cro-uk/'],
+    body: `
+<p>A conversion rate optimisation audit is a structured review of how people move through your website and where they fail to take the action you want. It normally covers your tracking and analytics, your main user journeys, key page templates, forms or checkout, trust signals, speed and mobile experience, and finishes with a prioritised plan of what to fix or test first. The aim is to replace guesses about why visitors do not enquire or buy with evidence you can act on.</p>
+<p>This guide is for UK business owners and marketing managers who are thinking about commissioning an audit, or who have received one and want to judge whether it is any good. If you are also weighing up outside help for the ongoing work, our guide to <a href="/blog/conversion-rate-optimisation-agency-uk/">choosing a conversion rate optimisation agency</a> covers that decision. Here we focus on the audit itself: what goes into it, what comes out and what to question.</p>
+
+<h2>What an audit is for</h2>
+<p>An audit is a diagnostic step. It is meant to answer three questions: where are people dropping out, why might that be happening, and which changes deserve your time and budget first? It is not a redesign, and it should not be a list of things the reviewer personally dislikes.</p>
+<p>It also differs from other reviews you may have seen. A <a href="/blog/technical-seo-audit-checklist/">technical SEO audit</a> asks whether search engines can find and understand your pages. A <a href="/blog/ppc-audit-checklist/">PPC audit</a> asks whether your paid campaigns are set up and spending sensibly. A conversion audit starts where those stop, once a person has landed on the site, and asks what happens next. The three can overlap, and findings from one often help another.</p>
+
+<h2>Agreeing goals and scope</h2>
+<p>A good audit starts with a conversation rather than a crawl. The reviewer needs to understand what counts as a conversion for your business, because the answer changes what matters. For a retailer it may be a completed order. For a service business it may be a qualified enquiry, a booked call or a quote request.</p>
+<p>Expect to be asked about:</p>
+<ul>
+<li><strong>Primary and secondary goals.</strong> For example, a purchase as the main goal and a newsletter sign-up as a lesser one.</li>
+<li><strong>Lead quality or order value.</strong> More form submissions are not an improvement if the extra enquiries are unsuitable.</li>
+<li><strong>Audiences.</strong> Who you want to reach, and what they usually need to know before acting.</li>
+<li><strong>Traffic sources.</strong> Which channels bring people in, because a visitor from a paid advert may arrive with different expectations from someone reading a blog post.</li>
+<li><strong>Constraints.</strong> Platform limits, legal wording you must keep, brand rules and how much development time is available.</li>
+</ul>
+<p>Scope matters too. An audit might cover the whole site or a single journey, such as a paid landing page through to an enquiry. A narrower scope can be more useful when budget is limited, provided it covers the journey that matters most to the business.</p>
+
+<h2>Checking your data can be trusted</h2>
+<p>This is the part that is easiest to skip and the most damaging to skip. If your tracking is wrong, every later conclusion is shaky. An auditor will typically check:</p>
+<ul>
+<li>Whether conversion events fire once, at the right moment, and on every relevant page or device.</li>
+<li>Whether figures broadly agree with another source, such as orders in your ecommerce platform or enquiries in your inbox or CRM.</li>
+<li>Whether internal visits, test orders and obvious spam are distorting reports.</li>
+<li>Whether cookie consent settings are affecting what is recorded, and how that should change the way you read the numbers.</li>
+<li>Whether traffic sources are labelled consistently, so that campaigns can be compared fairly.</li>
+</ul>
+<p>If tracking problems are found, fixing them may need to come first. It can feel frustrating to spend audit time on measurement, but a test you cannot measure tells you very little. Consent and data protection rules also affect what you can track, so take advice if you are unsure what your set-up should do.</p>
+
+<h2>Quantitative review: where people drop out</h2>
+<p>Once the data looks reliable, the audit uses it to find the leaks. This usually means looking at funnels, such as landing page to product page to basket to checkout, or service page to contact page to form completion. The reviewer compares steps and looks for places where people leave in larger numbers than the surrounding steps would suggest.</p>
+<p>Numbers are most useful when they are split. Averages can hide a lot, so an audit will often break results down by:</p>
+<ul>
+<li>Device type, such as mobile and desktop.</li>
+<li>Traffic source, such as organic search, paid search, email and social.</li>
+<li>New and returning visitors.</li>
+<li>Page template or product category.</li>
+<li>Browser, which can reveal a bug that affects only some visitors.</li>
+</ul>
+<p>Be careful with small numbers. If a page has had only a handful of visits, a change in its conversion rate may mean nothing. A careful auditor will say when a sample is too small to support a conclusion rather than presenting it as a finding.</p>
+
+<h2>Qualitative review: why people drop out</h2>
+<p>Analytics shows where something is going wrong, but rarely why. That is where qualitative evidence comes in. Depending on budget and scope, an audit may include:</p>
+<ul>
+<li><strong>Session recordings and heatmaps.</strong> These can show hesitation, rage clicks and content that goes unseen, subject to appropriate privacy settings.</li>
+<li><strong>On-site surveys.</strong> A short question, such as what nearly stopped you today, can surface objections you had not thought of.</li>
+<li><strong>Customer service insight.</strong> Your team and your inbox often know which questions keep coming up.</li>
+<li><strong>Customer interviews or user testing.</strong> Watching someone attempt a task can be very revealing, even with a small group.</li>
+<li><strong>Review analysis.</strong> Your customers' own words show what they value and what worried them.</li>
+</ul>
+<p>Not every audit includes all of these. Ask which sources were used, because a report based only on one person's walkthrough of the site is a different thing from one that draws on customer evidence.</p>
+
+<h2>Page and journey review</h2>
+<p>The reviewer then works through your key pages as a visitor would, usually on a phone as well as a desktop. They will consider questions such as these.</p>
+<h3>Landing pages and service pages</h3>
+<p>Is it clear within a moment what you offer and who it is for? Does the page match the advert or search result that brought the person there? Is there one clear next step? Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> goes further into the structure of these pages.</p>
+<h3>Product and category pages</h3>
+<p>For ecommerce, the audit will look at how easy products are to find and compare, how well images and descriptions answer questions, whether delivery and returns information is visible before checkout, and how stock and variants are shown. Our guide to <a href="/blog/ecommerce-cro-uk/">ecommerce CRO</a> has more on these areas.</p>
+<h3>Forms and checkout</h3>
+<p>Forms deserve close attention because they sit right at the point of decision. An auditor will check how many fields you ask for and whether each is needed, how errors are handled, whether a guest checkout is available where relevant, and whether payment and delivery options are clear before someone commits. They should also try the form on a real phone, because problems often appear only there.</p>
+<h3>Trust and reassurance</h3>
+<p>People need reasons to believe you. The review will look at whether genuine reviews, case studies, accreditation, company details, contact information and clear policies are visible at the moments people need them. Any trust signal must be real and accurate, because misleading claims can create legal risk as well as losing customers.</p>
+<h3>Speed, accessibility and bugs</h3>
+<p>Slow pages, broken buttons and layouts that shift while loading can stop people completing a task. So can poor colour contrast, unlabelled form fields and elements that cannot be used by keyboard. A conversion audit is not a full accessibility audit, but it should flag obvious barriers, and those fixes often help everyone.</p>
+
+<h2>What you should receive at the end</h2>
+<p>The deliverable matters as much as the review. A long document that nobody acts on has little value. A useful output normally includes:</p>
+<table>
+<thead><tr><th>Item</th><th>What it should tell you</th></tr></thead>
+<tbody>
+<tr><td>Data health summary</td><td>What can be trusted, what cannot, and what to fix</td></tr>
+<tr><td>Findings with evidence</td><td>Each issue, where it occurs and what supports it</td></tr>
+<tr><td>Prioritised action list</td><td>What to do first, based on likely impact, confidence and effort</td></tr>
+<tr><td>Quick fixes</td><td>Clear errors that can simply be corrected without testing</td></tr>
+<tr><td>Test hypotheses</td><td>Changes worth testing, what you expect to happen and why</td></tr>
+</tbody>
+</table>
+<p>A hypothesis should link an observation to a change and an expected result. For example: visitors on mobile are leaving at the delivery step and survey responses mention unexpected costs, so showing delivery costs earlier may reduce drop-off. That is much more useful than a note saying the checkout could be better.</p>
+
+<h2>How to judge an audit</h2>
+<p>Whether you are buying an audit or reading one, a few checks help separate solid work from filler:</p>
+<ul>
+<li><strong>Is the evidence shown?</strong> Each significant recommendation should say what supports it.</li>
+<li><strong>Is it specific to you?</strong> If the advice could apply to any website, it has probably not looked closely enough at yours.</li>
+<li><strong>Is uncertainty admitted?</strong> Nobody can promise that a change will lift results by a set amount before it has been tried. Be wary of anyone who does.</li>
+<li><strong>Is it prioritised?</strong> A flat list of many items leaves all the hard decisions to you.</li>
+<li><strong>Can your team act on it?</strong> Recommendations should take account of your platform, budget and available development time.</li>
+</ul>
+
+<h2>What to do after the audit</h2>
+<p>Start by correcting anything that is plainly broken, as these changes do not need testing. Next, work through the higher-priority items, testing where you have enough traffic for a test to mean something. Where you do not, you can still make sensible changes based on the evidence and watch results over a longer period, accepting that you will have less certainty about cause and effect.</p>
+<p>Keep a simple log of what changed and when. It helps you interpret later results and stops the same ideas being revisited. Treat the audit as a starting point: visitors, offers and competitors all change, so it can be worth repeating parts of the review over time, or after a redesign or a major change to your traffic.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between a CRO audit and a website audit?</h3>
+<p>The term website audit can mean many things, often technical health or SEO. A conversion audit focuses specifically on how visitors behave and what stops them taking a chosen action, though it may flag technical issues that affect this.</p>
+<h3>Do I need a lot of traffic for an audit to be useful?</h3>
+<p>Not necessarily. Lower traffic limits how much you can conclude from analytics and A/B tests, but qualitative research, journey reviews and fixing clear problems can still be valuable. The audit should be adapted to the data you have.</p>
+<h3>Can I do a conversion audit myself?</h3>
+<p>You can do a useful first pass by checking your tracking, trying your own forms on a phone and reading customer questions. An outside reviewer brings a fresh view, because it is hard to see your own site as a newcomer would.</p>
+<h3>How much access will an auditor need?</h3>
+<p>Usually read-only access to analytics and any testing or recording tools, plus an idea of your sales or enquiry data. Share access in line with your own security and data protection policies, and remove it once it is no longer needed.</p>
+<h3>Will an audit guarantee more sales?</h3>
+<p>No. An audit identifies likely problems and opportunities, but results depend on what you implement, your offer and your market. Treat any guarantee of a specific uplift with caution.</p>
+
+<h2>Next steps</h2>
+<p>If you want an audit to pay off, decide what a conversion means for your business, check your tracking and gather the customer questions you already have. That preparation makes any review, internal or external, far more useful. Prism Works Studio is a UK remote agency that can review your journeys and turn the findings into a practical plan, alongside <a href="/services/website-ecommerce-development/">website and ecommerce development</a> if changes need building. <a href="/contact/">Get in touch</a> to talk through what you need.</p>
+`,
+  },
+  {
+    slug: 'google-ad-grants-uk-charities',
+    seoTitle: 'Google Ad Grants and Paid Search for UK Charities',
+    title: 'Google Ad Grants and Paid Search for UK Charities: A Practical Guide',
+    description: 'How Google Ad Grants and paid search can work for UK charities: eligibility to check, account rules, campaign planning and when paid Google Ads may also help.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/charity-marketing-uk/', '/blog/google-ads-agency-uk/', '/blog/charity-website-design-uk/'],
+    body: `
+<p>Google Ad Grants is a Google programme that gives eligible charities in-kind search advertising on Google, so they can show text adverts without paying for the clicks within the programme's allowance. UK charities can use it to reach people looking for support, volunteering opportunities, information or ways to donate. Eligibility and rules are set by Google and can change, so you should always check the current Google terms for charities in the UK before you make plans around the programme.</p>
+<p>This guide is for trustees, chief executives and fundraising or communications staff at UK charities. It explains what to check, how grant accounts tend to work and when ordinary paid search might also be worthwhile. For the wider picture of how search fits with other activity, see our guide to <a href="/blog/charity-marketing-uk/">charity marketing in the UK</a>.</p>
+
+<h2>What Google Ad Grants is</h2>
+<p>Ad Grants is offered through Google for Nonprofits. An accepted organisation receives a monthly allowance of in-kind advertising to use on Google search. It is a separate arrangement from a normal paid Google Ads account, and comes with its own rules. Google publishes the current allowance and conditions, so check them directly, since any figure you read in an older article may be out of date.</p>
+<p>Your adverts appear in Google search results in much the same way as other text adverts. They do not guarantee a particular position, and paying advertisers may be shown ahead of you, so the grant is best viewed as a useful extra channel rather than a guaranteed source of traffic or donations.</p>
+
+<h2>Is your charity likely to be eligible?</h2>
+<p>Google decides eligibility, and the wording of its terms is what counts. As a general guide, organisations usually need to:</p>
+<ul>
+<li>Hold valid charity status in the country where they apply, such as registration with the relevant UK regulator, or another status accepted by Google for that country.</li>
+<li>Complete sign-up and verification through Google for Nonprofits.</li>
+<li>Accept the programme's terms, including those on non-discrimination, donation use and appropriate advertising.</li>
+<li>Have a suitable website with substantive content about their work, meeting Google's policy requirements.</li>
+</ul>
+<p>Some kinds of organisations have historically been excluded, such as government bodies and certain hospitals and healthcare organisations, or schools and academic institutions, which may have separate routes. Charities with unusual structures, such as those exempt from registration, or those with links to public bodies, should check carefully rather than assuming either way. Rules differ by country and change over time, so the current Google for Nonprofits eligibility page is the place to confirm your own position. This is general guidance and not a statement of whether your organisation qualifies.</p>
+
+<h2>Getting ready to apply</h2>
+<p>Before you start, it helps to gather the basics, as this can make the process smoother:</p>
+<ul>
+<li>Your registered charity details, exactly as they appear on the relevant register.</li>
+<li>An organisational email address and details of who will manage the account.</li>
+<li>A website that clearly explains your work, with accurate contact and charity information.</li>
+<li>A named person to own the account, so that access does not disappear if a volunteer or staff member moves on.</li>
+</ul>
+<p>Your website matters more than you might think. If it is slow, out of date or hard to use on a phone, advertising may simply send people to a poor experience. Our guide to <a href="/blog/charity-website-design-uk/">charity website design</a> covers what a good site should do, and it can be worth fixing the worst problems first.</p>
+
+<h2>How grant accounts work in practice</h2>
+<p>Grant accounts are not a matter of setting up and walking away. Google has placed programme requirements on these accounts, and these have included expectations about account structure, keyword quality, click-through rate and conversion tracking. Falling short of the requirements can put an account at risk of suspension. Because the details can change, check the current compliance guidance and treat the following as areas to look at, not as a definitive list.</p>
+<h3>Meaningful keywords</h3>
+<p>The programme has discouraged very broad or vague single-word keywords and those with low quality. Keywords should relate closely to what your charity does and what people are actually looking for.</p>
+<h3>Mission-focused adverts</h3>
+<p>Adverts should reflect your charitable work and lead to relevant pages. Commercial activity, such as promoting products or some kinds of fee-based service, may be restricted. If you have a trading arm or a charity shop site, check how the terms apply before including it.</p>
+<h3>Conversion tracking</h3>
+<p>You need to know whether the traffic does anything useful. A conversion might be a donation, a volunteer enquiry, a helpline page view, a guide download or an event booking. Decide what counts as a meaningful action for your charity, then measure it accurately and in line with your cookie consent and privacy obligations.</p>
+<h3>Regular attention</h3>
+<p>Someone should check the account on a regular basis, review search terms, remove keywords that perform poorly and update adverts as campaigns and appeals change. Accounts left alone can drift out of compliance without anyone noticing.</p>
+
+<h2>Planning campaigns around your charity's goals</h2>
+<p>A grant is most useful when it is built around clear goals. Think about the different reasons people might search for something connected to your work, then plan separate campaigns for each.</p>
+<table>
+<thead><tr><th>Goal</th><th>Example search intent</th><th>Where to send people</th></tr></thead>
+<tbody>
+<tr><td>Reach people who need support</td><td>Looking for help or advice on a specific issue</td><td>A clear page on your service or advice, with how to get help</td></tr>
+<tr><td>Raise awareness</td><td>Questions about a cause or condition</td><td>Helpful information written in plain language</td></tr>
+<tr><td>Find volunteers</td><td>Volunteering opportunities in a location or cause area</td><td>Roles, expectations and a simple way to apply</td></tr>
+<tr><td>Encourage giving</td><td>Ways to donate to a cause, or to leave a gift in a will</td><td>A relevant, simple donation or legacy page</td></tr>
+<tr><td>Promote events</td><td>Local fundraising events and challenges</td><td>Event details and booking</td></tr>
+</tbody>
+</table>
+<p>Be sensitive about wording. People searching for help may be in a difficult situation, so adverts and pages should be clear and calm, and should make it easy to find support quickly. If you run services for vulnerable people, consider whether emergency contact details should be prominent, and have the content checked by someone who knows the service well. Accurate, up-to-date information matters particularly for health, legal or financial topics.</p>
+<p>Fundraising messages should also be honest about how money is used. The fundraising regulators and the advertising rules can both apply, so check the relevant codes. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> offers general advice on making sure pages match what the advert promises.</p>
+
+<h2>Where Ad Grants can fall short</h2>
+<p>The grant is valuable, but it has limits you should plan around:</p>
+<ul>
+<li><strong>Search only.</strong> The programme is built around text adverts on Google search, so it does not cover every format that a paid account can use.</li>
+<li><strong>Limited demand.</strong> You can only reach people who are actually searching for relevant things. A small local charity may struggle to spend its full allowance, and that is not necessarily a problem.</li>
+<li><strong>Lower visibility on competitive terms.</strong> Paid advertisers can often outbid grant accounts, which may make it hard to appear on the most contested donation-related searches.</li>
+<li><strong>Time needed.</strong> The clicks may be free within the allowance, but management is not. It takes staff time, volunteer time or agency fees.</li>
+</ul>
+
+<h2>When paid Google Ads may also make sense</h2>
+<p>Some charities run a standard paid account alongside their grant. This can offer access to more formats and more flexibility, and may help you appear for searches that a grant account struggles to reach. Examples might include a major appeal, an emergency response, a regional event or searches for your own charity's name where others are bidding on it.</p>
+<p>Paid spend should be held to a clear standard, because it uses money that donors expect to be used carefully. Before you commit any budget:</p>
+<ul>
+<li>Decide what you want to achieve and how you will measure it.</li>
+<li>Work out what an acceptable cost would be, taking into account the value of a donor or a supported beneficiary as well as a single gift.</li>
+<li>Ask whether trustees should be involved in the decision, and record the reasoning.</li>
+<li>Check how the two accounts will work together, including the separation Google requires between grant and paid accounts.</li>
+</ul>
+<p>Our guides to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small organisations</a> and <a href="/blog/google-ads-cost-uk/">Google Ads costs</a> can help you to think through a paid budget, while our <a href="/blog/google-ads-agency-uk/">Google Ads agency guide</a> covers what to look for in outside help.</p>
+
+<h2>Who should manage the account?</h2>
+<p>Options include trained staff, a skilled volunteer or an agency. Each can work. Whichever you choose, make sure that the charity retains ownership of the account, that more than one person has access, and that the work is documented. If you use an outside supplier, ask how they keep up with programme rules and what their fees cover, since the management cost is real even when the clicks are funded by the grant.</p>
+<p>Data protection also applies. If you are collecting enquiries or donations through your pages, your privacy notice and consent arrangements should reflect this. Take appropriate advice if you are handling sensitive information, such as details relating to health.</p>
+
+<h2>FAQs</h2>
+<h3>Is Google Ad Grants really free?</h3>
+<p>The advertising is provided in kind within the programme's allowance, so you do not pay for clicks under the grant. You may still incur costs for staff time, website work or outside management. Check Google's current terms for full details.</p>
+<h3>Can any UK charity get Google Ad Grants?</h3>
+<p>Not automatically. Google sets the eligibility criteria and may exclude certain organisation types. Check the current Google for Nonprofits requirements for the UK and apply through its official process.</p>
+<h3>What happens if our account breaks the rules?</h3>
+<p>Google may suspend an account that does not meet its programme requirements, and you may need to fix the issues and request reinstatement. Regular checks against the current guidance help reduce this risk.</p>
+<h3>Can we use Ad Grants to promote our charity shop?</h3>
+<p>Possibly not in all cases, as commercial activity can be limited under the programme. Read the current policies carefully and consider how they apply to your specific activity before you create any campaigns.</p>
+<h3>Should we spend all of the allowance?</h3>
+<p>Only if it brings useful results. Spending the allowance is not a goal in itself. A smaller amount of relevant traffic that leads to real support or donations is more useful than a larger amount of poorly matched clicks.</p>
+
+<h2>Next steps</h2>
+<p>Start by reading Google's current eligibility and programme terms, then check that your website is ready and decide what you want the advertising to achieve. If you would like help planning or managing search activity, Prism Works Studio is a UK remote agency offering <a href="/services/paid-media/">paid media support</a>, and can help you work out whether a grant, a paid account or both makes sense. <a href="/contact/">Contact us</a> to talk it through.</p>
+`,
+  },
+  {
+    slug: 'google-shopping-feed-campaign-management',
+    seoTitle: 'Google Shopping Feed and Campaign Management Explained',
+    title: 'Managing Google Shopping Feeds and Campaigns: What Good Management Involves',
+    description: 'What good Google Shopping management involves: product feed quality, Merchant Center health, campaign structure, search terms, reporting and regular checks.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/google-shopping-agency-uk/', '/blog/google-merchant-center-setup-uk/', '/blog/google-shopping-ads-guide-uk/'],
+    body: `
+<p>Good Google Shopping management means looking after two connected things: the product feed that tells Google what you sell, and the campaigns that decide how much you bid and where your budget goes. In practice, it involves keeping product data accurate and complete, resolving Merchant Center issues quickly, structuring campaigns around commercial priorities, reviewing search terms and reporting on profit rather than clicks alone. It is an ongoing routine, not a set-up task you complete once.</p>
+<p>This guide is for UK ecommerce owners and marketing managers who run Shopping ads themselves, or pay someone else to, and want to know what good looks like. If you are comparing outside suppliers, our guide to <a href="/blog/google-shopping-agency-uk/">choosing a Google Shopping agency</a> covers that decision. If you are new to the format, begin with our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> and our walkthrough of <a href="/blog/google-merchant-center-setup-uk/">Google Merchant Center set-up</a>.</p>
+
+<h2>Why the feed comes first</h2>
+<p>With a standard search campaign, you choose keywords and write adverts. Shopping works differently. Google uses the information in your product data to decide which searches your products may appear for and what the listing shows. A weak feed can limit your campaigns however carefully they are built, which is why strong management often begins here.</p>
+<p>A product feed is a structured list of your products and their attributes. It may come from your ecommerce platform, a file or another connection to Merchant Center. Whichever method you use, somebody must take responsibility for its quality.</p>
+
+<h2>What good feed management involves</h2>
+<h3>Accurate core data</h3>
+<p>The basics must match what customers see on your site. Prices, availability, currency, delivery details and links should all agree with the landing page. Mismatches can lead to disapprovals as well as disappointed shoppers, so a feed should update often enough to reflect changes in your stock and pricing.</p>
+<h3>Useful product titles</h3>
+<p>Titles have a strong influence on how your products are matched and whether people click. A good title describes the product in the words shoppers use, and may include details such as brand, product type, material, size or colour where relevant. Internal product names and marketing phrases tend to be less helpful. The right order varies by category, so it is worth reviewing your important products individually.</p>
+<h3>Clear descriptions</h3>
+<p>Descriptions should explain the product accurately and include useful details such as features, materials and intended use. Avoid promotional text that Google's specifications do not allow, such as delivery offers or calls to action. Check current guidance if you are unsure.</p>
+<h3>Good images</h3>
+<p>Your main image is often the first thing a shopper notices. It should show the product clearly and meet Google's image requirements, which restrict things like added promotional text and watermarks. Additional images can help where they show the product from other angles or in use.</p>
+<h3>Identifiers and categories</h3>
+<p>Product identifiers such as GTINs, brand and manufacturer part numbers help Google understand exactly what you sell, and may be required for certain products. Do not invent identifiers. If your products genuinely do not have them, as with some handmade or own-label goods, check how Google asks you to handle this. Google product category and your own product type field can also support relevance and reporting.</p>
+<h3>Variants and detailed attributes</h3>
+<p>Products sold in several colours or sizes should be set up so that each variant is correctly represented and linked to the right page. In categories such as clothing, attributes like gender, age group, size and colour can be especially important.</p>
+<h3>Custom labels</h3>
+<p>Custom labels let you tag products with information Google does not otherwise have, such as margin band, best sellers, seasonal items or clearance stock. They do not appear to shoppers, but they can make campaigns far easier to organise. Good managers plan them around how the business actually makes money.</p>
+<h3>Rules and supplemental data</h3>
+<p>You will not always be able to change your source data quickly. Merchant Center's data options, such as rules and supplemental feeds, can let you improve titles or add attributes without altering your site. These should be documented, so that nobody is puzzled later by why feed data differs from the shop.</p>
+
+<h2>Keeping Merchant Center healthy</h2>
+<p>Merchant Center is where product issues surface, and regular checks should be part of the routine. Good management includes:</p>
+<ul>
+<li>Monitoring product disapprovals and warnings, and tackling the most commercially important first.</li>
+<li>Investigating account-level issues promptly, since these can affect all your products.</li>
+<li>Making sure site requirements are met, including clear contact details, returns information, delivery terms and secure checkout.</li>
+<li>Checking that delivery and tax settings are correct for each country you sell to. UK prices shown to consumers should generally include VAT, but ask your accountant if your position is unusual.</li>
+<li>Reviewing whether products are excluded by mistake, for example because of a broken rule or a stock feed error.</li>
+</ul>
+<p>Google's policies and interface change over time, so anyone managing the account should check current documentation rather than relying on memory. Restricted categories such as healthcare products or alcohol can have extra requirements that must be checked before you advertise.</p>
+
+<h2>What good campaign management involves</h2>
+<h3>A clear campaign type decision</h3>
+<p>You may run Standard Shopping campaigns, Performance Max campaigns or both. Standard Shopping offers more direct control and clear reporting on search terms. Performance Max can show ads across a range of Google surfaces and relies more heavily on automation and your conversion data. The right choice depends on your data, your goals and how much control you need. A good manager should be able to explain why they chose a particular approach and how they will judge it.</p>
+<h3>A structure built on commercial logic</h3>
+<p>Copying your shop's menu into campaigns is easy, but it is not always useful. Products in the same category can have very different margins, prices and sales histories. Better structures often group products by things that should change how you bid, such as:</p>
+<ul>
+<li>Margin or profit contribution.</li>
+<li>Best sellers and products that need more visibility.</li>
+<li>Seasonal or clearance products.</li>
+<li>Brand and non-brand demand, where it makes sense to separate these.</li>
+</ul>
+<p>The structure should also be simple enough for each group to gather meaningful data. Splitting a small account into too many segments can leave each one short of information.</p>
+<h3>Bidding based on real goals</h3>
+<p>Automated bidding works best when it has reliable conversion data and a target that reflects your business. A target that looks at revenue alone can favour low-margin products, so it helps to know what return you actually need after product costs, delivery, returns and fees. A good manager will ask you for those figures, or at least for an estimate, rather than choosing a target arbitrarily.</p>
+<h3>Search term and negative keyword work</h3>
+<p>You cannot pick Shopping keywords directly, but you can see search terms where they are available and exclude irrelevant ones with negative keywords. Regular reviews help to reduce wasted spend and can reveal title improvements or gaps in your range. Search terms can also indicate whether a product is matching the right intent.</p>
+<h3>Budget and stock awareness</h3>
+<p>Budget should be moved towards what the business wants to sell. If a product is out of stock, about to be discontinued or has poor margin, it may not deserve the same support. Good managers talk to whoever controls stock and promotions, so that campaigns reflect upcoming sales and supply problems.</p>
+<h3>Accurate conversion tracking</h3>
+<p>Every decision depends on the conversion data. Purchases should be recorded once, with the correct value, and figures should broadly agree with your ecommerce platform. Consent settings can also affect what is measured, so take advice if you are unsure what applies to your site. For a related checklist, see our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a>.</p>
+
+<h2>A sensible management routine</h2>
+<p>The exact rhythm depends on the size of your account, but the following gives a sense of how the work might be organised.</p>
+<table>
+<thead><tr><th>Rhythm</th><th>Typical tasks</th></tr></thead>
+<tbody>
+<tr><td>Frequent checks</td><td>Spend and sales anomalies, account warnings, feed fetch errors, major disapprovals</td></tr>
+<tr><td>Regular reviews</td><td>Search terms, product performance, budget pacing, stock and promotion changes</td></tr>
+<tr><td>Periodic work</td><td>Title and image improvements, custom label updates, structure and target reviews</td></tr>
+<tr><td>Seasonal planning</td><td>Preparing feeds and budgets for peak periods, promotions and new ranges</td></tr>
+</tbody>
+</table>
+
+<h2>How to judge your Shopping management</h2>
+<p>Whether you manage the account in-house or use an agency, these questions can show how well it is being looked after:</p>
+<ul>
+<li>Do you know which products are making money, and which are spending without returning enough?</li>
+<li>When did someone last improve your product titles or images?</li>
+<li>Can you see why the campaigns are organised as they are?</li>
+<li>Are you told about disapprovals before they become a serious problem?</li>
+<li>Do reports speak about profit, or at least about return in relation to your margins, rather than only clicks and impressions?</li>
+<li>Do you own the Google Ads and Merchant Center accounts, or at least hold full access?</li>
+</ul>
+<p>Be careful about any promise of a guaranteed return. Shopping performance depends on your prices, range, competition, delivery terms and website as well as on the management of your ads. Our guide to <a href="/blog/ecommerce-ppc-agency-uk/">ecommerce PPC agencies</a> looks at the wider picture.</p>
+
+<h2>FAQs</h2>
+<h3>How often should a Google Shopping feed update?</h3>
+<p>Often enough that prices and availability stay accurate. How frequently that is depends on how often your stock and prices change. A fast-changing range will need more frequent updates than a small, stable catalogue.</p>
+<h3>Is Performance Max better than Standard Shopping?</h3>
+<p>There is no single answer. It depends on your conversion data, your goals, your budget and how much visibility and control you want. Some retailers use one, some use both, and any change should be measured carefully.</p>
+<h3>Why are my products disapproved?</h3>
+<p>Possible reasons include data that does not match the landing page, missing attributes, image problems and policy issues. Merchant Center normally explains the specific problem, and its help documentation sets out how to fix it.</p>
+<h3>Can I improve results by editing product titles?</h3>
+<p>It can help, because titles influence matching and clicks, but results vary. Change important products first, keep a record of what you changed and review the effect over a sensible period.</p>
+<h3>Do I need an agency to manage Shopping?</h3>
+<p>Not always. A smaller retailer with time and a modest range can manage it in-house. Outside help tends to be more useful as your range grows, or where the feed and campaigns need more attention than your team can give them.</p>
+
+<h2>Next steps</h2>
+<p>Pick your commercially most important products, then check their titles, images, availability and Merchant Center status. Compare what you find with how those products are grouped and bid on in your campaigns. Prism Works Studio is a UK remote agency that supports retailers through <a href="/services/paid-media/">paid media management</a>, including feeds and Shopping campaigns. If you would like a second view on your account, <a href="/contact/">get in touch</a>.</p>
+`,
+  },
+  {
+    slug: 'how-to-choose-marketing-agency-school-college',
+    seoTitle: 'How to Choose a Marketing Agency for a School or College',
+    title: 'How to Choose a Marketing Agency for a School or College',
+    description: 'How to choose a marketing agency for a school or college: what to ask, safeguarding and data checks, procurement points and warning signs to look out for.',
+    date: '2026-11-07',
+    category: 'Guides',
+    related: ['/blog/education-marketing-agency-uk/', '/blog/school-marketing-uk/', '/sectors/education/'],
+    body: `
+<p>To choose a marketing agency for a school or college, first set out what you need to achieve and who needs to be persuaded, then look for an agency that understands how families and students make education decisions, handles pupil images and personal data with care, reports honestly and fits your procurement rules. Sector knowledge helps, but a clear brief and good questions will do more than any polished pitch to help you tell which agency is right.</p>
+<p>This guide is for headteachers, principals, bursars, business managers and marketing leads at UK schools, colleges and trusts. It gives you a practical route from brief to appointment. For a broader look at what specialists offer, see our guide to <a href="/blog/education-marketing-agency-uk/">education marketing agencies in the UK</a>, and for general principles that apply to any sector, our guide on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a>.</p>
+
+<h2>Why education is different</h2>
+<p>Choosing a school or college is a big, emotional and often slow decision. It may involve parents, carers, young people and sometimes employers, each wanting different things. The rhythm of the year matters too, with open events, application deadlines and admission rounds shaping when activity is useful.</p>
+<p>Your institution type changes the job as well:</p>
+<ul>
+<li><strong>Independent schools</strong> may need to reach families across a wider area and explain value and fees sensitively.</li>
+<li><strong>State schools and academies</strong> may be focused on local reputation, enrolment numbers and staff recruitment, and their admissions must follow the rules that apply to them.</li>
+<li><strong>Further education colleges</strong> may speak to school leavers, adult learners and employers at once, with several courses and funding routes to explain.</li>
+<li><strong>Trusts</strong> may have to balance a shared identity with the character of each school.</li>
+</ul>
+<p>An agency need not have worked with your exact type of institution, but it should ask about these differences early. One that treats you like an online shop is unlikely to be the right fit.</p>
+
+<h2>Define what you need before you search</h2>
+<p>You will get better proposals, and find them easier to compare, if you write a short brief first. It does not need to be elaborate. Try to cover:</p>
+<ul>
+<li><strong>The goal.</strong> For example, filling places in a certain year group, growing applications for particular courses or recruiting staff.</li>
+<li><strong>The audience.</strong> Who decides, who influences the decision and what they need to know.</li>
+<li><strong>The current picture.</strong> Your website, social channels, prospectus, events and any past campaigns, with what you know about how each performed.</li>
+<li><strong>Key dates.</strong> Open events, application deadlines and any governance meetings where decisions are needed.</li>
+<li><strong>Budget and how it is funded.</strong> Even a range will help agencies suggest something realistic.</li>
+<li><strong>Who will work with the agency.</strong> Who supplies information, who signs off and how much time they really have.</li>
+</ul>
+<p>Be honest about your capacity. If one busy staff member looks after marketing on top of other duties, an agency that relies on frequent approvals and large quantities of supplied content may struggle. Our guide to <a href="/blog/school-marketing-uk/">school marketing</a> can help you think through which activities suit your situation before you approach anyone.</p>
+
+<h2>What to look for in an agency</h2>
+<h3>Understanding of the decision journey</h3>
+<p>Ask how the agency would map the route from first awareness to application or enrolment. A good answer should mention research with current families or students, the role of open events and word of mouth, and what happens after someone enquires. Advertising alone rarely solves an admissions challenge if the follow-up is weak.</p>
+<h3>Skills that match your brief</h3>
+<p>Some agencies are strongest in brand and creative work, others in search and paid media, and others in websites. Match this to your need. If you want an updated site, look at their approach to <a href="/blog/school-website-design-uk/">school website design</a>, including accessibility and how easily your staff can make updates. If you need families to find you for local searches, explore their search experience. If you need a whole programme, ask how the different parts would be coordinated.</p>
+<h3>Honest reporting</h3>
+<p>Ask to see an example report, with confidential details removed. Look for measures linked to your goals, such as enquiries, open event bookings or applications, and not only impressions or followers. Many influences affect enrolment, so a careful agency will be open about what can and cannot be attributed to its work.</p>
+<h3>Tone and values</h3>
+<p>Education marketing relies on trust. Read the agency's sample work and ask yourself whether it would feel right to your families and staff. Marketing should reflect the institution as it really is. Exaggeration can cause problems later, when a family's experience does not match the promise.</p>
+
+<h2>Safeguarding, images and data</h2>
+<p>This is where education differs most from other sectors, and it is reasonable to raise it early. You remain responsible for your safeguarding and data protection duties, so any agency must be able to work within your policies.</p>
+<p>Questions worth asking include:</p>
+<ul>
+<li>How do you handle photography and video of pupils, including consent and any children who must not be identified?</li>
+<li>If your team visits our site, what arrangements do you make, and will you follow our safeguarding and visitor procedures?</li>
+<li>How do you store images and personal data, who has access and how long do you keep them?</li>
+<li>Will you act as a data processor for us, and will you sign an appropriate agreement?</li>
+<li>How do you make sure that names and identifying details are not placed alongside pupil images unless this has been agreed?</li>
+<li>How would you target adverts without using inappropriate data about children?</li>
+</ul>
+<p>Rules on data protection and on marketing to young people can be complex, and they depend on your circumstances. Guidance from the Information Commissioner's Office, the Department for Education and the advertising regulators is a useful starting point, and your data protection officer or legal adviser should review anything significant. Treat an agency that seems unconcerned by these questions as a warning sign.</p>
+
+<h2>Claims and accuracy</h2>
+<p>Schools and colleges often want to promote exam results, inspection outcomes and destinations. These can be strong messages, but they must be accurate, up to date and fairly presented. Ask how the agency checks claims and who signs them off. Agree a simple rule: nothing goes out unless a named person at the institution has confirmed it.</p>
+<p>The same applies to fees, funding, bursaries and admissions criteria. Anything misleading could harm your reputation and may create regulatory problems. Where admissions or funding rules apply, check the current requirements for your institution type rather than relying on an agency's general knowledge.</p>
+
+<h2>Procurement and governance</h2>
+<p>Publicly funded institutions in particular may have to follow procurement rules, financial regulations or trust policies. Find out what applies to you before you speak to suppliers. It may affect how many quotes you need, who has to approve the spend and how the work should be advertised. Your business manager, trust finance lead or an adviser can confirm this.</p>
+<p>Whatever your funding, it helps to agree:</p>
+<ul>
+<li>Who has authority to choose the agency and approve its work.</li>
+<li>How you will compare proposals, ideally against criteria that you set in advance.</li>
+<li>What you will tell governors or trustees, and when.</li>
+<li>How you will show that the spending offered value for money.</li>
+</ul>
+<p>A simple scoring table can be helpful here:</p>
+<table>
+<thead><tr><th>Criterion</th><th>What to look for</th></tr></thead>
+<tbody>
+<tr><td>Fit with brief</td><td>Proposal answers your stated goal and audience</td></tr>
+<tr><td>Relevant experience</td><td>Education work, or clear evidence of transferable skills</td></tr>
+<tr><td>Safeguarding and data</td><td>Clear, confident answers and willingness to follow your policies</td></tr>
+<tr><td>Team and workload</td><td>Named people, sensible demands on your staff</td></tr>
+<tr><td>Reporting</td><td>Measures linked to your goals, plainly explained</td></tr>
+<tr><td>Cost and terms</td><td>Costs are clear, including extras and notice periods</td></tr>
+</tbody>
+</table>
+
+<h2>Questions to ask at the pitch</h2>
+<ol>
+<li>Who will actually work on our account, and will we meet them?</li>
+<li>What do you need from us each month, and how much staff time will that take?</li>
+<li>Can you show relevant work and tell us what you learned from it, including what did not go to plan?</li>
+<li>How would you plan around our admissions calendar and school holidays?</li>
+<li>What would you advise us not to spend money on, and why?</li>
+<li>Who will own the website, advertising accounts, images, domain names and content if we end the contract?</li>
+<li>What are the notice terms, and what would a handover look like?</li>
+</ol>
+<p>Pay attention to the questions the agency asks you, too. Curiosity about your community, your competitors and the reasons families choose you is a good sign.</p>
+
+<h2>Warning signs</h2>
+<ul>
+<li><strong>Guaranteed outcomes.</strong> No agency can promise a specific number of pupils or top search positions.</li>
+<li><strong>Generic proposals.</strong> If the document could be for any organisation, it has probably not been thought through for yours.</li>
+<li><strong>Vague reporting.</strong> Lots of activity with no clear link to your goals is hard to judge.</li>
+<li><strong>Accounts held by the agency.</strong> You should normally own, or at least retain full access to, your advertising and analytics accounts.</li>
+<li><strong>Reluctance to discuss safeguarding.</strong> It should be a straightforward conversation.</li>
+<li><strong>Testimonials you cannot verify.</strong> Ask to speak with a past or current client if you can.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Does the agency need to have education experience?</h3>
+<p>It helps, particularly for understanding admissions cycles and safeguarding. However, strong skills and a real willingness to learn your context can matter as much. Ask how they would close any gaps in their sector knowledge.</p>
+<h3>Should a school hire an agency or do marketing in-house?</h3>
+<p>Many institutions use a mix. Staff know the community and can capture daily stories, while an agency can add specialist skills in areas such as search, paid media or web development. The right balance depends on your budget and capacity.</p>
+<h3>Can a multi-academy trust use one agency for all its schools?</h3>
+<p>It can, subject to its procurement rules. Ask how the agency would balance shared resources with the identity of each school, and how it would report across the group.</p>
+<h3>What should a contract include?</h3>
+<p>It would normally set out the scope, fees, notice period, ownership of work and accounts, data protection responsibilities and safeguarding expectations. Have it reviewed by whoever advises your institution on contracts.</p>
+<h3>When should we appoint an agency?</h3>
+<p>Work backwards from your key admissions dates, and allow time for your procurement process and for the agency to get to know you. It is usually better not to leave the appointment until just before your main recruitment period.</p>
+
+<h2>Next steps</h2>
+<p>Write your short brief, confirm your procurement rules and draw up your questions before you speak to anyone. That preparation will make it far easier to compare agencies on fair terms. Prism Works Studio is a UK remote agency with an <a href="/sectors/education/">education marketing service</a>, and we are happy to talk through your brief, whether or not you end up working with us. <a href="/contact/">Contact us</a> when you are ready.</p>
 `,
   },
 ];
