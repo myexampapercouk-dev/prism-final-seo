@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Build a Looker Studio Dashboard for Your Business</title>
+<meta name="description" content="A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Build a Looker Studio Dashboard for Your Business">
+<meta property="og:description" content="A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-looker-studio-dashboard-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/#article","headline":"How to Build a Looker Studio Dashboard for a UK Small Business","description":"A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/","url":"https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-looker-studio-dashboard-guide.png","inLanguage":"en-GB","wordCount":1480,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Build a Looker Studio Dashboard for a UK Small Business","item":"https://prismworksstudio.co.uk/blog/looker-studio-dashboard-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I build a Looker Studio dashboard?","acceptedAnswer":{"@type":"Answer","text":"Create a blank report, connect a data source such as GA4, then add a date control, headline scorecards, a trend chart and tables for channels and pages. Add Search Console and Google Ads as further sources and share the report as view only."}},{"@type":"Question","name":"Is Looker Studio free?","acceptedAnswer":{"@type":"Answer","text":"The standard version is free to use, and Google's own connectors for GA4, Search Console, Google Ads and Sheets are generally free. Some third-party connectors charge a fee, and Google offers a paid Pro version with extra features. Check current terms on Google's pages."}},{"@type":"Question","name":"Can I connect Facebook or Meta ads to Looker Studio?","acceptedAnswer":{"@type":"Answer","text":"Not with a built-in Google connector, but partner connectors exist, often for a fee. An alternative is exporting data to Google Sheets and connecting that."}},{"@type":"Question","name":"Why do Looker Studio figures differ from GA4?","acceptedAnswer":{"@type":"Answer","text":"Differences can come from date ranges, time zones, sampling, thresholds or how metrics are defined. Check settings match, and expect small gaps between different tools."}},{"@type":"Question","name":"How many charts should a dashboard have?","acceptedAnswer":{"@type":"Answer","text":"As few as needed to answer your key questions. For many small businesses, one page of headline figures and one or two supporting pages is enough."}},{"@type":"Question","name":"Who should have access to the dashboard?","acceptedAnswer":{"@type":"Answer","text":"Anyone who makes decisions from the numbers. Give most people view-only access and limit editing to one or two people who maintain the report."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Build a Looker Studio Dashboard for a UK Small Business</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Build a Looker Studio Dashboard for a UK Small Business</h1><p class="pws-lead">A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Decide the handful of questions the dashboard must answer before connecting any data.</li><li>Connect GA4, Search Console and Google Ads through Google connectors, then build one page per audience or channel.</li><li>Keep it small: a few clear charts, sensible date comparisons and notes beat dozens of tables nobody reads.</li></ul></div>
+<p>To build a Looker Studio dashboard, connect your data sources such as GA4, Search Console and Google Ads, choose a few charts that answer the questions you care about, and share the report with anyone who needs it. Looker Studio is Google's free reporting tool, and for most small businesses it is the simplest way to see website and marketing performance in one place.</p>
+<p>The hard part is not the tool. It is deciding what to show. This guide explains how to plan a dashboard, how to build one step by step, which charts are most useful for a small business and how to keep it accurate over time. Google updates Looker Studio and its connectors regularly, so check the current Looker Studio help pages for exact menu names and features.</p>
+
+<h2>What Looker Studio is and why it helps</h2>
+<p>Looker Studio, previously called Google Data Studio, is a browser-based tool for building reports from different data sources. Instead of logging into GA4, Search Console and Google Ads separately, you see the figures that matter side by side. Reports update from the connected sources, so you are not copying numbers into spreadsheets each month.</p>
+<p>It is particularly useful when several people need the same view: an owner, a manager and an agency, for example. Everyone looks at the same numbers with the same definitions, which avoids arguments about whose figures are right. If you are still getting to grips with the basics of measurement, start with our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a>.</p>
+
+<h2>Plan before you build</h2>
+<p>Most dashboards fail because they try to show everything. Before opening Looker Studio, write down the questions the dashboard should answer. For a typical small business these might be:</p>
+<ul>
+<li>How many enquiries, calls or sales did the website produce this month?</li>
+<li>Which channels brought those visitors: search, ads, social, email or direct?</li>
+<li>Which pages and search queries bring the most organic traffic?</li>
+<li>What did paid campaigns cost and what did they return?</li>
+<li>How does this period compare with the previous one or the same time last year?</li>
+</ul>
+<p>Each question should map to one or two charts. If a chart does not answer one of your questions, leave it out.</p>
+
+<h2>Common data sources for a small business dashboard</h2>
+<table>
+<thead><tr><th>Source</th><th>What it shows</th><th>Typical charts</th></tr></thead>
+<tbody>
+<tr><td>GA4</td><td>Sessions, users, traffic sources, key events, ecommerce purchases</td><td>Scorecards, channel table, trend line</td></tr>
+<tr><td>Search Console</td><td>Search queries, impressions, clicks, average position</td><td>Query table, landing page table</td></tr>
+<tr><td>Google Ads</td><td>Spend, clicks, conversions, cost per conversion</td><td>Campaign table, spend versus conversions</td></tr>
+<tr><td>Google Sheets</td><td>Offline data such as phone leads, targets or sales</td><td>Targets versus actual</td></tr>
+<tr><td>Third-party connectors</td><td>Meta, TikTok, email platforms, ecommerce platforms</td><td>Channel summaries</td></tr>
+</tbody>
+</table>
+<p>Google's own connectors for GA4, Search Console, Google Ads and Sheets are generally free to use. Many other platforms need partner connectors, some of which are paid, so check the terms before relying on one.</p>
+
+<h2>How to build a Looker Studio dashboard step by step</h2>
+<p>The process below gives a simple one-page report. Menu names may differ slightly.</p>
+<ol>
+<li>Sign in to Looker Studio with the Google account that has access to your GA4 property, Search Console and Google Ads.</li>
+<li>Create a blank report and add your first data source, usually GA4.</li>
+<li>Add a date range control at the top so viewers can change the period.</li>
+<li>Add scorecards for your headline figures, such as users, key events and conversion rate, with a comparison to the previous period.</li>
+<li>Add a time series chart showing sessions or key events over time.</li>
+<li>Add a table of sessions and key events by session default channel group.</li>
+<li>Add a second data source for Search Console and build a table of top queries and landing pages.</li>
+<li>If you run ads, add Google Ads and build a campaign table with cost, conversions and cost per conversion.</li>
+<li>Add short text boxes explaining what each section shows and any known issues.</li>
+<li>Share the report with view-only access for most people.</li>
+</ol>
+<p>Your GA4 set-up must be right for any of this to mean much. Our <a href="/blog/ga4-setup-uk/">GA4 set-up guide</a> covers properties, data streams and key events, and our <a href="/blog/google-search-console-setup-uk/">Search Console set-up guide</a> explains how to verify your site.</p>
+
+<h3>A sensible page layout</h3>
+<table>
+<thead><tr><th>Section</th><th>Contents</th></tr></thead>
+<tbody>
+<tr><td>Top row</td><td>Date control and four to six headline scorecards</td></tr>
+<tr><td>Middle</td><td>Trend chart and channel table</td></tr>
+<tr><td>Lower</td><td>Top landing pages and search queries</td></tr>
+<tr><td>Separate page</td><td>Paid campaigns, if you advertise</td></tr>
+<tr><td>Notes</td><td>Changes made this month, tracking issues, context</td></tr>
+</tbody>
+</table>
+
+<h2>Make the numbers trustworthy</h2>
+<p>A dashboard is only as good as the tracking behind it. Before sharing one widely, check a few things:</p>
+<ul>
+<li>Key events in GA4 match real business outcomes, such as form submissions, calls or purchases.</li>
+<li>Google Ads conversions are set up properly and not double-counted. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> explains the options.</li>
+<li>Campaign links from email and social carry consistent UTM tags, otherwise traffic lands in the wrong channel. See our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a>.</li>
+<li>Your own visits and test submissions are filtered where possible.</li>
+<li>Figures in the dashboard roughly match the figures in each source tool for the same period.</li>
+</ul>
+<p>Small differences between tools are normal, because GA4, Search Console and Google Ads count things differently. Add a note explaining this so nobody is surprised.</p>
+
+<h2>Useful extras once the basics work</h2>
+<ul>
+<li><strong>Filters:</strong> add a control for device or country so viewers can slice the data without editing the report.</li>
+<li><strong>Calculated fields:</strong> create metrics such as cost per enquiry by combining fields.</li>
+<li><strong>Blended data:</strong> join sources, for example ad spend from Google Ads with enquiries from a Google Sheet, though blends can be fiddly and need checking.</li>
+<li><strong>Scheduled emails:</strong> send a PDF of the report to stakeholders on a regular schedule.</li>
+<li><strong>Theme:</strong> apply your brand colours and keep charts consistent so the report is easy to read.</li>
+</ul>
+
+<h2>Common dashboard mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>Why it matters</th><th>Better approach</th></tr></thead>
+<tbody>
+<tr><td>Too many charts</td><td>Key figures get lost</td><td>One chart per question</td></tr>
+<tr><td>Vanity metrics up front</td><td>Page views say little about enquiries</td><td>Lead with key events and revenue</td></tr>
+<tr><td>No comparison period</td><td>Hard to tell if things improved</td><td>Compare with previous period or last year</td></tr>
+<tr><td>Editor access for everyone</td><td>Charts get broken by accident</td><td>Share as view only</td></tr>
+<tr><td>No notes</td><td>Changes in figures are unexplained</td><td>Add a short monthly commentary</td></tr>
+</tbody>
+</table>
+
+<h2>Keeping the dashboard useful over time</h2>
+<p>A dashboard is not a one-off job. Data sources change, tracking breaks and business priorities shift. A light monthly routine keeps the report trustworthy:</p>
+<ul>
+<li>Open the report at the start of each month and check every chart loads without errors.</li>
+<li>Compare the headline figures with the source tools for the same dates.</li>
+<li>Add a short note about anything that changed: a new campaign, a website update, a sale or a tracking fix.</li>
+<li>Remove charts nobody has looked at or asked about for several months.</li>
+<li>Review who has access, especially when staff or suppliers change.</li>
+</ul>
+<p>It also helps to agree what action each figure should trigger. If enquiries drop for two months running, who looks into it? If cost per enquiry rises, who reviews the campaigns? A dashboard earns its keep when it leads to decisions, not just when it looks tidy.</p>
+
+<h2>Dashboards for SEO and paid reporting</h2>
+<p>Many agencies use Looker Studio as the backbone of monthly reporting. If you work with one, ask for access to a live dashboard rather than only a PDF, and ask them to explain what each chart means for the business. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> covers what a good monthly report should include and what questions to ask.</p>
+<p>If you would like reporting set up as part of ongoing marketing, our <a href="/services/seo-geo/">SEO and GEO service</a> and <a href="/services/paid-media/">paid media service</a> both include clear reporting, and our <a href="/pricing/">pricing page</a> shows the retainer levels.</p>
+
+<h2>FAQs</h2>
+<h3>How do I build a Looker Studio dashboard?</h3>
+<p>Create a blank report, connect a data source such as GA4, then add a date control, headline scorecards, a trend chart and tables for channels and pages. Add Search Console and Google Ads as further sources and share the report as view only.</p>
+<h3>Is Looker Studio free?</h3>
+<p>The standard version is free to use, and Google's own connectors for GA4, Search Console, Google Ads and Sheets are generally free. Some third-party connectors charge a fee, and Google offers a paid Pro version with extra features. Check current terms on Google's pages.</p>
+<h3>Can I connect Facebook or Meta ads to Looker Studio?</h3>
+<p>Not with a built-in Google connector, but partner connectors exist, often for a fee. An alternative is exporting data to Google Sheets and connecting that.</p>
+<h3>Why do Looker Studio figures differ from GA4?</h3>
+<p>Differences can come from date ranges, time zones, sampling, thresholds or how metrics are defined. Check settings match, and expect small gaps between different tools.</p>
+<h3>How many charts should a dashboard have?</h3>
+<p>As few as needed to answer your key questions. For many small businesses, one page of headline figures and one or two supporting pages is enough.</p>
+<h3>Who should have access to the dashboard?</h3>
+<p>Anyone who makes decisions from the numbers. Give most people view-only access and limit editing to one or two people who maintain the report.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Build%20a%20Looker%20Studio%20Dashboard%20for%20a%20UK%20Small%20Business'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/utm-tracking-links-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>UTM Tracking Links: How to Tag Your Marketing So You Know What Works</h3><p>UTM tracking links show which emails, posts and ads send visitors to your site. Learn how to build, name and organise them so your GA4 reports stay clean.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/how-to-respond-to-google-reviews-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Respond to Google Reviews as a UK Small Business</h3><p>Reply to every Google review promptly, personally and calmly. Here is how UK small businesses can answer good, bad and fake reviews without hurting trust.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/email-list-building-uk/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Build an Email List for a UK Small Business, Legally and Effectively</h3><p>How to build an email list for a UK small business: sign-up forms, worthwhile incentives, PECR and UK GDPR consent, welcome emails and keeping a list healthy.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Build%20a%20Looker%20Studio%20Dashboard%20for%20a%20UK%20Small%20Business'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

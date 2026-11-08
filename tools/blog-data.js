@@ -46695,4 +46695,1096 @@ module.exports = [
 <p>No. Never include names, email addresses or other personal data. Values can be seen in analytics, browser histories and shared links, and analytics platform policies prohibit sending personal data.</p>
 `,
   },
+  {
+    slug: 'dog-trainer-marketing-uk',
+    seoTitle: 'Dog Trainer Marketing UK: Get More Class and Client Bookings',
+    title: 'Dog Trainer Marketing in the UK: How to Get More Class and Client Bookings',
+    description: 'Dog trainer marketing in the UK works when owners can find you locally, understand your methods and classes quickly, and book or enquire without any friction.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/services/paid-media/'],
+    body: `
+<p>Dog trainer marketing in the UK is about being found when owners search for help with a specific need, such as puppy classes or a dog that pulls on the lead, and then showing them quickly that you are the right person to help. The trainers who stay busy usually have a clear website with a page for each service, a strong local search presence, plenty of recent reviews and an easy way to book a class or a consultation.</p>
+<p>This guide is for independent dog trainers, small training schools and behaviour-focused practices. It covers your website, local SEO, content, social media, paid ads and referrals. We are a studio that builds websites and runs SEO and paid campaigns, so the focus is on helping the right owners find and book you.</p>
+
+<h2>How owners choose a dog trainer</h2>
+<p>Owners rarely search for "dog trainer" in the abstract. They search for a stage or a problem: "puppy classes near me", "dog recall training Bristol", "reactive dog help Surrey" or "one-to-one dog training at home". They compare a few local options, read reviews, look at how each trainer describes their methods and check practical details such as location, times and price.</p>
+<p>Trust is central. Owners care deeply about their dogs and want to know that a trainer's approach is kind, effective and suited to their dog's age and temperament. A website that explains this clearly will convert far better than one with a short list of services and a phone number.</p>
+<p>Typical audiences include:</p>
+<ul>
+<li><strong>New puppy owners</strong> wanting socialisation and basic manners classes, often booking soon after bringing a puppy home.</li>
+<li><strong>Owners of adolescent dogs</strong> struggling with recall, lead walking or jumping up.</li>
+<li><strong>Owners with specific concerns</strong> such as reactivity, anxiety or resource guarding, who usually want one-to-one help.</li>
+<li><strong>Rescue dog adopters</strong> looking for support as their dog settles in.</li>
+<li><strong>Owners interested in activities</strong> such as scentwork, agility or gundog training.</li>
+</ul>
+
+<h2>Dog trainer marketing UK: website foundations</h2>
+<p>Your website should make it obvious within a few seconds what you offer, where you work and how to book. A simple structure works well: Classes, One-to-one, About, Reviews, Book.</p>
+<h3>Give each service its own page</h3>
+<p>Puppy classes, adolescent dog courses, one-to-one sessions, home visits, walk-and-train services and specialist workshops each attract different searches. A separate page for each lets you explain who it suits, what happens in a session, how many weeks a course runs, where it takes place, group size and what owners should bring. It also gives search engines a clear page to rank for each type of search.</p>
+<h3>Explain your approach</h3>
+<p>Owners want to understand how you train before they book. Explain your methods in plain language, what a typical session looks like and how you tailor training to each dog. If you hold qualifications or memberships, name them accurately and describe what they mean. Our guide to <a href="/blog/about-us-page-writing/">writing an about us page</a> covers how to present your experience without overclaiming.</p>
+<p>If you offer behaviour support, be careful about the scope of what you describe. Where a dog's behaviour may have a medical cause, say that owners should speak to their vet, and make clear how you work alongside veterinary advice. Any professional standards or registers that apply in your area of work change over time, so check current guidance and describe your position accurately.</p>
+<h3>Be clear about prices and booking</h3>
+<p>Owners often want a sense of cost before they enquire. Whether you publish exact prices or explain what affects the price, make it easy to understand what each option includes. Our article on <a href="/blog/website-pricing-page-design/">pricing page design</a> explains how to present options clearly. For classes with set dates, online booking with payment saves time on both sides, as covered in our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a>.</p>
+
+<h2>The pages a dog training website needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Who it serves</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Puppy classes</td><td>New puppy owners</td><td>Age range, vaccination requirements per your policy, course length, venue, dates</td></tr>
+<tr><td>Adolescent and adult dog courses</td><td>Owners of older dogs</td><td>Skills covered, group size, what to bring</td></tr>
+<tr><td>One-to-one training</td><td>Owners with specific goals or concerns</td><td>How sessions work, home or venue, what happens first</td></tr>
+<tr><td>Behaviour support</td><td>Owners of reactive or anxious dogs</td><td>Your approach, scope, how you work with vets</td></tr>
+<tr><td>Activities and workshops</td><td>Owners wanting enrichment</td><td>Scentwork, agility or similar, dates and suitability</td></tr>
+<tr><td>Area or venue pages</td><td>Local searchers</td><td>Where classes run, parking, access, areas covered for home visits</td></tr>
+<tr><td>Reviews</td><td>Everyone comparing trainers</td><td>Genuine reviews with permission, linked to your profile</td></tr>
+</tbody>
+</table>
+
+<h2>Local SEO for dog trainers</h2>
+<p>Most dog training clients live within a short drive of you, which makes local search one of your most valuable channels. Our guide to <a href="/blog/seo-for-small-business-uk/">SEO for small businesses</a> covers the basics, and these points apply to dog trainers in particular.</p>
+<p>Set up and complete your Google Business Profile, choosing accurate categories and adding your training venue, or setting up as a service area business if you mainly visit owners at home. Add photos of classes, the venue and happy dogs, with owner permission, and keep your hours and services up to date. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains each setting.</p>
+<p>Consistent business details across directories also help. Our guide to <a href="/blog/local-citations-uk/">local citations</a> explains where to list your business and how to keep your name, address and phone number consistent.</p>
+<p>Reviews matter a lot for trust. Ask at natural moments, such as the end of a course or after a one-to-one client sees progress, with a direct review link. Never offer incentives in exchange for reviews.</p>
+
+<h2>Content that answers owners' questions</h2>
+<p>Helpful content builds trust and brings in searches from owners who are not yet ready to book. Ideas that suit dog trainers include:</p>
+<ul>
+<li>What to expect at your first puppy class.</li>
+<li>When to start training a new puppy.</li>
+<li>Simple recall exercises to practise at home.</li>
+<li>How to choose between group classes and one-to-one training.</li>
+<li>Preparing a rescue dog for their first weeks at home.</li>
+</ul>
+<p>Keep advice practical and general, and avoid anything that could be read as veterinary advice. Linking from each article to the related class or service page helps readers take the next step.</p>
+
+<h2>Social media and paid ads</h2>
+<p>Dog training is naturally visual and appealing on social media. Short clips of exercises, before-and-after progress (with owner permission), class highlights and quick tips perform well on Instagram, Facebook and TikTok. Local Facebook groups can also be helpful, but follow each group's rules about promotion.</p>
+<p>Paid ads can help fill new courses quickly. Facebook and Instagram ads targeted to people within your area, promoting a specific course with a start date, are often a sensible first step. Our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a> explains how to set a sensible budget. Google Search ads can work for specific services such as puppy classes. Make sure conversion tracking records bookings and enquiries, not just clicks.</p>
+
+<h2>Referrals and local partnerships</h2>
+<p>Many trainers receive steady referrals from vets, groomers, dog walkers, rescue centres and pet shops. Your website can support these relationships with a short page for professionals explaining what you offer, the areas you cover and how to refer. Printed cards with a QR code linking to your booking page make it easy for partners to pass you on.</p>
+<p>With consent, past clients can also join a simple email list for news of new courses, workshops and seasonal tips, following PECR rules on marketing emails.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a few useful figures: enquiries and bookings by source, class fill rates, how many puppy class clients go on to further courses, and review volume. If one type of course consistently fills from search, publish more content around it. If another relies heavily on ads, check whether better pages or more reviews could help.</p>
+
+<h2>Where a studio can help</h2>
+<p>We build clear, booking-ready websites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and we run <a href="/services/seo-geo/">local SEO</a> and paid campaigns for service businesses. Small website projects typically fall in the £1,000 to £2,000 range and take three to five weeks to build, and marketing retainers are listed on our <a href="/pricing/">pricing page</a>. SEO and paid results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best dog trainer marketing UK trainers can start with?</h3>
+<p>Start with a clear website that has a page for each service, a complete Google Business Profile and a steady flow of genuine reviews. These foundations support every other channel and often bring in more bookings than ads alone.</p>
+<h3>Should dog trainers publish their prices?</h3>
+<p>Many owners appreciate seeing prices or at least a clear explanation of what each option includes. It helps them enquire with realistic expectations and can reduce time spent on unsuitable enquiries.</p>
+<h3>Do I need separate pages for puppy classes and one-to-one training?</h3>
+<p>Yes. They serve different owners with different needs and searches, so separate pages help both visitors and search engines understand what you offer.</p>
+<h3>Can I share videos of client dogs on social media?</h3>
+<p>Yes, with the owner's permission. Ask before filming or posting, avoid showing people who have not agreed, and remove content promptly if an owner changes their mind.</p>
+<h3>Are Facebook ads worth it for dog trainers?</h3>
+<p>They can be useful for filling new courses quickly, especially when targeted locally and promoting a specific start date. Track bookings rather than clicks to judge whether they are working.</p>
+<h3>How long does SEO take for a dog trainer?</h3>
+<p>Local visibility can start improving within a few months, but meaningful gains typically take three to six months, depending on competition in your area and how many reviews you collect.</p>
+`,
+  },
+  {
+    slug: 'dry-cleaner-marketing-uk',
+    seoTitle: 'Dry Cleaner Marketing UK: Win More Local Customers',
+    title: 'Dry Cleaner Marketing in the UK: How to Win More Local Customers',
+    description: 'Dry cleaner marketing in the UK works when local search, a clear price list, collection options and reviews make your shop the easy choice nearby.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Dry cleaner marketing in the UK is mostly about winning the local search: being the shop people see first when they look for dry cleaning nearby, with good reviews, clear opening hours and enough detail to choose you over the next option. The dry cleaners that grow usually add to that with a simple website, pages for specialist services, collection and delivery where it makes sense, and a reason for customers to come back.</p>
+<p>This guide is for independent dry cleaners, laundry and alterations shops and small multi-branch businesses. It covers Google Business Profile, your website, specialist services, business accounts, paid ads and keeping regular customers. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of bringing in more local work.</p>
+
+<h2>How customers choose a dry cleaner</h2>
+<p>Most people search when they have a specific item in mind: a suit before an interview, a winter coat, curtains, a wedding dress or a stained shirt. They type something like "dry cleaners near me", "dry cleaning Clapham" or "wedding dress cleaning Leeds", glance at the map results and choose based on distance, opening hours, star rating and a few photos. Some will click through to a website to check prices or turnaround times.</p>
+<p>That means much of the decision happens before anyone visits your website. Your listing in the map results needs to answer the basics on its own, and your website needs to answer the more detailed questions quickly.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Commuters and office workers</strong> needing suits and shirts cleaned regularly, often valuing early opening and quick turnaround.</li>
+<li><strong>Households</strong> bringing in coats, duvets, curtains and occasional special items.</li>
+<li><strong>Brides and wedding parties</strong> needing gowns cleaned before or after the day, sometimes with preservation.</li>
+<li><strong>Customers needing alterations</strong> such as hems, zips and tailoring adjustments, if you offer them.</li>
+<li><strong>Local businesses</strong> such as hotels, restaurants, salons and offices needing uniforms or linen cleaned.</li>
+</ul>
+
+<h2>Dry cleaner marketing UK: start with Google Business Profile</h2>
+<p>For a shop-front business, your Google Business Profile is often seen far more than your website. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers every setting, and these points matter most for dry cleaners:</p>
+<ul>
+<li>Choose the most accurate primary category and add secondary categories for services you genuinely offer, such as alterations or laundry.</li>
+<li>Keep opening hours precise, including early and late opening, Saturday hours and bank holiday changes.</li>
+<li>List your main services with short descriptions, and add photos of the shop front, counter and finished garments.</li>
+<li>Answer common questions in the profile, such as same-day service cut-off times and whether you clean leather or suede.</li>
+<li>Post updates for seasonal services, such as duvet and curtain cleaning in spring or coat cleaning in autumn. Our guide to <a href="/blog/google-business-profile-posts-guide/">Google Business Profile posts</a> explains how.</li>
+</ul>
+<p>Consistent business details across directories support your local visibility. Our guide to <a href="/blog/local-citations-uk/">local citations</a> explains where to list your shop and how to keep your name, address and phone number the same everywhere.</p>
+
+<h2>Reviews: the deciding factor</h2>
+<p>When three dry cleaners sit within a short walk of each other, the star rating and recent reviews often decide which one gets the visit. Ask for reviews at collection, when the customer is happiest with the result, using a small card or a QR code on the counter that links straight to your review form. A short follow-up text or email, where customers have given contact details, also works.</p>
+<p>Reply to reviews, particularly critical ones about lost items, delays or damage. A calm, specific reply that explains how you will put things right reassures future customers more than silence. Never offer discounts or freebies in exchange for reviews, as this breaks platform rules.</p>
+
+<h2>A website that answers the questions</h2>
+<p>A dry cleaner does not need a complicated website, but it does need a clear one. Many customers want to check prices, turnaround times or whether you can handle a particular item before they make the trip. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how your website and listing work together in search.</p>
+<h3>Services and prices</h3>
+<p>List your main services with prices or price guidance where you can. Customers often want to know roughly what a suit, shirt, coat, dress or duvet will cost. If prices vary by fabric or condition, explain what affects the price. Our article on <a href="/blog/website-pricing-page-design/">pricing page design</a> shows how to present this without overwhelming visitors.</p>
+<h3>Turnaround and opening times</h3>
+<p>Explain your standard turnaround, any same-day or express service, cut-off times and how long you keep uncollected items. These are common questions, and answering them clearly reduces phone calls.</p>
+<h3>Collection and delivery</h3>
+<p>If you offer collection and delivery, give it its own page with the areas covered, collection days, minimum order if any and how to book. Online booking for collections can save time on both sides, as covered in our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a>.</p>
+
+<h2>The pages a dry cleaning website needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Main purpose</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Dry cleaning</td><td>Core local searches</td><td>Items cleaned, price guidance, turnaround, care information</td></tr>
+<tr><td>Shirt and laundry service</td><td>Regular, repeat customers</td><td>Pricing per item or bundle, folding or hanging options, collection days</td></tr>
+<tr><td>Alterations and repairs</td><td>Higher-value work</td><td>Common jobs, how fittings work, typical lead times</td></tr>
+<tr><td>Wedding dress cleaning</td><td>Specialist, high-value searches</td><td>Before and after the wedding, preservation, how to book</td></tr>
+<tr><td>Household items</td><td>Seasonal searches</td><td>Duvets, curtains, rugs, cushion covers, size guidance</td></tr>
+<tr><td>Collection and delivery</td><td>Convenience customers</td><td>Areas covered, days, how to book</td></tr>
+<tr><td>Business accounts</td><td>Recurring commercial work</td><td>Uniforms, linen, invoicing, collection arrangements</td></tr>
+</tbody>
+</table>
+
+<h2>Specialist services worth promoting</h2>
+<p>Specialist services often bring in higher-value work and less price competition. Wedding dress cleaning and preservation, leather and suede care, curtain cleaning and alterations each attract their own searches, sometimes from people willing to travel further than they would for everyday dry cleaning. Give each one a dedicated page with real photos of your work, clear guidance on what is involved and how to book or enquire.</p>
+<p>Be careful with claims. Describe processes accurately, and if you mention eco-friendly or alternative cleaning methods, only say what you can evidence. Environmental claims in advertising are covered by the CAP Code, so check current guidance before making them.</p>
+
+<h2>Business accounts</h2>
+<p>Local businesses can provide steady, recurring income. Hotels, restaurants, salons, gyms and offices may need uniforms, workwear or linen cleaned on a schedule. A business accounts page that explains collection arrangements, turnaround, invoicing and how to get started makes it easy for managers to enquire. Direct outreach to nearby businesses, with a link to that page, often works better than advertising for this audience.</p>
+
+<h2>Paid ads for dry cleaners</h2>
+<p>Many dry cleaners do well with organic local search alone, but paid ads can help when you open a new branch, launch collection and delivery, or want to push a specialist service. Google Search ads with tight location targeting around your shop or delivery area are usually the most direct option. Our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small businesses</a> explains budgets and setup. Exclude searches for home dry cleaning kits and jobs to avoid wasted spend.</p>
+<p>Facebook and Instagram ads can promote seasonal offers to people living nearby, such as winter coat cleaning or spring duvet cleaning. Any offer should clearly state its terms. Our <a href="/services/paid-media/">paid media service</a> can manage search and social together, with conversion tracking on calls, bookings and directions requests.</p>
+
+<h2>Keeping regular customers</h2>
+<p>Regular customers are the backbone of most dry cleaners. A simple loyalty card, a shirt bundle price or a reminder message when seasonal services start can all encourage repeat visits. If you collect phone numbers or emails, keep marketing consent separate from order notifications, as PECR requires opt-in for most marketing messages to individuals.</p>
+
+<h2>Measuring what works</h2>
+<p>Track a few figures: calls and direction requests from your Google Business Profile, website enquiries and bookings, collection orders, specialist service enquiries and review volume. Compare the same months year on year, as dry cleaning has seasonal patterns.</p>
+
+<h2>Where a studio can help</h2>
+<p>We build clear, fast websites and run <a href="/services/seo-geo/">local SEO</a> and paid campaigns for local service businesses. Small website projects typically fall in the £1,000 to £2,000 range and take three to five weeks to build, and marketing retainers are listed on our <a href="/pricing/">pricing page</a>. SEO and paid results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best dry cleaner marketing UK shops can start with?</h3>
+<p>Start with a complete Google Business Profile, accurate opening hours and a steady flow of genuine reviews. Most customers choose from the map results, so these basics usually matter more than anything else.</p>
+<h3>Does a dry cleaner need a website?</h3>
+<p>Yes, even a simple one helps. Customers often want to check prices, turnaround times and specialist services before visiting, and a website gives search engines more information about what you offer.</p>
+<h3>Should dry cleaners publish prices online?</h3>
+<p>Publishing prices or clear price guidance helps customers decide and reduces phone calls. If prices vary by fabric or condition, explain what affects the cost.</p>
+<h3>How can a dry cleaner get more reviews?</h3>
+<p>Ask at collection, when customers see the finished result, using a counter card or QR code that links directly to your review form. Never offer incentives in exchange for reviews.</p>
+<h3>Is collection and delivery worth offering?</h3>
+<p>It can be, especially in busy residential and office areas. Give it its own page with areas, days and booking details, and track how many orders it brings in before expanding.</p>
+<h3>How long does local SEO take for a dry cleaner?</h3>
+<p>Improvements in map results can appear within a few months, but meaningful gains typically take three to six months, depending on competition nearby and how many reviews you collect.</p>
+`,
+  },
+  {
+    slug: 'google-ads-location-targeting-guide',
+    seoTitle: 'Google Ads Location Targeting: A UK Small Business Guide',
+    title: 'Google Ads Location Targeting: How to Show Ads Only Where You Work',
+    description: 'Google Ads location targeting decides where your ads appear. Learn how to set areas, radius and presence options so a UK local budget is not wasted.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Google Ads location targeting controls which places your ads can appear in, so a local UK business only pays for clicks from people it can actually serve. You choose countries, regions, cities, postcode areas or a radius around an address, then pick whether to reach people physically in those places or also people who simply show interest in them.</p>
+<p>Getting this wrong is one of the quickest ways to waste a small budget. A plumber in Leicester does not want to pay for a click from someone in Aberdeen, and a café in Bath gains little from people searching in Bristol. This guide walks through how location targeting works, how to set it up sensibly and how to refine it over time. Google changes the interface and settings fairly often, so check the current Google Ads help pages for exact menu names and options before you make changes.</p>
+
+<h2>What location targeting does in Google Ads</h2>
+<p>Every campaign has location settings. They tell Google which geographic areas are eligible to see your ads. When someone searches, Google estimates their location using signals such as device settings, IP address and the search itself, then decides whether your campaign is allowed to show to them.</p>
+<p>Location targeting works alongside your keywords, not instead of them. A keyword such as emergency electrician can be searched anywhere in the country, but your location settings narrow the audience to the places you choose. If you are new to the platform, our <a href="/blog/google-ads-for-small-business-uk/">Google Ads guide for small businesses</a> covers the wider account structure first.</p>
+
+<h2>The main ways to choose a location</h2>
+<p>There are several ways to define your area, and the right one depends on how your business operates.</p>
+<table>
+<thead><tr><th>Option</th><th>How it works</th><th>Good fit for</th></tr></thead>
+<tbody>
+<tr><td>Country</td><td>Targets the whole of the UK or another country</td><td>Online shops that deliver nationwide</td></tr>
+<tr><td>Region or county</td><td>Targets a wider area such as a county or nation within the UK</td><td>Service firms that cover a broad patch</td></tr>
+<tr><td>Town or city</td><td>Targets a named place and its boundary as Google defines it</td><td>Businesses serving a specific town</td></tr>
+<tr><td>Postcode area</td><td>Targets postal areas where available</td><td>Trades and delivery businesses with tight service zones</td></tr>
+<tr><td>Radius</td><td>Draws a circle around an address or point on the map</td><td>Shops, clinics, salons and venues people travel to</td></tr>
+</tbody>
+</table>
+<p>You can combine several locations in one campaign, and you can exclude places too. For example, a removals firm might target a county but exclude a city it does not want to work in.</p>
+
+<h3>Choosing between named areas and a radius</h3>
+<p>Named places follow administrative or postal boundaries, which do not always match how customers travel. A radius is simpler to understand but can spill over rivers, estuaries or borders into areas you cannot reach easily. Many local businesses start with a radius, then look at the map preview and swap to named areas if the circle catches places that make no sense.</p>
+
+<h2>Presence versus interest: the setting most people miss</h2>
+<p>Inside the location options there is usually a setting that controls who counts as being in your area. One option reaches people who are in, or regularly in, your targeted locations. Another, broader option also reaches people who are searching for or showing interest in your locations, even if they are somewhere else.</p>
+<p>The broader option can make sense for tourism, hotels, wedding venues and anything people research before travelling. A holiday cottage in Cornwall genuinely wants people in London planning a trip. For most local services, though, the narrower presence option is usually the safer choice, because a dentist or gardener can only help people nearby.</p>
+<p>The exact wording and defaults have changed over the years, so open the location options in your campaign settings, read the current descriptions and confirm which one is selected. It is worth checking this even on older campaigns, because the default may not match what you want.</p>
+
+<h2>How to set up Google Ads location targeting</h2>
+<p>The steps below describe the general process. Menu names may differ slightly in your account.</p>
+<ol>
+<li>Open the campaign and go to its settings.</li>
+<li>Find the locations section and choose to enter another location.</li>
+<li>Search for a town, county or postcode area, or use the advanced search to set a radius around your address.</li>
+<li>Check the map preview to see what is included, and add exclusions for any areas you do not serve.</li>
+<li>Open the location options and choose the presence setting that suits your business.</li>
+<li>Save, then check the campaign a few days later to confirm impressions are coming from the expected places.</li>
+</ol>
+<p>If you run several branches, consider separate campaigns or ad groups for each area so you can control budget, ad copy and landing pages per location. That mirrors the thinking in our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a>, where each branch gets its own relevant page.</p>
+
+<h2>Matching ads and landing pages to the area</h2>
+<p>Location settings decide where an ad can appear, but the ad and landing page decide whether someone clicks and gets in touch. Mentioning the town or area in headlines can help searchers see that you are local. Our guide to <a href="/blog/google-ads-responsive-search-ads/">responsive search ads</a> explains how to write headlines that work in different combinations.</p>
+<p>The landing page should then confirm the area too: the towns you cover, travel times, opening hours or delivery zones. A generic page that never mentions location can feel less relevant to someone who searched for a local service. See our advice on <a href="/blog/landing-page-design-uk/">landing page design</a> for the wider structure of a page that converts.</p>
+
+<h2>Using location reports to refine targeting</h2>
+<p>Once a campaign has been running for a few weeks, look at the location reports. These show where impressions, clicks and conversions came from, both by targeted location and by where users actually were. Typical findings include:</p>
+<ul>
+<li>A neighbouring town that brings in plenty of clicks but few enquiries, which may be worth excluding or bidding down.</li>
+<li>An area inside your radius that consistently converts well, which may justify its own campaign or a bid adjustment.</li>
+<li>Clicks from outside your target area, which can point to the presence setting being broader than you intended.</li>
+</ul>
+<p>These reports are only useful if you are tracking conversions properly. If enquiries, calls and purchases are not recorded, you will be judging locations on clicks alone. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> explains how to set that up first.</p>
+
+<h3>Bid adjustments and automated bidding</h3>
+<p>With manual bidding, you can usually raise or lower bids for particular locations. With automated bidding strategies, Google may handle much of this itself and some manual adjustments may be ignored or behave differently. Check the current help pages for how location bid adjustments interact with your chosen bid strategy before relying on them.</p>
+
+<h2>Common location targeting mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>What happens</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Leaving the whole UK selected for a local service</td><td>Budget spreads across areas you cannot serve</td><td>Narrow to your real service area</td></tr>
+<tr><td>Using the broad interest option by accident</td><td>Clicks from people far away</td><td>Review the presence setting</td></tr>
+<tr><td>A radius that is too small</td><td>Very low impressions and limited learning</td><td>Widen gradually and watch results</td></tr>
+<tr><td>A radius that is too large</td><td>Many clicks from people unlikely to travel</td><td>Tighten or use named areas</td></tr>
+<tr><td>No exclusions</td><td>Spend on towns you never work in</td><td>Add excluded locations</td></tr>
+<tr><td>Ignoring location reports</td><td>Weak areas keep draining budget</td><td>Review monthly</td></tr>
+</tbody>
+</table>
+
+<h2>Location targeting and negative keywords</h2>
+<p>Location settings and keywords work together. If you only serve Nottingham, a search such as plumber derby could still trigger your ad when the person searching is physically in your targeted area. Adding other town names as negative keywords can help, though it needs care so you do not block valid searches. Our guide to <a href="/blog/google-ads-negative-keywords-guide/">negative keywords</a> explains match types and how to build a list without blocking good traffic.</p>
+
+<h2>How location affects cost</h2>
+<p>Competition varies by area. Busy cities often have more advertisers bidding for the same searches, which can push up cost per click, while smaller towns can be cheaper but have fewer searches. Targeting too narrowly can limit volume so much that a campaign struggles to gather useful data. For a broader view of what drives spend, read our guide to <a href="/blog/google-ads-cost-uk/">Google Ads costs in the UK</a>. Ad spend is always paid to Google separately from any management fee.</p>
+
+<h2>Paid ads and local SEO together</h2>
+<p>Location-targeted ads give you visibility quickly, while local SEO builds organic visibility over time. Many local businesses run both: ads for immediate enquiries and a well-maintained Google Business Profile and location pages for longer-term growth. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the organic side.</p>
+
+<h2>When to get help</h2>
+<p>Location targeting is straightforward to set up, but refining it alongside bids, keywords and landing pages takes regular attention. If you would rather hand that over, our <a href="/services/paid-media/">paid media service</a> covers Google Ads set-up and ongoing management, and our <a href="/pricing/">pricing page</a> sets out the retainer options. Results from paid campaigns typically build over three to six months as data accumulates.</p>
+
+<h2>FAQs</h2>
+<h3>How does Google Ads location targeting work?</h3>
+<p>You choose which places your campaign can show in, such as a country, town, postcode area or radius. Google estimates where each searcher is and only shows your ads if they match your settings and the presence option you selected.</p>
+<h3>Should I use a radius or named towns?</h3>
+<p>A radius suits businesses people travel to, such as shops and clinics. Named towns or postcode areas suit businesses with clear service boundaries. Check the map preview either way to see exactly what is covered.</p>
+<h3>Why are my ads showing to people outside my area?</h3>
+<p>The most common reason is a presence setting that includes people showing interest in your location, not just people in it. Location estimates are also not perfect. Review the location options and the location reports.</p>
+<h3>Can I exclude a town from my Google Ads?</h3>
+<p>Yes. Location settings let you add excluded locations, so ads will not show to people in those places. This is useful when a radius or county includes areas you do not serve.</p>
+<h3>How big should my targeting radius be?</h3>
+<p>There is no single right size. Start with the distance customers realistically travel or you are willing to cover, then adjust once you can see which areas produce enquiries.</p>
+<h3>Does location targeting change my cost per click?</h3>
+<p>It can. Areas with more competing advertisers tend to cost more per click, and very narrow targeting can limit volume. Location reports help you see where budget is working best.</p>
+`,
+  },
+  {
+    slug: 'looker-studio-dashboard-guide',
+    seoTitle: 'How to Build a Looker Studio Dashboard for Your Business',
+    title: 'How to Build a Looker Studio Dashboard for a UK Small Business',
+    description: 'A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>To build a Looker Studio dashboard, connect your data sources such as GA4, Search Console and Google Ads, choose a few charts that answer the questions you care about, and share the report with anyone who needs it. Looker Studio is Google's free reporting tool, and for most small businesses it is the simplest way to see website and marketing performance in one place.</p>
+<p>The hard part is not the tool. It is deciding what to show. This guide explains how to plan a dashboard, how to build one step by step, which charts are most useful for a small business and how to keep it accurate over time. Google updates Looker Studio and its connectors regularly, so check the current Looker Studio help pages for exact menu names and features.</p>
+
+<h2>What Looker Studio is and why it helps</h2>
+<p>Looker Studio, previously called Google Data Studio, is a browser-based tool for building reports from different data sources. Instead of logging into GA4, Search Console and Google Ads separately, you see the figures that matter side by side. Reports update from the connected sources, so you are not copying numbers into spreadsheets each month.</p>
+<p>It is particularly useful when several people need the same view: an owner, a manager and an agency, for example. Everyone looks at the same numbers with the same definitions, which avoids arguments about whose figures are right. If you are still getting to grips with the basics of measurement, start with our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a>.</p>
+
+<h2>Plan before you build</h2>
+<p>Most dashboards fail because they try to show everything. Before opening Looker Studio, write down the questions the dashboard should answer. For a typical small business these might be:</p>
+<ul>
+<li>How many enquiries, calls or sales did the website produce this month?</li>
+<li>Which channels brought those visitors: search, ads, social, email or direct?</li>
+<li>Which pages and search queries bring the most organic traffic?</li>
+<li>What did paid campaigns cost and what did they return?</li>
+<li>How does this period compare with the previous one or the same time last year?</li>
+</ul>
+<p>Each question should map to one or two charts. If a chart does not answer one of your questions, leave it out.</p>
+
+<h2>Common data sources for a small business dashboard</h2>
+<table>
+<thead><tr><th>Source</th><th>What it shows</th><th>Typical charts</th></tr></thead>
+<tbody>
+<tr><td>GA4</td><td>Sessions, users, traffic sources, key events, ecommerce purchases</td><td>Scorecards, channel table, trend line</td></tr>
+<tr><td>Search Console</td><td>Search queries, impressions, clicks, average position</td><td>Query table, landing page table</td></tr>
+<tr><td>Google Ads</td><td>Spend, clicks, conversions, cost per conversion</td><td>Campaign table, spend versus conversions</td></tr>
+<tr><td>Google Sheets</td><td>Offline data such as phone leads, targets or sales</td><td>Targets versus actual</td></tr>
+<tr><td>Third-party connectors</td><td>Meta, TikTok, email platforms, ecommerce platforms</td><td>Channel summaries</td></tr>
+</tbody>
+</table>
+<p>Google's own connectors for GA4, Search Console, Google Ads and Sheets are generally free to use. Many other platforms need partner connectors, some of which are paid, so check the terms before relying on one.</p>
+
+<h2>How to build a Looker Studio dashboard step by step</h2>
+<p>The process below gives a simple one-page report. Menu names may differ slightly.</p>
+<ol>
+<li>Sign in to Looker Studio with the Google account that has access to your GA4 property, Search Console and Google Ads.</li>
+<li>Create a blank report and add your first data source, usually GA4.</li>
+<li>Add a date range control at the top so viewers can change the period.</li>
+<li>Add scorecards for your headline figures, such as users, key events and conversion rate, with a comparison to the previous period.</li>
+<li>Add a time series chart showing sessions or key events over time.</li>
+<li>Add a table of sessions and key events by session default channel group.</li>
+<li>Add a second data source for Search Console and build a table of top queries and landing pages.</li>
+<li>If you run ads, add Google Ads and build a campaign table with cost, conversions and cost per conversion.</li>
+<li>Add short text boxes explaining what each section shows and any known issues.</li>
+<li>Share the report with view-only access for most people.</li>
+</ol>
+<p>Your GA4 set-up must be right for any of this to mean much. Our <a href="/blog/ga4-setup-uk/">GA4 set-up guide</a> covers properties, data streams and key events, and our <a href="/blog/google-search-console-setup-uk/">Search Console set-up guide</a> explains how to verify your site.</p>
+
+<h3>A sensible page layout</h3>
+<table>
+<thead><tr><th>Section</th><th>Contents</th></tr></thead>
+<tbody>
+<tr><td>Top row</td><td>Date control and four to six headline scorecards</td></tr>
+<tr><td>Middle</td><td>Trend chart and channel table</td></tr>
+<tr><td>Lower</td><td>Top landing pages and search queries</td></tr>
+<tr><td>Separate page</td><td>Paid campaigns, if you advertise</td></tr>
+<tr><td>Notes</td><td>Changes made this month, tracking issues, context</td></tr>
+</tbody>
+</table>
+
+<h2>Make the numbers trustworthy</h2>
+<p>A dashboard is only as good as the tracking behind it. Before sharing one widely, check a few things:</p>
+<ul>
+<li>Key events in GA4 match real business outcomes, such as form submissions, calls or purchases.</li>
+<li>Google Ads conversions are set up properly and not double-counted. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> explains the options.</li>
+<li>Campaign links from email and social carry consistent UTM tags, otherwise traffic lands in the wrong channel. See our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a>.</li>
+<li>Your own visits and test submissions are filtered where possible.</li>
+<li>Figures in the dashboard roughly match the figures in each source tool for the same period.</li>
+</ul>
+<p>Small differences between tools are normal, because GA4, Search Console and Google Ads count things differently. Add a note explaining this so nobody is surprised.</p>
+
+<h2>Useful extras once the basics work</h2>
+<ul>
+<li><strong>Filters:</strong> add a control for device or country so viewers can slice the data without editing the report.</li>
+<li><strong>Calculated fields:</strong> create metrics such as cost per enquiry by combining fields.</li>
+<li><strong>Blended data:</strong> join sources, for example ad spend from Google Ads with enquiries from a Google Sheet, though blends can be fiddly and need checking.</li>
+<li><strong>Scheduled emails:</strong> send a PDF of the report to stakeholders on a regular schedule.</li>
+<li><strong>Theme:</strong> apply your brand colours and keep charts consistent so the report is easy to read.</li>
+</ul>
+
+<h2>Common dashboard mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>Why it matters</th><th>Better approach</th></tr></thead>
+<tbody>
+<tr><td>Too many charts</td><td>Key figures get lost</td><td>One chart per question</td></tr>
+<tr><td>Vanity metrics up front</td><td>Page views say little about enquiries</td><td>Lead with key events and revenue</td></tr>
+<tr><td>No comparison period</td><td>Hard to tell if things improved</td><td>Compare with previous period or last year</td></tr>
+<tr><td>Editor access for everyone</td><td>Charts get broken by accident</td><td>Share as view only</td></tr>
+<tr><td>No notes</td><td>Changes in figures are unexplained</td><td>Add a short monthly commentary</td></tr>
+</tbody>
+</table>
+
+<h2>Keeping the dashboard useful over time</h2>
+<p>A dashboard is not a one-off job. Data sources change, tracking breaks and business priorities shift. A light monthly routine keeps the report trustworthy:</p>
+<ul>
+<li>Open the report at the start of each month and check every chart loads without errors.</li>
+<li>Compare the headline figures with the source tools for the same dates.</li>
+<li>Add a short note about anything that changed: a new campaign, a website update, a sale or a tracking fix.</li>
+<li>Remove charts nobody has looked at or asked about for several months.</li>
+<li>Review who has access, especially when staff or suppliers change.</li>
+</ul>
+<p>It also helps to agree what action each figure should trigger. If enquiries drop for two months running, who looks into it? If cost per enquiry rises, who reviews the campaigns? A dashboard earns its keep when it leads to decisions, not just when it looks tidy.</p>
+
+<h2>Dashboards for SEO and paid reporting</h2>
+<p>Many agencies use Looker Studio as the backbone of monthly reporting. If you work with one, ask for access to a live dashboard rather than only a PDF, and ask them to explain what each chart means for the business. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> covers what a good monthly report should include and what questions to ask.</p>
+<p>If you would like reporting set up as part of ongoing marketing, our <a href="/services/seo-geo/">SEO and GEO service</a> and <a href="/services/paid-media/">paid media service</a> both include clear reporting, and our <a href="/pricing/">pricing page</a> shows the retainer levels.</p>
+
+<h2>FAQs</h2>
+<h3>How do I build a Looker Studio dashboard?</h3>
+<p>Create a blank report, connect a data source such as GA4, then add a date control, headline scorecards, a trend chart and tables for channels and pages. Add Search Console and Google Ads as further sources and share the report as view only.</p>
+<h3>Is Looker Studio free?</h3>
+<p>The standard version is free to use, and Google's own connectors for GA4, Search Console, Google Ads and Sheets are generally free. Some third-party connectors charge a fee, and Google offers a paid Pro version with extra features. Check current terms on Google's pages.</p>
+<h3>Can I connect Facebook or Meta ads to Looker Studio?</h3>
+<p>Not with a built-in Google connector, but partner connectors exist, often for a fee. An alternative is exporting data to Google Sheets and connecting that.</p>
+<h3>Why do Looker Studio figures differ from GA4?</h3>
+<p>Differences can come from date ranges, time zones, sampling, thresholds or how metrics are defined. Check settings match, and expect small gaps between different tools.</p>
+<h3>How many charts should a dashboard have?</h3>
+<p>As few as needed to answer your key questions. For many small businesses, one page of headline figures and one or two supporting pages is enough.</p>
+<h3>Who should have access to the dashboard?</h3>
+<p>Anyone who makes decisions from the numbers. Give most people view-only access and limit editing to one or two people who maintain the report.</p>
+`,
+  },
+  {
+    slug: 'marquee-hire-marketing-uk',
+    seoTitle: 'Marquee Hire Marketing UK: Win More Event Enquiries',
+    title: 'Marquee Hire Marketing in the UK: How to Win More Event Enquiries',
+    description: 'Marquee hire marketing in the UK works when your website answers sizing and pricing questions, local search covers your area and enquiries are followed up fast.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Marquee hire marketing in the UK is about being visible when people start planning an outdoor event, then giving them enough confidence to send an enquiry and book a site visit. The marquee companies that stay booked usually have a website full of real photos and practical detail, strong local search coverage for the area they serve, a simple enquiry form and quick, organised follow-up.</p>
+<p>This guide is written for marquee, tipi, stretch tent and event structure hire businesses, from small family firms to companies running several crews in peak season. It covers the website, local SEO, content, paid media, reviews and enquiry handling. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on what helps you win more of the right enquiries.</p>
+
+<h2>How people choose a marquee hire company</h2>
+<p>Booking a marquee is rarely an impulse decision. A couple planning a garden wedding, a family organising a milestone birthday, a school planning a summer fair or an events team running a corporate day will usually research for weeks or months. They search for terms like "marquee hire near me", "wedding marquee hire Kent" or "how big a marquee for 100 guests", look at photos, compare two or three companies and then send enquiries.</p>
+<p>Their biggest worries tend to be practical. Will it fit the space? What happens if it rains or is windy? What is included? How early do they need to book? A website that answers those questions clearly will win more enquiries than one that simply says "get in touch for a quote".</p>
+<p>Your audiences typically include:</p>
+<ul>
+<li><strong>Couples</strong> planning weddings at home, on farmland or at venues without enough indoor space.</li>
+<li><strong>Private households</strong> celebrating birthdays, anniversaries and garden parties.</li>
+<li><strong>Venues and estates</strong> that need seasonal structures or extra capacity.</li>
+<li><strong>Corporate and event organisers</strong> running hospitality, product launches and staff days.</li>
+<li><strong>Community groups, schools and councils</strong> organising fêtes, festivals and shows.</li>
+</ul>
+
+<h2>Marquee hire marketing UK: website foundations</h2>
+<p>Your website does most of the selling before anyone speaks to you. It needs to be quick on a phone, look good, and lead people towards an enquiry or a site visit without making them hunt.</p>
+<h3>Show your structures properly</h3>
+<p>Give each type of structure its own page: traditional pole marquees, frame marquees, tipis, stretch tents, pagodas or whatever you offer. Each page should explain what it suits, typical guest capacities for seated dinners and standing receptions, the ground it can go on and the features available. Use real photos of your own equipment at real events, with permission from the hosts, rather than stock images.</p>
+<h3>Help people with sizing and layout</h3>
+<p>A simple sizing guide is one of the most useful pages a marquee company can publish. Explain how capacity changes with round tables, long banquet tables, a dance floor, a bar and a band, and show a few example layouts. Make it clear that final sizing is confirmed at a site visit. This kind of page answers a common search and builds confidence at the same time.</p>
+<h3>Be open about what is included</h3>
+<p>Even if you do not publish full prices, explain what a hire usually includes: delivery, erection, flooring options, lighting, heating, furniture, toilets, power and dismantling. If you offer packages, describe them in plain language. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers other ways to reassure visitors, such as accreditations you genuinely hold, insurance information and clear contact details.</p>
+<h3>Make enquiring easy</h3>
+<p>Your enquiry form should ask for the essentials: event date, location or postcode, event type, approximate guest numbers and the best way to contact the person. Too many fields will put people off; too few will leave you chasing information. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> explains how to strike the balance.</p>
+
+<h2>The pages a marquee hire website needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Main purpose</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Structure type pages</td><td>Rank for specific searches and help people compare</td><td>Capacities, suitable sites, features, real photos</td></tr>
+<tr><td>Weddings</td><td>Capture high-value wedding enquiries</td><td>Styles, timelines, how site visits work, planning advice</td></tr>
+<tr><td>Parties and private events</td><td>Serve birthdays and garden events</td><td>Smaller structures, packages, lead times</td></tr>
+<tr><td>Corporate and events</td><td>Serve organisers and venues</td><td>Larger structures, power and access needs, invoicing</td></tr>
+<tr><td>Sizing guide</td><td>Answer a common question and build trust</td><td>Capacity by layout, example floor plans</td></tr>
+<tr><td>Area pages</td><td>Show the places you genuinely cover</td><td>Local venues and ground types you know, travel and access notes</td></tr>
+<tr><td>Extras</td><td>Increase order value</td><td>Furniture, lighting, heating, flooring, bars, toilets</td></tr>
+</tbody>
+</table>
+
+<h2>Local SEO for marquee hire</h2>
+<p>Most marquee companies serve a region rather than a single town, which makes local SEO slightly different from a shop with a front door. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the fundamentals; these points apply to marquee hire in particular.</p>
+<p>Set up your Google Business Profile as a service area business if customers do not visit your yard, and list the counties or towns you genuinely cover. Add photos from real events through the season and keep your categories accurate.</p>
+<p>Area pages can work well, but only when each one is genuinely useful. A page about marquee hire in a particular county might mention the types of venue you often work at, the ground conditions you tend to deal with, access considerations for rural sites and any local events you supply. Copying the same text and swapping the town name rarely helps and can make the whole site look thin.</p>
+<p>Reviews carry a lot of weight for a purchase this size. Ask hosts for a review a few days after the event, once the structure is down and the invoice is settled, with a direct link to make it easy.</p>
+
+<h2>Content that answers planning questions</h2>
+<p>People planning an outdoor event have lots of questions, and answering them builds visibility and trust. Useful topics include:</p>
+<ul>
+<li>How far in advance to book a marquee for a summer wedding.</li>
+<li>What size marquee you need for different guest numbers.</li>
+<li>Whether a marquee can go on a slope, gravel or hard standing.</li>
+<li>Heating and lighting options for spring, autumn and winter events.</li>
+<li>Planning permission and landowner permission questions, explained in general terms with a note to check current local guidance.</li>
+<li>What happens on the day, from delivery to dismantling.</li>
+</ul>
+<p>Planning and safety topics should stay general. Rules for temporary structures can vary by location and event type, so encourage people to check current guidance with their local council and venue, and explain what you handle as the supplier.</p>
+
+<h2>Paid media for marquee hire companies</h2>
+<p>Paid search can bring in enquiries while organic visibility builds, especially in the months when couples and organisers are booking for the following season. The key is tight targeting by area and careful keyword choice. Our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small businesses</a> covers budgets and setup, and our article on <a href="/blog/google-ads-negative-keywords-guide/">negative keywords</a> explains how to filter out searches for cheap gazebos, camping tents and party tent purchases.</p>
+<p>Social ads on Facebook and Instagram suit the visual nature of the business. Carousel ads showing a structure from bare field to finished dinner layout can work well, targeted to people within your service area. Make sure conversion tracking records form submissions and calls, not just clicks, so you can see which campaigns produce real enquiries. Our <a href="/services/paid-media/">paid media service</a> can manage search and social campaigns together.</p>
+
+<h2>Wedding fairs, venues and partnerships</h2>
+<p>Many marquee companies win work through relationships with planners, caterers, venues and other suppliers. Your website can support that. A page for event professionals that explains how you work with planners, your lead times and how to get technical details helps partners recommend you. Our guide to <a href="/blog/wedding-business-marketing-uk/">wedding business marketing</a> covers the wider wedding market, and our article on <a href="/blog/event-planner-website-design-uk/">event planner website design</a> shows what your partners are likely to be looking for.</p>
+
+<h2>Handling enquiries and site visits</h2>
+<p>Marketing only works if enquiries are handled well. In peak booking periods, a slow response can mean losing a date to a competitor. A few practical habits help:</p>
+<ul>
+<li>Acknowledge every enquiry quickly, even if a full quote takes longer.</li>
+<li>Offer site visit slots online or in your first reply.</li>
+<li>Send quotes in a consistent, clear format with what is included and what is optional.</li>
+<li>Follow up politely if you do not hear back, then stop.</li>
+<li>Record where each enquiry came from so you know which channels work.</li>
+</ul>
+<p>With consent, past hosts can also join a simple email list for seasonal reminders and early booking for the next year, following PECR rules on marketing emails.</p>
+
+<h2>Measuring what works</h2>
+<p>Track enquiries by source, site visits booked, quotes sent, bookings won and average booking value. Compare by season rather than by month, as demand is strongly seasonal. If one area or event type consistently converts better, put more of your content and ad budget behind it.</p>
+
+<h2>Where a studio can help</h2>
+<p>We build fast, enquiry-focused websites, run <a href="/services/seo-geo/">local SEO</a> and manage paid campaigns for service businesses. Small website projects typically fall in the £1,000 to £2,000 range and take three to five weeks to build, and marketing retainers are listed on our <a href="/pricing/">pricing page</a>. SEO and paid results typically take three to six months to build, so the quieter winter months are a good time to start before next season's enquiries arrive.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best marquee hire marketing UK companies can start with?</h3>
+<p>Start with a website that shows your structures clearly, a sizing guide, a simple enquiry form and a complete Google Business Profile for your service area. These foundations make every other channel more effective.</p>
+<h3>Should a marquee company publish prices online?</h3>
+<p>That is your decision. Many companies prefer to quote after a site visit, but explaining what a hire includes and what affects the price helps people enquire with realistic expectations.</p>
+<h3>Do area pages help marquee hire SEO?</h3>
+<p>They can, if each page is genuinely useful and specific to the area. Pages that copy the same text with a different town name rarely help and can weaken the overall site.</p>
+<h3>When do people book marquees for summer events?</h3>
+<p>Many weddings and larger events are booked well in advance, often in the autumn and winter before. That is why it helps to have your website and campaigns ready before the main booking period.</p>
+<h3>Are Google Ads worth it for marquee hire?</h3>
+<p>They can be, especially while organic visibility builds. Use tight location targeting, negative keywords for unrelated products and conversion tracking on enquiries so you only pay for useful searches.</p>
+<h3>How long does marquee hire SEO take to work?</h3>
+<p>Some improvements in local results can show within a few months, but meaningful gains typically take three to six months, depending on competition in your area and how much useful content you publish.</p>
+`,
+  },
+  {
+    slug: 'meta-lookalike-audiences-guide',
+    seoTitle: 'Meta Lookalike Audiences: A Practical UK Guide',
+    title: 'Meta Lookalike Audiences: How to Find More Customers Like Your Best Ones',
+    description: 'Meta lookalike audiences help you reach people similar to your customers. Learn how to build a good source list, set one up and test it in the UK.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Meta lookalike audiences let you reach people on Facebook and Instagram who share characteristics with an audience you already have, such as past customers, email subscribers or people who completed a purchase on your website. You choose a source audience and a country such as the UK, and Meta builds a new audience of people it judges to be similar.</p>
+<p>For a small business, this can be a useful way to move beyond friends of existing followers and reach new people who are more likely to be interested. But Meta's targeting has changed a lot in recent years, with more automation and broader audiences, so lookalikes are now one option among several rather than a guaranteed shortcut. This guide covers how they work, how to build one well and how to test whether it helps. Meta changes its ads tools frequently, so check the current Meta Business Help Centre for exact steps and options.</p>
+
+<h2>How Meta lookalike audiences work</h2>
+<p>A lookalike starts from a source audience. Meta looks at patterns among the people in that source and finds others in your chosen location who resemble them. You can usually choose a size range, where a smaller percentage of the country's population is closer to your source and a larger percentage is broader but less similar.</p>
+<table>
+<thead><tr><th>Lookalike size</th><th>Similarity</th><th>Reach</th><th>When it suits</th></tr></thead>
+<tbody>
+<tr><td>Small range</td><td>Closest to your source</td><td>Smallest audience</td><td>Testing with a strong source list</td></tr>
+<tr><td>Medium range</td><td>Reasonably similar</td><td>Moderate</td><td>Scaling once results look promising</td></tr>
+<tr><td>Large range</td><td>Broadest</td><td>Largest</td><td>Bigger budgets, awareness campaigns</td></tr>
+</tbody>
+</table>
+<p>In some campaign types, Meta may treat your lookalike as a suggestion and show ads beyond it if it predicts better results. Check how your chosen campaign and audience settings handle this.</p>
+
+<h2>Choosing a good source audience</h2>
+<p>The source matters more than anything else. A lookalike based on people who bought from you is usually more useful than one based on everyone who ever visited your site. Common sources include:</p>
+<ul>
+<li><strong>Customer lists:</strong> emails or phone numbers of past buyers, uploaded and matched by Meta.</li>
+<li><strong>Website custom audiences:</strong> people who completed a purchase or enquiry, tracked by the Meta Pixel and Conversions API.</li>
+<li><strong>Engagement audiences:</strong> people who engaged with your page, profile, videos or lead forms.</li>
+<li><strong>High-value customers:</strong> repeat buyers or larger orders, where your data allows.</li>
+</ul>
+<p>Meta generally requires a minimum number of matched people in the source, and more is usually better. Check the current minimum on the help pages. If your list is small, an engagement or website audience may give a larger base to start from.</p>
+<p>Website-based sources rely on tracking being set up properly. Our <a href="/blog/meta-pixel-setup-guide/">Meta Pixel set-up guide</a> explains how to track purchases and enquiries so you have reliable events to build from.</p>
+
+<h2>Customer lists and UK GDPR</h2>
+<p>Uploading a customer list to Meta means sharing personal data with a third party for advertising. Under UK GDPR you need a lawful basis for this, and your privacy notice should explain that you may use customer details for advertising on social platforms. Meta hashes the data during upload, but that does not remove your responsibilities.</p>
+<p>Practical steps include checking how the data was collected, removing people who have opted out of marketing where that is appropriate, and keeping uploads limited to what you need. The ICO publishes guidance on direct marketing and data sharing, and if you are unsure, take advice. Our guide to <a href="/blog/email-list-building-uk/">building an email list</a> covers collecting contact details in a compliant way from the start.</p>
+
+<h2>How to create a Meta lookalike audience</h2>
+<p>These are the general steps. Menu names may differ in your account.</p>
+<ol>
+<li>Open Meta Ads Manager and go to the audiences area.</li>
+<li>Create your source first, for example a customer list or a website custom audience of purchasers.</li>
+<li>Choose to create a lookalike audience.</li>
+<li>Select your source audience.</li>
+<li>Choose the location, such as the United Kingdom.</li>
+<li>Pick the audience size range.</li>
+<li>Create the audience and wait for Meta to populate it, which can take some time.</li>
+<li>Select the lookalike in the audience section of a new ad set.</li>
+</ol>
+
+<h2>Testing lookalikes against other targeting</h2>
+<p>Meta's delivery system has become good at finding people on its own, especially with broad targeting and strong conversion data. That means a lookalike will not always beat simpler options. A fair test compares them directly.</p>
+<table>
+<thead><tr><th>Option</th><th>What it does</th><th>Watch for</th></tr></thead>
+<tbody>
+<tr><td>Lookalike audience</td><td>Starts from people similar to your source</td><td>Quality depends on source size and relevance</td></tr>
+<tr><td>Broad targeting</td><td>Sets basic limits such as location and age, then lets Meta find people</td><td>Needs good conversion tracking</td></tr>
+<tr><td>Interest targeting</td><td>Targets people Meta associates with chosen interests</td><td>Can be narrow or loosely defined</td></tr>
+<tr><td>Retargeting</td><td>Reaches people who already visited or engaged</td><td>Small audiences that tire quickly</td></tr>
+</tbody>
+</table>
+<p>Run the options as separate ad sets or use Meta's testing tools, keep the same ads and budget across them, and judge on cost per purchase or enquiry rather than clicks. Give each test enough time and spend to produce meaningful numbers. Retargeting works best alongside prospecting, and our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> explains how to set it up.</p>
+
+<h2>Excluding existing customers</h2>
+<p>When you use a lookalike to find new customers, it often makes sense to exclude the people already in your source, such as existing buyers. Otherwise some budget goes on people who already know you. The exception is when you want repeat purchases, in which case a separate retention campaign is clearer than mixing the two.</p>
+
+<h2>Creative still does most of the work</h2>
+<p>Targeting decides who might see an ad, but the creative decides whether they stop scrolling and act. For lookalikes, assume the audience has never heard of you. Show the product or service clearly, explain who it is for, and give a simple next step. Send people to a page that matches the ad, using the principles in our <a href="/blog/landing-page-design-uk/">landing page design guide</a>.</p>
+
+<h2>Lookalike ideas for different business types</h2>
+<p>The best source depends on what a valuable customer looks like for you:</p>
+<ul>
+<li><strong>Online shops:</strong> purchasers from your website, or repeat buyers if you have enough of them.</li>
+<li><strong>Service businesses:</strong> people who submitted an enquiry form or booked an appointment, rather than all visitors.</li>
+<li><strong>Local businesses:</strong> customer lists, combined with a location restricted to the area you serve.</li>
+<li><strong>Event and hospitality businesses:</strong> past bookers, with seasonal timing in mind.</li>
+<li><strong>Businesses with lead forms on Meta:</strong> people who opened or submitted the form, where volumes allow.</li>
+</ul>
+<p>Whatever you choose, write down why you picked that source, so later tests have a clear starting point.</p>
+
+<h2>Common lookalike mistakes</h2>
+<ul>
+<li>Building from all website visitors, including people who bounced after a few seconds.</li>
+<li>Using a source list that is too small or out of date.</li>
+<li>Uploading customer data without checking consent and your privacy notice.</li>
+<li>Creating many overlapping lookalikes that compete with each other.</li>
+<li>Judging results after a few days with very little spend.</li>
+<li>Forgetting to refresh customer list sources as your customer base grows.</li>
+</ul>
+
+<h2>Budget and cost</h2>
+<p>Lookalikes do not have a separate price. You pay for ad delivery as usual, and costs depend on competition, the time of year, your creative and your campaign objective. Our guide to <a href="/blog/meta-ads-cost-uk/">Meta ads costs in the UK</a> explains what affects spend. For an overview of running Facebook campaigns on a smaller budget, see our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a>.</p>
+
+<h2>Getting help with Meta ads</h2>
+<p>Lookalikes are one part of a wider Meta strategy that includes tracking, creative, testing and reporting. If you would like that handled, our <a href="/services/paid-media/">paid media service</a> covers Meta, Google, TikTok and YouTube campaigns, and our <a href="/blog/meta-ads-agency-uk/">guide to choosing a Meta ads agency</a> explains what to look for. Retainer options are on our <a href="/pricing/">pricing page</a>, with ad spend paid to Meta separately. Paid results typically build over three to six months.</p>
+
+<h2>FAQs</h2>
+<h3>What are Meta lookalike audiences?</h3>
+<p>They are audiences Meta builds from people who resemble a source audience you provide, such as customers or website purchasers. You choose the country and size, and Meta finds similar users on Facebook and Instagram.</p>
+<h3>How big does a source audience need to be?</h3>
+<p>Meta sets a minimum number of matched people, which can change, so check the help pages. In practice, a larger and more relevant source tends to produce a more useful lookalike.</p>
+<h3>Are lookalike audiences still worth using?</h3>
+<p>They can be, but Meta's broad targeting has improved, so test lookalikes against broad and interest targeting with the same ads and budget. Use whichever produces a lower cost per sale or enquiry for your business.</p>
+<h3>Can I upload my customer email list to Meta?</h3>
+<p>Yes, Meta allows customer list uploads, but you need a lawful basis under UK GDPR and a privacy notice that covers this use. Check ICO guidance and take advice if you are unsure.</p>
+<h3>Should I exclude existing customers from a lookalike campaign?</h3>
+<p>Usually yes for prospecting campaigns, so budget focuses on new people. Run a separate campaign if you want to reach existing customers for repeat purchases.</p>
+<h3>How long does a lookalike audience take to build?</h3>
+<p>Often a few hours, though it can take longer depending on the source. Meta keeps it updated over time, but refreshing customer list sources is still worthwhile.</p>
+`,
+  },
+  {
+    slug: 'title-tags-and-meta-descriptions-guide',
+    seoTitle: 'How to Write Title Tags and Meta Descriptions (UK Guide)',
+    title: 'How to Write Title Tags and Meta Descriptions That Get Clicks',
+    description: 'Title tags tell Google and searchers what a page is about; meta descriptions sell the click. Learn how to write both for a UK small business website.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/'],
+    body: `
+<p>To write good title tags and meta descriptions, give every page a unique title that starts with the phrase people search for, keep it short enough to show in full, and use the meta description to answer the query and give a clear reason to click. The title helps Google understand the page; the description mainly helps a searcher choose your result over the others.</p>
+<p>These two small pieces of text are among the quickest SEO improvements a small business can make, and they need no developer for most website platforms. This guide explains what each one does, how to write them, how to edit them on common platforms and how to decide which pages to fix first. Search engines adjust how they display results from time to time, so check Google Search Central for current guidance on titles and snippets.</p>
+
+<h2>What title tags and meta descriptions are</h2>
+<p>A title tag is a line of HTML in the head of a page. It usually appears as the blue clickable headline in search results and as the text in the browser tab. A meta description is a short summary, also in the head, which search engines may show under the title.</p>
+<table>
+<thead><tr><th></th><th>Title tag</th><th>Meta description</th></tr></thead>
+<tbody>
+<tr><td>Where it shows</td><td>Search result headline, browser tab, social shares</td><td>Snippet text under the headline, when used</td></tr>
+<tr><td>Ranking role</td><td>A meaningful signal about the page topic</td><td>Not a direct ranking factor, but affects clicks</td></tr>
+<tr><td>Rough length</td><td>Around 50 to 60 characters to avoid truncation</td><td>Around 120 to 160 characters</td></tr>
+<tr><td>Can Google rewrite it?</td><td>Yes, sometimes</td><td>Yes, often</td></tr>
+</tbody>
+</table>
+<p>Display is based on pixel width rather than a strict character count, so the lengths above are practical guides rather than hard rules.</p>
+
+<h2>How to write title tags and meta descriptions</h2>
+<p>Start with the search phrase. Before you write anything, decide which query the page should rank for. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find the phrases your customers use. Then follow a simple process for each page.</p>
+<ol>
+<li>Put the main phrase near the start of the title, in the words a searcher would use.</li>
+<li>Add a qualifier that sets the page apart, such as a location, the type of customer or what the page offers.</li>
+<li>Add your brand at the end if there is room, separated by a dash or pipe.</li>
+<li>Write the description as a direct answer or promise, then a reason to click.</li>
+<li>Read both aloud. If they sound like a list of keywords, rewrite them as a sentence a person would trust.</li>
+</ol>
+
+<h3>Title tag examples</h3>
+<table>
+<thead><tr><th>Page</th><th>Weak title</th><th>Stronger title</th></tr></thead>
+<tbody>
+<tr><td>Home page of a Leeds electrician</td><td>Home</td><td>Electrician in Leeds for Homes and Landlords</td></tr>
+<tr><td>Service page</td><td>Services | Our Company</td><td>Boiler Servicing in Leicester, Booked Online</td></tr>
+<tr><td>Product category</td><td>Shop All Products</td><td>Handmade Oak Chopping Boards, UK Made</td></tr>
+<tr><td>Blog post</td><td>Blog Post About Gardens</td><td>How to Prepare a Lawn for Winter in the UK</td></tr>
+</tbody>
+</table>
+
+<h3>Meta description tips</h3>
+<ul>
+<li>Answer the question or describe the offer in the first sentence.</li>
+<li>Include the main phrase naturally, because matching words are often shown in bold.</li>
+<li>Mention something concrete: areas covered, delivery options, booking method or what the guide explains.</li>
+<li>Avoid promises you cannot keep and claims you cannot support.</li>
+<li>Keep each one unique. Duplicate descriptions across many pages give searchers no reason to choose one over another.</li>
+</ul>
+
+<h2>Why Google sometimes rewrites them</h2>
+<p>Google may show a different title or snippet from the one you wrote, especially if your title is very long, stuffed with keywords, duplicated across pages or does not match the content well. For descriptions, Google often pulls text from the page that better matches the specific query.</p>
+<p>You cannot fully control this, but you can reduce it. Keep titles accurate and concise, make sure the main heading on the page supports the title, and write descriptions that genuinely summarise the content. Clear page structure also helps AI-driven results understand your content, which we cover in our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a>.</p>
+
+<h2>How to edit titles and descriptions on common platforms</h2>
+<p>Most platforms let you change these fields without touching code. The general locations are below, but menu names change, so check your platform help pages.</p>
+<table>
+<thead><tr><th>Platform</th><th>Where to look</th></tr></thead>
+<tbody>
+<tr><td>WordPress</td><td>Usually an SEO plugin panel below the editor, or theme settings</td></tr>
+<tr><td>Shopify</td><td>The search engine listing section at the bottom of a product, collection or page</td></tr>
+<tr><td>Squarespace</td><td>Page settings, under the SEO tab</td></tr>
+<tr><td>Wix</td><td>Page SEO settings or the SEO panel</td></tr>
+<tr><td>Custom sites</td><td>Ask your developer whether the CMS has fields for them</td></tr>
+</tbody>
+</table>
+<p>If your platform only generates titles automatically from page names, it is worth fixing that, because templated titles such as Products | Shop are rarely helpful to searchers.</p>
+
+<h2>Which pages to fix first</h2>
+<p>On a small site you might rewrite everything in an afternoon. On larger sites, prioritise. Google Search Console is the best free tool for this. Our <a href="/blog/google-search-console-setup-uk/">Search Console set-up guide</a> explains how to get it running.</p>
+<ol>
+<li>Open the performance report and look at pages, then queries.</li>
+<li>Find pages with plenty of impressions but a low click-through rate compared with similar pages.</li>
+<li>Check what queries they appear for and whether the title matches those queries.</li>
+<li>Rewrite the title and description to match the main query more closely.</li>
+<li>Note the date, then compare clicks over the following weeks.</li>
+</ol>
+<p>Pages sitting just off the first page of results are often the best candidates, because a more relevant title can help both rankings and clicks.</p>
+<p>Change one batch of pages at a time and keep a simple log of the old and new wording with the date. That way, if clicks rise or fall, you can see which change is likely responsible and roll it back if needed.</p>
+
+<h2>Titles for different page types</h2>
+<p>Service pages should name the service and the area. Our guide to <a href="/blog/service-page-design/">service page design</a> covers the content that should support that title. Product pages work best with the product name, a key attribute and sometimes the brand; see our <a href="/blog/product-page-seo-uk/">product page SEO guide</a> for more. Blog posts should mirror the question or task the reader is searching for.</p>
+<p>The home page title should say what you do and where, not just your business name, unless your brand is already well known. Structured data can add more detail to how results appear, which we explain in our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a>.</p>
+
+<h2>Common mistakes to avoid</h2>
+<ul>
+<li>The same title on many pages, often the business name alone.</li>
+<li>Keyword stuffing, such as repeating a town name or service three times.</li>
+<li>Titles that promise something the page does not deliver.</li>
+<li>Missing descriptions on key pages, leaving Google to pick random text.</li>
+<li>Changing titles constantly, which makes it hard to judge what worked.</li>
+<li>Forgetting titles when pages are moved or renamed during a redesign.</li>
+</ul>
+<p>A technical review will usually flag missing, duplicate and overly long titles across the whole site at once. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> includes these checks alongside crawling and indexing issues.</p>
+
+<h2>Where this fits in wider SEO</h2>
+<p>Titles and descriptions help pages that are already relevant get found and clicked. They cannot make up for thin content, slow pages or a site Google struggles to crawl. For the bigger picture, our <a href="/blog/seo-for-small-business-uk/">SEO guide for small businesses</a> covers the main priorities in order.</p>
+<p>If you would like titles, descriptions and the rest of your on-page SEO handled for you, our <a href="/services/seo-geo/">SEO and GEO service</a> covers this as part of ongoing work, and our <a href="/pricing/">pricing page</a> lists the monthly retainers. SEO changes typically take three to six months to show their full effect.</p>
+
+<h2>FAQs</h2>
+<h3>How do I write title tags and meta descriptions?</h3>
+<p>Start each title with the main search phrase, add a qualifier such as location or audience, and finish with your brand if there is room. Write the description as a short answer or offer with a reason to click, and make both unique to the page.</p>
+<h3>How long should a title tag be?</h3>
+<p>Around 50 to 60 characters usually displays in full on desktop, though Google measures by pixel width. Put the most important words first so nothing vital is cut off.</p>
+<h3>Do meta descriptions affect rankings?</h3>
+<p>Google has said they are not a direct ranking factor, but they influence whether people click your result. A clearer description can bring more visitors from the same position.</p>
+<h3>Why has Google changed my title in search results?</h3>
+<p>Google may rewrite titles that are too long, repetitive, duplicated or a poor match for the page. Keeping titles concise, accurate and aligned with the main heading reduces the chance of this.</p>
+<h3>Should every page have a meta description?</h3>
+<p>Your important pages should. On very large sites, Google can generate snippets from page content, but writing descriptions for key service, product and category pages gives you more control.</p>
+<h3>Should I include my business name in the title tag?</h3>
+<p>Usually at the end, if there is room. On the home page and for well-known brands it can come earlier. On most other pages, the search phrase matters more.</p>
+`,
+  },
+  {
+    slug: 'trampoline-park-marketing-uk',
+    seoTitle: 'Trampoline Park Marketing UK: Fill Sessions and Parties',
+    title: 'Trampoline Park Marketing in the UK: How to Fill Sessions and Parties',
+    description: 'Trampoline park marketing in the UK works best when local search, quick online booking, party pages and targeted ads all focus on your quieter sessions.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/services/seo-geo/'],
+    body: `
+<p>Trampoline park marketing in the UK comes down to being the obvious choice when parents search for something to do nearby, then letting them book a session or a party in a couple of minutes on their phone. Busy parks tend to combine strong local search visibility, a clear page for every session type, an easy booking flow, lots of recent reviews and targeted ads that fill weekday and term-time slots.</p>
+<p>This guide is for independent trampoline parks and small groups of sites. It covers the website, booking, local SEO, social media, paid campaigns, email and measurement. We are a studio that builds websites and runs SEO and paid media, so we focus on the digital side of filling sessions rather than operations on the floor.</p>
+
+<h2>How families choose a trampoline park</h2>
+<p>Most visits start with a parent or carer searching for things like "trampoline park near me", "soft play and trampolines open today" or "kids party venues in Nottingham". They look at the map results, check the rating and photos, see whether there is a slot today or this weekend and look at the price. If the booking page is slow, confusing or asks them to create an account before showing times, many will simply try the next option.</p>
+<p>Several different groups use trampoline parks, and each one searches and decides in its own way:</p>
+<ul>
+<li><strong>Families</strong> looking for weekend and school holiday activities, often booking at short notice.</li>
+<li><strong>Parents of toddlers</strong> wanting quieter, younger sessions during the week.</li>
+<li><strong>Party bookers</strong> planning a child's birthday several weeks ahead, comparing packages carefully.</li>
+<li><strong>Teenagers</strong> booking with friends, often influenced by social media.</li>
+<li><strong>Schools, clubs and youth groups</strong> booking group sessions in term time.</li>
+<li><strong>Adults</strong> attending fitness classes or adult-only evening sessions, where offered.</li>
+</ul>
+
+<h2>Trampoline park marketing UK: website foundations</h2>
+<p>Your website is where every ad, social post and search result sends people, so it needs to be quick on a phone and focused on booking. Put session times and a booking button at the top of the homepage, and keep navigation simple: Book, Parties, Sessions, Visit and Safety.</p>
+<h3>Give every session type its own page</h3>
+<p>Open jump, toddler sessions, SEN or sensory-friendly sessions, dodgeball, fitness classes and adult nights all serve different people. A single page listing everything makes it hard to rank for specific searches and hard for parents to find what they need. Each session page should include:</p>
+<ul>
+<li>Who the session is for, including age and height guidance.</li>
+<li>Duration, typical times and how busy it usually is.</li>
+<li>What to bring, such as grip socks, and whether they are sold on site.</li>
+<li>Rules for supervision and whether adults need to jump or watch.</li>
+<li>A booking button that opens that specific session.</li>
+</ul>
+<h3>Make booking effortless</h3>
+<p>Most parks use a dedicated booking platform. Aim to show live availability without forcing an account, take payment securely, and collect any waivers or declarations online before arrival so check-in is quick. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems for websites</a> explains how to embed booking while keeping visitors on your domain. Confirmation emails should explain arrival times, parking and what to wear.</p>
+<h3>Be clear about safety</h3>
+<p>Parents want reassurance before booking. A dedicated safety page that explains your rules, supervision, briefings, age zones and first aid arrangements helps. Safety standards and guidance for trampoline parks are set outside your website, so check current industry and government guidance, follow it, and describe what you do accurately rather than making broad claims.</p>
+
+<h2>Party pages that sell</h2>
+<p>Birthday parties are often among the highest-value bookings and they help fill weekend slots well in advance. Give parties their own section rather than a single paragraph, with:</p>
+<ul>
+<li>Each package explained in plain language, including jump time, party room time, food and party bags if offered.</li>
+<li>Minimum and maximum guest numbers and age guidance.</li>
+<li>How deposits, guest number changes and cancellations work.</li>
+<li>Real photos of the party room, shared with permission.</li>
+<li>An online booking or enquiry form for the exact package.</li>
+</ul>
+<p>Gift vouchers are another strong product, especially around Christmas and birthdays. Selling them through your website extends your reach to relatives who may never visit themselves. Our guide to <a href="/blog/ecommerce-gift-cards-and-vouchers/">selling gift cards and vouchers online</a> covers the setup.</p>
+
+<h2>Which channels fill which slots</h2>
+<table>
+<thead><tr><th>Slot or product</th><th>Main audience</th><th>Channels that tend to work</th></tr></thead>
+<tbody>
+<tr><td>Weekend open jump</td><td>Families, teenagers</td><td>Local search, Google Business Profile, social posts</td></tr>
+<tr><td>Weekday toddler sessions</td><td>Parents and carers of under-fives</td><td>Local Facebook and Instagram ads, parent groups, email</td></tr>
+<tr><td>Birthday parties</td><td>Parents planning weeks ahead</td><td>Search ads for party terms, dedicated party pages, reviews</td></tr>
+<tr><td>School holiday sessions</td><td>Families looking for activities</td><td>Email to past customers, social ads, holiday landing pages</td></tr>
+<tr><td>Group and school bookings</td><td>Teachers, club leaders, youth groups</td><td>Direct outreach, a group bookings page, email</td></tr>
+<tr><td>Fitness and adult sessions</td><td>Adults locally</td><td>Social ads, local search, class pages</td></tr>
+</tbody>
+</table>
+
+<h2>Local SEO for trampoline parks</h2>
+<p>Local search is where much of your traffic will begin. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the fundamentals, and these points apply to trampoline parks in particular.</p>
+<p>Complete your Google Business Profile carefully: accurate categories, opening hours including holiday hours, photos of the arena, party rooms and café, and regular updates for new sessions and holiday timetables. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through each section.</p>
+<p>Reviews influence parents strongly. Ask at the right moment, such as in a follow-up email the day after a visit or party, with a direct link. Reply to reviews calmly and specifically, especially critical ones about cleanliness, queues or safety. Our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> covers tone and wording. Never offer incentives for reviews, as that breaks platform rules.</p>
+<p>On your website, a visit page with your address, parking, public transport, accessibility and nearby landmarks helps both visitors and search engines. If you run several sites, give each location its own page with its own timetable.</p>
+
+<h2>Social media and paid campaigns</h2>
+<p>Trampoline parks are energetic and visual, which suits short video on Instagram, Facebook and TikTok. Content that works well includes new features, holiday timetables, party room set-ups, staff tips and short clips from sessions, with clear consent from parents for any child who is identifiable. Under UK GDPR, photos and video of identifiable people are personal data, so record consent and make it easy to withdraw.</p>
+<p>Paid social is often the quickest way to fill specific quiet slots, such as weekday toddler mornings or term-time after-school sessions. Target parents within a sensible drive time and promote one clear session or offer per ad. Our article on <a href="/blog/meta-ads-cost-uk/">Meta ads costs in the UK</a> explains how budgets work. Google Search ads can capture party searches and "near me" terms while organic visibility builds. Our <a href="/services/paid-media/">paid media service</a> can run both together, with tracking set up on completed bookings rather than just clicks.</p>
+<p>Any offers should clearly state their terms, such as which sessions and dates they apply to, in line with the CAP Code that governs UK advertising. Avoid claims you cannot back up, such as being the biggest or safest park in a region.</p>
+
+<h2>Email and repeat visits</h2>
+<p>Families who enjoyed a visit are your most likely repeat customers. With marketing consent captured at booking, separate from booking confirmations as PECR requires, you can send a short welcome message, holiday timetables, party reminders ahead of birthdays if customers chose to share them, and news of new sessions. Our guide to <a href="/blog/email-list-building-uk/">building an email list in the UK</a> explains how to grow your list without annoying people.</p>
+<p>Memberships or multi-visit passes, if you offer them, can also be promoted by email to families who visit often.</p>
+
+<h2>Measuring what works</h2>
+<p>Focus on a small set of figures: online booking conversion rate, bookings by source, occupancy by session and day, party bookings per month, voucher sales and review volume. If a particular session regularly runs below capacity, focus offers, ads and email on that slot rather than discounting the whole week.</p>
+
+<h2>Where a studio can help</h2>
+<p>We build fast, booking-led websites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and we run local SEO and paid campaigns for leisure businesses. Small website projects typically fall in the £1,000 to £2,000 range and take three to five weeks, and marketing retainers are listed on our <a href="/pricing/">pricing page</a>. SEO and paid results typically take three to six months to build, so it helps to start well before the summer holidays.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best trampoline park marketing UK operators can start with?</h3>
+<p>Start with a complete Google Business Profile, a fast mobile booking journey and separate pages for parties and each session type. These foundations influence most bookings and make any later advertising more effective.</p>
+<h3>How can a trampoline park fill weekday sessions?</h3>
+<p>Create sessions with a clear audience, such as toddler mornings, school groups or adult fitness, give each its own page and promote them with targeted social ads and email rather than general discounts.</p>
+<h3>Should parties have their own pages?</h3>
+<p>Yes. Party bookers compare packages carefully, so dedicated pages with clear inclusions, guest numbers, deposits and photos help them decide and book.</p>
+<h3>Can we post photos of children on social media?</h3>
+<p>Only with clear consent from a parent or guardian. Photos of identifiable children are personal data under UK GDPR, so record consent and remove images promptly if asked.</p>
+<h3>Is TikTok worth it for a trampoline park?</h3>
+<p>It can be, especially for reaching teenagers and younger parents. Short, energetic clips of new features and events tend to work best, provided anyone identifiable has given consent.</p>
+<h3>How long does trampoline park SEO take?</h3>
+<p>Improvements in local map results can show within a few months, but meaningful gains typically take three to six months, depending on competition nearby and how many reviews you collect.</p>
+`,
+  },
+  {
+    slug: 'vineyard-winery-marketing-uk',
+    seoTitle: 'Vineyard Marketing UK: Sell More Wine, Tours and Tastings',
+    title: 'Vineyard Marketing in the UK: How to Sell More Wine, Tours and Tastings',
+    description: 'Vineyard marketing in the UK works when your website sells bottles and tours, local search brings visitors, and email turns one visit into years of orders.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/seo-geo/', '/services/digital-pr-content/'],
+    body: `
+<p>Vineyard marketing in the UK is about turning interest in English and Welsh wine into three kinds of revenue: bottles sold online, visits booked for tours and tastings, and repeat orders from people who have already tasted your wines. The vineyards that do this well usually have a website that sells and books in one place, solid local search visibility, a reason for people to sign up to email, and content that tells the story of their land and their wines.</p>
+<p>This guide is written for small and mid-sized vineyards and wineries, from estates with a cellar door shop to newer plantings preparing their first releases. It covers the website, ecommerce, local SEO, content, paid media and email, with a practical view of what tends to matter most. We are a studio that builds websites and online shops and runs SEO and paid campaigns, so the focus is on the digital side rather than viticulture.</p>
+
+<h2>Why vineyard marketing is different</h2>
+<p>A vineyard is part producer, part retailer and part visitor attraction. Most other businesses have one main conversion; a vineyard often has four or five. Someone might discover you on a weekend walk, book a tour a month later, buy a mixed case at the cellar door, join your wine club and then order online at Christmas. Each step needs a clear path on your website and a reason to take the next one.</p>
+<p>Seasonality matters too. Visitor numbers usually peak in the warmer months and around harvest, while online wine sales often lean towards the run-up to Christmas and other gifting moments. Good marketing evens out those peaks by moving visitors into online buyers and club members.</p>
+<p>The audiences you serve typically include:</p>
+<ul>
+<li><strong>Day visitors and tourists</strong> looking for something to do nearby, often searching on the day or the week before.</li>
+<li><strong>Wine enthusiasts</strong> who follow English and Welsh wine and want to know about grape varieties, vintages and methods.</li>
+<li><strong>Gift buyers</strong> looking for a bottle, a case or a tour voucher as a present.</li>
+<li><strong>Couples and event planners</strong> enquiring about weddings, private tastings and corporate days, if you host them.</li>
+<li><strong>Trade buyers</strong> such as local restaurants, pubs and independent shops.</li>
+</ul>
+
+<h2>Vineyard marketing UK: website foundations</h2>
+<p>Your website is where search, social, ads and printed materials all send people, so it needs to handle every one of those audiences without becoming cluttered. A clear top-level structure helps: Visit, Shop, Our Wines, Events and About. Each section then gets the detail it needs.</p>
+<h3>An online shop that suits wine</h3>
+<p>Selling wine online has a few practical requirements beyond a standard shop. You will want mixed case options, clear bottle sizes and vintages, tasting notes, food pairing suggestions and delivery information that explains couriers, breakages and who needs to be present to receive an order. Our guide to <a href="/blog/food-and-drink-ecommerce-uk/">food and drink ecommerce in the UK</a> covers the wider points. Cases of wine are heavy and fragile, so price delivery carefully and test your packaging before launch.</p>
+<p>Alcohol sales come with legal responsibilities, including licensing and age verification at checkout and on delivery. The detail depends on your licence and how you sell, so check current guidance from your licensing authority and the relevant government pages before launching, and keep your checkout wording in line with it. We build the checkout steps; the licensing decisions stay with you.</p>
+<h3>Booking tours and tastings</h3>
+<p>Tours and tastings should be bookable online, with live availability, clear timings, what is included, how long it lasts, accessibility notes, parking and whether children or dogs are welcome. Visitors are far more likely to commit when they can see a date and pay straight away. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems for websites</a> explains the options and how to keep the experience on your own domain.</p>
+<h3>Wine club and subscriptions</h3>
+<p>A wine club gives loyal customers a reason to keep ordering and gives you predictable revenue. Typical formats include quarterly mixed cases, member pricing in the shop and early access to new releases. The mechanics of recurring orders are covered in our guide to <a href="/blog/ecommerce-subscriptions-uk/">ecommerce subscriptions in the UK</a>. Keep sign-up simple, explain exactly what members receive and how to pause or cancel.</p>
+
+<h2>The pages a vineyard website needs</h2>
+<table>
+<thead><tr><th>Page</th><th>Main purpose</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Visit us</td><td>Turn local searches into booked visits</td><td>Opening times, tours, tastings, directions, parking, accessibility, café or picnic options</td></tr>
+<tr><td>Shop</td><td>Online wine sales</td><td>Bottles, mixed cases, gift sets, vouchers, delivery and returns information</td></tr>
+<tr><td>Individual wine pages</td><td>Help buyers choose and rank for wine searches</td><td>Grape varieties, vintage, style, tasting notes, food pairings, serving suggestions</td></tr>
+<tr><td>Our vineyard</td><td>Build trust and story</td><td>Location, soil and climate in plain language, how the wines are made, sustainability practices you genuinely follow</td></tr>
+<tr><td>Events and private hire</td><td>Capture higher-value enquiries</td><td>Event types, capacity, seasons, a short enquiry form</td></tr>
+<tr><td>Wine club</td><td>Repeat revenue</td><td>Benefits, how often cases arrive, how to manage membership</td></tr>
+<tr><td>Trade</td><td>Wholesale enquiries</td><td>Who to contact, range available, how ordering works</td></tr>
+</tbody>
+</table>
+<p>Individual wine pages are often overlooked. A single shop grid with tiny descriptions makes it hard to rank and hard for buyers to choose. Give each wine room to breathe, with a good bottle photo, honest tasting notes and suggestions for when to drink it.</p>
+
+<h2>Local SEO for vineyards and wineries</h2>
+<p>Many visits start with searches such as "vineyard tours near me", "wine tasting in Sussex" or "things to do in the Cotswolds this weekend". Winning those searches depends heavily on your Google Business Profile and on clear, location-specific content.</p>
+<p>Choose accurate categories, add opening hours for the shop and tours separately if they differ, and upload photos of the vines through the seasons, the tasting room and the view. Keep hours updated for bank holidays and harvest closures. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through each setting.</p>
+<p>Reviews matter a great deal for visitor attractions. A short note after each tour, with a direct review link, gives happy visitors an easy way to share their experience. Never offer incentives in exchange for reviews, as that breaks platform rules.</p>
+<p>On your website, a dedicated visit page that names your village, nearest town, county and wine region helps search engines understand where you are. If you sit on a wine trail or near other attractions, explain how a day out might fit together, linking only to pages you control.</p>
+
+<h2>Content that tells your story</h2>
+<p>Wine buyers enjoy learning, and well-written content helps both search visibility and conversion. Ideas that work well for vineyards include:</p>
+<ul>
+<li>A guide to the grape varieties you grow and why they suit your site.</li>
+<li>A plain-English explanation of how your sparkling or still wines are made.</li>
+<li>A harvest diary, published each autumn with photos.</li>
+<li>Food pairing ideas for each wine, ideally using seasonal British ingredients.</li>
+<li>A guide to visiting, including the best times of year to come.</li>
+</ul>
+<p>Content also gives journalists and local publications something to reference. If you want a more structured approach to stories and coverage, our <a href="/services/digital-pr-content/">digital PR and content service</a> can plan and write it alongside your other marketing.</p>
+<p>When writing about sustainability or awards, only state what you can evidence. If you hold a certification or have won a competition, name it accurately and link to your own page about it rather than making broad claims.</p>
+
+<h2>Paid media for vineyards</h2>
+<p>Advertising alcohol has extra rules in the UK. The CAP Code includes specific sections on alcohol, and social platforms have their own policies and age targeting requirements. Before running any ads, check current guidance and platform policies, and keep messaging focused on taste, place and experience rather than effects of drinking.</p>
+<p>Within those rules, paid media can work well for:</p>
+<ul>
+<li><strong>Search ads</strong> for tour and tasting searches in your area, especially when you are still building organic visibility.</li>
+<li><strong>Social ads</strong> to adults within driving distance, promoting seasonal events, new releases and gift vouchers.</li>
+<li><strong>Shopping campaigns</strong> for online wine sales, where platform policies and your licence allow.</li>
+</ul>
+<p>Track completed bookings and orders as conversions, not just clicks, so you can see what actually drives revenue. Our <a href="/services/seo-geo/">SEO and GEO service</a> often works alongside paid campaigns so that organic visibility gradually takes over from ad spend for core searches.</p>
+
+<h2>Email: turning visitors into regular buyers</h2>
+<p>Your email list is likely to be one of the most valuable things your vineyard owns. Every tour booking, cellar door sale and online order is a chance to invite people to join, with clear consent captured separately from transactional messages, as PECR requires for most marketing emails to individuals.</p>
+<p>A simple programme might include a welcome series about your vineyard and wines, a note when new vintages are released, an invitation to events, and gift reminders ahead of Christmas, Father's Day and other occasions. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers automations and segmentation in more depth.</p>
+<p>Segment where you can. Visitors who came for a tour but have never ordered online need different messages from wine club members, and trade contacts should be on a separate list entirely.</p>
+
+<h2>Weddings and private events</h2>
+<p>If your vineyard hosts weddings, celebrations or corporate days, treat this as its own marketing channel. Event enquiries are high value and slow to decide, so they need dedicated pages with real photos, capacities, seasons and a short enquiry form. Our guide to <a href="/blog/wedding-business-marketing-uk/">wedding business marketing</a> covers the wider approach, including how couples research venues.</p>
+
+<h2>Measuring what works</h2>
+<p>Keep measurement simple and tied to revenue. Useful figures include online orders and average order value, tour bookings by source, email sign-ups per month, wine club joins and cancellations, and event enquiries. Compare months year on year rather than month to month, because seasonality is strong.</p>
+
+<h2>Where a studio can help</h2>
+<p>We design and build online shops and booking-ready websites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and we run SEO, content and paid campaigns. Ecommerce sites typically fall in the £1,500 to £3,500 range and take five to twelve weeks to build, while ongoing marketing retainers are listed on our <a href="/pricing/">pricing page</a>. SEO and paid results typically take three to six months to build, so starting in winter gives you time before the busy visitor season.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best vineyard marketing UK producers can start with?</h3>
+<p>Start with a website that sells wine and books tours in one place, a complete Google Business Profile and a way to capture email sign-ups. These three foundations support every other channel and usually deliver more than early advertising spend.</p>
+<h3>Can a small vineyard sell wine online?</h3>
+<p>Yes, provided you have the right licence and processes for alcohol sales, including age verification. Check current guidance with your licensing authority before launching, then set up a shop with mixed cases, clear delivery information and secure payment.</p>
+<h3>Should each wine have its own product page?</h3>
+<p>Yes. Separate pages let you describe grape varieties, vintage, style and food pairings properly, which helps buyers choose and gives search engines more useful content to rank.</p>
+<h3>Is a wine club worth setting up?</h3>
+<p>For many vineyards it is, because it creates repeat revenue and keeps customers engaged between visits. Keep the offer simple, explain exactly what members receive and make pausing or cancelling straightforward.</p>
+<h3>Can vineyards advertise on social media?</h3>
+<p>Usually, but alcohol advertising has specific rules in the CAP Code and on each platform, including age targeting. Check current guidance and platform policies before launching any campaign.</p>
+<h3>How long does vineyard SEO take to work?</h3>
+<p>Local visibility for tours and tastings can improve within a few months, but meaningful gains typically take three to six months, depending on competition in your region and how much useful content you publish.</p>
+`,
+  },
+  {
+    slug: 'xml-sitemap-guide',
+    seoTitle: 'XML Sitemaps: How to Create and Submit One (UK Guide)',
+    title: 'XML Sitemaps: How to Create, Check and Submit One for Your Website',
+    description: 'An XML sitemap lists the pages you want search engines to find. Learn how to create one on WordPress or Shopify, check it and submit it to Google.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>An XML sitemap is a file that lists the pages on your website you want search engines to find and index. To create and submit one, check whether your platform already generates it, make sure it lists only live, indexable pages, then submit its address in Google Search Console and Bing Webmaster Tools.</p>
+<p>A sitemap does not guarantee rankings or even indexing, but it helps search engines discover pages, especially on new sites, larger sites and sites with pages that are not well linked internally. This guide explains what a sitemap should contain, how to find or create one on common platforms, how to check it and how to submit it. Search engines and platforms update their tools regularly, so check Google Search Central and your platform help pages for the current details.</p>
+
+<h2>What an XML sitemap is</h2>
+<p>An XML sitemap is a machine-readable list of URLs, usually found at an address such as yourdomain.co.uk/sitemap.xml. It is written for search engines, not people. Each entry contains a page address and can include extra information such as when the page was last changed.</p>
+<p>Larger sites often use a sitemap index, which is a sitemap of sitemaps. For example, one file might list separate sitemaps for pages, blog posts, products and collections. This keeps each file manageable and makes it easier to spot problems in one section.</p>
+<table>
+<thead><tr><th>Type</th><th>What it lists</th><th>Who needs it</th></tr></thead>
+<tbody>
+<tr><td>Standard XML sitemap</td><td>Page URLs</td><td>Almost every website</td></tr>
+<tr><td>Sitemap index</td><td>Links to several sitemaps</td><td>Sites with many pages or content types</td></tr>
+<tr><td>Image sitemap entries</td><td>Images on pages</td><td>Image-heavy sites, if images matter for search</td></tr>
+<tr><td>Video sitemap entries</td><td>Video details</td><td>Sites hosting their own video content</td></tr>
+<tr><td>HTML sitemap</td><td>A page of links for visitors</td><td>Optional, mainly a usability aid</td></tr>
+</tbody>
+</table>
+
+<h2>What should and should not be in your sitemap</h2>
+<p>A good sitemap is a clean list of the pages you actually want to appear in search. Search engines may treat it as a hint about which URLs matter, so filling it with junk works against you.</p>
+<table>
+<thead><tr><th>Include</th><th>Leave out</th></tr></thead>
+<tbody>
+<tr><td>Home page, service pages, product and category pages</td><td>Pages marked noindex</td></tr>
+<tr><td>Blog posts and guides</td><td>Redirected URLs</td></tr>
+<tr><td>Location pages</td><td>Pages returning errors</td></tr>
+<tr><td>The final, canonical version of each URL</td><td>Duplicate or parameter versions of pages</td></tr>
+<tr><td>Key information pages such as contact and about</td><td>Thank-you pages, basket, checkout and account pages</td></tr>
+</tbody>
+</table>
+<p>If you have thin pages such as empty tag archives, consider whether they should be indexed at all. A <a href="/blog/website-content-audit/">website content audit</a> helps you decide which pages to keep, improve, merge or remove.</p>
+
+<h2>How to create an XML sitemap on common platforms</h2>
+<p>Most modern website platforms generate a sitemap automatically. Your first step is usually to find it rather than build one.</p>
+<h3>WordPress</h3>
+<p>WordPress has a built-in sitemap feature, and many SEO plugins replace it with their own, often more configurable, version. If you use an SEO plugin, check its settings for which content types and taxonomies are included. Try visiting /wp-sitemap.xml or /sitemap_index.xml on your domain, depending on your set-up. Tidy URL structure helps too; see our guide to <a href="/blog/wordpress-permalink-settings/">WordPress permalink settings</a>.</p>
+<h3>Shopify</h3>
+<p>Shopify generates a sitemap automatically at /sitemap.xml, including products, collections, pages and blog posts. You cannot usually edit the file directly, but hiding pages from search or removing unwanted content affects what appears. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers other settings worth checking.</p>
+<h3>Squarespace and Wix</h3>
+<p>Both platforms generate sitemaps automatically. Check the platform help pages for the address and for settings that hide pages from search.</p>
+<h3>Custom or static sites</h3>
+<p>On a custom-built site, a developer can generate the sitemap as part of the build process so it updates whenever pages change. Avoid hand-written sitemaps that are easily forgotten when new pages are added.</p>
+
+<h2>How to create and submit an XML sitemap to Google</h2>
+<p>Once you know your sitemap address and are happy with what it contains, submit it.</p>
+<ol>
+<li>Open your sitemap address in a browser and check it loads without errors.</li>
+<li>Click through a sample of URLs to confirm they load, are not redirected and are the versions you want indexed.</li>
+<li>Sign in to Google Search Console and open your property. If you have not set it up, follow our <a href="/blog/google-search-console-setup-uk/">Search Console set-up guide</a>.</li>
+<li>Go to the sitemaps report, enter the sitemap address and submit it.</li>
+<li>Check back after a few days to see whether Google could read it and how many URLs it discovered.</li>
+<li>Repeat the process in Bing Webmaster Tools, which also supports importing sites from Search Console.</li>
+<li>Add a line to your robots.txt file pointing to the sitemap, if your platform allows it, so other crawlers can find it too.</li>
+</ol>
+
+<h2>Checking your sitemap for problems</h2>
+<p>After submission, the reports in Search Console are where most issues show up. Look for:</p>
+<ul>
+<li><strong>Could not fetch:</strong> the sitemap address is wrong, blocked or returning an error.</li>
+<li><strong>URLs not indexed:</strong> listed pages that Google has crawled or discovered but not indexed. The page indexing report gives reasons.</li>
+<li><strong>Submitted URL has noindex:</strong> a page is in the sitemap but tells search engines not to index it.</li>
+<li><strong>Redirects and errors:</strong> listed pages that redirect or return 404 errors.</li>
+<li><strong>Old URLs:</strong> pages from a previous version of the site still listed.</li>
+</ul>
+<p>A crawl with an SEO tool can compare the pages in your sitemap with the pages linked on your site, which shows orphan pages and missing entries. This is part of the checks in our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a>.</p>
+
+<h2>Sitemaps during a redesign or migration</h2>
+<p>When you relaunch a website, the sitemap should list the new URLs only. Old URLs should redirect to their new equivalents, rather than appearing in the new sitemap. Submitting the new sitemap promptly helps search engines find the new structure. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> explains how to map old pages to new ones, and our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> covers the wider process.</p>
+
+<h2>Common sitemap mistakes</h2>
+<table>
+<thead><tr><th>Mistake</th><th>Effect</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Staging or test pages listed</td><td>Unfinished pages may be found</td><td>Remove and block the staging site</td></tr>
+<tr><td>Both http and https or www and non-www versions</td><td>Mixed signals about the main version</td><td>List only the canonical version</td></tr>
+<tr><td>Sitemap not updated after changes</td><td>New pages discovered slowly</td><td>Use automatic generation</td></tr>
+<tr><td>Sitemap blocked in robots.txt</td><td>Search engines cannot read it</td><td>Allow access to the file</td></tr>
+<tr><td>Hundreds of thin tag or filter pages</td><td>Crawl attention spent on low-value URLs</td><td>Exclude or noindex them</td></tr>
+</tbody>
+</table>
+
+<h2>Do small websites need a sitemap?</h2>
+<p>If your site has a handful of pages that are all linked from the main menu, search engines will probably find them without one. A sitemap still does no harm, takes little effort on most platforms and gives you useful reports in Search Console. For anything with a blog, a shop or location pages, it is well worth having.</p>
+
+<h2>A simple sitemap routine</h2>
+<p>Once your sitemap is submitted, it needs very little attention, but a short routine catches problems early:</p>
+<ul>
+<li>After adding a batch of new pages, open the sitemap and confirm they appear.</li>
+<li>Once a month, glance at the sitemaps and page indexing reports in Search Console for new errors.</li>
+<li>After installing or changing an SEO plugin or theme, check the sitemap address has not changed.</li>
+<li>After deleting products or pages, confirm they have dropped out of the sitemap and that sensible redirects are in place.</li>
+<li>Before and after a redesign, save a copy of the sitemap so you have a record of the old URLs.</li>
+</ul>
+<p>Keeping that saved list is especially useful, because it gives you a complete record of what existed before any big change and makes redirect planning much easier.</p>
+
+<h2>Getting help</h2>
+<p>Sitemaps are a small part of technical SEO, but problems with them often point to bigger issues with indexing, redirects or duplicate content. Our <a href="/services/seo-geo/">SEO and GEO service</a> includes technical checks like these, and if your sitemap problems stem from how the site is built, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> can fix the underlying set-up.</p>
+
+<h2>FAQs</h2>
+<h3>How do I create and submit an XML sitemap?</h3>
+<p>Check whether your platform already generates one, usually at /sitemap.xml. Make sure it lists only live, indexable pages, then submit the address in the sitemaps report in Google Search Console and in Bing Webmaster Tools.</p>
+<h3>Where do I find my website sitemap?</h3>
+<p>Try /sitemap.xml, /sitemap_index.xml or /wp-sitemap.xml on your domain. Your robots.txt file may also list it, and your platform help pages will confirm the address.</p>
+<h3>Does a sitemap help my website rank?</h3>
+<p>Not directly. It helps search engines discover and understand which pages you want indexed. Rankings still depend on content quality, relevance, links and technical health.</p>
+<h3>How often should my sitemap update?</h3>
+<p>Ideally automatically, whenever pages are added, changed or removed. Most platforms handle this for you, so you rarely need to resubmit unless the sitemap address changes.</p>
+<h3>Why are pages in my sitemap not indexed?</h3>
+<p>Common reasons include noindex tags, redirects, duplicate content, thin pages or Google choosing not to index them yet. The page indexing report in Search Console lists the reason for each group of URLs.</p>
+<h3>Should I include images in my sitemap?</h3>
+<p>Image entries can help if image search matters to your business. Many platforms include image details automatically. For most service businesses, a standard page sitemap is enough.</p>
+`,
+  },
 ];
