@@ -47787,4 +47787,1017 @@ module.exports = [
 <p>Image entries can help if image search matters to your business. Many platforms include image details automatically. For most service businesses, a standard page sitemap is enough.</p>
 `,
   },
+  {
+    slug: 'bowling-alley-marketing-uk',
+    seoTitle: 'Bowling Alley Marketing UK: Fill More Lanes Every Week',
+    title: 'Bowling Alley Marketing in the UK: How to Fill More Lanes Every Week',
+    description: 'Bowling alley marketing in the UK works when local search, online lane booking and clear party, group and food packages fill quiet sessions as well as peaks.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/sectors/hospitality/'],
+    body: `
+<p>Bowling alley marketing in the UK is about filling lanes at the times that are hardest to sell, not just weekends, by being easy to find, easy to book and clearly better value than other nights out. The bowling centres that grow usually combine strong local search, online lane booking, packages for parties and groups, and a food and drink offer that turns a game into an evening.</p>
+<p>This guide is for independent tenpin bowling centres, family entertainment centres with bowling, and venues that combine bowling with arcades, dining or bars. It covers how customers choose where to bowl, your website and booking, Google Business Profile, paid ads, groups and parties, leagues and repeat visits. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of filling lanes.</p>
+
+<h2>How customers choose a bowling alley</h2>
+<p>Bowling is often a spur-of-the-moment idea, a rainy day plan or a group activity everyone can join. People search for "bowling near me", "bowling alley Nottingham" or "bowling birthday party", check prices and availability, and book whichever venue looks fun, convenient and good value.</p>
+<p>The decision often depends on more than the lanes themselves. Families want to know about bumpers, lightweight balls and food. Groups want to know about drinks, private areas and packages. Office organisers want to know whether you can host thirty people with food on a Thursday evening.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Families</strong> looking for weekend and school holiday activities.</li>
+<li><strong>Children's party organisers</strong> wanting a packaged party with food and a set price.</li>
+<li><strong>Friends and couples</strong> looking for an evening out.</li>
+<li><strong>Corporate groups</strong> booking team socials and Christmas parties.</li>
+<li><strong>Students and young adults</strong> responding to midweek deals.</li>
+<li><strong>League and regular bowlers</strong> who want consistent lane time and competition.</li>
+</ul>
+
+<h2>Bowling alley marketing UK: build around your quiet times</h2>
+<p>Most bowling centres are busy on Friday nights, Saturdays and during school holidays. The marketing challenge is the rest of the week. Before running any campaign, look at your bookings by day and time and decide which sessions you most want to fill.</p>
+<p>Once you know your quiet times, you can target them with specific offers and audiences:</p>
+<ul>
+<li>Weekday daytime sessions for parent and toddler groups, home-educating families and older adults.</li>
+<li>Early evening deals for families after school.</li>
+<li>Midweek student nights or group offers.</li>
+<li>Corporate team socials on weeknights.</li>
+<li>Community groups, clubs and schools booking off-peak sessions.</li>
+</ul>
+<p>Every offer should be honest and clearly explained, including any conditions or limited times. Under the CAP Code, promotions need to be accurate and not misleading, so check current guidance if you are unsure about wording.</p>
+
+<h2>Your website and lane booking</h2>
+<p>Your website should make it obvious what a game costs, how long it lasts and how to book. If people have to ring to find out if a lane is free, many will try another venue instead.</p>
+<p>Pages that usually earn their place:</p>
+<ul>
+<li><strong>Bowling prices</strong>, with prices per game or per person, peak and off-peak times, and shoe hire if it is charged.</li>
+<li><strong>Book a lane</strong>, with live availability.</li>
+<li><strong>Parties</strong>, with children's party packages, adult party options and what is included.</li>
+<li><strong>Corporate and group events</strong>, covering private areas, food, drinks and invoicing.</li>
+<li><strong>Food and drink</strong>, with menus and any combined bowling and dining packages.</li>
+<li><strong>Other activities</strong>, such as arcades, pool or other games if you have them.</li>
+<li><strong>Leagues</strong>, with dates, formats and how to join.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> explains the options. For bowling, live lane availability, deposits for parties and confirmation emails with arrival and parking details all reduce friction and no-shows. A clear <a href="/blog/website-pricing-page-design/">pricing page</a> also helps, especially if you have peak and off-peak rates.</p>
+
+<h2>Google Business Profile and reviews</h2>
+<p>For "bowling near me" searches, your Google Business Profile often matters as much as your website. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the settings. For a bowling alley, focus on precise opening hours, including late nights and holiday changes, photos of lanes, food and party areas, and a direct link to booking.</p>
+<p>Use posts on your profile to promote seasonal events and offers. Our guide to <a href="/blog/google-business-profile-posts-guide/">Google Business Profile posts</a> explains how to make them useful. Ask for reviews after visits, with a QR code at the counter or in a follow-up email, and reply to them all.</p>
+
+<h2>Paid ads for bowling centres</h2>
+<p>Paid search captures people actively looking for bowling, parties or group venues nearby. Separate campaigns for general bowling, kids parties and corporate events let you send each search to the right page. Our <a href="/services/paid-media/">paid media service</a> covers Google, Meta, TikTok and YouTube ads.</p>
+<p>Location targeting matters a lot for a bowling centre, because most customers come from a short drive away. Our guide to <a href="/blog/google-ads-location-targeting-guide/">Google Ads location targeting</a> explains how to set a sensible radius and avoid wasting budget on people too far away to visit.</p>
+<table>
+<thead><tr><th>Goal</th><th>Channel</th><th>Example approach</th></tr></thead>
+<tbody>
+<tr><td>Fill weekend family lanes</td><td>Google Search and Business Profile</td><td>Bowling near me ads pointing to live booking</td></tr>
+<tr><td>Grow children's parties</td><td>Google Search and Meta ads</td><td>Party package pages with clear prices and inclusions</td></tr>
+<tr><td>Win corporate socials</td><td>Google Search and LinkedIn where relevant</td><td>Corporate page with enquiry form and quick response</td></tr>
+<tr><td>Fill weekday sessions</td><td>Meta and email</td><td>Off-peak offers to nearby families, students and groups</td></tr>
+<tr><td>Bring back past visitors</td><td>Remarketing and email</td><td>Seasonal events, leagues and new menus</td></tr>
+</tbody>
+</table>
+
+<h2>Parties, groups and corporate events</h2>
+<p>Party and group bookings raise the value of each lane, especially when they include food and drink. Give each type a dedicated page with the details organisers ask for:</p>
+<ul>
+<li><strong>Kids parties</strong>: age suitability, bumpers, number of games, food, party host if offered and timings.</li>
+<li><strong>Adult parties</strong>: group sizes, drinks packages, private areas and any combined activities.</li>
+<li><strong>Corporate events</strong>: weeknight availability, private hire, food options, invoicing and capacity.</li>
+</ul>
+<p>Christmas parties are worth planning well ahead. Many office organisers start looking in late summer and early autumn, so a dedicated Christmas page and campaigns from around then can secure group bookings before competitors.</p>
+<p>If you sell alcohol, your premises licence conditions apply to how you promote drinks. Check current guidance from your local council and the relevant advertising codes before promoting drinks packages, and make sure offers do not encourage irresponsible drinking.</p>
+
+<h2>Leagues, loyalty and repeat visits</h2>
+<p>Regular bowlers provide steady midweek income. Promote leagues clearly on your website and in the venue, explain formats and dates, and make it easy to register interest. Some centres also offer loyalty cards or memberships that reward frequent visits.</p>
+<p>Email is a strong tool for bringing families and groups back for holidays, events and new menus. Under UK GDPR and PECR, marketing emails generally need consent or a valid soft opt-in, so check current ICO guidance. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> covers how to grow your list properly.</p>
+
+<h2>SEO for bowling alleys</h2>
+<p>Local SEO helps you appear for searches such as "bowling [town]", "bowling party [area]", "cheap bowling deals near me" and "bowling and food [city]". Each main page should include genuine, specific information, real photos and answers to common questions.</p>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local SEO, technical fixes and content that can appear in AI search answers. Bowling centres that are part of a wider hospitality offer may also find our <a href="/sectors/hospitality/">hospitality sector page</a> helpful.</p>
+
+<h2>Working with an agency</h2>
+<p>Many bowling centres start by improving booking and their Google Business Profile, then add paid campaigns focused on their quietest sessions. We offer retainers from Launch at £350 a month to Growth at £750 and Scale at £1,500, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. See our <a href="/pricing/">pricing page</a> for more.</p>
+<p>SEO and paid results typically build over three to six months, so planning ahead of school holidays and the Christmas party season gives campaigns time to work.</p>
+
+<h2>FAQs</h2>
+<h3>What does good bowling alley marketing UK venues use look like?</h3>
+<p>It starts with accurate local listings, reviews, clear prices and online lane booking, then adds targeted campaigns for parties, corporate groups and off-peak sessions. Measuring bookings by day and time shows where to focus.</p>
+<h3>How can a bowling alley fill weekday lanes?</h3>
+<p>Target specific groups with specific offers: families after school, students midweek, community groups in the daytime and corporate socials on weeknights. Promote each through the channel that reaches that audience best.</p>
+<h3>Should a bowling centre take online bookings?</h3>
+<p>Yes, in most cases. Live lane availability lets people book when they decide to go, and deposits for parties and groups reduce no-shows.</p>
+<h3>When should we promote Christmas parties?</h3>
+<p>Many organisers start planning in late summer or early autumn. A dedicated Christmas page and campaigns from around then give you the best chance of securing group bookings.</p>
+<h3>Are Google Ads worth it for a bowling alley?</h3>
+<p>They can be, particularly for parties and corporate events, where each booking is worth more. Tight location targeting and separate campaigns for each audience help control costs.</p>
+<h3>Can we promote drinks packages in our bowling ads?</h3>
+<p>You may be able to, but licensing conditions and advertising rules apply. Check current guidance from your local council and the relevant advertising codes before promoting alcohol.</p>
+`,
+  },
+  {
+    slug: 'ga4-explorations-guide',
+    seoTitle: 'How to Use Google Analytics Explorations: A Guide',
+    title: 'How to Use Google Analytics Explorations to Answer Business Questions',
+    description: 'GA4 explorations let you build custom reports to answer questions the standard reports cannot. Learn the main techniques, when to use each and common pitfalls.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>GA4 explorations are custom analysis reports inside Google Analytics 4 that let you drag in the dimensions and metrics you need to answer a specific question, such as which pages lead to the most enquiries or where shoppers drop out before checkout. To use them, open the Explore section in GA4, pick a technique such as free form or funnel exploration, and build the report around one clear question.</p>
+<p>The standard reports in GA4 are fine for a quick look at traffic and top pages, but sooner or later most business owners hit a question they cannot answer there. Explorations fill that gap. They look intimidating at first, with their columns of variables and settings, but a handful of techniques covers almost everything a small business needs. This guide walks through them in plain English.</p>
+
+<h2>Before you start: check your GA4 foundations</h2>
+<p>Explorations can only analyse data GA4 has collected. If your setup is incomplete, the reports will be misleading however well you build them. Before relying on any exploration, confirm three things:</p>
+<ul>
+<li><strong>Key events are set up.</strong> Enquiry form submissions, calls, bookings or purchases should be marked as key events. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how.</li>
+<li><strong>Consent is handled properly.</strong> Under UK GDPR and PECR, analytics cookies generally need consent, so some visits may be modelled or missing. That is normal, but it means figures are best read as trends rather than exact counts.</li>
+<li><strong>Campaigns are tagged.</strong> If your emails and social posts carry consistent UTM tags, explorations can break performance down by campaign. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> covers the naming.</li>
+</ul>
+<p>Also check your data retention setting in the property's admin area. Explorations use event-level data, and GA4 keeps that for a limited period depending on the setting. If you want to look back further than the default, change it sooner rather than later, and check Google's current help pages for the available options.</p>
+
+<h2>How to use GA4 explorations: the basic layout</h2>
+<p>Open GA4, select Explore from the left-hand menu, and either choose a template or start a blank exploration. The screen is split into three areas:</p>
+<table>
+<thead><tr><th>Area</th><th>What it contains</th><th>What you do there</th></tr></thead>
+<tbody>
+<tr><td>Variables</td><td>Date range, segments, dimensions and metrics</td><td>Import the building blocks you want to use</td></tr>
+<tr><td>Settings (tab settings)</td><td>Technique, rows, columns, values, filters</td><td>Drag variables in to shape the report</td></tr>
+<tr><td>Canvas</td><td>The report itself</td><td>Read results, right-click to drill in or exclude</td></tr>
+</tbody>
+</table>
+<p>Dimensions are descriptions, such as page path, session source or device category. Metrics are numbers, such as sessions, engaged sessions, key events or revenue. You import them in the Variables column first, then drag them into rows, columns or values in the Settings column. It feels clunky the first few times and then becomes quick.</p>
+<p>Explorations are saved to your account rather than shared automatically. Other users with access to the property can see them only if you share them, and shared explorations are view-only for others. If you need a report the whole team can open regularly, a dashboard tool is usually a better home. Our <a href="/blog/looker-studio-dashboard-guide/">Looker Studio dashboard guide</a> explains that option.</p>
+
+<h2>Free form exploration: your everyday workhorse</h2>
+<p>Free form is a flexible table or chart, and it answers most everyday questions. Some useful examples for a small business:</p>
+<ul>
+<li><strong>Which channels bring enquiries, not just visits?</strong> Rows: session default channel group. Values: sessions, engaged sessions, key events. Add a filter for your enquiry key event if you track several.</li>
+<li><strong>Which landing pages convert on mobile versus desktop?</strong> Rows: landing page. Columns: device category. Values: sessions and key events.</li>
+<li><strong>Which towns or regions do enquiries come from?</strong> Rows: city or region. Values: key events. Treat location data as approximate.</li>
+<li><strong>How did a campaign perform?</strong> Rows: session campaign. Values: sessions, key events and, for shops, purchase revenue.</li>
+</ul>
+<p>Use the visualisation options to switch between a table, line chart or bar chart. A line chart by date is useful for spotting when a change happened, such as a drop after a website relaunch.</p>
+
+<h2>Funnel exploration: finding where people drop out</h2>
+<p>A funnel exploration shows how many people complete each step of a process you define and where they leave. For an online shop the classic funnel is product view, add to basket, begin checkout and purchase. For a service business it might be visiting a service page, visiting the contact page and submitting the form.</p>
+<ol>
+<li>Choose Funnel exploration from the technique list.</li>
+<li>Edit the steps, choosing the event or page for each one. Keep it to three to five steps.</li>
+<li>Decide whether the funnel is open (people can join at any step) or closed (they must start at step one).</li>
+<li>Add a breakdown dimension such as device category to compare groups.</li>
+</ol>
+<p>A large drop between two steps tells you where to look. If many visitors reach the contact page but few submit, the form itself may be the problem, which our guide to <a href="/blog/website-contact-forms/">website contact forms</a> helps with. For shops, a big drop at checkout often points to delivery costs or payment options, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers that side.</p>
+
+<h2>Path exploration: what visitors do next</h2>
+<p>Path exploration shows the sequence of pages or events visitors move through. You can start from a particular page and see where people go next, or start from an end point, such as a form submission, and look backwards at what they viewed first.</p>
+<p>This is useful for questions like "what do people read before they book?" or "where do visitors go after the pricing page?". If many people leave your pricing page for the FAQ page, for example, that suggests unanswered questions that could be addressed on the pricing page itself. Path reports can become cluttered quickly, so expand one branch at a time and ignore tiny numbers.</p>
+
+<h2>Segments and comparisons</h2>
+<p>Segments let you narrow an exploration to a group of users, sessions or events. Useful segments for small businesses include visitors from paid search, returning visitors, mobile users, or people who triggered a key event. Apply a segment to any technique to compare groups side by side.</p>
+<p>A practical tip: build a segment of converting users, then compare it with all users in a free form report broken down by landing page or channel. The differences often reveal which content genuinely supports enquiries.</p>
+
+<h2>Other techniques worth knowing</h2>
+<p>GA4 offers several further techniques, which you may or may not need:</p>
+<ul>
+<li><strong>Segment overlap:</strong> shows how groups intersect, for example mobile users who also came from social.</li>
+<li><strong>Cohort exploration:</strong> tracks groups of users over time, useful for repeat purchase patterns in a shop.</li>
+<li><strong>User lifetime:</strong> looks at behaviour and value across a user's whole history, within GA4's limits.</li>
+<li><strong>User explorer:</strong> shows the event stream of individual anonymised visitors, which can help with debugging tracking.</li>
+</ul>
+<p>Names and features change from time to time, so check Google's current Analytics help pages for the latest list.</p>
+
+<h2>Common pitfalls</h2>
+<ul>
+<li><strong>Thresholding and sampling.</strong> With small numbers or certain settings, GA4 may hide or estimate data. An icon in the report usually indicates this. Wider date ranges or simpler reports can help.</li>
+<li><strong>Mixing scopes.</strong> Combining user-level and session-level dimensions in one table can produce confusing figures. If something looks odd, simplify.</li>
+<li><strong>Wrong date range.</strong> Each exploration has its own date range, separate from the standard reports. Check it every time.</li>
+<li><strong>Reading too much into small numbers.</strong> Ten enquiries against eight is not a trend. Look for consistent patterns over several weeks.</li>
+<li><strong>Personal data.</strong> Never send names, email addresses or phone numbers into GA4. It is against Google's policies and a UK GDPR risk.</li>
+</ul>
+
+<h2>Turning explorations into decisions</h2>
+<p>An exploration is only useful if it changes something. Write the question first, build the simplest report that answers it, and note the action you will take. If paid search drives visits but few enquiries, review keywords and landing pages. If mobile visitors abandon a form, simplify it. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small business</a> covers which numbers matter most.</p>
+<p>If you would rather have someone set up tracking, build the reports and turn the findings into campaign changes, measurement is built into our <a href="/services/paid-media/">paid media service</a>. You can see how retainers are structured on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How to use GA4 explorations if I am a beginner?</h3>
+<p>Start with a free form exploration and one question, such as which channels bring enquiries. Import a dimension and a metric, drag them into rows and values, and check the date range. Add complexity only once the simple version makes sense.</p>
+<h3>Are GA4 explorations free?</h3>
+<p>Explorations are included in the standard version of Google Analytics 4 at no extra cost. Some limits, such as data retention and quotas, differ between the standard and paid versions, so check Google's current help pages for details.</p>
+<h3>Why does my exploration show different numbers to the standard reports?</h3>
+<p>Explorations and standard reports can process data differently, apply thresholds differently and use different date ranges or scopes. Small differences are normal. Large ones usually point to a filter, segment or date range that does not match.</p>
+<h3>Can I share a GA4 exploration with my team?</h3>
+<p>Yes. You can share an exploration with other users on the same GA4 property, but they see a read-only version. For regular team reporting, a dashboard in a tool such as Looker Studio is usually easier.</p>
+<h3>How far back can explorations go?</h3>
+<p>Explorations are limited by your GA4 data retention setting, which controls how long event-level data is kept. Check the setting in your property admin area and Google's current help pages for the available periods.</p>
+<h3>Which exploration is best for finding checkout problems?</h3>
+<p>A funnel exploration is usually the best starting point. Set steps for viewing a product, adding to basket, beginning checkout and purchasing, then break it down by device to see where and for whom the biggest drop occurs.</p>
+`,
+  },
+  {
+    slug: 'go-karting-track-marketing-uk',
+    seoTitle: 'Go Karting Marketing UK: Fill More Race Sessions',
+    title: 'Go Karting Track Marketing in the UK: How to Fill More Race Sessions',
+    description: 'Go karting marketing in the UK works when local search, a fast online booking journey and clear group packages turn thrill-seekers into booked sessions.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Go karting marketing in the UK is about being the obvious choice when someone searches for karting nearby, then making it quick to book a session that suits their group. The tracks that fill their quiet weekday slots usually combine a strong local search presence, a smooth online booking journey and clear packages for birthdays, stag and hen groups, corporate days and regular racers.</p>
+<p>This guide is for indoor and outdoor karting tracks, arrive-and-drive venues and multi-activity centres with a kart track. It covers how customers choose a track, your website and booking system, Google Business Profile, paid ads, group and corporate sales, and keeping regular drivers coming back. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of filling the grid.</p>
+
+<h2>How customers choose a karting track</h2>
+<p>Karting is usually a planned treat or a group activity, not an impulse purchase. Someone organising a birthday, a stag do or a team day searches for "go karting near me", "indoor karting Birmingham" or "karting for kids", compares two or three tracks and then books the one that looks safest, easiest and best value for their group.</p>
+<p>The person searching is often not the only person deciding. A parent checks age and height limits, a best man checks group prices and start times, and an office manager checks whether there is food, a private room and an invoice option. Your marketing needs to answer each of those questions without making them ring you.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Families and children's parties</strong> looking for junior sessions, party packages and clear minimum ages.</li>
+<li><strong>Stag and hen groups</strong> wanting a competitive session, sometimes combined with food or another activity.</li>
+<li><strong>Corporate groups</strong> booking team days, client entertainment or a private hire of the track.</li>
+<li><strong>Friends and couples</strong> booking an arrive-and-drive session on a free evening or weekend.</li>
+<li><strong>Regular and league drivers</strong> who want lap times, championships and membership offers.</li>
+</ul>
+
+<h2>Go karting marketing UK: the website comes first</h2>
+<p>Your website does the heavy lifting once someone clicks from a search result or an ad. It needs to make three things obvious in seconds: what sessions you offer, what they cost and how to book. A page that buries prices in a PDF or asks people to call for availability will lose bookings to a track that shows them straight away.</p>
+<p>Pages that usually earn their place:</p>
+<ul>
+<li><strong>Sessions and prices</strong>, with session length, number of laps or minutes, and what is included.</li>
+<li><strong>Kids and junior karting</strong>, with age and height rules, junior karts and party options.</li>
+<li><strong>Parties and group events</strong>, with packages, group sizes and food options if you have them.</li>
+<li><strong>Stag and hen packages</strong>, written for organisers who want something simple to share with the group.</li>
+<li><strong>Corporate events</strong>, covering private hire, team formats, catering and invoicing.</li>
+<li><strong>Safety and what to expect</strong>, explaining briefings, kit, clothing advice and arrival times.</li>
+<li><strong>Leagues and memberships</strong> for regular drivers.</li>
+</ul>
+<p>Most of your visitors will be on a phone, so the booking button and session prices need to work well on a small screen. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers the details that matter most.</p>
+
+<h2>Make booking online easy</h2>
+<p>An online booking system that shows live availability is one of the biggest improvements a karting track can make. When someone can see the open slots, pick a session, enter the number of drivers and pay a deposit or the full amount, they book there and then rather than "checking with everyone" and drifting away.</p>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> explains the options. For a karting track, look for:</p>
+<ul>
+<li>Live availability by session type, with clear start times and arrival times.</li>
+<li>Group booking with per-driver pricing and the option to add extras.</li>
+<li>Deposits for parties and corporate events, with balance reminders.</li>
+<li>Automatic confirmation emails with directions, parking, what to wear and safety rules.</li>
+<li>Gift vouchers that can be bought and redeemed online.</li>
+</ul>
+<p>Gift vouchers matter more than many tracks expect. Karting is a popular present for birthdays and Christmas, and a voucher page that is easy to find and buy can bring in sales during months when bookings are quieter.</p>
+
+<h2>Google Business Profile and reviews</h2>
+<p>For "near me" searches, your Google Business Profile often appears before your website. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers every setting. For a karting track, focus on accurate opening hours, the right category, photos and video of the track and karts, and clear links to booking.</p>
+<p>Reviews carry a lot of weight because people want to know whether the experience was well run, safe and fun. Ask for reviews after each session, using a QR code at the exit or a short follow-up email. Reply to every review, and handle complaints calmly and specifically. Our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> has templates you can adapt.</p>
+
+<h2>Paid ads for karting tracks</h2>
+<p>Paid search works well for karting because people search with clear intent: "go karting near me", "karting party" or "corporate karting". Google Ads campaigns split by audience, such as parties, stag and hen, corporate and arrive-and-drive, let each ad send people to the most relevant page. Our <a href="/services/paid-media/">paid media service</a> covers search, social and video campaigns.</p>
+<p>Social ads suit karting because it is visual and shareable. Short videos of racing, podium moments and group celebrations work well on Meta, TikTok and YouTube, particularly for building awareness among younger adults. Our guide to working with a <a href="/blog/meta-ads-agency-uk/">Meta ads agency</a> explains how those campaigns are usually set up.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What to watch</th></tr></thead>
+<tbody>
+<tr><td>Google Search ads</td><td>People actively looking for karting, parties or corporate days</td><td>Separate campaigns by audience and send each to its own page</td></tr>
+<tr><td>Google Business Profile</td><td>Local "near me" searches and map results</td><td>Hours, photos, reviews and a direct booking link</td></tr>
+<tr><td>Meta and TikTok ads</td><td>Building awareness and promoting offers or events</td><td>Use real track footage and a clear offer</td></tr>
+<tr><td>Remarketing</td><td>People who viewed packages but did not book</td><td>Keep audiences small and messages specific</td></tr>
+<tr><td>Email</td><td>Repeat bookings, leagues and gift voucher sales</td><td>Consent, timing and relevant offers</td></tr>
+</tbody>
+</table>
+<p>Many group organisers look at a package, then leave to check with friends. Remarketing reminds them to come back and book. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> explains how to set this up without overdoing it.</p>
+
+<h2>Groups, parties and corporate events</h2>
+<p>Group bookings are often the most valuable work a karting track takes, so they deserve their own marketing. Each audience needs different information:</p>
+<ul>
+<li><strong>Children's parties</strong>: minimum ages, what is included, party room or food options and how long it lasts.</li>
+<li><strong>Stag and hen groups</strong>: formats, group discounts if you offer them, nearby food and drink options and arrival rules.</li>
+<li><strong>Corporate events</strong>: private hire, team race formats, meeting space, catering and invoicing options.</li>
+</ul>
+<p>For corporate work, a simple enquiry form that captures date, group size and budget range helps you respond quickly with a tailored quote. Make sure someone follows up the same day, because corporate organisers often contact several venues at once.</p>
+<p>If you also offer other activities, such as laser games or crazy golf, package them clearly. Combined packages can be a strong reason for a group to choose you over a single-activity venue.</p>
+
+<h2>Keep regular drivers coming back</h2>
+<p>Regular drivers are valuable because they book repeatedly and often bring friends. Leagues, championships, lap time leaderboards and membership offers give them a reason to return. Promote these on your website, in your venue and through email.</p>
+<p>Building an email list from your bookings, with the right consent, lets you tell past customers about new events, quiet-time offers and gift voucher promotions. Under UK GDPR and PECR, marketing emails generally need consent or a valid soft opt-in, so check current ICO guidance on how this applies to you. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> covers the practical side.</p>
+
+<h2>Safety, licensing and responsible messaging</h2>
+<p>Karting customers want reassurance that the track is well run and safe. Explain your safety briefing, kit, marshalling and age and height rules clearly on your website. Make sure all safety claims are accurate and reflect how you actually operate.</p>
+<p>Insurance, health and safety duties and any industry or governing body standards that apply to your track are matters for you to confirm. Check current guidance from the relevant authorities and your insurer, and keep marketing claims in line with what you can demonstrate. If you sell alcohol on site, any licensing conditions also apply, so check current guidance before promoting drink packages.</p>
+
+<h2>SEO for karting tracks</h2>
+<p>Local SEO helps you appear for searches in your area without paying for every click. Useful pages target the way people search: "indoor go karting [town]", "kids karting parties [area]", "corporate karting near [city]". Each page needs genuine, specific content: sessions, prices, rules, photos and frequently asked questions.</p>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local SEO, on-page work and optimising content so it can be cited in AI search answers. If you have one track, focus on making your main pages excellent before creating pages for nearby towns.</p>
+
+<h2>Working with an agency</h2>
+<p>Many karting tracks start by improving their website and booking journey, then add paid search and social ads once the basics are converting well. We offer monthly retainers from Launch at £350 a month to Growth at £750 and Scale at £1,500, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. See our <a href="/pricing/">pricing page</a> for details.</p>
+<p>SEO and paid results typically build over three to six months, so plan ahead of your busiest seasons, such as summer holidays and the run-up to Christmas.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best go karting marketing UK tracks can do first?</h3>
+<p>Start with your Google Business Profile, reviews and a website that shows sessions, prices and online booking clearly. Those basics support every other channel, from paid ads to social media.</p>
+<h3>Should a karting track use online booking?</h3>
+<p>Yes, in most cases. Live availability and instant confirmation help people book while they are interested, and deposits reduce no-shows for larger group bookings.</p>
+<h3>Which ads work best for go karting tracks?</h3>
+<p>Google Search ads usually capture the most ready-to-book demand, while Meta, TikTok and YouTube ads help build awareness with real track footage. Remarketing helps bring back group organisers who left without booking.</p>
+<h3>How do we attract more corporate karting bookings?</h3>
+<p>Create a dedicated corporate events page covering private hire, formats, catering and invoicing, run search ads for corporate karting terms and respond to enquiries quickly with a tailored quote.</p>
+<h3>Do karting tracks need a separate page for kids parties?</h3>
+<p>It is usually worth it. Parents search specifically for kids karting and parties, and a dedicated page can answer age rules, package contents and timings in one place.</p>
+<h3>How long does karting track marketing take to work?</h3>
+<p>Paid ads can bring bookings quickly once set up, while SEO and paid results typically build over three to six months. Planning before your peak seasons gives campaigns time to settle.</p>
+`,
+  },
+  {
+    slug: 'google-ads-assets-guide',
+    seoTitle: 'Google Ads Assets: Sitelinks, Callouts and Call Assets',
+    title: 'Google Ads Assets Explained: How to Add Sitelinks, Callouts and Call Assets',
+    description: 'Google Ads assets add sitelinks, callouts, phone numbers and more to your search ads. Learn which assets suit a small business and how to set them up well.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Google Ads assets are extra pieces of information, such as sitelinks, callouts, phone numbers and your business address, that can appear alongside your search ads to make them larger and more useful. To add them, open the assets area of your Google Ads account, choose an asset type, write it for your business, and attach it at account, campaign or ad group level.</p>
+<p>Assets used to be called ad extensions, and you will still see that name in older guides. For small businesses running search campaigns, they are one of the simplest improvements available. They cost nothing extra to add, you still pay only for clicks, and they give searchers more reasons to choose you. This guide covers the main types, how to write them, and the mistakes that stop them working.</p>
+
+<h2>Why assets matter for small business search ads</h2>
+<p>A search ad on its own is a headline, a short description and a link. With assets, the same ad might also show four extra links to specific pages, a line of selling points such as free quotes or local engineers, a click-to-call button and your town. That takes up more space on the results page and answers more questions before the click.</p>
+<p>Google uses assets as part of how it judges ad quality and expected performance, so a well-built set of assets can support your ad's position and the cost of clicks. Google decides which assets show for each search, and none are guaranteed to appear, but accounts with a sensible range give the system more to work with.</p>
+<p>If you are new to search campaigns, our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business</a> covers the wider setup first.</p>
+
+<h2>The main Google Ads asset types</h2>
+<table>
+<thead><tr><th>Asset type</th><th>What it shows</th><th>Best for</th></tr></thead>
+<tbody>
+<tr><td>Sitelinks</td><td>Extra links to specific pages, with optional descriptions</td><td>Almost every business</td></tr>
+<tr><td>Callouts</td><td>Short, non-clickable selling points</td><td>Highlighting benefits such as free quotes or UK delivery</td></tr>
+<tr><td>Structured snippets</td><td>A header plus a list, such as Services: boilers, radiators, bathrooms</td><td>Showing range at a glance</td></tr>
+<tr><td>Call</td><td>A phone number or call button</td><td>Trades, clinics and services that take bookings by phone</td></tr>
+<tr><td>Location</td><td>Your address, distance and map link, from your Business Profile</td><td>Shops, salons, clinics and other walk-in businesses</td></tr>
+<tr><td>Image</td><td>A picture beside the ad</td><td>Visual products and services, where eligible</td></tr>
+<tr><td>Price</td><td>A list of services or products with prices</td><td>Businesses with clear, fixed prices</td></tr>
+<tr><td>Lead form</td><td>A form inside the ad, where eligible</td><td>Simple enquiry capture</td></tr>
+<tr><td>Business name and logo</td><td>Your brand name and logo</td><td>Building recognition, subject to verification</td></tr>
+</tbody>
+</table>
+<p>Availability and eligibility rules change, and some asset types depend on account history or verification. Check Google Ads' current help pages before planning around a particular type.</p>
+
+<h2>How to add Google Ads assets</h2>
+<p>The exact menu names move from time to time, but the process is broadly the same:</p>
+<ol>
+<li><strong>Open the assets area.</strong> In your Google Ads account, find the section for assets, usually within the campaign or ads menus.</li>
+<li><strong>Choose the asset type.</strong> Start with sitelinks, then callouts, structured snippets and call or location.</li>
+<li><strong>Pick the level.</strong> Account-level assets apply everywhere. Campaign or ad group assets override them where more specific wording is better. A common approach is general assets at account level and tailored ones for each campaign.</li>
+<li><strong>Write and save.</strong> Follow the character limits shown on screen, and preview how the ad might look.</li>
+<li><strong>Set schedules where useful.</strong> Call assets can be scheduled to show only when someone is available to answer.</li>
+</ol>
+<p>Google may also create some assets automatically from your website and existing ads. You can usually review or switch these off in the account settings, so check what is running.</p>
+
+<h2>Writing sitelinks that get clicked</h2>
+<p>Sitelinks are usually the most valuable asset. Each one links to a different page and can carry two short description lines.</p>
+<ul>
+<li><strong>Link to genuinely different pages.</strong> Four sitelinks all pointing to the homepage add little and can be disapproved. Choose distinct service pages, a pricing page, reviews, or a contact page.</li>
+<li><strong>Match the search intent.</strong> In a campaign for boiler repairs, sitelinks for boiler servicing, emergency call-outs and finance options are more relevant than a link to your about page.</li>
+<li><strong>Use descriptions.</strong> The extra lines give Google more to show and make each link clearer.</li>
+<li><strong>Add more than the minimum.</strong> Google can show different combinations, so six to eight relevant sitelinks per campaign gives it choice.</li>
+</ul>
+<p>Every sitelink sends people to a landing page, so those pages need to deliver. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> and <a href="/blog/service-page-design/">service page design guide</a> explain what a page needs to turn a click into an enquiry.</p>
+
+<h2>Callouts and structured snippets</h2>
+<p>Callouts are short phrases that sit under your ad, such as Free No-Obligation Quotes, Gas Safe Registered Engineers or Next Day UK Delivery. They are not clickable, so their job is to persuade. Keep each one short, specific and true. Every claim must be accurate and supported on your website; the UK advertising codes apply to search ads as much as anywhere else.</p>
+<p>Structured snippets use a fixed header, such as Services, Types, Brands or Destinations, followed by a list of values. A florist might use Types: wedding flowers, funeral tributes, bouquets, subscriptions. Choose the header that genuinely fits and list concrete items rather than slogans.</p>
+
+<h2>Call and location assets for local businesses</h2>
+<p>For trades and local services, phone calls are often the most valuable lead. A call asset puts your number on the ad and, on mobile, a button to ring you. Use a number that is answered during the hours the asset is scheduled, and consider using Google's call reporting so calls can be counted as conversions. Our <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking guide</a> covers how to measure calls and forms properly.</p>
+<p>Location assets pull your address from your Google Business Profile, so the two accounts need linking and your profile details must be accurate. If your profile needs attention, our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> is a good place to start. Location assets pair naturally with sensible geographic targeting, which our <a href="/blog/google-ads-location-targeting-guide/">location targeting guide</a> explains.</p>
+
+<h2>Common mistakes with assets</h2>
+<ul>
+<li><strong>Setting them once and forgetting them.</strong> Offers end, opening hours change and pages get renamed. Outdated assets damage trust and can trigger disapprovals.</li>
+<li><strong>Repeating the ad text.</strong> If your headline says Free Quotes, a callout saying the same wastes space. Use assets to add new information.</li>
+<li><strong>Broken or redirected sitelinks.</strong> After a website redesign, check every sitelink URL still works.</li>
+<li><strong>Prices that do not match the website.</strong> Price assets must reflect what customers will actually pay. If prices vary a lot, leave this asset out.</li>
+<li><strong>Calls outside opening hours.</strong> An unanswered call is a wasted click. Schedule call assets carefully.</li>
+<li><strong>Judging assets too soon.</strong> Give new assets a few weeks of data before deciding they do not work.</li>
+</ul>
+
+<h2>Reviewing asset performance</h2>
+<p>Google Ads reports how often each asset shows and how it performs, though the figures are best read as a guide because assets appear in combinations. Look for sitelinks that are rarely shown or rarely clicked and test better alternatives, and keep the strongest callouts. Review assets alongside your ad copy; our guide to <a href="/blog/google-ads-responsive-search-ads/">responsive search ads</a> covers the headlines and descriptions they sit next to.</p>
+<p>If you would like an experienced eye on your account, assets are among the first things we check in a review, and campaign management is part of our <a href="/services/paid-media/">paid media service</a>. Our <a href="/pricing/">pricing page</a> explains our retainers, with ad spend paid separately to Google.</p>
+
+<h2>FAQs</h2>
+<h3>What are Google Ads assets?</h3>
+<p>They are extra details that can appear with your ads, such as sitelinks, callouts, structured snippets, phone numbers, locations and images. They were previously called ad extensions and are free to add, though you still pay for clicks.</p>
+<h3>Do Google Ads assets cost extra?</h3>
+<p>No. There is no charge for adding assets. You pay for clicks as normal, and a click on a sitelink or call button is charged in the same way as a click on the main ad, within Google's current billing rules.</p>
+<h3>Why are my assets not showing?</h3>
+<p>Google decides whether to show assets for each search based on expected usefulness, ad position and available space. Assets can also be limited by eligibility, disapprovals or scheduling. Check the status column and Google Ads' current help pages if an asset never appears.</p>
+<h3>How many sitelinks should I add?</h3>
+<p>Add enough to give Google a choice, often six to eight relevant sitelinks per campaign, each pointing to a different useful page. Fewer, well-written sitelinks are better than many vague ones.</p>
+<h3>Should assets be at account or campaign level?</h3>
+<p>Both can work. Account-level assets are a sensible default, and campaign or ad group assets let you tailor messages where a campaign needs different links or selling points. More specific levels take priority over broader ones.</p>
+<h3>Are Google Ads assets the same as ad extensions?</h3>
+<p>Yes. Google renamed ad extensions to assets, and the core types such as sitelinks, callouts and call assets work in much the same way. Older guides may still use the extensions name.</p>
+`,
+  },
+  {
+    slug: 'how-to-write-an-email-newsletter',
+    seoTitle: 'How to Write an Email Newsletter for Your Small Business',
+    title: 'How to Write an Email Newsletter People Actually Open and Read',
+    description: 'To write an email newsletter, pick one main message, write a clear subject line, keep the body short and end with one action. A practical UK guide.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/digital-pr-content/', '/services/brand-strategy/', '/pricing/'],
+    body: `
+<p>To write an email newsletter for a small business, choose one main message for each issue, write a specific subject line that tells readers what they will get, keep the body short and easy to scan, and finish with a single clear action. Send it on a regular schedule to people who have agreed to hear from you, and measure clicks and enquiries rather than just opens.</p>
+<p>Many UK business owners start a newsletter with good intentions, send three issues, then stop because writing it feels like a chore and nobody seems to respond. Usually the problem is not the idea but the format: too much content, no clear purpose and a subject line that gives no reason to open. This guide sets out a simple, repeatable way to write newsletters that people read.</p>
+
+<h2>Decide what your newsletter is for</h2>
+<p>Before writing anything, be clear about the job the newsletter does for your business. Most small business newsletters fall into one of a few types:</p>
+<table>
+<thead><tr><th>Newsletter type</th><th>Main purpose</th><th>Typical content</th></tr></thead>
+<tbody>
+<tr><td>Helpful tips</td><td>Build trust and stay front of mind</td><td>Seasonal advice, how-tos, answers to common questions</td></tr>
+<tr><td>Updates and news</td><td>Keep customers informed</td><td>New services, opening hours, events, team availability</td></tr>
+<tr><td>Offers and launches</td><td>Drive sales or bookings</td><td>New products, limited offers, early access</td></tr>
+<tr><td>Curated roundup</td><td>Position you as a useful source</td><td>Your recent blog posts, short commentary on industry changes</td></tr>
+</tbody>
+</table>
+<p>Most businesses mix these, but each issue should lean towards one. A heating engineer might send seasonal boiler tips in autumn and a servicing reminder in spring. An independent shop might alternate new arrivals with styling or care advice. If you have not yet built a list to send to, our guide on <a href="/blog/email-list-building-uk/">how to build an email list</a> covers sign-up forms and consent.</p>
+
+<h2>How to write an email newsletter, step by step</h2>
+<ol>
+<li><strong>Pick one main message.</strong> Write it as a single sentence before you start: "Book your boiler service before the cold weather" or "Our new autumn range is in". Everything else supports that message.</li>
+<li><strong>Write the subject line.</strong> Do this early, because it forces clarity. More on subject lines below.</li>
+<li><strong>Open with the point.</strong> The first two lines should tell the reader why this email matters to them. Skip long greetings and apologies for not writing sooner.</li>
+<li><strong>Add the main section.</strong> A short article, tip, offer or announcement, usually between 100 and 300 words.</li>
+<li><strong>Add one or two short extras if useful.</strong> A recent blog post, a customer question answered, or a reminder about opening hours.</li>
+<li><strong>End with one clear action.</strong> Book, buy, reply, read more. One main button is better than five competing links.</li>
+<li><strong>Check the footer.</strong> Your business name, address details as required, and an easy unsubscribe link.</li>
+<li><strong>Test, then send.</strong> Send a test to yourself, read it on your phone, click every link, then schedule it.</li>
+</ol>
+
+<h2>Writing subject lines and preview text</h2>
+<p>The subject line decides whether the rest of the email is read. Good subject lines for small business newsletters tend to be specific, plain and honest.</p>
+<ul>
+<li><strong>Be specific.</strong> "How to stop your pipes freezing this winter" is better than "November newsletter".</li>
+<li><strong>Keep it reasonably short.</strong> Many people read email on phones, where long subject lines are cut off.</li>
+<li><strong>Match the content.</strong> A misleading subject line may lift opens once but damages trust and can increase unsubscribes and spam complaints.</li>
+<li><strong>Use preview text.</strong> Most email platforms let you set the short line shown after the subject in the inbox. Use it to add detail rather than letting it default to "View this email in your browser".</li>
+<li><strong>Go easy on capitals, symbols and emojis.</strong> A little personality is fine, but a subject line full of exclamation marks looks like spam.</li>
+</ul>
+
+<h2>Writing the body so it gets read</h2>
+<p>People skim emails, so structure matters as much as wording.</p>
+<ul>
+<li><strong>Short paragraphs.</strong> Two or three sentences each, with plenty of space.</li>
+<li><strong>Clear subheadings.</strong> If you include more than one section, give each a short heading.</li>
+<li><strong>Write to one person.</strong> Use "you" and keep the tone close to how you would speak to a customer in person. Our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> helps define how your business should sound.</li>
+<li><strong>Lead with benefits.</strong> Explain what the reader gets, not just what you did.</li>
+<li><strong>Do not paste whole blog posts.</strong> Write a short summary and link to the full article on your website, which brings readers to your site and keeps the email light.</li>
+</ul>
+<p>The same principles that make website copy work apply here. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers writing clearly for busy readers in more depth.</p>
+
+<h2>Images, layout and mobile</h2>
+<p>Most email platforms offer templates, and a simple single-column layout is usually best for small businesses. It reads well on phones and is easy to keep consistent.</p>
+<ul>
+<li>Use your logo and brand colours so readers recognise you instantly.</li>
+<li>Add images only when they help, such as a product photo or a picture of finished work, and add alt text in case images are blocked.</li>
+<li>Do not put important text inside images; some inboxes hide images by default.</li>
+<li>Make buttons large enough to tap and label them with the action, such as "Book a service", not "Click here". Our guide to <a href="/blog/website-call-to-action-buttons/">call to action buttons</a> covers button wording.</li>
+<li>Check how the email looks in dark mode on your own phone, as colours and logos can change.</li>
+</ul>
+
+<h2>How often to send</h2>
+<p>There is no single right frequency. A monthly newsletter is a realistic starting point for most small businesses, and some shops send more often around launches or busy seasons. What matters most is consistency. Readers who know roughly when to expect you are more likely to open, and a predictable schedule makes the writing easier to plan.</p>
+<p>A simple content plan helps. Jot down twelve themes for the year, tied to your seasons, launches and common customer questions, and you will rarely face a blank page. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> explains how to plan topics that serve both email and your website.</p>
+
+<h2>UK rules to keep in mind</h2>
+<p>Marketing emails in the UK are covered by PECR and UK GDPR. In general terms, you need people's consent to send marketing emails, unless a specific exception applies, such as the soft opt-in for existing customers who bought or negotiated to buy similar products and were given a chance to opt out. Every email should identify your business and include an easy way to unsubscribe. This is general information rather than legal advice, so check the ICO's current guidance for your situation.</p>
+<p>Deliverability matters too. Sending from your own domain, with the authentication records your email platform asks for, helps your newsletter land in inboxes rather than spam folders. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> explains the basics, and your email platform's help pages will list the records it needs.</p>
+
+<h2>Measuring whether it works</h2>
+<p>Open rates are a rough guide at best, because privacy features in some email apps can make opens appear higher than they really are. Focus instead on:</p>
+<ul>
+<li><strong>Clicks:</strong> which links people actually used.</li>
+<li><strong>Replies:</strong> a strong sign of engagement for service businesses.</li>
+<li><strong>Enquiries, bookings and sales:</strong> tracked in your analytics by tagging newsletter links. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> shows how.</li>
+<li><strong>Unsubscribes and complaints:</strong> a sudden rise suggests the content, frequency or audience is off.</li>
+</ul>
+<p>Review results every few issues and keep what works. For online shops, automated emails such as welcome and abandoned basket flows often do more than newsletters, and our <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing guide</a> covers those.</p>
+
+<h2>When to get help</h2>
+<p>If writing a regular newsletter keeps slipping down your list, it can be worth handing over the planning and writing while you supply the news and approve each issue. Content writing is part of our <a href="/services/digital-pr-content/">digital PR and content service</a>, and our <a href="/pricing/">pricing page</a> sets out our retainer options.</p>
+
+<h2>FAQs</h2>
+<h3>How to write an email newsletter for a small business?</h3>
+<p>Choose one main message, write a specific subject line and preview text, open with why it matters to the reader, keep the body short and scannable, and finish with one clear call to action. Test it on mobile before sending.</p>
+<h3>How long should a newsletter be?</h3>
+<p>Short is usually better. A main section of a few hundred words, plus one or two brief extras, is plenty for most small businesses. Link to your website for anything longer.</p>
+<h3>What should I put in my first newsletter?</h3>
+<p>Welcome readers, explain briefly what they can expect and how often, and include one genuinely useful piece of content or offer. Keep it simple; you can refine the format as you learn what readers respond to.</p>
+<h3>Can I email my existing customers without asking first?</h3>
+<p>Possibly, under the soft opt-in, if they bought or negotiated to buy from you, the marketing is about similar products or services, and they were given a simple chance to opt out at the time and in every message. Check the ICO's current guidance to confirm it applies.</p>
+<h3>What is a good subject line for a newsletter?</h3>
+<p>One that tells readers specifically what they will get, in plain language, such as a tip, a date or a new product. Avoid vague titles such as the month's name and avoid misleading claims.</p>
+<h3>Which email platform should I use?</h3>
+<p>Choose one that suits your list size, connects with your website or shop, offers easy templates and handles unsubscribes automatically. Compare current features and prices on each provider's website, as plans change often.</p>
+`,
+  },
+  {
+    slug: 'internal-linking-guide-small-business',
+    seoTitle: 'Internal Linking for Small Business Websites: A Guide',
+    title: 'Internal Linking for Small Business Websites: How to Link Your Pages Properly',
+    description: 'Internal linking helps visitors and search engines find your most important pages. Learn how to plan links, write anchor text and fix orphan pages.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/digital-pr-content/', '/pricing/'],
+    body: `
+<p>Internal linking for small business websites means connecting your own pages to each other with clear, relevant links so visitors and search engines can find your most important content. Done well, it helps your service and product pages rank, keeps people moving towards an enquiry, and costs nothing but a little planning.</p>
+<p>Most small business sites grow in bursts. A few service pages at launch, then a blog post here and there, then a new product range or a location page. Without a plan, the links between them become patchy: new posts link to nothing, older pages are buried, and the pages that bring in revenue receive no support from the rest of the site. This guide explains how to put that right.</p>
+
+<h2>Why internal links matter for SEO and for visitors</h2>
+<p>Search engines discover pages largely by following links. A page with no internal links pointing to it may be found slowly, or not at all, even if it is in your sitemap. Links also pass signals between pages. When many relevant pages on your site link to your bathroom fitting service page, for example, that is a strong hint that the page is important and what it is about.</p>
+<p>For visitors, internal links answer the question "where next?". Someone reading a blog post about choosing a boiler is a natural candidate for your boiler installation page. If the post does not link there, many readers will simply leave. Good internal linking is as much about conversion as about rankings.</p>
+<p>It also supports newer kinds of search. AI-driven results tend to draw on sites that cover a topic clearly and connect related pages logically, which is part of what our guide to <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> describes.</p>
+
+<h2>The main types of internal link</h2>
+<table>
+<thead><tr><th>Link type</th><th>Where it appears</th><th>What it is good for</th></tr></thead>
+<tbody>
+<tr><td>Main navigation</td><td>Header menu on every page</td><td>Reaching top-level services, shop categories and contact</td></tr>
+<tr><td>Footer links</td><td>Bottom of every page</td><td>Secondary pages, policies, locations</td></tr>
+<tr><td>Contextual links</td><td>Inside the body text</td><td>Strongest relevance signal and natural next steps</td></tr>
+<tr><td>Breadcrumbs</td><td>Above the page title</td><td>Showing hierarchy on larger sites and shops</td></tr>
+<tr><td>Related content blocks</td><td>End of posts or product pages</td><td>Keeping readers on the site</td></tr>
+<tr><td>Calls to action</td><td>Buttons and banners</td><td>Moving people to an enquiry or purchase</td></tr>
+</tbody>
+</table>
+<p>Navigation and footer links are set once and shared across the site, so they matter for structure. Our guide to <a href="/blog/website-navigation-structure/">website navigation structure</a> covers menus in detail. Contextual links inside your content are where most of the day-to-day work happens, and they are the focus of the rest of this guide.</p>
+
+<h2>How to plan internal linking for small business websites</h2>
+<p>You do not need software to do this well on a site of a few dozen pages. A simple spreadsheet is enough.</p>
+<ol>
+<li><strong>List every page.</strong> Export your sitemap or copy the list from your CMS. Note the page type: home, service, product, category, location, blog post, other.</li>
+<li><strong>Pick your priority pages.</strong> These are the pages that make you money: core service pages, main shop categories, your pricing or booking page. For most small businesses that is somewhere between three and ten pages.</li>
+<li><strong>Group pages by topic.</strong> Put each blog post and supporting page next to the priority page it relates to most closely. A post about garden drainage belongs with your landscaping service; a post on caring for wool jumpers belongs with your knitwear category.</li>
+<li><strong>Map the links.</strong> Every supporting page should link to its priority page at least once, ideally early in the content where it fits naturally. Priority pages can link back to the most useful supporting articles.</li>
+<li><strong>Add sideways links where they help.</strong> Related posts within the same topic can link to each other when a reader would genuinely want the second article.</li>
+</ol>
+<p>This hub-and-spoke pattern is often called a topic cluster. It keeps relevance tight and makes sure the pages you care about receive the most internal support. If you are still deciding which topics to write about, our <a href="/blog/content-strategy-uk/">content strategy guide</a> and <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> help with that first step.</p>
+
+<h2>Writing good anchor text</h2>
+<p>Anchor text is the clickable wording of a link. It tells both readers and search engines what to expect on the other side.</p>
+<ul>
+<li><strong>Be descriptive.</strong> "Our emergency plumbing service in Leeds" is far more useful than "click here" or "read more".</li>
+<li><strong>Keep it natural.</strong> Write the sentence first, then link the words that best describe the destination. Forcing an exact keyword into awkward sentences reads badly.</li>
+<li><strong>Vary it a little.</strong> Linking to the same page with slightly different wording from different posts is normal and reads naturally.</li>
+<li><strong>Do not use the same anchor for different pages.</strong> If "kitchen fitting" links to two different URLs on your site, you are sending mixed signals about which page should rank.</li>
+<li><strong>Keep links accessible.</strong> Screen reader users often navigate by a list of links, so each one should make sense on its own. Our <a href="/blog/website-accessibility-uk/">website accessibility guide</a> covers this and more.</li>
+</ul>
+
+<h2>How many internal links should a page have?</h2>
+<p>There is no fixed number. A useful rule of thumb is that every link should help a reader. A blog post of around 1,500 words might sensibly include somewhere in the region of five to ten contextual links to related pages, while a short service page may need only a few. Pages crammed with links in every sentence become hard to read and dilute the value of each link.</p>
+<p>More important than the count is the pattern across the site. Your priority pages should receive the most internal links from relevant content, and no useful page should receive none at all.</p>
+
+<h2>Finding orphan pages and broken links</h2>
+<p>An orphan page is a page that no other page on your site links to. It might be reachable through the sitemap or an old email campaign, but visitors browsing the site will never find it, and search engines may treat it as unimportant.</p>
+<p>To find orphan pages on a small site, compare your full list of pages against the pages that appear as link destinations. A website crawler can produce the link list for you, and Google Search Console's links report shows which pages receive the most internal links. Pages near the bottom of that list, or missing from it, deserve a look. Our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> explains how to get access if you have not already.</p>
+<p>Broken internal links are the other common problem. They usually appear after pages are deleted, renamed or moved during a redesign. Fix them by updating the link to the correct live page rather than relying on a redirect, and set up redirects for any old URLs that external sites or bookmarks may still use. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers that side.</p>
+
+<h2>Platform tips</h2>
+<p>Most platforms make contextual linking straightforward, but each has its own habits, so check the platform's current help pages for the exact steps.</p>
+<ul>
+<li><strong>WordPress:</strong> the block editor lets you search for existing posts and pages when adding a link, which reduces typos. Some SEO plugins suggest internal links as you write.</li>
+<li><strong>Shopify:</strong> product descriptions, collection descriptions and blog posts all accept links. Linking blog content to relevant collections is an easy win for many stores.</li>
+<li><strong>Website builders:</strong> link tools are usually in the text editor toolbar. Use the option to link to an internal page rather than pasting a full address where possible, so links update if a page is renamed.</li>
+</ul>
+
+<h2>A simple internal linking routine</h2>
+<p>Internal linking is not a one-off job. Build it into how you publish:</p>
+<ul>
+<li>Every new post or page links to at least one relevant priority page.</li>
+<li>After publishing, add a link to the new page from two or three older, related pages.</li>
+<li>Each quarter, check for orphan pages and broken links.</li>
+<li>Before any redesign or migration, export your links so nothing important is lost.</li>
+</ul>
+<p>A periodic <a href="/blog/website-content-audit/">website content audit</a> is a good moment to review links alongside the content itself.</p>
+
+<h2>When to get help</h2>
+<p>On a small site, internal linking is very manageable in house. It becomes harder on shops with hundreds of products, sites with many locations, or sites with years of unplanned blog posts. Internal link planning is part of our <a href="/services/seo-geo/">SEO and GEO service</a>, and our <a href="/pricing/">pricing page</a> sets out how retainers work if you would like ongoing support.</p>
+
+<h2>FAQs</h2>
+<h3>What is internal linking for small business websites?</h3>
+<p>It is the practice of linking your own pages to each other so visitors and search engines can find important content. For small businesses, that usually means linking blog posts and supporting pages to the service, product or booking pages that generate enquiries and sales.</p>
+<h3>Do internal links help SEO?</h3>
+<p>Yes. They help search engines discover pages, understand what each page is about and judge which pages matter most. They are one of the few ranking signals entirely within your control.</p>
+<h3>Should internal links open in a new tab?</h3>
+<p>Generally no. Internal links usually work best opening in the same tab, which is what most visitors expect. New tabs are better kept for documents such as PDFs or for situations where leaving the page would lose a visitor's progress.</p>
+<h3>What is an orphan page?</h3>
+<p>An orphan page has no internal links pointing to it from elsewhere on your site. Visitors cannot reach it by browsing, and search engines may treat it as low priority. Either link to it from relevant pages or remove it if it no longer serves a purpose.</p>
+<h3>Is it bad to link to the same page many times?</h3>
+<p>Linking to a priority page from many different relevant pages is good. Linking to the same page several times within one article adds little, so one well-placed link per destination in each piece of content is usually enough.</p>
+<h3>Should I use nofollow on internal links?</h3>
+<p>Usually not. Nofollow on internal links rarely helps and can stop search engines following paths you want them to use. If a page should not appear in search results, a noindex instruction on that page is normally the better tool.</p>
+`,
+  },
+  {
+    slug: 'pottery-painting-studio-marketing-uk',
+    seoTitle: 'Pottery Painting Studio Marketing UK: Get More Bookings',
+    title: 'Pottery Painting Studio Marketing in the UK: How to Get More Bookings',
+    description: 'Pottery painting studio marketing in the UK works when local search, easy table booking and clear party and workshop pages turn browsers into visits.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Pottery painting studio marketing in the UK is about being found when people look for a creative thing to do nearby, then making it simple to book a table, a party or a workshop. The paint-your-own studios that stay busy usually combine a strong local listing, a visual website with clear prices, easy online booking and a steady stream of social content showing finished pieces.</p>
+<p>This guide is for paint-your-own pottery studios, ceramic cafés and creative studios that also run clay or craft workshops. It covers how customers choose a studio, your website and booking, Google Business Profile, social media and ads, parties and groups, and repeat visits. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of filling your tables.</p>
+
+<h2>How customers choose a pottery painting studio</h2>
+<p>Most visits are planned around an occasion or a free afternoon: a rainy weekend with the children, a birthday party, a hen do, a date or a gift that someone wants to make themselves. People search for "pottery painting near me", "paint your own pottery Bristol" or "pottery painting party", look at photos, check prices and decide whether it feels like their kind of place.</p>
+<p>Photos matter a great deal here. People want to see the space, the shelves of bisque pieces, the finished work and the atmosphere. A studio with bright, recent photos and clear information usually wins over one with a sparse listing, even if it is a little further away.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Families</strong> looking for a weekend or school holiday activity, often with young children.</li>
+<li><strong>Children's party organisers</strong> wanting a packaged party with a set price per child.</li>
+<li><strong>Adults and friends</strong> booking an evening session, sometimes with drinks if your licence allows.</li>
+<li><strong>Hen parties and celebrations</strong> wanting a private or semi-private group booking.</li>
+<li><strong>Corporate and community groups</strong> booking team socials or wellbeing sessions.</li>
+<li><strong>Gift buyers</strong> wanting a handprint keepsake, a personalised plate or a voucher.</li>
+</ul>
+
+<h2>Pottery painting studio marketing UK: start with a clear website</h2>
+<p>Your website should answer the questions that stop people booking. How does it work? What does it cost? How long does firing take? When can I collect? Can I bring a baby for a footprint? A short "how it works" section near the top of the homepage saves you from answering the same questions on the phone all day.</p>
+<p>Pages that usually earn their place:</p>
+<ul>
+<li><strong>How it works and prices</strong>, explaining any studio fee, how pottery is priced, glazing and firing, and collection times.</li>
+<li><strong>Book a table</strong>, with live availability and group sizes.</li>
+<li><strong>Kids parties</strong>, with packages, ages, what is included and party lengths.</li>
+<li><strong>Adult evenings and hen parties</strong>, with formats and any extras you offer.</li>
+<li><strong>Keepsakes</strong>, such as baby hand and footprints, if you offer them.</li>
+<li><strong>Workshops</strong>, such as clay modelling or seasonal classes, if you run them.</li>
+<li><strong>Gift vouchers</strong>, bought and sent online.</li>
+</ul>
+<p>Studio photos and examples of finished pieces should run through every page. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains how to keep lots of images without slowing your site down, which matters because most visitors will be on a phone.</p>
+
+<h2>Online booking for tables, parties and workshops</h2>
+<p>Weekends and school holidays can fill up quickly, so letting people reserve a table online prevents disappointment at the door and helps you plan staffing. Party bookings usually need a deposit, a headcount and a few details about the child or group.</p>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> compares the main options. For a pottery painting studio, look for:</p>
+<ul>
+<li>Table slots by time and group size, with walk-in space held back if you want it.</li>
+<li>Party and workshop booking with deposits and automatic reminders.</li>
+<li>Confirmation emails that explain how long sessions last, what to wear and when pieces will be ready.</li>
+<li>Collection reminders, so finished pieces do not pile up on your shelves.</li>
+</ul>
+
+<h2>Google Business Profile, photos and reviews</h2>
+<p>Your Google Business Profile is often the first thing people see. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the settings. For a studio, the priorities are accurate opening hours, including holiday hours, plenty of photos of the space and finished work, and a direct link to booking.</p>
+<p>Reviews from families and groups help new customers trust you. Ask when people collect their finished pieces, as this is when they are most delighted, using a small card or QR code at the counter. Reply to every review in a friendly, personal tone. Our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> offers examples.</p>
+
+<h2>Social media and paid ads</h2>
+<p>Pottery painting is naturally visual, which makes social media one of your best marketing tools. Finished pieces, time-lapse painting videos, seasonal designs and party set-ups all make good content, and customers often share their own creations if you invite them to tag you.</p>
+<p>Paid social can help promote holiday sessions, seasonal events and gift vouchers to people nearby. Our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small business</a> explains how to start with a sensible budget. Google Search ads can capture people actively searching for pottery painting or party venues in your area. Our <a href="/services/paid-media/">paid media service</a> covers both.</p>
+<table>
+<thead><tr><th>Occasion</th><th>When to promote</th><th>What to offer</th></tr></thead>
+<tbody>
+<tr><td>School holidays</td><td>A few weeks before each holiday</td><td>Family sessions, children's themed designs and booking reminders</td></tr>
+<tr><td>Mother's Day and Father's Day</td><td>Several weeks ahead, allowing for firing time</td><td>Handprint and personalised gift sessions</td></tr>
+<tr><td>Christmas</td><td>From early autumn, with clear last booking dates</td><td>Decorations, gifts, vouchers and group sessions</td></tr>
+<tr><td>Hen and birthday season</td><td>Year-round, with spring and summer pushes</td><td>Private group packages and adult evenings</td></tr>
+<tr><td>Quiet weekday periods</td><td>Ongoing</td><td>Toddler mornings, community groups and corporate sessions</td></tr>
+</tbody>
+</table>
+<p>Firing time is a practical point that should shape your marketing. If pieces take a week or more to be ready, promote gift-giving occasions early and state clear last booking dates for each one.</p>
+
+<h2>Parties, groups and corporate sessions</h2>
+<p>Parties and group bookings are often the most valuable part of a pottery painting studio's week. Give each type its own page with the details organisers need:</p>
+<ul>
+<li><strong>Kids parties</strong>: age range, number of children, what each child paints, party food if offered and timings.</li>
+<li><strong>Hen parties and adult groups</strong>: private hire options, group sizes, themes and any extras.</li>
+<li><strong>Corporate and community sessions</strong>: team socials, wellbeing sessions, on-site visits if you offer them and invoicing.</li>
+</ul>
+<p>If you sell alcohol or allow guests to bring their own, licensing rules may apply. Check current guidance with your local council before promoting drinks on your website or in ads. Similarly, if you run sessions for children, make sure what you say about supervision and safety reflects how you actually operate.</p>
+
+<h2>Bring customers back</h2>
+<p>A pottery painting studio benefits enormously from repeat visits. Families return for every holiday, grandparents book handprint sessions and adult groups come back for seasonal evenings. An email list built from bookings, with the right consent, lets you share new designs, events and seasonal offers.</p>
+<p>Under UK GDPR and PECR, marketing emails generally need consent or a valid soft opt-in. Check current ICO guidance on how this applies to you. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> explains how to grow a list properly and keep it engaged.</p>
+<p>Gift vouchers bring in new customers through existing ones. Make them easy to buy online, promote them before Christmas and other gifting occasions, and include clear terms on expiry and redemption.</p>
+
+<h2>SEO for pottery painting studios</h2>
+<p>Local SEO helps you appear when people search in your area without paying for each click. Focus on the phrases people actually use, such as "pottery painting [town]", "paint your own pottery near me", "pottery painting party [area]" and "baby handprint pottery". Each main page should have genuine, specific content and photos.</p>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local SEO and content that can be cited in AI search answers, which matters as more people ask AI assistants for ideas on what to do at the weekend.</p>
+
+<h2>Working with an agency</h2>
+<p>Most studios start with a clear website and booking system, then add social and search ads around holidays and gifting seasons. We offer retainers from Launch at £350 a month to Growth at £750 and Scale at £1,500, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. If you want to sell vouchers or home kits online, an e-commerce site typically costs £1,500 to £3,500. See our <a href="/pricing/">pricing page</a> for more.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective pottery painting studio marketing UK owners can do?</h3>
+<p>Start with a complete Google Business Profile, lots of good photos, regular reviews and a website that explains how it works, what it costs and how to book. Those basics support every other channel.</p>
+<h3>Should a pottery painting studio take online bookings?</h3>
+<p>Usually, yes. Online table and party booking helps you manage busy weekends and holidays, reduces no-shows with deposits and lets customers book when it suits them.</p>
+<h3>How far ahead should we promote seasonal gift sessions?</h3>
+<p>Allow for your firing and collection time, then add a few weeks for planning. For Christmas, many studios start promoting in early autumn and publish clear last booking dates.</p>
+<h3>Are social media ads worth it for a pottery painting studio?</h3>
+<p>They can be, because the activity is so visual. Ads promoting school holiday sessions, seasonal designs and gift vouchers to people nearby often work well alongside organic posts.</p>
+<h3>Do we need separate pages for kids parties and hen parties?</h3>
+<p>Yes, ideally. The two audiences ask very different questions, and separate pages let you answer each clearly and target the searches they use.</p>
+<h3>Can we sell gift vouchers on our studio website?</h3>
+<p>Yes. Most booking systems and e-commerce platforms support vouchers. Make them easy to find, buy and send, with clear terms on expiry and redemption.</p>
+`,
+  },
+  {
+    slug: 'robots-txt-guide-uk',
+    seoTitle: 'Robots.txt Guide: How to Check and Edit Yours Safely',
+    title: 'Robots.txt Guide: How to Check, Edit and Test the File Safely',
+    description: 'A robots.txt file tells search engine crawlers which parts of your site to skip. Learn how to check yours, edit it safely and avoid blocking pages by mistake.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>A robots.txt file is a small public text file at the root of your website that tells search engine crawlers which parts of the site they should not visit. For most UK small business websites it should be short, allow almost everything, and point to your XML sitemap, and the main job is making sure it is not accidentally blocking pages you want found.</p>
+<p>It is one of those files that nobody looks at until something goes wrong. A website relaunches, traffic drops, and the cause turns out to be a single line left over from the development stage. This guide explains what the file does and does not do, how to find and read yours, how to edit it on common platforms, and how to test a change before it costs you visibility.</p>
+
+<h2>What robots.txt actually does</h2>
+<p>When a well-behaved crawler such as Googlebot or Bingbot arrives at your domain, one of the first things it requests is yourdomain.co.uk/robots.txt. The file contains groups of rules. Each group names a user agent (the crawler the rules apply to) and then lists paths that crawler is asked to stay out of with Disallow, or explicitly allowed with Allow. A Sitemap line can tell crawlers where your sitemap lives.</p>
+<p>Three points are worth understanding before you change anything:</p>
+<ul>
+<li><strong>It controls crawling, not indexing.</strong> Blocking a page in robots.txt stops compliant crawlers reading it, but the address can still appear in search results if other pages link to it. To keep a page out of results, the usual method is a noindex instruction on the page itself, and the page must stay crawlable so the instruction can be seen.</li>
+<li><strong>It is a request, not security.</strong> Reputable search engines follow it. Scrapers and bad actors can ignore it. Anything private belongs behind a login, not in a Disallow line.</li>
+<li><strong>It is public.</strong> Anyone can read your robots.txt, so listing a sensitive folder there can draw attention to it.</li>
+</ul>
+<p>Robots.txt sits alongside your sitemap as part of the basic technical setup. If you have not yet created or submitted a sitemap, our <a href="/blog/xml-sitemap-guide/">XML sitemap guide</a> covers that side of things.</p>
+
+<h2>How to find and read your robots.txt file</h2>
+<p>Type your domain into a browser followed by /robots.txt. If a plain text page appears, that is your file. If you get a 404 error, you have no file, which simply means crawlers assume they may visit everything. That is not a disaster for a small site, but having a simple file with a sitemap reference is tidier.</p>
+<p>Here is how to read the most common lines:</p>
+<table>
+<thead><tr><th>Line</th><th>What it means</th><th>Typical use</th></tr></thead>
+<tbody>
+<tr><td>User-agent: *</td><td>The rules below apply to all crawlers</td><td>The default group on most sites</td></tr>
+<tr><td>User-agent: Googlebot</td><td>The rules below apply only to Google's main crawler</td><td>Rarely needed for small businesses</td></tr>
+<tr><td>Disallow: /basket/</td><td>Do not crawl anything starting with /basket/</td><td>Baskets, checkouts, account areas</td></tr>
+<tr><td>Disallow: /</td><td>Do not crawl anything on the site</td><td>Staging sites only, never a live site</td></tr>
+<tr><td>Disallow: (blank)</td><td>Nothing is blocked</td><td>A permissive default</td></tr>
+<tr><td>Allow: /wp-admin/admin-ajax.php</td><td>An exception inside a blocked folder</td><td>Common on WordPress</td></tr>
+<tr><td>Sitemap: full URL</td><td>Where your XML sitemap lives</td><td>Recommended on every site</td></tr>
+</tbody>
+</table>
+<p>Paths are case sensitive and match from the start of the address, so Disallow: /shop blocks /shop, /shop/ and /shopping-guide alike. That last point catches people out, and it is why a trailing slash matters.</p>
+
+<h2>What a sensible small business robots.txt looks like</h2>
+<p>For a brochure website with a contact form and a blog, a good file is often just a user-agent line for all crawlers, an empty or minimal Disallow, and a Sitemap line. There is usually no reason to block service pages, blog posts, images, CSS or JavaScript. Google renders pages much like a browser does, so blocking your stylesheets or scripts can stop it seeing your layout properly.</p>
+<p>For an online shop, it can make sense to ask crawlers to skip areas that create endless low-value URLs: the basket, checkout, customer account pages and internal search results. Filter and sort parameters on category pages can also generate thousands of near-identical addresses, although how you handle those depends on whether any filtered pages are worth ranking. It is worth deciding that before adding any rules.</p>
+<p>What you should almost never do on a live site is block whole sections of real content, block the entire site, or use robots.txt to try to remove pages from Google. Each of those creates more problems than it solves.</p>
+
+<h2>How to edit robots.txt</h2>
+<p>How you edit the file depends on your platform. Always check the platform's current help pages first, because settings move and names change.</p>
+<p><strong>WordPress:</strong> WordPress generates a virtual robots.txt by default. Many SEO plugins add an editor for it in their settings, which is the simplest route. You can also upload a physical robots.txt file to the root folder via your host's file manager or SFTP, which overrides the virtual one. Separately, check the reading settings: there is an option that discourages search engines from indexing the site, and it is often switched on during a build and forgotten. Our guide to <a href="/blog/wordpress-reading-and-discussion-settings/">WordPress reading and discussion settings</a> explains where it lives.</p>
+<p><strong>Shopify:</strong> Shopify provides a default robots.txt that already blocks checkout, cart and similar areas, and for most stores it is fine as it is. Shopify allows edits through a theme template, but changes there are easy to get wrong and apply to the whole store, so treat it as a developer task. Our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the platform's wider quirks.</p>
+<p><strong>Wix, Squarespace and other builders:</strong> Hosted website builders usually manage the file for you and may offer limited editing in their SEO settings. Look for a robots.txt or SEO tools section in the dashboard, and read the builder's documentation before making changes.</p>
+<p><strong>Custom or static sites:</strong> On a custom build, robots.txt is a plain text file in the site's root folder. Edit it in a text editor, save it as plain text, and upload it in the same place. Keep a copy of the previous version so you can roll back.</p>
+
+<h2>Testing changes before and after you publish</h2>
+<p>A mistake in robots.txt can quietly remove large parts of a site from search over a few weeks, so test every change.</p>
+<ol>
+<li><strong>Write down why you are changing it.</strong> If you cannot name the specific URLs you want crawlers to skip and why, leave the file alone.</li>
+<li><strong>Check the paths against real URLs.</strong> List a handful of important pages, such as your homepage, top service pages and best-selling products, and confirm none of them start with a path you are about to disallow.</li>
+<li><strong>Use Google Search Console.</strong> Search Console has a robots.txt report showing the version Google last fetched and any problems it found, and the URL Inspection tool tells you whether a given page is blocked. Our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> walks through getting access.</li>
+<li><strong>Recheck after publishing.</strong> Load the live file in a browser to confirm the change is there, then keep an eye on the page indexing report over the following weeks.</li>
+</ol>
+
+<h2>Common robots.txt mistakes we see</h2>
+<p>Most robots.txt problems on small business sites fall into a few patterns:</p>
+<ul>
+<li><strong>The staging block goes live.</strong> A development site is correctly set to block everything, then the whole thing is copied to the live domain, rules and all. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to keep the two apart.</li>
+<li><strong>Blocking a page you want removed from Google.</strong> If a page is blocked, Google cannot see a noindex tag on it, so it may stay listed with no description. Use noindex, and only block afterwards if there is a good reason.</li>
+<li><strong>Blocking CSS, JavaScript or image folders.</strong> This was common advice years ago and can now stop search engines rendering pages properly.</li>
+<li><strong>Typos and missing slashes.</strong> A single character can widen or narrow a rule. Disallow: /blog and Disallow: /blog/ do not behave the same way.</li>
+<li><strong>Several conflicting groups.</strong> Separate groups for different crawlers can override each other in ways that surprise people. Keep one simple group unless you have a specific need.</li>
+<li><strong>Forgetting after a migration.</strong> When URLs change during a relaunch, old Disallow lines may now point at nothing, or at new content. Our <a href="/blog/seo-migration-checklist/">SEO migration checklist</a> includes robots.txt in its pre-launch checks.</li>
+</ul>
+
+<h2>Robots.txt and AI crawlers</h2>
+<p>Many AI companies now run their own crawlers, and some publish user-agent names that site owners can address in robots.txt. Some businesses choose to block certain AI crawlers, while others want their content available so it can be cited in AI answers. There is no single right answer, and the list of crawler names changes over time, so check each company's own documentation for current names and what each crawler is used for. Be aware that blocking a crawler used for an AI search product may reduce your chances of appearing in it. Our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a> covers how visibility in AI-driven results works more broadly.</p>
+
+<h2>When to get help</h2>
+<p>If your site is a small brochure site with a default file and a sitemap line, you rarely need to touch robots.txt. It is worth a professional look if traffic has dropped after a relaunch, Search Console is reporting pages blocked by robots.txt that should be indexed, your shop generates large numbers of filter URLs, or you are planning a migration. A robots.txt review is a standard part of our <a href="/services/seo-geo/">SEO and GEO service</a>, and our <a href="/pricing/">pricing page</a> explains how ongoing retainers work. For a wider look at crawling and indexing, our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is a useful next step.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need a robots.txt file for my small business website?</h3>
+<p>It is not strictly required. Without one, crawlers assume they may visit everything. A short file that allows crawling and points to your XML sitemap is still good practice, and many platforms create one automatically.</p>
+<h3>How to edit robots.txt on my website?</h3>
+<p>Use your platform's built-in option where there is one, such as an SEO plugin on WordPress or the theme template on Shopify. On a custom site, edit the plain text file in the root folder. Check the platform's current help pages first and test the result in Google Search Console.</p>
+<h3>Will blocking a page in robots.txt remove it from Google?</h3>
+<p>Not reliably. Robots.txt stops crawling, but a blocked URL can still appear in results if it is linked from elsewhere. To remove a page, use a noindex instruction on a page that remains crawlable, or remove the page and return an appropriate status code.</p>
+<h3>Should I block my basket and checkout pages?</h3>
+<p>On an online shop it is common to ask crawlers to skip basket, checkout and account pages because they have no search value. Many ecommerce platforms already do this by default, so check what your existing file contains before adding rules.</p>
+<h3>How quickly does Google notice a robots.txt change?</h3>
+<p>Google generally caches robots.txt for a period and refetches it regularly, so changes are usually picked up within a day or so, but the effect on indexing can take longer. Search Console's robots.txt report shows which version Google last fetched.</p>
+<h3>Can robots.txt stop AI tools using my content?</h3>
+<p>It can ask specific AI crawlers that respect robots.txt not to visit your site, if you name their user agents. It cannot stop crawlers that ignore the file, and blocking some crawlers may reduce visibility in AI search products, so weigh the trade-off first.</p>
+`,
+  },
+  {
+    slug: 'taxi-private-hire-marketing-uk',
+    seoTitle: 'Taxi Firm Marketing UK: Win More Bookings and Accounts',
+    title: 'Taxi and Private Hire Marketing in the UK: How to Win More Bookings and Accounts',
+    description: 'Taxi firm marketing in the UK works when local search, a quick booking route and pages for airport, school and business accounts make you the obvious call.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Taxi firm marketing in the UK is about being the number people call or the site they book on when they need a car, whether that is right now or for an airport run next week. Independent taxi and private hire firms that grow usually win the local map results, make booking quick by phone, app or website, and build steady income from airport transfers and business accounts.</p>
+<p>This guide is for independent taxi and private hire operators, executive car services and small firms competing with national apps. It covers how customers choose a firm, Google Business Profile, your website and booking, service pages, paid ads, business accounts and staying compliant in your marketing. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of winning bookings.</p>
+
+<h2>How customers choose a taxi firm</h2>
+<p>Taxi searches are often urgent. Someone at a station, a pub or a hospital types "taxi near me" or "taxi [town]" and calls the first firm that looks reliable. Others plan ahead, comparing firms for an early airport run, a school contract or a regular business journey.</p>
+<p>That gives you two different marketing jobs. For urgent journeys, you need to appear in the map results with a clear phone number and good reviews. For planned journeys, you need pages that answer questions about prices, vehicles, reliability and booking in advance.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Local residents</strong> needing journeys to stations, shops, appointments and nights out.</li>
+<li><strong>Airport travellers</strong> wanting a fixed price and a reliable early pick-up.</li>
+<li><strong>Businesses</strong> needing account travel for staff, clients and visitors.</li>
+<li><strong>Councils, schools and organisations</strong> tendering for contract transport.</li>
+<li><strong>Visitors and event-goers</strong> needing journeys to hotels, venues and weddings.</li>
+<li><strong>Customers needing accessible vehicles</strong>, if you offer wheelchair-accessible cars.</li>
+</ul>
+
+<h2>Taxi firm marketing UK: win the map results first</h2>
+<p>For urgent searches, your Google Business Profile matters more than almost anything else. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the settings in detail. For a taxi firm, the priorities are:</p>
+<ul>
+<li>The correct business category and a business name that matches your real trading name, without extra keywords.</li>
+<li>A phone number that is answered quickly, at the hours you say you operate.</li>
+<li>Accurate hours, including whether you run 24 hours.</li>
+<li>Photos of your vehicles, signage and office if customers visit.</li>
+<li>Services listed clearly, such as airport transfers, accounts and accessible vehicles.</li>
+</ul>
+<p>Consistent details across directories help your local visibility. Our guide to <a href="/blog/local-citations-uk/">local citations</a> explains where to list your firm and how to keep your name, address and phone number consistent.</p>
+<p>Reviews influence urgent decisions heavily. Ask customers for a review after the journey, through a booking confirmation message or a card in the vehicle with a QR code. Reply to every review, and handle complaints about lateness or pricing calmly and specifically. Our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> can help.</p>
+
+<h2>Your website and booking options</h2>
+<p>Your website should load quickly on a phone, show your phone number at the top of every page and offer an easy way to book ahead. Many customers prefer to call, but others want to book online, especially for airport runs and early mornings.</p>
+<p>Booking routes worth offering:</p>
+<ul>
+<li><strong>Click-to-call</strong> buttons on every page.</li>
+<li><strong>Online booking or quote forms</strong> for journeys booked in advance.</li>
+<li><strong>A booking app</strong>, if your dispatch system provides one.</li>
+<li><strong>Messaging options</strong>, if you can respond reliably.</li>
+</ul>
+<p>Keep forms short. Pick-up, drop-off, date, time, passengers and luggage are usually enough to quote. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> explains how to make forms easy to complete on a phone. If your dispatch software has an online booking module, it can usually be embedded on your website.</p>
+
+<h2>Service pages that bring higher-value work</h2>
+<p>A single homepage cannot rank for every kind of journey. Separate pages for your main services help you appear for more specific searches and answer the questions each customer has.</p>
+<table>
+<thead><tr><th>Service page</th><th>Who it attracts</th><th>What to include</th></tr></thead>
+<tbody>
+<tr><td>Airport transfers</td><td>Holidaymakers and business travellers</td><td>Airports covered, how fixed prices work, meet and greet, luggage and early pick-ups</td></tr>
+<tr><td>Business accounts</td><td>Local companies and organisations</td><td>Account set-up, invoicing, booking methods and reporting</td></tr>
+<tr><td>Station and local journeys</td><td>Residents and visitors</td><td>Areas covered, how to book and typical waiting times</td></tr>
+<tr><td>Accessible vehicles</td><td>Wheelchair users and their families</td><td>Vehicle types, booking ahead and assistance offered</td></tr>
+<tr><td>Weddings and events</td><td>Couples and event organisers</td><td>Vehicle options, timings and booking ahead</td></tr>
+<tr><td>Long-distance journeys</td><td>Customers travelling between cities</td><td>How quotes work and booking in advance</td></tr>
+</tbody>
+</table>
+<p>Only list services you genuinely provide, and keep vehicle and service information accurate. Our guide to <a href="/blog/service-page-design/">service page design</a> explains how to structure pages that answer questions and lead to a booking.</p>
+
+<h2>Paid ads for taxi firms</h2>
+<p>Paid search can help you appear for urgent and planned searches in your area. Location targeting needs care: a taxi firm usually wants to appear for people searching within its operating area, not far beyond it. Our <a href="/services/paid-media/">paid media service</a> covers Google Ads and other channels.</p>
+<p>Call ads and call extensions suit urgent journeys, because the customer wants to speak to someone quickly. For airport transfers and longer journeys, ads can point to booking or quote pages. Our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business</a> explains how to start with a sensible budget and avoid common mistakes.</p>
+<p>Schedule ads for the hours you can answer the phone. Paying for calls that go to voicemail wastes budget and can harm your reputation.</p>
+
+<h2>Business accounts and contract work</h2>
+<p>Business accounts and contract transport can provide steady income that is less dependent on weekend demand. Local businesses, hotels, colleges and organisations may need regular travel for staff, clients or visitors.</p>
+<p>To win account work, make it easy for businesses to find and trust you:</p>
+<ul>
+<li>A dedicated business accounts page explaining how accounts work, booking options, invoicing and support.</li>
+<li>A simple enquiry form for account set-up.</li>
+<li>Clear information on your licensing, insurance and safety policies, kept accurate and up to date.</li>
+<li>Direct outreach to local businesses, hotels and venues, supported by a professional website they can check.</li>
+</ul>
+<p>Contract work for councils or schools usually goes through formal tender processes with their own requirements, so check each tender carefully and make sure your website supports what you say in your submissions.</p>
+
+<h2>Licensing and compliant marketing</h2>
+<p>Taxi and private hire licensing in the UK is handled by local licensing authorities, and the rules on how you advertise, describe your services and take bookings can differ between areas. For example, there may be rules about how private hire vehicles are booked and how firms can describe themselves. Check current guidance from your licensing authority before publishing marketing claims, and keep your website consistent with your licence conditions.</p>
+<p>Be careful with pricing claims too. If you advertise fixed airport prices or offers, make sure they are accurate and include any conditions. Under the CAP Code, advertising must not mislead, so check current guidance if you are unsure.</p>
+
+<h2>SEO for taxi firms</h2>
+<p>Local SEO helps you appear for searches such as "taxi [town]", "airport taxi [town]", "[town] to Heathrow taxi" and "wheelchair accessible taxi [area]". Each main service page should be genuinely useful, with specific details about how the service works. If you cover several towns, create location pages only where you genuinely operate and can say something specific about each area.</p>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local SEO, service page content and optimising for AI search answers.</p>
+
+<h2>Working with an agency</h2>
+<p>Most taxi firms start with their Google Business Profile, reviews and a fast mobile website with clear booking routes, then add paid search and service pages for airport and account work. We offer retainers from Launch at £350 a month to Growth at £750 and Scale at £1,500, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. See our <a href="/pricing/">pricing page</a> for more.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best taxi firm marketing UK operators can start with?</h3>
+<p>Start with a complete Google Business Profile, a phone number that is always answered during your stated hours, regular reviews and a fast mobile website with clear booking options.</p>
+<h3>How can a local taxi firm compete with ride-hailing apps?</h3>
+<p>Focus on what apps may not offer as well: local knowledge, pre-booked airport transfers, business accounts, accessible vehicles and a personal service. Make these clear on your website and in your listings.</p>
+<h3>Should a taxi firm have online booking?</h3>
+<p>Usually, yes, especially for airport and pre-booked journeys. Many customers still prefer to call for urgent journeys, so keep click-to-call prominent too.</p>
+<h3>Are Google Ads worth it for taxi firms?</h3>
+<p>They can be, especially call ads for urgent journeys and search ads for airport transfers. Tight location targeting and scheduling ads for staffed hours help control costs.</p>
+<h3>Do taxi firms need separate pages for airport transfers?</h3>
+<p>It is usually worth it. Airport customers search with specific phrases and want details on pricing, pick-up times and luggage, which a dedicated page can answer well.</p>
+<h3>Are there rules on how taxi firms can advertise?</h3>
+<p>Yes. Licensing rules are set locally and advertising must not mislead. Check current guidance from your licensing authority and the relevant advertising codes before publishing claims.</p>
+`,
+  },
+  {
+    slug: 'theatre-marketing-uk',
+    seoTitle: 'Theatre Marketing UK: Sell More Tickets for Every Show',
+    title: 'Theatre Marketing in the UK: How Independent Venues Sell More Tickets',
+    description: 'Theatre marketing in the UK works when a fast ticketing journey, show pages that sell, a loyal mailing list and targeted ads fill seats for every production.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/digital-pr-content/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Theatre marketing in the UK is about turning interest into booked seats for each production, show by show, while building a loyal audience that comes back season after season. The independent venues that sell well usually combine a website and ticketing journey that works smoothly on a phone, a strong mailing list, show pages that answer every question, and targeted campaigns for each production's audience.</p>
+<p>This guide is for independent and community theatres, small producing houses, studio theatres, arts centres with a programme of shows, and touring companies promoting their own work. It covers how audiences choose a show, your website and ticketing, show pages, email, paid ads, PR, groups and schools, and charitable status. We are a studio that builds websites and runs SEO, content and paid campaigns, so we focus on the digital side of selling tickets.</p>
+
+<h2>How audiences choose a show</h2>
+<p>Most theatre audiences are local and many are regulars. They hear about a show through the venue's mailing list, social media, word of mouth, local press or a poster, then visit the website to check dates and prices before booking. New audiences may search for "theatre near me", "things to do in [town] this weekend" or the name of a specific play or performer.</p>
+<p>Different productions attract different people. A family pantomime, a new writing piece, a comedy night, a touring musical and a community production each have their own audience, and your marketing needs to reach each one with the right message.</p>
+<p>Typical audiences include:</p>
+<ul>
+<li><strong>Regular theatregoers</strong> who book several times a year and respond to season announcements.</li>
+<li><strong>Families</strong> looking for pantomimes, children's shows and holiday activities.</li>
+<li><strong>Fans of specific genres or performers</strong>, such as comedy, music or dance.</li>
+<li><strong>Groups and schools</strong> booking set texts, workshops and group outings.</li>
+<li><strong>Visitors and tourists</strong> looking for an evening out in the area.</li>
+<li><strong>Members and supporters</strong> who donate or join friends schemes.</li>
+</ul>
+
+<h2>Theatre marketing UK: make the ticketing journey easy</h2>
+<p>Many tickets are lost not because people do not want to come, but because booking is slow, confusing or awkward on a phone. Your website and ticketing system should let someone find a show, pick a date, choose seats and pay in a few steps.</p>
+<p>Points to check:</p>
+<ul>
+<li>The "What's on" page lists shows clearly, with dates and a direct "Book now" button for each.</li>
+<li>Booking works smoothly on a phone, including seat selection.</li>
+<li>Prices, concessions and booking fees are clear before checkout.</li>
+<li>Confirmation emails include date, time, venue details, access information and what to expect.</li>
+<li>Abandoned bookings can be followed up, where your ticketing system and consent allow.</li>
+</ul>
+<p>Most ticketing platforms can be linked to or embedded in your website. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers the details that make phone booking easier, and our <a href="/services/website-ecommerce-development/">website development service</a> covers building or rebuilding venue sites.</p>
+
+<h2>Show pages that sell</h2>
+<p>Every production needs a page that sells it. A good show page answers the questions audiences ask before booking:</p>
+<ul>
+<li>What is it about, in a few lively sentences?</li>
+<li>Who is it for, including age guidance and content warnings where relevant?</li>
+<li>When is it on, how long does it run and is there an interval?</li>
+<li>How much are tickets, and are there concessions or group rates?</li>
+<li>What access provision is there, such as captioned, audio-described or relaxed performances?</li>
+<li>What have people said about it, using genuine quotes you have permission to use?</li>
+</ul>
+<p>Images and short video trailers help people picture the show. Clear writing matters too. Our guide to <a href="/blog/website-copywriting-uk/">website copywriting</a> covers how to write in a way that is engaging, clear and easy to scan.</p>
+
+<h2>Email: your most valuable channel</h2>
+<p>For most venues, the mailing list is the most effective way to sell tickets. People who have booked before, or signed up for news, are far more likely to book again than people seeing an ad for the first time.</p>
+<p>Ways to get more from email:</p>
+<ul>
+<li>Segment your list by interest, such as family shows, comedy, drama or music, so people receive relevant news.</li>
+<li>Announce seasons and on-sale dates to your list first, as a reward for signing up.</li>
+<li>Send reminders as shows approach, especially for productions with seats left.</li>
+<li>Follow up after a show with a thank you and a related upcoming production.</li>
+</ul>
+<p>Under UK GDPR and PECR, marketing emails generally need consent or a valid soft opt-in. Check current ICO guidance on how this applies to your venue. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> explains how to grow a list properly.</p>
+
+<h2>Paid ads for theatres</h2>
+<p>Paid social ads let you reach specific audiences for each production, such as families within a short drive for a pantomime, or fans of a particular genre for a touring show. Short video clips, rehearsal footage and striking production images tend to work better than static posters alone. Our <a href="/services/paid-media/">paid media service</a> covers Meta, TikTok, YouTube and Google campaigns.</p>
+<p>Remarketing can bring back people who viewed a show page but did not book. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> explains how to set it up sensibly.</p>
+<table>
+<thead><tr><th>Production type</th><th>Likely audience</th><th>Useful channels</th></tr></thead>
+<tbody>
+<tr><td>Pantomime and family shows</td><td>Families and grandparents nearby</td><td>Email, Meta ads, local listings and school outreach</td></tr>
+<tr><td>Comedy and music nights</td><td>Fans of the performer or genre</td><td>Meta and TikTok ads, performer's own channels and email</td></tr>
+<tr><td>New writing and drama</td><td>Regular theatregoers and interested groups</td><td>Email, PR, reviews and targeted social ads</td></tr>
+<tr><td>Set texts and education work</td><td>Schools and colleges</td><td>Direct outreach, education pages and email</td></tr>
+<tr><td>Community productions</td><td>Friends, families and local residents</td><td>Cast networks, social media and local press</td></tr>
+</tbody>
+</table>
+
+<h2>PR, reviews and listings</h2>
+<p>Local press coverage, reviews and listings in "what's on" guides can bring new audiences who would never see your ads. Send clear, timely press releases with production images and key details, and make it easy for reviewers to book press tickets. Our guide to <a href="/blog/pr-for-small-business-uk/">PR for small business</a> covers how to approach this, and our <a href="/services/digital-pr-content/">digital PR and content service</a> can support larger campaigns.</p>
+<p>Only use review quotes and star ratings that are genuine and accurate, and do not edit them in a way that changes their meaning.</p>
+
+<h2>Groups, schools and access</h2>
+<p>Group and school bookings can fill weekday performances. A dedicated groups page explaining group rates, how to book and any extras such as workshops or talks makes it easy for organisers. For schools, information on set texts, education resources and safeguarding arrangements helps teachers plan, and you should check current guidance on what schools expect.</p>
+<p>Access information should be clear and easy to find. Details on step-free access, accessible seating, captioned and audio-described performances, relaxed performances and assistance dogs help audiences plan their visit with confidence.</p>
+
+<h2>Charitable status and fundraising</h2>
+<p>Many independent theatres are charities. If yours is, fundraising, friends schemes and memberships can be promoted alongside ticket sales. Our guide to <a href="/blog/charity-marketing-uk/">charity marketing</a> covers fundraising campaigns in more detail. Eligibility for programmes such as Google Ad Grants and the rules on fundraising and Gift Aid depend on your status, so check current guidance from the relevant bodies before promoting them.</p>
+
+<h2>Working with an agency</h2>
+<p>Many venues start by improving the website and ticketing journey, then build email and paid campaigns around each season. We offer retainers from Launch at £350 a month to Growth at £750 and Scale at £1,500, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. See our <a href="/pricing/">pricing page</a> for details.</p>
+
+<h2>FAQs</h2>
+<h3>What does effective theatre marketing UK venues use look like?</h3>
+<p>It usually combines an easy ticketing journey, strong show pages, a segmented mailing list, targeted paid social ads for each production, and PR and listings to reach new audiences.</p>
+<h3>How can a small theatre sell more tickets?</h3>
+<p>Make booking easy on a phone, write show pages that answer every question, grow and segment your mailing list, and target each production at the audience most likely to enjoy it.</p>
+<h3>Is email still worth it for theatres?</h3>
+<p>Yes. For most venues, people who have booked before are the most likely to book again, and email lets you reach them directly with relevant shows.</p>
+<h3>Which social media ads work best for theatre shows?</h3>
+<p>Short video clips and striking production images targeted at specific audiences, such as local families for pantomime or fans of a genre for touring shows, tend to work better than general season promotion.</p>
+<h3>Should every production have its own web page?</h3>
+<p>Yes. A dedicated page lets you answer questions about dates, prices, running time, age guidance and access, and gives ads and emails a clear place to send people.</p>
+<h3>Can a theatre charity use Google Ad Grants?</h3>
+<p>Some charities may be eligible, depending on their status and the programme's current rules. Check the latest eligibility guidance before applying or planning campaigns around it.</p>
+`,
+  },
 ];

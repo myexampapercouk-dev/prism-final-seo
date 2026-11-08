@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Use Google Analytics Explorations: A Guide</title>
+<meta name="description" content="GA4 explorations let you build custom reports to answer questions the standard reports cannot. Learn the main techniques, when to use each and common pitfalls.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/ga4-explorations-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Use Google Analytics Explorations: A Guide">
+<meta property="og:description" content="GA4 explorations let you build custom reports to answer questions the standard reports cannot. Learn the main techniques, when to use each and common pitfalls.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/ga4-explorations-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-ga4-explorations-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/ga4-explorations-guide/#article","headline":"How to Use Google Analytics Explorations to Answer Business Questions","description":"GA4 explorations let you build custom reports to answer questions the standard reports cannot. Learn the main techniques, when to use each and common pitfalls.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/ga4-explorations-guide/","url":"https://prismworksstudio.co.uk/blog/ga4-explorations-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-ga4-explorations-guide.png","inLanguage":"en-GB","wordCount":1619,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Use Google Analytics Explorations to Answer Business Questions","item":"https://prismworksstudio.co.uk/blog/ga4-explorations-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How to use GA4 explorations if I am a beginner?","acceptedAnswer":{"@type":"Answer","text":"Start with a free form exploration and one question, such as which channels bring enquiries. Import a dimension and a metric, drag them into rows and values, and check the date range. Add complexity only once the simple version makes sense."}},{"@type":"Question","name":"Are GA4 explorations free?","acceptedAnswer":{"@type":"Answer","text":"Explorations are included in the standard version of Google Analytics 4 at no extra cost. Some limits, such as data retention and quotas, differ between the standard and paid versions, so check Google's current help pages for details."}},{"@type":"Question","name":"Why does my exploration show different numbers to the standard reports?","acceptedAnswer":{"@type":"Answer","text":"Explorations and standard reports can process data differently, apply thresholds differently and use different date ranges or scopes. Small differences are normal. Large ones usually point to a filter, segment or date range that does not match."}},{"@type":"Question","name":"Can I share a GA4 exploration with my team?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can share an exploration with other users on the same GA4 property, but they see a read-only version. For regular team reporting, a dashboard in a tool such as Looker Studio is usually easier."}},{"@type":"Question","name":"How far back can explorations go?","acceptedAnswer":{"@type":"Answer","text":"Explorations are limited by your GA4 data retention setting, which controls how long event-level data is kept. Check the setting in your property admin area and Google's current help pages for the available periods."}},{"@type":"Question","name":"Which exploration is best for finding checkout problems?","acceptedAnswer":{"@type":"Answer","text":"A funnel exploration is usually the best starting point. Set steps for viewing a product, adding to basket, beginning checkout and purchasing, then break it down by device to see where and for whom the biggest drop occurs."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Use Google Analytics Explorations to Answer Business Questions</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Use Google Analytics Explorations to Answer Business Questions</h1><p class="pws-lead">GA4 explorations let you build custom reports to answer questions the standard reports cannot. Learn the main techniques, when to use each and common pitfalls.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Explorations are GA4's custom analysis area, useful when the standard reports cannot answer a specific question about visitors, pages or conversions.</li><li>Free form, funnel and path explorations cover most small business needs: comparing channels, finding where people drop out, and seeing what visitors do next.</li><li>Start each exploration from a written question, check your date range and key events first, and remember explorations are personal workspaces rather than shared dashboards.</li></ul></div>
+<p>GA4 explorations are custom analysis reports inside Google Analytics 4 that let you drag in the dimensions and metrics you need to answer a specific question, such as which pages lead to the most enquiries or where shoppers drop out before checkout. To use them, open the Explore section in GA4, pick a technique such as free form or funnel exploration, and build the report around one clear question.</p>
+<p>The standard reports in GA4 are fine for a quick look at traffic and top pages, but sooner or later most business owners hit a question they cannot answer there. Explorations fill that gap. They look intimidating at first, with their columns of variables and settings, but a handful of techniques covers almost everything a small business needs. This guide walks through them in plain English.</p>
+
+<h2>Before you start: check your GA4 foundations</h2>
+<p>Explorations can only analyse data GA4 has collected. If your setup is incomplete, the reports will be misleading however well you build them. Before relying on any exploration, confirm three things:</p>
+<ul>
+<li><strong>Key events are set up.</strong> Enquiry form submissions, calls, bookings or purchases should be marked as key events. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how.</li>
+<li><strong>Consent is handled properly.</strong> Under UK GDPR and PECR, analytics cookies generally need consent, so some visits may be modelled or missing. That is normal, but it means figures are best read as trends rather than exact counts.</li>
+<li><strong>Campaigns are tagged.</strong> If your emails and social posts carry consistent UTM tags, explorations can break performance down by campaign. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> covers the naming.</li>
+</ul>
+<p>Also check your data retention setting in the property's admin area. Explorations use event-level data, and GA4 keeps that for a limited period depending on the setting. If you want to look back further than the default, change it sooner rather than later, and check Google's current help pages for the available options.</p>
+
+<h2>How to use GA4 explorations: the basic layout</h2>
+<p>Open GA4, select Explore from the left-hand menu, and either choose a template or start a blank exploration. The screen is split into three areas:</p>
+<table>
+<thead><tr><th>Area</th><th>What it contains</th><th>What you do there</th></tr></thead>
+<tbody>
+<tr><td>Variables</td><td>Date range, segments, dimensions and metrics</td><td>Import the building blocks you want to use</td></tr>
+<tr><td>Settings (tab settings)</td><td>Technique, rows, columns, values, filters</td><td>Drag variables in to shape the report</td></tr>
+<tr><td>Canvas</td><td>The report itself</td><td>Read results, right-click to drill in or exclude</td></tr>
+</tbody>
+</table>
+<p>Dimensions are descriptions, such as page path, session source or device category. Metrics are numbers, such as sessions, engaged sessions, key events or revenue. You import them in the Variables column first, then drag them into rows, columns or values in the Settings column. It feels clunky the first few times and then becomes quick.</p>
+<p>Explorations are saved to your account rather than shared automatically. Other users with access to the property can see them only if you share them, and shared explorations are view-only for others. If you need a report the whole team can open regularly, a dashboard tool is usually a better home. Our <a href="/blog/looker-studio-dashboard-guide/">Looker Studio dashboard guide</a> explains that option.</p>
+
+<h2>Free form exploration: your everyday workhorse</h2>
+<p>Free form is a flexible table or chart, and it answers most everyday questions. Some useful examples for a small business:</p>
+<ul>
+<li><strong>Which channels bring enquiries, not just visits?</strong> Rows: session default channel group. Values: sessions, engaged sessions, key events. Add a filter for your enquiry key event if you track several.</li>
+<li><strong>Which landing pages convert on mobile versus desktop?</strong> Rows: landing page. Columns: device category. Values: sessions and key events.</li>
+<li><strong>Which towns or regions do enquiries come from?</strong> Rows: city or region. Values: key events. Treat location data as approximate.</li>
+<li><strong>How did a campaign perform?</strong> Rows: session campaign. Values: sessions, key events and, for shops, purchase revenue.</li>
+</ul>
+<p>Use the visualisation options to switch between a table, line chart or bar chart. A line chart by date is useful for spotting when a change happened, such as a drop after a website relaunch.</p>
+
+<h2>Funnel exploration: finding where people drop out</h2>
+<p>A funnel exploration shows how many people complete each step of a process you define and where they leave. For an online shop the classic funnel is product view, add to basket, begin checkout and purchase. For a service business it might be visiting a service page, visiting the contact page and submitting the form.</p>
+<ol>
+<li>Choose Funnel exploration from the technique list.</li>
+<li>Edit the steps, choosing the event or page for each one. Keep it to three to five steps.</li>
+<li>Decide whether the funnel is open (people can join at any step) or closed (they must start at step one).</li>
+<li>Add a breakdown dimension such as device category to compare groups.</li>
+</ol>
+<p>A large drop between two steps tells you where to look. If many visitors reach the contact page but few submit, the form itself may be the problem, which our guide to <a href="/blog/website-contact-forms/">website contact forms</a> helps with. For shops, a big drop at checkout often points to delivery costs or payment options, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers that side.</p>
+
+<h2>Path exploration: what visitors do next</h2>
+<p>Path exploration shows the sequence of pages or events visitors move through. You can start from a particular page and see where people go next, or start from an end point, such as a form submission, and look backwards at what they viewed first.</p>
+<p>This is useful for questions like "what do people read before they book?" or "where do visitors go after the pricing page?". If many people leave your pricing page for the FAQ page, for example, that suggests unanswered questions that could be addressed on the pricing page itself. Path reports can become cluttered quickly, so expand one branch at a time and ignore tiny numbers.</p>
+
+<h2>Segments and comparisons</h2>
+<p>Segments let you narrow an exploration to a group of users, sessions or events. Useful segments for small businesses include visitors from paid search, returning visitors, mobile users, or people who triggered a key event. Apply a segment to any technique to compare groups side by side.</p>
+<p>A practical tip: build a segment of converting users, then compare it with all users in a free form report broken down by landing page or channel. The differences often reveal which content genuinely supports enquiries.</p>
+
+<h2>Other techniques worth knowing</h2>
+<p>GA4 offers several further techniques, which you may or may not need:</p>
+<ul>
+<li><strong>Segment overlap:</strong> shows how groups intersect, for example mobile users who also came from social.</li>
+<li><strong>Cohort exploration:</strong> tracks groups of users over time, useful for repeat purchase patterns in a shop.</li>
+<li><strong>User lifetime:</strong> looks at behaviour and value across a user's whole history, within GA4's limits.</li>
+<li><strong>User explorer:</strong> shows the event stream of individual anonymised visitors, which can help with debugging tracking.</li>
+</ul>
+<p>Names and features change from time to time, so check Google's current Analytics help pages for the latest list.</p>
+
+<h2>Common pitfalls</h2>
+<ul>
+<li><strong>Thresholding and sampling.</strong> With small numbers or certain settings, GA4 may hide or estimate data. An icon in the report usually indicates this. Wider date ranges or simpler reports can help.</li>
+<li><strong>Mixing scopes.</strong> Combining user-level and session-level dimensions in one table can produce confusing figures. If something looks odd, simplify.</li>
+<li><strong>Wrong date range.</strong> Each exploration has its own date range, separate from the standard reports. Check it every time.</li>
+<li><strong>Reading too much into small numbers.</strong> Ten enquiries against eight is not a trend. Look for consistent patterns over several weeks.</li>
+<li><strong>Personal data.</strong> Never send names, email addresses or phone numbers into GA4. It is against Google's policies and a UK GDPR risk.</li>
+</ul>
+
+<h2>Turning explorations into decisions</h2>
+<p>An exploration is only useful if it changes something. Write the question first, build the simplest report that answers it, and note the action you will take. If paid search drives visits but few enquiries, review keywords and landing pages. If mobile visitors abandon a form, simplify it. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small business</a> covers which numbers matter most.</p>
+<p>If you would rather have someone set up tracking, build the reports and turn the findings into campaign changes, measurement is built into our <a href="/services/paid-media/">paid media service</a>. You can see how retainers are structured on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How to use GA4 explorations if I am a beginner?</h3>
+<p>Start with a free form exploration and one question, such as which channels bring enquiries. Import a dimension and a metric, drag them into rows and values, and check the date range. Add complexity only once the simple version makes sense.</p>
+<h3>Are GA4 explorations free?</h3>
+<p>Explorations are included in the standard version of Google Analytics 4 at no extra cost. Some limits, such as data retention and quotas, differ between the standard and paid versions, so check Google's current help pages for details.</p>
+<h3>Why does my exploration show different numbers to the standard reports?</h3>
+<p>Explorations and standard reports can process data differently, apply thresholds differently and use different date ranges or scopes. Small differences are normal. Large ones usually point to a filter, segment or date range that does not match.</p>
+<h3>Can I share a GA4 exploration with my team?</h3>
+<p>Yes. You can share an exploration with other users on the same GA4 property, but they see a read-only version. For regular team reporting, a dashboard in a tool such as Looker Studio is usually easier.</p>
+<h3>How far back can explorations go?</h3>
+<p>Explorations are limited by your GA4 data retention setting, which controls how long event-level data is kept. Check the setting in your property admin area and Google's current help pages for the available periods.</p>
+<h3>Which exploration is best for finding checkout problems?</h3>
+<p>A funnel exploration is usually the best starting point. Set steps for viewing a product, adding to basket, beginning checkout and purchasing, then break it down by device to see where and for whom the biggest drop occurs.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Use%20Google%20Analytics%20Explorations%20to%20Answer%20Business%20Questions'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/utm-tracking-links-guide/"><p class="pws-tags">Guides &middot; 8 min read</p><h3>UTM Tracking Links: How to Tag Your Marketing So You Know What Works</h3><p>UTM tracking links show which emails, posts and ads send visitors to your site. Learn how to build, name and organise them so your GA4 reports stay clean.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/looker-studio-dashboard-guide/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Build a Looker Studio Dashboard for a UK Small Business</h3><p>A Looker Studio dashboard pulls GA4, Search Console and Google Ads data into one shareable report. Learn how to plan, build and keep one useful.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/how-to-write-an-email-newsletter/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Write an Email Newsletter People Actually Open and Read</h3><p>To write an email newsletter, pick one main message, write a clear subject line, keep the body short and end with one action. A practical UK guide.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Use%20Google%20Analytics%20Explorations%20to%20Answer%20Business%20Questions'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
