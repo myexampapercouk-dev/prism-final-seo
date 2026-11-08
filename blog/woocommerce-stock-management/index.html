@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WooCommerce Stock Management: A Practical UK Guide</title>
+<meta name="description" content="How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/woocommerce-stock-management/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WooCommerce Stock Management: A Practical UK Guide">
+<meta property="og:description" content="How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/woocommerce-stock-management/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-woocommerce-stock-management.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/woocommerce-stock-management/#article","headline":"WooCommerce Stock Management: How to Track Inventory Properly","description":"How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/woocommerce-stock-management/","url":"https://prismworksstudio.co.uk/blog/woocommerce-stock-management/","image":"https://prismworksstudio.co.uk/assets/og/blog-woocommerce-stock-management.png","inLanguage":"en-GB","wordCount":1687,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WooCommerce Stock Management: How to Track Inventory Properly","item":"https://prismworksstudio.co.uk/blog/woocommerce-stock-management/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How does WooCommerce stock management work?","acceptedAnswer":{"@type":"Answer","text":"You enable stock management in the inventory settings, then track quantities on each product or variation. WooCommerce reduces stock when orders are placed and changes the status to out of stock when the quantity reaches your threshold, unless you allow backorders."}},{"@type":"Question","name":"How do I turn on stock tracking in WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Go to WooCommerce settings, the Products tab and Inventory, and enable stock management. Then open each product, go to its Inventory tab, tick manage stock and enter the quantity. For variable products, you can also set stock per variation."}},{"@type":"Question","name":"Should I hide out of stock products in WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Usually not, if the product is coming back. Keeping the page live preserves its search visibility and lets customers find it later. Hide or redirect products only when they are discontinued for good."}},{"@type":"Question","name":"What does hold stock mean in WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"It reserves stock for unpaid orders for a set number of minutes. If payment is not completed in that time, the order is cancelled and the stock goes back. Set it long enough for genuine payments to finish."}},{"@type":"Question","name":"Can WooCommerce send low stock alerts?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can enable low stock and out of stock email notifications, set a shop-wide low stock threshold and override it on individual products. Make sure the emails go to an inbox someone checks."}},{"@type":"Question","name":"Why is my WooCommerce stock wrong?","acceptedAnswer":{"@type":"Answer","text":"The usual reasons are untracked variations, deliveries or returns not being recorded, sales through other channels, or a plugin changing stock. A physical count and a check of each product's settings will usually show where the gap comes from."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WooCommerce Stock Management: How to Track Inventory Properly</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>WooCommerce Stock Management: How to Track Inventory Properly</h1><p class="pws-lead">How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Switch on stock management globally, then decide product by product which items need tracking, so counts stay meaningful.</li><li>Set low stock and out of stock thresholds, a clear backorder policy and a sensible hold time for unpaid orders before you rely on the numbers.</li><li>Stock levels only stay accurate if every sale, return and delivery is recorded, so build a simple weekly routine and a regular stock count.</li></ul></div>
+<p>WooCommerce stock management lets your shop track how many of each product you hold, reduce the count when orders are placed and stop selling, or allow backorders, when items run out. You switch it on in the inventory settings, then turn on stock tracking for each product or variation and enter a quantity. Done well, it stops you selling items you do not have and warns you before popular lines run dry.</p>
+<p>This guide is for UK shop owners running WooCommerce who want their stock figures to be trusted. It covers the global settings, product and variation stock, backorders, held stock, low stock alerts and the everyday habits that keep the numbers right. Menu names can shift between WooCommerce versions and extensions, so check against your own admin as you go.</p>
+
+<h2>How WooCommerce stock management works</h2>
+<p>At its simplest, each tracked product has a stock quantity. When a customer places an order, WooCommerce reduces that quantity. When stock hits your out of stock threshold, the product's status changes and, depending on your settings, it either becomes unavailable to buy, disappears from the catalogue or accepts backorders.</p>
+<p>There are three stock statuses to understand:</p>
+<ul>
+<li><strong>In stock:</strong> the product can be bought.</li>
+<li><strong>Out of stock:</strong> it cannot be bought, and may be hidden if you choose.</li>
+<li><strong>On backorder:</strong> it can be bought even though you do not currently hold it.</li>
+</ul>
+<p>If stock management is off for a product, you set the status by hand. That suits made-to-order items or digital goods, but it means WooCommerce will never change the status for you.</p>
+
+<h2>The global inventory settings</h2>
+<p>Go to WooCommerce settings, then the Products tab, then Inventory. These options apply across the shop.</p>
+<table>
+<thead><tr><th>Setting</th><th>What it does</th><th>A sensible starting point</th></tr></thead>
+<tbody>
+<tr><td>Manage stock</td><td>Turns stock tracking on for the shop</td><td>On, if you sell physical goods from held stock</td></tr>
+<tr><td>Hold stock (minutes)</td><td>Reserves stock for unpaid orders, then cancels them</td><td>Long enough for slow payment methods to complete, short enough not to block other buyers</td></tr>
+<tr><td>Notifications</td><td>Emails you about low stock and out of stock items</td><td>On, sent to an inbox someone actually reads</td></tr>
+<tr><td>Low stock threshold</td><td>The quantity that triggers a low stock email</td><td>Based on how long restocking takes, not a round number</td></tr>
+<tr><td>Out of stock threshold</td><td>The quantity at which a product is treated as out of stock</td><td>Usually zero, or a small buffer if counts are sometimes off</td></tr>
+<tr><td>Out of stock visibility</td><td>Hides sold-out items from the catalogue</td><td>Often off, so pages stay live for returning stock</td></tr>
+<tr><td>Stock display format</td><td>Controls whether and how quantities show to shoppers</td><td>Show only when low, or never</td></tr>
+</tbody>
+</table>
+<p>The out of stock visibility setting deserves thought. Hiding sold-out products can feel tidy, but it can also remove pages that have built up search visibility and links. Our guide to <a href="/blog/woocommerce-seo-uk/">WooCommerce SEO</a> explains why keeping strong product pages live is usually the better default when stock is expected back.</p>
+
+<h2>Setting stock on simple products</h2>
+<p>Open the product, go to the Inventory tab in the product data panel and tick the option to manage stock at product level. Enter the quantity, choose whether backorders are allowed and, if you like, set a product-specific low stock threshold that overrides the shop-wide one.</p>
+<p>Fill in the SKU field while you are there. SKUs make stock counts, imports and supplier orders far easier, and they help when you connect your shop to other systems such as Google Merchant Center, covered in our guide to <a href="/blog/google-merchant-center-setup-uk/">Merchant Center set-up</a>.</p>
+<p>The "sold individually" option limits each order to one of that item, which can help with limited editions or high-demand drops.</p>
+
+<h2>Managing stock for variations</h2>
+<p>Variable products, such as a T-shirt in five sizes and three colours, can track stock in two ways:</p>
+<ul>
+<li><strong>At product level:</strong> all variations share one quantity. Useful when variations are only cosmetic labels on the same physical item.</li>
+<li><strong>At variation level:</strong> each size and colour has its own quantity. This is what most clothing and footwear shops need.</li>
+</ul>
+<p>To track at variation level, open each variation and tick its own manage stock box, then enter the quantity. On products with many variations this gets slow, so bulk edit actions or a CSV import usually save time. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers how to structure variations so they stay manageable.</p>
+<p>A common mistake is leaving one variation untracked while the others are tracked. That variation then stays in stock forever, and you oversell it. Check every variation when you set up a new range.</p>
+
+<h2>Backorders: when to allow them</h2>
+<p>For each product you can choose not to allow backorders, to allow them, or to allow them but notify the customer. Allowing backorders keeps sales coming in while you wait for a delivery, but only works if you are confident when stock will arrive.</p>
+<p>If you allow them, be honest about it. Make sure the product page says the item is on backorder and gives an expected dispatch time, and that the order confirmation repeats it. Customers who know an item ships in three weeks are usually fine. Customers who find out after paying are not. Our guide to <a href="/blog/ecommerce-stock-availability-display/">showing stock availability</a> covers wording and design, and the <a href="/blog/shopify-pre-orders/">Shopify pre-orders</a> guide explains the related idea of selling items before they launch, which applies to WooCommerce shops too even though the tools differ.</p>
+
+<h2>Held stock and pending orders</h2>
+<p>When a customer reaches payment, WooCommerce can hold stock for their unpaid order for a set number of minutes. If payment does not complete, the order is cancelled and the stock returned. This stops two people buying the last item at once, but if the hold time is too long, popular items can look out of stock while abandoned orders sit pending.</p>
+<p>Check which order statuses reduce stock in your set-up. Generally, stock reduces when an order is placed and paid, or when it is set to processing or on hold. Cancelled and refunded orders can restore stock, but refunds often ask whether to restock the items, and it is easy to miss that tick box. If returned items are damaged and cannot be resold, do not restock them.</p>
+
+<h2>A simple stock routine for UK shops</h2>
+<p>Software only tracks what it is told. These habits keep the numbers trustworthy:</p>
+<ol>
+<li><strong>Book in deliveries the day they arrive.</strong> Update quantities before you unpack everything onto shelves.</li>
+<li><strong>Record returns properly.</strong> Restock only items that are fit to resell.</li>
+<li><strong>Log damaged or lost stock.</strong> Adjust quantities and note why.</li>
+<li><strong>Review the stock report weekly.</strong> WooCommerce reports and analytics show low and out of stock items.</li>
+<li><strong>Do a regular physical count.</strong> Count a section of stock each week, or the whole lot each quarter, and correct any differences.</li>
+<li><strong>Track one channel of truth.</strong> If you also sell on marketplaces or in person, decide which system holds the master count.</li>
+</ol>
+
+<h2>Selling in more than one place</h2>
+<p>Many UK shops also sell at markets, in a physical shop or on marketplaces. Without syncing, every channel has its own idea of what is left, and overselling follows. Options include inventory management extensions, marketplace connectors or a separate stock system that pushes figures to WooCommerce. Each adds cost and another point of failure, so choose based on how many orders actually come through each channel.</p>
+<p>If you are weighing up whether WooCommerce is still the right platform for a growing multi-channel business, our <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> guide shows how stock works on the alternative, which can be useful for comparison.</p>
+
+<h2>Common stock problems and fixes</h2>
+<table>
+<thead><tr><th>Problem</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Product oversold</td><td>Stock not tracked on that product or variation</td><td>Turn on manage stock and enter the true quantity</td></tr>
+<tr><td>Item shows out of stock but is on the shelf</td><td>Delivery not booked in, or stock held by pending orders</td><td>Update the quantity and review the hold stock time</td></tr>
+<tr><td>Counts drift over time</td><td>Returns, damages or offline sales not recorded</td><td>Add these to your weekly routine and run counts</td></tr>
+<tr><td>No low stock emails</td><td>Notifications off or sent to an unused inbox</td><td>Check the notification settings and email deliverability</td></tr>
+<tr><td>Stock changes unexpectedly</td><td>A plugin or connector writing to stock</td><td>Check extension settings and logs</td></tr>
+</tbody>
+</table>
+
+<h2>When to bring in help</h2>
+<p>Stock management becomes harder with large catalogues, many variations, several sales channels or connections to accounting and warehouse systems. That is when a review of your set-up pays off. We build and support WooCommerce shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, including inventory settings, imports and extensions, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we work with online retailers more widely. For ongoing upkeep, our guide to <a href="/blog/website-support-plan-what-to-include/">what a website support plan should include</a> is a useful checklist. You can see typical costs on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How does WooCommerce stock management work?</h3>
+<p>You enable stock management in the inventory settings, then track quantities on each product or variation. WooCommerce reduces stock when orders are placed and changes the status to out of stock when the quantity reaches your threshold, unless you allow backorders.</p>
+<h3>How do I turn on stock tracking in WooCommerce?</h3>
+<p>Go to WooCommerce settings, the Products tab and Inventory, and enable stock management. Then open each product, go to its Inventory tab, tick manage stock and enter the quantity. For variable products, you can also set stock per variation.</p>
+<h3>Should I hide out of stock products in WooCommerce?</h3>
+<p>Usually not, if the product is coming back. Keeping the page live preserves its search visibility and lets customers find it later. Hide or redirect products only when they are discontinued for good.</p>
+<h3>What does hold stock mean in WooCommerce?</h3>
+<p>It reserves stock for unpaid orders for a set number of minutes. If payment is not completed in that time, the order is cancelled and the stock goes back. Set it long enough for genuine payments to finish.</p>
+<h3>Can WooCommerce send low stock alerts?</h3>
+<p>Yes. You can enable low stock and out of stock email notifications, set a shop-wide low stock threshold and override it on individual products. Make sure the emails go to an inbox someone checks.</p>
+<h3>Why is my WooCommerce stock wrong?</h3>
+<p>The usual reasons are untracked variations, deliveries or returns not being recorded, sales through other channels, or a plugin changing stock. A physical count and a check of each product's settings will usually show where the gap comes from.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Stock%20Management%3A%20How%20to%20Track%20Inventory%20Properly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/woocommerce-vat-tax-settings-uk/"><p class="pws-tags">Ecommerce &middot; 9 min read</p><h3>WooCommerce VAT Settings: How to Set Up Tax on a UK Store</h3><p>How to set up WooCommerce VAT settings for a UK shop: enabling taxes, price display, standard and reduced rate tables, shipping tax and testing orders.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-product-csv-import/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>WooCommerce Product CSV Import and Export: A Practical Guide</h3><p>How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-checkout-setup/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>WooCommerce Checkout Settings: How to Set Up a Smooth Checkout</h3><p>How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Stock%20Management%3A%20How%20to%20Track%20Inventory%20Properly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

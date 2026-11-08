@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WooCommerce Checkout Settings: A Practical UK Guide</title>
+<meta name="description" content="How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WooCommerce Checkout Settings: A Practical UK Guide">
+<meta property="og:description" content="How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-woocommerce-checkout-setup.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/#article","headline":"WooCommerce Checkout Settings: How to Set Up a Smooth Checkout","description":"How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/","url":"https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/","image":"https://prismworksstudio.co.uk/assets/og/blog-woocommerce-checkout-setup.png","inLanguage":"en-GB","wordCount":1555,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WooCommerce Checkout Settings: How to Set Up a Smooth Checkout","item":"https://prismworksstudio.co.uk/blog/woocommerce-checkout-setup/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where are the WooCommerce checkout settings?","acceptedAnswer":{"@type":"Answer","text":"They are spread across several tabs of WooCommerce settings: Accounts and privacy for guest checkout and accounts, Payments for payment methods, and Advanced for the checkout, basket and terms pages. The layout of the checkout itself is edited on the checkout page or through your theme."}},{"@type":"Question","name":"How do I enable guest checkout in WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Go to WooCommerce settings, then Accounts and privacy, and allow customers to place orders without an account. You can still offer account creation during or after checkout for those who want it."}},{"@type":"Question","name":"How do I remove fields from the WooCommerce checkout?","acceptedAnswer":{"@type":"Answer","text":"On the block checkout, some fields such as company name and phone can be made optional or hidden in the checkout block settings. For deeper changes, or on the shortcode checkout, you will usually need a compatible field editor extension or custom code."}},{"@type":"Question","name":"Should I use the WooCommerce block checkout?","acceptedAnswer":{"@type":"Answer","text":"For new shops with light customisation, it is often a good default. If you rely on extensions that do not yet support it, the shortcode checkout may still be needed. Check compatibility and test on a staging copy before switching."}},{"@type":"Question","name":"How do I add terms and conditions to the WooCommerce checkout?","acceptedAnswer":{"@type":"Answer","text":"Create your terms page, then select it as the terms page in WooCommerce settings. Depending on your checkout type, customers then see a checkbox or a notice linking to it before they place their order."}},{"@type":"Question","name":"Why are customers abandoning my WooCommerce checkout?","acceptedAnswer":{"@type":"Answer","text":"Common reasons include forced account creation, surprise delivery costs, too many fields, missing payment options, slow pages and errors on mobile. Review your analytics for where people leave and test the journey yourself on a phone."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WooCommerce Checkout Settings: How to Set Up a Smooth Checkout</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>WooCommerce Checkout Settings: How to Set Up a Smooth Checkout</h1><p class="pws-lead">How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Allow guest checkout, ask only for the details you need and make the terms and privacy pages easy to find.</li><li>Check which checkout your shop uses, because the newer block-based checkout and the older shortcode checkout are customised differently.</li><li>Test every payment method, delivery option and discount on mobile before launch, and again after major updates.</li></ul></div>
+<p>WooCommerce checkout settings control who can buy from your shop, what details customers are asked for, which payment methods appear and which pages they agree to before paying. Most of them sit across the Accounts and privacy, Payments and Advanced tabs of WooCommerce settings, with the layout of the checkout page itself handled in the page editor. A good set-up keeps the checkout short, clear and trustworthy, which is usually the single easiest place to stop losing sales.</p>
+<p>This guide is for UK shop owners who want to review or set up their WooCommerce checkout properly. It covers the core settings, the choice between the block checkout and the older shortcode checkout, field changes, payments, legal pages and a testing checklist. WooCommerce updates regularly, so menu names may differ slightly in your version.</p>
+
+<h2>Block checkout or shortcode checkout?</h2>
+<p>Before changing anything, find out which checkout your shop uses. Newer WooCommerce installs generally use a block-based checkout built in the WordPress editor. Older shops, and some themes, use a classic checkout created with a shortcode.</p>
+<table>
+<thead><tr><th>Area</th><th>Block checkout</th><th>Shortcode checkout</th></tr></thead>
+<tbody>
+<tr><td>How you edit it</td><td>Open the checkout page in the editor and adjust blocks and their settings</td><td>Mostly through settings, theme options, code or extensions</td></tr>
+<tr><td>Field changes</td><td>Some options in the editor; deeper changes need compatible extensions</td><td>Long-established hooks and many field editor plugins</td></tr>
+<tr><td>Extension support</td><td>Depends on whether each extension supports blocks</td><td>Widest historic support</td></tr>
+<tr><td>Typical fit</td><td>New shops and those keeping customisation light</td><td>Shops relying on older extensions or heavy custom code</td></tr>
+</tbody>
+</table>
+<p>The key check is compatibility. If a payment, delivery or upsell extension you rely on does not support the block checkout, it may not appear at all. Check each extension's current documentation before switching. Test any switch on a staging copy first.</p>
+
+<h2>How to set up WooCommerce checkout settings</h2>
+<ol>
+<li><strong>Accounts and privacy.</strong> Decide whether customers can check out as guests, whether they can create an account during checkout and whether accounts are created automatically. Link your privacy policy here too.</li>
+<li><strong>Payments.</strong> Enable the payment methods you want, set their titles and descriptions, and put them in a sensible order.</li>
+<li><strong>Advanced.</strong> Confirm which pages act as the basket, checkout, my account and terms pages, and check that the site forces secure connections.</li>
+<li><strong>Shipping.</strong> Confirm your delivery zones and methods so the right options show for UK and any overseas addresses.</li>
+<li><strong>Tax.</strong> Check how prices and tax are shown in the basket and at checkout.</li>
+<li><strong>Emails.</strong> Review the order confirmation and other emails customers receive after checking out.</li>
+<li><strong>The page itself.</strong> Open the checkout page in the editor, or review your theme's checkout, and adjust fields, order summary and notices.</li>
+</ol>
+<p>If you also run a Shopify shop, our guide to <a href="/blog/shopify-checkout-settings/">Shopify checkout settings</a> covers the equivalent choices on that platform.</p>
+
+<h2>Guest checkout and accounts</h2>
+<p>Forcing people to create an account before they can pay is a common reason for abandoned checkouts. For most UK shops, allow guest checkout and offer account creation as an option, either during checkout or afterwards on the order confirmation.</p>
+<p>Accounts do have real benefits for repeat buyers, such as order history and saved addresses. The aim is to offer them without making them a barrier. If you sell to trade customers who need accounts for pricing, you can still keep a guest route for everyone else.</p>
+
+<h2>Trimming checkout fields</h2>
+<p>Every field is a small reason to stop. Look at each one and ask whether you genuinely need it to take payment, deliver the order or meet a legal requirement.</p>
+<ul>
+<li><strong>Company name:</strong> optional, or hidden if you rarely sell to businesses.</li>
+<li><strong>Address line 2:</strong> optional.</li>
+<li><strong>Phone number:</strong> useful for couriers, but consider making it optional and explaining why you ask.</li>
+<li><strong>Order notes:</strong> keep if customers use them for delivery instructions, remove if not.</li>
+<li><strong>County:</strong> rarely essential for UK addresses; consider making it optional.</li>
+</ul>
+<p>Clear labels and helpful error messages matter as much as the number of fields. If someone mistypes a postcode, the message should say what is wrong and how to fix it. Our guide to <a href="/blog/website-form-error-messages/">website form error messages</a> covers the details.</p>
+<p>Collect only what you need and explain how you use it. UK GDPR applies to the personal data you collect at checkout, so check the ICO's current guidance and make sure your privacy policy reflects what you actually do.</p>
+
+<h2>Payment methods UK shoppers expect</h2>
+<p>Most UK shoppers expect to pay by card, and many also look for digital wallets such as Apple Pay and Google Pay. Some shops add PayPal or a buy now, pay later option. Each method you add should earn its place, because a long list can slow people down.</p>
+<p>Our guide to <a href="/blog/payment-gateways-uk-online-shop/">payment gateways for UK online shops</a> compares the main options and what to check before choosing. If you offer buy now, pay later, follow the provider's current rules on how it is promoted, and check current official guidance on how these products are advertised.</p>
+
+<h2>Terms, privacy and returns</h2>
+<p>WooCommerce lets you set a terms and conditions page, which can add a checkbox or notice at checkout, and a privacy policy page. Make sure both pages exist, are up to date and actually describe how your shop works. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> explains what these pages usually cover, though it is general information and you should take legal advice for your own circumstances.</p>
+<p>Link to your delivery and returns information near the order summary. Customers often hesitate at checkout to double-check delivery costs or returns, and sending them hunting through the footer is a good way to lose them.</p>
+
+<h2>Making the checkout mobile-friendly</h2>
+<p>A large share of shoppers will check out on a phone. Test the full journey on a real mobile device, not just a resized browser window. Look for:</p>
+<ul>
+<li>Fields that trigger the right keyboard, such as numbers for phone fields and email layouts for email fields.</li>
+<li>Buttons big enough to tap without zooming.</li>
+<li>An order summary that is easy to open and check.</li>
+<li>Digital wallet buttons that appear and work.</li>
+<li>No pop-ups covering the payment button.</li>
+</ul>
+<p>Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers broader principles that apply here too.</p>
+
+<h2>Tracking checkout performance</h2>
+<p>You cannot improve what you cannot see. Make sure your analytics records when people begin checkout and when they complete a purchase, so you can see where they drop out. Our <a href="/blog/ga4-setup-uk/">GA4 set-up guide</a> explains how to get ecommerce events recording properly.</p>
+<p>Look at the figures alongside your abandoned basket emails. Some people will always leave, but a sudden rise in drop-off after an update usually points to something broken. Our guide to <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a> covers how to win some of those sales back.</p>
+
+<h2>A checkout testing checklist</h2>
+<p>Run these checks before launch, after major WooCommerce or theme updates, and whenever you add a payment or delivery extension:</p>
+<ol>
+<li>Place an order as a guest and as a logged-in customer.</li>
+<li>Pay with each payment method, using test mode where the provider offers it.</li>
+<li>Choose each delivery option, including any collection option, with UK and overseas addresses.</li>
+<li>Apply a discount code and check the totals.</li>
+<li>Trigger a failed payment and check the message is clear.</li>
+<li>Check the order confirmation page and email.</li>
+<li>Repeat the key steps on a phone.</li>
+<li>Confirm the order appears correctly in the admin and in your analytics.</li>
+</ol>
+
+<h2>When to get help</h2>
+<p>Checkouts get complicated when extensions conflict, custom fields are needed for trade customers, or you are moving from the shortcode checkout to blocks. That is often where small problems quietly cost sales. We build and improve WooCommerce shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> explains how we approach improving conversion across a whole shop. Typical costs are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where are the WooCommerce checkout settings?</h3>
+<p>They are spread across several tabs of WooCommerce settings: Accounts and privacy for guest checkout and accounts, Payments for payment methods, and Advanced for the checkout, basket and terms pages. The layout of the checkout itself is edited on the checkout page or through your theme.</p>
+<h3>How do I enable guest checkout in WooCommerce?</h3>
+<p>Go to WooCommerce settings, then Accounts and privacy, and allow customers to place orders without an account. You can still offer account creation during or after checkout for those who want it.</p>
+<h3>How do I remove fields from the WooCommerce checkout?</h3>
+<p>On the block checkout, some fields such as company name and phone can be made optional or hidden in the checkout block settings. For deeper changes, or on the shortcode checkout, you will usually need a compatible field editor extension or custom code.</p>
+<h3>Should I use the WooCommerce block checkout?</h3>
+<p>For new shops with light customisation, it is often a good default. If you rely on extensions that do not yet support it, the shortcode checkout may still be needed. Check compatibility and test on a staging copy before switching.</p>
+<h3>How do I add terms and conditions to the WooCommerce checkout?</h3>
+<p>Create your terms page, then select it as the terms page in WooCommerce settings. Depending on your checkout type, customers then see a checkbox or a notice linking to it before they place their order.</p>
+<h3>Why are customers abandoning my WooCommerce checkout?</h3>
+<p>Common reasons include forced account creation, surprise delivery costs, too many fields, missing payment options, slow pages and errors on mobile. Review your analytics for where people leave and test the journey yourself on a phone.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Checkout%20Settings%3A%20How%20to%20Set%20Up%20a%20Smooth%20Checkout'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/woocommerce-vat-tax-settings-uk/"><p class="pws-tags">Ecommerce &middot; 9 min read</p><h3>WooCommerce VAT Settings: How to Set Up Tax on a UK Store</h3><p>How to set up WooCommerce VAT settings for a UK shop: enabling taxes, price display, standard and reduced rate tables, shipping tax and testing orders.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-stock-management/"><p class="pws-tags">Ecommerce &middot; 8 min read</p><h3>WooCommerce Stock Management: How to Track Inventory Properly</h3><p>How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-product-csv-import/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>WooCommerce Product CSV Import and Export: A Practical Guide</h3><p>How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Checkout%20Settings%3A%20How%20to%20Set%20Up%20a%20Smooth%20Checkout'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

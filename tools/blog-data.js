@@ -48800,4 +48800,3481 @@ module.exports = [
 <p>Some charities may be eligible, depending on their status and the programme's current rules. Check the latest eligibility guidance before applying or planning campaigns around it.</p>
 `,
   },
+  {
+    slug: 'brand-marketing-vs-performance-marketing',
+    seoTitle: 'Brand Marketing vs Performance Marketing Explained',
+    title: 'Brand Marketing vs Performance Marketing: How to Balance Your Budget',
+    description: 'Performance marketing drives measurable sales now; brand marketing builds the recognition that makes future sales easier. Learn how to balance the two.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/brand-strategy/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Performance marketing is activity aimed at an immediate, measurable action, such as a click, enquiry or sale, while brand marketing builds awareness, trust and preference so people choose you when they are ready to buy. Performance marketing harvests demand that exists today; brand marketing grows the pool of people who will look for you tomorrow.</p>
+<p>UK business owners often feel pushed to choose between them, especially when budgets are tight and every pound needs to show a return. In practice the two work best together. This guide explains brand marketing vs performance marketing, what each looks like, how to measure them and how to decide on a sensible balance for your business.</p>
+
+<h2>Brand marketing vs performance marketing at a glance</h2>
+<table>
+<thead><tr><th>Factor</th><th>Brand marketing</th><th>Performance marketing</th></tr></thead>
+<tbody>
+<tr><td>Main goal</td><td>Be known, remembered and preferred</td><td>Drive a specific action now</td></tr>
+<tr><td>Time frame</td><td>Months to years</td><td>Days to weeks</td></tr>
+<tr><td>Typical activity</td><td>Positioning, identity, video, PR, sponsorship, content</td><td>Search ads, shopping ads, retargeting, conversion-focused social ads</td></tr>
+<tr><td>Who it reaches</td><td>People who may buy in future</td><td>People close to buying</td></tr>
+<tr><td>How it is measured</td><td>Branded search, direct traffic, recall, share of voice</td><td>Cost per lead, cost per sale, return on ad spend</td></tr>
+<tr><td>Risk if ignored</td><td>Rising acquisition costs, price competition</td><td>Slow cash flow, missed ready-to-buy customers</td></tr>
+</tbody>
+</table>
+
+<h2>What brand marketing involves</h2>
+<p>Brand marketing starts with strategy: who you serve, what you stand for, why you are different and how you sound. Those decisions shape your identity, messaging and <a href="/blog/tone-of-voice-guide-uk/">tone of voice</a>, which then run through everything from your website to your ads. Our guide to <a href="/blog/brand-strategy-vs-marketing-strategy/">brand strategy vs marketing strategy</a> explains how the strategic layer differs from the plan for reaching customers.</p>
+<p>The activity itself is broad. It can include video and display campaigns aimed at reach, sponsorship of local events, digital PR and media coverage, useful content that people remember, and a consistent look and voice across every channel. The aim is to create memories and associations so that when a need arises, your name comes to mind first or feels familiar on a results page.</p>
+<p>Digital PR is a good example of work that does both jobs: it builds recognition and also earns links that help SEO. Our guide to <a href="/blog/digital-pr-link-building-uk/">digital PR and link building</a> explains how.</p>
+
+<h2>What performance marketing involves</h2>
+<p>Performance marketing focuses on actions you can track and attribute. Common channels include Google search and Shopping ads, conversion-focused campaigns on Meta and TikTok, affiliate programmes and <a href="/blog/remarketing-guide-uk/">remarketing</a> to people who have already visited your site. Budgets are adjusted based on results, often weekly, and success is judged by cost per lead, cost per sale or return on ad spend.</p>
+<p>Its strengths are clear. You can see what works, cut what does not and scale winners quickly. That makes performance marketing appealing to small businesses and anyone who needs to justify spending. The catch is that it mainly reaches people who are already looking, and that pool is limited.</p>
+
+<h2>Why performance marketing alone tends to plateau</h2>
+<p>When a business relies only on performance channels, a familiar pattern often appears. Early campaigns capture the easiest customers, the ones already searching. As the business tries to grow, it has to bid on broader terms and colder audiences, where people do not know the brand and convert less often. Costs per sale rise, and competitors bidding on the same terms push them higher still.</p>
+<p>Brand familiarity changes that picture. People who recognise your name are more likely to click your ad, choose you over an unknown competitor and search for you directly. Branded searches are usually cheaper and convert better than generic ones. In other words, brand marketing can make performance marketing more efficient, even though its own effect is harder to measure.</p>
+
+<h2>Why brand marketing alone is risky too</h2>
+<p>The opposite mistake is also common, particularly after a rebrand. A business invests in a new identity, a beautiful website and awareness campaigns, but has no plan to capture the interest it creates. People hear about the brand, search for it later and find a competitor's ad first, or arrive at a site with no clear next step.</p>
+<p>Brand activity needs performance activity to turn attention into revenue: search campaigns that cover your brand and key services, landing pages that convert, and tracking that shows what happened. For smaller businesses with limited cash, some performance activity is usually needed to fund the longer-term work.</p>
+
+<h2>How to measure each</h2>
+<table>
+<thead><tr><th>Measure</th><th>What it tells you</th><th>Mainly reflects</th></tr></thead>
+<tbody>
+<tr><td>Cost per lead or sale</td><td>How efficiently ads turn spend into results</td><td>Performance</td></tr>
+<tr><td>Return on ad spend</td><td>Revenue generated per pound of ad spend</td><td>Performance</td></tr>
+<tr><td>Branded search volume</td><td>How many people search for your name</td><td>Brand</td></tr>
+<tr><td>Direct and returning visitors</td><td>How many come back without an ad</td><td>Brand</td></tr>
+<tr><td>Reach and video views</td><td>How many people saw your message</td><td>Brand</td></tr>
+<tr><td>Conversion rate by source</td><td>Whether familiar visitors convert better</td><td>Both</td></tr>
+</tbody>
+</table>
+<p>Set up GA4 and Search Console so you can watch these over months, not days. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> covers the basics. Be cautious with attribution reports: ad platforms tend to credit the last click, which often undervalues the brand activity that started the journey.</p>
+
+<h2>How to balance your budget</h2>
+<p>There is no single correct split. The right balance depends on several factors:</p>
+<ul>
+<li><strong>Stage of business.</strong> New businesses often lean towards performance to generate cash and learn what sells, then add brand activity as they grow.</li>
+<li><strong>Sales cycle.</strong> Longer, considered purchases benefit more from brand familiarity, because buyers research and compare over time.</li>
+<li><strong>Market competition.</strong> In crowded markets where click costs are high, brand recognition can be a real advantage.</li>
+<li><strong>Existing awareness.</strong> A well-known local business may need less awareness work than a newcomer.</li>
+<li><strong>Cash flow.</strong> If you need sales this month, performance has to come first, with brand work built in steadily.</li>
+</ul>
+<p>A practical approach is to protect a performance budget that covers your core, high-intent searches and remarketing, then set aside a smaller, consistent amount for brand activity and review its effect over a longer period. Keep messaging consistent so both kinds of activity reinforce each other.</p>
+<p>Whatever split you choose, write it down along with what you expect each part to achieve and when you will review it. Brand work in particular is easy to cut at the first quiet month, yet it only pays off when it runs consistently. Agreeing a review point in advance, such as every quarter, helps you judge it fairly rather than on a few weeks of data.</p>
+
+<h2>Channels that can do both</h2>
+<p>Some channels can serve brand and performance goals depending on how they are set up. YouTube can run reach campaigns that build familiarity or action-focused campaigns that drive sales; our guide to <a href="/blog/youtube-ads-agency-uk/">YouTube ads</a> covers both. Meta and TikTok can run awareness or conversion objectives. SEO builds visibility for people ready to buy while also making your name familiar to researchers. What matters is being clear about the goal of each campaign so it is judged on the right measure.</p>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We work on both sides. Our <a href="/services/brand-strategy/">brand strategy service</a> covers positioning, messaging, tone of voice and visual identity, while our <a href="/services/paid-media/">paid media service</a> handles Google, Meta, TikTok and YouTube campaigns with tracking set up first. Bringing them together means your ads carry a clear, consistent brand and your brand work has a way to turn into enquiries. Monthly plans are listed on our <a href="/pricing/">pricing page</a>, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is the difference between brand marketing vs performance marketing?</h3>
+<p>Brand marketing builds awareness, trust and preference over time, while performance marketing aims for an immediate, measurable action such as an enquiry or sale. Brand grows future demand; performance captures demand that exists now.</p>
+<h3>Is performance marketing better than brand marketing?</h3>
+<p>Not on its own. Performance marketing is easier to measure, but it mainly reaches people already looking. Without brand activity, costs often rise as you try to reach colder audiences who do not know you.</p>
+<h3>How should a small business split budget between brand and performance?</h3>
+<p>There is no fixed split. Many small businesses start mostly with performance to generate cash and learn, then add a steady, smaller brand budget. Review the balance as the business grows and as results come in.</p>
+<h3>How do you measure brand marketing?</h3>
+<p>Look at branded search volume, direct and returning visitors, reach, and whether conversion rates improve over time. These signals move slowly, so judge them over months rather than weeks.</p>
+<h3>Is SEO brand marketing or performance marketing?</h3>
+<p>It can be both. SEO captures people searching for what you sell, which is performance-like, and it also makes your name familiar to researchers, which supports your brand. Results usually take 3-6 months to build.</p>
+<h3>Do I need a brand strategy before running ads?</h3>
+<p>You can run ads without a formal brand strategy, but clear positioning and messaging usually make ads more effective. Even a short piece of work on who you serve and why you are different helps.</p>
+`,
+  },
+  {
+    slug: 'canonical-tags-guide',
+    seoTitle: 'Canonical Tags Explained: A Guide for UK Websites',
+    title: 'Canonical Tags Explained: How to Handle Duplicate Pages on Your Website',
+    description: 'Canonical tags explained in plain English: what they do, when to use them, how Shopify and WordPress handle them, and how to check yours are correct.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/blog/technical-seo-audit-checklist/', '/pricing/'],
+    body: `
+<p>A canonical tag is a line of code in a page's head that tells search engines which URL is the preferred version when several pages show the same or very similar content. It helps Google consolidate signals onto one page and choose the right address to show in search results. Most small business websites need it working quietly in the background, not tweaked by hand on every page.</p>
+<p>This guide explains canonical tags in plain English for UK small business owners. It covers why duplicates happen, when to use a canonical tag instead of a redirect or noindex, how Shopify and WordPress handle them, and how to check yours. Platforms and Google's guidance change, so check Google Search Central and your platform's current help pages for the exact details.</p>
+
+<h2>Why duplicate pages happen</h2>
+<p>Most duplicate content is accidental and harmless in intent. Common causes include:</p>
+<ul>
+<li><strong>URL variations</strong>, such as http and https, www and non-www, or with and without a trailing slash.</li>
+<li><strong>Tracking parameters</strong> added to links in emails and ads, which create new addresses for the same page.</li>
+<li><strong>Filters and sorting</strong> on ecommerce category pages, where each combination makes a different URL.</li>
+<li><strong>Products in several collections</strong>, which some platforms can show at more than one address.</li>
+<li><strong>Print versions, tag archives and pagination</strong> that repeat content from other pages.</li>
+<li><strong>Copied content</strong>, such as manufacturer product descriptions or articles republished on another site.</li>
+</ul>
+<p>When search engines find several versions, they have to choose one to show. If your signals are mixed, they may pick a version you would not choose, or split links and attention between them. Canonical tags are one of the main ways to state your preference.</p>
+
+<h2>Canonical tags explained: how they work</h2>
+<p>A canonical tag is a link element in the head of the page with the attribute rel set to canonical and the href set to the preferred URL. A page can point to itself, which is called a self-referencing canonical, or to another page that it duplicates.</p>
+<p>Google treats the canonical tag as a strong hint rather than a strict instruction. It also looks at redirects, internal links, sitemaps, https and other signals. If those disagree with your tag, Google may choose a different canonical. You can see Google's choice using the URL Inspection tool in Search Console. Our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> explains how to get access.</p>
+
+<h2>Canonical, redirect or noindex?</h2>
+<p>Canonical tags are not the only way to deal with duplicates. Choosing the right tool depends on whether visitors still need the duplicate page.</p>
+<table>
+<thead><tr><th>Situation</th><th>Best option</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Old page replaced by a new one</td><td>301 redirect</td><td>Visitors and search engines both move to the new page</td></tr>
+<tr><td>Same content at several URLs that people still use</td><td>Canonical tag</td><td>Visitors keep their view, while search engines get a preferred URL</td></tr>
+<tr><td>Page that should never appear in search</td><td>Noindex</td><td>Keeps it out of results entirely</td></tr>
+<tr><td>Site-wide http, www or slash variants</td><td>Redirect, plus self-referencing canonicals</td><td>Forces one consistent version</td></tr>
+<tr><td>Article republished on another site</td><td>Canonical from the copy to the original, if the other site agrees</td><td>Credits the original source</td></tr>
+</tbody>
+</table>
+<p>When relaunching a website with new URLs, redirects do the main job. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> covers that process in detail.</p>
+
+<h2>How Shopify and WordPress handle canonical tags</h2>
+<p>Most modern platforms add self-referencing canonical tags automatically, which covers the basics for many small sites.</p>
+<h3>Shopify</h3>
+<p>Shopify themes generally output a canonical tag on each page. Products can appear inside collection URLs, and the canonical usually points to the main product URL. Filtered and sorted collection views are a common source of extra URLs. Our guides to <a href="/blog/shopify-product-filters/">Shopify product filters</a> and <a href="/blog/shopify-collections-structure/">structuring Shopify collections</a> help keep this tidy, and our wider <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers the rest. Customised themes and apps can sometimes alter or duplicate canonical tags, so check after big theme changes.</p>
+<h3>WordPress and WooCommerce</h3>
+<p>WordPress adds canonical tags to single posts and pages, and SEO plugins typically extend this to archives and let you set a custom canonical on individual pages. WooCommerce stores need the same care with filtered shop pages and product variations. Our <a href="/blog/woocommerce-seo-uk/">WooCommerce SEO guide</a> covers the ecommerce side. Avoid running two SEO plugins at once, as both may output canonical tags.</p>
+
+<h2>How to check your canonical tags</h2>
+<ol>
+<li><strong>View the page source.</strong> Search for the word canonical. There should be one tag, in the head, pointing to a full, working URL.</li>
+<li><strong>Use URL Inspection.</strong> Compare the user-declared canonical with the Google-selected canonical for key pages.</li>
+<li><strong>Review the page indexing report.</strong> Look at reasons relating to duplicates and alternate pages to spot patterns.</li>
+<li><strong>Crawl the site.</strong> An SEO crawler can list every canonical tag and flag missing, multiple or broken ones.</li>
+<li><strong>Check your sitemap.</strong> It should list canonical URLs only. Our <a href="/blog/xml-sitemap-guide/">XML sitemap guide</a> explains why.</li>
+</ol>
+
+<h2>Common canonical tag mistakes</h2>
+<ul>
+<li><strong>Every page pointing to the home page.</strong> Usually a theme or plugin error, and it can stop inner pages appearing in search.</li>
+<li><strong>Canonicals pointing to redirected or missing pages.</strong> Always point to a live page that returns a normal response.</li>
+<li><strong>Leftover staging addresses.</strong> After a launch, canonicals sometimes still point to the development domain.</li>
+<li><strong>Multiple tags on one page.</strong> Conflicting tags may be ignored altogether.</li>
+<li><strong>Canonical plus noindex on the same page.</strong> These send mixed messages. Pick the one that matches your intent.</li>
+<li><strong>Canonicalising different content.</strong> Pages that are genuinely different, such as separate services or locations, should usually have their own self-referencing canonicals.</li>
+<li><strong>Internal links to non-canonical URLs.</strong> Link to the preferred version in menus and content so your signals agree.</li>
+</ul>
+
+<h2>Canonical tags and tracking parameters</h2>
+<p>Links in emails, social posts and ads often carry tracking parameters after a question mark in the URL. Each variation is technically a different address, even though the page is identical. A self-referencing canonical on the clean URL tells search engines to ignore the extra versions, so your reports stay accurate and search results show the tidy address.</p>
+<p>The same applies to session IDs, sort orders and search parameters added by some booking systems or shop apps. If you see many parameter URLs in Search Console, check that the canonical on those pages points to the clean version, and avoid linking internally to parameter URLs where you can.</p>
+
+<h2>Canonicals when moving or merging content</h2>
+<p>If you merge two similar blog posts into one stronger article, redirect the weaker URL to the new one rather than relying on a canonical tag. If you run the same product range on two of your own websites, for example a trade site and a retail site, decide which should rank for each page and point the other version's canonical to it. Write this decision down so future content and redesigns keep it consistent, because canonical rules are easy to lose when a theme is replaced.</p>
+
+<h2>Do canonical tags matter for a small site?</h2>
+<p>For a small brochure site with a handful of pages, the platform defaults are often enough, and you rarely need to set a canonical by hand. They matter more for online shops with filters and many product URLs, sites with content syndicated elsewhere, and any site after a redesign or platform move. If you are seeing duplicate warnings in Search Console or key pages are being replaced in results by odd URLs, canonicals are one of the first things to check. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> puts them in context with other checks.</p>
+
+<h2>When to get help</h2>
+<p>Canonical problems are often symptoms of wider structural issues, such as filter set-ups, theme customisations or a migration that was not fully planned. Our <a href="/services/seo-geo/">SEO and GEO service</a> includes technical audits and fixes for Shopify, WordPress and other platforms, and you can see how our retainers work on our <a href="/pricing/">pricing page</a>. SEO results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>What are canonical tags explained simply?</h3>
+<p>A canonical tag is a short line of code that tells search engines which URL is the main version of a page when similar or identical content exists at more than one address.</p>
+<h3>Does every page need a canonical tag?</h3>
+<p>It is good practice for indexable pages to have a self-referencing canonical tag. Most modern platforms add these automatically, so check they are present rather than adding them by hand.</p>
+<h3>Will Google always follow my canonical tag?</h3>
+<p>No. Google treats it as a strong hint and may choose a different URL if other signals, such as internal links, sitemaps or redirects, point elsewhere. Make all your signals consistent.</p>
+<h3>Is duplicate content a penalty?</h3>
+<p>Generally, ordinary duplication within your own site is not treated as a penalty. It can, however, split signals and lead Google to show a version you did not intend, which canonical tags help prevent.</p>
+<h3>Should I use a canonical tag or a redirect?</h3>
+<p>Use a redirect when the old page should no longer be visited. Use a canonical tag when several versions need to stay available to visitors but you want one shown in search.</p>
+<h3>How do I see which canonical Google has chosen?</h3>
+<p>Use the URL Inspection tool in Google Search Console. It shows the canonical you declared and the one Google selected, so you can spot mismatches.</p>
+`,
+  },
+  {
+    slug: 'carpenter-joiner-marketing-uk',
+    seoTitle: 'Carpenter and Joiner Marketing UK: Win Better Projects',
+    title: 'Carpenter and Joiner Marketing in the UK: How to Win Better Projects',
+    description: 'Carpenter and joiner marketing in the UK works when a strong portfolio, clear service pages and local search help you win the bespoke work you want to do.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Carpenter and joiner marketing in the UK is about showing the quality of your work clearly enough that the right customers choose you for the projects you actually want. The carpenters and joiners who move up from odd jobs to bespoke commissions usually build a strong photo portfolio, create a page for each type of work, rank well locally and make it easy to start a conversation about a project.</p>
+<p>This guide is for site carpenters, bench joiners, small joinery workshops and fitters who make or install fitted furniture, staircases, doors, windows and kitchens. We cover how customers choose a carpenter, what your website needs, how local SEO and ads fit in, and how to steer your marketing towards better-paid work.</p>
+
+<h2>How customers choose a carpenter or joiner</h2>
+<p>Carpentry customers vary widely. Some need a quick fix, such as a door hung or skirting replaced, and search "carpenter near me" wanting someone available this week. Others are planning something bigger: fitted alcove units, a new oak staircase, built-in wardrobes or bespoke sash windows. They search for the specific item, browse photos for inspiration, compare portfolios and often wait weeks for the right maker.</p>
+<p>The second group is usually where the better margins are, and they choose almost entirely on visible quality. That means your photos, how you describe your work and how professional you appear online carry a lot of weight. Builders, architects and interior designers also look for reliable joiners, and they judge you the same way. Our post on <a href="/blog/interior-designer-website-design-uk/">interior designer website design</a> gives a sense of how design professionals present work, which is useful when you want to attract their referrals.</p>
+
+<h2>Carpenter and joiner marketing UK: decide what you want more of</h2>
+<p>Before changing anything, decide which work you want to grow. A carpenter who wants steady small jobs needs a different approach from a joinery workshop chasing bespoke commissions. The table below shows how the focus shifts.</p>
+<table>
+<thead><tr><th>Goal</th><th>Website focus</th><th>Marketing focus</th></tr></thead>
+<tbody>
+<tr><td>Steady local jobs</td><td>Services list, areas covered, quick contact options</td><td>Google Business Profile, reviews, local search ads</td></tr>
+<tr><td>Fitted furniture</td><td>Gallery of wardrobes, alcoves, media walls and storage</td><td>Instagram, Pinterest-style photos, targeted local ads</td></tr>
+<tr><td>Staircases and doors</td><td>Detailed project pages with materials and finishes</td><td>Product-specific SEO pages, builder and architect referrals</td></tr>
+<tr><td>Trade and contract work</td><td>Capabilities, capacity, insurance, workshop details</td><td>Direct outreach to builders, developers and designers</td></tr>
+</tbody>
+</table>
+<p>Most businesses mix these, but leading with the work you want more of changes who gets in touch.</p>
+
+<h2>Build a portfolio that sells your craft</h2>
+<p>Photos do the heavy lifting for carpentry. Plan to photograph every project worth showing, ideally when the room is tidy and the light is good. Take wide shots that show the piece in its setting, close-ups of joints, grain, ironmongery and finishes, and progress photos from your workshop or the site. If the customer agrees, revisit once the room is furnished for a final set.</p>
+<p>Group your portfolio by type of work, and add a short caption to each project: the timber or material, the finish, the room and the problem it solved. A sentence about why the client wanted it made to measure tells future customers you understand their needs. Never use other makers' photos or stock images of joinery, and only use client details or quotes with clear permission.</p>
+<p>Your homepage should lead with your strongest images and a clear line about what you make and where. Our guide to <a href="/blog/website-homepage-design/">website homepage design</a> covers how to structure that first screen.</p>
+
+<h2>Create pages for each type of work</h2>
+<p>People search for specific items, so a page for each main service helps you rank and shows depth. Depending on what you do, useful pages might include:</p>
+<ul>
+<li><strong>Fitted wardrobes and bedroom furniture</strong>, including awkward spaces and eaves.</li>
+<li><strong>Alcove units, shelving and media walls</strong>, a popular search for living rooms.</li>
+<li><strong>Staircases and balustrades</strong>, whether replacement, refurbishment or new.</li>
+<li><strong>Internal and external doors</strong>, including hanging, making and fitting.</li>
+<li><strong>Windows, including sash repair or replacement</strong>, if you offer them.</li>
+<li><strong>Kitchens</strong>, whether bespoke or fitting supplied units.</li>
+<li><strong>General carpentry and repairs</strong>, for smaller jobs.</li>
+</ul>
+<p>Each page should explain what you make or fit, the materials and finishes you work with, how a project runs from measure to installation, typical lead times in general terms and what affects the price. If you also fit kitchens and bathrooms, our post on <a href="/blog/kitchen-bathroom-fitter-website-design-uk/">kitchen and bathroom fitter website design</a> covers that side in more detail.</p>
+
+<h3>Explain your process and pricing approach</h3>
+<p>Bespoke work can feel daunting to customers who have never commissioned anything before. A simple process page helps: initial chat, site visit and measure, design or drawings, quote, making, fitting and finishing. Explain how deposits work in general terms, how long they might wait for a slot and how you protect their home during installation. You do not need to publish fixed prices, but describing what affects cost, such as timber choice, size, complexity and finish, helps people come to you prepared.</p>
+<p>If your work involves listed buildings, fire doors, structural changes or staircases that must meet building regulations, keep any explanation general and tell customers to check current official guidance and, where relevant, their local authority or building control.</p>
+
+<h2>Local SEO for carpenters and joiners</h2>
+<p>Most carpentry work is local, so start with your Google Business Profile. Choose accurate categories, set your service area, add your workshop address if customers visit, and upload project photos regularly. Ask every satisfied customer for a review and reply to each one, using the approach in our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">responding to Google reviews</a>.</p>
+<p>On your website, mention the towns you cover naturally, and consider location pages only where you genuinely do plenty of work and can show local projects. Write helpful articles that answer real questions, such as how to choose timber for a staircase or what to consider before commissioning fitted wardrobes. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the essentials.</p>
+
+<h2>Paid ads for carpentry work</h2>
+<p>Google Ads can help fill gaps in your diary, particularly for higher-value searches like "bespoke fitted wardrobes [town]" or "oak staircase makers". Keep targeting tight to your service area, send each ad to the matching service page and exclude searches about DIY, courses, jobs, tools and flat-pack assembly unless you want that work. Our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small businesses</a> covers the basics.</p>
+<p>Visual platforms such as Instagram and Facebook suit carpentry well. Short videos from the workshop, a time-lapse of an installation or a before-and-after of a dated staircase can build a local following. Paid social ads showing your best work to homeowners nearby can support this. Our <a href="/services/paid-media/">paid media service</a> covers both search and social campaigns if you would rather not run them yourself.</p>
+
+<h2>Win referrals from builders and designers</h2>
+<p>Builders, architects, interior designers and kitchen showrooms often need a reliable joiner. A short trade page on your website explaining your capabilities, workshop capacity, insurance and the kind of projects you take on makes it easy for them to recommend you. Follow up with a polite introduction and a link to your portfolio. Be clear about lead times and stick to them, because reliability is what keeps referrals coming.</p>
+
+<h2>What does carpenter and joiner marketing cost?</h2>
+<p>Much of the groundwork, such as your Business Profile, reviews and photography during projects, costs time rather than money. A professional portfolio website typically falls in our small website range of £1,000 to £2,000 and takes three to five weeks through our <a href="/services/website-ecommerce-development/">website development service</a>. Ongoing SEO and paid media support is available through monthly retainers, with ad spend paid separately; see our <a href="/pricing/">pricing page</a> for details. SEO and paid search results typically build over three to six months.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best approach to carpenter and joiner marketing in the UK?</h3>
+<p>Decide which work you want more of, then build a portfolio and service pages around it. Combine a strong Google Business Profile and reviews with targeted ads and visual social media, and nurture referrals from builders and designers.</p>
+<h3>How many projects should I show on my website?</h3>
+<p>Quality matters more than quantity. A smaller set of well-photographed, well-captioned projects across your main services is more persuasive than a long gallery of rushed phone photos.</p>
+<h3>Should a joiner put prices on their website?</h3>
+<p>Fixed prices are difficult for bespoke work, but explaining what affects cost and giving honest guidance on how you quote helps customers come prepared. Some joiners show starting points for common items.</p>
+<h3>How do I attract more bespoke work instead of small repairs?</h3>
+<p>Lead your homepage and ads with bespoke projects, create detailed pages for fitted furniture, staircases and doors, and show your best finished work. Your messaging and photos shape the enquiries you receive.</p>
+<h3>Is Instagram worth it for carpenters?</h3>
+<p>It can be, because carpentry is highly visual. Regular posts of finished pieces, workshop progress and installations help build local recognition, especially when backed by a website where people can enquire.</p>
+<h3>Do I need separate pages for each carpentry service?</h3>
+<p>It is usually worthwhile. Customers search for specific items such as fitted wardrobes or staircases, and a focused page for each helps you rank and answers their questions properly.</p>
+`,
+  },
+  {
+    slug: 'chimney-sweep-marketing-uk',
+    seoTitle: 'Chimney Sweep Marketing UK: Fill Your Diary All Year',
+    title: 'Chimney Sweep Marketing in the UK: How to Fill Your Diary All Year',
+    description: 'Chimney sweep marketing in the UK works when local search, online booking, reminders and clear safety advice turn one-off sweeps into loyal yearly customers.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Chimney sweep marketing in the UK is about being easy to find when people remember their chimney needs doing, then making sure they book you again every year. The sweeps with full diaries usually combine a well-kept Google Business Profile, a simple website with online booking or a quick request form, and a reminder system that brings customers back without fresh advertising.</p>
+<p>This guide is for independent chimney sweeps and small sweeping businesses that may also offer bird guards, cowls, CCTV chimney inspections or stove servicing. We look at how customers find a sweep, what your website should include, how to smooth out seasonal demand and how to build trust in a job that happens inside someone's home.</p>
+
+<h2>How people find a chimney sweep</h2>
+<p>Most sweeping enquiries are triggered by something specific: the first cold evening of autumn, a new wood burner, a house purchase, a smoky room, birds nesting in the pot, or a reminder from a home insurer or landlord. People search for "chimney sweep near me", "chimney sweep [town]" or "how often should a chimney be swept", then look at the map results, check reviews and call or book the first credible option.</p>
+<p>That makes local visibility and convenience the two main levers. You need to appear in the map pack for your area, and you need to make booking quick, because the person searching often wants it sorted before the weekend. Our <a href="/blog/tradesman-marketing-uk/">guide to marketing for tradespeople</a> covers the broader principles that apply here too.</p>
+
+<h2>Chimney sweep marketing UK: the essentials</h2>
+<p>The table below summarises the channels that usually matter most for a sweeping business, and how each contributes.</p>
+<table>
+<thead><tr><th>Channel</th><th>Main job</th><th>Quick win</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Map pack visibility and reviews</td><td>Accurate service area, photos of clean work, review requests after each sweep</td></tr>
+<tr><td>Simple website</td><td>Answers questions and takes bookings</td><td>Clear services, areas covered and a booking or request form</td></tr>
+<tr><td>Reminder emails or texts</td><td>Brings customers back every year</td><td>Collect consent at booking and send a reminder before the season</td></tr>
+<tr><td>Local SEO content</td><td>Captures question-based searches</td><td>Pages on stove sweeping, bird nest removal and sweeping certificates</td></tr>
+<tr><td>Local partnerships</td><td>Steady referrals</td><td>Stove installers, letting agents and holiday let owners</td></tr>
+</tbody>
+</table>
+
+<h2>Get the map pack working for you</h2>
+<p>For a sweep, the Google Business Profile often brings in more enquiries than the website itself. Set it up as a service-area business, list the towns and villages you genuinely cover, choose the most accurate category and write a description that mentions your main services. Add opening hours, a booking link if you have one and plenty of photos: you at work with sheets and vacuum in place, a clean hearth afterwards, bird guards and cowls you have fitted, and your branded van.</p>
+<p>Reviews are especially influential, because people want reassurance that you will be clean, punctual and careful. Ask every happy customer, send a short link by text or email, and reply to each review. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the setup and ongoing upkeep.</p>
+
+<h2>What your chimney sweep website needs</h2>
+<p>A sweeping website can be small, but it should answer the common questions and make booking effortless. Useful pages and sections include:</p>
+<ul>
+<li><strong>Chimney sweeping</strong> for open fires, wood burners and multi-fuel stoves, explaining what happens during a visit.</li>
+<li><strong>Bird nest removal and bird guards</strong>, a common seasonal need.</li>
+<li><strong>Cowls, caps and chimney pots</strong>, if you supply and fit them.</li>
+<li><strong>CCTV chimney inspections</strong>, if you offer them, with an explanation of when they are useful.</li>
+<li><strong>Stove servicing</strong>, if you are trained and equipped to provide it.</li>
+<li><strong>Areas covered</strong>, listing towns and villages so people can check quickly.</li>
+</ul>
+<p>Explain how you keep the room clean, how long a visit usually takes, what the customer needs to do beforehand (such as not lighting the fire that day) and whether you issue a sweeping certificate. Give an indication of how pricing works, even if you prefer to confirm on the phone.</p>
+
+<h3>Make booking effortless</h3>
+<p>Many lost jobs come down to phone tag. If you are up a ladder or under a dust sheet all day, an online booking system or a short request form lets customers secure a slot without waiting for a call back. Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> compares the options. If you prefer to confirm bookings yourself, a form asking for postcode, appliance type and preferred days still saves time.</p>
+
+<h3>Answer common questions</h3>
+<p>Customers often ask how often they should have their chimney swept, what fuel type makes a difference, and whether their home insurance requires a certificate. A well-organised FAQ page can answer these and help you appear in search results for question-based queries. Keep advice general and recommend that people check current official guidance, their appliance manufacturer's instructions and their insurer's terms. Our guide to <a href="/blog/website-faq-page/">writing a website FAQ page</a> explains how to structure one.</p>
+
+<h2>Trust signals for a job inside the home</h2>
+<p>Letting someone into the living room with brushes and soot needs trust. Show what makes you reliable:</p>
+<ul>
+<li>Membership of a recognised sweeping trade body or guild, only if you actually belong.</li>
+<li>Public liability insurance, with certificates available on request.</li>
+<li>Photos of your clean setup, sheets and vacuum equipment.</li>
+<li>Your own face and van, rather than stock photography.</li>
+<li>Genuine reviews and how long you have been trading, if you are happy to share it.</li>
+</ul>
+<p>Never claim accreditations you do not hold, and keep membership details current. Customers and insurers may check.</p>
+
+<h2>Smooth out the seasonal rush</h2>
+<p>Sweeping is highly seasonal. Demand often spikes as the weather turns cold, when everyone wants their chimney done at once, then drops away in late spring and summer. Smart marketing spreads that demand across the year.</p>
+<ul>
+<li>Encourage summer sweeps with messaging about shorter waits and easier scheduling.</li>
+<li>Promote bird guard fitting in late winter and early spring, before nesting season begins.</li>
+<li>Send reminder emails or texts to past customers a few weeks before your busy period, so they book early.</li>
+<li>Offer to book next year's sweep at the end of each visit.</li>
+</ul>
+<p>Any reminders by email or text need the right consent under UK marketing rules, so collect permission clearly at booking and check current ICO guidance. Our guides to <a href="/blog/email-list-building-uk/">building an email list</a> and <a href="/blog/how-to-write-an-email-newsletter/">writing an email newsletter</a> explain how to do this properly.</p>
+
+<h2>Local SEO and helpful content</h2>
+<p>Beyond your Business Profile, a few well-written pages can bring in steady search traffic. A page for each main town you cover, written with genuine local detail, helps you rank for "chimney sweep [town]". Short articles answering common questions, such as how to tell if a chimney needs sweeping or what to do about birds in a chimney, can bring in people early and position you as the helpful local expert.</p>
+<p>Make sure your name, address and phone number match everywhere they appear online. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the basics, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search for small service businesses that want help.</p>
+
+<h2>Partnerships that bring steady work</h2>
+<p>Some of the most reliable sweeping work comes through referrals. Stove and fireplace showrooms, installers, letting agents, holiday let managers, estate agents and local builders all come across chimneys that need attention. A short, professional introduction explaining your services, coverage area and insurance can lead to regular referrals. Keep a simple one-page summary you can email, and make sure your website backs it up.</p>
+
+<h2>What does marketing a chimney sweep business cost?</h2>
+<p>Much of the groundwork costs only time: your Business Profile, review requests and reminder messages. A small professional website with booking or request forms usually falls in our £1,000 to £2,000 range and takes three to five weeks to build through our <a href="/services/website-ecommerce-development/">website development service</a>. Ongoing SEO support is available on monthly retainers, set out on our <a href="/pricing/">pricing page</a>. SEO typically takes three to six months to build, so starting in spring or summer puts you in a strong position for the autumn rush.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective chimney sweep marketing in the UK?</h3>
+<p>A complete Google Business Profile with regular reviews, a simple website with booking or a request form, and a reminder system for past customers. Together these bring in new work and keep existing customers coming back each year.</p>
+<h3>Do chimney sweeps need a website?</h3>
+<p>A small one is worthwhile. It gives people somewhere to check your services, areas and trust signals, takes bookings while you work, and helps you rank for local and question-based searches that your Business Profile alone may not capture.</p>
+<h3>How can I get more bookings in summer?</h3>
+<p>Promote shorter waits and flexible scheduling, remind past customers that summer is a good time for a sweep, and market bird guards and cowls before nesting season. Booking next year's visit at the end of each sweep also helps.</p>
+<h3>Can I send reminder emails to past customers?</h3>
+<p>Yes, provided you have the right consent. Collect permission clearly at booking, offer an easy way to unsubscribe and check current ICO guidance on electronic marketing before you start.</p>
+<h3>Should I put prices on my chimney sweep website?</h3>
+<p>Many sweeps show a starting price for a standard sweep, which reduces time spent on the phone. If prices vary by appliance or access, explain what affects the cost and keep any published figures up to date.</p>
+<h3>Which trade memberships should I mention?</h3>
+<p>Only those you genuinely hold. If you belong to a recognised sweeping body or guild, display it accurately and keep it current, as customers and insurers may check membership.</p>
+`,
+  },
+  {
+    slug: 'cyber-security-company-marketing-uk',
+    seoTitle: 'Cyber Security Company Marketing UK: Win Better Leads',
+    title: 'Cyber Security Company Marketing in the UK: How to Win Better Leads Without Scare Tactics',
+    description: 'Cyber security company marketing in the UK works best with clear services, useful expert content, focused search and LinkedIn campaigns, and no fear-led hype.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Cyber security company marketing in the UK works best when it explains your services clearly, shows real expertise and reaches the right decision makers, rather than relying on fear. Security buyers are cautious, technical and often sceptical, so the firms that win steady enquiries tend to combine specific service pages, genuinely useful content, focused search and LinkedIn campaigns, and patient follow-up.</p>
+<p>This guide is for cyber security consultancies, penetration testing firms, managed security providers and IT companies building a security practice. It covers how security buyers choose a supplier, positioning, your website, search, paid media, content and measurement.</p>
+
+<h2>How businesses choose a cyber security provider</h2>
+<p>A security purchase is usually triggered by something specific: a customer or insurer asking for evidence of controls, a tender that requires a certification, a new compliance obligation, a board question after a well publicised incident, or a near miss of their own. The person searching might be an IT manager, an operations director, a finance lead or an owner of a smaller business who has been told they need to do something.</p>
+<p>These buyers want to understand what you actually do, whether you work with businesses like theirs, how an engagement runs, what they will receive at the end and roughly what it involves. They are wary of vague promises and alarming headlines. A provider that explains things calmly and clearly earns trust quickly.</p>
+<p>Decisions are often made by several people over weeks or months. Your marketing needs to support the first search, the internal conversation that follows and the final comparison between shortlisted suppliers.</p>
+
+<h2>Positioning: be specific about who you help</h2>
+<p>Many security firms describe themselves in the same broad terms, which makes it hard for buyers to tell them apart. Specific positioning makes everything else easier.</p>
+<ul>
+<li><strong>By service.</strong> Are you known for penetration testing, managed detection and response, cloud security, security awareness training or compliance readiness?</li>
+<li><strong>By customer.</strong> Do you specialise in small businesses, schools, manufacturers, software companies or professional services firms?</li>
+<li><strong>By outcome.</strong> Do customers come to you to pass a supplier assessment, meet a framework requirement or get ongoing monitoring they cannot staff themselves?</li>
+</ul>
+<p>Positioning does not mean turning work away. It means leading with the areas where you are strongest, so buyers who need that work recognise you immediately. If your positioning needs sharpening, our <a href="/services/brand-strategy/">brand strategy service</a> can help you define a clear proposition and the language to support it.</p>
+
+<h2>Your website: clarity over drama</h2>
+<p>Security websites often lean on dark imagery, padlocks and dramatic statistics. None of that helps a buyer decide. What helps is clarity.</p>
+<ul>
+<li><strong>One page per service.</strong> Explain what the service is, who it is for, what is included, how it runs, what the buyer receives and what they need to prepare. Our <a href="/blog/service-page-design/">service page design guide</a> covers the structure in more detail.</li>
+<li><strong>Plain English first.</strong> Lead with business language, then add technical detail lower on the page for the specialists who want it.</li>
+<li><strong>Process and deliverables.</strong> Show the steps of an engagement and describe the report or ongoing service the customer gets.</li>
+<li><strong>Honest credentials.</strong> List certifications and accreditations your company genuinely holds, and only those. Buyers check.</li>
+<li><strong>Easy ways to talk.</strong> A short scoping form and a direct phone number. Some buyers want to ask a quick question before committing to a call.</li>
+</ul>
+<p>If your current site no longer reflects what you offer, our <a href="/services/website-ecommerce-development/">website development service</a> builds fast, clear sites for B2B firms, typically in three to five weeks for a smaller site.</p>
+
+<h2>Cyber security company marketing through search</h2>
+<p>Search is where many security projects start. Buyers search for the service they have been asked to buy, often with a location or a qualifier such as for small business or UK. They also search for explanations of terms they have just encountered in a tender or contract.</p>
+<table>
+<thead><tr><th>Search type</th><th>Example intent</th><th>Best page to answer it</th></tr></thead>
+<tbody>
+<tr><td>Service searches</td><td>Looking for a penetration testing provider</td><td>Dedicated service page</td></tr>
+<tr><td>Requirement searches</td><td>Told to meet a certification or framework</td><td>Readiness or support service page</td></tr>
+<tr><td>Explainer searches</td><td>Trying to understand a term or test type</td><td>Clear guide or glossary article</td></tr>
+<tr><td>Comparison searches</td><td>Weighing up two types of service</td><td>Comparison article linking to services</td></tr>
+<tr><td>Location searches</td><td>Wanting a provider nearby</td><td>Contact page and Google Business Profile</td></tr>
+</tbody>
+</table>
+<p>Explainer content works especially well in this sector because buyers genuinely need help understanding what they are buying. Keep any references to schemes, standards or regulations general and accurate, date your articles, and tell readers to check the current official guidance, as requirements change. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan content around commercial intent, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, content and visibility in AI search answers, which matters as more buyers ask AI assistants for explanations first.</p>
+
+<h2>Paid media for security firms</h2>
+<p>Paid search can bring in high intent enquiries, but security keywords can be expensive and competitive. Precision matters.</p>
+<ul>
+<li><strong>Google Ads and Microsoft Ads</strong> for specific service searches, with careful negative keywords to filter out job seekers, students, training courses and consumers looking for antivirus software.</li>
+<li><strong>LinkedIn Ads</strong> to reach IT leaders, operations directors and owners in chosen industries and company sizes. Useful for promoting a guide, webinar or assessment rather than asking for a sale straight away. Our guide to <a href="/blog/linkedin-ads-b2b-lead-generation-uk/">LinkedIn Ads for B2B lead generation</a> covers how to structure these campaigns.</li>
+<li><strong>Remarketing</strong> to stay visible to visitors from target companies during a long decision process.</li>
+</ul>
+<p>Check each advertising platform's current policies before you launch, as security related ads and claims may be reviewed more closely. Our <a href="/services/paid-media/">paid media service</a> runs Google, Microsoft and LinkedIn campaigns for B2B firms, with conversion tracking set up so you can see which campaigns bring real enquiries.</p>
+
+<h2>Content that builds trust</h2>
+<p>In security, content is proof of expertise. Useful formats include:</p>
+<ol>
+<li><strong>Plain English guides</strong> to common services and requirements, written for the non-specialist who has to buy them.</li>
+<li><strong>Checklists</strong> that help a business prepare for an assessment or audit.</li>
+<li><strong>Anonymised lessons learned</strong> from typical engagements, with nothing that could identify a customer and only with permission where needed.</li>
+<li><strong>Commentary</strong> on changes to guidance or common threats, kept factual and calm.</li>
+<li><strong>Webinars or short videos</strong> where your specialists explain a topic in their own words.</li>
+</ol>
+<p>Avoid content that exaggerates threats or invents figures. Security buyers notice, and it undermines the trust you are trying to build. Digital PR, such as expert comment for trade and business publications, can extend your reach further. Our <a href="/services/digital-pr-content/">digital PR and content service</a> can help plan and produce this.</p>
+
+<h2>Nurturing long sales cycles</h2>
+<p>Many security buyers are not ready to commit on their first visit. They may be gathering information for a budget round, waiting for a contract renewal or building a case for the board.</p>
+<p>Give them reasons to stay in touch: a useful guide or checklist in exchange for an email address, a newsletter with practical updates, and invitations to webinars. Make sure your email marketing follows UK GDPR and PECR, and check current ICO guidance on business email. Keep your sales team informed about which content each lead has engaged with, so follow-up conversations are relevant.</p>
+<p>Partnerships also matter. Many security firms win work through IT support companies, software vendors and consultancies that do not offer security services themselves. A clear partner page explaining how referrals work can support those relationships.</p>
+
+<h2>Measuring what matters</h2>
+<table>
+<thead><tr><th>Measure</th><th>What it tells you</th></tr></thead>
+<tbody>
+<tr><td>Scoping requests and calls</td><td>Real demand for your services</td></tr>
+<tr><td>Guide downloads and webinar sign-ups</td><td>Early interest you can nurture</td></tr>
+<tr><td>Search visibility for service terms</td><td>Whether new buyers can find you</td></tr>
+<tr><td>Cost per qualified lead by channel</td><td>Where to invest more or less</td></tr>
+<tr><td>Proposals and wins by source</td><td>Which marketing brings revenue, not just enquiries</td></tr>
+</tbody>
+</table>
+<p>Record lead sources in your CRM so you can trace a contract back to the search, campaign or referral that started it. SEO and paid search results typically build over three to six months.</p>
+
+<h2>How we can help</h2>
+<p>We help B2B and technology businesses with positioning, websites, SEO, paid media and content. For security firms that usually means clearer service pages, explainer content that ranks and gets cited, focused paid campaigns and honest reporting. See our <a href="/sectors/b2b/">B2B sector page</a> for how we approach this work, and our <a href="/pricing/">pricing page</a> for monthly retainers from £350 a month, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is cyber security company marketing in the UK?</h3>
+<p>Cyber security company marketing in the UK is how security firms attract and win business customers, usually through clear service pages, SEO, useful expert content, LinkedIn and search advertising, and nurturing leads through long decision processes. The best approaches explain services calmly rather than relying on fear.</p>
+<h3>Should security firms use fear in their marketing?</h3>
+<p>Heavy fear messaging tends to backfire with experienced buyers, who see it everywhere. Clear explanations of risks, practical steps and what your service actually delivers usually build more trust and better quality enquiries.</p>
+<h3>Is LinkedIn useful for cyber security lead generation?</h3>
+<p>Yes, LinkedIn is often valuable because you can reach IT leaders, directors and owners by role, industry and company size. It works best for promoting useful content or an initial assessment rather than asking for a large commitment straight away.</p>
+<h3>What content works best for a security company?</h3>
+<p>Plain English guides to services and requirements, preparation checklists, anonymised lessons learned and calm commentary on changes in guidance tend to work well. They answer real questions and show expertise without exaggeration.</p>
+<h3>Can we mention certifications on our website?</h3>
+<p>You should mention certifications and accreditations your company genuinely holds, as buyers often look for them. Never imply a certification you do not have, and check the scheme's current rules on how its name and marks can be used.</p>
+<h3>How long does marketing take to bring security leads?</h3>
+<p>Paid campaigns can bring enquiries within weeks once tracking and targeting are right. SEO and content typically build over three to six months, and because security sales cycles are long, the revenue impact often shows later still.</p>
+`,
+  },
+  {
+    slug: 'driveway-paving-contractor-marketing-uk',
+    seoTitle: 'Driveway Company Marketing UK: Get More Quality Leads',
+    title: 'Driveway and Paving Company Marketing in the UK: Get More Quality Leads',
+    description: 'Driveway company marketing in the UK works when real project photos, clear material pages and honest local search help homeowners pick you with confidence.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Driveway company marketing in the UK is about proving, before anyone picks up the phone, that you do tidy, lasting work and treat customers fairly. The paving firms that win quality jobs usually show a large gallery of their own finished drives, explain each material clearly, rank well locally and make it simple to book a free quote visit.</p>
+<p>This guide is for driveway installers, block paving and resin specialists, tarmac contractors and groundworks firms that also lay patios. We cover how homeowners choose a contractor, what your website needs, how to approach local SEO and ads, and how to stand out in a trade where trust is often in short supply.</p>
+
+<h2>How homeowners choose a driveway contractor</h2>
+<p>A new driveway is a visible, expensive change to a home, and most people only do it once. They often start by noticing a drive they like on their street, then search for terms like "resin driveway [town]", "block paving contractors near me" or "driveway cost". They look at photos, compare materials, read reviews and usually ask for two or three quotes.</p>
+<p>Many homeowners are also cautious. The trade has a reputation, fairly or not, for doorstep sales and rushed work, so people look hard for signs that a firm is established and accountable. That makes trust the centre of your marketing. Our post on <a href="/blog/landscaper-website-design-uk/">landscaper website design</a> covers similar ground for garden work; this guide focuses on drives and paving.</p>
+
+<h2>Driveway company marketing UK: what to prioritise</h2>
+<p>Here is how the main channels compare for a typical driveway and paving firm.</p>
+<table>
+<thead><tr><th>Channel</th><th>Why it matters</th><th>What good looks like</th></tr></thead>
+<tbody>
+<tr><td>Website gallery</td><td>Proof of quality in your area</td><td>Your own photos, grouped by material, with town and brief notes</td></tr>
+<tr><td>Material pages</td><td>Matches how people search</td><td>A page each for block paving, resin, tarmac, gravel and patios</td></tr>
+<tr><td>Google Business Profile</td><td>Map pack visibility and reviews</td><td>Regular photo uploads and posts, replies to every review</td></tr>
+<tr><td>Google Ads</td><td>Quick visibility in busy months</td><td>Tight location targeting and strong negative keywords</td></tr>
+<tr><td>Social media</td><td>Shows work in progress and finished drives</td><td>Short videos and before-and-after posts with a quote link</td></tr>
+<tr><td>Site boards and leaflets</td><td>Neighbours see the work happening</td><td>Branded boards with web address, used with permission</td></tr>
+</tbody>
+</table>
+
+<h2>Make your gallery do the selling</h2>
+<p>Your project gallery is the most important page on your website. Homeowners want to see drives like the one they imagine, on houses like theirs. Photograph every job before, during and after, and capture the finished drive in good light from the pavement and from the house. Group the gallery by material and add short captions with the town, material, colour and any notable features such as edging, steps, drainage channels or lighting.</p>
+<p>Large photo galleries can slow a website down, which hurts both rankings and patience on mobile. Compress and size images properly, as our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains, and check that the gallery works smoothly on a phone, since that is where most people will browse it. Our post on <a href="/blog/mobile-website-design/">mobile website design</a> covers the essentials.</p>
+
+<h2>Create a page for each material and service</h2>
+<p>People often know which material they want, or want to compare two. A focused page for each helps you rank and answers the questions that come up during quotes. Useful pages include:</p>
+<ul>
+<li><strong>Block paving driveways</strong>, with patterns, colours and edging options.</li>
+<li><strong>Resin bound driveways</strong>, explaining the finish, colour choices and maintenance.</li>
+<li><strong>Tarmac and asphalt driveways</strong>, including edging and tidy finishes.</li>
+<li><strong>Gravel driveways</strong>, with stabilisation grids and edging if you offer them.</li>
+<li><strong>Patios and paths</strong>, often a natural add-on to a drive.</li>
+<li><strong>Driveway repairs and cleaning</strong>, if you genuinely offer them.</li>
+</ul>
+<p>Each page should explain the look, how the work is done, typical lifespan and maintenance in general terms, and the factors that affect cost, such as area, groundwork, access, drainage and removal of the old surface. You do not need to publish fixed prices, but honest pricing guidance builds confidence.</p>
+
+<h3>Explain drainage and planning in plain English</h3>
+<p>Homeowners are often unsure whether a new front driveway needs planning permission, particularly when it comes to surface water drainage and permeable materials. A short, general explanation helps, as does saying that you will advise on drainage for their property. Keep it general and tell readers to check current official guidance and their local council, since requirements depend on the property and can change. If a dropped kerb is involved, explain that this is usually arranged through the local highways authority and point people there.</p>
+
+<h2>Build trust in a cautious market</h2>
+<p>Because the trade has a mixed reputation, clear trust signals give you a real advantage. Consider making these easy to find:</p>
+<ul>
+<li>A full business address, landline or mobile number and company details.</li>
+<li>Written, itemised quotes as standard, with no pressure to sign on the day.</li>
+<li>Insurance details and any guarantee you genuinely offer on workmanship.</li>
+<li>Memberships of trade bodies or schemes you actually belong to.</li>
+<li>Genuine reviews from local customers, with replies from you.</li>
+<li>A clear statement that you do not cold-call, if that is true.</li>
+</ul>
+<p>Only state what you can back up. Overclaiming guarantees or memberships damages trust quickly and can cause legal problems.</p>
+
+<h2>Local SEO for driveway firms</h2>
+<p>Most driveway work is local, so local search is where you should invest first. Complete your Google Business Profile, set your service area to the towns you actually cover, upload photos weekly in the busy season and post updates about recent jobs. Our <a href="/blog/google-business-profile-posts-guide/">guide to Google Business Profile posts</a> has ideas for what to share.</p>
+<p>Consistent business details across directories and trade listings support your local rankings. Our post on <a href="/blog/local-citations-uk/">local citations</a> explains where to list your business and how to keep details tidy. Location pages for the main towns you cover can help too, as long as each page shows real local work rather than repeating the same text. Our <a href="/services/seo-geo/">SEO and GEO service</a> handles this for trades that want it done for them.</p>
+
+<h2>Google Ads for driveway and paving work</h2>
+<p>Driveway jobs are valuable, so paid search can pay its way, but it is easy to waste money. Target only your service area, focus on commercial searches like "resin driveway installers [town]", and send each ad to the matching material page rather than your homepage.</p>
+<p>Negative keywords are essential. Exclude searches about DIY, cleaning products, sealant, jobs, training, kits and suppliers unless you sell those. Our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> shows how to build a list and review search terms. Track calls and form submissions as conversions so you can see which keywords bring real quote requests. If you would rather hand campaigns over, our <a href="/services/paid-media/">paid media service</a> covers setup and management.</p>
+
+<h2>Social media and seasonal timing</h2>
+<p>Driveways photograph well, and short videos of a resin pour or a block pattern taking shape tend to get attention locally. Post finished jobs, work in progress and tidy site setups. Always include a way to request a quote and, where homeowners agree, mention the town.</p>
+<p>Demand usually rises in spring and summer, with many homeowners wanting work done before family events or before selling. Plan ahead: refresh your gallery, gather reviews and set ad budgets before the busy season, then use quieter months to improve your website and content.</p>
+
+<h2>What does marketing a driveway business cost?</h2>
+<p>Basic local marketing, such as your Business Profile and review requests, costs only time. A professional small website with material pages and a gallery typically falls in our £1,000 to £2,000 range and takes three to five weeks. Ongoing SEO and paid media support is available on monthly retainers, with ad spend paid separately. See our <a href="/pricing/">pricing page</a> for the options. SEO and paid search results typically build over three to six months, so start before the season rather than in it.</p>
+
+<h2>FAQs</h2>
+<h3>How should I approach driveway company marketing in the UK?</h3>
+<p>Start with a strong gallery of your own work, a page for each material, a complete Google Business Profile and a steady flow of reviews. Then add carefully targeted Google Ads and regular social posts during the busy months.</p>
+<h3>What photos work best for a driveway website?</h3>
+<p>Clear before-and-after shots from the same angle, wide shots showing the whole drive with the house, and close-ups of edging and finish. Take them in good light and caption them with the material, colour and town.</p>
+<h3>Should I show prices on my paving website?</h3>
+<p>Fixed prices are hard because groundwork and access vary, but explaining what affects cost helps homeowners prepare. Some firms show typical starting points per material, as long as they are honest and kept up to date.</p>
+<h3>Do I need a separate page for resin driveways?</h3>
+<p>Yes, if you offer them. People often search for resin bound driveways specifically, and a focused page with photos, finish options and maintenance notes helps you rank and answers their questions.</p>
+<h3>How can I stand out from cold-calling driveway firms?</h3>
+<p>Show a full address, real reviews, written quotes, genuine guarantees and insurance details. Make it clear you do not pressure customers, and let your gallery of local work show that you are established.</p>
+<h3>Should my website explain planning permission for driveways?</h3>
+<p>A brief, general explanation is useful, especially around drainage and permeable surfaces. Tell readers to check current official guidance and their local council, and explain that you will advise on their property during the quote visit.</p>
+`,
+  },
+  {
+    slug: 'facilities-management-company-marketing-uk',
+    seoTitle: 'Facilities Management Marketing UK: Win More Contracts',
+    title: 'Facilities Management Company Marketing in the UK: How to Win More Contracts',
+    description: 'Facilities management marketing in the UK works when service, sector and region pages, tender-ready proof and focused search help buyers shortlist you sooner.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Facilities management company marketing in the UK is about getting onto shortlists: making sure property, operations and procurement teams can find you, understand exactly what you deliver and where, and trust you with their buildings. The FM businesses that win steady contracts usually combine clear service and sector pages, strong regional search visibility, tender-ready proof and steady relationship building.</p>
+<p>This guide is for integrated and specialist facilities management providers, building maintenance contractors, soft services providers and multi-service firms working across offices, schools, retail, industrial and residential blocks. It covers how buyers choose an FM partner, your website, search, paid media, tenders, content and measurement.</p>
+
+<h2>How buyers choose a facilities management provider</h2>
+<p>Facilities contracts are usually reviewed when an existing contract is ending, a service is failing, a business is moving premises or a portfolio is expanding. The buyer could be a facilities manager, an office manager, a property or estates lead, a managing agent or a procurement team running a formal tender.</p>
+<p>Whoever is buying, they want to know the same things. Do you provide the services they need, in-house or through trusted subcontractors? Do you cover their sites and regions? Have you worked with buildings like theirs? How do you handle reactive call-outs, planned maintenance and reporting? What health and safety, insurance and quality standards do you meet? Your marketing needs to answer these questions quickly and credibly.</p>
+<p>Contracts are often long and switching providers is disruptive, so buyers are risk averse. They favour suppliers who look organised, communicate clearly and can show how they work, not just what they promise.</p>
+
+<h2>Your website: services, sectors and coverage</h2>
+<p>An FM website often has to serve very different audiences, from a small office manager looking for a cleaning and maintenance partner to a procurement team checking a bidder. A clear structure helps both.</p>
+<ul>
+<li><strong>Service pages.</strong> A page for each main service, such as planned preventative maintenance, reactive maintenance, cleaning, security, grounds maintenance or compliance testing. Explain what is included, how it is scheduled and how issues are reported.</li>
+<li><strong>Sector pages.</strong> Offices, education, retail, industrial and residential blocks all have different priorities. Show you understand the specific challenges of each.</li>
+<li><strong>Coverage.</strong> State clearly which regions you serve and whether you have local teams or depots. Location pages work best when they describe genuine local presence rather than repeating the same text with a different town name.</li>
+<li><strong>How you work.</strong> Mobilisation, helpdesk, response times you can genuinely commit to, reporting and account management.</li>
+<li><strong>Credentials.</strong> Accreditations, memberships and insurance your business actually holds, presented clearly and kept up to date.</li>
+</ul>
+<p>Our <a href="/blog/service-page-design/">service page design guide</a> explains how to structure pages that answer buyer questions in order. If your site needs a rebuild, our <a href="/services/website-ecommerce-development/">website development service</a> creates clear, fast sites for B2B firms, typically in three to five weeks for a smaller site.</p>
+
+<h2>Facilities management company marketing through search</h2>
+<p>Search brings FM providers two kinds of enquiry: specific service needs, often urgent, and broader contract searches from buyers starting a review. Both deserve attention.</p>
+<table>
+<thead><tr><th>Search type</th><th>Typical buyer</th><th>Page that should answer it</th></tr></thead>
+<tbody>
+<tr><td>Service plus location</td><td>Office or site manager with an immediate need</td><td>Service page linked to the relevant location page</td></tr>
+<tr><td>Facilities management plus region</td><td>Business reviewing its FM supplier</td><td>Regional coverage page</td></tr>
+<tr><td>Sector specific FM</td><td>Estates or operations lead in a defined sector</td><td>Sector page</td></tr>
+<tr><td>Compliance or maintenance questions</td><td>Manager unsure of their obligations</td><td>Clear guide linking to services</td></tr>
+<tr><td>Supplier names and reviews</td><td>Procurement team checking a bidder</td><td>About page, credentials and Google Business Profile</td></tr>
+</tbody>
+</table>
+<p>Local search matters for every office or depot you run. Keep each Google Business Profile accurate and consistent with your website, and ask satisfied customers for reviews. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> covers how to manage several sites without creating thin, duplicate pages.</p>
+<p>Guides to building compliance topics can attract managers who are unsure what is required of them. Keep these factual and general, avoid giving the impression of formal compliance advice, and point readers to current official guidance and their own competent advisers. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, location strategy and content, including how your business appears in AI search answers.</p>
+
+<h2>Paid media for FM providers</h2>
+<p>Paid search suits urgent and specific needs, such as reactive maintenance or a one-off deep clean, where the buyer wants a provider quickly. It can also support contract searches, though these usually take longer to convert.</p>
+<ul>
+<li><strong>Google Ads and Microsoft Ads</strong> for service and region searches, with location targeting set to the areas you genuinely cover and negative keywords to filter out job seekers and domestic enquiries if you do not serve homes.</li>
+<li><strong>LinkedIn Ads</strong> to reach facilities, estates and operations managers in target sectors and company sizes, particularly ahead of common contract renewal periods.</li>
+<li><strong>Remarketing</strong> to stay visible while a buyer builds a shortlist.</li>
+</ul>
+<p>Our <a href="/blog/google-ads-location-targeting-guide/">Google Ads location targeting guide</a> explains how to avoid paying for clicks outside your service area. Our <a href="/services/paid-media/">paid media service</a> manages Google, Microsoft and LinkedIn campaigns with tracking for calls and form enquiries.</p>
+
+<h2>Supporting tenders and frameworks</h2>
+<p>Many larger FM contracts are awarded through tenders, public sector frameworks or supplier portals. Marketing cannot write your bids, but it can make them stronger and help you get invited in the first place.</p>
+<ol>
+<li><strong>Make due diligence easy.</strong> Procurement teams will look you up. A professional website with clear services, coverage, policies and credentials supports your bid.</li>
+<li><strong>Build a library of proof.</strong> Anonymised summaries of typical contracts, photos of your teams and vehicles, and descriptions of your processes can be reused in bids and on your website, with customer permission wherever needed.</li>
+<li><strong>Publish your approach.</strong> Pages on social value, sustainability and staff training help when tenders ask about them, provided they describe what you really do.</li>
+<li><strong>Stay visible to buyers.</strong> LinkedIn activity, trade press comment and event attendance keep your name familiar before tenders open.</li>
+</ol>
+<p>Check the rules of any framework or portal you are on for how you can reference it in marketing.</p>
+
+<h2>Content and reputation</h2>
+<p>Useful content shows buyers you understand the realities of running buildings. Good topics include planned maintenance calendars, how to prepare for a change of FM supplier, what a good helpdesk process looks like, and seasonal guides such as winter readiness for commercial sites. Practical articles like these can also be shared by your account managers with existing customers.</p>
+<p>Reputation spreads through reviews, trade press and word of mouth among facilities professionals. Expert comment in property and FM publications builds credibility over time. Our <a href="/services/digital-pr-content/">digital PR and content service</a> can help plan and produce this kind of work.</p>
+<p>Do not overlook existing customers. A regular update on service performance, planned works and helpful advice strengthens relationships and makes contract renewal far more likely. Our guide to <a href="/blog/how-to-write-an-email-newsletter/">writing an email newsletter</a> covers how to keep updates useful and readable.</p>
+
+<h2>Measuring FM marketing</h2>
+<table>
+<thead><tr><th>Measure</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Quote requests and calls by service</td><td>Shows which services bring demand</td></tr>
+<tr><td>Enquiries by region</td><td>Highlights where to strengthen local visibility</td></tr>
+<tr><td>Tender invitations and shortlists</td><td>Reflects reputation among larger buyers</td></tr>
+<tr><td>Contract value won by source</td><td>Connects marketing to revenue</td></tr>
+<tr><td>Renewal rate</td><td>Shows the value of customer communication</td></tr>
+</tbody>
+</table>
+<p>Use call tracking and form tracking so you can see which campaigns and pages bring real contract enquiries. SEO and paid results typically build over three to six months, and contract wins may follow later because of long buying cycles.</p>
+
+<h2>How we can help</h2>
+<p>We help B2B service businesses with websites, SEO, paid media, content and brand. For facilities management providers, that usually means a clearer website structure, regional search visibility, focused paid campaigns and reporting you can share with your leadership team. See our <a href="/sectors/b2b/">B2B sector page</a> for our approach and our <a href="/pricing/">pricing page</a> for monthly retainers, from Launch at £350 a month to Scale at £1,500 a month, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is facilities management company marketing in the UK?</h3>
+<p>Facilities management company marketing in the UK covers how FM providers attract and win contracts from businesses and organisations. It usually includes a clear website with service, sector and region pages, local and national SEO, paid search, LinkedIn, content and support for tenders.</p>
+<h3>How do FM companies get new contracts?</h3>
+<p>Through a mix of search enquiries, referrals, tenders and frameworks, and relationships with managing agents and property teams. A strong website and good search visibility support all of these, because almost every buyer checks potential suppliers online.</p>
+<h3>Should we have separate pages for each region we cover?</h3>
+<p>Yes, if you have genuine local presence, such as teams or depots in those areas. Each page should describe real local details. Avoid creating near-identical pages for towns you do not actively serve, as they rarely help buyers or rankings.</p>
+<h3>Is Google Ads worth it for facilities management?</h3>
+<p>It often works well for specific and urgent services where buyers want a provider quickly. Contract level searches can also be targeted, but they take longer to convert, so track enquiries and pipeline value rather than just clicks.</p>
+<h3>Can marketing help us win tenders?</h3>
+<p>Marketing cannot replace a strong bid, but it can help. A professional website, clear credentials, reusable proof of how you work and steady visibility among buyers all support your bids and can lead to more tender invitations.</p>
+<h3>How long does SEO take for an FM company?</h3>
+<p>SEO for facilities management providers typically shows meaningful progress within three to six months, depending on competition in your regions and the state of your website. Local search improvements for individual offices can sometimes appear sooner.</p>
+`,
+  },
+  {
+    slug: 'farm-park-marketing-uk',
+    seoTitle: 'Farm Park Marketing UK: Bring In More Family Visitors',
+    title: 'Farm Park Marketing in the UK: How to Bring In More Family Visitors',
+    description: 'Farm park marketing in the UK works when local search, online tickets, clear visitor information and seasonal events turn family day-out searches into visits.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/hospitality/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Farm park marketing in the UK is about being the obvious choice when a family searches for a day out, then answering their questions quickly enough that they book before they look elsewhere. The open farms and farm parks that grow usually combine strong local search, online tickets, honest visitor information and a calendar of seasonal events.</p>
+<p>This guide is for farm parks, open farms, petting farms, farm attractions with play barns, and farm diversification projects adding a visitor attraction. It covers how families choose a day out, your website, tickets, local search, social media, paid ads, seasonal events, school visits, parties and repeat visits. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of bringing in visitors.</p>
+
+<h2>How families choose a day out</h2>
+<p>A day out is often decided the night before or that morning. Parents search for "farm park near me", "things to do with kids this weekend" or "open farm Somerset", look at a few options and pick the one that seems fun, good value and easy to get to. Weather, travel time and price usually decide it.</p>
+<p>Parents want answers to practical questions before they set off:</p>
+<ul>
+<li>How much does entry cost, and are under-twos free?</li>
+<li>What is there to do, and how long will it keep children busy?</li>
+<li>Is there indoor play if it rains?</li>
+<li>Is there a café, and can we bring a picnic?</li>
+<li>Is it pushchair and wheelchair friendly?</li>
+<li>Do we need to book in advance?</li>
+<li>Are dogs allowed?</li>
+</ul>
+<p>If your website answers all of these clearly on a phone, you are already ahead of many attractions.</p>
+
+<h2>Farm park marketing UK: your website and visitor information</h2>
+<p>Your homepage should show prices, opening times and a book tickets button near the top. Families on a phone should not have to hunt for any of these. Beyond that, a few pages earn their place on most farm park sites:</p>
+<ul>
+<li><strong>Prices and tickets</strong>, with adult, child, under-two, family and annual pass options.</li>
+<li><strong>What's on</strong>, with daily activities such as animal feeding times, tractor rides or shows.</li>
+<li><strong>Plan your visit</strong>, covering parking, directions, accessibility, dogs, picnics and facilities.</li>
+<li><strong>Events</strong>, with a page for each seasonal event.</li>
+<li><strong>Parties</strong>, with party packages and what is included.</li>
+<li><strong>School and group visits</strong>, with educational content and booking details.</li>
+<li><strong>Café and shop</strong>, with menus and opening times.</li>
+</ul>
+<p>A detailed FAQ page can answer many of the questions that otherwise come in by phone or message. Our guide to <a href="/blog/website-faq-page/">website FAQ pages</a> explains how to structure one so it helps both visitors and search engines.</p>
+
+<h2>Online tickets and capacity</h2>
+<p>Online tickets help you manage busy days, plan staffing and reduce queues. Many families now expect to book ahead, especially during school holidays and events. Some attractions offer timed entry on busy days and walk-up tickets on quieter ones.</p>
+<p>When choosing a system, check that it works smoothly on mobile, handles family tickets and annual passes, lets you limit capacity by day or time slot, and sends a clear confirmation email. Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers what to look for and how to connect booking to your website.</p>
+
+<h2>Local search and Google Business Profile</h2>
+<p>Most farm park searches are local, so your Google Business Profile matters a great deal. Make sure your category, opening hours, seasonal closures, photos and attributes such as accessibility and facilities are accurate. Update holiday hours well before each school break.</p>
+<p>Photos are especially important. Show animals, play areas, the café and families enjoying the space, with permission where people are identifiable. Encourage happy visitors to leave reviews, and respond to every review politely. Our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile in the UK</a> covers setup and ongoing management, and our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to rank for searches in your area.</p>
+
+<h2>Seasonal events through the year</h2>
+<p>Seasonal events give farm parks a reason to market throughout the year and bring families back more than once. Each event should have its own page published well in advance so it can be found in search.</p>
+<table>
+<thead>
+<tr><th>Season</th><th>Typical events</th><th>When to start promoting</th></tr>
+</thead>
+<tbody>
+<tr><td>Spring</td><td>Lambing, Easter trails, baby animal days</td><td>Late winter, around February</td></tr>
+<tr><td>Summer</td><td>Summer holiday activities, maize mazes, outdoor shows</td><td>May and June, before term ends</td></tr>
+<tr><td>Autumn</td><td>Pumpkin picking, harvest events, Halloween trails</td><td>August and early September</td></tr>
+<tr><td>Winter</td><td>Christmas experiences, festive trails, winter play</td><td>September and October</td></tr>
+<tr><td>Half terms</td><td>Themed activity weeks and indoor events</td><td>Three to four weeks before</td></tr>
+</tbody>
+</table>
+<p>Promote each event through email first, then social media, then paid ads if it needs more reach. Keep event pages live year round and update them for the next season, so they build search visibility over time instead of starting from scratch.</p>
+
+<h2>Social media and paid ads</h2>
+<p>Farm parks have a natural advantage on social media: animals. Short videos of feeding time, new arrivals, tractor rides and seasonal activities are easy to make and widely shared. Post regularly, show what a visit is really like, and always include how to book.</p>
+<p>Paid social ads can reach families within a sensible travel time of your farm, especially before school holidays and events. Our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a> explains how to get started. Paid search can capture high-intent searches such as "farm park near me" or "pumpkin picking near me" during peak periods. If you would like help, our <a href="/services/paid-media/">paid media service</a> covers Google, Meta and TikTok campaigns.</p>
+
+<h2>School visits, groups and parties</h2>
+<p>School and group visits can fill weekdays during term time, when family visitor numbers are lower. Create a dedicated school visits page that explains what children will learn, how sessions link to the curriculum, group sizes, prices, facilities, risk assessment information and how to book. Teachers often need this information to get approval from their school.</p>
+<p>Birthday parties can also be a steady source of bookings. Explain what each party package includes, such as a party room, animal handling session, food and play time, and give clear prices. Nurseries, childminders, home education groups and community groups can be marketed to directly by email or through local networks.</p>
+
+<h2>Animal welfare, hygiene and visitor safety</h2>
+<p>Visitors increasingly want to know that animals are well cared for and that the farm takes hygiene seriously. Explain your approach plainly on your website, such as handwashing stations, supervised animal contact and how animals rest away from visitors.</p>
+<p>Rules and guidance on animal contact, hygiene and licensing for visitor attractions can change. Keep any wording general, describe what you actually do, and check current guidance to make sure your practices and website information are up to date.</p>
+
+<h2>Email and repeat visits</h2>
+<p>Families who enjoyed a visit are your best prospects for the next one. Collect email addresses through ticket bookings and a newsletter signup, with clear consent under UK GDPR and PECR. Send updates before each school holiday and seasonal event, and promote annual passes where they make sense. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> covers simple ways to grow your list.</p>
+
+<h2>Website build and ongoing support</h2>
+<p>Many farm park websites have grown piece by piece and are hard to update when events change. A clean, fast site with clear visitor information, event pages and integrated ticketing makes everything else easier. Our <a href="/sectors/hospitality/">hospitality marketing</a> page explains how we work with venues and attractions, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search and visibility in AI search tools that families increasingly use to plan days out. You can see our website and retainer options on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best approach to farm park marketing in the UK?</h3>
+<p>Start with a fast, mobile-friendly website showing prices, opening times and online tickets, then make your Google Business Profile complete. Add seasonal event pages, regular social media and targeted paid ads before school holidays.</p>
+<h3>Should a farm park sell tickets online?</h3>
+<p>In most cases, yes. Online tickets help families plan, let you manage capacity on busy days and reduce queues. Many attractions offer both pre-booked and walk-up options depending on the day.</p>
+<h3>When should we start promoting seasonal events?</h3>
+<p>Usually six to eight weeks ahead for major events like lambing, summer holidays, pumpkin picking and Christmas. Publish event pages early so they have time to appear in search.</p>
+<h3>How do we attract school visits?</h3>
+<p>Create a clear school visits page with learning outcomes, curriculum links, group sizes, prices, facilities and risk assessment information. Then contact local schools and nurseries directly, ideally in the term before you want to fill.</p>
+<h3>What should we say about animal contact and hygiene?</h3>
+<p>Describe what you actually do, such as handwashing facilities and supervised contact. Keep wording general and accurate, and check current guidance on animal contact and hygiene to make sure your information stays up to date.</p>
+<h3>Which social media works best for farm parks?</h3>
+<p>Facebook and Instagram suit most farm parks because they reach local parents, and short animal videos also work well on TikTok. Choose the platforms your visitors use and post regularly with clear booking links.</p>
+`,
+  },
+  {
+    slug: 'freight-forwarder-marketing-uk',
+    seoTitle: 'Freight Forwarder Marketing UK: Win More Shipper Enquiries',
+    title: 'Freight Forwarder Marketing in the UK: How to Win More Shipper Enquiries',
+    description: 'Freight forwarder marketing in the UK works when route, mode and sector pages, a quick quote form and focused search help importers and exporters choose you.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Freight forwarder marketing in the UK is about being found by importers and exporters when they search for a route, a mode of transport or help with a shipment, then making it easy for them to request a quote. The forwarders that win steady enquiries usually combine specific route and service pages, a quick quote process, strong search visibility and helpful, accurate content.</p>
+<p>This guide is for freight forwarders, customs agents, shipping and logistics brokers, and specialist forwarders handling sea, air, road or project cargo. It covers how shippers choose a forwarder, positioning, your website, search, paid media, content and measurement.</p>
+
+<h2>How shippers choose a freight forwarder</h2>
+<p>A shipper usually starts looking for a forwarder for one of a few reasons: they are importing or exporting for the first time, their current forwarder has let them down, they are opening a new trade lane, or they want a better price or service on an existing route. The person searching might be a small business owner, an ecommerce brand importing stock, a procurement manager or an experienced logistics lead.</p>
+<p>They want to know whether you handle their route and mode, whether you understand their type of cargo, whether you can help with customs paperwork, how you communicate during a shipment and how quickly you can quote. First-time importers and exporters also need reassurance and plain explanations, because shipping terms and processes can feel complicated.</p>
+<p>Price matters, but reliability and communication often matter more. A forwarder who answers quickly and clearly can win against a cheaper competitor who is hard to reach.</p>
+
+<h2>Positioning: what makes you the right forwarder</h2>
+<p>Many forwarders list every mode and every country, which makes it hard for buyers to tell them apart. Clear positioning helps the right shippers recognise you.</p>
+<ul>
+<li><strong>By lane.</strong> If you are strong on particular routes, such as specific European, Asian or transatlantic lanes, lead with them.</li>
+<li><strong>By mode.</strong> Sea freight, air freight, road freight, rail or a combination, including groupage and full loads.</li>
+<li><strong>By cargo or sector.</strong> Ecommerce stock, machinery, food and drink, fashion, hazardous goods, project cargo or exhibitions.</li>
+<li><strong>By customer type.</strong> First-time importers needing hand-holding, growing ecommerce brands or established manufacturers wanting a long term partner.</li>
+</ul>
+<p>Strong positioning shapes your website, your search strategy and your ads.</p>
+
+<h2>Your website: routes, services and quotes</h2>
+<p>A forwarder's website should help a shipper confirm you can help and request a quote quickly.</p>
+<ul>
+<li><strong>Service pages</strong> for each mode and key service, such as sea freight, air freight, road freight, customs clearance, warehousing and delivery.</li>
+<li><strong>Route pages</strong> for your strongest trade lanes, with typical transit options, the services you provide on that route and what shippers should prepare. Avoid publishing specific transit times or costs you cannot keep current.</li>
+<li><strong>Sector pages</strong> showing your understanding of the cargo and paperwork involved for particular industries.</li>
+<li><strong>A clear quote form</strong> asking for origin, destination, cargo description, weight and dimensions, ready date and Incoterms if known, with a notes field and file upload for packing lists.</li>
+<li><strong>Trust information.</strong> Trade association memberships, accreditations and insurance your business genuinely holds, how you communicate during shipments and how to reach a person.</li>
+</ul>
+<p>If you also run domestic courier or haulage services, our guide to <a href="/blog/logistics-courier-website-design-uk/">logistics and courier website design</a> covers how to present quotes and coverage for those customers. Our <a href="/services/website-ecommerce-development/">website development service</a> builds fast, clear B2B sites, typically in three to five weeks for a smaller site.</p>
+
+<h2>Freight forwarder marketing through search</h2>
+<p>Search is a major source of new shipper enquiries, because people search for exactly the route, mode or service they need. Matching those searches with useful pages is the foundation of your marketing.</p>
+<table>
+<thead><tr><th>Search pattern</th><th>What the shipper needs</th><th>Best page</th></tr></thead>
+<tbody>
+<tr><td>Mode plus route</td><td>Sea or air freight between two countries</td><td>Route page</td></tr>
+<tr><td>Service plus UK</td><td>A forwarder or customs agent in the UK</td><td>Service page</td></tr>
+<tr><td>Cargo type plus shipping</td><td>Help moving a specific kind of goods</td><td>Sector or cargo page</td></tr>
+<tr><td>Freight forwarder plus city or port</td><td>A local provider</td><td>Location page and Google Business Profile</td></tr>
+<tr><td>How to import or export questions</td><td>Guidance before booking</td><td>Helpful guide linking to services</td></tr>
+</tbody>
+</table>
+<p>Start with the lanes and services that bring most of your revenue, and make each page genuinely useful rather than producing hundreds of near-identical pages for every country. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan pages around commercial intent, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, content and visibility in AI search answers, which matters as more shippers ask AI assistants how to import or export.</p>
+<p>If you have offices near ports, airports or in particular regions, keep each Google Business Profile accurate and ask satisfied customers for reviews. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the basics.</p>
+
+<h2>Paid media for forwarders</h2>
+<p>Paid search suits shippers with an immediate need. A search for a specific mode and route, or for urgent customs help, often comes from someone ready to request a quote.</p>
+<ul>
+<li><strong>Google Ads and Microsoft Ads</strong> for route, mode and service searches. Use negative keywords to filter out job seekers, parcel tracking searches and people looking to send personal items if you do not handle them.</li>
+<li><strong>LinkedIn Ads</strong> to reach supply chain, procurement and operations managers in importing and exporting sectors, useful for longer term contract freight.</li>
+<li><strong>Remarketing</strong> to stay visible to shippers who started a quote but did not finish.</li>
+</ul>
+<p>Our <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking guide</a> explains how to measure quote requests and calls properly, so you can see which searches bring real shipments. Our <a href="/services/paid-media/">paid media service</a> manages Google, Microsoft and LinkedIn campaigns for B2B firms.</p>
+
+<h2>Content that builds trust</h2>
+<p>Importers and exporters, especially newer ones, have plenty of questions. Clear answers bring in search traffic and show you know what you are doing. Useful topics include:</p>
+<ol>
+<li><strong>Guides to shipping modes</strong> and when each makes sense.</li>
+<li><strong>Explainers on common terms</strong> such as Incoterms, groupage and full container loads.</li>
+<li><strong>Preparation checklists</strong> for documents, packing and labelling.</li>
+<li><strong>Overviews of customs processes</strong> at a general level.</li>
+<li><strong>Seasonal planning advice</strong> for busy shipping periods.</li>
+</ol>
+<p>Customs rules, duties and trade arrangements change, so keep this content general, date it, review it regularly and tell readers to check current official guidance from GOV.UK and HMRC before they ship. Never present general content as advice on a specific shipment. Our <a href="/services/digital-pr-content/">digital PR and content service</a> can help plan and produce guides and expert comment for trade publications.</p>
+
+<h2>Keeping shippers coming back</h2>
+<p>Repeat shipments are the backbone of most forwarding businesses. Make it easy for existing customers to book again with a simple repeat quote process and a named contact. Share useful updates by email about schedule changes, peak season planning and guidance changes that may affect them, following UK GDPR and PECR and current ICO guidance on business email. Ask happy customers for reviews, and consider introducing related services such as warehousing or customs support to customers who only use you for transport.</p>
+
+<h2>Measuring forwarder marketing</h2>
+<table>
+<thead><tr><th>Measure</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Quote requests by route and mode</td><td>Shows where demand comes from</td></tr>
+<tr><td>Quote to booking rate</td><td>Highlights pricing or response time issues</td></tr>
+<tr><td>Search visibility for key lanes</td><td>Indicates whether shippers can find you</td></tr>
+<tr><td>Cost per quote request by channel</td><td>Guides where to spend more or less</td></tr>
+<tr><td>Repeat shipments per customer</td><td>Measures account growth and loyalty</td></tr>
+</tbody>
+</table>
+<p>SEO and paid search results typically build over three to six months. Recording the source of each enquiry in your CRM or freight system helps you connect marketing to actual bookings.</p>
+
+<h2>How we can help</h2>
+<p>We help B2B service businesses with positioning, websites, SEO, paid media and content. For freight forwarders, that usually means clearer route and service pages, a better quote journey, focused search campaigns and reporting that ties enquiries to bookings. See our <a href="/sectors/b2b/">B2B sector page</a> for our approach, and our <a href="/pricing/">pricing page</a> for monthly retainers from £350 a month, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is freight forwarder marketing in the UK?</h3>
+<p>Freight forwarder marketing in the UK covers how forwarders attract and keep importers and exporters as customers. It usually includes route, mode and sector pages, SEO, paid search, a fast quote process, helpful shipping guides and regular contact with existing shippers.</p>
+<h3>Should a freight forwarder create a page for every country?</h3>
+<p>Not usually. Start with the lanes and services that bring most of your business, and make those pages genuinely useful. Large numbers of thin, near-identical country pages rarely help shippers or your rankings.</p>
+<h3>Is Google Ads worth it for freight forwarding?</h3>
+<p>It can be, particularly for specific route and service searches from shippers with an immediate need. Strong negative keywords and proper conversion tracking for quote requests and calls are essential to avoid wasted spend.</p>
+<h3>What should a freight quote form ask for?</h3>
+<p>Origin and destination, cargo description, weight and dimensions, number of packages, ready date and Incoterms if known, plus a notes field and file upload. Keep it as short as possible and tell shippers how soon you will reply.</p>
+<h3>Can we write about customs rules on our website?</h3>
+<p>Yes, general guides can be very useful, but customs rules change. Keep content general, date and review it regularly, avoid presenting it as advice on a specific shipment, and tell readers to check current official guidance from GOV.UK and HMRC.</p>
+<h3>How long does SEO take for a freight forwarder?</h3>
+<p>SEO for freight forwarders typically shows meaningful results within three to six months, depending on competition for your lanes and services and the condition of your website. Focused pages for your strongest routes often improve first.</p>
+`,
+  },
+  {
+    slug: 'google-ads-bidding-strategies-guide',
+    seoTitle: 'Google Ads Bidding Strategies Explained for UK SMEs',
+    title: 'Google Ads Bidding Strategies Explained: Which One Should You Use?',
+    description: 'Google Ads bidding strategies explained: manual CPC, Maximise Clicks, Maximise Conversions, target CPA and target ROAS, and how a small business can choose.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/blog/google-ads-for-small-business-uk/', '/pricing/'],
+    body: `
+<p>Google Ads bidding strategies decide how much you bid in each auction and what Google tries to get for your money. Most small businesses start with Maximise Clicks or Maximise Conversions, then move to a target cost per acquisition (target CPA) or target return on ad spend (target ROAS) once conversion tracking is reliable and there is enough data for the system to learn from.</p>
+<p>This guide explains the main Google Ads bidding strategies in plain English, when each makes sense for a UK small business, and how to switch without wrecking performance. Google renames and changes its options from time to time, so check the current Google Ads help pages for the exact names and settings available in your account.</p>
+
+<h2>What a bidding strategy actually does</h2>
+<p>Every time someone searches, Google runs an auction among advertisers whose keywords match. Your bid, the quality of your ad and landing page, and the context of the search all affect whether your ad shows and what you pay. A bidding strategy is the set of rules that decides your bid in each of those auctions.</p>
+<p>With manual bidding, you set the maximum you are willing to pay per click. With automated, often called Smart Bidding, Google sets the bid for each auction using signals such as device, location, time of day and the search itself. Automation can react far faster than a person, but it can only optimise towards what you tell it to value. That is why the goal you pick matters more than the mechanics. If you are new to the platform, start with our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business</a>.</p>
+
+<h2>Google Ads bidding strategies explained</h2>
+<table>
+<thead><tr><th>Strategy</th><th>What it optimises for</th><th>Suits</th><th>Needs</th></tr></thead>
+<tbody>
+<tr><td>Manual CPC</td><td>Your own maximum bid per click</td><td>Tight control, very small or niche accounts</td><td>Regular hands-on management</td></tr>
+<tr><td>Maximise Clicks</td><td>As many clicks as possible within budget</td><td>New campaigns gathering early data, awareness of a new site</td><td>A sensible maximum bid limit</td></tr>
+<tr><td>Maximise Conversions</td><td>As many conversions as possible within budget</td><td>Lead generation once tracking works</td><td>Accurate conversion tracking</td></tr>
+<tr><td>Target CPA</td><td>Conversions at or near a target cost each</td><td>Lead generation with steady volume</td><td>Consistent conversion history</td></tr>
+<tr><td>Maximise Conversion Value</td><td>As much conversion value as possible within budget</td><td>Online shops and businesses with varied sale values</td><td>Values passed with conversions</td></tr>
+<tr><td>Target ROAS</td><td>Value at or near a target return on spend</td><td>Ecommerce with reliable revenue tracking</td><td>Steady purchase volume and accurate values</td></tr>
+<tr><td>Target Impression Share</td><td>Showing in a chosen position share of the time</td><td>Brand protection campaigns</td><td>Careful limits to avoid overspending</td></tr>
+</tbody>
+</table>
+
+<h2>Start with your goal, not the strategy</h2>
+<p>Before picking a strategy, be clear about what success looks like. A plumber may want phone calls and quote requests. A clinic may want booking requests. An online shop wants profitable sales. Each of those maps to a different strategy.</p>
+<p>Next, check that your conversion tracking captures those actions accurately and only once. Automated strategies learn from conversion data, so if tracking counts page views as leads or double-counts purchases, Google will optimise towards the wrong thing with great efficiency. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> shows how to set this up properly before you rely on Smart Bidding.</p>
+
+<h2>A sensible path for a small business</h2>
+<ol>
+<li><strong>New account, no conversion data.</strong> Many advertisers start with Maximise Clicks with a maximum cost-per-click limit, or with Maximise Conversions if tracking is in place from day one. Keep keyword lists tight and add negatives early.</li>
+<li><strong>Tracking working, some conversions.</strong> Move to Maximise Conversions so Google focuses on leads rather than clicks.</li>
+<li><strong>Steady conversion volume.</strong> Once you have a consistent flow of conversions and know what a lead is worth, consider adding a target CPA set close to your recent average cost per conversion.</li>
+<li><strong>Ecommerce with reliable values.</strong> Use Maximise Conversion Value, then add a target ROAS based on your margins and recent performance.</li>
+</ol>
+<p>Google publishes guidance on how much conversion data each strategy works best with, and these recommendations change, so check the current help pages rather than relying on old rules of thumb.</p>
+
+<h2>Setting realistic targets</h2>
+<p>A target that is far tighter than your current performance usually leads Google to bid very cautiously, and your ads may barely show. A target that is too loose can spend budget on expensive conversions. Start near what you are achieving now, then adjust in small steps of perhaps ten to twenty per cent, giving each change time to settle before judging it.</p>
+<p>Work out what you can afford to pay. For lead generation, think about how many enquiries become customers and what a customer is worth over time. For ecommerce, factor in product margins, delivery costs and VAT, not just revenue. Our article on <a href="/blog/google-ads-cost-uk/">Google Ads costs in the UK</a> explains the wider budget picture.</p>
+
+<h2>The learning period and how to handle it</h2>
+<p>When you switch to an automated strategy or make a big change to targets or budget, Google typically shows the campaign as learning for a while. Performance can wobble during this time. Avoid making several changes at once, and try not to judge a new strategy on its first few days. Plan strategy changes for quieter periods rather than just before a busy season such as Black Friday or Christmas.</p>
+
+<h2>Bidding does not fix everything</h2>
+<p>Bidding strategy is one lever among many. Poor keyword choices, missing negatives, weak ads and slow landing pages will hold any strategy back. Before blaming bidding, check:</p>
+<ul>
+<li>Your search terms report for irrelevant searches, which our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> explains how to block.</li>
+<li>Your location settings, covered in our <a href="/blog/google-ads-location-targeting-guide/">location targeting guide</a>.</li>
+<li>Your landing pages, which need to load quickly and make the next step obvious. See our advice on <a href="/blog/landing-page-design-uk/">landing page design</a>.</li>
+<li>Your budget. If a campaign is limited by budget, raising targets will not create more volume.</li>
+</ul>
+<p>Performance Max and Shopping campaigns use their own set of bidding options. Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> covers how those work.</p>
+
+<h2>Portfolio strategies and bid limits</h2>
+<p>Some advertisers share one strategy across several campaigns, known as a portfolio bid strategy. This pools conversion data, which can help small accounts where individual campaigns have too few conversions to learn from on their own. It also means one target covers campaigns that may have quite different economics, so group only campaigns with similar goals and values.</p>
+<p>Certain strategies let you set maximum or minimum bid limits. These can stop runaway costs in very competitive auctions, but limits that are too tight can restrict the strategy so much that it cannot do its job. Use them as a safety net, review them regularly, and remove them if they are clearly holding back volume you can afford.</p>
+
+<h2>Common bidding mistakes</h2>
+<ul>
+<li><strong>Using Smart Bidding with broken tracking.</strong> Automation magnifies tracking errors.</li>
+<li><strong>Optimising for micro-conversions.</strong> Counting page views or button clicks as primary conversions trains Google to find cheap, low-value actions.</li>
+<li><strong>Changing strategies too often.</strong> Each switch resets learning.</li>
+<li><strong>Unrealistic targets.</strong> Very aggressive targets can stop campaigns from spending at all.</li>
+<li><strong>Ignoring offline outcomes.</strong> If most leads close by phone, import qualified leads or sales where possible so Google learns which clicks lead to real business.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Choosing a bidding strategy is easier when someone reviews the account as a whole: tracking, structure, keywords, ads and landing pages. Our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> is a good place to start if you manage the account yourself. If you would rather hand it over, our <a href="/services/paid-media/">paid media service</a> covers Google Ads management, and you can see how our retainers work on our <a href="/pricing/">pricing page</a>. Ad spend is paid separately, and results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>Which Google Ads bidding strategy is best for a small business?</h3>
+<p>There is no single best option. Many small businesses start with Maximise Clicks or Maximise Conversions, then move to target CPA or target ROAS once tracking is accurate and conversion volume is steady.</p>
+<h3>What are Google Ads bidding strategies explained simply?</h3>
+<p>They are the rules that decide how much you bid in each auction. Manual strategies let you set bids yourself, while automated ones let Google set bids to get as many clicks, conversions or as much value as possible.</p>
+<h3>Is manual CPC still worth using?</h3>
+<p>It can be for very small or niche accounts where you want tight control, but it needs regular attention. Most accounts with reliable conversion tracking find automated strategies easier to manage.</p>
+<h3>How long should I wait before judging a new bidding strategy?</h3>
+<p>Allow the learning period to finish and then gather enough data to compare fairly. For many small accounts that means a few weeks rather than a few days. Check Google's current guidance for your campaign type.</p>
+<h3>Why has my campaign stopped spending after setting a target CPA?</h3>
+<p>The target is probably too low compared with your recent cost per conversion, so Google is bidding cautiously. Raise it closer to your recent average and lower it gradually.</p>
+<h3>Do I need conversion tracking to use Smart Bidding?</h3>
+<p>For conversion-based strategies, yes. They learn from your conversion data, so tracking must be accurate and record only the actions that matter to your business.</p>
+`,
+  },
+  {
+    slug: 'google-ads-vs-facebook-ads-uk',
+    seoTitle: 'Google Ads vs Facebook Ads: Which Suits Your Business?',
+    title: 'Google Ads vs Facebook Ads: How UK Businesses Can Choose',
+    description: 'Google Ads reaches people already searching; Facebook Ads reaches people by interest before they search. Compare intent, cost and fit for your business.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>Google Ads shows your ads to people who are actively searching for what you offer, while Facebook Ads (run through Meta, which also covers Instagram) shows your ads to people based on who they are and what they are interested in, often before they have started looking. That difference in intent is the main thing to understand when choosing between them.</p>
+<p>Both platforms can work well for UK businesses, and both can waste money if they are used for the wrong job. This guide compares Google Ads vs Facebook Ads on intent, cost, creative, targeting and tracking, then gives a simple way to decide where to start. Advertising platforms change features and policies often, so check current official help pages before you launch.</p>
+
+<h2>Google Ads vs Facebook Ads at a glance</h2>
+<table>
+<thead><tr><th>Factor</th><th>Google Ads</th><th>Facebook and Instagram Ads</th></tr></thead>
+<tbody>
+<tr><td>How people find you</td><td>They search a phrase and see your ad</td><td>Your ad appears in their feed, Stories or Reels</td></tr>
+<tr><td>Buyer intent</td><td>High: they are looking now</td><td>Lower at first: you are interrupting their scroll</td></tr>
+<tr><td>Targeting</td><td>Keywords, location, device, audience signals</td><td>Location, age, interests, behaviours, custom and lookalike audiences</td></tr>
+<tr><td>Creative</td><td>Mainly text, plus images and video in some campaign types</td><td>Image and video first; creative drives results</td></tr>
+<tr><td>Best for</td><td>Urgent needs, services, high-intent products</td><td>Visual products, new ideas, events, building awareness</td></tr>
+<tr><td>Typical click cost</td><td>Often higher in competitive sectors</td><td>Often lower per click, but intent is lower too</td></tr>
+</tbody>
+</table>
+
+<h2>The real difference: demand capture vs demand creation</h2>
+<p>Google Ads captures demand that already exists. Someone types "emergency plumber Leeds" or "oak dining table UK" and your ad appears at the moment they want to act. Because intent is high, clicks often convert well, but you can only reach as many people as are searching.</p>
+<p>Facebook and Instagram ads create demand. You show a product, service or offer to people who match your ideal customer but may not have thought about it yet. Reach can be much larger, and good creative can make people want something they were not looking for. The trade-off is that many viewers are not ready to buy, so you often need several touches, such as a video view, then a retargeting ad, then an offer.</p>
+<p>A useful question is: do people already search for what I sell? If yes, Google is usually the natural starting point. If your product is new, visual or bought on impulse, Meta often has more room to grow.</p>
+
+<h2>Which works better for different types of business</h2>
+<table>
+<thead><tr><th>Business type</th><th>Often starts with</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Trades and emergency services</td><td>Google Ads</td><td>Customers search when they have a problem to fix now</td></tr>
+<tr><td>Professional and B2B services</td><td>Google Ads</td><td>Buyers search for specific services and compare providers</td></tr>
+<tr><td>Fashion, beauty, gifts and homeware</td><td>Facebook and Instagram</td><td>Visual products that people discover while browsing</td></tr>
+<tr><td>Restaurants, venues and events</td><td>Both</td><td>Search catches "near me" intent, social builds interest in dates and offers</td></tr>
+<tr><td>Online shops with known products</td><td>Google Shopping plus Meta</td><td>Shopping ads catch product searches, Meta drives discovery and retargeting</td></tr>
+</tbody>
+</table>
+<p>These are starting points, not rules. Your own results, measured properly, should decide where budget goes next.</p>
+
+<h2>How costs compare</h2>
+<p>Facebook ads often have a lower cost per click than Google Ads, but that comparison can mislead. A cheap click from someone casually scrolling may be worth less than an expensive click from someone searching for your exact service. What matters is the cost per enquiry, booking or sale, and the value of each customer over time.</p>
+<p>Both platforms run on auctions, so prices change with competition, season and audience. For budgeting help, see our guides to <a href="/blog/google-ads-cost-uk/">Google Ads costs in the UK</a> and <a href="/blog/meta-ads-cost-uk/">Meta Ads costs</a>. Whatever you spend on ads is paid to the platform, separately from any management fee.</p>
+
+<h2>Creative and effort needed</h2>
+<p>Google search ads are mainly text: headlines and descriptions written around keywords, supported by assets such as sitelinks and callouts. The skill lies in keyword choice, negative keywords, bidding and landing pages. Our guide to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small businesses</a> explains a sensible starting structure.</p>
+<p>Meta ads rely heavily on creative. Strong images and short videos that stop the scroll are the biggest lever, and they tire faster, so you need a steady supply of fresh versions. If you cannot produce regular visual content, Meta will be harder to sustain. Our <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads starter guide</a> covers simple creative that works on a small budget.</p>
+
+<h2>Tracking and measurement</h2>
+<p>Both platforms need proper tracking to optimise. On Google, that means <a href="/blog/google-ads-conversion-tracking-setup/">conversion tracking</a> for calls, forms and purchases. On Meta, it usually means the <a href="/blog/meta-pixel-setup-guide/">Meta Pixel</a> and, where suitable, a server-side connection. In the UK, consent rules under UK GDPR and PECR affect how tracking tags can run, so check current ICO guidance and use a proper cookie banner.</p>
+<p>Expect the platforms to report results differently. Each tends to credit itself for a sale when a customer saw both, so compare them in GA4 with consistent goals and UTM-tagged links rather than adding the two platforms' own figures together.</p>
+
+<h2>Using Google and Facebook ads together</h2>
+<p>The two platforms often work best as a pair. Meta builds awareness and interest; some of those people later search on Google, where your search ads or organic listing catch them. In the other direction, people who visited your site from Google can be shown reminder ads on Facebook and Instagram, which we explain in our <a href="/blog/remarketing-guide-uk/">remarketing guide</a>.</p>
+<p>If budget is limited, start with one platform, get tracking and results stable, then add the second with a clear test plan rather than splitting a small budget thinly across both from day one.</p>
+
+<h2>Common mistakes when comparing the two</h2>
+<ul>
+<li><strong>Judging Meta on last-click sales alone.</strong> Social ads often start a journey that ends with a search or a direct visit, so last-click reports can undervalue them.</li>
+<li><strong>Using the same landing page for both.</strong> A searcher wants a direct answer to their query, while someone arriving from a feed may need more context, images and reassurance first.</li>
+<li><strong>Broad targeting without enough data.</strong> On Google, loose keyword matching can spend on irrelevant searches; on Meta, a tiny budget spread across many audiences rarely gives the algorithm enough to learn from.</li>
+<li><strong>Stopping too early.</strong> Both platforms have learning periods. Changing everything every few days resets that learning and makes results harder to read.</li>
+<li><strong>Ignoring the offer.</strong> Neither platform can fix an unclear offer or a slow website. Strong ads still need a page that makes taking the next step easy.</li>
+</ul>
+
+<h2>A simple way to choose where to start</h2>
+<ol>
+<li><strong>Check search demand.</strong> If plenty of people already search for what you offer, Google is a strong first test.</li>
+<li><strong>Look at your product.</strong> Visual, giftable or new products usually show well on Instagram and Facebook.</li>
+<li><strong>Assess your creative capacity.</strong> If you cannot produce regular images and video, lean towards search first.</li>
+<li><strong>Know your numbers.</strong> Work out what you can afford to pay for a lead or sale before spending.</li>
+<li><strong>Run a focused test.</strong> Give one platform enough budget and time to learn, review cost per result, then decide whether to add the other.</li>
+</ol>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers Google Ads, Meta Ads, TikTok Ads and YouTube Ads, so we can recommend a channel based on your goals instead of a preference for one platform. We set up tracking first, then build campaigns around your margins. Monthly plans are listed on our <a href="/pricing/">pricing page</a>, with ad spend paid separately, and paid results typically take 3-6 months to optimise fully.</p>
+
+<h2>FAQs</h2>
+<h3>Google Ads vs Facebook Ads: which is better?</h3>
+<p>Google Ads is usually better for reaching people already searching for a product or service, while Facebook Ads is usually better for showing visual or new products to likely buyers who are not searching yet. The better choice depends on your offer, budget and creative capacity.</p>
+<h3>Are Facebook ads cheaper than Google Ads?</h3>
+<p>Facebook clicks are often cheaper, but the people clicking are usually earlier in their buying journey. Compare cost per enquiry or sale, not cost per click, to judge which is better value for you.</p>
+<h3>Should a small business use Google Ads or Facebook Ads first?</h3>
+<p>If customers search for what you sell, start with Google Ads. If your product is visual or something people discover rather than search for, start with Facebook and Instagram. Get one working before adding the other.</p>
+<h3>Do Facebook ads also show on Instagram?</h3>
+<p>Yes. Campaigns set up in Meta Ads Manager can run on Facebook, Instagram and other Meta placements. You can let Meta choose placements or select them yourself, depending on your creative and goals.</p>
+<h3>Can I run Google Ads and Facebook Ads at the same time?</h3>
+<p>Yes, and many businesses do. Meta often builds interest that later turns into searches, while Google catches those searches. Make sure tracking is in place so you can see how the two work together.</p>
+<h3>How long should I test each platform?</h3>
+<p>Give each platform enough time and budget to gather meaningful conversion data, usually several weeks at least. Avoid judging a campaign in the first few days while it is still learning.</p>
+`,
+  },
+  {
+    slug: 'google-tag-manager-setup-guide',
+    seoTitle: 'How to Set Up Google Tag Manager: A UK Guide',
+    title: 'How to Set Up Google Tag Manager for a Small Business Website',
+    description: 'How to set up Google Tag Manager step by step: create a container, install it, add GA4 and ad tags, respect cookie consent and test before you publish.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/paid-media/', '/services/website-ecommerce-development/', '/blog/ga4-setup-uk/'],
+    body: `
+<p>To set up Google Tag Manager, create an account and a container for your website, add the two container snippets to every page, then build tags (what to send), triggers (when to send it) and variables (extra details) inside the Tag Manager interface. Test everything in Preview mode and only then publish a version.</p>
+<p>This guide explains each step in plain English for UK small business owners. It covers what Tag Manager is for, how to plan a tidy set-up, how to add Google Analytics 4 and advertising tags, how cookie consent fits in, and the mistakes that cause broken tracking. Interfaces change often, so check Google's current Tag Manager help pages for the exact menus and wording before you start.</p>
+
+<h2>What Google Tag Manager does</h2>
+<p>Most marketing tools ask you to add a small piece of code, called a tag, to your website. Analytics, Google Ads conversion tracking, the Meta Pixel and the TikTok Pixel all work this way. Without a tag manager, each new tag means editing the site's code or theme, which usually needs a developer and can slow the site down if old tags are never removed.</p>
+<p>Google Tag Manager, often shortened to GTM, puts one container on your site. Every other tag lives inside that container and is managed from a web interface. You decide when each tag fires, what data it sends, and you can pause or remove it without touching the site's files. It also keeps a version history, so a mistake can be rolled back.</p>
+<p>It is not a reporting tool. Tag Manager sends data to tools such as GA4 or Google Ads, and you read the results there. If you have not yet set up analytics, start with our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> and come back to this once you know which events matter.</p>
+
+<h2>Key terms in plain English</h2>
+<table>
+<thead><tr><th>Term</th><th>What it means</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>Container</td><td>The box that holds all your tags for one website or app</td><td>One container for your main website</td></tr>
+<tr><td>Tag</td><td>A piece of code that sends information to another tool</td><td>A GA4 event tag for form submissions</td></tr>
+<tr><td>Trigger</td><td>The rule that decides when a tag fires</td><td>When the thank-you page loads</td></tr>
+<tr><td>Variable</td><td>A value the tag or trigger can read</td><td>The page URL or the text of a clicked button</td></tr>
+<tr><td>Data layer</td><td>A structured list of information the website passes to Tag Manager</td><td>Order value and currency after a purchase</td></tr>
+<tr><td>Version</td><td>A saved snapshot of the container when you publish</td><td>Version named "Added enquiry form event"</td></tr>
+</tbody>
+</table>
+
+<h2>Plan before you build</h2>
+<p>The most common reason a Tag Manager container becomes a mess is that tags were added one at a time with no plan. Before you open the interface, write a short tracking plan in a spreadsheet. List the actions on your site that matter to the business, such as enquiry forms, phone number clicks, email link clicks, bookings or purchases. For each one, note which tools need to know about it and how you will recognise it, for example a thank-you page URL or a button click.</p>
+<p>Keep the list short. Three to six meaningful actions are usually enough for a small business website. Tracking every scroll and every click creates noise that nobody reads. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small business</a> explains how to pick measures that lead to decisions.</p>
+<p>Agree a naming convention at the same time. A simple pattern such as tool, type and detail works well, for example "GA4 - Event - Enquiry form" or "Google Ads - Conversion - Booking". Consistent names make the container easy to hand over to a colleague or a studio later.</p>
+
+<h2>How to set up Google Tag Manager step by step</h2>
+<ol>
+<li><strong>Create an account and container.</strong> Sign in with a Google account the business controls, not a personal one that might leave with an employee. Create an account named after the business and a container for your website, choosing the web option.</li>
+<li><strong>Install the container code.</strong> Tag Manager gives you two snippets. One goes as high as possible in the head of every page and the other just after the opening body tag. On WordPress you can use a reputable plugin or your theme settings. On Shopify, check the current help pages, because the recommended method for tracking and checkout pages has changed over time and may involve customer events or an app.</li>
+<li><strong>Confirm the container loads.</strong> Use Preview mode, which opens your site with a debugging panel. If the panel connects, the container is installed correctly.</li>
+<li><strong>Add your Google tag.</strong> Create a Google tag using your GA4 measurement ID and set it to fire on all pages. This handles basic page views.</li>
+<li><strong>Add event tags.</strong> For each action in your plan, create a tag and a matching trigger. A form submission might use a page view trigger on the thank-you page, while a phone click might use a click trigger on links that start with tel.</li>
+<li><strong>Add advertising tags.</strong> Add Google Ads conversion tags, the Meta Pixel or other platform tags as needed. Our guides to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> and <a href="/blog/meta-pixel-setup-guide/">setting up the Meta Pixel</a> cover what to track for each.</li>
+<li><strong>Test in Preview mode.</strong> Walk through each action on the site and check the right tags fire once, at the right moment, and not on pages where they should not.</li>
+<li><strong>Publish a named version.</strong> Give the version a clear name and short description of what changed, then publish.</li>
+</ol>
+
+<h2>Cookie consent, UK GDPR and PECR</h2>
+<p>In the UK, PECR and UK GDPR mean most analytics and advertising cookies need the visitor's consent before they are set. Tag Manager does not handle consent on its own. You need a consent tool, often called a cookie banner or consent management platform, and your tags need to respect the choice the visitor makes.</p>
+<p>Many consent tools integrate with Tag Manager and support Google's consent mode, which adjusts how Google tags behave depending on the visitor's choice. Non-Google tags usually need triggers that only fire once consent for the relevant category has been given. The details vary by tool, so follow your consent provider's documentation and Google's current consent mode guidance. Our article on <a href="/blog/cookie-banner-design-uk/">cookie banner design in the UK</a> covers the visitor-facing side. This is general information, not legal advice, and you should check the ICO's guidance for your own situation.</p>
+
+<h2>Using the data layer for ecommerce</h2>
+<p>For online shops, the most useful information, such as order value, currency and products bought, is not visible on the page in a reliable way. The answer is the data layer. Your shop platform or a developer pushes structured information into it when something happens, and Tag Manager reads it through variables.</p>
+<p>Many ecommerce platforms and apps can push standard ecommerce events for you. Check what yours already provides before building anything custom, because duplicate purchase events are a common cause of inflated revenue figures in GA4 and ad platforms.</p>
+
+<h2>Testing and keeping the container healthy</h2>
+<p>Preview mode is your main testing tool. It shows which tags fired on each event, which did not, and why. Pair it with the real-time or debug views in GA4 and the testing tools in each ad platform. If your site has a staging copy, test there first. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how that works.</p>
+<p>Once live, review the container every few months. Remove tags for tools you no longer use, pause anything that is not needed, and check that triggers still match your pages after any redesign. Every extra script adds weight, so a lean container also helps with website speed.</p>
+
+<h2>Common Google Tag Manager mistakes</h2>
+<ul>
+<li><strong>Installing tags twice.</strong> If GA4 is added directly in the theme and again in Tag Manager, page views double. Pick one method.</li>
+<li><strong>Triggers that are too broad.</strong> A conversion tag firing on all pages instead of the thank-you page will make campaigns look far better than they are.</li>
+<li><strong>Ignoring consent.</strong> Tags that fire before a visitor accepts cookies create compliance risk.</li>
+<li><strong>Personal data in tags.</strong> Never send names, email addresses or phone numbers to analytics tools in page URLs or event details.</li>
+<li><strong>No access control.</strong> Give people the lowest permission level they need, and remove access when a supplier or staff member leaves.</li>
+<li><strong>Unnamed versions.</strong> Without notes, nobody knows what changed or which version to roll back to.</li>
+</ul>
+
+<h2>Tracking campaign sources alongside Tag Manager</h2>
+<p>Tag Manager tells tools what people did. Campaign tagging tells them where people came from. Use consistent UTM parameters on links in emails, social posts and offline QR codes so that your analytics can attribute visits properly. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> shows a simple naming system.</p>
+
+<h2>When to get help</h2>
+<p>A basic container with GA4 and one or two conversion events is a reasonable job for a confident owner. Ecommerce data layers, consent mode, server-side tagging and cross-domain tracking are harder to get right, and errors quietly distort every report you rely on. Our <a href="/services/paid-media/">paid media service</a> includes tracking set-up for ad campaigns, and our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work builds tracking in from the start. See our <a href="/pricing/">pricing</a> for how retainers work.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up Google Tag Manager?</h3>
+<p>Create an account and a web container, add the two container snippets to every page of your site, then create tags, triggers and variables for the tools and actions you want to track. Test in Preview mode and publish a named version once everything fires correctly.</p>
+<h3>Is Google Tag Manager free?</h3>
+<p>The standard version of Google Tag Manager is free to use. There is a paid enterprise version aimed at large organisations, but small businesses rarely need it. Check Google's current product pages for details.</p>
+<h3>Do I still need GA4 if I use Tag Manager?</h3>
+<p>Yes. Tag Manager only sends data. GA4 is where that data is stored, processed and reported. You use Tag Manager to install and control the GA4 tag and events.</p>
+<h3>Will Google Tag Manager slow down my website?</h3>
+<p>The container itself is light, but every tag inside it adds scripts. A container full of unused tags can slow pages down. Review it regularly and remove anything you no longer need.</p>
+<h3>Can I use Tag Manager on Shopify or WordPress?</h3>
+<p>Generally yes, though the method differs. WordPress sites often use a plugin or theme setting. Shopify has its own approach for tracking, particularly on checkout pages, so follow Shopify's current help pages before installing anything.</p>
+<h3>Who should own the Tag Manager account?</h3>
+<p>The business should own the account, using a company Google login. Agencies and freelancers should be added as users with appropriate permissions, so access can be removed without losing the container.</p>
+`,
+  },
+  {
+    slug: 'ice-cream-parlour-marketing-uk',
+    seoTitle: 'Ice Cream Parlour Marketing UK: Bring In More Customers',
+    title: 'Ice Cream Parlour Marketing in the UK: How to Bring In More Customers',
+    description: 'Ice cream parlour marketing in the UK works when local search, great photos, social media and off-season ideas keep customers coming in all year round.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/hospitality/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Ice cream parlour marketing in the UK is about being the place people think of, and can find in seconds, when they fancy a treat, then giving them enough reasons to come back in October as well as August. The parlours and gelaterias that grow usually combine strong local search, great photos, an active social presence and ideas that smooth out the seasons.</p>
+<p>This guide is for independent ice cream parlours, gelato shops, dessert parlours, farm dairies with an ice cream shop and seaside kiosks. It covers how customers choose where to go, Google Business Profile, your website, social media, paid ads, the quieter months, parties and events, wholesale and online sales. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of bringing customers through the door.</p>
+
+<h2>How customers choose an ice cream parlour</h2>
+<p>Ice cream is usually an impulse decision. A family on a day out, friends after dinner, or a couple walking along the seafront search for "ice cream near me", "best gelato in York" or "dessert parlour open late", glance at photos and reviews, and head for whichever looks best and is closest.</p>
+<p>That means three things matter most: showing up in local search, looking irresistible in photos, and having accurate opening hours. A great product will not help if Google says you are closed when you are open.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Families</strong> on days out, after school or at weekends.</li>
+<li><strong>Tourists and day visitors</strong> in seaside, countryside and historic towns.</li>
+<li><strong>Teenagers and young adults</strong> looking for somewhere to meet.</li>
+<li><strong>Couples and friends</strong> looking for an evening dessert spot.</li>
+<li><strong>Party organisers</strong> wanting a children's party or celebration venue.</li>
+<li><strong>Local businesses and event organisers</strong> ordering for events, weddings or catering.</li>
+</ul>
+
+<h2>Ice cream parlour marketing UK: get local search right</h2>
+<p>Your Google Business Profile is likely to bring more customers than any other channel. Make sure your primary category is accurate, your hours are correct, including seasonal and bank holiday hours, and your profile has plenty of recent photos of your counter, flavours, sundaes and seating. Our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile in the UK</a> covers setup and ongoing management.</p>
+<p>Posts on your profile can promote new flavours, seasonal specials and events. Our guide to <a href="/blog/google-business-profile-posts-guide/">Google Business Profile posts</a> explains how to use them. Encourage happy customers to leave reviews, perhaps with a small sign at the till, and reply to reviews politely. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the wider steps that help you rank in the map pack.</p>
+
+<h2>Your website and menu</h2>
+<p>Many ice cream parlours rely on social media alone, but a simple website still helps. It gives you a page that can rank for searches like "ice cream parlour in Whitby", holds your full menu and allergen approach, and lets you take party bookings and enquiries.</p>
+<p>Pages that usually earn their place:</p>
+<ul>
+<li><strong>Menu</strong>, with flavours, sundaes, desserts, drinks and prices, kept up to date.</li>
+<li><strong>Visit us</strong>, with opening hours, location, parking, seating and accessibility.</li>
+<li><strong>Allergens and dietary options</strong>, explaining vegan, dairy-free and other options and how to ask staff.</li>
+<li><strong>Parties and events</strong>, with packages and an enquiry form.</li>
+<li><strong>Wholesale or catering</strong>, if you supply cafés, restaurants or events.</li>
+<li><strong>Shop</strong>, if you sell tubs, gift vouchers or merchandise.</li>
+</ul>
+<p>Allergen rules for food businesses are important and can change. Keep website wording general, make clear that customers should speak to staff about allergies, and check current food safety and allergen guidance to make sure your information and in-store practices are right. For ideas on building a site that suits a small food business, our guide to <a href="/blog/cafe-website-design-uk/">café website design</a> covers many of the same needs.</p>
+
+<h2>Photos and social media</h2>
+<p>Ice cream is one of the most photogenic products there is, which gives you a natural advantage on Instagram, TikTok and Facebook. Bright colours, new flavours, sundaes being built and happy customers all make strong content.</p>
+<p>Good social content ideas include:</p>
+<ul>
+<li>New and limited-edition flavours, with a short video of the first scoop.</li>
+<li>Behind the scenes, such as making a batch or sourcing ingredients, if you make your own.</li>
+<li>Seasonal specials, such as autumn spiced flavours or Christmas desserts.</li>
+<li>Customer polls on which flavour to bring back.</li>
+<li>Opening time updates on sunny days, holidays and during events.</li>
+</ul>
+<p>Always ask permission before featuring customers, especially children. Paid social ads can help promote new flavours, events and parties to people nearby. Our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a> explains how to start with a small budget.</p>
+
+<h2>Managing the quieter months</h2>
+<p>For many ice cream businesses, the biggest marketing challenge is the colder, darker months. Summer often looks after itself, while winter can be very quiet. Planning for the off-season is where marketing makes the biggest difference.</p>
+<table>
+<thead>
+<tr><th>Idea</th><th>How it helps</th><th>How to market it</th></tr>
+</thead>
+<tbody>
+<tr><td>Hot desserts and drinks</td><td>Gives people a reason to visit on cold days</td><td>Menu page, social posts, Google Business Profile posts</td></tr>
+<tr><td>Takeaway tubs and gift vouchers</td><td>Brings in sales without footfall</td><td>Website shop, email and festive campaigns</td></tr>
+<tr><td>Parties and celebrations</td><td>Fills quiet weekday and weekend slots</td><td>Parties page and local parent groups</td></tr>
+<tr><td>Wholesale and events</td><td>Adds business income outside peak season</td><td>Wholesale page and direct outreach</td></tr>
+<tr><td>Loyalty and email offers</td><td>Encourages regulars to return</td><td>Email list and in-store sign-ups</td></tr>
+<tr><td>Themed events</td><td>Creates reasons to visit in quiet months</td><td>Event pages, social media and email</td></tr>
+</tbody>
+</table>
+<p>Promotions should always be accurate and clear about any conditions. If you are unsure about wording, check current advertising guidance such as the CAP Code.</p>
+
+<h2>Email and loyalty</h2>
+<p>An email list lets you reach regulars directly, without relying on social media algorithms. Collect addresses through party bookings, online orders and in-store sign-ups, with clear consent under UK GDPR and PECR. Send updates about new flavours, seasonal openings, events and offers. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> covers simple ways to grow a list.</p>
+<p>Loyalty schemes, such as a stamp card or digital equivalent, can encourage repeat visits. Keep them simple and easy to understand. A single clear reward, such as a free scoop after a set number of visits, is usually easier to run and explain than a points system with tiers. Mention the scheme on your menu page, at the till and in your emails so regulars know it exists.</p>
+
+<h2>Parties, events and wholesale</h2>
+<p>Children's parties, celebrations and private bookings can be valuable, especially outside peak season. A clear parties page should explain packages, capacity, what is included and how to book. Wedding and event catering, such as an ice cream cart or dessert table, can also be marketed separately with its own page and photos.</p>
+<p>If you make your own ice cream, wholesale to cafés, restaurants, farm shops and delis can add steady income. A wholesale page with flavours, pack sizes and an enquiry form helps trade buyers find you. Our <a href="/sectors/hospitality/">hospitality marketing</a> page explains how we work with food and drink businesses, and our guide to <a href="/blog/restaurant-marketing-uk/">restaurant marketing</a> covers wider ideas for venues that serve food.</p>
+
+<h2>Website build and ongoing support</h2>
+<p>A simple, fast website that loads quickly on mobile, shows your menu, hours and allergen approach, and takes party enquiries is often enough for a single parlour. Businesses with several shops, wholesale customers or online tub sales may need more. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search and visibility in AI search tools that people increasingly ask for recommendations. You can see our website and retainer options on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best ice cream parlour marketing in the UK?</h3>
+<p>For most parlours, the most effective steps are a complete Google Business Profile with great photos and accurate hours, active social media, a simple website with your menu and allergen approach, and plans to keep customers coming in through the quieter months.</p>
+<h3>Does an ice cream parlour need a website?</h3>
+<p>It helps. A website can rank in local search, hold your full menu and allergen information, take party bookings and sell tubs or gift vouchers. Social media alone is harder to control and less likely to appear in search.</p>
+<h3>How can we get more customers in winter?</h3>
+<p>Add hot desserts and drinks, promote takeaway tubs and gift vouchers, run themed events, market parties and celebrations, and use email to stay in touch with regulars when footfall is lower.</p>
+<h3>What should we say about allergens online?</h3>
+<p>Explain your dietary options, ask customers to speak to staff about allergies, and keep wording general and accurate. Check current food safety and allergen guidance to make sure your website and in-store practices are right.</p>
+<h3>Which social media works best for ice cream shops?</h3>
+<p>Instagram and TikTok suit colourful, short video content, while Facebook is useful for local community groups and events. Choose the platforms your customers use and post regularly.</p>
+<h3>Can an ice cream business sell wholesale online?</h3>
+<p>Yes. A wholesale page with flavours, pack sizes and an enquiry form can help cafés, restaurants and farm shops find you. Delivery and food safety requirements apply, so check current guidance before expanding.</p>
+`,
+  },
+  {
+    slug: 'independent-cinema-marketing-uk',
+    seoTitle: 'Independent Cinema Marketing UK: Fill More Seats',
+    title: 'Independent Cinema Marketing in the UK: How to Fill More Seats',
+    description: 'Independent cinema marketing in the UK works when listings, easy online booking, email and local search turn film fans into regulars who book every month.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/hospitality/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Independent cinema marketing in the UK is about giving people a reason to choose your screens over a multiplex or a sofa, then making booking effortless. The independents that do well usually combine clear online listings, a strong email list, local search and a programme of events that only they offer.</p>
+<p>This guide is for independent and community cinemas, single-screen picture houses, arts centres with a cinema, pop-up and outdoor screening operators and small cinema groups. It covers how audiences choose a cinema, your website and listings, booking, email, social media, local search, paid ads, events and private hire. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of filling seats.</p>
+
+<h2>How audiences choose a cinema</h2>
+<p>Most cinema trips start with a film, not a venue. Someone wants to see a new release, a classic revival or a documentary, then looks for where and when it is showing nearby. Searches like "cinema near me", "what's on at the cinema tonight" or the film title with a town name are common.</p>
+<p>Independents win when they are easy to find in those moments and when they offer something extra: comfortable seats, a bar, a sense of occasion, a friendly welcome, a curated programme or a special screening with an introduction or discussion.</p>
+<p>Typical audiences include:</p>
+<ul>
+<li><strong>Regular film fans</strong> who come several times a month and want to hear about the programme early.</li>
+<li><strong>Couples and friends</strong> looking for a night out with food or drinks.</li>
+<li><strong>Families</strong> wanting weekend and school holiday screenings.</li>
+<li><strong>Older audiences</strong> who often prefer daytime or matinee screenings.</li>
+<li><strong>Parents with babies</strong> looking for parent and baby sessions.</li>
+<li><strong>Community and special interest groups</strong> interested in themed seasons, festivals or relaxed screenings.</li>
+<li><strong>Businesses and private groups</strong> booking private hire or corporate events.</li>
+</ul>
+
+<h2>Independent cinema marketing UK: your listings page comes first</h2>
+<p>Your listings page is the most visited part of your website. It should load quickly on mobile, show today's screenings at the top, and let people filter by date, film or type of screening. Every film should link to its own page, and every screening time should go straight into booking.</p>
+<p>Each film page should include the title, a short synopsis in your own words, running time, age rating, format, any accessibility details such as subtitles or audio description, and the trailer if you can embed it. Add information that only you can provide, such as an introduction, a Q&amp;A or a paired food offer.</p>
+<p>Use structured data where it helps. Our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how event and other structured data can help search engines understand your screenings. Keep age ratings and content advice accurate and up to date, and check current classification and licensing guidance if you show films that are unclassified or locally classified.</p>
+
+<h2>Making booking easy</h2>
+<p>Many independents use ticketing systems that sit on another domain or open in a separate window. That can work, but each extra step loses some bookers, especially on phones. Look at the full journey from your film page to a completed booking and remove anything that slows people down.</p>
+<p>Good booking journeys usually:</p>
+<ul>
+<li>Show clear ticket prices before people choose seats, including concessions and membership discounts.</li>
+<li>Let people pick seats without logging in first, if your system allows it.</li>
+<li>Offer food, drink or add-ons without making them compulsory.</li>
+<li>Confirm the booking quickly by email with the date, time, screen and any access information.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers what to check when choosing or improving a system, and how to connect it to your site cleanly.</p>
+
+<h2>Email and membership</h2>
+<p>For most independent cinemas, email is the channel that drives repeat visits. A weekly or fortnightly newsletter with new listings, special events and member offers keeps regulars booking. It also lets you sell out special screenings before you spend anything on ads.</p>
+<p>Collect email addresses through booking, a simple newsletter signup on every page and in-venue prompts. Under UK GDPR and PECR, make sure marketing consent is clear and separate from booking confirmations. Our guide to <a href="/blog/email-list-building-uk/">email list building</a> covers practical ways to grow a list, and our article on <a href="/blog/how-to-write-an-email-newsletter/">how to write an email newsletter</a> helps you create emails people actually open.</p>
+<p>If you run a membership scheme, give it a clear page explaining what members get, such as discounts, priority booking or free tickets, and how much it costs. Membership pages often convert well when linked from booking confirmation emails.</p>
+
+<table>
+<thead>
+<tr><th>Channel</th><th>Main role</th><th>Best used for</th></tr>
+</thead>
+<tbody>
+<tr><td>Website listings</td><td>Converting interest into bookings</td><td>Every screening, film pages, events</td></tr>
+<tr><td>Email newsletter</td><td>Repeat visits from regulars</td><td>New programme, member offers, special events</td></tr>
+<tr><td>Google Business Profile</td><td>Local discovery and directions</td><td>"Cinema near me" searches, reviews, photos</td></tr>
+<tr><td>Social media</td><td>Awareness and community</td><td>Trailers, behind the scenes, event promotion</td></tr>
+<tr><td>Paid social ads</td><td>Reaching new local audiences</td><td>Special screenings, seasons, private hire</td></tr>
+<tr><td>Paid search</td><td>Capturing high-intent searches</td><td>Private hire, events and specific film searches</td></tr>
+</tbody>
+</table>
+
+<h2>Local search and Google Business Profile</h2>
+<p>When someone searches "cinema near me", Google usually shows a map pack before ordinary results. A complete Google Business Profile with accurate opening times, photos of the screens, bar and foyer, accessibility information and a link to your listings helps you appear there.</p>
+<p>Posts on your profile can promote special screenings and seasons. Our guide to <a href="/blog/google-business-profile-posts-guide/">Google Business Profile posts</a> explains how to use them well. Ask happy visitors to leave reviews, and respond to reviews politely, including any that mention problems.</p>
+<p>Beyond the map pack, your site can rank for searches such as "independent cinema in Bath", "dog-friendly cinema screenings" or "relaxed screenings near me" if you have pages that genuinely cover those topics. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search, technical SEO and visibility in AI search tools that increasingly answer "what's on" questions.</p>
+
+<h2>Events, seasons and special screenings</h2>
+<p>Events are where independents stand out. Themed seasons, director retrospectives, anniversary screenings, live broadcasts, film clubs, quizzes, introductions and discussions give people reasons to come that a multiplex rarely offers.</p>
+<p>Give each event its own page with a clear date, price, what is included and how to book. Promote it through email first, then social media, then paid ads if it needs more reach. Plan larger events several weeks ahead so you have time to build interest.</p>
+<p>Inclusive programming can also be part of your marketing, such as relaxed screenings, subtitled screenings, parent and baby sessions and dementia-friendly screenings. Describe what each one involves clearly so people know what to expect.</p>
+
+<h2>Social media and paid ads</h2>
+<p>Social media works best for independents when it shows personality: what is coming soon, staff picks, behind-the-scenes moments and short clips of the venue. Check that you have the right permissions before using trailers, film stills or artwork, and follow distributor guidance on promotional materials.</p>
+<p>Paid social ads can help sell special screenings and seasons to new local audiences, targeted by location and interests. Our guide to working with a <a href="/blog/meta-ads-agency-uk/">Meta ads agency</a> explains what good Facebook and Instagram campaign management looks like. Paid search can capture high-intent searches for private hire and events. If you want support, our <a href="/services/paid-media/">paid media service</a> covers both.</p>
+
+<h2>Food, drink and private hire</h2>
+<p>Many independent cinemas earn a large part of their income from the bar, café or kitchen, and from private hire. Each deserves its own page and marketing, separate from film listings.</p>
+<p>A food and drink page should show menus, opening times and whether non-ticket holders can visit. A private hire page should cover screen sizes, capacity, what can be shown, catering options and how to enquire. Private hire can suit birthdays, corporate events, schools, community groups and product launches. Our <a href="/sectors/hospitality/">hospitality marketing</a> page explains how we approach venues that combine food, drink and experiences.</p>
+
+<h2>Website build and performance</h2>
+<p>Cinema websites need to handle frequent updates, often several times a week, without breaking. Look for a system that pulls listings from your ticketing platform automatically where possible, so staff are not entering the same information twice.</p>
+<p>A fast, well-structured site with clear film pages, event pages and booking links makes every other channel work harder. You can see our website and retainer options on our <a href="/pricing/">pricing page</a>. Website builds typically take three to five weeks, and SEO and paid results typically build over three to six months.</p>
+
+<h2>FAQs</h2>
+<h3>What does independent cinema marketing in the UK involve?</h3>
+<p>It usually combines a fast website with clear listings and booking, a regular email newsletter, local search through Google Business Profile, social media, targeted paid ads for events and seasons, and separate marketing for food, drink and private hire.</p>
+<h3>How can a small cinema compete with multiplexes?</h3>
+<p>By offering what multiplexes rarely do: a curated programme, special events, introductions and discussions, a welcoming atmosphere and a good bar or café. Market those differences clearly rather than competing on new releases alone.</p>
+<h3>Is email marketing worth it for a cinema?</h3>
+<p>Yes. For many independents it is the most effective channel for repeat bookings, because regulars want to know about new listings and events early. Make sure marketing consent is collected clearly under UK GDPR and PECR.</p>
+<h3>Should each film have its own page?</h3>
+<p>Yes. Individual film pages help search engines understand your programme, give you somewhere to add your own description and accessibility details, and let people book straight from search results or social posts.</p>
+<h3>Can we use trailers and film images in our marketing?</h3>
+<p>Usually, within the terms set by distributors and rights holders. Check what promotional materials you are allowed to use and how, and follow current guidance from your distributors.</p>
+<h3>How do we promote private hire at a cinema?</h3>
+<p>Create a dedicated private hire page with capacity, screen details, catering and an enquiry form. Then promote it through email, Google Business Profile, paid search for terms like "private cinema hire" and outreach to local businesses and schools.</p>
+`,
+  },
+  {
+    slug: 'loft-conversion-company-marketing-uk',
+    seoTitle: 'Loft Conversion Company Marketing UK: Win Better Leads',
+    title: 'Loft Conversion Company Marketing in the UK: How to Win Better Leads',
+    description: 'Loft conversion marketing in the UK works when project galleries, clear process pages and local search help homeowners trust you with a big build decision.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Loft conversion company marketing in the UK is about earning trust over a long decision, because homeowners often research for weeks or months before inviting anyone round. The firms that win the better projects usually show plenty of finished work, explain their process clearly, appear in local search for each type of conversion and respond to enquiries quickly and professionally.</p>
+<p>This guide is for specialist loft conversion companies, builders who offer lofts alongside extensions, and design-and-build firms that want a steadier flow of qualified enquiries. We cover how homeowners research, what your website needs, how to use local SEO and paid ads, and how to turn interest into booked surveys.</p>
+
+<h2>How homeowners research a loft conversion</h2>
+<p>A loft conversion is one of the bigger investments most households make in their home. The research usually starts broad, with searches like "loft conversion ideas", "dormer vs hip to gable" or "do I need planning permission for a loft conversion". It then narrows to local firms: "loft conversion company [town]" or "loft conversion builders near me". Along the way, people browse photos, read reviews, ask friends and neighbours who have had work done, and look closely at company websites.</p>
+<p>That journey creates two marketing jobs. You need helpful content that meets people early, while they are still deciding what kind of conversion they want. And you need strong local visibility and a convincing website for when they are ready to shortlist firms. Our guide to <a href="/blog/construction-company-website-design-uk/">construction company website design</a> covers the wider principles for building firms; this post focuses on lofts.</p>
+
+<h2>Loft conversion company marketing UK: where to focus</h2>
+<p>The table below shows the channels that tend to matter most for a loft specialist, and what each one is good for.</p>
+<table>
+<thead><tr><th>Channel</th><th>Role in the journey</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>Website with project galleries</td><td>Shows the quality of finished work and builds trust</td><td>Too few photos, no captions, no explanation of the project</td></tr>
+<tr><td>Local SEO</td><td>Captures "loft conversion [town]" and type-specific searches</td><td>One general page instead of pages for each conversion type</td></tr>
+<tr><td>Google Business Profile</td><td>Map visibility, reviews and photos</td><td>Not asking customers for reviews at handover</td></tr>
+<tr><td>Google Ads</td><td>Visibility for high-intent local searches</td><td>Broad targeting that pulls in DIY and loft boarding searches</td></tr>
+<tr><td>Meta ads and retargeting</td><td>Keeps your work in front of people during long research</td><td>Running ads with no clear next step, such as a survey booking</td></tr>
+<tr><td>Referrals and site signage</td><td>Neighbours see the scaffold and ask about the work</td><td>No website address or QR code on boards</td></tr>
+</tbody>
+</table>
+
+<h2>Build pages for each type of conversion</h2>
+<p>Homeowners often search for a specific type of loft conversion, and each has different implications for space, cost and planning. A page for each type helps you rank for those searches and shows you understand the differences. Typical pages include:</p>
+<ul>
+<li><strong>Dormer loft conversions</strong>, the most common type, explained with photos inside and out.</li>
+<li><strong>Hip-to-gable conversions</strong>, often relevant for semi-detached and detached houses.</li>
+<li><strong>Mansard conversions</strong>, common on terraced properties in some towns and cities.</li>
+<li><strong>Rooflight or Velux-style conversions</strong>, for lofts with enough head height already.</li>
+<li><strong>Loft conversions with en suites</strong>, a frequent request worth a page of its own.</li>
+</ul>
+<p>Each page should explain what the conversion involves, what kind of property it suits, how long the build typically takes in your experience, and what affects the price. Use your own project photos wherever you can, with captions describing the property type and what was achieved. If you have plenty of finished work, a project gallery filtered by type is very persuasive.</p>
+
+<h3>Explain your process from survey to handover</h3>
+<p>A clear process page reduces anxiety and filters out people who are not ready. Walk through each stage: the initial visit, design and drawings, planning or permitted development checks, building regulations, party wall matters where relevant, the build itself, inspections and sign-off. Explain what the homeowner needs to do at each stage and how you keep them informed.</p>
+<p>Keep any regulatory explanation general. Planning rules, permitted development rights, building regulations and party wall requirements can vary by property and change over time, so tell readers to check current official guidance and their local authority, and explain that you will advise on their specific project during the survey.</p>
+
+<h2>Show your work properly</h2>
+<p>Photos are the most persuasive marketing tool a loft company has. Plan for them during every project. Capture the empty loft before work starts, key stages of the build, and the finished rooms once furnished if the homeowner agrees. Wide shots that show the space, close-ups that show the finish, and exterior shots of the dormer or gable all help.</p>
+<p>Written case studies add depth. A short page per project covering the brief, the challenges, the solution and the result gives homeowners something to compare with their own house. Only publish customer names, addresses or quotes with clear permission, and never invent testimonials. Our guide to <a href="/blog/website-testimonials-page/">building a testimonials page</a> explains how to present genuine feedback well.</p>
+
+<h2>Trust signals for a high-value build</h2>
+<p>Homeowners are wary of builders, and loft conversions involve structural work, so trust signals matter. Make these easy to find:</p>
+<ul>
+<li>Insurance cover and any insurance-backed guarantee or warranty you genuinely offer.</li>
+<li>Memberships of trade bodies or schemes you actually belong to.</li>
+<li>How you handle structural engineering, building control and sign-off.</li>
+<li>Your payment structure in general terms, so people know you do not ask for everything upfront.</li>
+<li>Clear contact details, a physical address where appropriate and real team photos.</li>
+</ul>
+<p>Our post on <a href="/blog/website-trust-signals/">website trust signals</a> covers where to place these so they help rather than clutter.</p>
+
+<h2>Local SEO for loft conversion companies</h2>
+<p>Most firms work within a defined area, so local SEO is central. Set up and maintain your Google Business Profile, collect reviews at handover, and make sure your name, address and phone number are consistent across directories. Create location pages only for towns where you genuinely work, and make each one useful, with local project photos and notes on common property types in that area.</p>
+<p>Helpful content also earns visibility early in the journey. Articles answering questions like how to tell if your loft is suitable, what affects head height, or how a loft conversion fits around family life can bring in people months before they are ready, and give them a reason to remember you. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the essentials, and our <a href="/services/seo-geo/">SEO and GEO service</a> can take this on for you.</p>
+
+<h2>Paid ads for loft conversions</h2>
+<p>Because each project is valuable, paid search can work well, but it needs careful control. Target only the postcodes and towns you serve, using the approach in our <a href="/blog/google-ads-location-targeting-guide/">Google Ads location targeting guide</a>. Focus on searches that show buying intent, such as "loft conversion company" plus a town, and exclude terms like "loft boarding", "loft ladder", "insulation" and "DIY" that bring in the wrong audience.</p>
+<p>Meta ads are better suited to keeping your work visible during the long research period. Show finished lofts to homeowners in your area and retarget people who have visited your website. Our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a> explains how to get started without wasting budget.</p>
+
+<h2>Turn enquiries into surveys</h2>
+<p>Marketing only works if enquiries are handled well. Respond quickly, ideally the same day, and have a clear next step: a free or paid home survey, a phone consultation or a design visit. Use a short enquiry form that captures postcode, property type, the type of conversion they are considering and their rough timescale. This helps you prioritise and prepare.</p>
+<p>Keep track of every lead and follow up politely if someone goes quiet. Many homeowners collect several quotes and take time to decide, so a helpful follow-up with a relevant case study can make the difference. Make sure your website measures form submissions and calls so you know which channels produce real projects.</p>
+
+<h2>What should a loft conversion website cost?</h2>
+<p>A professional brochure website with service pages, project galleries and enquiry forms typically falls in our small website range of £1,000 to £2,000 and usually takes three to five weeks. Larger sites with many case studies or location pages may sit at the upper end or need a quote. Ongoing SEO and paid media support is available through monthly retainers, with ad spend paid separately. You can compare options on our <a href="/pricing/">pricing page</a> or read about our <a href="/services/website-ecommerce-development/">website development service</a>. SEO and paid results typically build over three to six months.</p>
+<p>If you also work with architects or designers on projects, our post on <a href="/blog/architect-marketing-uk/">architect marketing</a> may help you understand how they find and choose partners.</p>
+
+<h2>FAQs</h2>
+<h3>What works best for loft conversion company marketing in the UK?</h3>
+<p>A website full of genuine project photos, separate pages for each conversion type, a strong Google Business Profile with reviews, and fast, professional follow-up on enquiries. Paid ads can add volume once those foundations are in place.</p>
+<h3>Should loft conversion companies publish prices?</h3>
+<p>Fixed prices are difficult because every loft is different, but explaining what affects the cost, such as conversion type, structural work, staircase position and finish, helps homeowners prepare. Some firms show typical ranges for common project types.</p>
+<h3>How many photos should I show of each project?</h3>
+<p>Enough to tell the story: before, during and after, with wide and detailed shots inside and out. A handful of strong, captioned images per project is usually more persuasive than dozens of similar ones.</p>
+<h3>Do I need a page for each type of loft conversion?</h3>
+<p>It is usually worthwhile. People search for dormer, hip-to-gable and mansard conversions specifically, and a focused page for each helps you rank for those searches and answer the questions that matter for that type.</p>
+<h3>Should my website explain planning permission and building regulations?</h3>
+<p>A general explanation is helpful, but keep it high level and tell readers to check current official guidance and their local authority. Explain that you will advise on the specific requirements for their property during the survey.</p>
+<h3>How long does it take for marketing to bring in loft enquiries?</h3>
+<p>Google Ads can generate enquiries within weeks if set up well. SEO and content typically take three to six months to build momentum, so it is best to start well ahead of the times of year when you want a fuller order book.</p>
+`,
+  },
+  {
+    slug: 'search-console-pages-not-indexed',
+    seoTitle: 'Why Pages Are Not Indexed in Google Search Console',
+    title: 'Pages Not Indexed in Google Search Console: What It Means and How to Fix It',
+    description: 'Why pages are not indexed in Google Search Console, what each common reason means, which ones to ignore and how to fix the pages that really matter.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/blog/google-search-console-setup-uk/', '/pricing/'],
+    body: `
+<p>Pages are not indexed in Google Search Console for a reason shown in the page indexing report, such as a redirect, a noindex tag, a duplicate that Google has chosen not to index, a page blocked by robots.txt, or a page Google crawled but decided was not worth indexing yet. Many of these are normal. The job is to find the important pages in the list, work out the cause and fix it.</p>
+<p>This guide is for UK small business owners who have opened Search Console and found a worrying number of pages listed as not indexed. It explains what the common reasons mean, which ones you can safely ignore and how to fix the rest. Google changes report names and wording from time to time, so check Google's current Search Console help pages for the latest definitions.</p>
+
+<h2>First, do not panic about the number</h2>
+<p>Almost every website has more URLs that are not indexed than are indexed. That is normal. Search engines discover lots of addresses that should not appear in search results: redirected old pages, filtered product views, tag archives, login pages, URLs with tracking parameters and so on. A high count is only a problem if pages you want people to find are among them.</p>
+<p>So start with a simple question: which pages on this site should appear in Google? For most small businesses that means the home page, service or product pages, category pages, location pages, key blog posts and contact or about pages. If those are indexed, the rest of the report is largely housekeeping. If you have not yet set up Search Console, our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> walks through it.</p>
+
+<h2>Where to find the page indexing report</h2>
+<p>In Search Console, open the indexing section and select the pages report. You will see a chart of indexed and not indexed pages, and a table of reasons below it. Click a reason to see example URLs. You can also filter the report to show only URLs in a submitted sitemap, which is a quick way to focus on pages you have told Google matter. Our <a href="/blog/xml-sitemap-guide/">XML sitemap guide</a> explains how to keep that sitemap clean.</p>
+
+<h2>Why pages are not indexed: common reasons explained</h2>
+<table>
+<thead><tr><th>Reason</th><th>What it usually means</th><th>Action</th></tr></thead>
+<tbody>
+<tr><td>Page with redirect</td><td>The URL redirects elsewhere</td><td>Usually fine. Make sure internal links point to the final URL</td></tr>
+<tr><td>Not found (404)</td><td>The page no longer exists</td><td>Fine if intended. Redirect if a useful replacement exists</td></tr>
+<tr><td>Excluded by noindex tag</td><td>The page asks not to be indexed</td><td>Fine for private pages. Remove the tag if the page should rank</td></tr>
+<tr><td>Blocked by robots.txt</td><td>Google is told not to crawl the URL</td><td>Check the rule is intentional</td></tr>
+<tr><td>Alternate page with proper canonical tag</td><td>A duplicate that correctly points to the main version</td><td>Usually fine</td></tr>
+<tr><td>Duplicate, Google chose different canonical</td><td>Google thinks another URL is the main version</td><td>Check which version you want indexed and make signals consistent</td></tr>
+<tr><td>Crawled, currently not indexed</td><td>Google saw the page and chose not to index it for now</td><td>Improve the page and its internal links</td></tr>
+<tr><td>Discovered, currently not indexed</td><td>Google knows the URL but has not crawled it yet</td><td>Improve internal links and site quality, then be patient</td></tr>
+<tr><td>Soft 404</td><td>The page looks empty or like an error page</td><td>Add real content or return a proper 404</td></tr>
+<tr><td>Server error (5xx)</td><td>The server failed when Google tried to load the page</td><td>Speak to your host or developer</td></tr>
+</tbody>
+</table>
+
+<h2>Fixing the reasons that matter most</h2>
+<h3>Noindex on pages that should rank</h3>
+<p>This often happens after a site launch, when a setting used to hide the staging site is left switched on. On WordPress, check the reading settings for the option that discourages search engines. Also check SEO plugin settings for individual pages, posts and content types. Remove the noindex, then inspect the URL and request indexing.</p>
+<h3>Blocked by robots.txt</h3>
+<p>Robots.txt controls crawling, not indexing, but blocking important sections stops Google reading them. Review the rules and remove anything that blocks pages you want found. Our <a href="/blog/robots-txt-guide-uk/">robots.txt guide</a> covers safe set-ups.</p>
+<h3>Crawled or discovered, but not indexed</h3>
+<p>These two are the most common worry for small sites. They usually mean Google does not yet see the page as valuable enough, or has not prioritised crawling it. Helpful fixes include:</p>
+<ul>
+<li>Make the page genuinely useful, with original information that answers a real question, rather than a thin page that repeats others on your site.</li>
+<li>Link to it from relevant, well-visited pages. Our <a href="/blog/internal-linking-guide-small-business/">internal linking guide</a> shows how.</li>
+<li>Merge or remove near-duplicate pages, such as several location pages with only the town name changed.</li>
+<li>Make sure the page is in your XML sitemap and returns a normal 200 status.</li>
+</ul>
+<p>A <a href="/blog/website-content-audit/">website content audit</a> is a good way to find weak and overlapping pages across the whole site.</p>
+<h3>Duplicates and canonical choices</h3>
+<p>If Google picks a different canonical from the one you prefer, look for mixed signals. Internal links, sitemaps, canonical tags and redirects should all point to the same version, including consistent use of https, www or non-www, and trailing slashes. Ecommerce sites often see this with product URLs that appear under several collections or filters.</p>
+<h3>404s and redirects after a redesign</h3>
+<p>A spike in not found pages after a relaunch usually means old URLs were not redirected. Map old addresses to the closest new page with permanent redirects. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects when relaunching</a> explains the process, and a helpful <a href="/blog/404-page-design/">404 page</a> catches anything that slips through.</p>
+
+<h2>How to check a fix and request indexing</h2>
+<ol>
+<li>Paste the URL into the URL Inspection tool at the top of Search Console.</li>
+<li>Run a live test to see how Google fetches the page now.</li>
+<li>If the live test shows the page can be indexed, request indexing.</li>
+<li>For groups of URLs with the same issue, use the validate fix option on that reason in the report.</li>
+<li>Wait. Recrawling and reprocessing can take days or weeks, and requesting indexing does not guarantee it.</li>
+</ol>
+<p>Request indexing for your most important pages only. Submitting the same URL repeatedly does not speed things up.</p>
+
+<h2>Mistakes that make indexing worse</h2>
+<ul>
+<li><strong>Publishing many thin pages at once.</strong> Dozens of near-empty location or tag pages can make Google slower to index the pages that matter.</li>
+<li><strong>Blocking a page in robots.txt and adding noindex.</strong> If Google cannot crawl the page, it cannot see the noindex tag. Pick one approach.</li>
+<li><strong>Leaving old URLs in the sitemap.</strong> Redirected and deleted pages in the sitemap send mixed signals.</li>
+<li><strong>Orphan pages.</strong> Pages with no internal links pointing to them are hard for search engines to find and judge.</li>
+<li><strong>Chasing every URL.</strong> Time spent forcing low-value pages into the index is better spent improving the pages that bring enquiries.</li>
+</ul>
+
+<h2>A simple monthly routine</h2>
+<ul>
+<li>Check the indexed pages trend for sudden drops.</li>
+<li>Filter to sitemap URLs and review any key pages that are not indexed.</li>
+<li>Look at server errors and soft 404s first, as they often signal technical faults.</li>
+<li>Note new reasons appearing after site changes, plugin updates or theme updates.</li>
+</ul>
+<p>For a deeper review, our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers crawling, indexing, speed and structure together.</p>
+
+<h2>When to get help</h2>
+<p>If important pages stay unindexed after you have improved content and links, or the report shows widespread server errors, duplicate problems or a big drop after a migration, it is worth a closer look. Our <a href="/services/seo-geo/">SEO and GEO service</a> includes technical checks and fixes, and our <a href="/pricing/">pricing page</a> explains how our retainers work. SEO results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>Why are pages not indexed in Google Search Console?</h3>
+<p>Each URL has a reason listed in the page indexing report, such as a redirect, noindex tag, robots.txt block, duplicate, error or Google choosing not to index it yet. Many reasons are normal. Focus on important pages and fix the specific cause shown.</p>
+<h3>Is it bad to have lots of pages not indexed?</h3>
+<p>Not necessarily. Most sites have many URLs that should not be indexed, such as redirects and filtered views. It only matters if pages you want to rank appear in the list.</p>
+<h3>What does crawled, currently not indexed mean?</h3>
+<p>Google has visited the page but decided not to index it for now. Improving the content, removing duplication and adding internal links from relevant pages usually helps.</p>
+<h3>How long does it take for a page to be indexed?</h3>
+<p>It varies from a few days to several weeks, depending on the site and the page. Requesting indexing can help Google notice a change, but it does not guarantee inclusion.</p>
+<h3>Should I request indexing for every page?</h3>
+<p>No. Use it for new or significantly updated key pages. For the rest, a clean sitemap and good internal links help Google find and prioritise them.</p>
+<h3>Can a website redesign cause pages not to be indexed?</h3>
+<p>Yes. Leftover noindex settings, missing redirects, changed URLs and blocked sections are common after relaunches. Check the report closely in the weeks after any redesign.</p>
+`,
+  },
+  {
+    slug: 'selling-on-amazon-vs-own-website-uk',
+    seoTitle: 'Selling on Amazon vs Your Own Website: UK Guide',
+    title: 'Selling on Amazon vs Your Own Website: Which Is Right for a UK Brand?',
+    description: 'Amazon gives instant access to shoppers but takes fees and control; your own website builds a brand and customer data. Compare both before you choose.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Selling on Amazon gives you immediate access to a huge number of shoppers who are already in a buying mood, while selling on your own website gives you control over your brand, prices and customer relationships. Amazon is usually faster to start and harder to own; your own site is slower to grow and easier to build long-term value in.</p>
+<p>For most UK product businesses the question is less "which one?" and more "which first, and in what balance?". This guide compares selling on Amazon vs your own website on traffic, cost, control, data and risk, so you can make a decision that fits your products and margins. Marketplace fees, rules and seller programmes change, so always check Amazon's current seller information before committing.</p>
+
+<h2>Selling on Amazon vs your own website at a glance</h2>
+<table>
+<thead><tr><th>Factor</th><th>Amazon</th><th>Your own website</th></tr></thead>
+<tbody>
+<tr><td>Traffic</td><td>Built-in shoppers searching on the marketplace</td><td>You must attract visitors through SEO, ads, email and social</td></tr>
+<tr><td>Costs</td><td>Selling fees, referral fees, optional fulfilment and advertising fees</td><td>Build cost, platform subscription, payment fees and marketing</td></tr>
+<tr><td>Branding</td><td>Limited, within Amazon's templates</td><td>Full control over design, story and experience</td></tr>
+<tr><td>Customer data</td><td>Very limited; the customer belongs mostly to Amazon</td><td>You own the customer list, subject to UK GDPR</td></tr>
+<tr><td>Pricing</td><td>Direct comparison with competing sellers</td><td>Easier to sell on value, bundles and service</td></tr>
+<tr><td>Repeat sales</td><td>Hard to market to buyers directly</td><td>Email, loyalty and remarketing are all open to you</td></tr>
+<tr><td>Rules and risk</td><td>Subject to marketplace policies and account health</td><td>Subject to your platform terms and the law</td></tr>
+</tbody>
+</table>
+
+<h2>The case for selling on Amazon</h2>
+<p>The biggest advantage is demand. Many shoppers start product searches on Amazon rather than Google, so a well-optimised listing can be seen by people ready to buy without you building traffic from nothing. Trust is also built in: buyers know how delivery, returns and payment work, which helps a new or unknown brand.</p>
+<p>Fulfilment programmes can take care of storage, packing and delivery, which suits sellers without warehouse space, though they come with their own fees and requirements. Amazon is also a useful testing ground: you can see whether a product sells before investing heavily in your own store.</p>
+<p>Visibility on Amazon depends on listing quality, reviews, price, availability and advertising. Our guide to <a href="/blog/amazon-seo-agency-uk/">Amazon SEO</a> covers how titles, bullet points, backend keywords and A+ content affect where products appear. Similar ideas apply on eBay, covered in our <a href="/blog/ebay-seo-uk/">eBay SEO guide</a>.</p>
+
+<h2>The downsides of relying on Amazon</h2>
+<ul>
+<li><strong>Fees add up.</strong> Referral fees, fulfilment fees, storage charges and advertising can take a large share of each sale. Work out your margin per unit with current fees before listing.</li>
+<li><strong>Price competition.</strong> Shoppers can compare similar products side by side, which pushes prices down.</li>
+<li><strong>Little customer relationship.</strong> You cannot freely market to Amazon buyers, so repeat business is harder to build.</li>
+<li><strong>Platform dependence.</strong> Policy changes, listing suppressions or account issues can cut off sales quickly.</li>
+<li><strong>Limited brand expression.</strong> Your product sits in a standard layout next to competitors, so building a distinctive brand is harder.</li>
+</ul>
+
+<h2>The case for your own website</h2>
+<p>Your own online shop is the one sales channel you control. You set the design, the product story, the prices, the bundles and the checkout experience. You collect customer details (with proper consent) and can build email flows, loyalty offers and remarketing audiences. Over time, repeat customers and organic traffic can make each sale cheaper to win.</p>
+<p>A website also supports everything else you do. Press coverage, social posts, influencer mentions and Google Shopping ads all need somewhere to send people, and a branded site turns that attention into customers you can keep in touch with. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> shows how owning the customer relationship turns into repeat sales.</p>
+
+<h2>The downsides of your own website</h2>
+<ul>
+<li><strong>You need to bring the traffic.</strong> A new shop has no visitors until you build SEO, run ads or grow an audience.</li>
+<li><strong>Upfront investment.</strong> Building a good store takes time and money, plus ongoing platform and app costs.</li>
+<li><strong>Trust takes work.</strong> Clear delivery and returns pages, reviews and secure payment options matter more when shoppers do not know you.</li>
+<li><strong>Operations are yours.</strong> Unless you use a fulfilment partner, you handle stock, packing, delivery and returns.</li>
+</ul>
+<p>For a realistic picture of build costs, see our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs in the UK</a>. Our own e-commerce builds typically cost £1,500-£3,500 and take 5-12 weeks, depending on scope.</p>
+
+<h2>Comparing the real cost per sale</h2>
+<p>The fairest comparison is cost per sale after all fees and marketing, not headline fees alone.</p>
+<table>
+<thead><tr><th>Cost element</th><th>Amazon</th><th>Own website</th></tr></thead>
+<tbody>
+<tr><td>Platform</td><td>Seller account plan</td><td>Ecommerce platform subscription and apps</td></tr>
+<tr><td>Per sale</td><td>Referral fee, plus fulfilment fees if used</td><td>Payment processing fees</td></tr>
+<tr><td>Marketing</td><td>Sponsored product ads, if used</td><td>SEO, Google Shopping, social ads, email</td></tr>
+<tr><td>Repeat customers</td><td>Usually cost the same to win again</td><td>Often cheaper to win again through email</td></tr>
+</tbody>
+</table>
+<p>A spreadsheet with your own numbers per product is worth more than any general rule. Some products are profitable on Amazon and not on your site, and the reverse is equally common.</p>
+
+<h2>Using both: a common approach for UK brands</h2>
+<p>Many brands run both channels with different jobs. Amazon brings discovery and volume, especially for products people already search for there. The website is the home of the brand, with the full range, bundles, gift options and a direct relationship with loyal customers. Some brands keep certain products or bundles exclusive to their own site to give customers a reason to buy direct.</p>
+<p>If you run both, keep stock in sync to avoid overselling, keep product information consistent, and check marketplace rules about pricing and how you contact buyers. Platforms such as Shopify offer sales channel integrations; our guide to <a href="/blog/shopify-sales-channels-overview/">Shopify sales channels</a> explains how they work.</p>
+
+<h2>Legal and practical points for UK sellers</h2>
+<p>Whichever channel you use, some responsibilities stay with you. Products must meet UK safety and labelling rules for their category, and VAT registration depends on your turnover and circumstances, so check current HMRC guidance or speak to an accountant. Marketplaces may collect and account for VAT on certain sales, which affects your pricing, so read their current tax information carefully.</p>
+<p>On your own website you also need clear terms, a privacy policy, delivery information and a returns process that reflects UK consumer law, including cancellation rights for most online purchases. Our guide to <a href="/blog/ecommerce-delivery-and-returns-pages/">delivery and returns pages</a> explains what shoppers expect to see. On Amazon, much of this is handled through the marketplace, but you must still meet its standards for dispatch times, cancellations and customer service to keep your account in good health.</p>
+
+<h2>How to decide which to start with</h2>
+<ol>
+<li><strong>Check where your product is searched.</strong> Look at whether shoppers search for products like yours on Amazon, Google or both.</li>
+<li><strong>Calculate margin per channel.</strong> Include every fee, delivery cost and likely advertising spend.</li>
+<li><strong>Consider your brand.</strong> If your story, design and customer experience are your edge, your own site matters more.</li>
+<li><strong>Think about repeat purchases.</strong> Consumables and subscriptions reward owning the customer relationship.</li>
+<li><strong>Plan for both over time.</strong> Even if you start on one, decide how the other will fit in later.</li>
+</ol>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We build online shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and we also offer marketplace listing SEO for Amazon, eBay and similar marketplaces. That means we can help you plan both channels together rather than pulling you towards one. You can read more about our work with online retailers on our <a href="/sectors/ecommerce/">ecommerce sector page</a> and see our plans on the <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Selling on Amazon vs your own website: which is better?</h3>
+<p>Amazon is usually better for fast access to ready-to-buy shoppers, while your own website is better for brand control, customer data and repeat sales. Many UK brands use both, with each channel doing a different job.</p>
+<h3>Is it cheaper to sell on Amazon or my own website?</h3>
+<p>It depends on your products and margins. Amazon has per-sale fees but brings traffic; your own site has lower per-sale fees but you pay to attract visitors. Compare total cost per sale for each channel.</p>
+<h3>Can I sell the same products on Amazon and my own website?</h3>
+<p>Yes, many brands do. Keep stock levels in sync, keep product details consistent and check current marketplace policies on pricing and customer contact.</p>
+<h3>Should a new product brand start on Amazon?</h3>
+<p>Amazon can be a useful way to test demand and gain early sales, but build your own site alongside it so you are not wholly dependent on one marketplace and can start building direct customer relationships.</p>
+<h3>Do I own my customers when I sell on Amazon?</h3>
+<p>Not in the way you do on your own site. Amazon limits how sellers can contact buyers and use their details, so building a direct marketing list from marketplace sales is restricted.</p>
+<h3>How long does it take to build an ecommerce website?</h3>
+<p>Our e-commerce builds typically take 5-12 weeks depending on the number of products, integrations and design work involved, with time needed afterwards to build traffic.</p>
+`,
+  },
+  {
+    slug: 'seo-vs-ppc-uk',
+    seoTitle: 'SEO vs PPC: Which Is Better for a UK Business?',
+    title: 'SEO vs PPC: Which Should a UK Business Invest In First?',
+    description: 'SEO builds traffic you do not pay per click for; PPC buys visibility now. Compare cost, speed and risk to decide which suits your UK business first.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>SEO and PPC both put your business in front of people searching on Google, but they work in very different ways. PPC (pay-per-click advertising such as Google Ads) buys visibility straight away and stops when you stop paying, while SEO (search engine optimisation) builds organic rankings slowly that keep bringing visitors without a charge for each click.</p>
+<p>Neither is better in every situation. The right answer depends on how quickly you need enquiries, what each customer is worth to you, how much competition you face and how long you plan to stay in the market. This guide compares the two side by side so you can decide where to put your first pound, and when it makes sense to run both.</p>
+
+<h2>SEO vs PPC: the short answer</h2>
+<p>If you need leads this month, have a clear offer and can measure enquiries, PPC is usually the faster route. If you can wait several months and want a source of traffic that does not rise in cost with every visitor, SEO is the stronger long-term investment. Many UK businesses start with a modest PPC budget to win early enquiries and learn which searches convert, while putting SEO foundations in place at the same time.</p>
+<table>
+<thead><tr><th>Factor</th><th>SEO</th><th>PPC</th></tr></thead>
+<tbody>
+<tr><td>Speed to first results</td><td>Typically 3-6 months for meaningful movement</td><td>Ads can show within days of launch</td></tr>
+<tr><td>Cost model</td><td>Time, content and expertise; no fee per click</td><td>Management time plus ad spend for every click</td></tr>
+<tr><td>When you stop</td><td>Rankings fade gradually</td><td>Traffic stops almost immediately</td></tr>
+<tr><td>Control</td><td>Limited; Google decides rankings</td><td>High; you choose keywords, budget, locations and timing</td></tr>
+<tr><td>Testing</td><td>Slow to test new offers</td><td>Quick to test messages and landing pages</td></tr>
+<tr><td>Trust with searchers</td><td>Many people favour organic results</td><td>Clearly labelled as sponsored</td></tr>
+<tr><td>AI answers and overviews</td><td>Strong content can be cited in AI search features</td><td>Ad placements depend on the platform</td></tr>
+</tbody>
+</table>
+
+<h2>How SEO works and what it costs</h2>
+<p>SEO is the work of making your website the best answer for the searches your customers make. That covers technical health (can search engines crawl and understand the site?), relevance (does each page match a real query?) and authority (do other sites and sources trust you?). For local businesses it also includes your Google Business Profile, reviews and local citations.</p>
+<p>The main costs are time and expertise. You either do the work yourself, hire a freelancer or use an agency. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> breaks down typical fee models. The upside is that once a page ranks, each extra visitor costs nothing directly. The downside is that results are slower, less predictable and depend on factors you do not control, such as algorithm updates and what competitors do.</p>
+<p>SEO also feeds newer search features. Well-structured, accurate content is more likely to be quoted in AI-generated summaries, which we cover in our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a>.</p>
+
+<h2>How PPC works and what it costs</h2>
+<p>With PPC you bid to appear for chosen keywords and pay when someone clicks your ad. Google Ads is the largest platform in the UK, and Microsoft Ads covers Bing and partner sites. You set daily budgets, choose locations, schedule ads for the hours that suit you and send people to a specific landing page.</p>
+<p>There are two costs: the ad spend paid to the platform, and the time or fee for managing the account. Click prices vary widely by industry, location and competition, so check current figures in your own account rather than relying on averages. Our guides to <a href="/blog/google-ads-cost-uk/">Google Ads costs in the UK</a> and <a href="/blog/ppc-management-cost-uk/">PPC management fees</a> explain how to budget for both.</p>
+<p>PPC is only as good as the page it sends people to and the tracking behind it. Without <a href="/blog/google-ads-conversion-tracking-setup/">conversion tracking</a> you cannot tell which keywords bring enquiries and which simply spend money.</p>
+
+<h2>When PPC is the better first move</h2>
+<ul>
+<li><strong>You need enquiries quickly.</strong> A new business, a new location or a seasonal push cannot always wait months for rankings.</li>
+<li><strong>Your offer is time-limited.</strong> Events, sales and launches suit ads you can switch on and off.</li>
+<li><strong>Your website is new.</strong> New domains often take time to earn organic visibility, so ads bridge the gap.</li>
+<li><strong>You want to test demand.</strong> PPC shows which searches and messages lead to calls or sales before you invest in content around them.</li>
+<li><strong>Your margins can absorb click costs.</strong> High-value services and products can often pay for competitive clicks; low-margin items may struggle.</li>
+</ul>
+
+<h2>When SEO is the better first move</h2>
+<ul>
+<li><strong>Clicks in your market are expensive.</strong> If paying for every click makes each lead unprofitable, organic traffic becomes more valuable.</li>
+<li><strong>Your customers research before buying.</strong> Longer buying journeys suit helpful guides, comparison pages and FAQs that rank over time.</li>
+<li><strong>You serve a local area.</strong> Map results and local organic listings are often within reach for a well-optimised small business; see our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</li>
+<li><strong>You plan to be around for years.</strong> Rankings are an asset that keeps working, while ad traffic ends the day the budget does.</li>
+<li><strong>Your budget is tight but you have time.</strong> Much early SEO work, such as fixing page titles and writing better service pages, needs effort more than money.</li>
+</ul>
+
+<h2>Comparing the cost per lead over time</h2>
+<p>A fair comparison looks at cost per enquiry or sale across a year, not just the first month. PPC tends to have a fairly steady cost per lead: if clicks cost the same and your conversion rate holds, each lead costs roughly the same in month twelve as in month one. SEO usually looks expensive at the start, because you pay for work before rankings arrive, then the cost per lead falls as organic traffic grows.</p>
+<table>
+<thead><tr><th>Stage</th><th>SEO cost per lead</th><th>PPC cost per lead</th></tr></thead>
+<tbody>
+<tr><td>First three months</td><td>Often high, as work comes before results</td><td>Measurable from early on, improves as the account is refined</td></tr>
+<tr><td>Months four to twelve</td><td>Usually falling as pages start to rank</td><td>Fairly stable, tied to click prices and conversion rate</td></tr>
+<tr><td>After a year</td><td>Can be low if rankings hold</td><td>Rises if competitors bid more</td></tr>
+</tbody>
+</table>
+<p>These patterns are general. Your own figures depend on your market, the quality of the work and how well your website converts. Track both channels in GA4 with consistent goals so you can compare like with like.</p>
+
+<h2>Why most businesses use both</h2>
+<p>SEO and PPC support each other. PPC search term reports show which exact phrases lead to enquiries, which helps decide what content to create for SEO. SEO pages that rank well can let you reduce bids on the same terms. Ads can cover competitive head terms while organic pages target longer, more specific searches. And when a ranking drops after an update, ads can protect your lead flow while you fix the cause.</p>
+<p>Both channels also rely on the same landing pages. A clear, fast page with a strong call to action improves ad results and organic conversion together; our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers what to include.</p>
+
+<h2>A simple way to decide</h2>
+<ol>
+<li><strong>Work out what a customer is worth.</strong> Know your average order or job value and your margin.</li>
+<li><strong>Check search demand and competition.</strong> Look at who appears for your main searches today, in ads and organically.</li>
+<li><strong>Set your timeline.</strong> Decide whether you need leads in weeks or can build over months.</li>
+<li><strong>Fix measurement first.</strong> Set up GA4 and conversion tracking so either channel can be judged on real results.</li>
+<li><strong>Start small and review.</strong> Run a focused PPC test, begin SEO foundations, then shift budget towards whichever brings cheaper enquiries.</li>
+</ol>
+
+<h2>How Prism Works Studio can help</h2>
+<p>We offer both <a href="/services/seo-geo/">SEO and GEO services</a> and <a href="/services/paid-media/">paid media management</a>, so we can plan the two together instead of treating them as rivals. Our monthly plans are set out on our <a href="/pricing/">pricing page</a>, with ad spend paid separately to the platforms. SEO and paid results typically take 3-6 months to build properly, and we will be clear about which channel we think suits your goals and budget.</p>
+
+<h2>FAQs</h2>
+<h3>SEO vs PPC: which is better for a UK business?</h3>
+<p>Neither is better for everyone. PPC suits businesses that need enquiries quickly and can afford click costs, while SEO suits businesses that can wait for results and want lower long-term cost per lead. Many use both, with PPC for speed and SEO for lasting visibility.</p>
+<h3>Is SEO cheaper than PPC?</h3>
+<p>Over the long term SEO often costs less per lead because you do not pay for each click, but it needs upfront investment and takes longer to work. PPC has a clearer, more immediate cost that continues as long as you run ads.</p>
+<h3>How long does SEO take compared with PPC?</h3>
+<p>PPC ads can appear within days of launch once the account is approved. SEO usually takes 3-6 months to show meaningful movement, and competitive markets can take longer.</p>
+<h3>Does running Google Ads help my SEO rankings?</h3>
+<p>Google states that advertising does not directly influence organic rankings. However, ad data can show which searches convert, which helps you decide what content to create for SEO.</p>
+<h3>Should a small business start with SEO or PPC?</h3>
+<p>If you need enquiries soon, a small, well-tracked PPC campaign is often the quickest start. At the same time, fix basic SEO such as page titles, service pages and your Google Business Profile, as these cost time more than money.</p>
+<h3>Can I stop PPC once my SEO is working?</h3>
+<p>You can reduce PPC once organic rankings bring steady enquiries for the same searches, but many businesses keep some ads running for competitive terms, new offers or to protect lead flow if rankings change.</p>
+`,
+  },
+  {
+    slug: 'shopify-upsells-and-cross-sells',
+    seoTitle: 'Shopify Upsells and Cross-Sells: A Practical UK Guide',
+    title: 'Shopify Upsells and Cross-Sells: How to Raise Order Value Without Annoying Shoppers',
+    description: 'How to set up Shopify upsells and cross-sells: product recommendations, complementary products, basket offers, bundles and post-purchase offers for UK shops.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-conversion-rate-optimisation/', '/pricing/'],
+    body: `
+<p>Shopify upsells and cross-sells encourage shoppers to buy a better version of what they are looking at, or add something that goes with it. On Shopify you can do this with your theme's product recommendations, complementary products set up through Shopify's search and discovery tools, basket suggestions, bundles and, if you use them, apps that add offers after checkout. The best offers feel like helpful advice, not a sales pitch.</p>
+<p>This guide is for UK Shopify store owners who want to lift average order value without making the shopping experience worse. It explains the difference between upsells and cross-sells, where each works best, what Shopify offers natively, when an app is worth it and how to measure whether it is working. Features and app options change, so check Shopify's current help documentation for the latest details.</p>
+
+<h2>Upsells versus cross-sells</h2>
+<table>
+<thead><tr><th></th><th>Upsell</th><th>Cross-sell</th></tr></thead>
+<tbody>
+<tr><td>What it suggests</td><td>A higher-spec, larger or premium version of the same item</td><td>A different item that complements the one being bought</td></tr>
+<tr><td>Example</td><td>The 500ml bottle instead of the 250ml</td><td>A cleaning kit with a pair of leather boots</td></tr>
+<tr><td>Best placed</td><td>On the product page while the shopper is choosing</td><td>On the product page, in the basket or after purchase</td></tr>
+<tr><td>Main risk</td><td>Feeling pushy or confusing the choice</td><td>Showing irrelevant items that distract</td></tr>
+</tbody>
+</table>
+<p>Bundles sit between the two: a set of products sold together, often at a small saving. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains how to structure them.</p>
+
+<h2>How to set up Shopify upsells and cross-sells natively</h2>
+<p>Before installing anything, look at what your store already has. Most current Shopify themes include a product recommendations section, and Shopify's free search and discovery tools let you choose which products appear.</p>
+<ol>
+<li><strong>Check your theme.</strong> In the theme editor, open a product template and look for a related products or product recommendations section. Our guide to <a href="/blog/shopify-theme-sections-and-blocks/">Shopify theme sections and blocks</a> explains how to add and arrange them.</li>
+<li><strong>Set related products.</strong> Shopify can generate related product suggestions automatically from data such as purchase history and product descriptions. Check that what it shows is actually sensible for your catalogue.</li>
+<li><strong>Set complementary products.</strong> Using the search and discovery tools, you can pick specific complementary products for a given item, such as a case for a phone accessory. Your theme needs a block that displays them.</li>
+<li><strong>Use variants for size and spec upsells.</strong> If a bigger or premium version is simply a different option, a variant with a clear price difference is often the simplest upsell of all.</li>
+<li><strong>Review on mobile.</strong> Make sure recommendations do not push the add to basket button out of sight.</li>
+</ol>
+<p>For more control, metafields can store hand-picked pairings or "pairs well with" notes that your theme then displays. Our <a href="/blog/shopify-metafields-guide/">Shopify metafields guide</a> covers how they work.</p>
+
+<h2>Where to place offers</h2>
+<p><strong>Product pages:</strong> This is where shoppers are deciding, so it suits upsells and closely related cross-sells. Keep it to a few options, show prices clearly and make it easy to add an item without leaving the page. A "complete the look" row on fashion products, or a refill alongside a starter kit, works because it answers a real question.</p>
+<p><strong>Basket and cart drawer:</strong> Low-cost add-ons fit well here: batteries, care products, gift wrap or a small accessory. Shoppers have already made their main decision, so offers should be quick to add and not require choosing options. Some stores use a free delivery threshold message here too, which works best when the suggested items genuinely help reach it.</p>
+<p><strong>After checkout:</strong> Post-purchase offers appear after payment, often letting customers add an item with one click. These generally need an app and can work well because the purchase is already secure. They need careful testing to make sure they do not confuse customers or cause fulfilment problems.</p>
+<p><strong>Emails:</strong> Order confirmation and follow-up emails can suggest complementary products, as long as the main job of the email, confirming the order, comes first. Our guide to <a href="/blog/ecommerce-transactional-emails/">ecommerce transactional emails</a> covers what they must include.</p>
+
+<h2>What makes a good offer</h2>
+<ul>
+<li><strong>Relevance.</strong> The suggested product should make sense with the item, based on how customers actually use it.</li>
+<li><strong>Proportion.</strong> Cross-sells are usually cheaper than the main item. A £90 suggestion on a £15 product rarely lands.</li>
+<li><strong>Restraint.</strong> Two or three suggestions are usually enough. More choice can stall a decision.</li>
+<li><strong>Clarity.</strong> Show price, key detail and an image, and make adding it easy.</li>
+<li><strong>Honesty.</strong> If you show a saving on a bundle, it must be genuine. Check current official guidance on pricing and promotional claims, such as the CMA's and the CAP Code's.</li>
+</ul>
+<p>Discounts can help, but they are not required. Our guide to <a href="/blog/ecommerce-discount-code-strategy/">ecommerce discount code strategy</a> explains how to use discounts without training customers to wait for them.</p>
+
+<h2>Native features or an app?</h2>
+<p>Apps can add one-click post-purchase offers, bundle builders, frequently bought together widgets and more detailed rules. They also add monthly costs, extra scripts and another thing to maintain.</p>
+<table>
+<thead><tr><th>Need</th><th>Native first?</th><th>Consider an app when</th></tr></thead>
+<tbody>
+<tr><td>Related products on product pages</td><td>Yes</td><td>You need rules your theme cannot handle</td></tr>
+<tr><td>Hand-picked complementary products</td><td>Yes, via search and discovery</td><td>You have a very large catalogue to manage</td></tr>
+<tr><td>Basket add-ons</td><td>Often, depending on theme</td><td>Your theme's cart has no recommendation option</td></tr>
+<tr><td>Bundles</td><td>Sometimes</td><td>You need mix-and-match or tiered bundles</td></tr>
+<tr><td>Post-purchase offers</td><td>Rarely</td><td>You want one-click offers after payment</td></tr>
+</tbody>
+</table>
+<p>Every app you add can affect page speed. Check the impact before and after installing, and remove apps you do not use. Our guides to <a href="/blog/shopify-apps-audit/">auditing Shopify apps</a> and <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation</a> explain how.</p>
+
+<h2>Measuring whether it works</h2>
+<p>The obvious measure is average order value, but it should never be looked at alone. If average order value rises while conversion rate falls, you may be making fewer, bigger sales and losing money overall. Track:</p>
+<ul>
+<li>Average order value.</li>
+<li>Conversion rate.</li>
+<li>Revenue per visitor, which combines the two.</li>
+<li>How often recommended items are added, if your theme or app reports it.</li>
+<li>Return rates on cross-sold items, which can reveal poor matches.</li>
+</ul>
+<p>Make one change at a time and give it enough traffic and time to judge fairly. Seasonal swings can easily look like the effect of a new offer. Our guide to <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> explains how to test changes properly.</p>
+
+<h2>Choosing pairings for your catalogue</h2>
+<p>The strongest pairings usually come from your own order history. Export recent orders and look for products that are often bought together, then check them against what your customer service team hears: the questions people ask, the accessories they come back for and the items they return because something was missing. Write the best pairings down in a simple spreadsheet, review it each season and update it when ranges change, so recommendations stay as current as the catalogue itself.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li>Showing the same generic bestsellers on every product, regardless of relevance.</li>
+<li>Recommending out of stock items.</li>
+<li>Pop-ups that interrupt adding to basket.</li>
+<li>Too many apps doing similar jobs and slowing the store.</li>
+<li>Offers that do not work properly on mobile.</li>
+<li>Never reviewing pairings after the range changes.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Many stores can set up sensible recommendations themselves in an afternoon. It is worth getting help when you need custom pairings across a large catalogue, theme changes to show recommendations properly, or a review of which apps are earning their keep. We build and improve Shopify stores through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and our <a href="/pricing/">pricing page</a> shows typical costs.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up Shopify upsells and cross-sells?</h3>
+<p>Start with your theme's product recommendations section and Shopify's search and discovery tools, which let you set related and complementary products. Use variants for size or spec upgrades, add basket suggestions if your theme supports them, and consider an app only for features such as post-purchase offers.</p>
+<h3>What is the difference between an upsell and a cross-sell?</h3>
+<p>An upsell suggests a better or bigger version of the item a shopper is looking at. A cross-sell suggests a different item that goes with it. Both aim to make the order more useful to the customer and more valuable to you.</p>
+<h3>Do I need an app for Shopify upsells?</h3>
+<p>Not always. Many themes and Shopify's own tools handle related and complementary products. Apps are most useful for post-purchase offers, complex bundles or detailed rules, and should be weighed against their cost and speed impact.</p>
+<h3>Where should I put cross-sells on a Shopify store?</h3>
+<p>Product pages, the basket or cart drawer and post-purchase pages are the main places. Keep product page suggestions closely related, use the basket for low-cost add-ons and keep offers few and relevant.</p>
+<h3>Can upsells hurt conversion rates?</h3>
+<p>Yes, if they distract, slow the page or feel pushy. Track conversion rate and revenue per visitor alongside average order value, so you can see whether an offer is helping overall.</p>
+<h3>How many product recommendations should I show?</h3>
+<p>Usually a small number, often two to four, is enough. Too many choices can slow decisions and push key buttons down the page, especially on mobile.</p>
+`,
+  },
+  {
+    slug: 'tiktok-ads-vs-meta-ads-uk',
+    seoTitle: 'TikTok Ads vs Meta Ads: Which Is Right for You?',
+    title: 'TikTok Ads vs Meta Ads: Choosing a Social Ad Platform in the UK',
+    description: 'TikTok Ads suit native, entertaining short video; Meta Ads offer mature targeting across Facebook and Instagram. Compare audience, creative and cost.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>TikTok Ads and Meta Ads both put paid video and image ads in front of people as they scroll, but they suit different businesses. Meta Ads (Facebook and Instagram) is the more established option, with wide UK reach and mature targeting, while TikTok Ads rewards native, entertaining short videos and can help brands reach people in a fresher, more creator-led way.</p>
+<p>The right choice depends on who your customers are, what kind of content you can make and how ready your tracking is. This guide compares TikTok Ads vs Meta Ads on audience, creative, targeting, cost and measurement, with a practical way to decide where to test first. Both platforms update their tools, ad policies and audience data regularly, so check their current official help centres before launching.</p>
+
+<h2>TikTok Ads vs Meta Ads at a glance</h2>
+<table>
+<thead><tr><th>Factor</th><th>TikTok Ads</th><th>Meta Ads</th></tr></thead>
+<tbody>
+<tr><td>Where ads appear</td><td>The TikTok For You feed and related placements</td><td>Facebook, Instagram, Messenger and partner placements</td></tr>
+<tr><td>Main format</td><td>Full-screen vertical video with sound</td><td>Images, carousels, video, Stories and Reels</td></tr>
+<tr><td>Creative style that works</td><td>Native, lo-fi, creator-style, entertaining</td><td>Varies: polished product shots through to UGC-style video</td></tr>
+<tr><td>Targeting maturity</td><td>Growing; relies heavily on content signals</td><td>Long-established, with custom and lookalike audiences</td></tr>
+<tr><td>Creative demand</td><td>High: videos tire quickly</td><td>Moderate to high, depending on spend</td></tr>
+<tr><td>Typical fit</td><td>Consumer products with visual appeal, trends and personality</td><td>Most consumer businesses, many local services, some B2B</td></tr>
+</tbody>
+</table>
+
+<h2>Audience: where your customers actually are</h2>
+<p>Start with your customers, not the platform. Meta's apps cover a very wide range of ages and interests in the UK, which is why they remain the default for many local businesses and online shops. Facebook tends to skew older and Instagram somewhat younger, so the two together reach most adult groups.</p>
+<p>TikTok has grown well beyond its early teenage image, but it still leans younger and is especially strong for entertainment, fashion, beauty, food and hobby content. Its algorithm shows content based on what people watch rather than who they follow, which means a good ad can reach interested people without a large following behind it.</p>
+<p>Platform audience figures change, so look at current data in each platform's ads tools and, more importantly, at where your own customers say they discovered you.</p>
+
+<h2>Creative: the biggest difference</h2>
+<p>On TikTok, ads that look like ads tend to struggle. The formats that usually perform are short, vertical videos that hook within the first second or two, use sound and on-screen text, and feel like something a real person would post. Creator content, demonstrations, behind-the-scenes clips and honest reviews from genuine customers often fit naturally. Because the feed moves fast, the same video can tire quickly, so you need a regular supply of new versions.</p>
+<p>Meta is more forgiving of different styles. Clean product images, carousels and polished video can all work, alongside Reels-style content that resembles TikTok. That flexibility makes Meta easier for businesses with limited video production, although fresh creative still matters as spend grows. Our guide to working with a <a href="/blog/meta-ads-agency-uk/">Meta ads agency</a> covers how creative testing fits into account management.</p>
+
+<h2>Targeting and audiences</h2>
+<p>Meta offers detailed options: location, age, interests, behaviours, website visitors, customer lists and lookalike audiences built from your best customers. Many advertisers now use broader targeting and let the algorithm find buyers, but the depth is there when you need it. Our guide to <a href="/blog/meta-lookalike-audiences-guide/">Meta lookalike audiences</a> explains one of the most useful features.</p>
+<p>TikTok also offers interest, behaviour, custom and lookalike audiences, but its delivery leans more heavily on how people react to the content itself. In practice, the creative does much of the targeting: a video about running shoes tends to find runners. That makes TikTok powerful for products that are easy to show, and harder for services that need explanation.</p>
+
+<h2>Costs and budgets</h2>
+<p>Both platforms run auctions, so prices change with competition, season and audience. Neither platform should be judged on cost per view or cost per click alone. Compare cost per sale, booking or lead, and allow for the fact that social ads often start a journey that finishes later through search or a direct visit.</p>
+<table>
+<thead><tr><th>Budget question</th><th>TikTok Ads</th><th>Meta Ads</th></tr></thead>
+<tbody>
+<tr><td>Minimum spend</td><td>Platform minimums apply; check current figures</td><td>Flexible daily budgets; check current figures</td></tr>
+<tr><td>Hidden cost</td><td>Ongoing video production</td><td>Creative refreshes as spend grows</td></tr>
+<tr><td>Learning period</td><td>Needs enough conversions to optimise</td><td>Needs enough conversions to optimise</td></tr>
+</tbody>
+</table>
+<p>For a fuller view of what to budget, see our guides to <a href="/blog/meta-ads-cost-uk/">Meta Ads costs in the UK</a> and <a href="/blog/tiktok-ads-agency-uk/">TikTok ads in the UK</a>. Ad spend is always paid to the platform, separately from any management fee.</p>
+
+<h2>Tracking and measurement</h2>
+<p>Each platform needs its own tracking to optimise towards sales or leads. Meta uses the <a href="/blog/meta-pixel-setup-guide/">Meta Pixel</a> and its Conversions API; TikTok uses the TikTok Pixel and its own events API. Shopify and other platforms offer apps or integrations that make setup easier. Under UK GDPR and PECR, tracking tags should respect cookie consent, so check current ICO guidance and your consent banner settings.</p>
+<p>Both platforms will tend to take credit for sales they influenced. Tag links with UTM parameters and compare performance in GA4 so you get a consistent view; our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> shows how.</p>
+
+<h2>Which businesses suit each platform</h2>
+<ul>
+<li><strong>Often suits TikTok first:</strong> fashion, beauty, skincare, food and drink, gadgets, hobby products, and brands with a strong personality or founder story that translates to video.</li>
+<li><strong>Often suits Meta first:</strong> local services, venues, most online shops, events, and businesses targeting older audiences or needing lead forms.</li>
+<li><strong>Often suits both:</strong> ecommerce brands with visual products and the capacity to make regular video, using Meta for steady sales and retargeting and TikTok for discovery.</li>
+</ul>
+<p>Online shops can read more in our <a href="/sectors/ecommerce/">ecommerce sector page</a>, which covers how paid social fits alongside search and email.</p>
+
+<h2>Brand safety, policies and comments</h2>
+<p>Both platforms have advertising policies covering restricted products, claims and targeting, and some categories face extra rules or need approval. Read the current policies for your sector before creating ads, as a rejected campaign can delay a launch. UK advertising must also follow the CAP Code, so claims in your ads should be accurate and backed up.</p>
+<p>Comments are part of the experience on both platforms. Ads can attract questions, praise and criticism in public, and TikTok comment sections in particular can move quickly. Plan who will monitor and reply, how fast, and what you will do with complaints or off-topic replies. A responsive comment section can build trust; an ignored one can undo the work of a good ad.</p>
+<p>Finally, think about where your ads appear. Both platforms offer controls over placements and the type of content ads sit beside. Review these settings as part of setup rather than leaving everything on default.</p>
+
+<h2>How to decide where to start</h2>
+<ol>
+<li><strong>Check your audience.</strong> Ask recent customers where they spend time online and look at platform audience data.</li>
+<li><strong>Be honest about creative.</strong> If you can produce several new short videos a month, TikTok is realistic. If not, start with Meta.</li>
+<li><strong>Get tracking ready.</strong> Install the pixel, check events and confirm consent works before spending.</li>
+<li><strong>Test one platform properly.</strong> Give it enough budget and a few weeks to learn, rather than splitting a small budget across both.</li>
+<li><strong>Compare on the same measure.</strong> Use cost per sale or lead in GA4, then decide whether to add the second platform.</li>
+</ol>
+
+<h2>How Prism Works Studio can help</h2>
+<p>Our <a href="/services/paid-media/">paid media service</a> includes both Meta Ads and TikTok Ads, so we can recommend the platform that suits your audience and creative capacity rather than pushing one. We set up tracking first, plan creative testing and report on cost per result. Monthly plans are on our <a href="/pricing/">pricing page</a>, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>TikTok Ads vs Meta Ads: which is better?</h3>
+<p>Neither is better for every business. Meta Ads offers broader UK reach and more mature targeting, while TikTok Ads can work very well for visual consumer products with native, entertaining video. Choose based on your audience and creative capacity.</p>
+<h3>Are TikTok ads cheaper than Facebook ads?</h3>
+<p>Costs vary with competition, season and audience on both platforms. Compare cost per sale or lead rather than cost per view or click, and include the cost of producing video for TikTok.</p>
+<h3>Do I need a TikTok account to run TikTok ads?</h3>
+<p>You set ads up through TikTok's advertising platform. Having an active business account with organic posts can help ads feel native, but check TikTok's current requirements for your ad formats.</p>
+<h3>Can I reuse my Instagram Reels as TikTok ads?</h3>
+<p>Often yes, if they are vertical, hook quickly and feel native. Remove watermarks from other apps and adapt text and sound to TikTok, as content made specifically for each platform usually performs better.</p>
+<h3>Is TikTok only for young audiences?</h3>
+<p>No, TikTok's audience has broadened, although it still leans younger than Facebook. Check current audience data in TikTok's ads tools for your target age groups in the UK.</p>
+<h3>Should a small business advertise on TikTok or Meta first?</h3>
+<p>Most small businesses find Meta easier to start with because it accepts a wider range of creative and has mature targeting. TikTok is worth testing first if your product is highly visual and you can make regular short videos.</p>
+`,
+  },
+  {
+    slug: 'tiktok-pixel-setup-guide',
+    seoTitle: 'TikTok Pixel Setup Guide for UK Businesses',
+    title: 'TikTok Pixel Setup: How to Track Results From TikTok Ads',
+    description: 'How to set up the TikTok Pixel: create it in Events Manager, install it, choose events, handle UK cookie consent and test it before your ads go live.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/blog/tiktok-ads-agency-uk/', '/pricing/'],
+    body: `
+<p>To set up the TikTok Pixel, create a pixel in TikTok Ads Manager's Events Manager, install its code on your website directly, through a platform integration or through a tag manager, then choose the events you want to track and test them. Once it fires correctly, and only after visitors consent to advertising cookies, TikTok can measure and optimise your ads.</p>
+<p>This guide is for UK small business owners who are running, or planning to run, TikTok Ads. It explains what the pixel does, the main installation routes, which events are worth tracking, how UK consent rules fit in and how to check it works. TikTok updates its tools often, so check TikTok's current Business Help Centre for the exact steps and menu names.</p>
+
+<h2>What the TikTok Pixel does</h2>
+<p>When someone sees your ad on TikTok and later visits your website, TikTok has no way of knowing what happened next unless your site tells it. The pixel is a small piece of code that does exactly that. It reports actions such as viewing a product, adding to basket, starting checkout, completing a purchase or submitting an enquiry form.</p>
+<p>That information is used in three ways. First, it shows you which campaigns lead to real results rather than just views. Second, TikTok's delivery system uses it to find more people likely to take the same action. Third, it lets you build audiences of past visitors for retargeting. Without the pixel, you are judging campaigns on clicks alone, which rarely tells the full story. If you are new to the platform, our overview of <a href="/blog/tiktok-ads-agency-uk/">TikTok Ads for UK businesses</a> covers when it makes sense.</p>
+
+<h2>Before you start</h2>
+<ul>
+<li><strong>A TikTok Ads Manager account</strong> owned by the business, ideally inside a Business Center so access can be managed and shared safely.</li>
+<li><strong>Access to your website</strong>, whether that is the Shopify admin, WordPress dashboard, another builder, or a tag manager container.</li>
+<li><strong>A cookie consent tool</strong> that can block or allow advertising tags based on the visitor's choice.</li>
+<li><strong>A short list of actions</strong> that matter to your business, such as purchases, booking requests or quote forms.</li>
+<li><strong>An updated privacy notice</strong> that mentions advertising pixels. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> covers the basics.</li>
+</ul>
+
+<h2>TikTok Pixel setup: the main installation routes</h2>
+<p>There are three common ways to install the pixel. Which one suits you depends on your website platform and how much control you want.</p>
+<table>
+<thead><tr><th>Route</th><th>Best for</th><th>Things to watch</th></tr></thead>
+<tbody>
+<tr><td>Platform integration</td><td>Shopify and other ecommerce platforms with an official TikTok app or channel</td><td>Quick to set up, but check which events it sends and do not also add the code manually</td></tr>
+<tr><td>Tag manager</td><td>Sites that already manage tags in one place</td><td>Flexible and easy to control with consent, but needs careful trigger set-up</td></tr>
+<tr><td>Manual code</td><td>Simple sites without a tag manager or integration</td><td>Needs code edits, and each event must be added by hand</td></tr>
+</tbody>
+</table>
+<p>For Shopify stores, the TikTok sales channel is usually the simplest starting point, because it can connect your catalogue and send standard shopping events. Our guide to <a href="/blog/shopify-sales-channels-overview/">Shopify sales channels</a> explains how channels work. For WordPress and other sites, a tag manager keeps your tracking tidy and makes it easier to tie tags to consent.</p>
+
+<h2>Step-by-step set-up</h2>
+<ol>
+<li><strong>Create the pixel.</strong> In TikTok Ads Manager, open the events area, choose to connect a web data source and give the pixel a clear name, such as the business name and website.</li>
+<li><strong>Choose an installation method.</strong> Select the partner integration if one is offered for your platform, or choose manual installation to get the base code.</li>
+<li><strong>Add the base code.</strong> The base code loads on every page. With a tag manager, create a tag for it that fires on all pages once advertising consent is given.</li>
+<li><strong>Set up events.</strong> Add the standard events that match your list. TikTok offers named events for common actions, and using these rather than custom names helps its optimisation.</li>
+<li><strong>Pass values where relevant.</strong> For purchases, send the order value and currency (GBP) so you can see return on ad spend.</li>
+<li><strong>Test.</strong> Use TikTok's testing tools and browser helper to confirm each event fires once, at the right moment.</li>
+<li><strong>Connect it to campaigns.</strong> When you build a campaign that optimises for website conversions, pick the pixel and the event you care about most.</li>
+</ol>
+
+<h2>Which events to track</h2>
+<p>Track what reflects real business value. A simple service business might only need a completed enquiry and a phone number click. An online shop will usually want product views, add to basket, checkout started and purchase. Avoid tracking every scroll and minor click, because noisy events make reports harder to read and can lead campaigns to optimise for the wrong thing.</p>
+<p>Keep your event list consistent with the events you track in Google Analytics 4 and other ad platforms. If you already followed our <a href="/blog/meta-pixel-setup-guide/">Meta Pixel setup guide</a>, reuse the same list of actions. It makes comparing channels far easier. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side.</p>
+
+<h2>Consent, UK GDPR and PECR</h2>
+<p>Under PECR and UK GDPR, advertising pixels generally need the visitor's consent before they run on UK websites. That means the TikTok Pixel should not fire until someone has accepted advertising or marketing cookies in your banner. Most consent tools can block the pixel by category, and most tag managers can use consent as a trigger condition. Our article on <a href="/blog/cookie-banner-design-uk/">cookie banner design in the UK</a> explains how to make the choice clear and fair.</p>
+<p>TikTok also offers server-side options, often described as an events API, which send event data from your server rather than the browser. These can improve data quality, but they do not remove the need for consent or for handling personal data lawfully. This is general information rather than legal advice. Check the ICO's guidance and your own legal adviser if you are unsure.</p>
+
+<h2>How to check your pixel is working</h2>
+<ul>
+<li>Use TikTok's diagnostic and test event tools in Events Manager to watch events arrive as you browse.</li>
+<li>Install TikTok's browser helper extension, if available, to see which events fire on each page.</li>
+<li>Make a test journey from landing page to enquiry or checkout, and confirm each event appears once.</li>
+<li>Decline cookies in your banner and confirm the pixel does not fire.</li>
+<li>Check any warnings in Events Manager, such as missing values or duplicate events, and fix them.</li>
+</ul>
+
+<h2>Common TikTok Pixel mistakes</h2>
+<ul>
+<li><strong>Double installation.</strong> Adding the pixel through a platform app and again by hand causes duplicate events and inflated results.</li>
+<li><strong>Purchase events on the wrong page.</strong> A purchase event that fires on the basket page will count browsing as buying.</li>
+<li><strong>Missing currency or value.</strong> Without these, return on ad spend cannot be calculated.</li>
+<li><strong>Firing before consent.</strong> This creates compliance risk and can undermine trust.</li>
+<li><strong>Not tagging links.</strong> Use UTM parameters on TikTok ad links so GA4 shows the traffic correctly. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking guide</a> explains how.</li>
+<li><strong>Personal data in URLs.</strong> Never pass names, emails or phone numbers in page addresses where pixels can pick them up.</li>
+</ul>
+
+<h2>Using pixel data for retargeting</h2>
+<p>Once the pixel has gathered enough data, you can build audiences of people who visited certain pages or took certain actions, then show them follow-up ads. Keep frequency sensible and exclude recent buyers where possible. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> covers how to approach this across platforms without irritating people.</p>
+
+<h2>When to get help</h2>
+<p>A basic pixel through an official integration is usually manageable in-house. Custom events, server-side tracking, consent mode set-ups and reconciling numbers across TikTok, Meta, Google and GA4 take more time and experience. Our <a href="/services/paid-media/">paid media service</a> includes TikTok Ads set-up and tracking, and our <a href="/pricing/">pricing page</a> explains how our retainers work. Ad spend is paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up the TikTok Pixel?</h3>
+<p>Create a pixel in TikTok Ads Manager's Events Manager, install it through your platform's integration, a tag manager or manual code, add the events you want to track, then test with TikTok's tools. Make sure it only fires after visitors consent to advertising cookies.</p>
+<h3>Is the TikTok Pixel free?</h3>
+<p>Yes, there is no charge for creating or installing the pixel itself. You only pay for the ads you run, and possibly for any consent tool or developer time you use.</p>
+<h3>Do I need the TikTok Pixel if I only run awareness ads?</h3>
+<p>It is still worth installing. Even if you are not optimising for conversions yet, the pixel builds data and audiences you can use later, and helps you see whether awareness campaigns lead to site visits.</p>
+<h3>Can I use the TikTok Pixel on Shopify?</h3>
+<p>Generally yes. Shopify stores can usually connect through TikTok's official sales channel, which handles much of the set-up. Check Shopify's and TikTok's current help pages for the latest steps.</p>
+<h3>Does the TikTok Pixel need cookie consent in the UK?</h3>
+<p>In most cases, yes. Advertising pixels typically need consent under PECR before they run. Set your consent tool or tag manager so the pixel only fires once a visitor accepts the relevant cookies.</p>
+<h3>Why are my TikTok results different from GA4?</h3>
+<p>Each platform counts conversions in its own way, using different attribution windows and methods, and some visitors decline cookies. Expect differences, and focus on trends and consistent comparisons rather than matching numbers exactly.</p>
+`,
+  },
+  {
+    slug: 'tool-and-plant-hire-marketing-uk',
+    seoTitle: 'Tool and Plant Hire Marketing UK: Win More Bookings',
+    title: 'Tool and Plant Hire Marketing in the UK: How to Win More Hires',
+    description: 'Tool and plant hire marketing in the UK works when local search, clear hire rates, live availability and trade account pages turn urgent searches into hires.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/sectors/b2b/'],
+    body: `
+<p>Tool and plant hire marketing in the UK is about being the first sensible option when someone needs a machine today or tomorrow, then making the hire quick to arrange. The hire businesses that grow usually combine strong local search, clear product pages with hire periods and delivery options, and a separate route for trade customers who hire every week.</p>
+<p>This guide is for independent tool hire shops, plant hire firms, access equipment and powered access specialists, and depots that rent anything from carpet cleaners and floor sanders to mini diggers and dumpers. It covers how customers choose a hire company, your website, Google Business Profile, paid search, trade accounts and repeat business. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of winning hires.</p>
+
+<h2>How customers choose a hire company</h2>
+<p>Hire is rarely a long, considered purchase. A builder has a job starting on Monday, a homeowner has decided to sand the floorboards this weekend, or a landscaper needs a bigger machine than the one they own. They search for "mini digger hire near me", "floor sander hire Leeds" or "scaffold tower hire", look at the first few results and ring or book with whoever seems to have the kit, the price and the delivery slot they need.</p>
+<p>That means three things decide most enquiries: whether you show up in the local results, whether your pages answer the obvious questions, and how quickly you respond. A great fleet will not win the job if your website hides prices and nobody picks up the phone.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>Trades and contractors</strong> who hire regularly and want accounts, delivery and reliable kit.</li>
+<li><strong>Homeowners and DIYers</strong> tackling a weekend project and needing clear guidance.</li>
+<li><strong>Landscapers and groundworkers</strong> hiring diggers, dumpers, breakers and compaction kit.</li>
+<li><strong>Event organisers</strong> hiring generators, lighting towers, heaters or welfare units.</li>
+<li><strong>Facilities and maintenance teams</strong> needing access equipment or cleaning machines.</li>
+<li><strong>Larger firms and councils</strong> that buy through approved supplier lists.</li>
+</ul>
+
+<h2>Tool hire marketing UK: start with local search</h2>
+<p>Because most hire searches include a place name or "near me", local SEO is usually the first job. Our <a href="/blog/local-seo-uk-guide/">local SEO guide for UK businesses</a> covers the foundations, but for hire companies a few points stand out.</p>
+<p>Your Google Business Profile should be complete for every depot, with accurate opening hours, including early starts and Saturday mornings, a primary category that matches what you do, photos of the yard and real kit, and a short description that mentions the main equipment types. Our guide to <a href="/blog/google-business-profile-uk/">Google Business Profile in the UK</a> explains how to set this up properly.</p>
+<p>If you run more than one depot, each branch needs its own page with its address, opening times, delivery area and the kit held there. Copying the same text across branches tends to work poorly. Our article on <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how to structure branch pages so each one can rank in its own area.</p>
+
+<h2>Product pages that answer the hire questions</h2>
+<p>A single "our equipment" page with a long list of names rarely ranks or converts. Each machine or category worth promoting deserves its own page that answers what a customer needs to know before they commit.</p>
+<p>A good hire product page usually includes:</p>
+<ul>
+<li>A clear name using the words people search, such as "1.5 tonne mini digger hire" rather than a model code alone.</li>
+<li>Key specifications, such as weight, dimensions, power source, fuel type and whether it fits through a standard gate.</li>
+<li>Hire periods available, such as half day, day, weekend and week, with prices or a clear way to get a quote.</li>
+<li>Delivery and collection options, and whether customers can collect from the depot.</li>
+<li>What the customer needs to provide, such as identification, proof of address or a deposit.</li>
+<li>Safety information, required accessories and whether training or a competence card is expected for that type of kit.</li>
+<li>Related items, such as breakers, buckets, trailers or protective equipment.</li>
+</ul>
+<p>Our guide to <a href="/blog/product-page-seo-uk/">product page SEO</a> is written for online shops, but the same principles apply to hire pages: specific titles, useful descriptions, good photos and structured information.</p>
+<p>On safety and competence, keep wording general and accurate. Requirements for operating certain plant, access equipment or tools change and vary by situation, so tell customers to check current guidance and make sure your own terms reflect it.</p>
+
+<h2>Booking, availability and quoting</h2>
+<p>Many hire firms still take every booking by phone. That works when someone is free to answer, but evening and weekend searchers often want to reserve something there and then. Even a simple enquiry or reservation form for each product, with date, hire period and delivery postcode, can catch jobs that would otherwise go elsewhere.</p>
+<p>For businesses ready to go further, online booking with live availability and deposits can work well for high-demand consumer items like floor sanders, carpet cleaners and wallpaper strippers. Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers the main options and what to check before choosing one.</p>
+<table>
+<thead>
+<tr><th>Customer type</th><th>What they want online</th><th>Best website feature</th></tr>
+</thead>
+<tbody>
+<tr><td>Homeowner or DIYer</td><td>Price, how to use it, weekend availability</td><td>Product page with hire periods and an online reservation</td></tr>
+<tr><td>Trade customer</td><td>Fast quotes, delivery, account terms</td><td>Trade account page and quick quote form</td></tr>
+<tr><td>Groundworks or landscaper</td><td>Machine specs, attachments, transport</td><td>Detailed spec pages with delivery information</td></tr>
+<tr><td>Event organiser</td><td>Packages, power and welfare, setup</td><td>Event hire page with bundled options</td></tr>
+<tr><td>Larger firm or council</td><td>Compliance documents, supplier details</td><td>Company information page with supplier details</td></tr>
+</tbody>
+</table>
+
+<h2>Trade accounts and repeat business</h2>
+<p>For many hire businesses the most valuable customers are trades and contractors who hire every week. They behave differently from homeowners. They care about delivery times, kit condition, account terms and being able to ring someone who knows them.</p>
+<p>A dedicated trade page should explain how to open an account, what information you need, what account holders get, such as priority delivery or collection slots, and how off-hire works. If you serve larger contractors, explain the documents you can provide for their supplier checks. Keep this factual, and only mention memberships or accreditations you actually hold.</p>
+<p>Trade marketing is closer to B2B than retail. Our <a href="/sectors/b2b/">B2B marketing</a> page explains how we approach longer-term business customers, and the same thinking applies to hire firms building a trade base: useful content, consistent follow-up and a clear reason to stay with you.</p>
+
+<h2>Paid search for hire companies</h2>
+<p>Google Ads can work very well for hire because searches are specific and urgent. Someone searching "mini digger hire Sheffield" is close to booking. The challenge is controlling spend, since terms like "digger" can also attract people looking to buy, jobs, toys or videos.</p>
+<p>Practical points for hire campaigns:</p>
+<ul>
+<li>Build campaigns around equipment categories rather than one generic campaign.</li>
+<li>Target the area you actually deliver to, and set location targeting carefully around each depot.</li>
+<li>Send each ad to the matching product page, not the homepage.</li>
+<li>Use call assets during opening hours, since many hire customers prefer to ring.</li>
+<li>Add negative keywords for buying, second-hand, jobs, training courses and toys.</li>
+</ul>
+<p>Reviewing search terms every week and adding negatives keeps wasted clicks down as campaigns grow. If you would rather someone else managed this, our <a href="/services/paid-media/">paid media service</a> covers Google Ads and Microsoft Ads for local service businesses.</p>
+
+<h2>Seasonal demand and content</h2>
+<p>Hire demand moves with the seasons and the weather. Garden and landscaping kit rises in spring, heaters and dehumidifiers in autumn and winter, and event equipment around summer festivals and Christmas. Plan content and campaigns a few weeks ahead of each peak.</p>
+<p>Useful content for hire businesses includes:</p>
+<ul>
+<li>Guides that help customers pick the right machine, such as which size of digger suits a garden project.</li>
+<li>Short how-to guides and videos for common DIY hires, written with safety in mind.</li>
+<li>Checklists for preparing a site before delivery, such as access width and ground conditions.</li>
+<li>Answers to common questions about deposits, damage, fuel and cleaning charges.</li>
+</ul>
+<p>This kind of content helps with search, gives sales staff something to send customers, and reduces calls from people who simply need the basics explained.</p>
+
+<h2>Reviews, photos and trust</h2>
+<p>Hire customers want reassurance that the kit will turn up on time, start first time and be in good condition. Reviews on your Google Business Profile do a lot of this work. Ask satisfied customers for a review after off-hire, and respond politely to every review, including critical ones.</p>
+<p>Use real photos of your yard, vans and equipment rather than manufacturer images alone. Show the condition of the kit you actually send out. If you service and check equipment between hires, explain your process plainly without overstating it.</p>
+
+<h2>Website build and performance</h2>
+<p>Many hire company websites are old, slow on mobile and hard to update when the fleet changes. Since most searches happen on phones, often on site, speed and simple navigation matter. The site should let customers browse by category, search for a machine and reach a phone number in one tap.</p>
+<p>If your current site holds you back, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> builds fast, easy-to-manage sites with product catalogues, branch pages and enquiry or booking forms. You can see our website and retainer options on our <a href="/pricing/">pricing page</a>. For ongoing local search work across depots and categories, our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, content and AI search visibility.</p>
+
+<h2>Measuring what works</h2>
+<p>Hire businesses often struggle to know which marketing is working because so many bookings come by phone. Track calls from your website and Google Business Profile, track form and booking submissions, and ask new customers how they found you. Over a few months this shows which equipment pages, areas and campaigns bring in hires, so you can put more effort into those.</p>
+<p>Results from SEO and paid search typically build over three to six months. Paid search can bring enquiries sooner, while local search and content tend to compound over time.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best way to approach tool hire marketing in the UK?</h3>
+<p>Start with local search. Make sure every depot has a complete Google Business Profile and its own page, build clear product pages for your main equipment, and make it easy to reserve or get a quote. Then add paid search for urgent, high-value categories.</p>
+<h3>Should a hire company show prices online?</h3>
+<p>Showing prices, or at least starting prices by hire period, usually helps. Customers compare quickly, and hidden prices often send them to a competitor. If prices vary with delivery or duration, explain what affects them and offer a fast quote.</p>
+<h3>Do plant hire firms need online booking?</h3>
+<p>Not always. Larger plant often needs a conversation about site access and transport. Online reservation tends to suit high-volume consumer items, while larger plant pages can use a quick quote form with date and postcode fields.</p>
+<h3>How do we win more trade customers?</h3>
+<p>Create a dedicated trade account page, explain account benefits and terms clearly, respond quickly to quote requests and keep in regular contact with useful updates. Reliable delivery and well-maintained kit do the rest.</p>
+<h3>Can we mention safety requirements on product pages?</h3>
+<p>Yes, and it is helpful to do so, but keep wording general and accurate. Requirements for operating some equipment can change, so encourage customers to check current guidance and make sure your terms reflect it.</p>
+<h3>How long does it take for marketing to bring in more hires?</h3>
+<p>Paid search can bring enquiries within weeks once it is set up well. SEO and local search work typically takes three to six months to show steady results, and builds over time as more pages rank.</p>
+`,
+  },
+  {
+    slug: 'translation-agency-marketing-uk',
+    seoTitle: 'Translation Agency Marketing UK: Win More Business Clients',
+    title: 'Translation Agency Marketing in the UK: How to Win More Business Clients',
+    description: 'Translation agency marketing in the UK works when language pair, sector and service pages, clear quoting and focused search help business buyers choose you.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Translation agency marketing in the UK works when business buyers can quickly see that you handle their language pair, their document type and their sector, and can get a quote without delay. The agencies that win steady business clients usually combine specific service and language pages, a fast quoting process, strong search visibility and clear specialist positioning.</p>
+<p>This guide is for translation and localisation agencies, interpreting providers and specialist language service companies working with UK businesses. It covers how buyers choose a language provider, positioning, your website, search, paid media, account growth and measurement.</p>
+
+<h2>How businesses choose a translation agency</h2>
+<p>Translation is often bought under time pressure. A marketing team needs a campaign localised for a launch, an exporter needs product documentation in a new language, an ecommerce brand is expanding into Europe, or an HR team needs policies translated for staff. The buyer is usually not a language specialist. They want confidence that the job will be done accurately, on time and securely.</p>
+<p>Before they get in touch they want to know whether you cover the languages they need, whether your translators understand their subject matter, how you check quality, how you handle confidential files, what file formats you accept, how quickly you can turn work around and how pricing works. If your website answers these questions clearly, you are already ahead of many competitors.</p>
+<p>Repeat business matters hugely in this sector. A client who trusts you with one project often returns for every language and every update afterwards, so the first experience shapes long term value.</p>
+
+<h2>Positioning in a crowded market</h2>
+<p>There are many language service providers in the UK, and many describe themselves in almost identical terms. Specific positioning makes it easier for the right buyers to choose you.</p>
+<ul>
+<li><strong>By specialism.</strong> Technical and engineering, marketing and transcreation, software and app localisation, ecommerce product content, or business documents.</li>
+<li><strong>By sector.</strong> Manufacturing, retail, travel, education, software or professional services. Show that you understand each sector's terminology and expectations.</li>
+<li><strong>By service model.</strong> Fast turnaround for urgent work, long term localisation partnerships, or managed multilingual content programmes.</li>
+</ul>
+<p>Be careful with regulated areas. If you offer certified or sworn translations, or work that will be used in legal or official settings, describe the service accurately and tell customers to check what the receiving organisation requires. Lead with your specialism on the homepage and in your ads, so the right buyers recognise you straight away.</p>
+
+<h2>Your website: specific pages and fast quotes</h2>
+<p>A translation agency website should make it easy for a buyer to confirm you can help and request a quote in a few minutes.</p>
+<ul>
+<li><strong>Service pages</strong> for each main service: document translation, website localisation, transcreation, subtitling, interpreting, proofreading and so on.</li>
+<li><strong>Language pages</strong> for your most important language pairs, explaining your coverage, typical projects and any regional variants you handle, such as different forms of Spanish, Portuguese or French.</li>
+<li><strong>Sector pages</strong> that show your understanding of terminology and common document types in each field.</li>
+<li><strong>A clear quote form</strong> with file upload, language selection, deadline and a short notes field. Explain how soon you respond.</li>
+<li><strong>Quality and security information.</strong> Describe your review process, how files are stored and who can access them. Only mention standards or certifications your business genuinely holds.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers how to design forms that people actually complete, and our <a href="/services/website-ecommerce-development/">website development service</a> builds clear, fast B2B sites, typically in three to five weeks for a smaller site.</p>
+
+<h2>Translation agency marketing through search</h2>
+<p>Search is one of the biggest sources of new clients for language providers, because buyers often search the exact service and language they need. Building pages that match those searches is the foundation.</p>
+<table>
+<thead><tr><th>Search pattern</th><th>What the buyer needs</th><th>Best page</th></tr></thead>
+<tbody>
+<tr><td>Language plus translation service</td><td>A provider for a specific language</td><td>Language page</td></tr>
+<tr><td>Document type plus translation</td><td>Help with a manual, contract, website or brochure</td><td>Service page</td></tr>
+<tr><td>Sector plus translation</td><td>Specialist terminology knowledge</td><td>Sector page</td></tr>
+<tr><td>Translation agency plus city</td><td>A provider nearby or in the UK</td><td>Location or contact page and Google Business Profile</td></tr>
+<tr><td>How to localise or translate questions</td><td>Guidance before buying</td><td>Helpful guide linking to services</td></tr>
+</tbody>
+</table>
+<p>Avoid creating hundreds of thin language pages with the same text. Start with the pairs and services that bring most of your revenue, and make each page genuinely useful with examples of typical projects, regional considerations and turnaround information. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to find and prioritise these searches, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, content and visibility in AI search answers.</p>
+<p>Your own multilingual website can also act as a showcase. If you publish key pages in several languages, set it up properly with correct language tagging so search engines show the right version to each audience. Our <a href="/blog/international-seo-agency-uk/">international SEO guide</a> covers the main decisions involved.</p>
+
+<h2>Paid media for language service providers</h2>
+<p>Paid search works well for urgent, specific requests. A buyer searching for a particular language and document type, often with a deadline, is ready to request a quote.</p>
+<ul>
+<li><strong>Google Ads and Microsoft Ads</strong> for high value service and language searches, with negative keywords to filter out people looking for free translation tools, translator jobs or courses. Our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> explains how to build these lists.</li>
+<li><strong>LinkedIn Ads</strong> to reach marketing, export and operations managers at companies expanding overseas, useful for longer term localisation partnerships.</li>
+<li><strong>Remarketing</strong> to bring back visitors who looked at pricing or the quote form without submitting.</li>
+</ul>
+<p>Our <a href="/services/paid-media/">paid media service</a> manages Google, Microsoft and LinkedIn campaigns with tracking for quote requests and calls.</p>
+
+<h2>Content that wins trust</h2>
+<p>Helpful content shows buyers you understand the challenges of working across languages. Practical topics include how to prepare files for translation, what to consider when localising a website or online shop, the difference between translation and transcreation, how to build a glossary for consistent terminology, and planning content for a new market.</p>
+<p>Content like this ranks for early research searches, gets shared internally by buyers and gives your account managers something useful to send. Keep any comments on rules for official documents general and point readers to the organisation that will receive them. Our <a href="/services/digital-pr-content/">digital PR and content service</a> can help plan and produce articles, guides and expert comment for export and business publications.</p>
+
+<h2>Growing existing accounts</h2>
+<p>Many agencies earn most of their revenue from a relatively small number of repeat clients. Marketing to those clients is time well spent.</p>
+<ol>
+<li><strong>Make reordering easy</strong> with a simple client area or a dedicated project email address.</li>
+<li><strong>Introduce related services</strong> such as subtitling, website localisation or desktop publishing to clients who only use you for documents.</li>
+<li><strong>Share useful updates</strong> through a newsletter about planning multilingual content, keeping it relevant and following UK GDPR and PECR. Check current ICO guidance on business email.</li>
+<li><strong>Ask for reviews</strong> from satisfied clients on your Google Business Profile and relevant directories.</li>
+</ol>
+
+<h2>Measuring translation agency marketing</h2>
+<table>
+<thead><tr><th>Measure</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Quote requests by service and language</td><td>Shows where demand comes from</td></tr>
+<tr><td>Quote to order rate</td><td>Highlights pricing or response issues</td></tr>
+<tr><td>Search visibility for key pages</td><td>Indicates whether new buyers can find you</td></tr>
+<tr><td>Cost per quote request by channel</td><td>Guides where to invest</td></tr>
+<tr><td>Repeat client revenue</td><td>Measures long term account growth</td></tr>
+</tbody>
+</table>
+<p>Track quote form submissions, file uploads and phone calls as conversions so you can see which campaigns bring real projects. SEO and paid search results typically build over three to six months.</p>
+
+<h2>How we can help</h2>
+<p>We help B2B service businesses with positioning, websites, SEO, paid media and content. For language service providers, that usually means clearer service and language pages, a better quote journey, focused search campaigns and honest reporting. See our <a href="/sectors/b2b/">B2B sector page</a> for our approach and our <a href="/pricing/">pricing page</a> for monthly retainers from £350 a month, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is translation agency marketing in the UK?</h3>
+<p>Translation agency marketing in the UK covers how language service providers attract and keep business clients. It usually includes specific service, language and sector pages, SEO, paid search, a fast quote process, helpful content and regular contact with existing clients.</p>
+<h3>Should a translation agency have a page for every language?</h3>
+<p>Not necessarily. Start with the language pairs that bring most of your work and make those pages genuinely useful. Hundreds of near-identical pages rarely help buyers and can weaken your site overall.</p>
+<h3>How can translation agencies compete with free tools?</h3>
+<p>Focus on what buyers cannot get from a free tool: specialist knowledge, quality review, consistent terminology, secure handling of files and accountability for deadlines. Explain these clearly on your website and in your ads.</p>
+<h3>Is Google Ads worth it for a translation company?</h3>
+<p>It can be, especially for specific language and document searches with clear commercial intent. Strong negative keyword lists are essential to filter out free tool searches and job seekers, and you should track quote requests rather than clicks.</p>
+<h3>What should a translation quote form include?</h3>
+<p>Source and target languages, file upload, deadline, the type of content and a short notes field. Keep it short, explain how soon you will respond and offer a phone number or email for buyers who prefer to talk first.</p>
+<h3>How long does SEO take for a translation agency?</h3>
+<p>SEO for translation agencies typically shows meaningful results within three to six months, depending on competition for your languages and services and the state of your website. Focused pages for your strongest language pairs often improve first.</p>
+`,
+  },
+  {
+    slug: 'tree-surgeon-marketing-uk',
+    seoTitle: 'Tree Surgeon Marketing UK: How to Win More Local Jobs',
+    title: 'Tree Surgeon Marketing in the UK: How to Win More Local Jobs',
+    description: 'Tree surgeon marketing in the UK works when local search, clear service pages, photo proof and fast quote requests turn worried homeowners into booked jobs.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Tree surgeon marketing in the UK is about being the obvious, trustworthy choice when someone searches for help with a tree in their town, then making it easy for them to book a site visit. The arborists who grow steadily usually combine a well-kept Google Business Profile, a clear page for each service they offer, real photos of their work and a quote request that takes less than a minute to send.</p>
+<p>This guide is for independent tree surgeons, small arboricultural firms and grounds teams that want more domestic and commercial work without relying entirely on directories or word of mouth. We cover where your customers search, what your website needs, how paid ads fit in and how to build trust in a trade where people are letting you work at height next to their house.</p>
+
+<h2>How people find a tree surgeon</h2>
+<p>Tree work rarely starts with idle browsing. A storm brings down a limb, a neighbour complains about overhanging branches, a surveyor flags a tree near a property, or a homeowner finally decides the conifer hedge has got out of hand. They pick up their phone and search for something like "tree surgeon near me", "tree removal [town]" or "how much to cut down a tree". Some check reviews on Google Maps; others ask in a local community group and then look you up before ringing.</p>
+<p>That means your marketing has three jobs. You need to show up in local search results and the map pack. You need a website that answers the obvious questions about safety, insurance, waste and price. And you need to look credible enough that someone trusts you with a chainsaw near their conservatory. Our <a href="/blog/tradesman-marketing-uk/">guide to marketing for tradespeople</a> covers the wider principles; this post focuses on what is specific to tree work.</p>
+
+<h2>Tree surgeon marketing UK: the channels that matter</h2>
+<p>Not every channel earns its keep for a tree business. The table below summarises where we would usually focus first for a small or growing firm.</p>
+<table>
+<thead><tr><th>Channel</th><th>What it does well</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Map pack visibility for "near me" searches, reviews, photos</td><td>Incorrect service area, few photos, unanswered reviews</td></tr>
+<tr><td>Local SEO and service pages</td><td>Steady enquiries for felling, reductions, stump grinding and hedges</td><td>One thin "services" page trying to cover everything</td></tr>
+<tr><td>Google Ads</td><td>Fast visibility for urgent and high-value jobs</td><td>Wasted spend on DIY, training and job-seeker searches</td></tr>
+<tr><td>Facebook and Instagram</td><td>Before-and-after photos, local awareness, community groups</td><td>Posting without a clear way to request a quote</td></tr>
+<tr><td>Commercial outreach</td><td>Repeat work from letting agents, schools, estates and councils</td><td>Generic emails with no evidence of insurance or capability</td></tr>
+</tbody>
+</table>
+
+<h2>Get your Google Business Profile right</h2>
+<p>For most tree surgeons, the Google Business Profile is the single most important marketing asset. It controls whether you appear in the map results that sit above the ordinary listings for local searches. If you work from a yard or home and travel to customers, set yourself up as a service-area business and list the towns you genuinely cover rather than a huge radius.</p>
+<p>Choose the most accurate primary category, add secondary ones that reflect your real services, and write a description that mentions the work you do and where you do it. Upload photos regularly: climbers in harness, a crown reduction in progress, a cleared site after felling, stump grinding, and your vehicles and chipper with branding visible. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through the setup step by step.</p>
+<p>Reviews matter a great deal in this trade because homeowners are nervous about damage and mess. Ask every satisfied customer for a review, and make it easy with a short link sent by text after the job. Reply to every review, including the occasional critical one, calmly and professionally. Our post on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> has wording ideas.</p>
+
+<h2>Build a website that answers the real questions</h2>
+<p>Your website does not need to be large, but it does need to be clear. A homeowner who lands on it should understand within seconds what you do, where you work and how to get a quote. The pages that tend to matter most are:</p>
+<ul>
+<li><strong>Tree felling and removal</strong>, including sectional dismantling where space is tight.</li>
+<li><strong>Crown reduction, thinning and lifting</strong>, explained in plain English with photos showing what each looks like.</li>
+<li><strong>Stump grinding and removal</strong>, often searched for separately and a useful add-on service.</li>
+<li><strong>Hedge cutting and reduction</strong>, including large conifer hedges.</li>
+<li><strong>Emergency and storm damage work</strong>, if you genuinely offer a call-out service.</li>
+<li><strong>Commercial and contract work</strong>, for property managers, schools and businesses.</li>
+</ul>
+<p>Each service page should explain what the work involves, when it is needed, how you protect the property and garden, what happens to the waste and timber, and how pricing is worked out. You do not have to publish fixed prices, but explaining the factors that affect a quote (size, access, proximity to buildings, waste volume) helps people feel ready to ask. Our guide to <a href="/blog/service-page-design/">service page design</a> covers the structure in more detail.</p>
+<p>Include a short, mobile-friendly quote form that asks for postcode, a brief description and the option to upload photos. Many tree surgeons can give a rough idea from photos before visiting, which saves time on both sides. Our post on <a href="/blog/website-contact-forms/">website contact forms</a> explains how to keep forms short without losing the details you need.</p>
+
+<h3>Location pages without the spam</h3>
+<p>If you cover several towns, a page for each main area can help you rank for searches like "tree surgeon [town]". The key is to make each page genuinely useful: mention the kind of work you do there, typical property types, local access issues and photos from jobs in that area. Copying the same text and swapping the town name rarely works and can harm the site overall. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to approach location pages sensibly.</p>
+
+<h2>Trust signals that win tree work</h2>
+<p>Tree work carries obvious risk, so trust is the deciding factor for many customers. Make these visible on your homepage and service pages:</p>
+<ul>
+<li><strong>Insurance</strong>: state that you hold public liability and, where relevant, employer's liability cover, and offer to show certificates on request.</li>
+<li><strong>Qualifications and training</strong>: mention relevant chainsaw and climbing qualifications your team actually holds, without exaggerating.</li>
+<li><strong>Trade memberships</strong>: if you belong to a recognised arboricultural body or approved contractor scheme, say so accurately.</li>
+<li><strong>Waste handling</strong>: explain how green waste is removed and disposed of, and whether you hold the appropriate waste carrier registration.</li>
+<li><strong>Real photos</strong>: your own team and kit, not stock images of forests.</li>
+</ul>
+<p>Only list memberships, certifications and accreditations you genuinely hold, and keep them up to date. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present these without cluttering the page.</p>
+
+<h3>Handle protected trees carefully</h3>
+<p>Many customers do not know whether their tree is covered by a Tree Preservation Order or sits in a conservation area. A short, plain-English page explaining that some trees need permission from the local planning authority before work, and that you can help them check, positions you as the professional choice. Keep it general, avoid giving definitive legal advice, and point people to their local council and current official guidance, because the rules and processes vary and can change.</p>
+
+<h2>Using Google Ads for tree work</h2>
+<p>Paid search can bring in enquiries quickly, particularly for felling, large reductions and storm damage, where a single job can be worth a meaningful amount. The trick is keeping campaigns tight. Target the towns you actually serve, use phrase and exact match keywords around commercial searches, and add negative keywords for terms like "course", "jobs", "apprenticeship", "DIY" and "how to" so you are not paying for clicks from people who will never book.</p>
+<p>Send ad traffic to the relevant service page rather than your homepage, with a clear call button and quote form. Track calls and form submissions as conversions so you can see which keywords bring real enquiries. Our <a href="/services/paid-media/">paid media service</a> covers campaign setup and management if you would rather not run it yourself.</p>
+
+<h2>Social media for tree surgeons</h2>
+<p>Tree work is visual, which makes it well suited to Facebook and Instagram. Before-and-after shots of a crown reduction, short clips of a climber dismantling a tree in sections, and a cleared garden at the end of the day all show competence in a way text cannot. Post consistently rather than constantly, and always include a simple way to get in touch.</p>
+<p>Local community groups can also be a useful source of recommendations. Be helpful rather than salesy, follow each group's rules, and make sure your Business Profile and website are in good shape so people who look you up are reassured.</p>
+
+<h2>Winning commercial and contract work</h2>
+<p>Domestic jobs pay the bills, but contract work brings steadier income across the year. Letting agents, housing associations, schools, churches, caravan parks, estates and businesses with grounds all need tree work and often want a reliable firm they can call repeatedly.</p>
+<p>A dedicated commercial page helps here. Explain how you handle risk assessments and method statements, your insurance levels, how you schedule work around occupants, and how you report back after a job. A tidy capability statement you can send by email is also worth having. Keep claims factual and avoid naming clients unless you have their permission.</p>
+
+<h2>Seasonality and planning ahead</h2>
+<p>Demand for tree work moves with the seasons. Storms bring urgent call-outs, spring and summer bring hedge work, and many reductions and fellings are planned for quieter months. Some work may also be affected by nesting birds, so it is sensible to tell customers you will check for active nests and follow current wildlife guidance.</p>
+<p>Plan your marketing around these patterns. Raise ad budgets ahead of busy spells, publish seasonal advice on your blog, and use quieter months to improve your website, collect reviews and approach commercial clients. If you want help planning this, our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search strategy for service businesses.</p>
+
+<h2>What does tree surgeon marketing cost?</h2>
+<p>Costs depend on how much you do yourself. Setting up a Google Business Profile and asking for reviews costs nothing but time. A small, professional website typically falls in the range of £1,000 to £2,000 with us, and usually takes three to five weeks to build. Ongoing SEO and paid media support is offered through monthly retainers, and ad spend is paid separately to Google or Meta. Our <a href="/pricing/">pricing page</a> sets out the retainer options. SEO and paid search results typically take three to six months to build, so it pays to start before the busy season rather than during it.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best way to approach tree surgeon marketing in the UK?</h3>
+<p>Start with a complete Google Business Profile, a steady flow of genuine reviews and a clear website with a page for each main service. Once those foundations are in place, add tightly targeted Google Ads and regular photo posts on social media.</p>
+<h3>Do tree surgeons need a website if they get work from Facebook?</h3>
+<p>Yes. Many people who hear about you on social media will still look you up before calling. A website with your services, insurance details, photos and a quote form reassures them and gives you a place to rank in Google for local searches.</p>
+<h3>Should I put prices on my tree surgery website?</h3>
+<p>Fixed prices are hard because every job differs, but explaining what affects the cost, such as size, access, proximity to buildings and waste, helps customers feel ready to ask. Some firms show typical starting points for simple jobs like stump grinding.</p>
+<h3>How do I get more reviews as a tree surgeon?</h3>
+<p>Ask at the end of every job while the customer is pleased with the result, then follow up with a short text containing your review link. Reply to every review so future customers can see you care about service.</p>
+<h3>Is Google Ads worth it for tree work?</h3>
+<p>It can be, especially for felling, large reductions and storm damage, provided campaigns target your real service area, exclude irrelevant searches and send people to the right service page. Track calls and form enquiries so you know what is working.</p>
+<h3>Should my website mention Tree Preservation Orders?</h3>
+<p>A short, general explanation is useful, as many customers are unsure. Explain that some trees need consent before work and that they should check with their local council, and point them to current official guidance rather than giving legal advice.</p>
+`,
+  },
+  {
+    slug: 'van-hire-company-marketing-uk',
+    seoTitle: 'Van Hire Marketing UK: Get More Direct Bookings',
+    title: 'Van Hire Marketing in the UK: How to Get More Direct Bookings',
+    description: 'Van hire marketing in the UK works when local search, clear prices, simple online booking and business accounts win direct bookings instead of comparison sites.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/sectors/b2b/'],
+    body: `
+<p>Van hire marketing in the UK is about being easy to find when someone needs a van for a house move, a delivery or a job, then making it simple to book directly rather than through a comparison site or a national brand. The independent van and vehicle hire companies that grow usually combine strong local search, clear vehicle pages, smooth online booking and a separate route for business customers.</p>
+<p>This guide is for independent van hire firms, self-drive vehicle hire companies, minibus hire operators, and garages or dealers running a hire fleet alongside their main business. It covers how customers choose a hire company, your website and booking, local search, paid ads, business accounts, reviews and repeat bookings. We are a studio that builds websites and runs SEO and paid campaigns, so we focus on the digital side of winning hires.</p>
+
+<h2>How customers choose a van hire company</h2>
+<p>Van hire is usually driven by an event: moving house, clearing a garage, collecting furniture, delivering stock or covering for a broken-down vehicle. People search for "van hire near me", "Luton van hire Bristol" or "cheap van hire this weekend", compare a few options and book the one that looks affordable, available and straightforward.</p>
+<p>Price matters, but so does certainty. Customers want to know the total cost, including mileage, insurance, excess and deposit, and whether they meet the licence and age rules. Hidden extras or unclear terms are a common reason people abandon a booking.</p>
+<p>Typical customers include:</p>
+<ul>
+<li><strong>People moving home</strong>, often students, renters and first-time buyers.</li>
+<li><strong>Small businesses and sole traders</strong> needing extra capacity or a replacement vehicle.</li>
+<li><strong>Tradespeople</strong> collecting materials or covering for vehicle repairs.</li>
+<li><strong>Online sellers and market traders</strong> moving stock.</li>
+<li><strong>Groups and organisations</strong> hiring minibuses for trips, if you offer them.</li>
+<li><strong>Larger companies</strong> needing short-term or seasonal fleet cover.</li>
+</ul>
+
+<h2>Van hire marketing UK: local search first</h2>
+<p>Because most searches are local, your Google Business Profile and branch pages do much of the work. Each depot should have a complete profile with accurate hours, including weekend opening, photos of your real vans and yard, and a link to the matching branch page. Encourage customers to leave a review after returning the vehicle, and reply to every review. Our guide on <a href="/blog/how-to-respond-to-google-reviews-uk/">how to respond to Google reviews</a> explains how to handle positive and critical feedback.</p>
+<p>If you have more than one location, each needs its own page with its address, opening times, vehicles available there and local information such as parking or nearby transport. Our article on <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how to structure these pages. For single-depot businesses, our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the basics, including how to target nearby towns honestly.</p>
+
+<h2>Vehicle pages that answer every question</h2>
+<p>Each vehicle type should have its own page, such as small van, medium van, long-wheelbase van, Luton van with tail lift, tipper or minibus. These pages target specific searches and answer the questions that stop people booking.</p>
+<p>A strong vehicle page usually includes:</p>
+<ul>
+<li>Load length, width, height and payload, ideally with a simple guide to what fits, such as a one-bedroom flat.</li>
+<li>Seats, transmission, fuel type and any features such as a tail lift or tow bar.</li>
+<li>Prices by hire period, such as day, weekend and week, with what is included.</li>
+<li>Mileage allowance and any charge for extra miles.</li>
+<li>Insurance cover, excess and any options to reduce it, explained in plain English.</li>
+<li>Deposit amount and how and when it is returned.</li>
+<li>Driver requirements such as minimum age, licence type and documents to bring.</li>
+</ul>
+<p>Licence categories, age rules and document checks can be complex and may change. Keep wording general and accurate, link to your terms, and tell customers to check current guidance on what their licence allows them to drive. Insurance terms should match your actual policy, so ask your insurer or broker to review that wording.</p>
+
+<h2>Pricing pages and online booking</h2>
+<p>Comparison sites and national brands show prices immediately. If your site makes people ring for a quote, many will not bother. Showing clear prices, or at least starting prices, is usually one of the biggest improvements an independent hire company can make. Our guide to <a href="/blog/website-pricing-page-design/">website pricing page design</a> covers how to present prices clearly without overwhelming people.</p>
+<p>Online booking with live availability lets customers reserve a van at any time, including evenings when many people plan moves. Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> explains what to look for. The key points for van hire are mobile-friendly booking, clear extras, deposit or payment taken at booking, and a confirmation email with collection details and what to bring.</p>
+
+<table>
+<thead>
+<tr><th>Customer question</th><th>Where to answer it</th><th>Why it matters</th></tr>
+</thead>
+<tbody>
+<tr><td>Which van do I need?</td><td>Vehicle pages and a simple size guide</td><td>Prevents wrong bookings and reduces calls</td></tr>
+<tr><td>How much will it cost in total?</td><td>Pricing page and booking summary</td><td>Hidden extras cause abandoned bookings</td></tr>
+<tr><td>Can I drive it on my licence?</td><td>Driver requirements section</td><td>Avoids problems at collection</td></tr>
+<tr><td>What happens if it is damaged?</td><td>Insurance and excess explanation</td><td>Builds trust before payment</td></tr>
+<tr><td>When can I collect and return it?</td><td>Branch pages and booking confirmation</td><td>Reduces missed collections and late returns</td></tr>
+<tr><td>Can my business open an account?</td><td>Business hire page</td><td>Captures longer, repeat hires</td></tr>
+</tbody>
+</table>
+
+<h2>Paid search for van hire</h2>
+<p>Google Ads can bring bookings quickly because van hire searches show clear intent. The challenge is competing with large national brands that bid on the same terms. Independents usually do best by focusing on specific local searches, specific vehicle types and the strengths that matter locally, such as weekend availability, friendly service or vans with tail lifts.</p>
+<p>Practical points for van hire campaigns:</p>
+<ul>
+<li>Split campaigns by vehicle type and location rather than using one general campaign.</li>
+<li>Set location targeting around the areas customers realistically travel from to collect.</li>
+<li>Send ads to the matching vehicle or branch page.</li>
+<li>Use call assets during opening hours.</li>
+<li>Exclude searches for buying vans, jobs, van leasing if you do not offer it, and driving tests.</li>
+</ul>
+<p>Our guide to <a href="/blog/google-ads-location-targeting-guide/">Google Ads location targeting</a> explains how to set this up carefully. If you would like help, our <a href="/services/paid-media/">paid media service</a> covers Google Ads and Microsoft Ads for local businesses.</p>
+
+<h2>Business accounts and repeat hires</h2>
+<p>Business customers often hire more often, for longer and on weekdays, which balances weekend demand from people moving home. A dedicated business hire page should explain account options, invoicing, longer-term hire, replacement vehicle cover and how to get a quote for several vehicles.</p>
+<p>Marketing to businesses works differently from marketing to consumers. It relies on trust, responsiveness and staying in touch. Our <a href="/sectors/b2b/">B2B marketing</a> page explains how we approach business audiences. Simple steps such as a quick quote form, a named contact and occasional email updates can help win and keep regular hirers.</p>
+
+<h2>Seasonal demand and content</h2>
+<p>Van hire demand often peaks around the end of the month, bank holidays, the summer and the start and end of university terms. Plan campaigns and offers ahead of these periods, and make sure your availability is accurate online.</p>
+<p>Helpful content can bring in searches and reduce calls, such as guides to choosing the right van for a move, tips for loading a van safely, what to check at collection and how to avoid extra charges. Keep content accurate and practical rather than promotional.</p>
+
+<h2>Website build and ongoing support</h2>
+<p>A fast, clear website with vehicle pages, branch pages and online booking makes every other channel more effective. If your current site is slow, hard to update or sends customers to a confusing third-party page, it may be worth rebuilding. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search, technical SEO and AI search visibility, and you can see our website and retainer options on our <a href="/pricing/">pricing page</a>. Website builds typically take three to five weeks, and SEO and paid results typically build over three to six months.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective van hire marketing in the UK?</h3>
+<p>For most independents, it starts with local search: complete Google Business Profiles, branch pages and vehicle pages with clear prices. Online booking and targeted Google Ads then help turn searches into direct bookings.</p>
+<h3>How can a small van hire company compete with national brands?</h3>
+<p>Focus on local searches, clear and honest pricing, friendly service, flexible collection times and specific vehicles that suit local needs. Strong reviews and fast replies to enquiries also help independents stand out.</p>
+<h3>Should we show van hire prices on our website?</h3>
+<p>Usually, yes. Customers compare quickly and expect to see prices. Show prices by hire period and explain mileage, insurance, excess and deposit clearly so there are no surprises at collection.</p>
+<h3>What should a van hire website say about licences?</h3>
+<p>Explain your minimum age, licence and document requirements in plain English, link to your terms and encourage customers to check current guidance on what their licence allows. Keep wording general and accurate.</p>
+<h3>Do business customers need a separate page?</h3>
+<p>It helps. Business customers want account options, invoicing, longer hire periods and quick quotes for several vehicles. A dedicated page lets you target business searches and campaigns separately.</p>
+<h3>How long does it take to see more direct bookings?</h3>
+<p>Paid search can bring bookings within weeks once campaigns are set up well. SEO and local search typically take three to six months to show steady results, and improve over time.</p>
+`,
+  },
+  {
+    slug: 'wholesale-distributor-marketing-uk',
+    seoTitle: 'Wholesale Distributor Marketing UK: Win More Trade Accounts',
+    title: 'Wholesale Distributor Marketing in the UK: How to Win and Keep More Trade Accounts',
+    description: 'Wholesale distributor marketing in the UK works when trade buyers can find your range, check terms, open an account and reorder easily online.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/sectors/b2b/', '/services/website-ecommerce-development/', '/services/seo-geo/'],
+    body: `
+<p>Wholesale distributor marketing in the UK is about making it easy for trade buyers to find your range, understand your terms and open an account without waiting for a phone call. The distributors that grow online usually pair a searchable product catalogue with a simple trade account process, focused search marketing and steady contact with existing customers so they keep reordering.</p>
+<p>This guide is for wholesalers, cash and carry businesses, trade suppliers and specialist distributors selling to retailers, installers, hospitality businesses or other trade customers. It covers how trade buyers choose a supplier, what your website needs, search and paid media, account growth and how to measure what works.</p>
+
+<h2>How trade buyers choose a wholesale supplier</h2>
+<p>A trade buyer is rarely browsing for fun. They are usually trying to fill a gap: a product line their current supplier has dropped, a brand they need to stock, better delivery terms, or a backup supplier for when stock runs short. They search for specific products, brands, part numbers and categories, often adding words such as wholesale, trade, bulk or supplier.</p>
+<p>Before they contact you they want to know a handful of things. Do you stock what they need, and in what pack sizes? Do you deliver to their area, and how quickly? What is the minimum order? Do you offer credit accounts? Can they see trade prices once approved? If your website hides all of this behind a contact form, many buyers will simply move on to the next result.</p>
+<p>Relationships still matter enormously in wholesale. Reps, phone orders and trade counters are not going away. The aim of digital marketing is to support those relationships: to bring in new enquiries, reduce admin for routine orders and give your team more time for the accounts that need a personal touch.</p>
+
+<h2>Your website as a trade catalogue</h2>
+<p>For most distributors, the website is effectively a catalogue that also takes orders or enquiries. That means product data quality is the single biggest factor in how well it performs, both for buyers and for search engines.</p>
+<ul>
+<li><strong>Clear category structure.</strong> Organise products the way your buyers think, by product type, application or brand, rather than by how your warehouse system happens to group them. A short card sort with a few regular customers is a quick way to test your categories.</li>
+<li><strong>Complete product pages.</strong> Include brand, codes, pack sizes, case quantities, dimensions, specifications and downloadable data sheets where relevant. Buyers searching by part number need that number on the page.</li>
+<li><strong>Fast site search.</strong> Trade buyers often know exactly what they want. Search that handles product codes, partial matches and common misspellings saves them time and saves your team phone calls.</li>
+<li><strong>Stock and lead time signals.</strong> Even a simple in stock, low stock or made to order label helps buyers plan. Only show what your systems can keep accurate.</li>
+<li><strong>Trade account information.</strong> A dedicated page explaining who you supply, how to apply, what documents you need and how long approval takes.</li>
+</ul>
+<p>Whether you need a full ordering portal or a catalogue with quote requests depends on how your customers buy. Some distributors take most orders online with account pricing shown after login. Others publish the range openly and handle orders through reps, phone and email. Both can work well, as long as the website matches how you actually trade.</p>
+<p>We build trade catalogues and ordering sites through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, including integrations where a project needs them. Platforms vary in how they handle trade pricing, customer specific price lists and approval workflows, so check the current features of any platform before you commit, and plan the integration with your stock or accounting system early.</p>
+
+<h2>Choosing the right ordering model</h2>
+<p>There is no single right answer for wholesale ecommerce. The table below compares the most common approaches.</p>
+<table>
+<thead><tr><th>Model</th><th>How it works</th><th>Suits</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Open catalogue with enquiries</td><td>Range visible to all, buyers request quotes or call</td><td>Large or bespoke orders, negotiated pricing</td><td>Slow response times lose buyers</td></tr>
+<tr><td>Login to see prices</td><td>Range visible, prices shown only to approved accounts</td><td>Distributors protecting retail partners and margins</td><td>Approval process must be quick and clear</td></tr>
+<tr><td>Full trade ordering portal</td><td>Approved accounts order online with their own pricing and terms</td><td>High volumes of routine reorders</td><td>Needs reliable stock and pricing data</td></tr>
+<tr><td>Hybrid trade and retail</td><td>Separate trade area alongside a consumer shop</td><td>Brands and suppliers selling both ways</td><td>Avoid confusing buyers about which prices apply</td></tr>
+</tbody>
+</table>
+
+<h2>Wholesale distributor marketing through search</h2>
+<p>Search is where most new trade relationships begin. Buyers search for products and brands, and they also search for suppliers by category and region. A good search strategy for a distributor covers both.</p>
+<p>Start with the product and category pages. These are the pages that can rank for searches like a product type plus wholesale or trade, or a brand name plus UK distributor. Unique category introductions, accurate product titles and clean technical foundations make a big difference here. If manufacturer descriptions are copied across hundreds of sites, adding your own useful detail, such as application notes, compatible products or pack options, helps your pages stand out.</p>
+<p>Then add supporting content that answers real buyer questions: how to choose between two product types, what changes in a regulation mean for a category, or seasonal stocking guides for your customers. Keep any regulatory points general and point readers to current official guidance. Our <a href="/blog/b2b-seo-uk/">B2B SEO guide</a> explains how to plan this kind of content around commercial intent, and structured data for products and your organisation helps search engines understand the catalogue.</p>
+<p>If you supply a defined region, or have multiple depots or trade counters, local search matters too. Each branch should have a consistent Google Business Profile and its own location page with opening hours, collection details and delivery coverage. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> covers this in detail. Our <a href="/services/seo-geo/">SEO and GEO service</a> brings these pieces together, including how your business appears in AI search answers.</p>
+
+<h2>Paid media for wholesalers</h2>
+<p>Paid search works well for distributors because trade searches are often specific and high intent. A buyer searching for a product code plus wholesale is much closer to ordering than someone searching a general term.</p>
+<ul>
+<li><strong>Google Ads and Microsoft Ads search campaigns</strong> targeting brand, category and supplier searches, with negative keywords to filter out consumers looking for one-off retail purchases.</li>
+<li><strong>Shopping campaigns</strong> where you publish prices openly. If prices are behind a login, shopping ads are usually less suitable.</li>
+<li><strong>LinkedIn Ads</strong> to reach buyers, procurement managers and owners in specific industries, useful for launching a new range or entering a new sector.</li>
+<li><strong>Remarketing</strong> to bring back buyers who looked at your trade account page but did not apply.</li>
+</ul>
+<p>The biggest wasted spend in wholesale paid search usually comes from consumers clicking trade ads. Clear ad copy that mentions trade only, minimum orders or account requirements helps filter them out before they click. Our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> explains how to keep campaigns tight, and our <a href="/services/paid-media/">paid media service</a> covers Google, Microsoft and LinkedIn campaigns.</p>
+
+<h2>Turning visitors into trade accounts</h2>
+<p>Your trade account application is the most important conversion on the site. Treat it like a product in its own right.</p>
+<ol>
+<li><strong>Explain who qualifies.</strong> Say plainly which types of business you supply and whether you need a VAT number, company registration or trade references.</li>
+<li><strong>Keep the form short.</strong> Ask for what you need to approve the account and gather the rest afterwards.</li>
+<li><strong>Set expectations.</strong> Tell applicants how long approval usually takes and what happens next.</li>
+<li><strong>Offer an alternative.</strong> Some buyers prefer to talk first, so show a phone number and trade counter details alongside the form.</li>
+<li><strong>Follow up fast.</strong> A welcome email with login details, delivery information and a contact name makes a strong first impression.</li>
+</ol>
+<p>Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> has practical advice on form length, field choices and confirmation messages that applies directly to trade applications.</p>
+
+<h2>Growing existing accounts</h2>
+<p>For most distributors, existing customers deliver far more revenue than new ones. Marketing to them is often the most profitable work you can do.</p>
+<p>Useful tactics include quick reorder from order history, saved lists for regular orders, emails announcing new lines from brands they already buy, seasonal stock reminders, and alerts when popular items are back in stock. Keep emails relevant to what each account actually buys rather than sending every customer every offer. Make sure your email marketing follows UK GDPR and PECR, and check current ICO guidance on business to business email, particularly for sole traders and partnerships, who are treated differently from limited companies.</p>
+
+<h2>Brand and trust for distributors</h2>
+<p>Trade buyers are trusting you with their own customer promises. If you deliver late or short, they look bad. So trust signals matter more than clever slogans.</p>
+<p>Show the things that reassure a buyer: how long you have traded, the brands you are authorised to supply where that is true, your delivery coverage and cut-off times, your returns process and how to reach a real person. Photos of your actual warehouse, vehicles and trade counter carry more weight than stock images. Our <a href="/blog/website-trust-signals/">website trust signals guide</a> covers what to include and how to present it.</p>
+
+<h2>Measuring wholesale marketing</h2>
+<p>Online sales are only part of the picture for most distributors. Many buyers find you online and then call, email or visit the trade counter. Good measurement captures as much of that as possible.</p>
+<table>
+<thead><tr><th>Measure</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Trade account applications</td><td>The clearest sign of new business interest</td></tr>
+<tr><td>Quote requests and calls from the website</td><td>Shows demand from buyers who prefer to talk</td></tr>
+<tr><td>Online orders and reorders</td><td>Tracks how much routine business moves online</td></tr>
+<tr><td>Search visibility for core categories</td><td>Indicates whether new buyers can find you</td></tr>
+<tr><td>Accounts reactivated</td><td>Measures the value of marketing to lapsed customers</td></tr>
+</tbody>
+</table>
+<p>Set up conversion tracking for applications, quote forms and phone clicks so you can see which channels bring real trade enquiries rather than retail browsers. SEO and paid search results for distributors typically build over three to six months.</p>
+
+<h2>How we help wholesale distributors</h2>
+<p>We work with B2B businesses on websites, search, paid media and brand. For distributors that usually means a catalogue or ordering site built around how buyers really search, SEO for categories and brands, tightly managed paid search and clear reporting. You can see how we approach B2B work on our <a href="/sectors/b2b/">B2B sector page</a>, and our <a href="/pricing/">pricing page</a> sets out our monthly retainers, from Launch at £350 a month to Scale at £1,500 a month, with ad spend paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>What is wholesale distributor marketing in the UK?</h3>
+<p>Wholesale distributor marketing in the UK is the work of helping trade buyers find your range, trust your service and open an account, then encouraging them to reorder. It usually combines a searchable product catalogue, SEO, paid search, a clear trade account process and regular contact with existing customers.</p>
+<h3>Should a wholesaler show prices on its website?</h3>
+<p>It depends on your trade terms and your customers. Many distributors show the full range publicly but reveal prices only to approved accounts, which protects margins and retail partners. Others publish list prices to attract new buyers. Choose the approach that matches how you set pricing today.</p>
+<h3>Do wholesale customers really buy online?</h3>
+<p>Many do, particularly for routine reorders, but plenty still prefer to phone, email or visit a trade counter. The best wholesale websites support both, letting buyers order online when it suits them while making it easy to reach a person when they need help.</p>
+<h3>Is Google Ads worth it for a distributor?</h3>
+<p>It can be, especially for specific product, brand and supplier searches where intent is high. The key is filtering out consumer searches with negative keywords and clear trade wording in your ads, then tracking account applications and quote requests rather than just clicks.</p>
+<h3>How can we stop retail customers applying for trade accounts?</h3>
+<p>Be clear about who qualifies, ask for business details such as a company registration or VAT number where appropriate, and mention trade only and minimum order values in your ads and on the account page. Clear wording up front saves time on both sides.</p>
+<h3>How long does wholesale SEO take to work?</h3>
+<p>SEO for distributors typically shows meaningful results within three to six months, depending on the size of your catalogue, the competition in your categories and the condition of your website. Fixing product data and site structure often brings the earliest improvements.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-checkout-setup',
+    seoTitle: 'WooCommerce Checkout Settings: A Practical UK Guide',
+    title: 'WooCommerce Checkout Settings: How to Set Up a Smooth Checkout',
+    description: 'How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/shopify-checkout-settings/', '/pricing/'],
+    body: `
+<p>WooCommerce checkout settings control who can buy from your shop, what details customers are asked for, which payment methods appear and which pages they agree to before paying. Most of them sit across the Accounts and privacy, Payments and Advanced tabs of WooCommerce settings, with the layout of the checkout page itself handled in the page editor. A good set-up keeps the checkout short, clear and trustworthy, which is usually the single easiest place to stop losing sales.</p>
+<p>This guide is for UK shop owners who want to review or set up their WooCommerce checkout properly. It covers the core settings, the choice between the block checkout and the older shortcode checkout, field changes, payments, legal pages and a testing checklist. WooCommerce updates regularly, so menu names may differ slightly in your version.</p>
+
+<h2>Block checkout or shortcode checkout?</h2>
+<p>Before changing anything, find out which checkout your shop uses. Newer WooCommerce installs generally use a block-based checkout built in the WordPress editor. Older shops, and some themes, use a classic checkout created with a shortcode.</p>
+<table>
+<thead><tr><th>Area</th><th>Block checkout</th><th>Shortcode checkout</th></tr></thead>
+<tbody>
+<tr><td>How you edit it</td><td>Open the checkout page in the editor and adjust blocks and their settings</td><td>Mostly through settings, theme options, code or extensions</td></tr>
+<tr><td>Field changes</td><td>Some options in the editor; deeper changes need compatible extensions</td><td>Long-established hooks and many field editor plugins</td></tr>
+<tr><td>Extension support</td><td>Depends on whether each extension supports blocks</td><td>Widest historic support</td></tr>
+<tr><td>Typical fit</td><td>New shops and those keeping customisation light</td><td>Shops relying on older extensions or heavy custom code</td></tr>
+</tbody>
+</table>
+<p>The key check is compatibility. If a payment, delivery or upsell extension you rely on does not support the block checkout, it may not appear at all. Check each extension's current documentation before switching. Test any switch on a staging copy first.</p>
+
+<h2>How to set up WooCommerce checkout settings</h2>
+<ol>
+<li><strong>Accounts and privacy.</strong> Decide whether customers can check out as guests, whether they can create an account during checkout and whether accounts are created automatically. Link your privacy policy here too.</li>
+<li><strong>Payments.</strong> Enable the payment methods you want, set their titles and descriptions, and put them in a sensible order.</li>
+<li><strong>Advanced.</strong> Confirm which pages act as the basket, checkout, my account and terms pages, and check that the site forces secure connections.</li>
+<li><strong>Shipping.</strong> Confirm your delivery zones and methods so the right options show for UK and any overseas addresses.</li>
+<li><strong>Tax.</strong> Check how prices and tax are shown in the basket and at checkout.</li>
+<li><strong>Emails.</strong> Review the order confirmation and other emails customers receive after checking out.</li>
+<li><strong>The page itself.</strong> Open the checkout page in the editor, or review your theme's checkout, and adjust fields, order summary and notices.</li>
+</ol>
+<p>If you also run a Shopify shop, our guide to <a href="/blog/shopify-checkout-settings/">Shopify checkout settings</a> covers the equivalent choices on that platform.</p>
+
+<h2>Guest checkout and accounts</h2>
+<p>Forcing people to create an account before they can pay is a common reason for abandoned checkouts. For most UK shops, allow guest checkout and offer account creation as an option, either during checkout or afterwards on the order confirmation.</p>
+<p>Accounts do have real benefits for repeat buyers, such as order history and saved addresses. The aim is to offer them without making them a barrier. If you sell to trade customers who need accounts for pricing, you can still keep a guest route for everyone else.</p>
+
+<h2>Trimming checkout fields</h2>
+<p>Every field is a small reason to stop. Look at each one and ask whether you genuinely need it to take payment, deliver the order or meet a legal requirement.</p>
+<ul>
+<li><strong>Company name:</strong> optional, or hidden if you rarely sell to businesses.</li>
+<li><strong>Address line 2:</strong> optional.</li>
+<li><strong>Phone number:</strong> useful for couriers, but consider making it optional and explaining why you ask.</li>
+<li><strong>Order notes:</strong> keep if customers use them for delivery instructions, remove if not.</li>
+<li><strong>County:</strong> rarely essential for UK addresses; consider making it optional.</li>
+</ul>
+<p>Clear labels and helpful error messages matter as much as the number of fields. If someone mistypes a postcode, the message should say what is wrong and how to fix it. Our guide to <a href="/blog/website-form-error-messages/">website form error messages</a> covers the details.</p>
+<p>Collect only what you need and explain how you use it. UK GDPR applies to the personal data you collect at checkout, so check the ICO's current guidance and make sure your privacy policy reflects what you actually do.</p>
+
+<h2>Payment methods UK shoppers expect</h2>
+<p>Most UK shoppers expect to pay by card, and many also look for digital wallets such as Apple Pay and Google Pay. Some shops add PayPal or a buy now, pay later option. Each method you add should earn its place, because a long list can slow people down.</p>
+<p>Our guide to <a href="/blog/payment-gateways-uk-online-shop/">payment gateways for UK online shops</a> compares the main options and what to check before choosing. If you offer buy now, pay later, follow the provider's current rules on how it is promoted, and check current official guidance on how these products are advertised.</p>
+
+<h2>Terms, privacy and returns</h2>
+<p>WooCommerce lets you set a terms and conditions page, which can add a checkbox or notice at checkout, and a privacy policy page. Make sure both pages exist, are up to date and actually describe how your shop works. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> explains what these pages usually cover, though it is general information and you should take legal advice for your own circumstances.</p>
+<p>Link to your delivery and returns information near the order summary. Customers often hesitate at checkout to double-check delivery costs or returns, and sending them hunting through the footer is a good way to lose them.</p>
+
+<h2>Making the checkout mobile-friendly</h2>
+<p>A large share of shoppers will check out on a phone. Test the full journey on a real mobile device, not just a resized browser window. Look for:</p>
+<ul>
+<li>Fields that trigger the right keyboard, such as numbers for phone fields and email layouts for email fields.</li>
+<li>Buttons big enough to tap without zooming.</li>
+<li>An order summary that is easy to open and check.</li>
+<li>Digital wallet buttons that appear and work.</li>
+<li>No pop-ups covering the payment button.</li>
+</ul>
+<p>Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers broader principles that apply here too.</p>
+
+<h2>Tracking checkout performance</h2>
+<p>You cannot improve what you cannot see. Make sure your analytics records when people begin checkout and when they complete a purchase, so you can see where they drop out. Our <a href="/blog/ga4-setup-uk/">GA4 set-up guide</a> explains how to get ecommerce events recording properly.</p>
+<p>Look at the figures alongside your abandoned basket emails. Some people will always leave, but a sudden rise in drop-off after an update usually points to something broken. Our guide to <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a> covers how to win some of those sales back.</p>
+
+<h2>A checkout testing checklist</h2>
+<p>Run these checks before launch, after major WooCommerce or theme updates, and whenever you add a payment or delivery extension:</p>
+<ol>
+<li>Place an order as a guest and as a logged-in customer.</li>
+<li>Pay with each payment method, using test mode where the provider offers it.</li>
+<li>Choose each delivery option, including any collection option, with UK and overseas addresses.</li>
+<li>Apply a discount code and check the totals.</li>
+<li>Trigger a failed payment and check the message is clear.</li>
+<li>Check the order confirmation page and email.</li>
+<li>Repeat the key steps on a phone.</li>
+<li>Confirm the order appears correctly in the admin and in your analytics.</li>
+</ol>
+
+<h2>When to get help</h2>
+<p>Checkouts get complicated when extensions conflict, custom fields are needed for trade customers, or you are moving from the shortcode checkout to blocks. That is often where small problems quietly cost sales. We build and improve WooCommerce shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, and our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> explains how we approach improving conversion across a whole shop. Typical costs are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Where are the WooCommerce checkout settings?</h3>
+<p>They are spread across several tabs of WooCommerce settings: Accounts and privacy for guest checkout and accounts, Payments for payment methods, and Advanced for the checkout, basket and terms pages. The layout of the checkout itself is edited on the checkout page or through your theme.</p>
+<h3>How do I enable guest checkout in WooCommerce?</h3>
+<p>Go to WooCommerce settings, then Accounts and privacy, and allow customers to place orders without an account. You can still offer account creation during or after checkout for those who want it.</p>
+<h3>How do I remove fields from the WooCommerce checkout?</h3>
+<p>On the block checkout, some fields such as company name and phone can be made optional or hidden in the checkout block settings. For deeper changes, or on the shortcode checkout, you will usually need a compatible field editor extension or custom code.</p>
+<h3>Should I use the WooCommerce block checkout?</h3>
+<p>For new shops with light customisation, it is often a good default. If you rely on extensions that do not yet support it, the shortcode checkout may still be needed. Check compatibility and test on a staging copy before switching.</p>
+<h3>How do I add terms and conditions to the WooCommerce checkout?</h3>
+<p>Create your terms page, then select it as the terms page in WooCommerce settings. Depending on your checkout type, customers then see a checkbox or a notice linking to it before they place their order.</p>
+<h3>Why are customers abandoning my WooCommerce checkout?</h3>
+<p>Common reasons include forced account creation, surprise delivery costs, too many fields, missing payment options, slow pages and errors on mobile. Review your analytics for where people leave and test the journey yourself on a phone.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-product-csv-import',
+    seoTitle: 'WooCommerce Product CSV Import and Export Guide',
+    title: 'WooCommerce Product CSV Import and Export: A Practical Guide',
+    description: 'How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>WooCommerce product CSV import lets you add or update many products at once from a spreadsheet, and the matching export gives you a spreadsheet of products you already have. Both tools sit on the Products screen in your WordPress admin, behind the Import and Export buttons. Used carefully, they save hours on new ranges, price changes and stock updates. Used carelessly, they can overwrite a catalogue in seconds.</p>
+<p>This guide is for UK shop owners and teams who want to use the built-in WooCommerce importer and exporter with confidence. It covers preparing the file, mapping columns, variable products, images, bulk updates and the mistakes that cause the most trouble. Extensions can add more advanced import options, but the core tools are enough for most shops.</p>
+
+<h2>What the import and export tools can do</h2>
+<table>
+<thead><tr><th>Task</th><th>Built-in tool suitable?</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Add a new range of simple products</td><td>Yes</td><td>Start from an exported template</td></tr>
+<tr><td>Update prices or sale prices in bulk</td><td>Yes</td><td>Match on SKU or ID and tick the option to update existing products</td></tr>
+<tr><td>Update stock quantities</td><td>Yes</td><td>Only include the columns you need to change</td></tr>
+<tr><td>Import variable products with variations</td><td>Yes, with care</td><td>Parent and variation rows must link correctly</td></tr>
+<tr><td>Import product images</td><td>Yes, from public image URLs</td><td>Large batches can be slow</td></tr>
+<tr><td>Import orders or customers</td><td>No, not with the product importer</td><td>Needs separate tools or extensions</td></tr>
+<tr><td>Scheduled or automatic syncs</td><td>No</td><td>Needs an extension or integration</td></tr>
+</tbody>
+</table>
+<p>WordPress also has its own import and export tools for posts and pages, which work differently. Our guide to <a href="/blog/wordpress-import-and-export-tools/">WordPress import and export tools</a> covers those.</p>
+
+<h2>Before you import anything</h2>
+<ol>
+<li><strong>Back up the site.</strong> A full backup, including the database, means a bad import can be undone. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> guide explains what to keep.</li>
+<li><strong>Use a staging copy for big jobs.</strong> Test large or unfamiliar imports away from the live shop first, as set out in our guide to <a href="/blog/website-staging-and-testing/">staging and testing</a>.</li>
+<li><strong>Export a sample.</strong> Export a handful of existing products of each type to see exactly how columns are named and filled.</li>
+<li><strong>Agree your SKUs.</strong> Every product and variation should have a unique SKU before you start.</li>
+</ol>
+
+<h2>How to do a WooCommerce product CSV import</h2>
+<ol>
+<li>Prepare your file using your exported sample as the template, saved as a UTF-8 CSV.</li>
+<li>In WordPress, go to Products and choose Import.</li>
+<li>Upload the file. If you are updating existing products, tick the option to update products that already exist.</li>
+<li>Check the column mapping screen. WooCommerce tries to match your headings to its fields; correct any it misses and set unneeded columns to be ignored.</li>
+<li>Run the import and wait for it to finish without closing the window.</li>
+<li>Read the summary. It shows how many products were created, updated, skipped or failed.</li>
+<li>Spot-check products in the admin and on the front end.</li>
+</ol>
+
+<h2>Preparing the CSV file</h2>
+<p>Most import problems start in the spreadsheet. A few rules help:</p>
+<ul>
+<li><strong>Save as UTF-8.</strong> Otherwise symbols such as £ and accented characters can turn into strange characters.</li>
+<li><strong>Keep headings unchanged.</strong> If you use WooCommerce's own exported headings, mapping is almost automatic.</li>
+<li><strong>Watch number formats.</strong> Prices should be plain numbers without the £ sign, using a full stop for decimals.</li>
+<li><strong>Protect SKUs and barcodes.</strong> Spreadsheet software can strip leading zeros or turn long numbers into scientific notation. Format those columns as text.</li>
+<li><strong>Separate multiple values carefully.</strong> Categories, tags and images that hold several values use specific separators; follow the format shown in your export.</li>
+<li><strong>Use category paths for subcategories.</strong> Exports show how parent and child categories are written, so copy that pattern.</li>
+</ul>
+<p>Descriptions can include basic HTML. If you are writing new product copy at the same time, our guide to <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions</a> covers what makes them work for shoppers and search.</p>
+
+<h2>Importing variable products</h2>
+<p>Variable products, such as a jumper in several sizes and colours, are the trickiest part of any import. Each needs one row for the parent product and one row for each variation.</p>
+<ul>
+<li>The parent row has the type set to variable, the product name, description, categories and the full list of attribute values.</li>
+<li>Each variation row has the type set to variation, a parent reference pointing to the parent's SKU or ID, its own SKU, price and stock, and the specific attribute values for that variation.</li>
+<li>Attribute names must match exactly across the parent and its variations, including capital letters and spaces.</li>
+</ul>
+<p>The easiest way to get this right is to create one variable product by hand, export it and copy its structure. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains how to plan variations before you build them.</p>
+
+<h2>Importing product images</h2>
+<p>The importer can fetch images from URLs listed in the images column. The first image becomes the main product image and the rest go into the gallery. The images must be publicly reachable when the import runs.</p>
+<p>Compress and resize images before you upload them anywhere. Large originals slow down both the import and the shop. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers sizes and formats. For big catalogues, consider importing product data first and images in a second pass, so a slow image server does not cause the whole job to time out.</p>
+
+<h2>Bulk updates with a CSV</h2>
+<p>CSV imports are excellent for changing many products at once, for example a seasonal price change or a stock count. The safe pattern is:</p>
+<ol>
+<li>Export only the products and columns you need, plus the ID or SKU.</li>
+<li>Edit only the values that should change.</li>
+<li>Delete any columns you are not changing, so you cannot overwrite them by accident.</li>
+<li>Import with the update existing products option ticked.</li>
+<li>Check a sample of products afterwards.</li>
+</ol>
+<p>Be careful with empty cells. Depending on the column, a blank value may be ignored or may clear existing data. Removing unneeded columns is the simplest protection.</p>
+
+<h2>Exporting products</h2>
+<p>The exporter lets you choose which columns, product types and categories to include, and whether to add custom meta from extensions. Exports are useful for:</p>
+<ul>
+<li>Creating templates for new products.</li>
+<li>Reviewing the catalogue for missing descriptions, prices or SKUs.</li>
+<li>Sharing product data with suppliers or marketplaces.</li>
+<li>Keeping a snapshot before a big change.</li>
+<li>Moving to another platform. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration</a> guide explains how product exports fit into a wider move, and our <a href="/blog/shopify-product-csv-import/">Shopify product CSV import</a> guide covers the format on the other side.</li>
+</ul>
+
+<h2>Common import errors and fixes</h2>
+<table>
+<thead><tr><th>Problem</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Duplicate products created</td><td>Update option not ticked, or SKU and ID missing or different</td><td>Delete duplicates, fix identifiers and re-import with update ticked</td></tr>
+<tr><td>Garbled £ signs or accents</td><td>File not saved as UTF-8</td><td>Re-save as UTF-8 CSV</td></tr>
+<tr><td>Variations missing</td><td>Parent reference or attribute names do not match</td><td>Compare with an exported variable product</td></tr>
+<tr><td>Images not imported</td><td>URLs not public, broken or blocked</td><td>Test URLs in a browser and re-run images separately</td></tr>
+<tr><td>SKUs changed or lost zeros</td><td>Spreadsheet number formatting</td><td>Format SKU and barcode columns as text</td></tr>
+<tr><td>Import stops partway</td><td>Server time limits or very large file</td><td>Split the file into smaller batches</td></tr>
+</tbody>
+</table>
+
+<h2>When to get help</h2>
+<p>For a few dozen products, the built-in tools are usually all you need. Large catalogues, complex variations, data from supplier feeds or a platform move are where mistakes get expensive. We handle product imports, catalogue clean-ups and migrations through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, from planning the spreadsheet to checking the results. Typical project costs are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I do a WooCommerce product CSV import?</h3>
+<p>Go to Products in your WordPress admin and choose Import. Upload a UTF-8 CSV, tick the update option if you are changing existing products, check the column mapping and run the import. Then review the summary and spot-check products.</p>
+<h3>How do I export products from WooCommerce?</h3>
+<p>Go to Products and choose Export. Select the columns, product types and categories you want, decide whether to include custom meta, then generate the CSV. Exporting a small sample first is a good way to get a template.</p>
+<h3>Can I update prices in WooCommerce with a CSV?</h3>
+<p>Yes. Export the products with their ID or SKU and price columns, change the prices, remove other columns and import with the option to update existing products ticked. Check a few products afterwards.</p>
+<h3>Why does my WooCommerce import create duplicate products?</h3>
+<p>Usually because the update existing products option was not ticked, or the SKU or ID in the file does not match the existing product. The importer then treats each row as a new product.</p>
+<h3>How do I import variable products into WooCommerce?</h3>
+<p>Include one row for the parent product and one row per variation. Each variation row needs a parent reference and the exact attribute values. Building one variable product by hand and exporting it gives you a reliable template.</p>
+<h3>Can WooCommerce import product images from a CSV?</h3>
+<p>Yes, if the images column lists publicly reachable image URLs. The first becomes the main image and the rest the gallery. Optimise images first and split large imports into batches.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-stock-management',
+    seoTitle: 'WooCommerce Stock Management: A Practical UK Guide',
+    title: 'WooCommerce Stock Management: How to Track Inventory Properly',
+    description: 'How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>WooCommerce stock management lets your shop track how many of each product you hold, reduce the count when orders are placed and stop selling, or allow backorders, when items run out. You switch it on in the inventory settings, then turn on stock tracking for each product or variation and enter a quantity. Done well, it stops you selling items you do not have and warns you before popular lines run dry.</p>
+<p>This guide is for UK shop owners running WooCommerce who want their stock figures to be trusted. It covers the global settings, product and variation stock, backorders, held stock, low stock alerts and the everyday habits that keep the numbers right. Menu names can shift between WooCommerce versions and extensions, so check against your own admin as you go.</p>
+
+<h2>How WooCommerce stock management works</h2>
+<p>At its simplest, each tracked product has a stock quantity. When a customer places an order, WooCommerce reduces that quantity. When stock hits your out of stock threshold, the product's status changes and, depending on your settings, it either becomes unavailable to buy, disappears from the catalogue or accepts backorders.</p>
+<p>There are three stock statuses to understand:</p>
+<ul>
+<li><strong>In stock:</strong> the product can be bought.</li>
+<li><strong>Out of stock:</strong> it cannot be bought, and may be hidden if you choose.</li>
+<li><strong>On backorder:</strong> it can be bought even though you do not currently hold it.</li>
+</ul>
+<p>If stock management is off for a product, you set the status by hand. That suits made-to-order items or digital goods, but it means WooCommerce will never change the status for you.</p>
+
+<h2>The global inventory settings</h2>
+<p>Go to WooCommerce settings, then the Products tab, then Inventory. These options apply across the shop.</p>
+<table>
+<thead><tr><th>Setting</th><th>What it does</th><th>A sensible starting point</th></tr></thead>
+<tbody>
+<tr><td>Manage stock</td><td>Turns stock tracking on for the shop</td><td>On, if you sell physical goods from held stock</td></tr>
+<tr><td>Hold stock (minutes)</td><td>Reserves stock for unpaid orders, then cancels them</td><td>Long enough for slow payment methods to complete, short enough not to block other buyers</td></tr>
+<tr><td>Notifications</td><td>Emails you about low stock and out of stock items</td><td>On, sent to an inbox someone actually reads</td></tr>
+<tr><td>Low stock threshold</td><td>The quantity that triggers a low stock email</td><td>Based on how long restocking takes, not a round number</td></tr>
+<tr><td>Out of stock threshold</td><td>The quantity at which a product is treated as out of stock</td><td>Usually zero, or a small buffer if counts are sometimes off</td></tr>
+<tr><td>Out of stock visibility</td><td>Hides sold-out items from the catalogue</td><td>Often off, so pages stay live for returning stock</td></tr>
+<tr><td>Stock display format</td><td>Controls whether and how quantities show to shoppers</td><td>Show only when low, or never</td></tr>
+</tbody>
+</table>
+<p>The out of stock visibility setting deserves thought. Hiding sold-out products can feel tidy, but it can also remove pages that have built up search visibility and links. Our guide to <a href="/blog/woocommerce-seo-uk/">WooCommerce SEO</a> explains why keeping strong product pages live is usually the better default when stock is expected back.</p>
+
+<h2>Setting stock on simple products</h2>
+<p>Open the product, go to the Inventory tab in the product data panel and tick the option to manage stock at product level. Enter the quantity, choose whether backorders are allowed and, if you like, set a product-specific low stock threshold that overrides the shop-wide one.</p>
+<p>Fill in the SKU field while you are there. SKUs make stock counts, imports and supplier orders far easier, and they help when you connect your shop to other systems such as Google Merchant Center, covered in our guide to <a href="/blog/google-merchant-center-setup-uk/">Merchant Center set-up</a>.</p>
+<p>The "sold individually" option limits each order to one of that item, which can help with limited editions or high-demand drops.</p>
+
+<h2>Managing stock for variations</h2>
+<p>Variable products, such as a T-shirt in five sizes and three colours, can track stock in two ways:</p>
+<ul>
+<li><strong>At product level:</strong> all variations share one quantity. Useful when variations are only cosmetic labels on the same physical item.</li>
+<li><strong>At variation level:</strong> each size and colour has its own quantity. This is what most clothing and footwear shops need.</li>
+</ul>
+<p>To track at variation level, open each variation and tick its own manage stock box, then enter the quantity. On products with many variations this gets slow, so bulk edit actions or a CSV import usually save time. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers how to structure variations so they stay manageable.</p>
+<p>A common mistake is leaving one variation untracked while the others are tracked. That variation then stays in stock forever, and you oversell it. Check every variation when you set up a new range.</p>
+
+<h2>Backorders: when to allow them</h2>
+<p>For each product you can choose not to allow backorders, to allow them, or to allow them but notify the customer. Allowing backorders keeps sales coming in while you wait for a delivery, but only works if you are confident when stock will arrive.</p>
+<p>If you allow them, be honest about it. Make sure the product page says the item is on backorder and gives an expected dispatch time, and that the order confirmation repeats it. Customers who know an item ships in three weeks are usually fine. Customers who find out after paying are not. Our guide to <a href="/blog/ecommerce-stock-availability-display/">showing stock availability</a> covers wording and design, and the <a href="/blog/shopify-pre-orders/">Shopify pre-orders</a> guide explains the related idea of selling items before they launch, which applies to WooCommerce shops too even though the tools differ.</p>
+
+<h2>Held stock and pending orders</h2>
+<p>When a customer reaches payment, WooCommerce can hold stock for their unpaid order for a set number of minutes. If payment does not complete, the order is cancelled and the stock returned. This stops two people buying the last item at once, but if the hold time is too long, popular items can look out of stock while abandoned orders sit pending.</p>
+<p>Check which order statuses reduce stock in your set-up. Generally, stock reduces when an order is placed and paid, or when it is set to processing or on hold. Cancelled and refunded orders can restore stock, but refunds often ask whether to restock the items, and it is easy to miss that tick box. If returned items are damaged and cannot be resold, do not restock them.</p>
+
+<h2>A simple stock routine for UK shops</h2>
+<p>Software only tracks what it is told. These habits keep the numbers trustworthy:</p>
+<ol>
+<li><strong>Book in deliveries the day they arrive.</strong> Update quantities before you unpack everything onto shelves.</li>
+<li><strong>Record returns properly.</strong> Restock only items that are fit to resell.</li>
+<li><strong>Log damaged or lost stock.</strong> Adjust quantities and note why.</li>
+<li><strong>Review the stock report weekly.</strong> WooCommerce reports and analytics show low and out of stock items.</li>
+<li><strong>Do a regular physical count.</strong> Count a section of stock each week, or the whole lot each quarter, and correct any differences.</li>
+<li><strong>Track one channel of truth.</strong> If you also sell on marketplaces or in person, decide which system holds the master count.</li>
+</ol>
+
+<h2>Selling in more than one place</h2>
+<p>Many UK shops also sell at markets, in a physical shop or on marketplaces. Without syncing, every channel has its own idea of what is left, and overselling follows. Options include inventory management extensions, marketplace connectors or a separate stock system that pushes figures to WooCommerce. Each adds cost and another point of failure, so choose based on how many orders actually come through each channel.</p>
+<p>If you are weighing up whether WooCommerce is still the right platform for a growing multi-channel business, our <a href="/blog/shopify-inventory-management/">Shopify inventory management</a> guide shows how stock works on the alternative, which can be useful for comparison.</p>
+
+<h2>Common stock problems and fixes</h2>
+<table>
+<thead><tr><th>Problem</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Product oversold</td><td>Stock not tracked on that product or variation</td><td>Turn on manage stock and enter the true quantity</td></tr>
+<tr><td>Item shows out of stock but is on the shelf</td><td>Delivery not booked in, or stock held by pending orders</td><td>Update the quantity and review the hold stock time</td></tr>
+<tr><td>Counts drift over time</td><td>Returns, damages or offline sales not recorded</td><td>Add these to your weekly routine and run counts</td></tr>
+<tr><td>No low stock emails</td><td>Notifications off or sent to an unused inbox</td><td>Check the notification settings and email deliverability</td></tr>
+<tr><td>Stock changes unexpectedly</td><td>A plugin or connector writing to stock</td><td>Check extension settings and logs</td></tr>
+</tbody>
+</table>
+
+<h2>When to bring in help</h2>
+<p>Stock management becomes harder with large catalogues, many variations, several sales channels or connections to accounting and warehouse systems. That is when a review of your set-up pays off. We build and support WooCommerce shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, including inventory settings, imports and extensions, and our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we work with online retailers more widely. For ongoing upkeep, our guide to <a href="/blog/website-support-plan-what-to-include/">what a website support plan should include</a> is a useful checklist. You can see typical costs on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How does WooCommerce stock management work?</h3>
+<p>You enable stock management in the inventory settings, then track quantities on each product or variation. WooCommerce reduces stock when orders are placed and changes the status to out of stock when the quantity reaches your threshold, unless you allow backorders.</p>
+<h3>How do I turn on stock tracking in WooCommerce?</h3>
+<p>Go to WooCommerce settings, the Products tab and Inventory, and enable stock management. Then open each product, go to its Inventory tab, tick manage stock and enter the quantity. For variable products, you can also set stock per variation.</p>
+<h3>Should I hide out of stock products in WooCommerce?</h3>
+<p>Usually not, if the product is coming back. Keeping the page live preserves its search visibility and lets customers find it later. Hide or redirect products only when they are discontinued for good.</p>
+<h3>What does hold stock mean in WooCommerce?</h3>
+<p>It reserves stock for unpaid orders for a set number of minutes. If payment is not completed in that time, the order is cancelled and the stock goes back. Set it long enough for genuine payments to finish.</p>
+<h3>Can WooCommerce send low stock alerts?</h3>
+<p>Yes. You can enable low stock and out of stock email notifications, set a shop-wide low stock threshold and override it on individual products. Make sure the emails go to an inbox someone checks.</p>
+<h3>Why is my WooCommerce stock wrong?</h3>
+<p>The usual reasons are untracked variations, deliveries or returns not being recorded, sales through other channels, or a plugin changing stock. A physical count and a check of each product's settings will usually show where the gap comes from.</p>
+`,
+  },
+  {
+    slug: 'woocommerce-vat-tax-settings-uk',
+    seoTitle: 'WooCommerce VAT Settings: A UK Store Owner\'s Guide',
+    title: 'WooCommerce VAT Settings: How to Set Up Tax on a UK Store',
+    description: 'How to set up WooCommerce VAT settings for a UK shop: enabling taxes, price display, standard and reduced rate tables, shipping tax and testing orders.',
+    date: '2026-11-08',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/blog/woocommerce-agency-uk/', '/pricing/'],
+    body: `
+<p>WooCommerce VAT settings control whether your shop charges tax, at what rates, and whether the prices you type in already include VAT. For a UK store, you switch taxes on in the general settings, choose how prices are entered and displayed, and then add rate tables for the standard rate and any reduced or zero-rated products you sell. WooCommerce does the arithmetic, but it relies entirely on the instructions you give it.</p>
+<p>This guide is for UK owners of WooCommerce shops, whether you are building a new store or checking one that has been running for a while. It explains where the options sit, what each one does, how to handle products that are not standard rated, and how to test the result before customers see it. It is general guidance on how the software works, not tax advice. VAT rules depend on your products, customers and circumstances, so always confirm your set-up with an accountant and check HMRC's current guidance.</p>
+
+<h2>Decide what your shop needs to do first</h2>
+<p>The settings are the easy part. The decisions behind them are what matter, so answer these questions before you change anything.</p>
+<ul>
+<li><strong>Are you VAT registered?</strong> Whether you must register depends on your taxable turnover against HMRC's threshold. If you are not registered, you generally should not be charging VAT, and the simplest set-up is to leave taxes switched off.</li>
+<li><strong>Which rates apply to your products?</strong> UK goods can be standard rated, reduced rated, zero rated or exempt. The lines can be fine, especially in food, children's items and some health-related goods.</li>
+<li><strong>Where do your customers live?</strong> Selling into Northern Ireland, the EU or further afield can bring separate rules. Our guide to <a href="/blog/selling-internationally-uk-online-store/">selling internationally from a UK online store</a> covers the wider decisions.</li>
+<li><strong>Do you sell digital products?</strong> Downloads and other digital goods sold to consumers can follow different rules from physical goods.</li>
+</ul>
+<p>If any answer is uncertain, speak to your accountant before you configure anything. Changing a setting takes seconds. Correcting VAT charged on hundreds of past orders does not.</p>
+
+<h2>How to set up WooCommerce VAT settings for the UK</h2>
+<p>The menu labels below reflect how WooCommerce has generally been organised, but plugins and updates do move things around, so treat this as a map rather than a script.</p>
+<ol>
+<li><strong>Enable taxes.</strong> In WooCommerce settings, on the General tab, tick the option to enable tax rates and calculations. A Tax tab then appears.</li>
+<li><strong>Check your store address.</strong> The base location on the General tab matters, because WooCommerce can use it when calculating tax.</li>
+<li><strong>Choose how prices are entered.</strong> On the Tax tab, decide whether the prices you type in include tax or exclude it.</li>
+<li><strong>Choose the calculation basis.</strong> Pick whether tax is worked out from the customer's shipping address, billing address or your shop's base address.</li>
+<li><strong>Set shipping tax.</strong> Decide which tax class applies to delivery charges.</li>
+<li><strong>Set display options.</strong> Choose how prices appear in the shop and in the basket and checkout, and how tax totals are shown.</li>
+<li><strong>Add your rate tables.</strong> Enter the UK standard rate, then any additional classes you need.</li>
+<li><strong>Test.</strong> Place test orders covering each type of product and delivery option you offer.</li>
+</ol>
+<p>If you also run a Shopify shop, our guide to <a href="/blog/shopify-vat-tax-settings-uk/">Shopify VAT settings</a> covers the same decisions on that platform, which can help if you are comparing the two.</p>
+
+<h2>Prices entered including or excluding VAT</h2>
+<p>This is the setting most worth getting right first time. UK consumers generally expect to see prices that already include VAT, and most UK retailers price that way. If you enter prices including tax, a product you list at £24 shows as £24 to a UK shopper, and WooCommerce works out the VAT portion behind the scenes.</p>
+<p>If you enter prices excluding tax, WooCommerce adds VAT on top. That can suit trade-only shops whose customers think in net prices, but it often produces awkward retail prices such as £28.79 rather than a tidy £29.</p>
+<p>Switching from one approach to the other after launch is risky. Every price in the catalogue suddenly means something different, so a full price review is needed. Settle this before you import products.</p>
+
+<table>
+<thead><tr><th>Setting</th><th>Typical choice for a UK retail shop</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Prices entered with tax</td><td>Yes, prices include VAT</td><td>Keeps shelf prices tidy and matches what UK shoppers expect</td></tr>
+<tr><td>Calculate tax based on</td><td>Customer shipping address</td><td>Lets overseas or non-UK orders be treated differently where rules require it</td></tr>
+<tr><td>Shipping tax class</td><td>Often based on the basket items</td><td>Delivery can follow the VAT treatment of the goods; check this with your accountant</td></tr>
+<tr><td>Display prices in the shop</td><td>Including tax</td><td>Avoids a price jump at checkout</td></tr>
+<tr><td>Display tax totals</td><td>As a single total or itemised</td><td>Itemised can help when baskets mix different rates</td></tr>
+<tr><td>Additional tax classes</td><td>Reduced rate and zero rate, if needed</td><td>Lets you assign non-standard products correctly</td></tr>
+</tbody>
+</table>
+<p>These are common choices, not rules. Your accountant may recommend something different based on your products and customers.</p>
+
+<h2>Standard, reduced and zero-rate tax classes</h2>
+<p>WooCommerce uses tax classes to apply different rates to different products. By default it comes with a standard class plus classes for reduced and zero rates, and you can add your own names on the Tax tab.</p>
+<p>For each class, you add one or more rows to its rate table. A simple UK row usually includes the country code GB, leaves the county, postcode and city fields empty so it applies across the country, enters the current rate as a percentage, gives it a clear name such as VAT, and ticks whether it applies to shipping. Check HMRC's current guidance for the rates themselves rather than copying a figure from an old tutorial.</p>
+<p>Then, on each product, choose the right tax status and class in the product data panel. Variable products can set a class per variation if needed, which is useful when, for example, some sizes in a range fall under a different rate. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> covers how to structure those products more generally.</p>
+<p>A few habits keep this tidy:</p>
+<ul>
+<li>Keep a spreadsheet listing which products sit in which class and why, agreed with your accountant.</li>
+<li>Add the tax class column to any product CSV you import, so new stock does not quietly default to standard rate.</li>
+<li>Review the list whenever you add a new product type.</li>
+</ul>
+
+<h2>Delivery charges and VAT</h2>
+<p>Delivery is where many shops go wrong. The VAT treatment of delivery charges can depend on what is being delivered, and mixed baskets can make it more complicated. WooCommerce gives you a shipping tax class setting, including an option to base it on the items in the basket.</p>
+<p>Whatever you choose, make sure it matches how your shipping methods are configured. If your flat rate is entered as £4.95 and taxes are calculated on top, a customer may see a different figure from the one you advertise on your delivery page. Our guide to <a href="/blog/online-shop-shipping-rates-uk/">online shop shipping rates</a> walks through setting up those methods, and it is worth reviewing both together.</p>
+
+<h2>Showing VAT to customers</h2>
+<p>Customers, especially business buyers, want to see VAT clearly. Check these places:</p>
+<ul>
+<li><strong>Product pages:</strong> many shops add a short note such as "inc. VAT" beside the price, which can be set as a price display suffix on the Tax tab.</li>
+<li><strong>Basket and checkout:</strong> the VAT amount should be visible and correct for mixed baskets.</li>
+<li><strong>Order emails:</strong> confirmation emails should show the tax total. Our guide to <a href="/blog/ecommerce-transactional-emails/">ecommerce transactional emails</a> covers what else they should contain.</li>
+<li><strong>Invoices:</strong> WooCommerce does not create full VAT invoices out of the box. If customers need them, you will typically use an invoicing extension, and your accountant can tell you what details they must include.</li>
+</ul>
+
+<h2>Tax extensions and automated calculation</h2>
+<p>Some shops use an extension or service that calculates tax automatically instead of maintaining rate tables by hand. These can help shops selling into many countries, but they add a dependency, sometimes a cost, and another thing to update. For a UK shop selling mainly to UK customers, well-maintained manual tables are often enough.</p>
+<p>If you do add an extension, treat it like any other plugin. Check it is maintained, compatible with your WooCommerce version and genuinely needed. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide explains how to review plugins without breaking your site.</p>
+
+<h2>Test before you trust it</h2>
+<p>Never assume the set-up is right because the settings look right. Test on a staging copy where possible, as covered in our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a>, then repeat a few checks on the live shop.</p>
+<ol>
+<li>Order a single standard-rated product with UK delivery and check the VAT figure by hand.</li>
+<li>Order a reduced or zero-rated product and confirm the right class applied.</li>
+<li>Order a mixed basket and check both the line totals and the delivery tax.</li>
+<li>Apply a discount code and see how it affects the tax.</li>
+<li>Try an address outside the UK if you ship abroad.</li>
+<li>Check the order email, the admin order screen and any invoice for matching figures.</li>
+<li>Refund a test order and confirm the tax is reversed as expected.</li>
+</ol>
+<p>Your payment provider also affects how orders appear in your reports, so check that the figures line up there as well. Our guide to <a href="/blog/payment-gateways-uk-online-shop/">payment gateways for UK online shops</a> covers the main options.</p>
+
+<h2>Keeping it right over time</h2>
+<p>VAT settings are not a one-off job. Rates and rules can change, plugins update, and new product lines arrive. Put a short review in the calendar after each major WooCommerce update and whenever you launch a new type of product, and keep notes of what you changed and why. When you register for VAT, cross the threshold or start selling overseas, revisit the whole set-up with your accountant.</p>
+
+<h2>When to get help</h2>
+<p>Many store owners handle this themselves once the decisions are made. It is worth bringing in help when your catalogue is large, you sell across several rates, you are migrating from another platform, or your tax figures do not reconcile. We build and look after WooCommerce shops through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, including setting up tax classes and testing them with you. We do not give tax advice; we configure the shop to match what your accountant confirms. Our <a href="/pricing/">pricing page</a> sets out typical project costs, with ecommerce sites usually between £1,500 and £3,500.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up WooCommerce VAT settings in the UK?</h3>
+<p>Enable tax on the General tab of WooCommerce settings, then use the Tax tab to choose whether prices include VAT, what the calculation is based on and how prices display. Add a GB rate to the standard rate table, set up any reduced or zero-rate classes you need, assign products to them and test several orders.</p>
+<h3>Should my WooCommerce prices include VAT?</h3>
+<p>For most UK shops selling to consumers, yes. Shoppers generally expect VAT-inclusive prices, and entering prices that way keeps them tidy. Trade-only shops sometimes prefer to work in net prices. Decide before you import products, because changing it later affects every price.</p>
+<h3>Do I need to charge VAT if I am not VAT registered?</h3>
+<p>Generally, a business that is not VAT registered should not charge VAT, so taxes can stay switched off in WooCommerce. Whether you need to register depends on your turnover and circumstances, so check HMRC's current guidance or ask your accountant.</p>
+<h3>How do I add a reduced rate product in WooCommerce?</h3>
+<p>Make sure a reduced rate class exists on the Tax tab, add a GB row with the current reduced rate, then open the product and choose that class in its product data. Confirm with your accountant that the product genuinely qualifies before relying on it.</p>
+<h3>Does WooCommerce create VAT invoices?</h3>
+<p>Not fully out of the box. Order emails show tax totals, but shops that need proper VAT invoices usually add an invoicing extension. Check with your accountant which details your invoices need to show.</p>
+<h3>Why is WooCommerce charging the wrong amount of VAT?</h3>
+<p>Common causes include prices entered on the wrong basis, a product left in the wrong tax class, a missing rate row, shipping tax set differently from the goods, or a plugin overriding the calculation. Work through a test order step by step to find where the figure changes.</p>
+`,
+  },
+  {
+    slug: 'wordpress-critical-error-fix',
+    seoTitle: 'There Has Been a Critical Error on This Website: Fix It',
+    title: 'There Has Been a Critical Error on This Website: How to Fix It in WordPress',
+    description: 'Seeing \'There has been a critical error on this website\' in WordPress? Find the cause, get your site back online safely and stop it happening again.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-plugin-audit/', '/pricing/'],
+    body: `
+<p>"There has been a critical error on this website" means WordPress hit a fatal PHP error and stopped loading the page rather than showing broken code. The cause is almost always a plugin, a theme or a server change such as a PHP upgrade, and in most cases you can get the site back without losing any posts, pages or orders.</p>
+<p>This guide is for UK small business owners who have opened their website and found that message instead of their homepage. It walks through the safe order of checks, from the recovery email WordPress sends to switching off plugins by hand, and finishes with the habits that stop the same thing happening next month.</p>
+
+<h2>What the message actually means</h2>
+<p>WordPress runs on PHP, a programming language your web server executes every time someone loads a page. When a piece of PHP code fails so badly that it cannot continue, it is called a fatal error. Older versions of WordPress showed a blank white screen in that situation. Newer versions catch the failure and show a short, polite message instead, so visitors do not see technical details that could help an attacker.</p>
+<p>The message itself does not tell you what broke. It is a symptom, not a diagnosis. Your job is to find which piece of code failed, switch it off or roll it back, and then decide on a proper fix.</p>
+<p>Sometimes only the public site is affected and the dashboard still works. Sometimes both are down. Sometimes only one page or one action fails, such as the checkout or a contact form. Note which of these you are seeing, because it narrows the search.</p>
+
+<h2>Common causes</h2>
+<table>
+<thead><tr><th>Cause</th><th>Typical trigger</th><th>First thing to try</th></tr></thead>
+<tbody>
+<tr><td>Plugin conflict or bug</td><td>A plugin updated automatically or by hand</td><td>Deactivate the most recently updated plugin</td></tr>
+<tr><td>Theme error</td><td>A theme update or an edit to functions.php</td><td>Switch to a default WordPress theme</td></tr>
+<tr><td>PHP version change</td><td>The host upgraded PHP on the server</td><td>Check which plugin or theme does not support the new version</td></tr>
+<tr><td>Memory limit reached</td><td>A heavy plugin, large import or busy page</td><td>Ask the host about the PHP memory limit</td></tr>
+<tr><td>Corrupted or incomplete files</td><td>An update that timed out part way</td><td>Reinstall the affected plugin or WordPress core files</td></tr>
+<tr><td>Custom code snippet</td><td>A snippet pasted into the theme or a snippets plugin</td><td>Remove or disable the snippet</td></tr>
+</tbody>
+</table>
+<p>In our experience of maintaining WordPress sites, the first two rows account for most cases. Think about what changed recently: an update, a new plugin, a hosting change or a code edit. The answer is usually there.</p>
+
+<h2>Before you touch anything: take a backup</h2>
+<p>It is tempting to start switching things off straight away. Take a few minutes first to make sure you have a recent backup of both the files and the database. Most UK hosts keep daily backups in the control panel, and many offer a one-click download. If your host does not, or you are not sure, our guide to a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> explains what a good backup covers.</p>
+<p>If you run an online shop, note the time the error started. Orders placed by customers on other parts of the site may still have reached the database, and you do not want to restore an old backup over them without checking.</p>
+
+<h2>How to fix "There has been a critical error on this website"</h2>
+<p>Work through these steps in order. Stop as soon as the site is back, then move on to the section about finding a permanent fix.</p>
+<ol>
+<li><strong>Check the admin email inbox.</strong> When a fatal error happens, WordPress usually emails the site administrator address with the name of the plugin or theme involved and a special recovery mode link. Check spam folders too.</li>
+<li><strong>Use recovery mode if you have the link.</strong> The link lets you log in to the dashboard with the faulty plugin or theme paused. From there you can deactivate it properly, look for an update, or replace it.</li>
+<li><strong>Look at the error log.</strong> Your hosting control panel normally has an error log for each site. The most recent fatal error line names a file path, and that path usually includes the folder of the plugin or theme at fault.</li>
+<li><strong>Deactivate plugins by renaming folders.</strong> If you cannot reach the dashboard, open the file manager or connect by SFTP, go to wp-content, then plugins. Rename the folder of the suspect plugin, for example by adding "-off" to the end. WordPress will treat it as deactivated. If you are not sure which plugin it is, rename the whole plugins folder, check the site, then rename it back and switch plugins on again one at a time from the dashboard.</li>
+<li><strong>Switch the theme.</strong> If plugins are not the problem, rename your active theme folder inside wp-content, then themes. WordPress will fall back to an installed default theme, if one is present. The site will look different, but it should load.</li>
+<li><strong>Reinstall WordPress core files if needed.</strong> If an update was interrupted, the dashboard Updates screen has an option to reinstall the current version. This replaces core files without touching your content, but take the backup first.</li>
+<li><strong>Restore a backup as a last resort.</strong> If nothing else works and you know when the site last worked, restoring that backup will get you online. Remember that anything added since, such as orders or form entries, may be lost.</li>
+</ol>
+<p>If the site is a client-facing business tool and you are uneasy about file managers, it is perfectly reasonable to stop at step one and call your developer or host. A calm half-hour with someone who does this often is better than a rushed fix.</p>
+
+<h2>Turning on debug mode safely</h2>
+<p>If the error log is empty or unclear, WordPress has a debug setting that records more detail. It is switched on in the wp-config.php file in your site's main folder. The setting can show errors on screen, which you do not want on a live business site, so the safer approach is to log errors to a file and keep on-screen display off. Your host or developer can set this up in a minute.</p>
+<p>Turn debug logging off again once you have the information you need. Debug files can grow large and may contain details you would not want public, so delete the log afterwards.</p>
+
+<h2>Finding a permanent fix</h2>
+<p>Getting the site back is the emergency. The permanent fix depends on what you found.</p>
+<ul>
+<li><strong>A plugin bug.</strong> Check whether the developer has released a fix. If the plugin has not been updated for a long time, it may be time to replace it. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide explains how to judge whether a plugin still deserves a place on your site.</li>
+<li><strong>A clash between two plugins.</strong> Sometimes each plugin works alone but not together. Contact both developers, or replace the less essential one.</li>
+<li><strong>A theme problem.</strong> If you edited the theme directly, those edits may have been overwritten or broken by an update. Moving custom code into a <a href="/blog/wordpress-child-themes/">child theme</a> stops that happening again.</li>
+<li><strong>A PHP version change.</strong> Newer PHP versions remove old functions. Updating the plugin or theme that relied on them is the real fix. Rolling PHP back should only ever be a short-term measure while you update.</li>
+<li><strong>Memory limits.</strong> Raising the memory limit can help, but a site that keeps hitting it often has a heavy plugin or bloated database worth looking at.</li>
+</ul>
+
+<h2>How to stop it happening again</h2>
+<p>Fatal errors are rarely random. They follow changes. The way to prevent them is to control when and how changes reach your live site.</p>
+<ul>
+<li><strong>Test updates on staging first.</strong> A staging copy of your site lets you run updates and see what breaks before customers do. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> covers the basics.</li>
+<li><strong>Be deliberate about automatic updates.</strong> Automatic updates are useful for security, but switching them on for every plugin on a complex site raises the risk of a surprise. Read our guide to <a href="/blog/wordpress-automatic-updates/">WordPress automatic updates</a> to decide what to automate.</li>
+<li><strong>Check Site Health regularly.</strong> The <a href="/blog/wordpress-site-health-screen/">WordPress Site Health screen</a> flags outdated PHP, inactive plugins and other warnings before they become outages.</li>
+<li><strong>Keep the admin email address current.</strong> The recovery email only helps if it reaches someone who reads it. If the address belongs to a former employee or an old agency, change it.</li>
+<li><strong>Keep plugins lean.</strong> Every plugin is code someone else maintains. Fewer, better-supported plugins mean fewer chances of a clash.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>If the error keeps coming back, affects your checkout or appears after a hosting change you did not ask for, it is worth getting a developer involved. The same applies if you find unfamiliar files or code during your checks, because a fatal error can occasionally be a side effect of a compromised site. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers the warning signs.</p>
+<p>At Prism Works Studio we build and look after WordPress sites as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work, including updates, testing and fixing errors like this one. You can see how our website projects and retainers are structured on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What does "There has been a critical error on this website" mean?</h3>
+<p>It means WordPress hit a fatal PHP error and stopped loading the page. The cause is usually a plugin, theme or PHP version change. Your content is normally still safe in the database.</p>
+<h3>Will I lose my content if I see this error?</h3>
+<p>Usually not. The error stops pages loading, but posts, pages and orders are stored in the database and are not normally affected. Take a backup before making changes, and be careful about restoring an old backup over newer orders.</p>
+<h3>I did not get the recovery mode email. What now?</h3>
+<p>Check spam folders and confirm which address is set as the site administrator email. If the email never arrived, use the error log in your hosting panel or rename plugin folders by file manager or SFTP to find the cause.</p>
+<h3>Can my hosting company fix a WordPress critical error?</h3>
+<p>Many hosts will help you read the error log, restore a backup or adjust the PHP version or memory limit. Fixing faulty plugin or theme code is usually outside their support, so you may need a developer for the permanent fix.</p>
+<h3>Why did the error appear when I had not changed anything?</h3>
+<p>Something may have changed without you doing it. Automatic plugin updates and server-side PHP upgrades are the most common silent changes. Check your plugin update history and ask your host whether the server was updated.</p>
+<h3>Is it safe to roll back to an older PHP version?</h3>
+<p>Only as a short-term measure. Older PHP versions stop receiving security fixes, so the proper solution is to update or replace whatever does not support the newer version. Check your host's current guidance on supported versions.</p>
+`,
+  },
+  {
+    slug: 'wordpress-mixed-content-fix',
+    seoTitle: 'Fix Mixed Content Warnings in WordPress After HTTPS',
+    title: 'How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS',
+    description: 'Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-trust-signals/', '/pricing/'],
+    body: `
+<p>To fix mixed content warnings in WordPress, find every image, script, stylesheet or embed still loading over http and change it to https, starting with the WordPress Address and Site Address settings and then the old links stored in your database. Once nothing on the page loads over http, the browser shows the site as secure again.</p>
+<p>This guide is for UK small business owners who have added an SSL certificate, switched their WordPress site to HTTPS and found the padlock missing, a "not fully secure" notice in the address bar, or images and features that no longer work. It explains what is happening, how to find the culprits and how to fix them in a safe order.</p>
+
+<h2>What mixed content means</h2>
+<p>When a page loads over HTTPS, the connection between the visitor's browser and your server is encrypted. A typical page also loads many other files: images, fonts, stylesheets, scripts, videos and embedded maps or forms. If any of those files are requested over plain http, the page is mixing secure and insecure content.</p>
+<p>Browsers handle this in two ways. Passive content such as images may be upgraded automatically or loaded with a warning, so the padlock disappears or changes. Active content such as scripts and stylesheets is usually blocked, which can break menus, sliders, forms or even the checkout. Either way, visitors see a site that looks less trustworthy, which is the opposite of what a certificate is for. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> explains why that first impression matters.</p>
+
+<h2>Why it happens in WordPress</h2>
+<p>WordPress stores full web addresses in many places. When a site starts life on http, every image you upload, every internal link you add and many theme and plugin settings are saved with http at the front. Installing a certificate does not rewrite those stored addresses. Common sources include:</p>
+<ul>
+<li><strong>The site address settings</strong> under Settings, then General, still set to http.</li>
+<li><strong>Images and links in posts and pages</strong> saved with the full http address.</li>
+<li><strong>Theme options and page builder data</strong>, such as a logo or background image set in the customiser.</li>
+<li><strong>Widgets and menus</strong> with custom links typed in by hand.</li>
+<li><strong>Hard-coded addresses</strong> in theme files or custom code snippets.</li>
+<li><strong>Third-party embeds</strong>, such as an old video, map or booking widget pasted in using an http address.</li>
+</ul>
+
+<h2>Before you start</h2>
+<ul>
+<li><strong>Confirm the certificate works.</strong> Visit your homepage with https at the front. If you see a certificate error rather than a mixed content notice, the certificate itself needs fixing by your host.</li>
+<li><strong>Take a full backup.</strong> Changing addresses in the database is reliable when done carefully, but a backup means a mistake costs minutes rather than days. Our guide to a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> covers what to keep.</li>
+<li><strong>Work on staging if you can.</strong> For a shop or a large site, run the changes on a <a href="/blog/website-staging-and-testing/">staging copy</a> first.</li>
+</ul>
+
+<h2>How to fix mixed content warnings in WordPress</h2>
+<ol>
+<li><strong>Update the WordPress Address and Site Address.</strong> In the dashboard, go to Settings, then General, and change both addresses from http to https. Save, and you will be asked to log in again. If these fields are greyed out, they are set in the wp-config.php file and need changing there.</li>
+<li><strong>Replace old addresses in the database.</strong> Use a reputable search and replace tool or plugin to replace your old http address with the https version across the database. Choose one that handles serialised data correctly, because a simple text replacement can break settings stored by themes and plugins. Run a dry run first if the tool offers it.</li>
+<li><strong>Check theme and builder settings.</strong> Look through the customiser, theme options and any page builder global settings for logo, favicon and background image addresses, and update anything still on http.</li>
+<li><strong>Check menus and widgets.</strong> Custom links in menus and text in widgets can hold full addresses. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> shows where those links live.</li>
+<li><strong>Fix hard-coded addresses in code.</strong> If the problem is in theme files or a code snippet, update the address there. If you use a child theme, make the change in the child theme so an update does not undo it.</li>
+<li><strong>Update or replace old embeds.</strong> Re-embed videos, maps and widgets using the provider's current https code. If a third-party service does not support HTTPS at all, it is time to replace it.</li>
+<li><strong>Clear every cache.</strong> Clear your caching plugin, any server cache from your host and your content delivery network if you use one, then check again in a private browsing window.</li>
+</ol>
+
+<h2>Finding what is still insecure</h2>
+<p>If the padlock is still missing after those steps, you need to find the remaining files. Open the page in your browser, open the developer tools and look at the console. Mixed content warnings name the exact file and its address. Note each one and trace where it comes from.</p>
+<table>
+<thead><tr><th>Where the warning points</th><th>Likely source</th><th>Where to fix it</th></tr></thead>
+<tbody>
+<tr><td>An image in your uploads folder</td><td>Old address in a post, page or builder layout</td><td>Database search and replace, or edit the content</td></tr>
+<tr><td>A file in your theme folder</td><td>Hard-coded address in theme code</td><td>Child theme or theme settings</td></tr>
+<tr><td>A file in a plugin folder</td><td>Plugin setting or outdated plugin</td><td>Plugin settings, update or replace the plugin</td></tr>
+<tr><td>Another website's address</td><td>Embed or external script</td><td>Re-embed with current code or remove it</td></tr>
+</tbody>
+</table>
+<p>Check more than the homepage. Templates differ, so test a blog post, a service page, the contact page and, for shops, a product page, the basket and the checkout.</p>
+
+<h2>Redirect everything to HTTPS</h2>
+<p>Once pages load cleanly, make sure anyone arriving on an old http address is sent to the https version with a permanent 301 redirect. Many hosts offer this as a setting in the control panel. Otherwise it can be added at server level or with a plugin. A site-wide redirect also helps search engines settle on one version of every page. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> explains why permanent redirects matter.</p>
+<p>Some plugins fix mixed content on the fly by rewriting addresses as each page loads. That can be a useful stopgap, but it adds work to every page load and hides the underlying problem. Fixing the stored addresses is the cleaner long-term answer.</p>
+
+<h2>After the fix</h2>
+<ul>
+<li><strong>Update your search tools.</strong> Check that your sitemap lists https addresses and that your Search Console property covers the https version. Our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> walks through this.</li>
+<li><strong>Update analytics and ad links.</strong> Change the site address in analytics settings and any ad, email or social profile links that still use http.</li>
+<li><strong>Test forms and payments.</strong> Submit each form and, for shops, run a test order. Payment and form scripts are often the active content browsers block.</li>
+<li><strong>Watch certificate renewal.</strong> Most hosts renew certificates automatically, but an expired certificate causes a far worse warning than mixed content, so make sure someone gets the renewal notices.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>For a small brochure site, the steps above are usually enough. Larger sites, shops and sites built with heavy page builders can store addresses in unusual places, and a careless database replacement can do real damage. At Prism Works Studio we handle HTTPS moves and clean-ups as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work, and you can see how projects and support are structured on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I fix mixed content warnings in WordPress?</h3>
+<p>Change the WordPress Address and Site Address to https, replace old http addresses in the database with a tool that handles serialised data, update theme, menu and widget links, re-embed old third-party content and clear all caches.</p>
+<h3>Why is my site not secure even though I have an SSL certificate?</h3>
+<p>Usually because some files on the page still load over http. The certificate secures the connection, but browsers will not show the site as fully secure until every image, script and stylesheet uses https too.</p>
+<h3>Can a plugin fix mixed content automatically?</h3>
+<p>Some plugins rewrite insecure addresses as each page loads. They can help as a temporary measure, but fixing the stored addresses in the database and theme is cleaner and avoids relying on extra code on every page.</p>
+<h3>Will switching to HTTPS affect my search rankings?</h3>
+<p>Moving to HTTPS is generally recommended, and a careful move with permanent redirects should not cause lasting harm. Expect search engines to take some time to process the change, and check current official guidance for site moves.</p>
+<h3>How do I find which files are causing mixed content?</h3>
+<p>Open the page in your browser, open the developer tools and check the console. Each mixed content warning names the insecure file address, which tells you whether it comes from your content, theme, a plugin or an external service.</p>
+<h3>Do I need to update links in old blog posts?</h3>
+<p>Yes, if they use full http addresses to your own site. A database search and replace updates them all at once. Links to other websites only need changing if those sites support HTTPS.</p>
+`,
+  },
+  {
+    slug: 'wordpress-not-sending-emails',
+    seoTitle: 'WordPress Not Sending Emails? How to Fix It Properly',
+    title: 'WordPress Not Sending Emails? How to Fix Form and Notification Emails',
+    description: 'WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/website-contact-forms/', '/pricing/'],
+    body: `
+<p>If WordPress is not sending emails, the usual cause is that your web server is sending mail in a way receiving providers do not trust, so messages are rejected or sent to spam. The reliable fix is to send WordPress email through an authenticated SMTP or transactional email service, from an address on your own domain, with the right DNS records set up.</p>
+<p>This guide is for UK small business owners whose contact form enquiries, password reset emails or shop order notifications have gone quiet. It explains why it happens, how to confirm where the problem sits and what a proper, lasting setup looks like.</p>
+
+<h2>Why WordPress emails go missing</h2>
+<p>By default, WordPress hands each email to the web server and asks it to send the message. The server does its best, but it is not a dedicated mail system. Large email providers check incoming mail carefully, and messages from a web server often fail those checks for several reasons:</p>
+<ul>
+<li><strong>The "from" address does not match the server.</strong> A form might send mail claiming to come from your business address, but the server sending it has no permission to send for that domain.</li>
+<li><strong>The domain has no authentication records.</strong> Without SPF, DKIM and DMARC records, receiving providers cannot confirm the message is genuine.</li>
+<li><strong>The server's reputation is poor.</strong> On shared hosting, other sites on the same server may have sent spam, and that can affect your messages too.</li>
+<li><strong>The host restricts or disables mail.</strong> Some hosts limit outgoing mail from websites or block it entirely to protect their network.</li>
+<li><strong>A plugin is misconfigured.</strong> A form plugin may be sending notifications to an old address, or a setting may have been changed during an update.</li>
+</ul>
+<p>The result is the same in each case: someone fills in your form, sees a thank-you message and assumes you have their enquiry, while the email never reaches your inbox.</p>
+
+<h2>First checks: where is the email getting lost?</h2>
+<p>Before changing anything, spend ten minutes narrowing the problem down.</p>
+<ol>
+<li><strong>Check spam and junk folders</strong> on the receiving inbox, including any filtering rules your email provider applies.</li>
+<li><strong>Check the notification settings</strong> in your form plugin. Confirm which address receives submissions and which address the email is sent from.</li>
+<li><strong>Test several email types.</strong> Submit your contact form, request a password reset and, if you run a shop, place a test order. If none arrive, the problem is general. If only one fails, look at that plugin's settings.</li>
+<li><strong>Send to a different provider.</strong> Try a personal address with another provider. If it arrives there but not at your business inbox, the receiving side is filtering it.</li>
+<li><strong>Check stored form entries.</strong> Many form plugins can save submissions in the dashboard. If entries are there but emails are not, the form works and the email delivery is the problem.</li>
+</ol>
+
+<h2>How to fix WordPress not sending emails</h2>
+<p>The lasting fix has three parts: a proper sending service, a sensible "from" address and authenticated DNS records.</p>
+
+<h3>Send through SMTP or an email service</h3>
+<p>Instead of letting the web server send mail directly, configure WordPress to send through an authenticated service. That could be the SMTP server that comes with your business email account, or a transactional email service designed for website mail. An SMTP plugin connects WordPress to that service using a username and password or an API key.</p>
+<p>Which option suits you depends on volume. A brochure site with a contact form can often use its business email account. A busy shop sending order confirmations, dispatch notices and account emails is usually better served by a transactional service with sending logs and higher limits. Check each provider's current limits and terms before you choose.</p>
+
+<h3>Use an address on your own domain</h3>
+<p>Send from an address on your own domain, such as one dedicated to website notifications, rather than a free webmail address. Free webmail providers publish strict rules that tell receivers to reject mail claiming to be from them but sent elsewhere, so a form sending "from" such an address is very likely to fail.</p>
+<p>If you want replies to go to the person who filled in the form, use the reply-to setting in your form plugin rather than putting the visitor's address in the "from" field.</p>
+
+<h3>Set up SPF, DKIM and DMARC</h3>
+<p>These are DNS records on your domain that tell receiving providers which services may send mail for you and how to check it. Your email service will give you the exact values to add. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> explains what each record does and where they live.</p>
+<table>
+<thead><tr><th>Record</th><th>What it does</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>SPF</td><td>Lists the services allowed to send mail for your domain</td><td>Creating a second SPF record instead of adding to the existing one</td></tr>
+<tr><td>DKIM</td><td>Adds a digital signature so receivers can confirm the message was not altered</td><td>Adding the record but never switching signing on in the email service</td></tr>
+<tr><td>DMARC</td><td>Tells receivers what to do with mail that fails checks, and sends you reports</td><td>Jumping straight to a strict policy before checking everything passes</td></tr>
+</tbody>
+</table>
+<p>Major email providers have tightened their requirements for senders in recent years. Check their current published guidance, and your email service's setup instructions, rather than relying on old advice.</p>
+
+<h2>Testing after the fix</h2>
+<p>Once the sending service and DNS records are in place, test properly:</p>
+<ul>
+<li>Use the test email feature most SMTP plugins include.</li>
+<li>Submit every form on the site, not just the main contact form. Quote forms, booking forms and newsletter sign-ups often have their own settings.</li>
+<li>Trigger a password reset and, for shops, a full test order including the customer and admin emails.</li>
+<li>Send to at least two different email providers and check the messages land in the inbox.</li>
+<li>Turn on email logging if your SMTP plugin or service offers it, so you can see what was sent and whether it was accepted.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers what the form itself should ask and how the confirmation message should read, which is worth reviewing while you are testing.</p>
+
+<h2>Build in a safety net</h2>
+<p>Even a well-configured setup can fail occasionally: a password changes, an API key expires or a DNS record is edited during other work. A few habits stop a failure going unnoticed for weeks.</p>
+<ul>
+<li><strong>Store form entries on the site</strong> so you can check them if you suspect a gap. Remember that this is personal data, so keep it only as long as you need it and mention it in your <a href="/blog/website-terms-and-privacy-policy-uk/">privacy policy</a>. Check current ICO guidance on retention.</li>
+<li><strong>Send a monthly test</strong> from each form as part of routine <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+<li><strong>Watch for a sudden drop in enquiries.</strong> If enquiries stop overnight while traffic is steady, test the forms before assuming demand has fallen.</li>
+<li><strong>Record the setup.</strong> Note which service sends the mail, which account it uses and where the DNS records are managed. That makes hosting or email changes far less risky.</li>
+</ul>
+
+<h2>Watch out when moving hosting or email</h2>
+<p>Email problems often begin straight after a change. Moving your website to a new host, switching email provider or changing who manages your DNS can all break sending without anyone noticing. If you are planning a move, include email in the checklist. Our guide on how to <a href="/blog/change-website-hosting-without-downtime/">change website hosting without downtime</a> covers DNS changes, and the same care applies to mail records.</p>
+<p>Also look at the plugin list. Several plugins can try to control outgoing email at once, such as a form plugin, a shop plugin and a separate SMTP plugin. Keep one plugin responsible for sending, and remove anything you no longer use. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide helps with that clear-out.</p>
+
+<h2>When to get help</h2>
+<p>If you are not comfortable editing DNS records, or emails still fail after setting up SMTP, a developer can usually trace the issue quickly using sending logs and message headers. At Prism Works Studio we set up form and notification email as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work, so new sites go live with sending already tested. Our <a href="/pricing/">pricing page</a> sets out how website projects and ongoing support are structured.</p>
+
+<h2>FAQs</h2>
+<h3>Why is WordPress not sending emails?</h3>
+<p>Usually because the web server sends mail that receiving providers do not trust. Missing SPF, DKIM or DMARC records, a mismatched "from" address or hosting restrictions are the common causes. Sending through authenticated SMTP normally fixes it.</p>
+<h3>Do I need an SMTP plugin for WordPress?</h3>
+<p>For most business sites, yes. An SMTP plugin routes WordPress email through an authenticated mail service instead of the web server, which makes delivery far more reliable and usually adds logging so you can see what was sent.</p>
+<h3>Why do my contact form emails go to spam?</h3>
+<p>The receiving provider does not trust the message. Common reasons are a "from" address on a free webmail domain, missing authentication records or a poor server reputation. Use your own domain, send through SMTP and add the DNS records your email service provides.</p>
+<h3>Can I send WordPress emails from a free webmail address?</h3>
+<p>It is best avoided. Free webmail providers publish rules telling receivers to reject mail that claims to be from them but is sent elsewhere. Use an address on your own domain and set the visitor's address as reply-to instead.</p>
+<h3>How do I know if form enquiries have been lost?</h3>
+<p>Check whether your form plugin stores entries in the dashboard and compare them with your inbox. If the plugin did not store entries, check your SMTP or email service logs. Going forward, store entries and run regular tests.</p>
+<h3>Will changing my email provider affect website emails?</h3>
+<p>It can. Changing provider often means new SMTP details and new DNS records. Update the SMTP plugin settings, add the new SPF and DKIM values, remove old ones you no longer use and test every form afterwards.</p>
+`,
+  },
+  {
+    slug: 'wordpress-password-protect-page',
+    seoTitle: 'How to Password Protect a Page in WordPress',
+    title: 'How to Password Protect a Page in WordPress (and When Not To)',
+    description: 'How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-user-roles/', '/pricing/'],
+    body: `
+<p>To password protect a page in WordPress, open the page in the editor, find the Visibility setting in the sidebar, choose Password protected, enter a password and update the page. Visitors will then see a password box instead of the content until they enter the correct password.</p>
+<p>This guide is for UK small business owners who want to share a page with a limited audience, such as a price list for trade customers, a draft for a supplier or a gallery for one client. It covers the built-in method, what it actually protects, and when you need something more robust.</p>
+
+<h2>When a password protected page makes sense</h2>
+<p>A single shared password suits light-touch privacy, where the content would cause no real harm if someone outside the group saw it. Typical examples include:</p>
+<ul>
+<li>A trade price list or wholesale catalogue for approved stockists.</li>
+<li>A preview of a new page or campaign for colleagues or suppliers.</li>
+<li>An event information page for ticket holders.</li>
+<li>A simple gallery of finished work for one customer to review.</li>
+<li>Internal guidance for staff that is not confidential.</li>
+</ul>
+<p>It is not suitable for anything containing personal data, contracts, financial information or confidential business documents. Shared passwords get forwarded, and you cannot see who used them.</p>
+
+<h2>How to password protect a page in WordPress</h2>
+<p>The steps below use the block editor, which most current WordPress sites use. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> explains the layout if it is unfamiliar.</p>
+<ol>
+<li><strong>Open the page or post</strong> you want to protect from Pages or Posts in the dashboard.</li>
+<li><strong>Open the settings sidebar</strong> if it is hidden, using the settings icon at the top right of the editor.</li>
+<li><strong>Find the Visibility (or Status) option</strong> in the page summary panel. It normally shows Public.</li>
+<li><strong>Choose Password protected</strong> and type a password into the box that appears.</li>
+<li><strong>Save or update the page.</strong> The change takes effect immediately.</li>
+<li><strong>Test it in a private browser window.</strong> While you are logged in, WordPress may show you the content directly, so check as a logged-out visitor.</li>
+</ol>
+<p>If you use the classic editor, the same option sits in the Publish box next to Visibility. Some page builders show their own screens, but the underlying WordPress setting is the same and is usually reached from the standard editor or the page list's Quick Edit option.</p>
+
+<h2>The three visibility options compared</h2>
+<table>
+<thead><tr><th>Option</th><th>Who can see it</th><th>Good for</th></tr></thead>
+<tbody>
+<tr><td>Public</td><td>Everyone</td><td>Normal pages and posts</td></tr>
+<tr><td>Password protected</td><td>Anyone with the password</td><td>Light-touch sharing with a small group</td></tr>
+<tr><td>Private</td><td>Logged-in users with suitable permissions, such as editors and administrators</td><td>Internal notes or pages not ready to share</td></tr>
+</tbody>
+</table>
+<p>Private pages need a WordPress login, so they are more controlled, but by default only users who can edit content see them. That makes them useful for internal content and less useful for customers. Our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains who can see what.</p>
+
+<h2>What built-in protection does not cover</h2>
+<p>This is the part most people miss. WordPress password protection hides the content of the page, but it has limits.</p>
+<ul>
+<li><strong>Uploaded files are not protected.</strong> Images, PDFs and other files in the media library have their own direct web addresses. If someone has that address, they can open the file without the password. Search engines can sometimes find these files too.</li>
+<li><strong>The page title is still visible.</strong> WordPress shows the title with "Protected" in front of it, and the page may appear in menus, archives or sitemaps unless you remove it.</li>
+<li><strong>One password for everyone.</strong> You cannot tell who viewed the page, and changing the password locks out everyone at once.</li>
+<li><strong>The password is remembered.</strong> WordPress stores a cookie so returning visitors do not need to type it again. That is convenient, but it also means anyone using the same device can see the page.</li>
+<li><strong>Caching can interfere.</strong> Some caching setups need configuring so protected pages are not served from cache. Test after enabling it.</li>
+</ul>
+
+<h2>Tidying up around a protected page</h2>
+<ul>
+<li><strong>Keep it out of menus</strong> unless the audience needs a link. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> shows how to remove items.</li>
+<li><strong>Exclude it from your sitemap and search results.</strong> Most SEO plugins let you set a page to noindex and leave it out of the sitemap. Our <a href="/blog/xml-sitemap-guide/">XML sitemap guide</a> explains what should be listed.</li>
+<li><strong>Use a clear, friendly message.</strong> The default text above the password box is plain. Some themes and plugins let you change it to explain who the page is for and how to get the password.</li>
+<li><strong>Choose a decent password</strong> and share it through a different channel from the link, for example the link by email and the password by phone.</li>
+<li><strong>Review it regularly.</strong> Protected pages are easy to forget. Change the password periodically and remove pages that are no longer needed. Our guide to <a href="/blog/wordpress-trash-and-restoring-content/">WordPress trash and restoring content</a> covers removing pages safely.</li>
+</ul>
+
+<h2>Common problems and how to fix them</h2>
+<p>Password protection is simple, but a few issues come up often enough to be worth knowing about before you send the link out.</p>
+<ul>
+<li><strong>The password box appears but the correct password does not work.</strong> Check for a stray space at the start or end, and remember passwords are case sensitive. If it still fails, a caching or security plugin may be interfering, so clear the cache and test again.</li>
+<li><strong>Visitors keep being asked for the password.</strong> The cookie that remembers the password may be blocked by the visitor's browser settings or cleared on exit. There is little you can change here, so tell people they may need to enter it again.</li>
+<li><strong>Some content still shows.</strong> Page builders sometimes place sections outside the main content area, such as headers, footers or sidebars set per page. Those can remain visible, so check the page logged out and move anything sensitive into the main content.</li>
+<li><strong>An excerpt shows on the blog page.</strong> For protected posts, check your archive and blog listing pages to make sure no summary or featured image gives away more than you intended.</li>
+<li><strong>You want to remove the protection.</strong> Open the page, set Visibility back to Public and update. The old password stops working straight away, so let your audience know.</li>
+</ul>
+
+<h2>Protecting a whole site temporarily</h2>
+<p>Sometimes the aim is to hide the entire site, for example while a new website is being built or tested. Password protecting each page is the wrong tool for that. Options include a coming soon or <a href="/blog/website-maintenance-mode-page/">maintenance mode page</a>, server-level password protection set up through your hosting panel, or a separate staging site that search engines are blocked from. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> covers the last option.</p>
+
+<h2>When you need proper member access</h2>
+<p>If you find yourself creating several protected pages, sharing passwords with dozens of people or worrying about who has access, you probably need individual accounts. That might mean:</p>
+<ul>
+<li><strong>A client or trade portal</strong> where each customer logs in with their own details.</li>
+<li><strong>A membership or course area</strong> that controls access by plan or purchase.</li>
+<li><strong>Protected file downloads</strong> that check the user is logged in before serving the file.</li>
+<li><strong>Wholesale pricing in a shop</strong>, where approved trade accounts see different prices.</li>
+</ul>
+<p>Each of these handles personal data, so think about your privacy notice, retention and security. Check current ICO guidance, and keep login pages protected with strong passwords and two-factor authentication where available. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers the basics.</p>
+<p>At Prism Works Studio we plan and build member areas, trade portals and gated content as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service. If you are weighing up the cost, our <a href="/pricing/">pricing page</a> sets out how website projects are structured.</p>
+
+<h2>FAQs</h2>
+<h3>How do I password protect a page in WordPress?</h3>
+<p>Open the page in the editor, find Visibility in the settings sidebar, choose Password protected, enter a password and update. Test it in a private browser window, because logged-in users may see the content without a prompt.</p>
+<h3>Do I need a plugin to password protect WordPress pages?</h3>
+<p>No. WordPress includes password protection for individual pages and posts. Plugins are only needed for extra features, such as protecting a whole site, using individual logins or protecting uploaded files.</p>
+<h3>Are files on a password protected page also protected?</h3>
+<p>No. Images and documents in the media library keep their own direct addresses, which can be opened without the password. Use a member or download protection solution for files that genuinely need to stay private.</p>
+<h3>What is the difference between private and password protected?</h3>
+<p>A private page is only visible to logged-in users with suitable permissions, such as editors and administrators. A password protected page can be seen by anyone who has the password, with no login needed.</p>
+<h3>Can I password protect my whole WordPress site?</h3>
+<p>Not neatly with page-level settings. Use a coming soon or maintenance mode plugin, server-level password protection from your host, or a staging site while the site is being built or rebuilt.</p>
+<h3>Will a password protected page appear in Google?</h3>
+<p>The content is hidden, but the page address and title can still be found. Set the page to noindex in your SEO plugin, leave it out of your sitemap and remove it from public menus.</p>
+`,
+  },
+  {
+    slug: 'wordpress-php-version-update',
+    seoTitle: 'How to Update the PHP Version for a WordPress Site',
+    title: 'How to Update the PHP Version for Your WordPress Site Safely',
+    description: 'How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/blog/wordpress-hosting-uk/', '/pricing/'],
+    body: `
+<p>To update the PHP version for a WordPress site, check your current version in Tools, then Site Health, update WordPress, your plugins and theme, test the new PHP version on a staging copy, then switch it in your hosting control panel. PHP runs on the server, so the change happens in your hosting account rather than inside WordPress itself.</p>
+<p>This guide is for UK small business owners who have seen a warning about an outdated PHP version in the dashboard or an email from their host. It explains why PHP matters, how to prepare, how to make the switch and what to do if something breaks.</p>
+
+<h2>What PHP is and why the version matters</h2>
+<p>PHP is the programming language WordPress, its plugins and most themes are written in. Your web server runs a particular version of PHP, and every page request uses it. Like any software, PHP versions have a lifespan. Each version receives active development for a period, then security fixes only, and then nothing at all.</p>
+<p>Running an old, unsupported version has three costs:</p>
+<ul>
+<li><strong>Security.</strong> Unsupported versions stop receiving security fixes, so newly discovered problems stay open.</li>
+<li><strong>Compatibility.</strong> Plugin and theme developers gradually stop supporting old versions, so updates may no longer install or may stop working.</li>
+<li><strong>Performance.</strong> Newer PHP versions have generally been faster and more efficient, which helps page speed. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the other factors.</li>
+</ul>
+<p>The official PHP project publishes which versions are supported and until when, and WordPress publishes its recommended version. Check both for current details, as they change over time.</p>
+
+<h2>Check which PHP version you are running</h2>
+<p>The quickest way is the <a href="/blog/wordpress-site-health-screen/">WordPress Site Health screen</a>. Go to Tools, then Site Health. If your PHP version is outdated, the Status tab normally flags it. The Info tab, under Server, shows the exact version.</p>
+<p>Your hosting control panel will also show the version, usually in a section called something like PHP settings, PHP version or select PHP version. Some hosts allow a different version for each website or folder, so make sure you are looking at the right site.</p>
+
+<h2>Before you upgrade: prepare properly</h2>
+<p>Most PHP upgrades go smoothly. The ones that do not usually involve an old plugin, an abandoned theme or custom code written years ago. A little preparation catches those before they reach your customers.</p>
+<ol>
+<li><strong>Take a full backup</strong> of files and database. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> guide covers what a complete backup includes.</li>
+<li><strong>Update WordPress core</strong> to the latest version.</li>
+<li><strong>Update every plugin and theme.</strong> Developers often release compatibility fixes ahead of new PHP versions.</li>
+<li><strong>Remove what you do not use.</strong> Deactivated plugins and unused themes can still cause problems and are worth deleting. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide helps you decide what stays.</li>
+<li><strong>Check plugin compatibility.</strong> Look at each plugin's listing or changelog for its tested and required PHP versions. Be wary of anything not updated in a long time.</li>
+<li><strong>Find custom code.</strong> Note any custom theme, child theme or code snippets. These are the most likely to use older PHP features and are not covered by plugin updates.</li>
+</ol>
+
+<h2>How to update the PHP version for WordPress</h2>
+<p>The exact screens vary between hosts, but the process is broadly the same.</p>
+<ol>
+<li><strong>Create or refresh a staging site.</strong> Many hosts offer one-click staging. Set staging to the new PHP version first. See our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a>.</li>
+<li><strong>Test the staging site thoroughly.</strong> Browse the main templates, submit forms, log in and out, and run a test order if you sell online. Check the error log for warnings.</li>
+<li><strong>Fix or replace anything that fails.</strong> Update, replace or remove problem plugins, and ask a developer to update custom code.</li>
+<li><strong>Choose a quiet time</strong> for the live change, such as early morning or a weekday evening, when few customers are on the site.</li>
+<li><strong>Note your current version</strong> so you know exactly what to roll back to.</li>
+<li><strong>Switch the live site</strong> in your hosting control panel. The change usually applies within a minute or two.</li>
+<li><strong>Test the live site immediately</strong>, using the same checklist as staging.</li>
+<li><strong>Clear caches</strong> from any caching plugin, server cache and content delivery network.</li>
+</ol>
+<p>If your hosting panel only offers old PHP versions, or no option to change it, contact the host. If they cannot offer a current, supported version, that is a strong sign it is time to move. Our guides to <a href="/blog/wordpress-hosting-uk/">WordPress hosting in the UK</a> and how to <a href="/blog/change-website-hosting-without-downtime/">change website hosting without downtime</a> cover what to look for and how to move safely.</p>
+
+<h2>A testing checklist for after the switch</h2>
+<table>
+<thead><tr><th>Area</th><th>What to check</th></tr></thead>
+<tbody>
+<tr><td>Front end</td><td>Homepage, a service page, a blog post, the contact page and any landing pages</td></tr>
+<tr><td>Forms</td><td>Every form submits, shows a confirmation and sends its notification email</td></tr>
+<tr><td>Shop</td><td>Product pages, basket, checkout, payment and order emails</td></tr>
+<tr><td>Dashboard</td><td>Log in, edit and save a page, upload an image, open plugin settings</td></tr>
+<tr><td>Integrations</td><td>Booking systems, newsletter sign-ups, analytics and any connected tools</td></tr>
+<tr><td>Error log</td><td>No new fatal errors or repeated warnings in the hosting error log</td></tr>
+</tbody>
+</table>
+<p>Check again the next day too. Some features, such as scheduled tasks, backups or automated emails, only run at certain times.</p>
+
+<h2>What to do if something breaks</h2>
+<p>If the site shows "There has been a critical error on this website" or a feature stops working after the switch, you have two choices. The fast one is to switch PHP back to the previous version in your hosting panel, which normally restores things within minutes. Then investigate on staging without customers watching.</p>
+<p>The error log will usually name the file that failed, which points to the plugin, theme or snippet involved. Update it, replace it or have the custom code rewritten, then try the upgrade again. Treat rolling back as a short pause, not a solution, because the older version will eventually lose security support.</p>
+<p>If you cannot reach the dashboard at all, rolling back in the hosting panel is still possible, because it does not depend on WordPress loading. If you do not have access to the hosting account, contact whoever does, or your host's support team, and ask them to restore the previous version while you investigate.</p>
+
+<h2>Keeping PHP current in future</h2>
+<ul>
+<li><strong>Put PHP on your maintenance list.</strong> Check the version a few times a year as part of routine <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+<li><strong>Read your host's emails.</strong> Hosts usually announce when they plan to retire old versions. Ignoring those notices can mean the host upgrades you without testing.</li>
+<li><strong>Keep plugins lean and maintained.</strong> Well-supported plugins make PHP upgrades routine.</li>
+<li><strong>Keep custom code documented.</strong> Knowing where custom code lives makes testing faster each time.</li>
+<li><strong>Keep staging available.</strong> A staging copy that is refreshed from the live site every so often makes each future upgrade a quick test rather than a project.</li>
+<li><strong>Know who holds the hosting login.</strong> Many upgrade delays happen because nobody can find the hosting account details. Store them securely and make sure more than one trusted person can access them.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>If your site has a lot of custom code, a complex shop or an old theme nobody has touched for years, a developer can review compatibility before you switch and fix what needs fixing. At Prism Works Studio we handle PHP upgrades, hosting moves and ongoing updates as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work. Our <a href="/pricing/">pricing page</a> sets out how projects and support retainers are structured.</p>
+
+<h2>FAQs</h2>
+<h3>How do I update the PHP version for WordPress?</h3>
+<p>Back up the site, update WordPress, plugins and theme, then test the new PHP version on a staging copy. When it passes, switch the version in your hosting control panel and test the live site straight away.</p>
+<h3>Can I update PHP from the WordPress dashboard?</h3>
+<p>Usually not. PHP runs on the server, so the version is changed in your hosting control panel. Some managed WordPress hosts add a shortcut, but the change still happens at hosting level.</p>
+<h3>Will updating PHP break my website?</h3>
+<p>Most well-maintained sites upgrade without problems. Breakages usually come from old plugins, abandoned themes or custom code. Testing on staging first and keeping a backup makes the risk small and easy to reverse.</p>
+<h3>Which PHP version should my WordPress site use?</h3>
+<p>Use a version that is still supported by the PHP project and recommended by WordPress, and that your plugins and theme support. Check both official sources for current recommendations, as they change regularly.</p>
+<h3>How do I check my current PHP version?</h3>
+<p>Go to Tools, then Site Health, then the Info tab and open the Server section. Your hosting control panel will also show it, usually in its PHP settings area.</p>
+<h3>Can I switch back if the new PHP version causes problems?</h3>
+<p>Yes, most hosts let you choose the previous version again in the control panel. Treat it as a temporary fix while you update or replace whatever failed, because older versions eventually lose security support.</p>
+`,
+  },
 ];

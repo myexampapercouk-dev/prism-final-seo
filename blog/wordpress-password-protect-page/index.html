@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Password Protect a Page in WordPress</title>
+<meta name="description" content="How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Password Protect a Page in WordPress">
+<meta property="og:description" content="How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-password-protect-page.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/#article","headline":"How to Password Protect a Page in WordPress (and When Not To)","description":"How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/","url":"https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-password-protect-page.png","inLanguage":"en-GB","wordCount":1509,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Password Protect a Page in WordPress (and When Not To)","item":"https://prismworksstudio.co.uk/blog/wordpress-password-protect-page/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I password protect a page in WordPress?","acceptedAnswer":{"@type":"Answer","text":"Open the page in the editor, find Visibility in the settings sidebar, choose Password protected, enter a password and update. Test it in a private browser window, because logged-in users may see the content without a prompt."}},{"@type":"Question","name":"Do I need a plugin to password protect WordPress pages?","acceptedAnswer":{"@type":"Answer","text":"No. WordPress includes password protection for individual pages and posts. Plugins are only needed for extra features, such as protecting a whole site, using individual logins or protecting uploaded files."}},{"@type":"Question","name":"Are files on a password protected page also protected?","acceptedAnswer":{"@type":"Answer","text":"No. Images and documents in the media library keep their own direct addresses, which can be opened without the password. Use a member or download protection solution for files that genuinely need to stay private."}},{"@type":"Question","name":"What is the difference between private and password protected?","acceptedAnswer":{"@type":"Answer","text":"A private page is only visible to logged-in users with suitable permissions, such as editors and administrators. A password protected page can be seen by anyone who has the password, with no login needed."}},{"@type":"Question","name":"Can I password protect my whole WordPress site?","acceptedAnswer":{"@type":"Answer","text":"Not neatly with page-level settings. Use a coming soon or maintenance mode plugin, server-level password protection from your host, or a staging site while the site is being built or rebuilt."}},{"@type":"Question","name":"Will a password protected page appear in Google?","acceptedAnswer":{"@type":"Answer","text":"The content is hidden, but the page address and title can still be found. Set the page to noindex in your SEO plugin, leave it out of your sitemap and remove it from public menus."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Password Protect a Page in WordPress (and When Not To)</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Password Protect a Page in WordPress (and When Not To)</h1><p class="pws-lead">How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>WordPress can password protect any page or post from the Visibility setting in the editor, with no plugin needed.</li><li>Built-in protection hides the page content but not uploaded files, so never rely on it for genuinely sensitive documents.</li><li>For client portals, member areas or anything with personal data, use proper user accounts and roles instead of one shared password.</li></ul></div>
+<p>To password protect a page in WordPress, open the page in the editor, find the Visibility setting in the sidebar, choose Password protected, enter a password and update the page. Visitors will then see a password box instead of the content until they enter the correct password.</p>
+<p>This guide is for UK small business owners who want to share a page with a limited audience, such as a price list for trade customers, a draft for a supplier or a gallery for one client. It covers the built-in method, what it actually protects, and when you need something more robust.</p>
+
+<h2>When a password protected page makes sense</h2>
+<p>A single shared password suits light-touch privacy, where the content would cause no real harm if someone outside the group saw it. Typical examples include:</p>
+<ul>
+<li>A trade price list or wholesale catalogue for approved stockists.</li>
+<li>A preview of a new page or campaign for colleagues or suppliers.</li>
+<li>An event information page for ticket holders.</li>
+<li>A simple gallery of finished work for one customer to review.</li>
+<li>Internal guidance for staff that is not confidential.</li>
+</ul>
+<p>It is not suitable for anything containing personal data, contracts, financial information or confidential business documents. Shared passwords get forwarded, and you cannot see who used them.</p>
+
+<h2>How to password protect a page in WordPress</h2>
+<p>The steps below use the block editor, which most current WordPress sites use. Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> explains the layout if it is unfamiliar.</p>
+<ol>
+<li><strong>Open the page or post</strong> you want to protect from Pages or Posts in the dashboard.</li>
+<li><strong>Open the settings sidebar</strong> if it is hidden, using the settings icon at the top right of the editor.</li>
+<li><strong>Find the Visibility (or Status) option</strong> in the page summary panel. It normally shows Public.</li>
+<li><strong>Choose Password protected</strong> and type a password into the box that appears.</li>
+<li><strong>Save or update the page.</strong> The change takes effect immediately.</li>
+<li><strong>Test it in a private browser window.</strong> While you are logged in, WordPress may show you the content directly, so check as a logged-out visitor.</li>
+</ol>
+<p>If you use the classic editor, the same option sits in the Publish box next to Visibility. Some page builders show their own screens, but the underlying WordPress setting is the same and is usually reached from the standard editor or the page list's Quick Edit option.</p>
+
+<h2>The three visibility options compared</h2>
+<table>
+<thead><tr><th>Option</th><th>Who can see it</th><th>Good for</th></tr></thead>
+<tbody>
+<tr><td>Public</td><td>Everyone</td><td>Normal pages and posts</td></tr>
+<tr><td>Password protected</td><td>Anyone with the password</td><td>Light-touch sharing with a small group</td></tr>
+<tr><td>Private</td><td>Logged-in users with suitable permissions, such as editors and administrators</td><td>Internal notes or pages not ready to share</td></tr>
+</tbody>
+</table>
+<p>Private pages need a WordPress login, so they are more controlled, but by default only users who can edit content see them. That makes them useful for internal content and less useful for customers. Our guide to <a href="/blog/wordpress-user-roles/">WordPress user roles</a> explains who can see what.</p>
+
+<h2>What built-in protection does not cover</h2>
+<p>This is the part most people miss. WordPress password protection hides the content of the page, but it has limits.</p>
+<ul>
+<li><strong>Uploaded files are not protected.</strong> Images, PDFs and other files in the media library have their own direct web addresses. If someone has that address, they can open the file without the password. Search engines can sometimes find these files too.</li>
+<li><strong>The page title is still visible.</strong> WordPress shows the title with "Protected" in front of it, and the page may appear in menus, archives or sitemaps unless you remove it.</li>
+<li><strong>One password for everyone.</strong> You cannot tell who viewed the page, and changing the password locks out everyone at once.</li>
+<li><strong>The password is remembered.</strong> WordPress stores a cookie so returning visitors do not need to type it again. That is convenient, but it also means anyone using the same device can see the page.</li>
+<li><strong>Caching can interfere.</strong> Some caching setups need configuring so protected pages are not served from cache. Test after enabling it.</li>
+</ul>
+
+<h2>Tidying up around a protected page</h2>
+<ul>
+<li><strong>Keep it out of menus</strong> unless the audience needs a link. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> shows how to remove items.</li>
+<li><strong>Exclude it from your sitemap and search results.</strong> Most SEO plugins let you set a page to noindex and leave it out of the sitemap. Our <a href="/blog/xml-sitemap-guide/">XML sitemap guide</a> explains what should be listed.</li>
+<li><strong>Use a clear, friendly message.</strong> The default text above the password box is plain. Some themes and plugins let you change it to explain who the page is for and how to get the password.</li>
+<li><strong>Choose a decent password</strong> and share it through a different channel from the link, for example the link by email and the password by phone.</li>
+<li><strong>Review it regularly.</strong> Protected pages are easy to forget. Change the password periodically and remove pages that are no longer needed. Our guide to <a href="/blog/wordpress-trash-and-restoring-content/">WordPress trash and restoring content</a> covers removing pages safely.</li>
+</ul>
+
+<h2>Common problems and how to fix them</h2>
+<p>Password protection is simple, but a few issues come up often enough to be worth knowing about before you send the link out.</p>
+<ul>
+<li><strong>The password box appears but the correct password does not work.</strong> Check for a stray space at the start or end, and remember passwords are case sensitive. If it still fails, a caching or security plugin may be interfering, so clear the cache and test again.</li>
+<li><strong>Visitors keep being asked for the password.</strong> The cookie that remembers the password may be blocked by the visitor's browser settings or cleared on exit. There is little you can change here, so tell people they may need to enter it again.</li>
+<li><strong>Some content still shows.</strong> Page builders sometimes place sections outside the main content area, such as headers, footers or sidebars set per page. Those can remain visible, so check the page logged out and move anything sensitive into the main content.</li>
+<li><strong>An excerpt shows on the blog page.</strong> For protected posts, check your archive and blog listing pages to make sure no summary or featured image gives away more than you intended.</li>
+<li><strong>You want to remove the protection.</strong> Open the page, set Visibility back to Public and update. The old password stops working straight away, so let your audience know.</li>
+</ul>
+
+<h2>Protecting a whole site temporarily</h2>
+<p>Sometimes the aim is to hide the entire site, for example while a new website is being built or tested. Password protecting each page is the wrong tool for that. Options include a coming soon or <a href="/blog/website-maintenance-mode-page/">maintenance mode page</a>, server-level password protection set up through your hosting panel, or a separate staging site that search engines are blocked from. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> covers the last option.</p>
+
+<h2>When you need proper member access</h2>
+<p>If you find yourself creating several protected pages, sharing passwords with dozens of people or worrying about who has access, you probably need individual accounts. That might mean:</p>
+<ul>
+<li><strong>A client or trade portal</strong> where each customer logs in with their own details.</li>
+<li><strong>A membership or course area</strong> that controls access by plan or purchase.</li>
+<li><strong>Protected file downloads</strong> that check the user is logged in before serving the file.</li>
+<li><strong>Wholesale pricing in a shop</strong>, where approved trade accounts see different prices.</li>
+</ul>
+<p>Each of these handles personal data, so think about your privacy notice, retention and security. Check current ICO guidance, and keep login pages protected with strong passwords and two-factor authentication where available. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> covers the basics.</p>
+<p>At Prism Works Studio we plan and build member areas, trade portals and gated content as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service. If you are weighing up the cost, our <a href="/pricing/">pricing page</a> sets out how website projects are structured.</p>
+
+<h2>FAQs</h2>
+<h3>How do I password protect a page in WordPress?</h3>
+<p>Open the page in the editor, find Visibility in the settings sidebar, choose Password protected, enter a password and update. Test it in a private browser window, because logged-in users may see the content without a prompt.</p>
+<h3>Do I need a plugin to password protect WordPress pages?</h3>
+<p>No. WordPress includes password protection for individual pages and posts. Plugins are only needed for extra features, such as protecting a whole site, using individual logins or protecting uploaded files.</p>
+<h3>Are files on a password protected page also protected?</h3>
+<p>No. Images and documents in the media library keep their own direct addresses, which can be opened without the password. Use a member or download protection solution for files that genuinely need to stay private.</p>
+<h3>What is the difference between private and password protected?</h3>
+<p>A private page is only visible to logged-in users with suitable permissions, such as editors and administrators. A password protected page can be seen by anyone who has the password, with no login needed.</p>
+<h3>Can I password protect my whole WordPress site?</h3>
+<p>Not neatly with page-level settings. Use a coming soon or maintenance mode plugin, server-level password protection from your host, or a staging site while the site is being built or rebuilt.</p>
+<h3>Will a password protected page appear in Google?</h3>
+<p>The content is hidden, but the page address and title can still be found. Set the page to noindex in your SEO plugin, leave it out of your sitemap and remove it from public menus.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Password%20Protect%20a%20Page%20in%20WordPress%20(and%20When%20Not%20To)'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-php-version-update/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Update the PHP Version for Your WordPress Site Safely</h3><p>How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-not-sending-emails/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h3><p>WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-mixed-content-fix/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS</h3><p>Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Password%20Protect%20a%20Page%20in%20WordPress%20(and%20When%20Not%20To)'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Update the PHP Version for a WordPress Site</title>
+<meta name="description" content="How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-php-version-update/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Update the PHP Version for a WordPress Site">
+<meta property="og:description" content="How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-php-version-update/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-php-version-update.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-php-version-update/#article","headline":"How to Update the PHP Version for Your WordPress Site Safely","description":"How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-php-version-update/","url":"https://prismworksstudio.co.uk/blog/wordpress-php-version-update/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-php-version-update.png","inLanguage":"en-GB","wordCount":1476,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Update the PHP Version for Your WordPress Site Safely","item":"https://prismworksstudio.co.uk/blog/wordpress-php-version-update/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I update the PHP version for WordPress?","acceptedAnswer":{"@type":"Answer","text":"Back up the site, update WordPress, plugins and theme, then test the new PHP version on a staging copy. When it passes, switch the version in your hosting control panel and test the live site straight away."}},{"@type":"Question","name":"Can I update PHP from the WordPress dashboard?","acceptedAnswer":{"@type":"Answer","text":"Usually not. PHP runs on the server, so the version is changed in your hosting control panel. Some managed WordPress hosts add a shortcut, but the change still happens at hosting level."}},{"@type":"Question","name":"Will updating PHP break my website?","acceptedAnswer":{"@type":"Answer","text":"Most well-maintained sites upgrade without problems. Breakages usually come from old plugins, abandoned themes or custom code. Testing on staging first and keeping a backup makes the risk small and easy to reverse."}},{"@type":"Question","name":"Which PHP version should my WordPress site use?","acceptedAnswer":{"@type":"Answer","text":"Use a version that is still supported by the PHP project and recommended by WordPress, and that your plugins and theme support. Check both official sources for current recommendations, as they change regularly."}},{"@type":"Question","name":"How do I check my current PHP version?","acceptedAnswer":{"@type":"Answer","text":"Go to Tools, then Site Health, then the Info tab and open the Server section. Your hosting control panel will also show it, usually in its PHP settings area."}},{"@type":"Question","name":"Can I switch back if the new PHP version causes problems?","acceptedAnswer":{"@type":"Answer","text":"Yes, most hosts let you choose the previous version again in the control panel. Treat it as a temporary fix while you update or replace whatever failed, because older versions eventually lose security support."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Update the PHP Version for Your WordPress Site Safely</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Update the PHP Version for Your WordPress Site Safely</h1><p class="pws-lead">How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>PHP is the language WordPress runs on, and it is upgraded on your hosting account rather than inside WordPress.</li><li>Check your current version in Site Health, update WordPress, plugins and theme first, then test the new version on staging.</li><li>Switch in the hosting control panel, test key pages, forms and checkout straight away, and keep the old version noted in case you need to roll back.</li></ul></div>
+<p>To update the PHP version for a WordPress site, check your current version in Tools, then Site Health, update WordPress, your plugins and theme, test the new PHP version on a staging copy, then switch it in your hosting control panel. PHP runs on the server, so the change happens in your hosting account rather than inside WordPress itself.</p>
+<p>This guide is for UK small business owners who have seen a warning about an outdated PHP version in the dashboard or an email from their host. It explains why PHP matters, how to prepare, how to make the switch and what to do if something breaks.</p>
+
+<h2>What PHP is and why the version matters</h2>
+<p>PHP is the programming language WordPress, its plugins and most themes are written in. Your web server runs a particular version of PHP, and every page request uses it. Like any software, PHP versions have a lifespan. Each version receives active development for a period, then security fixes only, and then nothing at all.</p>
+<p>Running an old, unsupported version has three costs:</p>
+<ul>
+<li><strong>Security.</strong> Unsupported versions stop receiving security fixes, so newly discovered problems stay open.</li>
+<li><strong>Compatibility.</strong> Plugin and theme developers gradually stop supporting old versions, so updates may no longer install or may stop working.</li>
+<li><strong>Performance.</strong> Newer PHP versions have generally been faster and more efficient, which helps page speed. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> covers the other factors.</li>
+</ul>
+<p>The official PHP project publishes which versions are supported and until when, and WordPress publishes its recommended version. Check both for current details, as they change over time.</p>
+
+<h2>Check which PHP version you are running</h2>
+<p>The quickest way is the <a href="/blog/wordpress-site-health-screen/">WordPress Site Health screen</a>. Go to Tools, then Site Health. If your PHP version is outdated, the Status tab normally flags it. The Info tab, under Server, shows the exact version.</p>
+<p>Your hosting control panel will also show the version, usually in a section called something like PHP settings, PHP version or select PHP version. Some hosts allow a different version for each website or folder, so make sure you are looking at the right site.</p>
+
+<h2>Before you upgrade: prepare properly</h2>
+<p>Most PHP upgrades go smoothly. The ones that do not usually involve an old plugin, an abandoned theme or custom code written years ago. A little preparation catches those before they reach your customers.</p>
+<ol>
+<li><strong>Take a full backup</strong> of files and database. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> guide covers what a complete backup includes.</li>
+<li><strong>Update WordPress core</strong> to the latest version.</li>
+<li><strong>Update every plugin and theme.</strong> Developers often release compatibility fixes ahead of new PHP versions.</li>
+<li><strong>Remove what you do not use.</strong> Deactivated plugins and unused themes can still cause problems and are worth deleting. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide helps you decide what stays.</li>
+<li><strong>Check plugin compatibility.</strong> Look at each plugin's listing or changelog for its tested and required PHP versions. Be wary of anything not updated in a long time.</li>
+<li><strong>Find custom code.</strong> Note any custom theme, child theme or code snippets. These are the most likely to use older PHP features and are not covered by plugin updates.</li>
+</ol>
+
+<h2>How to update the PHP version for WordPress</h2>
+<p>The exact screens vary between hosts, but the process is broadly the same.</p>
+<ol>
+<li><strong>Create or refresh a staging site.</strong> Many hosts offer one-click staging. Set staging to the new PHP version first. See our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a>.</li>
+<li><strong>Test the staging site thoroughly.</strong> Browse the main templates, submit forms, log in and out, and run a test order if you sell online. Check the error log for warnings.</li>
+<li><strong>Fix or replace anything that fails.</strong> Update, replace or remove problem plugins, and ask a developer to update custom code.</li>
+<li><strong>Choose a quiet time</strong> for the live change, such as early morning or a weekday evening, when few customers are on the site.</li>
+<li><strong>Note your current version</strong> so you know exactly what to roll back to.</li>
+<li><strong>Switch the live site</strong> in your hosting control panel. The change usually applies within a minute or two.</li>
+<li><strong>Test the live site immediately</strong>, using the same checklist as staging.</li>
+<li><strong>Clear caches</strong> from any caching plugin, server cache and content delivery network.</li>
+</ol>
+<p>If your hosting panel only offers old PHP versions, or no option to change it, contact the host. If they cannot offer a current, supported version, that is a strong sign it is time to move. Our guides to <a href="/blog/wordpress-hosting-uk/">WordPress hosting in the UK</a> and how to <a href="/blog/change-website-hosting-without-downtime/">change website hosting without downtime</a> cover what to look for and how to move safely.</p>
+
+<h2>A testing checklist for after the switch</h2>
+<table>
+<thead><tr><th>Area</th><th>What to check</th></tr></thead>
+<tbody>
+<tr><td>Front end</td><td>Homepage, a service page, a blog post, the contact page and any landing pages</td></tr>
+<tr><td>Forms</td><td>Every form submits, shows a confirmation and sends its notification email</td></tr>
+<tr><td>Shop</td><td>Product pages, basket, checkout, payment and order emails</td></tr>
+<tr><td>Dashboard</td><td>Log in, edit and save a page, upload an image, open plugin settings</td></tr>
+<tr><td>Integrations</td><td>Booking systems, newsletter sign-ups, analytics and any connected tools</td></tr>
+<tr><td>Error log</td><td>No new fatal errors or repeated warnings in the hosting error log</td></tr>
+</tbody>
+</table>
+<p>Check again the next day too. Some features, such as scheduled tasks, backups or automated emails, only run at certain times.</p>
+
+<h2>What to do if something breaks</h2>
+<p>If the site shows "There has been a critical error on this website" or a feature stops working after the switch, you have two choices. The fast one is to switch PHP back to the previous version in your hosting panel, which normally restores things within minutes. Then investigate on staging without customers watching.</p>
+<p>The error log will usually name the file that failed, which points to the plugin, theme or snippet involved. Update it, replace it or have the custom code rewritten, then try the upgrade again. Treat rolling back as a short pause, not a solution, because the older version will eventually lose security support.</p>
+<p>If you cannot reach the dashboard at all, rolling back in the hosting panel is still possible, because it does not depend on WordPress loading. If you do not have access to the hosting account, contact whoever does, or your host's support team, and ask them to restore the previous version while you investigate.</p>
+
+<h2>Keeping PHP current in future</h2>
+<ul>
+<li><strong>Put PHP on your maintenance list.</strong> Check the version a few times a year as part of routine <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+<li><strong>Read your host's emails.</strong> Hosts usually announce when they plan to retire old versions. Ignoring those notices can mean the host upgrades you without testing.</li>
+<li><strong>Keep plugins lean and maintained.</strong> Well-supported plugins make PHP upgrades routine.</li>
+<li><strong>Keep custom code documented.</strong> Knowing where custom code lives makes testing faster each time.</li>
+<li><strong>Keep staging available.</strong> A staging copy that is refreshed from the live site every so often makes each future upgrade a quick test rather than a project.</li>
+<li><strong>Know who holds the hosting login.</strong> Many upgrade delays happen because nobody can find the hosting account details. Store them securely and make sure more than one trusted person can access them.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>If your site has a lot of custom code, a complex shop or an old theme nobody has touched for years, a developer can review compatibility before you switch and fix what needs fixing. At Prism Works Studio we handle PHP upgrades, hosting moves and ongoing updates as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work. Our <a href="/pricing/">pricing page</a> sets out how projects and support retainers are structured.</p>
+
+<h2>FAQs</h2>
+<h3>How do I update the PHP version for WordPress?</h3>
+<p>Back up the site, update WordPress, plugins and theme, then test the new PHP version on a staging copy. When it passes, switch the version in your hosting control panel and test the live site straight away.</p>
+<h3>Can I update PHP from the WordPress dashboard?</h3>
+<p>Usually not. PHP runs on the server, so the version is changed in your hosting control panel. Some managed WordPress hosts add a shortcut, but the change still happens at hosting level.</p>
+<h3>Will updating PHP break my website?</h3>
+<p>Most well-maintained sites upgrade without problems. Breakages usually come from old plugins, abandoned themes or custom code. Testing on staging first and keeping a backup makes the risk small and easy to reverse.</p>
+<h3>Which PHP version should my WordPress site use?</h3>
+<p>Use a version that is still supported by the PHP project and recommended by WordPress, and that your plugins and theme support. Check both official sources for current recommendations, as they change regularly.</p>
+<h3>How do I check my current PHP version?</h3>
+<p>Go to Tools, then Site Health, then the Info tab and open the Server section. Your hosting control panel will also show it, usually in its PHP settings area.</p>
+<h3>Can I switch back if the new PHP version causes problems?</h3>
+<p>Yes, most hosts let you choose the previous version again in the control panel. Treat it as a temporary fix while you update or replace whatever failed, because older versions eventually lose security support.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Update%20the%20PHP%20Version%20for%20Your%20WordPress%20Site%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-password-protect-page/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Password Protect a Page in WordPress (and When Not To)</h3><p>How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-not-sending-emails/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h3><p>WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-mixed-content-fix/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS</h3><p>Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Update%20the%20PHP%20Version%20for%20Your%20WordPress%20Site%20Safely'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

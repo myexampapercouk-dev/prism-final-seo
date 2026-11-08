@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TikTok Pixel Setup Guide for UK Businesses</title>
+<meta name="description" content="How to set up the TikTok Pixel: create it in Events Manager, install it, choose events, handle UK cookie consent and test it before your ads go live.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TikTok Pixel Setup Guide for UK Businesses">
+<meta property="og:description" content="How to set up the TikTok Pixel: create it in Events Manager, install it, choose events, handle UK cookie consent and test it before your ads go live.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-tiktok-pixel-setup-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/#article","headline":"TikTok Pixel Setup: How to Track Results From TikTok Ads","description":"How to set up the TikTok Pixel: create it in Events Manager, install it, choose events, handle UK cookie consent and test it before your ads go live.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/","url":"https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-tiktok-pixel-setup-guide.png","inLanguage":"en-GB","wordCount":1525,"articleSection":"Paid Media","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"TikTok Pixel Setup: How to Track Results From TikTok Ads","item":"https://prismworksstudio.co.uk/blog/tiktok-pixel-setup-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I set up the TikTok Pixel?","acceptedAnswer":{"@type":"Answer","text":"Create a pixel in TikTok Ads Manager's Events Manager, install it through your platform's integration, a tag manager or manual code, add the events you want to track, then test with TikTok's tools. Make sure it only fires after visitors consent to advertising cookies."}},{"@type":"Question","name":"Is the TikTok Pixel free?","acceptedAnswer":{"@type":"Answer","text":"Yes, there is no charge for creating or installing the pixel itself. You only pay for the ads you run, and possibly for any consent tool or developer time you use."}},{"@type":"Question","name":"Do I need the TikTok Pixel if I only run awareness ads?","acceptedAnswer":{"@type":"Answer","text":"It is still worth installing. Even if you are not optimising for conversions yet, the pixel builds data and audiences you can use later, and helps you see whether awareness campaigns lead to site visits."}},{"@type":"Question","name":"Can I use the TikTok Pixel on Shopify?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. Shopify stores can usually connect through TikTok's official sales channel, which handles much of the set-up. Check Shopify's and TikTok's current help pages for the latest steps."}},{"@type":"Question","name":"Does the TikTok Pixel need cookie consent in the UK?","acceptedAnswer":{"@type":"Answer","text":"In most cases, yes. Advertising pixels typically need consent under PECR before they run. Set your consent tool or tag manager so the pixel only fires once a visitor accepts the relevant cookies."}},{"@type":"Question","name":"Why are my TikTok results different from GA4?","acceptedAnswer":{"@type":"Answer","text":"Each platform counts conversions in its own way, using different attribution windows and methods, and some visitors decline cookies. Expect differences, and focus on trends and consistent comparisons rather than matching numbers exactly."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">TikTok Pixel Setup: How to Track Results From TikTok Ads</li></ol></nav><span class="pws-eyebrow">Paid Media</span><h1>TikTok Pixel Setup: How to Track Results From TikTok Ads</h1><p class="pws-lead">How to set up the TikTok Pixel: create it in Events Manager, install it, choose events, handle UK cookie consent and test it before your ads go live.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>The TikTok Pixel tells TikTok which ad viewers went on to enquire or buy, which helps campaigns optimise and report properly.</li><li>Track a small number of meaningful events, such as purchases or completed enquiries, rather than every click.</li><li>Make the pixel respect cookie consent, and test it with TikTok's own tools before you spend money on ads.</li></ul></div>
+<p>To set up the TikTok Pixel, create a pixel in TikTok Ads Manager's Events Manager, install its code on your website directly, through a platform integration or through a tag manager, then choose the events you want to track and test them. Once it fires correctly, and only after visitors consent to advertising cookies, TikTok can measure and optimise your ads.</p>
+<p>This guide is for UK small business owners who are running, or planning to run, TikTok Ads. It explains what the pixel does, the main installation routes, which events are worth tracking, how UK consent rules fit in and how to check it works. TikTok updates its tools often, so check TikTok's current Business Help Centre for the exact steps and menu names.</p>
+
+<h2>What the TikTok Pixel does</h2>
+<p>When someone sees your ad on TikTok and later visits your website, TikTok has no way of knowing what happened next unless your site tells it. The pixel is a small piece of code that does exactly that. It reports actions such as viewing a product, adding to basket, starting checkout, completing a purchase or submitting an enquiry form.</p>
+<p>That information is used in three ways. First, it shows you which campaigns lead to real results rather than just views. Second, TikTok's delivery system uses it to find more people likely to take the same action. Third, it lets you build audiences of past visitors for retargeting. Without the pixel, you are judging campaigns on clicks alone, which rarely tells the full story. If you are new to the platform, our overview of <a href="/blog/tiktok-ads-agency-uk/">TikTok Ads for UK businesses</a> covers when it makes sense.</p>
+
+<h2>Before you start</h2>
+<ul>
+<li><strong>A TikTok Ads Manager account</strong> owned by the business, ideally inside a Business Center so access can be managed and shared safely.</li>
+<li><strong>Access to your website</strong>, whether that is the Shopify admin, WordPress dashboard, another builder, or a tag manager container.</li>
+<li><strong>A cookie consent tool</strong> that can block or allow advertising tags based on the visitor's choice.</li>
+<li><strong>A short list of actions</strong> that matter to your business, such as purchases, booking requests or quote forms.</li>
+<li><strong>An updated privacy notice</strong> that mentions advertising pixels. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> covers the basics.</li>
+</ul>
+
+<h2>TikTok Pixel setup: the main installation routes</h2>
+<p>There are three common ways to install the pixel. Which one suits you depends on your website platform and how much control you want.</p>
+<table>
+<thead><tr><th>Route</th><th>Best for</th><th>Things to watch</th></tr></thead>
+<tbody>
+<tr><td>Platform integration</td><td>Shopify and other ecommerce platforms with an official TikTok app or channel</td><td>Quick to set up, but check which events it sends and do not also add the code manually</td></tr>
+<tr><td>Tag manager</td><td>Sites that already manage tags in one place</td><td>Flexible and easy to control with consent, but needs careful trigger set-up</td></tr>
+<tr><td>Manual code</td><td>Simple sites without a tag manager or integration</td><td>Needs code edits, and each event must be added by hand</td></tr>
+</tbody>
+</table>
+<p>For Shopify stores, the TikTok sales channel is usually the simplest starting point, because it can connect your catalogue and send standard shopping events. Our guide to <a href="/blog/shopify-sales-channels-overview/">Shopify sales channels</a> explains how channels work. For WordPress and other sites, a tag manager keeps your tracking tidy and makes it easier to tie tags to consent.</p>
+
+<h2>Step-by-step set-up</h2>
+<ol>
+<li><strong>Create the pixel.</strong> In TikTok Ads Manager, open the events area, choose to connect a web data source and give the pixel a clear name, such as the business name and website.</li>
+<li><strong>Choose an installation method.</strong> Select the partner integration if one is offered for your platform, or choose manual installation to get the base code.</li>
+<li><strong>Add the base code.</strong> The base code loads on every page. With a tag manager, create a tag for it that fires on all pages once advertising consent is given.</li>
+<li><strong>Set up events.</strong> Add the standard events that match your list. TikTok offers named events for common actions, and using these rather than custom names helps its optimisation.</li>
+<li><strong>Pass values where relevant.</strong> For purchases, send the order value and currency (GBP) so you can see return on ad spend.</li>
+<li><strong>Test.</strong> Use TikTok's testing tools and browser helper to confirm each event fires once, at the right moment.</li>
+<li><strong>Connect it to campaigns.</strong> When you build a campaign that optimises for website conversions, pick the pixel and the event you care about most.</li>
+</ol>
+
+<h2>Which events to track</h2>
+<p>Track what reflects real business value. A simple service business might only need a completed enquiry and a phone number click. An online shop will usually want product views, add to basket, checkout started and purchase. Avoid tracking every scroll and minor click, because noisy events make reports harder to read and can lead campaigns to optimise for the wrong thing.</p>
+<p>Keep your event list consistent with the events you track in Google Analytics 4 and other ad platforms. If you already followed our <a href="/blog/meta-pixel-setup-guide/">Meta Pixel setup guide</a>, reuse the same list of actions. It makes comparing channels far easier. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers the analytics side.</p>
+
+<h2>Consent, UK GDPR and PECR</h2>
+<p>Under PECR and UK GDPR, advertising pixels generally need the visitor's consent before they run on UK websites. That means the TikTok Pixel should not fire until someone has accepted advertising or marketing cookies in your banner. Most consent tools can block the pixel by category, and most tag managers can use consent as a trigger condition. Our article on <a href="/blog/cookie-banner-design-uk/">cookie banner design in the UK</a> explains how to make the choice clear and fair.</p>
+<p>TikTok also offers server-side options, often described as an events API, which send event data from your server rather than the browser. These can improve data quality, but they do not remove the need for consent or for handling personal data lawfully. This is general information rather than legal advice. Check the ICO's guidance and your own legal adviser if you are unsure.</p>
+
+<h2>How to check your pixel is working</h2>
+<ul>
+<li>Use TikTok's diagnostic and test event tools in Events Manager to watch events arrive as you browse.</li>
+<li>Install TikTok's browser helper extension, if available, to see which events fire on each page.</li>
+<li>Make a test journey from landing page to enquiry or checkout, and confirm each event appears once.</li>
+<li>Decline cookies in your banner and confirm the pixel does not fire.</li>
+<li>Check any warnings in Events Manager, such as missing values or duplicate events, and fix them.</li>
+</ul>
+
+<h2>Common TikTok Pixel mistakes</h2>
+<ul>
+<li><strong>Double installation.</strong> Adding the pixel through a platform app and again by hand causes duplicate events and inflated results.</li>
+<li><strong>Purchase events on the wrong page.</strong> A purchase event that fires on the basket page will count browsing as buying.</li>
+<li><strong>Missing currency or value.</strong> Without these, return on ad spend cannot be calculated.</li>
+<li><strong>Firing before consent.</strong> This creates compliance risk and can undermine trust.</li>
+<li><strong>Not tagging links.</strong> Use UTM parameters on TikTok ad links so GA4 shows the traffic correctly. Our <a href="/blog/utm-tracking-links-guide/">UTM tracking guide</a> explains how.</li>
+<li><strong>Personal data in URLs.</strong> Never pass names, emails or phone numbers in page addresses where pixels can pick them up.</li>
+</ul>
+
+<h2>Using pixel data for retargeting</h2>
+<p>Once the pixel has gathered enough data, you can build audiences of people who visited certain pages or took certain actions, then show them follow-up ads. Keep frequency sensible and exclude recent buyers where possible. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> covers how to approach this across platforms without irritating people.</p>
+
+<h2>When to get help</h2>
+<p>A basic pixel through an official integration is usually manageable in-house. Custom events, server-side tracking, consent mode set-ups and reconciling numbers across TikTok, Meta, Google and GA4 take more time and experience. Our <a href="/services/paid-media/">paid media service</a> includes TikTok Ads set-up and tracking, and our <a href="/pricing/">pricing page</a> explains how our retainers work. Ad spend is paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up the TikTok Pixel?</h3>
+<p>Create a pixel in TikTok Ads Manager's Events Manager, install it through your platform's integration, a tag manager or manual code, add the events you want to track, then test with TikTok's tools. Make sure it only fires after visitors consent to advertising cookies.</p>
+<h3>Is the TikTok Pixel free?</h3>
+<p>Yes, there is no charge for creating or installing the pixel itself. You only pay for the ads you run, and possibly for any consent tool or developer time you use.</p>
+<h3>Do I need the TikTok Pixel if I only run awareness ads?</h3>
+<p>It is still worth installing. Even if you are not optimising for conversions yet, the pixel builds data and audiences you can use later, and helps you see whether awareness campaigns lead to site visits.</p>
+<h3>Can I use the TikTok Pixel on Shopify?</h3>
+<p>Generally yes. Shopify stores can usually connect through TikTok's official sales channel, which handles much of the set-up. Check Shopify's and TikTok's current help pages for the latest steps.</p>
+<h3>Does the TikTok Pixel need cookie consent in the UK?</h3>
+<p>In most cases, yes. Advertising pixels typically need consent under PECR before they run. Set your consent tool or tag manager so the pixel only fires once a visitor accepts the relevant cookies.</p>
+<h3>Why are my TikTok results different from GA4?</h3>
+<p>Each platform counts conversions in its own way, using different attribution windows and methods, and some visitors decline cookies. Expect differences, and focus on trends and consistent comparisons rather than matching numbers exactly.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'TikTok%20Pixel%20Setup%3A%20How%20to%20Track%20Results%20From%20TikTok%20Ads'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/tiktok-ads-vs-meta-ads-uk/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>TikTok Ads vs Meta Ads: Choosing a Social Ad Platform in the UK</h3><p>TikTok Ads suit native, entertaining short video; Meta Ads offer mature targeting across Facebook and Instagram. Compare audience, creative and cost.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/meta-pixel-setup-guide/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>Meta Pixel Setup: How to Track Facebook and Instagram Ad Results Properly</h3><p>A practical Meta Pixel setup guide for UK small businesses: installing the pixel, choosing events, consent, Conversions API and checking your data is accurate.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/meta-lookalike-audiences-guide/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>Meta Lookalike Audiences: How to Find More Customers Like Your Best Ones</h3><p>Meta lookalike audiences help you reach people similar to your customers. Learn how to build a good source list, set one up and test it in the UK.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'TikTok%20Pixel%20Setup%3A%20How%20to%20Track%20Results%20From%20TikTok%20Ads'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

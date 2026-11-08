@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fix Mixed Content Warnings in WordPress After HTTPS</title>
+<meta name="description" content="Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Fix Mixed Content Warnings in WordPress After HTTPS">
+<meta property="og:description" content="Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-mixed-content-fix.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/#article","headline":"How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS","description":"Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/","url":"https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-mixed-content-fix.png","inLanguage":"en-GB","wordCount":1484,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS","item":"https://prismworksstudio.co.uk/blog/wordpress-mixed-content-fix/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I fix mixed content warnings in WordPress?","acceptedAnswer":{"@type":"Answer","text":"Change the WordPress Address and Site Address to https, replace old http addresses in the database with a tool that handles serialised data, update theme, menu and widget links, re-embed old third-party content and clear all caches."}},{"@type":"Question","name":"Why is my site not secure even though I have an SSL certificate?","acceptedAnswer":{"@type":"Answer","text":"Usually because some files on the page still load over http. The certificate secures the connection, but browsers will not show the site as fully secure until every image, script and stylesheet uses https too."}},{"@type":"Question","name":"Can a plugin fix mixed content automatically?","acceptedAnswer":{"@type":"Answer","text":"Some plugins rewrite insecure addresses as each page loads. They can help as a temporary measure, but fixing the stored addresses in the database and theme is cleaner and avoids relying on extra code on every page."}},{"@type":"Question","name":"Will switching to HTTPS affect my search rankings?","acceptedAnswer":{"@type":"Answer","text":"Moving to HTTPS is generally recommended, and a careful move with permanent redirects should not cause lasting harm. Expect search engines to take some time to process the change, and check current official guidance for site moves."}},{"@type":"Question","name":"How do I find which files are causing mixed content?","acceptedAnswer":{"@type":"Answer","text":"Open the page in your browser, open the developer tools and check the console. Each mixed content warning names the insecure file address, which tells you whether it comes from your content, theme, a plugin or an external service."}},{"@type":"Question","name":"Do I need to update links in old blog posts?","acceptedAnswer":{"@type":"Answer","text":"Yes, if they use full http addresses to your own site. A database search and replace updates them all at once. Links to other websites only need changing if those sites support HTTPS."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS</h1><p class="pws-lead">Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Mixed content means a secure HTTPS page is loading some files, such as images or scripts, over insecure HTTP.</li><li>Fix the source: update the site address settings, replace old http links in the database and correct hard-coded theme or plugin URLs.</li><li>Back up first, add a site-wide redirect to HTTPS, then recheck key pages, forms and checkout in a browser's developer tools.</li></ul></div>
+<p>To fix mixed content warnings in WordPress, find every image, script, stylesheet or embed still loading over http and change it to https, starting with the WordPress Address and Site Address settings and then the old links stored in your database. Once nothing on the page loads over http, the browser shows the site as secure again.</p>
+<p>This guide is for UK small business owners who have added an SSL certificate, switched their WordPress site to HTTPS and found the padlock missing, a "not fully secure" notice in the address bar, or images and features that no longer work. It explains what is happening, how to find the culprits and how to fix them in a safe order.</p>
+
+<h2>What mixed content means</h2>
+<p>When a page loads over HTTPS, the connection between the visitor's browser and your server is encrypted. A typical page also loads many other files: images, fonts, stylesheets, scripts, videos and embedded maps or forms. If any of those files are requested over plain http, the page is mixing secure and insecure content.</p>
+<p>Browsers handle this in two ways. Passive content such as images may be upgraded automatically or loaded with a warning, so the padlock disappears or changes. Active content such as scripts and stylesheets is usually blocked, which can break menus, sliders, forms or even the checkout. Either way, visitors see a site that looks less trustworthy, which is the opposite of what a certificate is for. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> explains why that first impression matters.</p>
+
+<h2>Why it happens in WordPress</h2>
+<p>WordPress stores full web addresses in many places. When a site starts life on http, every image you upload, every internal link you add and many theme and plugin settings are saved with http at the front. Installing a certificate does not rewrite those stored addresses. Common sources include:</p>
+<ul>
+<li><strong>The site address settings</strong> under Settings, then General, still set to http.</li>
+<li><strong>Images and links in posts and pages</strong> saved with the full http address.</li>
+<li><strong>Theme options and page builder data</strong>, such as a logo or background image set in the customiser.</li>
+<li><strong>Widgets and menus</strong> with custom links typed in by hand.</li>
+<li><strong>Hard-coded addresses</strong> in theme files or custom code snippets.</li>
+<li><strong>Third-party embeds</strong>, such as an old video, map or booking widget pasted in using an http address.</li>
+</ul>
+
+<h2>Before you start</h2>
+<ul>
+<li><strong>Confirm the certificate works.</strong> Visit your homepage with https at the front. If you see a certificate error rather than a mixed content notice, the certificate itself needs fixing by your host.</li>
+<li><strong>Take a full backup.</strong> Changing addresses in the database is reliable when done carefully, but a backup means a mistake costs minutes rather than days. Our guide to a <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> covers what to keep.</li>
+<li><strong>Work on staging if you can.</strong> For a shop or a large site, run the changes on a <a href="/blog/website-staging-and-testing/">staging copy</a> first.</li>
+</ul>
+
+<h2>How to fix mixed content warnings in WordPress</h2>
+<ol>
+<li><strong>Update the WordPress Address and Site Address.</strong> In the dashboard, go to Settings, then General, and change both addresses from http to https. Save, and you will be asked to log in again. If these fields are greyed out, they are set in the wp-config.php file and need changing there.</li>
+<li><strong>Replace old addresses in the database.</strong> Use a reputable search and replace tool or plugin to replace your old http address with the https version across the database. Choose one that handles serialised data correctly, because a simple text replacement can break settings stored by themes and plugins. Run a dry run first if the tool offers it.</li>
+<li><strong>Check theme and builder settings.</strong> Look through the customiser, theme options and any page builder global settings for logo, favicon and background image addresses, and update anything still on http.</li>
+<li><strong>Check menus and widgets.</strong> Custom links in menus and text in widgets can hold full addresses. Our <a href="/blog/wordpress-menus-guide/">WordPress menus guide</a> shows where those links live.</li>
+<li><strong>Fix hard-coded addresses in code.</strong> If the problem is in theme files or a code snippet, update the address there. If you use a child theme, make the change in the child theme so an update does not undo it.</li>
+<li><strong>Update or replace old embeds.</strong> Re-embed videos, maps and widgets using the provider's current https code. If a third-party service does not support HTTPS at all, it is time to replace it.</li>
+<li><strong>Clear every cache.</strong> Clear your caching plugin, any server cache from your host and your content delivery network if you use one, then check again in a private browsing window.</li>
+</ol>
+
+<h2>Finding what is still insecure</h2>
+<p>If the padlock is still missing after those steps, you need to find the remaining files. Open the page in your browser, open the developer tools and look at the console. Mixed content warnings name the exact file and its address. Note each one and trace where it comes from.</p>
+<table>
+<thead><tr><th>Where the warning points</th><th>Likely source</th><th>Where to fix it</th></tr></thead>
+<tbody>
+<tr><td>An image in your uploads folder</td><td>Old address in a post, page or builder layout</td><td>Database search and replace, or edit the content</td></tr>
+<tr><td>A file in your theme folder</td><td>Hard-coded address in theme code</td><td>Child theme or theme settings</td></tr>
+<tr><td>A file in a plugin folder</td><td>Plugin setting or outdated plugin</td><td>Plugin settings, update or replace the plugin</td></tr>
+<tr><td>Another website's address</td><td>Embed or external script</td><td>Re-embed with current code or remove it</td></tr>
+</tbody>
+</table>
+<p>Check more than the homepage. Templates differ, so test a blog post, a service page, the contact page and, for shops, a product page, the basket and the checkout.</p>
+
+<h2>Redirect everything to HTTPS</h2>
+<p>Once pages load cleanly, make sure anyone arriving on an old http address is sent to the https version with a permanent 301 redirect. Many hosts offer this as a setting in the control panel. Otherwise it can be added at server level or with a plugin. A site-wide redirect also helps search engines settle on one version of every page. Our guide to <a href="/blog/website-redirects-when-relaunching/">website redirects</a> explains why permanent redirects matter.</p>
+<p>Some plugins fix mixed content on the fly by rewriting addresses as each page loads. That can be a useful stopgap, but it adds work to every page load and hides the underlying problem. Fixing the stored addresses is the cleaner long-term answer.</p>
+
+<h2>After the fix</h2>
+<ul>
+<li><strong>Update your search tools.</strong> Check that your sitemap lists https addresses and that your Search Console property covers the https version. Our <a href="/blog/google-search-console-setup-uk/">Google Search Console setup guide</a> walks through this.</li>
+<li><strong>Update analytics and ad links.</strong> Change the site address in analytics settings and any ad, email or social profile links that still use http.</li>
+<li><strong>Test forms and payments.</strong> Submit each form and, for shops, run a test order. Payment and form scripts are often the active content browsers block.</li>
+<li><strong>Watch certificate renewal.</strong> Most hosts renew certificates automatically, but an expired certificate causes a far worse warning than mixed content, so make sure someone gets the renewal notices.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>For a small brochure site, the steps above are usually enough. Larger sites, shops and sites built with heavy page builders can store addresses in unusual places, and a careless database replacement can do real damage. At Prism Works Studio we handle HTTPS moves and clean-ups as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work, and you can see how projects and support are structured on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I fix mixed content warnings in WordPress?</h3>
+<p>Change the WordPress Address and Site Address to https, replace old http addresses in the database with a tool that handles serialised data, update theme, menu and widget links, re-embed old third-party content and clear all caches.</p>
+<h3>Why is my site not secure even though I have an SSL certificate?</h3>
+<p>Usually because some files on the page still load over http. The certificate secures the connection, but browsers will not show the site as fully secure until every image, script and stylesheet uses https too.</p>
+<h3>Can a plugin fix mixed content automatically?</h3>
+<p>Some plugins rewrite insecure addresses as each page loads. They can help as a temporary measure, but fixing the stored addresses in the database and theme is cleaner and avoids relying on extra code on every page.</p>
+<h3>Will switching to HTTPS affect my search rankings?</h3>
+<p>Moving to HTTPS is generally recommended, and a careful move with permanent redirects should not cause lasting harm. Expect search engines to take some time to process the change, and check current official guidance for site moves.</p>
+<h3>How do I find which files are causing mixed content?</h3>
+<p>Open the page in your browser, open the developer tools and check the console. Each mixed content warning names the insecure file address, which tells you whether it comes from your content, theme, a plugin or an external service.</p>
+<h3>Do I need to update links in old blog posts?</h3>
+<p>Yes, if they use full http addresses to your own site. A database search and replace updates them all at once. Links to other websites only need changing if those sites support HTTPS.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Fix%20Mixed%20Content%20Warnings%20in%20WordPress%20After%20Moving%20to%20HTTPS'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-php-version-update/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Update the PHP Version for Your WordPress Site Safely</h3><p>How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-password-protect-page/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Password Protect a Page in WordPress (and When Not To)</h3><p>How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-not-sending-emails/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h3><p>WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Fix%20Mixed%20Content%20Warnings%20in%20WordPress%20After%20Moving%20to%20HTTPS'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

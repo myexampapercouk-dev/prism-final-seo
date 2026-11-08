@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WordPress Not Sending Emails? How to Fix It Properly</title>
+<meta name="description" content="WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WordPress Not Sending Emails? How to Fix It Properly">
+<meta property="og:description" content="WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-wordpress-not-sending-emails.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/#article","headline":"WordPress Not Sending Emails? How to Fix Form and Notification Emails","description":"WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/","url":"https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/","image":"https://prismworksstudio.co.uk/assets/og/blog-wordpress-not-sending-emails.png","inLanguage":"en-GB","wordCount":1625,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WordPress Not Sending Emails? How to Fix Form and Notification Emails","item":"https://prismworksstudio.co.uk/blog/wordpress-not-sending-emails/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why is WordPress not sending emails?","acceptedAnswer":{"@type":"Answer","text":"Usually because the web server sends mail that receiving providers do not trust. Missing SPF, DKIM or DMARC records, a mismatched \"from\" address or hosting restrictions are the common causes. Sending through authenticated SMTP normally fixes it."}},{"@type":"Question","name":"Do I need an SMTP plugin for WordPress?","acceptedAnswer":{"@type":"Answer","text":"For most business sites, yes. An SMTP plugin routes WordPress email through an authenticated mail service instead of the web server, which makes delivery far more reliable and usually adds logging so you can see what was sent."}},{"@type":"Question","name":"Why do my contact form emails go to spam?","acceptedAnswer":{"@type":"Answer","text":"The receiving provider does not trust the message. Common reasons are a \"from\" address on a free webmail domain, missing authentication records or a poor server reputation. Use your own domain, send through SMTP and add the DNS records your email service provides."}},{"@type":"Question","name":"Can I send WordPress emails from a free webmail address?","acceptedAnswer":{"@type":"Answer","text":"It is best avoided. Free webmail providers publish rules telling receivers to reject mail that claims to be from them but is sent elsewhere. Use an address on your own domain and set the visitor's address as reply-to instead."}},{"@type":"Question","name":"How do I know if form enquiries have been lost?","acceptedAnswer":{"@type":"Answer","text":"Check whether your form plugin stores entries in the dashboard and compare them with your inbox. If the plugin did not store entries, check your SMTP or email service logs. Going forward, store entries and run regular tests."}},{"@type":"Question","name":"Will changing my email provider affect website emails?","acceptedAnswer":{"@type":"Answer","text":"It can. Changing provider often means new SMTP details and new DNS records. Update the SMTP plugin settings, add the new SPF and DKIM values, remove old ones you no longer use and test every form afterwards."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WordPress Not Sending Emails? How to Fix Form and Notification Emails</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h1><p class="pws-lead">WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Most WordPress email problems come from the server sending mail that receiving providers do not trust, not from WordPress itself.</li><li>Send through an authenticated SMTP or email service using an address on your own domain, with SPF, DKIM and DMARC records in place.</li><li>Test every form and notification after the fix, keep a log of sent mail, and store form entries on the site as a safety net.</li></ul></div>
+<p>If WordPress is not sending emails, the usual cause is that your web server is sending mail in a way receiving providers do not trust, so messages are rejected or sent to spam. The reliable fix is to send WordPress email through an authenticated SMTP or transactional email service, from an address on your own domain, with the right DNS records set up.</p>
+<p>This guide is for UK small business owners whose contact form enquiries, password reset emails or shop order notifications have gone quiet. It explains why it happens, how to confirm where the problem sits and what a proper, lasting setup looks like.</p>
+
+<h2>Why WordPress emails go missing</h2>
+<p>By default, WordPress hands each email to the web server and asks it to send the message. The server does its best, but it is not a dedicated mail system. Large email providers check incoming mail carefully, and messages from a web server often fail those checks for several reasons:</p>
+<ul>
+<li><strong>The "from" address does not match the server.</strong> A form might send mail claiming to come from your business address, but the server sending it has no permission to send for that domain.</li>
+<li><strong>The domain has no authentication records.</strong> Without SPF, DKIM and DMARC records, receiving providers cannot confirm the message is genuine.</li>
+<li><strong>The server's reputation is poor.</strong> On shared hosting, other sites on the same server may have sent spam, and that can affect your messages too.</li>
+<li><strong>The host restricts or disables mail.</strong> Some hosts limit outgoing mail from websites or block it entirely to protect their network.</li>
+<li><strong>A plugin is misconfigured.</strong> A form plugin may be sending notifications to an old address, or a setting may have been changed during an update.</li>
+</ul>
+<p>The result is the same in each case: someone fills in your form, sees a thank-you message and assumes you have their enquiry, while the email never reaches your inbox.</p>
+
+<h2>First checks: where is the email getting lost?</h2>
+<p>Before changing anything, spend ten minutes narrowing the problem down.</p>
+<ol>
+<li><strong>Check spam and junk folders</strong> on the receiving inbox, including any filtering rules your email provider applies.</li>
+<li><strong>Check the notification settings</strong> in your form plugin. Confirm which address receives submissions and which address the email is sent from.</li>
+<li><strong>Test several email types.</strong> Submit your contact form, request a password reset and, if you run a shop, place a test order. If none arrive, the problem is general. If only one fails, look at that plugin's settings.</li>
+<li><strong>Send to a different provider.</strong> Try a personal address with another provider. If it arrives there but not at your business inbox, the receiving side is filtering it.</li>
+<li><strong>Check stored form entries.</strong> Many form plugins can save submissions in the dashboard. If entries are there but emails are not, the form works and the email delivery is the problem.</li>
+</ol>
+
+<h2>How to fix WordPress not sending emails</h2>
+<p>The lasting fix has three parts: a proper sending service, a sensible "from" address and authenticated DNS records.</p>
+
+<h3>Send through SMTP or an email service</h3>
+<p>Instead of letting the web server send mail directly, configure WordPress to send through an authenticated service. That could be the SMTP server that comes with your business email account, or a transactional email service designed for website mail. An SMTP plugin connects WordPress to that service using a username and password or an API key.</p>
+<p>Which option suits you depends on volume. A brochure site with a contact form can often use its business email account. A busy shop sending order confirmations, dispatch notices and account emails is usually better served by a transactional service with sending logs and higher limits. Check each provider's current limits and terms before you choose.</p>
+
+<h3>Use an address on your own domain</h3>
+<p>Send from an address on your own domain, such as one dedicated to website notifications, rather than a free webmail address. Free webmail providers publish strict rules that tell receivers to reject mail claiming to be from them but sent elsewhere, so a form sending "from" such an address is very likely to fail.</p>
+<p>If you want replies to go to the person who filled in the form, use the reply-to setting in your form plugin rather than putting the visitor's address in the "from" field.</p>
+
+<h3>Set up SPF, DKIM and DMARC</h3>
+<p>These are DNS records on your domain that tell receiving providers which services may send mail for you and how to check it. Your email service will give you the exact values to add. Our guide to <a href="/blog/business-domain-and-email-setup/">business domain and email setup</a> explains what each record does and where they live.</p>
+<table>
+<thead><tr><th>Record</th><th>What it does</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>SPF</td><td>Lists the services allowed to send mail for your domain</td><td>Creating a second SPF record instead of adding to the existing one</td></tr>
+<tr><td>DKIM</td><td>Adds a digital signature so receivers can confirm the message was not altered</td><td>Adding the record but never switching signing on in the email service</td></tr>
+<tr><td>DMARC</td><td>Tells receivers what to do with mail that fails checks, and sends you reports</td><td>Jumping straight to a strict policy before checking everything passes</td></tr>
+</tbody>
+</table>
+<p>Major email providers have tightened their requirements for senders in recent years. Check their current published guidance, and your email service's setup instructions, rather than relying on old advice.</p>
+
+<h2>Testing after the fix</h2>
+<p>Once the sending service and DNS records are in place, test properly:</p>
+<ul>
+<li>Use the test email feature most SMTP plugins include.</li>
+<li>Submit every form on the site, not just the main contact form. Quote forms, booking forms and newsletter sign-ups often have their own settings.</li>
+<li>Trigger a password reset and, for shops, a full test order including the customer and admin emails.</li>
+<li>Send to at least two different email providers and check the messages land in the inbox.</li>
+<li>Turn on email logging if your SMTP plugin or service offers it, so you can see what was sent and whether it was accepted.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers what the form itself should ask and how the confirmation message should read, which is worth reviewing while you are testing.</p>
+
+<h2>Build in a safety net</h2>
+<p>Even a well-configured setup can fail occasionally: a password changes, an API key expires or a DNS record is edited during other work. A few habits stop a failure going unnoticed for weeks.</p>
+<ul>
+<li><strong>Store form entries on the site</strong> so you can check them if you suspect a gap. Remember that this is personal data, so keep it only as long as you need it and mention it in your <a href="/blog/website-terms-and-privacy-policy-uk/">privacy policy</a>. Check current ICO guidance on retention.</li>
+<li><strong>Send a monthly test</strong> from each form as part of routine <a href="/blog/website-maintenance-uk/">website maintenance</a>.</li>
+<li><strong>Watch for a sudden drop in enquiries.</strong> If enquiries stop overnight while traffic is steady, test the forms before assuming demand has fallen.</li>
+<li><strong>Record the setup.</strong> Note which service sends the mail, which account it uses and where the DNS records are managed. That makes hosting or email changes far less risky.</li>
+</ul>
+
+<h2>Watch out when moving hosting or email</h2>
+<p>Email problems often begin straight after a change. Moving your website to a new host, switching email provider or changing who manages your DNS can all break sending without anyone noticing. If you are planning a move, include email in the checklist. Our guide on how to <a href="/blog/change-website-hosting-without-downtime/">change website hosting without downtime</a> covers DNS changes, and the same care applies to mail records.</p>
+<p>Also look at the plugin list. Several plugins can try to control outgoing email at once, such as a form plugin, a shop plugin and a separate SMTP plugin. Keep one plugin responsible for sending, and remove anything you no longer use. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit</a> guide helps with that clear-out.</p>
+
+<h2>When to get help</h2>
+<p>If you are not comfortable editing DNS records, or emails still fail after setting up SMTP, a developer can usually trace the issue quickly using sending logs and message headers. At Prism Works Studio we set up form and notification email as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> work, so new sites go live with sending already tested. Our <a href="/pricing/">pricing page</a> sets out how website projects and ongoing support are structured.</p>
+
+<h2>FAQs</h2>
+<h3>Why is WordPress not sending emails?</h3>
+<p>Usually because the web server sends mail that receiving providers do not trust. Missing SPF, DKIM or DMARC records, a mismatched "from" address or hosting restrictions are the common causes. Sending through authenticated SMTP normally fixes it.</p>
+<h3>Do I need an SMTP plugin for WordPress?</h3>
+<p>For most business sites, yes. An SMTP plugin routes WordPress email through an authenticated mail service instead of the web server, which makes delivery far more reliable and usually adds logging so you can see what was sent.</p>
+<h3>Why do my contact form emails go to spam?</h3>
+<p>The receiving provider does not trust the message. Common reasons are a "from" address on a free webmail domain, missing authentication records or a poor server reputation. Use your own domain, send through SMTP and add the DNS records your email service provides.</p>
+<h3>Can I send WordPress emails from a free webmail address?</h3>
+<p>It is best avoided. Free webmail providers publish rules telling receivers to reject mail that claims to be from them but is sent elsewhere. Use an address on your own domain and set the visitor's address as reply-to instead.</p>
+<h3>How do I know if form enquiries have been lost?</h3>
+<p>Check whether your form plugin stores entries in the dashboard and compare them with your inbox. If the plugin did not store entries, check your SMTP or email service logs. Going forward, store entries and run regular tests.</p>
+<h3>Will changing my email provider affect website emails?</h3>
+<p>It can. Changing provider often means new SMTP details and new DNS records. Update the SMTP plugin settings, add the new SPF and DKIM values, remove old ones you no longer use and test every form afterwards.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Not%20Sending%20Emails%3F%20How%20to%20Fix%20Form%20and%20Notification%20Emails'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-php-version-update/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Update the PHP Version for Your WordPress Site Safely</h3><p>How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-password-protect-page/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Password Protect a Page in WordPress (and When Not To)</h3><p>How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-mixed-content-fix/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Fix Mixed Content Warnings in WordPress After Moving to HTTPS</h3><p>Padlock missing after switching WordPress to HTTPS? Learn what mixed content is, how to find insecure links and fix them safely without breaking the site.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WordPress%20Not%20Sending%20Emails%3F%20How%20to%20Fix%20Form%20and%20Notification%20Emails'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

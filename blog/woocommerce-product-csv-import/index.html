@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WooCommerce Product CSV Import and Export Guide</title>
+<meta name="description" content="How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WooCommerce Product CSV Import and Export Guide">
+<meta property="og:description" content="How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-woocommerce-product-csv-import.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/#article","headline":"WooCommerce Product CSV Import and Export: A Practical Guide","description":"How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/","url":"https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/","image":"https://prismworksstudio.co.uk/assets/og/blog-woocommerce-product-csv-import.png","inLanguage":"en-GB","wordCount":1465,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"WooCommerce Product CSV Import and Export: A Practical Guide","item":"https://prismworksstudio.co.uk/blog/woocommerce-product-csv-import/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I do a WooCommerce product CSV import?","acceptedAnswer":{"@type":"Answer","text":"Go to Products in your WordPress admin and choose Import. Upload a UTF-8 CSV, tick the update option if you are changing existing products, check the column mapping and run the import. Then review the summary and spot-check products."}},{"@type":"Question","name":"How do I export products from WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Go to Products and choose Export. Select the columns, product types and categories you want, decide whether to include custom meta, then generate the CSV. Exporting a small sample first is a good way to get a template."}},{"@type":"Question","name":"Can I update prices in WooCommerce with a CSV?","acceptedAnswer":{"@type":"Answer","text":"Yes. Export the products with their ID or SKU and price columns, change the prices, remove other columns and import with the option to update existing products ticked. Check a few products afterwards."}},{"@type":"Question","name":"Why does my WooCommerce import create duplicate products?","acceptedAnswer":{"@type":"Answer","text":"Usually because the update existing products option was not ticked, or the SKU or ID in the file does not match the existing product. The importer then treats each row as a new product."}},{"@type":"Question","name":"How do I import variable products into WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Include one row for the parent product and one row per variation. Each variation row needs a parent reference and the exact attribute values. Building one variable product by hand and exporting it gives you a reliable template."}},{"@type":"Question","name":"Can WooCommerce import product images from a CSV?","acceptedAnswer":{"@type":"Answer","text":"Yes, if the images column lists publicly reachable image URLs. The first becomes the main image and the rest the gallery. Optimise images first and split large imports into batches."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">WooCommerce Product CSV Import and Export: A Practical Guide</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>WooCommerce Product CSV Import and Export: A Practical Guide</h1><p class="pws-lead">How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Export a few existing products first and use that file as your template, so your columns match what WooCommerce expects.</li><li>Use SKUs or IDs consistently, because they are how an import knows whether to update an existing product or create a new one.</li><li>Back up the site, test a small batch on staging and check variations, images and prices before importing the full catalogue.</li></ul></div>
+<p>WooCommerce product CSV import lets you add or update many products at once from a spreadsheet, and the matching export gives you a spreadsheet of products you already have. Both tools sit on the Products screen in your WordPress admin, behind the Import and Export buttons. Used carefully, they save hours on new ranges, price changes and stock updates. Used carelessly, they can overwrite a catalogue in seconds.</p>
+<p>This guide is for UK shop owners and teams who want to use the built-in WooCommerce importer and exporter with confidence. It covers preparing the file, mapping columns, variable products, images, bulk updates and the mistakes that cause the most trouble. Extensions can add more advanced import options, but the core tools are enough for most shops.</p>
+
+<h2>What the import and export tools can do</h2>
+<table>
+<thead><tr><th>Task</th><th>Built-in tool suitable?</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Add a new range of simple products</td><td>Yes</td><td>Start from an exported template</td></tr>
+<tr><td>Update prices or sale prices in bulk</td><td>Yes</td><td>Match on SKU or ID and tick the option to update existing products</td></tr>
+<tr><td>Update stock quantities</td><td>Yes</td><td>Only include the columns you need to change</td></tr>
+<tr><td>Import variable products with variations</td><td>Yes, with care</td><td>Parent and variation rows must link correctly</td></tr>
+<tr><td>Import product images</td><td>Yes, from public image URLs</td><td>Large batches can be slow</td></tr>
+<tr><td>Import orders or customers</td><td>No, not with the product importer</td><td>Needs separate tools or extensions</td></tr>
+<tr><td>Scheduled or automatic syncs</td><td>No</td><td>Needs an extension or integration</td></tr>
+</tbody>
+</table>
+<p>WordPress also has its own import and export tools for posts and pages, which work differently. Our guide to <a href="/blog/wordpress-import-and-export-tools/">WordPress import and export tools</a> covers those.</p>
+
+<h2>Before you import anything</h2>
+<ol>
+<li><strong>Back up the site.</strong> A full backup, including the database, means a bad import can be undone. Our <a href="/blog/website-backup-and-recovery-plan/">website backup and recovery plan</a> guide explains what to keep.</li>
+<li><strong>Use a staging copy for big jobs.</strong> Test large or unfamiliar imports away from the live shop first, as set out in our guide to <a href="/blog/website-staging-and-testing/">staging and testing</a>.</li>
+<li><strong>Export a sample.</strong> Export a handful of existing products of each type to see exactly how columns are named and filled.</li>
+<li><strong>Agree your SKUs.</strong> Every product and variation should have a unique SKU before you start.</li>
+</ol>
+
+<h2>How to do a WooCommerce product CSV import</h2>
+<ol>
+<li>Prepare your file using your exported sample as the template, saved as a UTF-8 CSV.</li>
+<li>In WordPress, go to Products and choose Import.</li>
+<li>Upload the file. If you are updating existing products, tick the option to update products that already exist.</li>
+<li>Check the column mapping screen. WooCommerce tries to match your headings to its fields; correct any it misses and set unneeded columns to be ignored.</li>
+<li>Run the import and wait for it to finish without closing the window.</li>
+<li>Read the summary. It shows how many products were created, updated, skipped or failed.</li>
+<li>Spot-check products in the admin and on the front end.</li>
+</ol>
+
+<h2>Preparing the CSV file</h2>
+<p>Most import problems start in the spreadsheet. A few rules help:</p>
+<ul>
+<li><strong>Save as UTF-8.</strong> Otherwise symbols such as £ and accented characters can turn into strange characters.</li>
+<li><strong>Keep headings unchanged.</strong> If you use WooCommerce's own exported headings, mapping is almost automatic.</li>
+<li><strong>Watch number formats.</strong> Prices should be plain numbers without the £ sign, using a full stop for decimals.</li>
+<li><strong>Protect SKUs and barcodes.</strong> Spreadsheet software can strip leading zeros or turn long numbers into scientific notation. Format those columns as text.</li>
+<li><strong>Separate multiple values carefully.</strong> Categories, tags and images that hold several values use specific separators; follow the format shown in your export.</li>
+<li><strong>Use category paths for subcategories.</strong> Exports show how parent and child categories are written, so copy that pattern.</li>
+</ul>
+<p>Descriptions can include basic HTML. If you are writing new product copy at the same time, our guide to <a href="/blog/ecommerce-product-descriptions/">ecommerce product descriptions</a> covers what makes them work for shoppers and search.</p>
+
+<h2>Importing variable products</h2>
+<p>Variable products, such as a jumper in several sizes and colours, are the trickiest part of any import. Each needs one row for the parent product and one row for each variation.</p>
+<ul>
+<li>The parent row has the type set to variable, the product name, description, categories and the full list of attribute values.</li>
+<li>Each variation row has the type set to variation, a parent reference pointing to the parent's SKU or ID, its own SKU, price and stock, and the specific attribute values for that variation.</li>
+<li>Attribute names must match exactly across the parent and its variations, including capital letters and spaces.</li>
+</ul>
+<p>The easiest way to get this right is to create one variable product by hand, export it and copy its structure. Our guide to <a href="/blog/ecommerce-product-variants-and-bundles/">product variants and bundles</a> explains how to plan variations before you build them.</p>
+
+<h2>Importing product images</h2>
+<p>The importer can fetch images from URLs listed in the images column. The first image becomes the main product image and the rest go into the gallery. The images must be publicly reachable when the import runs.</p>
+<p>Compress and resize images before you upload them anywhere. Large originals slow down both the import and the shop. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> covers sizes and formats. For big catalogues, consider importing product data first and images in a second pass, so a slow image server does not cause the whole job to time out.</p>
+
+<h2>Bulk updates with a CSV</h2>
+<p>CSV imports are excellent for changing many products at once, for example a seasonal price change or a stock count. The safe pattern is:</p>
+<ol>
+<li>Export only the products and columns you need, plus the ID or SKU.</li>
+<li>Edit only the values that should change.</li>
+<li>Delete any columns you are not changing, so you cannot overwrite them by accident.</li>
+<li>Import with the update existing products option ticked.</li>
+<li>Check a sample of products afterwards.</li>
+</ol>
+<p>Be careful with empty cells. Depending on the column, a blank value may be ignored or may clear existing data. Removing unneeded columns is the simplest protection.</p>
+
+<h2>Exporting products</h2>
+<p>The exporter lets you choose which columns, product types and categories to include, and whether to add custom meta from extensions. Exports are useful for:</p>
+<ul>
+<li>Creating templates for new products.</li>
+<li>Reviewing the catalogue for missing descriptions, prices or SKUs.</li>
+<li>Sharing product data with suppliers or marketplaces.</li>
+<li>Keeping a snapshot before a big change.</li>
+<li>Moving to another platform. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration</a> guide explains how product exports fit into a wider move, and our <a href="/blog/shopify-product-csv-import/">Shopify product CSV import</a> guide covers the format on the other side.</li>
+</ul>
+
+<h2>Common import errors and fixes</h2>
+<table>
+<thead><tr><th>Problem</th><th>Likely cause</th><th>Fix</th></tr></thead>
+<tbody>
+<tr><td>Duplicate products created</td><td>Update option not ticked, or SKU and ID missing or different</td><td>Delete duplicates, fix identifiers and re-import with update ticked</td></tr>
+<tr><td>Garbled £ signs or accents</td><td>File not saved as UTF-8</td><td>Re-save as UTF-8 CSV</td></tr>
+<tr><td>Variations missing</td><td>Parent reference or attribute names do not match</td><td>Compare with an exported variable product</td></tr>
+<tr><td>Images not imported</td><td>URLs not public, broken or blocked</td><td>Test URLs in a browser and re-run images separately</td></tr>
+<tr><td>SKUs changed or lost zeros</td><td>Spreadsheet number formatting</td><td>Format SKU and barcode columns as text</td></tr>
+<tr><td>Import stops partway</td><td>Server time limits or very large file</td><td>Split the file into smaller batches</td></tr>
+</tbody>
+</table>
+
+<h2>When to get help</h2>
+<p>For a few dozen products, the built-in tools are usually all you need. Large catalogues, complex variations, data from supplier feeds or a platform move are where mistakes get expensive. We handle product imports, catalogue clean-ups and migrations through our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>, from planning the spreadsheet to checking the results. Typical project costs are on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I do a WooCommerce product CSV import?</h3>
+<p>Go to Products in your WordPress admin and choose Import. Upload a UTF-8 CSV, tick the update option if you are changing existing products, check the column mapping and run the import. Then review the summary and spot-check products.</p>
+<h3>How do I export products from WooCommerce?</h3>
+<p>Go to Products and choose Export. Select the columns, product types and categories you want, decide whether to include custom meta, then generate the CSV. Exporting a small sample first is a good way to get a template.</p>
+<h3>Can I update prices in WooCommerce with a CSV?</h3>
+<p>Yes. Export the products with their ID or SKU and price columns, change the prices, remove other columns and import with the option to update existing products ticked. Check a few products afterwards.</p>
+<h3>Why does my WooCommerce import create duplicate products?</h3>
+<p>Usually because the update existing products option was not ticked, or the SKU or ID in the file does not match the existing product. The importer then treats each row as a new product.</p>
+<h3>How do I import variable products into WooCommerce?</h3>
+<p>Include one row for the parent product and one row per variation. Each variation row needs a parent reference and the exact attribute values. Building one variable product by hand and exporting it gives you a reliable template.</p>
+<h3>Can WooCommerce import product images from a CSV?</h3>
+<p>Yes, if the images column lists publicly reachable image URLs. The first becomes the main image and the rest the gallery. Optimise images first and split large imports into batches.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Product%20CSV%20Import%20and%20Export%3A%20A%20Practical%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/woocommerce-vat-tax-settings-uk/"><p class="pws-tags">Ecommerce &middot; 9 min read</p><h3>WooCommerce VAT Settings: How to Set Up Tax on a UK Store</h3><p>How to set up WooCommerce VAT settings for a UK shop: enabling taxes, price display, standard and reduced rate tables, shipping tax and testing orders.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-stock-management/"><p class="pws-tags">Ecommerce &middot; 8 min read</p><h3>WooCommerce Stock Management: How to Track Inventory Properly</h3><p>How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-checkout-setup/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>WooCommerce Checkout Settings: How to Set Up a Smooth Checkout</h3><p>How to set up WooCommerce checkout settings for a UK shop: guest checkout, accounts, fields, payments, terms and privacy pages, and testing before launch.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'WooCommerce%20Product%20CSV%20Import%20and%20Export%3A%20A%20Practical%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
