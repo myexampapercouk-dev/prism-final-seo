@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Fix Unwanted Referrals in GA4 (UK Guide)</title>
+<meta name="description" content="Fix unwanted referrals in GA4 by listing payment and booking domains in your data stream, so sales stay credited to the real source, not PayPal or Stripe.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Fix Unwanted Referrals in GA4 (UK Guide)">
+<meta property="og:description" content="Fix unwanted referrals in GA4 by listing payment and booking domains in your data stream, so sales stay credited to the real source, not PayPal or Stripe.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-ga4-unwanted-referrals-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/#article","headline":"How to Fix Unwanted Referrals in GA4: Stop PayPal and Stripe Stealing Credit","description":"Fix unwanted referrals in GA4 by listing payment and booking domains in your data stream, so sales stay credited to the real source, not PayPal or Stripe.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/","url":"https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-ga4-unwanted-referrals-guide.png","inLanguage":"en-GB","wordCount":1481,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Fix Unwanted Referrals in GA4: Stop PayPal and Stripe Stealing Credit","item":"https://prismworksstudio.co.uk/blog/ga4-unwanted-referrals-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I fix unwanted referrals in GA4?","acceptedAnswer":{"@type":"Answer","text":"Go to Admin, open your web data stream, select configure tag settings, choose list unwanted referrals and add the payment, booking or login domains that appear as referral sources. Then check your traffic acquisition report after a week or two."}},{"@type":"Question","name":"Why does PayPal show as a referral in GA4?","acceptedAnswer":{"@type":"Answer","text":"Customers leave your site to pay on PayPal and are sent back to your confirmation page. Without an unwanted referral rule, GA4 can treat that return as a new visit referred by PayPal and give it credit for the sale."}},{"@type":"Question","name":"Does fixing unwanted referrals change past data?","acceptedAnswer":{"@type":"Answer","text":"No. The setting applies from the time you save it. Earlier data stays as it was, so note the date for future comparisons."}},{"@type":"Question","name":"Should I add my own domain as an unwanted referral?","acceptedAnswer":{"@type":"Answer","text":"Usually not. If you own multiple domains with your GA4 tag installed on each, use the configure your domains setting for cross-domain measurement instead."}},{"@type":"Question","name":"Why does my referral traffic look higher than expected?","acceptedAnswer":{"@type":"Answer","text":"Common reasons include payment and booking redirects, untagged email links, staff using internal tools and occasional spam domains. Check which referrers are linked to key events first, as those cause the most distortion."}},{"@type":"Question","name":"Do I need a developer to fix unwanted referrals?","acceptedAnswer":{"@type":"Answer","text":"No. It is a settings change in GA4 admin. You need edit access to the property, but no code changes are required for the basic fix."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Fix Unwanted Referrals in GA4: Stop PayPal and Stripe Stealing Credit</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Fix Unwanted Referrals in GA4: Stop PayPal and Stripe Stealing Credit</h1><p class="pws-lead">Fix unwanted referrals in GA4 by listing payment and booking domains in your data stream, so sales stay credited to the real source, not PayPal or Stripe.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Payment providers, booking tools and login services can appear as referral sources and take credit for sales in GA4.</li><li>List those domains under unwanted referrals in your web data stream tag settings so the original source keeps the credit.</li><li>Check traffic acquisition reports regularly and update the list whenever you add a new third-party checkout or booking tool.</li></ul></div>
+<p>To fix unwanted referrals in GA4, open your web data stream, go to the tag settings, choose the option to list unwanted referrals, and add the domains of payment providers, booking tools or other services that send visitors back to your site. GA4 then stops treating those returns as new referral visits, so purchases and leads stay credited to the channel that really brought the customer.</p>
+<p>This is a common problem for UK online shops and service businesses that use a third-party checkout or booking step. If your reports show paypal.com or a card authentication domain as a top source of revenue, your attribution is almost certainly being distorted. This guide explains why it happens, how to fix it and how to check the result. Google updates GA4 often, so check the current Analytics help pages for exact menu names.</p>
+
+<h2>Why unwanted referrals happen</h2>
+<p>When a customer leaves your site to complete a step elsewhere, such as paying through PayPal, passing a bank security check or confirming a booking on a third-party page, they are then sent back to your thank you page. GA4 can see that return visit as arriving from the external domain. That can result in:</p>
+<ul>
+<li>The sale or key event being credited to a referral from the payment provider, instead of to Google Ads, organic search or email.</li>
+<li>Extra sessions being created, inflating session counts.</li>
+<li>Paid campaigns looking less effective than they really are, which can lead to poor budget decisions.</li>
+</ul>
+<p>For anyone running ads, this matters a great deal. If conversions are being credited to a payment provider in GA4, any campaign analysis based on GA4 data will understate paid performance. Our guide to <a href="/blog/payment-gateways-uk-online-shop/">payment gateways for UK online shops</a> covers the checkout options that commonly involve a redirect.</p>
+
+<h2>Common domains to check</h2>
+<p>The exact domains depend on the tools you use. Look in your own reports rather than copying a list blindly, but these categories are typical:</p>
+<table>
+<thead><tr><th>Type of service</th><th>Why it appears</th><th>What to look for in reports</th></tr></thead>
+<tbody>
+<tr><td>Payment providers</td><td>Customer pays on the provider's page then returns</td><td>PayPal, Stripe checkout, Klarna, Clearpay and similar domains</td></tr>
+<tr><td>Card authentication</td><td>Bank security checks during card payment</td><td>Domains belonging to card schemes or banks that appear only at checkout</td></tr>
+<tr><td>Booking and scheduling tools</td><td>Bookings confirmed on a hosted page</td><td>The booking platform's domain as a referral linked to key events</td></tr>
+<tr><td>Login and identity services</td><td>Customers sign in through a third-party service</td><td>Login provider domains appearing as referrers</td></tr>
+<tr><td>Your own other domains</td><td>Customers move between your main site and a separate shop or booking subdomain</td><td>Your own domain listed as a referral source</td></tr>
+</tbody>
+</table>
+
+<h2>How to fix unwanted referrals in GA4</h2>
+<ol>
+<li><strong>Find the culprits.</strong> Open the traffic acquisition report, set the primary dimension to session source or session source and medium, and look for referral sources linked to purchases or key events that should not be there.</li>
+<li><strong>Open your data stream.</strong> In Admin, go to data streams, select your web stream and open configure tag settings.</li>
+<li><strong>List unwanted referrals.</strong> Choose the option to list unwanted referrals. Add a condition for each domain, using a match type such as referral domain contains or ends with.</li>
+<li><strong>Save and note the date.</strong> Changes are not retroactive, so record when you made them.</li>
+<li><strong>Check the results.</strong> After a week or two of normal trading, review the traffic acquisition report again. The payment or booking domains should no longer appear as sources of conversions.</li>
+</ol>
+<p>If your site uses more than one domain, for example a main website and a separate shop, also check the configure your domains setting in the same area. That handles cross-domain measurement so a visitor moving between your own domains is treated as one journey. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers data stream settings in more detail.</p>
+
+<h2>Unwanted referrals versus cross-domain tracking</h2>
+<p>These two settings are often confused. Use the right one for the situation:</p>
+<table>
+<thead><tr><th>Setting</th><th>Use when</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>List unwanted referrals</td><td>A third-party domain you do not control sends visitors back to you</td><td>A customer returns from a payment page to your order confirmation</td></tr>
+<tr><td>Configure your domains</td><td>You control both domains and both have your GA4 tag installed</td><td>Your main site and your separate booking site</td></tr>
+</tbody>
+</table>
+<p>If you cannot put your tag on the other domain, it is an unwanted referral case. If you can and the visitor moves between your own sites, use cross-domain configuration.</p>
+
+<h2>Checking your ecommerce and lead data afterwards</h2>
+<p>Once the fix is in, take a broader look at your reports:</p>
+<ul>
+<li><strong>Revenue by channel.</strong> In an online shop, revenue that was previously credited to referrals should now be spread across paid search, organic, email and direct.</li>
+<li><strong>Key events by source.</strong> For lead generation sites, enquiries and bookings should line up more closely with the channels you are investing in.</li>
+<li><strong>Campaign tags.</strong> Make sure email and social links use consistent <a href="/blog/utm-tracking-links-guide/">UTM tracking links</a>, so their traffic is not lumped into direct or referral.</li>
+<li><strong>Platform comparison.</strong> Compare GA4 with your ad platforms. They will never match exactly, because each uses different attribution rules, but large gaps are worth investigating.</li>
+</ul>
+<p>The <a href="/blog/ga4-explorations-guide/">GA4 explorations guide</a> shows how to build a path exploration to see what actually happens before a purchase, and our <a href="/blog/shopify-reports-and-analytics/">Shopify reports and analytics guide</a> explains how platform data compares with GA4 if you run a Shopify store.</p>
+
+<h2>Other causes of strange referral traffic</h2>
+<p>Not every odd referral is from a checkout. Other common sources include:</p>
+<ul>
+<li><strong>Webmail and messaging apps.</strong> Clicks from some email clients appear as referrals rather than email. Tagging links with UTMs fixes most of this.</li>
+<li><strong>Spam referrals.</strong> Occasionally, junk domains show up in referral reports. GA4 handles this differently from older versions of Analytics, but if you see suspicious domains with no real engagement, treat them with caution rather than acting on them.</li>
+<li><strong>Your own staff.</strong> Internal tools and intranets can show up if staff click through to the website from them. Excluding internal traffic by IP helps here.</li>
+</ul>
+
+<h2>Mistakes to avoid</h2>
+<ul>
+<li><strong>Adding domains too broadly.</strong> A loose rule such as a single common word could match genuine referral partners, such as a directory or a supplier that links to you. Keep each condition specific to the service you are excluding.</li>
+<li><strong>Fixing GA4 but not the ad platforms.</strong> Ad platforms record conversions with their own tags, so this setting does not change what Google Ads or Meta report. It only affects GA4.</li>
+<li><strong>Forgetting new tools.</strong> When you add a new payment method, buy now pay later option or booking system, check referrals again within a few weeks.</li>
+<li><strong>Reading old reports as if nothing changed.</strong> Channel figures before and after the fix are not directly comparable, so flag the change date in any trend report.</li>
+</ul>
+
+<h2>A quick monthly check</h2>
+<ol>
+<li>Open traffic acquisition and filter to the referral channel.</li>
+<li>Sort by key events or revenue.</li>
+<li>Look for any domain that is a payment, booking, login or authentication service.</li>
+<li>Add any new ones to the unwanted referrals list.</li>
+<li>Note the date in your reporting so trends make sense later.</li>
+</ol>
+<p>It takes a few minutes, and it keeps channel reporting honest. If you build client or management dashboards, our <a href="/blog/looker-studio-dashboard-guide/">Looker Studio dashboard guide</a> explains how to present channel data clearly with notes on tracking changes.</p>
+
+<h2>How we can help</h2>
+<p>Accurate attribution is essential when you are deciding where to spend on ads. Our <a href="/services/paid-media/">paid media service</a> starts with a tracking review covering GA4 settings, conversion actions and attribution, and we work with many <a href="/sectors/ecommerce/">ecommerce businesses</a> where payment redirects are a regular cause of skewed reporting. You can see how our retainers are structured on the <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I fix unwanted referrals in GA4?</h3>
+<p>Go to Admin, open your web data stream, select configure tag settings, choose list unwanted referrals and add the payment, booking or login domains that appear as referral sources. Then check your traffic acquisition report after a week or two.</p>
+<h3>Why does PayPal show as a referral in GA4?</h3>
+<p>Customers leave your site to pay on PayPal and are sent back to your confirmation page. Without an unwanted referral rule, GA4 can treat that return as a new visit referred by PayPal and give it credit for the sale.</p>
+<h3>Does fixing unwanted referrals change past data?</h3>
+<p>No. The setting applies from the time you save it. Earlier data stays as it was, so note the date for future comparisons.</p>
+<h3>Should I add my own domain as an unwanted referral?</h3>
+<p>Usually not. If you own multiple domains with your GA4 tag installed on each, use the configure your domains setting for cross-domain measurement instead.</p>
+<h3>Why does my referral traffic look higher than expected?</h3>
+<p>Common reasons include payment and booking redirects, untagged email links, staff using internal tools and occasional spam domains. Check which referrers are linked to key events first, as those cause the most distortion.</p>
+<h3>Do I need a developer to fix unwanted referrals?</h3>
+<p>No. It is a settings change in GA4 admin. You need edit access to the property, but no code changes are required for the basic fix.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Fix%20Unwanted%20Referrals%20in%20GA4%3A%20Stop%20PayPal%20and%20Stripe%20Stealing%20Credit'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-php-version-update/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Update the PHP Version for Your WordPress Site Safely</h3><p>How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-password-protect-page/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Password Protect a Page in WordPress (and When Not To)</h3><p>How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-not-sending-emails/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h3><p>WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Fix%20Unwanted%20Referrals%20in%20GA4%3A%20Stop%20PayPal%20and%20Stripe%20Stealing%20Credit'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

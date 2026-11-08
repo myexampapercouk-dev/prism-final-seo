@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Use Shopify Flow to Automate Store Tasks</title>
+<meta name="description" content="Shopify Flow automates routine store jobs with triggers, conditions and actions. Learn how it works, useful UK workflows and how to test them safely.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/shopify-flow-automation/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Use Shopify Flow to Automate Store Tasks">
+<meta property="og:description" content="Shopify Flow automates routine store jobs with triggers, conditions and actions. Learn how it works, useful UK workflows and how to test them safely.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/shopify-flow-automation/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-shopify-flow-automation.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/shopify-flow-automation/#article","headline":"How to Use Shopify Flow: Automating the Repetitive Jobs in Your Store","description":"Shopify Flow automates routine store jobs with triggers, conditions and actions. Learn how it works, useful UK workflows and how to test them safely.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/shopify-flow-automation/","url":"https://prismworksstudio.co.uk/blog/shopify-flow-automation/","image":"https://prismworksstudio.co.uk/assets/og/blog-shopify-flow-automation.png","inLanguage":"en-GB","wordCount":1754,"articleSection":"Ecommerce","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Use Shopify Flow: Automating the Repetitive Jobs in Your Store","item":"https://prismworksstudio.co.uk/blog/shopify-flow-automation/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How to use Shopify Flow for a small store?","acceptedAnswer":{"@type":"Answer","text":"Start with one simple rule written in plain English, such as tagging international orders or alerting you to low stock. Build it from a template if one exists, use a harmless action such as a tag or an internal email, and check the run history after the first few events before adding anything more ambitious."}},{"@type":"Question","name":"Is Shopify Flow free?","acceptedAnswer":{"@type":"Answer","text":"Flow is made by Shopify and installed from the Shopify App Store. Availability and any limits depend on your plan, and Shopify has changed this in the past, so check Shopify's current help pages and plan comparison before relying on it."}},{"@type":"Question","name":"Can Shopify Flow send emails to customers?","acceptedAnswer":{"@type":"Answer","text":"Flow is mainly designed for internal automation, such as notifying staff or tagging records. Customer-facing emails are usually better handled by Shopify's notification settings or your email marketing tool, which can use the tags Flow adds."}},{"@type":"Question","name":"Can a Flow workflow break my store?","acceptedAnswer":{"@type":"Answer","text":"A workflow cannot break your theme, but it can make unwanted changes to products, customers or orders if the conditions are wrong. Starting with reversible actions, testing on a narrow set of items and backing up product data before bulk changes keeps the risk low."}},{"@type":"Question","name":"How many workflows should a store have?","acceptedAnswer":{"@type":"Answer","text":"There is no ideal number. A small store might run only a handful. What matters is that every workflow has a clear purpose, an owner and a descriptive name, and that you review them regularly."}},{"@type":"Question","name":"Do we need a developer to set up Shopify Flow?","acceptedAnswer":{"@type":"Answer","text":"Many workflows can be built by a confident store owner using templates. A developer or agency becomes useful when workflows involve other apps, structured data such as metafields, or processes that need careful planning and testing."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Use Shopify Flow: Automating the Repetitive Jobs in Your Store</li></ol></nav><span class="pws-eyebrow">Ecommerce</span><h1>How to Use Shopify Flow: Automating the Repetitive Jobs in Your Store</h1><p class="pws-lead">Shopify Flow automates routine store jobs with triggers, conditions and actions. Learn how it works, useful UK workflows and how to test them safely.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 8 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Shopify Flow works on a simple pattern: a trigger starts the workflow, conditions decide whether it continues, and actions do the work.</li><li>The best first workflows are small, repetitive admin jobs such as tagging orders, alerting staff to low stock or flagging risky orders for review.</li><li>Test every workflow on a handful of real cases, name it clearly and keep a short written record so nobody is surprised by what it does.</li></ul></div>
+<p>Shopify Flow is Shopify's own automation app: you build workflows that watch for an event in your store, check whether certain conditions are true, and then carry out actions such as tagging an order, sending an internal email or hiding a product. Used well, it takes repetitive admin off your team's plate and makes sure routine jobs happen the same way every time.</p>
+<p>This guide explains how Flow works, which workflows tend to be most useful for UK store owners, and how to build and test them without causing problems. Shopify changes plan features and the Flow interface from time to time, so check Shopify's current help pages for plan availability and the exact names of triggers and actions before you start.</p>
+
+<h2>What Shopify Flow actually does</h2>
+<p>Every Flow workflow has three parts. Once you understand them, the rest of the app makes sense.</p>
+<ul>
+<li><strong>Trigger:</strong> the event that starts the workflow, such as an order being created, a product's stock changing or a customer account being created.</li>
+<li><strong>Condition:</strong> a check that decides whether the workflow carries on. For example, is the order total above a certain amount, or is the delivery country outside the UK?</li>
+<li><strong>Action:</strong> what happens when the condition is met, such as adding a tag, sending an email to a member of staff, or changing a product's status.</li>
+</ul>
+<p>Conditions can be combined with and or or logic, and a workflow can take different actions depending on whether a condition is true or false. Some workflows can also run on a schedule rather than waiting for an event, which is handy for regular checks.</p>
+<p>Flow also connects with a number of other apps. Some apps add their own triggers and actions, which means a workflow can pass information between your store and, for example, an email or reviews tool. Which connections are available depends on the apps you have installed, so it is worth looking at the list inside Flow rather than assuming.</p>
+
+<h2>Why automation matters for a small online store</h2>
+<p>Most small stores do not need complex automation. What they need is for the dull, repeatable jobs to happen reliably, even on a busy Friday or when the person who usually does them is on holiday. Typical examples include remembering to check unusual orders, noticing that a best seller is about to run out, or keeping customer tags tidy for email segments.</p>
+<p>Flow is useful because it handles these jobs inside Shopify, without another subscription for simple tasks. It also creates consistency. When a rule lives in a workflow rather than in someone's head, it is easier to review, change and hand over. If your store is growing and day-to-day management is starting to stretch the team, our guide to <a href="/blog/shopify-store-management-uk/">Shopify store management</a> covers the wider picture of who does what.</p>
+
+<h2>Useful Shopify Flow workflows for UK stores</h2>
+<p>The table below lists workflows we often suggest store owners consider first. They are low risk, easy to test and save time quickly.</p>
+<table>
+<thead><tr><th>Workflow</th><th>Trigger</th><th>Condition</th><th>Action</th></tr></thead>
+<tbody>
+<tr><td>Flag orders for review</td><td>Order created</td><td>Order risk is high, or billing and delivery countries differ</td><td>Add an order tag and email the person who checks orders</td></tr>
+<tr><td>Low stock alert</td><td>Inventory quantity changed</td><td>Stock falls below your reorder level</td><td>Email the buyer or send a message to your team</td></tr>
+<tr><td>Tag repeat customers</td><td>Order created</td><td>Customer has more than one order</td><td>Add a customer tag for use in segments and email</td></tr>
+<tr><td>Hide sold-out products</td><td>Inventory quantity changed</td><td>All variants are out of stock</td><td>Change status or remove from a collection</td></tr>
+<tr><td>International order handling</td><td>Order created</td><td>Delivery country is not the United Kingdom</td><td>Tag the order so the packer checks customs paperwork</td></tr>
+<tr><td>Large order heads-up</td><td>Order created</td><td>Order total or quantity above a set level</td><td>Notify the owner so stock and packing can be checked</td></tr>
+</tbody>
+</table>
+<p>Tags created by Flow become far more useful when you have a clear tagging convention. Our guides to <a href="/blog/shopify-product-tags/">Shopify product tags</a> and <a href="/blog/shopify-customer-segments/">Shopify customer segments</a> explain how to keep tags consistent and put them to work.</p>
+
+<h2>How to use Shopify Flow, step by step</h2>
+<p>The exact screens change over time, but the process for building a workflow follows the same general steps.</p>
+<ol>
+<li><strong>Write the rule in plain English first.</strong> For example: when an order is placed and the delivery country is not the UK, tag the order international so the packer knows to add customs paperwork. If you cannot write it in one sentence, the workflow is probably trying to do too much.</li>
+<li><strong>Install and open Flow.</strong> Flow is installed from the Shopify App Store and is made by Shopify. Check that it is available on your current plan.</li>
+<li><strong>Start from a template where possible.</strong> Flow includes a library of templates. Starting from one that is close to what you need is usually quicker and less error-prone than building from a blank canvas.</li>
+<li><strong>Choose the trigger.</strong> Pick the event that should start the workflow.</li>
+<li><strong>Add conditions.</strong> Keep these as specific as possible so the workflow only runs when it should.</li>
+<li><strong>Add actions.</strong> Start with harmless actions such as adding a tag or sending an internal email, rather than changing products or cancelling anything.</li>
+<li><strong>Name the workflow clearly.</strong> A name like Orders: tag international deliveries is far easier to manage later than New workflow 3.</li>
+<li><strong>Turn it on and watch it.</strong> Check the workflow's run history after the first few real events to make sure it behaved as expected.</li>
+</ol>
+
+<h2>Testing workflows without causing problems</h2>
+<p>Automation can make a mistake many times very quickly. A workflow that hides the wrong products or tags every customer incorrectly can take time to unpick. A few habits keep the risk low.</p>
+<ul>
+<li><strong>Begin with tags and notifications.</strong> These are easy to reverse. Only add actions that change products, prices or orders once you are confident the conditions are right.</li>
+<li><strong>Test with a narrow condition first.</strong> For example, limit a new workflow to a single test product or a specific tag, then widen it once it works.</li>
+<li><strong>Check the run history.</strong> Flow keeps a record of when each workflow ran and what it did. Review it after launch and again a week later.</li>
+<li><strong>Watch for overlaps.</strong> Two workflows, or a workflow and another app, can act on the same thing. If an app already tags orders or manages stock, make sure Flow does not fight with it. Our <a href="/blog/shopify-apps-audit/">Shopify apps audit</a> guide helps you see what each app is doing.</li>
+<li><strong>Back up before bulk changes.</strong> If a workflow will update many products, export your product data first so you can restore it if needed.</li>
+</ul>
+
+<h2>Common mistakes with Shopify Flow</h2>
+<p>Most problems we see come from a small number of patterns.</p>
+<ul>
+<li><strong>Vague conditions.</strong> A condition such as product title contains gift may catch far more products than intended. Use tags, product types or metafields for reliable matching. Our <a href="/blog/shopify-metafields-guide/">Shopify metafields guide</a> explains how structured data can make conditions more precise.</li>
+<li><strong>Too many alerts.</strong> If every workflow sends an email, people stop reading them. Reserve notifications for things that need a human decision.</li>
+<li><strong>No owner.</strong> Each workflow should have someone responsible for it. When processes change, workflows need updating too.</li>
+<li><strong>Automating a broken process.</strong> If your packing or stock process is unclear, automation will make the confusion faster rather than fixing it. Sort the process first. Our guide to the <a href="/blog/shopify-order-fulfilment-workflow/">Shopify order fulfilment workflow</a> is a good place to start.</li>
+<li><strong>Forgetting staff permissions.</strong> Decide who can create and edit workflows. Giving everyone access makes it hard to track changes.</li>
+</ul>
+
+<h2>Keeping a record of your workflows</h2>
+<p>A short written list of active workflows saves a lot of confusion later. For each one, note what it does in plain English, why it exists, who owns it, and the date it was last checked. Keep the list somewhere the team can find it, alongside your other store procedures.</p>
+<p>Review the list every few months. Remove workflows that no longer serve a purpose, and check that conditions still make sense. Reorder levels change, collections get renamed and new apps arrive, and any of these can quietly stop a workflow working as intended.</p>
+
+<h2>When Flow is not the right tool</h2>
+<p>Flow is excellent for rules that live inside Shopify. It is less suited to complex processes that span several outside systems, need detailed error handling or involve heavy data transformation. In those cases, a dedicated integration or a custom app may be more reliable.</p>
+<p>It is also worth asking whether a job should be automated at all. Some decisions, such as whether to cancel a suspicious order or how to handle a complaint, benefit from human judgement. Flow can bring those cases to someone's attention, but the decision itself is often best left to a person.</p>
+<p>If you want help planning automation as part of a wider store build or tidy-up, our <a href="/services/website-ecommerce-development/">website and ecommerce development</a> service covers Shopify setup and process improvements, and our <a href="/pricing/">pricing page</a> sets out how projects and retainers are structured.</p>
+
+<h2>FAQs</h2>
+<h3>How to use Shopify Flow for a small store?</h3>
+<p>Start with one simple rule written in plain English, such as tagging international orders or alerting you to low stock. Build it from a template if one exists, use a harmless action such as a tag or an internal email, and check the run history after the first few events before adding anything more ambitious.</p>
+<h3>Is Shopify Flow free?</h3>
+<p>Flow is made by Shopify and installed from the Shopify App Store. Availability and any limits depend on your plan, and Shopify has changed this in the past, so check Shopify's current help pages and plan comparison before relying on it.</p>
+<h3>Can Shopify Flow send emails to customers?</h3>
+<p>Flow is mainly designed for internal automation, such as notifying staff or tagging records. Customer-facing emails are usually better handled by Shopify's notification settings or your email marketing tool, which can use the tags Flow adds.</p>
+<h3>Can a Flow workflow break my store?</h3>
+<p>A workflow cannot break your theme, but it can make unwanted changes to products, customers or orders if the conditions are wrong. Starting with reversible actions, testing on a narrow set of items and backing up product data before bulk changes keeps the risk low.</p>
+<h3>How many workflows should a store have?</h3>
+<p>There is no ideal number. A small store might run only a handful. What matters is that every workflow has a clear purpose, an owner and a descriptive name, and that you review them regularly.</p>
+<h3>Do we need a developer to set up Shopify Flow?</h3>
+<p>Many workflows can be built by a confident store owner using templates. A developer or agency becomes useful when workflows involve other apps, structured data such as metafields, or processes that need careful planning and testing.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/pricing/">Pricing</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Use%20Shopify%20Flow%3A%20Automating%20the%20Repetitive%20Jobs%20in%20Your%20Store'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/woocommerce-vat-tax-settings-uk/"><p class="pws-tags">Ecommerce &middot; 9 min read</p><h3>WooCommerce VAT Settings: How to Set Up Tax on a UK Store</h3><p>How to set up WooCommerce VAT settings for a UK shop: enabling taxes, price display, standard and reduced rate tables, shipping tax and testing orders.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-stock-management/"><p class="pws-tags">Ecommerce &middot; 8 min read</p><h3>WooCommerce Stock Management: How to Track Inventory Properly</h3><p>How WooCommerce stock management works: enabling stock tracking, low stock alerts, backorders, variation stock, held stock and simple routines for UK shops.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/woocommerce-product-csv-import/"><p class="pws-tags">Ecommerce &middot; 7 min read</p><h3>WooCommerce Product CSV Import and Export: A Practical Guide</h3><p>How to use WooCommerce product CSV import and export: preparing the file, mapping columns, variations, images, updating prices and stock, and avoiding errors.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Use%20Shopify%20Flow%3A%20Automating%20the%20Repetitive%20Jobs%20in%20Your%20Store'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>

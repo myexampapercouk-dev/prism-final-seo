@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Exclude Internal Traffic in GA4 (UK Guide)</title>
+<meta name="description" content="Exclude internal traffic in GA4 by defining your IP addresses, testing the filter, then activating it. Keep staff and agency visits out of your reports.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Exclude Internal Traffic in GA4 (UK Guide)">
+<meta property="og:description" content="Exclude internal traffic in GA4 by defining your IP addresses, testing the filter, then activating it. Keep staff and agency visits out of your reports.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-ga4-exclude-internal-traffic.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/#article","headline":"How to Exclude Internal Traffic in GA4: A Step-by-Step UK Guide","description":"Exclude internal traffic in GA4 by defining your IP addresses, testing the filter, then activating it. Keep staff and agency visits out of your reports.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/","url":"https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/","image":"https://prismworksstudio.co.uk/assets/og/blog-ga4-exclude-internal-traffic.png","inLanguage":"en-GB","wordCount":1525,"articleSection":"Guides","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"How to Exclude Internal Traffic in GA4: A Step-by-Step UK Guide","item":"https://prismworksstudio.co.uk/blog/ga4-exclude-internal-traffic/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I exclude internal traffic in GA4?","acceptedAnswer":{"@type":"Answer","text":"Define your IP addresses as internal traffic in the web data stream tag settings, then go to data filters, check the internal traffic filter in testing state, and switch it to active once you are confident it is labelling the right visits."}},{"@type":"Question","name":"Why is my internal traffic filter not working?","acceptedAnswer":{"@type":"Answer","text":"The most common reasons are that the filter is still in testing state, the IP address has changed, or your connection uses IPv6 and only an IPv4 address was added. Check each in turn."}},{"@type":"Question","name":"Does the filter remove past data?","acceptedAnswer":{"@type":"Answer","text":"No. Filters apply from the moment they are active. Data collected before that point is not changed, so set up filtering as early as possible."}},{"@type":"Question","name":"Can I undo an active data filter?","acceptedAnswer":{"@type":"Answer","text":"You can switch it to inactive, but data excluded while it was active is not restored. That is why testing first is important."}},{"@type":"Question","name":"How do I exclude staff who work from home?","acceptedAnswer":{"@type":"Answer","text":"If they connect through a company VPN, add the VPN exit IP. Otherwise, consider setting a custom traffic type parameter through Google Tag Manager for logged-in staff, which needs careful set-up and testing."}},{"@type":"Question","name":"Should I exclude my agency's traffic?","acceptedAnswer":{"@type":"Answer","text":"Usually yes, if they visit the site regularly for work. Ask them for a fixed IP address or agree another way to label their visits as internal."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">How to Exclude Internal Traffic in GA4: A Step-by-Step UK Guide</li></ol></nav><span class="pws-eyebrow">Guides</span><h1>How to Exclude Internal Traffic in GA4: A Step-by-Step UK Guide</h1><p class="pws-lead">Exclude internal traffic in GA4 by defining your IP addresses, testing the filter, then activating it. Keep staff and agency visits out of your reports.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>Visits from your own team, developers and agency can distort GA4 reports, especially on smaller UK sites.</li><li>Define internal traffic by IP address in the data stream, then use a data filter set to testing before activating it.</li><li>Filters only apply from the moment they are active, so set them up early and keep a note of the date.</li></ul></div>
+<p>To exclude internal traffic in GA4, define your office or home IP addresses as internal traffic in your web data stream settings, then create a data filter for internal traffic, check it in testing mode, and switch it to active. From that point, visits from those addresses are left out of your reports.</p>
+<p>On a small UK business website, staff checking the site, a developer testing forms or an agency reviewing pages can make up a noticeable share of sessions. That can inflate traffic, lower engagement rates and even trigger fake conversions. This guide explains the process step by step, the limits of IP-based filtering and how to handle remote teams. Google updates GA4 regularly, so check the current Analytics help pages for exact menu names.</p>
+
+<h2>Why internal traffic matters</h2>
+<p>Most small business sites do not receive huge volumes of traffic. If your site gets a few hundred visits a week, a handful of team members visiting every day can make a real difference to what the numbers say. Common problems include:</p>
+<ul>
+<li>Inflated sessions and users, making growth look stronger than it is.</li>
+<li>Test form submissions or checkout tests counted as key events.</li>
+<li>Pages your team uses often, such as the admin login or a pricing page, looking more popular than they really are.</li>
+<li>Misleading engagement data, because staff behave differently to customers.</li>
+</ul>
+<p>Clean data underpins everything else, from SEO reporting to paid campaign decisions. If you have not yet set up GA4 properly, start with our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> and come back to this step.</p>
+
+<h2>How internal traffic filtering works in GA4</h2>
+<p>GA4 handles this in two parts:</p>
+<table>
+<thead><tr><th>Part</th><th>Where it lives</th><th>What it does</th></tr></thead>
+<tbody>
+<tr><td>Internal traffic definition</td><td>Web data stream, under the tag settings</td><td>Labels events from matching IP addresses with an internal traffic parameter</td></tr>
+<tr><td>Data filter</td><td>Admin, data settings, data filters</td><td>Excludes events carrying that label from your reports, once active</td></tr>
+</tbody>
+</table>
+<p>The definition tags the traffic. The filter decides what happens to it. A filter can be in testing, active or inactive state. In testing, the data is still processed but you can check it using a comparison or filter in reports. When active, the matching data is excluded permanently from processed reports.</p>
+
+<h2>How to exclude internal traffic in GA4</h2>
+<p>Follow these steps in order.</p>
+<ol>
+<li><strong>Find your IP address.</strong> Search for what is my IP address from each location you want to exclude, such as your office. Note whether it is an IPv4 or IPv6 address. Some connections use both, so check each.</li>
+<li><strong>Open your data stream.</strong> In GA4 Admin, go to data streams, select your web stream, then open the configure tag settings area.</li>
+<li><strong>Define internal traffic.</strong> Find the option to define internal traffic, create a rule, give it a name such as Office, and leave the traffic type value as internal unless you have a reason to change it.</li>
+<li><strong>Add IP conditions.</strong> Choose a match type, such as IP address equals, and paste your address. Add further conditions for other locations.</li>
+<li><strong>Check the data filter.</strong> Go to Admin, data settings, data filters. GA4 usually creates an internal traffic filter automatically in testing state. If not, create one for internal traffic set to exclude.</li>
+<li><strong>Test it.</strong> Leave the filter in testing for a short period. Visit the site from the office, then use reports with a comparison on the test data filter name dimension to see whether your visits are being labelled.</li>
+<li><strong>Activate it.</strong> Once you are happy, change the filter state to active. Note the date somewhere you will find it later.</li>
+</ol>
+<p>Activating a filter cannot be undone for the data it has already processed. Excluded data does not come back if you later switch the filter off, so test first.</p>
+
+<h2>Remote teams and changing IP addresses</h2>
+<p>IP filtering works well for fixed office connections. It is less reliable when people work from home, use mobile data or have broadband providers that change IP addresses periodically. Options include:</p>
+<table>
+<thead><tr><th>Situation</th><th>Approach</th><th>Trade-off</th></tr></thead>
+<tbody>
+<tr><td>Fixed office line</td><td>Add the office IP to the internal traffic definition</td><td>Simple and dependable</td></tr>
+<tr><td>Team uses a company VPN</td><td>Add the VPN exit IP address</td><td>Only works when people are connected to the VPN</td></tr>
+<tr><td>Home workers on changing IPs</td><td>Set a custom traffic_type parameter via Google Tag Manager for logged-in staff or a cookie set on a private page</td><td>Needs technical set-up and care</td></tr>
+<tr><td>Occasional individual visits</td><td>Accept a small amount of noise</td><td>Usually fine for very small teams</td></tr>
+</tbody>
+</table>
+<p>The custom parameter approach usually involves setting the traffic_type event parameter to internal for visitors who match a rule, such as staff logged into your CMS. That is done in <a href="/blog/google-tag-manager-setup-guide/">Google Tag Manager</a> and needs testing, so it is worth involving whoever manages your tracking.</p>
+
+<h2>Developer and test traffic</h2>
+<p>Separate from internal traffic, GA4 has a developer traffic filter. This is designed for activity sent with debug mode enabled, such as when someone uses Tag Manager Preview. Make sure that filter exists and is active too, so test events do not show up as real activity.</p>
+<p>Staging sites are another source of noise. Ideally, a staging site should use a separate GA4 property or no tracking at all. Our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a> explains how to keep test environments separate from your live site.</p>
+
+<h2>Other data hygiene steps worth doing at the same time</h2>
+<p>While you are in GA4 admin, a few related settings are worth checking:</p>
+<ul>
+<li><strong>Unwanted referrals.</strong> Payment providers and booking tools can appear as referral sources. List them so sessions are not split.</li>
+<li><strong>Data retention.</strong> Check how long user-level data is kept for explorations and adjust if appropriate under your privacy policy.</li>
+<li><strong>Key events.</strong> Make sure only meaningful actions are marked as key events, and that tests have not created duplicate ones.</li>
+<li><strong>Campaign tagging.</strong> Use <a href="/blog/utm-tracking-links-guide/">UTM tracking links</a> consistently, so traffic sources are clean as well as traffic volume.</li>
+</ul>
+
+<h2>Checking the results</h2>
+<p>Once your filter is active, expect a small drop in sessions compared with before, particularly on low-traffic sites. That is a sign the filter is doing its job rather than a real fall in interest. When you report trends, mention the filter date so nobody misreads the change. Our <a href="/blog/looker-studio-dashboard-guide/">Looker Studio dashboard guide</a> shows how to add notes and date annotations to reports, and our wider article on <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> covers what to track once your data is clean.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li><strong>Defining internal traffic but never activating the filter.</strong> In testing state, the data is still included in standard reports.</li>
+<li><strong>Using the wrong IP format.</strong> If your connection uses IPv6, an IPv4 rule alone will not match.</li>
+<li><strong>Activating without testing.</strong> A broad IP range could exclude real customers. Excluded data cannot be recovered.</li>
+<li><strong>Forgetting the agency.</strong> If an agency or freelancer works on your site regularly, ask whether their traffic should be excluded too.</li>
+</ul>
+
+<h2>A quick internal traffic checklist</h2>
+<p>Use this short list when you set up a new GA4 property or review an existing one:</p>
+<ol>
+<li>List every location your team and suppliers regularly work from, including offices, VPNs and agencies.</li>
+<li>Record the IPv4 and IPv6 addresses for each, and who to ask if they change.</li>
+<li>Add them to the internal traffic definition in the web data stream.</li>
+<li>Confirm the internal traffic and developer traffic filters both exist.</li>
+<li>Test with a comparison on the test data filter name dimension, then activate.</li>
+<li>Write the activation date in your reporting notes and review the list every few months, or whenever someone moves office or changes broadband provider.</li>
+</ol>
+<p>It takes less than an hour for most small businesses, and it makes every later decision based on your data a little more trustworthy.</p>
+
+<h2>Where we can help</h2>
+<p>Reliable analytics sits underneath both search and paid work. Our <a href="/services/seo-geo/">SEO and GEO service</a> and <a href="/services/paid-media/">paid media service</a> both start with a check of your tracking, including filters, key events and attribution. You can see how our retainers work on the <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I exclude internal traffic in GA4?</h3>
+<p>Define your IP addresses as internal traffic in the web data stream tag settings, then go to data filters, check the internal traffic filter in testing state, and switch it to active once you are confident it is labelling the right visits.</p>
+<h3>Why is my internal traffic filter not working?</h3>
+<p>The most common reasons are that the filter is still in testing state, the IP address has changed, or your connection uses IPv6 and only an IPv4 address was added. Check each in turn.</p>
+<h3>Does the filter remove past data?</h3>
+<p>No. Filters apply from the moment they are active. Data collected before that point is not changed, so set up filtering as early as possible.</p>
+<h3>Can I undo an active data filter?</h3>
+<p>You can switch it to inactive, but data excluded while it was active is not restored. That is why testing first is important.</p>
+<h3>How do I exclude staff who work from home?</h3>
+<p>If they connect through a company VPN, add the VPN exit IP. Otherwise, consider setting a custom traffic type parameter through Google Tag Manager for logged-in staff, which needs careful set-up and testing.</p>
+<h3>Should I exclude my agency's traffic?</h3>
+<p>Usually yes, if they visit the site regularly for work. Ask them for a fixed IP address or agree another way to label their visits as internal.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Exclude%20Internal%20Traffic%20in%20GA4%3A%20A%20Step-by-Step%20UK%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/wordpress-php-version-update/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Update the PHP Version for Your WordPress Site Safely</h3><p>How to update the PHP version for WordPress: check what you run now, test plugins and theme, switch in your hosting panel and roll back if anything breaks.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-password-protect-page/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>How to Password Protect a Page in WordPress (and When Not To)</h3><p>How to password protect a page in WordPress using built-in visibility settings, what it does and does not protect, and better options for member areas.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/wordpress-not-sending-emails/"><p class="pws-tags">Guides &middot; 7 min read</p><h3>WordPress Not Sending Emails? How to Fix Form and Notification Emails</h3><p>WordPress not sending emails from forms or orders? Learn why messages vanish or land in spam, and how SMTP and domain authentication fix it for good.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'How%20to%20Exclude%20Internal%20Traffic%20in%20GA4%3A%20A%20Step-by-Step%20UK%20Guide'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
