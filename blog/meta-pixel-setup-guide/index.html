@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meta Pixel Setup Guide for UK Small Businesses</title>
+<meta name="description" content="A practical Meta Pixel setup guide for UK small businesses: installing the pixel, choosing events, consent, Conversions API and checking your data is accurate.">
+<link rel="canonical" href="https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/">
+
+<meta property="og:site_name" content="Prism Works Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Meta Pixel Setup Guide for UK Small Businesses">
+<meta property="og:description" content="A practical Meta Pixel setup guide for UK small businesses: installing the pixel, choosing events, consent, Conversions API and checking your data is accurate.">
+<meta property="og:url" content="https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/">
+<meta property="og:image" content="https://prismworksstudio.co.uk/assets/og/blog-meta-pixel-setup-guide.png">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#080b0f">
+<link rel="icon" href="/assets/img/site-icon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/site-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Prism Works Studio blog" href="/blog/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Readex+Pro:wght@400;600&family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/css/prism-works.css?v=a09ec1a1">
+<link rel="stylesheet" href="/assets/css/site.css?v=2266ca1b">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":["Organization","ProfessionalService"],"@id":"https://prismworksstudio.co.uk/#org","name":"Prism Works Studio","url":"https://prismworksstudio.co.uk/","logo":"https://prismworksstudio.co.uk/assets/img/logo.png","image":"https://prismworksstudio.co.uk/assets/og-image.png","email":"contact@prismworks.studio","telephone":"+44 7506 909018","description":"Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.","areaServed":{"@type":"Country","name":"United Kingdom"},"priceRange":"£££","knowsAbout":["Search engine optimisation","Generative engine optimisation","Paid media","Google Shopping","Digital PR","Content marketing","Shopify development","WooCommerce development","WordPress development","Brand strategy"]},{"@type":"WebSite","@id":"https://prismworksstudio.co.uk/#website","url":"https://prismworksstudio.co.uk/","name":"Prism Works Studio","publisher":{"@id":"https://prismworksstudio.co.uk/#org"},"inLanguage":"en-GB"},{"@type":"BlogPosting","@id":"https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/#article","headline":"Meta Pixel Setup: How to Track Facebook and Instagram Ad Results Properly","description":"A practical Meta Pixel setup guide for UK small businesses: installing the pixel, choosing events, consent, Conversions API and checking your data is accurate.","datePublished":"2026-11-08","dateModified":"2026-11-08","mainEntityOfPage":"https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/","url":"https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/","image":"https://prismworksstudio.co.uk/assets/og/blog-meta-pixel-setup-guide.png","inLanguage":"en-GB","wordCount":1539,"articleSection":"Paid Media","author":{"@id":"https://prismworksstudio.co.uk/#org"},"publisher":{"@id":"https://prismworksstudio.co.uk/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://prismworksstudio.co.uk/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://prismworksstudio.co.uk/blog/"},{"@type":"ListItem","position":3,"name":"Meta Pixel Setup: How to Track Facebook and Instagram Ad Results Properly","item":"https://prismworksstudio.co.uk/blog/meta-pixel-setup-guide/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I do a Meta Pixel setup on my website?","acceptedAnswer":{"@type":"Answer","text":"Create the pixel in Meta Events Manager inside your Business portfolio, install it once through your platform integration, Google Tag Manager or the site header, add the events you need, then test with the test events tool."}},{"@type":"Question","name":"Is the Meta Pixel free?","acceptedAnswer":{"@type":"Answer","text":"Yes, Meta does not charge for the pixel itself. You only pay for the ads you run, plus any developer or agency time to set it up and maintain it."}},{"@type":"Question","name":"Do I need consent for the Meta Pixel in the UK?","acceptedAnswer":{"@type":"Answer","text":"Generally yes. Advertising cookies and similar identifiers usually need consent under PECR and UK GDPR. Check the ICO's current guidance and take legal advice on your specific setup."}},{"@type":"Question","name":"What is the difference between the pixel and the Conversions API?","acceptedAnswer":{"@type":"Answer","text":"The pixel sends events from the visitor's browser. The Conversions API sends them from your server or platform. Many businesses use both with deduplication for more reliable reporting."}},{"@type":"Question","name":"Why are my Meta conversions higher than my real sales?","acceptedAnswer":{"@type":"Answer","text":"The usual causes are duplicate installations, events firing on page load instead of on completion, or missing deduplication between browser and server events. Meta's attribution settings also count conversions differently from your own records."}},{"@type":"Question","name":"Can I use the pixel without running ads?","acceptedAnswer":{"@type":"Answer","text":"Yes. Installing it early lets you build audiences of past visitors ready for future campaigns, as long as consent is handled properly and your privacy policy explains the tracking."}}]}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EJGC6KKC23"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-EJGC6KKC23');</script>
+</head>
+<body class="pws">
+<a class="pws-skip" href="#main">Skip to content</a>
+<header class="pws-header"><div class="pws-wrap pws-header-in"><a class="pws-logo" href="/"><img class="pws-logo-img" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="95" height="48"><span class="pws-shimmer"></span></a><nav class="pws-nav" aria-label="Main"><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></nav><a class="pws-btn pws-btn-primary pws-btn-sm pws-header-cta" href="/contact/">Let&rsquo;s Talk</a><button type="button" class="pws-menu-btn" aria-label="Open menu" aria-expanded="false" data-pws-menu-toggle><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button></div><div class="pws-mobile" data-pws-mobile-menu hidden><a href="/">Home</a><a href="/about-us/">About us</a><a href="/services/">Services</a><a href="/pricing/">Pricing</a><a href="/sectors/">Sectors</a><a href="/blog/">Blog</a><a href="/contact/">Contact</a></div></header>
+<main id="main">
+<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap"><nav class="pws-crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Meta Pixel Setup: How to Track Facebook and Instagram Ad Results Properly</li></ol></nav><span class="pws-eyebrow">Paid Media</span><h1>Meta Pixel Setup: How to Track Facebook and Instagram Ad Results Properly</h1><p class="pws-lead">A practical Meta Pixel setup guide for UK small businesses: installing the pixel, choosing events, consent, Conversions API and checking your data is accurate.</p><p class="pws-meta">By the Prism Works Studio team &middot; <time datetime="2026-11-08">8 November 2026</time> &middot; 7 min read</p></div></section>
+<section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
+<div class="pws-takeaways"><h2>Key takeaways</h2><ul><li>The Meta Pixel records actions people take on your website after seeing Facebook or Instagram ads, so Meta can report results and optimise delivery.</li><li>Track a small number of events that match real business outcomes, such as leads or purchases, and test each one before spending money on ads.</li><li>Under UK GDPR and PECR, advertising tracking generally needs consent, so connect the pixel to your cookie banner and consider the Conversions API for resilience.</li></ul></div>
+<p>Meta Pixel setup means adding a small piece of Meta's tracking code to your website, then choosing which visitor actions, such as enquiries or purchases, it should report back to your ads account. Done well, it lets Facebook and Instagram ads optimise towards real customers instead of clicks, and tells you which campaigns are worth the money.</p>
+<p>Many small businesses either skip the pixel entirely or install it once and never check it again. Both lead to wasted ad spend. This guide walks through what the pixel does, how to install it on common platforms, which events to track, how consent fits in under UK rules, and how to check your data before relying on it.</p>
+
+<h2>What the Meta Pixel does</h2>
+<p>The pixel is a snippet of JavaScript that loads on your pages. When a visitor takes an action you have defined, it sends an event to Meta. Meta uses those events in three ways:</p>
+<ul>
+<li><strong>Measurement.</strong> Ads Manager can show how many leads or sales came after people saw or clicked an ad.</li>
+<li><strong>Optimisation.</strong> If you run a campaign optimised for leads or purchases, Meta uses event data to find people more likely to take that action.</li>
+<li><strong>Audiences.</strong> You can build remarketing audiences, such as people who viewed a product, and lookalike audiences based on existing customers. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> explains how to use these sensibly.</li>
+</ul>
+<p>Without the pixel, Meta can only optimise towards on-platform signals such as clicks and engagement, which often bring cheap but low-quality traffic.</p>
+
+<h2>Before you start</h2>
+<p>Check you have the right access and a clear plan before touching any code.</p>
+<ol>
+<li><strong>Use a Business portfolio.</strong> Create the pixel (Meta now groups it under a dataset in Events Manager) inside your business's Meta Business account, not a personal ad account, so ownership stays with the business.</li>
+<li><strong>Verify your domain.</strong> Meta recommends domain verification for businesses running ads that point to their own site. Check Meta's current help pages for the steps.</li>
+<li><strong>Write down your key actions.</strong> Decide what counts as success: a contact form, a booking, a phone click, a purchase.</li>
+<li><strong>Review your cookie banner.</strong> Make sure it can block advertising tags until consent is given.</li>
+</ol>
+<p>If you are still deciding whether Meta ads suit your business at all, read our guide to <a href="/blog/facebook-ads-for-small-business-uk/">Facebook ads for small businesses</a> first, then our breakdown of <a href="/blog/meta-ads-cost-uk/">Meta ads costs</a>.</p>
+
+<h2>How to install the Meta Pixel</h2>
+<p>There are three common routes. The right one depends on your website platform and how much else you track.</p>
+<table>
+<thead><tr><th>Method</th><th>Best for</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Platform integration (for example Shopify, WooCommerce or Wix apps)</td><td>Online shops wanting standard ecommerce events quickly</td><td>Duplicate events if you also add code manually</td></tr>
+<tr><td>Google Tag Manager</td><td>Sites with several tracking tools and custom events</td><td>Needs careful consent triggers and testing</td></tr>
+<tr><td>Manual code in the site header</td><td>Simple brochure sites with developer access</td><td>Event code must be added to the right pages or buttons</td></tr>
+</tbody>
+</table>
+<p>For most Shopify stores, the official Meta sales channel connects the pixel and sends ecommerce events without manual code. WordPress sites often use Meta's own plugin or Google Tag Manager. Platform options change regularly, so follow the current help pages for your platform and for Meta rather than older tutorials.</p>
+<p>Whichever route you choose, use only one. Installing the base code twice, for example through an app and in the theme, is the most common reason for doubled conversion numbers.</p>
+
+<h2>Choosing which events to track</h2>
+<p>Meta offers a set of standard events. Using standard names helps Meta understand what each action means. Track only the ones that reflect your business.</p>
+<table>
+<thead><tr><th>Business type</th><th>Useful standard events</th><th>Main optimisation event</th></tr></thead>
+<tbody>
+<tr><td>Online shop</td><td>ViewContent, AddToCart, InitiateCheckout, Purchase</td><td>Purchase</td></tr>
+<tr><td>Local service business</td><td>Lead, Contact, Schedule</td><td>Lead</td></tr>
+<tr><td>Booking-based business</td><td>ViewContent, Schedule</td><td>Schedule</td></tr>
+<tr><td>Subscription or membership</td><td>CompleteRegistration, Subscribe</td><td>Subscribe</td></tr>
+</tbody>
+</table>
+<p>Fire lead events on the thank-you page or confirmation message, not on the button click, so failed or abandoned forms are not counted. Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers how to design forms that confirm submission clearly, which also makes tracking more reliable.</p>
+<p>For purchases, pass the order value and currency (GBP) so you can see revenue and return on ad spend. Never send names, email addresses or other personal data as plain text in event parameters.</p>
+
+<h2>Consent, UK GDPR and PECR</h2>
+<p>Advertising pixels set or read cookies and similar identifiers on a visitor's device. Under PECR and UK GDPR, that generally requires the visitor's consent before the pixel fires. The ICO's guidance on cookies and similar technologies is the place to check current expectations, and your own legal adviser should confirm your approach.</p>
+<p>In practice:</p>
+<ul>
+<li>Your cookie banner should offer a clear choice and must not load the pixel until advertising cookies are accepted.</li>
+<li>Your privacy policy should explain that you use Meta advertising tools. Our guide to <a href="/blog/website-terms-and-privacy-policy-uk/">website terms and privacy policies</a> outlines what to cover.</li>
+<li>Expect lower reported numbers than before consent rules were enforced. That is normal, not a broken pixel.</li>
+</ul>
+<p>Our <a href="/blog/cookie-banner-design-uk/">cookie banner design guide</a> explains how to make the consent choice clear without dark patterns.</p>
+
+<h2>What the Conversions API adds</h2>
+<p>The Conversions API sends events from your server or platform directly to Meta, rather than relying only on the visitor's browser. Browser tracking can be weakened by ad blockers, privacy features and connection problems, so sending events by both routes can improve the match between what happens on your site and what Meta reports.</p>
+<p>Many ecommerce platforms offer a built-in Conversions API connection that takes a few clicks. Custom sites usually need a developer or a server-side tagging setup. Two points matter:</p>
+<ul>
+<li><strong>Deduplication.</strong> When the same event arrives from both browser and server, Meta needs a matching event ID to count it once. Check Meta's current deduplication guidance.</li>
+<li><strong>Consent still applies.</strong> Server-side tracking is not a way around consent. Only send events where you have a lawful basis to do so.</li>
+</ul>
+
+<h2>How to check your Meta Pixel is working</h2>
+<ol>
+<li><strong>Use the test events tool.</strong> In Events Manager, open test events, enter your site address, and walk through the journey. Each event should appear once.</li>
+<li><strong>Install the Meta Pixel Helper.</strong> This browser extension shows which events fire on each page and flags errors.</li>
+<li><strong>Submit a real test.</strong> Send a genuine enquiry or place a low-value test order, then confirm it appears with the correct value.</li>
+<li><strong>Compare with your records.</strong> After a week, compare Meta's reported leads or sales with your inbox, CRM or order system. Big gaps point to duplicates or missing events.</li>
+<li><strong>Check event match quality.</strong> Events Manager scores how well events can be matched to Meta accounts. Follow its suggestions where they are consistent with your consent and privacy approach.</li>
+</ol>
+<p>It also helps to compare Meta's figures with GA4, tagged with consistent campaign labels. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains how to set up key events so both tools are measuring the same actions.</p>
+
+<h2>Common Meta Pixel mistakes</h2>
+<ul>
+<li><strong>Two installations.</strong> An app plus manual code doubles every event.</li>
+<li><strong>Lead event on page load.</strong> Firing a lead on every visit to the contact page inflates results and trains Meta on the wrong people.</li>
+<li><strong>Missing purchase values.</strong> Without value and currency, you cannot judge return on spend.</li>
+<li><strong>Pixel in a personal account.</strong> If the person who created it leaves, the business can lose access to its history.</li>
+<li><strong>Ignoring consent.</strong> Firing before consent creates legal risk and unreliable data.</li>
+<li><strong>Never retesting.</strong> Theme updates, new checkouts and plugin changes can quietly break tracking.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>A basic pixel on a Shopify store can be connected in an afternoon. Custom events, the Conversions API, consent mode and making sure ad platforms, GA4 and your CRM agree take more care. Our <a href="/services/paid-media/">paid media service</a> includes tracking setup before any campaign launches, and if your website needs changes to support it, our <a href="/services/website-ecommerce-development/">website and ecommerce development team</a> can help. You can see our retainer levels on the <a href="/pricing/">pricing page</a>; ad spend is always paid separately.</p>
+
+<h2>FAQs</h2>
+<h3>How do I do a Meta Pixel setup on my website?</h3>
+<p>Create the pixel in Meta Events Manager inside your Business portfolio, install it once through your platform integration, Google Tag Manager or the site header, add the events you need, then test with the test events tool.</p>
+<h3>Is the Meta Pixel free?</h3>
+<p>Yes, Meta does not charge for the pixel itself. You only pay for the ads you run, plus any developer or agency time to set it up and maintain it.</p>
+<h3>Do I need consent for the Meta Pixel in the UK?</h3>
+<p>Generally yes. Advertising cookies and similar identifiers usually need consent under PECR and UK GDPR. Check the ICO's current guidance and take legal advice on your specific setup.</p>
+<h3>What is the difference between the pixel and the Conversions API?</h3>
+<p>The pixel sends events from the visitor's browser. The Conversions API sends them from your server or platform. Many businesses use both with deduplication for more reliable reporting.</p>
+<h3>Why are my Meta conversions higher than my real sales?</h3>
+<p>The usual causes are duplicate installations, events firing on page load instead of on completion, or missing deduplication between browser and server events. Meta's attribution settings also count conversions differently from your own records.</p>
+<h3>Can I use the pixel without running ads?</h3>
+<p>Yes. Installing it early lets you build audiences of past visitors ready for future campaigns, as long as consent is handled properly and your privacy policy explains the tracking.</p>
+</article>
+<aside class="pws-aside"><div class="pws-box"><h3>How we can help</h3><ul><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce Development</a></li></ul></div><div class="pws-box"><h3>Talk to us</h3><p>Book a free, no-obligation 30-minute discovery call.</p><a class="pws-btn pws-btn-primary pws-btn-sm" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'Meta%20Pixel%20Setup%3A%20How%20to%20Track%20Facebook%20and%20Instagram%20Ad%20Results%20Properly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a></div></aside>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">More guides</span><h2 class="pws-h2">Keep reading</h2></div><div class="pws-grid pws-posts"><a class="pws-card pws-post-card" href="/blog/google-ads-responsive-search-ads/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>How to Write Responsive Search Ads That Work for a Small Business</h3><p>Learn how to write responsive search ads in Google Ads: planning headlines and descriptions, using pinning carefully, ad strength and testing for UK businesses.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/google-ads-negative-keywords-guide/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>How to Add Negative Keywords in Google Ads: A Practical UK Guide</h3><p>Negative keywords stop your Google Ads showing for irrelevant searches. Learn how to find, add and organise them so a small UK budget goes further.</p><span class="pws-more">Read the guide &rarr;</span></a><a class="pws-card pws-post-card" href="/blog/google-ads-conversion-tracking-setup/"><p class="pws-tags">Paid Media &middot; 7 min read</p><h3>How to Set Up Google Ads Conversion Tracking for a Small Business</h3><p>Google Ads conversion tracking shows which clicks become enquiries or sales. Learn what to track, how to set it up and how to test it before spending more.</p><span class="pws-more">Read the guide &rarr;</span></a></div></div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta"><div><span class="pws-eyebrow">Free consultation</span><h2>Let&rsquo;s Talk About Growing Your Business Online.</h2><p class="pws-lead">Book a free, no-obligation 30-minute discovery call with one of our senior digital strategists.</p></div><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a><a class="pws-btn pws-btn-wa" href="https://wa.me/447506909018?text=Hi%2C%20I%20read%20your%20article%20'Meta%20Pixel%20Setup%3A%20How%20to%20Track%20Facebook%20and%20Instagram%20Ad%20Results%20Properly'%20and%20need%20help" target="_blank" rel="noopener">WhatsApp us</a><a class="pws-btn pws-btn-ghost" href="/services/">View Services</a></div></div></div></section>
+</main>
+<footer class="pws-footer"><div class="pws-wrap"><div class="pws-footer-grid"><div class="pws-footer-brand"><img class="pws-footer-logo" src="/assets/img/logo.png" alt="Prism Works Studio logo" width="111" height="56"><p>A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.</p></div><div><h4>Explore</h4><ul><li><a href="/">Home</a></li><li><a href="/about-us/">About us</a></li><li><a href="/services/">Services</a></li><li><a href="/pricing/">Pricing</a></li><li><a href="/blog/">Blog</a></li><li><a href="/sectors/">Sectors</a></li><li><a href="/contact/">Contact</a></li></ul></div><div><h4>Services</h4><ul><li><a href="/services/seo-geo/">SEO &amp; GEO</a></li><li><a href="/services/paid-media/">Paid Media</a></li><li><a href="/services/digital-pr-content/">Digital PR &amp; Content</a></li><li><a href="/services/website-ecommerce-development/">Website &amp; Ecommerce</a></li><li><a href="/services/brand-strategy/">Brand Strategy</a></li></ul></div><div><h4>Sectors</h4><ul><li><a href="/sectors/healthcare/">Health &amp; Healthcare</a></li><li><a href="/sectors/hospitality/">Hospitality</a></li><li><a href="/sectors/ecommerce/">Ecommerce</a></li><li><a href="/sectors/financial-advisers/">Financial Advisors</a></li><li><a href="/sectors/saas/">SaaS Companies</a></li><li><a href="/sectors/b2b/">B2B</a></li><li><a href="/sectors/education/">Education &amp; Training</a></li></ul></div><div><h4>Contact</h4><ul class="pws-footer-contact"><li><span>Email</span><a href="mailto:contact@prismworks.studio">contact@prismworks.studio</a></li><li><span>Phone</span><a href="tel:+447506909018">+44 7506 909018</a></li><li><span>WhatsApp</span><a href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener">Chat on WhatsApp</a></li></ul></div></div><div class="pws-footer-bottom"><p class="pws-footer-copy">&copy; <span data-pws-year>2026</span> Prism Works Studio. All rights reserved.</p><a class="pws-totop" href="#" data-pws-top aria-label="Back to top">Back to top <span aria-hidden="true">&uarr;</span></a></div></div></footer>
+<a class="wa-float" href="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project." target="_blank" rel="noopener" aria-label="Ask a question" data-chat data-wa="https://wa.me/447506909018?text=Hi%2C%20I%20saw%20your%20website%20and%20would%20like%20to%20talk%20about%20a%20project."><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-5 4v-4H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm3 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z"/></svg></a>
+<script src="/assets/js/site.js?v=c1b07d14" defer></script>
+<script src="/assets/js/chat.js?v=2ea6a29f" defer></script>
+</body>
+</html>
