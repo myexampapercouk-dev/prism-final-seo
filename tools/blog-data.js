@@ -44617,4 +44617,1020 @@ module.exports = [
 <p>Write one sentence describing what your current website is stopping your business from doing. Then gather your analytics and a list of the pages that matter most. Those two steps will make every agency conversation more useful. Prism Works Studio offers website redesign and migration as part of our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>. If you would like to discuss your site, <a href="/contact/">get in touch</a>.</p>
 `,
   },
+  {
+    slug: 'car-dealership-marketing-uk',
+    seoTitle: 'Car Dealership Marketing UK: Independent Dealer Guide',
+    title: 'Car Dealership Marketing in the UK: A Guide for Independent Dealers',
+    description: 'Car dealership marketing in the UK works best when your own website, stock pages, local search and focused ads bring buyers to you, not only to listing portals.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Car dealership marketing in the UK, for independent dealers, comes down to being found and trusted locally, then making it easy to enquire about a specific vehicle. Listing portals bring volume, but your own website, Google Business Profile and focused ads are what build a reputation buyers return to and recommend.</p>
+<p>This guide is for independent used car dealers, specialist and prestige dealers, van and commercial vehicle sellers and small dealer groups across the UK. It covers how buyers research, what your website should do, how to approach SEO and paid media, and what to keep in mind about compliance. We are a UK studio that builds websites and runs search and paid campaigns. Where finance or consumer law is involved, we keep to general information and approval of any wording rests with you and your compliance advisers.</p>
+
+<h2>How UK car buyers research</h2>
+<p>Most buyers spend a long time researching before they contact a dealer. A typical journey might look like this:</p>
+<ol>
+<li>Browsing models and prices on portals and manufacturer sites.</li>
+<li>Narrowing down to a few specific vehicles at a few dealers.</li>
+<li>Checking each dealer: reviews, location, how long they have traded, what they say about warranties and preparation.</li>
+<li>Visiting the dealer's own website to see more photos, details and how to arrange a viewing or test drive.</li>
+<li>Making contact by phone, form, live chat or messaging.</li>
+</ol>
+<p>Step three and four are where independent dealers win or lose. A buyer who has found your car on a portal often looks you up before calling. If your website looks dated, slow or incomplete, they may choose a near-identical car from a dealer who looks more established.</p>
+
+<h2>Car dealership marketing UK: balancing portals and your own channels</h2>
+<p>Portals are an important part of most dealers' marketing, but relying on them alone means your visibility depends on someone else's pricing and rules. The table below compares the main channels.</p>
+<table>
+<thead><tr><th>Channel</th><th>Strength</th><th>Limitation</th></tr></thead>
+<tbody>
+<tr><td>Listing portals</td><td>Large audience of active buyers</td><td>You compete side by side with many dealers, often on price</td></tr>
+<tr><td>Your own website</td><td>Full control of stock presentation, brand and enquiries</td><td>Needs investment in speed, content and SEO to attract traffic</td></tr>
+<tr><td>Google Business Profile</td><td>Local visibility, reviews and calls</td><td>Needs regular updates and review replies</td></tr>
+<tr><td>Google Ads</td><td>Capturing searches for your town, makes and dealer name</td><td>Can waste budget on broad national terms</td></tr>
+<tr><td>Meta ads and remarketing</td><td>Reaching people who viewed stock but did not enquire</td><td>Vehicle ads must follow platform and advertising rules</td></tr>
+</tbody>
+</table>
+<p>A sensible approach is to keep the portals you rely on, while gradually building your own channels so a growing share of enquiries comes directly. Our <a href="/services/paid-media/">paid media service</a> and <a href="/services/seo-geo/">SEO and GEO service</a> are designed to support that kind of balance.</p>
+
+<h2>What a dealer website must do well</h2>
+<h3>Stock pages that load fast and show everything</h3>
+<p>Each vehicle page should include plenty of real photos, the key specification, mileage, registration year, fuel type, transmission, colour, service history summary, MOT status and the price. Many dealer websites pull stock automatically from a stock management system or feed; if yours does, check that the feed brings across all details and photos, not just a summary. Speed matters because photo-heavy pages can be slow on mobile. Our guide to <a href="/blog/website-speed-optimisation-uk/">website speed optimisation</a> explains the main fixes.</p>
+<h3>Clear ways to enquire</h3>
+<p>Offer several simple routes: call, a short enquiry form tied to the specific vehicle, a request to book a viewing or test drive, and part exchange valuation requests if you take part exchanges. Keep forms short. Our article on <a href="/blog/website-contact-forms/">website contact forms</a> covers good practice.</p>
+<h3>Search and filters that work</h3>
+<p>Buyers expect to filter by make, model, price, fuel type, body type, transmission and mileage. Even a dealer with fifty cars benefits from good filters and sorting, especially on mobile.</p>
+<h3>Trust and reassurance</h3>
+<p>Explain clearly what preparation each car receives before sale, what warranty is included or available (describing only what you genuinely provide), how part exchange works, and how buyers can view and collect. Show your forecourt and showroom, your address, opening hours and real reviews. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> includes a useful checklist.</p>
+<h3>Finance information handled carefully</h3>
+<p>Many dealers introduce buyers to finance providers. Any finance wording, representative examples or calculators on your website and in ads are regulated, and the content should be approved by your own compliance team or finance partner. We can build pages and integrate tools supplied by your finance provider, but the approval of the wording rests with you.</p>
+
+<h2>Local SEO for car dealers</h2>
+<p>People often search for "used cars [town]", "used vans near me" or a specific make plus a location. To appear for these searches, focus on:</p>
+<ul>
+<li>A complete Google Business Profile with the correct categories, regular photo updates and replies to every review.</li>
+<li>Pages for the main types of vehicle you sell, such as family cars, small cars, vans or prestige models, each with useful information beyond a stock list.</li>
+<li>A location page with directions, opening hours, nearby areas and practical details such as delivery or collection options.</li>
+<li>Consistent business details across directories and portals.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> covers these steps in more depth. Search results usually build over three to six months.</p>
+
+<h2>Content that helps buyers decide</h2>
+<p>Useful content can bring people to your site earlier in their research. Ideas that suit independent dealers include:</p>
+<ul>
+<li>Buying guides for popular models you regularly stock.</li>
+<li>Explanations of what your vehicle preparation involves.</li>
+<li>How part exchange works with you, step by step.</li>
+<li>Advice on choosing between petrol, diesel, hybrid and electric for different driving patterns.</li>
+<li>Delivery and collection options for buyers further away.</li>
+</ul>
+<p>Keep content factual and avoid making claims about running costs or emissions that you cannot support. The aim is to be genuinely helpful, so buyers see you as a knowledgeable local dealer.</p>
+
+<h2>Paid media for dealers</h2>
+<p>Search ads work best when targeted at buyers near you and at the kind of stock you hold. Bidding on your dealer name, your town plus "used cars", and makes or body types you specialise in tends to be more efficient than broad national terms. Send ads to relevant stock pages or filtered listings, not the homepage, and track calls, enquiries and test drive requests as conversions.</p>
+<p>Remarketing is particularly useful because car buyers often view the same vehicle several times before contacting anyone. Showing people the cars they viewed, or similar stock, can bring them back. Our <a href="/blog/remarketing-guide-uk/">UK remarketing guide</a> explains how this works. Vehicle advertising must follow the CAP Code and platform policies, and finance-related ads need extra care. Ad spend is always paid separately from management fees.</p>
+
+<h2>Measuring what counts</h2>
+<p>Track enquiries by source: portals, your website, Google Business Profile, ads and walk-ins. On your website, track calls, form submissions, test drive bookings and part exchange requests. Over time, this shows whether your own channels are growing and which vehicle types attract the most interest.</p>
+
+<h2>How we can help</h2>
+<p>We build websites for UK businesses, including stock-driven sites that integrate with a feed or stock system where it provides one, plus local SEO and paid media campaigns. A small business website typically costs £1,000 to £2,000 and takes three to five weeks; more complex builds with feeds and filters are quoted after discovery. Monthly support retainers are listed on our <a href="/pricing/">pricing page</a>, and our <a href="/services/website-ecommerce-development/">website development service</a> page explains how projects run.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective car dealership marketing in the UK for independent dealers?</h3>
+<p>A combination of listing portals for reach, a fast and detailed dealer website, a well maintained Google Business Profile and focused local search and remarketing ads. Over time this builds direct enquiries that do not depend on any single portal.</p>
+<h3>Do independent car dealers need their own website if they use portals?</h3>
+<p>Yes. Buyers often look up a dealer before calling, and your own website is where you control how your stock and business are presented. It also lets you build search visibility and enquiries you own.</p>
+<h3>Can a dealer website pull stock automatically?</h3>
+<p>Many stock management systems provide a feed or integration. Where yours does, we can usually connect it to the website so stock updates without manual work. We confirm what is possible during discovery.</p>
+<h3>Can we show finance examples on our website?</h3>
+<p>Finance wording and representative examples are regulated. We can build the pages or integrate your finance provider's tools, but the wording should be supplied or approved by your compliance team or finance partner.</p>
+<h3>Is Google Ads worth it for a small car dealer?</h3>
+<p>It can be when tightly targeted to your area, your dealer name and the stock you specialise in, with clear conversion tracking. Broad national campaigns usually waste budget for smaller dealers.</p>
+<h3>How long does SEO take for a car dealer website?</h3>
+<p>Typically three to six months to see clear improvement, depending on local competition and the starting state of your website and Google Business Profile.</p>
+`,
+  },
+  {
+    slug: 'coworking-space-marketing-uk',
+    seoTitle: 'Coworking Space Marketing UK: Win More Members',
+    title: 'Coworking Space Marketing in the UK: How to Win and Keep Members',
+    description: 'Coworking space marketing in the UK works when local search, honest pricing, easy tour booking and a real sense of community all point people to a visit.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Coworking space marketing in the UK succeeds when it gets the right people through the door for a tour or a trial day. Members rarely sign up from a website alone; they want to see the desks, feel the atmosphere and check the coffee, so your marketing should make that visit the obvious next step.</p>
+<p>This guide is for independent coworking operators, flexible office providers, business centres and community workspaces in UK towns and cities. It covers who your members are, the searches they use, what your website should include, and how SEO and paid media fit together. We are a UK studio that builds websites and runs search and paid campaigns, and we have written this as a practical guide rather than a sales pitch.</p>
+
+<h2>Who chooses a coworking space</h2>
+<p>Coworking attracts a wider mix of people than many operators expect. Each group has its own trigger and its own questions.</p>
+<ul>
+<li><strong>Freelancers and sole traders</strong> tired of working from the kitchen table or a café.</li>
+<li><strong>Hybrid employees</strong> whose employer has closed or reduced an office and who want somewhere closer to home.</li>
+<li><strong>Small teams and startups</strong> needing a few desks or a private office without a long lease.</li>
+<li><strong>Remote workers for larger firms</strong> who need a professional address and reliable meeting rooms.</li>
+<li><strong>Visitors and day users</strong> needing a desk or meeting room for a single day.</li>
+<li><strong>Event organisers</strong> looking for a workshop, training or networking venue.</li>
+</ul>
+<p>A freelancer worries about price and community. A small team cares about privacy, storage and whether they can grow into a bigger room. A company booking a meeting room wants availability, capacity, AV kit and an invoice. When your website speaks to each group directly, more of the right people make contact.</p>
+
+<h2>Coworking space marketing UK: the channels that matter</h2>
+<p>Most of the enquiries we see in this sector come from a handful of places. The table below sets out a sensible order of priority for a typical UK operator.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>"Coworking near me" and "office space [town]" searches, reviews and directions</td><td>Generic photos and no posts or updates</td></tr>
+<tr><td>Website and local SEO</td><td>Membership, private office and meeting room hire searches</td><td>One page trying to sell everything to everyone</td></tr>
+<tr><td>Google Ads</td><td>Meeting room hire and private office demand with clear intent</td><td>Bidding on broad "office" terms that attract commercial property searches</td></tr>
+<tr><td>LinkedIn and community content</td><td>Showing who works there and what events run</td><td>Posting only offers, never people or activity</td></tr>
+<tr><td>Partnerships</td><td>Local business groups, chambers, universities and employers with hybrid staff</td><td>No dedicated landing page or tracking</td></tr>
+</tbody>
+</table>
+<p>If your local presence is weak, start there. Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> and our article on <a href="/blog/google-business-profile-uk/">Google Business Profile for UK businesses</a> cover the essentials step by step.</p>
+
+<h2>What your coworking website should include</h2>
+<h3>Membership options that are easy to compare</h3>
+<p>Set out your main options clearly: day passes, part-time hot desk, unlimited hot desk, fixed desk, private office and virtual office or business address if you offer them. Show what is included with each, such as access hours, meeting room credits, printing, storage and mail handling. A comparison table works well here, and it helps visitors choose without needing to call.</p>
+<h3>Prices or a clear starting point</h3>
+<p>Coworking buyers compare spaces quickly. Showing a starting price for each membership type, or at least a "from" price, keeps serious visitors engaged. Private offices can be priced on request if sizes vary, but say so clearly. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> explains how to present prices that stay flexible.</p>
+<h3>Tour and trial booking</h3>
+<p>Make booking a tour or a free trial day the main call to action on every page. A simple form or calendar booking tool that confirms instantly is better than "email us to arrange a visit". Our article on <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers options, and our guide to <a href="/blog/website-call-to-action-buttons/">call to action buttons</a> explains how to make that step stand out.</p>
+<h3>Meeting room pages that can be booked</h3>
+<p>Meeting room hire is often a separate audience from members. Give each room its own section with capacity, layout options, equipment, accessibility notes, photos and an hourly or daily rate or booking link. Many people first discover a coworking space by hiring a meeting room, so this page can also be a route into membership.</p>
+<h3>Real photos and a sense of community</h3>
+<p>Prospective members want to know what the space feels like on an ordinary Tuesday. Use real photos of the desks, kitchen, phone booths and breakout areas, with the light and layout as they really are. Show your events calendar, the kind of businesses that work there (with permission, and without inventing anyone) and the practical details such as parking, bike storage, showers and nearby transport.</p>
+
+<h2>Content and SEO for workspace operators</h2>
+<p>Search engines need to understand what you offer and where. That means separate, well written pages for coworking memberships, private offices, meeting rooms, virtual offices and event hire, each mentioning your town and the areas you serve. If you run more than one site, each location needs its own page with unique content; our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how to set that up.</p>
+<p>Useful supporting content might include:</p>
+<ul>
+<li>A guide to working from a coworking space for hybrid employees, including how to discuss it with an employer.</li>
+<li>What to look for in a private office for a small team.</li>
+<li>Meeting room hire checklists for training sessions and interviews.</li>
+<li>Local business events and networking round-ups.</li>
+</ul>
+<p>The aim is to answer the questions people already ask on tours, not to publish generic articles about productivity. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers keyword research, page structure and content planning, including how your pages appear in AI search answers.</p>
+
+<h2>Paid media without the waste</h2>
+<p>Google Ads can be very effective for meeting room hire and private office searches, where intent is high and the search usually includes a town. Broad terms such as "office space" often attract people looking to lease whole commercial units, so careful keyword choices and negatives matter. Send each ad to the most relevant page, not the homepage, and track tour bookings, trial days and meeting room bookings as conversions.</p>
+<p>Meta and LinkedIn ads can raise awareness among local freelancers and hybrid workers, especially for open days, trial weeks or community events. Remarketing to people who viewed your membership page but did not book a tour is often one of the better uses of a modest budget. Our <a href="/services/paid-media/">paid media service</a> explains how we plan and manage campaigns, and ad spend is always paid separately from management fees.</p>
+
+<h2>Retention is part of marketing</h2>
+<p>For coworking, keeping a member is usually cheaper than finding a new one. Retention is not just an operations task. A simple member newsletter, a visible events programme, a member directory if people opt in, and a smooth process for upgrading from hot desk to fixed desk or office all reduce churn. Reviews from happy members, asked for at the right moment, then feed back into your local search visibility.</p>
+
+<h2>Measuring results</h2>
+<p>Track the steps that lead to revenue: tour bookings, trial days, meeting room bookings, membership enquiries and calls. If you can, record where each new member first heard about you, and compare that with your website and ads data. This helps you see whether search, social, partnerships or walk-ins are actually filling desks.</p>
+<p>SEO typically takes three to six months to show clear results. Paid search can bring enquiries within weeks but stops when the budget stops, so most operators benefit from a balance of both.</p>
+
+<h2>Working with us</h2>
+<p>We design and build websites for UK businesses, including membership comparison pages, meeting room pages, booking integrations and location pages. A small business website typically costs £1,000 to £2,000 and takes three to five weeks, as set out on our <a href="/services/website-ecommerce-development/">website development service</a> page. Ongoing SEO and paid media sit on monthly retainers shown on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective coworking space marketing in the UK?</h3>
+<p>For most operators it is a strong local search presence combined with a website that makes booking a tour or trial day simple. Paid search for meeting rooms and private offices, plus visible community activity, then builds on that base.</p>
+<h3>Should a coworking space show membership prices online?</h3>
+<p>Showing at least a starting price for each membership type helps visitors self-select and reduces time spent on unsuitable tours. Private offices can be priced on request if sizes vary.</p>
+<h3>Do we need separate pages for meeting room hire?</h3>
+<p>Yes. Meeting room hire attracts a different audience with different questions about capacity, equipment and booking. A dedicated page for each room or a clear rooms page helps those searches find you.</p>
+<h3>Is LinkedIn worth it for a coworking space?</h3>
+<p>It can help with awareness among local professionals and hybrid workers, particularly for events and open days. It tends to work best alongside local search rather than as the main source of members.</p>
+<h3>How do we market a coworking space to hybrid workers?</h3>
+<p>Explain clearly how part-time memberships work, show travel and parking details, and offer a trial day. Content that helps hybrid employees discuss a coworking membership with their employer can also be useful.</p>
+<h3>How long does it take to see results from coworking SEO?</h3>
+<p>Typically three to six months, depending on local competition and the starting condition of your website and Google Business Profile.</p>
+`,
+  },
+  {
+    slug: 'flooring-company-website-design-uk',
+    seoTitle: 'Flooring Company Website Design UK: What to Include',
+    title: 'Flooring Company Website Design in the UK: What Actually Wins Jobs',
+    description: 'Flooring company website design in the UK should show real fitted floors, explain products and fitting clearly, and make booking a home measure effortless.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Flooring company website design in the UK should do one thing above all: turn browsing homeowners and landlords into booked home measures or showroom visits. That means real photos of fitted floors, clear explanations of products and fitting, honest information on how quotes work and a quick way to book.</p>
+<p>This guide is for independent carpet shops, flooring retailers with showrooms, mobile flooring fitters and commercial flooring contractors across the UK. It explains what customers look for, what your website should include, how to approach local SEO, and how to decide whether you need a simple brochure site or something with online sales. We are a UK studio that designs and builds websites, so we focus on what we see working for trade and retail businesses.</p>
+
+<h2>How people choose a flooring company</h2>
+<p>Buying a floor is a considered purchase. People often start by browsing styles on their phone in the evening, visit a showroom at the weekend, and only then book a measure. Along the way they are trying to answer some common questions:</p>
+<ul>
+<li>Will this look right in my room, with my light and my furniture?</li>
+<li>Is carpet, laminate, luxury vinyl tile, engineered wood or solid wood best for this room?</li>
+<li>Will it cope with children, pets, a busy hallway or a damp bathroom?</li>
+<li>Who actually fits it, and how long will it take?</li>
+<li>How does the quote work, and what is included, such as underlay, gripper, uplift and disposal of old flooring?</li>
+</ul>
+<p>Your website should answer these questions in plain English. If it does, visitors arrive at your showroom or measure already trusting you.</p>
+
+<h2>Flooring company website design UK: the essential pages</h2>
+<p>The structure below suits most independent flooring businesses. A smaller fitter may combine some pages; a larger retailer may expand them.</p>
+<table>
+<thead><tr><th>Page</th><th>Purpose</th><th>Key content</th></tr></thead>
+<tbody>
+<tr><td>Homepage</td><td>Show what you do, where and the next step</td><td>Product types, service area, real fitted photos, booking button</td></tr>
+<tr><td>Product type pages</td><td>Help people choose between materials</td><td>Pros and cons, best rooms, care, brands you stock</td></tr>
+<tr><td>Room pages</td><td>Match how people think about their home</td><td>Kitchens, bathrooms, stairs, living rooms, commercial spaces</td></tr>
+<tr><td>Gallery</td><td>Prove quality with real work</td><td>Photos filterable by product and room, with short captions</td></tr>
+<tr><td>How it works</td><td>Remove uncertainty about the process</td><td>Measure, quote, fitting day, aftercare</td></tr>
+<tr><td>Areas served</td><td>Support local search</td><td>Towns and areas you genuinely cover</td></tr>
+<tr><td>Contact and booking</td><td>Turn interest into appointments</td><td>Showroom hours, map, measure booking form, phone</td></tr>
+</tbody>
+</table>
+
+<h2>Photos that sell floors</h2>
+<p>Manufacturer images are useful for showing a range, but they all look the same across every competitor's website. Photos of floors you have actually fitted, in real UK homes and businesses, are far more convincing. Capture the full room, close-ups of the finish, stair work and neat transitions at doorways, because these details show the quality of fitting rather than just the product.</p>
+<p>Organise the gallery by room and material so visitors can find something like their own space. Add a short caption describing the product type and the room. Always ask customers for permission before publishing photos of their home, and avoid showing house numbers or personal items. Our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains how to keep a large gallery fast on mobile.</p>
+
+<h2>Explaining products and fitting clearly</h2>
+<p>Product pages are where you can stand out from businesses that simply list brands. For each main material, explain where it works well, where it does not, how it feels underfoot, how it is cleaned, and what preparation the subfloor might need. Be honest about trade-offs. Someone choosing between laminate and luxury vinyl tile for a kitchen will trust a business that explains moisture resistance and comfort plainly.</p>
+<p>A "how it works" page is just as important. Describe what happens at a home measure, how quickly a quote follows, what the fitting day looks like, whether furniture is moved, whether doors may need trimming, and how old flooring is handled. This answers questions that otherwise fill your phone line, and it builds confidence before anyone books. Our article on <a href="/blog/service-page-design/">service page design</a> covers how to structure pages like this.</p>
+
+<h2>Booking measures and showroom visits</h2>
+<p>Most flooring businesses should make booking a home measure the main call to action. A short form asking for postcode, rooms, approximate size, preferred material and preferred dates is usually enough. If you have a showroom, show opening hours, parking and a map prominently, and consider an option to book a showroom appointment for a quieter, unrushed visit.</p>
+<p>If you use a booking tool or calendar, it can often be embedded on the site. Our guide to <a href="/blog/website-online-booking-systems/">website online booking systems</a> explains the options, and our article on <a href="/blog/website-contact-forms/">website contact forms</a> covers how to keep forms short enough that people complete them.</p>
+
+<h2>Should a flooring website sell online?</h2>
+<p>Many flooring firms do not need full online sales. Fitted flooring depends on a measure, and most customers want advice. However, some businesses do sell online successfully, for example rug ranges, accessories, underlay, remnants or click-together flooring for confident DIY buyers. If you want to sell online, an ecommerce build is a bigger project with product data, delivery rules and returns to plan. A typical small business website costs £1,000 to £2,000; an ecommerce site typically sits in the £1,500 to £3,500 range, as shown on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Local SEO for flooring businesses</h2>
+<p>Customers usually search with a place in mind: "carpet fitters in [town]", "flooring shop near me", "LVT fitting [area]". To appear for these searches you need:</p>
+<ol>
+<li>A complete Google Business Profile with the right categories, real photos and regular updates.</li>
+<li>Pages for each main product type that mention your area naturally.</li>
+<li>An areas served page, or individual area pages with genuinely useful local detail where you have enough to say.</li>
+<li>Consistent business name, address and phone number across directories.</li>
+<li>A steady flow of reviews, with thoughtful replies.</li>
+</ol>
+<p>Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> covers these steps, and our <a href="/services/seo-geo/">SEO and GEO service</a> page explains how we can help on an ongoing basis. Search improvements typically take three to six months to show clearly.</p>
+
+<h2>Trust signals that matter in flooring</h2>
+<p>Homeowners are inviting fitters into their home, so trust matters. Show your business address, showroom photos, how long fitting typically takes, what guarantees apply (stating only those you genuinely offer, and manufacturer warranties accurately), and real reviews. If you are a member of a trade association, show it only if the membership is current. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> explains what visitors look for.</p>
+
+<h2>Commercial flooring contractors</h2>
+<p>If you fit flooring for offices, schools, retail units or healthcare settings, you need a slightly different approach. Commercial buyers look for capability, project experience described in general terms, sector understanding, product specifications and how you handle access, scheduling and out-of-hours work. A separate commercial section with its own pages and a project enquiry form keeps this audience apart from homeowners.</p>
+
+<h2>Choosing a web designer for a flooring business</h2>
+<p>Look for a designer who will plan pages around how your customers actually buy, help you organise your photos, and set the site up properly for local search. Ask who owns the website and domain, what happens after launch, and how changes are handled. Our guide on <a href="/blog/how-to-choose-a-web-designer-uk/">how to choose a web designer in the UK</a> lists the questions to ask. A typical website project with us takes three to five weeks, as set out on our <a href="/services/website-ecommerce-development/">website development service</a> page.</p>
+
+<h2>FAQs</h2>
+<h3>What should flooring company website design in the UK include?</h3>
+<p>Clear product and room pages, a gallery of real fitted floors, a simple explanation of measuring, quoting and fitting, the areas you cover, and an easy way to book a home measure or showroom visit.</p>
+<h3>Should a carpet shop show prices on its website?</h3>
+<p>Many show guide prices per square metre for popular ranges and explain what affects the final quote, such as underlay, stairs and preparation. Others prefer quotes only. Either way, explain clearly how pricing works.</p>
+<h3>Do flooring fitters need a website if they get work from referrals?</h3>
+<p>Referred customers usually look you up before calling. A clear website with real photos and reviews reassures them and makes it more likely they book rather than compare elsewhere.</p>
+<h3>Can a flooring website sell products online?</h3>
+<p>Yes, for suitable items such as rugs, accessories, remnants or click-together flooring. Fitted flooring is usually better handled through a measure and quote, so many businesses combine both.</p>
+<h3>How long does it take to build a flooring company website?</h3>
+<p>A typical small business website takes three to five weeks. An ecommerce build usually takes five to twelve weeks, depending on the number of products and integrations.</p>
+<h3>How do flooring companies get found on Google locally?</h3>
+<p>Through a complete Google Business Profile, product pages that mention your area, an areas served page, consistent business details across directories and regular reviews. Results usually build over three to six months.</p>
+`,
+  },
+  {
+    slug: 'google-ads-conversion-tracking-setup',
+    seoTitle: 'How to Set Up Google Ads Conversion Tracking (UK)',
+    title: 'How to Set Up Google Ads Conversion Tracking for a Small Business',
+    description: 'Google Ads conversion tracking shows which clicks become enquiries or sales. Learn what to track, how to set it up and how to test it before spending more.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>To set up Google Ads conversion tracking, decide which actions count as a conversion (such as an enquiry form, a phone call or a purchase), create those conversion actions in Google Ads, install the tag on your website or import goals from GA4, and then test that each one records correctly. Without it, you are paying for clicks with no reliable way to tell which keywords and ads bring in business.</p>
+<p>This guide is for UK small business owners who run, or plan to run, their own Google Ads. It covers the decisions to make first, the main set-up options, consent rules and testing. Google changes the Ads interface and tagging options regularly, so check the current Google Ads help pages for exact steps.</p>
+
+<h2>Why conversion tracking matters</h2>
+<p>Clicks and impressions only tell you that people saw and clicked your ads. Conversion tracking tells you what happened next. It lets you see cost per enquiry or sale, compare keywords and campaigns fairly, and switch on automated bidding strategies that need conversion data to work well.</p>
+<p>It is also the first thing we check in any <a href="/blog/ppc-audit-checklist/">PPC audit</a>. An account with missing or double-counted conversions can look healthy while wasting money, or look poor while actually doing well.</p>
+
+<h2>Decide what to track first</h2>
+<p>Before opening any settings, write down the actions that genuinely matter to your business. A simple way to think about it:</p>
+<table>
+<thead><tr><th>Business type</th><th>Main conversion</th><th>Useful secondary actions</th></tr></thead>
+<tbody>
+<tr><td>Local service, such as a trades business</td><td>Phone calls and enquiry forms</td><td>Clicks on email links, quote calculator use</td></tr>
+<tr><td>Online shop</td><td>Purchases with order value</td><td>Add to basket, begin checkout</td></tr>
+<tr><td>Clinic or salon</td><td>Completed bookings</td><td>Booking page visits, calls</td></tr>
+<tr><td>B2B services</td><td>Qualified enquiry forms</td><td>Brochure downloads, meeting bookings</td></tr>
+</tbody>
+</table>
+<p>Keep main, or primary, conversions to the actions that really represent business. Secondary actions are useful for insight but should usually not drive bidding, because Google will optimise for whatever you tell it matters most.</p>
+
+<h2>How to set up Google Ads conversion tracking</h2>
+<p>There are three common routes. Pick one main method per action to avoid counting conversions twice.</p>
+<h3>Option one: the Google tag directly</h3>
+<ol>
+<li>In Google Ads, go to the conversions area and create a new conversion action for your website.</li>
+<li>Choose the category, such as purchase, submit lead form or contact.</li>
+<li>Set the value, counting method and attribution options. For leads, counting one per click is common; for purchases, every conversion is usually right.</li>
+<li>Install the Google tag on every page, then add the event snippet or set up the event on the page or action that marks success, such as a thank-you page.</li>
+</ol>
+<h3>Option two: Google Tag Manager</h3>
+<p>Tag Manager lets you manage tags without editing site code each time. You add the Tag Manager container once, then create a Google Ads conversion tag with the ID and label from your conversion action, and a trigger such as a thank-you page view or form submission. This is often the tidiest option for sites with several tags.</p>
+<h3>Option three: import from GA4</h3>
+<p>If GA4 is already set up well, you can link it to Google Ads and import key events as conversions. This is convenient, but the data depends on GA4 being configured properly. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> covers that side.</p>
+
+<h2>Tracking phone calls</h2>
+<p>For many UK service businesses, the phone is the main source of leads. Google Ads generally offers ways to track calls from call assets on your ads and calls from your website using forwarding numbers, as well as clicks on a phone number on mobile. Availability and set-up vary, so check the current help pages. Set a minimum call length so very short calls do not count, and make sure your number is clearly visible, as covered in our guide to <a href="/blog/website-call-to-action-buttons/">website call to action buttons</a>.</p>
+
+<h2>Ecommerce tracking</h2>
+<p>For online shops, track purchases with the actual order value and currency so you can see return on ad spend. Shopify and WooCommerce both offer ways to connect to Google, either through official apps, built-in integrations or plugins, and these often handle purchase tracking for you. Check that you are not also adding a manual tag on top, which can double count. Our <a href="/blog/google-merchant-center-setup-uk/">Google Merchant Center setup guide</a> and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> cover the product feed side.</p>
+
+<h2>Cookie consent and UK rules</h2>
+<p>Under PECR and UK GDPR, non-essential cookies such as advertising tags generally need consent. In practice that means:</p>
+<ul>
+<li>Use a cookie banner that lets visitors accept or reject advertising cookies, as explained in our <a href="/blog/cookie-banner-design-uk/">cookie banner design guide</a>.</li>
+<li>Make sure tags respect the choice. Google offers Consent Mode, which adjusts how tags behave based on consent; check the current documentation for what it does.</li>
+<li>Expect some gaps in reported conversions where people decline cookies. That is normal and better than ignoring the rules.</li>
+</ul>
+<p>Check the ICO guidance on cookies for the current position, and update your privacy policy to mention advertising tags.</p>
+
+<h2>Testing your set-up</h2>
+<p>Never assume tracking works because the settings look right. Test each conversion action:</p>
+<ol>
+<li>Use Google's tag diagnostics or Tag Assistant to confirm the tag fires on the right page.</li>
+<li>Complete a test form submission or purchase yourself and note the time.</li>
+<li>Check the conversion action status in Google Ads over the following day or so; reporting is not always instant.</li>
+<li>Confirm a form only counts once, even if someone refreshes the thank-you page.</li>
+<li>Check the order value for purchases matches the real order, including whether VAT and shipping are included in the way you intend.</li>
+</ol>
+
+<h2>Reading the data once it flows</h2>
+<p>Once conversions are recording, give the account time before making big decisions. A handful of conversions in the first week is not enough to judge a keyword. Look at trends over several weeks, and compare campaigns on cost per conversion rather than cost per click alone. A keyword with expensive clicks can still be the cheapest source of enquiries if those clicks convert well.</p>
+<p>Add the conversions column to your keyword, ad and search terms views so you can see which searches lead to business. Combine this with your negative keyword work: searches that spend steadily and never convert are good candidates to block or move into their own ad group for closer watching.</p>
+<p>Keep a simple change log too. Note the date you added or changed tracking, switched bidding strategy or relaunched a landing page. When numbers move, the log helps you tell a real change in demand from a tracking change. If you later switch to automated bidding, such as maximising conversions, the quality of this data becomes even more important, because Google learns from exactly what you tell it is valuable.</p>
+<p>Finally, compare what Google Ads reports with what you see in your own records, such as your enquiries inbox or order system. The figures will rarely match perfectly because of consent, attribution and timing, but large gaps are a sign something needs checking.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li><strong>Tracking page views as conversions</strong>, such as the contact page loading, rather than a completed form.</li>
+<li><strong>Double counting</strong> by tracking the same action through both a direct tag and a GA4 import.</li>
+<li><strong>Too many primary conversions</strong>, which confuses automated bidding.</li>
+<li><strong>Forgetting tracking after a redesign</strong>, when thank-you page addresses change. See our guide to <a href="/blog/website-staging-and-testing/">website staging and testing</a>.</li>
+<li><strong>Ignoring offline outcomes.</strong> If many enquiries do not become customers, consider whether importing offline conversions makes sense later.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Conversion tracking is technical, but it is the foundation everything else rests on. If you would like it checked or set up properly, it is part of our <a href="/services/paid-media/">paid media service</a>, and our <a href="/pricing/">pricing page</a> shows the monthly retainers. Ad spend is paid separately to Google. If you are new to the platform, our <a href="/blog/google-ads-for-small-business-uk/">Google Ads guide for small businesses</a> is a good starting point.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up Google Ads conversion tracking?</h3>
+<p>Create a conversion action in Google Ads for each important action, then install the Google tag and event, use Google Tag Manager, or import key events from GA4. Test each one before relying on the data. Check Google's current help pages for exact steps.</p>
+<h3>What counts as a conversion?</h3>
+<p>Any action that is valuable to your business, such as a purchase, enquiry form, booking or qualifying phone call. Focus on actions that represent real business rather than page views.</p>
+<h3>Should I use GA4 or the Google Ads tag?</h3>
+<p>Either can work. The native Google Ads tag is often more direct for bidding, while GA4 imports are convenient if GA4 is already well set up. Avoid tracking the same action both ways.</p>
+<h3>Why are my conversions not showing?</h3>
+<p>Common causes include a tag not firing, a changed thank-you page address, consent settings blocking tags, or simply reporting delay. Test with Tag Assistant and check the conversion status in your account.</p>
+<h3>Do I need cookie consent for conversion tracking in the UK?</h3>
+<p>Advertising cookies are generally non-essential, so consent is usually needed under PECR. Check the ICO guidance and use a banner that lets visitors accept or reject them.</p>
+<h3>Can I track phone calls from Google Ads?</h3>
+<p>Yes, Google Ads generally offers call tracking from ads, from your website and from mobile number clicks. Options vary, so check the current help pages.</p>
+`,
+  },
+  {
+    slug: 'google-ads-negative-keywords-guide',
+    seoTitle: 'How to Add Negative Keywords in Google Ads (UK Guide)',
+    title: 'How to Add Negative Keywords in Google Ads: A Practical UK Guide',
+    description: 'Negative keywords stop your Google Ads showing for irrelevant searches. Learn how to find, add and organise them so a small UK budget goes further.',
+    date: '2026-11-08',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>To add negative keywords in Google Ads, open the search terms report, spot queries that are not relevant to your business, and add them as negatives at the campaign, ad group or shared list level. This stops your ads appearing for those searches, so less of your budget goes on clicks that were never going to become customers.</p>
+<p>For a UK small business with a modest daily budget, this is one of the most useful habits you can build. This guide explains what negative keywords are, the match types, where to add them and how to build a starter list. Google updates the Ads interface regularly, so check the current Google Ads help pages for exact menu names and any recent changes to how negatives behave.</p>
+
+<h2>What negative keywords do</h2>
+<p>Your normal keywords tell Google which searches you want to appear for. Negative keywords do the opposite. If you sell new kitchen worktops and someone searches for kitchen worktop jobs, kitchen worktop repair or free kitchen design software, you probably do not want to pay for that click.</p>
+<p>Because broad and phrase match keywords can match a wide range of related searches, negatives act as the guard rails. Without them, campaigns tend to drift into loosely related queries. With a sensible list, your budget concentrates on people who are closer to buying. Our <a href="/blog/google-ads-for-small-business-uk/">Google Ads guide for small businesses</a> covers the wider set-up if you are starting from scratch.</p>
+
+<h2>Negative keyword match types</h2>
+<p>Negative keywords use match types too, but they behave differently from normal keywords. In particular, negatives generally do not expand to cover close variants such as plurals or misspellings, so you may need to add those separately. Check the current help page to confirm.</p>
+<table>
+<thead><tr><th>Negative match type</th><th>How it is written</th><th>What it blocks</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>Negative broad</td><td>jobs</td><td>Searches that contain all the words, in any order</td><td>Blocks plumber jobs leeds</td></tr>
+<tr><td>Negative phrase</td><td>"second hand"</td><td>Searches containing the words in that exact order</td><td>Blocks second hand sofas, not hand made second sofa</td></tr>
+<tr><td>Negative exact</td><td>[cheap sofas]</td><td>Only that exact search, with no extra words</td><td>Blocks cheap sofas, not cheap sofas uk</td></tr>
+</tbody>
+</table>
+<p>For most small businesses, single-word negative broad terms such as jobs, salary, course, free and diy do most of the heavy lifting. Use phrase and exact negatives when you need to be more careful, for example when a word is irrelevant in one context but valuable in another.</p>
+
+<h2>How to add negative keywords in Google Ads</h2>
+<p>The exact clicks change over time, but the process usually looks like this:</p>
+<ol>
+<li><strong>Open the search terms report</strong> for a campaign. This shows the actual searches that triggered your ads.</li>
+<li><strong>Sort by cost or clicks</strong> so you deal with the most expensive irrelevant searches first.</li>
+<li><strong>Tick the irrelevant terms</strong> and choose the option to add them as negative keywords.</li>
+<li><strong>Choose the level</strong>: the ad group, the campaign, or a shared negative keyword list.</li>
+<li><strong>Edit the term before saving</strong> if needed. Often you want to block one word, such as jobs, rather than the full search.</li>
+<li><strong>Save and note the date</strong>, so you can check later whether the change helped.</li>
+</ol>
+<p>You can also add negatives directly through the keywords area of a campaign without using the report, which is useful when building a starter list before launch.</p>
+
+<h2>Choosing the right level</h2>
+<p>Where you add a negative matters as much as what you add.</p>
+<ul>
+<li><strong>Ad group level:</strong> use when a term is irrelevant to one group but fine for another in the same campaign.</li>
+<li><strong>Campaign level:</strong> use when a term never fits that campaign.</li>
+<li><strong>Shared lists:</strong> use for terms that never fit your business at all, such as jobs or careers, and apply the list to every relevant campaign.</li>
+<li><strong>Account level:</strong> Google has offered account-level negatives for some campaign types. Check the help pages for what is currently supported.</li>
+</ul>
+<p>Shared lists save a lot of time. Create a few themed lists, such as employment terms, free and DIY terms, and wrong locations, and apply them as campaigns are added.</p>
+
+<h2>Building a starter negative list</h2>
+<p>Before launching a new campaign, brainstorm searches that share your words but not your intent. Common themes for UK service and retail businesses include:</p>
+<table>
+<thead><tr><th>Theme</th><th>Example negatives</th><th>Why block them</th></tr></thead>
+<tbody>
+<tr><td>Employment</td><td>jobs, careers, salary, apprenticeship, vacancies</td><td>People looking for work, not to buy</td></tr>
+<tr><td>Learning</td><td>course, training, how to, tutorial, qualification</td><td>Researchers and students</td></tr>
+<tr><td>Free and DIY</td><td>free, diy, template, homemade</td><td>Low intent to pay</td></tr>
+<tr><td>Second hand</td><td>used, second hand, ebay, gumtree</td><td>Wrong product type for many sellers</td></tr>
+<tr><td>Wrong location</td><td>towns you do not serve</td><td>Outside your service area</td></tr>
+<tr><td>Competitor brands</td><td>names you do not want to bid on</td><td>Optional, depends on your strategy</td></tr>
+</tbody>
+</table>
+<p>Be careful not to over-block. If you offer training or a used range, those words are valuable. The keyword research steps in our <a href="/blog/keyword-research-guide-uk/">UK keyword research guide</a> help you separate useful terms from noise.</p>
+
+<h2>Negatives in Performance Max and Shopping</h2>
+<p>Campaign types that use automation, such as Performance Max, handle negative keywords differently from standard Search campaigns, and the options have changed over time. Some controls may be available at account level or through brand exclusions. Check the current help pages before relying on any one method. Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> explain how those campaigns work more generally.</p>
+<p>For Shopping, negatives are particularly useful for stopping generic or wrong-product searches, such as blocking repair or parts if you only sell complete items.</p>
+
+<h2>A simple review routine</h2>
+<p>Negative keywords are never finished. New searches appear constantly, especially with broad match. A routine that suits most small accounts:</p>
+<ol>
+<li><strong>Weekly in the first month</strong> of a new campaign, review the search terms report and add negatives.</li>
+<li><strong>Fortnightly or monthly</strong> once things settle down.</li>
+<li><strong>Quarterly</strong>, review your negative lists for anything blocking searches you now want, for example after adding a new service.</li>
+</ol>
+<p>Keep a simple log of what you added and why. It helps if someone else takes over the account later, and it is one of the first things we look at in a <a href="/blog/ppc-audit-checklist/">PPC audit</a>.</p>
+
+<h2>Reading the search terms report well</h2>
+<p>The search terms report can be long, so focus your time. Sort by cost first, then look for patterns rather than single odd searches. If you see several queries containing the word repair and you only sell new items, add repair as one broad negative rather than blocking each search separately.</p>
+<p>Also check searches that look relevant but never convert over a reasonable period. They might not need blocking, but they could point to a landing page that does not answer the question, or an ad that promises something different. That is where conversion tracking becomes essential, because without it you are judging relevance by guesswork alone.</p>
+<p>Google may hide some lower-volume search terms for privacy reasons, so the report will not show every query. Work with the data you have and do not worry about the gaps.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li><strong>Blocking your own keywords</strong> by adding a negative that overlaps a term you are bidding on. Google may flag conflicts; check for these.</li>
+<li><strong>Adding full long searches</strong> as exact negatives, which only blocks that one rare query.</li>
+<li><strong>Forgetting plurals and variants</strong>, since negatives may not expand to close variants.</li>
+<li><strong>Using negatives instead of fixing structure</strong>, when a campaign really needs tighter ad groups or better landing pages.</li>
+<li><strong>Never looking at the report</strong>, which is the most common problem of all.</li>
+</ul>
+
+<h2>When to bring in help</h2>
+<p>A tidy negative list is a sign of a well-run account, but it is only one part. Bidding, ad copy, landing pages and conversion tracking all matter. If you would rather not spend your evenings in the search terms report, our <a href="/services/paid-media/">paid media service</a> covers ongoing management, and our <a href="/pricing/">pricing page</a> lists the retainers. Ad spend is paid separately to Google. For a sense of overall costs, see our guide to <a href="/blog/google-ads-cost-uk/">Google Ads costs in the UK</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I add negative keywords in Google Ads?</h3>
+<p>Open the search terms report for a campaign, select irrelevant searches and choose the option to add them as negatives, picking the ad group, campaign or a shared list. You can also add them directly in the keywords area. Check the current help pages for exact menu names.</p>
+<h3>How many negative keywords should I have?</h3>
+<p>There is no ideal number. A new account might start with a few dozen common terms and grow the list over time from real search data. Relevance matters more than volume.</p>
+<h3>Do negative keywords block plurals and misspellings?</h3>
+<p>Generally, negatives do not automatically cover close variants in the way normal keywords can, so add important plurals and common misspellings separately. Confirm the current behaviour in Google's help pages.</p>
+<h3>What is a negative keyword list?</h3>
+<p>It is a shared set of negatives you can apply to several campaigns at once. It saves time and keeps blocking consistent across your account.</p>
+<h3>Can negative keywords hurt my campaign?</h3>
+<p>Yes, if you block terms that bring in good customers. Review lists regularly and check for conflicts with the keywords you are bidding on.</p>
+<h3>How often should I check search terms?</h3>
+<p>Weekly for new campaigns, then fortnightly or monthly once results settle. Higher-spend accounts usually need more frequent checks.</p>
+`,
+  },
+  {
+    slug: 'google-business-profile-posts-guide',
+    seoTitle: 'Google Business Profile Posts: How to Use Them (UK)',
+    title: 'Google Business Profile Posts: How UK Small Businesses Can Use Them',
+    description: 'Google Business Profile posts let you share updates, offers and events on Search and Maps. Here is how to write them, what to post and how often in the UK.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Google Business Profile posts are short updates, offers or event notices that you publish from your profile and that can appear on your listing in Google Search and Maps. They are a simple, free way to show customers what is new, highlight a service or promote an offer, right where people are already comparing local businesses.</p>
+<p>This guide explains the types of post, how to write one that gets noticed, what to post about and how to fit it into a small business week. Google changes post types and features from time to time, so check the current Google Business Profile help pages for what is available on your profile.</p>
+
+<h2>What Google Business Profile posts are</h2>
+<p>Posts sit within your Business Profile, alongside your hours, reviews, photos and contact details. A post usually combines a short piece of text, an image or video and an optional button, such as Learn more, Book or Call. Depending on how Google displays your profile, posts may show in an updates section or tab.</p>
+<p>They are not a replacement for a website or for the core profile work of choosing the right categories, writing a good description and collecting reviews. Our <a href="/blog/google-business-profile-uk/">Google Business Profile optimisation guide</a> covers that foundation. Posts are the regular top-up that keeps the profile looking alive.</p>
+
+<h2>Types of post</h2>
+<table>
+<thead><tr><th>Post type</th><th>What it is for</th><th>Example for a UK small business</th></tr></thead>
+<tbody>
+<tr><td>Update</td><td>General news, tips or highlights</td><td>A photo of a finished garden project with a short note on the plants used</td></tr>
+<tr><td>Offer</td><td>A promotion with dates and optional terms</td><td>Ten per cent off winter boiler services booked before the end of the month</td></tr>
+<tr><td>Event</td><td>Something happening on specific dates</td><td>A late-night Christmas shopping evening in your shop</td></tr>
+</tbody>
+</table>
+<p>Some business types, such as restaurants and hotels, may see slightly different options. Check what your own profile shows.</p>
+
+<h2>How to create a post</h2>
+<ol>
+<li><strong>Sign in</strong> with an account that manages the profile and open it from Google Search, Maps or the profile manager.</li>
+<li><strong>Choose the option to add an update</strong>, offer or event.</li>
+<li><strong>Add a photo or video.</strong> Use a real, well-lit image of your work, products or premises rather than generic stock.</li>
+<li><strong>Write the text.</strong> Keep the important point in the first sentence, as longer text may be cut off in previews.</li>
+<li><strong>Add a button</strong> and link it to the most relevant page on your website.</li>
+<li><strong>Preview and publish.</strong> Posts may be reviewed before they appear, and some can be rejected if they break content policies.</li>
+</ol>
+
+<h2>Writing posts that get noticed</h2>
+<p>A good post reads like a helpful note from a local business, not an advert from a national chain. Some practical tips:</p>
+<ul>
+<li><strong>Lead with the useful bit.</strong> Opening times, the offer, the date or the result should come first.</li>
+<li><strong>Be specific and local.</strong> Mention the area or type of job in natural language where it helps the reader.</li>
+<li><strong>One message per post.</strong> Do not cram three offers into one update.</li>
+<li><strong>Use a clear button</strong> that matches the action, such as Book for appointments and Call for urgent services.</li>
+<li><strong>Avoid phone numbers in the text.</strong> Google's content rules have restricted this, and your number already appears on the profile.</li>
+<li><strong>Keep claims honest.</strong> Offers must be real, with clear dates, and must follow advertising rules such as the CAP Code.</li>
+</ul>
+<p>Our <a href="/blog/tone-of-voice-guide-uk/">tone of voice guide</a> can help you sound consistent across posts, your website and replies to reviews.</p>
+
+<h2>What to post about</h2>
+<p>Running out of ideas is the main reason posting stops. Keep a list you can dip into:</p>
+<ul>
+<li>Recent jobs or projects, with permission from the customer and no private details.</li>
+<li>New products, services or seasonal ranges.</li>
+<li>Changes to opening hours, especially around bank holidays and Christmas.</li>
+<li>Answers to questions customers often ask, linking to a fuller page on your site.</li>
+<li>Behind-the-scenes photos of your premises or process, without naming individual staff if they prefer.</li>
+<li>Local events you are attending or hosting.</li>
+<li>Genuine offers with clear dates and terms.</li>
+</ul>
+<p>Your website is the natural home for the fuller version. A post about a recent bathroom fit can link to your bathroom service page; a post about a seasonal range can link to the collection. If your service pages are thin, our guide to <a href="/blog/service-page-design/">service page design</a> explains what they should include.</p>
+
+<h2>How often to post</h2>
+<p>There is no official ideal frequency. For most small businesses, a sustainable rhythm is more valuable than a burst of activity. A realistic routine might be:</p>
+<table>
+<thead><tr><th>Business situation</th><th>Suggested rhythm</th><th>Focus</th></tr></thead>
+<tbody>
+<tr><td>Owner-run, very busy</td><td>Every two weeks</td><td>Recent work and hours changes</td></tr>
+<tr><td>Small team with some marketing time</td><td>Weekly</td><td>Mix of updates, tips and offers</td></tr>
+<tr><td>Seasonal business</td><td>More often in peak months</td><td>Events, offers and availability</td></tr>
+</tbody>
+</table>
+<p>Batch the work. Take photos as you go, then spend half an hour once a fortnight writing and scheduling. Some third-party tools can schedule posts; check that any tool you use is reputable and that you keep control of your profile.</p>
+
+<h2>Do posts help local SEO?</h2>
+<p>Google has not said that posts directly improve rankings, and it would be unwise to promise they do. What posts can do is make your profile more useful and more complete, give people a reason to click through to your website, and show that the business is active. Those things support the wider local picture described in our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+<p>To see whether posts drive visits, add UTM parameters to the button links so the traffic is labelled in analytics. Our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> explains how to read that data.</p>
+
+<h2>A simple post template</h2>
+<p>If a blank box puts you off, use a repeatable structure. Most good posts fit this pattern:</p>
+<ol>
+<li><strong>Headline sentence:</strong> the news, offer or result in plain words.</li>
+<li><strong>One or two supporting sentences:</strong> who it is for, when it applies and any useful detail.</li>
+<li><strong>A clear next step:</strong> the button, linked to the right page.</li>
+</ol>
+<p>For example, a dog groomer might write that weekend slots are now available for the next month, explain that the new slots suit owners who work weekdays, and add a Book button linked to the booking page. A garden centre might announce that Christmas trees have arrived, mention sizes and delivery to nearby villages, and link to the relevant collection.</p>
+<p>Keep a shared folder of good photos and a note of past posts. Looking back at what you posted a year ago is an easy way to plan seasonal updates, and it stops you repeating the same message too often. If you also post on social media, many updates can be adapted rather than written from scratch, though keep each version suited to where it appears.</p>
+<p>Before publishing, read the post on a phone. Most people will see it on a small screen, so the first line and the image need to do the work on their own.</p>
+
+<h2>Common mistakes</h2>
+<ul>
+<li><strong>Posting once and stopping</strong>, leaving an offer from last year visible.</li>
+<li><strong>Using the same stock photo</strong> on every post.</li>
+<li><strong>Keyword stuffing</strong> with lists of towns and services.</li>
+<li><strong>Linking every post to the homepage</strong> instead of the most relevant page.</li>
+<li><strong>Ignoring rejected posts.</strong> If a post does not appear, check the profile for a notice and review the content policy.</li>
+</ul>
+
+<h2>Getting help with your local presence</h2>
+<p>Many owners enjoy posting themselves, and it often works best that way because you know your customers. Where a studio can help is with the bigger local set-up: the profile itself, location and service pages, reviews and tracking. That sits within our <a href="/services/seo-geo/">SEO and GEO service</a>, and our <a href="/pricing/">pricing page</a> sets out the monthly retainers. If you run several sites, see our <a href="/blog/multi-location-seo-uk/">multi-location SEO guide</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What are Google Business Profile posts?</h3>
+<p>They are short updates, offers or events you publish from your Business Profile, usually with an image and a button. They can appear on your listing in Google Search and Maps.</p>
+<h3>How long do Google Business Profile posts last?</h3>
+<p>This has changed over time. Event and offer posts are tied to their dates, while updates may remain visible longer. Check the current help pages for how your profile shows older posts.</p>
+<h3>Can I schedule Google Business Profile posts?</h3>
+<p>Scheduling options inside Google have been limited, but some third-party social and listings tools offer it. Check the tool is reputable and that you keep ownership of the profile.</p>
+<h3>Why was my post rejected?</h3>
+<p>Posts can be rejected for breaking content policies, such as including phone numbers in the text, misleading claims or inappropriate images. Review the policy, edit the post and try again.</p>
+<h3>Do posts improve my Google Maps ranking?</h3>
+<p>Google has not confirmed a direct ranking effect. Posts make your profile more useful and active, which can support visits and enquiries, but the core profile, reviews and website matter more.</p>
+<h3>What size should a post image be?</h3>
+<p>Use a clear, good-quality landscape image and keep key details away from the edges, as crops vary by device. Check Google's help pages for current recommended sizes.</p>
+`,
+  },
+  {
+    slug: 'google-search-console-setup-uk',
+    seoTitle: 'How to Set Up Google Search Console for a UK Business',
+    title: 'How to Set Up Google Search Console for Your Business Website',
+    description: 'Set up Google Search Console by adding your site, verifying ownership and submitting a sitemap. A step by step guide for UK small business owners.',
+    date: '2026-11-08',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/'],
+    body: `
+<p>To set up Google Search Console, sign in with a Google account, add your website as a property, verify that you own it (usually through your domain's DNS settings), and submit your XML sitemap. Once verified, Search Console starts showing which searches bring people to your site, which pages Google has indexed and any problems it has found.</p>
+<p>It is free, it comes straight from Google and it is one of the first tools we check on any project. This guide walks a UK small business owner through the set-up and the reports worth checking. Google changes the interface from time to time, so check the current Search Console help pages for exact names and steps.</p>
+
+<h2>What Search Console is for</h2>
+<p>Search Console is different from Google Analytics. Analytics tells you what people do once they arrive on your website. Search Console tells you about your presence in Google Search itself: the queries you appear for, how often people click, which pages are indexed and whether Google has spotted technical problems.</p>
+<p>Used together, they give a much clearer picture. If you have not yet set up analytics, our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> and our guide to <a href="/blog/website-analytics-for-small-business/">website analytics for small businesses</a> are good companions to this one.</p>
+
+<h2>Domain property or URL prefix?</h2>
+<p>When you add a site, Search Console usually offers two property types.</p>
+<table>
+<thead><tr><th>Property type</th><th>What it covers</th><th>How you verify</th><th>Best for</th></tr></thead>
+<tbody>
+<tr><td>Domain</td><td>Every version of your domain: http, https, www, non-www and subdomains</td><td>A DNS TXT record at your domain registrar</td><td>Most businesses that can access their DNS</td></tr>
+<tr><td>URL prefix</td><td>Only addresses that start with the exact prefix you enter</td><td>Several options, such as an HTML file, meta tag or analytics</td><td>When you cannot edit DNS, or need a section of a site</td></tr>
+</tbody>
+</table>
+<p>We usually recommend a Domain property because it captures everything in one place. If your domain was registered by a previous web designer and you are not sure where it lives, sort that out first. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains why you should hold those logins yourself.</p>
+
+<h2>How to set up Google Search Console step by step</h2>
+<ol>
+<li><strong>Choose the Google account.</strong> Use a business account the company controls, not a personal one belonging to a single staff member or supplier.</li>
+<li><strong>Add a property.</strong> Enter your domain, for example yourbusiness.co.uk, without https or www for a Domain property.</li>
+<li><strong>Copy the TXT record</strong> that Search Console gives you.</li>
+<li><strong>Add the record at your DNS provider.</strong> This is often your domain registrar or your host. Look for DNS settings and create a new TXT record with the value provided.</li>
+<li><strong>Return and verify.</strong> DNS changes can take time to spread, so if verification fails at first, wait and try again later.</li>
+<li><strong>Submit your sitemap</strong> in the Sitemaps section. Many platforms create one automatically, often at an address such as /sitemap.xml. Check your platform's documentation.</li>
+<li><strong>Add other users</strong> who need access, with the lowest permission level that lets them do their job.</li>
+</ol>
+<p>If you use Shopify, WordPress, Wix or Squarespace, each has its own help pages on sitemaps and verification. Shopify, for example, generates a sitemap automatically, and many WordPress SEO plugins do the same. If you are still connecting your domain, our guide on <a href="/blog/shopify-connect-custom-domain/">connecting a custom domain to Shopify</a> or on <a href="/blog/business-domain-and-email-setup/">business domain and email set-up</a> may help.</p>
+
+<h2>The reports worth checking</h2>
+<p>Search Console has a lot of screens. For a small business, these are the ones that usually matter.</p>
+<h3>Performance</h3>
+<p>This shows clicks, impressions, average click-through rate and average position for your pages in Google Search. Filter by query to see what people typed, and by page to see which pages earn visits. Look for queries where you appear often but rarely get clicked; a better title or description can help. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to turn those queries into content ideas.</p>
+<h3>Pages (indexing)</h3>
+<p>This report shows which pages Google has indexed and which it has not, with reasons. Not every excluded page is a problem: redirects, duplicates and pages you have deliberately set to noindex will appear here. Focus on important pages that should be indexed but are not.</p>
+<h3>URL inspection</h3>
+<p>Paste in any address on your site to see whether it is indexed and when Google last crawled it. After publishing or fixing an important page, you can request indexing here, although that does not guarantee speed.</p>
+<h3>Experience and Core Web Vitals</h3>
+<p>These reports group pages by real-user speed and stability data where Google has enough of it. Smaller sites may see limited data. Our <a href="/blog/core-web-vitals-uk/">Core Web Vitals guide</a> explains what the metrics mean.</p>
+<h3>Security and manual actions</h3>
+<p>Rarely used but important. If Google detects hacked content or applies a manual penalty, you will see it here, and Search Console can email you alerts.</p>
+
+<h2>A simple monthly routine</h2>
+<table>
+<thead><tr><th>Task</th><th>Where</th><th>What to look for</th></tr></thead>
+<tbody>
+<tr><td>Check search performance</td><td>Performance</td><td>Changes in clicks and the top queries and pages</td></tr>
+<tr><td>Review indexing</td><td>Pages</td><td>Important pages not indexed</td></tr>
+<tr><td>Check sitemap status</td><td>Sitemaps</td><td>Errors or a sitemap Google cannot read</td></tr>
+<tr><td>Scan for alerts</td><td>Security and manual actions</td><td>Any issue listed at all</td></tr>
+<tr><td>Inspect new key pages</td><td>URL inspection</td><td>Indexed status after publishing</td></tr>
+</tbody>
+</table>
+<p>Fifteen minutes a month is usually enough for a small site. Note anything odd and compare against the same period last year to allow for seasonality.</p>
+
+<h2>Turning the data into actions</h2>
+<p>Search Console is only useful if it changes what you do. A few practical ways to act on it:</p>
+<ul>
+<li><strong>Improve titles and descriptions</strong> for pages with plenty of impressions but few clicks. Make them clearer and closer to how people actually search.</li>
+<li><strong>Strengthen pages ranking just off the first page.</strong> Adding helpful detail, answering related questions and linking to them from other pages can help.</li>
+<li><strong>Write new content</strong> for queries you appear for but have no dedicated page about.</li>
+<li><strong>Fix indexing problems</strong> on important pages, such as accidental noindex tags or pages blocked by robots rules.</li>
+<li><strong>Check after every change</strong> to your website, especially platform moves and redesigns.</li>
+</ul>
+<p>Export the Performance data occasionally and keep a copy, because Search Console only holds a limited window of history. That makes year-on-year comparisons much easier later. Check the help pages for how long data is currently kept.</p>
+
+<h2>Common set-up mistakes</h2>
+<ul>
+<li><strong>Verifying with a supplier's personal account</strong>, then losing access when you change agency.</li>
+<li><strong>Adding only the www or only the non-www version</strong> as a URL prefix property, then wondering why data looks thin.</li>
+<li><strong>Removing the verification record</strong> during a DNS tidy-up, which can cause you to lose verified status.</li>
+<li><strong>Ignoring the property after a redesign</strong>, when indexing problems are most likely. Our guide to <a href="/blog/website-redesign-without-losing-rankings/">redesigning without losing rankings</a> covers the checks to make.</li>
+<li><strong>Panicking over every excluded page</strong>, when many exclusions are normal.</li>
+</ul>
+
+<h2>Sharing access safely</h2>
+<p>Search Console lets you add users with different permission levels. Owners can manage users and settings; full and restricted users have fewer rights. Keep at least two owners within your business, give agencies and freelancers the level they need, and remove anyone who no longer works with you. Check the current help pages for the exact permission types.</p>
+
+<h2>Where a studio fits in</h2>
+<p>Setting up Search Console is something most owners can do in an afternoon. Interpreting it and acting on it is where outside help can earn its keep: fixing indexing issues, improving pages that sit just off page one and tracking progress over months. That is part of our <a href="/services/seo-geo/">SEO and GEO service</a>, and our <a href="/pricing/">pricing page</a> sets out the retainers. SEO results typically take three to six months to build.</p>
+
+<h2>FAQs</h2>
+<h3>How do I set up Google Search Console?</h3>
+<p>Sign in with a business Google account, add your site as a Domain property, add the TXT record Search Console gives you at your DNS provider, verify, then submit your sitemap. Check Google's current help pages for exact steps.</p>
+<h3>Is Google Search Console free?</h3>
+<p>Yes. Search Console is a free tool provided by Google for website owners.</p>
+<h3>How long does Search Console take to show data?</h3>
+<p>Verification can be quick once DNS updates, but performance data usually builds up over the following days. New sites may see very little until Google has crawled and indexed their pages.</p>
+<h3>Do I need Search Console if I have Google Analytics?</h3>
+<p>Yes, they do different jobs. Analytics covers behaviour on your site; Search Console covers how your site appears and performs in Google Search.</p>
+<h3>Where do I find my sitemap address?</h3>
+<p>Many platforms generate one automatically, often at /sitemap.xml or a similar address. Check your platform's help pages or your SEO plugin settings.</p>
+<h3>Should my web designer own my Search Console account?</h3>
+<p>No. Your business should own the property, and you can add your designer or agency as a user. That way you keep access if you change supplier.</p>
+`,
+  },
+  {
+    slug: 'how-to-respond-to-google-reviews-uk',
+    seoTitle: 'How to Respond to Google Reviews: A UK Small Business Guide',
+    title: 'How to Respond to Google Reviews as a UK Small Business',
+    description: 'Reply to every Google review promptly, personally and calmly. Here is how UK small businesses can answer good, bad and fake reviews without hurting trust.',
+    date: '2026-11-08',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/pricing/'],
+    body: `
+<p>To respond to Google reviews well, reply to every review within a few working days, thank the customer by referring to something specific they said, and keep complaints calm, short and moved to a private channel. Doing this consistently shows future customers that a real business is listening, which matters as much as the star rating itself.</p>
+<p>This guide walks UK small business owners through the practical side: where to reply, what to write for different kinds of review, how to handle fake or abusive ones, and how to build a routine that does not eat your week. Google changes its interface from time to time, so check the current Google Business Profile help pages for exact menu names before you start.</p>
+
+<h2>Why replying to reviews matters</h2>
+<p>Reviews sit right next to your name in Google Search and Maps. When someone compares three local businesses, they often read the reviews and the replies before they ever visit a website. A thoughtful reply tells them three things: you are still trading, you care about service, and you handle problems like an adult.</p>
+<p>Replies also feed into the wider picture of your local presence. Google has said that review activity is one of the signals it considers for local results, alongside relevance, distance and prominence. We cover the bigger picture in our <a href="/blog/local-seo-uk-guide/">local SEO guide for UK businesses</a>, but the short version is that an active, well-managed profile tends to do better than a neglected one.</p>
+
+<h2>Where to reply</h2>
+<p>You can usually reply from three places, as long as you are signed in with an account that manages the profile:</p>
+<ul>
+<li><strong>Google Search:</strong> search your business name while signed in and use the management panel that appears.</li>
+<li><strong>Google Maps app:</strong> open your business in the app and look for the reviews section under your managed profile.</li>
+<li><strong>Business Profile manager:</strong> businesses with several locations often manage reviews from the multi-location dashboard.</li>
+</ul>
+<p>If you have not yet claimed and verified your profile, do that first. Our <a href="/blog/google-business-profile-uk/">Google Business Profile optimisation guide</a> explains the set-up, categories and photos. Make sure more than one trusted person in the business has access, so replies do not stop when someone is on holiday.</p>
+
+<h2>How to respond to Google reviews: the basic formula</h2>
+<p>Most good replies follow the same simple pattern. Keep it to two to four sentences in most cases.</p>
+<ol>
+<li><strong>Thank them</strong>, using their first name if they have shown it publicly.</li>
+<li><strong>Mention something specific</strong> from their review so it does not read like a template.</li>
+<li><strong>Add one useful detail</strong>, such as a related service, a seasonal opening time or a fix you have made.</li>
+<li><strong>Sign off</strong> with the business name or a role, never a personal mobile number or private email.</li>
+</ol>
+<p>Avoid stuffing keywords such as your town and service into every reply. It reads badly to humans and there is no good reason to believe it helps. Write for the next customer reading, not for a search engine.</p>
+
+<h2>Reply templates by review type</h2>
+<p>Templates save time, but edit every one so it fits the review. The table below gives a starting point.</p>
+<table>
+<thead><tr><th>Review type</th><th>Aim of your reply</th><th>Example opening</th></tr></thead>
+<tbody>
+<tr><td>Five stars with detail</td><td>Thank and reinforce what they liked</td><td>Thanks for mentioning how quickly the team fitted the new boiler.</td></tr>
+<tr><td>Five stars, no text</td><td>Short, warm thanks</td><td>Thank you for the rating, we are glad you were happy with us.</td></tr>
+<tr><td>Mixed (three stars)</td><td>Acknowledge both sides, show a fix</td><td>Thanks for the honest feedback on the wait time.</td></tr>
+<tr><td>Negative but genuine</td><td>Apologise, take it offline</td><td>We are sorry your order arrived late, that is not the standard we aim for.</td></tr>
+<tr><td>Not a customer you recognise</td><td>Polite, factual, invite contact</td><td>We cannot find a booking under this name; please get in touch so we can look into it.</td></tr>
+<tr><td>Abusive or off-topic</td><td>Report first, reply briefly if at all</td><td>We have flagged this review and are happy to talk directly.</td></tr>
+</tbody>
+</table>
+
+<h2>Handling negative reviews</h2>
+<p>A negative review feels personal, especially in a small business. Wait until you are calm before replying, and ideally ask a colleague to read your draft. Then work through these steps:</p>
+<ul>
+<li><strong>Check the facts.</strong> Look up the job, order or booking so your reply is accurate.</li>
+<li><strong>Apologise for the experience</strong>, even if you disagree with parts of the account. You can be sorry someone felt let down without admitting every claim.</li>
+<li><strong>Do not reveal personal details.</strong> Under UK GDPR, mentioning someone's order contents, address or health details in public could cause real problems. Keep it general.</li>
+<li><strong>Offer a private route</strong>, such as your main phone line or a general enquiries email, so the conversation moves out of public view.</li>
+<li><strong>Explain any change</strong> you have made, if relevant, without blaming staff by name.</li>
+</ul>
+<p>If you later resolve the issue, some customers will update their review. You can politely ask, but do not pressure them or offer anything in return for changing it.</p>
+
+<h2>Fake, spam and policy-breaking reviews</h2>
+<p>Google has policies against fake engagement, conflicts of interest, offensive content and off-topic reviews. If a review breaks those rules, you can flag or report it through your profile, and Google usually offers a way to track the status of a report. Check the current review policy page for the categories that apply.</p>
+<p>Removal is not guaranteed. While you wait, a short, factual reply is often wise, because readers will see the review either way. Keep it neutral: say you cannot find a record of the customer and invite them to get in touch. Never post angry accusations.</p>
+<p>The CMA has taken a close interest in fake reviews and the Digital Markets, Competition and Consumers Act brought in rules aimed at fake and incentivised reviews. That cuts both ways: do not buy reviews, do not write them for yourself, and do not offer discounts only to people who leave positive ones. Check the CMA guidance for the current position.</p>
+
+<h2>Getting more reviews to reply to</h2>
+<p>A reply routine works best with a steady trickle of fresh reviews. Most businesses simply forget to ask. Practical ways to ask include:</p>
+<ul>
+<li>A short link or QR code on invoices, receipts and follow-up emails.</li>
+<li>A polite request at the end of a job, when the customer is happiest.</li>
+<li>A line in your order confirmation or delivery email, which our guide to <a href="/blog/ecommerce-transactional-emails/">ecommerce transactional emails</a> covers in more depth.</li>
+<li>A gentle prompt on your website, for example on a <a href="/blog/website-testimonials-page/">testimonials page</a> that links to your profile.</li>
+</ul>
+<p>Ask every customer, not just the ones you expect to be happy. Selectively asking only satisfied customers can fall foul of review rules and skews the picture anyway.</p>
+
+<h2>Building a weekly review routine</h2>
+<p>Reviews are easiest when they are a small, regular task rather than a pile you dread. A simple routine for a small business might look like this:</p>
+<ol>
+<li>Turn on review notifications for at least two people.</li>
+<li>Set a fixed slot, perhaps fifteen minutes on Monday and Thursday, to reply to anything new.</li>
+<li>Keep a shared document of approved phrases, sign-offs and a short escalation note for difficult reviews.</li>
+<li>Once a month, read all new reviews together and note recurring themes, such as parking, delivery times or communication.</li>
+<li>Feed those themes back into your website, for example by adding a clearer FAQ or updating your delivery page.</li>
+</ol>
+<p>That last step is where reviews start paying back beyond reputation. Recurring questions are a strong hint about content your website is missing. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> explains how to bring that reassurance onto your own pages too.</p>
+
+<h2>What not to do</h2>
+<ul>
+<li>Do not copy and paste the same reply on every review.</li>
+<li>Do not argue, use sarcasm or correct the customer's spelling.</li>
+<li>Do not mention competitors or speculate about who wrote a review.</li>
+<li>Do not include links, offers or sales pitches in replies to complaints.</li>
+<li>Do not leave negative reviews unanswered for weeks; silence reads as indifference.</li>
+</ul>
+
+<h2>When to get help</h2>
+<p>Many owners handle replies themselves, and that is often the most authentic option. Where outside help makes sense is in the surrounding work: setting up the profile properly, building a review request process, fixing location pages and tracking how local visibility changes over time. That sits within our <a href="/services/seo-geo/">SEO and GEO service</a>, and our <a href="/pricing/">pricing page</a> sets out the monthly retainers. If you run several branches, our <a href="/blog/multi-location-seo-uk/">multi-location SEO guide</a> covers how to keep reviews organised across them.</p>
+
+<h2>FAQs</h2>
+<h3>How do I respond to Google reviews?</h3>
+<p>Sign in with an account that manages your Business Profile, find the review in Search, Maps or the profile manager, and choose the reply option. Thank the customer, mention something specific, and keep complaints calm and short. Check Google's current help pages for exact menu names.</p>
+<h3>How quickly should I reply to a Google review?</h3>
+<p>Aim for within a few working days. Quick replies show you are active, but for negative reviews it is better to wait a few hours and reply calmly than to rush an emotional response.</p>
+<h3>Should I reply to reviews with no text?</h3>
+<p>Yes, a short thank-you is enough. It costs seconds and shows anyone browsing your profile that every customer is acknowledged.</p>
+<h3>Can I delete a bad Google review?</h3>
+<p>Business owners cannot simply delete reviews. You can report ones that break Google policy, such as spam, conflicts of interest or offensive content, and Google decides whether to remove them.</p>
+<h3>Can I offer a discount for a Google review?</h3>
+<p>No. Offering incentives for reviews goes against Google policy and UK rules on fake and incentivised reviews. Ask every customer politely instead, with no reward attached.</p>
+<h3>Can I edit my reply later?</h3>
+<p>In most cases you can edit or delete your own reply from the same place you posted it. This is useful if a complaint is resolved and you want to add a short update.</p>
+`,
+  },
+  {
+    slug: 'self-storage-marketing-uk',
+    seoTitle: 'Self Storage Marketing UK: Fill More Units Locally',
+    title: 'Self Storage Marketing in the UK: How to Fill More Units',
+    description: 'Self storage marketing in the UK works best when local search, a clear unit size guide and an easy online quote or booking sit at the centre of everything.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Self storage marketing in the UK is mostly a local search game: people look for storage near them when something in their life changes, and they choose the site that looks trustworthy, shows clear sizes and lets them reserve quickly. If your website, Google Business Profile and local ads answer those three needs better than the site down the road, you will fill more units.</p>
+<p>This guide is for independent and small multi-site self storage operators, container storage yards and business storage providers across the UK. It covers who your customers are, how they search, what your website must do, and where paid media and SEO fit. We are a UK studio that builds websites and runs search and paid campaigns, so we will be honest about what tends to work and what usually wastes budget.</p>
+
+<h2>Who actually looks for self storage</h2>
+<p>Storage demand is driven by moments rather than hobbies. Very few people wake up wanting a storage unit; they need one because something has happened. Understanding those moments shapes every page and every ad you write.</p>
+<ul>
+<li><strong>Home movers</strong> caught between completion dates, or downsizing into a smaller property.</li>
+<li><strong>Students</strong> needing somewhere for belongings over the summer between tenancies.</li>
+<li><strong>Renovators</strong> clearing rooms while a kitchen, loft or extension is built.</li>
+<li><strong>Families dealing with a bereavement</strong> who need time to sort a house before it is sold.</li>
+<li><strong>Small businesses</strong> such as online sellers, tradespeople and events companies storing stock, tools or equipment.</li>
+<li><strong>People moving abroad or working away</strong> for a fixed period.</li>
+</ul>
+<p>Each group searches differently and worries about different things. A home mover wants flexibility on dates. A business wants access hours, loading bays and perhaps a delivery acceptance service. A family clearing a relative's home needs patience and a calm, plain tone. Good storage marketing speaks to each of these in turn rather than repeating "secure, clean, affordable" on every page.</p>
+
+<h2>Self storage marketing UK: where your customers come from</h2>
+<p>For most operators, enquiries arrive through a small number of channels. The table below summarises where effort usually pays back for a typical UK storage site.</p>
+<table>
+<thead><tr><th>Channel</th><th>What it does well</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Map pack visibility for "storage near me" style searches, reviews, directions and calls</td><td>Incomplete categories, old photos, unanswered reviews</td></tr>
+<tr><td>Local SEO on your website</td><td>Ranking for town and area searches, unit size and business storage queries</td><td>Thin location pages copied from one template</td></tr>
+<tr><td>Google Ads (search)</td><td>Capturing urgent demand when a move date is close</td><td>Broad match terms that pull in removals, skips and national chains</td></tr>
+<tr><td>Meta ads</td><td>Reaching local movers, students and renovators with offers and reminders</td><td>Treating it as a direct sales channel rather than awareness and remarketing</td></tr>
+<tr><td>Partnerships</td><td>Referrals from estate agents, letting agents, removals firms and universities</td><td>No tracking, so you never know which partner sends work</td></tr>
+</tbody>
+</table>
+<p>Most of the opportunity sits in the first two rows. If you only fix one thing this quarter, make it your local presence. Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> explains the fundamentals, and our walkthrough on <a href="/blog/google-business-profile-uk/">Google Business Profile for UK businesses</a> covers categories, photos, products and review replies in detail.</p>
+
+<h2>What a self storage website must do</h2>
+<p>A storage website has one main job: turn a worried visitor into a reservation or a quote request. Everything else is support. In our experience, the sites that convert well share a few traits.</p>
+<h3>Make unit sizes easy to understand</h3>
+<p>Most people have no idea what 35 square feet looks like. A size guide that translates units into real life helps enormously: "roughly the contents of a one-bedroom flat", "about the size of a large garden shed", "fits a sofa, bed, boxes and white goods". Pair each size with a simple illustration or photo and a short list of what typically fits. This one page often does more for conversion than any amount of advertising.</p>
+<h3>Show prices or a fast way to get one</h3>
+<p>Storage buyers compare. If a competitor shows a weekly or monthly starting price and you show "call for a quote", many visitors will leave. You do not have to publish every rate, but a clear starting price per size or an instant quote form that responds quickly will keep people on your site. Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> explains ways to present prices without boxing yourself in on promotions.</p>
+<h3>Offer online reservation where you can</h3>
+<p>Many storage management systems offer an online booking or reservation widget. Where your system supports it, putting that on the website lets people secure a unit in the evening or at weekends, when much of the planning around a move happens. If your system does not support it, a short enquiry form with move-in date, size and contact details is the next best option. Our article on <a href="/blog/website-online-booking-systems/">website online booking systems</a> covers the trade-offs.</p>
+<h3>Answer the access and security questions up front</h3>
+<p>Visitors want to know opening hours, access hours, whether they need to bring their own padlock, whether there is CCTV, whether there are trolleys and a loading area, and whether vans can park close to the door. Put these near the top of the page and repeat them on every location page. Describe what is genuinely in place at each site rather than generic claims.</p>
+<h3>Build trust without overpromising</h3>
+<p>Real photos of the actual site, the entrance, the corridors and the units beat stock imagery every time. Show your address clearly, your company details, and your reviews if customers have left them. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has a fuller checklist.</p>
+
+<h2>Location pages for single and multi-site operators</h2>
+<p>If you run one site, your homepage and a well built location page will carry most of your local search work. Mention the town, the nearby areas you serve, the roads people use to reach you, and practical landmarks. Do not invent coverage you cannot serve conveniently; someone forty minutes away is unlikely to choose you.</p>
+<p>If you run several sites, each one needs its own page with unique content: different photos, its own opening and access hours, local directions, parking notes and the sizes available there. A single template with the town name swapped in rarely performs well and can look thin to search engines. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO in the UK</a> explains how to structure this so each branch can rank on its own.</p>
+
+<h2>Content that earns searches between moves</h2>
+<p>Beyond your core pages, a small amount of useful content can bring in people earlier in their planning. Topics that tend to suit storage operators include:</p>
+<ul>
+<li>How to pack a storage unit so you can reach what you need.</li>
+<li>What you cannot keep in self storage, explained in plain English.</li>
+<li>Storage options for students over the summer.</li>
+<li>Business storage for online sellers and tradespeople.</li>
+<li>Decluttering before a house sale or a move.</li>
+</ul>
+<p>Keep these practical and specific to your sites. The point is to answer real questions that customers already ask on the phone, not to publish for the sake of it. Good SEO planning covers this, so content supports enquiries rather than just traffic.</p>
+
+<h2>Paid media for storage operators</h2>
+<p>Paid search can work very well for storage because intent is strong: someone searching "storage units in [town]" usually needs one soon. The risk is waste. Storage keywords overlap with removals, skip hire, shipping containers for sale and national brand names, so careful keyword selection and negative keywords matter.</p>
+<p>Practical points we would usually recommend:</p>
+<ol>
+<li>Target a tight radius around each site rather than a whole county.</li>
+<li>Write ads that mention the town, sizes available and a clear next step such as reserving online.</li>
+<li>Send traffic to the relevant location page or a focused landing page, not the homepage.</li>
+<li>Track reservations, quote requests and calls as conversions, not just clicks.</li>
+<li>Review search terms weekly at first to block irrelevant queries.</li>
+</ol>
+<p>Social ads on Meta platforms can help with awareness among local movers, students and renovators, and with reminding people who visited your site but did not book. Our <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small business guide</a> explains campaign basics, and our <a href="/services/paid-media/">paid media service</a> page shows how we manage campaigns. Ad spend is always paid separately from any management fee.</p>
+
+<h2>Reviews, partnerships and repeat business</h2>
+<p>Storage customers often stay for months, which gives you time to earn a review. Ask at a natural moment, such as when someone extends their stay or moves out happily, and make it easy with a direct link. Reply to every review, including critical ones, calmly and factually.</p>
+<p>Local partnerships can bring a steady flow of enquiries. Estate agents, letting agents, removals firms, builders and universities all meet people who need storage. A simple partner page, a referral code or a dedicated landing page lets you see which partners actually send customers, so you can focus on the relationships that work.</p>
+
+<h2>Measuring what matters</h2>
+<p>Storage marketing should be judged on occupancy and enquiries, not vanity metrics. At minimum, track online reservations, quote form submissions, phone calls from the website and calls from your Google Business Profile. Group them by site if you have more than one. Over time this tells you which locations need more marketing support and which channels genuinely bring tenants.</p>
+<p>SEO improvements typically take three to six months to show clearly in rankings and enquiries. Paid search can bring enquiries much faster but stops as soon as the budget stops, so most operators benefit from both working together.</p>
+
+<h2>How we can help</h2>
+<p>We build websites for UK businesses with clear size guides, location pages, enquiry forms and booking widget integration where your system supports it. A small business website typically falls within £1,000 to £2,000 and takes three to five weeks. Ongoing SEO and paid media support is available on monthly retainers, set out on our <a href="/pricing/">pricing page</a>. If you are comparing providers, our guide on <a href="/blog/how-to-choose-a-web-designer-uk/">how to choose a web designer in the UK</a> lists the questions worth asking anyone, including us.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best way to approach self storage marketing in the UK?</h3>
+<p>Start with local search. Make sure your Google Business Profile is complete and active, build a strong page for each site, and make sizes, prices or quotes and reservations easy to find. Then add carefully targeted paid search to capture urgent demand.</p>
+<h3>Should a storage website show prices?</h3>
+<p>Usually yes, at least as a starting price per size or a fast instant quote. Storage buyers compare options quickly, and a site that hides all pricing often loses visitors to one that is more open.</p>
+<h3>Do storage operators need a separate page for each site?</h3>
+<p>Yes, if you have more than one location. Each page should have its own photos, hours, directions, parking notes and sizes, so it can rank for its own area and answer local questions properly.</p>
+<h3>Is Google Ads worth it for a self storage business?</h3>
+<p>It can be, because people searching for storage in a town often need it soon. It works best with a tight radius, strong negative keywords to filter out removals and container sales, and tracking that counts reservations and calls.</p>
+<h3>How long does SEO take for a storage business?</h3>
+<p>Typically three to six months before clear improvements in rankings and enquiries, depending on competition in your area and the state of your website and profile when you start.</p>
+<h3>Can you connect our storage software's booking widget to a new website?</h3>
+<p>Where your storage management system provides an embeddable widget or booking link, we can usually build it into the site. We will check what your system supports during the discovery stage before confirming the approach.</p>
+`,
+  },
+  {
+    slug: 'soft-play-centre-marketing-uk',
+    seoTitle: 'Soft Play Centre Marketing UK: Fill Sessions and Parties',
+    title: 'Soft Play Centre Marketing in the UK: Filling Sessions and Parties',
+    description: 'Soft play centre marketing in the UK works when parents can find you locally, see sessions and prices at a glance, and book play or parties online in minutes.',
+    date: '2026-11-08',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Soft play centre marketing in the UK is about making it effortless for local parents to find you, check what is on and book. Most decisions happen on a phone, often the same day, so session times, prices, age ranges and online booking need to be clear wherever a parent first meets your business.</p>
+<p>This guide is for independent soft play centres, indoor play barns, toddler play cafés and family activity centres across the UK. It covers how parents choose, what your website must include, how to market birthday parties, and where local SEO and paid media fit. We are a UK studio that builds websites and runs search and paid campaigns, and we have written this as practical guidance rather than a pitch.</p>
+
+<h2>How parents choose a soft play centre</h2>
+<p>Parents rarely spend long deciding. A rainy Saturday morning, a half-term day or a toddler who needs to burn off energy can lead to a quick search and a booking within minutes. The questions on their minds are simple:</p>
+<ul>
+<li>Is it open today, and when are the sessions?</li>
+<li>How much does it cost for my children, and do adults pay?</li>
+<li>Is it suitable for my child's age, and is there a separate baby or toddler area?</li>
+<li>Do I need to book, or can I just turn up?</li>
+<li>Is there food, parking, baby changing and step-free access?</li>
+<li>Is it clean and well supervised?</li>
+</ul>
+<p>Every one of these should be answered on your website and your Google Business Profile without the parent needing to call.</p>
+
+<h2>Soft play centre marketing UK: priority channels</h2>
+<p>The channels below are where most independent centres see their bookings come from. Your mix will depend on your location and how established you are.</p>
+<table>
+<thead><tr><th>Channel</th><th>Why it matters</th><th>Quick win</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>"Soft play near me" searches, opening hours, photos and reviews</td><td>Keep holiday hours updated and reply to every review</td></tr>
+<tr><td>Website</td><td>Session times, prices, booking and party information</td><td>Put a "Book a session" button at the top of every page</td></tr>
+<tr><td>Meta platforms</td><td>Reaching local parents with holiday plans, events and offers</td><td>Target a realistic radius and promote specific dates</td></tr>
+<tr><td>Local search ads</td><td>Capturing same-day and party searches</td><td>Focus on your town plus soft play and party terms</td></tr>
+<tr><td>Email and SMS</td><td>Repeat visits from families who have already been</td><td>Ask for consent at booking, then share holiday schedules</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers categories, photos and posts, and our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> explains how your website supports local rankings.</p>
+
+<h2>What your website must include</h2>
+<h3>Session times and prices on one clear page</h3>
+<p>Create a single page with term-time and school holiday sessions, prices for each age group, adult entry if relevant, and any off-peak or toddler-only sessions. Use a simple table that reads well on mobile. Our guide to <a href="/blog/website-tables-on-mobile/">website tables on mobile</a> explains how to keep them readable on small screens.</p>
+<h3>Online booking</h3>
+<p>Online booking with time slots helps parents plan, reduces queues and lets you manage capacity. Most leisure booking systems offer a widget or booking link that can be embedded on your site. Make the booking button prominent and keep the journey as short as possible. Our article on <a href="/blog/website-online-booking-systems/">website online booking systems</a> explains the options and trade-offs.</p>
+<h3>Practical visitor information</h3>
+<p>Parents want to know about parking, buggy storage, baby changing, accessibility, socks rules, food and drink, allergen information and what happens if a child is unwell. A practical "plan your visit" page answers these and saves your staff repeated phone calls. Describe only what you genuinely provide, and keep the information up to date.</p>
+<h3>Real photos</h3>
+<p>Show the play frame, toddler area, café and party rooms as they really are, well lit and clean. Avoid photographing identifiable children unless you have clear written permission from parents. Wide shots of empty or quiet areas work well and avoid privacy concerns.</p>
+<h3>Safety and supervision</h3>
+<p>Explain your approach to supervision, cleaning and safety in plain terms. Parents notice when a centre is open about this. If you hold a food hygiene rating, displaying it accurately is a useful trust signal. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> has more ideas.</p>
+
+<h2>Marketing birthday parties</h2>
+<p>Parties are often the most valuable bookings for a soft play centre and they can be planned weeks in advance. Give parties their own page with:</p>
+<ul>
+<li>Each party package, what is included, the number of children covered and the duration.</li>
+<li>Food options, with a clear note on allergens and dietary needs.</li>
+<li>Party room photos and what parents need to bring.</li>
+<li>Available days and times, and how far ahead to book.</li>
+<li>An online booking or enquiry form that asks for the child's age, preferred date and number of guests.</li>
+</ul>
+<p>A dedicated party page also gives you something specific to promote in ads and social posts. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> explains how to build pages that convert this kind of focused interest.</p>
+
+<h2>Planning around the school calendar</h2>
+<p>Demand in this sector follows the school year and the weather. Plan your marketing calendar around half-terms, Easter, the summer holidays and Christmas, and remember that term dates vary between local authorities and between England, Scotland, Wales and Northern Ireland. Publish holiday session times well in advance, update your Google Business Profile hours, and schedule social posts and email reminders a week or two before each break.</p>
+<p>Quieter weekday mornings in term time can be filled with toddler sessions, baby groups, home education meetups or SEN-friendly quiet sessions if you run them. Promote these separately to the right parents rather than mixing them into general posts.</p>
+
+<h2>Paid media for family attractions</h2>
+<p>Meta platforms are often effective for reaching local parents with specific, date-led messages: half-term sessions, a new party package, a character event. Keep the radius realistic, since most families travel only a short distance for soft play. Ads must follow platform rules on targeting and content, and advertising to parents rather than children is the sensible approach.</p>
+<p>Search ads can capture parents searching for soft play or children's party venues in your town. Keep keywords local, add negatives for jobs and equipment sales, and send traffic to the session or party page rather than the homepage. Track bookings and party enquiries as conversions. Our <a href="/services/paid-media/">paid media service</a> explains how we plan and manage campaigns, with ad spend paid separately.</p>
+
+<h2>Reviews and repeat visits</h2>
+<p>Reviews strongly influence parents choosing a centre they have not visited. Ask for a review after a visit or party, using a link in a follow-up email where parents have agreed to hear from you. Reply to every review, thank people warmly and respond calmly to complaints. Repeat visits can be encouraged with a simple loyalty scheme, off-peak offers or a holiday newsletter, sent only to families who have opted in.</p>
+
+<h2>Measuring results</h2>
+<p>Track online session bookings, party bookings and enquiries, calls from your website and from your Google Business Profile. Compare busy and quiet periods to see which promotions genuinely filled sessions. SEO improvements usually take three to six months to show clearly, while ads can bring bookings within days.</p>
+
+<h2>How we can help</h2>
+<p>We build websites for UK businesses with clear session and pricing pages, party pages and booking system integration where your provider supports it. A small business website typically costs £1,000 to £2,000 and takes three to five weeks; see our <a href="/services/website-ecommerce-development/">website development service</a>. For ongoing support, our <a href="/services/seo-geo/">SEO and GEO service</a> and paid media retainers start from £350 a month, with options on our pricing page.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best soft play centre marketing in the UK?</h3>
+<p>For most centres it is a complete Google Business Profile, a mobile-friendly website with session times, prices and online booking, a strong party page, and local social ads planned around school holidays.</p>
+<h3>Should a soft play centre take bookings online?</h3>
+<p>Usually yes. Online booking helps parents plan, reduces queues and lets you manage capacity. Many centres keep some walk-in availability alongside booked sessions.</p>
+<h3>How do we get more birthday party bookings?</h3>
+<p>Create a dedicated party page with clear packages, food and allergen information, photos and an easy booking or enquiry form, then promote it through local search, social posts and ads aimed at nearby parents.</p>
+<h3>Can we use photos of children on our website?</h3>
+<p>Only with clear written permission from parents or carers. Many centres use photos of the play areas and party rooms without identifiable children to avoid privacy concerns.</p>
+<h3>Are Facebook and Instagram ads worth it for soft play?</h3>
+<p>They can work well for date-led promotions such as half-term sessions or party offers when aimed at parents within a realistic travel distance and tracked on bookings.</p>
+<h3>How far in advance should we market school holidays?</h3>
+<p>Publish holiday session times and update your listings a few weeks ahead, then send reminders about a week or two before the break. Check local term dates, as they vary by area.</p>
+`,
+  },
 ];
