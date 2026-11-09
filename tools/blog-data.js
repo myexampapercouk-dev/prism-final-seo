@@ -58089,4 +58089,2435 @@ module.exports = [
 <p>Yes, we can plan and build a bilingual site. We do not translate content ourselves, so your translator or French-speaking team would supply and check the French text.</p>
 `,
   },
+  {
+    slug: 'aoda-website-compliance',
+    seoTitle: 'AODA Website Compliance: A Practical Guide for Businesses',
+    title: 'AODA Website Compliance: What Ontario Businesses Need to Know About Accessible Websites',
+    description: 'AODA website compliance explained for Ontario businesses: who it may apply to, how WCAG fits in, what to fix first and how to plan an accessible website.',
+    date: '2026-11-09',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>AODA website compliance means making your website accessible to people with disabilities in line with the Accessibility for Ontarians with Disabilities Act, which for websites is based on the international Web Content Accessibility Guidelines (WCAG). Whether the rules legally apply to you depends on your organisation's size and type, so this guide explains the practical side of building and maintaining an accessible website, and you should check current official guidance from the Government of Ontario for your own obligations.</p>
+<p>Prism Works Studio is a UK-based studio that designs and builds websites for Canadian businesses remotely, with no office in Canada. We are not lawyers and this is general information, not legal advice. What we can do is explain what accessible websites involve and build sites to recognised accessibility guidelines.</p>
+
+<h2>What is AODA website compliance?</h2>
+<p>The AODA is Ontario's accessibility law. It includes standards covering several areas of daily life, and one of these covers information and communications, which includes websites and web content. For organisations it applies to, the website requirements point to WCAG, a set of internationally recognised guidelines published by the World Wide Web Consortium.</p>
+<p>At the time of writing, official Ontario guidance indicates that the website requirements apply to the Ontario government, designated public sector organisations and private or non-profit organisations above a certain number of employees in Ontario, with the standard set at WCAG 2.0 Level AA, subject to some exceptions. Requirements, thresholds and deadlines can change, and there are also reporting duties for some organisations, so please check the current guidance on the Government of Ontario website and take your own advice.</p>
+<p>Federally regulated organisations may also have obligations under the Accessible Canada Act, and other provinces have introduced or are developing their own accessibility laws. If you operate across Canada, check what applies in each place you do business.</p>
+
+<h2>Why accessibility matters even if the rules do not apply to you</h2>
+<p>Even small businesses outside the legal thresholds have good reasons to build accessible websites:</p>
+<ul>
+<li><strong>More customers.</strong> People with visual, hearing, motor or cognitive disabilities, and older users, can actually use your site.</li>
+<li><strong>Better usability for everyone.</strong> Clear headings, readable text and simple forms help every visitor, including people on phones in bright sunlight.</li>
+<li><strong>Search benefits.</strong> Descriptive headings, alt text and clean structure also help search engines understand your pages.</li>
+<li><strong>Lower future cost.</strong> Building accessibly from the start is far cheaper than fixing a finished site later.</li>
+<li><strong>Selling to larger organisations.</strong> Public sector and enterprise buyers increasingly expect suppliers to take accessibility seriously.</li>
+</ul>
+<p>Our broader guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> covers the same WCAG principles from a design and build perspective, and our guide to the <a href="/blog/european-accessibility-act-website/">European Accessibility Act</a> is useful if you also sell into Europe.</p>
+
+<h2>The WCAG principles in plain language</h2>
+<p>WCAG is organised around four principles, often shortened to POUR. Every specific requirement sits under one of these.</p>
+<table>
+<thead>
+<tr><th>Principle</th><th>What it means</th><th>Everyday examples</th></tr>
+</thead>
+<tbody>
+<tr><td>Perceivable</td><td>People can see or hear the content in some form</td><td>Alt text for images, captions for video, enough colour contrast</td></tr>
+<tr><td>Operable</td><td>People can use the site with different input methods</td><td>Full keyboard navigation, visible focus, no content that flashes</td></tr>
+<tr><td>Understandable</td><td>Content and interactions are clear and predictable</td><td>Plain language, consistent navigation, helpful form error messages</td></tr>
+<tr><td>Robust</td><td>Content works with assistive technologies such as screen readers</td><td>Valid code, proper labels, correct use of headings and landmarks</td></tr>
+</tbody>
+</table>
+<p>Level A covers the most basic requirements, Level AA adds a broader set that most laws and policies refer to, and Level AAA is the most demanding and rarely required for whole sites.</p>
+
+<h2>The most common accessibility problems on business websites</h2>
+<p>Most sites we review fail on the same small group of issues. Fixing these usually makes the biggest difference first.</p>
+<ol>
+<li><strong>Missing or poor alt text.</strong> Images that carry meaning need a short, accurate description; decorative images should be hidden from screen readers. Our <a href="/blog/website-image-alt-text-guide/">image alt text guide</a> explains how to write it.</li>
+<li><strong>Low colour contrast.</strong> Light grey text on white, or text over busy images, is hard to read. Our guide to <a href="/blog/website-colour-and-typography/">website colour and typography</a> covers contrast and readable type.</li>
+<li><strong>Unlabelled forms and vague errors.</strong> Every field needs a visible label, and error messages should say what went wrong and how to fix it. See our guide to <a href="/blog/website-form-error-messages/">website form error messages</a>.</li>
+<li><strong>Keyboard problems.</strong> Menus, pop-ups and sliders that cannot be reached or closed with a keyboard block many users.</li>
+<li><strong>Interactive components built incorrectly.</strong> Accordions, tabs and carousels need the right structure so screen readers announce them properly. Our guide to <a href="/blog/website-accordions-and-tabs/">website accordions and tabs</a> covers accessible patterns.</li>
+<li><strong>Inaccessible documents.</strong> Scanned PDFs and untagged documents are often unreadable by screen readers.</li>
+<li><strong>Video without captions.</strong> Pre-recorded video with speech generally needs accurate captions.</li>
+<li><strong>Data tables that break on mobile.</strong> Tables need proper headers and a layout that works on small screens, as covered in our guide to <a href="/blog/website-tables-on-mobile/">website tables on mobile</a>.</li>
+</ol>
+
+<h2>How to approach AODA website compliance step by step</h2>
+<p>Accessibility is easier to manage as an ongoing process than a one-off project. A practical approach looks like this:</p>
+<ol>
+<li><strong>Confirm your obligations.</strong> Check current official guidance on whether and how the AODA applies to your organisation, including any reporting duties.</li>
+<li><strong>Audit the current site.</strong> Combine automated testing tools with manual checks using a keyboard and a screen reader. Automated tools alone typically miss many issues.</li>
+<li><strong>Prioritise.</strong> Fix problems on the most important pages and journeys first, such as the homepage, contact forms, booking and checkout.</li>
+<li><strong>Fix templates, not just pages.</strong> Correcting a shared header, footer or product template fixes the problem everywhere it appears.</li>
+<li><strong>Train content editors.</strong> Many issues return when new content is added without alt text, headings or captions.</li>
+<li><strong>Re-test regularly.</strong> Check again after redesigns, new features and major content changes.</li>
+</ol>
+
+<h2>Accessible content: what your own team can do</h2>
+<p>A well-built site can still become inaccessible as new pages, posts and products are added. Simple habits from whoever edits the website make a large difference:</p>
+<ul>
+<li>Use real headings in order rather than bold text styled to look like a heading.</li>
+<li>Write link text that makes sense on its own, such as "view our delivery options" rather than "click here".</li>
+<li>Add alt text to every meaningful image as it is uploaded, not afterwards.</li>
+<li>Keep sentences and paragraphs short, and explain jargon or abbreviations.</li>
+<li>Publish important information as a web page rather than only as a PDF.</li>
+<li>Caption videos before they go live, and check automatic captions for errors.</li>
+</ul>
+<p>A short written checklist for editors, reviewed every few months, usually prevents most new problems from creeping back in.</p>
+
+<h2>Do accessibility overlays make a website compliant?</h2>
+<p>Accessibility overlays are scripts that add a toolbar or claim to fix problems automatically. They can change text size or contrast, but they generally cannot fix underlying issues such as poor structure, missing labels or keyboard traps, and some disabled users report that overlays interfere with the assistive technology they already use. We recommend fixing the website itself rather than relying on an overlay.</p>
+
+<h2>Building a new accessible website</h2>
+<p>If your site is due for a redesign, that is the best moment to build accessibility in. On new projects, we plan accessible colour palettes and typography during design, build semantic templates with proper headings, labels and focus states, test with keyboards and screen readers before launch, and hand over guidance so your team keeps new content accessible. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> includes this as part of the build.</p>
+<p>Our published prices are in pounds sterling on our <a href="/pricing/">pricing page</a>: a small business website is typically £1,000 to £2,000 and an ecommerce site £1,500 to £3,500, depending on scope. Canadian dollar quotes are available on request, and accessibility audits of existing sites are quoted individually. A typical brochure website takes three to five weeks to build.</p>
+
+<h2>FAQs</h2>
+<h3>What is AODA website compliance?</h3>
+<p>It means meeting the website accessibility requirements of Ontario's accessibility law, which refer to the WCAG guidelines. Whether they apply depends on your organisation, so check current Government of Ontario guidance.</p>
+<h3>Does AODA apply to small businesses?</h3>
+<p>The website requirements apply to certain organisations based on size and type, and small businesses may fall outside them. Check the current thresholds in official guidance. Building accessibly is still good practice for any business.</p>
+<h3>Which WCAG level does AODA require?</h3>
+<p>Official guidance at the time of writing refers to WCAG 2.0 Level AA for organisations the website rules cover, with some exceptions. Confirm the current requirement before planning your work.</p>
+<h3>Can an automated tool check AODA compliance?</h3>
+<p>Automated tools are a useful start but miss many issues, such as poor alt text, confusing focus order and screen reader problems. Manual testing is needed alongside them.</p>
+<h3>Will an accessibility overlay make my site compliant?</h3>
+<p>Overlays generally cannot fix underlying problems in the code and content. Fixing the website itself is the more reliable route to an accessible site.</p>
+<h3>Can a UK studio build an accessible website for an Ontario business?</h3>
+<p>Yes. Prism Works Studio builds websites to WCAG guidelines for Canadian businesses remotely, with no office in Canada. Legal judgement on your AODA obligations rests with you and your advisers.</p>
+`,
+  },
+  {
+    slug: 'digital-marketing-agency-abu-dhabi',
+    seoTitle: 'Digital Marketing Agency Abu Dhabi: A Buyer\'s Guide',
+    title: 'Digital Marketing Agency Abu Dhabi: How to Choose the Right Mix of SEO, Ads and Content',
+    description: 'Hiring a digital marketing agency for Abu Dhabi: which channels to prioritise, questions to ask, how remote agencies work and what our retainers cost.',
+    date: '2026-11-09',
+    category: 'Guides',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>A digital marketing agency for an Abu Dhabi business should help you reach the right customers on the channels they actually use, measure which activity produces enquiries or sales, and keep improving from there. The best fit is rarely the agency offering the most services; it is the one that recommends a focused plan, sets up reliable tracking and reports honestly on what is working.</p>
+<p>Prism Works Studio is a UK-based studio working remotely with businesses in Abu Dhabi and across the UAE. We have no office or staff in the Emirates. We provide <a href="/services/seo-geo/">SEO</a>, <a href="/services/paid-media/">paid media</a>, content and website work, and this guide explains how to choose any agency, which channels to prioritise and what our retainers cost.</p>
+
+<h2>Which channels matter for Abu Dhabi businesses</h2>
+<p>Abu Dhabi has a broad mix of audiences: residents, families, professionals, government-linked organisations, tourists and trade buyers. The right channel mix depends on who you sell to and how they make decisions, not on what is fashionable.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>Things to plan for</th></tr></thead>
+<tbody>
+<tr><td>Google Ads (search)</td><td>Capturing people actively searching for a service or product</td><td>Arabic and English keywords, location targeting, conversion tracking</td></tr>
+<tr><td>SEO and GEO</td><td>Long-term visibility in search and AI answers</td><td>Bilingual content, technical health, results typically in three to six months</td></tr>
+<tr><td>Meta Ads (Facebook and Instagram)</td><td>Visual products, local services, events and offers</td><td>Strong creative, audience testing, landing pages that load fast on mobile</td></tr>
+<tr><td>TikTok and YouTube Ads</td><td>Reaching younger audiences and building awareness with video</td><td>Native-looking video, frequent creative refreshes</td></tr>
+<tr><td>LinkedIn Ads</td><td>B2B services, recruitment and professional audiences</td><td>Higher costs per click, precise job and industry targeting</td></tr>
+<tr><td>Email marketing</td><td>Repeat customers and nurturing longer sales cycles</td><td>Consent, list quality, useful content</td></tr>
+</tbody>
+</table>
+<p>Most businesses do not need every channel at once. A clinic or home services company might start with search ads and SEO. A fashion or beauty brand might lead with Meta and TikTok. A B2B consultancy might combine SEO with LinkedIn. If you are weighing the first two, our comparison of <a href="/blog/seo-vs-ppc-uk/">SEO and PPC</a> sets out the trade-offs.</p>
+
+<h2>Digital marketing agency Abu Dhabi: what to look for</h2>
+<p>Agency proposals often look alike. These are the qualities that tend to separate a useful partner from an expensive one.</p>
+<ul>
+<li><strong>Tracking before spending.</strong> A good agency checks that your analytics, conversion tracking and call or form tracking work before scaling any budget. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking</a> shows what this involves.</li>
+<li><strong>Language capability.</strong> If your customers search or browse in Arabic, ask who writes and reviews Arabic ads and content.</li>
+<li><strong>Clear ownership.</strong> Ad accounts, analytics properties, content and creative should belong to your business, not the agency.</li>
+<li><strong>Honest forecasting.</strong> Be wary of guaranteed results. Reasonable agencies give ranges and explain the assumptions behind them.</li>
+<li><strong>Transparent team.</strong> Ask who will actually work on your account, where they are based and how much time your account gets.</li>
+<li><strong>Plain-language reporting.</strong> Reports should connect activity to enquiries, bookings or sales, with clear next steps.</li>
+</ul>
+<p>Our broader article on <a href="/blog/how-to-choose-a-digital-marketing-agency-uk/">how to choose a digital marketing agency</a> includes a longer checklist you can use for any shortlist.</p>
+
+<h2>Local agency or remote partner?</h2>
+<p>An Abu Dhabi agency can meet you in person and may have long-standing local relationships. A remote studio can bring a different set of skills, clear processes and experience across several markets. The right choice depends on what you value most.</p>
+<p>Working remotely with us looks like this: an initial video call to understand your goals, a written plan, shared dashboards so you can see performance at any time, and regular review calls. The UK is three or four hours behind the UAE depending on the season, so calls usually sit comfortably in the UAE afternoon. Your team contributes local knowledge, approves any Arabic copy and signs off claims about your services. Our guide on <a href="/blog/international-ppc-agency/">working with an international PPC agency</a> covers how this works for paid campaigns in particular.</p>
+
+<h2>How we approach a new Abu Dhabi account</h2>
+<ol>
+<li><strong>Discovery.</strong> We learn about your services, margins, customers, competitors and what has or has not worked before.</li>
+<li><strong>Audit.</strong> We review your website, tracking, ad accounts and search visibility to find quick fixes and bigger opportunities.</li>
+<li><strong>Plan.</strong> We recommend a focused channel mix and budget, with clear goals for the first three months.</li>
+<li><strong>Launch.</strong> We fix tracking, improve key landing pages and start campaigns or content work.</li>
+<li><strong>Report and refine.</strong> Monthly reporting shows what is working, and we shift budget and effort accordingly.</li>
+</ol>
+<p>Landing pages often make a bigger difference than the ads themselves. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> explains what turns clicks into enquiries.</p>
+
+<h2>Costs: retainers and ad spend</h2>
+<p>Our management retainers are shown on our <a href="/pricing/">pricing page</a>. We price in pounds sterling and can quote in other currencies on request.</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> one core channel, such as search ads or SEO, for a focused set of services.</li>
+<li><strong>Growth, £750 a month:</strong> two channels working together, or one channel at greater depth with more content or campaigns.</li>
+<li><strong>Scale, £1,500 a month:</strong> multi-channel programmes for larger catalogues, several locations or bigger budgets.</li>
+</ul>
+<p>Ad spend is paid separately, directly to the platforms, so you keep full control of your budget. SEO and paid results typically take three to six months to build properly, although well-structured search ads can start producing enquiries sooner while campaigns are refined.</p>
+
+<h2>Regulation and sensitive sectors</h2>
+<p>Advertising in sectors such as healthcare, financial services, real estate and education can be subject to specific rules in the UAE, and some activity may need approval before it runs. Platforms also have their own advertising policies. We keep our guidance general: check current official UAE guidance for your sector, and have your legal or compliance team approve claims and offers before launch. The same applies to privacy notices, cookie consent and how your site handles personal data.</p>
+
+<h2>What progress should look like in the first six months</h2>
+<p>It helps to agree in advance what good progress means, so you can judge the work fairly. Every business is different, but a sensible timeline usually follows a similar shape.</p>
+<ul>
+<li><strong>Month one:</strong> tracking is fixed and tested, accounts are audited, quick wins are applied and the plan is signed off.</li>
+<li><strong>Months two and three:</strong> campaigns and content are live, landing pages are improved, and early data shows which keywords, audiences and messages are worth more investment.</li>
+<li><strong>Months four to six:</strong> budget moves towards the best-performing activity, SEO work starts to show in search visibility, and reporting focuses on cost per enquiry or return on ad spend.</li>
+</ul>
+<p>Along the way, you should always know what was done last month, what it produced and what happens next. If an agency cannot explain those three things in plain language, ask why. We would rather you understand the numbers and challenge them than simply receive a report you never read.</p>
+
+<h2>Signs your current marketing needs a reset</h2>
+<p>If you already work with an agency, a few warning signs suggest it is time to review the arrangement:</p>
+<ul>
+<li>You cannot see your own ad accounts or analytics.</li>
+<li>Reports show clicks and impressions but never enquiries or sales.</li>
+<li>Arabic ads or pages are machine-translated without review.</li>
+<li>Nobody can explain why budget is split the way it is.</li>
+<li>The plan has not changed in months despite flat results.</li>
+</ul>
+<p>A short audit can usually show whether the issue is tracking, targeting, creative, landing pages or the channel mix itself. Often the fix is simpler than a full agency change: cleaner conversion tracking, better landing pages or a tighter set of keywords can make an existing budget work much harder.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a digital marketing agency in Abu Dhabi?</h3>
+<p>Look for an agency that sets up tracking first, recommends a focused channel mix, gives you ownership of all accounts and reports on enquiries or sales. Ask who will do the work and how Arabic content is handled.</p>
+<h3>How much does a digital marketing agency in Abu Dhabi cost with Prism Works Studio?</h3>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid separately, and we can quote in other currencies on request.</p>
+<h3>Do you have an office in Abu Dhabi?</h3>
+<p>No. We are a UK-based studio working remotely with UAE clients through video calls, shared dashboards and regular reporting.</p>
+<h3>Which channel should an Abu Dhabi business start with?</h3>
+<p>It depends on how customers buy. Search ads suit urgent, high-intent demand, SEO builds long-term visibility, and Meta or TikTok suit visual products and discovery. Many businesses start with one or two channels.</p>
+<h3>Can you run ads in Arabic and English?</h3>
+<p>Yes. We plan campaigns in both languages. Arabic copy should be written or reviewed by a fluent speaker, and your team approves all ad text before it runs.</p>
+<h3>How long before digital marketing produces results?</h3>
+<p>Search ads can start bringing enquiries fairly quickly once tracking and landing pages are right. SEO and fully optimised paid campaigns typically take three to six months to build.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-seo-canada',
+    seoTitle: 'Ecommerce SEO Canada: A Guide for Canadian Online Stores',
+    title: 'Ecommerce SEO in Canada: How Canadian Online Stores Win More Organic Sales',
+    description: 'Ecommerce SEO in Canada means fixing structure, product pages and bilingual content so Canadian shoppers find you. What it involves and how to choose help.',
+    date: '2026-11-09',
+    category: 'Ecommerce',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Ecommerce SEO in Canada is the work of making an online store's categories and products appear when Canadian shoppers search, so more sales come from organic search without paying for every click. It combines technical fixes, smarter site structure, better product and category content and earned authority, and Prism Works Studio delivers it remotely for Canadian stores from the UK, with no office in Canada.</p>
+<p>This guide explains what ecommerce SEO involves for a Canadian store, the issues we see most often, how bilingual content fits in and how to choose an ecommerce SEO partner.</p>
+
+<h2>Why ecommerce SEO in Canada is different</h2>
+<p>Canadian online stores compete not just with each other but with large American retailers and marketplaces that ship north. That makes it harder to win broad head terms and more important to own specific, high-intent searches: the exact product types, materials, sizes and use cases Canadian shoppers type.</p>
+<p>Canadian shoppers also look for signals that a store is genuinely set up for them. Prices in Canadian dollars, clear shipping times and costs within Canada, sensible returns and no surprise duties at checkout all affect whether a visitor buys, and search engines increasingly reward pages that satisfy shoppers rather than just matching keywords.</p>
+<p>Then there is language. A store selling across Canada may find that French-language search, especially in Quebec, is an under-served opportunity in its niche.</p>
+
+<h2>The foundations: structure, categories and filters</h2>
+<p>Most ecommerce SEO problems start with structure. A clear hierarchy of categories and subcategories helps shoppers browse and helps search engines understand what each page is about.</p>
+<ul>
+<li><strong>Categories built around search demand.</strong> Each important category should match how people search, such as "women's merino base layers" rather than an internal range name.</li>
+<li><strong>One page per intent.</strong> Avoid several collections competing for the same query. On Shopify, our guide to <a href="/blog/shopify-collections-structure/">structuring Shopify collections</a> shows how to plan this.</li>
+<li><strong>Controlled filters.</strong> Colour, size and price filters can create thousands of near-duplicate URLs. Some filtered pages deserve to rank; most should not be indexed. Our guide to <a href="/blog/shopify-product-filters/">Shopify product filters</a> covers the setup.</li>
+<li><strong>Canonical tags.</strong> Products in several collections and variant URLs need a clear preferred version. Our <a href="/blog/canonical-tags-guide/">canonical tags guide</a> explains how they work.</li>
+<li><strong>Internal links.</strong> Linking from popular pages to important categories helps them rank and helps shoppers find them.</li>
+</ul>
+
+<h2>Product and category pages that rank and convert</h2>
+<p>Category pages usually carry the most valuable commercial searches, while product pages catch specific, high-intent queries. Both need real content rather than a manufacturer's description pasted onto hundreds of sites.</p>
+<table>
+<thead>
+<tr><th>Page type</th><th>What it should include</th><th>Common mistake</th></tr>
+</thead>
+<tbody>
+<tr><td>Category page</td><td>A clear heading, short helpful intro, well-organised products and buying guidance</td><td>No text at all, or a long block of keyword-stuffed copy below the products</td></tr>
+<tr><td>Product page</td><td>Unique description, specifications, sizing, delivery and returns details in Canadian terms, reviews</td><td>Copied supplier descriptions shared with many other retailers</td></tr>
+<tr><td>Variant pages</td><td>One main page with variant options, unless variants are genuinely searched separately</td><td>Separate thin pages for every colour and size</td></tr>
+<tr><td>Out-of-stock products</td><td>Kept live with restock or alternative options if returning soon</td><td>Deleted without redirects, losing rankings and links</td></tr>
+<tr><td>Buying guides</td><td>Answers to real shopper questions, linked to relevant categories</td><td>Generic blog posts with no link to products</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/product-page-seo-uk/">product page SEO</a> goes deeper on titles, descriptions and images, and structured data for products, prices and availability is covered in our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a>. Correct product structured data helps search engines show prices and stock status, so make sure it reflects Canadian dollar prices where those are what Canadian shoppers see.</p>
+
+<h2>Bilingual and multi-market stores</h2>
+<p>If you sell across Canada, French content can open up searches your competitors ignore. It needs to be done properly: proper translation reviewed by a fluent speaker, separate URLs for each language, hreflang tags so search engines show the right version and a language switcher that does not trap shoppers. Our guide to <a href="/blog/multilingual-website-design/">multilingual website design</a> explains the options.</p>
+<p>If your business sells into Quebec, French-language rules there may affect your product information, packaging and website. Those rules have changed in recent years, so check current official guidance from the Quebec government and take your own advice on what applies to your store.</p>
+<p>Stores selling to both Canada and the US face a related decision: one store with market-specific pricing, or separate storefronts. Either can work for SEO, provided each market has its own clear URLs, currency and shipping information, and search engines are told which version serves which country.</p>
+
+<h2>Technical ecommerce SEO checks for Canadian stores</h2>
+<p>Large catalogues create technical issues that small brochure sites never face. A thorough review should look at:</p>
+<ol>
+<li><strong>Crawling and indexing.</strong> Are the right pages indexed, and are filter, search and tag pages kept out where they should be?</li>
+<li><strong>Speed.</strong> Heavy themes, apps and large images slow stores down, especially on mobile.</li>
+<li><strong>Duplicate content.</strong> Product URLs that appear under several paths, and near-identical descriptions across variants.</li>
+<li><strong>Redirects.</strong> Discontinued products, renamed collections and platform migrations all need planned redirects.</li>
+<li><strong>Structured data.</strong> Product, price, availability and review markup that matches what shoppers see.</li>
+<li><strong>Feeds and listings.</strong> Product data quality affects free listings in Google Shopping as well as paid ads.</li>
+</ol>
+<p>Our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a> walks through each of these checks step by step.</p>
+
+<h2>Seasonal demand and content planning</h2>
+<p>Canadian shopping behaviour is strongly seasonal. Winter clothing, outdoor gear, garden products and gifts all follow predictable search patterns, and pages need time to gain visibility before demand peaks. Planning category improvements and buying guides two or three months ahead of each season gives them a realistic chance to rank when shoppers start searching.</p>
+<p>Product reviews also matter. Genuine reviews add fresh, specific wording to product pages, answer questions shoppers would otherwise email about and build trust with first-time buyers who do not know your brand. Ask for reviews consistently after delivery, respond to critical ones politely and never write or buy fake reviews.</p>
+
+<h2>Privacy, consent and email for Canadian stores</h2>
+<p>SEO feeds traffic into analytics, reviews platforms and email sign-ups, and each of those collects personal information. Canada's federal privacy law (PIPEDA) and, in some provinces, provincial legislation set expectations for how that information is handled, and Canada's anti-spam legislation (CASL) covers commercial emails. We set up tracking and sign-up flows with these in mind, but please check current guidance from the Office of the Privacy Commissioner of Canada and other relevant regulators, and take your own advice on your obligations.</p>
+
+<h2>How to choose an ecommerce SEO partner in Canada</h2>
+<p>Whether you hire a Canadian agency or a remote studio, look for these signs:</p>
+<ul>
+<li><strong>Platform knowledge.</strong> They understand how your platform, whether Shopify, WooCommerce or another, handles collections, filters, variants and redirects.</li>
+<li><strong>Commercial focus.</strong> They ask about margins, best sellers and stock levels before choosing keywords.</li>
+<li><strong>Revenue reporting.</strong> Reports connect organic traffic to orders and revenue, not just rankings.</li>
+<li><strong>Clear ownership.</strong> Your business owns the store, analytics, Search Console and all content.</li>
+<li><strong>Honest timelines.</strong> Results typically take three to six months to show clearly, and nobody can guarantee rankings.</li>
+</ul>
+<p>Working remotely with a UK studio usually means a regular video call in your morning, since the UK is between three and a half and eight hours ahead depending on where you are in Canada, with work progressing while your team is offline.</p>
+
+<h2>What ecommerce SEO costs</h2>
+<p>Our SEO is sold as monthly retainers with published prices in pounds sterling on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Canadian dollar quotes are available on request. Larger catalogues, several languages and multiple markets usually need the Growth or Scale level, but we recommend a level after reviewing your store. You can see how we approach online retail on our <a href="/sectors/ecommerce/">ecommerce sector page</a> and our wider <a href="/services/seo-geo/">SEO and GEO service</a>.</p>
+
+<h2>FAQs</h2>
+<h3>What is ecommerce SEO in Canada?</h3>
+<p>It is the work of improving an online store's structure, technical health, product and category content and authority so Canadian shoppers find it in organic search, and buy, without the store paying for each click.</p>
+<h3>Can a UK agency handle ecommerce SEO for a Canadian store?</h3>
+<p>Yes. Prism Works Studio works with Canadian businesses remotely, with no office in Canada. Store access, analytics and Search Console are shared online, and we hold regular video calls at a time that suits you.</p>
+<h3>How much does ecommerce SEO cost?</h3>
+<p>Our retainers are £350, £750 or £1,500 a month, published in pounds sterling, with Canadian dollar quotes on request. The right level depends on catalogue size, competition and the number of languages and markets.</p>
+<h3>Do I need French product pages for my Canadian store?</h3>
+<p>Not always, but French content can reach shoppers your competitors miss, and selling into Quebec may bring specific language requirements. Check current official guidance and decide before restructuring your store.</p>
+<h3>How long does ecommerce SEO take to show results?</h3>
+<p>Results typically take three to six months to show clearly. Stores with technical problems, thin content or strong competition from large retailers can take longer.</p>
+<h3>Should I delete out-of-stock products?</h3>
+<p>Usually not if they will return. Keep the page live with restock information or alternatives. If a product is gone for good, redirect it to the closest relevant product or category.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-seo-for-us-dtc-brands',
+    seoTitle: 'Ecommerce SEO for US DTC Brands: A Practical Guide',
+    title: 'Ecommerce SEO for US DTC Brands: How to Grow Organic Sales',
+    description: 'Ecommerce SEO for US DTC brands means strong category pages, clean technical setup and content built on US search data. Here is how to approach it.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Ecommerce SEO for US DTC brands is the work of getting a direct-to-consumer store to rank in Google and other search tools for the searches American shoppers make before they buy. It rests on three things: category pages built around real US search demand, a technically sound store, and useful content that answers buyers' questions.</p>
+<p>We are a UK-based studio and we work remotely with US brands. We have no US office, and all of our work happens online. This guide sets out how we approach SEO for direct-to-consumer stores, where the effort usually pays off, and how to judge whether a partner is doing the right work.</p>
+
+<h2>Why SEO matters for direct-to-consumer brands</h2>
+<p>Many DTC brands grow first through paid social. That works, but costs tend to rise as you scale, and paid traffic stops the moment the budget does. Organic search gives you a channel that compounds: a well-ranked category page can bring in shoppers month after month without a cost per click.</p>
+<p>Search also catches people at a different stage. Someone scrolling a feed may not be looking for your product at all, while someone searching for a specific product type is already in buying mode. A healthy DTC brand usually needs both, and SEO reduces how much you depend on any single ad platform.</p>
+
+<h2>Ecommerce SEO for US DTC brands: start with US search data</h2>
+<p>The biggest mistake brands make when targeting the USA from abroad, or when copying another market's strategy, is assuming the words are the same. They often are not. American shoppers search for sneakers, pants, cookies and diapers, and phrasing for sizes, measurements and product types differs too.</p>
+<p>Good research for a US store includes:</p>
+<ul>
+<li>Search volumes and difficulty taken from US data, not global or UK figures.</li>
+<li>Google's own suggestions and related searches when browsing as a US user.</li>
+<li>The structure of the stores and marketplaces that already rank for your main terms.</li>
+<li>Your own Search Console data, filtered to the United States.</li>
+<li>Customer reviews, support tickets and site search logs, which show how buyers describe what they want.</li>
+</ul>
+<p>Once you have the terms, map each group of closely related searches to one page. That avoids two pages competing for the same query and makes your site structure easier for search engines to understand.</p>
+
+<h2>Where ecommerce SEO effort pays off</h2>
+<p>Not every page on a store deserves the same attention. The table below shows how we usually prioritise.</p>
+<table>
+<thead><tr><th>Page type</th><th>Typical search intent</th><th>Main SEO job</th></tr></thead>
+<tbody>
+<tr><td>Category or collection pages</td><td>Commercial, broad product searches</td><td>Rank for the main product-type terms and route shoppers to products</td></tr>
+<tr><td>Product pages</td><td>Specific product or model searches</td><td>Rank for detailed searches and convert visitors into buyers</td></tr>
+<tr><td>Buying guides and comparisons</td><td>Research before purchase</td><td>Answer questions and link into relevant categories</td></tr>
+<tr><td>Brand and about pages</td><td>Navigational and trust checks</td><td>Reassure shoppers who are checking you out before buying</td></tr>
+<tr><td>Help and policy pages</td><td>Post-click questions</td><td>Answer shipping, returns and sizing questions clearly</td></tr>
+</tbody>
+</table>
+<p>For most DTC stores, category pages are where the biggest gains sit. They target the broader commercial searches, they can hold helpful introductory copy, and they pass authority down to individual products. Our guide to <a href="/blog/ecommerce-category-page-design/">ecommerce category page design</a> covers layout and content that suits both shoppers and search engines.</p>
+
+<h2>Technical foundations for a DTC store</h2>
+<p>Most DTC brands run on hosted platforms such as Shopify, which handle a lot of technical basics well. Even so, problems creep in as stores grow: duplicate URLs from filters and variants, slow pages from too many apps, broken internal links after product changes, and missing or wrong structured data.</p>
+<p>A sound technical setup covers:</p>
+<ul>
+<li>Clean, crawlable navigation that links to every important category.</li>
+<li>Sensible handling of filters, variants and pagination so search engines do not waste time on near-identical URLs.</li>
+<li>Fast page loads on mobile, which affects both rankings and conversion.</li>
+<li>Correct product structured data, including price, availability and review information where genuine.</li>
+<li>Redirects for discontinued products and changed URLs.</li>
+</ul>
+<p>Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> sets out what to review, and our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> explains how structured data helps search engines read your pages. If your store is on Shopify, our <a href="/blog/shopify-seo-uk/">Shopify SEO guide</a> covers platform-specific settings, and the principles apply to US stores too.</p>
+
+<h2>Content that supports sales</h2>
+<p>Content for a DTC brand should help people choose, not just fill a blog. Useful formats include:</p>
+<ul>
+<li>Buying guides that explain how to pick the right product for a need.</li>
+<li>Comparisons between your own product lines, or between product types.</li>
+<li>Care, sizing and how-to guides that reduce returns and support tickets.</li>
+<li>Answers to common pre-purchase questions, built into category and product pages.</li>
+</ul>
+<p>Each piece should link naturally to the relevant category or product, so the content passes both readers and authority to the pages that sell.</p>
+
+<h2>SEO in the age of AI answers</h2>
+<p>Shoppers increasingly see AI-generated summaries in search results and use AI assistants to research purchases. These tools draw on pages that are clear, well structured and trustworthy. Brands that already do good SEO, with accurate product data, clear answers and a consistent reputation, tend to be in a better position to be mentioned. Our guide to <a href="/blog/ai-overviews-seo-uk/">AI Overviews and SEO</a> explains what we know so far and what is still uncertain.</p>
+
+<h2>Working with a remote ecommerce SEO partner</h2>
+<p>SEO is well suited to remote work. Research, audits, content and reporting all happen through shared tools, and access to your store, Search Console and analytics can be granted at user level. You keep ownership of every account.</p>
+<p>A typical remote engagement runs like this:</p>
+<ol>
+<li><strong>Audit and research:</strong> a technical review plus US keyword research mapped to your pages.</li>
+<li><strong>Priority fixes:</strong> the technical issues and category page improvements likely to matter most.</li>
+<li><strong>Ongoing work:</strong> new and improved category copy, supporting content, internal linking and structured data.</li>
+<li><strong>Reporting:</strong> monthly reviews based on Search Console and analytics data filtered to the US.</li>
+</ol>
+<p>If you are weighing up an overseas partner more generally, our guide to how to <a href="/blog/outsource-seo-to-overseas-agency/">outsource SEO to an overseas agency</a> covers contracts, communication and access. For a full checklist of store-level tasks, see our <a href="/blog/ecommerce-seo-checklist/">ecommerce SEO checklist</a>.</p>
+
+<h2>Measuring whether SEO is working</h2>
+<p>Rankings alone can mislead. For a DTC store, the measures that matter most are organic sessions to category and product pages, organic revenue and conversion rate, and the number of non-brand searches you appear for. Filter reports to the United States so traffic from other countries does not blur the picture. Review trends month on month rather than reacting to daily movements, and compare against the same period last year where seasonality is strong.</p>
+
+<h2>Costs and timelines</h2>
+<p>Our SEO work sits within our <a href="/services/seo-geo/">SEO and GEO service</a>. Retainers start at Launch £350 a month, Growth £750 a month and Scale £1,500 a month, with details on our <a href="/pricing/">pricing page</a>. We quote in pounds, and other currencies can be quoted on request.</p>
+<p>SEO is not instant. Technical fixes can show effects within weeks, but results from category improvements and new content typically build over three to six months, and competitive categories can take longer.</p>
+
+<h2>Legal and compliance points</h2>
+<p>US stores face rules on advertising claims, reviews, accessibility, privacy and sales tax that can vary at federal and state level. SEO content needs to respect those rules, particularly for product claims and review markup. We are not lawyers: check current official guidance and speak to your own legal adviser about what applies to your business.</p>
+
+<h2>FAQs</h2>
+<h3>What is ecommerce SEO for US DTC brands?</h3>
+<p>It is the process of improving a direct-to-consumer store so it ranks for the searches American shoppers make before buying. It covers US keyword research, category and product page optimisation, technical health, structured data and helpful content.</p>
+<h3>Which pages should a DTC brand optimise first?</h3>
+<p>Usually category or collection pages, because they target broad commercial searches and pass authority to products. Product pages and supporting content come next, along with any technical issues that block crawling or slow the store down.</p>
+<h3>Can a UK-based agency do SEO for a US store?</h3>
+<p>Yes. SEO is research, technical and content work that can be done remotely. We use US search data, write for American shoppers and report on US traffic, while you keep ownership of your store and accounts.</p>
+<h3>How long does ecommerce SEO take to work?</h3>
+<p>Some technical fixes show effects within weeks, but most category and content improvements take three to six months to build meaningful organic traffic. Highly competitive categories can take longer.</p>
+<h3>Does SEO still matter if I run paid social ads?</h3>
+<p>Yes. Paid social creates demand, while search captures people who are already looking. SEO reduces reliance on rising ad costs and gives you a channel that keeps working when campaigns pause.</p>
+<h3>How much does ecommerce SEO cost?</h3>
+<p>Our monthly retainers are Launch at £350, Growth at £750 and Scale at £1,500, depending on store size and how much work is needed. We quote in pounds and can quote other currencies on request.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-website-development-kuwait',
+    seoTitle: 'Ecommerce Website Development Kuwait: A Planning Guide',
+    title: 'Ecommerce Website Development in Kuwait: Planning an Online Store That Sells',
+    description: 'Ecommerce website development for Kuwait brands: choosing a platform, payments, delivery, Arabic product content, timelines and what our store builds cost.',
+    date: '2026-11-09',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Ecommerce website development for a Kuwait business means building an online store that handles local payment preferences, clear delivery and returns, and product content in Arabic and English, while staying fast and simple on a phone. The platform matters, but the decisions you make about payments, delivery, catalogue structure and content usually matter more.</p>
+<p>Prism Works Studio is a UK-based studio that builds online stores remotely for brands in Kuwait and across the Gulf. We have no office or staff in Kuwait. This guide explains how to plan an ecommerce site, which platform to choose, what to ask any developer and what our <a href="/services/website-ecommerce-development/">ecommerce website development</a> service costs.</p>
+
+<h2>What Kuwaiti shoppers expect from an online store</h2>
+<p>Online shoppers in Kuwait are used to polished regional marketplaces and international brands. Your store does not need every feature they have, but it does need to feel trustworthy and easy to use.</p>
+<ul>
+<li><strong>Mobile-first browsing and checkout.</strong> Most visits will be on phones, so product pages, filters and checkout should be designed for small screens first.</li>
+<li><strong>Familiar payment options.</strong> Shoppers expect to see payment methods they know and trust. Confirm which methods your payment provider supports in Kuwait before choosing a platform.</li>
+<li><strong>Clear delivery promises.</strong> Delivery areas, costs and timings should be visible on product pages and in the cart, not hidden until checkout.</li>
+<li><strong>Arabic and English content.</strong> Many stores benefit from full bilingual product pages, with right-to-left layouts that work properly in Arabic.</li>
+<li><strong>Easy contact.</strong> A messaging button or clear contact options reassure shoppers who have a question before buying.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers the details that make a new store feel credible.</p>
+
+<h2>Ecommerce website development in Kuwait: choosing a platform</h2>
+<p>Most of the stores we build use Shopify or WooCommerce. Both can work well for Kuwait brands; the right choice depends on your catalogue, integrations and who will run the store day to day. Our wider <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> goes into more depth.</p>
+<table>
+<thead><tr><th>Factor</th><th>Shopify</th><th>WooCommerce</th></tr></thead>
+<tbody>
+<tr><td>Ease of running</td><td>Hosted and simple to manage, with fewer technical tasks</td><td>More flexible, but you manage hosting, updates and security</td></tr>
+<tr><td>Multiple languages</td><td>Built-in language support plus translation apps</td><td>Handled through multilingual plugins</td></tr>
+<tr><td>Payments</td><td>Depends on available gateways and apps for Kuwait</td><td>Wide choice of gateway plugins, subject to provider support</td></tr>
+<tr><td>Customisation</td><td>Theme and app based, with limits on checkout changes</td><td>Highly customisable, more development effort</td></tr>
+<tr><td>Ongoing costs</td><td>Monthly plan plus app subscriptions</td><td>Hosting, premium plugins and maintenance</td></tr>
+</tbody>
+</table>
+<p>Before choosing, check with your payment provider and delivery partners which platforms they integrate with. That single question rules options in or out faster than any feature list.</p>
+
+<h2>Planning payments, delivery and returns</h2>
+<p>These are the decisions that most often delay ecommerce projects, so we settle them during discovery.</p>
+<ol>
+<li><strong>Payment provider.</strong> Choose a provider that supports the methods your customers prefer and integrates cleanly with your platform. Our guide to <a href="/blog/payment-gateways-uk-online-shop/">payment gateways</a> explains what to compare, even though the providers available in Kuwait will differ from the UK.</li>
+<li><strong>Cash on delivery.</strong> Decide whether to offer it, and how you will manage failed deliveries and returns if you do.</li>
+<li><strong>Delivery zones and rates.</strong> Set rates by area and order value, and decide whether you will ship to other Gulf countries from launch or later.</li>
+<li><strong>Returns policy.</strong> Write a clear, fair policy and show a summary on product pages.</li>
+<li><strong>Order fulfilment.</strong> Agree who picks, packs and ships orders, and how stock levels stay accurate between your store and any physical shop.</li>
+</ol>
+<p>If you plan to sell beyond Kuwait, our article on <a href="/blog/selling-internationally-uk-online-store/">selling internationally from an online store</a> covers currencies, duties and delivery promises in more detail.</p>
+
+<h2>Arabic product content and site structure</h2>
+<p>A bilingual store needs more than translated product titles. Category names, filters, size guides, delivery information, emails and checkout labels all need Arabic versions that read naturally. Right-to-left layouts must mirror navigation, product galleries and forms correctly. We plan this structure from the start, and your team or a trusted translator approves every Arabic page.</p>
+<p>A clear catalogue structure helps both shoppers and search engines. Our guide to <a href="/blog/ecommerce-category-page-design/">ecommerce category page design</a> shows how to group products so customers find what they want quickly. Strong product descriptions in both languages also help; see our tips on <a href="/blog/ecommerce-product-descriptions/">writing product descriptions</a>.</p>
+
+<h2>Costs and timelines</h2>
+<p>Our standard prices are on our <a href="/pricing/">pricing page</a>. We price in pounds sterling and can quote in other currencies on request.</p>
+<ul>
+<li><strong>Ecommerce website:</strong> £1,500 to £3,500, typically five to twelve weeks.</li>
+<li><strong>Small brochure website:</strong> £1,000 to £2,000, typically three to five weeks, if you only need a catalogue without online checkout.</li>
+<li><strong>Ongoing marketing retainers:</strong> Launch £350 a month, Growth £750 a month and Scale £1,500 a month.</li>
+</ul>
+<p>Where a project falls within the range depends on catalogue size, number of languages, payment and delivery integrations, and how much custom design is needed. Platform subscriptions, apps, payment fees and translation are separate costs, and we list them clearly in any proposal.</p>
+
+<h2>How a remote ecommerce build works</h2>
+<p>The UK is two or three hours behind Kuwait depending on the time of year, which leaves a good overlap for calls. Most work is shared through design files and a staging store you can test on your own devices.</p>
+<ol>
+<li><strong>Discovery:</strong> products, customers, payments, delivery, languages and integrations.</li>
+<li><strong>Structure:</strong> categories, navigation, filters and key templates.</li>
+<li><strong>Design:</strong> homepage, category, product, cart and content pages, reviewed and approved in stages.</li>
+<li><strong>Build and setup:</strong> theme, apps or plugins, payments, delivery rates, emails and tracking.</li>
+<li><strong>Testing:</strong> test orders, both languages, mobile checks and speed.</li>
+<li><strong>Launch and training:</strong> your team learns to add products, manage orders and update content.</li>
+</ol>
+
+<h2>Features to launch with, and features to add later</h2>
+<p>It is tempting to launch with every feature you have seen on larger stores. In practice, a focused launch is usually faster, cheaper and easier to improve once real customer data arrives. We suggest separating essentials from nice-to-haves.</p>
+<ul>
+<li><strong>Launch essentials:</strong> fast product and category pages, working search and filters, clear delivery and returns information, reliable payments, order confirmation emails in both languages, and analytics with purchase tracking.</li>
+<li><strong>Useful early additions:</strong> product reviews, discount codes, abandoned cart emails and simple bundles.</li>
+<li><strong>Later, once there is demand:</strong> loyalty schemes, subscriptions, customer wishlists, gift cards and multi-currency selling across the Gulf.</li>
+</ul>
+
+<h2>Questions to ask any ecommerce developer</h2>
+<p>Whoever you hire, these questions help you compare proposals fairly.</p>
+<ul>
+<li>Which payment providers and delivery partners have you checked for this build, and how will they integrate?</li>
+<li>How will Arabic and right-to-left layouts be handled across product pages, checkout and emails?</li>
+<li>What ongoing costs will we pay for the platform, apps, plugins and hosting?</li>
+<li>Who owns the store, domain, theme files and product data?</li>
+<li>What training and support do we get after launch?</li>
+</ul>
+<p>Clear answers to these questions are usually a better guide to a smooth project than a long list of features.</p>
+
+<h2>Regulation and policies</h2>
+<p>Ecommerce stores need clear terms, a privacy notice, a returns policy and accurate product information. Kuwait has its own consumer protection and data rules, and some product categories may have extra requirements. We keep our guidance general: check current official guidance from the relevant Kuwaiti authorities and have your legal adviser approve policies before launch.</p>
+
+<h2>After launch: marketing your store</h2>
+<p>A new store needs traffic. Many Gulf brands combine search visibility for product and category terms with paid social and shopping campaigns. We can support you with <a href="/sectors/ecommerce/">ecommerce marketing</a> once the store is live, starting with tracking so you can see which channels produce sales.</p>
+
+<h2>FAQs</h2>
+<h3>How much does ecommerce website development in Kuwait cost with Prism Works Studio?</h3>
+<p>Our ecommerce sites cost £1,500 to £3,500, depending on catalogue size, languages and integrations. We price in pounds sterling and can quote in other currencies on request.</p>
+<h3>Do you have an office in Kuwait?</h3>
+<p>No. We are a UK-based studio working remotely with Kuwait brands through video calls, shared design files and a staging store you can test before launch.</p>
+<h3>Is Shopify or WooCommerce better for a Kuwait online store?</h3>
+<p>Shopify suits brands that want a hosted, simple-to-run store. WooCommerce suits businesses that want more control and customisation. Check which platforms your payment and delivery partners support before deciding.</p>
+<h3>Can my online store be in Arabic and English?</h3>
+<p>Yes. We build bilingual stores with right-to-left layouts for Arabic. Your team or a trusted translator should approve all Arabic content before it goes live.</p>
+<h3>How long does it take to build an ecommerce website?</h3>
+<p>Our ecommerce builds typically take five to twelve weeks. Catalogue size, languages, integrations and how quickly content is ready all affect the timeline.</p>
+<h3>Can I offer cash on delivery on my online store?</h3>
+<p>Most platforms can support cash on delivery. Decide early how you will handle failed deliveries and returns, and confirm the option works with your delivery partner.</p>
+`,
+  },
+  {
+    slug: 'ev-charger-installer-marketing-uk',
+    seoTitle: 'EV Charger Installer Marketing UK: Get More Installs',
+    title: 'EV Charger Installer Marketing in the UK: How to Get More Home and Business Installs',
+    description: 'EV charger installer marketing in the UK works when local SEO, clear install pages, accurate grant wording and focused ads turn new EV drivers into booked jobs.',
+    date: '2026-11-09',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>EV charger installer marketing in the UK is about being the obvious local choice when someone has just ordered an electric car and needs a charger fitted at home, or when a business decides to add charging for staff and visitors. The installers who grow usually combine strong local search visibility, clear pages for each type of install, careful wording around grants and a quote process that takes minutes rather than days.</p>
+<p>This guide is for electricians adding EV charging to their services, specialist charge point installers and renewables firms that fit chargers alongside solar panels and batteries. We cover how buyers search, what your website should include, how paid search fits in and how to win more commercial work.</p>
+
+<h2>How customers look for an EV charger installer</h2>
+<p>A typical home charger enquiry follows a car purchase. The driver has a delivery date and wants to charge at home from day one. They search for things like "EV charger installation near me", "home charger fitted [town]", "how much to install an EV charger" or the name of a charger brand plus "installer". Some come via a car dealer or manufacturer recommendation, then check reviews before choosing.</p>
+<p>Business buyers behave differently. A facilities manager, landlord or small business owner may search "workplace EV charging installer" or "commercial EV charger installation", and expects to see evidence of larger projects, load management, back-office software options and maintenance. Your marketing needs to speak to both groups without confusing either.</p>
+
+<h2>EV charger installer marketing UK: what to prioritise</h2>
+<p>Here is how we would usually prioritise channels for a small or growing installer.</p>
+<table>
+<thead><tr><th>Channel</th><th>Who it reaches</th><th>Common pitfall</th></tr></thead>
+<tbody>
+<tr><td>Local SEO and area pages</td><td>Homeowners searching in your towns</td><td>Thin pages that only swap the town name</td></tr>
+<tr><td>Google Business Profile</td><td>"Near me" searches and review checkers</td><td>Categories that hide the EV charging service</td></tr>
+<tr><td>Google Ads</td><td>Urgent home installs and commercial enquiries</td><td>Paying for "public charging near me" searches</td></tr>
+<tr><td>Dealer and partner referrals</td><td>New EV buyers at the point of purchase</td><td>No landing page or tracking for referred leads</td></tr>
+<tr><td>LinkedIn and direct outreach</td><td>Workplaces, landlords and fleet managers</td><td>Generic messages with no project evidence</td></tr>
+<tr><td>Email follow-up</td><td>Quotes awaiting a decision</td><td>No follow-up at all after the quote</td></tr>
+</tbody>
+</table>
+
+<h2>Structure your website around install types</h2>
+<p>One page titled "EV charging" will not rank well or convert well. Buyers want to see that you handle their specific situation. A useful structure looks like this:</p>
+<ul>
+<li><strong>Home EV charger installation:</strong> what the survey checks, typical install steps, cable routes, smart charging features and how long the job takes.</li>
+<li><strong>Chargers you fit:</strong> the brands and models you install, with honest notes on who each suits.</li>
+<li><strong>Workplace and commercial charging:</strong> multiple charge points, load management, payment and access control options, and maintenance.</li>
+<li><strong>Landlords, flats and shared parking:</strong> general information on the extra considerations, such as permissions and shared supplies.</li>
+<li><strong>Solar and battery integration:</strong> if you offer it, explain how chargers can work alongside home generation.</li>
+<li><strong>Grants and funding:</strong> a general overview, clearly dated, telling readers to check current official guidance.</li>
+</ul>
+<p>Our <a href="/blog/electrician-website-design-uk/">electrician website design guide</a> covers the wider site structure for electrical contractors, and our <a href="/blog/service-page-design/">service page design guide</a> explains how to lay out each page so it converts. If you need a new site, our <a href="/services/website-ecommerce-development/">website development service</a> builds fast, mobile-first sites that are easy to keep updated.</p>
+
+<h2>Keep grant and regulation wording general</h2>
+<p>Funding schemes for chargers have changed several times, with different support for different groups such as renters, flat owners, landlords and businesses. Charger technical rules and electrical standards also apply. These details matter to customers, but they are easy to get wrong on a website that is not updated often.</p>
+<p>Describe schemes in general terms, explain how you help customers check eligibility and apply, and tell readers to confirm the current position with official government guidance. For technical and safety requirements, say that installs are carried out to the relevant current standards by suitably qualified electricians, and list only the registrations and approvals you genuinely hold, ideally with a way for customers to verify them.</p>
+
+<h2>Make quoting fast</h2>
+<p>Many home installs are straightforward, and customers expect a fast price. A remote survey form can qualify most jobs without a visit and helps you quote accurately. Ask for:</p>
+<ol>
+<li>Postcode and property type.</li>
+<li>Where the car is parked and roughly how far that is from the fuse board.</li>
+<li>Photos of the fuse board, the meter and the proposed charger location.</li>
+<li>The car model, if known, and preferred charger.</li>
+<li>Delivery date of the car, so you can prioritise urgent jobs.</li>
+</ol>
+<p>Our guide to <a href="/blog/website-contact-forms/">website contact forms</a> covers how to keep forms short while still collecting what you need. Respond quickly with a clear quote that explains what is included and any likely extras.</p>
+
+<h2>Local SEO for charger installers</h2>
+<p>Home charger work is local. Set up your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> with accurate categories and services, add photos of neat installs and cable runs, and ask every customer for a review that mentions the charger and town. Build area pages only for places you genuinely serve, with real job photos and useful notes rather than repeated text. Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> explains the approach in more detail.</p>
+<p>Helpful content also earns links and visibility in AI search answers: guides to choosing a home charger, what happens during an install, and how smart charging works. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers this content alongside the technical work that helps pages rank.</p>
+
+<h2>Google Ads for EV charging</h2>
+<p>Paid search can bring in home install jobs quickly, but EV keywords are full of irrelevant traffic: people looking for public charge points, charging apps, car reviews and jobs. Focus on searches that include "install", "installer" or "fitted", plus brand-plus-installer phrases, and maintain a strong negative keyword list. Separate home and commercial campaigns so you can set different budgets and landing pages.</p>
+<p>Track form submissions and calls as conversions so you can see which searches lead to booked installs. Our guide to <a href="/blog/google-ads-negative-keywords-guide/">Google Ads negative keywords</a> is a good starting point. Our <a href="/services/paid-media/">paid media service</a> can manage campaigns for you, with ad spend paid separately.</p>
+
+<h2>Winning commercial work</h2>
+<p>Commercial projects are larger and less frequent, and they depend on trust and evidence. Create a commercial section with project photos (with permission), a clear explanation of your process from site survey to commissioning and maintenance, and answers to common questions about load management and software. Reach out directly to local businesses, managing agents and landlords with a short, specific message and a link to that section.</p>
+<p>Maintenance and support contracts deserve their own page, because many sites need ongoing servicing and fault response after installation.</p>
+
+<h2>Build referral partnerships</h2>
+<p>Car dealers, used EV specialists, solar installers and local electricians who do not fit chargers all meet people who need one. A simple referral arrangement can bring a steady flow of warm leads. Give each partner a dedicated landing page or form link so you can track which relationships produce work, and make sure referred customers get the same fast response and clear quote as everyone else. If you offer partners anything in return, put the arrangement in writing and keep it transparent to customers.</p>
+
+<h2>Measure booked installs</h2>
+<p>Clicks and enquiries are only part of the picture. Record the source of each lead, whether it became a quote and whether the install went ahead. Review the numbers monthly by channel, area and job type. You will quickly see whether home installs, commercial work or partner referrals give the best return, and you can shift budget and effort accordingly.</p>
+
+<h2>What it costs</h2>
+<p>Our <a href="/pricing/">pricing page</a> lists our retainers: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. SEO and paid campaigns usually take three to six months to show consistent results.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best EV charger installer marketing in the UK?</h3>
+<p>For most installers, local SEO with clear install pages, a strong Google Business Profile, tightly targeted Google Ads and a fast remote quote process deliver the most booked jobs.</p>
+<h3>Should I mention EV charger grants on my website?</h3>
+<p>Yes, but keep it general. Explain how you help, date the page and tell readers to check current official guidance for eligibility.</p>
+<h3>How do I stop Google Ads showing for public charging searches?</h3>
+<p>Use phrase and exact match keywords that include "install" or "installer", and add negative keywords such as "public", "map", "app" and "near me free".</p>
+<h3>Do I need separate pages for home and commercial charging?</h3>
+<p>Yes. The buyers, questions and decision process are very different, so separate pages rank and convert better.</p>
+<h3>Can I quote for EV charger installs without a site visit?</h3>
+<p>Many installers quote straightforward home jobs from a remote survey form with photos, then confirm on the day. Complex jobs still need a visit.</p>
+<h3>How long until marketing brings in more installs?</h3>
+<p>Google Ads can produce enquiries within weeks. SEO typically takes three to six months to show consistent results.</p>
+`,
+  },
+  {
+    slug: 'garden-room-company-marketing-uk',
+    seoTitle: 'Garden Room Company Marketing UK: Get Better Leads',
+    title: 'Garden Room Company Marketing in the UK: How to Get Better Leads',
+    description: 'Garden room company marketing in the UK works best when strong visuals, clear pricing guidance, local SEO and targeted ads turn browsers into design visits.',
+    date: '2026-11-09',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Garden room company marketing in the UK is about turning months of visual browsing into a booked design visit. The firms that do well show their finished rooms beautifully, explain prices and the build process honestly, and make sure they appear when people in their area search for a garden office, studio or gym.</p>
+<p>This guide is for garden room builders, timber-frame and SIP specialists, log cabin installers and joinery firms that have added garden buildings to their range. We cover how buyers search, what your website must do, which channels are worth paying for and how to qualify leads before you spend an afternoon driving to a site visit.</p>
+
+<h2>How people buy a garden room</h2>
+<p>A garden room is a big purchase for most households, often sitting somewhere between a kitchen and a small extension in cost. Buyers rarely rush. They save photos on Instagram and Pinterest, compare suppliers' galleries, read about planning and building regulations, and ask friends who have one. Searches start broad, such as "garden office ideas" or "garden room vs extension", then narrow to "garden room builders near me", "insulated garden office [county]" and "garden room prices".</p>
+<p>That long, visual journey means your marketing has to work at two speeds. Social media and inspiration content keep you in the frame while people dream, and local search plus a strong website catch them when they are ready to talk to a builder. Our <a href="/blog/tradesman-marketing-uk/">tradesman marketing guide</a> covers the general principles; this post focuses on garden buildings.</p>
+
+<h2>Garden room company marketing UK: where to focus</h2>
+<p>The table below shows the channels we would usually prioritise for a small or growing garden room business.</p>
+<table>
+<thead><tr><th>Channel</th><th>Role in the journey</th><th>Common mistake</th></tr></thead>
+<tbody>
+<tr><td>Portfolio website</td><td>Turns interest into a design visit request</td><td>Stock images and no detail on specifications</td></tr>
+<tr><td>Local and regional SEO</td><td>Captures "near me" and county searches</td><td>Targeting the whole UK with no local relevance</td></tr>
+<tr><td>Instagram and Pinterest</td><td>Inspiration and long-term brand recall</td><td>Posting photos with no link to a relevant page</td></tr>
+<tr><td>Meta ads</td><td>Reaching homeowners in your build radius</td><td>Broad targeting far beyond where you install</td></tr>
+<tr><td>Google Ads</td><td>Capturing ready-to-buy searches quickly</td><td>Bidding on "shed" and DIY kit searches</td></tr>
+<tr><td>Show sites and open days</td><td>Letting buyers step inside a finished room</td><td>No follow-up for visitors who leave details</td></tr>
+</tbody>
+</table>
+
+<h2>Make your website a showroom</h2>
+<p>Your website is where browsers decide whether you are the kind of company they want in their garden. It needs to feel as well finished as the rooms you build. Use your own high-quality photography, including interiors, details such as cladding and glazing, and the garden around each building. Short walkthrough videos are especially persuasive for a product people cannot easily visualise.</p>
+<p>Build a page for each main use, because that is how people search and how they picture the room:</p>
+<ul>
+<li><strong>Garden offices:</strong> power, data, heating, soundproofing and year-round comfort for home workers.</li>
+<li><strong>Garden gyms:</strong> floor loading, ventilation and space for equipment.</li>
+<li><strong>Studios and hobby rooms:</strong> light, storage and sinks for artists, musicians and makers.</li>
+<li><strong>Guest and family rooms:</strong> general information on what to consider if someone may sleep there, with a reminder that rules differ and to check current official guidance.</li>
+<li><strong>Your build process:</strong> survey, design, foundations, build, electrics and handover.</li>
+<li><strong>Specifications:</strong> insulation, cladding options, glazing, roofing and warranties.</li>
+</ul>
+<p>Each project in your gallery should say where it is (by town or county), what it is used for, the approximate size and the main materials. That detail helps search engines and gives buyers a reason to stay. If your current site does not show your work well, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> builds fast, image-led sites, and our guide to <a href="/blog/website-image-optimisation/">website image optimisation</a> explains how to keep large galleries quick to load.</p>
+
+<h2>Be open about price drivers</h2>
+<p>"How much does a garden room cost?" is one of the most common questions in this market, and avoiding it sends people to competitors who answer it. You do not have to publish a fixed price list, but you should explain what moves the price: size, foundations, insulation level, glazing, cladding, electrics, groundwork, access and finishing. If you offer starting points you are confident in, publish them. If every job is bespoke, say so and explain how you reach a quote.</p>
+<p>A clear pricing guide also qualifies leads. People who read it and still book a visit are far more likely to be serious, which saves you wasted site visits.</p>
+
+<h2>Handle planning and regulations carefully</h2>
+<p>Buyers worry about planning permission and building regulations, and many search for answers before they contact anyone. A helpful general explainer earns trust and traffic, but rules depend on the property, location, size, use and any designations such as conservation areas or listed buildings. Keep your wording general, explain what you check during the survey and tell readers to confirm with their local planning authority and current official guidance. Never promise that a room will not need permission.</p>
+
+<h2>Local SEO for garden room builders</h2>
+<p>Most garden room companies install within a defined radius, so local and regional search is where organic leads come from. Make sure your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> uses accurate categories, lists your real service area and is full of project photos. Encourage customers to leave reviews that mention the room type and town.</p>
+<p>On your website, build county or area pages only where you genuinely work, and fill them with local projects rather than swapped place names. Our <a href="/blog/local-seo-uk-guide/">UK local SEO guide</a> explains the approach. If you would like help planning keywords, content and technical fixes, our <a href="/services/seo-geo/">SEO and GEO service</a> covers both traditional search and AI search visibility.</p>
+
+<h2>Paid social and search</h2>
+<p>Garden rooms photograph well, which makes Meta ads (Facebook and Instagram) a natural fit. Target homeowners within your installation radius, use carousels of finished rooms, and send people to the relevant use page or a brochure download rather than a bare contact form. Remarketing to people who visited your pricing or gallery pages is often the most efficient spend.</p>
+<p>Google Ads works for high-intent searches like "garden office builders [county]", but watch out for cheap shed, summerhouse and DIY kit searches. Use a solid negative keyword list and track brochure downloads, calls and visit requests as separate conversions. Our <a href="/blog/meta-ads-cost-uk/">Meta ads cost guide</a> explains budgets, and our <a href="/services/paid-media/">paid media service</a> can run campaigns for you, with ad spend paid separately.</p>
+
+<h2>Qualify leads before the site visit</h2>
+<p>Design visits take time, so a good enquiry form asks a few useful questions without becoming a chore:</p>
+<ol>
+<li>Postcode, to confirm you install there.</li>
+<li>Intended use of the room.</li>
+<li>Approximate size, or "not sure yet".</li>
+<li>Rough budget range and ideal timescale.</li>
+<li>Any known site issues, such as slopes, access or trees.</li>
+</ol>
+<p>Follow up quickly with a short email confirming next steps and linking to your process and specification pages, so the visit starts from shared understanding.</p>
+
+<h2>Make the most of show sites and open days</h2>
+<p>Many buyers want to stand inside a finished room before they commit. If you have a show site, or a past customer happy to host an occasional open day, promote it on your website, Google Business Profile and social channels. Ask visitors for an email address in return for a brochure or specification sheet, then follow up within a day or two with a thank-you note and an invitation to book a design visit. Track how many show site visitors go on to order, so you know whether the effort pays back.</p>
+<p>Keep the same discipline across every channel. Record where each enquiry came from, which page they landed on and whether they became a design visit and then an order. A simple monthly review will show which areas, room types and campaigns deserve more of your budget.</p>
+
+<h2>What marketing support costs</h2>
+<p>Our <a href="/pricing/">pricing page</a> sets out our retainers: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks. SEO and paid campaigns usually take three to six months to show consistent results.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best garden room company marketing in the UK?</h3>
+<p>A portfolio-led website, local SEO, an active Google Business Profile and Meta ads aimed at homeowners in your installation area usually work best together, supported by Google Ads for high-intent searches.</p>
+<h3>Should garden room companies publish prices?</h3>
+<p>Explaining price drivers is strongly recommended. Publishing starting prices helps qualify leads if you are confident in them, but many bespoke builders prefer to explain how quotes are built instead.</p>
+<h3>Is Instagram worth it for a garden room business?</h3>
+<p>Usually yes, because buyers browse visually. It works best when posts link back to relevant pages on your website and when you also invest in search.</p>
+<h3>How do I stop getting enquiries for cheap sheds?</h3>
+<p>Use clear wording about what you build, a pricing guide, qualifying questions on your form and negative keywords in Google Ads for shed and DIY kit searches.</p>
+<h3>Can I say a garden room does not need planning permission?</h3>
+<p>Avoid blanket statements. Rules vary by property and use, so explain the general picture and tell customers to check with their local planning authority and current official guidance.</p>
+<h3>How long until marketing brings in more design visits?</h3>
+<p>Paid ads can bring enquiries within weeks once set up well. SEO typically takes three to six months to show consistent results.</p>
+`,
+  },
+  {
+    slug: 'google-ads-agency-ireland',
+    seoTitle: 'Google Ads Agency Ireland: What Irish Businesses Get',
+    title: 'Google Ads Agency for Irish Businesses: How Remote PPC Management Works',
+    description: 'Looking for a Google Ads agency in Ireland? What good PPC management covers for Irish campaigns, how a remote UK studio works with you and how fees are set.',
+    date: '2026-11-09',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/blog/google-ads-agency-uk/'],
+    body: `
+<p>A Google Ads agency for an Irish business should run campaigns that reach the right people in Ireland, at a cost that makes sense for your margins, and prove it with clear conversion tracking. Good management covers account structure, Irish location and language targeting, keyword and search term control, ad copy, landing pages, bidding and honest monthly reporting.</p>
+<p>Prism Works Studio is a UK-based studio that manages <a href="/services/paid-media/">paid media campaigns</a> for businesses in the UK, Ireland and across Europe, working remotely. We do not have an Irish office and will not claim one. We work in the same time zone as Ireland, with accounts set up in your name and regular calls to review performance. This guide covers what to expect from any Google Ads partner, the questions to ask and how fees usually work.</p>
+
+<h2>Why Irish Google Ads campaigns need their own setup</h2>
+<p>The Google Ads platform is the same in every country, but the market around it is not. Treating Ireland as an add-on to a UK account is one of the most common causes of wasted spend.</p>
+<ul>
+<li><strong>Smaller search volumes.</strong> Ireland has fewer searches per keyword than the UK. Campaigns need enough budget per campaign for smart bidding to learn, which often means fewer, broader campaigns rather than dozens of tiny ones.</li>
+<li><strong>Precise location targeting.</strong> Targeting the island of Ireland, the Republic only, a county or a radius around a branch gives very different results. The default setting can also show ads to people merely interested in a location. Our <a href="/blog/google-ads-location-targeting-guide/">location targeting guide</a> explains the options.</li>
+<li><strong>Currency and pricing.</strong> Ads and landing pages should show euro prices to Irish users, and the account currency should be chosen deliberately, because it cannot be changed later.</li>
+<li><strong>Local wording.</strong> Irish searchers sometimes use different terms from UK searchers for trades, products and services. Search term reports show the real language, which then shapes keywords and ad copy.</li>
+<li><strong>Competition from UK advertisers.</strong> Many UK businesses also target Ireland, so clear local relevance in your ads and pages helps you stand out.</li>
+</ul>
+
+<h2>What a Google Ads agency in Ireland should manage</h2>
+<p>Whoever runs your account, the core workstreams are similar. The table below shows what each covers and what matters most for Irish campaigns.</p>
+<table>
+<thead><tr><th>Workstream</th><th>What it covers</th><th>Points to watch for Ireland</th></tr></thead>
+<tbody>
+<tr><td>Tracking</td><td>Conversion actions, tags, consent mode, imports</td><td>EU consent rules affect how much data is recorded, so setup must be right</td></tr>
+<tr><td>Account structure</td><td>Campaigns, ad groups, budgets, naming</td><td>Enough budget per campaign for bidding to learn in a smaller market</td></tr>
+<tr><td>Keywords and search terms</td><td>Match types, negatives, search term reviews</td><td>Irish phrasing and place names; excluding irrelevant UK-only searches</td></tr>
+<tr><td>Ads and assets</td><td>Responsive search ads, sitelinks, callouts, images</td><td>Euro prices, Irish phone numbers and local proof points</td></tr>
+<tr><td>Landing pages</td><td>Message match, speed, forms, calls to action</td><td>Pages written for Irish visitors, not generic UK pages</td></tr>
+<tr><td>Bidding and budgets</td><td>Bid strategies, targets, seasonality</td><td>Irish holidays and seasonal peaks that differ from the UK</td></tr>
+<tr><td>Reporting</td><td>Spend, conversions, cost per result, actions taken</td><td>Figures reported in your account currency with clear commentary</td></tr>
+</tbody>
+</table>
+
+<h2>Conversion tracking comes first</h2>
+<p>Without reliable conversion tracking, nobody can tell which keywords and ads are earning their keep, and automated bidding has nothing useful to learn from. Before increasing spend, we check that form submissions, calls, bookings or purchases are recorded properly and counted once.</p>
+<p>In Ireland, as across the EU, GDPR and the ePrivacy rules mean analytics and advertising cookies generally need consent. Google's consent mode lets tags adjust to each visitor's choice, but it needs to be configured correctly with your consent banner. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking setup</a> covers the main steps. We set this up in line with common practice, but we are not lawyers, so check current official guidance for your situation.</p>
+
+<h2>Keeping spend focused</h2>
+<p>Most wasted budget in Google Ads comes from search terms that were never going to convert. Regular search term reviews and a well-maintained negative keyword list are some of the simplest ways to improve results. Our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> explains how to build and maintain one.</p>
+<p>Campaign types matter too. Search campaigns give the most control and suit most service businesses. Performance Max can work well for online stores with a good product feed and solid tracking, but it needs careful setup and monitoring. Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> covers when it fits and when it does not.</p>
+<p>Landing pages are part of the picture. An ad that promises a fast quote in Dublin should land on a page that delivers exactly that, with a short form and a visible phone number. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> sets out what good looks like.</p>
+
+<h2>Running Ireland and the UK in one account</h2>
+<p>If you advertise in both Ireland and the UK, the usual approach is separate campaigns for each country, with their own budgets, location targeting, ad copy and landing pages. That keeps reporting clear and stops one market quietly using up the other's budget.</p>
+<p>Some businesses use separate accounts for each country, particularly where billing currencies or legal entities differ. The right choice depends on how your business is set up, which we agree during onboarding.</p>
+
+<h2>Setting a sensible starting budget</h2>
+<p>There is no single right budget for Google Ads in Ireland. A practical way to start is to work backwards from what a lead or sale is worth to you, the likely cost per click in your sector and how many conversions bidding needs to learn. A modest test budget on a few well-chosen search campaigns usually teaches more than a large budget spread thinly across every possible keyword. Once tracking shows which campaigns produce enquiries at a cost you are happy with, budget can move towards them with confidence. We agree budgets with you and never change them without your sign-off.</p>
+
+<h2>How a remote Google Ads agency works with Irish clients</h2>
+<p>PPC management is almost entirely online work, so distance makes little practical difference when the process is clear.</p>
+<ol>
+<li><strong>Kick-off call.</strong> We agree goals, target areas, budget, margins and how a lead or sale is valued.</li>
+<li><strong>Access and audit.</strong> You grant access to your Google Ads, analytics and tag manager accounts. If you have an existing account, we audit it first; our <a href="/blog/ppc-audit-checklist/">PPC audit checklist</a> shows what we review.</li>
+<li><strong>Build or rebuild.</strong> We fix tracking, then set up or restructure campaigns, keywords, ads and assets.</li>
+<li><strong>Ongoing optimisation.</strong> Search term reviews, bid and budget adjustments, ad testing and landing page recommendations.</li>
+<li><strong>Monthly reporting.</strong> A clear report and call covering spend, results, what we changed and what comes next.</li>
+</ol>
+<p>All accounts stay in your business name, so you keep full ownership and history whatever happens.</p>
+
+<h2>How much does a Google Ads agency cost in Ireland?</h2>
+<p>There are two separate costs: what you pay Google for clicks, and what you pay for management. Ad spend is always paid directly to Google and is never included in our fees. Our management retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, depending on the number of campaigns, markets and the level of support you need. Prices are in pounds by default, and other currencies such as euro can be quoted on request.</p>
+<p>Full details are on our <a href="/pricing/">pricing page</a>, and our guide to <a href="/blog/google-ads-cost-uk/">how much Google Ads costs</a> explains how click prices and budgets work. Paid search can start generating enquiries soon after launch, but meaningful, stable performance typically takes three to six months of testing and refinement. To talk through your account, <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a Google Ads agency in Ireland?</h3>
+<p>Look for an agency that checks conversion tracking first, builds Ireland-specific campaigns, keeps accounts in your name and reports clearly on cost per lead or sale. Ask how often they review search terms and what notice period applies. Location matters less than transparency.</p>
+<h3>Do you have an office in Ireland?</h3>
+<p>No. Prism Works Studio is based in the UK and manages Google Ads for Irish businesses remotely, using video calls, shared reports and direct access to your accounts. We share a time zone with Ireland for most of the year.</p>
+<h3>Is ad spend included in your fee?</h3>
+<p>No. Ad spend is paid directly to Google from your own account. Our retainer covers setup, management, optimisation and reporting only.</p>
+<h3>Can you run campaigns for Ireland and the UK together?</h3>
+<p>Yes. We usually set up separate campaigns per country so budgets, targeting, ad copy and landing pages suit each market, and reporting stays clear.</p>
+<h3>Should my Google Ads account be in euro?</h3>
+<p>If your business is Irish and pays in euro, a euro account usually makes reporting simpler. The account currency cannot be changed after setup, so it is worth deciding carefully before creating a new account.</p>
+<h3>How quickly will I see results from Google Ads?</h3>
+<p>Ads can bring traffic and enquiries soon after launch, but stable, efficient performance typically takes three to six months as data builds up, search terms are refined and ads and landing pages are tested.</p>
+`,
+  },
+  {
+    slug: 'heat-pump-installer-marketing-uk',
+    seoTitle: 'Heat Pump Installer Marketing UK: Win More Surveys',
+    title: 'Heat Pump Installer Marketing in the UK: How to Win More Surveys and Installs',
+    description: 'Heat pump installer marketing in the UK works when local SEO, honest cost pages, clear grant explainers and easy survey booking win over cautious homeowners.',
+    date: '2026-11-09',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Heat pump installer marketing in the UK is about earning trust with homeowners who are curious but cautious, then making it easy for them to book a home survey. The installers who grow steadily usually pair strong local search visibility with plain-English pages on suitability, costs, grants and the installation process, so that by the time someone calls they already understand what happens next.</p>
+<p>This guide is for independent heating engineers moving into renewables, established plumbing and heating firms adding air source and ground source heat pumps, and specialist low-carbon installers who want more qualified enquiries. We cover how people search, what your website needs, where paid ads fit and how to stand out in a market full of national brands and lead-generation sites.</p>
+
+<h2>How homeowners look for a heat pump installer</h2>
+<p>Very few people wake up and buy a heat pump on the same day. A typical journey starts months earlier: an old boiler is on its last legs, energy bills have climbed, a neighbour has had one fitted, or a news story mentions a grant. The homeowner starts with research searches such as "are heat pumps worth it", "heat pump running costs" or "will a heat pump work in an old house". Later the searches turn local and commercial: "heat pump installer near me", "air source heat pump [town]" and "heat pump installation cost".</p>
+<p>That longer journey changes how you market. You need content that helps people during the research phase, a reason for them to remember your name, and a strong local presence when they finally search for an installer. Our wider <a href="/blog/tradesman-marketing-uk/">guide to marketing for tradespeople</a> covers the basics that apply to every trade; this post focuses on what is specific to heat pumps.</p>
+
+<h2>Heat pump installer marketing UK: the channels that matter</h2>
+<p>Not every channel earns its keep. The table below summarises where we would usually focus first for a small or growing installer.</p>
+<table>
+<thead><tr><th>Channel</th><th>What it does well</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Local SEO and service pages</td><td>Steady enquiries from people searching in your towns</td><td>One generic "renewables" page covering everything</td></tr>
+<tr><td>Google Business Profile</td><td>Map pack visibility, reviews and install photos</td><td>Wrong categories, no photos, unanswered reviews</td></tr>
+<tr><td>Educational content</td><td>Captures research searches weeks before a purchase</td><td>Copying manufacturer claims without context</td></tr>
+<tr><td>Google Ads</td><td>Fast visibility for "installer" and "cost" searches</td><td>Spend wasted on job seekers, DIY and grant-only queries</td></tr>
+<tr><td>Meta ads and remarketing</td><td>Keeping your brand in front of researchers</td><td>Sending cold audiences straight to a contact form</td></tr>
+<tr><td>Email follow-up</td><td>Nurturing people who requested a quote but paused</td><td>Pushy sequences that ignore their timeline</td></tr>
+</tbody>
+</table>
+
+<h2>Build a website that answers the hard questions</h2>
+<p>Heat pump buyers arrive with doubts. Will my house be warm enough? Do I need new radiators? Where does the outdoor unit go? Will it be noisy? How long does the install take? What happens to my hot water cylinder? Your website should answer these directly, in your own words, rather than leaving people to piece it together from forums.</p>
+<p>A practical structure for most installers looks like this:</p>
+<ul>
+<li><strong>Air source heat pumps:</strong> what they are, which homes suit them, what the survey checks and what a typical install involves.</li>
+<li><strong>Ground source heat pumps:</strong> if you offer them, explain boreholes versus trenches and why projects take longer.</li>
+<li><strong>Grants and funding:</strong> a general explainer of the schemes that may apply, with a clear note to check current official guidance.</li>
+<li><strong>Costs:</strong> the factors that move the price, such as property size, radiator upgrades, cylinder replacement and pipework.</li>
+<li><strong>Our process:</strong> survey, heat loss calculation, design, quote, install, commissioning and aftercare.</li>
+<li><strong>Area pages:</strong> one page for each main town you cover, with local job photos and relevant notes.</li>
+</ul>
+<p>If your current site is a single page with a phone number, a rebuild is usually the biggest single improvement. Our <a href="/services/website-ecommerce-development/">website development service</a> builds fast, mobile-first sites that are easy to update, and the <a href="/blog/solar-panel-installer-website-design-uk/">solar panel installer website guide</a> covers many of the same design choices for renewables firms.</p>
+
+<h2>Explain grants carefully and accurately</h2>
+<p>Grant schemes are one of the biggest reasons people start researching, and they are also one of the easiest places to make mistakes. Schemes change, eligibility rules shift and amounts get revised. A page that confidently promises a figure that is no longer right damages trust quickly and could mislead customers.</p>
+<p>Write your grant content in general terms. Explain what the main scheme is for, who it is broadly aimed at, and how you help customers through the process. Then tell readers to check the current official government guidance for eligibility and amounts, and date-stamp the page so you remember to review it. If you are not certain whether you can claim a grant on a customer's behalf, say so plainly and explain what you will check during the survey.</p>
+
+<h2>Show accreditations honestly</h2>
+<p>Installer accreditation and membership of consumer protection schemes matter a great deal to heat pump buyers, partly because some funding routes depend on them. Display the logos and registration details you genuinely hold, link the reader to where they can verify them, and avoid implying you hold anything you do not. If you work with a partner who holds certification on your behalf, explain that arrangement clearly rather than hiding it.</p>
+<p>The same applies to warranties. Separate the manufacturer's warranty from your own workmanship guarantee and say what each covers. Clear, specific wording reassures people far more than a row of badges.</p>
+
+<h2>Local SEO for heat pump installers</h2>
+<p>When research turns into buying, most searches are local. That makes your Google Business Profile and town-level pages your most valuable organic assets. Choose accurate primary and secondary categories, set a realistic service area, upload photos of real installs (outdoor units, cylinders, neat pipework), and ask every happy customer for a review that mentions the type of job. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> and <a href="/blog/how-to-get-more-google-reviews/">advice on getting more Google reviews</a> walk through the details.</p>
+<p>On your site, each area page should be genuinely useful: housing stock you commonly see in that town, typical project types, local photos and a short note on how quickly you can survey. Thin pages that swap one town name for another rarely rank and can drag the rest of the site down. If you want help with this, our <a href="/services/seo-geo/">SEO and GEO service</a> covers local search, content and the structured data that helps AI search tools understand your business.</p>
+
+<h2>Using Google Ads without wasting money</h2>
+<p>Paid search can bring in survey requests quickly, but heat pump keywords attract plenty of people who will never buy from you: engineers looking for jobs, students, DIY enthusiasts, people looking only for free schemes and people outside your area. Start with a tight set of high-intent phrases such as "heat pump installer [town]" and "air source heat pump installation", use phrase and exact match, and build a strong negative keyword list from week one.</p>
+<p>Send each ad group to a focused landing page with a short survey request form rather than your home page. Track form submissions and calls properly so you can see which searches lead to booked surveys, not just clicks. Our guides to <a href="/blog/google-ads-for-small-business-uk/">Google Ads for small businesses</a> and <a href="/blog/google-ads-conversion-tracking-setup/">conversion tracking setup</a> explain how to do this. If you would rather hand it over, our <a href="/services/paid-media/">paid media service</a> manages Google, Microsoft and Meta campaigns, with ad spend paid separately.</p>
+
+<h2>Nurture the long decision</h2>
+<p>Because heat pumps are a considered purchase, many people request a quote and then go quiet. That is normal. A simple follow-up plan keeps you in the frame without being pushy:</p>
+<ol>
+<li>Send the survey summary and quote promptly, with a plain explanation of each line.</li>
+<li>Follow up a week later to answer questions, rather than to chase a signature.</li>
+<li>Share a short case-style explainer of a similar property you have worked on, using your own photos and no invented figures.</li>
+<li>Offer a second visit or video call for other household members.</li>
+<li>Check in again before the colder months, when heating decisions feel more urgent.</li>
+</ol>
+<p>Remarketing ads on Meta and YouTube can support this by showing installation videos and process explainers to people who have visited your cost or grant pages.</p>
+
+<h2>Measure what actually matters</h2>
+<p>Clicks and website visits are easy to measure, but they are not the goal. Track survey requests, surveys completed, quotes sent and installs won, and tie them back to the channel and page where the enquiry started. Even a simple spreadsheet updated weekly will show you which areas, keywords and pages bring in profitable work. Review it monthly and move budget towards what produces installs, not just enquiries.</p>
+
+<h2>What it costs to market a heat pump business</h2>
+<p>Costs depend on how much you do in-house. Our <a href="/pricing/">pricing page</a> sets out our monthly retainers: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks to build. SEO and paid search usually take three to six months to show consistent results, so plan for a steady build rather than an overnight change.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best heat pump installer marketing in the UK?</h3>
+<p>For most installers, the best mix is local SEO with strong service and area pages, a well-maintained Google Business Profile, helpful content on costs and grants, and tightly managed Google Ads. Together they capture both early research and later buying searches.</p>
+<h3>Should I mention grants on my website?</h3>
+<p>Yes, because many buyers start by researching funding. Keep the wording general, explain how you help with the process, date-stamp the page and tell readers to check current official guidance for eligibility and amounts.</p>
+<h3>Can I publish prices for heat pump installation?</h3>
+<p>You can explain the factors that affect price and give honest ranges if you are confident in them. Many installers prefer to explain cost drivers and offer a survey, because every property differs.</p>
+<h3>How long does it take to get more enquiries from SEO?</h3>
+<p>SEO usually takes three to six months to show consistent results, depending on competition in your area and the state of your current website. Paid search can produce enquiries sooner while SEO builds.</p>
+<h3>Are lead-generation websites worth using?</h3>
+<p>They can fill a diary, but you often compete with several other installers for the same lead and build no lasting asset. Many firms use them as a top-up while building their own website and search presence.</p>
+<h3>Do heat pump installers need social media?</h3>
+<p>It helps as a supporting channel. Short videos of installs, outdoor unit placement and finished cylinder cupboards build familiarity, but social media works best alongside search rather than instead of it.</p>
+`,
+  },
+  {
+    slug: 'hot-tub-retailer-marketing-uk',
+    seoTitle: 'Hot Tub Retailer Marketing UK: Sell More Spas',
+    title: 'Hot Tub Retailer Marketing in the UK: How to Sell More Spas and Swim Spas',
+    description: 'Hot tub retailer marketing in the UK works when your showroom, local SEO, seasonal ads and honest running-cost content turn browsers into wet tests and sales.',
+    date: '2026-11-09',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/services/website-ecommerce-development/'],
+    body: `
+<p>Hot tub retailer marketing in the UK is about getting serious buyers into your showroom, ideally for a wet test, and giving them reasons to choose you over cheap online sellers. The retailers who grow usually combine a well-built website with clear model pages, strong local search visibility, seasonal paid campaigns and honest content about running costs, installation and aftercare.</p>
+<p>This guide is for independent hot tub and spa showrooms, swim spa specialists, garden leisure retailers and businesses that sell, install and service hot tubs. We cover how buyers search, how to structure your website, where to spend on ads and how to stand out when every competitor seems to be running a sale.</p>
+
+<h2>How people shop for a hot tub</h2>
+<p>Most hot tub buyers spend weeks or months researching. They start with questions such as "inflatable vs hard shell hot tub", "how much does a hot tub cost to run" and "best hot tub for a small garden". As they get closer, searches turn local and commercial: "hot tub showroom near me", "hot tubs for sale [county]", "swim spa dealer" and brand-plus-town searches for the models you stock.</p>
+<p>Many people also want to sit in a tub before spending thousands of pounds. That makes your showroom a powerful asset, and the job of your marketing is often to get the right people through the door rather than to sell entirely online.</p>
+
+<h2>Hot tub retailer marketing UK: the core channels</h2>
+<p>The table below shows how the main channels usually fit together for an independent retailer.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best used for</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Website with model pages</td><td>Comparing models, specs and finance options</td><td>Copying manufacturer text word for word</td></tr>
+<tr><td>Local SEO and Google Business Profile</td><td>Showroom visits from nearby buyers</td><td>Out-of-date opening hours and few photos</td></tr>
+<tr><td>Google Ads</td><td>Brand, model and "showroom near me" searches</td><td>Spend wasted on inflatable and spare parts queries</td></tr>
+<tr><td>Meta ads</td><td>Seasonal awareness and event promotion</td><td>Discount-only messaging that attracts bargain hunters</td></tr>
+<tr><td>Email marketing</td><td>Nurturing browsers and selling chemicals and servicing</td><td>Sending only sales offers to existing owners</td></tr>
+<tr><td>Ecommerce</td><td>Chemicals, covers, accessories and spare parts</td><td>A clunky checkout and unclear delivery costs</td></tr>
+</tbody>
+</table>
+
+<h2>Build model pages that do the selling</h2>
+<p>Model pages are the heart of a hot tub retailer's website. Many retailers simply paste manufacturer descriptions, which means dozens of sites share the same text and none stand out. Write your own pages for each model you stock, covering seating layout, number of jets, insulation, filtration, dimensions, power supply, what the price includes and whether it is on display in your showroom.</p>
+<p>Add your own photos and short videos from the showroom, and explain who each model suits: couples, families, people wanting hydrotherapy-style seating, or those with limited garden space. Our guide to <a href="/blog/product-page-seo-uk/">product page SEO</a> explains how to make these pages rank, and <a href="/blog/ecommerce-product-descriptions/">writing ecommerce product descriptions</a> covers the copy itself.</p>
+
+<h2>Be honest about running costs and installation</h2>
+<p>Running costs are one of the biggest worries for buyers, especially when energy prices are in the news. A clear explainer of what affects running costs (insulation, cover quality, usage, temperature settings and the local climate) builds trust. Avoid quoting precise annual figures unless you can back them up for your own models, and explain the assumptions behind any guidance you give.</p>
+<p>Installation is the other big question. Explain base requirements, access for delivery, electrical supply and the need for a qualified electrician, using general terms and advising customers to check current official guidance and use a suitably qualified professional for electrical work. A clear "what happens on delivery day" page reduces anxiety and cuts down on repetitive phone calls.</p>
+
+<h2>Local SEO to fill the showroom</h2>
+<p>Showroom visits come from local search. Keep your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> accurate, with seasonal opening hours, plenty of showroom photos, the brands you stock and regular posts about events and new models. Ask buyers for reviews after delivery, mentioning the model and the service they received; our guide on <a href="/blog/how-to-get-more-google-reviews/">getting more Google reviews</a> has practical ideas.</p>
+<p>On your website, create a showroom page with directions, parking, wet test booking and opening hours, and consider area pages for the towns you deliver to most often, filled with genuine delivery photos and notes. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers this local work, along with the structured data and content that help AI search tools describe your business accurately.</p>
+
+<h2>Plan paid ads around the season</h2>
+<p>Hot tub demand rises and falls through the year, and research often starts well before the purchase. Many retailers see interest build in late winter and spring, with another push around autumn and the run-up to Christmas, but your own sales data is the best guide. Plan budgets to start before the peak so you are building audiences and remarketing lists when people are still comparing.</p>
+<ul>
+<li><strong>Google Ads:</strong> focus on showroom, model and brand-plus-location searches, and add negative keywords for inflatable tubs, spare parts and jobs if you do not want those searches.</li>
+<li><strong>Meta ads:</strong> promote showroom events, wet test days and new arrivals to homeowners within your delivery radius.</li>
+<li><strong>Remarketing:</strong> show model videos and finance information to people who viewed model pages but did not book a visit.</li>
+<li><strong>Conversion goals:</strong> track wet test bookings, brochure requests and calls rather than clicks alone.</li>
+</ul>
+<p>Our <a href="/blog/google-ads-cost-uk/">Google Ads cost guide</a> explains budgets in more detail. If you would rather have campaigns managed for you, our <a href="/services/paid-media/">paid media service</a> runs Google, Microsoft and Meta campaigns, with ad spend paid separately.</p>
+
+<h2>Compete on more than price</h2>
+<p>Online sellers and big-box retailers can often undercut an independent on headline price. Your advantage is everything around the tub: advice, a showroom, wet tests, professional delivery, water care guidance and local servicing. Make these visible on every model page and in your ads. If you offer finance, explain it clearly and keep the wording general, noting that finance is subject to status and that approval rests with the finance provider.</p>
+<p>Avoid permanent "sale" banners. Constant discounts teach buyers to wait and erode trust. Time-limited event offers backed by a genuine reason, such as a showroom open weekend or end of a model line, are more credible.</p>
+
+<h2>Sell to owners after the sale</h2>
+<p>A hot tub owner needs chemicals, filters, covers and servicing for years. An online shop for consumables and a simple email programme turn one sale into a long relationship. Send water care tips, servicing reminders and seasonal checklists, and make reordering easy. Our guide to <a href="/blog/ecommerce-email-marketing-uk/">ecommerce email marketing</a> covers the essentials. If your current site cannot handle online orders well, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> builds shops on Shopify or WooCommerce.</p>
+
+<h2>Make wet tests easy to book</h2>
+<p>A wet test is often the moment a buyer decides, so treat booking one as your main website goal. Put a clear button on every model page and your showroom page, offer specific time slots rather than a vague request form, and send a confirmation that tells people what to bring, how long it takes and where to park. A reminder the day before reduces no-shows.</p>
+<p>After the visit, follow up within a day or two with the models they tried, any quote you discussed and an easy way to ask further questions. Many buyers want to talk it over at home, so a polite check-in a week later is often welcome.</p>
+
+<h2>Measure sales, not just clicks</h2>
+<p>Track each enquiry from first visit to sale: the channel, the page they landed on, whether they booked a wet test and whether they bought. Even a simple monthly spreadsheet will show which campaigns, models and towns produce profitable sales, so you can move budget away from activity that only brings in browsers.</p>
+
+<h2>What it costs</h2>
+<p>Our <a href="/pricing/">pricing page</a> lists our retainers: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. An ecommerce website typically costs £1,500 to £3,500 and takes five to twelve weeks. SEO and paid campaigns usually take three to six months to show consistent results.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best hot tub retailer marketing in the UK?</h3>
+<p>For most independents, the strongest mix is a website with original model pages, local SEO and an up-to-date Google Business Profile, seasonal Google and Meta campaigns aimed at showroom visits, and email marketing to existing owners.</p>
+<h3>Should hot tub retailers sell tubs online?</h3>
+<p>Some do, but many find that showroom visits and wet tests close higher-value sales. Selling chemicals, covers and accessories online is usually a simpler win.</p>
+<h3>When should I increase my hot tub ad budget?</h3>
+<p>Start before your busiest months, so you reach people while they are still researching. Use your own past sales data to judge timing.</p>
+<h3>Can I publish running costs for my hot tubs?</h3>
+<p>You can explain what affects running costs. Only give figures you can support for your own models, and state the assumptions behind them.</p>
+<h3>How do I compete with cheaper online hot tub sellers?</h3>
+<p>Highlight what they cannot offer: wet tests, expert advice, professional delivery, local servicing and ongoing water care support.</p>
+<h3>Do I need separate pages for swim spas?</h3>
+<p>Yes. Swim spa buyers search differently and have different questions about size, installation and use, so a dedicated section usually performs better.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-agency-canada',
+    seoTitle: 'Meta Ads Agency Canada: Facebook and Instagram Ads Help',
+    title: 'Meta Ads Agency for Canadian Businesses: How Facebook and Instagram Ads Management Works',
+    description: 'Hiring a Meta ads agency in Canada? What Facebook and Instagram ads management covers, how tracking and consent fit in, and how to judge any agency first.',
+    date: '2026-11-09',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A Meta ads agency for a Canadian business plans, runs and improves your Facebook and Instagram advertising so it produces enquiries or sales at a cost that makes commercial sense. Prism Works Studio manages Meta ads remotely for Canadian businesses from the UK, with no office in Canada, and this guide explains what good management involves, how tracking and consent fit in and what to check before hiring any agency.</p>
+<p>Meta remains one of the most flexible ways to reach Canadian audiences, from local service businesses targeting a single city to online stores selling coast to coast. The platform does a lot automatically, but results still depend on the setup, the creative and the decisions made each week.</p>
+
+<h2>What a Meta ads agency in Canada actually does</h2>
+<p>Good Meta ads management is more than writing a few ads and choosing an audience. A typical engagement covers:</p>
+<ul>
+<li><strong>Account and tracking setup.</strong> Business Manager structure, the Meta Pixel, the Conversions API and the events that matter to your business. Our <a href="/blog/meta-pixel-setup-guide/">Meta Pixel setup guide</a> covers the basics.</li>
+<li><strong>Campaign structure.</strong> Separating prospecting from retargeting, and organising campaigns so budget goes where results are strongest.</li>
+<li><strong>Audiences.</strong> Broad targeting, interest testing, customer lists and lookalikes. Our <a href="/blog/meta-lookalike-audiences-guide/">lookalike audiences guide</a> explains how they work.</li>
+<li><strong>Creative.</strong> Planning and testing images, video, carousels and copy, then retiring tired ads before performance drops.</li>
+<li><strong>Landing pages.</strong> Making sure the page people land on matches the ad and makes the next step easy.</li>
+<li><strong>Reporting.</strong> Showing cost per lead or return on ad spend, what was tested and what happens next.</li>
+</ul>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers Meta alongside Google, Microsoft, TikTok and YouTube ads, so your channels can be planned together rather than in isolation.</p>
+
+<h2>Targeting Canadian audiences on Facebook and Instagram</h2>
+<p>Canada is a large, varied market, and campaign structure should reflect where your customers actually are.</p>
+<p>A local business might target one metro area such as Ottawa, Winnipeg or Halifax with a radius around its location. A regional brand might target a province or two. A national online store may run Canada-wide campaigns but split them where costs, delivery times or product ranges differ. If you sell in both Canada and the US, or further afield, our guide to <a href="/blog/meta-ads-multiple-countries/">running Meta ads across multiple countries</a> explains when to combine markets and when to separate them.</p>
+<p>Language matters too. If you sell to French-speaking Canadians, ads and landing pages should be written in good French rather than run through a translator, and campaigns may need to be split by language so performance can be judged fairly. If you advertise into Quebec, French-language rules there may apply to your advertising and website, so check current official guidance from the Quebec government and take your own advice.</p>
+
+<h2>Tracking, privacy and consent in Canada</h2>
+<p>Meta's delivery system learns from the conversion events it receives. If tracking is broken, duplicated or missing, the platform optimises towards the wrong people and reporting becomes unreliable. Before increasing spend, we check that the pixel and server-side events fire correctly, that conversions are deduplicated and that UTM parameters let you see Meta traffic properly in GA4. Our guide to <a href="/blog/utm-tracking-links-guide/">UTM tracking links</a> shows how to tag campaigns consistently.</p>
+<p>Tracking also collects personal information. Canada's federal privacy law (PIPEDA), provincial rules in some provinces and Quebec's privacy legislation set expectations about consent and transparency, and Canada's anti-spam legislation (CASL) applies if ads feed an email list. We build tracking with consent in mind, but please check current guidance from the Office of the Privacy Commissioner of Canada and other relevant regulators, and take your own advice on your obligations.</p>
+
+<h2>Campaign types and when to use them</h2>
+<table>
+<thead>
+<tr><th>Campaign goal</th><th>Typical use</th><th>What to measure</th></tr>
+</thead>
+<tbody>
+<tr><td>Sales</td><td>Online stores driving purchases, often with catalogue ads</td><td>Return on ad spend, cost per purchase, new customer share</td></tr>
+<tr><td>Leads</td><td>Service businesses using instant forms or website forms</td><td>Cost per qualified lead, not just cost per form</td></tr>
+<tr><td>Retargeting</td><td>Bringing back visitors who browsed but did not buy or enquire</td><td>Incremental conversions and frequency</td></tr>
+<tr><td>Awareness and reach</td><td>Launches, events or new locations needing broad visibility</td><td>Reach, cost per thousand impressions, later search demand</td></tr>
+<tr><td>Traffic and engagement</td><td>Content promotion or building audiences for later retargeting</td><td>Landing page views and audience growth, not likes</td></tr>
+</tbody>
+</table>
+<p>Retargeting deserves care: small audiences shown the same ad too often can annoy people rather than persuade them. Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> covers frequency, exclusions and sensible windows.</p>
+
+<h2>Creative is the biggest lever</h2>
+<p>With Meta's targeting increasingly automated, creative does much of the work of finding the right people. Strong accounts test several angles at once: the problem you solve, the outcome customers want, objections, product detail and social proof you genuinely have permission to use.</p>
+<ul>
+<li>Use short vertical video for Reels and Stories placements, with captions because many people watch on mute.</li>
+<li>Show the product or service clearly within the first seconds.</li>
+<li>Write copy in the language and spelling your Canadian customers expect.</li>
+<li>Refresh ads regularly; performance often declines as the same audience sees them repeatedly.</li>
+</ul>
+<p>The ad is only half the journey. A slow or confusing landing page can waste good creative, which is why our <a href="/blog/landing-page-design-uk/">landing page design guide</a> sits alongside our ads work.</p>
+
+<h2>Meta ads or TikTok ads?</h2>
+<p>Many Canadian brands ask whether to add TikTok or choose it instead of Meta. The answer depends on your audience, the creative you can produce and your tracking maturity. Meta usually offers more mature conversion optimisation and broader age reach; TikTok can reach younger audiences with native-style video. Our comparison of <a href="/blog/tiktok-ads-vs-meta-ads-uk/">TikTok ads and Meta ads</a> sets out the trade-offs.</p>
+
+<h2>Working remotely with a UK-based Meta ads agency</h2>
+<p>Ads management is entirely online, so location matters far less than responsiveness and clarity. The UK is between three and a half and eight hours ahead of Canada depending on the province, so UK afternoons overlap with Canadian mornings. That allows a regular call early in your day, with optimisation and reporting done while your team is offline.</p>
+<p>Before starting with any agency, agree who owns the ad account (it should be your business), what access the agency has, how often you will meet, which numbers are reported and how quickly urgent issues such as a disapproved ad or a broken checkout are handled.</p>
+
+<h2>Common Meta ads mistakes we see</h2>
+<p>When we review an existing Meta account, the same problems come up again and again, and fixing them is often the fastest way to improve results.</p>
+<ul>
+<li><strong>Boosting posts instead of running campaigns.</strong> The boost button is quick, but it offers far less control over objectives, placements and measurement.</li>
+<li><strong>Too many small ad sets.</strong> Splitting a modest budget across many audiences starves each one of the data Meta needs to optimise.</li>
+<li><strong>Optimising for the wrong event.</strong> Optimising for clicks or page views when the goal is purchases or qualified leads usually brings cheap but unhelpful traffic.</li>
+<li><strong>Ignoring lead quality.</strong> Instant forms can generate many leads, but without qualifying questions or follow-up tracking, many may never become customers.</li>
+<li><strong>No exclusions.</strong> Showing prospecting ads to existing customers, or retargeting people who have already bought, wastes budget.</li>
+<li><strong>Judging too early.</strong> Turning campaigns on and off every few days resets learning and makes results harder to read.</li>
+</ul>
+
+<h2>What Meta ads management costs</h2>
+<p>Management fees and ad spend are separate. Ad spend is paid directly to Meta from your own account, and our management is sold as monthly retainers with published prices in pounds sterling on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Canadian dollar quotes are available on request. Paid media results typically take three to six months to settle as tracking, audiences and creative are tested and refined.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Meta ads agency in Canada do?</h3>
+<p>It sets up tracking, structures campaigns, tests audiences and creative, improves landing pages and reports on the results that matter, such as cost per lead or return on ad spend, for Facebook and Instagram advertising.</p>
+<h3>Can a UK agency manage Meta ads for a Canadian business?</h3>
+<p>Yes. Prism Works Studio manages Meta ads remotely for Canadian businesses, with no office in Canada. Your business owns the ad account, and we work through shared access with regular video calls.</p>
+<h3>How much does a Meta ads agency cost?</h3>
+<p>Our management retainers are £350, £750 or £1,500 a month, published in pounds sterling, with Canadian dollar quotes on request. Ad spend is paid separately to Meta from your own account.</p>
+<h3>Should I run French-language ads in Canada?</h3>
+<p>If you serve French-speaking customers, yes, with properly written French ads and landing pages. Advertising into Quebec may bring specific language requirements, so check current official guidance.</p>
+<h3>How long before Meta ads start working?</h3>
+<p>Early data arrives within days, but campaigns usually need several weeks of testing to find strong audiences and creative. Paid results typically take three to six months to settle into a reliable pattern.</p>
+<h3>Who should own the Meta ad account?</h3>
+<p>Your business should. The agency should be given partner access to your Business Manager and ad account, so you keep the data, audiences and history if you ever change agency.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-agency-for-us-ecommerce',
+    seoTitle: 'Meta Ads Agency for US Ecommerce Brands: Remote Support',
+    title: 'Meta Ads Agency for US Ecommerce Brands: What Good Management Looks Like',
+    description: 'A Meta ads agency for US ecommerce brands should combine reliable tracking, steady creative testing and clear reporting. Here is how remote support works.',
+    date: '2026-11-09',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Meta ads agency for US ecommerce brands plans, runs and improves Facebook and Instagram campaigns that sell products to American shoppers. Good management rests on accurate tracking, a steady flow of new creative, a simple campaign structure and reporting that ties spend to real orders.</p>
+<p>We are a UK-based studio and we work remotely with US online stores. We have no US office, so our work happens through Meta's own tools, shared documents and scheduled calls. This guide explains what to expect from Meta ads management, how a remote arrangement works, and the questions to ask before you hire.</p>
+
+<h2>What a Meta ads agency for US ecommerce brands should do</h2>
+<p>Meta's advertising system has become heavily automated. Broad targeting, automated placements and campaign types such as Advantage+ shopping campaigns mean much of the old manual audience work matters less. What still makes a difference is the quality of the signals and creative you give the system. A capable agency will cover:</p>
+<ul>
+<li><strong>Tracking:</strong> the Meta pixel, the Conversions API and event setup, so purchases and their values are recorded accurately.</li>
+<li><strong>Catalogue:</strong> a clean product catalogue connected to your store, ready for dynamic and shopping ads.</li>
+<li><strong>Creative strategy:</strong> angles, hooks and formats for US audiences, with briefs and copy for each test.</li>
+<li><strong>Campaign structure:</strong> a simple setup that gives Meta's algorithm enough data to learn.</li>
+<li><strong>Testing and reporting:</strong> planned tests, agreed success rules and honest reporting against store data.</li>
+</ul>
+
+<h2>Tracking is the foundation</h2>
+<p>Meta optimises towards the events your store sends. If purchase events are missing, duplicated or reporting the wrong value, the system learns from bad data and spends accordingly. Browser restrictions and ad blockers make this harder, which is why the Conversions API, which sends events from your server or store platform, has become standard practice.</p>
+<p>Before scaling spend, check that:</p>
+<ul>
+<li>The pixel fires once per event on the right pages.</li>
+<li>The Conversions API is connected and events are deduplicated with the pixel.</li>
+<li>Purchase events carry the correct order value and currency.</li>
+<li>Your domain is verified in Business Manager and your events are configured as Meta currently requires.</li>
+<li>Ads use consistent UTM tags so your analytics tool can separate Meta traffic.</li>
+</ul>
+<p>Our <a href="/blog/meta-pixel-setup-guide/">Meta pixel setup guide</a> walks through the basics, and our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> explains a naming system that keeps reports consistent.</p>
+
+<h2>Creative is the main lever</h2>
+<p>With targeting largely automated, the ad itself now does much of the targeting. Different creative angles reach different kinds of buyer. A brand that tests one or two ads a month will usually learn far slower than one that tests a steady stream of distinct ideas.</p>
+<p>Useful formats for US ecommerce include:</p>
+<ul>
+<li>Short vertical videos showing the product in use, often filmed on a phone.</li>
+<li>Customer-style testimonials, using only genuine customer content with permission.</li>
+<li>Problem and solution ads that open with a pain point the product solves.</li>
+<li>Carousel and collection ads that show a range or a bundle.</li>
+<li>Static images with a clear offer or benefit for quick-scroll placements.</li>
+</ul>
+<p>Copy for US audiences should use American spelling, dollar pricing and references that feel familiar. We write ad copy in American English for the audience, even though our own guides are in UK English.</p>
+
+<h2>A simple campaign structure</h2>
+<p>Over-segmented accounts split budget across too many ad sets, so none gathers enough data to optimise well. Many ecommerce accounts now work best with a lean structure. The table below shows a common starting point.</p>
+<table>
+<thead><tr><th>Campaign</th><th>Purpose</th><th>Typical approach</th></tr></thead>
+<tbody>
+<tr><td>Prospecting</td><td>Reach new buyers</td><td>Broad or Advantage+ targeting with your strongest creative</td></tr>
+<tr><td>Creative testing</td><td>Find new winning ads</td><td>Controlled budget, new concepts tested against agreed rules</td></tr>
+<tr><td>Retargeting</td><td>Bring back engaged visitors</td><td>Dynamic product ads and reminder messages for recent visitors</td></tr>
+<tr><td>Existing customers</td><td>Repeat purchases</td><td>New ranges, bundles or replenishment messages, where relevant</td></tr>
+</tbody>
+</table>
+<p>The right structure depends on your budget, catalogue size and margins. Our guides to <a href="/blog/meta-lookalike-audiences-guide/">Meta lookalike audiences</a> and <a href="/blog/remarketing-guide-uk/">remarketing</a> cover the audience options in more detail.</p>
+
+<h2>How a remote Meta ads partnership works</h2>
+<p>Meta's tools are entirely online, so campaigns can be managed from anywhere. What matters is how access, approvals and communication are organised.</p>
+<ul>
+<li><strong>Ownership:</strong> your business owns the Business Manager, ad account, pixel, catalogue and payment method. We are given partner access.</li>
+<li><strong>Approvals:</strong> you sign off budgets, offers and any claims before ads go live.</li>
+<li><strong>Time zones:</strong> UK working hours overlap with US mornings, so we can analyse results and prepare changes early, then meet in a shared window.</li>
+<li><strong>Reporting:</strong> regular reports compare Meta's figures with your store's own sales data, because each platform measures differently.</li>
+</ul>
+<p>Our guide to working with a <a href="/blog/remote-ppc-agency-for-us-businesses/">remote PPC agency for US businesses</a> covers the same practical points across search and shopping campaigns.</p>
+
+<h2>Meta ads and the rest of your marketing</h2>
+<p>Meta rarely works best alone. Shoppers who see a Facebook or Instagram ad often search for the brand later, so paid social and search tend to support each other. If you are deciding where to put the next pound or dollar of spend, our comparison of <a href="/blog/tiktok-ads-vs-meta-ads-uk/">TikTok ads vs Meta ads</a> sets out how the two platforms differ.</p>
+<p>The store matters too. If product pages load slowly or checkout is confusing, more ad spend just sends more people to a leaky page. Our guide to <a href="/blog/shopify-conversion-rate-optimisation/">Shopify conversion rate optimisation</a> explains the store improvements that make paid traffic work harder.</p>
+
+<h2>Reading the numbers honestly</h2>
+<p>Meta's reported results and your store's sales will rarely match exactly. Attribution windows, view-through conversions and orders that touch several channels all create gaps. Rather than trusting one figure, we look at a few together: Meta's reported cost per purchase, the store's total revenue and new customer numbers, and the blended return across all paid channels. If Meta claims strong results while total sales stay flat, that is a signal to question the attribution rather than raise the budget. Agree in advance which numbers you will use to make decisions, so reviews focus on action rather than arguing about data.</p>
+
+<h2>Compliance and platform policies</h2>
+<p>Meta has detailed advertising policies, with extra restrictions in some product categories. In the USA, Federal Trade Commission guidance covers endorsements, testimonials and advertising claims, and state privacy laws may affect how customer data is collected and used for targeting. We follow platform policies as part of campaign management, but we are not lawyers. Check current official guidance and take advice from your own legal adviser; approval of claims and disclosures rests with you.</p>
+
+<h2>Fees, budgets and timelines</h2>
+<p>Ad spend is paid directly to Meta from your own account and is separate from our fee. Our retainers start at Launch £350 a month, Growth £750 a month and Scale £1,500 a month. Full details are on our <a href="/pricing/">pricing page</a>; we quote in pounds and can quote other currencies on request.</p>
+<p>Data starts arriving within days of launch, but a stable, profitable account takes longer to build. Paid results typically settle over three to six months as tracking, creative and structure improve together. To see how Meta fits with search, shopping, TikTok and YouTube, visit our <a href="/services/paid-media/">paid media service</a> page or our <a href="/sectors/ecommerce/">ecommerce sector</a> page.</p>
+
+<h2>Questions to ask before you hire</h2>
+<ul>
+<li>Will we keep full ownership of the Business Manager, ad account and pixel?</li>
+<li>How is the Conversions API set up, and how will you check tracking accuracy?</li>
+<li>How many new creative concepts will you test each month, and who makes them?</li>
+<li>Which numbers will you report, and how will you reconcile them with our store data?</li>
+<li>What notice period applies, and what happens to access when we part ways?</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>What does a Meta ads agency for US ecommerce brands do?</h3>
+<p>It sets up tracking, connects the product catalogue, plans and tests creative, structures campaigns and reports on sales for online stores selling to American shoppers on Facebook and Instagram.</p>
+<h3>Can a UK agency manage Meta ads for a US store?</h3>
+<p>Yes. Meta's tools are fully online, so location does not affect the campaigns. We work remotely with US clients through partner access, and you keep ownership of your accounts and billing.</p>
+<h3>Do I need the Conversions API as well as the pixel?</h3>
+<p>For most ecommerce stores it is strongly recommended. The Conversions API sends events from your store or server, which helps reduce data lost to browser restrictions and gives Meta better signals to optimise towards.</p>
+<h3>How much should I spend on Meta ads?</h3>
+<p>It depends on your margins, average order value and goals. The budget must be large enough for each campaign to gather data. Ad spend is paid directly to Meta and is separate from our management fee.</p>
+<h3>How long do Meta ads take to work?</h3>
+<p>Early results appear within days, but building a reliable account usually takes longer. Paid results typically settle over three to six months as creative testing and tracking mature.</p>
+<h3>Are Advantage+ shopping campaigns worth using?</h3>
+<p>They suit many ecommerce accounts with good tracking and a healthy supply of creative, but they give less manual control. We usually test them against a simpler manual setup and judge on store-level results.</p>
+`,
+  },
+  {
+    slug: 'motorhome-campervan-hire-marketing-uk',
+    seoTitle: 'Motorhome Hire Marketing UK: Get More Direct Bookings',
+    title: 'Motorhome and Campervan Hire Marketing in the UK: How to Get More Direct Bookings',
+    description: 'Motorhome hire marketing in the UK works when a fast booking website, search visibility, seasonal ads and clear hire terms win direct bookings over platforms.',
+    date: '2026-11-09',
+    category: 'Sectors',
+    related: ['/services/website-ecommerce-development/', '/services/seo-geo/', '/services/paid-media/'],
+    body: `
+<p>Motorhome hire marketing in the UK is about winning bookings directly, months before the trip, from people who are excited about a road trip but nervous about driving a large vehicle for the first time. The hire businesses that grow usually combine a fast booking website, clear vehicle and pricing pages, search visibility for the routes and regions customers dream about, and seasonal ads that start well before the summer rush.</p>
+<p>This guide is for independent motorhome hire firms, campervan conversion companies that rent vehicles, and holiday businesses that add a small hire fleet. We cover how hirers search, what your website needs, how to reduce reliance on rental platforms and where paid ads earn their keep.</p>
+
+<h2>How people plan a motorhome or campervan trip</h2>
+<p>Hiring a motorhome usually starts with an idea: a tour of the Scottish Highlands, a family summer in Cornwall, a festival weekend or a trial run before buying a van. People search for inspiration first, with phrases such as "campervan holiday ideas UK" or "North Coast 500 in a motorhome". Then they look for hire companies, using searches like "motorhome hire near me", "campervan hire [city]", "VW campervan hire" and "dog friendly motorhome hire".</p>
+<p>Many also check rental platforms and comparison sites. They compare price, vehicle age, berths, insurance excess, mileage allowance and what is included, such as bedding, kitchen kits and bike racks. Your marketing needs to be visible at each step and make booking direct the easiest, most reassuring option.</p>
+
+<h2>Motorhome hire marketing UK: the main channels</h2>
+<table>
+<thead><tr><th>Channel</th><th>What it does</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Booking website</td><td>Turns interest into confirmed, direct bookings</td><td>Enquiry-only forms with slow replies</td></tr>
+<tr><td>SEO and destination content</td><td>Captures research and local hire searches</td><td>Generic travel content with no link to your vans</td></tr>
+<tr><td>Google Business Profile</td><td>Visibility for "near me" and collection-point searches</td><td>Missing photos of the fleet and depot</td></tr>
+<tr><td>Google Ads</td><td>High-intent hire searches in the booking window</td><td>Spend wasted on "motorhomes for sale" searches</td></tr>
+<tr><td>Instagram and Meta ads</td><td>Inspiration, retargeting and early-booking offers</td><td>Beautiful posts that never lead to a booking page</td></tr>
+<tr><td>Rental platforms</td><td>Extra reach, especially for new businesses</td><td>Becoming dependent on commission-based bookings</td></tr>
+</tbody>
+</table>
+
+<h2>Build a website that takes bookings</h2>
+<p>Hirers want to check dates and prices without waiting for an email. A booking system with live availability, a clear price breakdown and secure deposits is one of the most valuable investments a hire business can make. Our guide to <a href="/blog/website-online-booking-systems/">online booking systems</a> explains the options, and our <a href="/services/website-ecommerce-development/">website development service</a> builds fast sites with booking integrated.</p>
+<p>Give each vehicle its own page with:</p>
+<ul>
+<li>Berths, seatbelts, bed layouts and dimensions.</li>
+<li>Gearbox type, fuel and the driving licence category needed, with a note to check official guidance on licence requirements.</li>
+<li>What is included, such as bedding, towels, kitchen kits, camping chairs and awnings.</li>
+<li>Pet policy, mileage allowance, minimum hire length and changeover days.</li>
+<li>Real photos and a short walkaround video of the interior and controls.</li>
+</ul>
+<p>Our guide to <a href="/blog/website-pricing-page-design/">pricing page design</a> shows how to present seasonal rates clearly, and our <a href="/blog/mobile-website-design/">mobile website design guide</a> matters here, because many people browse vans on their phones in the evening.</p>
+
+<h2>Be clear about insurance, deposits and terms</h2>
+<p>Insurance excess, security deposits, age limits and driving history rules are where many hire bookings fall apart. Customers who discover a high excess at checkout often abandon the booking. Explain the key terms clearly on vehicle pages and in a dedicated FAQ or "hire terms" page, and keep them consistent with your actual policy. Keep any statements about insurance general, and tell customers to read the full policy wording and check current official guidance on driving licence rules.</p>
+<p>Clear, honest terms reduce disputes, cut down on repetitive questions and build the trust that encourages direct bookings.</p>
+
+<h2>SEO and destination content</h2>
+<p>Search visibility for hire terms starts with your location. Optimise for the towns and cities you collect from, and make sure your <a href="/blog/google-business-profile-uk/">Google Business Profile</a> shows your depot, fleet photos and reviews. If you offer delivery or multiple pick-up points, create a page for each, with genuine practical information.</p>
+<p>Destination content can bring in people who are still dreaming. Route guides, itinerary ideas, tips for first-time motorhome drivers and advice on campsites and overnight stops give people a reason to find you and to come back. Keep advice practical and general, and link each guide to the vehicles that suit that trip. Our <a href="/blog/content-strategy-uk/">content strategy guide</a> explains how to plan this, and our <a href="/services/seo-geo/">SEO and GEO service</a> can handle keyword research, content and technical SEO for you.</p>
+
+<h2>Plan paid ads around the booking window</h2>
+<p>Many hirers book summer trips in winter and early spring, so the booking window often opens well before the season. Your own booking data is the best guide, but most businesses benefit from starting paid campaigns early.</p>
+<ul>
+<li><strong>Google Ads:</strong> target "hire" and "rental" searches for your locations and vehicle types, with negatives for "for sale", "used", "finance" and "jobs".</li>
+<li><strong>Meta and Instagram ads:</strong> show your vans in real UK locations to people within reach of your depot, and promote early-booking or off-peak availability.</li>
+<li><strong>Remarketing:</strong> remind people who viewed a vehicle page or started a booking to come back and complete it.</li>
+<li><strong>Tracking:</strong> measure completed bookings and booking value, not just clicks.</li>
+</ul>
+<p>Our <a href="/blog/remarketing-guide-uk/">remarketing guide</a> covers the setup. Our <a href="/services/paid-media/">paid media service</a> can manage campaigns across Google, Microsoft, Meta and YouTube, with ad spend paid separately.</p>
+
+<h2>Reduce reliance on rental platforms</h2>
+<p>Platforms can help a new business fill its calendar, but commission eats into margin and the customer relationship belongs partly to the platform. Use them strategically. Make sure your own website offers a clear reason to book direct, such as better availability, included extras or more flexible changeovers, while respecting any platform terms you have agreed to. Collect email addresses at handover (with consent) so past customers can hear about next season directly.</p>
+<p>Encourage reviews on your Google Business Profile after each trip, and send a short thank-you email with a link. Repeat customers and referrals are often the cheapest bookings you will ever get.</p>
+
+<h2>Reassure first-time drivers</h2>
+<p>Many hirers have never driven anything larger than a family car, and that nervousness can stop a booking. Address it directly. Explain how your handover works, how long it takes and what you show customers, from the habitation controls and gas to emptying waste tanks and checking the height of the vehicle. Short how-to videos on your website, sent again by email before collection, help people feel prepared.</p>
+<p>A simple pre-trip email sequence also reduces cancellations and support calls: a booking confirmation, a packing list, a link to your handover videos and a reminder of collection times and what documents to bring. Each message is a chance to answer questions before they become worries.</p>
+
+<h2>Measure bookings and booking value</h2>
+<p>Track where each booking comes from, how far ahead it was made and its total value. Comparing direct bookings with platform bookings, and paid campaigns with organic search, shows where to invest next season.</p>
+
+<h2>Make off-peak work for you</h2>
+<p>Vans that sit idle in winter still cost money. Promote shorter breaks, festive trips, winter-ready vehicles, longer-stay discounts or hire for events and film shoots where suitable. Email past customers first, then use social media and paid ads to fill remaining gaps.</p>
+
+<h2>What it costs</h2>
+<p>Our <a href="/pricing/">pricing page</a> sets out our retainers: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with ad spend paid separately. A small website typically costs £1,000 to £2,000 and takes three to five weeks to build, with booking integrations scoped as part of the project. SEO and paid campaigns usually take three to six months to show consistent results.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best motorhome hire marketing in the UK?</h3>
+<p>A booking-ready website with clear vehicle and pricing pages, local SEO, destination content, seasonal Google and Meta campaigns and email to past customers usually work best together.</p>
+<h3>When should motorhome hire companies start advertising?</h3>
+<p>Before the booking window opens, which for many businesses is winter and early spring. Check your own booking history to find the right timing.</p>
+<h3>Should I list my campervans on rental platforms?</h3>
+<p>Platforms can add reach, especially early on. Balance them with a strong direct booking website so commission does not eat all your margin.</p>
+<h3>Do I need online booking or is an enquiry form enough?</h3>
+<p>Online booking with live availability usually converts better, because hirers can check dates and prices instantly instead of waiting for a reply.</p>
+<h3>How should I explain insurance and deposits?</h3>
+<p>Clearly and early, on vehicle pages and a hire terms page. Keep wording general, match your actual policy and tell customers to read the full policy documents.</p>
+<h3>Is destination content worth writing for a hire business?</h3>
+<p>Yes, if each guide is genuinely useful and links to suitable vehicles. It brings in people during the planning stage and supports your hire pages.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-berlin',
+    seoTitle: 'SEO Agency Berlin: English-Language SEO for German Firms',
+    title: 'SEO Agency for Berlin Businesses: English and German Search Explained',
+    description: 'Looking for an SEO agency in Berlin? How SEO works for German and English searches, what a remote UK studio can handle, what to ask and how pricing works.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/saas/'],
+    body: `
+<p>An SEO agency for a Berlin business should help you rank for the searches your customers actually make, whether they search in German, in English or in both, and turn that visibility into qualified leads or sales. Good SEO support covers technical health, language and country setup, keyword research, strong pages, earned links and clear reporting tied to business results.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely with companies in Germany and across Europe. We have no office in Berlin and will not suggest otherwise. Our <a href="/services/seo-geo/">SEO and generative engine optimisation</a> work is delivered online, one hour behind Berlin time, with regular calls and shared documents. We are strongest on English-language SEO and the technical foundations that support every language version of a site. This guide explains what to expect, what to ask and how the work is usually priced.</p>
+
+<h2>Why Berlin businesses often need SEO in two languages</h2>
+<p>Berlin is home to many start-ups, software companies, agencies and international teams. Plenty of them sell well beyond Germany, and English is often their working language. At the same time, most German consumers and many German business buyers search in German. That creates a choice every company has to make deliberately.</p>
+<ul>
+<li><strong>German-first businesses.</strong> Local services, retailers and firms selling mainly to German customers need strong German-language pages, written or reviewed by native speakers.</li>
+<li><strong>English-first businesses.</strong> Software, technology and B2B companies selling internationally often lead with English, sometimes adding German pages for key products or for buyers who prefer it.</li>
+<li><strong>Both at once.</strong> Many companies need both, with a clear structure so search engines show the German page to German searchers and the English page to everyone else.</li>
+</ul>
+<p>Getting this wrong leads to familiar problems: the English page ranking in Germany when the German one should, automatic translations that read poorly, or two versions competing for the same searches. Our <a href="/blog/international-seo-agency-uk/">international SEO guide</a> covers the main structural options.</p>
+
+<h2>What an SEO agency in Berlin should cover</h2>
+<p>Whether you hire a local Berlin agency or a remote studio, a sound SEO engagement includes the same core workstreams. The table below sets out each one and the points that matter for German and international audiences.</p>
+<table>
+<thead><tr><th>Workstream</th><th>What it involves</th><th>Points to consider in Germany</th></tr></thead>
+<tbody>
+<tr><td>Technical audit</td><td>Crawling, indexing, speed, structured data, redirects</td><td>Language folders, hreflang and canonical tags set correctly for each version</td></tr>
+<tr><td>Keyword research</td><td>Terms buyers use, grouped by intent and language</td><td>German compound words and English loanwords both need researching, not translating</td></tr>
+<tr><td>On-page work</td><td>Titles, headings, copy, internal links</td><td>Each language version written for its own audience, not a word-for-word copy</td></tr>
+<tr><td>Content</td><td>Guides, comparison pages, answers to buyer questions</td><td>English content can reach international buyers; German content serves the home market</td></tr>
+<tr><td>Links and mentions</td><td>Earned coverage, partnerships, listings</td><td>Relevant German and international sources both add value</td></tr>
+<tr><td>Reporting</td><td>Rankings, traffic, leads and actions by language</td><td>Separate views for German and English performance</td></tr>
+</tbody>
+</table>
+<p>Technical work usually comes first. If language versions are not set up correctly, content work in either language struggles. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the kind of checks we start with.</p>
+
+<h2>Keyword research in German and English</h2>
+<p>Translating an English keyword list into German rarely works. German searchers often use compound nouns, different word order or English terms that have become standard in their industry. In technology and marketing, for example, many German buyers search using English product terms alongside German words.</p>
+<p>Good research looks at each language separately, using data set to the right country, and then maps terms to pages. The method in our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> applies directly; the difference is running it twice, once per language and market. For German-language research and copy, we work alongside your in-house team or a native-speaking writer or translator, so the German pages read naturally.</p>
+
+<h2>SEO for Berlin start-ups and software companies</h2>
+<p>Many Berlin companies sell software or digital services internationally, and their SEO priorities look different from a local business. Product and feature pages, comparison pages, integration pages and helpful guides tend to do the heavy lifting, alongside a fast, well-structured site that search engines and AI assistants can understand.</p>
+<p>Our <a href="/sectors/saas/">SaaS sector page</a> explains how we approach marketing for software companies, and our guide to choosing a <a href="/blog/saas-seo-agency-uk/">SaaS SEO agency</a> covers the questions to ask. Structured data can also help search engines interpret products, organisations and FAQs; our <a href="/blog/schema-markup-guide-uk/">schema markup guide</a> sets out the basics.</p>
+
+<h2>Privacy, legal pages and compliance</h2>
+<p>Germany is known for taking data protection seriously, and SEO work touches analytics, tracking and site content. Germany applies the EU General Data Protection Regulation alongside its own national rules on cookies and telecoms privacy, and non-essential tracking generally needs consent. German websites are also commonly expected to publish a legal notice page with company details.</p>
+<p>We set up analytics and consent tools in line with common practice and make sure legal pages are easy to find, but we are not lawyers and do not write legal text. Rules and guidance change, so check current official guidance or take legal advice for your business.</p>
+
+<h2>How a remote SEO agency works with Berlin companies</h2>
+<p>SEO happens on your website, in search and analytics tools and in shared documents, so distance makes little practical difference. A clear process does.</p>
+<ol>
+<li><strong>Kick-off call.</strong> We agree goals, markets, languages, priority products or services and how success is measured.</li>
+<li><strong>Access.</strong> You grant access to Search Console, analytics and the website through your own accounts, so you keep ownership.</li>
+<li><strong>Audit and roadmap.</strong> We audit technical health and content across language versions, then build a prioritised three-month plan.</li>
+<li><strong>Monthly delivery.</strong> Technical fixes, page improvements and new content, with drafts shared for approval and German copy coordinated with your writer or translator.</li>
+<li><strong>Reporting.</strong> A monthly report and call. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> shows what a useful report includes.</li>
+</ol>
+<p>Berlin is one hour ahead of the UK, so calls fit comfortably within both working days.</p>
+
+<h2>Questions to ask any SEO agency in Berlin</h2>
+<ul>
+<li>Which languages will you work in directly, and who writes or reviews German content?</li>
+<li>How will you set up language and country versions so they do not compete?</li>
+<li>What will you do in the first three months, and in what order?</li>
+<li>How will reporting connect rankings and traffic to leads or revenue?</li>
+<li>Who owns the accounts, content and any links built?</li>
+<li>How do you approach AI search features and answer engines?</li>
+</ul>
+<p>Treat guaranteed rankings and link packages sold by volume with caution, wherever the agency is based.</p>
+
+<h2>How much does SEO cost for a Berlin business?</h2>
+<p>SEO is usually priced as a monthly retainer. Our published retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, depending on competition, the number of languages and markets, and the volume of content and technical work. Prices are in pounds by default, and other currencies such as euro can be quoted on request. German translation or native copywriting, where needed, is scoped separately. See our <a href="/pricing/">pricing page</a> for details.</p>
+<p>Results typically take three to six months to build, and multi-language sites can take longer because each version needs time to establish itself. If you would like an honest view on your site, <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in Berlin?</h3>
+<p>Look for a clear plan for each language you need, sound technical knowledge of multi-language sites, transparent reporting and fair contract terms. Ask who handles German copy. Whether the agency is in Berlin or works remotely matters less than how clearly it explains the work.</p>
+<h3>Do you have an office in Berlin?</h3>
+<p>No. Prism Works Studio is based in the UK and works remotely with companies in Germany and across Europe, using video calls, shared documents and direct access to your website and analytics.</p>
+<h3>Do you write SEO content in German?</h3>
+<p>Our own content work is in English. For German pages, we work alongside your in-house team or a native-speaking writer or translator, providing the keyword research, page briefs and technical setup so the German content is built to rank.</p>
+<h3>Should my German website have an English version?</h3>
+<p>If you sell to international customers or recruit internationally, an English version is often worthwhile. It should be set up with proper language signals so search engines show each version to the right audience.</p>
+<h3>Do you quote in euro?</h3>
+<p>Our published prices are in pounds, and other currencies, including euro, can be quoted on request. Please check the VAT treatment of cross-border services with your tax adviser.</p>
+<h3>How long does SEO take to work in Germany?</h3>
+<p>Results typically take three to six months to build. Sites with several language versions or very competitive German search results can take longer, as each version needs time to earn visibility.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-dublin',
+    seoTitle: 'SEO Agency Dublin: What Irish Businesses Should Expect',
+    title: 'SEO Agency for Dublin Businesses: How Remote SEO Support Works',
+    description: 'Looking for an SEO agency in Dublin? What good SEO covers for Irish businesses, how a remote UK studio works with you, what to ask and how pricing works.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/blog/international-seo-agency-uk/'],
+    body: `
+<p>An SEO agency for a Dublin business should help you rank for the searches your Irish customers make and turn that visibility into enquiries, bookings or sales. Good SEO support covers technical health, keyword research for the Irish market, strong service and product pages, local visibility in maps results and honest monthly reporting.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely with businesses in Ireland and elsewhere in Europe. We do not have an office in Dublin and we will not pretend otherwise. What we offer is structured <a href="/services/seo-geo/">SEO and generative engine optimisation</a> delivered online, in the same time zone as Dublin, with regular video calls and shared documents. This guide explains what to expect from any agency, what to ask before you sign and how the work is usually priced.</p>
+
+<h2>Why SEO for Irish businesses needs its own plan</h2>
+<p>The fundamentals of SEO are the same in every country: search engines need to crawl your site, understand it and trust it enough to show it. What changes in Ireland is the market around those fundamentals.</p>
+<ul>
+<li><strong>A smaller but competitive market.</strong> Ireland has fewer searches per topic than the UK, so each keyword matters more. Losing a handful of high-intent terms to a competitor can make a real difference to your pipeline.</li>
+<li><strong>UK and international sites in the same results.</strong> Irish searchers often see British retailers, global brands and directories alongside local firms. Pages that are clearly written for Ireland, with Irish pricing, delivery and contact details, help search engines and buyers see you as the relevant choice.</li>
+<li><strong>Local language and place names.</strong> People search by county, by Dublin postal district and by neighbourhood. Some services also attract searches in Irish, and certain public sector or education organisations publish in both languages.</li>
+<li><strong>Country targeting signals.</strong> A .ie domain, euro pricing, an Irish address where you genuinely have one and links from Irish sites all help reinforce that you serve Ireland.</li>
+<li><strong>AI answers sit above many listings.</strong> Search features that summarise answers reward pages that answer questions clearly and specifically. The same principles that help with AI Overviews in the UK apply equally in Ireland.</li>
+</ul>
+
+<h2>What an SEO agency in Dublin should cover</h2>
+<p>Whatever agency you choose, a sensible engagement follows a similar shape. The table below sets out the main workstreams and what each one means for a business targeting Dublin and the rest of Ireland.</p>
+<table>
+<thead><tr><th>Workstream</th><th>What it involves</th><th>Why it matters in Ireland</th></tr></thead>
+<tbody>
+<tr><td>Technical audit</td><td>Crawling, indexing, speed, mobile layout, structured data, redirects</td><td>Sites serving both Ireland and the UK often have country or currency settings that confuse search engines</td></tr>
+<tr><td>Keyword research</td><td>Finding the terms buyers use, grouped by intent</td><td>Irish phrasing, place names and smaller volumes need their own research rather than UK data</td></tr>
+<tr><td>On-page work</td><td>Titles, headings, page copy, internal links</td><td>Clear pages for each service and area help you stand out from UK and global sites</td></tr>
+<tr><td>Local visibility</td><td>Business profile, categories, reviews, consistent details</td><td>Maps results are prominent for most service searches in Dublin and other Irish towns</td></tr>
+<tr><td>Content and links</td><td>Guides, answers to real questions, earned mentions</td><td>Links and mentions from Irish publications and organisations reinforce local relevance</td></tr>
+<tr><td>Reporting</td><td>Rankings, organic traffic, enquiries and actions taken</td><td>Keeps remote work transparent and easy for you to review</td></tr>
+</tbody>
+</table>
+<p>The technical side usually comes first. If pages cannot be crawled, or load slowly on a phone, content work will struggle. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the kind of checks we run before recommending anything else.</p>
+
+<h2>Keyword research for the Irish market</h2>
+<p>A common mistake is to copy a UK keyword list and assume it will work in Ireland. The intent may be similar, but the wording, place names and volumes are often different. Irish searchers may use different terms for some trades, services and products, and they frequently add the county or town to a search.</p>
+<p>Good research starts with your own data where it exists: Search Console queries, enquiry forms, sales calls and the questions customers ask in person. From there we group terms by intent so each page has a clear job. A practical walkthrough is in our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a>; the method is the same, but the data source should be set to Ireland.</p>
+<p>Smaller search volumes are not a reason to skip a topic. In a market the size of Ireland, a term with modest monthly searches can still bring a steady flow of qualified enquiries, particularly for higher-value services.</p>
+
+<h2>Local SEO in Dublin</h2>
+<p>For any business that serves customers in person, local visibility is usually the fastest route to new enquiries. Map results appear above standard listings for many searches, and they are driven by a combination of relevance, distance and prominence.</p>
+<ul>
+<li><strong>Business profile.</strong> Choose accurate primary and secondary categories, add services, opening hours and photos, and keep the details consistent with your website. Our guide to <a href="/blog/google-business-profile-categories/">Google Business Profile categories</a> covers how to choose them.</li>
+<li><strong>Reviews.</strong> A steady flow of genuine reviews, with replies, helps both rankings and conversion.</li>
+<li><strong>Area pages.</strong> If you serve several parts of Dublin or several counties, a clear page for each genuine service area is more useful than one long list of place names.</li>
+<li><strong>Consistent details.</strong> Your name, address and phone number should match across directories and listings.</li>
+</ul>
+<p>If you run several branches across Ireland, the planning gets more involved. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how to structure pages and profiles without creating thin duplicates.</p>
+
+<h2>Serving Ireland and the UK from one website</h2>
+<p>Plenty of Irish companies also sell into Northern Ireland or Great Britain, and plenty of UK companies sell into Ireland. One website can serve both, but it needs to be set up so search engines understand which page is meant for which country.</p>
+<p>That might mean separate country folders, euro and sterling versions of product pages, or hreflang tags that tell search engines an Irish page and a UK page are alternatives for different audiences. It also means avoiding near-identical pages that compete with each other. Our <a href="/blog/international-seo-agency-uk/">international SEO guide</a> sets out the main options and their trade-offs.</p>
+
+<h2>Privacy, cookies and compliance</h2>
+<p>SEO work touches tracking and analytics, so it is worth knowing the broad rules. Ireland follows the EU General Data Protection Regulation and the ePrivacy rules on cookies, and the Irish Data Protection Commission publishes guidance on consent for analytics and marketing cookies. In practice, most sites need a proper consent banner before non-essential tracking runs.</p>
+<p>We set up analytics and consent tools in line with common practice, but we are not lawyers. Rules and guidance change, so check the current official guidance or take legal advice for your specific situation. The same applies to accessibility duties under the European Accessibility Act, which affect some online businesses selling to consumers.</p>
+
+<h2>How a remote SEO agency works with Dublin clients</h2>
+<p>Working with a studio that is not in the same city is now normal for SEO, because almost all of the work happens on your website, in analytics tools and in shared documents. What makes it work is structure.</p>
+<ol>
+<li><strong>Kick-off call.</strong> We agree goals, priority services or products, target areas and how you measure success.</li>
+<li><strong>Access.</strong> You grant access to Search Console, analytics, your business profile and the website, using your own accounts so you keep ownership.</li>
+<li><strong>Audit and plan.</strong> We run a technical and content audit and turn it into a prioritised plan for the first three months.</li>
+<li><strong>Monthly delivery.</strong> Fixes, page improvements, new content and local work are delivered against the plan, with drafts shared for your approval.</li>
+<li><strong>Reporting.</strong> A monthly report and call cover what changed, what moved and what comes next. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> shows what a useful report includes.</li>
+</ol>
+<p>Ireland and the UK share a time zone for most of the year, which makes calls and quick questions easy to schedule. Invoicing is in pounds by default, and other currencies such as euro can be quoted on request. VAT treatment on cross-border services depends on your circumstances, so confirm it with your accountant.</p>
+
+<h2>Questions to ask any SEO agency in Dublin</h2>
+<p>Whether you choose a local Dublin agency or a remote studio, the same questions help you separate solid offers from vague ones.</p>
+<ul>
+<li>What will you do in the first three months, in order, and why?</li>
+<li>Will you research Irish search data specifically, or reuse UK or US keyword lists?</li>
+<li>Who owns the accounts, content and any links built during the engagement?</li>
+<li>How do you report, and will the report connect rankings to enquiries or sales?</li>
+<li>What notice period applies if we want to stop?</li>
+<li>How do you approach AI search features and answer engines?</li>
+</ul>
+<p>Be wary of anyone promising a guaranteed first position or a fixed number of links per month regardless of quality. Neither is in your interest.</p>
+
+<h2>How much does SEO cost for an Irish business?</h2>
+<p>SEO is usually sold as a monthly retainer, because the work compounds over time. Our published retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, and the right level depends on how competitive your sector is and how much content and technical work is needed. Full details are on our <a href="/pricing/">pricing page</a>, and our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs</a> explains what drives the price in more depth.</p>
+<p>Results typically take three to six months to build. Quick technical fixes can show sooner, but meaningful ranking and enquiry growth needs consistent work. If you would like to talk through your situation, you can <a href="/contact/">get in touch</a> and we will give you a straight view on whether we are a good fit.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Dublin?</h3>
+<p>No. Prism Works Studio is based in the UK and works remotely with clients in Ireland and across Europe. Work is delivered through video calls, shared documents and direct access to your website and analytics accounts.</p>
+<h3>How do I choose an SEO agency in Dublin?</h3>
+<p>Ask for a clear three-month plan, confirmation that keyword research uses Irish data, transparent reporting and fair contract terms. Avoid guaranteed rankings and link packages sold by volume. Whether the agency is local or remote matters less than how clearly it explains the work.</p>
+<h3>Can you work on a .ie website?</h3>
+<p>Yes. The domain ending does not change how we work. A .ie domain can be a helpful signal that you serve Ireland, and we can also advise on setting up country sections on a .com site if you serve several markets.</p>
+<h3>Do you invoice in euro?</h3>
+<p>Our published prices are in pounds. Other currencies, including euro, can be quoted on request. VAT treatment for cross-border services depends on your business, so please check it with your accountant.</p>
+<h3>How long does SEO take to work in Ireland?</h3>
+<p>Results typically take three to six months to build. Technical fixes and improvements to existing pages can show earlier, while new content and local visibility take longer to mature, especially in competitive Dublin sectors.</p>
+<h3>Do you help with Google Business Profile for Irish locations?</h3>
+<p>Yes. Local visibility work covers your business profile, categories, services, photos, review responses and consistent details across directories, alongside the on-site pages that support each location you genuinely serve.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-edmonton',
+    seoTitle: 'SEO Agency Edmonton: Remote SEO for Alberta Businesses',
+    title: 'SEO Agency for Edmonton Businesses: What Remote SEO Involves',
+    description: 'Choosing an SEO agency for an Edmonton business? How remote SEO works for Alberta firms, what the first months involve and how to judge any agency first.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>An SEO agency for an Edmonton business should help the right customers find you in Google and in AI search, and explain every step in plain language. That work can be done remotely: Prism Works Studio is a UK-based studio that works with Canadian businesses online, with no office in Edmonton, and nearly everything that moves rankings happens in your website, content and Google profiles rather than in a meeting room.</p>
+<p>This guide covers what SEO usually involves for Edmonton and wider Alberta businesses, how a remote relationship runs across a seven-hour time difference, and how to judge any agency before you sign a contract.</p>
+
+<h2>What an SEO agency does for an Edmonton business</h2>
+<p>Edmonton's economy spans energy, construction, trades, healthcare, education, logistics and a growing technology sector. The right SEO plan depends on who you sell to. A home services company serving St. Albert and Sherwood Park needs strong local visibility, while an industrial supplier selling across Western Canada needs national reach for specialist terms. Most engagements combine:</p>
+<ul>
+<li><strong>Technical health.</strong> Making sure pages can be crawled and indexed, load quickly and are not blocked by mistakes. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what that review covers.</li>
+<li><strong>Keyword research.</strong> Finding the phrases Edmonton buyers really use and mapping each to one page. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains the method.</li>
+<li><strong>Page and content work.</strong> Improving service pages, adding useful area pages and publishing content that answers buyer questions.</li>
+<li><strong>Local search.</strong> Google Business Profile, consistent business details across directories and a steady flow of real reviews.</li>
+<li><strong>Authority.</strong> Earning mentions and links from relevant Alberta and industry sources.</li>
+<li><strong>AI search visibility.</strong> Clear, factual pages that AI Overviews and assistants can quote accurately.</li>
+</ul>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> brings these together into one monthly plan.</p>
+
+<h2>Local SEO across Edmonton and the Capital Region</h2>
+<p>Search results change noticeably between downtown Edmonton, the suburbs and surrounding communities such as St. Albert, Sherwood Park, Spruce Grove, Leduc and Fort Saskatchewan. Local SEO here is about being honest and specific.</p>
+<p>If you have one location but serve the whole region, a strong main service page and a handful of genuinely useful area pages usually outperform dozens of near-identical pages that only swap the town name. If you have several branches, each one generally deserves its own page and its own Google Business Profile. Our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> explains how to structure that.</p>
+<p>Your Google Business Profile is often the first thing a local searcher sees. Choose accurate categories, keep hours current (including seasonal changes, which matter in an Alberta winter), add real photos and ask happy customers for reviews. The steps in our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> apply in Canada just as they do elsewhere.</p>
+<p>Finally, decide whether local or national search is your real goal. Our comparison of <a href="/blog/local-seo-vs-national-seo/">local SEO and national SEO</a> helps you choose where to put the effort first.</p>
+
+<h2>Working with a remote SEO agency from Edmonton</h2>
+<p>The UK is usually seven hours ahead of Edmonton. That sounds like a lot, but it works neatly: UK afternoons overlap with Edmonton mornings, so a regular call can sit early in your working day while the bulk of the work happens before you start. Our guide to <a href="/blog/outsource-seo-to-overseas-agency/">outsourcing SEO to an overseas agency</a> covers the wider questions to ask.</p>
+<table>
+<thead>
+<tr><th>Area</th><th>How it usually works remotely</th><th>What to agree upfront</th></tr>
+</thead>
+<tbody>
+<tr><td>Time zones</td><td>UK afternoons overlap with Edmonton mornings</td><td>A fixed weekly or fortnightly call slot</td></tr>
+<tr><td>Access</td><td>Shared access to Search Console, GA4, Google Business Profile and the website</td><td>That your business owns every account and keeps admin rights</td></tr>
+<tr><td>Communication</td><td>Video calls, shared documents and email</td><td>Response times and one contact person on each side</td></tr>
+<tr><td>Reporting</td><td>A monthly report plus a live dashboard</td><td>Which numbers matter, such as enquiries rather than raw traffic</td></tr>
+<tr><td>Approvals</td><td>Drafts shared for comment before publishing</td><td>Who signs off content and technical changes</td></tr>
+<tr><td>Billing</td><td>Our published prices are in pounds sterling</td><td>Canadian dollar quotes on request</td></tr>
+</tbody>
+</table>
+
+<h2>What the first months of SEO usually look like</h2>
+<p>SEO results typically take three to six months to show clearly, and longer in competitive Edmonton markets such as legal, real estate, home renovation and healthcare. A sensible programme usually follows this shape:</p>
+<ol>
+<li><strong>Month one: audit and discovery.</strong> Reviewing the site, Search Console data, competitors and your goals, then agreeing a prioritised plan.</li>
+<li><strong>Month two: foundations.</strong> Technical fixes, page titles, internal links, structured data and Google Business Profile improvements.</li>
+<li><strong>Month three onwards: content and authority.</strong> Improving important pages, publishing new content based on research and building genuine local and industry mentions.</li>
+<li><strong>Every month: review and adjust.</strong> Looking at what moved, what did not and why, and changing priorities accordingly.</li>
+</ol>
+<p>Any agency promising first-page rankings in a few weeks is promising something search engines do not offer. Steady, explained progress is a far better sign.</p>
+
+<h2>How to judge an SEO agency in Edmonton</h2>
+<p>Whether you hire locally or remotely, the same questions separate good agencies from the rest:</p>
+<ul>
+<li><strong>Do they ask good questions?</strong> A good agency wants to know your margins, best customers and capacity, not just your keywords.</li>
+<li><strong>Do they explain the plan?</strong> You should understand what will be done each month and why.</li>
+<li><strong>Who owns the work?</strong> Content, accounts and data should belong to your business.</li>
+<li><strong>How do they report?</strong> Reports should connect rankings and traffic to enquiries and sales. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> shows what a useful report includes.</li>
+<li><strong>What is the contract length?</strong> Understand notice periods and what happens to your work if you leave.</li>
+<li><strong>Do they avoid risky tactics?</strong> Bought links and mass-produced pages can do lasting harm.</li>
+</ul>
+
+<h2>Canadian considerations for Edmonton SEO</h2>
+<p>A few points are specific to Canadian sites, and a good agency should raise them without being asked.</p>
+<ul>
+<li><strong>Spelling.</strong> Canadian English mixes British and American conventions. We write in UK English by default, so for Canadian sites we agree a consistent style with you at the start.</li>
+<li><strong>Privacy and consent.</strong> Analytics, tracking and forms should reflect federal privacy law (PIPEDA) and Alberta's own private-sector privacy legislation where it applies. Check current guidance from the relevant privacy commissioners and take your own advice.</li>
+<li><strong>Email marketing.</strong> If SEO feeds an email list, Canada's anti-spam legislation (CASL) sets rules on consent. Check current official guidance before you send.</li>
+<li><strong>French content.</strong> If you sell nationally, including into Quebec, consider whether French pages are needed and plan them into the site structure.</li>
+</ul>
+
+<h2>Common SEO mistakes we see on Alberta websites</h2>
+<p>Many sites we review share the same handful of problems, and fixing them is often the quickest early progress.</p>
+<ul>
+<li><strong>One page trying to rank for everything.</strong> A single services page listing ten offers rarely ranks for any of them. Each main service usually needs its own focused page.</li>
+<li><strong>Copied area pages.</strong> Pages for each nearby town with identical text add little value and can drag the whole site down.</li>
+<li><strong>Missing tracking.</strong> Without call and form tracking, it is impossible to tell which searches bring real enquiries.</li>
+<li><strong>Old redirects ignored.</strong> After a redesign, missing redirects can quietly lose rankings that took years to earn.</li>
+<li><strong>No reviews strategy.</strong> Reviews influence local rankings and buyer trust, yet many businesses only ask occasionally.</li>
+</ul>
+<p>None of these need a large budget to fix, but they do need someone to spot them and work through them in the right order.</p>
+
+<h2>How much does SEO cost for an Edmonton business?</h2>
+<p>Our SEO is sold as monthly retainers, with published prices in pounds sterling on our <a href="/pricing/">pricing page</a>: Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Canadian dollar quotes are available on request.</p>
+<table>
+<thead>
+<tr><th>Retainer</th><th>Monthly price</th><th>Typically suits</th></tr>
+</thead>
+<tbody>
+<tr><td>Launch</td><td>£350</td><td>A single-location business starting local SEO</td></tr>
+<tr><td>Growth</td><td>£750</td><td>Businesses competing across the Capital Region or several services</td></tr>
+<tr><td>Scale</td><td>£1,500</td><td>Multi-location or national businesses with larger content needs</td></tr>
+</tbody>
+</table>
+<p>The right level depends on your competition, the state of your site and how much content you need, so we recommend one after the initial review rather than guessing.</p>
+
+<h2>FAQs</h2>
+<h3>Can a UK agency do SEO for an Edmonton business?</h3>
+<p>Yes. Prism Works Studio works with Canadian businesses remotely, with no office in Edmonton. Research, content, technical work and reporting all happen online, with regular video calls at a time that suits you.</p>
+<h3>How much does an SEO agency in Edmonton cost?</h3>
+<p>Our retainers are £350, £750 or £1,500 a month, published in pounds sterling. Canadian dollar quotes are available on request, and we recommend a level after reviewing your site and competitors.</p>
+<h3>How long does SEO take to work in Edmonton?</h3>
+<p>SEO results typically take three to six months to show clearly. Competitive sectors and newer websites can take longer, which is why steady monthly reporting matters.</p>
+<h3>Do I need separate pages for St. Albert or Sherwood Park?</h3>
+<p>Only if you genuinely serve those areas and can write something useful and specific for each. A few strong area pages usually work better than many thin ones that only change the place name.</p>
+<h3>Will I own my SEO content and accounts?</h3>
+<p>Yes. Your business should own the website, Search Console, analytics and Google Business Profile, with the agency given access. Content we write for you is yours to keep.</p>
+<h3>Can you guarantee first-page rankings?</h3>
+<p>No, and no honest agency can. Search engines do not offer guarantees. We commit to a clear plan, transparent work and regular reporting on what changed and why.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-new-york',
+    seoTitle: 'SEO Agency New York: Remote SEO for NYC Businesses',
+    title: 'SEO Agency New York: How Remote SEO Works for NYC Businesses',
+    description: 'Looking for an SEO agency in New York? Remote SEO can cover local, national and ecommerce search for NYC businesses. Here is how it works and what to check.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>If you are searching for an SEO agency in New York, the most important question is not where the agency sits but whether it can improve how your business appears in search for the customers you want. Remote SEO can cover local, national and ecommerce search for NYC businesses, as long as the work is grounded in US search data and clear reporting.</p>
+<p>We are a UK-based studio and we work remotely with US businesses, including companies based in New York. We do not have a New York office or any US office. This guide explains what SEO for a New York business involves, how a remote arrangement works, and how to compare agencies fairly.</p>
+
+<h2>What an SEO agency in New York should cover</h2>
+<p>New York is one of the most competitive search markets in the world. Almost every service and product category has strong local competitors and national brands targeting the same searches. Good SEO here usually combines:</p>
+<ul>
+<li><strong>Technical SEO:</strong> making sure your site can be crawled, loads quickly and has no structural problems holding it back.</li>
+<li><strong>On-page SEO:</strong> clear titles, headings and content mapped to what people actually search.</li>
+<li><strong>Local SEO:</strong> Google Business Profile, local landing pages and consistent business details, where you serve customers in person.</li>
+<li><strong>Content:</strong> useful pages and guides that answer buyer questions better than competitors.</li>
+<li><strong>Authority:</strong> earning genuine mentions and links from relevant sites over time.</li>
+<li><strong>Reporting:</strong> Search Console and analytics data tied to enquiries and sales.</li>
+</ul>
+<p>Increasingly, it also means making your content clear and trustworthy enough to be cited in AI-generated answers. Our guide to working with an <a href="/blog/ai-seo-agency-uk/">AI SEO agency</a> explains how that fits alongside traditional search.</p>
+
+<h2>Local SEO for NYC: where you are matters, where we are does not</h2>
+<p>Local search results, such as the map pack for searches like a service plus a neighbourhood, depend on your business's own address, service area, reviews and relevance. They do not depend on where your SEO agency is based. A remote team can do the research, page writing, profile optimisation and reporting, while your physical presence in New York provides the local signals.</p>
+<p>For NYC businesses, a few local points are worth considering:</p>
+<ul>
+<li><strong>Neighbourhood and borough searches:</strong> people often search by area, such as Brooklyn, Queens or a specific Manhattan neighbourhood, rather than just the city name.</li>
+<li><strong>Multiple locations:</strong> businesses with several sites need a page and a profile for each location, with unique content.</li>
+<li><strong>Service-area businesses:</strong> trades and mobile services need to describe where they work without creating thin, near-duplicate area pages.</li>
+<li><strong>Reviews:</strong> a steady flow of genuine reviews, gathered within Google's rules, supports both rankings and trust.</li>
+</ul>
+<p>Our guides to <a href="/blog/google-business-profile-uk/">Google Business Profile</a> and <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> cover the principles, which apply to US businesses as well. If you are unsure whether to focus locally or nationally, our comparison of <a href="/blog/local-seo-vs-national-seo/">local SEO vs national SEO</a> helps you decide.</p>
+
+<h2>Comparing your options for SEO in New York</h2>
+<p>Businesses in New York usually choose between a local agency, a remote agency, a freelancer or doing the work in-house. Each can work well; the right choice depends on your budget, how much hands-on contact you want and the skills you already have.</p>
+<table>
+<thead><tr><th>Option</th><th>Typical strengths</th><th>Things to weigh up</th></tr></thead>
+<tbody>
+<tr><td>Local NYC agency</td><td>In-person meetings, same time zone</td><td>Fees often reflect local overheads; check who actually does the work</td></tr>
+<tr><td>Remote agency (such as a UK studio)</td><td>Structured process, time zone can speed up turnaround</td><td>Meetings are by video; check US market knowledge and reporting</td></tr>
+<tr><td>Freelancer</td><td>Direct contact with the person doing the work</td><td>Capacity and cover for holidays or illness</td></tr>
+<tr><td>In-house</td><td>Deep business knowledge</td><td>Hiring cost and keeping skills current</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/seo-agency-vs-freelancer-uk/">choosing between an SEO agency and a freelancer</a> goes deeper into the trade-offs, and our post on how to <a href="/blog/outsource-seo-to-overseas-agency/">outsource SEO to an overseas agency</a> covers contracts, access and communication.</p>
+
+<h2>How remote SEO works for a New York business</h2>
+<p>SEO is research, technical and content work, all of which happens through shared tools. Remote work does not change the substance; it changes how meetings and approvals are organised.</p>
+<ol>
+<li><strong>Discovery:</strong> a video call to understand your services, customers, locations and goals.</li>
+<li><strong>Audit and research:</strong> a technical review and keyword research using US data, including NYC and neighbourhood-level searches where relevant.</li>
+<li><strong>Plan:</strong> a prioritised list of fixes, page improvements and new content.</li>
+<li><strong>Delivery:</strong> technical fixes, page updates and content, with your approval at agreed points.</li>
+<li><strong>Reporting:</strong> monthly reports and calls based on Search Console, analytics and enquiry data.</li>
+</ol>
+<p>UK working hours overlap with New York mornings, so calls are easy to schedule, and work can often be prepared before your day starts. You keep ownership of your website, Google Business Profile, Search Console and analytics; we work with the access you grant.</p>
+
+<h2>Writing for New York searchers</h2>
+<p>Content for a US audience should use American spelling and phrasing, US measurements and terms New Yorkers actually use. Our own guides are written in UK English, but pages we write for US clients are written for their audience. Local content works best when it reflects real knowledge of your service area, which is why we draw on your input about the neighbourhoods and customers you serve rather than inventing local detail.</p>
+
+<h2>Common SEO problems we see on city business websites</h2>
+<p>Whatever the city, many business websites share the same issues, and in a market as crowded as New York they cost more. Look out for:</p>
+<ul>
+<li><strong>Thin location pages:</strong> dozens of near-identical pages that only swap the neighbourhood name, which rarely rank and can drag down the rest of the site.</li>
+<li><strong>Service pages that try to cover everything:</strong> one page listing every service, rather than a focused page for each main offer.</li>
+<li><strong>Slow mobile pages:</strong> heavy images, scripts and page builders that frustrate visitors on the move.</li>
+<li><strong>Inconsistent business details:</strong> different addresses, phone numbers or opening hours across the website, Google Business Profile and directories.</li>
+<li><strong>No clear next step:</strong> pages that rank but make it hard to call, book or enquire.</li>
+</ul>
+<p>Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> covers how to find and fix the technical side of these problems before investing in new content.</p>
+
+<h2>Reporting that ties SEO to business results</h2>
+<p>Rankings are useful but incomplete. Good reporting shows organic traffic to the pages that matter, calls and form enquiries from organic visits, Google Business Profile actions such as calls and direction requests, and, for online stores, organic revenue. Our guide to <a href="/blog/seo-reporting-uk/">SEO reporting</a> explains which measures to track and how to read them.</p>
+
+<h2>Costs and timelines</h2>
+<p>Our SEO work sits within our <a href="/services/seo-geo/">SEO and GEO service</a>. Monthly retainers are Launch at £350, Growth at £750 and Scale at £1,500, depending on the scope of work. See our <a href="/pricing/">pricing page</a> for details. We quote in pounds and can quote other currencies on request.</p>
+<p>New York is competitive, so patience matters. Technical fixes can show effects within weeks, but SEO results typically take three to six months to build, and highly competitive searches can take longer. Be wary of any agency that guarantees rankings.</p>
+
+<h2>Legal and regulatory points</h2>
+<p>US businesses may need to consider federal advertising guidance, accessibility expectations for websites, state and city privacy rules and industry-specific regulations. These change and vary by sector. We are not lawyers: check current official guidance and speak to your own legal adviser about what applies to your website and marketing.</p>
+
+<h2>FAQs</h2>
+<h3>Do I need an SEO agency in New York to rank in New York?</h3>
+<p>No. Local rankings depend on your business location, Google Business Profile, reviews and website relevance, not on where your agency is based. A remote agency can do the research, optimisation and reporting while your NYC presence provides the local signals.</p>
+<h3>How do I choose an SEO agency in New York?</h3>
+<p>Look for a clear process, US search data, transparent reporting and honest timelines. Ask who will do the work, how you will communicate and what happens to your accounts if you leave. Avoid anyone who guarantees rankings.</p>
+<h3>Can a UK-based agency do SEO for a New York business?</h3>
+<p>Yes. SEO is research, technical and content work that can be done remotely. We work with US clients over video calls and shared tools, and you keep ownership of every account.</p>
+<h3>How long does SEO take in a competitive city like New York?</h3>
+<p>Results typically take three to six months to build, and competitive searches can take longer. Technical fixes may show effects sooner, but content and authority grow over time.</p>
+<h3>What does SEO cost for a New York business?</h3>
+<p>Our monthly retainers are Launch at £350, Growth at £750 and Scale at £1,500, depending on scope. We quote in pounds and can quote other currencies on request.</p>
+<h3>Should a New York business target the whole city or individual neighbourhoods?</h3>
+<p>It depends on where you serve customers. Businesses with a physical location usually benefit from neighbourhood relevance, while those serving all five boroughs or the wider US may focus on broader terms. Your keyword research should guide the choice.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-riyadh',
+    seoTitle: 'SEO Agency Riyadh: How to Choose One and What It Costs',
+    title: 'SEO Agency Riyadh: How to Choose a Partner for Arabic and English Search',
+    description: 'Choosing an SEO agency for Riyadh: what good Arabic and English SEO involves, questions to ask, realistic timelines and what our monthly retainers cost.',
+    date: '2026-11-09',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/services/website-ecommerce-development/'],
+    body: `
+<p>An SEO agency for a Riyadh business should help you rank for the Arabic and English searches your customers actually use, fix the technical issues holding your site back and build content that earns trust from both people and search engines. The best partner explains what it will do each month, reports in plain language and never guarantees a position on Google.</p>
+<p>Prism Works Studio is a UK-based studio that provides <a href="/services/seo-geo/">SEO and generative engine optimisation</a> remotely for businesses in Saudi Arabia and the wider Gulf. We have no office or staff in Riyadh. This guide explains what SEO for the Saudi capital involves, how to compare agencies and what our retainers cost, so you can make an informed choice whoever you hire.</p>
+
+<h2>Why SEO in Riyadh needs its own approach</h2>
+<p>Search behaviour in Saudi Arabia differs from the UK or US in ways that change how a campaign should be run. Many people search in Arabic, some switch between Arabic and English, and spelling varies with transliteration. Local competitors may have strong Arabic content while international competitors dominate English results. A plan that simply translates English keywords will miss much of the demand.</p>
+<ul>
+<li><strong>Arabic keyword research.</strong> Customers may use dialect terms, formal Arabic or transliterated English. Each needs researching separately rather than assumed.</li>
+<li><strong>Bilingual site structure.</strong> If you serve both languages, each page needs a clear language version and correct technical signals so search engines show the right one. Our <a href="/blog/international-seo-agency-uk/">international SEO</a> guide covers how this works.</li>
+<li><strong>Mobile performance.</strong> Most searches happen on phones, so page speed and mobile usability matter. See our notes on <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a>.</li>
+<li><strong>Local presence.</strong> For businesses with a physical location in Riyadh, a complete and accurate Google Business Profile supports visibility in map results.</li>
+<li><strong>AI search.</strong> More searchers now see AI-generated answers. Clear, well-structured content is more likely to be understood and cited. Our explainer on <a href="/blog/what-is-generative-engine-optimisation/">generative engine optimisation</a> covers the basics.</li>
+</ul>
+
+<h2>What a good SEO agency in Riyadh should do</h2>
+<p>Whether you hire a local firm, a regional agency or an overseas studio like ours, the core work is similar. It usually falls into four areas.</p>
+<table>
+<thead><tr><th>Area</th><th>What it involves</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Technical SEO</td><td>Crawling and indexing checks, site speed, mobile usability, language tags, structured data, redirects</td><td>If search engines cannot crawl and understand your pages, content work is wasted</td></tr>
+<tr><td>Keyword and content strategy</td><td>Arabic and English research, mapping keywords to pages, planning service and guide content</td><td>Matches pages to what customers actually type, in the language they use</td></tr>
+<tr><td>On-page optimisation</td><td>Titles, headings, internal links, page copy, FAQs</td><td>Helps each page target one clear topic and answer the searcher well</td></tr>
+<tr><td>Authority and local signals</td><td>Digital PR, relevant links, business listings, Google Business Profile</td><td>Builds the trust signals that help competitive pages rank</td></tr>
+<tr><td>Reporting</td><td>Monthly reports on visibility, traffic, enquiries and next steps</td><td>Lets you judge progress against business goals, not vanity metrics</td></tr>
+</tbody>
+</table>
+<p>Most campaigns start with an audit. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the kind of issues we look for before recommending any content work.</p>
+
+<h2>SEO agency Riyadh: questions to ask before you sign</h2>
+<p>Agency proposals can look similar on the surface. These questions help you see the difference.</p>
+<ol>
+<li><strong>Who does the Arabic keyword research and content?</strong> Ask whether a fluent Arabic speaker is involved and how dialect and spelling variations are handled.</li>
+<li><strong>What will you do in the first three months?</strong> A clear plan is a good sign. Vague promises of "optimisation" are not.</li>
+<li><strong>How do you report?</strong> Ask to see a sample report. It should connect search visibility to enquiries or sales, not just list rankings.</li>
+<li><strong>Do you guarantee rankings?</strong> The honest answer is no. Nobody controls Google, and guarantees often signal risky tactics.</li>
+<li><strong>How do you build links?</strong> Paid link schemes and low-quality directories can harm your site. Ask for the approach in writing.</li>
+<li><strong>What is the contract length and notice period?</strong> Our guide to <a href="/blog/marketing-agency-contract-uk/">marketing agency contracts</a> explains what reasonable terms look like.</li>
+<li><strong>Who owns the work?</strong> Content, reports and accounts such as Search Console and analytics should belong to you.</li>
+</ol>
+
+<h2>Local agency or remote SEO partner?</h2>
+<p>A Riyadh-based agency may offer in-person meetings and deep local market knowledge. A remote studio can offer a different perspective, transparent processes and access to international SEO experience. Neither is automatically better. What matters is the quality of the work, the clarity of reporting and whether the team can handle the languages you need.</p>
+<p>If you work with us, we combine our technical and content process with your team's local knowledge. You review Arabic content and approve anything that makes claims about your services. We will tell you plainly where a specialist translator or local partner would add value. Our guide on <a href="/blog/outsource-seo-to-overseas-agency/">outsourcing SEO to an overseas agency</a> covers the pros and cons in more detail.</p>
+
+<h2>How long SEO takes and what it costs</h2>
+<p>SEO results typically take three to six months to build, sometimes longer in competitive sectors or for new websites. Early months usually focus on fixing technical issues and improving key pages; content and authority work then compounds over time.</p>
+<p>Our monthly retainers, shown on our <a href="/pricing/">pricing page</a>, are:</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> suited to smaller sites focusing on a handful of priority services or one language first.</li>
+<li><strong>Growth, £750 a month:</strong> for businesses building content in both Arabic and English and competing for broader terms.</li>
+<li><strong>Scale, £1,500 a month:</strong> for larger sites, multiple service lines or ecommerce catalogues.</li>
+</ul>
+<p>We price in pounds sterling and can quote in other currencies on request. Translation by a specialist, if needed, is usually quoted separately. We will always explain what each month includes before you commit.</p>
+
+<h2>Sector considerations in Saudi Arabia</h2>
+<p>Some sectors, such as healthcare, financial services and real estate, may be subject to specific advertising and content rules in the Kingdom. We keep our guidance general here: check current official guidance from the relevant authority, and have your legal or compliance team approve any claims before they go live. The same applies to privacy notices and how your website handles personal data under Saudi data protection rules.</p>
+<p>For ecommerce brands, product and category pages need careful Arabic and English optimisation, alongside clear delivery and returns information. Service businesses usually benefit most from strong, specific service pages and genuinely helpful guides that answer customer questions.</p>
+
+<h2>What to prepare before speaking to an agency</h2>
+<p>You will get more useful proposals, and a faster start, if you gather a few things first. None of this needs to be perfect, but it helps any agency understand where you are today.</p>
+<ul>
+<li><strong>Access to your data.</strong> Google Search Console and Google Analytics access, or permission to set them up if they are missing. Our guide to <a href="/blog/google-search-console-setup-uk/">setting up Google Search Console</a> walks through the steps.</li>
+<li><strong>Your priority services or products.</strong> Which offers bring the most valuable customers, and which would you like to grow?</li>
+<li><strong>Known competitors.</strong> The businesses you lose work to, and the ones you see appearing in search results for your main services.</li>
+<li><strong>Language priorities.</strong> Whether Arabic, English or both matter most for your customers, and who on your team can review Arabic content.</li>
+<li><strong>Past SEO work.</strong> Any previous agencies, link building or site migrations, so nothing risky is repeated and any old problems can be checked.</li>
+</ul>
+<p>With this in hand, a first conversation can focus on priorities rather than basic fact-finding, and the audit can begin as soon as you are ready.</p>
+
+<h2>Getting started</h2>
+<p>A good first step is a conversation about your goals, current site and the searches that matter most. From there we can recommend whether to start with an audit, a content plan or improvements to your existing pages. If your site needs rebuilding first, we can also help with <a href="/services/website-ecommerce-development/">website design and development</a> so the new structure is ready for search from launch.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in Riyadh?</h3>
+<p>Look for a clear process, honest timelines, sample reporting and real capability in Arabic keyword research and content. Avoid anyone who guarantees rankings or will not explain how they build links.</p>
+<h3>How much does an SEO agency in Riyadh cost with Prism Works Studio?</h3>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. We price in pounds sterling and can quote in other currencies on request.</p>
+<h3>Do you have an office in Saudi Arabia?</h3>
+<p>No. We are a UK-based studio working remotely with clients in Saudi Arabia and the Gulf. We run campaigns through video calls, shared documents and monthly reports.</p>
+<h3>Can you do SEO in Arabic?</h3>
+<p>Yes, we plan Arabic and English SEO together. Arabic content should be written or reviewed by a fluent speaker, and your team approves all content before publication.</p>
+<h3>How long does SEO take to work in Saudi Arabia?</h3>
+<p>Results typically take three to six months to build, and longer in very competitive sectors or for brand new websites. Technical fixes often come first, followed by content and authority work.</p>
+<h3>Is SEO or Google Ads better for a Riyadh business?</h3>
+<p>Ads can bring traffic quickly while you pay, and SEO builds visibility that lasts. Many businesses use both, starting with ads for immediate enquiries while SEO grows in the background.</p>
+`,
+  },
+  {
+    slug: 'shopify-agency-netherlands',
+    seoTitle: 'Shopify Agency Netherlands: Building for Dutch Shoppers',
+    title: 'Shopify Agency for Dutch Brands: What to Expect and What to Ask',
+    description: 'Looking for a Shopify agency in the Netherlands? What a good Shopify build covers for Dutch shoppers, how a remote UK studio works and what it typically costs.',
+    date: '2026-11-09',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Shopify agency for a Dutch brand should build a store that feels native to shoppers in the Netherlands: Dutch-language pages, familiar payment options, clear delivery and returns information, and fast pages on mobile. It should also set the store up so it can grow into Belgium, Germany and other markets without a rebuild.</p>
+<p>Prism Works Studio is a UK-based studio that designs and builds Shopify stores for brands in the UK and across Europe, working remotely. We have no office in the Netherlands and will not claim one. What we provide is structured <a href="/services/website-ecommerce-development/">website and ecommerce development</a> delivered online, with shared project boards, regular video calls and a working week that overlaps closely with Dutch business hours. This guide covers what to expect from any Shopify partner, the questions worth asking and how the work is usually priced.</p>
+
+<h2>What Dutch shoppers expect from an online store</h2>
+<p>The Netherlands is a mature ecommerce market. Shoppers are used to quick delivery, simple returns and smooth checkouts, and they compare stores quickly. A Shopify store that works well in the UK will not automatically meet those expectations.</p>
+<ul>
+<li><strong>Local payment methods.</strong> Many Dutch shoppers expect to pay with iDEAL, which links directly to their bank, alongside cards and buy-now-pay-later options. Leaving out the methods your customers trust can cost sales at the final step.</li>
+<li><strong>Dutch-language content.</strong> Many people in the Netherlands read English well, but product details, sizing, delivery terms and checkout messages in Dutch reduce doubt and support returns handling.</li>
+<li><strong>Clear delivery and returns.</strong> Delivery times, carriers, pickup points and the returns process should be easy to find before checkout, not hidden in the footer.</li>
+<li><strong>Euro pricing that looks deliberate.</strong> Converted prices ending in odd cents look unplanned. Rounded euro prices, set per market, look more trustworthy.</li>
+<li><strong>Trust signals.</strong> Visible contact details, clear company information, reviews and well-written policy pages all matter to cautious first-time buyers.</li>
+</ul>
+
+<h2>What a Shopify agency in the Netherlands should deliver</h2>
+<p>Whether you hire a local Amsterdam agency or a remote studio, the scope of a good Shopify project looks similar. The table below sets out the main stages and the Dutch-specific points within each.</p>
+<table>
+<thead><tr><th>Stage</th><th>What it covers</th><th>Netherlands-specific points</th></tr></thead>
+<tbody>
+<tr><td>Discovery</td><td>Goals, catalogue, customers, integrations, markets</td><td>Decide early whether the store launches in Dutch only, Dutch and English, or with Belgium too</td></tr>
+<tr><td>Design</td><td>Theme choice or custom design, page layouts, mobile first</td><td>Allow for longer Dutch words in buttons, menus and filters</td></tr>
+<tr><td>Build</td><td>Theme setup, sections, apps, product data, collections</td><td>Translated content, euro pricing and Dutch-language notifications</td></tr>
+<tr><td>Payments and checkout</td><td>Payment providers, checkout settings, taxes</td><td>iDEAL and other local methods; VAT settings checked with your accountant</td></tr>
+<tr><td>Shipping and returns</td><td>Shipping profiles, rates, carriers, policies</td><td>Domestic and Benelux delivery rules, pickup points and clear returns terms</td></tr>
+<tr><td>Launch and handover</td><td>Testing, redirects, training, analytics</td><td>Consent banner set up for EU cookie rules before tracking runs</td></tr>
+</tbody>
+</table>
+
+<h2>Language and multi-market setup</h2>
+<p>Shopify lets one store serve several countries and languages through Markets, with separate pricing, currencies and translated content. For a Dutch brand, the common patterns are a Dutch-first store with an English version for international visitors, or a store that serves the Netherlands and the Dutch-speaking part of Belgium together.</p>
+<p>The technical setup is the easy part. The harder decisions are about content: who writes and checks the Dutch copy, whether product descriptions are translated or rewritten, and how updates are kept in sync. Machine translation is a reasonable starting point for long catalogues, but key pages should be reviewed by a fluent speaker. Our guide to <a href="/blog/shopify-markets-europe/">Shopify Markets in Europe</a> explains the options in more detail.</p>
+
+<h2>Payments, VAT and compliance</h2>
+<p>Payments and tax are where cross-border stores most often go wrong, so they deserve attention during the build rather than after launch.</p>
+<ul>
+<li><strong>Payment providers.</strong> We help you choose and connect a provider that supports the methods your Dutch customers use. Availability and fees vary by provider and change over time, so we check current terms during discovery. Our overview of <a href="/blog/payment-gateways-uk-online-shop/">payment gateways for online shops</a> explains the main trade-offs.</li>
+<li><strong>VAT.</strong> Selling to consumers in several EU countries can bring rules such as the VAT One Stop Shop into play. Shopify can display and calculate tax, but the correct settings depend on where your business is registered and how you sell. Confirm them with your accountant and current official guidance.</li>
+<li><strong>Consumer rules.</strong> EU consumer law sets expectations around pricing, withdrawal rights and returns information. Your policy pages should reflect your actual terms, reviewed by someone qualified to advise on them.</li>
+<li><strong>Privacy and cookies.</strong> GDPR and the ePrivacy rules generally mean non-essential tracking waits for consent. We set up consent tools in line with common practice, but we are not lawyers.</li>
+<li><strong>Accessibility.</strong> The European Accessibility Act affects many online stores selling to consumers, so we build with accessible patterns from the start. Check the current requirements for your business.</li>
+</ul>
+
+<h2>Moving an existing Dutch store to Shopify</h2>
+<p>Many Dutch brands come to Shopify from WooCommerce, Magento or a local platform. A migration is more than copying products: it needs a plan for URLs, redirects, customer accounts, order history and SEO so you do not lose the rankings you have already earned.</p>
+<p>We map every important URL to its new home, set up redirects, move product and customer data, and test thoroughly on a staging copy before switching over. Our guide to <a href="/blog/woocommerce-to-shopify-migration/">moving from WooCommerce to Shopify</a> covers the process step by step, and the same principles apply from other platforms.</p>
+
+<h2>Performance and search visibility</h2>
+<p>Dutch shoppers browse mostly on phones, and slow stores lose them. A good build keeps the theme lean, limits apps to the ones that earn their place and compresses images properly. Our <a href="/blog/shopify-speed-optimisation/">Shopify speed optimisation guide</a> covers what we check.</p>
+<p>Search visibility should be designed in from the start: clear collection structure, unique product descriptions in the target language, sensible URL handles, and correct language and country signals when you serve more than one market. A store that launches with these basics in place is much easier to grow through SEO later.</p>
+
+<h2>How a remote Shopify studio works with Dutch brands</h2>
+<p>Almost all Shopify work happens in the admin, the theme code and shared documents, so working remotely is straightforward when the process is clear.</p>
+<ol>
+<li><strong>Discovery call.</strong> We agree goals, markets, catalogue size, integrations and your launch date.</li>
+<li><strong>Proposal and plan.</strong> You receive a written scope, timeline and fixed price for the agreed work.</li>
+<li><strong>Design and build.</strong> Designs are shared for feedback, then built in a development theme you can preview at any time.</li>
+<li><strong>Content and testing.</strong> You supply or approve Dutch content; we test checkout, payments, emails and mobile layouts.</li>
+<li><strong>Launch and support.</strong> We go live, monitor the first weeks and train your team on day-to-day management.</li>
+</ol>
+<p>The Netherlands is one hour ahead of the UK, so calls are easy to schedule during the working day. The store, apps and accounts are set up in your name, so you keep full ownership. If you are preparing to brief an agency, our guide on <a href="/blog/how-to-brief-a-shopify-developer/">how to brief a Shopify developer</a> will help you gather what is needed.</p>
+
+<h2>How much does a Shopify store cost for a Dutch brand?</h2>
+<p>Our published price for an ecommerce site is £1,500 to £3,500, depending on catalogue size, design complexity, integrations and the number of languages and markets. Projects typically take five to twelve weeks. Prices are in pounds by default, and other currencies such as euro can be quoted on request. Shopify subscription fees, paid apps, payment fees and any paid theme are separate costs.</p>
+<p>Ongoing support, SEO or paid media can follow as a monthly retainer. Full details are on our <a href="/pricing/">pricing page</a>, and our guide to <a href="/blog/shopify-website-cost-uk/">what a Shopify website costs</a> breaks down where the money goes. If you would like a straight view on your project, <a href="/contact/">get in touch</a>.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a Shopify agency in the Netherlands?</h3>
+<p>Look for a clear written scope, experience with multi-language and multi-currency setups, a sensible approach to payments and VAT, and a plan for SEO and redirects if you are migrating. Ask who owns the store and accounts after launch. Location matters less than a clear process.</p>
+<h3>Do you have an office in Amsterdam?</h3>
+<p>No. Prism Works Studio is based in the UK and works remotely with brands in the Netherlands and across Europe, using video calls, shared project boards and direct access to your Shopify admin.</p>
+<h3>Can you set up iDEAL on Shopify?</h3>
+<p>We can help you choose and connect a payment provider that supports iDEAL and the other methods your customers use. Availability and fees depend on the provider and your business, so we confirm current terms during discovery.</p>
+<h3>Will my store be in Dutch?</h3>
+<p>It can be. We set up the languages you need and the structure to manage them. You can supply Dutch copy, approve translations or work with a translator, and we recommend a fluent review of key pages before launch.</p>
+<h3>Do you quote in euro?</h3>
+<p>Our published prices are in pounds, and other currencies, including euro, can be quoted on request. Please check the VAT treatment of cross-border services with your accountant.</p>
+<h3>How long does a Shopify build take?</h3>
+<p>Ecommerce builds typically take five to twelve weeks. Simpler single-language stores sit at the shorter end, while larger catalogues, several markets or a migration from another platform take longer.</p>
+`,
+  },
+  {
+    slug: 'tiktok-ads-agency-for-us-brands',
+    seoTitle: 'TikTok Ads Agency for US Brands: Remote Campaign Support',
+    title: 'TikTok Ads Agency for US Brands: How Remote Campaign Management Works',
+    description: 'A TikTok ads agency for US brands should plan creative, tracking and testing around American audiences. Here is how remote TikTok campaign support works.',
+    date: '2026-11-09',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A TikTok ads agency for US brands plans, launches and improves paid campaigns on TikTok aimed at American shoppers, with creative, tracking and testing built around how people in the USA actually use the app. The right partner does not need to sit in your city; it needs a clear testing process, honest reporting and a steady rhythm of new creative.</p>
+<p>We are a UK-based studio and we work remotely with US businesses. We have no US office, so everything happens over video calls, shared documents and the ad platform itself. This guide explains what good TikTok campaign management looks like, how a remote arrangement works day to day, and what to check before you hire anyone.</p>
+
+<h2>What a TikTok ads agency for US brands actually does</h2>
+<p>TikTok is a creative-led platform. The algorithm is good at finding people who might be interested in your product, so most of the work an agency does is about feeding it the right videos, the right signals and the right structure. In practice that covers:</p>
+<ul>
+<li><strong>Account and tracking setup:</strong> TikTok Ads Manager, the pixel, the Events API where your platform supports it, and conversion events that reflect real business outcomes.</li>
+<li><strong>Creative strategy:</strong> hooks, angles, formats and scripts that suit US audiences, plus briefs for creators or your in-house team.</li>
+<li><strong>Campaign structure:</strong> objectives, budgets, audiences and bidding chosen to match your goals, rather than copied from a template.</li>
+<li><strong>Testing:</strong> a planned cadence of new concepts, with clear rules for what counts as a winner.</li>
+<li><strong>Reporting:</strong> weekly or monthly reviews that link spend to sales or leads, not just views.</li>
+</ul>
+<p>If you are comparing channels before committing budget, our breakdown of <a href="/blog/tiktok-ads-vs-meta-ads-uk/">TikTok ads vs Meta ads</a> covers the main differences in audience, creative demands and buying intent. The principles apply whichever side of the Atlantic you sell on.</p>
+
+<h2>Why creative matters more than targeting on TikTok</h2>
+<p>On search platforms, the keyword tells you what someone wants. On TikTok, people are scrolling for entertainment, and your ad competes with every other video in their feed. That means the first second or two of a video decides whether anyone sees the rest.</p>
+<p>Ads that tend to suit the platform share a few traits:</p>
+<ul>
+<li>They look and sound like normal TikTok content rather than a polished television spot.</li>
+<li>They open with a clear hook: a problem, a surprising visual or a direct statement.</li>
+<li>They show the product in use, ideally by a real person speaking to camera.</li>
+<li>They use on-screen text and captions, because many people watch with the sound low or off.</li>
+<li>They end with a simple, specific call to action.</li>
+</ul>
+<p>For US audiences, small details matter. American spelling and phrasing in captions, prices shown in dollars, and references that feel familiar to US viewers all help the ad feel native. Where we write copy for the US market, we write it in American English for the audience even though our own guides use UK spelling.</p>
+
+<h2>Tracking before budget</h2>
+<p>TikTok campaigns optimise towards the events you send them. If those events are missing, duplicated or firing on the wrong pages, the algorithm learns the wrong lessons and your reports become unreliable. Before scaling spend, check that:</p>
+<ul>
+<li>The pixel is installed once and fires the standard events you care about, such as view content, add to cart and purchase.</li>
+<li>The Events API is connected where your store platform supports it, to reduce data loss from browsers and blockers.</li>
+<li>Purchase events pass the order value and currency correctly.</li>
+<li>Every ad uses consistent UTM tags, so your analytics tool can show TikTok traffic separately.</li>
+</ul>
+<p>Our <a href="/blog/tiktok-pixel-setup-guide/">TikTok pixel setup guide</a> walks through the setup in detail, and our <a href="/blog/utm-tracking-links-guide/">UTM tracking links guide</a> explains a naming system that keeps reports tidy.</p>
+
+<h2>How a remote TikTok ads partnership works</h2>
+<p>Working with a studio in another country is mostly a question of process. TikTok Ads Manager is a cloud platform, so where the account manager sits makes no difference to the campaigns themselves. What makes a difference is how clearly you agree responsibilities and communication.</p>
+<table>
+<thead><tr><th>Area</th><th>What we handle</th><th>What stays with you</th></tr></thead>
+<tbody>
+<tr><td>Ad account</td><td>Day-to-day management with partner or user access</td><td>Ownership, billing and payment method</td></tr>
+<tr><td>Creative</td><td>Strategy, briefs, scripts, edits where agreed</td><td>Product samples, brand approvals, any creator contracts</td></tr>
+<tr><td>Tracking</td><td>Pixel and event checks, UTM structure, reporting setup</td><td>Access to your store or website platform</td></tr>
+<tr><td>Testing</td><td>Test plan, launches, analysis and recommendations</td><td>Sign-off on budgets and offers</td></tr>
+<tr><td>Compliance</td><td>Following TikTok ad policies as we understand them</td><td>Final responsibility for claims, disclosures and legal review</td></tr>
+</tbody>
+</table>
+<p>The time difference between the UK and the US means we can often review results and prepare changes before your working day starts, then discuss them on a call in a shared window. Most US time zones overlap with UK afternoons, so regular calls are straightforward to schedule.</p>
+<p>Our wider guide to working with a <a href="/blog/remote-ppc-agency-for-us-businesses/">remote PPC agency for US businesses</a> covers access, communication and reporting across all paid channels.</p>
+
+<h2>Testing structure that keeps learning moving</h2>
+<p>The most common reason TikTok campaigns stall is creative fatigue. A winning video can stop working within weeks as the same people see it repeatedly. A sensible testing structure keeps new ideas flowing without wrecking what already works:</p>
+<ol>
+<li><strong>Separate testing from scaling.</strong> New concepts go into a testing campaign with a controlled budget. Proven ads move into a scaling campaign.</li>
+<li><strong>Test concepts, not just tweaks.</strong> A new hook, a new angle or a new format teaches you more than changing a button colour.</li>
+<li><strong>Agree success rules in advance.</strong> Decide what cost per result or return on ad spend counts as a win before launching, so decisions are not made on gut feel.</li>
+<li><strong>Refresh regularly.</strong> Plan a steady pipeline of new videos rather than waiting for performance to drop.</li>
+</ol>
+<p>TikTok also offers Spark Ads, which let you boost organic posts from your own account or from creators who give permission. These often feel more native and can carry social proof from the original post. Any creator content needs proper permission and, where relevant, clear disclosure.</p>
+
+<h2>Landing pages and the post-click experience</h2>
+<p>Many TikTok users browse on mobile with short attention spans. If the ad promises one thing and the landing page delivers another, or the page loads slowly, much of the spend is wasted. Make sure:</p>
+<ul>
+<li>The page matches the product and offer in the ad.</li>
+<li>It loads quickly on a phone over a mobile connection.</li>
+<li>The price, delivery information and returns policy are easy to find.</li>
+<li>Checkout is short, with familiar US payment options where your platform supports them.</li>
+</ul>
+<p>Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> explains the structure we use. If your store runs on Shopify, our post on working with a <a href="/blog/shopify-agency-for-us-brands/">Shopify agency for US brands</a> covers store improvements that help paid traffic convert.</p>
+
+<h2>Regulation and policy: keep it general, check the source</h2>
+<p>Advertising to US consumers brings its own rules. The Federal Trade Commission publishes guidance on endorsements, influencer disclosures and advertising claims, and individual states have their own privacy laws that can affect how tracking data is collected and used. TikTok also has its own advertising policies, which vary by product category and change over time.</p>
+<p>We follow platform policies as part of campaign management, but we are not lawyers. Always check the current official guidance and take advice from your own legal adviser on claims, disclosures and privacy notices. Approval of ad claims rests with you.</p>
+
+<h2>Budgets, fees and what to expect</h2>
+<p>Ad spend is paid directly to TikTok from your own account and is separate from any management fee. Our retainers start at Launch £350 a month, Growth £750 a month and Scale £1,500 a month, with full details on our <a href="/pricing/">pricing page</a>. We quote in pounds; other currencies can be quoted on request.</p>
+<p>On timing, paid social can produce early data within days, but building a reliable, profitable account usually takes longer. Paid results typically take three to six months to settle as testing, tracking and creative improve together.</p>
+<p>To see how TikTok fits with search, shopping and other social channels, visit our <a href="/services/paid-media/">paid media service</a> page.</p>
+
+<h2>What to ask before you hire a TikTok ads agency</h2>
+<ul>
+<li>Who owns the ad account, the pixel and the creative files?</li>
+<li>How many new creative concepts will be tested each month, and who produces them?</li>
+<li>How will results be measured, and which tool is the source of truth?</li>
+<li>What happens to your access and data if you end the arrangement?</li>
+<li>How often will you meet, and at what times in your time zone?</li>
+</ul>
+<p>Clear answers to these questions matter far more than where the agency is based.</p>
+
+<h2>FAQs</h2>
+<h3>What does a TikTok ads agency for US brands do?</h3>
+<p>It sets up tracking, plans creative, structures campaigns, runs tests and reports on results for brands selling to American audiences. Most of the value comes from a steady creative testing process and reliable measurement rather than complex targeting.</p>
+<h3>Can a UK-based agency run TikTok ads for a US business?</h3>
+<p>Yes. TikTok Ads Manager is a cloud platform, so campaigns can be managed from anywhere. We work remotely with US clients, and you keep ownership of the ad account and billing while we manage campaigns with the access you grant.</p>
+<h3>Do I need to produce my own TikTok videos?</h3>
+<p>Not necessarily, but you need a reliable source of new creative. That can be your own team, creators you work with or a mix. We can write briefs and scripts and advise on edits; filming usually needs someone with the product in hand.</p>
+<h3>How much should a US brand spend on TikTok ads?</h3>
+<p>There is no single right figure. Budget needs to be large enough for the algorithm to gather data on each test. Ad spend is paid directly to TikTok and is separate from our management fee, which is listed in pounds on our pricing page.</p>
+<h3>How long before TikTok ads show results?</h3>
+<p>Early data arrives within days, but stable performance usually takes longer. Paid results typically settle over three to six months as creative, tracking and campaign structure improve.</p>
+<h3>Do US advertising rules apply to TikTok ads?</h3>
+<p>Yes. Federal guidance on endorsements and advertising claims, state privacy laws and TikTok's own policies can all apply. Rules change, so check current official guidance and speak to your lawyer about your specific claims and disclosures.</p>
+`,
+  },
+  {
+    slug: 'tiktok-ads-agency-saudi-arabia',
+    seoTitle: 'TikTok Ads Agency Saudi Arabia: How to Choose One',
+    title: 'TikTok Ads Agency for Saudi Arabia: Planning Campaigns for Riyadh, Jeddah and Beyond',
+    description: 'Hiring a TikTok Ads agency for Saudi Arabia: creative that works, Arabic content, tracking, budgets, questions to ask and what our management retainers cost.',
+    date: '2026-11-09',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/ecommerce/'],
+    body: `
+<p>A TikTok Ads agency for a Saudi Arabia business should plan, produce or brief, launch and optimise video campaigns that reach the right audience in Arabic and English, then prove their value through tracked sales or leads. On TikTok, creative does most of the heavy lifting, so the best partner spends as much time on hooks, scripts and testing as on targeting settings.</p>
+<p>Prism Works Studio is a UK-based studio that manages <a href="/services/paid-media/">paid media</a>, including TikTok Ads, remotely for businesses in Saudi Arabia and across the Gulf. We have no office or staff in the Kingdom. This guide explains how TikTok advertising works for Saudi brands, what to look for in an agency and what our management costs.</p>
+
+<h2>Why TikTok suits many Saudi brands</h2>
+<p>TikTok is a discovery platform. People are not searching for you; they are scrolling, and your ad has a second or two to earn attention. That makes it a strong fit for products and services that are visual, demonstrable or tied to trends: fashion, beauty, fragrance, food, gadgets, fitness, home goods, events and many consumer services.</p>
+<p>It can also work for less obvious categories, such as education, recruitment or local services, when the content explains something useful in a natural, human way. What tends not to work is a polished TV-style advert dropped into the feed. Viewers recognise it as an ad and keep scrolling.</p>
+<p>If you are deciding between platforms, our comparisons of <a href="/blog/tiktok-ads-vs-meta-ads-uk/">TikTok Ads and Meta Ads</a> and <a href="/blog/youtube-ads-vs-tiktok-ads-uk/">YouTube Ads and TikTok Ads</a> set out the trade-offs. The principles apply in Saudi Arabia, even though audiences and costs differ.</p>
+
+<h2>TikTok Ads agency Saudi Arabia: what good management looks like</h2>
+<p>Strong TikTok management is a cycle of tracking, creative, testing and refinement. Here is how the main areas break down.</p>
+<table>
+<thead><tr><th>Area</th><th>What a good agency does</th><th>What to watch out for</th></tr></thead>
+<tbody>
+<tr><td>Tracking</td><td>Installs the TikTok pixel and key events, checks they fire correctly, and links them to your store or lead forms</td><td>Campaigns launched before tracking works, so results cannot be judged</td></tr>
+<tr><td>Creative strategy</td><td>Plans hooks, angles and formats, and briefs creators or your team on native-style video</td><td>One polished advert run for months with no testing</td></tr>
+<tr><td>Language</td><td>Plans Arabic-first or bilingual scripts and captions, reviewed by fluent speakers</td><td>Machine-translated captions and English-only creative for Arabic audiences</td></tr>
+<tr><td>Campaign structure</td><td>Clear objectives, sensible audience settings and enough budget per ad group to learn</td><td>Budgets spread so thinly that nothing gathers useful data</td></tr>
+<tr><td>Reporting</td><td>Reports purchases, leads, cost per result and creative performance</td><td>Reports that only show views, likes and impressions</td></tr>
+</tbody>
+</table>
+<p>Our guide to <a href="/blog/tiktok-pixel-setup-guide/">setting up the TikTok pixel</a> explains the tracking foundations every campaign needs.</p>
+
+<h2>Creative for Saudi audiences</h2>
+<p>Creative that works in the UK or US often needs more than translation to work in Saudi Arabia. Language, humour, references, music choices and on-screen presentation should all feel natural to your audience. Your team, local creators or a trusted partner will usually be the best judge of tone, and we treat that input as essential rather than optional.</p>
+<ul>
+<li><strong>Open with a strong hook.</strong> The first second should show the product, the problem or the payoff.</li>
+<li><strong>Arabic-first where your audience is.</strong> Use Arabic voiceover or captions for local consumer audiences, and test English where your customers are expatriate or international.</li>
+<li><strong>Show, do not tell.</strong> Demonstrations, before and after shots, unboxings and quick explainers tend to outperform static slides.</li>
+<li><strong>Respectful and appropriate content.</strong> Imagery, music and messaging should suit local culture and platform policies. Your team should approve every ad before it runs.</li>
+<li><strong>Refresh often.</strong> TikTok creative fatigues quickly. Plan a steady pipeline of new videos rather than one big shoot.</li>
+</ul>
+<p>We can brief creators, adapt your existing footage and write scripts. Where native Arabic voiceover or on-camera talent is needed, we will be clear that it should come from fluent speakers your team trusts.</p>
+
+<h2>Landing pages and the path to purchase</h2>
+<p>A great TikTok ad that sends people to a slow or confusing page wastes money. Pages should load fast on mobile, match the promise in the video and make the next step obvious, whether that is buying, booking or sending a message. Arabic landing pages should use proper right-to-left layouts. Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers the principles, and tagging links properly with <a href="/blog/utm-tracking-links-guide/">UTM tracking</a> helps you see TikTok's contribution in your own analytics.</p>
+<p>For ecommerce brands, product pages, delivery information and checkout matter just as much. Our <a href="/sectors/ecommerce/">ecommerce marketing</a> work brings ads, product pages and tracking together so you can see what each channel really produces.</p>
+
+<h2>Budgets, costs and timelines</h2>
+<p>Our management retainers are listed on our <a href="/pricing/">pricing page</a>. We price in pounds sterling and can quote in other currencies on request.</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> one channel, such as TikTok, with a focused set of campaigns and regular creative testing.</li>
+<li><strong>Growth, £750 a month:</strong> TikTok alongside another channel, such as Meta or Google, or deeper TikTok testing with more creative variations.</li>
+<li><strong>Scale, £1,500 a month:</strong> multi-channel programmes, larger catalogues or campaigns across several Gulf markets.</li>
+</ul>
+<p>Ad spend is paid separately, directly to TikTok, so you control your budget. Creator fees or video production are also separate and depend on how much content you need. Paid results typically take three to six months to build properly, as creative testing and audience learning take time, although some brands see useful signals within the first few weeks.</p>
+
+<h2>How a managed TikTok account runs month to month</h2>
+<p>Once campaigns are live, the work settles into a steady rhythm. The UK is two or three hours behind Saudi Arabia depending on the season, so review calls usually fit comfortably into the Saudi afternoon, and day-to-day changes happen without you needing to be online.</p>
+<ol>
+<li><strong>Weekly checks:</strong> spend pacing, cost per result, creative fatigue and any tracking issues.</li>
+<li><strong>Creative rounds:</strong> new hooks and video variations are briefed, approved by your team and launched against the current best performers.</li>
+<li><strong>Budget shifts:</strong> spend moves towards the ads and audiences that produce sales or qualified leads, and away from those that only produce views.</li>
+<li><strong>Monthly report and call:</strong> what ran, what it produced, what we learned and what we will test next.</li>
+</ol>
+<p>This rhythm matters more than any single setting. Accounts that keep testing new creative and acting on clear data tend to improve steadily, while accounts left running unchanged usually drift.</p>
+
+<h2>Running TikTok across several Gulf markets</h2>
+<p>Many Saudi brands also sell into the UAE, Kuwait, Qatar, Bahrain or Oman. It is usually best to prove results in one main market first, then expand with separate campaigns or ad groups for each country so budgets, creative and delivery promises can be tailored. Our guide to <a href="/blog/meta-ads-multiple-countries/">running ads in multiple countries</a> covers the structure, and the same thinking applies on TikTok.</p>
+
+<h2>Questions to ask before hiring a TikTok Ads agency</h2>
+<ol>
+<li>Who writes or reviews Arabic scripts and captions?</li>
+<li>How many new creatives will you test each month, and who makes them?</li>
+<li>How will you set up and check the pixel and conversion events?</li>
+<li>Will the ad account belong to our business?</li>
+<li>What will you report on, and how often?</li>
+<li>What is the contract length and notice period?</li>
+</ol>
+
+<h2>Regulation and platform policies</h2>
+<p>TikTok has its own advertising policies, and some categories, such as health, finance, alcohol-adjacent products and certain supplements, are restricted or prohibited. Saudi Arabia also has its own rules on advertising and on influencer and creator activity, which may require licensing. We keep this guidance general: check current official guidance from the relevant Saudi authorities and TikTok's own policies, and have your legal or compliance team approve claims before campaigns go live.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a TikTok Ads agency in Saudi Arabia?</h3>
+<p>Look for an agency that sets up tracking first, plans regular creative testing, handles Arabic content with fluent reviewers and reports on sales or leads. Make sure your business owns the ad account.</p>
+<h3>How much does a TikTok Ads agency in Saudi Arabia cost with Prism Works Studio?</h3>
+<p>Our management retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend and any creator fees are paid separately, and we can quote in other currencies on request.</p>
+<h3>Do you have an office in Saudi Arabia?</h3>
+<p>No. We are a UK-based studio managing campaigns remotely for Saudi and Gulf brands through video calls, shared dashboards and regular reporting.</p>
+<h3>Do TikTok ads need to be in Arabic?</h3>
+<p>For local consumer audiences, Arabic voiceover or captions usually make sense. English can work for expatriate or international audiences. Testing both is often worthwhile, with fluent speakers reviewing all Arabic content.</p>
+<h3>How long do TikTok Ads take to work?</h3>
+<p>Some brands see useful signals within weeks, but building reliable, profitable campaigns typically takes three to six months of creative testing and refinement.</p>
+<h3>Can you make the videos for our TikTok ads?</h3>
+<p>We can write scripts, brief creators and adapt your existing footage. Where native Arabic voiceover or on-camera talent is needed, it should come from fluent speakers you trust, and your team approves every video.</p>
+`,
+  },
+  {
+    slug: 'walmart-marketplace-seo',
+    seoTitle: 'Walmart Marketplace SEO: How to Optimise Your Listings',
+    title: 'Walmart Marketplace SEO: How to Optimise Listings That Get Found',
+    description: 'Walmart Marketplace SEO means accurate attributes, clear titles, strong images and competitive offers. Here is how to optimise listings for Walmart.com.',
+    date: '2026-11-09',
+    category: 'Ecommerce',
+    related: ['/services/seo-geo/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>Walmart Marketplace SEO is the work of helping your product listings appear when shoppers search on Walmart.com, and then giving them enough confidence to buy. It relies on complete product attributes, clear titles and key features, good images and a competitive offer, all written within Walmart's current content rules for your category.</p>
+<p>We are a UK-based studio offering marketplace listing SEO, and we work remotely with US sellers. We have no US office. This guide explains how Walmart search tends to behave, how to approach each part of a listing, and how outside help fits alongside your own Seller Center account.</p>
+
+<h2>How Walmart search differs from Amazon and Google</h2>
+<p>Like other marketplaces, Walmart.com is built to sell products rather than to answer questions. Search results are shaped by relevance (whether your listing matches what was searched) and by the strength of your offer (price, availability, delivery speed and customer feedback). Walmart does not publish a full ranking formula, so anyone promising a guaranteed position should be treated with caution.</p>
+<p>Two points stand out compared with Amazon:</p>
+<ul>
+<li><strong>Attributes carry real weight.</strong> Walmart relies heavily on structured product data such as brand, size, colour, material and category-specific fields. Missing or wrong attributes can keep a product out of filtered results.</li>
+<li><strong>Content quality is scored.</strong> Seller Center has shown sellers a listing quality view that highlights gaps in content, offer and ratings. Use whatever quality tools Walmart currently provides as a checklist for each listing.</li>
+</ul>
+<p>If you already sell on Amazon, our guide to <a href="/blog/amazon-seo-for-us-sellers/">Amazon SEO for US sellers</a> covers the overlap. Much of the research can be shared, but the content should be adapted to Walmart's own rules rather than copied across.</p>
+
+<h2>Walmart Marketplace SEO starts with research</h2>
+<p>Good listings start with the words US shoppers really use. Research for Walmart usually draws on:</p>
+<ul>
+<li>Search suggestions on Walmart.com as you type your main product terms.</li>
+<li>The structure and wording of strong competitor listings in your category.</li>
+<li>Search data from any Walmart advertising you run, which can show the queries that led to clicks.</li>
+<li>Customer reviews and questions, which reveal the problems and features buyers care about.</li>
+<li>Your own store search and Google data, which often uncover terms marketplaces share.</li>
+</ul>
+<p>Group terms by meaning rather than chasing every variation. A main term goes in the title, closely related terms go into key features and the description, and specifics such as size or material go into the right attribute fields. Our <a href="/blog/keyword-research-guide-uk/">keyword research guide</a> explains how to group terms by intent.</p>
+
+<h2>Optimising each part of a Walmart listing</h2>
+<p>Every field on a Walmart listing has a job. The table below sums up how we approach each one.</p>
+<table>
+<thead><tr><th>Listing element</th><th>Main job</th><th>What good looks like</th></tr></thead>
+<tbody>
+<tr><td>Product name (title)</td><td>Relevance and clarity</td><td>Brand, product type and key details in a readable order, within Walmart's current length and style rules</td></tr>
+<tr><td>Key features</td><td>Persuasion and secondary terms</td><td>Short, scannable benefit-led points, each covering one feature</td></tr>
+<tr><td>Description</td><td>Detail and context</td><td>Plain-language explanation of use, materials and care, without keyword stuffing</td></tr>
+<tr><td>Attributes</td><td>Filters and matching</td><td>Every relevant field completed accurately for the category</td></tr>
+<tr><td>Images</td><td>Conversion</td><td>Clean main image to Walmart's requirements, plus scale, detail and in-use shots</td></tr>
+<tr><td>Offer</td><td>Competitiveness</td><td>Competitive price, reliable stock and clear shipping times</td></tr>
+</tbody>
+</table>
+
+<p><strong>Titles</strong></p>
+<p>Walmart titles tend to follow a predictable pattern of brand, product type and defining details such as size, count or colour. Keep them readable. Repeating keywords or adding promotional phrases usually breaks the style guide and makes the listing look less trustworthy. Check the current title guidance for your category before writing.</p>
+
+<p><strong>Key features and description</strong></p>
+<p>Key features are the scannable bullets shoppers see near the top of the page. Lead each one with the benefit, then the detail. The description gives you room to explain who the product suits, how to use it and what is included. Our guide to <a href="/blog/ecommerce-product-descriptions/">writing ecommerce product descriptions</a> covers the structure in more depth, and it applies just as well to marketplace copy.</p>
+
+<p><strong>Attributes</strong></p>
+<p>Attributes are where many listings fall short. Fill in every field that applies, use the exact values Walmart expects where a list is provided, and keep variant data (sizes and colours) consistent. Accurate attributes help your products appear when shoppers use filters, which many do on large marketplaces.</p>
+
+<p><strong>Images</strong></p>
+<p>Walmart has specific rules for main images, usually a clean product shot on a white background, plus requirements for size and quality. Additional images should answer questions copy cannot: scale, texture, what is in the box and the product in use. Our <a href="/blog/ecommerce-product-photography/">ecommerce product photography guide</a> explains how to brief a shoot that works across your own store and marketplaces.</p>
+
+<h2>The offer matters as much as the copy</h2>
+<p>A perfectly written listing will still struggle if the price is uncompetitive, stock runs out or delivery is slow. Walmart also considers how your offer compares with others selling the same item. Areas to review regularly include:</p>
+<ul>
+<li>Price compared with other sellers and with the same product elsewhere online.</li>
+<li>Stock levels, particularly before seasonal peaks.</li>
+<li>Shipping speed and accuracy, whether you fulfil yourself or use Walmart's fulfilment service.</li>
+<li>Ratings and reviews, gathered only through methods Walmart allows.</li>
+<li>Order defect, cancellation and late shipment rates, which affect account health.</li>
+</ul>
+<p>Pricing, fulfilment and account health decisions stay with you. We focus on research, content and recommendations, and we flag offer issues when we see them affecting visibility.</p>
+
+<h2>Walmart alongside Amazon, eBay and your own store</h2>
+<p>Many US sellers treat Walmart as a second or third marketplace. That can widen reach, but each channel has its own rules and audience. Our comparison of <a href="/blog/selling-on-amazon-vs-own-website-uk/">selling on Amazon vs your own website</a> sets out the trade-offs between marketplaces and direct sales, and our guide to <a href="/blog/ebay-seo-uk/">eBay SEO</a> shows how another marketplace handles listings differently.</p>
+<p>Your own website still matters. It is the only channel where you fully own the customer relationship. Strong <a href="/blog/product-page-seo-uk/">product page SEO</a> on your store and strong marketplace listings tend to support each other, because the same research and product content can feed both.</p>
+
+<h2>How remote listing optimisation works</h2>
+<p>We work remotely with US sellers through shared documents, video calls and the access you choose to grant. A typical arrangement looks like this:</p>
+<ol>
+<li><strong>Audit:</strong> we review a set of listings against Walmart's current guidance and competitor examples.</li>
+<li><strong>Research:</strong> we build keyword groups for each product or product family.</li>
+<li><strong>Content:</strong> we write titles, key features and descriptions in American English and list the attributes to complete.</li>
+<li><strong>Upload:</strong> you or your team upload changes, or we do it with appropriate user access, depending on what you prefer.</li>
+<li><strong>Review:</strong> we check performance over the following weeks and refine.</li>
+</ol>
+<p>You keep ownership of your Seller Center account, your product data and your pricing. Marketplace listing SEO sits within our <a href="/services/seo-geo/">SEO and GEO service</a>, and our retainers start at Launch £350 a month, Growth £750 a month and Scale £1,500 a month. See our <a href="/pricing/">pricing page</a> for details; we quote in pounds and can quote other currencies on request.</p>
+
+<h2>A note on rules and compliance</h2>
+<p>Walmart's content guidelines, prohibited product rules and seller policies change. Product claims, safety information and labelling may also be covered by federal or state rules depending on what you sell. Check Walmart's current Seller Center guidance and take advice from your own lawyer or compliance adviser where claims or regulated products are involved.</p>
+
+<h2>FAQs</h2>
+<h3>What is Walmart Marketplace SEO?</h3>
+<p>It is the process of improving your Walmart.com listings so they appear for relevant searches and convert shoppers. It covers keyword research, titles, key features, descriptions, attributes and images, alongside a competitive price and reliable delivery.</p>
+<h3>Is Walmart SEO different from Amazon SEO?</h3>
+<p>The principles overlap, but Walmart places heavy weight on structured attributes and has its own content rules and quality tools. Research can be shared between channels, but listings should be adapted for each marketplace rather than copied word for word.</p>
+<h3>How long does Walmart listing optimisation take to work?</h3>
+<p>Changes can be indexed fairly quickly, but judging the effect takes time because sales history, reviews and seasonality all play a part. As with other SEO work, meaningful results are typically assessed over three to six months.</p>
+<h3>Can a UK agency optimise Walmart listings for a US seller?</h3>
+<p>Yes. Listing optimisation is research and content work that can be done remotely. We write in American English for US shoppers, and you keep control of your Seller Center account and pricing.</p>
+<h3>Do attributes really affect Walmart search?</h3>
+<p>Accurate attributes help Walmart understand and categorise your product, and they decide whether it appears when shoppers use filters such as size, colour or brand. Missing fields are one of the most common gaps in Walmart listings.</p>
+<h3>How much does Walmart Marketplace SEO cost?</h3>
+<p>It depends on the number of products and how much work each needs. Our monthly retainers start at £350, with Growth at £750 and Scale at £1,500. Any advertising spend on Walmart is separate and paid directly by you.</p>
+`,
+  },
+  {
+    slug: 'web-design-dubai',
+    seoTitle: 'Web Design Dubai: How to Plan and Brief Your Website',
+    title: 'Web Design Dubai: How to Plan, Brief and Budget a Website for UAE Customers',
+    description: 'Web design for Dubai businesses: how to plan a fast, bilingual, mobile-first website, what to ask an agency, typical timelines and what our builds cost.',
+    date: '2026-11-09',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/services/seo-geo/'],
+    body: `
+<p>Web design in Dubai is about building a site that works for a mixed, mobile-first audience: residents, visitors and businesses who may read in English, Arabic or both, and who expect a page to load quickly and make contact easy. The right website explains your offer in a few seconds, looks credible next to well-funded competitors and gives your team a simple way to keep content up to date.</p>
+<p>Prism Works Studio is a UK-based studio. We design and build websites remotely for businesses in Dubai and across the UAE, and we have no office or staff in the Emirates. We work through video calls, shared design files and staged sign-offs, which suits many Dubai teams who already work with partners in several time zones. This guide covers how to plan a site, what to ask any agency and what our <a href="/services/website-ecommerce-development/">website design and development</a> service costs.</p>
+
+<h2>What Dubai customers expect from a business website</h2>
+<p>Dubai is a competitive market with a high bar for presentation. Visitors compare you with polished regional and international brands, often on a phone, and often in a hurry. A few expectations come up for almost every sector.</p>
+<ul>
+<li><strong>Mobile first, not mobile later.</strong> Most enquiries will start on a phone, so layouts, buttons and forms should be designed for small screens before they are stretched to desktop. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> explains the principles we follow.</li>
+<li><strong>English and Arabic where it matters.</strong> Many Dubai businesses lead with English, but Arabic pages can widen your reach and build trust with local customers and government-linked buyers. Decide early whether you need full bilingual parity or a smaller set of Arabic pages.</li>
+<li><strong>Fast ways to make contact.</strong> Click-to-call, a messaging button, a short enquiry form and a booking link should be easy to find on every key page.</li>
+<li><strong>Clear trust signals.</strong> Licence details where relevant, real photography, clear policies and straightforward service descriptions all help. Our article on <a href="/blog/website-trust-signals/">website trust signals</a> covers what to include.</li>
+<li><strong>Speed.</strong> Large videos and heavy scripts slow pages down and cost you enquiries, even on good connections.</li>
+</ul>
+
+<h2>Planning your Dubai website before design starts</h2>
+<p>The decisions made before any design work have the biggest effect on cost, timeline and results. We usually start with a short discovery stage, much like the process in our <a href="/blog/website-discovery-workshop/">website discovery workshop</a> guide. It answers a handful of practical questions.</p>
+<ol>
+<li><strong>Who is the site for?</strong> Residents, tourists, trade buyers, investors or job seekers each need different content and calls to action.</li>
+<li><strong>What should visitors do?</strong> Call, message, book, request a quote or buy online. Pick one primary action per page.</li>
+<li><strong>Which languages, and in what order?</strong> English only, English first with Arabic pages, or full bilingual parity.</li>
+<li><strong>Which pages are essential at launch?</strong> A focused launch with strong service pages usually beats a large site full of thin content.</li>
+<li><strong>Who writes and approves content?</strong> Content delays are the most common reason projects overrun, so agree owners and deadlines early.</li>
+</ol>
+<p>If you are still gathering copy and photos, our guide on <a href="/blog/website-content-before-build/">preparing website content before the build</a> gives a simple checklist.</p>
+
+<h2>Bilingual design: English and Arabic on one site</h2>
+<p>Arabic reads right to left, so a bilingual site is more than a translated copy of the English version. Navigation, icons, forms, tables and image placement all need to mirror correctly. Fonts need proper Arabic support, and line lengths and spacing behave differently. We plan the layout so both directions work from the start rather than adding Arabic as an afterthought.</p>
+<p>Translation should be done or reviewed by a fluent speaker who understands your sector. Machine translation can be a starting point, but it often misses tone and terminology. Your team, or a translator you trust, should sign off every Arabic page. Search engines also need clear signals about which language each page is in, so the technical setup matters as much as the words. Our <a href="/blog/multilingual-website-design/">multilingual website design</a> guide goes into more detail on structure and language switching.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most Dubai service businesses are well served by a content-managed site that the team can edit without a developer. Online shops usually suit Shopify or WooCommerce, depending on product range, payment providers and how much flexibility you need. We recommend a platform after discovery, based on what you sell and who will maintain the site, not on habit.</p>
+<table>
+<thead><tr><th>Business type</th><th>Typical platform</th><th>Key considerations</th></tr></thead>
+<tbody>
+<tr><td>Professional services (consultancy, legal support, real estate services)</td><td>WordPress or a lightweight custom build</td><td>Strong service pages, bilingual content, enquiry forms, case-study style pages without invented claims</td></tr>
+<tr><td>Clinics, salons and studios</td><td>WordPress with an online booking tool</td><td>Booking flow, opening hours, practitioner pages, any sector rules on health advertising</td></tr>
+<tr><td>Restaurants and cafés</td><td>WordPress or a simple custom site</td><td>Menus, reservations, delivery links, location details</td></tr>
+<tr><td>Retail and ecommerce brands</td><td>Shopify or WooCommerce</td><td>Local payment options, delivery zones, returns policy, Arabic product content</td></tr>
+<tr><td>B2B and trading companies</td><td>WordPress or a custom build</td><td>Product or capability catalogues, quote requests, export markets</td></tr>
+</tbody>
+</table>
+
+<h2>Regulation, data and hosting: what to check</h2>
+<p>The UAE has its own data protection framework, and some free zones have separate rules. Advertising in certain sectors, such as health, finance and real estate, may also be subject to specific requirements. We are a design and marketing studio, not a legal adviser, so we keep this general: check current official UAE guidance, and the rules of your free zone if relevant, before launch. Your legal or compliance team should approve privacy notices, cookie wording and any regulated claims.</p>
+<p>On hosting, we will discuss where your site and any form data are stored and help you choose a reputable provider. If your sector has data residency requirements, tell us at the start so we can plan around them.</p>
+
+<h2>Web design Dubai: costs and timelines</h2>
+<p>We price in pounds sterling, and we can quote in other currencies on request. These are our standard ranges, which you can also see on our <a href="/pricing/">pricing page</a>:</p>
+<ul>
+<li><strong>Small business website:</strong> £1,000 to £2,000, typically three to five weeks.</li>
+<li><strong>Ecommerce website:</strong> £1,500 to £3,500, typically five to twelve weeks depending on products, integrations and languages.</li>
+<li><strong>Ongoing SEO or marketing retainers:</strong> Launch £350 a month, Growth £750 a month, Scale £1,500 a month.</li>
+</ul>
+<p>A full bilingual build, a large product catalogue or custom integrations will sit towards the upper end of a range or need a specific quote. Translation is usually best handled by a specialist, and we will be clear about what is and is not included before you commit.</p>
+
+<h2>How remote web design works across time zones</h2>
+<p>The UK is three or four hours behind Dubai depending on the time of year, which leaves a comfortable overlap for calls in the UAE afternoon. Most of the work happens asynchronously, so you are never waiting on a single person to be online.</p>
+<ol>
+<li><strong>Discovery call and brief.</strong> We agree goals, pages, languages and the primary actions.</li>
+<li><strong>Structure and wireframes.</strong> We map pages and layouts before visual design, so content and navigation are right first.</li>
+<li><strong>Design.</strong> You review designs in shared files, comment directly and approve at each stage.</li>
+<li><strong>Build and content.</strong> We build on a staging site you can test on your own phones and devices.</li>
+<li><strong>Launch and handover.</strong> We set up analytics, check redirects if replacing an old site and train your team to edit content.</li>
+</ol>
+<p>You own your domain, hosting account and content. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains what you should receive at the end of any project.</p>
+
+<h2>Questions to ask any Dubai web design agency</h2>
+<p>Whether you choose us, a local studio or another overseas team, these questions help you compare like with like.</p>
+<ul>
+<li>Who will actually design and build the site, and where are they based?</li>
+<li>How do you handle Arabic, right-to-left layouts and translation sign-off?</li>
+<li>What is included in the price, and what counts as an extra?</li>
+<li>Who owns the domain, hosting, design files and content?</li>
+<li>How will the site be built for search, and what happens to existing rankings if we are replacing a site?</li>
+<li>What support is available after launch, and what does it cost?</li>
+</ul>
+<p>If you are planning to grow organic traffic after launch, our <a href="/services/seo-geo/">SEO and generative engine optimisation</a> service can be added once the site is live, so the structure you launch with is ready for search from day one.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design in Dubai cost with Prism Works Studio?</h3>
+<p>Our small business websites cost £1,000 to £2,000 and ecommerce sites cost £1,500 to £3,500. We price in pounds sterling and can quote in other currencies on request. Bilingual builds and custom features may need a specific quote.</p>
+<h3>Do you have an office in Dubai?</h3>
+<p>No. We are a UK-based studio working remotely with clients in Dubai and the wider UAE. We run projects through video calls, shared design files and staging sites, with clear sign-off points at each stage.</p>
+<h3>Can you build an English and Arabic website?</h3>
+<p>Yes. We plan bilingual sites with right-to-left layouts, Arabic-ready fonts and clear language switching. Translation should be done or reviewed by a fluent speaker, and your team approves all Arabic content before launch.</p>
+<h3>How long does web design in Dubai take?</h3>
+<p>A small business website typically takes three to five weeks and an ecommerce site five to twelve weeks. Content readiness and approval speed are usually the biggest factors in the final timeline.</p>
+<h3>Which platform is best for a Dubai business website?</h3>
+<p>It depends on what you sell and who maintains the site. Service businesses often suit WordPress, while online shops often suit Shopify or WooCommerce. We recommend a platform after discovery rather than by default.</p>
+<h3>Do I need to follow UAE data protection rules on my website?</h3>
+<p>Most websites that collect personal data need a clear privacy notice and sensible data handling. The UAE and some free zones have their own rules, so check current official guidance and ask your legal adviser to approve your privacy wording.</p>
+`,
+  },
+  {
+    slug: 'web-design-ireland',
+    seoTitle: 'Web Design Ireland: A Guide for Irish Businesses',
+    title: 'Web Design for Irish Businesses: What a Good Website Project Looks Like',
+    description: 'Web design for Irish businesses explained: what a good site needs for Irish customers, how a remote UK studio works with you, timelines and typical costs.',
+    date: '2026-11-09',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/services/brand-strategy/', '/pricing/'],
+    body: `
+<p>Web design for an Irish business should produce a fast, clear website that wins the trust of Irish customers and turns visits into calls, bookings or sales. That means pages written for the Irish market, euro pricing where relevant, mobile-first design, sensible privacy and cookie handling, and a structure search engines can understand.</p>
+<p>Prism Works Studio is a UK-based studio that designs and builds websites for businesses in the UK, Ireland and across Europe, working remotely. We do not have an office in Ireland and will not pretend to. We provide <a href="/services/website-ecommerce-development/">website and ecommerce development</a> delivered online, in the same time zone as Dublin, Cork, Galway and Limerick. This guide explains what a good project includes, how to compare designers and what it usually costs.</p>
+
+<h2>What Irish customers look for on a business website</h2>
+<p>Whether you are a trades business in Kildare, a clinic in Cork or a software company in Dublin, the people visiting your site want the same few things: to understand what you do, to trust you and to take the next step without friction.</p>
+<ul>
+<li><strong>Clear local relevance.</strong> Irish contact details, the counties or towns you serve and euro pricing tell visitors straight away that you are set up for them, not a UK firm that happens to deliver.</li>
+<li><strong>Fast pages on a phone.</strong> Most visits now happen on mobile, often on the move. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers what makes the difference.</li>
+<li><strong>Proof you are real.</strong> Company details, genuine reviews, photos of your work and an easy way to get in touch reduce doubt.</li>
+<li><strong>Simple next steps.</strong> A visible phone number, a short enquiry form or online booking, depending on how you sell.</li>
+<li><strong>Answers to common questions.</strong> Prices or price ranges, timescales, service areas and what happens after someone gets in touch.</li>
+</ul>
+
+<h2>Web design in Ireland: what a good project includes</h2>
+<p>A good website project follows a clear sequence, whoever builds it. The table below shows the usual stages and the points that matter most for an Irish business.</p>
+<table>
+<thead><tr><th>Stage</th><th>What happens</th><th>Points to consider in Ireland</th></tr></thead>
+<tbody>
+<tr><td>Discovery</td><td>Goals, audience, services, competitors, content plan</td><td>Which counties you serve, whether you also sell into Northern Ireland or Great Britain</td></tr>
+<tr><td>Structure</td><td>Sitemap, page list, navigation, calls to action</td><td>Separate pages for key services and genuine service areas</td></tr>
+<tr><td>Design</td><td>Layouts for mobile and desktop, brand colours and type</td><td>Accessible contrast and readable text from the start</td></tr>
+<tr><td>Content</td><td>Copy, photos, testimonials you already hold, FAQs</td><td>Irish spelling conventions, place names and euro prices where shown</td></tr>
+<tr><td>Build and testing</td><td>Development, forms, speed, devices, analytics</td><td>Consent banner set up for EU cookie rules before tracking runs</td></tr>
+<tr><td>Launch and handover</td><td>Go live, redirects, training, ownership transfer</td><td>Domain, hosting and accounts held in your business name</td></tr>
+</tbody>
+</table>
+<p>Ireland and the UK share most writing conventions, so UK English copy usually reads naturally to Irish customers. Even so, references to UK-only services, sterling prices or British regulators should be swapped for their Irish equivalents.</p>
+
+<h2>Domains, email and hosting</h2>
+<p>Many Irish businesses prefer a .ie domain because it signals a connection to Ireland. The registry sets its own eligibility rules for .ie names, so check the current requirements before you commit. A .com domain also works well, particularly if you sell into several countries.</p>
+<p>Whichever you choose, the domain and hosting should be registered to your business, not to the designer. Business email on your own domain looks more professional than a free address. Our guide to <a href="/blog/business-domain-and-email-setup/">setting up a business domain and email</a> walks through the options, and our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> explains what you should receive at the end of a project.</p>
+
+<h2>Privacy, cookies and accessibility</h2>
+<p>Irish websites fall under the EU General Data Protection Regulation and the ePrivacy rules on cookies. The Irish Data Protection Commission publishes guidance on cookie consent, and in practice most sites need a consent banner that blocks non-essential tracking until a visitor agrees. Our guide to <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> covers how to make that work without harming the experience.</p>
+<p>Accessibility matters too. The European Accessibility Act brings duties for some businesses selling products and services to consumers online, and accessible design helps every visitor anyway. We build with accessible patterns, clear headings and good contrast as standard.</p>
+<p>We are not lawyers. Rules and guidance change, so check current official guidance or take legal advice on your privacy policy, cookie setup and accessibility obligations.</p>
+
+<h2>Serving Ireland, Northern Ireland and Great Britain</h2>
+<p>Plenty of Irish businesses also take work or sell products across the border and into Great Britain. One website can handle that, but the setup should be deliberate. Service businesses usually add clear area pages and state which locations they cover. Online shops may need separate euro and sterling pricing, different delivery rates and checks on how customs and VAT apply after Brexit. Planning this during discovery is far cheaper than retrofitting it after launch, and it helps search engines show the right page to the right visitor.</p>
+
+<h2>Choosing a web designer for your Irish business</h2>
+<p>You have more choice than ever: local freelancers, Irish agencies, website builders and remote studios. The right choice depends on your budget, how much support you want and how complex the site is. Whoever you speak to, these questions help you compare like with like:</p>
+<ul>
+<li>What exactly is included in the price, and what costs extra?</li>
+<li>Who writes the content, and who checks it?</li>
+<li>Will the domain, hosting and site be owned by my business?</li>
+<li>How will the site be built for search engines from day one?</li>
+<li>What happens after launch if something breaks or I need changes?</li>
+<li>How long will it take, and what do you need from me to keep to that?</li>
+</ul>
+<p>Our guide on <a href="/blog/how-to-choose-a-web-designer-uk/">how to choose a web designer</a> goes into each of these in more depth. The advice applies equally in Ireland.</p>
+
+<h2>How a remote web design studio works with Irish clients</h2>
+<p>Web design is well suited to remote work, because almost everything happens in shared designs, documents and a staging site you can review at any time. Being in the same time zone as Ireland makes the process feel close to working with a local team.</p>
+<ol>
+<li><strong>Discovery call.</strong> We discuss your business, customers, goals and what the website needs to do.</li>
+<li><strong>Proposal.</strong> You receive a written scope, timeline and fixed price.</li>
+<li><strong>Structure and design.</strong> We share the page plan and designs for your feedback before building.</li>
+<li><strong>Build.</strong> The site is built on a staging link so you can review progress as it happens.</li>
+<li><strong>Testing and launch.</strong> We test forms, speed and devices, then go live and hand over logins and training.</li>
+</ol>
+<p>If you are planning ahead, our guide to <a href="/blog/how-long-to-build-a-website-uk/">how long a website takes to build</a> sets out what can speed a project up or slow it down.</p>
+
+<h2>How much does web design cost for an Irish business?</h2>
+<p>Our published price for a small business website is £1,000 to £2,000, and an ecommerce site is £1,500 to £3,500. Small websites typically take three to five weeks and ecommerce sites five to twelve weeks. Prices are in pounds by default, and other currencies such as euro can be quoted on request. VAT treatment of cross-border services depends on your business, so check it with your accountant.</p>
+<p>Hosting, domain renewals, paid plugins or apps, and stock photography are separate costs. Ongoing SEO or advertising can follow as a monthly retainer. See our <a href="/pricing/">pricing page</a> for the details, and our guide to <a href="/blog/website-design-cost-small-business-uk/">website design costs for small businesses</a> explains what drives the price. When you are ready, <a href="/contact/">get in touch</a> for a straight conversation about your project.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design cost in Ireland?</h3>
+<p>Prices vary widely between designers. Our published price for a small business website is £1,000 to £2,000 and for an ecommerce site £1,500 to £3,500, with other currencies such as euro quoted on request. Hosting, domains and paid tools are extra.</p>
+<h3>Do you have an office in Ireland?</h3>
+<p>No. Prism Works Studio is based in the UK and works remotely with Irish businesses through video calls, shared designs and a staging site you can review at any time. We share a time zone with Ireland for most of the year.</p>
+<h3>Should my business use a .ie or .com domain?</h3>
+<p>A .ie domain signals a connection to Ireland and suits businesses that mainly serve Irish customers, subject to the registry's current eligibility rules. A .com can suit businesses selling across several countries. Either works well with good content and setup.</p>
+<h3>Can my website show prices in euro?</h3>
+<p>Yes. We can build your site to show euro prices, and online stores can be set up for euro checkout, with sterling or other currencies added if you sell into other markets.</p>
+<h3>How long does it take to build a website for an Irish business?</h3>
+<p>Small business websites typically take three to five weeks and ecommerce sites five to twelve weeks. Having your content, photos and decisions ready early is the biggest factor in keeping to that timeline.</p>
+<h3>Will my website be set up for Irish search results?</h3>
+<p>Yes. We build with clear page structure, fast loading, local signals such as your service areas and contact details, and correct technical setup, so search engines understand who the site is for from launch.</p>
+`,
+  },
+  {
+    slug: 'web-design-ottawa',
+    seoTitle: 'Web Design Ottawa: Remote Websites for Ottawa Businesses',
+    title: 'Web Design for Ottawa Businesses: How a Remote Website Project Works',
+    description: 'Looking for web design in Ottawa? How a remote website project runs, what bilingual and accessibility planning involves, and what to check before you hire.',
+    date: '2026-11-09',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/', '/sectors/b2b/'],
+    body: `
+<p>Web design for an Ottawa business should give you a fast, clear website that turns visitors into enquiries, and it can be delivered remotely as well as locally. Prism Works Studio is a UK-based studio that works with Canadian businesses online, with no office in Ottawa, and this guide explains how a remote website project runs, what Ottawa businesses should plan for and how to judge any web designer before you sign.</p>
+<p>Whether you run a professional services firm in Centretown, a trades business serving Kanata and Orléans, or a company selling to government and enterprise buyers, the fundamentals are the same: a clear structure, good content, solid technical foundations and a site you genuinely own.</p>
+
+<h2>What good web design in Ottawa looks like</h2>
+<p>Ottawa has an unusual mix of buyers. Federal departments, technology companies, consultancies, healthcare providers and local service businesses all sit side by side, and many sell across the river into Gatineau. A good website for this market usually does a few things well:</p>
+<ul>
+<li><strong>Says what you do in seconds.</strong> A clear headline, a plain summary of your services and an obvious next step on the homepage.</li>
+<li><strong>Builds trust quickly.</strong> Real photos, accurate business details, credentials you genuinely hold and case studies only where you have permission to share them.</li>
+<li><strong>Works on every device.</strong> Many visitors arrive on a phone, so layouts, buttons and forms must work at small sizes. Our guide to <a href="/blog/mobile-website-design/">mobile website design</a> covers the detail.</li>
+<li><strong>Loads fast.</strong> Compressed images, lean code and sensible hosting matter for both visitors and search engines.</li>
+<li><strong>Is ready for search.</strong> Page titles, headings, structured data and an internal link structure planned from day one rather than bolted on.</li>
+</ul>
+<p>Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers design, build, launch and the technical SEO foundations that go with them.</p>
+
+<h2>Planning a bilingual website for Ottawa and Gatineau</h2>
+<p>Because Ottawa sits on the Ontario and Quebec border, many businesses here serve both English and French speakers. Some are required to communicate in French in certain situations, and others simply win more work when francophone customers can read about their services in their own language. Either way, bilingual content is far easier to plan at the start than to retrofit.</p>
+<p>Key decisions include whether every page needs a French version or only the most important ones, how language switching works, how URLs are structured for each language and who writes or reviews the French content. Machine translation alone is rarely good enough for service pages that need to persuade. Our guide to <a href="/blog/multilingual-website-design/">multilingual website design</a> covers URL structures, language switchers and how search engines handle each version.</p>
+<p>If your business sells into Quebec, French-language rules there may affect your website and marketing. Those rules have changed in recent years, so check current official guidance from the Quebec government and take your own advice on what applies to you. We can build the structure; the legal judgement rests with you and your advisers.</p>
+
+<h2>Accessibility and privacy for Ontario websites</h2>
+<p>Accessibility is not optional for many Ottawa organisations. Under the Accessibility for Ontarians with Disabilities Act (AODA), certain organisations in Ontario have website accessibility obligations depending on their size and sector. Even where the rules do not strictly apply, an accessible site is clearer for every visitor and tends to be easier for search engines to understand. Our guide to <a href="/blog/website-accessibility-uk/">website accessibility</a> explains the practical design and build steps, which follow the same international WCAG guidelines.</p>
+<p>Privacy matters too. Contact forms, analytics and marketing tags collect personal information, and federal privacy law (PIPEDA) sets expectations for how that is handled. Email marketing in Canada is also covered by anti-spam legislation (CASL). We build consent and tracking with these in mind, but please check current guidance from the Office of the Privacy Commissioner of Canada and the relevant regulators, and take your own advice on your obligations.</p>
+
+<h2>How a remote web design project runs from Ottawa</h2>
+<p>Most of a website project is research, writing, design and development, all done online. What makes a remote project work is a clear process and good communication. Our guide to <a href="/blog/hire-overseas-web-design-agency/">hiring an overseas web design agency</a> goes deeper into the questions to ask.</p>
+<table>
+<thead>
+<tr><th>Stage</th><th>What happens</th><th>What you provide</th></tr>
+</thead>
+<tbody>
+<tr><td>Discovery</td><td>Video calls about goals, audience, competitors and must-have features</td><td>Access to your current site, analytics and brand assets</td></tr>
+<tr><td>Structure and content</td><td>Sitemap, page plan and content brief for each key page</td><td>Facts about your services, approvals and any French content decisions</td></tr>
+<tr><td>Design</td><td>Homepage and key page designs shared for comment</td><td>Consolidated feedback from one decision-maker</td></tr>
+<tr><td>Build</td><td>Development on a staging site you can review at any time</td><td>Testing on your own devices and final copy sign-off</td></tr>
+<tr><td>Launch</td><td>Redirects, analytics, Search Console and final checks</td><td>Domain and hosting access, or approval to set them up</td></tr>
+<tr><td>Handover</td><td>Training, documentation and transfer of all logins</td><td>A named person to hold admin access</td></tr>
+</tbody>
+</table>
+<p>The UK is usually five hours ahead of Ottawa, so UK afternoons overlap with Ottawa mornings. In practice that means work can progress during the UK day and be ready for your review when your office opens, with a regular weekly call at a time that suits both sides.</p>
+<p>Content is often the biggest cause of delay on any website project, local or remote. Our guide to <a href="/blog/website-content-before-build/">preparing website content before the build</a> explains what to gather early so the project keeps moving.</p>
+
+<h2>How long does a website take?</h2>
+<p>A typical brochure website takes three to five weeks from discovery to launch, and an ecommerce site usually takes five to twelve weeks depending on product numbers, integrations and payment setup. Bilingual sites take longer because there is more content to write, review and test. Our guide to <a href="/blog/how-long-to-build-a-website-uk/">how long it takes to build a website</a> breaks down where the time goes.</p>
+<p>The fastest projects are the ones where content and decisions arrive on time. If your organisation needs several people to approve each page, build that into the timeline from the start rather than discovering it halfway through.</p>
+
+<h2>How much does web design cost for an Ottawa business?</h2>
+<p>Our published prices are in pounds sterling, and you can see them on our <a href="/pricing/">pricing page</a>. A small business website is typically £1,000 to £2,000 and an ecommerce site is typically £1,500 to £3,500, depending on scope. Canadian dollar quotes are available on request, and we will always confirm exactly what is included before any work starts.</p>
+<p>When comparing quotes from any provider, check what each one actually covers. Some include copywriting, French content, accessibility testing, analytics setup and redirects from your old site; others charge separately. A cheaper quote that excludes these can end up costing more.</p>
+<ul>
+<li>Is the content written for you, or do you supply it?</li>
+<li>Are French pages included, and who writes or reviews them?</li>
+<li>Is accessibility tested, and against which standard?</li>
+<li>Are redirects from your old site planned to protect search rankings?</li>
+<li>What happens after launch, and is ongoing support optional?</li>
+</ul>
+
+<h2>Who owns the website when it is finished?</h2>
+<p>You should. That means your business holds the domain, the hosting account, the content management system admin login and the analytics accounts, with the agency given access rather than the other way round. If a provider insists on keeping control of your domain or hosting, treat that as a warning sign. Our guide to <a href="/blog/website-ownership-and-handover/">website ownership and handover</a> lists what you should receive at launch.</p>
+
+<h2>Choosing a web designer in Ottawa: a quick checklist</h2>
+<ol>
+<li><strong>Look at the process, not just the portfolio.</strong> Ask how they run discovery, content and approvals.</li>
+<li><strong>Ask about bilingual and accessibility experience.</strong> These are specific skills, and an Ottawa site often needs both.</li>
+<li><strong>Check search foundations.</strong> Titles, headings, redirects and structured data should be standard, not extras.</li>
+<li><strong>Confirm ownership in writing.</strong> Domain, hosting and logins should belong to you.</li>
+<li><strong>Agree communication early.</strong> A regular call slot, response times and one point of contact on each side.</li>
+<li><strong>Be wary of guarantees.</strong> Nobody can guarantee rankings or a set number of leads from a new website.</li>
+</ol>
+
+<h2>FAQs</h2>
+<h3>Can a UK studio handle web design for an Ottawa business?</h3>
+<p>Yes. Prism Works Studio works with Canadian businesses remotely, with no office in Ottawa. Discovery, design reviews and training run over video calls, and you review the site on a staging link at every stage.</p>
+<h3>How much does web design in Ottawa cost?</h3>
+<p>Our published prices are in pounds sterling: a small business website is typically £1,000 to £2,000 and an ecommerce site £1,500 to £3,500. Canadian dollar quotes are available on request, and the final figure depends on scope.</p>
+<h3>Does my Ottawa website need to be in French as well as English?</h3>
+<p>It depends on your customers, your sector and whether you sell into Quebec. Many Ottawa businesses benefit from French content even where it is not required. Check current official guidance for your situation and plan the structure before design starts.</p>
+<h3>Does AODA apply to my website?</h3>
+<p>AODA website requirements apply to certain Ontario organisations depending on size and type. Check current guidance from the Government of Ontario for your organisation. Building to WCAG accessibility guidelines is good practice either way.</p>
+<h3>How long does it take to build a website?</h3>
+<p>A brochure site typically takes three to five weeks and an ecommerce site five to twelve weeks. Bilingual sites and projects with several approvers usually take longer.</p>
+<h3>Will I own my website after launch?</h3>
+<p>Yes. We set up the domain, hosting, content management system and analytics in your name, or transfer them to you at handover, and provide documentation so your team can manage the site.</p>
+`,
+  },
 ];
