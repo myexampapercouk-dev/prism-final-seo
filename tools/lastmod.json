@@ -12,7 +12,7 @@
   "mod": "2026-11-11"
  },
  "/pricing/": {
-  "hash": "dadf2cdf708165ca468ecf4544159165",
+  "hash": "3b81bf2fa08295bde71667b39ec1461f",
   "mod": "2026-11-11"
  },
  "/sectors/": {
@@ -36,11 +36,11 @@
   "mod": "2026-11-11"
  },
  "/sectors/healthcare/": {
-  "hash": "72fac67a70ac8bf7f15d31907584c9fd",
+  "hash": "4f397e0169aba398e7ac63fd418cd3a1",
   "mod": "2026-11-11"
  },
  "/sectors/hospitality/": {
-  "hash": "41279ae84f9ddf87ca9368be20e6bf62",
+  "hash": "5cf53c915ad971e9d1c6a47153c1f54f",
   "mod": "2026-11-11"
  },
  "/sectors/saas/": {
