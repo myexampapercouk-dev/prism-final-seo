@@ -18,7 +18,7 @@ const SITE = {
   phoneHref: '+447506909018',
   // WhatsApp number (country code, digits only) for the floating chat button. Must be a WhatsApp-enabled number.
   whatsapp: '447506909018',
-  tagline: 'AI-powered digital marketing and ecommerce agency for UK businesses',
+  tagline: 'UK-based remote web design, SEO and PPC agency for businesses in the UK, USA, Canada, Europe and the Middle East',
   theme: '#080b0f',
 };
 // ==== PLACEHOLDER: Google Analytics 4 ====
@@ -32,7 +32,10 @@ const GSC_VERIFY = '';
 const PAGES = require('./pages-data');
 const SUMMARIES = require('./blog-summaries');
 const POSTS = require('./blog-data').map(p => ({ ...p, takeaways: SUMMARIES[p.slug] || [] })).sort((a, b) => (b.date + b.slug).localeCompare(a.date + a.slug));
-const lastmod = (() => { try { return require('./lastmod.json'); } catch (e) { return {}; } })();
+// tools/lastmod.json: { "/url/path/": { hash, mod } }. A page's sitemap lastmod only moves when its content hash changes.
+const LASTMOD_FILE = path.join(__dirname, 'lastmod.json');
+const lastmod = (() => { try { return JSON.parse(fs.readFileSync(LASTMOD_FILE, 'utf8')); } catch (e) { return {}; } })();
+const pageHash = {};
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const plain = s => String(s).replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&rsquo;/g, '’').replace(/&lsquo;/g, '‘').replace(/&mdash;/g, '—').replace(/&ndash;/g, '–').replace(/&pound;/g, '£').replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
@@ -45,8 +48,16 @@ const core = n => fs.readFileSync(path.join(CORE, n + '.html'), 'utf8').trim();
 const today = new Date().toISOString().slice(0, 10);
 const ogFor = p => (fs.existsSync(path.join(ROOT, 'assets', 'og', p + '.png')) ? `/assets/og/${p}.png` : '/assets/og-image.png');
 
+// Markets served (remote, from the UK). Used by the Organization and service-page Service schema.
+const AREA = [
+  { '@type': 'Country', name: 'United Kingdom' },
+  { '@type': 'Country', name: 'United States' },
+  { '@type': 'Country', name: 'Canada' },
+  { '@type': 'Place', name: 'Europe' },
+  { '@type': 'Place', name: 'Middle East' },
+];
 const ORG = {
-  '@type': ['Organization', 'ProfessionalService'],
+  '@type': 'Organization',
   '@id': SITE.url + '/#org',
   name: SITE.name,
   url: SITE.url + '/',
@@ -54,9 +65,8 @@ const ORG = {
   image: SITE.url + '/assets/og-image.png',
   email: SITE.email,
   telephone: SITE.phone,
-  description: 'Prism Works Studio is a UK digital marketing and ecommerce agency: SEO and GEO, paid media, digital PR and content, website and ecommerce development, and brand strategy.',
-  areaServed: { '@type': 'Country', name: 'United Kingdom' },
-  priceRange: '£££',
+  description: 'Prism Works Studio is a UK-based remote web design and digital marketing studio working with businesses in the UK, USA, Canada, Europe and the Middle East: web design and development, SEO and GEO, PPC and paid media, digital PR and content, and brand strategy.',
+  areaServed: AREA,
   knowsAbout: ['Search engine optimisation', 'Generative engine optimisation', 'Paid media', 'Google Shopping', 'Digital PR', 'Content marketing', 'Shopify development', 'WooCommerce development', 'WordPress development', 'Brand strategy'],
 };
 const WEBSITE = { '@type': 'WebSite', '@id': SITE.url + '/#website', url: SITE.url + '/', name: SITE.name, publisher: { '@id': SITE.url + '/#org' }, inLanguage: 'en-GB' };
@@ -115,6 +125,9 @@ ${GSC_VERIFY ? `<meta name="google-site-verification" content="${GSC_VERIFY}">` 
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${canonical}">
 <meta property="og:image" content="${image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(title)}">
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="${SITE.theme}">
@@ -148,18 +161,29 @@ ${SITE.whatsapp ? `<a class="wa-float" href="${waHref()}" target="_blank" rel="n
 
 function write(rel, html) {
   const file = path.join(ROOT, rel);
+  if (rel.endsWith('index.html')) {
+    // Hash the page without build-varying parts (asset version hashes, post card grids) for the sitemap lastmod.
+    const stable = html.replace(/\?v=[0-9a-f]{8}/g, '').replace(/<div class="pws-grid pws-posts">[\s\S]*?<\/div><\/section>/g, '');
+    pageHash['/' + rel.replace(/index\.html$/, '')] = require('crypto').createHash('md5').update(stable).digest('hex');
+  }
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, html);
 }
 const sitemap = [];
 const llms = { core: [], services: [], sectors: [], posts: [] };
-function add(urlPath, mod, priority) { sitemap.push({ loc: SITE.url + urlPath, mod: mod || lastmod[urlPath] || today, priority }); }
+function stamp(urlPath) {
+  const prev = lastmod[urlPath], hash = pageHash[urlPath];
+  if (!hash) return (prev && prev.mod) || today;
+  if (!prev || prev.hash !== hash) lastmod[urlPath] = { hash, mod: today };
+  return lastmod[urlPath].mod;
+}
+function add(urlPath, mod, priority) { sitemap.push({ loc: SITE.url + urlPath, mod: mod || stamp(urlPath), priority }); }
 
 // ---------- core pages ----------
 const CORE_PAGES = [
-  { slug: '', file: 'home', title: 'Prism Works Studio | Digital Marketing & Ecommerce Agency', description: 'UK digital marketing and ecommerce agency combining AI-powered strategy with creative execution: SEO, paid media, web design and branding.', crumb: null },
+  { slug: '', file: 'home', title: 'Web Design, SEO & PPC Agency | Prism Works Studio', description: 'UK-based remote web design, SEO and PPC agency working with businesses in the UK, USA, Canada, Europe and the Middle East.', crumb: null },
   { slug: 'about-us', file: 'about-us', title: 'About Us | Prism Works Studio', description: 'A results-driven digital marketing and ecommerce agency helping UK businesses build powerful online presences and measurable growth.', crumb: 'About us' },
-  { slug: 'services', file: 'services', title: 'Digital Marketing Services UK | Prism Works Studio', description: 'SEO, GEO, paid media, digital PR, content marketing, brand strategy and website and ecommerce development on Shopify, WooCommerce and WordPress.', crumb: 'Services' },
+  { slug: 'services', file: 'services', title: 'Web Design, SEO & PPC Services | Prism Works Studio', description: 'Web design, SEO and GEO, PPC, digital PR and brand strategy from a UK-based remote agency for clients in the UK, USA, Canada, Europe and the Middle East.', crumb: 'Services' },
   { slug: 'sectors', file: 'sectors', title: 'Sectors We Serve | Prism Works Studio', description: 'Digital marketing with deep sector knowledge: healthcare, hospitality, ecommerce, financial advisers, SaaS, B2B and education.', crumb: 'Sectors' },
   { slug: 'contact', file: 'contact', title: 'Contact Us | Prism Works Studio', description: 'Book a free, no-obligation 30-minute discovery call with Prism Works Studio. Email contact@prismworks.studio or call +44 7506 909018.', crumb: 'Contact' },
 ];
@@ -181,7 +205,7 @@ for (const p of CORE_PAGES) {
   if (p.slug === '') {
     // Latest articles block on the home page
     const latest = POSTS.slice(0, 3).map(cardHtml).join('');
-    body = body.replace(/(<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta">)/, `<section class="pws-section"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">Insights</span><h2 class="pws-h2">Latest guides for UK businesses</h2></div><div class="pws-grid pws-posts">${latest}</div><div class="pws-cta-row"><a class="pws-btn pws-btn-ghost" href="/blog/">All articles</a></div></div></section>\n$1`);
+    body = body.replace(/(<section class="pws-section alt"><div class="pws-wrap"><div class="pws-cta">)/, `<section class="pws-section"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">Insights</span><h2 class="pws-h2">Latest guides</h2></div><div class="pws-grid pws-posts">${latest}</div><div class="pws-cta-row"><a class="pws-btn pws-btn-ghost" href="/blog/">All articles</a></div></div></section>\n$1`);
   }
   write(p.slug ? `${p.slug}/index.html` : 'index.html', layout({ urlPath, title: p.title, description: p.description, body, ld, og: ogFor(p.slug || 'home') }));
   add(urlPath, null, p.slug ? '0.8' : '1.0');
@@ -196,6 +220,56 @@ function cardHtml(post) {
   return `<a class="pws-card pws-post-card" href="/blog/${post.slug}/"><p class="pws-tags">${esc(post.category)} &middot; ${readMins(post)} min read</p><h3>${post.title}</h3><p>${esc(post.description)}</p><span class="pws-more">Read the guide &rarr;</span></a>`;
 }
 const byPath = Object.fromEntries(PAGES.map(p => [p.path, p]));
+
+// ---------- relevance-based related posts ----------
+// Replaces newest-first picks so older posts also get "Keep reading" links. Deterministic: same inputs, same output.
+const STOP = new Set('uk a an and the for of to in on with vs how what is are your you do does guide guides best which why when it its from by or at small business businesses agency cost costs'.split(' '));
+const tokens = s => new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(t => t && !STOP.has(t)));
+const hashNum = s => parseInt(require('crypto').createHash('md5').update(s).digest('hex').slice(0, 8), 16);
+const moneyPages = p => (p.related || []).filter(u => u !== '/pricing/');
+const POST_TOK = new Map(POSTS.map(p => [p.slug, tokens(p.slug)]));
+const bodyLinks = p => new Set([...p.body.matchAll(/href="\/blog\/([^"\/]+)\/"/g)].map(m => m[1]));
+const POST_OUT = new Map(POSTS.map(p => [p.slug, bodyLinks(p)]));
+const inbound = Object.fromEntries(POSTS.map(p => [p.slug, 0]));
+for (const p of POSTS) for (const t of POST_OUT.get(p.slug)) if (t !== p.slug && t in inbound) inbound[t]++;
+const picked = Object.fromEntries(POSTS.map(p => [p.slug, 0]));
+function relevance(post, c) {
+  const a = POST_TOK.get(post.slug), b = POST_TOK.get(c.slug);
+  let shared = 0; for (const t of a) if (b.has(t)) shared++;
+  const cm = new Set(moneyPages(c));
+  const sharedPages = moneyPages(post).filter(u => cm.has(u)).length;
+  return { shared, sharedPages, score: 3 * shared + 2 * sharedPages + (c.category === post.category ? 1 : 0) };
+}
+// Score: shared slug words, shared money pages and category; then favour posts no article links to,
+// spread picks across posts and skip ones the body already links. Ties break on a slug hash.
+function relatedPostsFor(post, n = 3) {
+  const out = POST_OUT.get(post.slug);
+  const ranked = POSTS.filter(c => c.slug !== post.slug).map(c => {
+    const r = relevance(post, c);
+    let score = r.score;
+    if (r.shared || r.sharedPages) {
+      if (inbound[c.slug] === 0 && (r.shared || r.sharedPages > 1)) score += 3;
+      score -= 1.5 * picked[c.slug];
+      if (out.has(c.slug)) score -= 3;
+    }
+    return { c, score, tie: hashNum(post.slug + '|' + c.slug) };
+  }).sort((x, y) => y.score - x.score || x.tie - y.tie).slice(0, n).map(x => x.c);
+  ranked.forEach(c => picked[c.slug]++);
+  return ranked;
+}
+// Service, sector and pricing pages: pinned featuredPosts first, then the most relevant posts that list the page.
+function pagePostsFor(page, n = 3) {
+  const pinned = (page.featuredPosts || []).map(s => POSTS.find(p => p.slug === s)).filter(Boolean);
+  const pt = tokens(page.path + ' ' + plain(page.name));
+  const pool = POSTS.filter(x => !pinned.includes(x) && (x.related || []).includes(page.path)).map(c => {
+    let shared = 0; for (const t of POST_TOK.get(c.slug)) if (pt.has(t)) shared++;
+    const links = c.body.includes('href="' + page.path + '"') ? 1 : 0;
+    return { c, score: 3 * shared + 2 * links + (inbound[c.slug] === 0 ? 2 : 0) - 1.5 * picked[c.slug], tie: hashNum(page.path + '|' + c.slug) };
+  }).sort((x, y) => y.score - x.score || x.tie - y.tie).map(x => x.c);
+  const res = pinned.concat(pool).slice(0, n);
+  res.forEach(c => picked[c.slug]++);
+  return res;
+}
 const GUIDES = require('./pages-guides');
 const CHAT = [];
 const chatAdd = (faqs, u, t) => faqs.forEach(([q, a]) => CHAT.push({ q: plain(q), a: plain(a), u, t: plain(t) }));
@@ -203,7 +277,7 @@ const chatAdd = (faqs, u, t) => faqs.forEach(([q, a]) => CHAT.push({ q: plain(q)
 for (const p of PAGES) {
   const parent = p.type === 'service' ? ['Services', '/services/'] : p.type === 'sector' ? ['Sectors', '/sectors/'] : null;
   const trail = [['Home', '/'], ...(parent ? [parent] : []), [p.name, p.path]];
-  const relatedPosts = POSTS.filter(x => (x.related || []).includes(p.path)).slice(0, 3);
+  const relatedPosts = pagePostsFor(p);
   const relatedPages = (p.related || []).map(u => byPath[u]).filter(Boolean);
   let body = `<section class="pws-section pws-page-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">${p.eyebrow}</span><h1>${p.h1}</h1><p class="pws-lead">${p.lead}</p><div class="pws-cta-row"><a class="pws-btn pws-btn-primary" href="/contact/">Get a Free Consultation</a>${WA_BTN()}<a class="pws-btn pws-btn-ghost" href="/pricing/">See pricing</a></div></div></section>\n`;
   p.sections.forEach((s, i) => {
@@ -219,7 +293,7 @@ for (const p of PAGES) {
   chatAdd(allFaqs, p.path, p.h1);
   body += CTA;
   const ld = [{ '@type': 'WebPage', '@id': SITE.url + p.path + '#webpage', url: SITE.url + p.path, name: p.seoTitle, description: p.description, isPartOf: { '@id': SITE.url + '/#website' }, inLanguage: 'en-GB' }, crumbsLd(trail)];
-  if (p.type === 'service') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.name, serviceType: p.serviceType || p.name, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: { '@type': 'Country', name: 'United Kingdom' } });
+  if (p.type === 'service') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.name, serviceType: p.serviceType || p.name, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: AREA });
   if (p.type === 'sector') ld.push({ '@type': 'Service', '@id': SITE.url + p.path + '#service', name: p.serviceName, serviceType: 'Digital marketing', audience: { '@type': 'BusinessAudience', name: p.audience }, description: p.description, url: SITE.url + p.path, provider: { '@id': SITE.url + '/#org' }, areaServed: { '@type': 'Country', name: 'United Kingdom' } });
   if (p.type === 'pricing') ld.push({ '@type': 'OfferCatalog', name: 'Prism Works Studio monthly retainers', itemListElement: p.offers.map(([n, price, d]) => ({ '@type': 'Offer', name: n, description: d, price, priceCurrency: 'GBP', priceSpecification: { '@type': 'UnitPriceSpecification', price, priceCurrency: 'GBP', unitText: 'MONTH' }, seller: { '@id': SITE.url + '/#org' } })) });
   if (allFaqs.length) ld.push(faqLd(allFaqs));
@@ -242,7 +316,7 @@ for (const post of POSTS) {
   const faqs = faqsFromBody(post.body);
   chatAdd(faqs, urlPath, post.title);
   const related = (post.related || []).map(u => byPath[u]).filter(Boolean);
-  const more = POSTS.filter(x => x.slug !== post.slug && x.category === post.category).concat(POSTS.filter(x => x.slug !== post.slug && x.category !== post.category)).slice(0, 3);
+  const more = relatedPostsFor(post);
   const body = `<section class="pws-section pws-page-hero pws-article-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">${esc(post.category)}</span><h1>${post.title}</h1><p class="pws-lead">${esc(post.description)}</p><p class="pws-meta">By the ${SITE.name} team &middot; <time datetime="${post.updated || post.date}">${post.updated ? 'Updated ' + fmtDate(post.updated) : fmtDate(post.date)}</time> &middot; ${readMins(post)} min read</p></div></section>
 <section class="pws-section"><div class="pws-wrap pws-article-wrap"><article class="pws-article">
 <div class="pws-takeaways"><h2>Key takeaways</h2><ul>${post.takeaways.map(t => `<li>${t}</li>`).join('')}</ul></div>
@@ -276,7 +350,8 @@ write('assets/chat-index.json', JSON.stringify(CHAT));
 // ---------- sitemap, robots, llms, manifest ----------
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemap.map(s => `<url><loc>${s.loc}</loc><lastmod>${s.mod}</lastmod><priority>${s.priority}</priority></url>`).join('\n')}\n</urlset>\n`);
 write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /tools/\nDisallow: /docs/\n\nSitemap: ${SITE.url}/sitemap.xml\n`);
-write('llms.txt', `# ${SITE.name}\n\n> ${SITE.name} is a UK digital marketing and ecommerce agency combining AI-powered strategy with creative execution: SEO and GEO, paid media, digital PR and content, website and ecommerce development (Shopify, WooCommerce, WordPress) and brand strategy. Contact: ${SITE.email}, ${SITE.phone}.\n\nMonthly retainers start at £350 (Launch), £750 (Growth) and £1,500 (Scale) a month; advertising spend is paid separately. Website and ecommerce builds are quoted as separate projects.\n\n## Pages\n${llms.core.join('\n')}\n- [Pricing](${SITE.url}/pricing/): Monthly retainers and one-off project starting prices.\n\n## Services\n${llms.services.filter(l => !l.includes('/pricing/')).join('\n')}\n\n## Sectors\n${llms.sectors.join('\n')}\n\n## Guides\n${llms.posts.join('\n')}\n`);
+write('llms.txt', `# ${SITE.name}\n\n> ${SITE.name} is a UK-based remote web design and digital marketing studio working with businesses in the UK, USA, Canada, Europe and the Middle East (no offices outside the UK), combining AI-powered strategy with creative execution: web design and development (Shopify, WooCommerce, WordPress), SEO and GEO, PPC and paid media, digital PR and content, and brand strategy. Contact: ${SITE.email}, ${SITE.phone}.\n\nMonthly retainers start at £350 (Launch), £750 (Growth) and £1,500 (Scale) a month; advertising spend is paid separately. Website and ecommerce builds are quoted as separate projects.\n\n## Pages\n${llms.core.join('\n')}\n- [Pricing](${SITE.url}/pricing/): Monthly retainers and one-off project starting prices.\n\n## Services\n${llms.services.filter(l => !l.includes('/pricing/')).join('\n')}\n\n## Sectors\n${llms.sectors.join('\n')}\n\n## Guides\n${llms.posts.join('\n')}\n`);
+fs.writeFileSync(LASTMOD_FILE, JSON.stringify(Object.fromEntries(Object.entries(lastmod).sort()), null, 1) + '\n');
 write('site.webmanifest', JSON.stringify({ name: SITE.name, short_name: 'Prism Works', start_url: '/', display: 'standalone', background_color: SITE.theme, theme_color: SITE.theme, icons: [{ src: '/assets/img/site-icon.png', sizes: '512x512', type: 'image/png' }] }, null, 2) + '\n');
 
 console.log(`Built ${CORE_PAGES.length} core pages, ${PAGES.length} service/sector/pricing pages, ${POSTS.length} posts, 404, blog index, sitemap (${sitemap.length} URLs).`);

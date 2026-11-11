@@ -616,6 +616,7 @@ module.exports = [
 <h2>SEO and GEO: is AI search included?</h2>
 <p>Google AI Overviews, ChatGPT and Perplexity now answer many questions directly. Being cited in those answers draws on the same foundations as SEO: well-structured pages, consistent facts about your business and authority from trusted sources. Many agencies, including us, treat generative engine optimisation as part of SEO rather than a separate bill. If a quote lists GEO as an expensive add-on, ask exactly what extra work it involves. Our explainer on <a href="/blog/what-is-generative-engine-optimisation/">what GEO is</a> covers the basics.</p>
 
+<p>Authority work is often priced separately from technical SEO. See our <a href="/services/digital-pr-content/">digital PR and link building</a> service for how that work is scoped.</p>
 <h2>Red flags in cheap SEO quotes</h2>
 <p>Low prices are not automatically bad, but some patterns should make you cautious:</p>
 <ul>
@@ -2447,6 +2448,7 @@ module.exports = [
 <h3>Where LinkedIn fits</h3>
 <p>LinkedIn is useful when you can describe your buyer precisely by job title, seniority, industry or company size. It is less useful when your audience is broad or when the deal value is too small to justify higher click costs. Lead gen forms make conversion easy, but that ease can also attract low-intent submissions, so qualification matters.</p>
 
+<p>Content carries most of the weight in a long sales cycle. See how our <a href="/services/digital-pr-content/">content marketing agency</a> service plans articles and guides for each stage.</p>
 <h2>How long sales cycles change the marketing plan</h2>
 <p>If deals take three, six or twelve months to close, judging marketing on last month's sales will mislead you. A sensible B2B plan does three things differently.</p>
 <ol>
@@ -2516,7 +2518,7 @@ module.exports = [
     related: ['/services/brand-strategy/', '/services/digital-pr-content/', '/pricing/'],
     body: `
 <p>A brand strategy agency helps a business decide who it is for, what makes it different and how it should look and sound, then turns those decisions into practical tools such as positioning, messaging and a tone of voice guide. For UK SMEs, the value is consistency: when everyone describes the business the same way, marketing works harder for the same budget.</p>
-<p>Many small businesses jump straight to a logo or a new website, and without a clear strategy underneath, those projects can end up being redone. This guide explains what a brand strategy agency delivers, how it differs from a marketing strategy agency or a business consultancy, how the process usually runs and what to ask before you hire one.</p>
+<p>Many small businesses jump straight to a logo or a new website, and without a clear strategy underneath, those projects can end up being redone. This guide explains what a brand strategy agency delivers, how it differs from a marketing strategy agency or a business consultancy, how the process usually runs and what to ask before you hire one. If you would like a partner for this work, our <a href="/services/brand-strategy/">brand strategy agency</a> service covers positioning, messaging and visual identity.</p>
 
 <h2>What does a brand strategy agency do?</h2>
 <p>Brand strategy is the thinking behind the visible brand. A good agency asks hard questions, listens to customers and turns the answers into decisions you can act on. The work typically covers:</p>
@@ -2782,7 +2784,7 @@ module.exports = [
     related: ['/sectors/ecommerce/', '/services/paid-media/', '/services/seo-geo/', '/pricing/'],
     body: `
 <p>An ecommerce marketing agency helps online shops sell more profitably by running channels such as SEO, Google Shopping, paid search, paid social, email and conversion work as one plan. A good one treats them as a system: ads reach new buyers, email can bring them back, SEO can reduce reliance on paid clicks and conversion work can make each visit worth more.</p>
-<p>This guide explains what an ecommerce marketing agency does, how an ecommerce ad or paid search agency differs, what to compare on cost and what to check before you sign anything.</p>
+<p>This guide explains what an ecommerce marketing agency does, how an ecommerce ad or paid search agency differs, what to compare on cost and what to check before you sign anything. To see how we run this work, visit our <a href="/sectors/ecommerce/">ecommerce marketing agency</a> page.</p>
 
 <h2>What does an ecommerce marketing agency do?</h2>
 <p>An online shop can see the effect of marketing in its orders and revenue, which makes the work measurable, and also means poor decisions can show up in margins. A capable agency usually covers these areas, plus the tracking that ties them together.</p>
@@ -2899,7 +2901,7 @@ module.exports = [
     related: ['/sectors/education/', '/services/seo-geo/', '/services/paid-media/', '/pricing/'],
     body: `
 <p>An education marketing agency in the UK helps independent schools, colleges, nurseries, universities and training providers attract more enquiries, open day bookings and applications through SEO, paid search and social ads, content and a clear, accessible website. A good agency plans around your recruitment calendar and writes for the different people who make education decisions: parents, learners and employers.</p>
-<p>This guide explains what education digital marketing involves, what a digital marketing agency for schools should do, which channels tend to suit each type of provider, what it costs and what to ask before hiring an agency or consultant.</p>
+<p>This guide explains what education digital marketing involves, what a digital marketing agency for schools should do, which channels tend to suit each type of provider, what it costs and what to ask before hiring an agency or consultant. To see how we approach this ourselves, visit our <a href="/sectors/education/">education marketing agency</a> page.</p>
 
 <h2>What does an education marketing agency do?</h2>
 <p>Education is a considered purchase. A parent choosing a school, an adult choosing a course or an employer choosing an apprenticeship provider will usually research for weeks, compare several options and look hard for trust signals. Good marketing makes that research easy and gives people a clear next step.</p>
@@ -3253,7 +3255,7 @@ module.exports = [
     related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
     body: `
 <p>A Shopify agency in the UK designs, builds and improves Shopify stores so they sell well to UK shoppers, from theme setup and product structure to payments, delivery options and search visibility. The right one for you is the agency that can explain your scope, costs, timeline and who owns what in plain English before you sign anything.</p>
-<p>Shopify makes it easy to open a store, which is exactly why so many stores underperform. The platform handles hosting, security and checkout, but the decisions that drive sales still need to be made by someone: how products are grouped, how pages are written, how delivery and returns are presented, and how the store is found on Google. This guide explains what a Shopify agency actually does, how to compare agencies, what you should expect to pay and how to avoid the common mistakes.</p>
+<p>Shopify makes it easy to open a store, which is exactly why so many stores underperform. The platform handles hosting, security and checkout, but the decisions that drive sales still need to be made by someone: how products are grouped, how pages are written, how delivery and returns are presented, and how the store is found on Google. This guide explains what a Shopify agency actually does, how to compare agencies, what you should expect to pay and how to avoid the common mistakes. To see how we scope and build stores, visit our <a href="/services/website-ecommerce-development/">Shopify web design agency</a> service.</p>
 
 <h2>Shopify agency UK: what does one actually do?</h2>
 <p>Agencies vary, but most Shopify work falls into a handful of areas. Knowing them helps you check whether a quote covers what you need or leaves gaps that become extra invoices later.</p>
@@ -3292,6 +3294,7 @@ module.exports = [
 </table>
 <p>Remember that Shopify itself charges a monthly plan fee and transaction or payment fees, and paid apps add their own subscriptions. Any advertising budget is paid separately from agency fees. For a wider breakdown of what drives store costs, see our guide to <a href="/blog/ecommerce-website-cost-uk/">ecommerce website costs in the UK</a>, and our <a href="/pricing/">pricing page</a> for full details of each package.</p>
 
+<p>Search visibility should be planned during the build, not after it. See how we approach <a href="/services/seo-geo/">Shopify SEO</a> for category pages, product pages and site structure.</p>
 <h2>How to compare Shopify agencies</h2>
 <p>Two quotes for the same store can look very different. Use the comparison below to work out whether you are comparing like with like.</p>
 <table>
@@ -3518,7 +3521,7 @@ module.exports = [
     related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
     body: `
 <p>A WooCommerce agency in the UK builds and improves online shops on WordPress using the WooCommerce plugin, covering design, products, payments, delivery, hosting and ongoing upkeep. WooCommerce fits best when you want full ownership and flexibility, already rely on WordPress, or sell alongside a lot of content.</p>
-<p>WooCommerce is free to install and highly adaptable. That flexibility is also its main risk: a poorly built store can become slow, insecure or hard to update. This guide explains what kinds of work an agency takes on, when WooCommerce is the right choice, what to expect, the costs to plan for and how to compare agencies sensibly.</p>
+<p>WooCommerce is free to install and highly adaptable. That flexibility is also its main risk: a poorly built store can become slow, insecure or hard to update. This guide explains what kinds of work an agency takes on, when WooCommerce is the right choice, what to expect, the costs to plan for and how to compare agencies sensibly. To see how we plan and build stores, visit our <a href="/services/website-ecommerce-development/">WooCommerce web design and development</a> service.</p>
 
 <h2>What does a WooCommerce agency do?</h2>
 <p>You may not need a full build. Agencies are typically hired for one or more of these jobs, and it helps to be clear which one you need before you ask for quotes.</p>
@@ -3562,6 +3565,7 @@ module.exports = [
 <li><strong>Handover and maintenance:</strong> training on adding products and orders, plus a plan for updates and security.</li>
 </ul>
 
+<p>A good build makes search easier, but ranking a store is ongoing work. If you need an <a href="/services/seo-geo/">SEO agency</a> as well as a developer, ask how the two will share the plan.</p>
 <h2>How much does a WooCommerce agency cost?</h2>
 <p>The plugin is free, but a professional shop still costs money to plan, build and run. Below are our published prices, plus the running costs you should budget for whichever agency you choose.</p>
 <table>
@@ -3705,6 +3709,7 @@ module.exports = [
 </ul>
 <p>Digital PR works best when it supports a wider plan. Coverage pointing at thin pages achieves little, so most agencies will also look at the content and technical health of the pages receiving links. Our <a href="/services/digital-pr-content/">digital PR and content service</a> is built around that joined-up approach, and it connects directly with our <a href="/services/seo-geo/">SEO and GEO work</a>.</p>
 
+<p>Stories land more easily when the business is clear about what it stands for. If that needs work first, see our <a href="/services/brand-strategy/">brand positioning</a> service.</p>
 <h2>How results are judged</h2>
 <p>Digital PR is easy to report badly. A huge "potential reach" number or a list of syndicated copies on low-quality sites can look impressive while doing very little. Better agencies report on measures that tie to commercial outcomes.</p>
 <table>
@@ -4366,7 +4371,7 @@ module.exports = [
     related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
     body: `
 <p>A Google Shopping agency in the UK manages the three things that decide Shopping results: your product feed, your Merchant Center account and the campaigns that bid on your products. When you hire one, the most useful question is how they improve the feed, because Google uses feed data rather than keywords to decide when your products appear.</p>
-<p>This article is for store owners deciding whether to hire help and how to judge the options. If you need the basics first, read our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide for UK retailers</a>, then come back here for the hiring side.</p>
+<p>This article is for store owners deciding whether to hire help and how to judge the options. If you need the basics first, read our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide for UK retailers</a>, then come back here for the hiring side. If you want this run for you, our <a href="/services/paid-media/">Google Shopping and PPC agency</a> service covers feeds, Merchant Center and campaigns.</p>
 
 <h2>What does a Google Shopping agency do?</h2>
 <p>Shopping is a narrower discipline than general PPC. The work splits into feed management, Merchant Center management and campaign management, with tracking underneath all three.</p>
@@ -4425,6 +4430,7 @@ module.exports = [
 <li><strong>Reporting:</strong> what changed, what it did and what is planned next, by product and category.</li>
 </ul>
 
+<p>Shopping ads compete on product and brand. If your brand is hard to tell apart from competitors, our <a href="/services/brand-strategy/">brand strategy agency</a> service can help sharpen it.</p>
 <h2>Agency, freelancer or in-house management?</h2>
 <table>
 <thead><tr><th>Option</th><th>Can suit</th><th>Check first</th></tr></thead>
@@ -4950,6 +4956,7 @@ module.exports = [
 <p>Paid search can be effective for high-intent searches such as "emergency dentist" or treatment-specific terms in your area. Keep campaigns tightly targeted by location, send each ad to the matching treatment page, and track bookings and calls rather than clicks. Our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs</a> explains how fees and ad spend work; spend is always paid separately to the platform.</p>
 <p>Paid social can support awareness for cosmetic treatments, but the same advertising rules apply, and platform policies on health-related ads add another layer. Keep the message factual and the call to action simple, such as booking a consultation.</p>
 
+<p>If you want help running campaigns within those rules, see our <a href="/services/paid-media/">PPC agency</a> service.</p>
 <h2>Retaining and recalling existing patients</h2>
 <p>New patients matter, but a practice's existing list is often its most valuable asset. Recall reminders, hygiene appointment prompts and clear information about treatment options help patients stay with the practice and make informed choices. Make sure reminders are sent with the right consent and through channels patients have agreed to, and keep marketing messages separate from essential clinical communications.</p>
 <p>A simple, well-organised website helps here too. Patients returning to check opening hours, emergency arrangements or fees should find them in seconds. Pages answering common questions, such as what to do in a dental emergency out of hours or how payment plans work, reduce calls to reception and build trust. Review these pages at least once a year so fees and arrangements stay accurate.</p>
@@ -5080,6 +5087,7 @@ module.exports = [
 </tbody>
 </table>
 
+<p>For a closer look at what <a href="/services/paid-media/">paid ads management</a> involves and how ad spend is kept separate from the fee, see our service page.</p>
 <h2>Hidden costs to watch for</h2>
 <p>The headline fee is rarely the whole story. Before signing, check whether any of the following sit outside the quote:</p>
 <ul>
@@ -5292,6 +5300,7 @@ module.exports = [
 </tbody>
 </table>
 
+<p>When paid search is the right next step, our <a href="/services/paid-media/">Google Ads management</a> starts with conversion tracking before budgets increase.</p>
 <h2>Common startup marketing mistakes</h2>
 <ul>
 <li><strong>Scaling ads before the website converts.</strong> More traffic to a weak page just costs more.</li>
@@ -5943,6 +5952,7 @@ module.exports = [
 <p>WordPress can be very fast or painfully slow depending on how it is built. Image sizes, theme weight, plugin count and hosting quality all play a part. Fast pages help visitors, help conversion and support search performance through Core Web Vitals. Ask how the agency handles image compression, caching and script loading.</p>
 <p>On the SEO side, the build should include clean URLs, sensible headings, structured data where relevant, an XML sitemap and correct indexing settings. If you are replacing an older site, redirects are essential. Our guide to a <a href="/blog/website-redesign-without-losing-rankings/">website redesign without losing rankings</a> walks through the migration steps, and the <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> is useful once the site is live.</p>
 
+<p>A fast, well-structured WordPress site gives SEO a head start, but rankings still take ongoing work. If you also need an <a href="/services/seo-geo/">SEO agency</a>, ask how the build and the SEO plan fit together.</p>
 <h2>How much does a WordPress agency cost in the UK?</h2>
 <p>Costs depend mostly on page count, design complexity, integrations and whether you need ecommerce. As a guide, a small WordPress website typically sits around £1,000 to £2,000, and a WooCommerce store around £1,500 to £3,500. A small website usually takes 3 to 5 weeks and an ecommerce build 5 to 12 weeks, depending on content readiness and feedback speed.</p>
 <table>
@@ -7757,7 +7767,7 @@ module.exports = [
     related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
     body: `
 <p>A conversion rate optimisation agency, or CRO agency, helps you turn more of your existing website visitors into customers or enquiries. It researches where and why people drop out, fixes the problems it finds and, where traffic allows, tests changes to see what works.</p>
-<p>CRO can be good value because a better-converting site can improve the return from every channel that sends it traffic. This guide explains what a CRO agency does for UK businesses, how the work generally runs, what it costs, what to ask and how to choose one. If you run an online store, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout and product page specifics in more depth.</p>
+<p>CRO can be good value because a better-converting site can improve the return from every channel that sends it traffic. This guide explains what a CRO agency does for UK businesses, how the work generally runs, what it costs, what to ask and how to choose one. If you run an online store, our <a href="/blog/ecommerce-cro-uk/">ecommerce CRO guide</a> covers checkout and product page specifics in more depth. When the problems sit in the site itself, our <a href="/services/website-ecommerce-development/">conversion-focused web design and development</a> service starts with an audit of performance, UX and conversion issues.</p>
 
 <h2>What does a conversion rate optimisation agency do?</h2>
 <p>CRO is a process rather than a single task. Most agency work falls into four stages.</p>
@@ -8120,7 +8130,7 @@ module.exports = [
     related: ['/services/seo-geo/', '/pricing/', '/sectors/hospitality/'],
     body: `
 <p>A local SEO agency helps businesses appear when people nearby search for what they offer, in Google Maps, the local map pack and normal search results. The work centres on your Google Business Profile, location and service pages, consistent business details, reviews and local links.</p>
-<p>For UK businesses that serve a town, city or region, local search is often the most valuable channel there is, because searchers are close by and ready to act. This guide explains what a local SEO agency does, how the work differs for single and multi-location businesses, what it costs and how to choose one. For a do-it-yourself overview, see our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>.</p>
+<p>For UK businesses that serve a town, city or region, local search is often the most valuable channel there is, because searchers are close by and ready to act. This guide explains what a local SEO agency does, how the work differs for single and multi-location businesses, what it costs and how to choose one. For a do-it-yourself overview, see our <a href="/blog/local-seo-uk-guide/">local SEO guide</a>. Local SEO is part of the work our <a href="/services/seo-geo/">SEO agency</a> service covers.</p>
 
 <h2>What a local SEO agency UK businesses hire actually does</h2>
 <p>Local SEO combines several areas of work. A capable agency covers all of them and explains which matter most for your business.</p>
@@ -10770,6 +10780,7 @@ module.exports = [
 <p>Shopify suits most retailers who want a reliable, hosted store with low maintenance. WooCommerce can suit stores that need more control or already run on WordPress, but you take on hosting, updates and security. Neither is automatically cheaper; it depends on your catalogue and the features you need. Our <a href="/blog/shopify-vs-woocommerce-uk/">Shopify vs WooCommerce comparison</a> and <a href="/blog/woocommerce-agency-uk/">WooCommerce agency guide</a> set out the trade-offs.</p>
 <p>Larger, high-volume retailers sometimes outgrow standard Shopify plans. We also handle moves to Shopify Plus; see our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a> if that is on your horizon.</p>
 
+<p>Remember to budget for being found once the store is live. Our <a href="/services/seo-geo/">SEO services</a> run on a monthly retainer, separate from the build.</p>
 <h2>One-off costs vs ongoing costs</h2>
 <p>It helps to split your Shopify budget into two columns. The first column holds one-off costs: the design and build, any premium theme, initial product photography and copywriting, and data migration from an old platform. Once these are paid, they are done, although you may choose to invest again later for a redesign or new features.</p>
 <p>The second column holds ongoing costs: the Shopify plan, monthly app subscriptions, payment processing fees, your domain renewal, and any marketing or support you buy. These continue for as long as the store runs, and several of them grow as you sell more. Looking at both columns over the first year gives a far more accurate picture than comparing build quotes alone.</p>
@@ -10845,6 +10856,7 @@ module.exports = [
 </table>
 <p>Running two SEO plugins at once is a common cause of duplicate meta tags and conflicting canonicals. Pick one and remove the other properly.</p>
 
+<p>If you would rather hand the settings and ongoing work to a specialist, our <a href="/services/seo-geo/">WooCommerce SEO services</a> cover technical fixes, category pages and content.</p>
 <h2>Category pages: your biggest opportunity</h2>
 <p>Most shoppers search for a type of product before a specific one: "women's waterproof walking boots" rather than an individual model. Those searches are best answered by category pages, which makes them the most valuable pages on most WooCommerce stores.</p>
 <p>Out of the box, WooCommerce category pages are often just a title and a grid. To give them a chance of ranking:</p>
@@ -10988,6 +11000,7 @@ module.exports = [
 <p>WordPress is a strong choice when you want ownership, flexibility and a good platform for content. Hosted website builders bundle hosting into a subscription and need less maintenance, but limit what you can change. For shops, Shopify offers a hosted alternative to WooCommerce; our <a href="/blog/shopify-agency-uk/">Shopify agency guide</a> explains how Shopify projects are scoped.</p>
 <p>There is no universally cheaper option. A WordPress website can cost less to run if it is lean and well hosted, or more if it relies on many paid plugins and needs frequent fixes.</p>
 
+<p>Remember to budget for being found once the site is live. Our <a href="/services/seo-geo/">SEO services</a> run on a monthly retainer, separate from the build.</p>
 <h2>Who owns what</h2>
 <p>Ownership is easy to overlook when comparing prices. With a WordPress website you should hold the domain registration, the hosting account and the admin login in your own name, with your provider given access rather than the other way round. That way you can change suppliers later without losing the site or its content.</p>
 <p>Premium theme and plugin licences are worth checking too. Some providers use their own developer licences, which can lapse if you move on. Ask for licences to be registered to your business, or at least for a clear note of which licences the site depends on and when they renew.</p>
@@ -15458,6 +15471,7 @@ module.exports = [
 <p>Features describe what something is. Benefits describe what it means for the customer. Both have a place. "Same-day dispatch on orders before 2pm" is a feature; "Order this morning, have it by the weekend" turns it into something the reader can picture. Make sure any benefit you describe is genuinely true for your business.</p>
 <p>Proof is what makes a claim believable. That might be real reviews, case studies you have permission to share, qualifications, or simply a clear explanation of how you work. Never invent testimonials, figures or results. Readers are good at spotting hollow claims, and in regulated sectors it can create real problems.</p>
 
+<p>If you would rather have help with the writing, our <a href="/services/digital-pr-content/">content marketing services</a> cover website copy, guides and articles.</p>
 <h2>Calls to action</h2>
 <p>Every page should make the next step obvious. Clear buttons such as "Book a consultation", "Request a quote" or "Add to basket" usually work better than vague ones like "Submit" or "Learn more". Tell people what happens after they click: who will reply, roughly when, and whether there is any obligation. Uncertainty at that moment puts people off.</p>
 
@@ -32716,6 +32730,7 @@ module.exports = [
 </ul>
 <p>Our <a href="/blog/website-maintenance-uk/">website maintenance guide</a> covers what ongoing care can involve.</p>
 
+<p>Ask who will look after search once the site launches. A web designer and an <a href="/services/seo-geo/">SEO agency</a> do different jobs, and redirects, page structure and content need both.</p>
 <h2>Comparing proposals fairly</h2>
 <p>Proposals can look very different, which makes price comparisons misleading. A lower price may leave out copywriting, content loading, SEO setup or post-launch support. A higher price may include strategy work or custom features you do not need. To compare fairly, line up each proposal against your brief.</p>
 <table>
@@ -33132,6 +33147,7 @@ module.exports = [
 <p>Shopify lets you add collaborators and staff accounts with limited permissions, so there is no need to share your own login. Give the developer only the access the job needs, and remove it when the work is finished. If they need access to other tools, such as your domain registrar or an email platform, use each service's own user or permission features where possible rather than sharing passwords.</p>
 <p>Ask the developer to work on a duplicate, unpublished copy of your theme, so changes can be previewed before they go live. Keeping the original theme as a fallback means you can switch back quickly if something goes wrong after publishing.</p>
 
+<p>If you want to see how a <a href="/services/website-ecommerce-development/">Shopify web design agency</a> turns a brief into a written scope, see our service page.</p>
 <h2>Write acceptance criteria</h2>
 <p>Acceptance criteria are short statements that must be true for an item to count as done. They turn a fuzzy feature into something both sides can check. For the size guide example, they might read:</p>
 <ul>
@@ -33266,6 +33282,7 @@ module.exports = [
 <li><strong>Single figures without context.</strong> A number only means something compared with something else: last month, last year or another channel.</li>
 </ul>
 
+<p>When we handle <a href="/services/website-ecommerce-development/">web design and development</a>, key actions and tracking are agreed before launch.</p>
 <h2>The free Google tools to use</h2>
 <table>
 <thead><tr><th>Tool</th><th>What it tells you</th></tr></thead>
@@ -33384,6 +33401,7 @@ module.exports = [
 </table>
 <p>Whatever the schedule, always take a fresh backup immediately before updating WordPress, plugins or themes, changing hosting, or making significant design changes. That single habit avoids a great deal of pain.</p>
 
+<p>Backups and updates are part of the ongoing <a href="/services/website-ecommerce-development/">website support</a> we offer after a build.</p>
 <h2>Where to keep backups</h2>
 <p>A backup stored only on the same server as the website is fragile. If the server fails, the account is suspended or the site is compromised, the backup may go with it. A widely used rule of thumb is the 3-2-1 approach:</p>
 <ul>
@@ -33478,6 +33496,7 @@ module.exports = [
 <li>Pick a quiet time for any changes to the live site.</li>
 </ol>
 
+<p>If you would rather have someone else run the audit, our <a href="/services/website-ecommerce-development/">WordPress web design and support</a> service includes plugin reviews and maintenance.</p>
 <h2>Step 1: List every plugin</h2>
 <p>Go to Plugins in the WordPress dashboard and record each one in a spreadsheet. For each plugin, note:</p>
 <ul>
@@ -36610,6 +36629,7 @@ module.exports = [
 <p>If the customer has already paid in another way, for example by card over the phone through a method you have set up, you can mark the order as paid. If you have agreed that they will pay later, such as on account or by bank transfer, you can mark it as payment pending and record the payment when it arrives.</p>
 <p>Take care with these options. Marking an order as paid does not take any money from the customer; it simply records that payment has been received. Make sure your bookkeeping and the actual payment match. Taking card details over the phone also brings security obligations, so check what applies to your setup before doing so.</p>
 
+<p>If your ordering process needs more than the standard settings, our <a href="/services/website-ecommerce-development/">Shopify development</a> service can help set it up.</p>
 <h2>Discounts and custom pricing</h2>
 <p>Draft orders let you apply discounts by amount or percentage, either to single line items or the whole order. You can also apply some existing discount codes. This flexibility is useful, but it relies on staff using it consistently.</p>
 <p>It is worth agreeing simple internal rules: who can create draft orders, what level of discount is acceptable without approval and how discounts are explained to customers. Our guide to <a href="/blog/shopify-staff-accounts-and-permissions/">Shopify staff accounts and permissions</a> explains how to control who can create and edit orders.</p>
@@ -36706,6 +36726,7 @@ module.exports = [
 <p>Cart attributes do not add a charge by themselves. If you want to charge for gift wrapping, combine a cart attribute for the message with a gift wrapping product for the fee.</p>
 <p>Line item properties are a related feature. They let customers add details to a specific product in their basket, such as a personalised message for one item. Like cart attributes, they appear in the order details and usually need theme changes to add.</p>
 
+<p>If you want gift options built into the theme properly, they can be scoped as part of a <a href="/services/website-ecommerce-development/">Shopify store build</a>.</p>
 <h2>Using the cart note for order notes</h2>
 <p>The cart note is a simple free-text box that customers can fill in before checkout. It is useful for general instructions, gift messages or questions. The note appears on the order in the admin and can be included on packing slips.</p>
 <p>To make cart notes work well:</p>
@@ -36796,6 +36817,7 @@ module.exports = [
 <h3>Avoid fine detail and small text</h3>
 <p>Thin lines, gradients and small lettering tend to become blurry at small sizes. Bold shapes and strong colours work best.</p>
 
+<p>Icons are a small part of <a href="/services/website-ecommerce-development/">web design</a>, but they are easy to get right when they are planned with the rest of the site.</p>
 <h2>Which sizes and formats do you need?</h2>
 <p>Different browsers and devices request icons in different sizes. You do not need to create dozens of versions by hand, but it helps to understand the main types.</p>
 <table>
@@ -36916,6 +36938,7 @@ module.exports = [
 <p>You can also add category and tag archives to menus. On a blog or a shop, linking to a category can be a good way to give visitors a route into a group of related content. Make sure the archive pages themselves are tidy and have helpful introductions, so the menu leads somewhere worthwhile.</p>
 <p>Many themes support extra options for menu items, such as opening a link in a new tab, adding a CSS class or adding a description. In a classic theme, some of these are hidden by default: use the Screen Options panel at the top of the Menus screen to reveal them. Use the new tab option sparingly, because it can be disorienting for visitors.</p>
 
+<p>If your navigation needs a rethink rather than a tidy-up, our <a href="/services/website-ecommerce-development/">WordPress web design</a> service plans menus around how visitors look for things.</p>
 <h2>Mobile menus</h2>
 <p>On smaller screens, most themes collapse the main menu behind a button, often called a hamburger menu. The way this works depends on your theme. In block themes, the Navigation block has an overlay setting that controls when the mobile menu appears.</p>
 <p>Test your mobile menu properly:</p>
@@ -37008,6 +37031,7 @@ module.exports = [
 </ul>
 <p>Our <a href="/blog/wordpress-block-editor-guide/">WordPress block editor guide</a> covers the editor interface more generally if you are still finding your way around it.</p>
 
+<p>If editing your site feels harder than it should, our <a href="/services/website-ecommerce-development/">WordPress development</a> service includes training so your team can manage content confidently.</p>
 <h2>Comparing revisions</h2>
 <p>The revisions screen shows two versions side by side. Removed text is highlighted on one side and added text on the other, so you can see exactly what changed between saves. A slider at the top lets you move through the history, and each revision is labelled with the date, time and the user who made it.</p>
 <p>You can also tick the option to compare any two revisions rather than neighbouring ones. This is helpful when you want to see everything that changed between an older version you were happy with and the current one.</p>
@@ -44141,6 +44165,7 @@ module.exports = [
 <li><strong>Handover:</strong> making sure your team knows how to update the site.</li>
 </ul>
 
+<p>Bespoke design works best when the positioning is settled first. Our <a href="/services/brand-strategy/">brand strategy</a> service covers positioning, messaging and visual identity.</p>
 <h2>When bespoke design is worth it</h2>
 <ul>
 <li><strong>Your brand is a major part of why people buy.</strong> Design-led, premium or professional service businesses can gain from a site that feels unmistakably theirs.</li>
@@ -50182,6 +50207,7 @@ module.exports = [
 <p>Photos are the most persuasive marketing tool a loft company has. Plan for them during every project. Capture the empty loft before work starts, key stages of the build, and the finished rooms once furnished if the homeowner agrees. Wide shots that show the space, close-ups that show the finish, and exterior shots of the dormer or gable all help.</p>
 <p>Written case studies add depth. A short page per project covering the brief, the challenges, the solution and the result gives homeowners something to compare with their own house. Only publish customer names, addresses or quotes with clear permission, and never invent testimonials. Our guide to <a href="/blog/website-testimonials-page/">building a testimonials page</a> explains how to present genuine feedback well.</p>
 
+<p>Paid search can bring enquiries while organic rankings build. Our <a href="/services/paid-media/">Google Ads management</a> sets up conversion tracking first, so budget goes to the searches that bring real enquiries.</p>
 <h2>Trust signals for a high-value build</h2>
 <p>Homeowners are wary of builders, and loft conversions involve structural work, so trust signals matter. Make these easy to find:</p>
 <ul>
@@ -51296,6 +51322,7 @@ module.exports = [
 </ul>
 <p>The biggest wasted spend in wholesale paid search usually comes from consumers clicking trade ads. Clear ad copy that mentions trade only, minimum orders or account requirements helps filter them out before they click. Our <a href="/blog/google-ads-negative-keywords-guide/">negative keywords guide</a> explains how to keep campaigns tight, and our <a href="/services/paid-media/">paid media service</a> covers Google, Microsoft and LinkedIn campaigns.</p>
 
+<p>Trade buyers compare suppliers quickly, so clear <a href="/services/brand-strategy/">brand positioning</a> helps them see why to choose you.</p>
 <h2>Turning visitors into trade accounts</h2>
 <p>Your trade account application is the most important conversion on the site. Treat it like a product in its own right.</p>
 <ol>
@@ -63325,6 +63352,7 @@ module.exports = [
 <p>Before increasing budgets on any channel, you need to know what each one is actually producing. Many Dallas businesses run ads and SEO without reliable tracking, so they cannot tell which channel brings in good customers. A careful agency starts by setting up analytics properly, tracking calls, forms, bookings and purchases, and connecting results to the campaigns and pages that produced them.</p>
 <p>With that in place, decisions become much simpler. Budget moves to the campaigns that deliver enquiries at a sensible cost, weak pages are improved and effort stops on activity that is not paying back. Monthly reporting should show these results in plain language, with clear recommendations for the month ahead.</p>
 
+<p>For organic search, our <a href="/services/seo-geo/">SEO agency</a> service covers technical fixes, content and visibility in AI answers.</p>
 <h2>Your website is the foundation</h2>
 <p>Every channel sends people to your website, so its quality affects the return on everything else you spend. A slow, confusing or outdated site can make good SEO and well-run ads look like they are failing. Before scaling any campaign, it is worth checking a few basics:</p>
 <ul>
@@ -63336,6 +63364,7 @@ module.exports = [
 </ul>
 <p>Sometimes the best first investment is improving the site rather than increasing ad budgets. Our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers new builds and improvements to existing sites.</p>
 
+<p>For paid search and social, our <a href="/services/paid-media/">PPC agency</a> service sets up tracking before spend scales.</p>
 <h2>How remote digital marketing works</h2>
 <p>Almost all digital marketing happens in online tools, so it suits remote delivery. A typical engagement with us runs like this:</p>
 <ol>
@@ -65128,6 +65157,7 @@ module.exports = [
 <p>Speed matters. A buyer comparing three suppliers will often go with the first one that gives a clear answer. A short quote form asking for postcode, business type, waste streams, approximate volumes and current contract end date gives you what you need to price accurately. If you can show a starting price or price range for common bin sizes, many buyers will shortlist you immediately.</p>
 <p>Make phone numbers clickable on mobile, reply to quote requests promptly and follow up if you do not hear back. Explain how switching works, including notice periods with existing suppliers, delivery of new bins and the first collection date. Our guides to <a href="/blog/website-contact-forms/">website contact forms</a> and <a href="/blog/website-call-to-action-buttons/">call to action buttons</a> cover the practical details.</p>
 
+<p>If you want paid search run for you, our <a href="/services/paid-media/">PPC agency</a> service covers tracking, campaign structure and ongoing optimisation.</p>
 <h2>Compliance and trust</h2>
 <p>Businesses have legal responsibilities for their waste, and many buyers want reassurance that their supplier is properly registered and provides the right paperwork. Display your waste carrier registration and any relevant permits or accreditations you genuinely hold, and explain what documentation clients receive, such as waste transfer notes.</p>
 <p>Keep regulatory statements general. It is reasonable to explain that businesses have a duty of care for their waste and that a registered carrier and correct paperwork form part of meeting it. Avoid telling buyers exactly what the rules require for their premises, because requirements differ across England, Scotland, Wales and Northern Ireland and change over time. Encourage readers to check current official guidance from the relevant government body or environmental regulator. Our guide to <a href="/blog/website-trust-signals/">website trust signals</a> covers how to present credentials clearly.</p>
@@ -68889,6 +68919,7 @@ module.exports = [
 <h2>Tracking comes first</h2>
 <p>The most common problem in Google Ads accounts is tracking that is missing, duplicated or counting the wrong things. If the account counts page views as conversions, or misses phone calls entirely, automated bidding will optimise towards the wrong goal. Before spending more, we make sure forms, calls and purchases are tracked properly, ideally with enhanced conversions and, where relevant, offline conversion imports from your CRM. Our guide to <a href="/blog/google-ads-conversion-tracking-setup/">Google Ads conversion tracking setup</a> explains the steps.</p>
 
+<p>Ads only work as well as the page they send people to. Our <a href="/services/website-ecommerce-development/">landing page design</a> builds pages around a single goal.</p>
 <h2>Targeting New York carefully</h2>
 <p>New York City covers five boroughs, and many businesses also serve Long Island, Westchester or New Jersey commuters. Targeting needs to reflect where your customers really are:</p>
 <ul>
@@ -69413,6 +69444,7 @@ module.exports = [
 </ul>
 <p>If you sell nationally rather than locally, the balance shifts towards content and authority. Our comparison of <a href="/blog/local-seo-vs-national-seo/">local SEO and national SEO</a> explains which approach suits which kind of business, and our guide to <a href="/blog/multi-location-seo-uk/">multi-location SEO</a> covers businesses with several sites.</p>
 
+<p>Links and mentions from relevant websites help pages rank and get cited. Our <a href="/services/digital-pr-content/">digital PR</a> service earns them through stories worth covering.</p>
 <h2>Local agency or remote agency: the trade-offs</h2>
 <p>There are capable SEO agencies based in Los Angeles, and if in-person workshops matter a great deal to you, a local agency may be the better fit. Remote SEO has real strengths too. The table below sets out the honest differences.</p>
 <table>
@@ -72554,6 +72586,7 @@ module.exports = [
 </table>
 <p>If you are moving platform, redirects and content mapping protect the rankings you already have. Our <a href="/blog/woocommerce-to-shopify-migration/">WooCommerce to Shopify migration guide</a> explains the steps, and our <a href="/blog/shopify-plus-migration-uk/">Shopify Plus migration guide</a> covers larger stores.</p>
 
+<p>If the store needs a clearer identity before the build, our <a href="/services/brand-strategy/">brand strategy</a> service can run first.</p>
 <h2>How a remote Shopify project works</h2>
 <p>Miami is usually five hours behind the UK, which gives a comfortable overlap across your morning and our afternoon. A typical remote project runs like this:</p>
 <ul>

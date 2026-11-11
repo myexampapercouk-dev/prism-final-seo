@@ -39,10 +39,10 @@ ${lines.map((l, i) => `<text x="80" y="${200 + i * (size + 14)}" font-family="Mo
 }
 
 const jobs = [
-  ['../og-image', 'Digital marketing &amp; ecommerce', 'Strategic Growth Powered by Prism Works Studio'],
-  ['home', 'Digital marketing &amp; ecommerce', 'Strategic Growth Powered by Prism Works Studio'],
+  ['../og-image', 'Web design, SEO &amp; PPC', 'Web Design, SEO &amp; PPC Agency for Growing Businesses'],
+  ['home', 'Web design, SEO &amp; PPC', 'Web Design, SEO &amp; PPC Agency for Growing Businesses'],
   ['about-us', 'About us', 'The Digital Agency Built to Grow Your Business'],
-  ['services', 'Services', 'SEO, Paid Media, Digital PR, Websites &amp; Brand'],
+  ['services', 'Services', 'Web Design, SEO &amp; PPC Agency Services'],
   ['sectors', 'Sectors', 'Deep Sector Knowledge. Measurable Digital Results.'],
   ['contact', 'Contact', 'Book a Free 30-Minute Discovery Call'],
   ['blog', 'Blog', 'Digital Marketing &amp; Ecommerce Guides for UK Businesses'],

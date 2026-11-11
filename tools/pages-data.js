@@ -1,6 +1,6 @@
 // Service, sector and pricing pages. Add a page here, then run: node tools/build-pages.js
 // Fields: type (service|sector|pricing), path, name, seoTitle (<= 60), description (<= 160), eyebrow, h1, lead,
-// sections [{ eyebrow?, h2, lead?, html }], faqs [[q, a]], related [paths of other pages].
+// sections [{ eyebrow?, h2, lead?, html }], faqs [[q, a]], related [paths of other pages], featuredPosts [post slugs pinned first in 'Related guides'].
 // Only use facts from the live site / business-info/FACTS.md: no invented results, clients, stats or prices.
 const cards = items => `<div class="pws-grid">${items.map(([t, d], i) => `<div class="pws-card"><div class="pws-icon${i % 3 ? ' c' + (i % 3 + 1) : ''}">${String(i + 1).padStart(2, '0')}</div><h3>${t}</h3><p>${d}</p></div>`).join('')}</div>`;
 const steps = items => `<div class="pws-steps">${items.map(([t, d]) => `<div class="pws-step"><h3>${t}</h3><p>${d}</p></div>`).join('')}</div>`;
@@ -11,9 +11,9 @@ const PRICING_NOTE = prose(`<p>Ongoing work runs on a monthly retainer: <strong>
 const SERVICES = [
   {
     type: 'service', path: '/services/seo-geo/', name: 'SEO &amp; GEO', serviceType: 'Search engine optimisation',
-    seoTitle: 'SEO & GEO Agency UK | Prism Works Studio',
-    description: 'SEO and generative engine optimisation for UK businesses: technical SEO, ecommerce SEO, content and visibility in Google AI Overviews and ChatGPT.',
-    eyebrow: 'SEO &amp; GEO', h1: 'SEO &amp; GEO that builds lasting organic growth',
+    seoTitle: 'SEO Agency UK | SEO & GEO Services | Prism Works Studio',
+    description: 'SEO agency for businesses in the UK and abroad: technical SEO, ecommerce SEO, content and GEO for visibility in Google AI Overviews and ChatGPT.',
+    eyebrow: 'SEO &amp; GEO', h1: 'SEO agency for lasting organic growth in search and AI answers',
     lead: 'We build SEO strategies that create lasting organic growth, not quick wins that disappear overnight. Using AI-powered tools, technical analysis and commercial intent research, we help your business rank for the searches that drive revenue, and get cited in AI answers too.',
     sections: [
       { h2: 'What our SEO &amp; GEO service includes', lead: 'Every engagement starts with an audit and a plan. We then work through the fixes and content that will move the needle for your business first.', html: cards([
@@ -41,12 +41,13 @@ const SERVICES = [
       ['Can you help after a website redesign lost rankings?', 'Yes. We check redirects, indexation, internal links and content changes to find what was lost and fix it. Planning the migration properly in advance is even better.'],
     ],
     related: ['/services/digital-pr-content/', '/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    featuredPosts: ['how-much-does-seo-cost-uk', 'technical-seo-agency-uk'],
   },
   {
     type: 'service', path: '/services/paid-media/', name: 'Paid Media', serviceType: 'Pay-per-click advertising management',
-    seoTitle: 'Paid Media & PPC Agency UK | Prism Works Studio',
-    description: 'Google Ads, Google Shopping, Meta, TikTok, LinkedIn and YouTube ads managed for UK businesses, with conversion tracking set up before spend scales.',
-    eyebrow: 'Paid media', h1: 'Paid media that makes every pound of ad spend work harder',
+    seoTitle: 'PPC Agency UK | Google Ads & Paid Social Management',
+    description: 'PPC and Google Ads agency managing Google Shopping, Meta, TikTok, LinkedIn and YouTube ads, with conversion tracking set up before spend scales.',
+    eyebrow: 'Paid media', h1: 'PPC and Google Ads agency that makes every pound of ad spend work harder',
     lead: 'We manage performance-driven paid media campaigns that put your brand in front of the right audience at the right moment. Whether you want leads, ecommerce sales or brand awareness, we combine smart targeting, compelling creative and rigorous optimisation.',
     sections: [
       { h2: 'Channels we manage', lead: 'We choose channels based on where your buyers are and how they buy, not on a fixed package.', html: cards([
@@ -74,6 +75,7 @@ const SERVICES = [
       ['Do you build landing pages for ads?', 'Yes. Landing page design is part of our website service, and pages are built around a single goal and tested to improve conversion rates.'],
     ],
     related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    featuredPosts: ['google-ads-agency-uk', 'ppc-management-cost-uk'],
   },
   {
     type: 'service', path: '/services/digital-pr-content/', name: 'Digital PR &amp; Content', serviceType: 'Digital PR and content marketing',
@@ -107,13 +109,14 @@ const SERVICES = [
       ['Can you update my old blog posts?', 'Yes. Refreshing posts that already have some visibility is often quicker to pay off than writing new ones.'],
     ],
     related: ['/services/seo-geo/', '/services/brand-strategy/', '/sectors/saas/', '/pricing/'],
+    featuredPosts: ['digital-pr-agency-uk', 'content-marketing-agency-uk'],
   },
   {
-    type: 'service', path: '/services/website-ecommerce-development/', name: 'Website &amp; Ecommerce Development', serviceType: 'Website and ecommerce development',
-    seoTitle: 'Shopify, WooCommerce & WordPress Development UK',
-    description: 'Fast, conversion-focused websites and online stores on Shopify, WooCommerce and WordPress for UK businesses, from new builds to redesigns and migrations.',
-    eyebrow: 'Website &amp; ecommerce development', h1: 'Websites and online stores built to convert',
-    lead: 'We design and build high-performance websites and ecommerce stores on Shopify, WooCommerce and WordPress. Whether you sell 10 products or 10,000, every build prioritises user experience, mobile performance and a seamless checkout.',
+    type: 'service', path: '/services/website-ecommerce-development/', name: 'Web Design &amp; Development', serviceType: 'Web design and development',
+    seoTitle: 'Web Design Agency UK | Shopify, WooCommerce & WordPress',
+    description: 'Web design agency for Shopify, WooCommerce and WordPress: websites and online stores, new builds, redesigns and migrations for the UK and abroad.',
+    eyebrow: 'Web design &amp; development', h1: 'Web design agency for websites and online stores that convert',
+    lead: 'As a web design and development agency, we design and build high-performance websites and ecommerce stores on Shopify, WooCommerce and WordPress. Whether you sell 10 products or 10,000, every build prioritises user experience, mobile performance and a seamless checkout.',
     sections: [
       { h2: 'What we build', html: cards([
         ['Custom website design', 'Brand-led websites designed around your goals and audience, with clear layouts that guide visitors to enquire or buy.'],
@@ -140,12 +143,13 @@ const SERVICES = [
       ['Do you migrate stores to Shopify?', 'Yes, including Shopify Plus migrations. We move products, customers and content where possible and map redirects from old URLs.'],
     ],
     related: ['/services/seo-geo/', '/services/paid-media/', '/sectors/ecommerce/', '/sectors/hospitality/'],
+    featuredPosts: ['website-design-cost-small-business-uk', 'bespoke-website-design-agency-uk'],
   },
   {
     type: 'service', path: '/services/brand-strategy/', name: 'Brand Strategy', serviceType: 'Brand strategy',
     seoTitle: 'Brand Strategy Agency UK | Prism Works Studio',
-    description: 'Brand strategy for UK businesses: positioning, messaging and visual identity that give your website, ads and content one clear, consistent voice.',
-    eyebrow: 'Brand strategy', h1: 'Brand strategy that makes every channel work together',
+    description: 'Brand strategy agency for businesses in the UK and abroad: positioning, messaging and visual identity that give every channel one consistent voice.',
+    eyebrow: 'Brand strategy', h1: 'Brand strategy agency that makes every channel work together',
     lead: 'A clear brand makes every campaign easier. We help you define who you are for, what makes you different and how you sound, then carry that through your website, ads and content.',
     sections: [
       { h2: 'What brand strategy covers', html: cards([
@@ -173,6 +177,7 @@ const SERVICES = [
       ['Can you work with our existing brand?', 'Yes. Many businesses need a sharper message rather than a new logo, and we will tell you honestly which you need.'],
     ],
     related: ['/services/website-ecommerce-development/', '/services/digital-pr-content/', '/sectors/hospitality/', '/sectors/education/'],
+    featuredPosts: ['brand-strategy-agency-uk', 'brand-identity-design-uk'],
   },
 ];
 

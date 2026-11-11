@@ -1,0 +1,74 @@
+{
+ "/": {
+  "hash": "23da783d34d856b495a54db96cee42e1",
+  "mod": "2026-11-11"
+ },
+ "/about-us/": {
+  "hash": "14787cdf898142cfce7d31b675b7d4c4",
+  "mod": "2026-11-11"
+ },
+ "/contact/": {
+  "hash": "31a4cbbb77c39406b31d47c1c911328b",
+  "mod": "2026-11-11"
+ },
+ "/pricing/": {
+  "hash": "7201ae85ef2f33263f637d5ec51183ca",
+  "mod": "2026-11-11"
+ },
+ "/sectors/": {
+  "hash": "d1a804fe5b8fa91481a625fc8ef50c78",
+  "mod": "2026-11-11"
+ },
+ "/sectors/b2b/": {
+  "hash": "cf80724e0435fc081687acc02c0700c7",
+  "mod": "2026-11-11"
+ },
+ "/sectors/ecommerce/": {
+  "hash": "7a44526c02c727382cbb34c00aa041d4",
+  "mod": "2026-11-11"
+ },
+ "/sectors/education/": {
+  "hash": "3b1233f568e22eea28d0829c8f2bbd9f",
+  "mod": "2026-11-11"
+ },
+ "/sectors/financial-advisers/": {
+  "hash": "0d8a6d9ac15cd8b3118246946289096e",
+  "mod": "2026-11-11"
+ },
+ "/sectors/healthcare/": {
+  "hash": "913653ef3b28420db4c38c36b90998e9",
+  "mod": "2026-11-11"
+ },
+ "/sectors/hospitality/": {
+  "hash": "909d58fc70fa3b4b80e3abe37b654f43",
+  "mod": "2026-11-11"
+ },
+ "/sectors/saas/": {
+  "hash": "41fb1c3c9d1e55f88e847bfe62b56188",
+  "mod": "2026-11-11"
+ },
+ "/services/": {
+  "hash": "e38b63f308482e8c10e32f5d885d4e58",
+  "mod": "2026-11-11"
+ },
+ "/services/brand-strategy/": {
+  "hash": "dba4179e60a4ba1992d42149e630352e",
+  "mod": "2026-11-11"
+ },
+ "/services/digital-pr-content/": {
+  "hash": "ed235d00679f1710f3a396e4e3ebd7bd",
+  "mod": "2026-11-11"
+ },
+ "/services/paid-media/": {
+  "hash": "2cc74939079385935619451b3cd53080",
+  "mod": "2026-11-11"
+ },
+ "/services/seo-geo/": {
+  "hash": "6a79e9ee44b333f26bba0290616d3335",
+  "mod": "2026-11-11"
+ },
+ "/services/website-ecommerce-development/": {
+  "hash": "e3c054a0767597db420568db9defbe31",
+  "mod": "2026-11-11"
+ }
+}
