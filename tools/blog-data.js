@@ -106963,4 +106963,793 @@ module.exports = [
 <p>The hosting account stays in your name. We help you choose a good host and set it up, so you keep full ownership.</p>
 `,
   },
+  {
+    slug: 'google-ads-agency-cambridge',
+    seoTitle: 'Google Ads Agency Cambridge: PPC for Local Businesses',
+    title: 'Google Ads Agency in Cambridge: Search, Shopping and Performance Max for Cambridgeshire Firms',
+    description: 'Need a Google Ads agency in Cambridge? Prism Works Studio sets up and manages search, Shopping and Performance Max campaigns remotely, from £350 a month.',
+    date: '2026-11-23',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/', '/sectors/saas/'],
+    body: `
+<p>A Google Ads agency in Cambridge should put your business in front of people who are actively searching for what you offer, at a cost that makes sense for your margins. Prism Works Studio builds and manages search, Shopping and Performance Max campaigns for Cambridgeshire firms, working remotely on clear monthly retainers.</p>
+<p>We are a UK-based web design and digital marketing studio. We do not have an office in Cambridge; we work through video calls, shared ad account access and plain-English reports. You keep ownership of your Google Ads account, and your ad spend is paid directly to Google.</p>
+
+<h2>Why Cambridge businesses use Google Ads</h2>
+<p>Cambridge has an unusual mix of buyers. Local residents search for trades, clinics, restaurants and shops. Students and visiting academics look for accommodation, tutoring and services. Science, technology and life sciences companies sell to other businesses across the UK and abroad. Each group searches differently, and Google Ads lets you reach exactly the searches that matter to you without waiting months for organic rankings.</p>
+<p>The catch is cost. Busy markets can push up the price of each click, and a poorly built account can spend its budget on irrelevant searches. Good management is mostly about focus: the right keywords, the right locations, honest tracking and landing pages that convert.</p>
+
+<h2>What our Google Ads management includes</h2>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers the full setup and ongoing management of your account:</p>
+<ul>
+<li><strong>Account audit:</strong> we review structure, keywords, search terms, bidding and tracking in any existing account.</li>
+<li><strong>Conversion tracking:</strong> GA4 and Google Ads conversions for calls, forms, bookings and sales. Our <a href="/blog/ga4-setup-uk/">GA4 setup guide</a> explains the basics.</li>
+<li><strong>Search campaigns:</strong> tightly themed ad groups, relevant ad copy and careful match types.</li>
+<li><strong>Shopping and Performance Max:</strong> product feeds and asset groups for online shops.</li>
+<li><strong>Negative keywords:</strong> regular search term reviews to block wasted spend.</li>
+<li><strong>Location and schedule targeting:</strong> focusing budget on the areas and hours that bring enquiries.</li>
+<li><strong>Landing page advice:</strong> clear pages that match each ad's promise.</li>
+<li><strong>Monthly reporting:</strong> spend, conversions and cost per lead explained with next steps.</li>
+</ul>
+
+<h2>Google Ads agency Cambridge: campaign types we run</h2>
+<table>
+<thead>
+<tr><th>Campaign type</th><th>Best suited to</th><th>What we focus on</th></tr>
+</thead>
+<tbody>
+<tr><td>Search</td><td>Local services, professional firms, B2B lead generation</td><td>Keyword intent, ad copy, negative keywords, call and form tracking</td></tr>
+<tr><td>Shopping</td><td>Online shops with clear products and prices</td><td>Feed quality, product titles, category bids</td></tr>
+<tr><td>Performance Max</td><td>Shops and lead businesses with good tracking</td><td>Asset groups, audience signals, search term insight</td></tr>
+<tr><td>Brand search</td><td>Firms with competitors bidding on their name</td><td>Protecting brand searches at a low cost</td></tr>
+<tr><td>Remarketing</td><td>Longer buying cycles, B2B and higher-value services</td><td>Bringing back visitors who did not convert first time</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> and <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping ads guide</a> explain how those campaign types work in more detail.</p>
+
+<h2>Google Ads for local Cambridge services</h2>
+<p>For trades, clinics, salons, solicitors and other local firms, we usually start with search campaigns targeted at Cambridge and the areas you serve, such as Chesterton, Cherry Hinton, Trumpington, Histon, Milton, Ely, St Ives or Royston. We set radius or postcode targeting carefully so you do not pay for clicks from people you cannot serve.</p>
+<p>Call tracking matters for local firms because many customers phone rather than fill in a form. We set up call conversions so you can see which keywords lead to real conversations, then move budget toward them.</p>
+
+<h2>Google Ads for Cambridge technology and B2B firms</h2>
+<p>Technology, software and science companies often sell to specialist buyers with long decision cycles. Search volume for niche terms can be small, so every click needs to count. We build campaigns around problem-based and product searches, add remarketing for return visits and track early actions such as demo requests or downloads alongside final enquiries.</p>
+<p>If you sell software, our <a href="/sectors/saas/">SaaS marketing page</a> explains how we combine paid search with SEO and content. Some B2B firms also do well on LinkedIn, which we can run alongside Google Ads.</p>
+
+<h2>How we manage your budget</h2>
+<p>Your ad spend is separate from our fee and goes straight to Google. We agree a starting budget with you based on your goals and the likely cost of the searches you want. In the first weeks we watch search terms closely, add negative keywords and pause anything that is not pulling its weight.</p>
+<p>We prefer to start narrow and expand once we know what works. A smaller, well-focused account usually beats a large one spread thinly across many loosely related keywords.</p>
+
+<h2>Pricing for Google Ads management</h2>
+<p>Our monthly retainers are listed on our <a href="/pricing/">pricing page</a>:</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> one focused campaign for a local or single-service business.</li>
+<li><strong>Growth, £750 a month:</strong> several campaigns, Shopping or remarketing, and regular landing page testing.</li>
+<li><strong>Scale, £1,500 a month:</strong> larger accounts, multiple channels or busy online shops.</li>
+</ul>
+<p>Ad spend is paid separately to Google. If you need a landing page or new website first, a small website costs £1,000 to £2,000. Our guide to <a href="/blog/ppc-management-cost-uk/">PPC management costs in the UK</a> compares common fee models.</p>
+
+<h2>How long until Google Ads works</h2>
+<p>Ads can show within days of launch, so you can see clicks and early enquiries quickly. Getting the account to a steady, efficient cost per lead takes longer, and paid results typically settle over 3 to 6 months as we gather data and refine targeting, bids and ads.</p>
+<p>We will not promise a fixed number of leads, because results depend on your market, offer, prices and website. We will explain what the data shows each month and what we are changing as a result.</p>
+
+<h2>Landing pages make or break your ads</h2>
+<p>Even the best campaign struggles if visitors land on a slow or confusing page. Every ad should lead to a page that repeats the promise, shows prices or next steps clearly and makes calling or booking simple on a phone. Our <a href="/blog/landing-page-design-uk/">landing page design guide</a> covers the essentials, and our <a href="/blog/web-design-cambridge/">web design in Cambridge</a> post explains how we build full sites.</p>
+
+<h2>Signs your current account needs help</h2>
+<ul>
+<li>You cannot see which keywords bring in calls or sales.</li>
+<li>The search terms report shows lots of irrelevant searches.</li>
+<li>All your keywords sit in one or two large ad groups.</li>
+<li>Performance Max is running without proper conversion tracking.</li>
+<li>Your budget runs out before lunchtime most days.</li>
+<li>Nobody has reviewed the account in months.</li>
+</ul>
+<p>If several of these sound familiar, an audit is a good first step. Our <a href="/blog/google-ads-agency-uk/">UK Google Ads agency guide</a> also explains what to expect from any management partner.</p>
+
+<h2>What happens in the first month</h2>
+<p>The first month sets the foundations for everything that follows. We begin with a discovery call to understand your services, margins, target areas and the enquiries that matter most. If you already have an account, we audit it and record a baseline so later changes can be judged fairly.</p>
+<p>Next we check or rebuild conversion tracking, because bidding decisions are only as good as the data behind them. We then build or restructure campaigns, write new ads, add a starting list of negative keywords and set sensible location and schedule targeting. Before anything goes live, you review the plan and the ad copy.</p>
+<p>Once ads are running, we look at the search terms report often in the early weeks, since this is where most wasted spend shows up. By the end of the month you receive a short report covering spend, clicks, conversions, what we changed and what we plan to test next.</p>
+
+<h2>Regulated and sensitive sectors</h2>
+<p>Some Cambridge businesses, such as clinics, financial firms and education providers, face extra rules on what their ads can say. Google also has its own policies for areas like healthcare and financial services. We keep ad copy factual and point you to official guidance, but approval of claims and wording rests with you and your own advisers or compliance team.</p>
+
+<h2>Working with firms across Cambridgeshire</h2>
+<p>We work with businesses in Cambridge and nearby towns such as Ely, Huntingdon, St Neots, Newmarket, Saffron Walden and Royston, as well as Cambridge companies that sell across the UK. Because we work remotely, location does not limit what we can manage for you.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose a Google Ads agency in Cambridge?</h3>
+<p>Look for clear fees, honest reporting, proper conversion tracking and an agency that lets you keep full ownership of your Google Ads account.</p>
+<h3>Do you have an office in Cambridge?</h3>
+<p>No. Prism Works Studio is a UK-based studio that works remotely, using video calls, shared account access and monthly reports.</p>
+<h3>How much does Google Ads management cost?</h3>
+<p>Our retainers start at £350 a month, with Growth at £750 and Scale at £1,500. Ad spend is paid separately to Google.</p>
+<h3>Can you take over an existing Google Ads account?</h3>
+<p>Yes. We start with an audit, fix tracking and structure problems, then improve the account step by step rather than rebuilding everything at once.</p>
+<h3>Do you run Shopping and Performance Max campaigns?</h3>
+<p>Yes. We set up product feeds, Shopping campaigns and Performance Max asset groups for online shops, with tracking in place first.</p>
+<h3>How quickly will I see results from Google Ads?</h3>
+<p>Ads can bring clicks within days, but an efficient, stable account typically takes 3 to 6 months of data and refinement.</p>
+`,
+  },
+  {
+    slug: 'google-ads-agency-egypt',
+    seoTitle: 'Google Ads Agency Egypt: Search, Shopping and PMax',
+    title: 'Google Ads Agency for Egypt: Search, Shopping and Performance Max',
+    description: 'A Google Ads agency for Egypt: search, Shopping and Performance Max campaigns for Cairo and Alexandria firms from a UK-based remote studio, no local office.',
+    date: '2026-11-23',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>A Google Ads agency for Egypt plans, builds and manages paid search campaigns so that people searching in Cairo, Alexandria, Giza and beyond find your business at the moment they are ready to buy or enquire. Prism Works Studio sets up and runs Google Ads for Egyptian businesses, from service firms and clinics to online stores and exporters, working remotely from the UK.</p>
+<p>We are a UK-based web design and digital marketing studio. We have no office in Egypt or anywhere in the Middle East. We work through video calls, shared dashboards and written reports, and we plan calls around Egypt time. Prism writes in English. Arabic ad copy and landing page content comes from your team or a translator, and we build campaigns and pages around that copy.</p>
+
+<h2>Why Google Ads matters for Egyptian businesses</h2>
+<p>Egypt has a large, young and mobile-first online population, and Google remains the main place people go when they want to compare options, check prices or find a supplier. Searches happen in Arabic, in English and in a mix of both, often typed in Franco-Arabic or with English brand names. That makes careful keyword planning more important than in single-language markets.</p>
+<p>Search ads give you control. You choose the searches you appear for, the areas you target, the hours you run and the budget you spend each day. When campaigns are built properly, you can see which keywords lead to calls, forms and WhatsApp messages, and move budget towards what works.</p>
+<p>We work with businesses such as:</p>
+<ul>
+<li><strong>Service firms</strong> in Cairo, New Cairo, Sheikh Zayed and the 6th of October area that want more qualified enquiries.</li>
+<li><strong>Clinics and healthcare providers</strong> promoting specific treatments, within the platform and local rules.</li>
+<li><strong>Online stores</strong> that want Shopping and Performance Max campaigns tied to a clean product feed.</li>
+<li><strong>Education and training providers</strong> recruiting students for courses and programmes.</li>
+<li><strong>Exporters and B2B suppliers</strong> targeting buyers in the Gulf, the UK or Europe from an Egyptian base.</li>
+</ul>
+
+<h2>Google Ads agency Egypt: what we set up</h2>
+<p>Most accounts we take on need the same foundations before scaling. This table shows the core pieces and how we approach each one.</p>
+<table>
+<thead>
+<tr><th>Area</th><th>What we do</th><th>Why it matters</th></tr>
+</thead>
+<tbody>
+<tr><td>Account structure</td><td>Separate campaigns by service, language and location</td><td>Clear budgets and cleaner reporting</td></tr>
+<tr><td>Keyword research</td><td>Arabic, English and mixed-language search terms</td><td>Covers how people really search in Egypt</td></tr>
+<tr><td>Conversion tracking</td><td>Calls, forms, WhatsApp clicks and purchases</td><td>Lets Google optimise towards real enquiries</td></tr>
+<tr><td>Landing pages</td><td>Fast, focused pages that match each ad group</td><td>Better quality scores and conversion rates</td></tr>
+<tr><td>Shopping feed</td><td>Product data checked in Merchant Center</td><td>Needed for Shopping and Performance Max</td></tr>
+<tr><td>Reporting</td><td>Plain-English monthly reports and call reviews</td><td>You see what the budget is doing</td></tr>
+</tbody>
+</table>
+<p>Our full <a href="/services/paid-media/">paid media service</a> explains how we manage Google, Meta and other platforms together, and our guide to <a href="/blog/google-ads-agency-saudi-arabia/">Google Ads in Saudi Arabia</a> covers a larger Gulf account in more detail.</p>
+
+<h2>Search campaigns in Arabic and English</h2>
+<p>Search campaigns are usually the best starting point because they capture people who are already looking. In Egypt we often build separate ad groups for Arabic and English searches, because the intent, wording and even the landing page can differ. A searcher typing in English may be an expat, a company buyer or someone comparing international brands, while Arabic searches may come from a wider local audience.</p>
+<p>We pay close attention to:</p>
+<ul>
+<li><strong>Negative keywords</strong>, so you do not pay for job searches, free downloads or unrelated meanings.</li>
+<li><strong>Location settings</strong>, so ads reach people in the governorates you actually serve, not everyone with an interest in Egypt.</li>
+<li><strong>Ad schedules</strong>, so budget is focused on the hours when your team can answer calls and messages.</li>
+<li><strong>Assets</strong> such as call, location, sitelink and price assets that make ads more useful.</li>
+</ul>
+<p>If your landing pages are slow or unclear, we fix them first. Our <a href="/blog/web-design-cairo/">Cairo web design guide</a> explains how we build fast pages for Egyptian businesses.</p>
+
+<h2>Shopping and Performance Max for online stores</h2>
+<p>Egyptian e-commerce has grown quickly, and many stores now want Shopping ads that show product images and prices directly in search results. These campaigns depend on a clean Merchant Center feed with accurate titles, prices, availability and shipping details. We review the feed, fix common errors and set up product groups so best sellers get the right share of budget.</p>
+<p>Performance Max can work well once conversion tracking is reliable, but it needs good inputs: strong product data, clear audience signals and decent images. We usually start with Standard Shopping or a tightly controlled Performance Max campaign, watch search terms and placements, and expand only when the numbers support it.</p>
+<p>Cash on delivery is still common in Egypt, so we talk with you about how to count and track orders that are placed online but paid at the door, and how returns and cancelled orders affect the figures you report back to Google.</p>
+
+<h2>Tracking calls, forms and WhatsApp</h2>
+<p>Many Egyptian customers prefer to call or message on WhatsApp rather than fill in a form. If those actions are not tracked, Google has no idea which ads work. We set up tracking for:</p>
+<ul>
+<li>Calls from ads and from your website, using Google forwarding numbers where available.</li>
+<li>Clicks on WhatsApp buttons and links on your landing pages.</li>
+<li>Form submissions and thank-you pages.</li>
+<li>Online purchases, with values sent from your store where the platform allows it.</li>
+</ul>
+<p>We also recommend a simple way for your team to note which enquiries became real customers, so we can judge campaigns on business value, not just clicks.</p>
+
+<h2>Costs and budgets</h2>
+<p>Our management fees are in pounds sterling. Egyptian pound pricing is quoted on request. Ad spend is paid directly to Google and is separate from our fee.</p>
+<ul>
+<li><strong>Launch</strong> at £350 a month, suited to a single search campaign or a small account.</li>
+<li><strong>Growth</strong> at £750 a month, for several campaigns, Shopping or more than one language.</li>
+<li><strong>Scale</strong> at £1,500 a month, for larger accounts, multiple markets or heavier testing.</li>
+</ul>
+<p>The <a href="/pricing/">pricing page</a> explains what each retainer includes. If you need new landing pages, a smaller website costs £1,000 to £2,000 and an e-commerce site £1,500 to £3,500. Paid search campaigns typically take 3 to 6 months to settle into steady performance, as tracking data builds and we refine keywords and bids.</p>
+
+<h2>SEO and Google Ads together</h2>
+<p>Paid search brings fast visibility, but every click costs money. Organic search builds slowly and keeps working. Many Egyptian businesses do best with both: ads to capture demand now, and SEO to reduce reliance on paid clicks over time. Search term reports from Google Ads also show which phrases convert, which helps decide which pages to build for organic search. Our <a href="/blog/seo-agency-egypt/">SEO agency guide for Egypt</a> covers the organic side.</p>
+<p>Some businesses also add social ads for awareness and retargeting. Our guide to <a href="/blog/meta-ads-agency-amman/">Meta ads in Amman</a> shows how we run Meta campaigns in a nearby Arabic-speaking market.</p>
+
+<h2>Targeting the Gulf and other markets from Egypt</h2>
+<p>Some Egyptian businesses sell to customers outside Egypt, such as software firms, outsourcing providers, education platforms and exporters. In those cases we set up separate campaigns for each target country, with their own budgets, languages and landing pages. Costs per click in the Gulf are usually very different from Egypt, so mixing them in one campaign makes results hard to read.</p>
+<p>Our guides to <a href="/blog/google-ads-agency-dubai/">Google Ads in Dubai</a> and <a href="/blog/google-ads-agency-jordan/">Google Ads in Jordan</a> cover two of the markets Egyptian firms often target.</p>
+
+<h2>Rules and policies to keep in mind</h2>
+<p>Google has its own advertising policies, and some sectors, such as healthcare, finance and education, face extra checks or restrictions. Egyptian law also covers consumer protection, data and certain regulated professions. We keep campaigns within Google's policies and flag anything that looks risky, but legal and compliance approval rests with you. Please check official Egyptian guidance or your own adviser before promoting regulated services.</p>
+
+<h2>Using AI-powered tools carefully</h2>
+<p>We use AI-powered tools to speed up keyword research, group search terms and draft first versions of English ad copy. Every recommendation is reviewed by us before it goes into your account, and Arabic copy is always checked by a fluent speaker on your side. Our <a href="/blog/ai-marketing-agency-dubai/">AI marketing guide for Dubai</a> explains how we use these tools across the region.</p>
+
+<h2>How we work with Egyptian businesses</h2>
+<ol>
+<li><strong>Audit or discovery.</strong> We review your existing account, or learn about your services, margins and targets.</li>
+<li><strong>Plan.</strong> We propose campaigns, budgets, languages and landing page changes.</li>
+<li><strong>Build.</strong> We set up tracking, campaigns and assets, and share everything for approval.</li>
+<li><strong>Launch and optimise.</strong> We watch search terms, adjust bids and test ads every week.</li>
+<li><strong>Report.</strong> You get a clear monthly report and a call to agree next steps.</li>
+</ol>
+<p>You keep ownership of your Google Ads account and data at all times. If you already work with someone else, we can audit the account first so you can decide whether a change makes sense.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Google Ads agency in Egypt do?</h3>
+<p>A Google Ads agency in Egypt plans keywords, builds campaigns, writes ads, sets up tracking and manages bids and budgets so your ads reach people searching for your products or services, then reports on results.</p>
+<h3>Do you have an office in Egypt?</h3>
+<p>No. Prism Works Studio is UK-based and works remotely. We have no office in Cairo, Alexandria or anywhere in Egypt, and we work by video call, shared dashboards and written reports.</p>
+<h3>How much does Google Ads management cost?</h3>
+<p>Our retainers start at £350 a month, with Growth at £750 and Scale at £1,500. Ad spend is paid separately to Google. Egyptian pound pricing is quoted on request.</p>
+<h3>Can you run ads in Arabic?</h3>
+<p>Yes. We build Arabic campaigns and ad groups. Prism writes in English, so Arabic ad copy comes from your team or a translator, and we structure and test it within the account.</p>
+<h3>Do you work with online stores in Egypt?</h3>
+<p>Yes. We set up Shopping and Performance Max campaigns, check Merchant Center feeds and track online orders, including how cash on delivery orders are counted.</p>
+<h3>How long before Google Ads works?</h3>
+<p>Campaigns can bring clicks within days, but they typically take 3 to 6 months to settle as tracking data builds and we refine keywords, bids and landing pages.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-agency-stockholm',
+    seoTitle: 'Meta Ads Agency Stockholm: Facebook and Instagram Ads',
+    title: 'Meta Ads Agency for Stockholm Businesses: Facebook and Instagram Ads',
+    description: 'Need a Meta ads agency in Stockholm? We plan, build and manage Facebook and Instagram campaigns remotely from the UK, with clear tracking and monthly reports.',
+    date: '2026-11-23',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>A Meta ads agency for a Stockholm business plans, builds and manages Facebook and Instagram campaigns that turn attention into sales, bookings or leads. Prism Works Studio does this remotely from the UK for ecommerce brands, service companies and consumer startups in Stockholm, with tracking you can trust and reporting you can read in a few minutes.</p>
+<p>We are a UK-based web design and digital marketing studio. We have no office in Stockholm or anywhere in Sweden. We work through video calls, shared ad previews, a shared reporting dashboard and written monthly reports, and we plan calls around Central European Time. Prism writes in English. Swedish ad copy and landing page text comes from your team or a translator, and we brief them on the format, length and angle each ad needs.</p>
+
+<h2>Who we work with in Stockholm</h2>
+<p>Stockholm has a busy mix of direct-to-consumer brands, design-led retailers, tech startups, restaurants, fitness studios and professional services. Meta ads suit businesses that sell something people can want before they search for it. We typically work with:</p>
+<ul>
+<li><strong>Ecommerce brands</strong> selling fashion, homeware, beauty, outdoor gear or food online, often to customers across Sweden and the Nordics.</li>
+<li><strong>Consumer apps and subscriptions</strong> that need steady sign-ups at a cost they can sustain.</li>
+<li><strong>Local service businesses</strong> such as clinics, gyms, salons and studios that want booked appointments from people nearby.</li>
+<li><strong>Hospitality and events</strong> that need to fill tables, rooms or tickets in a specific window.</li>
+<li><strong>B2B companies</strong> that use Meta for retargeting and awareness alongside search and LinkedIn.</li>
+</ul>
+<p>If most of your demand already comes from people searching for a product by name, search ads may be the better first step. Our guide to <a href="/blog/google-ads-agency-stockholm/">Google Ads for Stockholm businesses</a> covers that side.</p>
+
+<h2>What a Meta ads agency in Stockholm should do for you</h2>
+<p>Good Meta ads management is less about clever targeting tricks and more about doing the basics properly and testing with discipline. Here is what we handle.</p>
+<h2>Tracking before spend</h2>
+<p>We start by checking that the Meta pixel and the Conversions API are sending the right events, such as purchases, leads, add-to-carts and bookings, with the right values. On Shopify and WordPress this usually means checking the official integrations, removing duplicate events and confirming that consent choices are respected. Without clean tracking the algorithm optimises towards the wrong signals and your reports mislead you.</p>
+<p>Sweden follows the EU GDPR and the ePrivacy rules on cookies and tracking. We set up consent-aware tracking in a general, practical way, but the legal decisions about your cookie banner and privacy policy rest with you and your own adviser. The Swedish data protection authority, IMY, publishes official guidance worth reading.</p>
+<h2>Account structure and audiences</h2>
+<p>We keep campaign structures simple so that the algorithm has enough data to learn. That usually means a small number of campaigns split by goal, such as prospecting, retargeting and customer retention, with broad or lookalike audiences rather than dozens of narrow interest groups. For Stockholm local businesses we use location targeting around the areas you actually serve, whether that is Södermalm, Östermalm, Kungsholmen, the inner city or the wider Stockholm region.</p>
+<h2>Creative testing</h2>
+<p>Creative is the biggest lever in Meta ads. We plan tests around hooks, offers, formats and angles, write English copy variations, and brief your team on the static images, carousels and short clips you supply. Prism does not film or edit video, so motion assets come from your team, your photographer or a production partner you choose. We then read the results and tell you which ideas to make more of.</p>
+<h2>Landing pages and offers</h2>
+<p>An ad can only be as good as the page it sends people to. We review your product pages, landing pages and checkout for speed, clarity and trust signals, and suggest changes. If your site needs more than tweaks, we can rebuild it as part of a website project.</p>
+
+<h2>How we price Meta ads management</h2>
+<p>Our prices are in pounds sterling. Swedish krona and euro pricing is quoted on request. Ad spend is always paid separately, directly to Meta from your own ad account, so you keep full ownership of the account, the pixel and the data.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Typical fit</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350 a month</td><td>One channel, a focused campaign set and a monthly report</td></tr>
+<tr><td>Growth</td><td>£750 a month</td><td>Meta plus another channel, regular creative tests and fortnightly check-ins</td></tr>
+<tr><td>Scale</td><td>£1,500 a month</td><td>Several channels or markets, deeper testing and landing page work</td></tr>
+</tbody>
+</table>
+<p>You can see what each plan includes on our <a href="/pricing/">pricing page</a>, and more about how we run campaigns on our <a href="/services/paid-media/">paid media service page</a>. For a sense of how budgets are usually set, our guide to <a href="/blog/meta-ads-cost-uk/">Meta ads costs</a> explains the moving parts, which apply in Sweden as well as the UK.</p>
+
+<h2>Selling across Sweden and the Nordics</h2>
+<p>Many Stockholm brands sell nationally and then expand into Norway, Denmark and Finland. Meta makes it easy to target several countries from one account, but it is rarely wise to lump them together in one campaign. Languages, prices, delivery promises and returns differ, and each market needs ads and landing pages that match. Our guide to <a href="/blog/meta-ads-multiple-countries/">running Meta ads in multiple countries</a> explains how we structure this.</p>
+<p>Swedish shoppers are used to smooth checkouts. Showing the payment methods people expect, such as Klarna or Swish where your platform supports them, along with clear delivery times and return terms, often matters as much as the ad itself. If your store runs on Shopify, our guide to <a href="/blog/shopify-agency-sweden/">Shopify for Swedish brands</a> covers the store side.</p>
+
+<h2>Meta ads compared with other channels</h2>
+<p>Meta is rarely the only channel a Stockholm business needs. The right mix depends on how your customers find you.</p>
+<ul>
+<li><strong>Meta ads</strong> create demand by showing your product to people who were not looking for it yet. They suit visual products, offers and local services.</li>
+<li><strong>Google Ads</strong> capture demand from people already searching. They suit urgent needs and known product categories.</li>
+<li><strong>TikTok ads</strong> reach a younger audience with native short-form content. See our guide to <a href="/blog/tiktok-ads-agency-sweden/">TikTok ads in Sweden</a>.</li>
+<li><strong>SEO</strong> builds long-term organic visibility. Our guide to <a href="/blog/seo-agency-stockholm/">SEO for Stockholm businesses</a> explains how that works.</li>
+</ul>
+<p>We often run Meta alongside one of these, with a shared report so you can see how each channel contributes.</p>
+
+<h2>How AI fits into our Meta ads work</h2>
+<p>Meta's own tools, such as Advantage+ campaigns and automated placements, use machine learning heavily. We use them where they help and keep manual control where they do not. We also use AI-powered tools in our own workflow to draft copy variations, group search and comment themes, and spot patterns in reporting. A person on our team checks every output before it goes live, and nothing is published in your name without your approval.</p>
+
+<h2>Our process</h2>
+<ol>
+<li><strong>Discovery call.</strong> We learn about your products, margins, customers and goals, and look at any past campaign data.</li>
+<li><strong>Audit and tracking.</strong> We review your ad account, pixel, Conversions API and landing pages, and fix the tracking gaps first.</li>
+<li><strong>Plan.</strong> We agree goals, budgets, audiences, creative tests and reporting.</li>
+<li><strong>Launch.</strong> We build campaigns in your ad account and send previews for sign-off.</li>
+<li><strong>Test and improve.</strong> We review results weekly, refresh creative, shift budget to what works and pause what does not.</li>
+<li><strong>Report.</strong> You get a plain-English monthly report covering spend, results, what we learned and what we will try next.</li>
+</ol>
+<p>Paid social and search results typically take three to six months to settle into a reliable pattern, because the first weeks are spent learning what works. We will not promise a particular return on ad spend, because it depends on your product, prices, site and market.</p>
+
+<h2>Choosing a Meta ads agency in Stockholm</h2>
+<p>Whether you pick us or someone else, a few questions help you judge any agency:</p>
+<ul>
+<li>Will the ad account, pixel and data stay in my name?</li>
+<li>How will you check that tracking is accurate before spending money?</li>
+<li>How often will you test new creative, and who supplies it?</li>
+<li>What will the monthly report show, and how will you explain it?</li>
+<li>How much notice do I need to give to stop working together?</li>
+</ul>
+<p>If an agency cannot answer these clearly, keep looking. For more on what to expect from a Meta partner, see our guide to <a href="/blog/meta-ads-agency-uk/">choosing a Meta ads agency</a>.</p>
+
+<h2>FAQs</h2>
+<h3>Is there a Meta ads agency in Stockholm that works remotely?</h3>
+<p>Yes. Prism Works Studio is a UK-based studio that manages Facebook and Instagram ads for Stockholm businesses remotely. We have no office in Stockholm or Sweden, and we work through video calls, shared previews and written reports.</p>
+<h3>How much does a Meta ads agency in Stockholm cost?</h3>
+<p>Our management retainers are £350, £750 or £1,500 a month depending on scope. Ad spend is paid separately to Meta. Swedish krona and euro pricing is quoted on request.</p>
+<h3>Can you write Meta ads in Swedish?</h3>
+<p>Prism writes in English. Swedish ad copy comes from your team or a translator, and we brief them on length, format and the angle each ad needs to test.</p>
+<h3>Do you make the videos for our ads?</h3>
+<p>No. We do not film or edit video. We plan the creative tests and brief your team, photographer or production partner, then use the assets you supply in campaigns.</p>
+<h3>How long before Meta ads show results?</h3>
+<p>Early signals often appear within weeks, but campaigns typically take three to six months to settle, as the account learns and creative tests build up evidence about what works.</p>
+<h3>Who owns the ad account and data?</h3>
+<p>You do. We work inside your own Meta Business account with access you grant, and you pay Meta directly, so the account, pixel and audiences stay yours if we stop working together.</p>
+`,
+  },
+  {
+    slug: 'real-estate-marketing-winnipeg',
+    seoTitle: 'Real Estate Marketing Winnipeg: Websites, SEO and Ads',
+    title: 'Real Estate Marketing in Winnipeg: Websites, Local SEO and Ads',
+    description: 'Real estate marketing in Winnipeg: agent websites, local SEO, Google and Meta ads for realtors, brokerages and developers from a UK-based remote studio.',
+    date: '2026-11-23',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Real estate marketing in Winnipeg is about reaching buyers, sellers and investors when they start their search, and giving them a clear reason to call you instead of the next realtor. Prism Works Studio builds real estate websites, improves local search visibility and runs Google and Meta ads for agents, teams, brokerages, developers and property managers in Winnipeg and across Manitoba, working remotely from the UK.</p>
+<p>We are a UK-based web design and digital marketing studio. We have no office in Winnipeg, in Manitoba or anywhere in Canada. We work through video calls, shared previews and written reports, and we plan calls around Central Time. Prism writes in English. If you need pages in French or another language, that content comes from your team or a translator.</p>
+
+<h2>Who we work with in Winnipeg</h2>
+<p>Winnipeg is a market of established neighbourhoods, newer suburban developments, character homes, condos near downtown and a steady flow of newcomers and first-time buyers. We work with:</p>
+<ul>
+<li><strong>Individual realtors and teams</strong> that want their own brand and lead flow alongside their brokerage.</li>
+<li><strong>Brokerages</strong> that need a site with agent profiles, office information and recruitment pages.</li>
+<li><strong>New-home builders and developers</strong> launching communities on the edges of the city and in nearby towns.</li>
+<li><strong>Property managers</strong> who want more landlord enquiries and better tenant applications.</li>
+<li><strong>Related businesses</strong> such as mortgage brokers, home inspectors, stagers and renovators.</li>
+</ul>
+
+<h2>Real estate marketing Winnipeg: channels and costs</h2>
+<p>Most real estate businesses get the best return from a strong website plus two or three channels run consistently. This table shows the main options and our price guide. Prices are in pounds sterling; Canadian dollar pricing is quoted on request. Ad spend is paid separately to each platform.</p>
+<table>
+<thead>
+<tr><th>Channel</th><th>What it does</th><th>Price guide</th></tr>
+</thead>
+<tbody>
+<tr><td>Real estate website</td><td>Agent or brokerage site with listings integration, neighbourhood pages and valuation forms</td><td>£1,000 to £2,000 for a smaller site</td></tr>
+<tr><td>Local SEO</td><td>Visibility for searches such as homes for sale in St. Vital or Winnipeg realtor</td><td>Retainer from £350 a month</td></tr>
+<tr><td>Google Ads</td><td>Search ads for seller valuations, buyer searches and new-home enquiries</td><td>Retainer plus ad spend</td></tr>
+<tr><td>Meta and Instagram Ads</td><td>Listings, open houses and community launches shown to local audiences</td><td>Retainer plus ad spend</td></tr>
+<tr><td>LinkedIn Ads</td><td>Agent recruitment and commercial or investor property campaigns</td><td>Retainer plus ad spend</td></tr>
+</tbody>
+</table>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. The <a href="/pricing/">pricing page</a> explains what each level includes.</p>
+
+<h2>A real estate website built for enquiries</h2>
+<p>Many realtor websites are templates that look the same as every other agent's. Sellers and buyers notice, and they have little reason to get in touch. We design real estate websites that:</p>
+<ul>
+<li>Lead with a clear offer for sellers, such as a simple home valuation request.</li>
+<li>Connect to a listings feed where your brokerage and board permit it.</li>
+<li>Include neighbourhood pages with genuinely useful information about each area you serve.</li>
+<li>Show your brokerage details and contact information clearly on every page.</li>
+<li>Load quickly on phones, where most property browsing happens.</li>
+<li>Make it easy to book a call or request a showing without hunting for a form.</li>
+</ul>
+<p>Our <a href="/blog/estate-agent-website-design-uk/">estate agent website design guide</a> covers the design principles in more detail, and our <a href="/blog/web-design-winnipeg/">Winnipeg web design guide</a> explains how we build for businesses in the city.</p>
+
+<h2>Local SEO for Winnipeg realtors</h2>
+<p>Property search is local. People search by neighbourhood, by home type and by life stage, such as bungalows in River Heights, condos in the Exchange District, family homes in Bridgwater or starter homes in Transcona. We help agents rank for those searches by:</p>
+<ul>
+<li>Writing helpful neighbourhood pages with real detail, not copied boilerplate.</li>
+<li>Optimising your Google Business Profile with accurate categories, service areas and photos.</li>
+<li>Building a steady, honest review routine with past clients.</li>
+<li>Fixing technical problems such as slow pages and duplicate listing URLs.</li>
+<li>Publishing guides that answer the questions buyers and sellers actually ask.</li>
+</ul>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> explains how we approach search and AI answers. The <a href="/blog/seo-agency-winnipeg/">Winnipeg SEO agency guide</a> covers local search in the city, and our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains profile basics that apply in Canada too.</p>
+
+<h2>Google Ads for sellers, buyers and builders</h2>
+<p>Search ads work when people are actively looking. We separate campaigns by goal so budgets are easy to control and results are easy to read:</p>
+<ul>
+<li><strong>Seller campaigns</strong> for searches about selling a home or getting a valuation in a specific area.</li>
+<li><strong>Buyer campaigns</strong> for searches about a property type or neighbourhood.</li>
+<li><strong>New-home campaigns</strong> for builders promoting a community, show home or release.</li>
+<li><strong>Brand campaigns</strong> so people searching your name find you first.</li>
+</ul>
+<p>Every campaign sends people to a matching landing page and we track calls and form enquiries. Our guide to <a href="/blog/google-ads-agency-winnipeg/">Google Ads in Winnipeg</a> explains our setup in more depth.</p>
+
+<h2>Meta and Instagram ads for listings and launches</h2>
+<p>Facebook and Instagram are useful for putting homes, open houses and new communities in front of local audiences. Housing ads on Meta may need to run under its special ad category rules, which restrict some targeting options, so we plan campaigns around the rules that currently apply. We use Meta ads to:</p>
+<ul>
+<li>Promote new listings and open houses using your photography.</li>
+<li>Build interest in new communities ahead of a release.</li>
+<li>Retarget people who viewed your valuation or listing pages.</li>
+<li>Share market guides that bring future sellers into your pipeline.</li>
+</ul>
+<p>Prism does not film or edit video. If your team or photographer supplies walkthrough clips, we can use them in campaigns. Our guide to <a href="/blog/meta-ads-agency-winnipeg/">Meta ads in Winnipeg</a> has more detail.</p>
+
+<h2>Marketing for builders and new communities</h2>
+<p>Builders and developers have different needs from individual agents. A community website needs to explain location, lot types, floor plans, show home hours and timelines, and collect registrations well before releases. For builders we typically create a focused project site, run search and social campaigns to grow a registration list, and set up clear reporting on enquiries and show home visits. Our <a href="/blog/property-developer-marketing-uk/">property developer marketing guide</a> covers the approach in more detail.</p>
+
+<h2>Seasonality in the Winnipeg market</h2>
+<p>Winnipeg winters are long, and activity often picks up in spring and early summer. That does not mean marketing should stop in winter. Quieter months are a good time to build your website, publish neighbourhood guides and collect seller leads who plan to list in spring. We plan budgets around your own calendar, so ad spend rises when buyers and sellers are most active and content work carries on all year.</p>
+
+<h2>Advertising rules and privacy</h2>
+<p>Real estate is a regulated profession. At a general level, real estate advertising in Manitoba is subject to provincial rules, and your brokerage may have its own policies on how listings, names and claims appear. Commercial emails are covered by CASL, Canada's anti-spam law, and personal information is generally covered by PIPEDA.</p>
+<p>We build clear disclaimers, consent forms and privacy page templates, but compliance approval rests with you and your brokerage. Please check guidance from the provincial regulator, the Office of the Privacy Commissioner of Canada or your own adviser before campaigns go live.</p>
+
+<h2>Common real estate marketing mistakes</h2>
+<ul>
+<li>Relying only on brokerage pages, with no website or brand of your own.</li>
+<li>Neighbourhood pages that repeat the same generic text for every area.</li>
+<li>Ads that send sellers to a home page instead of a valuation page.</li>
+<li>Slow replies to enquiries, especially in the evenings and at weekends.</li>
+<li>Collecting email addresses without clear consent.</li>
+</ul>
+<p>Fixing these basics usually does more for enquiries than adding new channels. We can also set up automatic acknowledgement emails and notifications so every enquiry reaches you quickly.</p>
+
+<h2>How we work with Winnipeg real estate businesses</h2>
+<ol>
+<li><strong>Discovery call.</strong> We learn about your market, listings, ideal clients and goals.</li>
+<li><strong>Plan.</strong> We recommend the mix of website, SEO and ads that suits your budget.</li>
+<li><strong>Build.</strong> We create or improve your site and campaigns and share previews for approval.</li>
+<li><strong>Launch and report.</strong> We go live and send clear written reports on enquiries and visibility.</li>
+</ol>
+<p>A smaller website usually takes 3 to 5 weeks. SEO and paid campaigns typically take 3 to 6 months to show their full value. We use AI-powered tools to speed up keyword research and reporting, with every recommendation checked by us first. If you also work in larger markets, our <a href="/blog/real-estate-marketing-toronto/">Toronto real estate marketing guide</a> covers a bigger city.</p>
+
+<h2>FAQs</h2>
+<h3>What does real estate marketing in Winnipeg include?</h3>
+<p>Real estate marketing in Winnipeg usually includes an agent or brokerage website, local SEO for neighbourhood searches, Google Ads for buyers and sellers, and Meta ads for listings and new communities. The aim is more direct enquiries.</p>
+<h3>Do you have an office in Winnipeg?</h3>
+<p>No. Prism Works Studio is UK-based and works remotely. We have no office in Winnipeg, Manitoba or anywhere in Canada. We work by video call and written reports, with calls arranged around Central Time.</p>
+<h3>How much does real estate marketing cost?</h3>
+<p>Smaller real estate websites cost £1,000 to £2,000. Marketing retainers start at £350 a month. Ad spend is paid separately, and Canadian dollar pricing is quoted on request.</p>
+<h3>Can you add MLS listings to our website?</h3>
+<p>Where your brokerage and real estate board permit it, we can connect a listings feed through an approved provider. Access rules vary, so we confirm what is allowed with you first.</p>
+<h3>Do you work with home builders?</h3>
+<p>Yes. We build community websites, run campaigns to grow registration lists and report on enquiries for builders and developers in Winnipeg and across Manitoba.</p>
+<h3>Who is responsible for advertising compliance?</h3>
+<p>You and your brokerage are. We follow the guidance you give us and add clear disclaimers, but compliance approval for ads and website content rests with you.</p>
+`,
+  },
+  {
+    slug: 'restaurant-marketing-halifax',
+    seoTitle: 'Restaurant Marketing Halifax: Websites, Local SEO and Ads',
+    title: 'Restaurant Marketing in Halifax: Websites, Local SEO and Ads',
+    description: 'Restaurant marketing in Halifax: fast menu websites, local SEO, Google and Meta ads for restaurants, cafes, bars, from a UK-based remote studio with no office.',
+    date: '2026-11-23',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>Restaurant marketing in Halifax means being the place people find, trust and book when they search for somewhere to eat, whether they live in the North End, are visiting the waterfront or are heading out in Dartmouth. Prism Works Studio builds restaurant websites, improves local search visibility and runs Google and Meta ads for restaurants, cafes, bars, bakeries and food trucks in Halifax, working remotely from the UK.</p>
+<p>We are a UK-based web design and digital marketing studio. We have no office in Halifax, in Nova Scotia or anywhere in Canada. We work through video calls, shared previews and written reports, and we schedule calls around Atlantic Time. Prism writes in English. If you want menus or pages in French or another language, that content comes from your team or a translator.</p>
+
+<h2>Who we work with in Halifax</h2>
+<p>Halifax has a busy food scene shaped by seafood, a large student population, cruise and summer visitors, and a strong local following for independent spots. We work with:</p>
+<ul>
+<li><strong>Independent restaurants</strong> that want more direct bookings and fewer empty tables midweek.</li>
+<li><strong>Cafes and bakeries</strong> that rely on regulars and want to be found by newcomers nearby.</li>
+<li><strong>Bars, pubs and breweries</strong> promoting events, live music, trivia nights and seasonal menus.</li>
+<li><strong>Small restaurant groups</strong> with two or more locations that need one site with clear location pages.</li>
+<li><strong>Takeaway and delivery-led kitchens</strong> that want more orders through their own channels.</li>
+<li><strong>Caterers and event venues</strong> looking for private dining, wedding and corporate enquiries.</li>
+</ul>
+
+<h2>Restaurant marketing Halifax: channels and costs</h2>
+<p>Most restaurants do not need every channel. A strong website plus two or three channels run well will usually beat a scattered approach. This table shows the main options and our price guide. Prices are in pounds sterling; Canadian dollar pricing is quoted on request. Ad spend is paid separately to each platform.</p>
+<table>
+<thead>
+<tr><th>Channel</th><th>What it does</th><th>Price guide</th></tr>
+</thead>
+<tbody>
+<tr><td>Restaurant website</td><td>Mobile-first site with menus, booking links, opening hours and private dining pages</td><td>£1,000 to £2,000 for a smaller site</td></tr>
+<tr><td>Local SEO</td><td>Visibility for searches such as seafood restaurant Halifax or brunch near me</td><td>Retainer from £350 a month</td></tr>
+<tr><td>Google Ads</td><td>Search ads for bookings, events and catering enquiries</td><td>Retainer plus ad spend</td></tr>
+<tr><td>Meta and Instagram Ads</td><td>Menus, specials and events shown to local audiences</td><td>Retainer plus ad spend</td></tr>
+<tr><td>TikTok Ads</td><td>Reach for younger diners using clips your team provides</td><td>Retainer plus ad spend</td></tr>
+</tbody>
+</table>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. The <a href="/pricing/">pricing page</a> sets out what each level covers.</p>
+
+<h2>A restaurant website that fills tables</h2>
+<p>Many restaurant sites are slow, hide the menu in a PDF and make booking harder than it needs to be. Diners usually decide on their phone in a minute or two. We design restaurant websites that:</p>
+<ul>
+<li>Show the menu as real text on the page, so it loads quickly and search engines can read it.</li>
+<li>Put the booking button, phone number and directions where people expect them.</li>
+<li>Keep opening hours, holiday hours and seasonal changes easy for your team to update.</li>
+<li>Include separate pages for private dining, catering and gift cards where you offer them.</li>
+<li>Link to your chosen booking and ordering tools rather than replacing them.</li>
+<li>Load fast on mobile data, which matters for visitors walking around downtown.</li>
+</ul>
+<p>Our <a href="/blog/restaurant-website-design-uk/">restaurant website design guide</a> covers the principles in more detail, and our <a href="/blog/web-design-halifax/">Halifax web design guide</a> explains how we build for businesses in the city.</p>
+
+<h2>Local SEO for Halifax restaurants</h2>
+<p>Most restaurant searches are local and urgent. People search for a cuisine, a dish or a situation, such as lobster rolls on the waterfront, a patio in the North End or a family-friendly spot in Bedford. To show up in the map results and organic listings, we:</p>
+<ul>
+<li>Set up and optimise your Google Business Profile with accurate categories, hours, menu links and photos.</li>
+<li>Make sure your name, address and phone number match across your site and directories.</li>
+<li>Write useful pages for private dining, events and catering rather than squeezing everything onto the home page.</li>
+<li>Build a steady, honest review routine and reply to reviews in your own voice.</li>
+<li>Add structured data so search engines understand your menu, hours and location.</li>
+</ul>
+<p>Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains the basics, which apply in Canada too, and our <a href="/blog/seo-agency-halifax/">Halifax SEO agency guide</a> covers local search in the city more broadly.</p>
+
+<h2>Google Ads for bookings and events</h2>
+<p>Search ads are useful when someone is ready to choose. They work best for specific needs, not for broad terms like restaurants. We usually build campaigns around:</p>
+<ul>
+<li><strong>Cuisine and location searches</strong> close to your restaurant.</li>
+<li><strong>Occasion searches</strong> such as birthday dinners, group bookings and holiday parties.</li>
+<li><strong>Private dining and catering</strong> enquiries, which often carry higher value.</li>
+<li><strong>Brand protection</strong> so people searching your name reach your site first.</li>
+</ul>
+<p>Each campaign sends people to a matching page and we track calls, booking clicks and form enquiries. Our guide to <a href="/blog/google-ads-agency-halifax/">Google Ads in Halifax</a> explains our setup in more depth.</p>
+
+<h2>Meta and Instagram ads for menus and events</h2>
+<p>Food is visual, so Instagram and Facebook suit restaurants well. We use Meta ads to promote new menus, weekend brunch, live music and special events to people within a sensible distance of your venue. We also retarget people who visited your menu or booking page but did not book.</p>
+<p>Prism does not film or edit video, and we do not run photo shoots. If your team or a photographer supplies images and short clips, we turn them into well-targeted campaigns. Our guide to <a href="/blog/meta-ads-agency-halifax/">Meta ads in Halifax</a> has more on how we work.</p>
+
+<h2>Seasonality and the Halifax calendar</h2>
+<p>Halifax restaurants feel the seasons. Summer and early autumn bring patios, cruise visitors and festivals. Winter can be quieter, with more focus on locals, comfort food and holiday parties. Student term dates also shape demand in the areas around the universities.</p>
+<p>We plan marketing around your own busy and quiet periods. That might mean pushing patio and seafood searches in summer, private dining and holiday parties in late autumn, and midweek offers for regulars in January and February. Budgets can move between channels as the year changes, so you are not paying the same amount in every month regardless of demand.</p>
+
+<h2>Direct orders versus delivery apps</h2>
+<p>Delivery apps can bring volume, but commissions eat into margin. Many restaurants want to move some of that demand to their own ordering. We can help by:</p>
+<ul>
+<li>Making your own ordering link the clearest option on your website and Google profile.</li>
+<li>Running search and social ads that point to direct ordering instead of third-party apps.</li>
+<li>Collecting email sign-ups with clear consent so you can share offers directly.</li>
+</ul>
+<p>We do not build ordering systems ourselves. We connect your website to the ordering provider you choose and make sure the journey is simple.</p>
+
+<h2>Rules, consent and privacy</h2>
+<p>At a general level, commercial emails and texts in Canada are covered by CASL, Canada's anti-spam law, which expects clear consent and an easy way to unsubscribe. Personal information is generally covered by PIPEDA. Promotions involving alcohol may also be subject to provincial rules in Nova Scotia.</p>
+<p>We build clear sign-up forms, consent wording and privacy page templates, but compliance approval rests with you. Please check official guidance from the Office of the Privacy Commissioner of Canada, the relevant Nova Scotia bodies, or your own adviser before campaigns go live.</p>
+
+<h2>Common restaurant marketing mistakes</h2>
+<ul>
+<li>Menus only available as PDFs or images that are hard to read on a phone.</li>
+<li>Out-of-date opening hours on Google, especially over holidays.</li>
+<li>Ads that send people to the home page instead of the booking or menu page.</li>
+<li>Posting on social media with no plan, no budget and no tracking.</li>
+<li>Collecting customer emails without clear consent.</li>
+<li>Ignoring reviews, or replying to negative ones defensively.</li>
+</ul>
+<p>Fixing these basics often makes more difference than adding a new channel. Our wider <a href="/blog/restaurant-marketing-uk/">restaurant marketing guide</a> goes deeper on each one.</p>
+
+<h2>How we work with Halifax restaurants</h2>
+<ol>
+<li><strong>Discovery call.</strong> We learn about your menu, guests, busy and quiet times and goals.</li>
+<li><strong>Plan.</strong> We recommend the mix of website, local SEO and ads that suits your budget.</li>
+<li><strong>Build.</strong> We create or improve your site and campaigns and share previews for approval.</li>
+<li><strong>Launch and report.</strong> We go live and send clear written reports on bookings, calls and visibility.</li>
+</ol>
+<p>A smaller website usually takes 3 to 5 weeks. SEO and paid campaigns typically take 3 to 6 months to show their full value. We use AI-powered tools to speed up keyword research, ad copy drafts and reporting, and we check every recommendation before it reaches you. Our <a href="/services/paid-media/">paid media service</a> explains how we manage ad budgets.</p>
+
+<h2>FAQs</h2>
+<h3>What does restaurant marketing in Halifax include?</h3>
+<p>Restaurant marketing in Halifax usually includes a mobile-first website, a well-kept Google Business Profile, local SEO, Google Ads for bookings and events, and Meta ads for menus and specials. The aim is more direct bookings and orders.</p>
+<h3>Do you have an office in Halifax?</h3>
+<p>No. Prism Works Studio is UK-based and works remotely. We have no office in Halifax, Nova Scotia or anywhere in Canada. We work by video call and written reports, with calls arranged around Atlantic Time.</p>
+<h3>How much does restaurant marketing cost?</h3>
+<p>Smaller restaurant websites cost £1,000 to £2,000. Marketing retainers start at £350 a month. Ad spend is paid separately, and Canadian dollar pricing is quoted on request.</p>
+<h3>Can you connect our booking and ordering systems?</h3>
+<p>Yes. We link your website and Google profile to the booking and ordering tools you already use. We do not build our own booking or ordering systems.</p>
+<h3>Do you take photos or make videos for us?</h3>
+<p>No. Prism does not film, edit video or run photo shoots. We use images and clips supplied by your team or photographer in your website and ads.</p>
+<h3>Who is responsible for marketing compliance?</h3>
+<p>You are. We add consent wording and privacy templates, but compliance approval for emails, promotions and alcohol advertising rests with you and your own adviser.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-kansas-city',
+    seoTitle: 'SEO Agency Kansas City: Local and Organic Search Growth',
+    title: 'SEO Agency for Kansas City Businesses: Local, Technical and Content SEO',
+    description: 'SEO for Kansas City businesses from a UK-based remote studio: local SEO, technical fixes and content on both sides of State Line. Retainers from £350 a month.',
+    date: '2026-11-23',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>An SEO agency for Kansas City businesses should help you appear when local people search for what you sell, in Google's map results, in normal organic listings and in AI-generated answers. Prism Works Studio does this with local SEO, technical fixes and useful content, working remotely from the UK on a clear monthly retainer.</p>
+<p>We are a UK-based web design and digital marketing studio. We have no office in Kansas City, in Missouri, in Kansas or anywhere in the USA. We work through video calls, shared documents and written monthly reports, and we schedule calls for your morning, Central time. Our fees are in pounds sterling and US dollar pricing is quoted on request.</p>
+
+<h2>Why Kansas City SEO needs a two-state plan</h2>
+<p>Kansas City is unusual because the metro sits across two states. A plumber, law firm or dental practice might serve Overland Park, Olathe, Lenexa and Shawnee on the Kansas side, and Independence, Lee's Summit, Liberty and North Kansas City on the Missouri side. People also search with different phrasing: some type "KC", some type "Kansas City MO", others search by suburb or neighborhood such as Westport, the Crossroads or Brookside.</p>
+<p>That shapes how we plan your site. Rather than one thin page per suburb, we build a small number of strong service area pages, each with real detail about the work you do there, and we make sure your Google Business Profile, citations and on-page wording are consistent. Our <a href="/blog/multi-location-seo-uk/">multi-location SEO guide</a> explains the approach in more depth.</p>
+
+<h2>What our Kansas City SEO work covers</h2>
+<p>Every account is different, but most of our work falls into five areas. The table below shows what each one involves and why it matters.</p>
+<table>
+<thead>
+<tr><th>Area</th><th>What we do</th><th>Why it matters</th></tr>
+</thead>
+<tbody>
+<tr><td>Local SEO</td><td>Google Business Profile, categories, citations, review requests and service area pages</td><td>Helps you appear in the map pack for searches across the metro</td></tr>
+<tr><td>Technical SEO</td><td>Crawl checks, indexing, site speed, Core Web Vitals and schema</td><td>Makes sure Google can find, load and understand your pages</td></tr>
+<tr><td>On-page SEO</td><td>Titles, headings, internal links and page structure</td><td>Matches each page to the exact phrases buyers use</td></tr>
+<tr><td>Content</td><td>Service pages, guides and FAQs written for real questions</td><td>Builds relevance and gives AI search tools something worth quoting</td></tr>
+<tr><td>Links and mentions</td><td>Local directories, partners, associations and digital PR</td><td>Builds the trust signals that competitive searches need</td></tr>
+</tbody>
+</table>
+<p>We start with whichever area is holding you back most. For many local firms that is the Google Business Profile and service pages. For older sites it is often technical issues left over from past redesigns.</p>
+
+<h2>Who we work with in Kansas City</h2>
+<p>Kansas City has a broad economy, with logistics, engineering, architecture, healthcare, financial services, food and drink and a large base of home services. We commonly help:</p>
+<ul>
+<li><strong>Home services</strong> such as HVAC, roofing, plumbing, foundation repair and landscaping, where map results drive calls.</li>
+<li><strong>Professional services</strong> such as accountants, architects, consultants and law firms that want qualified enquiries.</li>
+<li><strong>Clinics and practices</strong> such as dentists, physiotherapists and med spas. Health content stays general, and approval rests with your own compliance adviser.</li>
+<li><strong>B2B and industrial firms</strong> that sell specialist products or services to other businesses across the Midwest.</li>
+<li><strong>Online shops</strong> that want organic traffic from across the USA, not only from Kansas City.</li>
+</ul>
+
+<h2>How our SEO agency Kansas City process works</h2>
+<p>We follow the same clear steps for every new client so you always know what is happening and why.</p>
+<ol>
+<li><strong>Audit.</strong> We review your site, your Google Business Profile, your rankings and your competitors. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the kind of checks we run.</li>
+<li><strong>Keyword and page plan.</strong> We map the searches that matter to the pages that should rank for them, and spot gaps where a new page is needed.</li>
+<li><strong>Fixes first.</strong> We fix indexing problems, slow pages, missing titles, broken links and weak internal linking.</li>
+<li><strong>Content.</strong> We improve existing service pages and write new pages and guides where they will help. We write in English.</li>
+<li><strong>Local signals.</strong> We tidy your Google Business Profile, build consistent citations and set up a simple review request process.</li>
+<li><strong>Reporting.</strong> Each month you get a written report covering rankings, traffic, enquiries and what we plan next.</li>
+</ol>
+
+<h2>SEO for AI search and Google AI Overviews</h2>
+<p>More people now get answers from Google AI Overviews, ChatGPT and similar tools before they click a website. Being cited in those answers relies on the same foundations as good SEO: clear pages, direct answers, accurate facts and a site that search engines trust. We structure key pages with short answer-first paragraphs, useful tables and FAQs, and we add schema where it fits. Our <a href="/blog/ai-overviews-seo-uk/">guide to AI Overviews and SEO</a> explains what helps and what does not.</p>
+<p>We use AI-powered tools in our own research and drafting, but every page is checked and edited by people before it goes live. We do not publish unreviewed AI content on client sites.</p>
+
+<h2>SEO agency Kansas City pricing</h2>
+<p>Our retainers are listed on our <a href="/pricing/">pricing page</a>. Fees are in pounds sterling, and we quote in US dollars on request.</p>
+<ul>
+<li><strong>Launch, £350 a month.</strong> For a single-location business that needs local SEO basics and steady on-page improvements.</li>
+<li><strong>Growth, £750 a month.</strong> For businesses serving several parts of the metro, with more content and link building.</li>
+<li><strong>Scale, £1,500 a month.</strong> For competitive sectors, larger sites, online shops or firms selling nationally.</li>
+</ul>
+<p>SEO is a long-term channel. Some technical fixes show quick improvements, but meaningful organic results typically build over three to six months. If you need enquiries sooner, we can run Google Ads alongside SEO through our <a href="/services/paid-media/">paid media service</a>.</p>
+
+<h2>When your website needs work first</h2>
+<p>Sometimes SEO cannot do its job because the site itself is the problem. Common signs include a site that is very slow on phones, one page trying to cover every service, a builder that limits what you can change, or a design that has not been touched in many years. In those cases we may suggest a rebuild through our <a href="/services/website-ecommerce-development/">website development service</a>. Small websites cost £1,000 to £2,000 and usually take three to five weeks, and we plan redirects carefully so you do not lose the rankings you already have.</p>
+
+<h2>Common SEO problems we see on Kansas City sites</h2>
+<p>When we audit sites from local businesses, the same issues come up again and again:</p>
+<ul>
+<li>A single "areas we serve" page listing dozens of suburbs with no real content about any of them.</li>
+<li>A Google Business Profile with the wrong primary category, old hours or no photos.</li>
+<li>Different business names, addresses or phone numbers across directories.</li>
+<li>Service pages that are a few lines long and say nothing a competitor could not say.</li>
+<li>Pages blocked from indexing, or duplicate pages left behind after a redesign.</li>
+<li>No clear call to action, so visitors who arrive from search do not get in touch.</li>
+</ul>
+<p>None of these are hard to fix, but together they hold many good businesses back. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the map side in more detail.</p>
+
+<h2>Working with a remote SEO studio</h2>
+<p>SEO work happens online, so distance makes little practical difference. You keep ownership of your website, your Google Business Profile, your analytics and your Search Console. We work through access you grant and can remove at any time. The UK is usually six hours ahead of Kansas City, so we hold calls in your morning and reply to messages within one working day.</p>
+<p>We also work with other Midwest and US businesses. Our pages on <a href="/blog/seo-agency-minneapolis/">SEO in Minneapolis</a> and <a href="/blog/seo-agency-denver/">SEO in Denver</a> show how we adapt the same approach to different metros.</p>
+
+<h2>What we need from you to get started</h2>
+<p>A few things make the first month far more productive. We will ask for access to your website, Google Analytics, Google Search Console and Google Business Profile. We will also ask you to confirm your main services, the areas you genuinely serve on both sides of State Line, and anything that sets you apart, such as warranties, response times or accreditations you already hold. We only publish claims you can stand behind.</p>
+<p>From there, we share an audit summary and a ninety-day plan in plain English, ranked by effort and expected impact, so you can see exactly where your retainer goes.</p>
+
+<h2>FAQs</h2>
+<h3>How much does an SEO agency in Kansas City cost?</h3>
+<p>Our SEO retainers cost £350, £750 or £1,500 a month, in pounds sterling. US dollar pricing is quoted on request. The right level depends on your competition, your site and how many areas you serve.</p>
+<h3>Do you have an office in Kansas City?</h3>
+<p>No. Prism Works Studio is UK-based and works remotely. We have no office in Kansas City or anywhere in the USA, and we work through video calls and shared reports.</p>
+<h3>Can you help us rank in both Missouri and Kansas?</h3>
+<p>Yes. We plan service area pages, citations and Google Business Profile settings around the parts of the metro you actually serve, on either side of State Line.</p>
+<h3>How long does SEO take to work?</h3>
+<p>Technical fixes can help within weeks, but meaningful organic results typically build over three to six months, depending on competition and the state of your site.</p>
+<h3>Do you optimise for AI search tools?</h3>
+<p>Yes. We structure pages with clear answers, tables, FAQs and schema so they are easier for Google AI Overviews and other AI tools to understand and cite.</p>
+<h3>Do we keep ownership of our website and accounts?</h3>
+<p>Yes. You own your website, Google Business Profile, analytics and Search Console. We work through access you grant and can remove at any time.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-oxford',
+    seoTitle: 'SEO Agency Oxford: Local and Organic Search for Firms',
+    title: 'SEO Agency in Oxford: Local, Technical and Content SEO for Oxfordshire Businesses',
+    description: 'Looking for an SEO agency in Oxford? Prism Works Studio runs local, technical and content SEO for Oxfordshire firms remotely, with retainers from £350 a month.',
+    date: '2026-11-23',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/', '/sectors/education/'],
+    body: `
+<p>An SEO agency in Oxford should help your business appear when people across Oxfordshire search for what you sell, and then turn those visits into enquiries. Prism Works Studio does this through technical fixes, local SEO and useful content, working remotely with Oxford firms on clear monthly retainers.</p>
+<p>We are a UK-based web design and digital marketing studio. We do not have a high street office in Oxford; we work through video calls, shared documents and plain-English reports. That keeps our costs down and means you deal directly with the people doing the work.</p>
+
+<h2>Why Oxford businesses need a focused SEO plan</h2>
+<p>Oxford is a mixed market. A single search results page can include independent shops on Cowley Road, professional firms in the city centre, science and technology companies around the business parks, tutoring and language schools, and hospitality businesses that rely on visitors. Many of these firms compete with national brands for the same phrases, so broad, generic SEO rarely works well.</p>
+<p>A focused plan picks the searches that bring in paying customers, then builds the right page for each one. For a local service firm that might be "accountant Oxford" or "emergency plumber Headington". For a technology company it is more likely to be a product or problem-based phrase searched across the UK. The method changes, but the principle stays the same: match the search, answer it well and make contacting you easy.</p>
+
+<h2>What our Oxford SEO work includes</h2>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> covers the main areas that affect rankings and enquiries:</p>
+<ul>
+<li><strong>Technical SEO:</strong> crawl errors, indexing, page speed, mobile layout, internal links and structured data. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what we look at first.</li>
+<li><strong>Local SEO:</strong> Google Business Profile setup and upkeep, consistent name, address and phone details, local landing pages and review prompts.</li>
+<li><strong>Content:</strong> service pages, guides and FAQs written in UK English around real search questions.</li>
+<li><strong>On-page SEO:</strong> title tags, meta descriptions, headings and copy that match search intent.</li>
+<li><strong>Digital PR and links:</strong> earning mentions from relevant local and industry websites.</li>
+<li><strong>AI search visibility:</strong> structuring pages so AI tools and Google AI Overviews can quote them accurately.</li>
+<li><strong>Reporting:</strong> Search Console and GA4 data explained in a monthly summary with next steps.</li>
+</ul>
+
+<h2>SEO agency Oxford: how we approach local search</h2>
+<p>For businesses that serve customers in a defined area, local search is usually where the quickest gains sit. Your Google Business Profile, your location pages and your reviews all feed into the map results that appear for searches such as "dentist near me" or "web designer Oxford".</p>
+<p>We start by checking your profile categories, services, opening hours and photos. Then we look at whether your website has a clear page for each service and area you cover, such as Summertown, Jericho, Botley, Kidlington, Abingdon or Witney. Thin pages that swap out a town name do not help, so each location page needs genuinely useful detail: what you offer there, how to reach you and answers to common questions.</p>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide for UK businesses</a> explains the full process, and our <a href="/blog/local-seo-agency-uk/">local SEO agency overview</a> covers what to expect from outside help.</p>
+
+<h2>SEO for different types of Oxford business</h2>
+<table>
+<thead>
+<tr><th>Business type</th><th>Typical search focus</th><th>Main SEO priorities</th></tr>
+</thead>
+<tbody>
+<tr><td>Trades and home services</td><td>Service plus town or area</td><td>Google Business Profile, area pages, reviews, fast mobile pages</td></tr>
+<tr><td>Professional services</td><td>Service plus Oxford, plus specialist advice terms</td><td>Expert content, trust signals, clear service pages</td></tr>
+<tr><td>Tutoring and education providers</td><td>Course, subject and level searches</td><td>Course pages, FAQs, parent and student guides</td></tr>
+<tr><td>Science and technology firms</td><td>Problem and product searches across the UK</td><td>Technical content, topic clusters, digital PR</td></tr>
+<tr><td>Hospitality and retail</td><td>"Near me" and visitor searches</td><td>Map results, menus or product pages, seasonal content</td></tr>
+<tr><td>Online shops</td><td>Product and category searches</td><td>Category structure, product copy, technical health</td></tr>
+</tbody>
+</table>
+<p>Education is a big part of Oxford's economy beyond the universities, from private tutors to summer schools. Our <a href="/sectors/education/">education marketing page</a> sets out how we support schools, colleges and course providers with search and paid media.</p>
+
+<h2>How an SEO project with us runs</h2>
+<ol>
+<li><strong>Discovery call:</strong> we learn what you sell, who buys it, which areas you cover and what has already been tried.</li>
+<li><strong>Audit:</strong> we review your site's technical health, content, local presence and current Search Console data.</li>
+<li><strong>Keyword and page plan:</strong> we map searches to pages, deciding which pages to improve, merge or create.</li>
+<li><strong>Fixes and content:</strong> we work through technical issues, rewrite key pages and publish new content.</li>
+<li><strong>Local and off-site work:</strong> we tidy your Google Business Profile, citations and links.</li>
+<li><strong>Monthly reporting:</strong> we explain what changed, what we learned and what comes next.</li>
+</ol>
+<p>Everything happens remotely. You will see drafts before they go live, and you keep ownership of your website, profiles and data at all times.</p>
+
+<h2>How much SEO costs in Oxford</h2>
+<p>Our monthly SEO retainers are set out on our <a href="/pricing/">pricing page</a>:</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> suited to a single location or a small service business that needs the basics done properly.</li>
+<li><strong>Growth, £750 a month:</strong> for firms that need regular content, local pages and steady link building.</li>
+<li><strong>Scale, £1,500 a month:</strong> for larger sites, online shops or competitive markets that need more content and technical work each month.</li>
+</ul>
+<p>If your website needs rebuilding before SEO can work, a small website costs £1,000 to £2,000 and an e-commerce site £1,500 to £3,500. Our guide to <a href="/blog/how-much-does-seo-cost-uk/">how much SEO costs in the UK</a> compares typical models, and our <a href="/blog/web-design-oxford/">web design in Oxford</a> post covers new sites.</p>
+
+<h2>How long SEO takes to work</h2>
+<p>SEO results typically take 3 to 6 months to show. Technical fixes and Google Business Profile updates can make a difference sooner, while new content and links build value over time. Competitive phrases in a busy city take longer than niche or very local searches.</p>
+<p>We will not promise first place on Google, because nobody can honestly guarantee that. What we can promise is a clear plan, steady work every month and honest reports on what is and is not moving.</p>
+
+<h2>Choosing the right SEO partner in Oxford</h2>
+<p>Whether you hire us or someone else, ask these questions before signing:</p>
+<ul>
+<li>Who will actually do the work, and how will you talk to them?</li>
+<li>What happens in the first month, and what will I receive?</li>
+<li>How do you build links, and can I see examples of the type of sites you target?</li>
+<li>Do I own my content, accounts and data if we stop working together?</li>
+<li>What is the notice period on the retainer?</li>
+</ul>
+<p>Our article on <a href="/blog/seo-agency-vs-freelancer-uk/">choosing an SEO agency or a freelancer</a> covers the trade-offs in more detail. If you are a small firm just starting out, our <a href="/blog/seo-for-small-business-uk/">SEO for small businesses guide</a> covers what you can do yourself first.</p>
+
+<h2>Common SEO problems we see on Oxfordshire websites</h2>
+<p>Many local websites share the same handful of issues. A single "services" page tries to rank for everything, so none of the services ranks well. Contact details differ between the website, Google Business Profile and directory listings. Pages load slowly on mobile because of large images. Blog posts exist but do not link to the pages that bring in enquiries. Old pages from a previous site still sit in Google's index and return errors.</p>
+<p>Each of these is fixable. In most audits, sorting out structure and internal linking gives the biggest early improvement, because it helps Google understand which page should rank for which search.</p>
+
+<h2>Working with businesses across Oxfordshire</h2>
+<p>We support firms in Oxford itself and in surrounding towns such as Abingdon, Didcot, Bicester, Witney, Thame, Wantage and Henley-on-Thames. Because we work remotely, we can also help Oxford companies that sell across the UK or overseas, building national and international search plans alongside local work.</p>
+<p>If you want to talk through your site, book a short call. We will look at where you are now, suggest the first steps and tell you honestly whether SEO is the right channel for your goals at this stage.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in Oxford?</h3>
+<p>Look for clear pricing, a written plan for the first three months, honest timelines and a team that explains its link building methods. Make sure you keep ownership of your website and accounts.</p>
+<h3>Do you have an office in Oxford?</h3>
+<p>No. Prism Works Studio is a UK-based studio that works remotely. We meet clients by video call and share drafts, plans and reports online.</p>
+<h3>How much does SEO cost for an Oxford business?</h3>
+<p>Our retainers start at £350 a month for Launch, then £750 for Growth and £1,500 for Scale. The right level depends on your competition and how much content you need.</p>
+<h3>How long until SEO starts working?</h3>
+<p>Results typically take 3 to 6 months. Technical and local fixes can help earlier, while content and links build over time.</p>
+<h3>Can you help with Google Business Profile?</h3>
+<p>Yes. We set up or tidy your profile, check categories and services, add photos and posts, and help you ask customers for reviews in a fair way.</p>
+<h3>Do you work with businesses outside Oxford city?</h3>
+<p>Yes. We work with firms across Oxfordshire and the rest of the UK, and with Oxford companies that sell nationally or internationally.</p>
+`,
+  },
 ];
