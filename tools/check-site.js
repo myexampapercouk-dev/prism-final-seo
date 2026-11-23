@@ -12,7 +12,7 @@ const files = [];
     if (SKIP.includes(f)) continue;
     const p = path.join(dir, f);
     if (fs.statSync(p).isDirectory()) walk(p);
-    else if (f.endsWith('.html')) files.push(p);
+    else if (f.endsWith('.html') && !/^google[0-9a-f]+.html$/.test(f)) files.push(p);
   }
 })(ROOT);
 
