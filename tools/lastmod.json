@@ -24,7 +24,7 @@
   "mod": "2026-11-26"
  },
  "/sectors/ecommerce/": {
-  "hash": "8799708925f7d412760eb66d48a5b249",
+  "hash": "e7a2b1f50848e491d72723c3afa435f2",
   "mod": "2026-11-26"
  },
  "/sectors/education/": {
@@ -40,7 +40,7 @@
   "mod": "2026-11-26"
  },
  "/sectors/hospitality/": {
-  "hash": "366df1eca721a6d64be822d1e9bc2282",
+  "hash": "50ed8a5f3e9d698c19e10dd08b670b71",
   "mod": "2026-11-26"
  },
  "/sectors/saas/": {
@@ -64,11 +64,11 @@
   "mod": "2026-11-26"
  },
  "/services/seo-geo/": {
-  "hash": "1ff558a9a005c934fd383a68843dfda8",
+  "hash": "694cfef8b70f705dfdf62efc0fe00852",
   "mod": "2026-11-26"
  },
  "/services/website-ecommerce-development/": {
-  "hash": "6da32b9c5ccf6443d82fea4b910b6e27",
+  "hash": "8be6a5077058ea59fa5d3b1e079dd1dd",
   "mod": "2026-11-26"
  }
 }
