@@ -24,7 +24,7 @@
   "mod": "2026-11-26"
  },
  "/sectors/ecommerce/": {
-  "hash": "db55060d7bc0c842804411ed2cbb37fa",
+  "hash": "8799708925f7d412760eb66d48a5b249",
   "mod": "2026-11-26"
  },
  "/sectors/education/": {
@@ -64,11 +64,11 @@
   "mod": "2026-11-26"
  },
  "/services/seo-geo/": {
-  "hash": "694cfef8b70f705dfdf62efc0fe00852",
+  "hash": "1ff558a9a005c934fd383a68843dfda8",
   "mod": "2026-11-26"
  },
  "/services/website-ecommerce-development/": {
-  "hash": "f36679dbc6803c11a1bdd6122776a2a9",
+  "hash": "6da32b9c5ccf6443d82fea4b910b6e27",
   "mod": "2026-11-26"
  }
 }
