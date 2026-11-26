@@ -12,7 +12,7 @@
   "mod": "2026-11-26"
  },
  "/pricing/": {
-  "hash": "48e22505de4302d5fffc7818fcaeaf4b",
+  "hash": "10891fc56777fd4fd02f31b2b52309bf",
   "mod": "2026-11-26"
  },
  "/sectors/": {
@@ -24,7 +24,7 @@
   "mod": "2026-11-26"
  },
  "/sectors/ecommerce/": {
-  "hash": "e7a2b1f50848e491d72723c3afa435f2",
+  "hash": "a265d9cb47a5db0b9b869c6c6fa6af5b",
   "mod": "2026-11-26"
  },
  "/sectors/education/": {
@@ -36,7 +36,7 @@
   "mod": "2026-11-26"
  },
  "/sectors/healthcare/": {
-  "hash": "62f0292e1c3635c92135d2f35c52fecc",
+  "hash": "b04b80585ce71d93715061ae28a67f4f",
   "mod": "2026-11-26"
  },
  "/sectors/hospitality/": {
@@ -68,7 +68,7 @@
   "mod": "2026-11-26"
  },
  "/services/website-ecommerce-development/": {
-  "hash": "8be6a5077058ea59fa5d3b1e079dd1dd",
+  "hash": "6da32b9c5ccf6443d82fea4b910b6e27",
   "mod": "2026-11-26"
  }
 }
