@@ -130,6 +130,7 @@ ${GSC_VERIFY ? `<meta name="google-site-verification" content="${GSC_VERIFY}">` 
 <meta property="og:image:alt" content="${esc(title)}">
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${image}">
 <meta name="theme-color" content="${SITE.theme}">
 <link rel="icon" href="/assets/img/site-icon.png" type="image/png">
 <link rel="apple-touch-icon" href="/assets/img/site-icon.png">
@@ -333,14 +334,22 @@ ${ctaHtml(`Hi, I read your article '${plain(post.title)}' and need help`)}`;
   llms.posts.push(`- [${plain(post.title)}](${SITE.url}${urlPath}): ${post.description}`);
 }
 {
-  const urlPath = '/blog/';
-  const trail = [['Home', '/'], ['Blog', urlPath]];
-  const body = `<section class="pws-section pws-page-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">Blog</span><h1>Digital Marketing &amp; Ecommerce Guides for UK Businesses</h1><p class="pws-lead">Practical, plain-English guides on SEO, GEO, paid media, digital PR and building websites and online stores that sell.</p></div></section>
-<section class="pws-section"><div class="pws-wrap"><div class="pws-grid pws-posts">${POSTS.map(cardHtml).join('')}</div></div></section>
+  const PER = 48, pages = Math.ceil(POSTS.length / PER) || 1;
+  const pageUrl = n => n === 1 ? '/blog/' : `/blog/page/${n}/`;
+  for (let n = 1; n <= pages; n++) {
+    const urlPath = pageUrl(n), list = POSTS.slice((n - 1) * PER, n * PER);
+    const trail = n === 1 ? [['Home', '/'], ['Blog', '/blog/']] : [['Home', '/'], ['Blog', '/blog/'], [`Page ${n}`, urlPath]];
+    const nav = `<nav class="pws-pager" aria-label="Blog pages" style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-top:2rem">${n > 1 ? `<a class="pws-btn pws-btn-sm" href="${pageUrl(n - 1)}">Newer guides</a>` : ''}${Array.from({ length: pages }, (_, i) => i + 1).map(i => i === n ? `<span class="pws-btn pws-btn-sm pws-btn-primary" aria-current="page">${i}</span>` : `<a class="pws-btn pws-btn-sm" href="${pageUrl(i)}">${i}</a>`).join('')}${n < pages ? `<a class="pws-btn pws-btn-sm" href="${pageUrl(n + 1)}">Older guides</a>` : ''}</nav>`;
+    const h1 = n === 1 ? 'Digital Marketing &amp; Ecommerce Guides for UK Businesses' : `Digital Marketing &amp; Ecommerce Guides: Page ${n}`;
+    const body = `<section class="pws-section pws-page-hero"><div class="pws-wrap">${crumbsHtml(trail)}<span class="pws-eyebrow">Blog</span><h1>${h1}</h1><p class="pws-lead">Practical, plain-English guides on SEO, GEO, paid media, digital PR and building websites and online stores that sell.</p></div></section>
+<section class="pws-section"><div class="pws-wrap"><div class="pws-grid pws-posts">${list.map(cardHtml).join('')}</div>${nav}</div></section>
 ${CTA}`;
-  const ld = [{ '@type': 'Blog', '@id': SITE.url + '/blog/#blog', url: SITE.url + '/blog/', name: `${SITE.name} blog`, publisher: { '@id': SITE.url + '/#org' }, inLanguage: 'en-GB', blogPost: POSTS.map(p => ({ '@type': 'BlogPosting', headline: plain(p.title).slice(0, 110), url: `${SITE.url}/blog/${p.slug}/`, datePublished: p.date })) }, crumbsLd(trail)];
-  write('blog/index.html', layout({ urlPath, title: 'Digital Marketing Blog | Prism Works Studio', description: 'Guides for UK businesses on SEO, GEO, paid media, digital PR, Shopify, WooCommerce and WordPress websites, written in plain English.', body, ld, og: ogFor('blog') }));
-  add(urlPath, POSTS[0] && (POSTS[0].updated || POSTS[0].date), '0.7');
+    const ld = [{ '@type': 'Blog', '@id': SITE.url + '/blog/#blog', url: SITE.url + '/blog/', name: `${SITE.name} blog`, publisher: { '@id': SITE.url + '/#org' }, inLanguage: 'en-GB', blogPost: list.map(p => ({ '@type': 'BlogPosting', headline: plain(p.title).slice(0, 110), url: `${SITE.url}/blog/${p.slug}/`, datePublished: p.date })) }, crumbsLd(trail)];
+    const title = n === 1 ? 'Digital Marketing Blog | Prism Works Studio' : `Digital Marketing Blog, Page ${n} | Prism Works Studio`;
+    const description = n === 1 ? 'Guides for UK businesses on SEO, GEO, paid media, digital PR, Shopify, WooCommerce and WordPress websites, written in plain English.' : `Page ${n} of our guides on SEO, GEO, paid media, Shopify and WordPress websites for businesses in the UK, USA, Canada, Europe and the Middle East.`;
+    write(urlPath === '/blog/' ? 'blog/index.html' : `blog/page/${n}/index.html`, layout({ urlPath, title, description, body, ld, og: ogFor('blog') }));
+    add(urlPath, list[0] && (list[0].updated || list[0].date), n === 1 ? '0.7' : '0.4');
+  }
   const items = POSTS.slice(0, 20).map(p => `<item><title>${esc(plain(p.title))}</title><link>${SITE.url}/blog/${p.slug}/</link><guid>${SITE.url}/blog/${p.slug}/</guid><pubDate>${new Date(p.date + 'T09:00:00Z').toUTCString()}</pubDate><description>${esc(p.description)}</description></item>`).join('\n');
   write('blog/feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>${SITE.name} blog</title><link>${SITE.url}/blog/</link><description>Guides for UK businesses on digital marketing and ecommerce.</description><language>en-gb</language>\n${items}\n</channel></rss>\n`);
 }

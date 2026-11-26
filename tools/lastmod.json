@@ -1,74 +1,74 @@
 {
  "/": {
-  "hash": "23da783d34d856b495a54db96cee42e1",
-  "mod": "2026-11-11"
+  "hash": "9f89244069b96b5390c1c8a4f3403ac2",
+  "mod": "2026-11-26"
  },
  "/about-us/": {
-  "hash": "14787cdf898142cfce7d31b675b7d4c4",
-  "mod": "2026-11-11"
+  "hash": "6ca98809fc0efc7d4b26fe814bf3b8e3",
+  "mod": "2026-11-26"
  },
  "/contact/": {
-  "hash": "31a4cbbb77c39406b31d47c1c911328b",
-  "mod": "2026-11-11"
+  "hash": "7ab2d47babc27fbab4e67753ef591517",
+  "mod": "2026-11-26"
  },
  "/pricing/": {
-  "hash": "3b81bf2fa08295bde71667b39ec1461f",
-  "mod": "2026-11-11"
+  "hash": "48e22505de4302d5fffc7818fcaeaf4b",
+  "mod": "2026-11-26"
  },
  "/sectors/": {
-  "hash": "d1a804fe5b8fa91481a625fc8ef50c78",
-  "mod": "2026-11-11"
+  "hash": "635df287cc58cf875ad0bbe1ab634518",
+  "mod": "2026-11-26"
  },
  "/sectors/b2b/": {
-  "hash": "cf80724e0435fc081687acc02c0700c7",
-  "mod": "2026-11-11"
+  "hash": "48dcd9244c70b3a4b77035eab45edd43",
+  "mod": "2026-11-26"
  },
  "/sectors/ecommerce/": {
-  "hash": "7a44526c02c727382cbb34c00aa041d4",
-  "mod": "2026-11-11"
+  "hash": "db55060d7bc0c842804411ed2cbb37fa",
+  "mod": "2026-11-26"
  },
  "/sectors/education/": {
-  "hash": "10bc69d8afbebb5e0af3bd5d4629613e",
-  "mod": "2026-11-11"
+  "hash": "5791b7d968fc52f697574800f8e70bda",
+  "mod": "2026-11-26"
  },
  "/sectors/financial-advisers/": {
-  "hash": "0d8a6d9ac15cd8b3118246946289096e",
-  "mod": "2026-11-11"
+  "hash": "c8fcf9ccaa39d70a03d0fe6ce84864d8",
+  "mod": "2026-11-26"
  },
  "/sectors/healthcare/": {
-  "hash": "13f5e7f0f60eb6b166bbddfc6f100bfa",
+  "hash": "62f0292e1c3635c92135d2f35c52fecc",
   "mod": "2026-11-26"
  },
  "/sectors/hospitality/": {
-  "hash": "a6152aa1297e2824be321e20ea30d969",
-  "mod": "2026-11-23"
+  "hash": "366df1eca721a6d64be822d1e9bc2282",
+  "mod": "2026-11-26"
  },
  "/sectors/saas/": {
-  "hash": "c506ba65af7df8c5f198d22ec1b84dd7",
-  "mod": "2026-11-13"
+  "hash": "2b59b2ec78a367f46e4112099d1999f5",
+  "mod": "2026-11-26"
  },
  "/services/": {
-  "hash": "e38b63f308482e8c10e32f5d885d4e58",
-  "mod": "2026-11-11"
+  "hash": "500bb6687ec1abd62d4b3b0b7904fada",
+  "mod": "2026-11-26"
  },
  "/services/brand-strategy/": {
-  "hash": "c85234c402b1e2162ed044ba3cea8bab",
-  "mod": "2026-11-11"
+  "hash": "779fccccf15587a033e5aab5cc403530",
+  "mod": "2026-11-26"
  },
  "/services/digital-pr-content/": {
-  "hash": "ed235d00679f1710f3a396e4e3ebd7bd",
-  "mod": "2026-11-11"
+  "hash": "de1f7af412fbd4d98490f4ff840f4572",
+  "mod": "2026-11-26"
  },
  "/services/paid-media/": {
-  "hash": "2cc74939079385935619451b3cd53080",
-  "mod": "2026-11-11"
+  "hash": "799d5d4b3fb20202c7635ef3e61d7619",
+  "mod": "2026-11-26"
  },
  "/services/seo-geo/": {
-  "hash": "6a79e9ee44b333f26bba0290616d3335",
-  "mod": "2026-11-11"
+  "hash": "694cfef8b70f705dfdf62efc0fe00852",
+  "mod": "2026-11-26"
  },
  "/services/website-ecommerce-development/": {
-  "hash": "e3c054a0767597db420568db9defbe31",
-  "mod": "2026-11-11"
+  "hash": "f36679dbc6803c11a1bdd6122776a2a9",
+  "mod": "2026-11-26"
  }
 }
