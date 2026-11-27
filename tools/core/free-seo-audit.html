@@ -1,0 +1,26 @@
+<section class="pws-section pws-page-hero"><div class="pws-wrap"><span class="pws-eyebrow">Free tool</span><h1>Free SEO Audit: See What Is Holding Your Website Back</h1><p class="pws-lead">Enter your website and get an instant SEO health report. We run over 110 checks across technical, on-page, content, image, link, schema, local, mobile, accessibility and AI search SEO, and show you exactly what to fix and where.</p></div></section>
+<section class="pws-section"><div class="pws-wrap"><div class="pws-audit">
+<div class="pws-form" id="audit">
+<form id="pws-audit-form" method="post" data-endpoint="/api/seo-audit.php" novalidate>
+<div><label for="aud-url">Your website</label><input id="aud-url" name="url" type="text" inputmode="url" autocomplete="url" placeholder="yourbusiness.com" required></div>
+<div class="row"><div><label for="aud-name">Name</label><input id="aud-name" name="name" type="text" autocomplete="name" placeholder="Your name" required></div>
+<div><label for="aud-email">Email</label><input id="aud-email" name="email" type="email" autocomplete="email" placeholder="you@company.com" required></div></div>
+<div class="row"><div><label for="aud-phone">Phone <span class="pws-opt">(optional)</span></label><input id="aud-phone" name="phone" type="tel" autocomplete="tel" placeholder="Your phone number"></div>
+<div><label for="aud-business">Business type <span class="pws-opt">(optional)</span></label><select id="aud-business" name="business"><option value="">- Please select -</option><option>Ecommerce or online shop</option><option>Local service business</option><option>Professional services</option><option>Healthcare or clinic</option><option>Hospitality or restaurant</option><option>Real estate</option><option>B2B or SaaS</option><option>Other</option></select></div></div>
+<label class="pws-check"><input type="checkbox" name="consent" value="1" required> I agree that Prism Works Studio may contact me about my audit results. We never share your details.</label>
+<input type="text" name="company_website" class="pws-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+<button type="submit" class="pws-btn pws-btn-primary">Run my free SEO audit</button>
+<p class="pws-status" role="status" aria-live="polite"></p>
+</form></div>
+<div class="pws-audit-info"><h2 class="pws-h2">What the audit checks</h2><ul class="pws-ticks"><li><strong>Crawlability:</strong> status code, robots.txt, XML sitemap, noindex tags, canonical tags and redirects.</li><li><strong>HTTPS and security:</strong> SSL, HTTP to HTTPS redirects, mixed content and HSTS.</li><li><strong>On-page SEO:</strong> title tag, meta description, H1 and subheadings, and language.</li><li><strong>Content:</strong> word count and image alt text.</li><li><strong>Internal linking:</strong> internal links and broken links.</li><li><strong>Markup and social:</strong> schema structured data, Open Graph, Twitter cards and favicon.</li><li><strong>Mobile and speed:</strong> viewport, server response, compression and Google Core Web Vitals.</li></ul><p>The audit checks your home page or any page you enter. For a full site crawl, keyword research and a plan to fix everything, <a href="/contact/">book a free call</a>.</p></div>
+</div>
+<div id="pws-audit-report" class="pws-report" hidden></div>
+</div></section>
+<section class="pws-section alt"><div class="pws-wrap"><div class="pws-head"><span class="pws-eyebrow">FAQs</span><h2 class="pws-h2">Free SEO audit questions</h2></div><div class="pws-faqs">
+<details class="pws-faq"><summary>Is the SEO audit really free?</summary><p>Yes. The audit is free and you see your report straight away. We ask for your name and email so we can follow up with advice if you want it.</p></details>
+<details class="pws-faq"><summary>How is the SEO score worked out?</summary><p>Each check is graded as an error, warning or notice, in the same way as professional site audit tools. Errors count most. Your score is the share of weighted checks your page passes, from 0 to 100.</p></details>
+<details class="pws-faq"><summary>Which page does the audit check?</summary><p>It checks the page you enter in depth, then crawls up to 25 more pages from your internal links and XML sitemap, plus your robots.txt, llms.txt, security headers and external links. Enter your home page for the best overview.</p></details>
+<details class="pws-faq"><summary>Where does the speed score come from?</summary><p>Speed and Core Web Vitals come from Google PageSpeed Insights, tested on a mobile device. Google can take up to a minute, so that section loads after the main report.</p></details>
+<details class="pws-faq"><summary>Can you fix the issues for me?</summary><p>Yes. We are a UK-based remote web design and SEO studio working with businesses in the UK, USA, Canada, Europe and the Middle East. SEO retainers start at &pound;350 a month, and you can see all our prices on our <a href="/pricing/">pricing page</a>.</p></details>
+</div></div></section>
+<script src="/assets/js/seo-audit.js?v={{AUDIT_V}}" defer></script>

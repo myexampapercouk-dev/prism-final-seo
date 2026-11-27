@@ -43,7 +43,7 @@ const words = html => plain(html).split(/\s+/).filter(Boolean).length;
 const readMins = p => Math.max(1, Math.round(words(p.body) / 220));
 // Cache-busting: assets are cached for a year by .htaccess, so links carry a content hash.
 const ver = rel => require('crypto').createHash('md5').update(fs.readFileSync(path.join(ROOT, rel))).digest('hex').slice(0, 8);
-const V = { css: ver('assets/css/prism-works.css'), site: ver('assets/css/site.css'), js: ver('assets/js/site.js'), chat: ver('assets/js/chat.js') };
+const V = { css: ver('assets/css/prism-works.css'), site: ver('assets/css/site.css'), js: ver('assets/js/site.js'), chat: ver('assets/js/chat.js'), audit: ver('assets/js/seo-audit.js') };
 const core = n => fs.readFileSync(path.join(CORE, n + '.html'), 'utf8').trim();
 const today = new Date().toISOString().slice(0, 10);
 const ogFor = p => (fs.existsSync(path.join(ROOT, 'assets', 'og', p + '.png')) ? `/assets/og/${p}.png` : '/assets/og-image.png');
@@ -187,11 +187,12 @@ const CORE_PAGES = [
   { slug: 'services', file: 'services', title: 'Web Design, SEO & PPC Services | Prism Works Studio', description: 'Web design, SEO and GEO, PPC, digital PR and brand strategy from a UK-based remote agency for clients in the UK, USA, Canada, Europe and the Middle East.', crumb: 'Services' },
   { slug: 'sectors', file: 'sectors', title: 'Sectors We Serve | Prism Works Studio', description: 'Digital marketing with deep sector knowledge: healthcare, hospitality, ecommerce, financial advisers, SaaS, B2B and education.', crumb: 'Sectors' },
   { slug: 'contact', file: 'contact', title: 'Contact Us | Prism Works Studio', description: 'Book a free, no-obligation 30-minute discovery call with Prism Works Studio. Email contact@prismworks.studio or call +44 7506 909018.', crumb: 'Contact' },
+  { slug: 'free-seo-audit', file: 'free-seo-audit', title: 'Free SEO Audit Tool: Check Your Website | Prism Works Studio', description: 'Run a free SEO audit of your website. Over 110 checks across technical, on-page, content, local, mobile and AI search SEO, with exactly what to fix and where.', crumb: 'Free SEO audit' },
 ];
 const HOME_FAQS = [];
 for (const p of CORE_PAGES) {
   const urlPath = p.slug ? `/${p.slug}/` : '/';
-  let body = core(p.file).replace('{{CONTACT_FORM}}', CONTACT_FORM);
+  let body = core(p.file).replace('{{CONTACT_FORM}}', CONTACT_FORM).replace('{{AUDIT_V}}', V.audit);
   const ld = [{ '@type': p.slug === 'contact' ? 'ContactPage' : p.slug === 'about-us' ? 'AboutPage' : 'WebPage', '@id': SITE.url + urlPath + '#webpage', url: SITE.url + urlPath, name: p.title, description: p.description, isPartOf: { '@id': SITE.url + '/#website' }, about: { '@id': SITE.url + '/#org' }, inLanguage: 'en-GB' }];
   if (p.crumb) {
     const trail = [['Home', '/'], [p.crumb, urlPath]];
