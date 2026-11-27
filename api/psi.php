@@ -31,7 +31,8 @@ $hits[] = time();
 @file_put_contents($rateFile, implode(',', $hits));
 
 $cfg = prism_mail_config();
-$key = isset($cfg['psi_key']) && is_string($cfg['psi_key']) ? $cfg['psi_key'] : '';
+// Key is restricted in Google Cloud to the PageSpeed Insights API and prismworksstudio.co.uk referrers.
+$key = isset($cfg['psi_key']) && is_string($cfg['psi_key']) ? $cfg['psi_key'] : 'AIzaSyC0BLwrcwQuRBXFFOH4bFdpKoG_TFz5f6k';
 $api = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&url=' . rawurlencode($url) . ($key !== '' ? '&key=' . rawurlencode($key) : '');
 
 @set_time_limit(100);
