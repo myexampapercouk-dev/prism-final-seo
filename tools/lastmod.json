@@ -16,7 +16,7 @@
   "mod": "2026-11-27"
  },
  "/pricing/": {
-  "hash": "3c30d177740ca45680a45e861b2694c6",
+  "hash": "192357c18a5df23ff9eaa36b4c0f2efd",
   "mod": "2026-11-28"
  },
  "/sectors/": {
@@ -28,7 +28,7 @@
   "mod": "2026-11-28"
  },
  "/sectors/ecommerce/": {
-  "hash": "029f8ce28348202f4c91c45b095883c4",
+  "hash": "c5d4fc5670d3fe46adcab0c113c7f76a",
   "mod": "2026-11-28"
  },
  "/sectors/education/": {
@@ -44,7 +44,7 @@
   "mod": "2026-11-28"
  },
  "/sectors/hospitality/": {
-  "hash": "2e87434d8d605c20b1e1ad342b65d8a5",
+  "hash": "ac0809bcb99ef165c8042c7b80af4823",
   "mod": "2026-11-28"
  },
  "/sectors/saas/": {
