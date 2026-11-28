@@ -143290,4 +143290,2407 @@ module.exports = [
 <p>Yes, we can take over an existing WordPress site. We start with a review of the theme, plugins, hosting and security, then fix the most important issues before ongoing care.</p>
 `,
   },
+  {
+    slug: 'digital-marketing-agency-durham',
+    seoTitle: 'Digital Marketing Agency Durham: SEO, Ads and Websites',
+    title: 'Digital Marketing Agency in Durham: A Guide for County Firms',
+    description: 'Choosing a digital marketing agency in Durham? See how SEO, Google and Meta Ads and a fast website work together, what it costs and how a remote UK studio helps',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>A digital marketing agency in Durham should help you reach customers across the city and County Durham through a joined-up mix of SEO, paid advertising and a website that turns visits into enquiries. For most local businesses, the winning formula is simple: be easy to find in local search, run focused ads where they pay back and make sure your site gives people a clear reason to get in touch.</p>
+<p>Prism Works Studio is a UK-based digital marketing and web design studio that works remotely. We support businesses in Durham and the wider North East through video calls, shared documents and plain-English monthly reports. This guide explains what a Durham business should expect from digital marketing, how much it costs and how to choose the right partner.</p>
+
+<h2>The Durham market at a glance</h2>
+<p>Durham is a compact cathedral city with a large university, a busy visitor economy around the cathedral and castle, and a wide surrounding county. Customers search from the city and from towns such as Chester-le-Street, Consett, Stanley, Spennymoor, Newton Aycliffe, Bishop Auckland, Seaham and Peterlee. Many also commute to or from Newcastle, Sunderland and Darlington, so local firms often compete with larger city businesses in search results.</p>
+<p>The local economy includes education and research, healthcare, public services, manufacturing and engineering on the business parks, retail, hospitality, trades and a growing number of professional and technology firms. Students and visitors add seasonal peaks, especially around term dates, graduation and major events.</p>
+<p>A good digital plan reflects that mix. A letting agent near the university, a family restaurant in the city centre and an engineering supplier in Newton Aycliffe all need different channels, messages and timings.</p>
+
+<h2>What a digital marketing agency in Durham should cover</h2>
+<p>Most Durham businesses need some combination of these services:</p>
+<ul>
+<li><strong>SEO and local search.</strong> Strong service pages, a complete Google Business Profile, technical fixes and helpful content.</li>
+<li><strong>Google Ads.</strong> Search campaigns that reach people actively looking for your service in the areas you cover.</li>
+<li><strong>Social advertising.</strong> Meta, TikTok, YouTube or LinkedIn Ads, chosen to match your audience.</li>
+<li><strong>Website design.</strong> A fast, mobile-first WordPress or Shopify site that makes it easy to call, book or buy.</li>
+<li><strong>AI-powered marketing.</strong> Using AI tools for research, reporting and testing ideas, with people checking every output.</li>
+<li><strong>Measurement.</strong> Tracking that shows which channels bring enquiries and sales, not just clicks.</li>
+</ul>
+<p>The right mix depends on your goals and budget. You rarely need everything at once.</p>
+
+<h2>Choosing channels for your Durham business</h2>
+<table>
+<thead><tr><th>Business type</th><th>Channels to start with</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Trades and home services</td><td>Local SEO, Google Ads</td><td>Customers search when they need help now</td></tr>
+<tr><td>Restaurants, cafés and venues</td><td>Google Business Profile, Meta Ads</td><td>Visual offers and map visibility drive bookings</td></tr>
+<tr><td>Student-facing businesses</td><td>Meta and TikTok Ads, SEO</td><td>Students discover services on social and search</td></tr>
+<tr><td>B2B and engineering firms</td><td>SEO, LinkedIn Ads, Google Ads</td><td>Buyers research carefully before contacting suppliers</td></tr>
+<tr><td>Online shops</td><td>Ecommerce SEO, Shopping and Performance Max</td><td>Product searches convert well with good tracking</td></tr>
+<tr><td>Professional services</td><td>SEO, Google Ads</td><td>Trust and clear expertise win enquiries</td></tr>
+</tbody>
+</table>
+
+<h2>SEO for Durham businesses</h2>
+<p>SEO builds visibility that keeps working month after month. For local firms, it starts with a complete Google Business Profile, consistent business details across directories and a steady flow of genuine reviews. On your website, it means a clear page for each main service, sensible pages for the towns you genuinely serve and content that answers the questions people ask before they buy.</p>
+<p>We also write content so it can be picked up by AI-generated answers, opening each section with a direct answer and using headings that match real questions. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains the map side, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers how we handle both traditional and AI search.</p>
+<p>If you are deciding between hiring an agency and a freelancer for SEO, our <a href="/blog/seo-agency-vs-freelancer-uk/">agency versus freelancer comparison</a> sets out the trade-offs.</p>
+
+<h2>Paid advertising in Durham</h2>
+<p>Paid ads bring enquiries quickly while SEO builds. Google Ads suits businesses where people search with clear intent, such as emergency repairs, legal advice or dental treatment. Meta Ads suit hospitality, events and consumer offers where a strong image or short video can spark interest. LinkedIn Ads suit B2B firms that need to reach specific job roles.</p>
+<p>The key in a county like Durham is targeting. Ads should reach people in the places you serve and avoid wasting budget on the wrong areas. Our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> covers what good account management involves, and our <a href="/services/paid-media/">paid media service</a> explains how we run Google, Meta, TikTok, YouTube and LinkedIn campaigns.</p>
+<p>We do not film or edit video. If you want video ads, the footage comes from your team or a production company, and we handle the targeting, testing and reporting.</p>
+
+<h2>Your website is the centre of everything</h2>
+<p>Every channel sends people to your website, so it needs to load quickly, work well on a phone and make the next step obvious. A slow or confusing site will undermine both SEO and paid ads. We build on WordPress and Shopify because both are reliable and easy for your own team to update.</p>
+<p>A small business website costs £1,000 to £2,000 and usually takes three to five weeks. An e-commerce site costs £1,500 to £3,500 and takes five to twelve weeks. Our <a href="/blog/wordpress-small-business-website/">WordPress small business website guide</a> explains what a good service site needs, and our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO guide</a> covers online shops.</p>
+
+<h2>How much does a digital marketing agency in Durham cost?</h2>
+<p>Our monthly retainers are the same across the UK. Launch costs £350 a month and suits a small firm that needs the essentials handled well. Growth costs £750 a month and adds more content, campaigns and reporting. Scale costs £1,500 a month for businesses running several channels or competing across a wider area. Ad spend is always paid separately, straight to the platform. You can compare plans on our <a href="/pricing/">pricing page</a>.</p>
+<p>SEO and paid results typically take three to six months to build properly. Paid ads can bring clicks within days, but refining them to an efficient cost per enquiry takes time and testing.</p>
+
+<h2>Using AI-powered marketing sensibly</h2>
+<p>AI tools can speed up a lot of marketing work, from grouping keywords and drafting ad variations to summarising reports and spotting patterns in campaign data. Used well, they free up time for the thinking that actually moves results. Used carelessly, they produce generic copy and confident mistakes.</p>
+<p>We use AI-powered tools for research, analysis and first drafts, and a person always checks and edits every output before it reaches your website or ads. That keeps your content accurate, specific to Durham and written in a voice that sounds like your business. If you are curious about how AI fits into your own marketing, we are happy to talk it through on a first call, with no obligation to use any particular tool.</p>
+
+<h2>Questions to ask any Durham agency</h2>
+<ol>
+<li>Which channels do you recommend for my business, and why?</li>
+<li>How will you measure enquiries and sales, not just traffic?</li>
+<li>Who owns the ad accounts, analytics and website?</li>
+<li>How often will I get a report, and what will it include?</li>
+<li>What is included in the monthly fee, and what costs extra?</li>
+<li>What happens if I want to stop?</li>
+</ol>
+<p>Clear answers to these questions are a good sign. Be cautious of anyone who guarantees rankings or a fixed number of leads, because honest agencies cannot promise either.</p>
+
+<h2>How we work with Durham businesses</h2>
+<p>We are a UK-based studio that works remotely, and we do not have an office in Durham. Every engagement starts with a video call to understand your business, customers and goals. We then review your website, search visibility and any existing ad accounts before agreeing a plan.</p>
+<p>Each month you receive a written report showing what we did, how results have moved and what we will focus on next. You keep ownership of your website, analytics and ad accounts throughout. For WordPress sites, our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a> explains the ongoing support we can provide.</p>
+
+<h2>FAQs</h2>
+<h3>How much does a digital marketing agency in Durham cost?</h3>
+<p>Prism Works Studio retainers cost £350, £750 or £1,500 a month depending on the work involved. Ad spend is paid separately, directly to each platform.</p>
+<h3>Which marketing channel should a Durham business start with?</h3>
+<p>Most local service businesses should start with local SEO and Google Ads. Hospitality and consumer brands often add Meta Ads, while B2B firms may add LinkedIn Ads.</p>
+<h3>How long does digital marketing take to work?</h3>
+<p>SEO and paid results typically take three to six months to build properly. Paid ads can bring clicks within days, but refining them for efficient enquiries takes longer.</p>
+<h3>Do you have an office in Durham?</h3>
+<p>No, we are a UK-based studio that works remotely. We work with Durham businesses through video calls, shared documents and written monthly reports.</p>
+<h3>Can you help us reach students in Durham?</h3>
+<p>Yes, we can run Meta and TikTok Ads and build search content aimed at students. Campaigns are timed around term dates, when student demand usually peaks.</p>
+<h3>Do you make video content for ads?</h3>
+<p>No, we do not film or edit video. Your team or a production company supplies the footage, and we handle targeting, testing and reporting.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-marketing-abu-dhabi',
+    seoTitle: 'Ecommerce Marketing Abu Dhabi: Sell More Online',
+    title: 'Ecommerce Marketing in Abu Dhabi: How Online Stores Grow Sales',
+    description: 'Ecommerce marketing in Abu Dhabi: store SEO, Google Shopping, Meta Ads, and Amazon and Noon listings that win UAE buyers, run remotely by a UK studio.',
+    date: '2026-11-28',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Ecommerce marketing in Abu Dhabi is about reaching UAE shoppers on the search engines, social apps and marketplaces they already use, then giving them a store they trust enough to buy from. For most online brands in the capital, that means a fast store, product-level SEO, Google Shopping, Meta Ads and listings on Amazon and Noon, all measured against real orders.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Abu Dhabi or anywhere in the UAE, and we work through video calls, shared documents and written reports. We write in English, so Arabic product copy comes from your team or a professional translator. We do not film or edit video or run product shoots. Your team or a local provider supplies photos and footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>What sets Abu Dhabi ecommerce apart</h2>
+<p>Abu Dhabi has a high share of households with strong spending power, a large Emirati population, many government and energy sector employees, and a growing number of residents in areas such as Al Reem Island, Yas Island, Saadiyat, Khalifa City and Mohammed Bin Zayed City. Al Ain, inland, adds another distinct audience within the emirate.</p>
+<p>These shoppers expect a premium experience: clear product information, quick delivery, easy returns, a range of payment options including buy now pay later and cash on delivery, and service in both Arabic and English. Luxury, fashion, beauty, fragrance, home and family products all sell well online, and gifting is a big driver around religious and national occasions.</p>
+<p>Abu Dhabi stores also compete with Dubai-based sellers and global brands that ship to the whole country. Showing local delivery speed, local stock and responsive customer service can help a capital-based store stand out.</p>
+
+<h2>Ecommerce marketing Abu Dhabi: where sales come from</h2>
+<p>The table below shows how the main channels typically fit together for an online store in the emirate.</p>
+<table>
+<thead><tr><th>Channel</th><th>Role</th><th>Where to start</th></tr></thead>
+<tbody>
+<tr><td>Store SEO</td><td>Ranks category and product pages for buying searches</td><td>Clear structure, unique copy, fast mobile pages</td></tr>
+<tr><td>Google Shopping and Performance Max</td><td>Shows products with image and price in Google</td><td>Clean product feed and accurate conversion tracking</td></tr>
+<tr><td>Google Search Ads</td><td>Captures brand and high-intent product searches</td><td>Brand terms and top-selling categories</td></tr>
+<tr><td>Meta Ads</td><td>Creates demand and retargets visitors</td><td>Catalogue ads and short product clips</td></tr>
+<tr><td>Amazon and Noon</td><td>Reaches shoppers who start on marketplaces</td><td>Optimised titles, images, attributes and reviews</td></tr>
+<tr><td>Email and WhatsApp</td><td>Recovers carts and drives repeat orders</td><td>Cart, post-purchase and win-back flows</td></tr>
+</tbody>
+</table>
+<p>Most stores begin with the store itself, one paid channel and either SEO or marketplaces, then add more once tracking shows which channels bring profitable orders.</p>
+
+<h2>A store built to convert</h2>
+<p>A premium audience is quick to leave a slow or confusing store. The essentials for Abu Dhabi shoppers are:</p>
+<ul>
+<li>Fast mobile pages and a short, simple checkout.</li>
+<li>Clear delivery times and costs for Abu Dhabi, Al Ain and other emirates.</li>
+<li>Visible returns and exchange terms.</li>
+<li>Local payment options, including buy now pay later where it suits your products.</li>
+<li>High-quality product images and complete size, material and care details.</li>
+<li>Arabic and English versions where your audience needs both.</li>
+</ul>
+<p>We build and improve stores on Shopify and WordPress with WooCommerce. An e-commerce site from us costs £1,500 to £3,500 and usually takes five to twelve weeks. Our <a href="/services/website-ecommerce-development/">website and e-commerce development service</a> explains how we work, our <a href="/blog/shopify-agency-uae/">Shopify in the UAE</a> guide covers platform setup and apps, and <a href="/blog/web-design-abu-dhabi/">web design in Abu Dhabi</a> covers local design expectations.</p>
+
+<h2>SEO for Abu Dhabi online stores</h2>
+<p>Ecommerce SEO focuses on the pages that match buying searches: categories and products. Good foundations include a logical category structure, unique product descriptions, helpful category introductions, product schema for price and availability, and clean technical setup. Supporting content such as buying guides and gifting guides can also attract shoppers earlier in their research.</p>
+<p>If you serve both Arabic and English searchers, plan separate language versions with proper hreflang setup rather than mixing languages on one page. Our guide to <a href="/blog/ecommerce-seo-uae/">ecommerce SEO in the UAE</a> covers the national picture, and <a href="/blog/seo-agency-abu-dhabi/">SEO in Abu Dhabi</a> is useful if you also have a showroom or click-and-collect point in the capital.</p>
+
+<h2>Paid ads for ecommerce in the capital</h2>
+<p>Google Shopping and Performance Max campaigns put your products, prices and images in front of people actively searching. Their success depends heavily on the product feed: accurate titles, prices, stock levels, categories and images. Search ads on brand terms and best-selling categories add another layer of high-intent traffic. Our guide to <a href="/blog/google-ads-agency-abu-dhabi/">Google Ads in Abu Dhabi</a> explains account structure and tracking for the emirate.</p>
+<p>Meta Ads help create demand and bring back visitors who did not buy. Catalogue ads, short product clips, gifting angles and seasonal offers usually perform best. TikTok Ads can work for fashion, beauty and gadgets where your audience is younger. Because we do not film or edit video, you will need regular clips from your team or creators before scaling social campaigns.</p>
+<p>Products such as supplements, cosmetics with health claims or age-restricted goods need extra care. Keep claims general, check platform policies and follow official UAE guidance. Compliance approval rests with you.</p>
+
+<h2>Selling on Amazon and Noon</h2>
+<p>Many UAE shoppers search Amazon.ae and Noon before they visit a brand's own store. Marketplace SEO covers keyword-focused titles, clear bullet points, complete attributes, strong main and secondary images, enhanced content where available, and a steady flow of genuine reviews. Competitive pricing and reliable stock also affect where your products appear.</p>
+<p>Our guides to <a href="/blog/amazon-seo-uae/">Amazon SEO in the UAE</a> and <a href="/blog/noon-seo-uae/">Noon SEO in the UAE</a> explain how each platform ranks listings. Many Abu Dhabi brands use marketplaces for reach and their own store for margin, brand experience and repeat customers.</p>
+
+<h2>The UAE retail calendar</h2>
+<p>Online demand in Abu Dhabi rises sharply around Ramadan and Eid, when gifting, fashion, fragrance, food and home goods peak. UAE National Day, White Friday and year-end sales bring further spikes, while back-to-school and summer travel shift what people buy. Plan stock, offers, budgets and emails well ahead, and keep delivery promises realistic during busy weeks.</p>
+<p>After each peak, review which products, offers and channels performed best, and use that to plan the next one. Check courier capacity and customer service cover before each peak too, because late deliveries during Eid can cost more in refunds and poor reviews than a campaign earns. Seasonal landing pages that stay live year after year can also build search visibility over time.</p>
+
+<h2>Retention and lifetime value</h2>
+<p>With higher acquisition costs, repeat customers make a big difference to profit. Simple automated flows help:</p>
+<ol>
+<li>Abandoned cart reminders by email and, with consent, WhatsApp.</li>
+<li>Clear order and delivery updates.</li>
+<li>Post-purchase care tips or related product suggestions.</li>
+<li>Review requests once the order has arrived.</li>
+<li>Win-back messages for lapsed customers.</li>
+</ol>
+<p>Our guide to <a href="/blog/ecommerce-abandoned-cart-recovery/">abandoned cart recovery</a> covers timing and messaging in more detail. We set up tracking across the store, ads and marketplaces so you can judge channels by profitable orders, not just clicks.</p>
+
+<h2>Working with Prism Works Studio</h2>
+<p>We start with a video call about your products, margins and goals, then review your store, feed, ads and listings. You receive a short plan with priorities, then we handle setup and send monthly reports. You approve all copy, and Arabic content comes from your team or a translator.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Typical fit</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350/month</td><td>A new store starting with one channel</td></tr>
+<tr><td>Growth</td><td>£750/month</td><td>Stores running Shopping, social and SEO together</td></tr>
+<tr><td>Scale</td><td>£1,500/month</td><td>Larger catalogues across store and marketplaces</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately to the platforms, and UAE dirham pricing is quoted on request. See our <a href="/pricing/">pricing page</a> for plan details. SEO and paid results typically build over three to six months, though Shopping campaigns can bring orders sooner.</p>
+
+<h2>FAQs</h2>
+<h3>What does ecommerce marketing in Abu Dhabi include?</h3>
+<p>Ecommerce marketing in Abu Dhabi includes store SEO, Google Shopping and search ads, Meta and TikTok Ads, Amazon and Noon listings, and email or WhatsApp flows. The right mix depends on your products, margins and customers.</p>
+<h3>How much does ecommerce marketing cost in Abu Dhabi?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month, with ad spend paid separately. An e-commerce site costs £1,500 to £3,500, and UAE dirham pricing is quoted on request.</p>
+<h3>Is Shopify a good choice for an Abu Dhabi online store?</h3>
+<p>Yes, Shopify suits most Abu Dhabi stores because it handles payments, multiple languages and apps well. WordPress with WooCommerce can suit stores that need more content flexibility.</p>
+<h3>Do you have an office in Abu Dhabi?</h3>
+<p>No, Prism Works Studio is UK-based, works remotely and has no office in the UAE. We work through video calls, shared documents and written monthly reports.</p>
+<h3>Can you manage Amazon and Noon listings?</h3>
+<p>Yes, we optimise Amazon and Noon listings, covering titles, bullet points, attributes and content structure. Arabic text comes from your team or a translator.</p>
+<h3>How quickly can an Abu Dhabi store see results?</h3>
+<p>Google Shopping and social ads can bring orders within weeks, while SEO and marketplace rankings typically take three to six months to build.</p>
+`,
+  },
+  {
+    slug: 'ecommerce-marketing-sharjah',
+    seoTitle: 'Ecommerce Marketing Sharjah: Grow Online Store Sales',
+    title: 'Ecommerce Marketing in Sharjah: A Practical Guide for Online Stores',
+    description: 'Ecommerce marketing in Sharjah: store SEO, Google Shopping, Meta and TikTok Ads, and Amazon and Noon listings that lift sales, run remotely by a UK studio.',
+    date: '2026-11-28',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Ecommerce marketing in Sharjah means getting your products in front of UAE shoppers where they already search and scroll, then making checkout and delivery feel simple and trustworthy. For most online stores in the emirate, the core mix is a fast store, product-level SEO, Google Shopping, Meta and TikTok Ads, and listings on marketplaces such as Amazon and Noon.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Sharjah or anywhere in the UAE, and we work through video calls, shared documents and written reports. We write in English, so Arabic product copy comes from your team or a professional translator. We do not film or edit video or run product shoots. Your team or a local provider supplies photos and footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>The Sharjah ecommerce landscape</h2>
+<p>Sharjah has a large, family-focused population, many residents who commute to Dubai, and a strong base of trading and light manufacturing businesses, including companies in free zones and industrial areas. That creates two main types of online seller: retail brands selling to UAE households, and trading businesses moving into direct online sales or wholesale ordering.</p>
+<p>Shoppers across the UAE are used to quick delivery, cash on delivery options, buy now pay later services and easy returns. They compare prices on marketplaces, check reviews and expect a store to look trustworthy on mobile. Bilingual shoppers may search in English or Arabic depending on the product. Sharjah's more conservative character also matters for product imagery and messaging, especially in fashion and beauty.</p>
+<p>Because Sharjah sellers deliver across the whole country, they compete with Dubai and Abu Dhabi stores on the same search results and marketplaces. Local roots can still be a strength for trust, delivery speed and customer service.</p>
+
+<h2>Ecommerce marketing Sharjah: the main channels</h2>
+<p>Here is how the main channels usually work together for an online store based in the emirate.</p>
+<table>
+<thead><tr><th>Channel</th><th>What it does</th><th>Good starting point</th></tr></thead>
+<tbody>
+<tr><td>Store SEO</td><td>Ranks category and product pages for buying searches</td><td>Clean structure, unique product copy, fast pages</td></tr>
+<tr><td>Google Shopping and Performance Max</td><td>Shows products with price and image in Google</td><td>Accurate product feed and tight conversion tracking</td></tr>
+<tr><td>Meta Ads</td><td>Builds demand and retargets visitors</td><td>Catalogue ads plus short product clips</td></tr>
+<tr><td>TikTok Ads</td><td>Reaches younger shoppers with product discovery</td><td>Test with creator-style clips once Meta works</td></tr>
+<tr><td>Amazon and Noon</td><td>Sells where many UAE shoppers start their search</td><td>Optimised titles, bullet points, images and reviews</td></tr>
+<tr><td>Email and WhatsApp</td><td>Recovers carts and brings buyers back</td><td>Abandoned cart, post-purchase and win-back flows</td></tr>
+</tbody>
+</table>
+<p>Few stores need every channel at once. Most start with a strong store, one paid channel and either SEO or marketplaces, then expand when tracking shows clear returns.</p>
+
+<h2>Start with a store that converts</h2>
+<p>Ads and SEO only work if the store turns visits into orders. For UAE shoppers, that usually means fast mobile pages, clear delivery times and costs, visible return terms, local payment options and trust signals such as reviews and a real contact route. Arabic and English versions may both be needed depending on your audience.</p>
+<p>We build and improve stores on Shopify and WordPress with WooCommerce. An e-commerce site from us costs £1,500 to £3,500 and usually takes five to twelve weeks depending on catalogue size and features. Our <a href="/services/website-ecommerce-development/">website and e-commerce development service</a> explains the process, and our guide to <a href="/blog/shopify-agency-uae/">Shopify in the UAE</a> covers platform choices, payments and apps. For local design expectations, see <a href="/blog/web-design-sharjah/">web design in Sharjah</a>.</p>
+
+<h2>SEO for online stores in Sharjah</h2>
+<p>Store SEO focuses on category and product pages, because those match the searches people make when they are ready to buy. The basics are:</p>
+<ul>
+<li>A logical category structure that matches how shoppers search.</li>
+<li>Unique product descriptions rather than manufacturer text.</li>
+<li>Helpful category intros, filters and internal links.</li>
+<li>Product schema so Google can show price and availability.</li>
+<li>Fast pages and clean technical setup.</li>
+<li>Delivery, returns and FAQ pages that answer real questions.</li>
+</ul>
+<p>Our guide to <a href="/blog/ecommerce-seo-uae/">ecommerce SEO in the UAE</a> goes deeper into the national picture, and <a href="/blog/seo-agency-sharjah/">SEO in Sharjah</a> covers local search for businesses that also have a showroom or collection point.</p>
+
+<h2>Paid ads that drive online sales</h2>
+<p>Google Shopping is often the most direct route to sales, because it shows your product, price and store at the moment someone searches. A clean product feed with accurate titles, prices, stock and images matters as much as bidding. Our <a href="/blog/google-shopping-ads-guide-uk/">Google Shopping guide</a> explains feeds and campaign structure, and the same principles apply in the UAE.</p>
+<p>Meta Ads help you build demand for products people are not yet searching for, and retarget visitors who did not buy. Catalogue ads, short product clips and seasonal offers work well. Our <a href="/blog/meta-ads-agency-uae/">Meta Ads in the UAE</a> article covers targeting and creative.</p>
+<p>TikTok Ads suit fashion, beauty, gadgets, home goods and gifting, where discovery through short clips is common. Because we do not film or edit video, you will need a steady supply of clips from your team or creators before scaling.</p>
+<p>For regulated or sensitive products, such as supplements, cosmetics with health claims or anything age-restricted, keep claims careful, check platform policies and follow official UAE guidance. Compliance approval rests with you.</p>
+
+<h2>Amazon and Noon marketplace SEO</h2>
+<p>Many UAE shoppers start their product search on a marketplace. Selling on Amazon.ae and Noon can bring volume, but only if listings are built to rank and convert. Marketplace SEO covers keyword-rich titles, clear bullet points, complete attributes, strong images, A+ or enhanced content where available, and steady reviews. Pricing and stock levels also affect visibility.</p>
+<p>Our guides to <a href="/blog/amazon-seo-uae/">Amazon SEO in the UAE</a> and <a href="/blog/noon-seo-uae/">Noon SEO in the UAE</a> explain how each platform ranks products. Many Sharjah sellers run marketplaces and their own store side by side, using marketplaces for reach and their own site for margin and repeat customers.</p>
+
+<h2>Plan around the retail calendar</h2>
+<p>UAE ecommerce follows a busy calendar. Ramadan and Eid bring major shopping peaks for fashion, gifts, food and home goods. White Friday and other November sales events drive heavy discounting. Back-to-school, summer travel and year-end gifting also move demand. Plan stock, offers, ad budgets and email campaigns several weeks ahead of each peak, and make sure delivery promises are realistic for busy periods.</p>
+<p>Peaks also test operations. Check courier capacity, customer service cover and stock levels before promoting heavily, because a late delivery during Eid can cost more in reviews and refunds than the campaign earns. After each peak, review which products, channels and offers performed best, so the next event is better planned.</p>
+
+<h2>Retention and repeat orders</h2>
+<p>Acquiring customers is expensive, so repeat orders matter. Useful flows include:</p>
+<ol>
+<li>Abandoned cart reminders by email and, with consent, WhatsApp.</li>
+<li>Order confirmation and delivery updates that reduce support queries.</li>
+<li>A post-purchase follow-up with care tips or related products.</li>
+<li>A review request once the product has arrived.</li>
+<li>A win-back message for customers who have not ordered in a while.</li>
+</ol>
+<p>We set up tracking across the store, ads and marketplaces so you can see which channels bring profitable orders, not just traffic.</p>
+
+<h2>Working with Prism Works Studio</h2>
+<p>We start with a call about your products, margins and goals, then review your store, feeds, ads and listings. You get a short plan with priorities, then we handle setup and send monthly reports. You approve all copy, and Arabic content comes from your team or a translator.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Typical fit</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350/month</td><td>A new store starting with one ad channel or SEO</td></tr>
+<tr><td>Growth</td><td>£750/month</td><td>Stores running Shopping, social and SEO together</td></tr>
+<tr><td>Scale</td><td>£1,500/month</td><td>Larger catalogues with store and marketplace channels</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately to the platforms, and UAE dirham pricing is quoted on request. See our <a href="/pricing/">pricing page</a> for plan details. SEO and paid results typically build over three to six months, though Shopping campaigns can bring sales sooner.</p>
+
+<h2>FAQs</h2>
+<h3>What is ecommerce marketing in Sharjah?</h3>
+<p>Ecommerce marketing in Sharjah is the mix of store SEO, Google Shopping, social ads, marketplace listings and email that drives online sales for stores based in the emirate. The right mix depends on your products, margins and audience.</p>
+<h3>How much does ecommerce marketing cost in Sharjah?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month, with ad spend paid separately. An e-commerce site costs £1,500 to £3,500, and UAE dirham pricing is quoted on request.</p>
+<h3>Should a Sharjah store sell on Amazon and Noon?</h3>
+<p>Yes, most stores benefit from at least testing Amazon and Noon, because many UAE shoppers start there. Your own store remains important for margin, branding and repeat customers.</p>
+<h3>Do you have an office in Sharjah?</h3>
+<p>No, Prism Works Studio is UK-based, works remotely and has no office in the UAE. We work through video calls, shared documents and written monthly reports.</p>
+<h3>Can you write Arabic product descriptions?</h3>
+<p>No, we write in English, so Arabic product copy comes from your team or a professional translator. We can plan the structure and keywords, and you approve all wording.</p>
+<h3>How long does ecommerce marketing take to show results?</h3>
+<p>Google Shopping and social ads can bring sales within weeks, while SEO and marketplace rankings typically take three to six months to build.</p>
+`,
+  },
+  {
+    slug: 'google-ads-agency-lincoln',
+    seoTitle: 'Google Ads Agency Lincoln: Paid Search That Brings Leads',
+    title: 'Google Ads Agency in Lincoln: A Guide for Lincolnshire Firms',
+    description: 'Need a Google Ads agency in Lincoln? See how search, Performance Max and local campaigns win Lincolnshire leads, what management costs and how we work remotely.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>A Google Ads agency in Lincoln should put your business in front of people who are actively searching for your service in Lincoln and across Lincolnshire, then turn those clicks into calls, bookings and sales at a sensible cost. The essentials are tight location targeting, keywords that show real buying intent, strong ads and landing pages that make the next step easy.</p>
+<p>Prism Works Studio is a UK-based paid media and SEO studio that works remotely. We set up and manage Google Ads for businesses in Lincoln and the wider county through shared dashboards, video calls and plain-English monthly reports. This guide covers how paid search works locally, what it costs and how to judge whether your account is well run.</p>
+
+<h2>How Lincolnshire shapes your Google Ads strategy</h2>
+<p>Lincoln is a historic cathedral city and the commercial centre for a large, largely rural county. Customers search from the city itself and from towns and villages such as North Hykeham, Waddington, Saxilby, Welton, Bracebridge Heath, Sleaford, Gainsborough and Market Rasen. Distances are long, so many service firms cover a broad radius while customers still prefer someone they see as local.</p>
+<p>The economy mixes agriculture and food production, engineering, defence-related work, logistics, the university, healthcare, retail, tourism around the cathedral and castle, and a big base of trades and professional services. Each of these sectors searches differently. A homeowner needing an emergency electrician behaves very differently from a farm business looking for specialist equipment or a family booking a weekend away.</p>
+<p>Good Google Ads management reflects those differences rather than using one broad campaign for everything.</p>
+
+<h2>What a Google Ads agency in Lincoln should set up</h2>
+<p>A well-structured account usually includes these elements:</p>
+<ul>
+<li><strong>Location targeting.</strong> A radius or list of towns that matches where you genuinely work, set to people in those places rather than people merely interested in them.</li>
+<li><strong>Tight keyword groups.</strong> Campaigns split by service, so each ad and landing page closely matches what was searched.</li>
+<li><strong>Negative keywords.</strong> A growing list of terms to exclude, such as jobs, training or free, so budget is not wasted.</li>
+<li><strong>Conversion tracking.</strong> Calls, forms, bookings and sales tracked properly so the account optimises towards real results.</li>
+<li><strong>Ad assets.</strong> Call, location, sitelink and callout assets that make ads larger and more useful.</li>
+<li><strong>Scheduling.</strong> Ads shown when you can answer the phone, or adjusted for times when enquiries tend to convert.</li>
+</ul>
+<p>Our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> explains each of these in more depth.</p>
+
+<h2>Campaign types and when to use them</h2>
+<table>
+<thead><tr><th>Campaign type</th><th>Best for</th><th>Lincoln example</th></tr></thead>
+<tbody>
+<tr><td>Search</td><td>Capturing people actively looking for a service</td><td>Roofers, solicitors, dentists, garages</td></tr>
+<tr><td>Performance Max</td><td>Shops and firms with good tracking and creative</td><td>Online retailers and food producers</td></tr>
+<tr><td>Shopping</td><td>Selling products with clear prices</td><td>Garden, farm supply or gift retailers</td></tr>
+<tr><td>Demand Gen</td><td>Building interest before people search</td><td>Tourism, events and new product launches</td></tr>
+<tr><td>YouTube</td><td>Reaching people with video you already have</td><td>Brands with existing video content</td></tr>
+</tbody>
+</table>
+<p>Most local service businesses should start with Search, because it reaches people at the moment they need help. Performance Max and Shopping suit e-commerce once tracking is reliable. If you plan to use video ads, the footage needs to come from your team or a production company, since we do not film or edit video.</p>
+
+<h2>How much does Google Ads management in Lincoln cost?</h2>
+<p>There are two costs to consider. The first is your ad spend, which you pay straight to Google. The second is our management fee. Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is always paid separately and is never mixed with our fee. You can see what each plan covers on our <a href="/pricing/">pricing page</a>.</p>
+<p>How much to spend on ads depends on how competitive your sector is and how many enquiries you want. Some local trades start modestly and grow budget once they see which keywords bring in work. Competitive sectors, such as legal services or home improvements, usually need more to compete. We will give an honest view on whether your budget is enough to learn anything useful.</p>
+<p>Paid search usually starts producing clicks within days, but it typically takes three to six months of testing and refinement to reach a strong, stable cost per enquiry.</p>
+
+<h2>Landing pages decide whether clicks become customers</h2>
+<p>Many accounts struggle not because the ads are poor but because the landing page lets people down. Sending every click to a generic homepage usually wastes money. A good landing page matches the search, repeats the offer from the ad, shows trust signals you can genuinely back up and gives one obvious next step.</p>
+<p>If your website is slow or hard to use on a mobile, fixing it may do more for your results than any change to bids. We build small business websites from £1,000 to £2,000 and e-commerce sites from £1,500 to £3,500, and our <a href="/services/website-ecommerce-development/">website development service</a> explains how we build pages that convert. For WordPress sites, our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a> covers what good support looks like.</p>
+
+<h2>Google Ads and SEO together</h2>
+<p>Paid search and SEO work best as a team. Ads deliver enquiries now. SEO builds visibility that keeps working without paying for every click. Data from your ads shows which searches lead to customers, which helps focus the SEO plan on terms that matter.</p>
+<p>For local firms, a strong Google Business Profile also helps both. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to improve map visibility, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers ongoing organic work. Many Lincoln businesses reduce their reliance on ads over time as organic rankings improve.</p>
+
+<h2>Beyond Google: other paid channels</h2>
+<p>Google is usually the starting point because it captures existing demand. For some businesses, other platforms add value. Meta Ads on Facebook and Instagram suit hospitality, events, retail and consumer services in the city. LinkedIn Ads can help B2B firms in engineering, agriculture technology or professional services reach decision-makers. TikTok and YouTube Ads suit brands with strong video content supplied by their own team.</p>
+<p>Our <a href="/services/paid-media/">paid media service</a> covers Google, Meta, TikTok, YouTube and LinkedIn Ads, and we recommend only the channels that fit your goals and budget. If you sell on marketplaces, our <a href="/blog/amazon-seo-agency-uk/">Amazon SEO guide</a> explains how listing optimisation fits alongside paid search.</p>
+
+<h2>Signs your current Google Ads account needs attention</h2>
+<p>If you already run Google Ads, look out for these warning signs:</p>
+<ol>
+<li>You cannot see how many calls or forms came from your ads last month.</li>
+<li>Your search terms report shows lots of irrelevant searches.</li>
+<li>Ads run across the whole UK when you only serve Lincolnshire.</li>
+<li>Every ad sends people to the homepage.</li>
+<li>Nobody has changed the account in weeks.</li>
+<li>You do not have access to your own account.</li>
+</ol>
+<p>Any one of these can waste a meaningful share of your budget. We start every new client with an audit that checks these points before suggesting changes.</p>
+
+<h2>Following up enquiries quickly</h2>
+<p>Even the best campaign struggles if enquiries are not answered promptly. People searching for a local service often contact two or three businesses at once and choose whoever replies first. Make sure calls are answered or returned quickly, forms reach someone who can act on them and missed calls are followed up the same day. We can track calls and forms so you can see how many enquiries arrive and when, which helps you plan staffing around busy times.</p>
+
+<h2>How we work with Lincoln businesses</h2>
+<p>We are a UK-based studio that works remotely, and we do not have an office in Lincoln. Instead, we run campaigns through shared dashboards, video calls and written monthly reports. You own your Google Ads account and keep full access at all times. Each month you see what we changed, how leads and costs have moved and what we plan to test next.</p>
+<p>We are open about what paid search can and cannot do. We never guarantee a set number of leads, because results depend on competition, budget, your offer and how quickly enquiries are followed up.</p>
+
+<h2>FAQs</h2>
+<h3>How much does a Google Ads agency in Lincoln cost?</h3>
+<p>Prism Works Studio management costs £350, £750 or £1,500 a month depending on the plan. Your ad spend is separate and paid directly to Google.</p>
+<h3>How quickly will Google Ads bring enquiries?</h3>
+<p>Ads can start getting clicks within days of launch. Reaching a steady, efficient cost per enquiry typically takes three to six months of testing and refinement.</p>
+<h3>Can I target only Lincoln and nearby towns?</h3>
+<p>Yes, you can target a radius around Lincoln or a list of specific towns. We set targeting to people in those locations so budget is not spent on searchers elsewhere.</p>
+<h3>Do I keep ownership of my Google Ads account?</h3>
+<p>Yes, you own the account and keep full access at all times. If you ever stop working with us, the account and its history stay with you.</p>
+<h3>Do you have an office in Lincoln?</h3>
+<p>No, we are a UK-based studio that works remotely. We manage campaigns through shared dashboards, video calls and written monthly reports.</p>
+<h3>Should I run Google Ads or SEO first?</h3>
+<p>It depends on how quickly you need enquiries and how strong your website is. Many businesses run Google Ads for immediate leads while SEO builds longer-term visibility.</p>
+`,
+  },
+  {
+    slug: 'google-ads-agency-lyon',
+    seoTitle: 'Google Ads Agency Lyon: Paid Search That Brings Leads',
+    title: 'Google Ads Agency in Lyon: Running Campaigns That Pay Their Way',
+    description: 'Google Ads for Lyon businesses: search, Shopping and Performance Max campaigns, tracking and landing pages to win leads and sales, from a remote UK studio.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Google Ads agency in Lyon plans, builds and manages paid search campaigns so your business appears when people search for what you sell, and you only pay when they click. Done well, Google Ads brings enquiries and sales within weeks, but it depends on good targeting, accurate tracking and landing pages that convert.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Lyon or anywhere in France. We work through video calls, shared documents and clear monthly reports. We write in English, so French ad copy and landing page text come from your team or a professional translator. We handle strategy, campaign build, bidding, tracking and reporting.</p>
+
+<h2>Why Google Ads matters for Lyon businesses</h2>
+<p>Lyon is France's third-largest city and a major centre for life sciences, manufacturing, software, finance, logistics and, of course, food and hospitality. The wider Auvergne-Rhône-Alpes region adds strong industrial and tourism economies. That means competition in paid search varies widely. Some local service terms are affordable, while sectors such as legal, health, finance and software can be expensive per click.</p>
+<p>Because Google is the starting point for so many purchases in France, being visible for the right searches at the right moment can make a big difference. The aim is not to bid on everything, but to focus budget on the searches most likely to turn into customers.</p>
+
+<h2>Google Ads agency Lyon: campaign types explained</h2>
+<table>
+<thead><tr><th>Campaign type</th><th>Best for</th><th>What it needs</th></tr></thead>
+<tbody>
+<tr><td>Search</td><td>Service businesses and high-intent product searches</td><td>Tight keyword groups and relevant ad copy</td></tr>
+<tr><td>Shopping</td><td>Online stores selling physical products</td><td>A clean Merchant Center feed with prices in euros</td></tr>
+<tr><td>Performance Max</td><td>Stores and lead generation with good conversion data</td><td>Reliable tracking, strong assets and audience signals</td></tr>
+<tr><td>Display and remarketing</td><td>Bringing back visitors who did not convert</td><td>Enough site traffic and clear offers</td></tr>
+<tr><td>YouTube</td><td>Awareness and remarketing with video</td><td>Video supplied by your team or a provider</td></tr>
+</tbody>
+</table>
+<p>Our <a href="/blog/performance-max-guide-uk/">Performance Max guide</a> explains when that campaign type helps and when it hides too much.</p>
+
+<h2>Start with tracking</h2>
+<p>Before spending more, you need to know which clicks become customers. We set up conversion tracking in Google Ads and Google Analytics 4 for form submissions, calls, bookings and purchases. Where possible, we add enhanced conversions and import offline sales, so Google's bidding learns from real outcomes rather than simple page visits.</p>
+<p>In France and across the EU, consent rules affect tracking. Your site needs a cookie banner that records choices properly, and Google's consent mode should be set up so data is handled correctly. We help configure this, but final legal approval rests with your business and its advisers. Our guide to <a href="/blog/cookie-banner-design-uk/">cookie banner design</a> covers the basics.</p>
+
+<h2>Keywords and match types</h2>
+<p>Good keyword work separates profitable searches from wasted spend. We group keywords by service or product, use match types carefully and build negative keyword lists to block irrelevant searches such as jobs, free advice or competitor brand names you do not want. For local businesses, we target Lyon and nearby areas such as Villeurbanne, Vénissieux and Caluire-et-Cuire, adjusting radius and bids based on where customers actually come from.</p>
+<p>French keyword research is done with your team or translator, because search terms often differ from direct translations. We bring the structure and the data, and you bring the language and local knowledge.</p>
+
+<h2>Ads and landing pages</h2>
+<p>Ads must match the search and lead to a page that delivers on the promise. Sending every click to a homepage usually wastes budget. We recommend focused landing pages for each main service or product group, with a clear offer, proof points you can support, and a simple form or call button.</p>
+<p>Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> explains what makes a page convert. If your site needs work first, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> covers rebuilds.</p>
+
+<h2>Google Shopping for Lyon ecommerce brands</h2>
+<p>For online stores, Shopping and Performance Max campaigns often bring the best return. The product feed is central: titles, descriptions, prices, stock and images must be accurate and match the store. Mismatches cause disapprovals. We optimise titles with the terms shoppers use and split products by margin and performance so budget goes where it earns most.</p>
+<p>If you sell into several EU countries, our guide to <a href="/blog/shopify-markets-europe/">Shopify Markets in Europe</a> covers multi-currency setup, and our guide to <a href="/blog/shopify-agency-france/">Shopify in France</a> explains platform choices.</p>
+
+<h2>How Google Ads fits with other channels</h2>
+<p>Paid search works best as part of a wider plan. SEO builds lasting traffic so you rely less on paid clicks over time. Our guide to <a href="/blog/seo-agency-lyon/">SEO in Lyon</a> covers organic search in the city. Social ads create demand that people later search for, and our guide to <a href="/blog/meta-ads-agency-france/">Meta Ads in France</a> explains that side. For comparison with the capital's market, see our guide to <a href="/blog/google-ads-agency-paris/">Google Ads in Paris</a>.</p>
+
+<h2>Regulated sectors</h2>
+<p>Health, legal, finance and some other sectors face extra advertising rules in France and under Google's own policies. We keep ad claims general and accurate and follow platform rules. Compliance approval of ads and landing pages rests with your business, and you should check official guidance or your adviser for your specific obligations.</p>
+
+<h2>Our management process</h2>
+<ol>
+<li><strong>Audit or plan.</strong> We review any existing account or plan a new one from scratch.</li>
+<li><strong>Tracking setup.</strong> We confirm conversions are recorded accurately.</li>
+<li><strong>Build.</strong> We create campaigns, ad groups, ads, extensions and negative lists.</li>
+<li><strong>Optimise.</strong> We review search terms, bids, budgets and ads every week.</li>
+<li><strong>Report.</strong> Monthly reports show spend, conversions, cost per result and next steps.</li>
+</ol>
+<p>See our <a href="/services/paid-media/">paid media service</a> for the full scope.</p>
+
+<h2>Pricing</h2>
+<p>Our management fees are in pounds sterling, and euro pricing is quoted on request. Ad spend is paid directly to Google and is separate from our fee.</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> one focused Search or Shopping setup.</li>
+<li><strong>Growth, £750 a month:</strong> several campaigns, landing page advice and remarketing.</li>
+<li><strong>Scale, £1,500 a month:</strong> larger accounts, multiple markets or Google Ads combined with SEO or social ads.</li>
+</ul>
+<p>See our <a href="/pricing/">pricing page</a> for details. Paid results often start within weeks, while settled performance typically takes three to six months.</p>
+
+<h2>Common Google Ads mistakes</h2>
+<ul>
+<li><strong>Broad keywords without negatives.</strong> Budget leaks into irrelevant searches.</li>
+<li><strong>Tracking page views instead of results.</strong> Bidding then optimises for the wrong thing.</li>
+<li><strong>One landing page for everything.</strong> Relevance and conversion rates suffer.</li>
+<li><strong>Changing too much too fast.</strong> Campaigns need time and data to learn.</li>
+<li><strong>Ignoring the search terms report.</strong> It shows exactly what you are paying for.</li>
+</ul>
+
+<h2>Budgeting and bidding strategy</h2>
+<p>A sensible Google Ads budget starts from what a customer is worth to you. If you know your average order value or the typical value of a new client, you can work out how much you can afford to pay for each lead or sale. We use that figure to set targets and decide which campaigns deserve more budget.</p>
+<p>New accounts usually begin with manual or conservative bidding while conversion data builds up. Once campaigns have recorded enough conversions, smart bidding strategies such as target cost per acquisition or target return on ad spend can work well. Switching too early, before Google has reliable data, often leads to unstable results and wasted spend.</p>
+<p>We also look at timing. Many Lyon service businesses get most enquiries during working hours, while online stores may see evening and weekend peaks. Ad schedules and bid adjustments help focus spend on the hours and days that bring results. Seasonal moments matter too, such as the January and summer sales, back-to-school in September and the run-up to Christmas, as well as local events that bring extra visitors to the city.</p>
+
+<h2>Reviewing an existing account</h2>
+<p>If you already run Google Ads, we start with an audit. We check tracking accuracy, account structure, search terms, negative keywords, ad relevance, landing pages and budget distribution. Most accounts have some quick fixes, such as blocking wasteful search terms or pausing ads that never convert. We share findings in plain language and agree priorities with you before making changes, so you always understand why something is being adjusted.</p>
+<p>You keep ownership of your Google Ads account at all times. We work inside it with access you grant, and if you ever move on, your campaigns and data stay with you.</p>
+
+<h2>FAQs</h2>
+<h3>How much does a Google Ads agency in Lyon cost?</h3>
+<p>Our Google Ads management costs £350, £750 or £1,500 a month, with ad spend paid separately to Google. Euro pricing is quoted on request.</p>
+<h3>Do you have an office in Lyon?</h3>
+<p>No, we have no office in Lyon or France. Prism Works Studio is UK-based and works remotely through video calls, shared documents and monthly reports.</p>
+<h3>Can you write French ad copy?</h3>
+<p>No, we write in English only. French ad copy and landing page text come from your team or a professional translator, and we handle structure, testing and optimisation.</p>
+<h3>How quickly will Google Ads bring results?</h3>
+<p>Google Ads can bring clicks and enquiries within days of launch. Performance usually settles over three to six months as campaigns gather data.</p>
+<h3>How much should we spend on ads?</h3>
+<p>The right ad budget depends on your sector, click costs and goals. We recommend starting with a test budget, measuring cost per result and scaling what works.</p>
+<h3>Can you manage Shopping campaigns for our store?</h3>
+<p>Yes, we manage Shopping and Performance Max campaigns, including product feed optimisation. Your team keeps stock, prices and product images up to date.</p>
+`,
+  },
+  {
+    slug: 'gym-marketing-amman',
+    seoTitle: 'Gym Marketing Amman: Win Trials and Keep Members',
+    title: 'Gym Marketing in Amman: A Practical Guide for Gyms and Studios',
+    description: 'Gym marketing in Amman: map listings, local SEO, Meta and Google Ads and a mobile website that turn searches into trial bookings, run remotely by a UK studio.',
+    date: '2026-11-28',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Gym marketing in Amman works best when your club is the first one people find when they search for a gym, a women-only studio or a class near their neighbourhood, and when that search leads straight to a simple trial offer. For most gyms in the city, the core mix is a well-kept Google Business Profile, a fast mobile website, and focused Meta and Google Ads campaigns that all point to the same booking step.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Amman or anywhere in Jordan, and we work through video calls, shared documents and written reports. We write in English, so Arabic copy comes from your team or a professional translator. We do not film or edit video. Your coaches, members or a local creator supply the footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>What makes the Amman fitness market different</h2>
+<p>Amman is a city of hills and districts, and people usually train close to where they live or work. Abdoun, Sweifieh, Khalda, Tla Al Ali, Jabal Amman, Shmeisani, Dabouq and Abu Nseir each have their own mix of residents, offices and traffic patterns. A gym in Sweifieh is not really competing with one in Marj Al Hamam, even if both appear in a citywide search. That is why neighbourhood-level visibility matters more than broad reach.</p>
+<p>The market mixes larger chains, hotel gyms, independent clubs and boutique studios for CrossFit-style training, martial arts, boxing, yoga, pilates and swimming. Many residents look for women-only facilities or women-only sessions, and families often ask about children's classes. Students and young professionals are price-aware and compare offers closely. Ramadan usually changes opening hours and training habits, and summer evenings bring different peak times, so your listings, offers and ads should follow the calendar.</p>
+<p>Most people discover gyms on their phone. They search on Google or Maps, check Instagram, read reviews and then message on WhatsApp or call. If any step is slow or unclear, they move to the next result.</p>
+
+<h2>Gym marketing Amman: the channels that matter most</h2>
+<p>Here is how the main channels usually fit together for a single-site gym or a small group of clubs in the city.</p>
+<table>
+<thead><tr><th>Channel</th><th>What it does for a gym</th><th>Where to start</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Puts you in map results for "gym near me" and district searches</td><td>Correct category, hours, photos, services and steady reviews</td></tr>
+<tr><td>Local SEO and website</td><td>Ranks for class, district and facility searches and converts visitors</td><td>One page per class type and a clear trial booking path</td></tr>
+<tr><td>Google Ads</td><td>Catches high-intent searches while SEO builds</td><td>Tight radius, district keywords, trial offer landing page</td></tr>
+<tr><td>Meta Ads</td><td>Builds demand and fills classes on Instagram and Facebook</td><td>Short coach-led clips, lead forms or WhatsApp click ads</td></tr>
+<tr><td>TikTok Ads</td><td>Reaches younger members with training content</td><td>Test once Meta is working and you have regular footage</td></tr>
+<tr><td>Email and WhatsApp follow-up</td><td>Turns trials into members and reduces cancellations</td><td>Simple sequences after a trial and before renewal dates</td></tr>
+</tbody>
+</table>
+<p>You do not need every channel on day one. Most gyms start with the profile, the website and one paid channel, then add more once tracking shows what is working.</p>
+
+<h2>Google Business Profile and local search</h2>
+<p>Your Google Business Profile is often the first thing a potential member sees. Choose the right primary category, add secondary categories for services you really offer, and keep opening hours accurate, including Ramadan and public holiday hours. Add real photos of the gym floor, changing rooms, studios and parking. Answer reviews in a friendly, short way, and ask happy members for reviews as part of your normal routine rather than in bursts. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> covers the setup in more detail, and most of it applies in Jordan too.</p>
+<p>Local SEO goes beyond the map listing. Your website should mention the districts you serve in natural language, show your address and a map, and include pages for each main service: personal training, group classes, women-only sessions, kids' classes and any specialist training. Each page should answer the questions people actually ask, such as prices, timetables, parking and whether a trial is free. For a wider view of how search works in the country, see our guide to <a href="/blog/seo-agency-jordan/">SEO in Jordan</a>.</p>
+
+<h2>A website that turns visits into trial bookings</h2>
+<p>A gym website does not need to be large, but it must be fast on mobile and make the next step obvious. The best sites we see for gyms share a few traits:</p>
+<ul>
+<li>A clear headline that says what you are and where you are.</li>
+<li>One main call to action, such as "Book a free trial" or "Message us on WhatsApp".</li>
+<li>Membership options or "from" prices if you are happy to publish them.</li>
+<li>Class timetables that load quickly and work on a phone.</li>
+<li>Real photos of your space and coaches, not stock images.</li>
+<li>Separate information for women-only facilities or sessions where you offer them.</li>
+</ul>
+<p>Our article on <a href="/blog/gym-website-design-uk/">gym website design</a> goes deeper into layout and booking flows. If you need a new site, our <a href="/services/website-ecommerce-development/">website development service</a> builds small sites in three to five weeks. A typical small website costs £1,000 to £2,000. You can also read about <a href="/blog/web-design-jordan/">web design in Jordan</a> for wider context on building for local users.</p>
+
+<h2>Paid ads for gyms in Amman</h2>
+<p>Paid ads work best for gyms when the offer is simple and the follow-up is fast. A seven-day pass, a free first class or a discounted first month are common starting points. Whatever you choose, keep it consistent across every ad and landing page.</p>
+<p>On Google Ads, focus on high-intent searches such as gym, fitness club, personal trainer or a class name combined with a district. Keep the radius tight, because people rarely travel across the city to train. Exclude searches that do not fit, such as jobs or equipment sales. Our <a href="/blog/google-ads-agency-jordan/">Google Ads in Jordan</a> guide explains account structure in more depth.</p>
+<p>On Meta, Instagram is usually the stronger placement for gyms. Short clips of real classes, coach introductions and member stories (with consent) tend to work better than polished adverts. Lead forms or click-to-WhatsApp ads keep the next step quick. Our <a href="/blog/meta-ads-agency-amman/">Meta Ads in Amman</a> article covers targeting and creative for the city. Remember that we do not film or edit video, so you will need a steady flow of footage from your team or a creator.</p>
+<p>TikTok Ads can work well for younger audiences, especially for boxing, functional training and transformation-style content. We usually add it once Meta is running smoothly and you can supply regular clips.</p>
+
+<h2>Content, offers and the training calendar</h2>
+<p>Gym marketing in Amman follows the year. January brings a surge of new-year interest. Ramadan changes when people train, so late evening sessions and adjusted timetables need clear promotion. Back-to-school weeks change family routines. Summer brings indoor training and swimming demand, while cooler months bring outdoor runs and bootcamps. Plan offers and posts a month ahead of each change.</p>
+<p>Good content for gyms is practical: how a first session works, what to bring, how to choose between classes, and short tips from coaches. These posts help on social media and, when written as web pages, they also help with search. Keep claims about health and body changes general and careful, and avoid promising specific results.</p>
+
+<h2>Follow-up, retention and reviews</h2>
+<p>The gyms that grow fastest are not always the ones with the most leads. They are the ones that reply quickly and keep members coming back. A few simple habits make a big difference:</p>
+<ol>
+<li>Reply to every enquiry within minutes during opening hours, ideally on WhatsApp.</li>
+<li>Book the trial at a fixed time instead of leaving it open.</li>
+<li>Send a reminder the day before and a short thank-you after the visit.</li>
+<li>Offer a clear membership option at the end of the trial.</li>
+<li>Check in with new members in their first month, when cancellations are most likely.</li>
+<li>Ask for a review once a member is settled and happy.</li>
+</ol>
+<p>We can set up tracking so you see which channel brings trials and which trials become members. That lets you move budget to what works rather than guessing. For more ideas that translate across markets, our <a href="/blog/gym-marketing-uk/">gym marketing guide</a> covers retention and offers in detail.</p>
+
+<h2>How Prism Works Studio works with Amman gyms</h2>
+<p>We work remotely from the UK. A typical start looks like this: a call to understand your club, members and goals; a review of your profile, website and any ads; a short plan with priorities; then setup and monthly reporting. We write in English. Your team or a translator handles Arabic copy, and you approve all wording before it goes live.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Good fit for</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350/month</td><td>One gym starting with local search and one ad channel</td></tr>
+<tr><td>Growth</td><td>£750/month</td><td>Gyms running search and social together with regular offers</td></tr>
+<tr><td>Scale</td><td>£1,500/month</td><td>Groups with several sites or a wider channel mix</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately, straight to the platforms. Prices in Jordanian dinar are quoted on request. See our <a href="/pricing/">pricing page</a> for what each plan includes, and our <a href="/services/paid-media/">paid media service</a> for how we run campaigns. SEO and paid results typically take three to six months to build, although well-set-up ads can bring enquiries sooner.</p>
+
+<h2>FAQs</h2>
+<h3>What is the best gym marketing in Amman for a new club?</h3>
+<p>The best starting point is a complete Google Business Profile, a fast mobile website with one trial offer, and one paid channel such as Google Ads or Meta Ads. Add more channels once tracking shows which one brings members.</p>
+<h3>How much does gym marketing cost in Amman?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month, with ad spend paid separately to the platforms. Jordanian dinar pricing is quoted on request, and a small website costs £1,000 to £2,000.</p>
+<h3>Do you have an office in Amman?</h3>
+<p>No, Prism Works Studio is UK-based, works remotely and has no office in Jordan. We work through video calls, shared documents and written monthly reports.</p>
+<h3>Can you write Arabic ads and website copy?</h3>
+<p>No, we write in English, so Arabic copy comes from your team or a professional translator. We can plan the structure and messages, and you approve all wording before it goes live.</p>
+<h3>Do you film gym videos for social media?</h3>
+<p>No, we do not film or edit video. Your coaches, members or a local creator supply footage, and we plan the ad strategy, set up campaigns and report on results.</p>
+<h3>How long does it take for gym marketing to work?</h3>
+<p>Paid ads can bring trial enquiries within weeks, while SEO and steady ad results typically take three to six months. Fast replies and a clear offer shorten that time.</p>
+`,
+  },
+  {
+    slug: 'gym-marketing-manama',
+    seoTitle: 'Gym Marketing Manama: Fill Classes and Grow Members',
+    title: 'Gym Marketing in Manama: A Guide for Gyms and Fitness Studios',
+    description: 'Gym marketing in Manama: Google Maps, local SEO, Meta and Google Ads and a fast website that turn searches into trial visits, run remotely by a UK studio.',
+    date: '2026-11-28',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Gym marketing in Manama is about making sure your club appears first when people nearby search for a gym, a class or a personal trainer, and then turning that search into a booked trial. In practice, that means a complete Google Business Profile, a quick mobile website with one offer, and well-targeted Google and Meta Ads that all lead to the same simple next step.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Manama or anywhere in Bahrain, and we work through video calls, shared documents and written reports. We write in English, so Arabic copy comes from your team or a professional translator. We do not film or edit video. Your coaches, members or a local creator supply footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>How the Manama fitness market works</h2>
+<p>Bahrain is small, and Manama and its surrounding areas are close together, but people still choose gyms based on daily routines. Residents of Juffair, Seef, Adliya, Sanabis, Hoora, Amwaj Islands and Saar often train near home or near the office, and traffic at peak times makes even short distances matter. A gym in Seef is competing mainly with clubs in Seef and nearby districts, not the whole island.</p>
+<p>The audience is very mixed. Bahraini families, Gulf visitors, Western and Asian expatriates and people working in finance and services all use gyms differently. English is widely used, but Arabic content matters for many local members. Women-only gyms and ladies' sessions are in steady demand, and many families want kids' classes and swimming. Ramadan usually changes opening hours and training habits, and the hot summer moves activity indoors.</p>
+<p>Because the market is compact, word of mouth and reviews spread quickly. A gym with strong, recent reviews and quick replies can stand out even against larger chains.</p>
+
+<h2>Gym marketing Manama: a channel plan</h2>
+<p>Here is how the main channels typically work together for a gym or studio in and around the capital.</p>
+<table>
+<thead><tr><th>Channel</th><th>Purpose</th><th>Where to begin</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Map visibility for "gym near me" and district searches</td><td>Accurate categories, hours, photos and steady reviews</td></tr>
+<tr><td>Local SEO</td><td>Rankings for classes, ladies' gyms and districts</td><td>Service pages and clear location details</td></tr>
+<tr><td>Google Ads</td><td>Captures people ready to join now</td><td>Small radius, trial landing page, call and WhatsApp tracking</td></tr>
+<tr><td>Meta Ads</td><td>Builds awareness and fills new classes</td><td>Coach-led clips, lead forms or click-to-WhatsApp</td></tr>
+<tr><td>TikTok Ads</td><td>Reaches younger members</td><td>Test once Meta is working and footage is regular</td></tr>
+<tr><td>Retention</td><td>Keeps members past the first months</td><td>Reminders, check-ins and review requests</td></tr>
+</tbody>
+</table>
+<p>Most gyms start with the profile, the website and one paid channel. Adding channels too early spreads a small budget thin. Once the first channel shows a steady cost per trial and a healthy share of trials becoming members, it is far easier to judge whether a second channel is worth the extra spend and management time. Measure first, then expand.</p>
+
+<h2>Win the map and local search</h2>
+<p>Your Google Business Profile often brings more enquiries than your website. Pick the most accurate primary category, add secondary categories only for services you offer, and keep hours correct for Ramadan and public holidays. If you run ladies' hours or a separate ladies' area, state this clearly. Upload recent photos of the gym floor, studios, changing rooms and parking. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> explains each setting, and it applies equally in Bahrain.</p>
+<p>On your website, create a page for each main service, such as personal training, group classes, women-only training, swimming and kids' classes. Mention the districts you serve naturally and include a map. For a wider look at search in the kingdom, read our guide to <a href="/blog/seo-agency-bahrain/">SEO in Bahrain</a>.</p>
+
+<h2>Build a website that books trials</h2>
+<p>Most visitors arrive on a phone, so speed and clarity matter more than design flourishes. Good gym websites in Manama usually have:</p>
+<ul>
+<li>A headline that says what you offer and where.</li>
+<li>One main action, such as "Book a free trial" or "Message us on WhatsApp".</li>
+<li>Clear information on ladies' facilities, family options and kids' classes.</li>
+<li>Fast timetables that are easy to read on a small screen.</li>
+<li>Membership options or "from" prices if you want to publish them.</li>
+<li>Real photos of your space and coaches.</li>
+</ul>
+<p>Our <a href="/blog/gym-website-design-uk/">gym website design guide</a> goes into page layout and booking flows. You can also read about <a href="/blog/web-design-bahrain/">web design in Bahrain</a>. A small website from us costs £1,000 to £2,000 and usually takes three to five weeks.</p>
+
+<h2>Paid ads for Manama gyms</h2>
+<p>The best gym campaigns repeat one clear offer everywhere, such as a free first class, a week's pass or a reduced joining fee. Changing the offer constantly makes it hard to learn what works.</p>
+<p>On Google Ads, target searches that show intent to join: gym, ladies gym, personal trainer, swimming lessons and class names with a district. Use a small radius and add negative keywords for jobs and equipment. Because Bahrain is small, even modest budgets can cover the key searches well. Our <a href="/blog/google-ads-agency-bahrain/">Google Ads in Bahrain</a> guide covers structure and tracking.</p>
+<p>On Meta, Instagram tends to lead for fitness. Short clips of real classes, coach introductions and member stories (with permission) usually beat polished adverts. Click-to-WhatsApp ads suit the way people in Bahrain prefer to talk to businesses. Read more in our <a href="/blog/meta-ads-agency-bahrain/">Meta Ads in Bahrain</a> article.</p>
+<p>TikTok Ads can help reach younger residents interested in boxing, martial arts and functional training. Since we do not film or edit video, a steady supply of clips from your team or a creator is essential before scaling any social campaign.</p>
+<p>Keep health and body claims general and avoid promising specific results. Check platform policies and official Bahraini guidance where relevant. Final approval of wording rests with you.</p>
+
+<h2>Plan around the calendar</h2>
+<p>Fitness demand in Manama moves with the seasons. January brings new-year sign-ups. Ramadan shifts training to late evenings, so updated timetables and listings matter. Summer heat lifts demand for indoor classes and pools, while cooler winter months bring outdoor bootcamps and running groups along the corniche and in parks. Back-to-school weeks change family routines and are a good time to promote kids' programmes.</p>
+<p>Plan offers and content a month ahead of each change. Simple, helpful posts work best: what to expect in a first session, how to choose a class, and short tips from coaches. As web pages, these also support search.</p>
+
+<h2>Follow-up and retention</h2>
+<p>In a small market, every lead counts. These habits help turn more enquiries into members:</p>
+<ol>
+<li>Reply within minutes during opening hours, ideally on WhatsApp.</li>
+<li>Book a fixed trial time rather than an open invitation.</li>
+<li>Send a reminder the day before and a thank-you after the visit.</li>
+<li>Offer one clear membership option at the end of the trial.</li>
+<li>Check in with new members during their first month.</li>
+<li>Ask happy members for a review once they are settled.</li>
+</ol>
+<p>We set up tracking so you can see which channel brings trials and which trials become members. For more retention ideas that work across markets, read our <a href="/blog/gym-marketing-uk/">gym marketing guide</a>.</p>
+
+<h2>Working with Prism Works Studio from the UK</h2>
+<p>We begin with a video call about your club and goals, review your profile, website and ads, and share a short plan. Then we handle setup and send monthly reports. You approve all copy, and Arabic content comes from your team or a translator.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Best for</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350/month</td><td>A single gym starting with local search and one ad channel</td></tr>
+<tr><td>Growth</td><td>£750/month</td><td>Gyms running search and social together</td></tr>
+<tr><td>Scale</td><td>£1,500/month</td><td>Groups with several clubs across Bahrain</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately to the platforms, and Bahraini dinar pricing is quoted on request. See our <a href="/pricing/">pricing page</a> for full plan details and our <a href="/services/paid-media/">paid media service</a> for how we manage campaigns. SEO and paid results typically build over three to six months, although ads can bring enquiries sooner.</p>
+
+<h2>FAQs</h2>
+<h3>What is the most effective gym marketing in Manama?</h3>
+<p>The most effective approach combines a strong Google Business Profile, a mobile website with one trial offer and targeted Google or Meta Ads. Quick WhatsApp replies then turn those enquiries into members.</p>
+<h3>How much does gym marketing cost in Bahrain?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month, with ad spend paid separately. Bahraini dinar pricing is quoted on request, and a small website costs £1,000 to £2,000.</p>
+<h3>Do you have an office in Manama?</h3>
+<p>No, Prism Works Studio is UK-based, works remotely and has no office in Bahrain. We work through video calls, shared documents and written monthly reports.</p>
+<h3>Can you run ads in Arabic and English?</h3>
+<p>Yes, we can run campaigns in both languages, but we write in English only. Arabic copy comes from your team or a professional translator, and you approve all wording.</p>
+<h3>Do you film or edit gym videos?</h3>
+<p>No, we do not film or edit video. Your coaches, members or a local creator supply footage, and we handle strategy, targeting, setup and reporting.</p>
+<h3>How long does gym marketing take to work in Manama?</h3>
+<p>Paid ads can bring trial enquiries within weeks, while SEO and stable ad performance typically take three to six months. A clear offer and fast replies shorten the timeline.</p>
+`,
+  },
+  {
+    slug: 'gym-marketing-sharjah',
+    seoTitle: 'Gym Marketing Sharjah: More Trials, Loyal Members',
+    title: 'Gym Marketing in Sharjah: How Gyms and Studios Grow Membership',
+    description: 'Gym marketing in Sharjah: map visibility, local SEO, Google, Meta and TikTok Ads and a clear trial offer that fills classes, run remotely by a UK-based studio.',
+    date: '2026-11-28',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Gym marketing in Sharjah is about being the club people find when they search for a gym, a ladies' gym or a class close to home, and then giving them one simple reason to book a trial. For most gyms in the emirate, that means a strong Google Business Profile, a mobile-friendly website with a clear offer, and focused Google, Meta and sometimes TikTok Ads that all lead to the same booking step.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Sharjah or anywhere in the UAE, and we work through video calls, shared documents and written reports. We write in English, so Arabic copy comes from your team or a professional translator. We do not film or edit video. Your coaches, members or a local creator supply footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>Why Sharjah needs its own gym marketing plan</h2>
+<p>Sharjah is often grouped with Dubai, but the fitness market works differently. Many residents are families, and the emirate has a more conservative, community-focused character, with modest dress codes and strong demand for women-only gyms and separate ladies' sessions. Messaging that works in a Dubai Marina studio may feel out of place here. Our <a href="/blog/gym-marketing-dubai/">gym marketing in Dubai</a> guide covers the neighbouring market, and the contrast is useful when planning.</p>
+<p>Location is also critical. Al Majaz, Al Nahda, Al Khan, Muwaileh, Al Taawun, Al Qasimia and University City each have their own residents and traffic patterns. Many people commute to Dubai or Ajman, so they train either near home early in the morning or late in the evening after a long drive. A gym that can show it is convenient for those routines has an advantage.</p>
+<p>The market includes large chains, community clubs, hotel gyms and boutique studios for martial arts, boxing, functional training, yoga, pilates and swimming. Price-aware families compare offers closely, and many look for kids' classes alongside adult memberships.</p>
+
+<h2>Gym marketing Sharjah: choosing the right channels</h2>
+<p>The table below shows how the main channels usually fit together for a gym in the emirate.</p>
+<table>
+<thead><tr><th>Channel</th><th>Role for a Sharjah gym</th><th>First steps</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile</td><td>Wins "gym near me" and district map searches</td><td>Correct categories, real photos, hours and steady reviews</td></tr>
+<tr><td>Local SEO</td><td>Ranks pages for class types, ladies' gyms and districts</td><td>One page per service and district mentions in natural text</td></tr>
+<tr><td>Google Ads</td><td>Captures ready-to-join searches straight away</td><td>Tight radius, trial offer page, call and WhatsApp tracking</td></tr>
+<tr><td>Meta Ads</td><td>Builds awareness and fills classes</td><td>Short coach-led clips and click-to-WhatsApp ads</td></tr>
+<tr><td>TikTok Ads</td><td>Reaches younger members and students</td><td>Test after Meta works, with a steady supply of clips</td></tr>
+<tr><td>Follow-up and retention</td><td>Turns trials into members and keeps them</td><td>Reminders, first-month check-ins and review requests</td></tr>
+</tbody>
+</table>
+<p>Most gyms start with the profile, the website and one paid channel, then add more once tracking shows clear results.</p>
+
+<h2>Local search and your Google Business Profile</h2>
+<p>For most gyms, map results bring more enquiries than any other single source. Make sure your primary category is right, add only secondary categories you truly offer, and keep hours accurate, including Ramadan and public holiday hours. If you have separate ladies' hours or a separate ladies' floor, say so clearly in your description and services. Add photos of the gym floor, studios, changing areas and parking. Our <a href="/blog/google-business-profile-uk/">Google Business Profile guide</a> walks through the setup, and the same principles apply in the UAE.</p>
+<p>Your website supports the listing. Create pages for each main service, such as personal training, group classes, women-only training, kids' classes and swimming. Mention the districts you serve in plain language and show a map and parking details. For a wider look at search in the emirate, read our guide to <a href="/blog/seo-agency-sharjah/">SEO in Sharjah</a>.</p>
+
+<h2>A website that books trials</h2>
+<p>People usually look at a gym website on their phone, often in the car park of a competitor or on the way home from work. The page must load quickly and make the next step obvious. Strong gym websites in Sharjah tend to include:</p>
+<ul>
+<li>A short headline that says who you serve and where you are.</li>
+<li>A single call to action, such as "Book a free trial" or "Chat on WhatsApp".</li>
+<li>Clear details on ladies' facilities, family options and kids' classes.</li>
+<li>Timetables that load fast and are easy to read on a phone.</li>
+<li>Membership options or "from" prices if you choose to publish them.</li>
+<li>Real photos of your space and team.</li>
+</ul>
+<p>Our <a href="/blog/gym-website-design-uk/">gym website design guide</a> covers layout and booking flows in more depth, and <a href="/blog/web-design-sharjah/">web design in Sharjah</a> explains what local users expect. A small website from us costs £1,000 to £2,000 and usually takes three to five weeks.</p>
+
+<h2>Paid ads that suit the emirate</h2>
+<p>The strongest gym campaigns use one simple offer, such as a free first class, a seven-day pass or a reduced joining fee, and repeat it across search, social and the landing page.</p>
+<p>On Google Ads, focus on high-intent searches: gym, ladies gym, personal trainer, swimming lessons or a class name with a district. Keep the radius small, since few people cross the emirate to train. Add negative keywords for jobs, equipment and unrelated searches. Our article on <a href="/blog/google-ads-agency-sharjah/">Google Ads in Sharjah</a> explains account structure and tracking.</p>
+<p>On Meta, Instagram usually leads for gyms. Short clips of real classes and coach introductions tend to outperform polished adverts. Keep imagery and messaging respectful of local norms, and run separate ad sets and creative for women-only offers where relevant. Read more in our <a href="/blog/meta-ads-agency-uae/">Meta Ads in the UAE</a> guide.</p>
+<p>TikTok Ads can reach students around University City and younger residents, especially for boxing, martial arts and functional training. Our <a href="/blog/tiktok-ads-agency-uae/">TikTok Ads in the UAE</a> article covers how to test it. Because we do not film or edit video, you will need a reliable source of footage before scaling social campaigns.</p>
+<p>Fitness ads should avoid exaggerated body or health claims. Keep claims general, check platform advertising policies, and follow official UAE guidance where it applies. Final approval of wording rests with you.</p>
+
+<h2>Seasons, offers and content</h2>
+<p>Sharjah's fitness calendar shifts through the year. January brings new-year interest. Ramadan changes training times, so late evening classes and adjusted timetables need clear promotion. The long, hot summer moves training indoors and lifts demand for swimming and air-conditioned classes, while cooler months bring outdoor bootcamps and running groups. Back-to-school weeks change family routines and are a good moment to promote kids' classes and parent memberships.</p>
+<p>Useful content is simple and practical: what happens in a first session, how to choose between classes, what to bring, and short coach tips. These posts work on social media and, as web pages, help with search too.</p>
+
+<h2>Follow-up turns enquiries into members</h2>
+<p>Many gyms spend money on ads and then lose leads through slow replies. A few habits fix most of the problem:</p>
+<ol>
+<li>Reply to every enquiry within minutes in opening hours, ideally on WhatsApp.</li>
+<li>Book a fixed trial time rather than an open invite.</li>
+<li>Send a reminder the day before and a thank-you afterwards.</li>
+<li>Present one clear membership option at the end of the trial.</li>
+<li>Check in during the first month, when members are most likely to drop off.</li>
+<li>Ask settled members for an honest review.</li>
+</ol>
+<p>We set up tracking so you can see which channel brings trials and which trials become members, so budget can move to what works.</p>
+
+<h2>Working with Prism Works Studio</h2>
+<p>We start with a video call about your club, members and goals, then review your profile, website and any current ads. You get a short plan with priorities, then we handle setup and send monthly reports. You approve all copy, and your team or a translator handles Arabic.</p>
+<table>
+<thead><tr><th>Plan</th><th>Monthly fee</th><th>Typical fit</th></tr></thead>
+<tbody>
+<tr><td>Launch</td><td>£350/month</td><td>One gym focusing on local search and one ad channel</td></tr>
+<tr><td>Growth</td><td>£750/month</td><td>Gyms running search and social together</td></tr>
+<tr><td>Scale</td><td>£1,500/month</td><td>Multi-site groups across Sharjah and nearby emirates</td></tr>
+</tbody>
+</table>
+<p>Ad spend is paid separately to the platforms, and UAE dirham pricing is quoted on request. See our <a href="/pricing/">pricing page</a> for plan details and our <a href="/services/paid-media/">paid media service</a> for how we run campaigns. SEO and paid results typically build over three to six months, though ads can bring enquiries sooner.</p>
+
+<h2>FAQs</h2>
+<h3>What does gym marketing in Sharjah involve?</h3>
+<p>Gym marketing in Sharjah combines local search, a website built for trial bookings and paid ads on Google, Meta and sometimes TikTok. Fast follow-up and retention work turn those enquiries into long-term members.</p>
+<h3>How much does gym marketing cost in Sharjah?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month, with ad spend paid separately. UAE dirham pricing is quoted on request, and a small website costs £1,000 to £2,000.</p>
+<h3>Do you have an office in Sharjah or Dubai?</h3>
+<p>No, Prism Works Studio is UK-based, works remotely and has no office in the UAE. We work through video calls, shared documents and written monthly reports.</p>
+<h3>Can you market a women-only gym?</h3>
+<p>Yes, we can plan search pages, listings and separate ad campaigns for women-only gyms and sessions. Your team or a translator provides Arabic copy, and you approve all wording and imagery.</p>
+<h3>Do you create video content for gym ads?</h3>
+<p>No, we do not film or edit video. Your coaches, members or a local creator supply the footage, and we handle ad strategy, setup, targeting and reporting.</p>
+<h3>How quickly will a Sharjah gym see results?</h3>
+<p>Paid ads can bring trial enquiries within a few weeks, while SEO and steady ad results typically take three to six months. A clear offer and quick replies speed things up.</p>
+`,
+  },
+  {
+    slug: 'gym-marketing-vancouver',
+    seoTitle: 'Gym Marketing Vancouver: Win More Trials and Members',
+    title: 'Gym Marketing in Vancouver: A Practical Guide for Gyms and Studios',
+    description: 'Gym marketing in Vancouver: local SEO, Google Maps, Meta and TikTok Ads and a website built to book trials, managed remotely by a UK studio with clear prices.',
+    date: '2026-11-28',
+    category: 'Sectors',
+    related: ['/services/seo-geo/', '/services/paid-media/', '/pricing/'],
+    body: `
+<p>Gym marketing in Vancouver is about being the first gym or studio people find when they search for a workout near them, then giving them an easy reason to book a trial. For most clubs that means a strong Google Business Profile, a fast website with a clear offer, and focused paid campaigns on Meta, TikTok and Google.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Vancouver or anywhere in Canada. We work through video calls, shared documents and written reports, and we write in English. We do not film or edit video. Your coaches, members or a local creator supply the photos and footage, and we handle strategy, setup, tracking and reporting.</p>
+
+<h2>What makes the Vancouver fitness market different</h2>
+<p>Vancouver is one of Canada's most active cities. People run the Seawall, hike the North Shore, ski in winter and paddle in summer. That means gyms compete not only with each other but with the outdoors. Many residents use a gym or studio to train for something else, such as a race, a ski season or a hiking trip, and marketing that speaks to those goals tends to land better than generic fitness messages.</p>
+<p>The market is crowded with boutique studios for yoga, pilates, cycling, climbing, boxing and functional training, along with larger chains and community centres. Neighbourhoods matter: someone in Kitsilano, Mount Pleasant, Yaletown or Commercial Drive usually wants a gym close to home or work, and transit and parking shape that choice. Nearby cities such as Burnaby, Richmond and North Vancouver each have their own search demand.</p>
+<p>Seasons change demand too. January brings new-year sign-ups, the long rainy season pushes training indoors, and summer often sees members pause. A plan that follows those patterns makes better use of your budget. Our guide to <a href="/blog/gym-marketing-uk/">gym marketing</a> covers the wider principles.</p>
+
+<h2>Local SEO and Google Maps</h2>
+<p>Most people find a gym by searching on their phone, and the map results often get the first clicks. A well-kept Google Business Profile is the foundation of gym marketing in Vancouver. We help you:</p>
+<ul>
+<li>Choose the right primary and secondary categories.</li>
+<li>Write a clear description with your classes, facilities and neighbourhood.</li>
+<li>Keep opening hours, holiday hours and class times accurate.</li>
+<li>Add fresh photos of your space, equipment and classes supplied by your team.</li>
+<li>Ask happy members for reviews and reply to every review politely.</li>
+</ul>
+<p>We also build location and class pages on your website so you can rank for searches such as "yoga studio Kitsilano" or "strength gym Mount Pleasant". Our <a href="/services/seo-geo/">SEO service</a> explains our approach, and our notes on <a href="/blog/seo-agency-vancouver/">SEO in Vancouver</a> cover the local picture.</p>
+
+<h2>A website built to book trials</h2>
+<p>Your website has one main job: turning interest into a booked trial or class. People should see your offer, prices or a clear route to them, the timetable and a booking button within seconds on a phone. Slow pages and confusing membership options lose sign-ups.</p>
+<p>We usually recommend a short, focused site with a homepage, class pages, a timetable, a membership page, a trial offer page and a contact page. Your booking software should connect cleanly, and conversion tracking should record every trial booked. Our guide to <a href="/blog/gym-website-design-uk/">gym website design</a> goes into more detail, and our notes on <a href="/blog/web-design-vancouver/">web design in Vancouver</a> cover local considerations. A small website costs £1,000 to £2,000 and typically takes three to five weeks.</p>
+
+<h2>Paid ads for Vancouver gyms</h2>
+<p>Paid ads bring a steady flow of trial bookings while SEO builds. Each platform plays a different role.</p>
+<table>
+<thead><tr><th>Channel</th><th>Best use for gyms</th><th>Typical offer</th></tr></thead>
+<tbody>
+<tr><td>Google Search</td><td>Catch people searching for a gym or class nearby</td><td>Free class or trial week</td></tr>
+<tr><td>Meta (Facebook and Instagram)</td><td>Reach locals by area and interest with photos and short video</td><td>Intro pass or challenge</td></tr>
+<tr><td>TikTok</td><td>Reach younger members with coach-led, native-looking clips</td><td>Trial class or starter pack</td></tr>
+<tr><td>YouTube</td><td>Show classes in more depth to warm audiences</td><td>Book a tour</td></tr>
+<tr><td>Retargeting</td><td>Bring back website visitors who did not book</td><td>Reminder of the trial offer</td></tr>
+</tbody>
+</table>
+<p>We keep targeting to a realistic radius around each location and run one clear offer at a time, so results are easy to read. Creative is key on social platforms: short clips of real classes, coaches explaining an exercise and members' first sessions tend to outperform polished adverts. Your team or a creator films them, and we write the briefs. See our guides to <a href="/blog/meta-ads-agency-vancouver/">Meta Ads in Vancouver</a> and <a href="/blog/tiktok-ads-agency-vancouver/">TikTok Ads in Vancouver</a> for platform-specific detail.</p>
+
+<h2>Following up leads and keeping members</h2>
+<p>Many gyms spend money on ads and then lose leads through slow follow-up. Reply to enquiries within the hour where possible, send a clear confirmation with what to bring and where to park, and check in after the first session. Simple automated messages through your booking system can help.</p>
+<p>If you email or text leads and members, Canada's anti-spam law requires the right consent and an easy way to unsubscribe. Keep your privacy policy accurate and check the rules with official guidance or your own adviser.</p>
+<p>Retention is marketing too. A member who stays a year is worth far more than a trial who leaves after a month. Challenges, progress check-ins, community events and referral offers all help, and they give you content for social media.</p>
+
+<h2>Health claims and sensible messaging</h2>
+<p>Fitness ads should avoid exaggerated promises about weight loss or body changes. Ad platforms restrict some before-and-after images and health claims, and advertising standards in Canada apply as well. Focus on the experience, the coaching, the community and the convenience. If you offer physiotherapy, nutrition advice or other health services, approval of claims rests with you and any relevant professional body. Our <a href="/sectors/healthcare/">healthcare marketing page</a> explains how we handle more regulated health services.</p>
+
+<h2>What gym marketing in Vancouver costs</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid directly to the platforms and is separate from our fee. Canadian dollar pricing is quoted on request. A single-location studio often starts on Launch with local SEO and one paid channel, while multi-site gyms usually need Growth or Scale. See our <a href="/pricing/">pricing page</a> for what each plan includes.</p>
+<p>SEO and paid results typically build over three to six months. We do not promise a set number of members, because results depend on your offer, location, prices and follow-up.</p>
+
+<h2>A simple 90-day plan</h2>
+<ol>
+<li>Month one: fix the Google Business Profile, set up tracking and launch a trial offer page.</li>
+<li>Month two: start one paid channel, gather reviews and publish class and area pages.</li>
+<li>Month three: add a second channel or retargeting, refresh creative and review cost per trial and per member.</li>
+</ol>
+
+<h2>Content that keeps your gym visible</h2>
+<p>Regular content helps both search and social. Short posts that answer member questions, such as what to bring to a first class, how to start strength training or how to train for a local race, give people a reason to find and trust you. Each one can become a blog post, a social clip filmed by your coaches and an email to members. Over time, these pages build search visibility for longer questions that local people ask.</p>
+<p>Keep a simple monthly calendar tied to the seasons: new-year goals in January, indoor training through the rainy months, outdoor and event preparation in spring and summer, and back-to-routine offers in September. That rhythm gives your ads and organic posts a fresh angle each month without needing new ideas from scratch.</p>
+<p>Partnerships help too. Local running clubs, physiotherapists, workplaces and community groups can share your offers, and listings on reputable local directories add useful signals for search. Keep your business name, address and phone number the same everywhere, so search engines can match each listing to your profile and website.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Vancouver?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with Vancouver gyms. We use video calls, shared documents and written reports, and we have no office in Canada.</p>
+<h3>What is the best gym marketing in Vancouver for a small studio?</h3>
+<p>The best starting point is a strong Google Business Profile, a clear trial offer page and one paid channel. Add more channels once you can track cost per trial and per member.</p>
+<h3>Do you film our class videos?</h3>
+<p>No, we do not film or edit video. Your coaches, members or a local creator supply footage, and we write briefs that make filming quick and focused.</p>
+<h3>Which ad platform works best for gyms?</h3>
+<p>Meta usually works well for local reach, while Google Search catches people actively looking. TikTok suits gyms with younger members and coaches comfortable on camera.</p>
+<h3>How long does gym marketing take to work?</h3>
+<p>Paid ads can bring trial bookings within weeks, while SEO typically takes three to six months. Steady membership growth comes from both, plus good follow-up.</p>
+<h3>Can you market our gym in French or other languages?</h3>
+<p>Yes, if your team or a translator supplies the copy. Prism writes in English and manages strategy, campaigns and reporting.</p>
+`,
+  },
+  {
+    slug: 'linkedin-ads-agency-ottawa',
+    seoTitle: 'LinkedIn Ads Agency Ottawa: B2B Leads in the Capital',
+    title: 'LinkedIn Ads Agency in Ottawa: Reaching Decision Makers in the Capital',
+    description: 'A LinkedIn Ads agency for Ottawa firms: precise targeting, Insight Tag tracking, lead forms and honest reporting, run remotely by a UK studio with clear prices.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>A LinkedIn Ads agency in Ottawa should put your offer in front of the exact job titles, companies and industries that buy from you, then track which campaigns produce qualified leads. For B2B firms in the capital, that usually means tight targeting, a strong lead magnet or demo offer, and careful follow-up between marketing and sales.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Ottawa or anywhere in Canada. We work through video calls, shared documents and written reports, and we write in English. If you need French-language ads, the copy comes from your team or a professional translator. We do not film or edit video, so any video assets come from your team or a provider.</p>
+
+<h2>Why LinkedIn fits the Ottawa market</h2>
+<p>Ottawa has a distinctive business mix. The federal government is a major presence, and around it sits a large community of technology companies, consultancies, research groups, associations and professional firms. Kanata North is home to many tech businesses, while downtown and Gatineau across the river add policy, legal and advisory firms. Many of these organisations sell to other businesses or to public bodies, and their buyers are active on LinkedIn.</p>
+<p>That makes LinkedIn one of the few platforms where you can target by job function, seniority, company size and industry with real precision. It costs more per click than most channels, so the work is about making each click count. Our comparison of <a href="/blog/linkedin-ads-vs-google-ads-b2b/">LinkedIn Ads and Google Ads for B2B</a> explains when each channel earns its place.</p>
+<p>A note on public sector selling: procurement in Canada follows formal rules, and ads cannot replace the official process. LinkedIn can build awareness and credibility with the people who influence buying decisions, but bids and tenders still go through the proper channels. Check official procurement guidance for the rules that apply to you.</p>
+
+<h2>What a LinkedIn Ads agency in Ottawa does</h2>
+<p>Here is how we divide the work on a typical account.</p>
+<table>
+<thead><tr><th>Stage</th><th>Our role</th><th>Your role</th></tr></thead>
+<tbody>
+<tr><td>Audience planning</td><td>Build target lists by title, function, seniority, industry and company size</td><td>Describe your ideal buyer and key accounts</td></tr>
+<tr><td>Tracking</td><td>Install and test the Insight Tag and conversion events</td><td>Give website and CRM access</td></tr>
+<tr><td>Offer and copy</td><td>Write ad copy, headlines and lead form questions</td><td>Approve claims and supply proof points</td></tr>
+<tr><td>Campaign build</td><td>Set objectives, formats, bids and budgets</td><td>Confirm budget and priorities</td></tr>
+<tr><td>Optimisation</td><td>Test audiences, offers and formats each month</td><td>Feed back on lead quality</td></tr>
+<tr><td>Reporting</td><td>Weekly notes and a monthly written review</td><td>Share sales outcomes from leads</td></tr>
+</tbody>
+</table>
+
+<h2>Targeting that keeps costs under control</h2>
+<p>The biggest mistake on LinkedIn is targeting too wide. A campaign aimed at everyone in Ottawa with "manager" in their title will burn budget quickly. We start with a clear ideal customer profile, then build audiences from a combination of job function, seniority, industry and company size. Where you have a list of target accounts, we can upload it so ads only reach people at those organisations.</p>
+<p>Location settings matter too. Some Ottawa firms sell only within the National Capital Region. Others sell across Ontario, across Canada or into the United States. We set location targeting to match where you can actually serve clients, and we keep audiences large enough for LinkedIn to deliver ads without costs spiking.</p>
+<p>We also use exclusions. Removing your own staff, existing clients and irrelevant job functions keeps spend focused on new prospects.</p>
+
+<h2>Tracking with the Insight Tag and your CRM</h2>
+<p>LinkedIn reports clicks and form fills, but the real question is whether those leads become pipeline. We install and test the LinkedIn Insight Tag, set conversion events for key actions such as demo requests and downloads, and help you link leads back to your CRM so you can see which campaigns produce meetings, not just contacts. Our <a href="/blog/linkedin-insight-tag-setup-guide/">Insight Tag setup guide</a> covers the technical steps.</p>
+<p>Lead Gen Forms, which open inside LinkedIn, usually collect more leads than sending people to a website, but quality can be lower. We often test both. If you send traffic to your site, the landing page must load quickly and say clearly what happens next. Our notes on <a href="/blog/web-design-ottawa/">web design in Ottawa</a> explain what a good B2B landing page needs.</p>
+<p>Privacy rules apply to the data you collect. Keep your privacy policy accurate, and if you plan to email leads, follow Canada's anti-spam consent rules. Check official guidance or your own adviser for the details.</p>
+
+<h2>Offers and formats that work for B2B buyers</h2>
+<p>Busy decision makers do not click on vague brand messages. The campaigns that tend to work best offer something useful in return for attention. Common choices include:</p>
+<ul>
+<li>A practical guide, checklist or report relevant to the buyer's role.</li>
+<li>A webinar or short online briefing on a current issue.</li>
+<li>A free consultation, audit or assessment for qualified firms.</li>
+<li>A product demo or trial for software and tech companies.</li>
+<li>Case studies and proof points that your team can verify.</li>
+</ul>
+<p>Formats include single image ads, document ads, carousels, conversation ads and video. Document ads work well for guides because people can preview content in the feed. Video can work too, but the footage must come from your team or a provider. For tech and software firms, our <a href="/sectors/saas/">SaaS marketing page</a> explains how we approach trial and demo campaigns, and our <a href="/sectors/b2b/">B2B marketing page</a> covers longer sales cycles.</p>
+
+<h2>Working alongside search and SEO</h2>
+<p>LinkedIn creates demand among people who were not yet searching. Google Search captures people who already are. Most Ottawa B2B firms get the best results by running both and building organic visibility over time. See our guides to <a href="/blog/google-ads-agency-ottawa/">Google Ads in Ottawa</a> and <a href="/blog/seo-agency-ottawa/">SEO in Ottawa</a> for how those channels work locally.</p>
+<p>Retargeting ties them together. Someone who reads your guide from a LinkedIn ad and later searches your firm name is a warm lead. Consistent messaging across channels helps them recognise you.</p>
+
+<h2>How we report results</h2>
+<p>We report on the numbers that matter to a B2B business: cost per lead, lead quality, meetings booked where your CRM allows it, and the campaigns and audiences behind them. Click-through rates and impressions help us improve creative, but they are not the goal. You get short weekly notes and a monthly written review with clear next steps.</p>
+<p>B2B sales cycles are long, so LinkedIn results usually take three to six months to show their full value. We do not promise specific outcomes, because results depend on your offer, your sales follow-up and your market.</p>
+
+<h2>What LinkedIn Ads management costs</h2>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid directly to LinkedIn and is separate from our fee. Canadian dollar pricing is quoted on request. LinkedIn clicks are relatively expensive, so we recommend a budget that allows enough data for decisions. Our <a href="/pricing/">pricing page</a> sets out what each plan includes, and our <a href="/services/paid-media/">paid media service</a> explains how LinkedIn fits with other channels.</p>
+<p>If you want a broader view of the national picture, our guide to choosing a <a href="/blog/linkedin-ads-agency-canada/">LinkedIn Ads agency in Canada</a> is a good place to start.</p>
+
+<h2>How to choose a LinkedIn Ads agency in Ottawa</h2>
+<ol>
+<li>Ask how they define your target audience and how narrow they will go.</li>
+<li>Check that tracking will be set up and tested before spend increases.</li>
+<li>Make sure you own the Campaign Manager account and the data.</li>
+<li>Ask how lead quality will be measured, not just lead volume.</li>
+<li>Agree a reporting rhythm and a notice period you are comfortable with.</li>
+</ol>
+<p>Avoid agencies that promise a fixed number of leads or guaranteed meetings. Honest agencies talk about testing, targeting and measurement.</p>
+
+<h2>Common mistakes we see on LinkedIn accounts</h2>
+<p>Several problems come up again and again. Audience expansion is often left switched on, which shows ads to people outside the target list. Campaigns run on the default bidding without checking costs. The same ad runs for months until people stop noticing it. Lead forms ask too many questions, or too few to qualify anyone. Each of these is simple to fix, and fixing them is usually the first thing we do when we take over an existing account.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Ottawa?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with Ottawa clients. We run the work through video calls, shared documents and written reports, with no local office in Canada.</p>
+<h3>How do I choose a LinkedIn Ads agency in Ottawa?</h3>
+<p>Choose an agency that defines a tight audience, sets up tracking first and measures lead quality. Make sure you own the ad account and agree a clear reporting rhythm before you start.</p>
+<h3>Is LinkedIn worth the higher cost per click?</h3>
+<p>It often is for B2B firms with high-value deals, because targeting by job title and company is so precise. It is less suited to low-priced consumer products.</p>
+<h3>Can LinkedIn Ads help us win government contracts?</h3>
+<p>LinkedIn can raise awareness among influencers, but it cannot replace formal procurement. Bids and tenders must still follow the official process, so check official procurement guidance.</p>
+<h3>Can you run ads in French?</h3>
+<p>Yes, as long as your team or a translator supplies the French copy. Prism writes in English, so we manage the campaigns while a fluent writer handles French text.</p>
+<h3>How quickly will we see leads?</h3>
+<p>Leads can start within the first few weeks, but meaningful results typically take three to six months. B2B buying cycles are long, so pipeline builds over time.</p>
+`,
+  },
+  {
+    slug: 'meta-ads-agency-phoenix',
+    seoTitle: 'Meta Ads Agency Phoenix: Facebook and Instagram Ads in AZ',
+    title: 'Meta Ads Agency in Phoenix: Facebook and Instagram Advertising That Pays Its Way',
+    description: 'A Meta Ads agency in Phoenix plans, runs and tracks Facebook and Instagram campaigns across the Valley. See targeting, budgets and fees from a remote UK studio.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/pricing/'],
+    body: `
+<p>A Meta Ads agency in Phoenix plans, runs and measures Facebook and Instagram campaigns that reach people across the Valley and turn their attention into leads or sales. The best results come from solid tracking, a clear offer and creative that is tested and refreshed often.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Phoenix or anywhere in the United States. We manage campaigns through shared ad accounts, video calls and written reports, and plan our calls around Arizona time. This guide explains how Meta Ads work for Phoenix businesses, what to expect in the first months and what it costs.</p>
+
+<h2>Why Meta Ads suit the Phoenix market</h2>
+<p>The Phoenix metro is large and fast-growing, spreading across Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Glendale, Peoria and beyond. People move into the area every year, which means a steady stream of new residents looking for dentists, gyms, home services, restaurants, schools and retailers. Meta platforms are a strong way to reach them before they even start searching.</p>
+<p>Seasonality is also distinctive. Summer heat drives demand for HVAC, pool services and indoor activities, while the cooler months bring seasonal visitors, events, golf and outdoor dining. Campaigns should follow these cycles rather than running the same message all year.</p>
+
+<h2>What our Meta Ads agency Phoenix service covers</h2>
+<ul>
+<li><strong>Tracking:</strong> Meta Pixel and Conversions API set up so purchases, leads and calls are recorded accurately.</li>
+<li><strong>Strategy:</strong> objectives, offers, budgets and a testing plan agreed before launch.</li>
+<li><strong>Audiences:</strong> location targeting across the Valley, broad audiences guided by good conversion data, and retargeting of site visitors and engaged users.</li>
+<li><strong>Creative direction:</strong> ad copy, formats and testing ideas, using images and video your team or a provider supplies.</li>
+<li><strong>Optimization:</strong> weekly checks on spend, cost per result and creative fatigue.</li>
+<li><strong>Reporting:</strong> monthly reports in plain English with next steps.</li>
+</ul>
+<p>Prism does not shoot photos or film video. We guide what to create, such as short testimonials filmed by your team, product demonstrations or before-and-after shots you own, then build and test ads around it.</p>
+
+<h2>Campaign types for Phoenix businesses</h2>
+<table>
+<thead><tr><th>Business type</th><th>Common campaign goal</th><th>Useful formats</th></tr></thead>
+<tbody>
+<tr><td>Home services</td><td>Quote requests and calls</td><td>Lead forms, short video, carousel of jobs</td></tr>
+<tr><td>Restaurants and bars</td><td>Bookings and visits</td><td>Stories, Reels, event promotion</td></tr>
+<tr><td>Dental and aesthetics</td><td>Consultation bookings</td><td>Lead forms with qualifying questions</td></tr>
+<tr><td>Real estate</td><td>Buyer and seller enquiries</td><td>Listing carousels, valuation offers</td></tr>
+<tr><td>Ecommerce</td><td>Online sales</td><td>Advantage+ shopping, catalog ads, retargeting</td></tr>
+<tr><td>Fitness and wellness</td><td>Trial sign-ups</td><td>Reels, offer-led lead forms</td></tr>
+</tbody>
+</table>
+<p>Real estate, housing, employment and credit ads fall into Meta's special ad categories, which limit some targeting options. We set these campaigns up within the rules, and you remain responsible for compliance with any licensing or advertising rules in your field. For more on property, see our guide to <a href="/blog/real-estate-marketing-phoenix/">real estate marketing in Phoenix</a>.</p>
+
+<h2>Tracking comes first</h2>
+<p>Meta's delivery system learns from conversion data. If the Pixel fires twice, misses mobile purchases or counts page views as leads, the platform optimizes for the wrong thing. Before scaling any budget, we check that events, deduplication and the Conversions API are working, and that lead forms send data somewhere your team actually follows up.</p>
+<p>We also connect results to your CRM or booking system where possible, so you can see which campaigns produce real customers and not just cheap form fills.</p>
+
+<h2>Budgets and testing</h2>
+<p>There is no single correct budget, but campaigns need enough spend to gather data. A small local business might start with a modest daily budget focused on one offer and one audience. An ecommerce brand selling across the US will usually need more to test creative and scale winners. Ad spend is always paid directly to Meta, separately from our management fee.</p>
+<p>We test one main variable at a time, such as the offer, the hook or the format, and keep a log of what we learn. Creative usually fatigues within weeks, so we plan regular refreshes with your team.</p>
+
+<h2>Meta Ads alongside Google Ads and SEO</h2>
+<p>Meta creates demand by putting your business in front of people who are not yet searching. Google Ads captures demand from people who already are. Many Phoenix businesses get the best return by running both, with Meta retargeting visitors who came from search. Our guide to a <a href="/blog/google-ads-agency-phoenix/">Google Ads agency in Phoenix</a> covers the search side, and our <a href="/services/seo-geo/">SEO and GEO service</a> builds organic visibility over time.</p>
+<p>If you sell online nationally, our guide to a <a href="/blog/meta-ads-agency-for-us-ecommerce/">Meta Ads agency for US ecommerce</a> goes deeper into catalog and shopping campaigns. You can also compare how we approach other Sunbelt markets in our <a href="/blog/meta-ads-agency-dallas/">Meta Ads agency Dallas</a> guide.</p>
+
+<h2>Landing pages that convert</h2>
+<p>Ads can only do so much if the landing page is slow or confusing. We check that pages load fast on mobile, match the ad message, show the offer clearly and make it easy to call or book. If your site needs work, our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> can build focused landing pages or a full new site.</p>
+
+<h2>Other platforms worth testing</h2>
+<p>Meta is often the first social platform to test, but it is not the only one. TikTok Ads can reach younger audiences in Tempe and across the Valley, YouTube Ads work well for considered purchases, and LinkedIn Ads suit B2B firms targeting decision-makers. We recommend adding channels only once tracking and the core Meta campaigns are stable. Our <a href="/services/paid-media/">paid media service</a> covers all of these.</p>
+
+<h2>Common Meta Ads mistakes we fix</h2>
+<p>When we review an existing Phoenix ad account, the same problems appear again and again. Fixing them often matters more than any new campaign idea.</p>
+<ul>
+<li><strong>Boosted posts instead of campaigns:</strong> boosting is quick, but it offers limited control over objectives, placements and tracking.</li>
+<li><strong>Too many small ad sets:</strong> splitting a small budget across many audiences starves each one of data, so none of them learn properly.</li>
+<li><strong>Wrong optimization event:</strong> optimizing for link clicks or landing page views when you actually want leads or purchases.</li>
+<li><strong>Stale creative:</strong> the same image running for months while costs slowly rise as people stop noticing it.</li>
+<li><strong>Location settings too wide or too narrow:</strong> targeting the whole state when you only serve the East Valley, or drawing a tiny radius that limits delivery.</li>
+<li><strong>No follow-up on leads:</strong> lead forms that land in an inbox nobody checks, so good enquiries go cold.</li>
+</ul>
+<p>We start every account with an audit of these points and a short written fix list. Some changes, such as consolidating ad sets or correcting the optimization event, can be made in the first week. Others, such as building a steady creative pipeline with your team, take longer but have a lasting effect on cost per result.</p>
+<p>We also look at offers. In a busy market like Phoenix, a clear reason to act now, such as a seasonal service check, a free consultation or a limited booking window, usually outperforms a general brand message. We help you shape offers you can genuinely honor and keep the wording accurate.</p>
+
+<h2>Fees and timelines</h2>
+<p>Our management retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. US dollar pricing is quoted on request. Ad spend is paid separately to Meta. Full details are on our <a href="/pricing/">pricing page</a>.</p>
+<p>Most accounts need a few weeks to gather data and a few months to settle into reliable performance. Paid results typically build over 3 to 6 months as tracking, audiences and creative improve. Early weeks focus on learning, not scaling.</p>
+
+<h2>Working with a remote UK studio</h2>
+<p>You keep ownership of your Meta Business account, ad account, Pixel and all creative. We work as partners inside your account, share reports monthly and hold calls in your mornings, which overlap with our UK afternoons. Arizona does not observe daylight saving time, so we confirm call times carefully through the year.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Meta Ads agency in Phoenix do?</h3>
+<p>A Meta Ads agency in Phoenix plans, runs and optimizes Facebook and Instagram campaigns that reach people across the Valley. That includes tracking setup, audiences, ad copy, testing, budget management and regular reporting on leads or sales.</p>
+<h3>How much do Meta Ads cost in Phoenix?</h3>
+<p>Our management fee is £350, £750 or £1,500 a month, with US dollar pricing quoted on request, and ad spend is paid separately to Meta. The right ad budget depends on your goals, competition and how much testing is needed.</p>
+<h3>How long before Meta Ads bring results?</h3>
+<p>Most campaigns need a few weeks of data before performance becomes reliable, and results typically build over 3 to 6 months. Accurate tracking and regular creative refreshes speed up that learning.</p>
+<h3>Do you create the ad videos and photos?</h3>
+<p>No, Prism does not shoot photos or film video. Your team or a provider supplies the visuals, and we write the ad copy, plan the formats and test which creative works best.</p>
+<h3>Do you have an office in Phoenix?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with no office in Phoenix or the USA. We manage campaigns through your ad account, video calls and written reports.</p>
+<h3>Can you run real estate ads on Meta?</h3>
+<p>Yes, but real estate ads fall into Meta's special ad category, which limits some targeting options. We build campaigns within those rules, and you remain responsible for meeting any licensing or advertising requirements.</p>
+`,
+  },
+  {
+    slug: 'real-estate-marketing-austin',
+    seoTitle: 'Real Estate Marketing Austin: Win More Buyers and Sellers',
+    title: 'Real Estate Marketing in Austin: A Guide for Agents, Brokerages and Developers',
+    description: 'Real estate marketing in Austin combines a fast website, local SEO, Google and Meta Ads and follow-up to win buyer and seller leads. See costs from a UK studio.',
+    date: '2026-11-28',
+    category: 'Sectors',
+    related: ['/services/paid-media/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Real estate marketing in Austin means reaching buyers, sellers and investors across Central Texas with a strong website, local search visibility, targeted ads and consistent follow-up. Agents and brokerages that combine these channels, and track which ones produce closings, are best placed to grow in a competitive market.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Austin or anywhere in the United States. We work with agents, teams, brokerages and developers through video calls, shared documents and written reports, scheduled around Central Time. This guide explains what works in Austin real estate marketing and what it costs.</p>
+
+<h2>The Austin property market and what it means for marketing</h2>
+<p>Austin has grown quickly, drawing people for technology jobs, the university, music and lifestyle. That growth spread demand into Round Rock, Cedar Park, Leander, Pflugerville, Georgetown, Kyle, Buda and Lakeway. Buyers often compare several suburbs, school districts and commute times before deciding, and many relocate from other states without knowing the area well.</p>
+<p>That creates a clear opportunity. Relocating buyers search for neighborhood guides, commute information and cost comparisons long before they contact an agent. The agent whose website answers those questions clearly is more likely to earn the first conversation. Market conditions also shift, so messaging for sellers, buyers and investors needs to change with them.</p>
+
+<h2>Core channels for real estate marketing Austin</h2>
+<table>
+<thead><tr><th>Channel</th><th>Best for</th><th>What we do</th></tr></thead>
+<tbody>
+<tr><td>Website</td><td>Trust and lead capture</td><td>Fast, mobile-first site with IDX integration where your provider supports it</td></tr>
+<tr><td>Local SEO</td><td>Agent and neighborhood searches</td><td>Google Business Profile, area guides, technical fixes</td></tr>
+<tr><td>Google Ads</td><td>High-intent buyer and seller searches</td><td>Search campaigns for valuations, agents and areas</td></tr>
+<tr><td>Meta Ads</td><td>Reaching movers and sellers early</td><td>Listing, valuation and open house campaigns</td></tr>
+<tr><td>YouTube and LinkedIn Ads</td><td>Relocation and commercial property</td><td>Targeted campaigns using your existing video and content</td></tr>
+<tr><td>Email follow-up</td><td>Nurturing longer timelines</td><td>Simple sequences and new listing updates</td></tr>
+</tbody>
+</table>
+
+<h2>A website that earns trust</h2>
+<p>Most buyers and sellers check an agent's website before calling, even when they found the agent through a referral. Your site should load quickly on a phone, show who you are and which areas you cover, and make it easy to search listings, request a valuation or book a call. Many agents rely on a template site from their brokerage. That can work, but a site you control gives you more room to build neighborhood content and rank in search.</p>
+<p>We build real estate websites in WordPress, integrating IDX listing feeds through a provider you choose where your MLS rules allow. A small website costs £1,000 to £2,000 and usually takes 3 to 5 weeks. Our <a href="/services/website-ecommerce-development/">website development service</a> explains what is included.</p>
+
+<h2>Local SEO and neighborhood content</h2>
+<p>Search is where many moves begin. People search for things like the best neighborhoods for families, homes near a particular employer, or what it is like to live in a specific suburb. Detailed, honest neighborhood guides covering schools in general terms, commute routes, amenities and housing types can rank well and bring in relocating buyers. We write these with you, using your local knowledge, and avoid invented figures or claims.</p>
+<p>Your Google Business Profile should be complete, with your service areas, photos supplied by your team and a steady flow of genuine reviews. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers technical SEO, content and AI search visibility. If you want to understand the difference between ranking locally and nationally, see our guide to <a href="/blog/local-seo-vs-national-seo/">local SEO vs national SEO</a>.</p>
+
+<h2>Google Ads and Meta Ads for agents</h2>
+<p>Google Ads put you in front of people actively searching, such as homeowners looking for a valuation or buyers searching for an agent in a particular suburb. Meta Ads reach people earlier, before they start searching, with listing showcases, open house promotions and seller guides. For the search side in Austin, our guide to a <a href="/blog/google-ads-agency-austin/">Google Ads agency in Austin</a> covers bidding and keywords in more depth.</p>
+<p>Real estate ads on Meta and some Google formats fall into housing categories with targeting limits designed to prevent discrimination. We build campaigns within those rules. You remain responsible for fair housing compliance, license disclosures and brokerage rules, so check with your broker or adviser and follow official guidance. Our <a href="/services/paid-media/">paid media service</a> handles setup, tracking and optimization, and ad spend is paid separately to the platforms.</p>
+
+<h2>Follow-up is where deals are won</h2>
+<p>Real estate leads often take months to convert. A buyer who enquires today may not move for a year. Without follow-up, most of the money spent on ads and SEO is wasted. We help you connect forms and ad leads to your CRM, set up simple email sequences and make sure every lead gets a fast first response. We do not write messages that make promises about market outcomes, and you approve all copy.</p>
+
+<h2>Developers and new-build communities</h2>
+<p>Austin's suburbs have seen many new-build communities. Developers and builders need landing pages for each community, ads that reach relocating buyers and clear tracking of tour bookings. We build focused landing pages and campaigns using renders, photos and video your team or a provider supplies. Prism does not shoot photos or film video.</p>
+
+<h2>Learning from other Sunbelt markets</h2>
+<p>Austin shares traits with other fast-growing Sunbelt cities, such as relocation demand and suburban growth. If you work across Texas or other states, compare our guides to <a href="/blog/real-estate-marketing-phoenix/">real estate marketing in Phoenix</a> and <a href="/blog/real-estate-marketing-miami/">real estate marketing in Miami</a>. For SEO specific to the city, see our <a href="/blog/seo-agency-austin/">SEO agency Austin</a> guide.</p>
+
+<h2>Marketing for sellers, buyers and investors</h2>
+<p>Each audience needs a different message and often a different channel. Treating them all the same is one of the most common reasons real estate marketing underperforms.</p>
+<ul>
+<li><strong>Sellers:</strong> they want confidence that you will price well, market the home properly and handle the process smoothly. Valuation offers, clear explanations of your marketing approach and local market updates written in plain language tend to work well.</li>
+<li><strong>Buyers already in Austin:</strong> they want fast access to new listings, honest advice and an agent who knows specific neighborhoods. Listing alerts, area guides and quick responses matter most.</li>
+<li><strong>Relocating buyers:</strong> they need help understanding the area from a distance. Guides comparing suburbs, virtual tour options supplied by your team and video calls build trust before they arrive.</li>
+<li><strong>Investors:</strong> they look for rental demand, property types and practical details. Content should stay general and avoid promising returns, and investors should be pointed to their own financial and tax advisers.</li>
+</ul>
+<p>We map your services to these audiences, then build pages, ads and follow-up sequences for each one. This keeps your messaging relevant and makes reporting clearer, because you can see which audience is producing the most valuable conversations.</p>
+<p>Seasonality matters too. Spring and early summer are often busy for listings and family moves, while other months may suit seller prospecting or investor content. We plan campaigns around your pipeline and adjust budgets as the market shifts, rather than running the same ads all year.</p>
+
+<h2>Pricing and timelines</h2>
+<p>Our monthly retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with US dollar pricing quoted on request. A solo agent might start with Launch for SEO and Google Business Profile work, while a team running ads and content usually needs Growth or Scale. Ad spend is always separate. Full details are on our <a href="/pricing/">pricing page</a>.</p>
+<p>SEO and paid campaigns typically build results over 3 to 6 months. Ads can generate enquiries sooner, but they still need a few weeks of data to settle, and real estate sales cycles add more time between first contact and closing.</p>
+
+<h2>Working with a remote UK studio</h2>
+<p>We share plans, ad previews and reports in writing and hold calls in your mornings, which overlap with our UK afternoons. You own your website, ad accounts, Google Business Profile and lead data. We keep content general where rules apply, and your broker or compliance adviser approves anything that needs sign-off.</p>
+
+<h2>FAQs</h2>
+<h3>What does real estate marketing in Austin involve?</h3>
+<p>Real estate marketing in Austin involves a strong website, local SEO, neighborhood content, Google and Meta Ads and steady lead follow-up. The aim is to reach buyers, sellers and relocating movers across Central Texas and turn enquiries into clients.</p>
+<h3>How much does real estate marketing cost?</h3>
+<p>Our retainers cost £350, £750 or £1,500 a month and websites cost £1,000 to £2,000, with US dollar pricing quoted on request. Ad spend is paid separately to Google and Meta.</p>
+<h3>Are there rules for real estate ads?</h3>
+<p>Yes, housing ads on Meta and Google have targeting limits, and fair housing and license disclosure rules apply. We build campaigns within platform rules, but compliance rests with you and your broker, so follow official guidance.</p>
+<h3>Do you have an office in Austin?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with no office in Austin or the USA. We work through video calls, shared documents and written reports scheduled around Central Time.</p>
+<h3>Can you add IDX listings to my website?</h3>
+<p>Yes, we can integrate an IDX listing feed through a provider you choose, where your MLS rules allow it. The provider subscription is separate from our website fee.</p>
+<h3>How long does it take to get leads?</h3>
+<p>Ads can bring enquiries within weeks, while SEO usually takes 3 to 6 months to build. Real estate sales cycles are long, so consistent follow-up matters as much as lead volume.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-gothenburg',
+    seoTitle: 'SEO Agency Gothenburg: Grow Organic Traffic in Sweden',
+    title: 'SEO Agency in Gothenburg: How to Rank in Sweden and Across Europe',
+    description: 'SEO for Gothenburg businesses: technical fixes, local search, Swedish and English content and international SEO for exporters, from a remote UK studio.',
+    date: '2026-11-28',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>An SEO agency in Gothenburg helps your business appear in Google when Swedish customers or international buyers search for what you offer. Effective SEO joins up technical health, useful content in Swedish and English and a strong local presence, and it usually takes three to six months to deliver steady growth.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Gothenburg or anywhere in Sweden. We work through video calls, shared documents and clear written reports. We write in English, so Swedish copy comes from your team or a professional translator, and we make sure the site is structured so both language versions can rank.</p>
+
+<h2>Why SEO matters in Gothenburg</h2>
+<p>Gothenburg is Sweden's second city and home to Scandinavia's largest port. Its economy leans heavily on manufacturing, automotive, engineering, logistics and shipping, alongside a lively scene in retail, food, events and technology. Many local companies sell far beyond Sweden, so their websites must work for Swedish customers and for international buyers searching in English.</p>
+<p>Swedish searchers are highly digital, and many are comfortable reading English. That does not mean English pages alone are enough. People often search in Swedish first, especially for local services, and pages written in the searcher's language usually perform better. The right mix depends on who your customers are and where they search.</p>
+
+<h2>What an SEO agency in Gothenburg should cover</h2>
+<table>
+<thead><tr><th>Area</th><th>What it involves</th><th>Typical priority for Gothenburg firms</th></tr></thead>
+<tbody>
+<tr><td>Technical SEO</td><td>Indexing, speed, redirects, structured data</td><td>High for large B2B and ecommerce sites</td></tr>
+<tr><td>Local SEO</td><td>Google Business Profile, reviews, consistent details</td><td>High for clinics, shops, restaurants and trades</td></tr>
+<tr><td>On-page SEO</td><td>Titles, headings, internal links</td><td>High for every site</td></tr>
+<tr><td>Content</td><td>Service pages, product categories, guides</td><td>High where buyers research before contacting</td></tr>
+<tr><td>International SEO</td><td>Language versions and hreflang</td><td>High for exporters and industrial suppliers</td></tr>
+<tr><td>AI search visibility</td><td>Clear answers and consistent business facts</td><td>Growing for all sectors</td></tr>
+</tbody>
+</table>
+
+<h2>Technical SEO foundations</h2>
+<p>Many Gothenburg company sites are large, built up over years and sometimes spread across several systems. That often leads to technical issues that hold rankings back:</p>
+<ul>
+<li><strong>Duplicate content</strong> from product filters, old campaign pages or parallel language sites.</li>
+<li><strong>Broken redirects</strong> left over from rebrands or platform moves.</li>
+<li><strong>Slow pages</strong> weighed down by large images, scripts and embedded tools.</li>
+<li><strong>Missing hreflang</strong> so Google shows the English page to Swedish searchers, or the reverse.</li>
+<li><strong>Thin product or capability pages</strong> that say too little to rank.</li>
+</ul>
+<p>We start with an audit and fix the most important problems first. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the process, and our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains how Google measures page experience.</p>
+
+<h2>SEO for B2B and industrial companies</h2>
+<p>Industrial and engineering buyers search differently from consumers. They use specific technical terms, compare suppliers carefully and often involve several people in a decision. Good B2B SEO in Gothenburg focuses on:</p>
+<ul>
+<li>One clear page for each product line, capability or service.</li>
+<li>Technical detail buyers need, such as materials, standards and applications.</li>
+<li>Sector pages showing how your offer fits automotive, marine, energy or logistics.</li>
+<li>Simple ways to request a quote or download specifications.</li>
+</ul>
+<p>We write these pages in English, which suits international buyers, and your translator adapts them into Swedish where needed. Our <a href="/sectors/b2b/">B2B marketing</a> page explains how we approach this sector.</p>
+
+<h2>Local SEO in Gothenburg</h2>
+<p>For businesses that serve people in person, such as clinics, gyms, shops, restaurants and trades, the Google map pack matters most. We complete and maintain your Google Business Profile, check that your details match across your site and directories, and set up a fair process for gathering and answering reviews. If you serve areas such as Mölndal, Partille or Kungälv, well-written location pages can help, as long as each contains genuinely useful local information.</p>
+<p>Our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> covers the principles, which carry over well to Sweden.</p>
+
+<h2>Ecommerce SEO</h2>
+<p>Gothenburg has a strong retail and fashion tradition, and many brands sell online across the Nordics and the EU. Ecommerce SEO focuses on category pages, product titles, structured data, internal links and handling out-of-stock products sensibly. If you run Shopify, our guide to <a href="/blog/shopify-agency-sweden/">Shopify in Sweden</a> covers setup, and our guide to <a href="/blog/shopify-markets-europe/">Shopify Markets in Europe</a> explains selling into several countries.</p>
+
+<h2>Combining SEO with paid search</h2>
+<p>SEO grows over months, so many businesses run paid search alongside it. Google Ads brings enquiries sooner and shows which search terms convert best, which then guides SEO priorities. Our guide to <a href="/blog/google-ads-agency-gothenburg/">Google Ads in Gothenburg</a> covers local campaigns, and our guide to <a href="/blog/seo-agency-stockholm/">SEO in Stockholm</a> explains how search competition looks in the capital.</p>
+
+<h2>Content for search and AI answers</h2>
+<p>Search is changing as AI tools summarise answers. Pages that open with a clear, direct answer, use plain headings and keep facts consistent are easier for both search engines and AI assistants to quote. We write content with that structure as standard and make sure your business details, services and locations are described the same way everywhere.</p>
+
+<h2>Our SEO process</h2>
+<ol>
+<li><strong>Discovery.</strong> We learn about your products, customers, markets and languages.</li>
+<li><strong>Audit.</strong> We review technical health, content, links and competitors.</li>
+<li><strong>Roadmap.</strong> We agree a prioritised plan for the next three months.</li>
+<li><strong>Delivery.</strong> We fix issues, write English content and brief your translator.</li>
+<li><strong>Reporting.</strong> Monthly reports cover rankings, traffic, enquiries and next steps.</li>
+</ol>
+<p>See our <a href="/services/seo-geo/">SEO and GEO service</a> for the full scope.</p>
+
+<h2>Pricing</h2>
+<p>Our fees are in pounds sterling, and Swedish krona pricing is quoted on request.</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> technical fixes, local SEO and focused content.</li>
+<li><strong>Growth, £750 a month:</strong> more content, international pages and ongoing optimisation.</li>
+<li><strong>Scale, £1,500 a month:</strong> large B2B or ecommerce sites, or SEO combined with paid search.</li>
+</ul>
+<p>Our <a href="/pricing/">pricing page</a> has full details. If your site needs a rebuild first, a small website costs £1,000 to £2,000.</p>
+
+<h2>Common SEO mistakes</h2>
+<ul>
+<li><strong>Relying on English alone.</strong> Swedish customers often search in Swedish first.</li>
+<li><strong>Ignoring old redirects.</strong> Years of links and rankings can be lost after a rebuild.</li>
+<li><strong>Generic product pages.</strong> Buyers and search engines need specific detail.</li>
+<li><strong>No conversion tracking.</strong> Traffic means little without knowing what drives enquiries.</li>
+<li><strong>Short-term thinking.</strong> SEO rewards steady work over many months.</li>
+</ul>
+
+<h2>Working with a remote studio</h2>
+<p>Sweden is usually one hour ahead of the UK, so working hours overlap well. We agree a regular call slot, keep a shared task list and send written updates. Your team approves content and supplies translations and images, and we handle the technical work, strategy and reporting. This keeps the work transparent and easy to follow, even without a local office.</p>
+<p>Before you choose any agency, ask how they will measure progress, what happens in the first ninety days and how they handle multilingual sites. Be cautious about promises of guaranteed rankings or cheap link packages, which can do more harm than good.</p>
+
+<h2>Building authority and links</h2>
+<p>Search engines still use links from other websites as a sign of trust. For Gothenburg businesses, the best links usually come from genuine relationships rather than paid schemes. Industry associations, trade fairs, supplier and partner pages, local business networks and sector publications can all be good sources. Useful resources on your own site, such as detailed guides, specification sheets or practical tools, also attract links naturally over time.</p>
+<p>We help you find realistic link opportunities and create content worth linking to. We avoid bulk link packages, private networks and anything that breaks Google's guidelines, because the risk of a penalty outweighs any short-term gain. Digital PR, where your team shares expertise or useful information with relevant publications, can also build both links and brand awareness.</p>
+
+<h2>Measuring SEO progress</h2>
+<p>Rankings are useful signals, but the real goal is more customers. We track organic sessions, enquiries, quote requests, calls and online sales from search. Google Search Console shows which queries bring impressions and clicks, and Google Analytics 4 shows what visitors do once they arrive. Where you have Swedish and English versions, we report on each separately so you can see where translation or content gaps are holding pages back.</p>
+<p>Each monthly report explains what we did, what changed and what comes next, in plain language. We also hold a regular review call, so you can ask questions and adjust priorities as your business changes, for example when you launch a new product line or enter a new export market.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Gothenburg?</h3>
+<p>No, we have no office in Gothenburg or Sweden. Prism Works Studio is UK-based and works remotely through video calls, shared documents and written reports.</p>
+<h3>Can you write content in Swedish?</h3>
+<p>No, we write in English only. Swedish content comes from your team or a professional translator, and we set up the structure so both versions can rank.</p>
+<h3>How much does an SEO agency in Gothenburg cost?</h3>
+<p>Our SEO retainers cost £350, £750 or £1,500 a month depending on scope. Swedish krona pricing is quoted on request.</p>
+<h3>How long until SEO shows results?</h3>
+<p>SEO results typically take three to six months. Technical fixes can help sooner, and content and authority keep building after that.</p>
+<h3>Do you work with industrial and B2B companies?</h3>
+<p>Yes, we often help B2B firms with detailed product, capability and sector pages. These pages help international buyers find and trust your business.</p>
+<h3>Can you help us rank outside Sweden?</h3>
+<p>Yes, we plan international SEO with separate language versions and correct hreflang tags. Your translator supplies each local-language version.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-inverness',
+    seoTitle: 'SEO Agency Inverness: Rank Across the Highlands',
+    title: 'SEO Agency in Inverness: How Highland Businesses Win Search',
+    description: 'Looking for an SEO agency in Inverness? Learn how local SEO, content and technical fixes help Highland firms rank, what it costs and how a remote studio works.',
+    date: '2026-11-28',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>An SEO agency in Inverness should help your business appear when people across the Highlands search for what you offer, both in the map results and in the main search listings. For most local firms, that means a complete Google Business Profile, well-structured service pages, a fast website and steady, useful content that answers the questions customers ask.</p>
+<p>Prism Works Studio is a UK-based SEO and digital marketing studio that works remotely. We help businesses in Inverness and across the Highlands through video calls, shared documents and clear monthly reports. This guide explains how search works in the area, what an SEO plan should include and what it costs.</p>
+
+<h2>Why search in Inverness is different</h2>
+<p>Inverness is the main city of the Highlands, and it serves a catchment far larger than its own population. People travel in from Nairn, Dingwall, Beauly, Muir of Ord, Aviemore, Fort Augustus and much further for shopping, healthcare, professional services and specialist trades. Many businesses based in the city also travel out to customers across a huge area.</p>
+<p>That shapes how people search. Some type "near me" on a phone. Others add a town or area name, such as a plumber in Nairn or an accountant in Dingwall. Visitors planning a trip search for places to stay, eat and explore around Loch Ness, the Black Isle and along the North Coast 500 route, often weeks before they arrive.</p>
+<p>The result is that Inverness SEO is rarely about a single keyword. It is about understanding which places and which types of searcher matter to your business, then building a site and profile that answers them clearly.</p>
+
+<h2>What a good SEO agency in Inverness should do</h2>
+<p>Whoever you choose, a sound SEO plan for a Highland business usually covers five areas:</p>
+<ul>
+<li><strong>Local SEO.</strong> A complete, accurate Google Business Profile, consistent business details across directories and a steady flow of genuine reviews.</li>
+<li><strong>Technical SEO.</strong> A fast, mobile-friendly site that search engines can crawl easily, with clean redirects, a sitemap and no broken pages.</li>
+<li><strong>On-page SEO.</strong> Page titles, headings and copy that match the way people really search, with one clear page per main service.</li>
+<li><strong>Content.</strong> Helpful guides and answers that build trust and help you appear in AI-generated answers as well as normal results.</li>
+<li><strong>Links and mentions.</strong> Genuine local links from organisations, events, suppliers and press that show search engines you are part of the community.</li>
+</ul>
+<p>Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers the map side in detail, and our <a href="/blog/local-seo-agency-uk/">local SEO agency guide</a> explains what to expect from a provider.</p>
+
+<h2>SEO for Highland tourism and hospitality</h2>
+<p>Tourism is a major part of the Inverness economy. Hotels, guest houses, self-catering cottages, restaurants, tour operators and activity providers all compete for visitors who are planning ahead. Search plays a big part in that planning, alongside booking platforms.</p>
+<p>Ranking for your own name and location helps you win direct bookings rather than relying entirely on third-party platforms that charge commission. Strong pages for experiences, seasonal guides and practical information about getting to you can draw visitors earlier in their planning. Our <a href="/sectors/hospitality/">hospitality marketing page</a> explains how we approach the sector.</p>
+<p>Seasonality matters too. Demand rises sharply in spring and summer and falls in the darker months, so content and campaigns should be planned well before the season starts rather than once it is already busy.</p>
+
+<h2>SEO for trades, professional and local service firms</h2>
+<p>Outside tourism, Inverness has a strong base of trades, construction, professional services, healthcare practices, retailers, energy and engineering firms and businesses linked to the university and public sector. For these firms, the priority is usually being found by local customers at the moment they need help.</p>
+<p>We focus on clear service pages for each main job, area pages only where you genuinely work and want more enquiries, and a Google Business Profile that is fully filled in with services, photos and accurate opening hours. For firms covering a wide area, setting up the profile as a service-area business and listing the places you travel to can make a real difference.</p>
+
+<h2>SEO services and what each one involves</h2>
+<table>
+<thead><tr><th>Service</th><th>What it covers</th><th>Why it matters in Inverness</th></tr></thead>
+<tbody>
+<tr><td>Local SEO</td><td>Google Business Profile, citations, reviews</td><td>Map results drive many calls across the Highlands</td></tr>
+<tr><td>Technical SEO</td><td>Speed, crawling, indexing, redirects</td><td>Rural mobile signals can be weak, so fast pages matter</td></tr>
+<tr><td>On-page SEO</td><td>Titles, headings, internal links, copy</td><td>Matches searches by town, area and service</td></tr>
+<tr><td>Content and AEO</td><td>Guides, FAQs, answer-first copy</td><td>Helps you appear in AI answers and planning searches</td></tr>
+<tr><td>Link building</td><td>Local and industry mentions</td><td>Builds trust and authority in a close-knit market</td></tr>
+<tr><td>Marketplace SEO</td><td>Amazon and other marketplace listings</td><td>Supports Highland food, drink and craft brands selling online</td></tr>
+</tbody>
+</table>
+
+<h2>Ranking in AI search as well as Google</h2>
+<p>More people now ask AI assistants and read AI-generated summaries before choosing a business. These tools pull from websites that give clear, direct answers. We write content so that each section opens with a plain answer, uses headings that match real questions and includes the facts a searcher needs, such as areas covered, services offered and how to get in touch.</p>
+<p>This approach also helps with traditional search, so it is not extra work for the sake of it. Our <a href="/services/seo-geo/">SEO and GEO service</a> explains how we cover both normal search and generative engines together.</p>
+
+<h2>How much does an SEO agency in Inverness cost?</h2>
+<p>Our SEO retainers are priced the same wherever you are based. Launch costs £350 a month and suits a small local firm that needs the essentials done well. Growth costs £750 a month and adds more content, links and reporting. Scale costs £1,500 a month for businesses competing across a wider area or with larger sites. You can compare what each plan includes on our <a href="/pricing/">pricing page</a>.</p>
+<p>If your website itself needs work before SEO can be effective, a new small business site costs £1,000 to £2,000 and an e-commerce site £1,500 to £3,500.</p>
+<p>SEO results typically show within three to six months. Highly competitive terms can take longer, while quick wins such as fixing a Google Business Profile or broken pages can help sooner. Be wary of anyone promising first place rankings in a set time, because no honest agency can guarantee that.</p>
+
+<h2>SEO and paid search together</h2>
+<p>SEO builds lasting visibility, but it takes time. Many Highland businesses run Google Ads alongside SEO to win enquiries straight away, particularly before the tourist season or when launching a new service. Paid search data also shows which keywords convert, which helps shape the SEO plan. Our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> explains how good management works, and ad spend is always paid separately from our fees.</p>
+
+<h2>Choosing between a local agency, a freelancer and a remote studio</h2>
+<p>Inverness businesses can choose from local freelancers, agencies in the city or the central belt, and remote studios elsewhere in the UK. Each has trade-offs. A local provider may know the area well and be easy to meet. A remote studio can offer a wider range of services and structured reporting, with meetings by video call.</p>
+<p>Our comparison of an <a href="/blog/seo-agency-vs-freelancer-uk/">SEO agency versus a freelancer</a> sets out the differences honestly. Whatever you choose, ask how progress will be measured, who will do the work and what you will own if you stop.</p>
+
+<h2>How we work with Inverness businesses</h2>
+<p>We are a UK-based studio that works remotely, and we do not have an office in Inverness. Every project starts with a video call to understand your business, customers and goals. We then audit your website and Google Business Profile, research the searches that matter and agree a clear plan.</p>
+<p>Each month you receive a written report showing what we did, how rankings and traffic have moved and what comes next. We write in English. If you need Gaelic content for a bilingual site, that comes from your team or a professional translator, and we set the pages up correctly for search engines.</p>
+<p>If you sell products online, perhaps Highland food, drink or crafts, we can also help with <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO</a> and marketplace listings so your products are easier to find.</p>
+
+<h2>FAQs</h2>
+<h3>How much does an SEO agency in Inverness cost?</h3>
+<p>Prism Works Studio SEO retainers cost £350, £750 or £1,500 a month depending on the level of work. Prices are the same across the UK, and any ad spend is paid separately.</p>
+<h3>How long does SEO take to work in the Highlands?</h3>
+<p>SEO results typically show within three to six months. Fixing your Google Business Profile and technical issues can bring earlier gains, while competitive searches usually take longer.</p>
+<h3>Do you have an office in Inverness?</h3>
+<p>No, we are a UK-based studio that works remotely. We work with Highland businesses through video calls, shared documents and written monthly reports.</p>
+<h3>Can SEO help my business get direct bookings from tourists?</h3>
+<p>Yes, ranking well for your name, location and experiences can help visitors book with you directly. Planning content before the tourist season starts gives the best chance of being found early.</p>
+<h3>Do I need area pages for every Highland town?</h3>
+<p>No, you only need pages for places where you genuinely work and want more enquiries. Thin, copied town pages rarely rank and can weaken the rest of your site.</p>
+<h3>Can you write content in Gaelic?</h3>
+<p>No, we write in English. Gaelic content should come from your own team or a professional translator, and we can set up a bilingual site structure so both languages work correctly in search.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-jacksonville',
+    seoTitle: 'SEO Agency Jacksonville: Rank Higher in Northeast Florida',
+    title: 'SEO Agency in Jacksonville: A Practical Guide for Local and Growing Businesses',
+    description: 'An SEO agency in Jacksonville fixes technical issues, builds local pages and earns links so you rank across Duval County. See how a remote UK studio works.',
+    date: '2026-11-28',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/pricing/'],
+    body: `
+<p>An SEO agency in Jacksonville helps your business appear in Google when people across Duval County and Northeast Florida search for what you sell, by fixing technical problems, improving your pages and building local trust signals. The right partner focuses on the searches that bring calls, bookings and sales, not just traffic.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Jacksonville or anywhere in the United States. We work with clients through video calls, shared documents and clear written reports, and we plan our calls around Eastern Time. This guide explains how SEO works in Jacksonville, what a sensible plan looks like and what it costs.</p>
+
+<h2>Why Jacksonville is a distinct SEO market</h2>
+<p>Jacksonville covers a huge land area, one of the largest of any city in the continental United States. That matters for search. A searcher in Riverside, San Marco, Mandarin, Southside, the Beaches or Orange Park may see quite different local results for the same query, because Google weighs how close a business is to the person searching. A single homepage rarely ranks well across the whole metro area.</p>
+<p>The local economy is also broad. Logistics and the port, healthcare, financial services, military-related businesses near the naval stations, construction, real estate and tourism along the coast all compete for attention. Many trades and professional firms serve St. Johns, Clay and Nassau counties as well as the city itself. Your SEO plan needs to reflect where your customers really are, not just the city name.</p>
+
+<h2>What a Jacksonville SEO plan includes</h2>
+<p>We split the work into a few connected areas. Each one supports the others, so skipping one usually weakens the rest.</p>
+<ul>
+<li><strong>Technical SEO:</strong> crawlability, indexing, site speed, mobile layout, structured data and clean redirects. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows what we check first.</li>
+<li><strong>Local SEO:</strong> a complete Google Business Profile, consistent name, address and phone details, review requests and pages for the areas you genuinely serve.</li>
+<li><strong>On-page SEO:</strong> titles, headings, internal links and content that answers the questions buyers ask before they call.</li>
+<li><strong>Content:</strong> service pages, area pages and guides that match real search intent.</li>
+<li><strong>Off-page SEO:</strong> earning links and mentions from relevant local and industry sources, never buying spam links.</li>
+<li><strong>AI search visibility:</strong> clear, quotable answers and structured data so AI overviews and assistants can understand and cite your pages.</li>
+</ul>
+
+<h2>Choosing an SEO agency in Jacksonville</h2>
+<p>When you compare agencies, look past the sales deck. Ask how they will decide which keywords to target, what they will change in the first month and how they report progress. A good answer names specific pages, specific fixes and a reporting rhythm.</p>
+<table>
+<thead><tr><th>Question to ask</th><th>Good answer</th><th>Warning sign</th></tr></thead>
+<tbody>
+<tr><td>How will you choose keywords?</td><td>By buyer intent, local demand and what you can realistically rank for</td><td>Promising page one for broad head terms</td></tr>
+<tr><td>What happens in month one?</td><td>An audit, a fix list and a prioritized content plan</td><td>Vague "optimization" with no named tasks</td></tr>
+<tr><td>How do you build links?</td><td>Useful content, local partnerships and digital PR</td><td>Bulk link packages or private networks</td></tr>
+<tr><td>How do you report?</td><td>Rankings, organic leads and next steps in plain English</td><td>Only traffic charts with no context</td></tr>
+<tr><td>Who owns the work?</td><td>You own the site, content and accounts</td><td>Content or accounts held back if you leave</td></tr>
+</tbody>
+</table>
+<p>If you run a smaller firm, our guide to choosing an <a href="/blog/seo-company-for-small-business-usa/">SEO company for small business in the USA</a> covers budgets and priorities in more detail.</p>
+
+<h2>Local SEO across Duval County and the Beaches</h2>
+<p>For most service businesses, local SEO is where the first wins come from. Your Google Business Profile should list the right primary category, accurate hours, real photos supplied by your team and a service area that matches where you work. Reviews matter, so we help you set up a simple, honest process for asking happy customers to leave one.</p>
+<p>Area pages need care. A page for Jacksonville Beach or Ponte Vedra should say something specific: the jobs you do there, how quickly you can attend, local considerations such as coastal weather, and answers to common questions. Thin pages that only swap the place name tend to be ignored by Google and can drag down the whole site. If you are unsure whether to focus locally or more widely, our comparison of <a href="/blog/local-seo-vs-national-seo/">local SEO vs national SEO</a> explains the trade-offs.</p>
+
+<h2>Technical foundations and site speed</h2>
+<p>Many Jacksonville sites are built on page builders or older themes that load slowly on phones. Slow pages lose visitors and make it harder for Google to crawl the site efficiently. We look at Core Web Vitals, image sizes, scripts, caching and hosting, then fix what we can within your platform. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains the metrics, and the principles apply equally to US sites.</p>
+<p>We also check that every important page is indexed, that duplicate pages are handled with canonicals, that structured data is valid and that redirects from old URLs work. These fixes are rarely exciting, but they often unlock progress that content alone cannot.</p>
+
+<h2>Content that answers Jacksonville buyers</h2>
+<p>Good content starts with the questions your customers ask on the phone. How much does it cost? How long does it take? Do you serve my area? What should I check before hiring someone? We turn those questions into service pages and guides with direct, honest answers. Prism writes in English, so the content is ready for US audiences, and we follow US spelling and terms on US client sites when you ask us to.</p>
+<p>We do not invent facts about your business. Prices, guarantees, licenses and service areas come from you. We also avoid copying competitors and avoid generic text that could fit any city. If you need a broader view of organic growth, our guide to <a href="/blog/organic-seo-services-usa/">organic SEO services in the USA</a> covers the full approach.</p>
+
+<h2>Links and off-page signals</h2>
+<p>Links from relevant, trusted sites still matter. For Jacksonville businesses, sensible sources include local business associations, chambers of commerce, sponsorships of local events, supplier and partner pages, and genuinely useful guides that other sites want to cite. We build these slowly and carefully. We never buy links from networks, because the risk to your site is not worth it.</p>
+<p>Unlinked mentions, consistent citations on major directories and coverage in local or trade media all help Google understand that your business is real and active. Our <a href="/services/digital-pr-content/">digital PR and content service</a> can support this alongside your SEO retainer.</p>
+
+<h2>How SEO fits with paid search</h2>
+<p>SEO takes time. If you need leads this month, Google Ads can fill the gap while organic rankings grow. Paid data also shows which keywords convert, which helps us choose SEO priorities. Many clients run both for the first six months and then rebalance. You can see how we approach paid search for Sunbelt cities in our guide to a <a href="/blog/google-ads-agency-phoenix/">Google Ads agency in Phoenix</a>, and our <a href="/services/paid-media/">paid media service</a> covers campaign management. Ad spend is always paid separately to the platform.</p>
+
+<h2>Comparing Jacksonville with other Florida markets</h2>
+<p>Florida cities share some traits, such as seasonal demand and strong competition in home services and real estate, but each one differs. Miami is more international and bilingual, Tampa has a dense mix of suburbs across the bay, and Jacksonville is spread out with distinct neighborhoods. If you serve more than one Florida market, see our guides to an <a href="/blog/seo-agency-tampa/">SEO agency in Tampa</a> and an <a href="/blog/seo-agency-miami/">SEO agency in Miami</a> to compare approaches.</p>
+
+<h2>Pricing and timelines</h2>
+<p>Our monthly retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. US dollar pricing is quoted on request. Most local businesses start on Launch or Growth, while multi-location firms or sites with large technical backlogs often need Scale. Full details are on our <a href="/pricing/">pricing page</a>.</p>
+<p>SEO results typically take 3 to 6 months to build, depending on competition, the state of the site and how much content is needed. Technical fixes and Google Business Profile improvements can show earlier movement, but lasting rankings come from steady, consistent work. If your site needs rebuilding first, a small website costs £1,000 to £2,000 and usually takes 3 to 5 weeks.</p>
+
+<h2>Working with a remote UK studio</h2>
+<p>We work fully remotely. You get a shared plan, a monthly report and calls scheduled in Eastern Time mornings, which overlap with our UK afternoons. You keep ownership of your website, Google Business Profile, Search Console and analytics. If you are in a regulated field such as healthcare, legal or finance, we keep content general and your own compliance adviser approves anything that needs sign-off.</p>
+<p>To find out how our <a href="/services/seo-geo/">SEO and GEO service</a> could work for your Jacksonville business, send us your website and the services you most want to grow.</p>
+
+<h2>FAQs</h2>
+<h3>How do I choose an SEO agency in Jacksonville?</h3>
+<p>Choose an agency that explains exactly what it will fix first, how it picks keywords and how it reports leads, not just traffic. Ask about link building methods, who owns the work, and whether they understand how local results vary across Jacksonville neighborhoods and nearby counties.</p>
+<h3>How much does SEO cost in Jacksonville?</h3>
+<p>Our SEO retainers cost £350, £750 or £1,500 a month depending on scope, with US dollar pricing quoted on request. The right level depends on your competition, the number of locations or services and the state of your current site.</p>
+<h3>How long does SEO take to work?</h3>
+<p>SEO typically takes 3 to 6 months to show meaningful results. Technical fixes and Google Business Profile improvements can help sooner, but strong rankings for competitive Jacksonville searches usually need steady work over several months.</p>
+<h3>Do you have an office in Jacksonville?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with no office in Jacksonville or the USA. We work through video calls, shared documents and written reports, and schedule calls to suit Eastern Time.</p>
+<h3>Can I rank across all of Jacksonville with one page?</h3>
+<p>Usually not, because Google weighs proximity and Jacksonville covers a very large area. Useful, specific pages for the areas you genuinely serve, plus a strong Google Business Profile, give you a better chance across the metro.</p>
+<h3>Should I run Google Ads while SEO builds?</h3>
+<p>Yes, if you need leads quickly, Google Ads can bring in enquiries while organic rankings grow. Paid data also shows which keywords convert, which helps us prioritize SEO work. Ad spend is paid separately to Google.</p>
+`,
+  },
+  {
+    slug: 'seo-agency-valencia',
+    seoTitle: 'SEO Agency Valencia: Rank Higher in Spain and Beyond',
+    title: 'SEO Agency in Valencia: A Practical Guide for Local and Export Businesses',
+    description: 'An SEO agency for Valencia businesses: technical fixes, local search, multilingual pages and content to rank in Spain and abroad, run by a remote UK studio.',
+    date: '2026-11-28',
+    category: 'SEO',
+    related: ['/services/seo-geo/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>An SEO agency in Valencia helps your business appear when people search Google for what you sell, whether they are locals in Ruzafa, visitors planning a trip or buyers elsewhere in Europe. Good SEO combines a technically sound website, useful pages in the right languages and a well-managed local presence, and it usually takes three to six months to show steady gains.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Valencia or anywhere in Spain. We work through video calls, shared documents and clear written reports. We write in English, so Spanish and Valencian copy comes from your team or a professional translator, and we make sure the site is structured so each language version can rank properly.</p>
+
+<h2>Why SEO matters for Valencia businesses</h2>
+<p>Valencia is Spain's third-largest city and a busy mix of tourism, food, port logistics, manufacturing, startups and professional services. That variety means search demand looks very different from one business to the next. A restaurant near the Central Market competes for map results and "near me" searches. A furniture or ceramics exporter competes for product terms in several countries. A tech startup in the city's innovation districts needs visibility for specialist software terms in English.</p>
+<p>Many Valencia businesses also serve two audiences at once: Spanish-speaking locals and international visitors or residents who search in English. Getting both right takes careful planning of URLs, language tags and content, not just a translation plugin switched on at launch. Our guide to <a href="/blog/multilingual-website-design/">multilingual website design</a> explains the groundwork.</p>
+
+<h2>What an SEO agency in Valencia should cover</h2>
+<p>Strong SEO is not one task. It is a set of connected pieces that each support the others. The table below shows the main areas and what they mean in practice.</p>
+<table>
+<thead><tr><th>Area</th><th>What it involves</th><th>Why it matters in Valencia</th></tr></thead>
+<tbody>
+<tr><td>Technical SEO</td><td>Crawling, indexing, speed, redirects and structured data</td><td>Multilingual sites often have duplicate or missing language pages</td></tr>
+<tr><td>Local SEO</td><td>Google Business Profile, reviews strategy and consistent business details</td><td>Map results drive visits for restaurants, clinics, shops and trades</td></tr>
+<tr><td>On-page SEO</td><td>Titles, headings, internal links and page structure</td><td>Helps Google match each page to a clear search intent</td></tr>
+<tr><td>Content</td><td>Service pages, guides and category pages</td><td>Answers the questions locals and visitors actually ask</td></tr>
+<tr><td>International SEO</td><td>Language versions, hreflang and country targeting</td><td>Exporters and tourism businesses reach buyers across Europe</td></tr>
+<tr><td>AI search visibility</td><td>Clear, quotable answers and consistent entity details</td><td>AI tools increasingly summarise local and service results</td></tr>
+</tbody>
+</table>
+
+<h2>Technical foundations first</h2>
+<p>Before writing new content, we check that Google can find, crawl and understand your existing pages. On Valencia sites we often look closely at these issues:</p>
+<ul>
+<li><strong>Language versions.</strong> Spanish, Valencian and English pages should each have their own URL and correct hreflang tags, so the right version appears for the right searcher.</li>
+<li><strong>Duplicate pages.</strong> Booking engines, filters and plugins can create many near-identical URLs that dilute rankings.</li>
+<li><strong>Speed on mobile.</strong> Most local searches happen on phones, often on the move.</li>
+<li><strong>Redirects after redesigns.</strong> Old URLs that now return errors lose the value they built up.</li>
+<li><strong>Structured data.</strong> Business, product and FAQ markup helps search engines read key details.</li>
+</ul>
+<p>Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> walks through each step, and our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains the speed measures Google uses.</p>
+
+<h2>Local SEO in Valencia</h2>
+<p>For businesses that serve people in person, the Google map pack is often the most valuable spot on the page. Ranking there depends on relevance, distance and prominence. You cannot change distance, but you can improve the other two.</p>
+<p>We help you complete and maintain your Google Business Profile with accurate categories, opening hours, services and photos supplied by your team. We check that your name, address and phone number match across your website and the main directories. We also set up a simple process for asking happy customers for reviews and replying to them, without incentives or anything that breaks platform rules.</p>
+<p>If you serve several neighbourhoods or nearby towns, such as Paterna, Torrent or Gandia, location pages can help, provided each one has genuinely useful local detail rather than swapped place names. Our guide to <a href="/blog/local-seo-uk-guide/">local SEO</a> covers the principles, which apply in Spain just as they do in Britain.</p>
+
+<h2>Content that ranks and gets cited</h2>
+<p>Good content answers real questions clearly. For a Valencia business, that might be a guide to choosing a dental treatment, a page explaining delivery times to other EU countries, or a clear service page for a specific type of legal or accounting work. We plan topics from keyword research, write in English, and work with your translator on Spanish and Valencian versions so the terms match how people actually search.</p>
+<p>We also write with AI search in mind. That means opening sections with a direct answer, using clear headings, keeping facts consistent across the site and making sure your business details are easy for both search engines and AI tools to read.</p>
+
+<h2>Sectors we often see in Valencia</h2>
+<p>Hospitality and tourism businesses need strong local and multilingual SEO, especially hotels, apartments, tour operators and restaurants. Our guide to <a href="/blog/hotel-marketing-barcelona/">hotel marketing in Barcelona</a> covers many of the same ideas for coastal Spanish cities.</p>
+<p>Ecommerce brands, including fashion, home goods, food and ceramics, need clean category pages, product schema and often a plan for selling into other EU markets. Our guide to <a href="/blog/shopify-agency-spain/">Shopify in Spain</a> explains platform choices for growing stores.</p>
+<p>Professional services such as lawyers, accountants and consultancies need trustworthy, detailed service pages. In regulated fields, keep claims careful and general. Compliance approval rests with your own business and its advisers.</p>
+
+<h2>How SEO fits with paid search</h2>
+<p>SEO builds lasting visibility, but it takes time. Many Valencia businesses run Google Ads alongside it to bring in enquiries while organic rankings grow. Paid search data also shows which keywords convert, which helps decide where SEO effort should go next. Our guide to <a href="/blog/google-ads-agency-madrid/">Google Ads in Madrid</a> covers how campaigns work in the Spanish market.</p>
+
+<h2>Our process</h2>
+<ol>
+<li><strong>Discovery call.</strong> We learn about your services, customers, languages and goals.</li>
+<li><strong>Audit.</strong> We review technical health, content, local presence and competitors.</li>
+<li><strong>Plan.</strong> You get a prioritised list of fixes and content for the next three months.</li>
+<li><strong>Delivery.</strong> We make technical fixes, write English content and brief your translator.</li>
+<li><strong>Reporting.</strong> Monthly reports show rankings, traffic, enquiries and next steps.</li>
+</ol>
+<p>Our <a href="/services/seo-geo/">SEO and GEO service</a> page explains the full scope.</p>
+
+<h2>Pricing</h2>
+<p>Our fees are in pounds sterling, and euro pricing is quoted on request.</p>
+<ul>
+<li><strong>Launch, £350 a month:</strong> technical fixes, local SEO and a small amount of content.</li>
+<li><strong>Growth, £750 a month:</strong> more content, international pages and regular link-worthy assets.</li>
+<li><strong>Scale, £1,500 a month:</strong> larger multilingual sites, ecommerce SEO or SEO combined with paid search.</li>
+</ul>
+<p>See our <a href="/pricing/">pricing page</a> for details. If your site needs rebuilding first, a small website costs £1,000 to £2,000 and takes three to five weeks.</p>
+
+<h2>Common SEO mistakes we see</h2>
+<ul>
+<li><strong>Machine translation left unchecked.</strong> Awkward copy hurts trust and can miss the terms people search.</li>
+<li><strong>One page for every service.</strong> Combining everything on one page makes it hard to rank for anything specific.</li>
+<li><strong>Ignoring the Business Profile.</strong> An incomplete profile loses map visibility to competitors.</li>
+<li><strong>No tracking.</strong> Without conversion tracking, you cannot tell which pages bring enquiries.</li>
+<li><strong>Expecting instant results.</strong> SEO compounds over months, so consistency matters more than bursts of activity.</li>
+</ul>
+
+<h2>Choosing the right SEO partner</h2>
+<p>When comparing agencies, ask how they handle multilingual sites, what they will do in the first ninety days and how they report. Be wary of anyone who guarantees first place on Google or offers large numbers of cheap links. Good SEO is transparent, steady and tied to business goals such as calls, bookings and sales, not just rankings.</p>
+<p>A remote studio can work well for Valencia businesses, provided communication is clear. We agree a regular call slot, share a live task list and send written updates, so you always know what has been done and why. Spain is usually one hour ahead of the UK, which makes scheduling straightforward.</p>
+<p>It also helps to be clear about who does what. We handle the technical work, strategy, English content and reporting. Your team supplies photos, approves claims, answers customer reviews where you prefer to do so yourselves, and provides or commissions translations. Agreeing this early avoids delays later.</p>
+
+<h2>Measuring SEO success</h2>
+<p>Rankings are useful, but they are not the goal. We track organic sessions, enquiries, calls, bookings and sales from search, split by language where possible. Google Search Console shows which queries bring impressions and clicks, and Google Analytics 4 shows what visitors do next. Comparing Spanish and English performance often reveals where translation or content gaps are holding pages back.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Valencia?</h3>
+<p>No, we have no office in Valencia or Spain. Prism Works Studio is UK-based and works remotely through video calls, shared documents and written reports.</p>
+<h3>Can you write content in Spanish or Valencian?</h3>
+<p>No, we write in English only. Spanish and Valencian versions come from your team or a professional translator, and we handle the structure and tags so each version can rank.</p>
+<h3>How much does an SEO agency in Valencia cost?</h3>
+<p>Our SEO retainers cost £350, £750 or £1,500 a month depending on scope. Euro pricing is quoted on request, and there are no long hidden extras.</p>
+<h3>How long does SEO take to work?</h3>
+<p>SEO results typically take three to six months to build. Technical fixes can help sooner, while content and local visibility grow steadily over time.</p>
+<h3>Can you help us rank in other European countries?</h3>
+<p>Yes, we plan international SEO with separate language versions and correct hreflang tags. Your translator supplies the local-language copy for each market.</p>
+<h3>Do you also offer Google Ads?</h3>
+<p>Yes, we manage Google Ads alongside SEO, with ad spend paid separately. Running both often brings enquiries sooner while organic rankings grow.</p>
+`,
+  },
+  {
+    slug: 'shopify-agency-canterbury',
+    seoTitle: 'Shopify Agency Canterbury: Build and Grow Your Online Shop',
+    title: 'Shopify Agency in Canterbury: A Guide for Kent Online Retailers',
+    description: 'Looking for a Shopify agency in Canterbury? See what a good Shopify build includes, how to grow sales with SEO and ads, and what it costs with a remote team.',
+    date: '2026-11-28',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Shopify agency in Canterbury should help you launch or improve an online shop that loads fast, makes buying easy and brings in steady traffic from search and ads. For most Kent retailers, that means a well-chosen theme, clear product and collection pages, honest delivery and returns information, and a growth plan covering SEO and paid campaigns.</p>
+<p>Prism Works Studio is a UK-based web design and ecommerce studio that works remotely. We build and grow Shopify stores for businesses in Canterbury and across Kent through video calls, shared documents and clear written updates. This guide explains what a good Shopify project includes, what it costs and how to grow sales after launch.</p>
+
+<h2>Why Canterbury retailers are moving to Shopify</h2>
+<p>Canterbury has a strong independent retail scene, from shops in the historic centre to makers, food and drink producers and specialist retailers across East Kent. Many businesses here sell to visitors who discover them in person, then want to buy again online once they are home. Others serve customers in Whitstable, Herne Bay, Faversham, Ashford, Margate, Ramsgate and Deal, or sell across the whole UK.</p>
+<p>Shopify suits these businesses because it handles the hard parts of selling online well. Secure checkout, payments, stock tracking, shipping rates and order management come built in. Your team can add products, update prices and run sales without needing a developer for every change.</p>
+<p>The cathedral, university and visitor economy also create seasonal peaks. A good store is ready for busy periods such as summer, the run-up to Christmas and key local events, with stock, delivery cut-offs and promotions planned ahead.</p>
+
+<h2>What a Shopify agency in Canterbury should deliver</h2>
+<p>Whoever you choose, a solid Shopify build usually includes:</p>
+<ul>
+<li><strong>Theme selection and setup.</strong> A well-supported theme adapted to your brand, rather than a heavy custom build that is hard to maintain.</li>
+<li><strong>Product and collection structure.</strong> Collections organised the way customers shop, with filters that help them find the right item quickly.</li>
+<li><strong>Clear product pages.</strong> Good photos, honest descriptions, sizes or specifications, delivery times and returns information.</li>
+<li><strong>Checkout and payments.</strong> Shopify checkout configured with the payment options your customers expect.</li>
+<li><strong>Shipping and tax settings.</strong> Delivery zones, rates and options such as local collection set up correctly. For tax questions, check official guidance or your own accountant.</li>
+<li><strong>SEO foundations.</strong> Page titles, descriptions, structured data, redirects from any old site and a clean URL structure.</li>
+<li><strong>Tracking.</strong> Analytics and conversion tracking so you can see where sales come from.</li>
+</ul>
+<p>Our <a href="/sectors/ecommerce/">ecommerce sector page</a> explains how we approach online retail more widely.</p>
+
+<h2>Shopify compared with other platforms</h2>
+<table>
+<thead><tr><th>Platform</th><th>Best for</th><th>Things to consider</th></tr></thead>
+<tbody>
+<tr><td>Shopify</td><td>Most product-led retailers</td><td>Monthly plan fee and some paid apps</td></tr>
+<tr><td>Shopify Plus</td><td>Larger brands with higher volumes</td><td>Higher cost, more advanced checkout options</td></tr>
+<tr><td>WordPress with WooCommerce</td><td>Content-heavy sites selling some products</td><td>More hands-on maintenance and security updates</td></tr>
+<tr><td>Marketplaces only</td><td>Testing demand quickly</td><td>Fees, less control of branding and customer data</td></tr>
+</tbody>
+</table>
+<p>For many Canterbury shops, Shopify is the simplest way to sell reliably. If your business is mainly content with a few products, WordPress may suit you better, and our <a href="/blog/wordpress-agency-uk/">WordPress agency guide</a> covers that route.</p>
+
+<h2>How much does a Shopify store cost?</h2>
+<p>Our e-commerce websites cost £1,500 to £3,500. The final price depends on the number of products, how much content we write, any migrations from an old platform and the apps or integrations you need. On top of that, you pay Shopify directly for your plan and for any paid apps you choose.</p>
+<p>Most e-commerce builds take five to twelve weeks. A small shop with a modest catalogue and ready product photos sits at the shorter end. Larger catalogues, migrations or complex shipping rules take longer.</p>
+<p>After launch, many retailers choose a monthly retainer to keep growing sales. Our plans are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month, with any ad spend paid separately. You can see what each includes on our <a href="/pricing/">pricing page</a>.</p>
+
+<h2>Moving an existing shop to Shopify</h2>
+<p>If you already sell on another platform, moving to Shopify needs care. The main risks are losing search rankings and breaking links customers have saved. A good migration maps every old product, collection and page URL to its new address and sets up redirects, so search engines and customers land in the right place.</p>
+<p>We also move product data, customer records where appropriate and order history if needed, then check that page titles and descriptions carry over properly. For larger brands, we can handle Shopify Plus migrations too.</p>
+
+<h2>Growing sales after launch</h2>
+<p>Launching the store is only the beginning. Most shops grow through a mix of search, paid ads and repeat customers.</p>
+<p><strong>Ecommerce SEO</strong> helps your collections and products appear when people search for what you sell. That means well-written collection pages, unique product descriptions, sensible internal linking and fixing technical issues such as duplicate pages. Our <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO guide</a> explains the process, and our <a href="/services/seo-geo/">SEO and GEO service</a> covers how we keep improving rankings.</p>
+<p><strong>Paid ads</strong> bring sales faster. Google Shopping and Performance Max suit product catalogues with good tracking. Meta and TikTok Ads work well for visual products and gifts, using photos or video supplied by your team, since we do not film or edit video. Our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> covers paid search in more depth.</p>
+<p><strong>Marketplaces</strong> such as Amazon can extend your reach. We offer marketplace listing SEO, and our <a href="/blog/amazon-seo-agency-uk/">Amazon SEO guide</a> explains how it fits alongside your own store.</p>
+
+<h2>Local visibility for Canterbury shops with a physical store</h2>
+<p>If you have a shop in the city as well as an online store, local search matters too. A complete Google Business Profile, accurate opening hours and genuine reviews help people find you when they search nearby. Shopify can also support local pickup, so online customers in Canterbury and nearby towns can collect in store. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> explains how to strengthen your map listing.</p>
+
+<h2>Keeping your store fast and easy to use</h2>
+<p>Speed and usability have a direct effect on sales. Every extra app adds code to your store, so we keep the app list short and remove anything that is not earning its place. We compress images, use the theme's built-in features where possible and test the store on real phones before launch.</p>
+<p>Small details matter too. A clear search bar, visible delivery costs before checkout, simple size guides and an obvious returns policy all reduce the doubts that make people abandon a basket. Reviewing your store analytics every month shows where shoppers drop off, so you can fix the pages that are losing sales rather than guessing.</p>
+
+<h2>Choosing a Shopify agency in Canterbury</h2>
+<p>Before you commit, ask any agency these questions:</p>
+<ol>
+<li>Will I own the store, theme customisations and all content?</li>
+<li>How will you protect my search rankings if I am moving platform?</li>
+<li>Which apps do you recommend, and what do they cost each month?</li>
+<li>Can my team add products and run sales without your help?</li>
+<li>How will you report on sales and traffic after launch?</li>
+</ol>
+<p>Clear, honest answers are a good sign. Be wary of anyone who promises a fixed sales figure, because results depend on your products, pricing, competition and marketing budget.</p>
+
+<h2>How we work with Canterbury retailers</h2>
+<p>We are a UK-based studio that works remotely, and we do not have an office in Canterbury. Every project starts with a video call about your products, customers and goals. We then agree a site plan, design the key pages, build the store, test it thoroughly and train your team before launch.</p>
+<p>You own the store and all content from day one. If you want ongoing help, we offer monthly retainers covering SEO, paid ads and store improvements. Our <a href="/services/website-ecommerce-development/">website and e-commerce development service</a> explains how we work.</p>
+
+<h2>FAQs</h2>
+<h3>How much does a Shopify agency in Canterbury cost?</h3>
+<p>Prism Works Studio e-commerce sites cost £1,500 to £3,500 depending on scope. Shopify plan fees and any paid apps are paid separately, directly to Shopify and the app providers.</p>
+<h3>How long does it take to build a Shopify store?</h3>
+<p>Most Shopify builds take five to twelve weeks. Smaller catalogues with ready photos are quicker, while migrations and complex shipping take longer.</p>
+<h3>Can you move my existing shop to Shopify without losing rankings?</h3>
+<p>Yes, we map every old URL to its new address and set up redirects to protect your rankings. We also check that titles, descriptions and product data carry over correctly.</p>
+<h3>Do you have an office in Canterbury?</h3>
+<p>No, we are a UK-based studio that works remotely. We run Shopify projects through video calls, shared documents and written updates.</p>
+<h3>Can customers collect online orders from my Canterbury shop?</h3>
+<p>Yes, Shopify supports local pickup, which we can set up during the build. It lets nearby customers order online and collect in store.</p>
+<h3>Do you take product photos or make videos?</h3>
+<p>No, we do not provide photography or video production. Your team or a local photographer supplies images, and we make sure they are optimised for speed and search.</p>
+`,
+  },
+  {
+    slug: 'shopify-agency-philadelphia',
+    seoTitle: 'Shopify Agency Philadelphia: Store Builds, SEO and Growth',
+    title: 'Shopify Agency in Philadelphia: Building and Growing Stores That Sell',
+    description: 'A Shopify agency in Philadelphia builds fast stores, migrates platforms and grows sales with SEO and ads. See costs, timelines and how a remote UK studio works.',
+    date: '2026-11-28',
+    category: 'Ecommerce',
+    related: ['/services/website-ecommerce-development/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A Shopify agency in Philadelphia designs, builds and grows online stores on Shopify, from first launch or platform migration through to SEO, ads and conversion improvements. The right partner focuses on a fast, easy-to-run store that turns visitors into repeat customers.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Philadelphia or anywhere in the United States. We build and manage Shopify stores through video calls, shared documents and staging previews, with calls scheduled around Eastern Time. This guide explains what a Philadelphia brand should expect from a Shopify agency, how the work runs and what it costs.</p>
+
+<h2>Ecommerce in Philadelphia</h2>
+<p>Philadelphia has a strong mix of independent retailers, food and drink brands, fashion and streetwear labels, home goods makers, health and wellness products and B2B suppliers. Many started with a physical shop in neighborhoods such as Old City, Fishtown, South Philly or Manayunk, or at local markets, and now want to sell across the US. The city also sits within easy shipping reach of New York, New Jersey, Delaware, Baltimore and Washington, which helps brands offer fast delivery to a large population.</p>
+<p>That opportunity comes with competition. Shoppers compare your store with national brands and marketplaces, so your site has to load fast, explain products clearly and make checkout simple. Shopify gives you a reliable base, but the setup, theme choices and catalog structure decide how well it performs.</p>
+
+<h2>What our Shopify agency Philadelphia service covers</h2>
+<ul>
+<li><strong>Store builds:</strong> new Shopify stores on a well-supported theme, customized to your brand and products.</li>
+<li><strong>Migrations:</strong> moving from WooCommerce, Squarespace, Wix, BigCommerce or older platforms with products, customers and redirects handled carefully.</li>
+<li><strong>Shopify Plus:</strong> migrations and setup for higher-volume brands that need Plus features.</li>
+<li><strong>Catalog and collections:</strong> product data, variants, tags and filters structured so shoppers and search engines can find things.</li>
+<li><strong>Apps and integrations:</strong> reviews, subscriptions, email, shipping and accounting tools chosen carefully to avoid slowing the store.</li>
+<li><strong>Growth:</strong> SEO, Google Shopping, Meta Ads, TikTok Ads and conversion improvements after launch.</li>
+</ul>
+<p>Prism does not shoot product photos or film video. Your team or a photographer you choose supplies the visuals, and we optimize and place them across the store and ads.</p>
+
+<h2>Build, migrate or improve</h2>
+<p>Not every brand needs the same project. The table below shows the three most common starting points and what each usually involves.</p>
+<table>
+<thead><tr><th>Starting point</th><th>Typical work</th><th>Typical timeline</th></tr></thead>
+<tbody>
+<tr><td>New brand, no store</td><td>Theme setup, design, products, payments, shipping, tracking</td><td>5 to 8 weeks</td></tr>
+<tr><td>Migration from another platform</td><td>Data import, redirects, design rebuild, app replacements, testing</td><td>6 to 12 weeks</td></tr>
+<tr><td>Existing Shopify store</td><td>Speed fixes, navigation, product pages, SEO, conversion tweaks</td><td>Ongoing retainer</td></tr>
+<tr><td>Growing into Shopify Plus</td><td>Plan review, checkout and automation setup, B2B or multi-store needs</td><td>Scoped per project</td></tr>
+</tbody>
+</table>
+<p>E-commerce site builds cost £1,500 to £3,500 and usually take 5 to 12 weeks, depending on product numbers, integrations and how quickly content arrives.</p>
+
+<h2>Migrations without losing rankings</h2>
+<p>Platform migrations are where many stores lose search traffic. Product and collection URLs change, old links break and Google has to relearn the site. We prevent this by mapping every important URL, setting up redirects in Shopify, keeping page titles and descriptions where they work and checking Search Console closely after launch.</p>
+<p>We also move customer accounts, order history where possible, reviews and blog content, and test checkout, taxes and shipping rates before go-live. US sales tax rules vary by state, so you should confirm your tax settings with your accountant. We configure Shopify's tools to match their advice.</p>
+
+<h2>Store speed and user experience</h2>
+<p>Every app you install can add scripts that slow the store down. Over time, many Shopify stores build up apps nobody uses. We audit apps, remove what is not needed, compress images, simplify theme code and check Core Web Vitals. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains the metrics, which apply equally to US stores.</p>
+<p>We also focus on the pages that matter most: the homepage, collection pages, product pages and cart. Clear product information, honest delivery and returns details, size guides where relevant and trust signals you can support all help shoppers decide.</p>
+
+<h2>Shopify SEO for Philadelphia brands</h2>
+<p>Shopify handles many SEO basics, but a few areas need attention. Collection pages often have thin content, product descriptions are copied from suppliers and duplicate URLs can appear through tags and variants. We fix these, write useful collection copy, add structured data and plan content that answers buyer questions.</p>
+<p>If you also have a physical shop in Philadelphia, local SEO and a complete Google Business Profile help nearby shoppers find you and check stock or opening hours. Our <a href="/services/seo-geo/">SEO and GEO service</a> covers both ecommerce and local search, plus AI search visibility. For marketplaces such as Amazon and Walmart, we also offer listing SEO alongside your store.</p>
+
+<h2>Paid growth: Google Shopping, Meta and TikTok</h2>
+<p>Google Shopping campaigns depend on a clean product feed. We set up and fix feeds in Google Merchant Center, then run Shopping and Performance Max campaigns with sensible structure and tracking. Meta Ads and TikTok Ads help you reach new customers with creative your team supplies, then retarget people who visited but did not buy.</p>
+<p>For search campaigns in the city, see our guide to a <a href="/blog/google-ads-agency-philadelphia/">Google Ads agency in Philadelphia</a>. For social, our guide to a <a href="/blog/meta-ads-agency-for-us-ecommerce/">Meta Ads agency for US ecommerce</a> covers catalog campaigns and testing. Our <a href="/services/paid-media/">paid media service</a> manages these channels, and ad spend is always paid separately to the platforms.</p>
+
+<h2>Learning from other Northeast stores</h2>
+<p>Philadelphia brands often compete for the same shoppers as stores in New York and Boston. The challenges are similar: high shipping expectations, strong competition and the need to stand out with a clear brand. You can compare approaches in our guides to a <a href="/blog/shopify-agency-new-york/">Shopify agency in New York</a> and a <a href="/blog/shopify-agency-boston/">Shopify agency in Boston</a>. For a wider view of selling across the country, see our <a href="/blog/shopify-agency-for-us-brands/">Shopify agency guide for US brands</a>.</p>
+
+<h2>Retention and repeat customers</h2>
+<p>Winning a first order is expensive. Repeat customers are where most stores make their margin. We help you set up email flows such as welcome series, abandoned cart reminders and post-purchase follow-ups, and plan offers or loyalty programs that suit your products and margins. Subscriptions can work well for consumables like coffee, skincare or pet products.</p>
+<p>We write email copy in English based on your brand voice and the facts you give us. You approve every message, and you remain responsible for consent and privacy rules, so follow official guidance and your own adviser on email marketing compliance.</p>
+
+<h2>Pricing and timelines</h2>
+<p>Our prices are set in pounds, with US dollar pricing quoted on request.</p>
+<ul>
+<li><strong>E-commerce website build or migration:</strong> £1,500 to £3,500, usually 5 to 12 weeks</li>
+<li><strong>Growth retainers:</strong> Launch at £350 a month, Growth at £750 a month, Scale at £1,500 a month</li>
+<li><strong>Ad spend:</strong> paid separately to Google, Meta or TikTok</li>
+</ul>
+<p>SEO and paid results typically build over 3 to 6 months. Full details are on our <a href="/pricing/">pricing page</a>, and you can read more about our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a>.</p>
+
+<h2>Working with a remote UK studio</h2>
+<p>You own your Shopify store, domain, apps and all data. We work as collaborators on your account, share staging previews and written plans, and hold calls in your mornings, which overlap with our UK afternoons. At launch, we hand over a simple guide so your team can add products, update pages and run sales without needing us for every change.</p>
+<p>To get started, send us your current store or website address, a rough product count and the main goal for the next six months, whether that is a new launch, a migration or faster growth. We will reply with a written outline of the work we recommend, the likely timeline and which pricing option fits best.</p>
+
+<h2>FAQs</h2>
+<h3>What does a Shopify agency in Philadelphia do?</h3>
+<p>A Shopify agency in Philadelphia builds, migrates and improves Shopify stores, then helps them grow with SEO, ads and conversion work. That includes theme setup, product catalogs, apps, payments, shipping, tracking and ongoing marketing.</p>
+<h3>How much does a Shopify store cost?</h3>
+<p>Our e-commerce site builds cost £1,500 to £3,500, with US dollar pricing quoted on request. The final cost depends on product numbers, design needs, integrations and whether you are migrating from another platform.</p>
+<h3>How long does a Shopify build take?</h3>
+<p>A Shopify build usually takes 5 to 12 weeks. Simple new stores sit at the shorter end, while migrations with large catalogs and many integrations take longer.</p>
+<h3>Can you migrate my store to Shopify without losing SEO?</h3>
+<p>Yes, careful URL mapping and redirects protect most of your existing search visibility during a migration. We also keep strong titles and content, then monitor Search Console closely after launch.</p>
+<h3>Do you have an office in Philadelphia?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with no office in Philadelphia or the USA. We work through video calls, staging previews and written reports scheduled around Eastern Time.</p>
+<h3>Do you take product photos?</h3>
+<p>No, Prism does not take photos or film video. Your team or a photographer you choose supplies product images, and we optimize and place them across your store and ads.</p>
+`,
+  },
+  {
+    slug: 'tiktok-ads-agency-calgary',
+    seoTitle: 'TikTok Ads Agency Calgary: Campaigns That Reach Albertans',
+    title: 'TikTok Ads Agency in Calgary: How to Run Campaigns That Pay Their Way',
+    description: 'A TikTok Ads agency for Calgary brands: audience planning, pixel tracking, creative briefs and weekly testing, run remotely by a UK studio with clear pricing.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A TikTok Ads agency in Calgary should help you reach local and national buyers with short, native-looking ads, then prove which campaigns turn views into leads or sales. The work is mostly about tracking, audience choices, creative testing and honest reporting, not just boosting a popular video.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Calgary or anywhere in Canada. We work through video calls, shared documents and written reports, and we write in English. We do not film or edit video. Your team, your customers or a creator you hire supply the footage, and we handle strategy, account setup, tracking, testing and reporting.</p>
+
+<h2>Why Calgary brands are looking at TikTok Ads</h2>
+<p>Calgary has a young, fast-growing population, a strong small business scene and plenty of brands selling across Alberta and the rest of Canada. Many of the people you want to reach spend real time on TikTok, and the platform rewards ads that look like ordinary content rather than polished commercials. That gives smaller businesses a fair chance against larger competitors with bigger production budgets.</p>
+<p>The city also has clear seasonal patterns. Stampede in July, ski and mountain trips to Banff and Canmore through winter, and long summer evenings all change what people buy and when. A TikTok plan that follows those rhythms usually outperforms one that runs the same message all year.</p>
+<p>TikTok is not right for every business, though. If your buyers are senior decision makers in energy, engineering or professional services, LinkedIn or Google Search may be a better first channel. We will tell you if we think TikTok is the wrong fit, and our guide to <a href="/blog/tiktok-ads-vs-meta-ads-uk/">TikTok Ads versus Meta Ads</a> explains how the two platforms differ.</p>
+
+<h2>What a TikTok Ads agency in Calgary actually does</h2>
+<p>Good TikTok management is a set of repeatable tasks done well every week. Here is how we split the work.</p>
+<table>
+<thead><tr><th>Area</th><th>What we do</th><th>What you supply</th></tr></thead>
+<tbody>
+<tr><td>Strategy</td><td>Define goals, offers, audiences and budget split</td><td>Margins, stock and sales priorities</td></tr>
+<tr><td>Tracking</td><td>Set up the TikTok Pixel and events, check conversions</td><td>Website or store access</td></tr>
+<tr><td>Creative briefs</td><td>Write hooks, scripts and shot lists for each test</td><td>Filmed footage from your team or a creator</td></tr>
+<tr><td>Campaign build</td><td>Structure campaigns, ad groups and placements</td><td>Approval of offers and claims</td></tr>
+<tr><td>Testing</td><td>Run hook, offer and audience tests on a schedule</td><td>Fresh footage as winners tire</td></tr>
+<tr><td>Reporting</td><td>Weekly notes and a monthly written review</td><td>Feedback on lead quality and sales</td></tr>
+</tbody>
+</table>
+<p>Because we do not produce video, the brief matters a lot. We tell you exactly what to film, how the first two seconds should look, what text to put on screen and which version to shoot next. Many Calgary businesses film on a phone in-house, and that is often what performs best on TikTok.</p>
+
+<h2>Tracking first: the pixel and events</h2>
+<p>Most weak TikTok accounts have one thing in common: the platform cannot see what happens after the click. Before we spend serious budget, we install or check the TikTok Pixel, set up the key events such as add to cart, lead form submit and purchase, and test that each event fires correctly. Where your platform supports it, we also set up server-side events to fill gaps left by browser blocking.</p>
+<p>Our <a href="/blog/tiktok-pixel-setup-guide/">TikTok Pixel setup guide</a> covers the basics if you want to check your own site first. If your website is slow or the checkout is clumsy, ads will expose those problems quickly, so we may suggest fixes before scaling. Our notes on <a href="/blog/web-design-calgary/">web design in Calgary</a> explain what a landing page needs to convert paid traffic.</p>
+<p>Privacy matters too. Canadian businesses must follow federal privacy law and, depending on the province and sector, local rules as well. Keep your cookie notice and privacy policy accurate, and check your obligations with official guidance or your own adviser. If you plan to follow up leads by email, consent rules under Canada's anti-spam legislation apply.</p>
+
+<h2>Creative that works on TikTok</h2>
+<p>TikTok ads succeed or fail on creative. The algorithm does much of the targeting for you, so the video itself becomes the main lever. In our experience the formats that tend to work for local and Canadian brands include:</p>
+<ul>
+<li>A person talking straight to the camera about a problem the product solves.</li>
+<li>A quick before-and-after or unboxing filmed in natural light.</li>
+<li>A walkthrough of a shop, studio or service in Calgary, showing real people and places.</li>
+<li>Answers to common customer questions, one question per video.</li>
+<li>Seasonal angles, such as winter gear, Stampede week or summer patio season.</li>
+</ul>
+<p>We write each brief around one hook and one message. Then we test several hooks against each other with the same body, so you learn what grabs attention. Once a winner emerges, we ask for variations before performance fades, because TikTok creative tends to tire faster than search ads.</p>
+<p>If you sell nationally, you may also need versions that speak to buyers outside Alberta. Prism writes in English. If you want French-language ads for Quebec, the copy should come from your team or a professional translator.</p>
+
+<h2>Campaign structure and budget for Calgary businesses</h2>
+<p>We keep structures simple, especially at lower budgets. A typical starting account has one prospecting campaign with broad targeting and a few ad groups for creative tests, plus a retargeting campaign for site visitors and engaged viewers once there is enough data. Local service businesses may use a tighter location radius around Calgary and nearby communities such as Airdrie, Cochrane and Okotoks, while ecommerce brands usually target Canada as a whole.</p>
+<p>Ad spend is paid directly to TikTok and is separate from our fee. We suggest a test budget that gives each ad group enough data to make a decision, then shift money to the winners. We would rather you run fewer tests properly than spread a small budget across too many ideas.</p>
+<p>TikTok works best as part of a wider mix. Paid social builds demand, while search captures people already looking. Many Calgary brands pair TikTok with <a href="/blog/google-ads-agency-calgary/">Google Ads in Calgary</a> or <a href="/blog/meta-ads-agency-calgary/">Meta Ads in Calgary</a>, and organic visibility from <a href="/blog/seo-agency-calgary/">SEO in Calgary</a> lowers your reliance on paid clicks over time.</p>
+
+<h2>Which Calgary businesses suit TikTok Ads</h2>
+<p>TikTok tends to suit businesses with a visual product, a clear offer and buyers under about 45, though older audiences are growing on the platform. Good fits often include:</p>
+<ul>
+<li>Online shops selling apparel, outdoor gear, beauty, home goods and gifts. Our <a href="/sectors/ecommerce/">ecommerce marketing page</a> covers how we approach them.</li>
+<li>Restaurants, cafes, breweries and venues that want more bookings and visits.</li>
+<li>Gyms, studios and wellness businesses with a trial or intro offer.</li>
+<li>Home services, such as renovations and landscaping, where before-and-after footage tells the story.</li>
+<li>Education and training providers recruiting students or learners.</li>
+</ul>
+<p>Regulated sectors such as finance and health can use TikTok, but platform policies are strict and approval of claims rests with your own compliance team. Keep messages general and check official guidance before launch.</p>
+
+<h2>How we report results</h2>
+<p>TikTok shows plenty of numbers, and not all of them matter. We focus reports on cost per lead or cost per purchase, conversion rate from the landing page, return on ad spend where sales are tracked, and which hooks and offers are winning. Views and likes are useful signals for creative, but they are not the goal.</p>
+<p>You get short weekly notes on what changed and why, and a monthly written review with next steps. Results from paid social usually take shape over three to six months as testing builds up learning. We do not promise specific outcomes, because results depend on your offer, margins, creative supply and market.</p>
+
+<h2>What TikTok Ads management costs</h2>
+<p>Our pricing is the same wherever you are based. Retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Ad spend is paid separately to TikTok. Canadian dollar pricing is quoted on request. You can see what each plan includes on our <a href="/pricing/">pricing page</a>, and our <a href="/services/paid-media/">paid media service</a> explains how TikTok fits alongside Google, Meta, YouTube and LinkedIn.</p>
+<p>Launch suits a single channel with a modest test budget. Growth suits brands running TikTok alongside another channel. Scale suits businesses with larger budgets, several product lines or more frequent creative testing. If you want a wider view of the Canadian market first, read our guide to choosing a <a href="/blog/tiktok-ads-agency-canada/">TikTok Ads agency in Canada</a>.</p>
+
+<h2>How to choose a TikTok Ads agency in Calgary</h2>
+<p>Whichever agency you pick, ask a few direct questions before you sign:</p>
+<ol>
+<li>Who owns the ad account and the pixel? You should.</li>
+<li>How will conversions be tracked and checked?</li>
+<li>Who produces the video, and what happens if creative runs out?</li>
+<li>How often will tests run, and how are winners chosen?</li>
+<li>What does the report include, and how often will you see it?</li>
+<li>What is the notice period, and is there a long lock-in?</li>
+</ol>
+<p>Be wary of anyone who guarantees views, followers or sales. Good agencies talk about process, testing and measurement, not promises.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Calgary?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with Calgary clients. We use video calls, shared documents and written reports, and we have no local office anywhere in Canada.</p>
+<h3>Who makes the videos for our TikTok ads?</h3>
+<p>Your team, your customers or a creator you hire film the videos, while we write the briefs and run the ads. We do not film or edit video, so we give clear shot lists and hooks to make filming easy.</p>
+<h3>How much should we spend on TikTok Ads in Calgary?</h3>
+<p>Start with a test budget large enough to give each ad group a fair read, then scale what works. Ad spend is paid directly to TikTok, separately from our retainer, and we will suggest a figure based on your goals.</p>
+<h3>How do I find a good TikTok Ads agency in Calgary?</h3>
+<p>Look for an agency that sets up tracking first, explains its testing plan and lets you own the account. Ask who supplies creative and how results are reported before you sign anything.</p>
+<h3>How long until TikTok Ads show results?</h3>
+<p>Early signals usually appear within weeks, but steady results typically take three to six months. That time lets creative tests, tracking and audience learning build up.</p>
+<h3>Can you run French-language TikTok ads?</h3>
+<p>Yes, if your team or a translator supplies the French copy. Prism writes in English, so we brief and manage the campaigns while the French text comes from a fluent writer.</p>
+`,
+  },
+  {
+    slug: 'web-design-bilbao',
+    seoTitle: 'Web Design Bilbao: Fast, Multilingual Business Websites',
+    title: 'Web Design in Bilbao: Building a Website That Wins Customers',
+    description: 'Web design for Bilbao businesses: fast, mobile-first sites with Spanish, Basque and English versions, built for SEO and enquiries by a remote UK studio.',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/b2b/', '/pricing/'],
+    body: `
+<p>Web design in Bilbao means planning and building a website that presents your business clearly, loads fast on phones and turns visitors into enquiries or sales. For many companies in the city, that also means a site that works well in Spanish, Basque and English, with each version structured so search engines can index it properly.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Bilbao, the Basque Country or anywhere in Spain. We work through video calls, shared documents and written updates. We write in English, so Spanish and Basque copy comes from your team or a professional translator. We do not take photos or film video, so your team or a photographer supplies the visuals, and we design, build and optimise the site.</p>
+
+<h2>Why web design matters for Bilbao businesses</h2>
+<p>Bilbao has changed a great deal in recent decades, moving from heavy industry towards culture, tourism, engineering, finance and services. Its business base is broad: industrial suppliers and engineering firms, logistics companies around the port, hotels and restaurants serving visitors, and a growing number of professional and technology firms.</p>
+<p>That mix shapes what a good website needs to do. An engineering company selling to buyers across Europe needs detailed, credible service and capability pages in English as well as Spanish. A restaurant in Casco Viejo needs a fast mobile page with menus, opening hours and booking. A consultancy needs case-led pages that explain its approach without making claims it cannot back up. In each case, the design should serve the buyer's questions first.</p>
+
+<h2>Web design Bilbao: what a strong site includes</h2>
+<table>
+<thead><tr><th>Element</th><th>What good looks like</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td>Mobile speed</td><td>Pages load quickly on a phone connection</td><td>Slow sites lose visitors and rankings</td></tr>
+<tr><td>Language versions</td><td>Separate URLs for Spanish, Basque and English with hreflang</td><td>The right version reaches the right searcher</td></tr>
+<tr><td>Clear navigation</td><td>Services, sectors and contact easy to find</td><td>Buyers decide quickly whether to stay</td></tr>
+<tr><td>Service pages</td><td>One focused page per service</td><td>Helps rankings and answers specific questions</td></tr>
+<tr><td>Contact paths</td><td>Forms, phone and email on every key page</td><td>More visitors become enquiries</td></tr>
+<tr><td>Accessibility</td><td>Readable text, contrast and keyboard use</td><td>Required for many sites under EU rules and good for everyone</td></tr>
+</tbody>
+</table>
+
+<h2>Planning a multilingual site</h2>
+<p>In the Basque Country, many businesses choose to offer Basque alongside Spanish, and those selling abroad add English or French. The key decision is structure. Each language should sit in its own folder or subdomain, carry the correct hreflang tags, and have its own titles and descriptions. Automatic browser translation is not a substitute, because search engines cannot index it and the quality is uneven.</p>
+<p>We set up the structure and the language switcher, and your translator supplies the text. We also plan which pages need every language and which can start in one or two, so the project stays manageable. Our guide to <a href="/blog/multilingual-website-design/">multilingual website design</a> explains the options in more detail.</p>
+
+<h2>Design that builds trust</h2>
+<p>Good design is not just about looks. It is about making a visitor confident they have found the right business. For Bilbao companies, especially in B2B and industrial sectors, that usually means:</p>
+<ul>
+<li><strong>Clear statements of what you do</strong> and who you do it for, in the first screen of each page.</li>
+<li><strong>Real photos</strong> of your team, premises or products, supplied by you or a photographer.</li>
+<li><strong>Detailed capability pages</strong> that answer technical questions buyers ask before they call.</li>
+<li><strong>Visible contact details</strong> and simple forms that do not ask for too much.</li>
+<li><strong>Consistent branding</strong> across the site, documents and social profiles.</li>
+</ul>
+<p>Our guide to <a href="/blog/landing-page-design-uk/">landing page design</a> covers how to structure pages for enquiries, and the principles apply equally in Spain.</p>
+
+<h2>Choosing a platform</h2>
+<p>Most of the business sites we build use WordPress, because it is flexible, widely supported and easy for your team to update. Online stores usually use Shopify, which handles payments, stock and multiple currencies well. We recommend the platform based on your needs, not habit.</p>
+<p>If you sell online across Spain or the EU, our guide to <a href="/blog/shopify-agency-spain/">Shopify in Spain</a> explains setup, payments and shipping, and our guide to <a href="/blog/shopify-markets-europe/">Shopify Markets in Europe</a> covers selling into several countries from one store.</p>
+
+<h2>SEO built in from the start</h2>
+<p>A new website is the best moment to get SEO right. We plan the page structure around real searches, write clear titles and headings, set up redirects from any old site and add structured data. We also check speed, image sizes and mobile layout before launch. Our guide to <a href="/blog/seo-agency-barcelona/">SEO in Barcelona</a> covers how search works in the Spanish market, and our <a href="/blog/technical-seo-audit-checklist/">technical SEO checklist</a> shows the checks we run.</p>
+<p>After launch, many clients add an SEO or Google Ads retainer to bring in steady traffic. Our guide to <a href="/blog/google-ads-agency-bilbao/">Google Ads in Bilbao</a> explains how paid search can support a new site while organic rankings grow.</p>
+
+<h2>Accessibility and EU rules</h2>
+<p>The European Accessibility Act brings accessibility requirements for many businesses selling products and services to consumers in the EU. We design with readable text, good colour contrast, keyboard navigation and descriptive labels as standard. Our guide to the <a href="/blog/european-accessibility-act-website/">European Accessibility Act</a> explains what it means for websites. For your specific obligations, check official guidance or speak to your own adviser.</p>
+<p>Privacy rules also matter. Your site needs a clear privacy notice and a cookie banner that respects visitors' choices. We set these up, but final legal approval rests with your business.</p>
+
+<h2>Our web design process</h2>
+<ol>
+<li><strong>Discovery.</strong> We discuss your goals, customers, languages and competitors.</li>
+<li><strong>Structure.</strong> We plan the pages, navigation and SEO keywords.</li>
+<li><strong>Design.</strong> You review layouts for key pages before we build.</li>
+<li><strong>Build.</strong> We develop the site, add your content and set up tracking.</li>
+<li><strong>Launch.</strong> We test speed, forms, languages and redirects, then go live.</li>
+<li><strong>Support.</strong> We train your team and offer ongoing help if you need it.</li>
+</ol>
+<p>A small website usually takes three to five weeks, and an e-commerce site five to twelve weeks. Translation timing often sets the pace, so we agree deadlines with your translator early.</p>
+
+<h2>Pricing</h2>
+<p>Our fees are in pounds sterling, and euro pricing is quoted on request.</p>
+<ul>
+<li><strong>Small website, £1,000 to £2,000:</strong> a focused business site with core service pages.</li>
+<li><strong>E-commerce site, £1,500 to £3,500:</strong> an online store with products, payments and shipping set up.</li>
+<li><strong>Ongoing retainers, £350 to £1,500 a month:</strong> SEO, paid media or both after launch.</li>
+</ul>
+<p>See our <a href="/pricing/">pricing page</a> and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> for full details.</p>
+
+<h2>Common web design mistakes</h2>
+<ul>
+<li><strong>Launching without redirects.</strong> Old pages that disappear take their rankings with them.</li>
+<li><strong>Heavy images and sliders.</strong> They slow pages down and rarely help conversions.</li>
+<li><strong>One language only on key pages.</strong> International buyers leave if they cannot read your offer.</li>
+<li><strong>Vague service descriptions.</strong> Buyers want specifics before they contact you.</li>
+<li><strong>No tracking.</strong> Without it, you cannot tell which pages bring enquiries.</li>
+</ul>
+
+<h2>Working with a remote studio</h2>
+<p>Many Bilbao businesses already work with suppliers across Europe, and web design suits remote working well. We agree a regular call time, share designs and progress in one place and send written summaries after each stage. Spain is usually one hour ahead of the UK, so working hours overlap easily. You stay in control of content and approvals, and we handle the technical and design work.</p>
+
+<h2>After launch: keeping the site useful</h2>
+<p>A website keeps working best when it is kept up to date. We recommend reviewing it every few months: checking which pages bring enquiries, which ones visitors leave quickly and which searches you appear for. Adding new service pages, answering common customer questions and refreshing photos all help. Clear headings and direct answers at the start of each section also make your pages easier for AI search tools to summarise. We can support this on a monthly retainer at a fixed fee, or train your team to handle simple updates themselves.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design in Bilbao cost?</h3>
+<p>A small business website from us costs £1,000 to £2,000, and an e-commerce site costs £1,500 to £3,500. Euro pricing is quoted on request.</p>
+<h3>Do you have an office in Bilbao?</h3>
+<p>No, we have no office in Bilbao or Spain. Prism Works Studio is UK-based and works remotely through video calls, shared documents and written updates.</p>
+<h3>Can you write the Basque and Spanish versions?</h3>
+<p>No, we write in English only. Your team or a professional translator supplies Spanish and Basque text, and we build the structure so each language works and ranks properly.</p>
+<h3>How long does a new website take?</h3>
+<p>A small website usually takes three to five weeks. An e-commerce site takes five to twelve weeks, depending on products, languages and how quickly content arrives.</p>
+<h3>Which platform do you recommend?</h3>
+<p>We usually recommend WordPress for business sites and Shopify for online stores. The right choice depends on how you sell and who will update the site.</p>
+<h3>Will my new site be ready for SEO?</h3>
+<p>Yes, every site we build includes SEO foundations such as clean structure, titles, redirects, speed checks and structured data. Ongoing SEO is available as a monthly retainer.</p>
+`,
+  },
+  {
+    slug: 'web-design-krakow',
+    seoTitle: 'Web Design Krakow: Fast Websites for Polish Businesses',
+    title: 'Web Design in Krakow: Planning a Website That Brings Enquiries',
+    description: 'Web design for Krakow businesses: fast, mobile-first WordPress and Shopify sites with Polish and English versions, built for SEO by a remote UK studio.',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/saas/', '/pricing/'],
+    body: `
+<p>Web design in Krakow means building a website that explains your business clearly, loads quickly on phones and turns visitors into enquiries or sales. For many Krakow companies, it also means running Polish and English versions side by side, structured so that each one can be found in search.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Krakow or anywhere in Poland. We work through video calls, shared documents and written updates. We write in English, so Polish copy comes from your team or a professional translator. We do not take photos or film video, so your team or a photographer supplies images, and we plan, design, build and optimise the site.</p>
+
+<h2>Why web design matters for Krakow businesses</h2>
+<p>Krakow is one of Poland's largest cities and a major hub for technology, shared services, education, tourism and creative industries. Many international companies run offices there, and the city has a strong startup and software scene. Tourism also brings large numbers of visitors to the Old Town, Kazimierz and beyond.</p>
+<p>This creates several types of website need. A software company may sell mostly in English to clients across Europe and North America. A hotel, restaurant or tour operator needs strong mobile pages in Polish and English with easy booking. A local clinic, law firm or accountant needs trustworthy Polish pages that rank in local search. Good web design starts by understanding who the site is for and what they need to do.</p>
+
+<h2>Web design Krakow: what a good site needs</h2>
+<table>
+<thead><tr><th>Element</th><th>What good looks like</th><th>Benefit</th></tr></thead>
+<tbody>
+<tr><td>Mobile performance</td><td>Fast loading and easy tapping on phones</td><td>Fewer visitors leave before reading</td></tr>
+<tr><td>Polish and English versions</td><td>Separate URLs with correct hreflang tags</td><td>Each audience sees the right language in search</td></tr>
+<tr><td>Clear service pages</td><td>One page for each core service or product</td><td>Better rankings and clearer buying decisions</td></tr>
+<tr><td>Strong calls to action</td><td>Forms, phone and booking visible on key pages</td><td>More enquiries from the same traffic</td></tr>
+<tr><td>Accessibility</td><td>Good contrast, readable text, keyboard use</td><td>Meets EU expectations and helps every visitor</td></tr>
+<tr><td>Tracking</td><td>Analytics and conversion events set up</td><td>You know which pages bring results</td></tr>
+</tbody>
+</table>
+
+<h2>Planning Polish and English versions</h2>
+<p>Bilingual sites need planning before design starts. Each language should have its own URL path, its own titles and descriptions, and hreflang tags so Google knows which page to show to which searcher. Machine translation widgets are not a good substitute, because their output is not indexed well and quality varies.</p>
+<p>We build the structure and language switcher, and your translator provides the Polish text. If budgets are tight, we can launch key pages in both languages first and add more later. Our guide to <a href="/blog/multilingual-website-design/">multilingual website design</a> explains the choices.</p>
+
+<h2>Websites for technology and SaaS companies</h2>
+<p>Krakow's software and technology firms often need websites that explain complex products simply. That means clear product pages, feature explanations, pricing pages where appropriate, documentation links and strong demo or trial calls to action. Our <a href="/sectors/saas/">SaaS marketing</a> page explains how we approach this sector, and a well-structured pricing page is one of the most important pages on a SaaS site.</p>
+<p>For software firms selling abroad, English is often the main language, with Polish pages supporting local recruitment and partnerships.</p>
+
+<h2>Choosing a platform</h2>
+<p>We build most business websites on WordPress, which is flexible and easy for your team to update. For online stores, we usually recommend Shopify, which handles payments, stock and shipping well. Polish shoppers often expect local payment options, and these can be set up through supported payment providers. Final checks on payments and tax setup rest with your business and its accountant.</p>
+<p>If you sell on marketplaces too, our guide to <a href="/blog/allegro-seo-poland/">Allegro SEO in Poland</a> explains how to improve listings on the country's best-known marketplace, and our guide to <a href="/blog/shopify-markets-europe/">Shopify Markets in Europe</a> covers selling across borders.</p>
+
+<h2>SEO built into the build</h2>
+<p>A new website is the best time to set up SEO properly. We plan pages around real searches, write clear titles and headings, set up redirects from any old site, add structured data and check speed before launch. Our <a href="/blog/technical-seo-audit-checklist/">technical SEO audit checklist</a> shows the checks we run, and our guide to <a href="/blog/seo-agency-warsaw/">SEO in Warsaw</a> explains how search competition works in Poland.</p>
+<p>After launch, many businesses add Google Ads to bring in enquiries sooner. Our guide to <a href="/blog/google-ads-agency-krakow/">Google Ads in Krakow</a> covers local campaigns, and our guide to <a href="/blog/web-design-warsaw/">web design in Warsaw</a> compares approaches in the capital.</p>
+
+<h2>Accessibility and privacy</h2>
+<p>The European Accessibility Act brings accessibility requirements for many businesses selling to consumers in the EU. We design with readable fonts, good colour contrast, keyboard navigation and clear labels as standard. Our guide to the <a href="/blog/european-accessibility-act-website/">European Accessibility Act</a> explains what it means for websites.</p>
+<p>GDPR applies too. Your site needs a privacy notice and a cookie banner that respects visitors' choices. We set these up, but final legal approval rests with your business. For specific obligations, check official guidance or ask your adviser.</p>
+
+<h2>Our web design process</h2>
+<ol>
+<li><strong>Discovery.</strong> We discuss your goals, audiences, languages and competitors.</li>
+<li><strong>Sitemap and keywords.</strong> We plan pages around how people search.</li>
+<li><strong>Design.</strong> You review layouts for the main pages before we build.</li>
+<li><strong>Build.</strong> We develop the site, add content and set up tracking.</li>
+<li><strong>Testing and launch.</strong> We check speed, forms, languages and redirects.</li>
+<li><strong>Handover.</strong> We train your team and offer ongoing support.</li>
+</ol>
+<p>A small website usually takes three to five weeks, and an e-commerce site five to twelve weeks. Translation timing often sets the pace, so we agree it early.</p>
+
+<h2>Pricing</h2>
+<p>Our fees are in pounds sterling, and Polish zloty pricing is quoted on request.</p>
+<ul>
+<li><strong>Small website, £1,000 to £2,000:</strong> a focused business site with core pages.</li>
+<li><strong>E-commerce site, £1,500 to £3,500:</strong> an online store with products, payments and shipping.</li>
+<li><strong>Retainers, £350 to £1,500 a month:</strong> SEO, paid media or both after launch.</li>
+</ul>
+<p>See our <a href="/pricing/">pricing page</a> and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> for details.</p>
+
+<h2>Common web design mistakes</h2>
+<ul>
+<li><strong>Skipping redirects.</strong> Old URLs that break lose their rankings and links.</li>
+<li><strong>Translating only the homepage.</strong> Visitors leave when deeper pages switch language.</li>
+<li><strong>Heavy design elements.</strong> Large videos and sliders slow pages and distract.</li>
+<li><strong>Weak calls to action.</strong> Visitors need an obvious next step on every page.</li>
+<li><strong>No analytics.</strong> Without tracking you cannot improve what you cannot measure.</li>
+</ul>
+
+<h2>Working with a remote studio</h2>
+<p>Poland is usually one hour ahead of the UK, so working hours overlap well. We agree a regular call slot, share designs and progress in one place and send written summaries after each stage. Your team supplies content, translations and images and approves each step, while we handle design, development and SEO. Many Krakow businesses already work with international teams, so this way of working is familiar.</p>
+
+<h2>Websites for tourism and hospitality</h2>
+<p>Krakow welcomes large numbers of visitors each year, so hotels, apartments, restaurants, tour operators and attractions compete hard for attention. Their websites need fast mobile pages, clear photos supplied by the business, simple booking paths and up-to-date opening hours and prices. Many visitors plan on their phones while already in the city, so a page that loads slowly or hides the booking button loses customers to the next result.</p>
+<p>Direct booking is worth investing in. Booking platforms bring reach but take commission, so a well-designed site with a clear booking engine can shift some reservations back to you. Pages for different audiences, such as families, groups or business travellers, help both search visibility and conversions. We support hospitality businesses with both the website and the search and ads that follow.</p>
+
+<h2>Content that keeps working</h2>
+<p>A website is not finished at launch. The businesses that grow online keep adding useful content: new service pages, answers to common questions, guides and updates. We plan a simple content calendar with you and write in English, while your translator adapts pages into Polish. Clear headings and direct answers at the start of each section also help your pages appear in AI-generated search summaries.</p>
+<p>We also recommend a quick review every few months. Checking which pages bring enquiries, which ones visitors leave quickly and which searches you appear for shows where small changes can make the biggest difference.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design in Krakow cost?</h3>
+<p>A small business website from us costs £1,000 to £2,000, and an e-commerce site costs £1,500 to £3,500. Polish zloty pricing is quoted on request.</p>
+<h3>Do you have an office in Krakow?</h3>
+<p>No, we have no office in Krakow or Poland. Prism Works Studio is UK-based and works remotely through video calls, shared documents and written updates.</p>
+<h3>Can you write the Polish version of our site?</h3>
+<p>No, we write in English only. Your team or a professional translator supplies the Polish text, and we build the structure so both languages work and rank.</p>
+<h3>How long does a new website take?</h3>
+<p>A small website usually takes three to five weeks to build. An e-commerce site takes five to twelve weeks, depending on products and content.</p>
+<h3>Do you build websites for software companies?</h3>
+<p>Yes, we build sites for SaaS and technology firms with clear product, pricing and demo pages. Most are in English, with Polish pages where needed.</p>
+<h3>Will the site be optimised for SEO?</h3>
+<p>Yes, every site includes SEO foundations such as page structure, titles, redirects, speed checks and structured data. Ongoing SEO is available as a monthly retainer.</p>
+`,
+  },
+  {
+    slug: 'web-design-louisville',
+    seoTitle: 'Web Design Louisville: Fast Websites That Win Local Leads',
+    title: 'Web Design in Louisville: How to Get a Website That Brings in Business',
+    description: 'Web design in Louisville should deliver a fast, mobile-first site that ranks and turns visits into calls. See costs, timelines and how a remote UK studio works.',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/pricing/'],
+    body: `
+<p>Web design in Louisville should give your business a fast, mobile-first website that explains what you do, ranks in local search and turns visitors into calls, bookings or sales. Looks matter, but structure, speed and clear calls to action decide whether the site actually earns its keep.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Louisville or anywhere in the United States. We design and build websites through video calls, shared documents and staged previews, and we schedule calls to suit Eastern Time. This guide covers what a Louisville business website needs, how the process works and what it costs.</p>
+
+<h2>What Louisville businesses need from a website</h2>
+<p>Louisville has a varied economy. Healthcare, logistics and distribution, manufacturing, food and drink, bourbon tourism, hospitality and a wide range of trades and professional services all compete for local customers. Many firms also serve Southern Indiana across the river and the wider Kentuckiana region. A website has to make that service area clear and give each type of customer a fast route to the information they want.</p>
+<p>Most visitors arrive on a phone. They want to know, within seconds, what you do, whether you cover their neighborhood, roughly what it costs and how to get in touch. A site that hides the phone number, loads slowly or buries services under vague headings loses those people to the next result.</p>
+<ul>
+<li>A clear headline that says what you do and where</li>
+<li>Separate pages for each main service</li>
+<li>Click-to-call buttons and short enquiry forms</li>
+<li>Honest information about service areas, process and pricing approach</li>
+<li>Real photos supplied by your team, not generic stock where it matters</li>
+<li>Fast loading on mobile data</li>
+</ul>
+
+<h2>Our web design Louisville process</h2>
+<p>We follow a simple, staged process so you always know what is happening and what we need from you.</p>
+<table>
+<thead><tr><th>Stage</th><th>What happens</th><th>Typical timing</th></tr></thead>
+<tbody>
+<tr><td>Discovery</td><td>Goals, services, audience, competitors and sitemap agreed</td><td>Week 1</td></tr>
+<tr><td>Design</td><td>Homepage and key page layouts shared for feedback</td><td>Weeks 1 to 2</td></tr>
+<tr><td>Build</td><td>Pages built in WordPress or Shopify with SEO foundations</td><td>Weeks 2 to 4</td></tr>
+<tr><td>Content and review</td><td>Your copy, photos and details added and checked</td><td>Weeks 3 to 4</td></tr>
+<tr><td>Launch</td><td>Redirects, tracking, Search Console and final checks</td><td>Weeks 4 to 5</td></tr>
+</tbody>
+</table>
+<p>A small business website usually takes 3 to 5 weeks. An online store takes 5 to 12 weeks depending on the number of products, integrations and payment setup. Delays most often come from waiting for content, so we give you a clear list of what we need early.</p>
+
+<h2>WordPress or Shopify for a Louisville business</h2>
+<p>For service businesses, professional firms and most local companies, WordPress is a flexible choice. It is easy to edit, works well for SEO and can grow with you. For retailers and brands selling products online, Shopify is usually simpler to run, with reliable checkout and inventory tools. Local food and drink producers, boutiques and gift shops often fit Shopify well.</p>
+<p>If you sell nationally, our guide to <a href="/blog/ecommerce-web-design-agency-usa/">ecommerce web design for the USA</a> explains store planning, and our <a href="/blog/shopify-agency-for-us-brands/">Shopify agency guide for US brands</a> covers apps, payments and shipping in more depth.</p>
+
+<h2>Built for SEO from day one</h2>
+<p>A new website is the best moment to get SEO right. We set up clean URLs, logical headings, internal links, image compression, structured data, an XML sitemap and correct redirects from any old pages. We also make sure each service and area you care about has its own focused page rather than cramming everything onto the homepage.</p>
+<p>Speed is part of SEO and part of user experience. We avoid heavy page builders where we can, keep scripts lean and size images properly. Our guide to <a href="/blog/core-web-vitals-uk/">Core Web Vitals</a> explains what Google measures. After launch, an ongoing <a href="/services/seo-geo/">SEO and GEO retainer</a> can build content and links so the site keeps climbing.</p>
+
+<h2>Content, photos and copy</h2>
+<p>We write and structure website copy in English, working from the details you give us about your services, prices, process and service area. We do not invent reviews, results or credentials. Prism does not take photos or film video, so images come from your team or a local photographer you choose. Real photos of your team, premises and work almost always perform better than stock images for local businesses.</p>
+<p>If you work in a regulated area, such as healthcare, legal services or finance, we keep the wording general and your own compliance adviser approves the final copy before launch.</p>
+
+<h2>Conversion: turning visits into enquiries</h2>
+<p>Traffic only matters if visitors take the next step. We place calls to action where people need them, keep forms short, show trust signals you can genuinely support such as licenses and memberships, and answer common objections on the page. We also set up conversion tracking so you can see which pages and channels bring enquiries.</p>
+<p>If you plan to run ads to the new site, landing pages need to match the ad message closely. Our <a href="/services/paid-media/">paid media service</a> can run Google Ads and Meta campaigns once the site is live. You can see how we approach Midwest and Southern cities in our guide to <a href="/blog/web-design-indianapolis/">web design in Indianapolis</a> and <a href="/blog/web-design-nashville/">web design in Nashville</a>.</p>
+
+<h2>Local trades and home services in Louisville</h2>
+<p>Roofers, HVAC companies, plumbers, electricians, landscapers and remodelers make up a large share of local search demand. These businesses need a site that loads fast, shows service areas clearly and makes calling easy. Seasonal demand, such as storm damage repairs or heating and cooling peaks, means pages should be easy to update. Our guide to <a href="/blog/home-services-marketing-usa/">home services marketing in the USA</a> covers this in more detail.</p>
+
+<h2>Signs your current website needs replacing</h2>
+<p>Not every business needs a full rebuild. Sometimes targeted fixes are enough. But a new site is usually worth it when several of these apply:</p>
+<ul>
+<li>The site is slow on phones, even after images and plugins have been cleaned up.</li>
+<li>You cannot easily edit text, prices or photos without paying a developer each time.</li>
+<li>Services are crammed onto one page, so you cannot rank for each one separately.</li>
+<li>The design looks dated next to competitors, which undermines trust before anyone reads a word.</li>
+<li>Forms break, emails go missing or you cannot tell where enquiries come from.</li>
+<li>The site runs on an old theme or plugins that no longer receive security updates.</li>
+</ul>
+<p>When we rebuild, we protect what already works. We map every existing URL, keep pages that rank and redirect old addresses to their new equivalents, so you do not lose search visibility you have already earned. We also review Search Console data before the redesign, so the new structure supports the searches that matter to your business.</p>
+<p>Accessibility is part of good design too. Readable text sizes, good colour contrast, descriptive link text, image alt text and forms that work with a keyboard help every visitor, including people using assistive technology. We build with these basics in mind, and you should seek your own advice on any legal accessibility obligations that apply to your business.</p>
+
+<h2>Website costs</h2>
+<p>Our prices are set in pounds, with US dollar pricing quoted on request.</p>
+<ul>
+<li><strong>Small website:</strong> £1,000 to £2,000, usually 3 to 5 weeks</li>
+<li><strong>E-commerce website:</strong> £1,500 to £3,500, usually 5 to 12 weeks</li>
+<li><strong>Ongoing SEO or marketing:</strong> retainers at £350, £750 or £1,500 a month</li>
+</ul>
+<p>The final cost depends on the number of pages, features, integrations and how much copy we write. You can see full details on our <a href="/pricing/">pricing page</a> and the scope of builds on our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> page.</p>
+
+<h2>Working with a remote UK studio</h2>
+<p>Working remotely is straightforward. We share designs and staging links, collect feedback in writing and hold calls in your mornings, which overlap with our UK afternoons. You own the domain, hosting account, website and all content. We hand over logins and simple editing guidance at launch, so your team can update text and images without needing us for every change.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design in Louisville cost?</h3>
+<p>Our small websites cost £1,000 to £2,000 and e-commerce sites cost £1,500 to £3,500, with US dollar pricing quoted on request. The price depends on pages, features, integrations and how much content we write for you.</p>
+<h3>How long does it take to build a website?</h3>
+<p>A small business website usually takes 3 to 5 weeks. An online store usually takes 5 to 12 weeks, depending on product numbers, integrations and how quickly content and feedback arrive.</p>
+<h3>Do you have an office in Louisville?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with no office in Louisville or the USA. We work through video calls, shared previews and written feedback, and schedule calls to suit Eastern Time.</p>
+<h3>Should I use WordPress or Shopify?</h3>
+<p>WordPress usually suits service businesses and professional firms, while Shopify usually suits businesses selling products online. We recommend a platform after understanding how you sell, who edits the site and what integrations you need.</p>
+<h3>Will my new website be SEO friendly?</h3>
+<p>Yes, every site we build includes SEO foundations such as clean URLs, headings, structured data, fast loading and correct redirects. Ongoing rankings still depend on content, links and local SEO work after launch.</p>
+<h3>Do you provide photos and video for the website?</h3>
+<p>No, Prism does not take photos or film video. Images and video come from your team or a provider you choose, and we optimize and place them on the site.</p>
+`,
+  },
+  {
+    slug: 'web-design-wrexham',
+    seoTitle: 'Web Design Wrexham: Fast Sites That Win Local Enquiries',
+    title: 'Web Design in Wrexham: A Practical Guide for Local Businesses',
+    description: 'Web design in Wrexham: fast, mobile-first WordPress and Shopify sites built to rank locally and turn visits into calls, from £1,000, by a remote UK studio.',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/services/seo-geo/', '/pricing/'],
+    body: `
+<p>Web design in Wrexham works best when the site is fast on a phone, explains your service in plain words and makes the next step obvious, whether that is a call, a booking or a quote request. For most local firms, a well-built WordPress or Shopify site with solid local SEO foundations will do far more than an expensive, complicated build.</p>
+<p>Prism Works Studio is a UK-based web design and digital marketing studio that works remotely. We build websites for businesses across North Wales and the border, running every project through video calls, shared documents and written updates. This guide explains what a good Wrexham website needs, what it costs, how long it takes and how to choose a designer.</p>
+
+<h2>Why Wrexham businesses need a stronger website now</h2>
+<p>Wrexham has grown in profile in recent years, and city status has brought more attention to the area. Visitors, new residents and businesses looking for local suppliers now search online before they pick up the phone. If your website is slow, dated or hard to use on a mobile, those people simply go to the next result.</p>
+<p>The local economy is varied. Advanced manufacturing and food production on the industrial estate sit alongside retail in the town centre, hospitality, trades, professional services, healthcare practices and a growing number of online shops. Many firms also serve customers across the border in Chester, Oswestry and the wider Cheshire and Shropshire area, as well as towns such as Mold, Ruabon, Gresford, Rossett, Llangollen and Chirk.</p>
+<p>That wide catchment matters. A website that only says "Wrexham" can miss people searching for the nearby towns you actually cover, while a site stuffed with copied town pages can look spammy. The right approach sits in between, and we cover it in the local SEO section below.</p>
+
+<h2>What a good Wrexham website includes</h2>
+<p>Every site we build starts from the same practical checklist. The design adapts to your brand, but these foundations rarely change:</p>
+<ul>
+<li><strong>Mobile-first layout.</strong> Most local searches happen on a phone, so we design for small screens first and make buttons, forms and phone numbers easy to tap.</li>
+<li><strong>Clear service pages.</strong> One page per main service, written in the words your customers use, so each page can rank for its own searches.</li>
+<li><strong>Visible contact routes.</strong> A click-to-call number, a short form and, where it suits you, online booking, all placed where people look for them.</li>
+<li><strong>Speed.</strong> Compressed images, lean themes and sensible hosting so pages load quickly even on a weak signal.</li>
+<li><strong>Trust signals you can genuinely show.</strong> Your accreditations, guarantees, opening hours and real photos of your work or premises.</li>
+<li><strong>Tracking.</strong> Analytics and conversion tracking set up from day one so you can see which pages produce enquiries.</li>
+</ul>
+<p>If you sell online, we add product pages, a clear basket and checkout, delivery and returns information, and the structured data that helps products appear well in search. Our guide to <a href="/blog/ecommerce-seo-agency-uk/">ecommerce SEO in the UK</a> explains how shop sites earn search traffic over time.</p>
+
+<h2>WordPress or Shopify for a Wrexham business</h2>
+<p>We build mainly on WordPress and Shopify, because both are reliable, widely supported and easy for your own team to update. The right choice depends on what the site needs to do.</p>
+<table>
+<thead><tr><th>Need</th><th>Usually best on</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Trades, services or professional firm</td><td>WordPress</td><td>Flexible pages, strong SEO control and easy content editing</td></tr>
+<tr><td>Online shop with a product catalogue</td><td>Shopify</td><td>Secure checkout, stock management and payment options built in</td></tr>
+<tr><td>Restaurant, café or venue</td><td>WordPress</td><td>Menus, events and booking links are simple to manage</td></tr>
+<tr><td>Shop plus a lot of content or guides</td><td>Either, case by case</td><td>Depends on catalogue size and how much you publish</td></tr>
+<tr><td>Larger brand moving platform</td><td>Shopify or Shopify Plus</td><td>Scales well and supports more advanced checkout needs</td></tr>
+</tbody>
+</table>
+<p>For most service firms, WordPress is the natural fit. Our <a href="/blog/wordpress-small-business-website/">WordPress small business website guide</a> walks through what that looks like in practice, and good UK hosting has a real effect on speed and security.</p>
+
+<h2>How much does web design in Wrexham cost?</h2>
+<p>Our prices are the same wherever you are based. A small business website costs £1,000 to £2,000. An e-commerce website costs £1,500 to £3,500. The final figure depends on the number of pages or products, any integrations you need and how much copy we write for you.</p>
+<p>After launch, many clients choose a monthly retainer so the site keeps improving and earns more search traffic. Retainers run at £350 a month for Launch, £750 a month for Growth and £1,500 a month for Scale. Any advertising spend is paid separately, straight to the ad platform. You can see what each plan includes on our <a href="/pricing/">pricing page</a>.</p>
+<p>For a broader look at what drives the cost of a WordPress build, our <a href="/blog/wordpress-website-cost-uk/">WordPress website cost guide</a> breaks the numbers down further.</p>
+
+<h2>How long a new website takes</h2>
+<p>A standard website usually takes three to five weeks from kick-off to launch. An e-commerce site takes five to twelve weeks, depending on the size of the catalogue and any integrations. The biggest factor in timing is usually content, so having your photos, service details and any existing copy ready early keeps things moving.</p>
+<p>A typical project runs like this:</p>
+<ol>
+<li><strong>Discovery call.</strong> We talk through your services, customers, competitors and goals.</li>
+<li><strong>Site plan.</strong> We agree the page list, the main search terms for each page and the contact routes.</li>
+<li><strong>Design.</strong> You see the homepage and a key inner page first, then we roll the design out across the site.</li>
+<li><strong>Build and content.</strong> We build the site, add content and set up forms, tracking and basic SEO.</li>
+<li><strong>Testing.</strong> We check speed, mobile layouts, forms and links before launch.</li>
+<li><strong>Launch and handover.</strong> We go live, submit the sitemap and show your team how to make simple edits.</li>
+</ol>
+
+<h2>Local SEO built into your Wrexham website</h2>
+<p>A new website is the best moment to get local search right, because structure is much harder to change later. We plan pages around the services you offer and the places you genuinely serve, then link the site to a complete Google Business Profile.</p>
+<p>For a firm covering Wrexham and the surrounding area, that might mean a strong main service page for Wrexham plus a small number of genuinely useful pages for places such as Mold, Chester or Llangollen, each with real information about the work you do there. We avoid thin, copied town pages, which rarely rank well and can drag the whole site down.</p>
+<p>We also make sure your business name, address and phone number are consistent across the site and key directories, and we set up a simple process for asking customers for reviews. Our <a href="/blog/local-seo-uk-guide/">local SEO guide</a> covers these steps in more detail, and our <a href="/services/seo-geo/">SEO and GEO service</a> explains how we keep improving rankings after launch.</p>
+
+<h2>Welsh language and bilingual websites</h2>
+<p>Some Wrexham businesses want a bilingual site, particularly those working with public bodies, schools or customers who prefer Welsh. Prism Works Studio writes in English. If you need Welsh content, the translation comes from your own team or a professional translator, and we build the site so both languages are properly structured, easy to switch between and correctly set up for search engines.</p>
+<p>Planning for two languages from the start is far easier than adding a second language later, so mention it in your first conversation with any designer.</p>
+
+<h2>Getting enquiries, not just visits</h2>
+<p>A good-looking website that nobody contacts is not doing its job. We design every page around a clear action. On a service page, that is usually a call or a quote form. On a shop, it is adding to basket. On a restaurant or venue site, it is a booking.</p>
+<p>Once the site is live, paid search can bring in enquiries while organic rankings build. Google Ads campaigns aimed at people searching for your service in Wrexham and nearby towns can work well for trades and urgent services. Our guide to choosing a <a href="/blog/google-ads-agency-uk/">Google Ads agency in the UK</a> explains what good management looks like, and our <a href="/services/paid-media/">paid media service</a> covers Google, Meta, TikTok, YouTube and LinkedIn Ads.</p>
+
+<h2>How to choose a web designer in Wrexham</h2>
+<p>Whether you pick us or someone else, these questions will help you compare options fairly:</p>
+<ul>
+<li>Who owns the website, the domain and the hosting account once the project is finished?</li>
+<li>Is SEO set up properly at launch, including page titles, headings, redirects and a sitemap?</li>
+<li>Can your team update text, images and opening hours without paying for every change?</li>
+<li>How will you be kept informed, and how quickly are questions answered?</li>
+<li>What happens after launch if something breaks or you want to add a page?</li>
+</ul>
+<p>Some businesses prefer a designer they can meet in person. Others are happy working remotely, which often means more flexible scheduling and clear written records of every decision. If you are weighing up options, our comparison of an <a href="/blog/seo-agency-vs-freelancer-uk/">agency versus a freelancer</a> covers the trade-offs honestly.</p>
+
+<h2>Working with Prism Works Studio</h2>
+<p>We are a UK studio that works remotely, so we do not hold meetings at an office in Wrexham. Instead, we run projects through video calls, shared documents and written progress updates. You always know what has been done, what is next and what we need from you.</p>
+<p>We write the copy for your site in English, set up the technical foundations and train your team to manage day-to-day updates. Photos and any video come from you or a local photographer, since we do not film or edit video. When you are ready to talk about a new site, our <a href="/services/website-ecommerce-development/">website and e-commerce development service</a> sets out how we work.</p>
+
+<h2>FAQs</h2>
+<h3>How much does web design in Wrexham cost?</h3>
+<p>A small business website from Prism Works Studio costs £1,000 to £2,000, and an e-commerce site costs £1,500 to £3,500. The exact price depends on the number of pages or products, integrations and how much copy we write for you.</p>
+<h3>How long does it take to build a website?</h3>
+<p>Most standard websites take three to five weeks from kick-off to launch. E-commerce sites take five to twelve weeks, and having your content and photos ready early is the best way to keep to schedule.</p>
+<h3>Do you have an office in Wrexham?</h3>
+<p>No, we are a UK-based studio that works remotely. We run projects through video calls, shared documents and written updates, which works well for businesses across North Wales and the border.</p>
+<h3>Can you build a bilingual Welsh and English website?</h3>
+<p>Yes, we can build the site structure for both languages. We write in English, so the Welsh content comes from your team or a professional translator, and we set up language switching and search settings correctly.</p>
+<h3>Should I choose WordPress or Shopify?</h3>
+<p>WordPress usually suits service businesses, trades and venues, while Shopify usually suits online shops. We recommend a platform after understanding what your site needs to do and how your team will manage it.</p>
+<h3>Will my new website help me rank on Google?</h3>
+<p>Yes, a well-built site gives you the right foundations, including page structure, titles, speed and local signals. Rankings then build over time, with SEO results typically showing within three to six months of steady work.</p>
+`,
+  },
+  {
+    slug: 'wordpress-agency-victoria-bc',
+    seoTitle: 'WordPress Agency Victoria BC: Fast, Secure Business Sites',
+    title: 'WordPress Agency in Victoria, BC: Building and Running Sites That Work',
+    description: 'A WordPress agency for Victoria, BC businesses: new builds, redesigns, speed, security, updates and SEO, delivered remotely by a UK studio with fixed prices.',
+    date: '2026-11-28',
+    category: 'Guides',
+    related: ['/services/website-ecommerce-development/', '/sectors/hospitality/', '/pricing/'],
+    body: `
+<p>A WordPress agency in Victoria, BC should build you a fast, secure website that you can edit yourself, then keep it updated and visible in search. For most local businesses, that means a clean theme, a short list of trusted plugins, solid hosting and pages written for the searches your customers actually make.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Victoria or anywhere in Canada. We work through video calls, shared documents and written reports, and we write in English. If you need French or other language pages, the copy comes from your team or a professional translator. Photos and video come from your team or a provider, as we do not film or edit video.</p>
+
+<h2>Why Victoria businesses choose WordPress</h2>
+<p>Victoria has a business mix built around tourism, hospitality, public sector work, education, technology, health and a large number of independent shops and trades. Many of these businesses need a site that staff can update easily, with blogs, events, menus, bookings or service pages. WordPress suits that well because it is flexible, widely supported and lets you own your site and content.</p>
+<p>It is not always the right answer. If you mainly sell products online, a dedicated ecommerce platform may suit you better. If you need a very simple one-page site, a lighter builder may be enough. Our comparisons of <a href="/blog/squarespace-vs-wordpress-uk/">Squarespace and WordPress</a> and <a href="/blog/wix-vs-wordpress-uk/">Wix and WordPress</a> explain the trade-offs.</p>
+
+<h2>What a WordPress agency in Victoria, BC does</h2>
+<table>
+<thead><tr><th>Service</th><th>What it covers</th><th>Typical timeline</th></tr></thead>
+<tbody>
+<tr><td>New website build</td><td>Planning, design, content structure, build and launch</td><td>3 to 5 weeks</td></tr>
+<tr><td>Redesign</td><td>New design and structure on WordPress, with redirects kept</td><td>3 to 5 weeks</td></tr>
+<tr><td>Migration</td><td>Moving from Wix, Squarespace or an old platform</td><td>Part of the build</td></tr>
+<tr><td>Speed and security</td><td>Plugin audit, image sizing, caching, backups and updates</td><td>Ongoing</td></tr>
+<tr><td>SEO</td><td>Page structure, local pages, technical fixes and content</td><td>Results in 3 to 6 months</td></tr>
+</tbody>
+</table>
+<p>We keep builds lean. Every extra plugin is something that can slow the site, conflict with an update or open a security gap. Our <a href="/blog/wordpress-plugin-audit/">WordPress plugin audit guide</a> explains how we decide what stays.</p>
+
+<h2>Speed, hosting and security</h2>
+<p>A slow site loses visitors and rankings. We size and compress images, limit scripts, use caching and choose a block theme or lightweight build rather than a heavy all-in-one theme. Good hosting matters too. Look for a host with reliable uptime, daily backups, current PHP versions and good support. Our guide to <a href="/blog/wordpress-hosting-uk/">WordPress hosting</a> covers what to look for, and the same principles apply in Canada.</p>
+<p>Security is mostly about routine. Keep WordPress, themes and plugins updated, use strong passwords and two-factor login, limit admin accounts and keep off-site backups. Our <a href="/blog/wordpress-security-uk/">WordPress security guide</a> sets out a sensible checklist.</p>
+<p>Privacy also matters. Your forms, cookies and analytics should match your privacy policy, and Canadian and British Columbia privacy laws may apply depending on what you collect. Check official guidance or your own adviser for your obligations.</p>
+
+<h2>Content and local SEO for Victoria</h2>
+<p>A good WordPress site is built around what your customers search for. A Victoria plumber needs pages for each service and the areas they cover, such as Saanich, Oak Bay, Esquimalt, Langford and the Westshore. A restaurant or hotel needs clear menus, opening hours, booking links and pages for events or seasonal offers. A professional firm needs service pages that answer common questions plainly.</p>
+<p>We set up clean page titles, headings, internal links and structured data, connect Google Search Console and help you keep your Google Business Profile in step with the site. Our notes on <a href="/blog/seo-agency-victoria-bc/">SEO in Victoria, BC</a> cover local search in more depth.</p>
+<p>For tourism and hospitality businesses, seasonality is a big factor. Summer visitors, cruise ship days and events bring peaks, while the quieter months call for local and repeat customers. Our <a href="/sectors/hospitality/">hospitality marketing page</a> explains how we plan for that.</p>
+
+<h2>Making the site easy for your team to run</h2>
+<p>One of WordPress's strengths is that your team can update it. We use the block editor and reusable patterns so staff can add pages and posts without breaking the layout. We set user roles so each person only has the access they need, and we provide a short written guide for common tasks. Our guide to the <a href="/blog/wordpress-block-editor-guide/">WordPress block editor</a> is a useful starting point for your team.</p>
+
+<h2>Pricing for WordPress work</h2>
+<p>A small business website costs £1,000 to £2,000, and an ecommerce site costs £1,500 to £3,500. Ongoing support, SEO and marketing run on monthly retainers: Launch at £350, Growth at £750 and Scale at £1,500. Canadian dollar pricing is quoted on request. Hosting, domains and any paid plugins are paid separately. See our <a href="/pricing/">pricing page</a> for details and our <a href="/services/website-ecommerce-development/">website and ecommerce development service</a> for how we run builds.</p>
+<p>If you are comparing options across the province, our guide to <a href="/blog/web-design-victoria-bc/">web design in Victoria, BC</a> covers the wider design process.</p>
+
+<h2>How to choose a WordPress agency in Victoria, BC</h2>
+<ol>
+<li>Ask who owns the site, hosting account and domain. You should.</li>
+<li>Check how many plugins they normally use and why.</li>
+<li>Ask how updates, backups and security are handled after launch.</li>
+<li>Make sure SEO basics such as redirects, titles and structured data are included.</li>
+<li>Ask for a clear quote with timelines and what happens after launch.</li>
+</ol>
+<p>Be careful with agencies that lock you into a proprietary page builder or hosting you cannot leave. A good WordPress build should be portable, so you can move host or agency without starting again.</p>
+
+<h2>What happens after launch</h2>
+<p>Launch is the start, not the end. In the first few weeks we check search console for errors, watch site speed, confirm forms and tracking work and fix anything that comes up. After that, a monthly routine of updates, backups, security checks and content keeps the site healthy. Many clients pair this with SEO or paid media so the site keeps bringing in enquiries.</p>
+<p>WordPress releases updates regularly, and most minor ones install automatically. Major updates and plugin updates deserve a check on a staging copy first, especially on sites with bookings or payments. We handle that as part of an ongoing plan.</p>
+
+<h2>Common WordPress problems we fix</h2>
+<p>Many Victoria businesses come to us with a site that already exists but no longer works well. The usual issues include a heavy theme that loads slowly on mobile, dozens of plugins that nobody remembers installing, contact forms that stop sending emails, broken links after a past redesign and outdated PHP versions on the server. Each can hurt leads and search visibility without anyone noticing.</p>
+<p>We start with an audit that checks speed, plugins, security settings, forms, search console errors and redirects. Then we set out a clear list of fixes in order of impact, with a fixed scope agreed before work starts. Sometimes a careful clean-up is enough. Sometimes a rebuild on a lighter setup is better value, and we will explain why. Our guides to fixing a <a href="/blog/wordpress-not-sending-emails/">WordPress site that is not sending emails</a> cover one of the most common problems.</p>
+<h2>Accessibility and usability</h2>
+<p>A good site works for everyone, including people using screen readers, keyboard navigation or larger text. We use clear headings, sufficient colour contrast, descriptive link text, alt text for images and forms with proper labels. These basics help visitors and often help search engines understand your pages too. If you work with public bodies or larger organisations, they may expect accessibility standards to be met, so check what your contracts require.</p>
+<p>We also test every page on phones and tablets before launch, since most local searches now happen on mobile. Buttons should be easy to tap, phone numbers should be clickable and forms should be short. Small details like these often decide whether a visitor calls you or moves on to the next result.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Victoria, BC?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with Victoria clients. We use video calls, shared documents and written reports, and we have no office in Canada.</p>
+<h3>How do I choose a WordPress agency in Victoria, BC?</h3>
+<p>Choose an agency that builds lean sites, lets you own everything and explains how updates and security work after launch. Ask for a clear quote with timelines.</p>
+<h3>How much does a WordPress website cost?</h3>
+<p>A small business website costs £1,000 to £2,000 with us. An ecommerce site costs £1,500 to £3,500, and Canadian dollar pricing is quoted on request.</p>
+<h3>How long does a WordPress build take?</h3>
+<p>Most small business sites take three to five weeks. Larger or ecommerce builds can take five to twelve weeks, depending on content and features.</p>
+<h3>Can you move our site from Wix or Squarespace?</h3>
+<p>Yes, we can migrate your content to WordPress and set redirects so you keep search visibility. Our migration process checks every important page before launch.</p>
+<h3>Will we be able to update the site ourselves?</h3>
+<p>Yes, we build with the block editor and reusable patterns so your team can edit pages safely. We also provide a short written guide for common tasks.</p>
+`,
+  },
+  {
+    slug: 'youtube-ads-agency-toronto',
+    seoTitle: 'YouTube Ads Agency Toronto: Plan, Target and Measure Video',
+    title: 'YouTube Ads Agency in Toronto: Getting Real Value From Video Ads',
+    description: 'A YouTube Ads agency for Toronto brands: audience targeting, campaign setup, conversion tracking and creative briefs, managed remotely by a UK studio.',
+    date: '2026-11-28',
+    category: 'Paid Media',
+    related: ['/services/paid-media/', '/sectors/ecommerce/', '/pricing/'],
+    body: `
+<p>A YouTube Ads agency in Toronto should help you reach the right viewers in the Greater Toronto Area and beyond, choose the right campaign types, and track whether video ads lead to sales, sign-ups or enquiries. The value comes from strategy, targeting, tracking and testing, built around footage your team already has or commissions.</p>
+<p>Prism Works Studio is a UK-based studio that works remotely. We have no office in Toronto or anywhere in Canada. We work through video calls, shared documents and written reports, and we write in English. We do not film or edit video. Your team, a creator or a production company supplies the footage, and we write the briefs, build the campaigns and manage them week to week.</p>
+
+<h2>Why Toronto brands use YouTube Ads</h2>
+<p>Toronto is Canada's largest city and one of its most diverse markets. People across the GTA, from downtown to Mississauga, Markham, Vaughan and Scarborough, watch YouTube on phones, laptops and connected TVs. That gives brands a way to reach large audiences with sight and sound, and to show products or services in more depth than a static ad allows.</p>
+<p>YouTube also sits inside Google Ads, so you can target people based on what they search for, which sites they visit and which topics they watch. A Toronto renovation firm can reach homeowners researching kitchen remodels. An online retailer can reach people who have shown interest in similar products. A software company can reach viewers watching industry content.</p>
+<p>The city's diversity matters for creative. Many Toronto households speak languages other than English at home. Prism writes in English, so if you want ads in other languages, the scripts should come from your team or a professional translator.</p>
+
+<h2>What a YouTube Ads agency in Toronto handles</h2>
+<table>
+<thead><tr><th>Task</th><th>What we do</th><th>What you provide</th></tr></thead>
+<tbody>
+<tr><td>Goal setting</td><td>Agree whether the aim is awareness, consideration or conversions</td><td>Business priorities and margins</td></tr>
+<tr><td>Tracking</td><td>Set up Google Ads conversions and link analytics</td><td>Website access and CRM details</td></tr>
+<tr><td>Audiences</td><td>Build custom segments, remarketing lists and exclusions</td><td>Customer lists, where consent allows</td></tr>
+<tr><td>Creative briefs</td><td>Write hooks, scripts and cut-down plans for each format</td><td>Filmed and edited video</td></tr>
+<tr><td>Campaign build</td><td>Choose formats, bidding and budgets</td><td>Budget approval</td></tr>
+<tr><td>Testing and reporting</td><td>Run tests and send weekly notes and monthly reviews</td><td>Feedback on leads and sales</td></tr>
+</tbody>
+</table>
+
+<h2>Campaign types and when to use them</h2>
+<p>YouTube offers several ad formats, and each suits a different goal.</p>
+<ul>
+<li><strong>Skippable in-stream ads</strong> play before or during videos and can be skipped after a few seconds. They suit most goals and you usually pay only when people watch or interact.</li>
+<li><strong>Non-skippable and bumper ads</strong> are short and suit simple awareness messages.</li>
+<li><strong>In-feed ads</strong> appear in search results and the home feed, inviting people to click and watch.</li>
+<li><strong>Shorts ads</strong> run between YouTube Shorts and use vertical video.</li>
+<li><strong>Demand Gen campaigns</strong> combine YouTube with other Google surfaces and are often used to drive conversions.</li>
+</ul>
+<p>We usually start with one goal and one or two formats, then expand once tracking shows what works. Our comparison of <a href="/blog/youtube-ads-vs-tiktok-ads-uk/">YouTube Ads and TikTok Ads</a> explains when vertical short-form video might suit you better, and you can see how Toronto brands use the other platform in our guide to <a href="/blog/tiktok-ads-agency-toronto/">TikTok Ads in Toronto</a>.</p>
+
+<h2>Creative briefs that make footage work harder</h2>
+<p>On YouTube, the first five seconds decide whether people skip. Our briefs focus on a strong opening, a clear brand mention early, one main message and a direct call to action. We also plan cut-downs, so one shoot produces a longer version, a short version and a vertical version for Shorts.</p>
+<p>Because we do not film or edit, the brief is how we shape the creative. We tell your editor or creator what to open with, which on-screen text to use and which variations to make for testing. Simple footage filmed well often outperforms an expensive advert that takes too long to get to the point.</p>
+
+<h2>Tracking and measurement</h2>
+<p>YouTube ads often influence people who buy later through another channel, which makes measurement harder. We set up conversion tracking in Google Ads, link Google Analytics, and look at view-through and assisted conversions alongside direct clicks. Where possible, we test with holdout groups or compare periods to see the wider effect.</p>
+<p>Your landing pages matter as much as the ad. If the page is slow or unclear, people leave. Our notes on <a href="/blog/web-design-toronto/">web design in Toronto</a> explain what a landing page needs to convert paid traffic.</p>
+<p>Privacy rules apply when you use customer lists or remarketing. Keep your privacy policy accurate and check your obligations with official guidance or your own adviser.</p>
+
+<h2>YouTube in a wider Toronto marketing mix</h2>
+<p>YouTube rarely works alone. Video builds awareness and trust, then search and social capture people when they are ready. Many Toronto brands pair YouTube with <a href="/blog/google-ads-agency-toronto/">Google Ads in Toronto</a> for search demand and <a href="/blog/meta-ads-agency-toronto/">Meta Ads in Toronto</a> for social retargeting. Organic visibility from <a href="/blog/seo-agency-toronto/">SEO in Toronto</a> helps lower your reliance on paid media over time.</p>
+<p>Sectors that often suit YouTube include ecommerce, education, home improvement, automotive, travel, software and professional services with a story to tell. Our <a href="/sectors/ecommerce/">ecommerce marketing page</a> covers how we approach online retailers.</p>
+
+<h2>Budgets and pricing</h2>
+<p>Ad spend is paid directly to Google and is separate from our fee. We suggest a test budget that gives each campaign enough data to learn, then shift money towards the best performers. Toronto is a competitive market, so it is better to run one well-funded test than several thin ones.</p>
+<p>Our retainers are Launch at £350 a month, Growth at £750 a month and Scale at £1,500 a month. Canadian dollar pricing is quoted on request. Our <a href="/pricing/">pricing page</a> shows what each plan includes, and our <a href="/services/paid-media/">paid media service</a> explains how YouTube fits alongside Google Search, Meta, TikTok and LinkedIn.</p>
+<p>For a national view, read our guide to choosing a <a href="/blog/youtube-ads-agency-canada/">YouTube Ads agency in Canada</a>.</p>
+
+<h2>Questions to ask a YouTube Ads agency in Toronto</h2>
+<ol>
+<li>Will the campaigns run in an account we own?</li>
+<li>How will you track conversions and view-through effects?</li>
+<li>Who produces the video, and how many versions do we need?</li>
+<li>What will you test in the first three months?</li>
+<li>How will results be reported, and how often?</li>
+</ol>
+<p>Be cautious of anyone who promises guaranteed views or sales. Views are easy to buy. Business results take a clear goal, good tracking and steady testing, and usually show over three to six months.</p>
+
+<h2>Common YouTube Ads mistakes to avoid</h2>
+<p>Many accounts we review make the same errors. Ads run on broad placements without exclusions, so budget goes to channels and content that do not fit the brand. Campaigns optimise for cheap views rather than actions that matter. The same video runs for months with no new versions to test. And conversion tracking is missing or counts the wrong things, which means the system learns from poor signals.</p>
+<p>We fix these early. We review placements and add exclusions for content that does not suit your brand, set campaigns to optimise for real conversions once enough data exists, plan regular creative refreshes and check that every conversion action is correct. These basics often matter more than any advanced tactic.</p>
+<h2>Using remarketing well</h2>
+<p>YouTube remarketing lets you reach people who have already watched your videos, visited your site or engaged with your channel. For many Toronto brands this is where video earns its keep, because these viewers already know who you are. A short reminder video with a clear offer can turn earlier interest into action. We set frequency limits so the same person does not see your ad too often, and we exclude recent buyers so you do not pay to reach existing customers with the wrong message.</p>
+<p>We also review search terms and audience reports each month, so budget keeps moving towards the people most likely to act. Small, regular changes usually beat big, rare overhauls.</p>
+
+<h2>FAQs</h2>
+<h3>Do you have an office in Toronto?</h3>
+<p>No, Prism Works Studio is UK-based and works remotely with Toronto clients. We work through video calls, shared documents and written reports, and we have no office in Canada.</p>
+<h3>Do you make the YouTube videos?</h3>
+<p>No, we do not film or edit video. Your team, a creator or a production company supplies the footage, and we write the briefs, build the campaigns and manage results.</p>
+<h3>How do I choose a YouTube Ads agency in Toronto?</h3>
+<p>Choose one that sets clear goals, tracks conversions properly and lets you own the account. Ask how they will brief creative and what they plan to test first.</p>
+<h3>How much should we spend on YouTube Ads?</h3>
+<p>Spend enough for each campaign to collect useful data, then scale what works. Ad spend is paid to Google separately from our fee, and we will suggest a starting figure.</p>
+<h3>Can YouTube Ads drive sales, not just views?</h3>
+<p>Yes, with conversion-focused campaigns and proper tracking. Formats such as Demand Gen and skippable in-stream ads can be optimised for sales or leads.</p>
+<h3>Can we run YouTube ads in languages other than English?</h3>
+<p>Yes, if your team or a translator provides the scripts and copy. Prism writes in English and manages the campaign setup, targeting and reporting.</p>
+`,
+  },
 ];
